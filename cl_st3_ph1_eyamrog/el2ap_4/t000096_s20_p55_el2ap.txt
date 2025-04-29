@@ -1,0 +1,2 @@
+- Design open educational resources that can be used both
+independently, as well as integrated within a LMS as e-activities.

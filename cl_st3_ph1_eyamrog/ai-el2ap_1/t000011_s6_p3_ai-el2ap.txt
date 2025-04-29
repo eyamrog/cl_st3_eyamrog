@@ -1,0 +1,25 @@
+The dehydration effect in plant organs composed primarily of parenchymal
+tissues has been recently documented (Caliaro et al. 2013, Kampowski
+et al. 2018). These studies demonstrated that water loss in
+petioles and hypocotyls leads to a reduction in bending stiffness.
+In contrast, for stems and woody roots of self-supporting plants,
+which are mainly composed of fibers and conducting cells (vessels
+and/or tracheids), dehydration results in increased bending stiffness, thereby making
+branches more brittle (Niklas 1992, Wang & Wang 1999, Niklas
+& Spatz 2010, Boldrin et al. 2018). For instance, in
+Picea sitchensis, a 23% decrease in bending stiffness is observed
+when the moisture content increases from 12% to 24% in
+woody stems (Niklas 1992). Overall, the present results are consistent
+with previous findings in trees and extend this analysis to
+liana stems. Furthermore, the effect size of stem dehydration on
+bending stiffness in A. crucigerum is six times smaller than
+that reported for Picea sitchensis stems. This reduced change in
+bending stiffness with dehydration in liana stems may be attributed
+to their distinctive anatomical structure. Lianas typically possess wide vessels,
+fewer fibers, and a higher proportion of parenchyma cells and
+soft tissue, which enhances water storage capacity (Tyree & Yang
+1990, Campanello et al. 2016) and results in more compliant
+stems (Rowe 2018, Gerolamo et al. 2020). Specifically, A. crucigerum
+exhibits phloem wedges, large vessels, and wide rays, as shown
+in Figure 1, which contribute to increased stem flexibility and
+mitigate the impact of dehydration.

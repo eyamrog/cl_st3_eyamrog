@@ -1,0 +1,10 @@
+Methods: Bibliographic data were obtained from LILACS for systematically indexed
+journals with at least 50 signed articles (that is, with
+at least one individual author) from 2015 to 2019. Authors
+were identified by their name or, when possible, ORCID id.
+The PPMP was the number articles by the journal’s most
+prolific author, divided by the number of signed articles. The
+Gini coefficient counted more than once articles with multiple authors
+author. For comparison purposes, MEDLINE data were reweighted to have
+the same distribution of journal size (number of signed articles)
+as LILACS journals.

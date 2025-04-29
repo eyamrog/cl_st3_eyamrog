@@ -1,0 +1,17 @@
+The most recent assessment of the Peruvian genetic data in
+public databases was done by Norena et al. (2018). The
+authors estimated 645 753 sequences in the NCBI Nucleotide database
+associated with the term “Peru”, from which 6 522 (1.01%)
+were published by national institutions. We updated the amount of
+sequencing data of the Peruvian biodiversity submitted by national institutions
+to four main public genetic databases: NCBI BioProject, a database
+that comprises multiple collections of biological data related to a
+single genomic sequencing initiative. NCBI Nucleotide that comprises GenBank and
+related databases. The exclusively bacterial database Pathosystems Resource Integration Center
+(PATRIC) which provides sequencing, protein-protein interactions and transcriptomic data (Wattam
+et al. 2017), and the Barcode of Life Data System
+(Ratnasingham & Hebert, 2007), a DNA barcode database, focused in
+single markers, namely, the cytochrome oxidase I (COI) gene for
+animals, internal transcribed spacers (ITS) for fungi, and the ribulose-bisphosphate
+carboxylase (rbcL) and maturase K (matK) for plants. The same
+databases were used by Norena et al. (2018).

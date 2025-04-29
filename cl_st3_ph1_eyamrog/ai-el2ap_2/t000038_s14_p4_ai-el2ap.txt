@@ -1,0 +1,8 @@
+We use the H index to evaluate the extent to
+which a set of items represents a common factor, specifically
+assessing factor stability (Ferrando & Lorenzo-Seva, 2018). The H index
+ranges from 0 to 1 and indicates the strength of
+the latent variable across different studies. High H values (greater
+than 0.80) indicate a well-defined latent variable, whereas low H
+values suggest that the latent variable is poorly defined (Ferrando
+& Lorenzo-Seva, 2018).

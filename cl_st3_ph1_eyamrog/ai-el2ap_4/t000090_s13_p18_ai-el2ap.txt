@@ -1,0 +1,7 @@
+These results demonstrate that the average values of the Dimensions
+differ substantially across Academic Institutions, as their performance is not
+consistent across all Dimensions, including among institutions within European countries.
+This finding suggests that constructing an overall classification may not
+be appropriate, as it would obscure the variability in performance
+across different Dimensions, and there is no general justification for
+prioritizing one Dimension over the others.

@@ -1,0 +1,16 @@
+In the analysis of depressive symptoms (second model), individuals aged
+24 years or younger exhibited a higher likelihood of presenting
+depressive symptoms compared to all older age groups: specifically, they
+were 1.6 times more likely than those aged 25–30 years
+(OR = 0.6; 1/OR = 1.6), twice as likely as
+those aged 31–39 years (OR = 0.5; 1/OR = 2),
+and 2.5 times more likely than those over 39 years
+(OR = 0.4; 1/OR = 2.5). Participants who perceived themselves
+as ill were 2.5 times more likely to report depressive
+symptoms compared to those who perceived themselves as healthy (OR
+= 2.4). Additionally, individuals living alone had a 1.5-fold increased
+likelihood of depressive symptoms compared to those not living alone
+(OR = 1.4). With respect to meta-worries, participants scoring above
+the mean on the relevant scale were approximately 6.5 times
+more likely to exhibit symptoms indicative of depression than those
+scoring at or below the mean (OR = 6.6).

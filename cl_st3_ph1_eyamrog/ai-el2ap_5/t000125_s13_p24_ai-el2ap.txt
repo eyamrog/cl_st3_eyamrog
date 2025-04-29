@@ -1,0 +1,8 @@
+The initial challenge encountered is the development of a general
+classification of academic institutions using the "U-Multirank" system, which was
+not originally designed for this purpose. Although general classification is
+not its primary objective, U-Multirank is capable of generating such
+rankings upon request. For instance, when a general classification of
+Brazilian universities was requested in the 2020 edition, utilizing only
+those indicators for which more than 90% of the data
+were reported, the resulting list is presented in Table 1.

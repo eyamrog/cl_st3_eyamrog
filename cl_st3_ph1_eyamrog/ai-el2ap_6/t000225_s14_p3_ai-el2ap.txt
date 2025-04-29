@@ -1,0 +1,4 @@
+To minimize fluctuations and facilitate visual interpretation, each data point
+represents the average value calculated over a five-day window, comprising
+the two days preceding, the day indicated, and the two
+days following the specified date.

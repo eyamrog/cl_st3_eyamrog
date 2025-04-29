@@ -1,0 +1,10 @@
+Theoretical models concerned with multiple centers have been brought to
+the debate on sprawling urban employment. However, empirical methods that
+identify these centers are not a specific focus of the
+specialized literature. The purpose of this paper is to apply
+a new empirical methodology in the identification and characterization of
+urban employment subcenters (Small Business Districts, SBD) using the case
+of the Municipality of São Paulo. To this end, we
+adopted a two-step approach, developing: 1) Exploratory Spatial Data Analysis
+and 2) Spatial Hedonic Price Model. As a result, we
+found seven regions that can be considered SBDs.

@@ -1,0 +1,13 @@
+In the models, St(λ,τ) represents the logistic smooth transition function,
+as defined in Equation 11. In this function, τ specifies
+the midpoint of the transition, while γ determines the speed
+of the transition. For γ > 0, the function satisfies
+S_{−∞}(γ, τ) = 0, S_{+∞}(γ, τ) = 1, and S_τ(γ,
+τ) = 0.5. A smaller value of γ results in
+a slower transition, causing S_τ(γ, τ) to remain within the
+interval (0,1) for a longer period. When γ = 0,
+S_τ(γ, τ) equals 0.5 for all time points t. Conversely,
+a larger γ leads to a more rapid transition, with
+S_τ(γ, τ) approaching the (0,1) interval almost instantaneously. As γ
+approaches positive infinity, the function shifts from 0 to 1
+abruptly at t = τ.

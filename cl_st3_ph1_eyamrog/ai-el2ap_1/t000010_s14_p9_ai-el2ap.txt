@@ -1,0 +1,7 @@
+The Chi-square test was employed to assess the equivalence of
+certain demographic variables, such as sex, between study groups. An
+independent samples t-test was conducted to compare the means of
+the groups on various neuropsychological variables and measures of intelligence.
+Effect size was calculated to quantify the magnitude of observed
+differences, using Cohen's d, with values of 0.2, 0.5, and
+0.8 interpreted as small, medium, and large effect sizes, respectively.

@@ -1,0 +1,11 @@
+General characteristics of the study population are presented using frequencies
+and percentages for categorical variables, and means with standard deviations
+(SD) for continuous variables. The population was divided into two
+cohorts: vaccinated and unvaccinated. The vaccinated cohort included individuals who
+had received at least one dose of a COVID-19 vaccine
+at the time of the event, while the unvaccinated cohort
+comprised individuals who had not received any vaccine doses. Additionally,
+the number of adolescents who were fully vaccinated, defined as
+having received all recommended doses more than 14 days prior
+to the event, and those who were partially vaccinated, is
+reported.

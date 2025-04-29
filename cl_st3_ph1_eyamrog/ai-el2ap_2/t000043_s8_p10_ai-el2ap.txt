@@ -1,0 +1,7 @@
+The Self-Controlled Case Series (SCCS) and Self-Controlled Risk Interval (SCRI)
+study designs are essential in epidemiological research, particularly in situations
+where alternative study designs are less appropriate, such as the
+assessment of adverse events following vaccination in pharmacovigilance. Consequently, it
+is necessary to evaluate and report the quality of these
+studies with careful consideration of the fundamental assumptions underlying each
+design.

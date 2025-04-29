@@ -1,0 +1,5 @@
+File storage systems such as Dropbox, Google Drive, OneDrive, and
+Box facilitate file sharing and access control among collaborators during
+the course of ongoing work. However, these platforms lack integrated
+rights management features and their contents are not indexed for
+discoverability in web searches.

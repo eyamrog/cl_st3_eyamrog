@@ -1,0 +1,2 @@
+Reliability by Internal Consistency. It was determined through Cronbach's alpha
+and through item analysis (alpha if the item is removed).

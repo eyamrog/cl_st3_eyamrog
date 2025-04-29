@@ -1,0 +1,9 @@
+The search strategy involved a systematic review of the MEDLINE/PubMed,
+Scientific Electronic Library (SciELO), Latin American and Caribbean Health Sciences
+(LILACS), Web of Science, and Scopus databases, focusing on scientific
+studies published within the past 20 years. The Medical Subject
+Headings (MeSH) terms utilized were "pacifier," "disinfection," "biofilm," and "microbiology."
+The search was conducted by combining the term "pacifier" with
+each of the other descriptors using the Boolean operator "AND,"
+resulting in the following search equations: (pacifier AND disinfection), (pacifier
+AND biofilm), and (pacifier AND microbiology).

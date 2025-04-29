@@ -1,0 +1,3 @@
+On CBCT, the MC can be seen and traced manually.
+The operator must be careful in mapping the reconstruction and
+following the MC path (Figure 2).

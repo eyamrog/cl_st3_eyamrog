@@ -1,0 +1,16 @@
+In ecological communities, ecological interactions connect individuals of different species.
+Ecological interactions have far-reaching consequences for population ecology (Macarthur 1955,
+Jordano 2016) and evolution (Drossel et al. 2001, Guimarães et
+al. 2011), affecting the persistence of biodiversity at community level
+(Paine 1966, Fontaine et al 2006, Hale et al. 2020).
+At community level, ecological interactions often form networks because pairs
+of interacting species are linked to each other (Pascual &
+Dunne 2006; Jordano et al. 2006). Several types of interactions,
+such as mutualisms among plants and seed dispersers and pollinators
+(Bascompte et al. 2003), predator and prey interactions among mammals
+(Pires & Guimarães 2013), facilitative interactions among plant species (Verdú
+2010), and cleaning interactions among fish (Guimarães et al. 2007)
+form species-rich networks showing a myriad of nonrandom network patterns.
+These nonrandom network patterns include nestedness (e.g. Guimarães et al.
+2007; Bascompte et al. 2003) and modularity (e.g. Olesen et
+al. 2007).

@@ -1,0 +1,8 @@
+The values of mask and distancing in Interpersonal Contact submodel
+were set in agreement with the literature presented in Section
+4.1. As the isolation and distancing phases changed, the increase
+in people's mobility was verified, which was reflected in the
+information provided by Google Mobility12. The change in people’s mobility
+towards activities of normal pre-pandemic life is reflected in the
+changes in parameters of matrices A and B of various
+HMM presented in Appendix A.

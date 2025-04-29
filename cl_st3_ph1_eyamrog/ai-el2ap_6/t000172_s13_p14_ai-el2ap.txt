@@ -1,0 +1,9 @@
+A recent study by V’kovski et al. (2019) investigated cellular
+pathways associated with the coronavirus replication-transcription complex (RTC) using mouse
+hepatitis virus (MHV) as a model system. The study demonstrated
+that the RTC interacts with translation initiation factors, although these
+interactions may be transient and limited to specific phases of
+the viral replication cycle. Furthermore, knockdown of certain translation initiation
+factors, including eIF3E, eIF3F, and eIF3I, resulted in a reduction
+of MHV replication. The study also identified associations between the
+RTC and proteins involved in transport and intracellular organization.

@@ -1,0 +1,18 @@
+The percentages of oxygen (O2) and carbon dioxide (CO2) in
+the flasks were measured using a gas analyser (model ILL6600,
+Illinois Instruments, Inc., Johnsburg, IL, USA) following the method described
+by Lamarca and Barbedo (2012). These measurements enable an indirect
+evaluation of respiratory activity by calculating the rates of O2
+consumption and CO2 release. The percentage values of O2 and
+CO2 were converted to partial pressures using the equation p1/P
+= v1/V, where p1 is the partial pressure of the
+gas (atm), P is the local atmospheric pressure (0.9 atm),
+v1 is the gas volume percentage, and V is the
+total volume (100%) (Atkins & De Paula 2001). Subsequently, the
+partial pressure values were converted to micromoles of O2 and
+CO2 using the ideal gas law, p1V = nRT, where
+V is the total volume of air in the flasks
+(L), n is the number of moles of gas, R
+is the universal gas constant (0.082 atm L mol⁻¹ K⁻¹),
+and T is the temperature in Kelvin (Atkins & De
+Paula 2001).

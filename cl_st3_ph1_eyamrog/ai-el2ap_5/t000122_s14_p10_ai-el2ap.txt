@@ -1,0 +1,10 @@
+Statistical analyses: The number of contaminants (individuals mL⁻¹) in thalli
+culture medium treated with 5% liquid detergent and 1% povidone
+iodine at various immersion times was compared to the control
+using a one-way analysis of variance (ANOVA). For treatments with
+5% liquid detergent and 0.2% sodium hypochlorite at different immersion
+times, the mean numbers of ciliates, microcrustaceans, and nematodes between
+the control and the 1-minute treatment were compared using the
+Mann-Whitney test. The numbers of annelids among the control and
+the 1-, 2-, and 5-minute immersion treatments were analyzed using
+ANOVA followed by Tukey’s post hoc test.

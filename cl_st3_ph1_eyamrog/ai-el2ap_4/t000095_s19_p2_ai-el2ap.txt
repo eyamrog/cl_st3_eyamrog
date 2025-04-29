@@ -1,0 +1,7 @@
+The classification of service type (public or private) includes a
+category for unidentified services, which accounts for a higher proportion
+in both the capital and interior regions of Rio de
+Janeiro compared to São Paulo, with approximately 22% in Rio
+and 14% in São Paulo for both public and private
+services. Additionally, the proportion of missing data for all variables
+is higher in Rio de Janeiro than in São Paulo.

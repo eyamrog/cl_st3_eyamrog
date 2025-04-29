@@ -1,0 +1,4 @@
+The sample was selected to represent the countries with the
+highest publication output in Public and Collective Health within the
+SciELO Citation Index. Percentages were calculated only for countries that
+produced a minimum of 50 articles in a given language.

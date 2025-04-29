@@ -1,0 +1,11 @@
+Intracellular ice crystal formation represents the most detrimental event during
+cryopreservation, as the resulting damage is irreversible. This phenomenon can
+occur during either the freezing or thawing phases and may
+result in cell wall rupture, epidermal rupture, protoplast leakage, abnormal
+nuclei in surviving explants, or explant death (Kaviani 2011). Anatomical
+investigations, such as those conducted by Wesley-Smith et al. (2014,
+2015), highlight the significance of understanding the relationship between water
+content and ice structure in order to optimize cryogenic protocols
+and enhance cell survival, given that both ice crystal size
+and the extent of cellular damage can have delayed effects
+on cell viability.

@@ -1,0 +1,9 @@
+The moisture content (%) of the seeds was obtained from
+a pool of 1000 seeds of different fruit collection times.
+The oven method was used at 105 ± 3 ºC
+for 24 ± 1 hours, according to Brazil (2009), using
+four replications of 200 seeds. The moisture content, expressed on
+a wet basis, was obtained through the expression: <>. Where:
+Iw: Initial weight of the sample (g); Fw: Final sample
+weight (g) and X%: water content in percentage of wet
+basis (w.b), %.

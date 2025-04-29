@@ -1,0 +1,13 @@
+The question of whether gestures facilitate student learning beyond merely
+directing visual attention has been investigated by Wakefield et al.
+(2019), who employed eye-tracking technology to examine the commonly proposed
+mechanism of gesture-guided attention. Drawing on prior research by Singer
+and Goldin-Meadow (2005), which demonstrated that new concepts can be
+taught through gestures accompanying speech, Wakefield et al. assessed how
+gestures influence students' allocation of visual attention during instruction. Their
+findings indicate that children who participated in math lessons incorporating
+gestures distributed their visual attention differently compared to those in
+lessons without gestures: they spent more time analyzing the problem
+being explained, less time looking at the instructor, and were
+more likely to synchronize their visual attention with the information
+conveyed in the instructor’s speech.

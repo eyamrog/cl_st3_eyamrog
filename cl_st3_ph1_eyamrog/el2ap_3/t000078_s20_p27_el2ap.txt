@@ -1,0 +1,9 @@
+The Pinheiros region is the only one losing statistical significance
+when the weight matrices are changed, but the signal stays
+as expected. In this model, the Morumbi district (A9), an
+adjacent neighbor of Pinheiros, presents a statistically significant effect with
+the expected signal. It is impossible to test if the
+subcenter is on the census tract border of both regions,
+and we do not consider that this slight difference in
+just one model is that important. Then, we continue advocating
+to characterize Pinheiros as a business subcentrality.

@@ -1,0 +1,7 @@
+Even Datacenter rooms are already accepting adiabatic systems much of
+the time, achieving energy savings by the use of indexes
+like EUED (Energy Usage Effectiveness Design) and TWI (Total Water
+Impact), where the slightly higher humidity (45%-65%) can facilitate the
+use of an adiabatic system, in addition to allowing higher
+temperatures for the entry of chilled water into air conditioners,
+generating better compression ratios and energy savings [40-41].

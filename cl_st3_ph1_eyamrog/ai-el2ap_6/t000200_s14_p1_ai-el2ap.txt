@@ -1,0 +1,3 @@
+A time-series ecological study was conducted using data from health
+authority notifications of leptospirosis cases in Santa Catarina between 2005
+and 2015.

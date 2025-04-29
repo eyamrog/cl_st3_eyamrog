@@ -1,0 +1,13 @@
+Based on these considerations, a manual and systematic revision of
+the journals was conducted. Initially, journals indexed exclusively in either
+SciELO or Redalyc were identified, and their metadata—including articles, reviews,
+and editorials—were aggregated, encompassing both currently active journals and documents
+from earlier periods that filled gaps in coverage. For journals
+indexed in both platforms, discrepancies in coverage periods were observed,
+with each platform sometimes indexing different time spans for the
+same journal. To address this, the consistency and completeness of
+the data were assessed, and for each case, the version
+with the most extensive temporal coverage and the highest number
+of documents was retained. It is important to note that
+this phase of the project focused exclusively on journals published
+in Latin America and the Caribbean.

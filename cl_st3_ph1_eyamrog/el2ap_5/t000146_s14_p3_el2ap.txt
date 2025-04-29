@@ -1,0 +1,10 @@
+The choice of these areas was based on two factors:
+its local character and the fact that the coverage area
+for SciELO CI is more extensive in the Health, since
+in the case of SciELO Spain, it is restricted to
+Public and Collective Health. The reliance on SciELO CI is
+important because it is a relatively new citation index, as
+well as being one of the few regional indexes, that
+are still not widely used in bibliometric studies. Furthermore, the
+study of the citation flow between languages is of great
+value if undertaken in a regional citation index.

@@ -1,0 +1,24 @@
+This article presents the results of the Latin American Observatory
+of Evaluation Indicators (OLIVA, its Spanish acronym) which works to
+raise the visibility of the scientific production indexed in Latin
+America and the Caribbean, and to enhance its value for
+research assessment. This study deals with the production published in
+open access by journals indexed in SciELO and Redalyc, based
+on a deduplicated database of a total of 908,982 documents
+and 2,591,704 authors. It highlights the magnitude of this production
+and describes its disciplinary diversity, as well as trends in
+national, regional, and international research collaboration. It also examines the
+publishers of the 1,720 journals that make up the database
+of journals from 15 countries and highlights the predominance of
+universities and public institutions in this regional circuit. The journals
+that operate with the APC model are analyzed, confirming a
+clearly lower influence of this model compared to what is
+observed in other continents, although Brazil is identified as the
+country with the greatest incidence of this practice in the
+region. Finally, collaboration between states in Brazil, analyzed with SciELO
+data, proves to be highly significant, strongly challenging the traditional
+interpretation of co-authorship among researchers from the same country as
+academic inbreeding. The study concludes that these journals show multi-scalar
+circulation, a linguistic diversity, and a disciplinary breadth that can
+very effectively serve the current needs of scholarly communication in
+times of open science.

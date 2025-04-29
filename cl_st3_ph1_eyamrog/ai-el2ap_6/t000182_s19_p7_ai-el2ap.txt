@@ -1,0 +1,10 @@
+Neither the fixed action pattern (FAP) nor proboscis extension was
+observed in the Y-olfactometer assays; only chemotactic responses were detected
+in certain instances. When one arm of the Y-olfactometer contained
+headspace volatiles from live cockroaches and the other contained clean
+air, B. corredori (P=0.005), B. ferroae (P=0.04), and B. herreri
+(P=0.014) exhibited significant avoidance of the odorous air current (Fig.
+3). A chi-square test of independence indicated no significant association
+between species and behavioral responses (P=0.347). Overall, individuals of the
+genus Belminus (n=52) avoided cockroach-emitted volatiles in 79% of trials
+(P=0.000013).

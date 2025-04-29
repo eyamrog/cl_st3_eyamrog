@@ -1,0 +1,15 @@
+RBMFC stakeholders were even less supportive of open identities than
+participants in Ross-Hellauer et al. (2017), and this was the
+least supported trait in that survey, even though it is
+considered one of the core traits of open peer review
+(Ross-Hellauer, 2017). In fact, most RBMFC stakeholders believed opening identities
+would make peer review worse or much worse; see Supplemental
+Table 2 in (Fontenelle, 2020b). Interestingly, when confronted with statements
+about the consequences of open identities, participants in both surveys
+were much less dismissive. RBMFC stakeholders (including reviewers!) agreed less
+than participants in Ross-Hellauer et al. (2017) that opening reviewers’
+identities would inhibit them from accepting an invitation, and only
+a third of RBMFC stakeholders agreed opening authors’ identities would
+inhibit them from submitting. The last statement was not part
+of the other survey’s questionnaire, possibly because authors’ identities are
+already open in single-blind peer review.

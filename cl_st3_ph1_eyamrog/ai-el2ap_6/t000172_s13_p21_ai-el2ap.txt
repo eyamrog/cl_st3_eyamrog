@@ -1,0 +1,17 @@
+Coronavirus ORF7a has been identified as a type I interferon
+(IFN) antagonist, but only in the presence of the ORF3
+protein, thereby contributing to viral protection against the antiviral state
+induced by this cytokine (Dedeurwaerder et al. 2014). The ORF7a
+protein also interacts with bone marrow stromal antigen 2 (BST-2,
+also known as tetherin), an antiviral factor that restricts SARS-CoV
+infection, by inhibiting its glycosylation; loss of ORF7a results in
+significantly increased restriction of viral replication (Taylor et al. 2015).
+Additionally, ORF7a expression has been linked to cell cycle arrest
+at the G0/G1 phase in HEK 293 cells through the
+cyclin D3/pRb pathway (Yuan et al. 2006). Further research has
+shown that translation of SARS-CoV ORF7b may occur via leaky
+ribosomal scanning, and that the resulting protein localizes to the
+Golgi compartment and is incorporated into viral particles (Schaecher et
+al. 2007). Moreover, evidence suggests that SARS-CoV ORF8 may have
+originated through recombination with SARS-related coronaviruses from bats, which could
+influence animal-to-human transmission dynamics (Lau et al. 2015).

@@ -1,0 +1,4 @@
+This study aimed to examine the relationship between the governance
+structure of nonprofit organizations (NPOs) and the level of donations
+received. In this analysis, donations with donor-imposed restrictions were treated
+as the endogenous variable.

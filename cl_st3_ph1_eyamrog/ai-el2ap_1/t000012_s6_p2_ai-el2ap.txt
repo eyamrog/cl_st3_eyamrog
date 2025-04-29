@@ -1,0 +1,24 @@
+Opportunism is a common behavior among bird species. For instance,
+caracaras (Falconidae) utilize a wide range of resources, including fruits,
+carcasses, and arthropods. These birds have been observed interacting with
+a diverse array of mammals, suggesting that they may occupy
+a central position within community interaction networks. Caracaras exhibit generalist
+tendencies not only in their diet but also in their
+interactions with various host species. However, caracaras represent an exception
+to the typical pattern of opportunistic behavior in cleaning interactions,
+as there is no significant correlation between their network centrality
+and dietary diversity. This lack of correlation indicates that generalism
+and specialism are multidimensional concepts, influenced by different organizational levels
+that shape biodiversity patterns (Levin, 1992). Some cleaner birds are
+generalists in terms of the variety of host species they
+interact with, yet are dietary specialists. For example, Oxpeckers (Buphagus
+sp.) are specialized in cleaning interactions, feeding exclusively on parasites
+found on large mammals. While they are central within the
+interaction network due to their associations with multiple mammal species,
+their diet is specialized, focusing on small arthropods inhabiting these
+hosts. Despite the morphological and physiological diversity of these parasites,
+Oxpeckers are considered dietary specialists compared to birds that consume
+a broader range of food types. Therefore, opportunistic behavior, while
+facilitating engagement in facultative interactions, can also result in specialized
+ecological strategies, potentially leading to close associations between cleaner birds
+and their frequent hosts.

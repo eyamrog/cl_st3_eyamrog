@@ -1,0 +1,8 @@
+The construction of this integrated database faced significant limitations. The
+principal one was, as has already been pointed out, the
+lack of a common identification system amongst the indexing platforms
+for authors, journals and institutional affiliations. There was no information
+on gender, as is usually the case with scientific documents
+and bibliographic records. An important difficulty was compiling the diverse
+portions of the indexed published documents in the journals pertaining
+to both indexing services.

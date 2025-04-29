@@ -1,0 +1,6 @@
+It is expected that the results presented so far for
+the different attributes of workers are strongly influenced by the
+sectoral and occupational composition of the workforce. Our last analysis
+focuses on assessing whether there are any independent effects of
+these attributes on the chances of remote work, after controlling
+for the types of work, position, or function.

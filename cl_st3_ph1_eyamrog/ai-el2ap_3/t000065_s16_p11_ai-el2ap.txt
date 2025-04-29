@@ -1,0 +1,9 @@
+The majority of samples in the corpus originate from students
+enrolled in courses within the Physical Sciences and Engineering, as
+well as Biological and Health Sciences. In contrast, the Humanities
+and Arts represent the discipline area with the fewest samples
+(see Figure 2). This distribution is likely attributable to the
+comparatively lower total enrollment of students from Humanities and Arts,
+as well as Social Sciences and Education, in English for
+Academic Purposes courses relative to those from the Biological and
+Hard Sciences fields.

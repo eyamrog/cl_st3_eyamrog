@@ -1,0 +1,10 @@
+While all these options are great for sharing data, none
+of these systems is committed to the long-term digital preservation
+of files or data. While they all might offer some
+form of content backup, they do not promise long-term preservation.
+The terms of use of these platforms include their right
+to discontinue service and delete accounts and their contents. Moreover,
+some platforms, such as YouTube, retain copies of materials even
+when files are deleted by their owners/posters, or may be
+subject to automated downloads by other websites – an obvious
+problem where sensitive data are concerned (RICE, 2021).

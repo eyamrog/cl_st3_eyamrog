@@ -1,0 +1,19 @@
+The first scientific report on the use of ACE2 as
+a host-cell entry portal by a coronavirus involved SARS-CoV (Li
+et al., 2003). If this happened before (some coronavirus use
+the ACE2 protein as a gateway to the host-cell), either
+with humans or other species, we currently do not know.
+Therefore, and considering only what we know about the history
+of SARS-CoV, it is a short timeframe for us to
+expect any evolutionary "reaction" from the host with a relatively
+long life cycle, at least regarding human ACE2. In other
+words, we do not expect to see for the human
+ACE2 (in relation to both SARS-CoV and SARS-CoV-2) what was
+reported in the study of Peng et al. (2017) for
+the mouse receptor and MHV. As a consequence of the
+very recent evolution of SARS- CoV-2 Spike glycoprotein and gain
+of a cleavage site for furin proteases, in addition to
+the homogeneity of critical ACE2 binding sites across human populations
+and other demographic and cultural factors already mentioned above, SARS-CoV-2
+obtained a significant edge in the evolutionary arms race, and
+become a highly infectious and pathogenic coronavirus for humans.

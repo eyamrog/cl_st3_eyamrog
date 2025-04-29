@@ -1,0 +1,8 @@
+Of the 103 categories identified, only seven produced 100 or
+more documents: Virology (324; 19.96%), Infectious Diseases (208; 12.81%), Immunology
+(187; 11.52%), Microbiology (172; 10.59%), General Internal Medicine (166; 10.22%),
+Intensive Care Medicine (139; 8.56%), and Molecular Biology (108; 6.65%).
+Nursing accounted for 17 documents (1.04%). The total set of
+documents was distributed across 508 journals, with a mean of
+3.02 articles per journal. Of these journals, 338 (58.2%) published
+only a single document.

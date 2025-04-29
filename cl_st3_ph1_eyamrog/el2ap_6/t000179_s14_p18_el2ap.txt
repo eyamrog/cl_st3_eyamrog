@@ -1,0 +1,5 @@
+For confirmatory factor analysis, the models previously obtained in the
+exploratory factor analysis were evaluated. All the analysis were performed
+considering the complex characteristics of the sampling strategy (complex multistage
+sampling), for which the lavaan.survey command was used. The estimator
+used was WLSMV (23), and polychoric matrices were used (22).

@@ -1,0 +1,5 @@
+Conversely, it is important to account for variations in the
+spread of infections across different countries on a global scale.
+Figure 4 illustrates the progression of the doubling time of
+new coronavirus cases, based on data collected as of April
+18, 2020.27

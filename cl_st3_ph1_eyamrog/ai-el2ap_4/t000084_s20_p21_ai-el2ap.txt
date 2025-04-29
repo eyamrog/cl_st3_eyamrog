@@ -1,0 +1,23 @@
+To examine the relationship between participants’ attitudes and their use
+of emojis for cognitive, teaching, and social presences, three Spearman
+Rho analyses were conducted using participants’ post-survey responses (N =
+61) and their emoji use for each presence. The analysis
+indicated a significant positive correlation between emoji use for cognitive
+presence and participants’ self-reported readiness to use mobile devices in
+the language classroom (rs = .32, p = .01), suggesting
+that participants who reported greater readiness to use mobile devices
+also used emojis more frequently to support cognitive presence during
+the course. This finding implies that increased familiarity with WhatsApp
+may be associated with a greater likelihood of utilizing its
+features, including emojis, to exchange information, connect ideas, and apply
+new knowledge. In contrast, no significant correlations were found between
+emoji use for social presence (rs = .20, p =
+.12) or teaching presence (rs = -.09, p = .48)
+and participants’ readiness to use mobile devices. The widespread use
+of emojis in recent years may account for the similar
+frequency of emoji use to facilitate collaboration and emotional expression,
+regardless of participants’ attitudes. Additionally, as noted in the Teaching
+Presence section, participants frequently assumed instructional roles to assist peers,
+independent of their attitudes toward mobile device readiness, which may
+explain the lack of correlation for teaching presence. See Table
+6.

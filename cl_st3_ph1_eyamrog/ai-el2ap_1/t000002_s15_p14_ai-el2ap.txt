@@ -1,0 +1,14 @@
+In the initial round, all raters coded the same group-talk
+episode and engaged in discussion to refine the coding scheme
+and clarify the rules for alignment and convergence. Following the
+attainment of moderate inter-rater agreement, the coding scheme was simplified
+by removing certain codes, and the rules were further clarified
+and documented in greater detail. Subsequently, two raters independently coded
+28% of the episodes (12 out of 42), and inter-rater
+reliability was assessed using Cohen’s Kappa, calculated in R (RStudio
+Team, 2020). Through this iterative process, an acceptable to excellent
+level of agreement was achieved, with Cohen’s Kappa scores averaging
+K = .79 (individual Kappa values for each code are
+provided in Table 1). The remaining episodes were then coded
+by the primary researcher. This procedure established the reliability of
+the coding scheme.

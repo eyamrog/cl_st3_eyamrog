@@ -1,0 +1,6 @@
+A relative clause is a nominal modifier that forms part
+of a complex determiner phrase (DP) (Chierchia, 2003) and was
+initially analyzed as being right-adjoined to the noun (Chomsky, 1977);
+however, more recent analyses have proposed that relative clauses function
+as complements of the determiner within the complex DP (Kayne,
+1994).

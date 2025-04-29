@@ -1,0 +1,9 @@
+The electronic search was performed in the databases: Publisher Medline
+(PubMed), Latin American and Caribbean Health Sciences Literature Resource (LILACS)
+and Scientific Electronic Library Online (SciELO). For the search strategy,
+the following descriptors were used: “Nutritional Deficiency”, “Vitamin A”, “Vitamin
+D”, “Zinc”, “Iron”, “Anemia”, “Folate”, “Folic Acid”, “Respiratory Tract Infections”,
+“Influenza”, and “Coronavirus”. The descriptors were identified in the Medical
+Subject Headings (Mesh), available at the U.S. National Library of
+Medicine (http://www.nlm.nih.gov/mesh/), and in the list of Health Sciences Descriptors
+(http://decs.bvs.br).

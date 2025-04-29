@@ -1,0 +1,7 @@
+A novel coronavirus, SARS-CoV-2, is responsible for a global pandemic
+with significant socioeconomic impacts. Due to its recent emergence in
+Wuhan, China, in December 2019, many aspects of the virus
+remain insufficiently understood by the scientific community. This study aims
+to analyze the spatio-temporal associations of incidence, mortality, and the
+rates of both rapid and RT-PCR testing for SARS-CoV-2 in
+the state of Minas Gerais.

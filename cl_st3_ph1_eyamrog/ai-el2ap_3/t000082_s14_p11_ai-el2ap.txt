@@ -1,0 +1,11 @@
+We characterized coevolutionary dynamics by analyzing patterns in trait distributions
+across species. To quantify trait disparity within the network, we
+measured the average trait distance between species, using the mean
+pairwise Euclidean distance (D) calculated across all possible species pairs,
+following the method described by Ciampaglio et al. (2001). To
+assess trait matching resulting from coevolutionary dynamics, we applied Ward's
+hierarchical clustering algorithm (Ward 1963) in conjunction with the GAP
+validation index, which serves as a pre-analysis tool to determine
+the optimal number of clusters in a dataset (Tibshirani et
+al. 2001). This approach allowed us to estimate the number
+of distinct trait clusters among interacting species.

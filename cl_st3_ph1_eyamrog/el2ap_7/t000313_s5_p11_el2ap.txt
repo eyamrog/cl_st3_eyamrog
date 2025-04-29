@@ -1,0 +1,10 @@
+It is also known that viruses that take advantage of
+receptors with conserved AA sequence have a broad host range
+(Woolhouse et al., 2012). It is worth recalling that ACE2
+has conserved the AA sequence in crucial binding sites within
+Homo sapiens, but not between placental mammal species investigated here.
+In other words, the high mutation rate SARS-CoV-2 may provide
+alternatives to infect one of several species, but when a
+high tropism with the host cell is found, it can
+be predicted that the binding region has little (if any)
+variation within the target species.

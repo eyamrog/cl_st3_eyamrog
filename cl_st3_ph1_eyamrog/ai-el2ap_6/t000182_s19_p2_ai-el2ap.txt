@@ -1,0 +1,4 @@
+Controls: In the control experiments, in which only one of
+the two insect species was present, both the triatomine bug
+and the cockroach exhibited behaviors similar to those observed during
+phase I.

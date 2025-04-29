@@ -1,0 +1,15 @@
+Regarding language trends, the OLIVA corpus demonstrates considerable linguistic diversity,
+in contrast to the predominance of English observed in mainstream
+databases. This diversity is attributable to the region’s development of
+multilingual indexing and publishing protocols and infrastructures. As shown in
+Table 4, Spanish and Portuguese occupy central roles, while English
+accounts for 23.9% of the articles. French and other languages
+are minimally represented, with some languages appearing only once. Portuguese
+is primarily found in journals published in Brazil, where 62.4%
+of articles are published in Portuguese and 34.6% in English.
+The proportion of English-language articles in Brazilian journals is comparable
+to that in journals from Puerto Rico (50.5%), Chile (23.7%),
+and Mexico (17.1%). The relatively high percentage of English in
+Chilean journals may reflect an academic culture more aligned with
+mainstream international standards, while the figures for Mexico and Puerto
+Rico may be influenced by established academic connections.

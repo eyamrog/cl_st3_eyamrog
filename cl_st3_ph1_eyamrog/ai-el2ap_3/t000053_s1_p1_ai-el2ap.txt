@@ -1,0 +1,15 @@
+The Amazonian phlebotomine fauna is recognized as among the most
+diverse globally. The region also exhibits the highest prevalence of
+leishmaniasis in Brazil and South America. Within this context, the
+state of Acre is notable for both its diversity of
+sand fly species and the incidence of American tegumentary leishmaniasis.
+This dataset presents a bibliographic review of sand fly species
+recorded in Acre State, located in the Amazon region of
+Brazil. It includes a total of 1,096 observations derived from
+material citation types, along with two records of preserved specimens,
+and is structured using 32 variables in accordance with Darwin
+Core standards. The bibliographic review was conducted using PubMed, Google
+Scholar, SciELO, BVS (Biblioteca Virtual em Saúde), and references cited
+in related scientific articles. The resulting dataset provides a comprehensive
+resource to support future research on sand fly fauna in
+Acre and other states within the Amazon region.

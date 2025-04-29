@@ -1,0 +1,6 @@
+The preceding examples are unambiguous, allowing for straightforward identification of
+the anaphor’s antecedent. However, if the name Mary is replaced
+with Peter, as in example (5), it becomes less clear
+whether individuals would interpret the anaphor’s antecedent as the subject
+or the complement of the main clause, or potentially as
+a different referent not explicitly mentioned in the sentence.

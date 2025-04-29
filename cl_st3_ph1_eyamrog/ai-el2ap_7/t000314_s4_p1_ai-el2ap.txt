@@ -1,0 +1,6 @@
+During the analysis, Gene S, Gene N, and ORF10 were
+identified. The regions around positions 3,500 and 11,000, respectively, exhibited
+high levels of regularity; however, these regions do not correspond
+to any previously documented elements within the Orf1ab gene. Further
+investigation of these regions may be warranted to determine their
+potential significance.

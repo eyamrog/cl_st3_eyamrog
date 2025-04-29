@@ -1,0 +1,11 @@
+The analysis and discussion of the study protocols was carried
+out by extracting the data referring to the authors, year
+of publication, journal, country where the study was carried out,
+number of citations according to the Web of Science base
+(until February 7, 2021), number of databases, search period and
+whether the 27-item PRISMA checklist was followed (yes or no).
+In addition, the objectives, total sample size, intervention groups, control
+group, age, the location where the study was carried out,
+the variables investigated (physical and psychological ones), particularities of the
+intervention with physical activity, duration, number and frequency of the
+sessions, and duration of the intervention were scored.

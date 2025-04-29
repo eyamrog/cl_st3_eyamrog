@@ -1,0 +1,16 @@
+Approximately 10% of multiple sclerosis (MS) patients exhibit highly active
+disease, for whom standard disease-modifying drugs (DMDs) may be insufficient
+as initial therapy. The impact of individual DMDs on the
+risk and severity of SARS-CoV-2 infection remains unclear. Patients with
+a high disease burden may require high-efficacy treatments. In such
+cases, consistent with recommendations from the European Committee for Treatment
+and Research in Multiple Sclerosis (ECTRIMS) and the Multiple Sclerosis
+International Federation (MSIF), therapies not associated with lymphopenia, such as
+natalizumab, are preferred. Agents including fingolimod, cladribine, alemtuzumab, and anti-CD20
+monoclonal antibodies are known to induce lymphopenia and have been
+linked to an increased risk of infection in real-world studies;
+therefore, an individualized risk-benefit assessment is recommended prior to their
+use. Furthermore, recent pharmacovigilance data indicate that ocrelizumab is not
+associated with a more severe course of COVID-19, suggesting that
+ocrelizumab may be a suitable treatment option for patients with
+aggressive MS.

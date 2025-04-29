@@ -1,0 +1,5 @@
+Exploratory and confirmatory factor analyses, as well as the calculation
+of average variance extracted, were conducted using the R software
+with the SEM (Structural Equation Models) package, version 0.9-21. All
+other statistical analyses were performed using the Statistical Package for
+the Social Sciences (SPSS), version 20.0.

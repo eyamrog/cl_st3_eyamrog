@@ -1,0 +1,3 @@
+Design open educational resources that are suitable for both independent
+use and integration into a learning management system (LMS) as
+electronic activities.

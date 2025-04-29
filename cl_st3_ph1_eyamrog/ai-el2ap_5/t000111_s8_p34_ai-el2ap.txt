@@ -1,0 +1,5 @@
+Since Chomsky (1977), such sentences have been analyzed as being
+derived through wh-movement; that is, the wh-phrase in these constructions
+appears in a position different from its original syntactic position,
+a phenomenon that Chomsky formalizes by means of a specific
+transformational rule.

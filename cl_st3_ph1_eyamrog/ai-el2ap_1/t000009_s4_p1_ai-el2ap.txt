@@ -1,0 +1,8 @@
+This paper examines the benefits of utilizing information and communication
+technology (ICT) to conduct a contextual Textual and Situational Analysis
+(TSA) remotely. The results indicate that ICT use was essential
+for two primary reasons: it facilitated data analysis through various
+software programs, including Microsoft Word, Microsoft Excel, and AntConc, and
+it enabled the researcher to collect data remotely while maintaining
+the specificity, practical application, and critical perspective advocated by Critical
+English for Academic Purposes (CEAP) pedagogy.

@@ -1,0 +1,3 @@
+The FAP observed in phase II was not detected during
+phase I or in either of the two control conditions
+(P<0.001).

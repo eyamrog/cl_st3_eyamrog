@@ -1,0 +1,6 @@
+Although the correlations are considered weak, the negative correlation coefficients
+with absolute values greater than 0.2500 observed between the pairs
+of dimensions "Teaching and Learning" and "Research," "Teaching and Learning"
+and "Knowledge Transfer," as well as "Knowledge Transfer" and "International
+Orientation," warrant attention. These results indicate a tendency for inverse
+performance between each pair of dimensions.

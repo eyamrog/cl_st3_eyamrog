@@ -1,0 +1,24 @@
+The genomic sequence of the new viral Coronavirus was immediately
+defined by public health support and online community resources “virological.org”
+on January 10th (Wuhan-Hu-1, GenBank accession number MN908947)16 followed by
+four other deposited genomes on January 12th in the database
+of viral genomic sequences maintained by the Global Initiative on
+Sharing All Influenza Data (GISAID).17 The clinical signs and symptoms
+in the beginning suggested the presence of a virus closely
+related to SARS outbreak in 2002/2003. This species also comprised
+a large number of viruses detected in rhinolophid bats in
+Asia and Europe. 17 After sequencing, the SARS-CoV-2 genome was
+found to be 96.2% identical to the Bat RaTG13 coV,
+while sharing 79.5% identity with the SARS-CoV. In this way,
+the similarity between the genomes of the viruses shows that
+the bat is the natural host of the virus and
+SARSCoV-2 may have been transmitted to humans, in an unknown
+way, through intermediate hosts. Several studies suggest that the bat
+is the potential reservoir of SARS-CoV-2. However, there is evidence
+that the origin of SARS-CoV-2 was the seafood market in
+Wuhan, China.18 Coronaviruses (CoV) α- and β-CoV are capable of
+infecting mammals, while γ- and δ-CoV tend to infect birds.
+Although the six CoVs identified as human-susceptible viruses, presented low
+pathogenicity, causing mild respiratory symptoms similar to a common cold;
+SARS-CoV and MERS-CoV may lead to severe and potentially fatal
+respiratory tract infections.18,19

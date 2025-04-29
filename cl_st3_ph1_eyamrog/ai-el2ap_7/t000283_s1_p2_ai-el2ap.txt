@@ -1,0 +1,13 @@
+METHODS: This study will employ a rapid living systematic review
+methodology with network meta-analysis, in accordance with the recommendations of
+the Cochrane Handbook. Randomized controlled trials (RCTs) and quasi-RCTs assessing
+single or combined pharmacological interventions at any dose for the
+treatment of COVID-19 will be included. Comprehensive searches will be
+conducted in Medline via PubMed, Embase via Elsevier, the Cochrane
+Library (Cochrane Central Register of Controlled Trials [CENTRAL]), Portal Regional
+BVS (LILACS), Scopus, and Web of Science to identify potentially
+eligible studies. No language restrictions will be applied during study
+selection. The risk of bias in included studies will be
+assessed using the Risk of Bias tool, and the certainty
+of evidence will be evaluated using the Grading of Recommendations
+Assessment, Development and Evaluation (GRADE) approach.

@@ -1,0 +1,3 @@
+The null hypothesis indicating the linearity and the alternative hypothesis
+indicating the nonlinearity is presented in Equation 2 and Equation
+3;

@@ -1,0 +1,15 @@
+The SCCS and SCRI study designs are used in pharmacovigilance
+and are useful in analyzing rare events. They have been
+commonly used in studying populations after vaccine exposure like in
+the case of influenza vaccines and Human Papillomavirus vaccines (28,29)
+. Since 2020, the world has been facing the Covid-19
+pandemic and in 2021, Covid-19 vaccines started being administered in
+all parts of the world. There has been temporal association
+of the Covid-19 vaccines or SARS-CoV-2 infection with the development
+of events like GBS, cardiovascular events like stroke, encephalitis, psychiatric
+events among others (30–32). A huge number of both primary
+and secondary studies have been produced to report these events.
+The SCCS and SCRI could also be used in such
+cases and the use of the proposed quality assessment tool
+would be useful in ascertaining that the methodological rigor was
+adhered to, thus making the findings more reliable.

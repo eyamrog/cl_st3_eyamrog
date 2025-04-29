@@ -1,0 +1,14 @@
+Design and setting: This protocol outlines a rapid living systematic
+review that will adhere to the recommendations of the Cochrane
+Handbook for Systematic Reviews. The review will include prospective and
+retrospective cohort studies, case-control studies, and case series involving patients
+with confirmed diagnoses of both SARS-CoV-2 and arboviral infections. The
+literature search will be conducted without language restrictions across multiple
+databases, including Medline via PubMed, Embase via Elsevier, the Cochrane
+Library (CENTRAL), Portal Regional BVS (LILACS), Scopus, and Web of
+Science, to identify published, ongoing, and unpublished studies. Study selection
+and data extraction will be independently performed by two authors.
+The methodological quality of included studies will be assessed using
+the Newcastle-Ottawa Scale, and the certainty of evidence will be
+evaluated using the Grading of Recommendations Assessment, Development and Evaluation
+(GRADE) approach.

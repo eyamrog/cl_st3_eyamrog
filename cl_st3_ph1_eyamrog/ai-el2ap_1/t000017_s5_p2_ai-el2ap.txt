@@ -1,0 +1,7 @@
+In the revised version, the subtest assessing quantity comparison, which
+demonstrated a ceiling effect due to its low difficulty for
+children, was removed and replaced with a counting quantities subtest.
+This new subtest incorporates two numerical cognitive processing skills that
+are considered essential for children's academic development during the first
+three years of schooling: enumeration and quantity comparison (Canto-López et
+al., 2019).

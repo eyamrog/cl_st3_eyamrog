@@ -1,0 +1,8 @@
+We have assembled the most exhaustive scientific data from sand
+flies in Acre, Brazil that have been published until now.
+This Dataset will provide an important source of knowledge on
+the distribution, identification, and taxonomic status of the sand fly
+species already recorded in the state. Therefore, it will allow
+future studies to have a sound material as a background
+for sand fly ecology, epidemiology and taxonomy studies in the
+area.

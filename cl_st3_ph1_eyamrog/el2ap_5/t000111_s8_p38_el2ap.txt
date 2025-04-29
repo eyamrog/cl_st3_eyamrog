@@ -1,0 +1,5 @@
+The conclusion driven from those data is: if Focusing and
+wh-fronting cannot cooccur, it might be the case that both
+– the focalized constituent and the wh-phrase – are “fighting”
+for the same position. Hence, wh-fronting might posit wh-operators in
+Spec, FocP.

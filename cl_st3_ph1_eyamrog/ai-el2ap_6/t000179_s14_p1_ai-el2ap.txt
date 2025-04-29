@@ -1,0 +1,5 @@
+The ENSUSALUD database is publicly accessible online (http://portal.susalud.gob.pe/blog/base-de-datos-2016). This study
+employed a psychometric approach based on secondary data analysis of
+Questionnaire 2 from ENSUSALUD-2016. While this section of the questionnaire
+was completed by both physicians and nurses working in healthcare
+centers, the present analysis focused exclusively on responses from physicians.

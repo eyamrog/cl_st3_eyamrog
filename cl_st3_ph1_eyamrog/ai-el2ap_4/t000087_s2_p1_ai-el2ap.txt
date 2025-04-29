@@ -1,0 +1,13 @@
+We thank Sandra López-León, MD, PhD, for her guidance as
+an epidemiologist and physician, as well as for her support
+in data analysis and interpretation. Bioethicist German Carreto Chavez reviewed
+and approved the questionnaire and the overall project, determining that
+there was no risk to participants, that participant anonymization was
+ensured, and that international bioethical guidelines were followed; informed consent
+was obtained from all participants and/or their parents when required.
+We also thank Ariela Landsmanas Goldberg for providing essential information
+and assisting with the distribution of the questionnaire. We acknowledge
+Ricardo Grande and Karel Estrada for their contributions to sequencing
+and bioinformatics technical support, respectively, as members of the Unidad
+Universitaria de Secuenciación Masiva y Bioinformática (UNAM) and the Laboratorio
+Nacional de Apoyo Tecnológico a las Ciencias Genómicas (CONACyT).

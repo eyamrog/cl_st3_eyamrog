@@ -1,0 +1,18 @@
+The global report on diamond journals (Bosman et al. 2021)
+recently published by OPERAS shows the importance of journals that
+do not charge for publishing or for reading, and points
+to the role of Latin America in the production of
+25% of the total of these publications worldwide. Indeed, these
+open access journals are mostly published by universities and managed
+by full-time professors, assisted by technical support teams centralized in
+the libraries. An important aspect in the consolidation of university
+publishing in this region is the massive adoption of the
+open source Open Journal System (OJS-PKP) for the management of
+the editing, peer review and publication of the journals2. In
+addition to university journals, there are also those of the
+scientific societies and professional associations which are often operated with
+the support of university infrastructure and personnel for digitization, creating
+permalinks, acquiring DOI’s, and doing the XML markup of the
+texts. Although this support needs to be strengthened, this core
+institutional and governmental support explains the existence and growth of
+Latin American and Caribbean journals.

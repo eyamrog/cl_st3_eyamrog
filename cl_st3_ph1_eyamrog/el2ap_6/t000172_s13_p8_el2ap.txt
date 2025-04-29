@@ -1,0 +1,4 @@
+1) the RdRp of coronaviruses has low fidelity. Although a
+3’-5’ exonuclease proofreading activity is reported, the mutation rate of
+this polymerase is about 2.0 × 10-6 mutations per site,
+per replication cycle (Eckerle et al. 2010);

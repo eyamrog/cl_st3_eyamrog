@@ -1,0 +1,14 @@
+Occasionally, U-Multirank compiles a list of "best performers" by country
+for a given year, a process that presents challenges due
+to the multidimensional nature of the rankings. This study demonstrated
+that multiple approaches can be employed to create such an
+overall classification. U-Multirank currently utilizes an "Olympic Medals Table" format,
+identifying top institutions as those with the highest number of
+maximum scores. The present paper identified several issues associated with
+this method and proposed two alternative approaches for generating a
+general ranking: calculating the simple average of all indicators and
+calculating the average of the dimensions. The latter was considered
+preferable in this study, as it incorporates all available data
+and assigns equal weight to each dimension. This consideration is
+particularly relevant, as some form of overall classification will be
+necessary if multidimensional evaluation is adopted by Capes.

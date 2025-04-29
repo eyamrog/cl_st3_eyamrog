@@ -1,0 +1,8 @@
+<> corresponds to the cumulative number of deaths that country
+i would have in each age group j with the
+mortality rate observed in the country in this age group
+and the population it would have in this age group
+if the age composition of the population were the same
+in all countries – in this article, we assumed the
+distribution by age groups given by the world population age
+pyramid;

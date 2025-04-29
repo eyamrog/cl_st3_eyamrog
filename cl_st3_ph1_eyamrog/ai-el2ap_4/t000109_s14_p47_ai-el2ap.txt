@@ -1,0 +1,11 @@
+This submodel represents the probability of an individual (Ha) becoming
+infected through contact with surfaces previously contaminated by another infected
+individual. Studies have indicated that plastics are among the most
+common materials encountered in daily human activities [44][45]. On such
+surfaces, the virus can persist for a duration that decreases
+exponentially with increasing ambient temperature. If an infected individual remains
+in a specific location for more than 16 minutes, there
+is a likelihood of leaving infectious residues on objects handled
+(fomites). This process can be mathematically described as 𝑃(𝑡) =
+𝑒^(−𝑏𝑡), where 𝑃(𝑡) represents the probability of viral persistence over
+time t, and b is a decay constant [44].

@@ -1,0 +1,8 @@
+Based on the values proposed by the literature [31], an
+initial calibration of parameters linked mainly to virus spread in
+the hosts was generated. To adjust the parameters values of
+virus spread in the host, information on the evolution of
+epidemic variables from March to May 2020 in the municipality
+of Vo (small village in northern Italy) [46] was used
+and, in addition, the geographical, climatic, demographic and habits data
+of its inhabitants8.

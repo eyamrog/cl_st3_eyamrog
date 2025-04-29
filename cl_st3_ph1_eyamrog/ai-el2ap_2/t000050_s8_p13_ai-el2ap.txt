@@ -1,0 +1,16 @@
+The dataset consists of sand fly records collected as part
+of a project designed to evaluate the primary risk factors
+for leishmaniasis using an interdisciplinary approach. In 2012, an outbreak
+of leishmaniasis occurred in the WIL, affecting more than 20
+individuals across seven villages [17]. This event prompted a comprehensive
+investigation conducted from 2012 to 2015 to elucidate the causal
+processes within the local epidemiological context and to develop strategies
+for disease prevention and control among the Wajãpi population. The
+investigation was carried out through a multi-institutional collaboration involving health-related
+organizations, including the Distrito Sanitário Especial Indígena (DSEI) Amapá e
+Norte do Pará, Secretaria Municipal de Saúde de Pedra Branca
+do Amapari, Coordenadoria de Vigilância em Saúde do Amapá, Laboratório
+Central de Saúde Pública do Amapá, Instituto René Rachou (Fiocruz-MG),
+Universidade Federal do Amapá, Universidade de São Paulo, and Universidade
+Federal do Oeste do Pará. Multidisciplinary teams were assembled, comprising
+entomologists, biologists, veterinarians, laboratory technicians, anthropologists, epidemiologists, and nurses.

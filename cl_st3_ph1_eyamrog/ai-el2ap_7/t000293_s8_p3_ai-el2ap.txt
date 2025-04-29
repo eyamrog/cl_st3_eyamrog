@@ -1,0 +1,9 @@
+Cancer patients have an increased risk of developing COVID-19 and
+tend to experience a worse prognosis compared to individuals without
+cancer (20). Computed tomography (CT) findings may be linked to
+a higher likelihood of severe outcomes in cancer patients (21).
+Additionally, these patients are at elevated risk for other pulmonary
+complications related either to the underlying malignancy or its treatment,
+including opportunistic infections, thromboembolism, drug toxicity, and radiation-induced pneumonitis, among
+others (22,23). Such complications may serve as differential diagnoses or
+may coexist with SARS-CoV-2 infection in cancer patients.

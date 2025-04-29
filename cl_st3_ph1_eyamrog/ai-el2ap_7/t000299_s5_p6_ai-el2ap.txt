@@ -1,0 +1,12 @@
+Although numerous studies have described various decontamination protocols and agents,
+only a limited range of microorganisms has been tested. The
+fungi and bacteria analyzed were consistently from the same genera,
+specifically Candida and Streptococcus, both of which are commonly present
+in the oral microbiota. Furthermore, even when there was consensus
+regarding the microorganisms selected, the microbiological analysis strategies differed: three
+studies employed Scanning Electron Microscopy (SEM) [3,10,15], while four studies
+utilized the viable count method [8,9,11,13]. SEM is an appropriate
+technique for detailed observation of substrate morphology as well as
+for monitoring bacterial adhesion and biofilm formation on biotic surfaces
+[21]. The viable count method, which has been used for
+decades, is a sensitive approach for analyzing live microorganisms [22].

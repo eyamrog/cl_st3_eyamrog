@@ -1,0 +1,8 @@
+To validate the model, initial conditions and parameters associated with
+host transmission in the city of Hoyo de Manzanares were
+applied, as described in previous studies [9,47]. Consistent with methodologies
+employed in other agent-based epidemiological models [13,48], the outputs of
+AbCSim were compared with field data, demonstrating agreement between simulated
+and observed results. Furthermore, the dispersion of model outputs, assessed
+using the interquartile range, was found to be within acceptable
+limits.

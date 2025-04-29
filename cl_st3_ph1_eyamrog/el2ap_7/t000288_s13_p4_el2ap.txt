@@ -1,0 +1,19 @@
+Viruses are complex pathogens with a high capacity to infect
+multiple host species, causing a variety of diseases with numerous
+symptoms. CoVs are pleomorphic RNA-viruses (subgenus sarbecovirus, subfamily Orthocoronavirinae) characterized
+by high speed of gene recombination due to constant errors
+in their RNA polymerase-dependent replication process (RdRP).18,20 The main steps
+involved in the replication cycle of SARS-CoV-2 are: recognition and
+binding to the host cell via membrane fusion or endocytosis
+mechanism. After the invasion, the viral genome is released; then
+occurs translation of the viral polymerase protein; RNA replication; sub-
+genomic transcription; translation of viral structural proteins; viral structural proteins
+combination with the nucleocapsid; formation of mature virions and finally
+the release of mature virions by exocytosis. At the end
+of the cycle, newly mature virions are released and may
+infect new targets and the cycle repeats itself continuously.15 During
+their replication cycle, two-thirds of the viral RNA encode 16
+non-structural proteins (NSPs). The other one-third of the virus genome
+encodes four essential structural proteins, including: spike glycoprotein (S), small
+envelope protein (E), matrix protein (M) and nucleocapsid protein (N),
+and also other accessory proteins.18,21

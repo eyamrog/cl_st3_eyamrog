@@ -1,0 +1,7 @@
+The results of both tests indicate the presence of nonlinearity
+in the femicide series. For the foreign exchange rate series,
+the Harvey and Leybourne (2007) test suggests nonlinearity, whereas the
+Harvey, Leybourne, and Xiao (2008) test indicates linearity. After establishing
+the (non)linearity of the series through these tests, the stationarity
+of the series was assessed using nonlinear unit root tests.
+The outcomes of these analyses are summarized in Table 3.

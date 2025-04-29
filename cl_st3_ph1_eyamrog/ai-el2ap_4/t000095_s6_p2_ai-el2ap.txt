@@ -1,0 +1,6 @@
+In our analysis, we excluded data from the last two
+months of 2020 and included all cases with missing information
+for case definition in the denominator to assess whether data
+quality could account for the observed discrepancy in mortality between
+the two cities. However, the discrepancy in mortality rates remained
+substantial despite these adjustments.

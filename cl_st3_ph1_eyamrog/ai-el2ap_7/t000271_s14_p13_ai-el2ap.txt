@@ -1,0 +1,10 @@
+The estimation of population prevalence of COVID-19 was conducted in
+three steps. First, the unadjusted proportion of positive test results
+was calculated. Second, the prevalence was weighted according to the
+2020 Rio de Janeiro State population to account for differences
+in the distribution of sex and age between the sample
+and the general population. Third, the prevalence was further adjusted
+for test sensitivity and specificity, using the manufacturer’s reported values
+of 85% and 99%, respectively. The adjusted prevalence and corresponding
+95% confidence intervals were estimated using a previously published method
+[19].

@@ -1,0 +1,15 @@
+This study was part financed in part by the Coordenação
+de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES)
+- Finance Code 001. Joseph Firth is supported by a
+University of Manchester Presidential Fellowship (P123958) and a UK Research
+and Innovation Future Leaders Fellowship (MR/T021780/1). Brendon Stubbs is supported
+by a Clinical Lectureship (ICA-CL-2017-03-001) jointly funded by Health Education
+England (HEE) and the National Institute for Health Research (NIHR).
+Brendon Stubbs is part funded by the NIHR Biomedical Research
+Centre at South London and Maudsley NHS Foundation Trust. The
+views expressed are those of the author(s) and not necessarily
+those of the (partner organisation), the NHS, the NIHR or
+the Department of Health and Social Care. Mark Tully is
+partly supported by funding as Director of the Northern Ireland
+Public Health Research Network by the Research and Development Division
+of the Public Health Agency (Northern Ireland).

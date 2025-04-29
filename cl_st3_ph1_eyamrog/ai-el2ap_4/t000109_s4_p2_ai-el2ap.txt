@@ -1,0 +1,7 @@
+The results obtained are consistent with data reported by various
+official sources, including PMUC, particularly regarding the number of ICU
+beds allocated for COVID-19 patients in the city. Additionally, the
+model outputs align with the reported number of deaths during
+the period under consideration. These findings indicate that the model
+is suitable for predicting the short-term evolution of case numbers
+and ICU bed occupancy.

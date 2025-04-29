@@ -1,0 +1,16 @@
+Following the method proposed by Alves and Vasconcellos (2016), which
+used the website www.dominiopublico.gov.br as data source, this paper set
+out to map studies on medical translation conducted in Brazil.
+The search for medical translation theses and dissertations completed in
+higher education institutions in Brazil, from 2002 to 2018, was
+done using keywords in Portuguese. Initially, we considered the period
+proposed by Alves and Vasconcellos (2016), which was from 2006-2016.
+These authors justified the initial year of searches with the
+enforcement of administrative regulation number 13/2006, which was issued by
+the Brazilian governmental agency known as CAPES (Coordination for the
+Improvement of Higher Education Personnel). Such regulation dictated that all
+theses and dissertations completed in Brazil should be digitally available
+to the general public through the website Domínio Público3. However,
+as the searches we conducted revealed medical translation studies done
+prior to that initial date, we considered 2002-2018 as our
+research period.

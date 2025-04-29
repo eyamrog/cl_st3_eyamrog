@@ -1,0 +1,7 @@
+Results: The study included 568 journals, with a median size
+of 166 signed articles. The median PPMP was 4.5% (95th
+percentile 12.9%), and the median Gini coefficient was 0.149 (95th
+percentile 0.310). The PPMP increased with journal size, while the
+Gini coefficient decreased. MEDLINE journals had lower PPMP and higher
+Gini coefficients, but this difference disappeared after the data were
+reweighted.

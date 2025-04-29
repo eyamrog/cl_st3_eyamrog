@@ -1,0 +1,11 @@
+Analysis of Fig. 4 indicates that the assertion regarding the
+protective effect of BCG vaccination on the incidence and lethality
+of COVID-19 in several countries has been subject to significant
+criticism, primarily because most countries in group 2 are at
+an earlier stage in the progression of the pandemic. To
+address potential selection bias, this study implemented a time equalization
+procedure for all countries, aligning data from the respective onset
+dates of the pandemic in each country. This adjustment is
+expected to be unnecessary in future analyses, as the continued
+progression of the pandemic will provide further clarification on this
+issue (see Fig. 5).

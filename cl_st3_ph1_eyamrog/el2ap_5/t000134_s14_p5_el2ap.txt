@@ -1,0 +1,9 @@
+Species endemism in the Atlantic Forest was defined for the
+amphibians based on Lingnau et al. (2008), Haddad et al.
+(2016), and Frost (2020), and for reptiles according to Tozetti
+et al. (2017). We defined the conservation status of each
+species based on the IUCN Red List (IUCN 2020), the
+Red List of Threatened Brazilian Fauna (ICMBIO 2018), and the
+List of the Threatened Fauna of Rio de Janeiro state
+(Bergallo et al. 2000). The population trend for each species
+was obtained from IUCN (2020).

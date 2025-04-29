@@ -1,0 +1,12 @@
+In this study, exploratory factor analysis was conducted to assess
+the dimensionality of the Brazilian version of the scale, followed
+by confirmatory factor analysis using structural equation modeling. Exploratory factor
+analysis was selected initially because the study population, consisting of
+adolescents, differed in age range from the young adult population
+in which the original instrument was validated, necessitating an examination
+of whether the scale’s dimensionality was preserved. The adequacy of
+the data for factor analysis was evaluated using the Kaiser-Meyer-Olkin
+(KMO) test and Bartlett's test of sphericity (Schumacker & Lomax,
+1998). Principal components extraction with oblique rotation was employed, and
+communalities were examined to determine the proportion of variance in
+each item explained by the extracted factors.

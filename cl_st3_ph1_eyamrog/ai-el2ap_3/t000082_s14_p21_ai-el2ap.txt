@@ -1,0 +1,10 @@
+This study investigates the impact of varying frequencies of cheating
+interactions on coevolutionary dynamics. Specifically, it examines how changes in
+the prevalence of cheating behaviors influence the evolutionary trajectories of
+both cheaters and their cooperative counterparts. By systematically manipulating the
+frequency of cheating within experimental or simulated populations, the research
+aims to elucidate the mechanisms by which these interactions shape
+adaptive responses, genetic diversity, and the stability of cooperative systems
+over time. The findings are expected to contribute to a
+more comprehensive understanding of the role of cheating in the
+evolution of interdependent biological relationships.

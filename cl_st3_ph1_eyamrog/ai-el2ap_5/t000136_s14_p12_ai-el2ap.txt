@@ -1,0 +1,5 @@
+We were unable to include the size of the NPO
+as a covariate, despite evidence suggesting that larger NPOs generally
+possess greater resources to implement governance practices (Feng et al.,
+2016; Haski-Leventhal and Foot, 2016). The operationalization of the variables
+is presented in Table 2.

@@ -1,0 +1,6 @@
+The analysis of the results was carried out with the
+statistical package IBM® SPSS® (23rd version). Normality in the distribution
+of continuous variables was determined using the Kolmogorov-Smirnov test. Quantitative
+variables of parametric distribution were described by means and standard
+deviation and those non-parametric by means of the median and
+range. Qualitative variables were expressed in percentages.

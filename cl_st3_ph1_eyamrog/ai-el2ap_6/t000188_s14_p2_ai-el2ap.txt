@@ -1,0 +1,11 @@
+The study included all confirmed cases of COVID-19 deaths from
+the first recorded death until May 15, 2020. COVID-19 cases
+were defined as those with a positive result for viral
+nucleic acid testing in respiratory specimens or a positive serological
+test. Data were obtained from the official website reporting the
+COVID-19 situation in Brazil. Model development data were updated as
+of May 16, 2020. Cumulative case rates per 1,000,000 inhabitants
+were calculated by dividing the number of COVID-19 deaths in
+each state by the population at risk, based on state
+population estimates provided by the Brazilian Institute of Geography and
+Statistics (Instituto Brasileiro de Geografia e Estatística, IBGE).

@@ -1,0 +1,13 @@
+To assess the presence of unit roots in the data
+utilized for the empirical analysis, the Augmented Dickey-Fuller (ADF) test
+was applied, and the results are presented in Table 2.
+The findings indicate that GD, INF, and INT are stationary
+at level, as their respective ADF statistics (4.180454, 3.173179, and
+5.591438) exceed the 5% critical values (3.02997, 2.991878, and 3.004861),
+suggesting that these variables are integrated of order zero, I(0).
+In contrast, FDI and EXC are stationary at first difference,
+with ADF statistics (10.14302 and 3.996066) greater than the 5%
+critical value (2.998064 for both), indicating integration of order one,
+I(1). Given that the variables are integrated at different orders,
+subsequent analyses include co-integration testing and estimation of the short-run
+speed of adjustment from long-run disequilibrium.

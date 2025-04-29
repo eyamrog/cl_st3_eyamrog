@@ -1,0 +1,6 @@
+In case of possible significant heterogeneity or inconsistency, we will
+use subgroup analysis. We will explore, when possible, the following
+available variables: age, sex, comorbidities, strategy to address pandemic threat
+(e.g. quarantine, lockdown, social distance) and disease severity. We will
+also perform sensitivity analysis for include studies with high risk
+of bias, missing data.

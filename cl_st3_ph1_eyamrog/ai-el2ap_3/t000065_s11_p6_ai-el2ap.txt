@@ -1,0 +1,18 @@
+CIA study results can provide practitioners with valuable insights into
+their students’ needs; however, teachers may also opt to compile
+their own class-specific corpora, referred to as Do-It-Yourself (DIY) corpora,
+or to design data-driven learning (DDL) activities using either established
+corpora (e.g., COCA, BNC) or their own DIY corpora. DDL,
+as described by Johns (1991, 1994), involves granting students direct
+access to corpus data and concordancing software as part of
+the language learning process. In this approach, learners are encouraged
+to independently investigate linguistic features such as grammatical rules, vocabulary
+meanings, collocations, and lexico-grammatical patterns. For example, following the DDL
+framework of "identify-classify-generalize" (Johns, 1991, p. 4), participants in Lee’s
+(2011) study analyzed concordance lines from a corpus of texts
+from J.K. Rowling's "Harry Potter and the Philosopher's Stone," focusing
+on verb-preposition collocations. These DDL activities increased students’ awareness of
+preposition usage and facilitated their understanding of the functions of
+specific phrasal verbs. Overall, DDL contributed to language acquisition and
+exam preparation by fostering a learning environment that promoted student
+engagement and autonomy (Lee, 2011).

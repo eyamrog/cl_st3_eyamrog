@@ -1,0 +1,10 @@
+Viruses that utilize receptors with conserved amino acid sequences typically
+exhibit a broad host range (Woolhouse et al., 2012). In
+this context, it is notable that the ACE2 receptor maintains
+a conserved amino acid sequence at key binding sites within
+Homo sapiens, but this conservation is not observed across the
+placental mammal species examined in this study. Consequently, while the
+high mutation rate of SARS-CoV-2 may enable it to infect
+multiple species, a strong tropism for a particular host cell
+is likely associated with minimal variation in the receptor binding
+region within that target species.

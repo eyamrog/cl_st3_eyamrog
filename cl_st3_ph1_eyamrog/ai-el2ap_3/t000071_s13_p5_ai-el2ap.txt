@@ -1,0 +1,16 @@
+Regarding the peer-review process, we contacted 14 publishers in response
+to our initial inquiry to request limited password access to
+their peer review systems, based on our familiarity with the
+Open Journal Systems (OJS) platform. Five publishers granted access to
+one of their journals each (see Table 1). Through spot-checking
+an average of 12 recent articles per journal, we observed
+that four of the five journals maintained complete sets of
+peer reviews, while the fifth journal lacked reviews for three
+out of 20 articles. On average, there were 1.6 reviews
+per article; however, 24 percent of these reviews consisted solely
+of a recommendation to publish without additional commentary, indicating a
+need for improvement in peer review quality. Overall, among the
+original sample of 50 randomly selected publishers using OJS from
+Beall’s list, 14 percent were largely compliant with Beall’s basic
+criteria, with five of the seven compliant publishers providing direct
+evidence of peer review.

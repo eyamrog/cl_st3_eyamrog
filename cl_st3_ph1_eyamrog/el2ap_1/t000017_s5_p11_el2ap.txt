@@ -1,0 +1,9 @@
+The internal consistency of the B-PREA-R showed appropriate values for
+a psychometric test with several subtests: alpha = .85 and
+alpha when the item is removed between .83 and .86.
+The previous version also showed appropriate values (alpha when the
+item is removed between .78 and .81), although it presented
+an internal consistency with the test- retest method between .82
+and .94. Thus, it is recommended that an analysis of
+internal consistency through the test-retest method be carried out for
+future research.

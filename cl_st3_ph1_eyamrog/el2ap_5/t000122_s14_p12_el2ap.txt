@@ -1,0 +1,4 @@
+Data were checked for normality (Shapiro-Wilk test) and variance homogeneity
+(Levene’s test). The statistical analyses were performed using the R
+program (4.0.0 version) and the significance value adopted was of
+5%.

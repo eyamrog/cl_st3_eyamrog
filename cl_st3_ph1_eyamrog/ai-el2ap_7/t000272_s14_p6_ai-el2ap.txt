@@ -1,0 +1,24 @@
+The preparation of red blood cells for the cytotoxicity assay
+was conducted according to the method described by Cruz-Silva et
+al. (2000). Whole blood was collected from a voluntary laboratory
+staff member with blood type O+ and placed in a
+heparinized tube. Following centrifugation at 2500 rpm for 5 minutes,
+the plasma was removed, and the erythrocytes were washed three
+times with 1% saline solution. The washed erythrocytes were then
+resuspended in 1% saline, and the suspension was adjusted to
+a final volume corresponding to a 5% erythrocyte concentration. For
+the assay, 1.5 mL of the 5% erythrocyte suspension was
+mixed with 1.5 mL of the test solution at concentrations
+of 1.0 mg/mL, 2.5 mg/mL, and 5.0 mg/mL in separate
+tubes, and incubated at room temperature for 1 hour to
+allow hemolysis. After incubation, the tubes were centrifuged at 2500
+rpm for 10 minutes, and the supernatant was collected for
+spectrophotometric analysis at 540 nm using a Shimadzu UV-mini 1240
+spectrophotometer (Cruz-Silva et al., 2001). Turk's solution (1%) was used
+as the positive control, and 1% saline solution served as
+the negative control. All analyses were performed in triplicate. The
+hemolytic potential (Hp) was calculated using the following equation: Hp
+= [(Ae − Ab) / At] × 100, where Ae
+is the absorbance of the test sample, Ab is the
+absorbance of the negative control, and At is the absorbance
+of the positive control.

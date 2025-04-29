@@ -1,0 +1,11 @@
+Coronavirus infection occurs when the virus enters the human body
+through mucous membranes. The host immune response, in terms of
+both its nature and magnitude, determines the clinical manifestation of
+the disease. After traversing the mucosal barrier, which serves as
+a mechanical defense, the innate immune system—comprising macrophages, CD4+ lymphocytes,
+and natural killer cells—acts to eliminate the virus and/or present
+viral antigens to cells responsible for antibody production, thereby activating
+humoral immunity. Effective coordination of these immune responses is necessary
+to clear the infection and establish long-term protection. Failure to
+control the infection or an excessive immune response can result
+in severe outcomes, including death.

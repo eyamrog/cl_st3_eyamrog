@@ -1,0 +1,9 @@
+The next point to be studied here is the behavior
+of the statistical correlations for different Indicators and Dimensions of
+the “U-Multirank”. This is a very important aspect, because high
+correlations among many Indicators would show that we are really
+not measuring 36 Indicators, since some of them would be
+redundant and we would be measuring similar aspects, just using
+different questions. This fact could be a strong point against
+the results of the “U-Multirank” and its multidimensional characteristics, which
+is the main new aspect of the ranking.

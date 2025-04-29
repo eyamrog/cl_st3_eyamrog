@@ -1,0 +1,16 @@
+This study has several limitations. First, it relied on publicly
+available secondary data from the Ministry of Health. During pandemic
+conditions, there may have been reduced accuracy or completeness in
+data reporting and updating by healthcare professionals. Additionally, some relevant
+information, such as data on hypertension, was not available. The
+only data provided by the Ministry of Health at the
+municipal level pertained to the number of procedures performed. In
+ecological studies, such as this one, the data do not
+directly measure the quality of or access to care, but
+they may highlight underlying issues within primary health care (PHC)
+services. Ecological study designs are also susceptible to systematic differences
+between areas in the measurement or recording of variables. Furthermore,
+the estimates derived from this study do not imply causality,
+and it is not possible to make inferences at the
+individual level from aggregate data, as this is not a
+causal inference study.

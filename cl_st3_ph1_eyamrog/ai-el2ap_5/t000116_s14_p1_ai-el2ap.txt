@@ -1,0 +1,15 @@
+This time-series study was conducted in the city of Rio
+de Janeiro, Brazil, which has a documented history of expanding
+primary care coverage and is frequently cited as a reference
+case for primary care studies in Brazil and the Americas.
+The analysis utilizes data from the Department of Health, comprising
+monthly records of hospitalizations in public health system units with
+universal coverage, disaggregated by disease code, from 2008 to 2019.
+Hospitalization trends were assessed across three distinct periods relevant to
+primary care in the municipality: January 2008 to December 2009,
+representing the pre-reform phase prior to the reorganization of primary
+care known as the Primary Health Care Reform (RCAPS); January
+2010 to December 2017, corresponding to the period during which
+the reorganization was implemented; and January 2018 to December 2019,
+marking the initial phase of changes introduced by the new
+National Primary Care Policy (PNAB).

@@ -1,0 +1,17 @@
+The identification of SBD candidate areas is based on the
+Exploratory Spatial Data Analysis (ESDA) technique, which involves an initial
+estimation strategy. This approach enables the calculation of both global
+and local measures of spatial autocorrelation. The Global Moran’s I
+statistic is used to assess the overall spatial association pattern
+of employment, weighted by area, across the entire sample. In
+contrast, the Local Moran’s I statistic allows for the decomposition
+of spatial association into specific regimes, identifying clusters classified as
+high-high (HH), high-low (HL), low-high (LH), and low-low (LL). This
+is achieved by computing an individual Moran’s I value for
+each observation in the sample, denoted as 𝐼𝑖, where 𝑖
+represents the region under evaluation and 𝑖 = 1, …,
+𝐼 (Anselin, 1995). Algebraically, 𝐼𝑖 is defined as <>, where
+𝑧𝑖 is the employment deviation for Census tract 𝑖, 𝑊𝑧𝑖
+is the average employment deviation in the neighboring tracts of
+𝑖, and 𝜎² is the variance of the deviations. Statistical
+inference is conducted using a random permutation method.

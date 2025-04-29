@@ -1,0 +1,2 @@
+In the specified regions, certain intervals exhibit higher values, as
+shown in Table 1.

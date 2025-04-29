@@ -1,0 +1,5 @@
+Due to the heterogeneous nature of AbCSim, each submodel uses
+different mechanisms to obtain, adjust and adapt parameters. Some of
+the constants were obtained directly from the literature, while others
+were adjusted using the grid search method and comparing simulation
+outputs with available real data.

@@ -1,0 +1,3 @@
+In the models, 𝑆𝑖𝑡(λ1,τ1) represents the logistic smooth transition function,
+as defined in Equation 21. The error term, 𝑣𝑡, denotes
+a stationary process with a mean of zero.

@@ -1,0 +1,12 @@
+Methods: In May 2021, a private indoor event attended by
+high school adolescents resulted in a superspreading incident. An anonymous
+questionnaire was distributed to all individuals invited to the event
+to collect information on symptoms, prior COVID-19 infection, vaccination status,
+and behaviors during the event. Participants were categorized into two
+groups: vaccinated and unvaccinated individuals. A sample from a fully
+vaccinated symptomatic participant was subjected to genomic sequencing. General characteristics
+of the study groups were summarized using both categorical and
+continuous variables. The incidence of COVID-19 in each group was
+calculated as the number of COVID-19 positive cases divided by
+the total number of individuals in the group, multiplied by
+100.

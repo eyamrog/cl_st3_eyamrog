@@ -1,0 +1,9 @@
+(3) Joãoi ignorou Maria enquanto Øi estava no celular. [*Johni
+ignored Mary while Øi was on the phone.] In this
+example, the null subject in the embedded clause is intended
+to refer to the matrix subject, João. However, this interpretation
+is not acceptable in Brazilian Portuguese. The sentence is ungrammatical
+under the intended coreference, as indicated by the asterisk. This
+suggests that, in Brazilian Portuguese, a null subject in an
+embedded clause introduced by "enquanto" ("while") cannot refer to the
+subject of the matrix clause.

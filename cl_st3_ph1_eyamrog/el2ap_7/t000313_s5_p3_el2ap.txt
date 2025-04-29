@@ -1,0 +1,15 @@
+It was also known that specific pathogen mutations are often
+required to enhance pathogen's fitness in a new host (Longdon
+et al., 2014). This is exactly what happened for the
+emergence of SARS-CoV-2. Recent investigations suggest the jump across species
+that resulted in the emergence of SARS-CoV-2 in humans was
+mainly due to five amino acid changes in critical S
+glycoprotein binding sites (Wan et al., 2020; Andersen et al.,
+2020). In addition to that, the S glycoprotein of SARS-CoV-2
+contains a cleavage site for furin proteases at the junction
+of subunits S1 and S2 as other human coronavirus (HCoV-OC43,
+MERS-CoV, and HKU1), but differently than what occurs with bat
+and pangolin SARS-CoV-2-like coronavirus, and SARS-CoV (Coutard et al., 2020).
+These events are associated with the high and efficient tropism
+with human ACE2 (Andersen et al., 2020; Lam et al.,
+2020).

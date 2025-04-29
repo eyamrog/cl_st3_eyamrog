@@ -1,0 +1,17 @@
+Based on pre-specified eligibility criteria, two authors (ACPNP and APR)
+will independently select studies for inclusion in the review. When
+duplicate studies are identified across multiple databases, only one instance
+will be considered for inclusion. If multiple reports are identified
+that use the same participants but assess different outcomes or
+use different assessment time points, both reports will be included
+and treated as components of a single study. In cases
+where duplicate reports are found with identical participants, outcome measurements,
+and assessment time points, the report with the smaller sample
+size will be excluded. After removing duplicate studies and reports,
+the authors will screen study titles and abstracts, excluding those
+that clearly do not meet the inclusion criteria. The remaining
+studies will undergo full-text review, and reasons for exclusion at
+this stage will be documented. Any disagreements regarding study inclusion
+will be resolved by a third author (ANA). The Rayyan
+application will be used to facilitate the screening and selection
+process.

@@ -1,0 +1,4 @@
+An approximate analysis based on data from São Paulo City
+suggests that a Social Distancing Index, as defined and reported
+by the State Government, greater than 55% may be required
+to achieve a reduction in the number of deaths.

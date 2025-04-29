@@ -1,0 +1,2 @@
+The test statistics proposed by Harvey and Leybourne (2007) are
+presented in Equation 4.

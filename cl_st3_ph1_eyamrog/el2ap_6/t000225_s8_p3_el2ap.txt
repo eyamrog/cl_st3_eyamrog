@@ -1,0 +1,10 @@
+In this communication, we use a time-series analysis of deaths
+attributed to ­COVID-19, in which each death is referenced to
+the date of death, and not to the date in
+which a ­COVID-19 test had its results concluded. The series
+is obtained from the Civil Registry in Brazil, and its
+analysis demonstrates that SDS had a significant impact on reducing
+the number of deaths in São Paulo State. We also
+estimate the reduction in the number of deaths obtained with
+the SDS and the intensity of social distancing needed to
+halt the spread of disease.

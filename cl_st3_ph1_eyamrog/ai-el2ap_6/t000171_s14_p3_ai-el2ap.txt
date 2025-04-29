@@ -1,0 +1,6 @@
+Data on the number of rapid tests performed per 1,000
+inhabitants between March 4 and June 22, 2020, were obtained
+from the e-SUS Epidemiological Surveillance platform (e-SUS VE) via the
+DATASUS system. Similarly, the number of RT-PCR tests conducted between
+March 4, 2020, and June 21, 2020, was extracted from
+the Laboratory Environment Manager platform.

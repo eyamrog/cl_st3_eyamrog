@@ -1,0 +1,7 @@
+In our baseline coevolutionary model, the trait barrier 𝜀𝑖𝑗 indicates
+that the evolutionary effects of a cheater species on a
+victim became negligible. To explore the effect of cheating interactions
+on the network structure, we changed our baseline coevolutionary model
+to add an additional trait barrier, bij, defining the maximum
+absolute trait mismatch between two species traits so they can
+interact: <>

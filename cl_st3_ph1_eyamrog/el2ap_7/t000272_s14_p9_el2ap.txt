@@ -1,0 +1,9 @@
+The quantification of total tannins was completed by the methodology
+proposed by Makkar & Becker (1993). A vanillin solution of
+4% (w/v) in methanol was added to the extract. Then
+1.5 mL of concentrated HCl (37%) was added. The absorbance
+was read at 500 nm in a spectrophotometer (Shimadzu UV
+mini - 1240). The result was determined by interpolating the
+absorbance of the samples against a calibration curve constructed from
+standards of catechin and expressed as mg catechin equivalents per
+g extract.

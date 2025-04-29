@@ -1,0 +1,10 @@
+Given the documented correlation between water quality and helminth infections
+in fish species such as Cyprinids (Zargar et al. 2012),
+the observed overdispersion of Bagrobdella vanhovei and the absence of
+B. vansteenbergei in the six host individuals collected near the
+Orthodox Church of Uvira may be attributable to differences in
+water quality between the two sampling sites. It is therefore
+possible that Bagrobdella vansteenbergei is specifically adapted to the environmental
+conditions present at the Mouth of the Mutambala River, whereas
+Bagrobdella vanhovei may exhibit greater tolerance to variations in abiotic
+factors.

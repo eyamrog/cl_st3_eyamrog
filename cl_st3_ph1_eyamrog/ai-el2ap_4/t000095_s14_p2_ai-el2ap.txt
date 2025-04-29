@@ -1,0 +1,7 @@
+All hospitalized adults (aged 18 years or older) diagnosed with
+COVID-19 or unspecified severe acute respiratory syndrome (SARS) between 1
+January 2020 and 31 December 2020 were included in the
+analysis. Patients with SARS attributed to other causes (including influenza,
+other respiratory viruses, or other etiologic agents), as well as
+individuals with Down syndrome and pregnant or postpartum women, were
+excluded.

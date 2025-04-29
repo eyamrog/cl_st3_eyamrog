@@ -1,0 +1,7 @@
+Conclusion: Computed tomography (CT) demonstrates high accuracy in the diagnosis
+of SARS-CoV-2 infection. The use of different interpretation criteria allows
+for the prioritization of either sensitivity or specificity, depending on
+clinical requirements. In resource-limited settings during the pandemic, CT may
+be effectively integrated as a triage tool to optimize the
+allocation of PCR testing, isolation beds, and intensive care unit
+resources.

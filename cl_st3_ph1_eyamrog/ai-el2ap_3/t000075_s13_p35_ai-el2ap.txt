@@ -1,0 +1,22 @@
+Given recent evidence on the effectiveness of capital controls, several
+economists have sought to identify the categories of capital flows
+for which the use of capital flow management measures (CFMs)
+would be theoretically desirable. In this context, the study by
+Blanchard et al. (2017) is notable for its theoretical innovation
+within conventional open economy models. The authors differentiate capital flows
+to emerging economies into two categories: bond flows, which include
+debt securities, and non-bond flows, which primarily consist of equity
+instruments and foreign direct investment (FDI). This classification is used
+to assess whether specific capital flows have expansionary or contractionary
+effects. According to Blanchard et al., bond flows are contractionary,
+as indicated by the IS-LM-BP framework, because they tend to
+appreciate the exchange rate without contributing to an expansion of
+domestic credit denominated in foreign currency. In contrast, non-bond flows
+can be either expansionary or contractionary, depending on their net
+impact on economic activity. Non-bond flows both appreciate the exchange
+rate and expand domestic credit backed by foreign currency; if
+the credit expansion effect outweighs the appreciation effect, the overall
+impact is expansionary. Therefore, capital controls on bond inflows are
+always considered desirable, while controls on non-bond inflows are only
+warranted if their net effect is contractionary (Blanchard et al.,
+2017).

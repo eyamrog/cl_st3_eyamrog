@@ -1,0 +1,25 @@
+Although the exponential increase in mortality rates with age is
+observed across all countries, this relationship is less pronounced in
+developing countries compared to developed countries in Europe and North
+America. In developed countries, Covid-19 mortality among individuals aged 80
+years or older is 5,000 to 10,000 times higher than
+among those under 20 years of age. This finding is
+consistent with the conclusions of Cohen et al. (2021), who
+analyzed the distribution of deaths in Western Europe as early
+as April 2020. In contrast, the difference in mortality rates
+between these age groups is smaller in Latin American countries,
+reaching approximately 500 times in Peru and Brazil. The primary
+factor underlying this divergence is the higher mortality observed among
+younger age groups in poorer countries; however, in some high-income
+countries, exceptionally high mortality rates among the elderly are also
+observed. The highest mortality rate reported in Table 1 pertains
+to individuals aged 80 years or older in England and
+Wales, where one in 51 people in this age group
+died from Covid-19 between the onset of the pandemic and
+January 28, 2021. In Mexico, which was also severely affected
+by the pandemic, the corresponding figure is one death per
+108 individuals in this age group. Overall, the data in
+the last column of Table 1 indicate that the variation
+in mortality rates among countries is lower in older age
+groups, which contrasts with the findings of O’Driscoll et al.
+(2021: 141), who, using a different methodology, reported otherwise.

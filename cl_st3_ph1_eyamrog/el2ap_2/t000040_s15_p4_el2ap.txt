@@ -1,0 +1,5 @@
+However, the MC visibility decreases when its borders become undetectable
+due to poor bone density or a non-perpendicularity between the
+canal and the principal beam [27]. Less resolution, elevated distortion
+and the risk of phantom images are also main disadvantage
+of this technique [28].

@@ -1,0 +1,14 @@
+Korinek (2011) was among the first theorists to provide a
+formal framework for the prudential use of capital controls in
+emerging economies. The model demonstrates that these economies tend to
+accumulate excessive external debt as a result of capital inflows,
+primarily because private agents fail to internalize the potential consequences
+of future debt constraints arising from over-borrowing. During periods of
+capital inflow, the model predicts increases in domestic consumption, asset
+price inflation (with assets serving as collateral in financial transactions),
+and currency appreciation. However, a negative shock to any of
+these variables can trigger financial amplification, characterized by currency depreciation,
+asset price deflation, and a contraction in aggregate demand. Under
+such conditions, private agents may face a feedback loop that
+results in either a partial cessation of external financing or
+an increase in its associated costs.

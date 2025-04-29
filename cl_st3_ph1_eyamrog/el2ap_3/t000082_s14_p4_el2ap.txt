@@ -1,0 +1,13 @@
+We assume if the trait difference between i and j
+is higher or equal to 𝜀𝑖𝑗, |Zj(t)-Zi(t)| ≥𝜀𝑖𝑗, then δij=0,
+and the cheater species imposes no selection on the victim.
+Thus, 𝜀𝑖𝑗 represents a trait barrier preventing the interaction due
+to trait dissimilarity (e.g., Santamaria & Rodríguez-Gironés 2007). However, if
+|Zj(t)-Zi(t)|< 𝜀𝑖𝑗, then δij=1 and selection on victim i will
+favor the increase or decrease of trait values depending on
+Zj(t)-Zi(t). If Zj(t)-Zi(t) is positive, the signal of 𝜀𝑖𝑗 will
+be positive. Contrarily, if Zj(t)-Zi(t) is negative, the signal of
+𝜀𝑖𝑗will negative (Andreazzi et al. 2017). Finally, we assumed that
+the environmental component Sei is the combined effects of all
+other selective pressures favoring an optimum trait value for each
+species, θi: <>

@@ -1,0 +1,7 @@
+Exploratory analysis of monthly trends over the study period identified
+a pattern characterized by two distinct seasonal periods: a low
+rainfall season from April to September and a high rainfall
+season from October to March. Consequently, the investigation of temporal
+associations between exposure (rainfall) and outcome (leptospirosis) in the present
+analysis considered both the overall monthly trends and the potential
+influence of these two seasonal periods.

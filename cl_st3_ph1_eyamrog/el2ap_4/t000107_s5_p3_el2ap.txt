@@ -1,0 +1,18 @@
+The Google search engine alone proved not to be reliable
+as well, because of its lack of appropriate filters and
+the interference of users algorythms, which are mainly trained for
+commercial purposes and largely driven by paid advertisements. It can
+be argued that the Google search engine has an application
+specially designed for the search and identification of scholarly texts,
+namely Google Scholar. However, searches conducted through Google Scholar tend
+to retrieve texts from books and scientific articles, which are
+not the object of our analysis. These issues led us
+to conduct searches in two other Brazilian websites that were
+designed to catalogue theses and dissertations completed in Brazilian higher
+education institutions viz. www.bdtd.ibict.br/vufind/ (BDTD) and www.catalogodeteses.capes.gov.br/catalogo-teses/ (CAPES). The latter
+website had more theses and dissertations in its catalogue than
+the Domínio Público and the BDTD websites. However, the CAPES
+website was less user-friendly, as the filter options appear only
+after the keywords are entered and vary according to which
+keywords are entered. Such characteristics of the CAPES website make
+searches there more complicated and time- consuming.

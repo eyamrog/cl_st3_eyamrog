@@ -1,0 +1,16 @@
+Currently, recordings in digital form are stored on a 32TB
+Network Attached Storage (NAS). For security, in case of failure
+of one of the NAS hard drives, RAID-6 redundancy is
+implemented, reducing the storage capacity to 22TB. The contents of
+that NAS are copied to the new 96TB NAS, whose
+capacity is reduced to 72TB in light of redundancy (see
+Figure 4). To ensure their safety, in case of risks
+such as fire or lightning, the two NAS must be
+kept in different buildings. Audio recordings are saved in their
+original format, i.e. as .wav files. Video recordings are saved
+in their highest definition format and also in compressed (.mpg)
+format, which takes up much less space. These compressed files
+and audio files are cataloged and stored using Language Archiving
+Technology (LAT) software. Most of them are copied on the
+server of the Information and Communication Technology Sector of the
+Goeldi Museum.

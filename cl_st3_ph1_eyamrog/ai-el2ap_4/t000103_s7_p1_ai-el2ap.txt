@@ -1,0 +1,7 @@
+Ambiguity is a well-documented issue in anaphora resolution, and extensive
+research has addressed this topic (Alonso-Ovalle et al., 2002; Keating
+et al., 2011; Lobo & Silva, 2016; Sorace & Filiaci,
+2006; Valenzuela et al., 2011). These studies have examined how
+both L1 and L2 speakers resolve ambiguity across various languages;
+however, there remains limited consensus regarding which theoretical framework most
+accurately accounts for this phenomenon.

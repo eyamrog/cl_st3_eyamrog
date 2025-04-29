@@ -1,0 +1,7 @@
+To control for urban infrastructure, we calculate the minimum Euclidian
+distance from each property to transportation sites (train and subway
+stations, main avenues, bus corridor, and highway roads) and amenities
+variables (urban parks, libraries, cultural centers, art galleries, theaters, concert
+halls, theater movies, malls, race stadium, resorts, sports centers, clubs,
+courts, soccer stadiums, elementary school, and high school, hospitals, health
+centers, and favelas).

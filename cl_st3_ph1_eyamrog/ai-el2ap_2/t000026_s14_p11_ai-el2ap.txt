@@ -1,0 +1,7 @@
+Fisher's exact test was applied to square contingency tables, where
+the number of rows and columns is equal, while Pearson's
+chi-square test (χ2) was used for non-square tables, where the
+number of rows and columns differs; both tests were conducted
+to assess the distribution of variables in relation to symptomatic
+levels of anxiety, as measured by the IDATE-T and IDATE-E
+scores.

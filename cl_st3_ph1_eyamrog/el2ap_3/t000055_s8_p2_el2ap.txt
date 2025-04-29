@@ -1,0 +1,22 @@
+The data set reported here are the metadata for each
+individual sand fly specimen deposited in FIOCRUZ/COLFLEB since 1953. Our
+dataset has 57 fields describing for each individual sand fly
+specimen their: (i) taxonomy (kingdom, phylum, class, order, family, genus,
+specificEpithet, infraspecificEpithet, scientificName, scientificNameAuthorship, taxonRank, vernacularName, typestatus), (ii) collection details,
+including the collectors (recordedBy), the collection date, trapping method, trap
+identification number, collection site description (occurrenceRemarks, eventDate, eventTime, habitat, samplingProtocol,
+samplingEffort, eventRemarks), (iii) geolocation data (country, countryCode, stateProvince, county, Island,
+waterbody, locality, locationRemarks, decimalLongitude, decimalLatitude , georeferenceRemarks), (iv) catalogue reference
+data (occurrenceID, catalogNumber, OtherCatalogNumbers). The associated data for each physical
+object in our collections has a paper card with many
+fields referring to specimen provider, location, quantity of specimens, etc..
+The data from these cards have been digitized by a
+dedicated member of the collection staff since 2010. The data
+are provided in the Darwin Core format [10]. Our data
+is available in the Sistema de Informação sobre a Biodiversidade
+Brasileira (SiBBr), an online platform that integrates data and information
+about biodiversity and ecosystems and is the Brazilian Node of
+the Global Biodiversity Information Facility (GBIF) [11], an internationally-recognized resource
+for collation of biological occurrence data, where our data set
+has been submitted, and is publicly available for use by
+others at: https://doi.org/10.15468/sxcpfp.

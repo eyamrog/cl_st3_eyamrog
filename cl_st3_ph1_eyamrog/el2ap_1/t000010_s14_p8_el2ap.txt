@@ -1,0 +1,5 @@
+Once the primary data were collected, a database was created
+with the study variables, using the SPSS statistical package for
+Windows version 11.5, to facilitate the statistical processing of the
+information. The study variables were characterized using the arithmetic mean,
+standard deviation and contingency table.

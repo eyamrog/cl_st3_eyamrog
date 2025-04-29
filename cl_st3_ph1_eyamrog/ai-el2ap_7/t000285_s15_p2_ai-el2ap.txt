@@ -1,0 +1,3 @@
+We will include cohort studies, case-control studies, and case series
+that report on the clinical presentation, severity, and prognosis of
+coinfection with SARS-CoV-2 and arboviruses.

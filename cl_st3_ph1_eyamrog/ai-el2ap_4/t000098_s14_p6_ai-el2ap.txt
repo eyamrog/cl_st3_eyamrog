@@ -1,0 +1,6 @@
+Data on Covid-19 mortality disaggregated by age group are limited
+and not readily accessible. Therefore, the presentation of age-specific mortality
+rates within a single publication constitutes a significant contribution of
+this study. The following paragraphs outline the process undertaken to
+collect and organize these data. The data sources are specified
+in Chart 1.

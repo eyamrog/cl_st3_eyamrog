@@ -1,0 +1,8 @@
+We will conduct a network meta-analysis using the netmeta package
+version 1.2-1 in R version 3.6.2 for Mac to synthesize
+both direct and indirect evidence regarding pharmacological therapeutic effects. In
+cases where a loop connects three treatment arms, we will
+assess inconsistency between direct and indirect comparisons using the node-splitting
+method. Treatment rankings will be presented using P-scores, which are
+calculated based on the point estimates and standard errors derived
+from the available network.

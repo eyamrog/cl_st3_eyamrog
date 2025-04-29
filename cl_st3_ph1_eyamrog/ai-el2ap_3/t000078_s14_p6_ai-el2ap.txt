@@ -1,0 +1,10 @@
+To address the issue of omitted variable bias, we estimate
+spatial econometric models that account for both direct and indirect
+effects by including relevant amenity controls. As noted by Can
+(1992) and Campos and Almeida (2018), the decomposition of real
+estate prices reveals two distinct effects: the impact attributable to
+the intrinsic characteristics of the property and the spatial spillover
+effect arising from the attributes of neighboring properties. Consequently, our
+econometric analysis focuses on the estimation and interpretation of the
+global effect, which encompasses both direct and indirect influences on
+real estate prices.

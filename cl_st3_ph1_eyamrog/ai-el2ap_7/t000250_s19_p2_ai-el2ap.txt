@@ -1,0 +1,12 @@
+The median score for depressive symptoms in the overall sample
+was 9.00 (IQR = 10.00), with a mean of 9.98
+(SD = 7.60) points on the BDI scale. Participants who
+engaged in at least 30 minutes of moderate-to-vigorous physical activity
+(MVPA) per day reported significantly lower depressive symptoms compared to
+those who engaged in less than 30 minutes per day
+(adjusted mean difference [AMD] = -0.707; 95% CI: -1.160 to
+-0.253; p = 0.002). Additionally, individuals who spent less than
+10 hours per day in sedentary behavior (SB) reported significantly
+lower depressive symptoms than those who spent 10 hours or
+more per day in SB (AMD = -1.736; 95% CI:
+-2.704 to -0.768; p < 0.001).

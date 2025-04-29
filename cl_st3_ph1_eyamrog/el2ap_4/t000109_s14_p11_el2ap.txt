@@ -1,0 +1,8 @@
+Infectivity submodel makes behavior of Ha change according to its
+epidemiological compartment. If Ha is in the Susceptible compartment, then
+Ha meets the daily activities and movements pre-established as attributes
+and defined by Mobility submodel. However, if Ha is in
+a compartment different from Susceptible or Exposed, then Ha stops
+moving, since it is assumed that it remains at home
+to avoid transmiting the disease to other Ha. From that
+moment on, the household members are in the Exposed compartment.

@@ -1,0 +1,4 @@
+The human agent population was divided into five age groups:
+children, young people, adults, older adults, and elderly individuals. The
+transition constants between epidemiological compartments, as presented in Figure 2,
+are specific to each age group and are provided in

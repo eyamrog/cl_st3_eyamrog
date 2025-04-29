@@ -1,0 +1,4 @@
+Syntactically, in example (48), the head of the appositive relative
+clause functions as the complement of a higher determiner (D),
+while the relativized noun phrase (NP) remains within the complementizer
+phrase (CP), specifically occupying its specifier position.

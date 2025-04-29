@@ -1,0 +1,16 @@
+A detailed examination of the definitions of the Indicators reveals
+that they are highly objective, featuring clear definitions and quantitative
+measures governed by pre-defined rules (https://www.umultirank.org/export/sites/default/press-media/documents/Indicator-Book-2020.pdf). Unlike rankings that incorporate
+“reputation” metrics—where members of the international academic and industrial communities
+evaluate institutions based on subjective experience and personal opinion rather
+than empirical data—this ranking system relies exclusively on measurable criteria.
+This approach represents a significant distinction from more traditional, one-dimensional
+rankings. For instance, the Times Higher Education World University Rankings
+(https://www.timeshighereducation.com/world-university-rankings) assigns a 33% weight to reputation-based indicators in its
+final assessment, while the QS World University Rankings (https://www.topuniversities.com/university-rankings) allocates
+up to 50%. This reliance on objective data is a
+notable strength of U-Multirank. However, it should be noted that
+61.11% of the data used in U-Multirank is self-reported by
+institutions, and many institutions do not yet provide data with
+sufficient accuracy or completeness. This limitation indicates an area where
+further improvement is necessary.

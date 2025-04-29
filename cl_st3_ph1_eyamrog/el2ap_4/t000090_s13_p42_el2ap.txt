@@ -1,0 +1,8 @@
+The results show that there is only one “very strong”
+correlation, for the Indicators “Citation Rate” and “Top Cited Publications”.
+They have a correlation index of 0.9402, indicating near perfect
+positive relation. It means that the Institutions that have more
+citations are also the ones who have the most cited
+publications. This fact is not surprising, but the high value
+of this index says that we are getting nearly the
+same ranking in both Indicators and those Indicators are redundant.

@@ -1,0 +1,6 @@
+All methods that utilize gross employment density (employment per unit
+area) are sensitive to the size of the area under
+consideration, as larger regions typically exhibit lower density values, which
+can complicate the identification of employment subcenters. Furthermore, Mieszkowski and
+Smith (1991) note that the use of gross density in
+estimation procedures tends to result in inflated coefficient estimates.

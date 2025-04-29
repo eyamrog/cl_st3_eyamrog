@@ -1,0 +1,2 @@
+Sociodemographic and economic variables: race/color, marital status, filiation, education, occupation,
+and family income prior to and during the pandemic.

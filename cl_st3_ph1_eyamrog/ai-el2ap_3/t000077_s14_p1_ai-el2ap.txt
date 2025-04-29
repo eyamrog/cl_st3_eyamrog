@@ -1,0 +1,6 @@
+Since 1967, the Brazilian Institute of Geography and Statistics (IBGE)
+has systematically collected data on population characteristics, education, labor, income,
+and housing through the National Household Sample Surveys (PNADs). In
+2016, the survey was restructured as the Continuous PNAD, which
+is conducted quarterly to monitor fluctuations in the labor force
+and to provide comprehensive socioeconomic indicators.

@@ -1,0 +1,17 @@
+Compared to eukaryotes, which possess complex genomes often exceeding one
+billion base pairs (bp) in length, prokaryotic genomes are relatively
+small, typically consisting of a single circular chromosome of a
+few million bp and often including small extrachromosomal plasmids. In
+many genomic applications, it is desirable to obtain the complete
+bacterial genome sequence, defined as the full nucleotide sequence of
+each DNA molecule present in the cell. However, current DNA
+sequencing technologies operate by fragmenting the genome and sequencing these
+fragments, resulting in reads that are short, randomly ordered segments
+of the genome. These reads are subject to errors, with
+the frequency and type of errors varying by sequencing platform,
+and are also redundant, as sequencing protocols require generating a
+total read output that greatly exceeds the genome size to
+achieve sufficient coverage. Consequently, there is a discrepancy between the
+output of sequencing technologies, which provide short, imperfect, and redundant
+sequences, and the objective of obtaining a complete, accurate genome
+sequence.

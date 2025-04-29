@@ -1,0 +1,15 @@
+This paper introduces a novel model, the Agent-based Model for
+COVID-19 Simulation (AbCSim), which enables the simulation of populations affected
+by COVID-19, including both symptomatic and asymptomatic cases, as well
+as susceptible and recovered individuals [24]. The model incorporates the
+complexity of disease dynamics and interpersonal interactions, integrating relevant geographical
+and climatological data associated with the pandemic. Furthermore, it features
+a host transmission module based on a set of Hidden
+Markov Models (HMM) [25][26][27], which represent key aspects of agent
+mobility and social behavior within the defined geographical area. AbCSim
+is implemented on the Repast computational simulation platform [28] and
+is available as open-source software via GitHub. The model supports
+the simulation of entire populations at the individual level, allowing
+for city-scale or larger analyses. It has been specifically adapted
+for Paraná city (Entre Ríos, Argentina) and evaluated under various
+scenarios to forecast the local progression of the epidemic.

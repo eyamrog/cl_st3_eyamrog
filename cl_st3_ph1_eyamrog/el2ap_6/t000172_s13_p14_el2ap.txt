@@ -1,0 +1,10 @@
+Finally, an important study recently showed cellular pathways related to
+the coronaviruses RTC, using MHV (mouse hepatitis virus) as a
+model (V’kovski et al. 2019). The study identified that RTC
+interacts with translation initiation factors, which may not persist throughout
+the replication cycle but may be of transitory importance during
+specific phases of the replication cycle. In addition, the knockdown
+of some of these factors, such as eIF3E, eIF3F, and
+eIF3I, impacted in the MHV replication. Proteins related to transport
+and intracellular organization were also related to RTC in this
+study.

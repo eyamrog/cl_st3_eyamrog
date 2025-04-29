@@ -1,0 +1,6 @@
+The total number of spores of each species was determined
+through microscopic examination of individual slides, following the methodology described
+by De Paula (2016). Ecological indices related to species richness,
+including the total number of sampled individuals, absolute frequency (Fa),
+and relative frequency (Fr), were calculated using the following equations:
+<>.

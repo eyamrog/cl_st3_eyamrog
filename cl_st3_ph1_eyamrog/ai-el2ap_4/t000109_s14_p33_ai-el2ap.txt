@@ -1,0 +1,6 @@
+The location categorized as "leisure" refers to places that individuals
+commonly visit on a routine basis and that are frequented
+by multiple households. Examples of such locations include cinemas, parks,
+and shopping centers. A list of these locations is maintained,
+each assigned a probability that reflects the visitation habits of
+residents within a specific neighborhood.

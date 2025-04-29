@@ -1,0 +1,11 @@
+Whenever people talk there are very likely to be questions
+and answers. These utterances are realized at different points in
+"sequence time." Notwithstanding the content of their questions, questioners are
+oriented to what lies just ahead, and depend on what
+is to come; answerers are oriented to what has just
+been said, and look backward, not forward. Observe that although
+a question anticipates an answer, is designed to receive it,
+seems dependent on doing so, an answer seems even more
+dependent, making less sense alone than does the utterance that
+called it forth. Whatever answers do, they must do this
+with something already begun.

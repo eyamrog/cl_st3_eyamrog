@@ -1,0 +1,17 @@
+On average, the fracture toughness of leaf lamina maintained in
+a moist condition remains statistically unchanged over time (Fdf(59) =
+1.71; P = 0.19; figure 2d), with a mean value
+of approximately 206 ± 53 J m−2 and a median
+of 197 J m−2. In contrast, leaves subjected to gradual
+dehydration exhibit a significant increase in fracture toughness over time
+(Fdf(59) = 12.57; P < 0.001; figure 2e; Supplementary material
+table S4). Additionally, the relative water content of leaves undergoing
+gradual dehydration decreases exponentially with time (Fdf(59) = 208; P
+< 0.001; figure 2f; Supplementary material table S5), and leaf
+fracture toughness demonstrates a negative exponential relationship with stem relative
+water content (Fdf(59) = 9.35; P = 0.003; figure 3b;
+Supplementary material table S6). For instance, at a moisture content
+of 12%, the average fracture toughness of A. crucigerum leaf
+lamina is 270 J m−2, whereas at 24% moisture content,
+the average fracture toughness is 230 J m−2, representing a
+15% reduction.

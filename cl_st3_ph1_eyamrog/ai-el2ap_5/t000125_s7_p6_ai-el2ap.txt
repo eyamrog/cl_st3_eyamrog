@@ -1,0 +1,8 @@
+The greater number of indicators used by U-Multirank provides a
+more comprehensive assessment of universities; however, it also leads to
+issues related to data availability. This problem is particularly pronounced
+for non-European universities, especially those in Latin American countries. A
+significant proportion of the data is obtained through questionnaires completed
+by the universities themselves, and many institutions do not consistently
+report this information. This issue will be further examined in
+relation to the Brazilian universities included in this ranking.

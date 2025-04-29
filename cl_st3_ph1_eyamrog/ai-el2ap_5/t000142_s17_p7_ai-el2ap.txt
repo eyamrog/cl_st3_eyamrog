@@ -1,0 +1,3 @@
+The null hypothesis, which assumes linearity, and the alternative hypothesis,
+which assumes nonlinearity, are presented in Equations 2 and 3,
+respectively.

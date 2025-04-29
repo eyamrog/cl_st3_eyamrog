@@ -1,0 +1,8 @@
+SARS-CoV has also been described to arrest the cell cycle.
+Nucleocapsid protein was shown to arrest cell cycle at S
+phase, through direct interaction with cyclin D and inhibition of
+the CDK4/Cyclin D complex, preventing phosphorylation of Rb (Retinoblastoma) protein,
+a central player in cell cycle control (Surjit et al.
+2006). IBV infection also reduces Cyclin D1, which participates in
+G2/M transition, inducing cell cycle arrest at G2/M (Harrison et
+al. 2007).

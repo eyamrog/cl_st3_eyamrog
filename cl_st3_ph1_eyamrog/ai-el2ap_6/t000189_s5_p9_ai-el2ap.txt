@@ -1,0 +1,9 @@
+Xu et al. (2016) [37] conducted a study involving 2,694
+children and adults in Hong Kong and found no significant
+association between low serum concentrations of 25(OH)D (<50 nmol/L) and
+the risk of laboratory-confirmed influenza virus infection after adjusting for
+age, sex, chronic disease, and vaccination history (RR: 1.15; 95%
+CI: 0.73–1.83; p=0.55). However, the study did identify a significant
+association between low 25(OH)D levels and the incidence of influenza-like
+symptoms, defined as the presence of fever (≥37.8ºC) and cough
+or sore throat (RR: 1.70; 95% CI: 1.14–2.51; p=0.01).

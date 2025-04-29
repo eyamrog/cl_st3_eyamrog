@@ -1,0 +1,17 @@
+To analyze the behavioral details in Arenas 1–3, both frontal
+and top views of the experimental arenas were recorded in
+full-screen mode using a CMOS video camera (EOS Rebel T7i,
+Canon) equipped with a zoom lens (EF-S 15–55 mm f,
+IS, Canon) and a macro lens (close-up +10, 58 mm,
+Commander), providing a diagonal field of view of 40 mm.
+The camera was mounted on a pivoting base to enable
+complete visual coverage of each arena. All experiments were conducted
+in a darkened room. Illumination for Arenas 1 and 2
+was provided by a LED lamp (2850K, 570 lumens, Reveal,
+General Electric), while Arena 3 was illuminated with a LED
+infrared lamp (840 nm, Cmvision); the camera’s infrared sensitivity enabled
+observation and recording under these conditions. Video recordings were analyzed
+using computer software (version 9.1.2.7, Wondershare Filmora9) for playback, tracking,
+and editing. The ethological terminology used to describe triatomine behaviors
+was based on the frameworks proposed by Kogon (1941) and
+Crist (1998).

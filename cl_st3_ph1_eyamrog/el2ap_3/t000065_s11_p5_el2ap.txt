@@ -1,0 +1,15 @@
+Several learner corpus studies use Contrastive Interlanguage Analysis (CIA), which
+can be understood as analysis that “involves the comparison between
+learner language and the target language” (Granger, 2015, p. 13).
+Learner language has been called ‘Interlanguage Varieties’ (ILV), especially highlighting
+“the highly variable nature of interlanguage” (Granger, 2015, p. 18).
+This approach may compare students’ oral or written texts with
+native speakers’ texts (ILV vs. NS) (De Cock et al.,
+1998, on word combinations in a English learner corpus of
+French as a first language vs. an English native speaker
+corpus), interlanguage variety with learners’ first language and with native
+speakers’ (ILV vs. L1 vs. NS) (Altenberg & Taper, 1998)
+on adverbial connectors in Sw-ICLE14, in a Swedish as L1
+corpus and in LOCNESS) or two interlanguage varieties or more
+(ILV vs ILV) (Bohórquez, 2015, on lexical bundles on Ch-ICLE
+and Dt- ICLE).15

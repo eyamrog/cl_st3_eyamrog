@@ -1,0 +1,11 @@
+The website www.dominiopublico.gov.br aims to facilitate broad access to literary,
+artistic, and scientific works that are either in the public
+domain or have been authorized for publication. The homepage includes
+a basic search form that allows users to filter results
+by media type (image, sound, text, and video), as well
+as by category, author, title, and language. Additionally, the homepage
+features a dedicated section for dissertations and theses, which was
+utilized for the initial search in this study. In this
+section, the filter "mestrado" (master) was selected under the "Nível"
+(level) field, and the term "Tradução" (translation) was entered in
+the "Palavras-Chave" (keywords) field (see Figure 1).

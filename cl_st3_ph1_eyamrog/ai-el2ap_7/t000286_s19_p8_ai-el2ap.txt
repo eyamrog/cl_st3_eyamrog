@@ -1,0 +1,11 @@
+The VECM results indicate that the error correction term (ECM)
+at lag 1 is negative, consistent with the expectation that
+the ECM corrects deviations from the long-run equilibrium relationship between
+POV and the explanatory variables. The coefficient of the ECM
+suggests an adjustment speed of 1.99% per annum, meaning that
+1.99% of any short-run disequilibrium is corrected within one year.
+The model's R² value is 0.35, indicating that approximately 35%
+of the total variation in FDI is explained by the
+independent variables (GD, INF, INT, and EXC) over the study
+period, while the remaining 65% is attributable to factors not
+included in the model.

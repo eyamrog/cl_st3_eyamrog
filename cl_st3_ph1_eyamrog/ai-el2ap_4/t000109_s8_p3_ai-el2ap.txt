@@ -1,0 +1,12 @@
+Much of the existing literature on epidemic modeling and simulation,
+particularly in the context of COVID-19, employs global models based
+on SEIR (Susceptible, Exposed, Infected, Recovered) differential equations or similar
+frameworks, with various adaptations specific to the disease [14][15]. In
+contrast, the epidemic modeling community has also utilized local or
+fine-grained approaches [16], including agent-based models (ABM) [10][13][17][18], such as
+the one implemented in this study. These models offer increased
+expressiveness and control over various aspects of epidemic dynamics, facilitate
+the incorporation of stochastic elements, and enable detailed spatiotemporal monitoring
+of simulation outcomes [10][11][19]. However, they typically require greater computational
+resources and access to extensive local data to be effectively
+tailored to specific scenarios.

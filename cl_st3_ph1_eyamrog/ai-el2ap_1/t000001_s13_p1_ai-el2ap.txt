@@ -1,0 +1,21 @@
+DNA should be extracted from a single bacterial colony to
+minimize the risk of genomic heterogeneity (see Pitfalls). The optimal
+DNA extraction method may vary depending on the organism; however,
+the primary objectives should be to maximize both DNA purity
+and molecular weight. High purity is essential for optimal Oxford
+Nanopore Technologies (ONT) sequencing yields, as chemical and biological contaminants
+can damage or obstruct nanopores, thereby reducing the lifespan of
+flow cells. High molecular weight DNA enables the generation of
+longer ONT reads; therefore, vortexing, excessive handling or pipetting, and
+repeated freeze-thaw cycles should be avoided to minimize DNA shearing.
+For most bacteria, extraction protocols should include cell lysis by
+enzymatic digestion, typically using lysozyme (Sigma Aldrich, L6876) followed by
+proteinase K digestion, as provided in commercial DNA extraction kits.
+This approach is generally effective for both Gram-negative and Gram-positive
+bacteria, although additional enzymatic steps may be necessary for species
+that are resistant to lysis. Magnetic bead-based DNA extraction methods
+are recommended to further reduce DNA shearing and increase throughput.
+The preferred kits are GenFind V3 (Beckman Coulter, C34881) and
+MagAttract HMW DNA (Qiagen, 67563). For bacterial isolates that are
+refractory to enzymatic lysis, bead-beating can be employed, although this
+may result in reduced ONT read lengths.

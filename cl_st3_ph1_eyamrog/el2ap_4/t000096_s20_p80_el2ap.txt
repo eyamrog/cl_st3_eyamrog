@@ -1,0 +1,3 @@
+- Differentiate the usefulness and application of the main descriptive
+statistics for the analysis and interpretation of information using electronic
+sheets or specific software.

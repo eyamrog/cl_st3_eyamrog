@@ -1,0 +1,25 @@
+It is clear that the differences in positions are very
+large. Statistical correlations were calculated for each pair of classifications
+and the results are: “U-Multirank” vs. average of the Indicators:
+0.8035; “U-Multirank” vs. average of the Dimensions: 0.6179; average of
+the Indicators vs. average of the Dimensions: 0.8403. It means
+that using the averages of Indicators and Dimensions gives the
+best similarities in the results, while the use of the
+rules given by the “U-Multirank” gives less correlated results, in
+particular when comparing with the results obtained from the average
+of Dimensions. This proposal of using the average of Dimensions
+looks to be the more reasonable to make a general
+classification, so it is used here to select the “best
+300 performers” in Europe in 2020. Of course the effects
+of missing or “Not Applicable” data are present in all
+the classifications. It does not count as an “A” in
+the classification made by the “U-Multirank”, and it counts as
+zero for the classifications using the average of Indicators or
+the average of Dimensions. The effects will be stronger in
+the last two classifications, but the present paper considers that
+it is fair to give penalty to institutions who did
+not return data, which is the only reason for the
+missing data. The “Not Applicable” data occurs in a much
+smaller scale and is not responsible for modifications that are
+large enough to affect the conclusions of the statistical studies
+made here.

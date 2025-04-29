@@ -1,0 +1,18 @@
+Viruses are complex pathogens capable of infecting multiple host species
+and causing a wide range of diseases with diverse symptoms.
+Coronaviruses (CoVs), classified as pleomorphic RNA viruses within the subgenus
+Sarbecovirus and subfamily Orthocoronavirinae, exhibit a high rate of genetic
+recombination, primarily due to frequent errors during RNA-dependent RNA polymerase
+(RdRP)-mediated replication. The replication cycle of SARS-CoV-2 involves several key
+steps: initial recognition and binding to the host cell, entry
+via membrane fusion or endocytosis, release of the viral genome,
+translation of viral polymerase proteins, RNA replication, subgenomic transcription, translation
+of structural proteins, assembly of structural proteins with the nucleocapsid,
+formation of mature virions, and release of these virions through
+exocytosis. Upon completion of this cycle, newly formed virions are
+released and can infect additional host cells, thereby perpetuating the
+infection cycle. Approximately two-thirds of the viral RNA genome encodes
+16 non-structural proteins (NSPs), while the remaining one-third encodes four
+essential structural proteins—spike glycoprotein (S), small envelope protein (E), matrix
+protein (M), and nucleocapsid protein (N)—as well as several accessory
+proteins.

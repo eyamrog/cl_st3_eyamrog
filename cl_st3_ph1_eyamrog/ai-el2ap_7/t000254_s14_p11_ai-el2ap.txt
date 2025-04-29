@@ -1,0 +1,13 @@
+Significant differences between rates were evaluated using the Student’s t-test
+for data with normal distributions, with results reported as means
+and standard errors, or the Mann-Whitney test for non-normally distributed
+data, with medians (Mdn) reported. Comparisons among the three tree
+and shrub size classes were conducted using one-way Analysis of
+Variance (ANOVA) followed by Tukey-Kramer post-hoc tests. Assumptions of normality
+and homogeneity of variance were assessed using the Shapiro-Wilk test,
+Q-Q plots, and Levene’s test, respectively. Spatial dependence was quantified
+by correlation analysis following the method of Legendre and Fortin
+(1989), with an adjustment involving a reduction of two degrees
+of freedom. Mortality (Mr) and recruitment (Rr) rates were calculated
+using algebraic methods rather than logarithmic transformation, in accordance with
+the recommendations of Sheil et al. (1995).

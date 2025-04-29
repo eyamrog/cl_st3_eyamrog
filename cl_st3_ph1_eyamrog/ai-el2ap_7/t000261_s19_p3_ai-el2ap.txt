@@ -1,0 +1,21 @@
+The changepoint analysis identified a single point that divided the
+TSI time series into two segments, as indicated by the
+orange lines in Figure 4a. These segments correspond to significant
+changes in both the mean and variance of TSI values
+over time. Subsequently, a new changepoint was identified within each
+segment to assess additional mean changes in the data. The
+analysis revealed an initial mean increase (from 64 to 71,
+Figure 4a), followed by a mean decrease (from 74 to
+67, Figure 4b), and ultimately a stable mean value (67,
+Figure 4c). This information informed the application of piecewise regression.
+The first mean change occurred in August 1999, and this
+point was considered as a potential breakpoint in the segmented
+regression analysis. However, the breakpoint identified by the regression occurred
+in October 2001. These results indicate a significant increase in
+TSI followed by a significant decrease (Figure 4b), as evidenced
+by a positive regression coefficient for Time (0.29) and a
+negative coefficient for U1.Time (−0.34) (Table 2). The P value
+for the U1.Time term is reported as “not applicable (NA)”
+in Table 2 because standard methods are not suitable in
+this context, as previously discussed. The Davies test was significant,
+supporting the validity of the estimated regression coefficients.

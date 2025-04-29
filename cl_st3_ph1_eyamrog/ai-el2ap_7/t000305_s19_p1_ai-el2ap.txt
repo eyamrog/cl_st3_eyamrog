@@ -1,0 +1,4 @@
+Table 1 presents the descriptive statistics for incidence, mortality, and
+lethality rates for each group of interest. Incidence and mortality
+rates are reported per 100,000 inhabitants, while lethality rates are
+reported per 100 cases.

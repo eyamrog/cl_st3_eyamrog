@@ -1,0 +1,26 @@
+In addition to ongoing debates regarding whether the Journal Impact
+Factor (JIF) accurately reflects journal “quality,” the JIF, alongside other
+bibliometric indices, is intended to facilitate the identification of patterns
+and trends in scholarly publishing. Since its introduction in the
+early 1970s—although Garfield (1972) noted its conceptual design dates back
+to 1955 (see also Garfield 2006)—the JIF has gained widespread
+popularity and has been adopted as a primary metric for
+assessing research quality, a practice that remains contentious (Hecht et
+al. 1998; Alberts 2013). The JIF is calculated as the
+ratio of the number of citations received in a given
+year (numerator) to the number of articles published in the
+preceding two years (denominator); for example, the 2019 JIF is
+determined by dividing the number of citations in 2019 to
+articles published in 2017 and 2018 by the total number
+of articles published in those two years (Garfield 2006). This
+metric provides an indication of the extent to which articles
+or topics published by a journal are cited and, by
+extension, their reach within the academic community. Problems have arisen
+when institutions, including governmental funding agencies, have extended the use
+of the JIF beyond journal evaluation to assess the scientific
+output of universities, research institutes, graduate programs, and individual researchers.
+This extrapolation is logically flawed, as the JIF was not
+designed for such purposes. Consequently, the JIF is widely recognized
+as the most frequently misapplied and misinterpreted bibliometric index in
+academic science (Hecht et al. 1998; Haustein & Larivière 2015;
+Ioannidis & Thombs 2019).

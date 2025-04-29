@@ -1,0 +1,13 @@
+To acess the athletes’ Present Mood States, PMSL was used.
+In PMSL, mood states are accessed through 40 locutions presented
+in the first singular person that denote these mood states.
+A 5-point likert-type scale located at the side of each
+locution contains degrees of intensity to be responded by the
+participant. These 40 locutions are divided into 12 Factors, take
+into account the hedonic value and activation level of each
+item. In order to facilitate the description and identification of
+the data, the authors who have used the PMSL in
+the sporting context (Picoli, 2016; Silva, 2017) have named the
+following factors from the representative locutions: I—Humiliation/Anger, II—Fatigue, III—Hope, IV—
+Limerence/Empathy, V—Physiological Response, VI—Repulsion, VII—Interest, VIII— Surprise, IX—Hunger, X—Disregard/Envy, XI—Receptivity,
+and XII—Serenity.

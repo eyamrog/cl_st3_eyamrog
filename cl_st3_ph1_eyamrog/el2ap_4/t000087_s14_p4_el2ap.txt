@@ -1,0 +1,9 @@
+The incidence of COVID-19 in vaccinated individuals was computed by
+taking the total number of COVID-19 positive cases in the
+vaccinated group (numerator) divided by the total number of vaccinated
+individuals (denominator) multiplied by 100. The incidence of COVID-19 in
+the unvaccinated group was computed by taking the total number
+of COVID-19 positive cases in the unvaccinated group (numerator) divided
+by the total number of unvaccinated individuals (denominator) multiplied by
+100. Confidence intervals were constructed using the exact Clopper- Pearson
+method (Desu and Raghavarao, 2003).

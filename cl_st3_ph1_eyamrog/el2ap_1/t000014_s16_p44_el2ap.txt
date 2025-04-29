@@ -1,0 +1,26 @@
+Once materials have been archived, many years may pass before
+they are utilized by others. For example, linguist Catherine Callaghan
+(1931-2019) made a series of recordings of Sarah Ballard speaking
+Bodega Miwok (Miwokan; California) in 1960, while the former was
+a graduate student in linguistics at the University of California,
+Berkeley (PhD, 1963). She donated these and other recordings to
+the California Language Archive14 in 1979 (BALLARD and CALLAGHAN, n.d.).
+Forty years later, in 2019, linguist Andrew Cowell (Berkeley PhD
+in 1993) made time-aligned transcriptions of these recordings in ELAN,
+which he archived with the same repository (COWELL, 2019+).15 The
+two collections are linked in the archive’s digital catalog, and
+so can easily be related to each other when consulting
+one or the other. Similarly, linguist Gladwyn Kingsley Noble, Jr.
+(1923-1994) made recordings of speakers of Wapishana and Atorai (Arawak;
+Brazil, Guyana) during a single field trip to Guyana in
+1965. After wending their way through the hands of different
+academics, the 13 tapes were donated to the California Language
+Archive around 2006 by Manjari Ohala (see GEORGE et al.,
+1965). The recordings of Atorai, formerly thought to no longer
+have any first-language speakers, were utilized for a preliminary phonological
+description of the language by O’Hagan (2018), which was elaborated
+on by E. Miller (2021) as part of an undergraduate
+honors thesis. In 2021, the texts included in the recordings
+were translated by remaining speakers now resident in Wapishana communities,
+and may serve as a basis for a workshop dedicated
+to Atorai language later in 2022 (K. RYBKA, p.c.).

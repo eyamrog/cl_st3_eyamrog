@@ -1,0 +1,9 @@
+The mean diversity of cleaners demonstrate higher values than non-cleaners
+in most families. For 18 of the 26 families analyzed
+in Brazil and Africa, the mean diversity was significantly higher
+for the cleaners (Fig. 3). For example, In Charadriidae family,
+the H mean value was about 0.268 without the cleaners
+(which in this family, represents about 93% of the members)
+but, if only considering the cleaners, the H value was
+about 1.265 (which in this family, represents about 6% of
+the members).

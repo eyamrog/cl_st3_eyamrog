@@ -1,0 +1,9 @@
+They establish constraints regarding what actions are relevant in the
+subsequent turn (for example, a ‘question’ makes an ‘answer’ particularly
+relevant in the next turn), but they do not, in
+themselves, assign the next turn to a specific speaker. Nevertheless,
+they constitute the fundamental element in the process of selecting
+the next speaker, as it is primarily through affiliation with
+a first pair-part that the most effective mechanism for selecting
+the next speaker—namely, addressing a particular individual—operates (Sacks et al.,
+1974, p. 717).

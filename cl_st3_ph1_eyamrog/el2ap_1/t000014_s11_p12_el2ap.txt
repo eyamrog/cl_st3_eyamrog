@@ -1,0 +1,11 @@
+Once the materials and metadata are archived, they are accessible
+to (i.e., they can be accessed by) their creators, as
+well as by collaborators, other researchers, members of the language
+community, and anyone else who might need access to the
+data. Furthermore, digital language archives are constructed in ways that
+support discoverability of materials, that is, the ability of users
+to find or discover materials they are looking for. Discoverability
+is relevant both to searches within the archive itself (via
+facet or targeted searching, advanced searches, etc.), and to searches
+carried out via broader internet platforms such as Google indexing
+and metadata harvesting by the Open Language Archives Community (OLAC).

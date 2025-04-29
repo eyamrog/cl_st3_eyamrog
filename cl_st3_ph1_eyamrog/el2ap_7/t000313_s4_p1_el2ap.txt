@@ -1,0 +1,20 @@
+Our comparative analysis of the ACE2 coding region from 70
+placental mammal species, revealed many variable sites. Of these, we
+selected 30 sites with records to be relevant for interaction
+with SARS-CoV-like S glycoproteins. For three of them, there is
+a significant signal of the action of the Darwinian (positive)
+selection. We observed extraordinary conservation within Homo sapiens and relatively
+high variation among placental mammal species. Our data indicate that
+SARS-CoV-2 has similar potential to infect any human population, already
+corroborated by the pandemic character of COVID-19. We can suggest
+that any difference in the rate of infection and mortality
+of this pathogen/disease among humans is related to other factors
+such as comorbidities of the infected individuals, cultural practices, demographic
+density, capacity of the country's health systems, suppression or mitigation
+measures, in addition to differences in the SARS-CoV-2 strains, as
+well as the effective innate immune response from infected individuals.
+The involvement of other genetic pathways, in addition to the
+ACE2 protein and the immune system, cannot be ruled out
+either, but only the progress of the studies will be
+able to identify them, as well as their eventual role
+in the COVID-19 human pandemic.

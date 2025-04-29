@@ -1,0 +1,15 @@
+A relapse is defined as a demyelinating event of the
+central nervous system lasting at least 24 hours in the
+absence of fever or infection. Therefore, it is essential to
+exclude infection when evaluating a worsening of neurological symptoms in
+patients with multiple sclerosis (MS). During the COVID-19 pandemic, it
+is appropriate to specifically rule out SARS-CoV-2 infection, as case
+reports have documented an association between SARS-CoV-2 and demyelinating events.
+Consequently, COVID-19 should be excluded in all patients presenting with
+MS relapses. As part of the evaluation protocol, patients should
+be assessed for typical clinical features such as cough, fever,
+respiratory symptoms, hyposmia or anosmia, and hypogeusia. If these symptoms
+are present, further investigations including chest computed tomography, SARS-CoV-2 RT-PCR,
+and/or immunological assays are recommended. It should be noted that
+the sensitivity of immunological assays may be reduced in MS
+patients with impaired humoral responses due to certain disease-modifying drugs.

@@ -1,0 +1,3 @@
+However, upon closer examination of (15), restated below as (52),
+it becomes apparent that its behavior is identical to that
+of (47).

@@ -1,0 +1,20 @@
+We acknowledge several limitations in our search strategy. To ensure
+consistency and reproducibility, we restricted our search to the four
+databases specified above and focused exclusively on nucleotide sequences. Additional
+information on protein sequences and structures is available in databases
+such as NCBI Protein and the Protein Data Bank (Berman
+et al. 2000). Our analysis was further limited to Peruvian
+institutions, and we did not include international organizations based in
+Peru, such as the Centro Internacional de la Papa (CIP)
+or the US Naval Medical Research Unit Six (NAMRU-6), which
+have also generated sequences from Peruvian organisms. However, as both
+institutions are located in Lima, their inclusion would not have
+altered the main conclusions of our study (see Supplementary Information
+2, 3, 4, 5). Additionally, our reliance on researcher-provided information
+may have introduced heterogeneity in the data, even within the
+same institution. For example, in BioProject, records from the Instituto
+Nacional de Salud (INS) appeared under various names, including “Peruvian
+National Institute of Health,” “Instituto Nacional de Salud - Peru,”
+and “Instituto Nacional de Salud” (see Supplementary Information 3). Therefore,
+we recommend that each institution implement standardized protocols for data
+submission to improve data consistency.

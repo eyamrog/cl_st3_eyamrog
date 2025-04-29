@@ -1,0 +1,20 @@
+It is well established that, following cell entry, pathogens can
+be inhibited by neutralizing host antibodies, a process observed in
+SARS-CoV-2 infections in humans (Conti et al., 2020). According to
+the World Health Organization, the majority of individuals infected with
+SARS-CoV-2 experience mild or no symptoms, despite possessing identical amino
+acids at the ACE2 binding sites as reported in this
+study. The mechanisms by which antibodies neutralize coronavirus infections have
+been previously described (Hofmann et al., 2004; Reguera et al.,
+2012; Li et al., 2020a), demonstrating that an effective innate
+immune response—such as that typically found in younger individuals or
+those who do not develop an excessive immunological reaction—serves as
+the primary defense against opportunistic coronaviruses. Additionally, genetic variability in
+other systems may contribute to the observed heterogeneity in COVID-19
+symptoms and outcomes and cannot be excluded as a factor.
+It is also important to note that the ACE2 gene
+contains numerous polymorphisms outside the regions encoding key binding sites,
+as discussed in the results section. Therefore, it is possible
+that some of these single nucleotide polymorphisms (SNPs) may influence
+differential susceptibility to infection, as well as the variability in
+symptoms and outcomes observed among human populations.

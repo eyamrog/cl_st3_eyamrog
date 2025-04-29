@@ -1,0 +1,10 @@
+Our tool Polypolish30 was designed with two goals in mind.
+The first was to use all-per-read alignments to overcome some
+of the constraints imposed by repeats. The second was to
+be very conservative, i.e. to minimise the chance of introducing
+errors during polishing. Polypolish only makes changes that are unambiguously
+supported by the read alignments, so when there are multiple
+possibilities at a locus (e.g. a base could be A
+or C with some alignments supporting each), Polypolish will not
+change the sequence. For this reason, we recommend running Polypolish
+before any other short-read polisher.

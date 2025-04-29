@@ -1,0 +1,9 @@
+Statistical analysis was conducted using the Event Series value, defined
+as the mean presence of PMSL factors in TR-PRE, MATCH,
+and TR-POST for the same championship round. The Kolmogorov-Smirnov test
+indicated that the data were normally distributed (p = 0.068).
+Comparisons were performed using a multivariate analysis of variance (ANOVA)
+with repeated measures in a mixed-model design. When significant differences
+were identified, the Bonferroni post hoc test was applied. The
+significance level was set at p ≤ .05, and all
+calculations were performed using SPSS version 20.0 for Windows.

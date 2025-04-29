@@ -1,0 +1,5 @@
+An analysis of the average magnitudes of the correlation coefficients
+among the Indicators for each Dimension indicates a generally high
+level of independence among most Indicators. The highest observed average
+correlation coefficient is 0.3515, which occurs within the "Research" Dimension
+for the group of institutions examined in this study.

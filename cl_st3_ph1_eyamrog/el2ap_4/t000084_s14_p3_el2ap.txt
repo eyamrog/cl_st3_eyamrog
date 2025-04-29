@@ -1,0 +1,14 @@
+All participants were given a 10-question presurvey prior to beginning
+the course. The presurvey consisted of four demographic questions (i.e.,
+name, location, age, gender) and six 5-point Likert scale questions
+on participants’ attitudes towards the use of mobile devices for
+teaching and learning. Upon completion of the 8-week course, participants
+were given a post survey consisting of three questions on
+their readiness to use and apply mobile devices for teaching
+and learning. The pre and post survey questions were selected
+from the Mobile Learning Survey, originally adapted by Gunter and
+Reeves (2017) to examine teachers’ attitudes towards online professional development
+embedded with mobile learning. Internal consistency reliability for the attitude
+questions were acceptable (r = .70 for presurvey items and
+r = .77 for post survey items (Gunter & Reeves,
+2017).

@@ -1,0 +1,11 @@
+We will now study the performances of each individual Brazilian
+Institution in every year. To measure the general performance of
+each Institution, we will use the average of the Dimensions
+as a parameter to classify the Universities, instead of the
+standard “Olympic Medals Table” used by the “U-Multirank” of considering
+only the number of A. Tables 2 to 5 show
+the performances of each Brazilian University for every year in
+the range 2017-2020. It is showed the average of all
+the Indicators, the average of the Indicators of each Dimension
+and the average of the Dimensions, using all the data
+available.

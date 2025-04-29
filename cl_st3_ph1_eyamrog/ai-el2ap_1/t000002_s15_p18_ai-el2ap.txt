@@ -1,0 +1,6 @@
+To address whether the groups became more dialogic (question 3),
+the aggregated results for non-dialogic utterances (the sum of codes
+1, 3, and 5) were compared with those classified as
+dialogic (codes 2, 4, and 6). Since the dialogic and
+non-dialogic measures are complementary, statistical analysis was conducted on only
+one of these categories.

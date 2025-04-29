@@ -1,0 +1,14 @@
+Brazilian experts who have published articles in the higher ranked
+journals in each of seven subfields in computer science, according
+to the Journal Citation Reports2 (JCR), over a five- year
+period were invited to take part in this investigation. Differently
+from CEAP courses that take place in English-speaking countries or
+in countries where instruction is in English, the target situation
+here does not emerge from the interactions of a local
+community, but rather from a global one engaged in the
+process of academic publication in computer science. Investigating the contextual
+features of this target situation in person would be extremely
+time- and resource-consuming. Thus, as a viable alternative, ICT was
+used for both data gathering and analysis at a distance.
+Table 1 presents the ICT tools used in each of
+the three phases of the contextual TSA.

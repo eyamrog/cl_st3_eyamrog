@@ -1,0 +1,6 @@
+Plant Dynamics - Concerning the shrub-tree versus climbers dynamics, the
+annual mortality of climbers was greater than that of plants
+in the shrub-tree synusia in both classes, < 2.5 cm
+dbh (Mann-Whitney Test, U = 7, p = 0.0004) and
+> 2.5 cm dbh (Mann-Whitney Test, U = 16; p
+= 0.009; figure 3 and table 4).

@@ -1,0 +1,13 @@
+In this survey of SARS-CoV-2 antibodies among Brazilian blood donors,
+we found a seroprevalence of 3.3% (CI: 2.6-4.1) adjusted for
+sensitivity and specificity of the test and weighted according to
+Rio de Janeiro State population aged 18-69 years by age
+group and sex. This estimate is higher than that observed
+in two seroprevalence surveys among blood donors performed in Denmark
+and the Netherlands (1.7% and 2.7%, respectively) [16, 17]. We
+also found a substantial variation of prevalence among subgroups, with
+significantly higher values among the youngest, and those with no
+college education. It is worth noting that we found an
+increasing linear trend in the prevalence along the three weeks
+of the study (2.8%, 4.5%, and 5.3%, respectively, p<0.01), mainly
+due to the increase in IgG + IgM antibodies.

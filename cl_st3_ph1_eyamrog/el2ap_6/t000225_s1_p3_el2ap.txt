@@ -1,0 +1,10 @@
+Results: We demonstrate that the SDS adopted in São Paulo
+City and State clearly brought meaningful results to delay the
+growth of COVID-19 cases. We also show that by using
+this type of time series it is possible to identify
+different trends for regions, allowing for targeted approaches. Additionally, by
+using a time series which is death-oriented makes it possible
+to identify, for São Paulo City, the effects of the
+SDS with the Social Isolation Index (SII) adopted in the
+state and to make a gross estimate for the SII,
+which prevents the growth of the disease.

@@ -1,0 +1,13 @@
+Similar to the Self-Controlled Case Series (SCCS) design, the Self-Controlled
+Risk Interval (SCRI) design controls for fixed confounding factors such
+as sex, race, genetic predispositions, preexisting health conditions, and geographical
+location. However, for time-varying confounders such as seasonality and age,
+explicit adjustments are necessary. For example, in vaccine studies, adverse
+effects may vary particularly among children and can fluctuate over
+the follow-up period, potentially leading to confounding with other factors
+and resulting in false positive associations with vaccine effects (13,14).
+Unlike the SCCS design, which includes both vaccinated and unvaccinated
+individuals when analyzing adverse effects following vaccination, the SCRI design
+includes only vaccinated cases (13). This characteristic is a primary
+strength of the SCRI design, as it reduces bias that
+may arise from differences between vaccinated and unvaccinated individuals (16).

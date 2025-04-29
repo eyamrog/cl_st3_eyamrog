@@ -1,0 +1,13 @@
+The most significant increase in the number of journals and
+articles occurred following the launch of Redalyc in 2005, which
+began indexing journals primarily in the Social Sciences. As illustrated
+in Figure 1, the highest point is observed in 2015,
+indicating a marked rise compared to the relative stabilization of
+the article count that began in 2011. The annual number
+of articles and journals declines in 2018, which can be
+attributed to a lag between publication and the incorporation of
+new issues into the Redalyc and SciELO databases. This lag
+varies considerably across publishers and countries and is attributable to
+multiple factors, including publication delays, database management issues, challenges in
+XML-JATS markup, and varying institutional priorities regarding the inclusion of
+new issues in each database.

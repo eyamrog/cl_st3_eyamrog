@@ -1,0 +1,13 @@
+Second, following the guidelines outlined by Sarstedt, Hair, Cheah, Becker,
+and Ringle (2019), we assessed the measurement model of the
+higher-order construct by examining the relationships between the higher-order component
+and its lower-order components. Specifically, we evaluated unidimensionality using Cronbach’s
+alpha and Dillon-Goldstein’s rho, both of which should fall between
+0.7 and 0.9, as well as the dominance of the
+first eigenvalue. Convergent validity was assessed by ensuring that outer
+loadings exceeded 0.7 and that the average variance extracted (AVE)
+was greater than 0.5. Discriminant validity was evaluated by confirming
+that the outer loadings on a construct were higher than
+all cross-loadings with other constructs, and that the square root
+of the AVE for each construct exceeded its highest correlation
+with any other construct, in accordance with the Fornell-Larcker criterion.

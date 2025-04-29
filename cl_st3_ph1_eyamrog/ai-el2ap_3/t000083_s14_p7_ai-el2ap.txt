@@ -1,0 +1,14 @@
+The Selfitis Behavior Scale (SBS) is an instrument developed by
+Balakrishnan and Griffiths (2017) to assess behaviors associated with taking
+selfies, referred to as selfitis. In their original study involving
+225 Indian university students with a mean age of 20
+years, exploratory factor analysis identified six underlying factors: environmental enhancement,
+social competition, attention seeking, mood modification, self-confidence, and subjective conformity.
+The SBS consists of 20 items rated on a five-point
+Likert scale (1 = strongly disagree to 5 = strongly
+agree), with higher scores reflecting greater engagement in selfie-taking behaviors.
+Total scores between 20 and 40 indicate low selfitis behavior,
+scores from 41 to 60 indicate mild selfitis behavior, scores
+from 61 to 80 indicate moderate selfitis behavior, and scores
+from 81 to 100 indicate a severe level of selfitis
+behavior.

@@ -1,0 +1,8 @@
+- C: This location represents Ha’s home and, therefore, has
+only one possible outcome. The specific location in the geographical
+map of the city that means the output for this
+state is defined as an attribute for each Ha and
+is part of the Location submodel. This attribute is randomly
+chosen from a geographical area of the city defined as
+habitable at the beginning of the run and is the
+same throughout the simulation.

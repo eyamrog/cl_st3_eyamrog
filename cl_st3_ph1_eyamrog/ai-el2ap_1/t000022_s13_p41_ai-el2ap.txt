@@ -1,0 +1,14 @@
+Of the 58,148 documents analyzed, 63% are coauthored, and the
+data reveal patterns of within-country collaboration that suggest a more
+nuanced interpretation than the binary framework of academic inbreeding versus
+cross-breeding. Specifically, 59% of the documents are coauthored by individuals
+affiliated with institutions in the same state, while 31.9% involve
+collaboration between authors from institutions located in two different states.
+Additionally, 9.1% of the documents feature authors from three or
+more states, with the maximum observed collaboration spanning 26 different
+states. Given the considerable complexity and heterogeneity of the country,
+as well as the large number of universities and scientific
+institutions, it is not accurate to categorize collaboration between two
+Brazilian authors—or publication in a national journal—as academic inbreeding. Similarly,
+collaborations between authors from different institutions within the same state
+should not be automatically classified as such.

@@ -1,0 +1,20 @@
+One of the nasopharyngeal samples from a symptomatic fully vaccinated
+individual was sequenced. It was determined that it was the
+Delta variant of concern (VOC) which at that time was
+present in only 2.12% of samples screened according to the
+National Genomic Program´s report of June by the Consorcio de
+Vigilancia Genómica in Mexico (Programa de Vigilancia Genómica, no date).
+We cannot conclude that this superspreading event was caused by
+this VOC because at least two positive individuals attended the
+event, however it was relevant to detect Delta as the
+dynamic of the spread could help describe Delta´s ability to
+infect adolescents, both vaccinated and unvaccinated, and a lack of
+mitigation measures are employed. Also, this study can give some
+sense of how Delta can cause breakthrough infections even when
+the BNT162b2 (Pfizer-BioNTech vaccine) reported being 100% effective in their
+phase 3 study involving adolescents while other variants were circulating
+(Frenck et al., 2021). As reported previously, Delta variant infections
+dominate vaccine-breakthrough cases in other countries such as India and
+the United Kingdom, probably driven by a combination of evasion
+of neutralising antibodies and increased virus infectivity (Mlcochova et al.,
+2021).

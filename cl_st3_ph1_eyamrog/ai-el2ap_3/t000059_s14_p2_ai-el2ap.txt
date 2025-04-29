@@ -1,0 +1,17 @@
+The ORCID (Open Researcher and Contributor ID) identifier was employed
+to disambiguate authors whenever possible and was available for 7.2%
+of the authorships, defined as the product of the number
+of authors per article and the total number of articles.
+Following minimal processing of author names, such as the removal
+of extraneous elements, the ORCID identifier was substituted for the
+author name when a given name was associated with a
+single ORCID identifier. This procedure was repeated after author names
+were normalized by removing diacritics (encoding names in ASCII) and
+replacing hyphens with spaces, as Spanish-language authors sometimes use hyphens
+to facilitate indexing by first family name. Ultimately, 148 unique
+author names (0.5%) were associated with more than one ORCID
+identifier and also appeared at times without an ORCID identifier.
+Due to the ambiguity in assigning a specific ORCID identifier
+in these cases, these authors, as well as those without
+any ORCID identifier, were identified by their author name, following
+the approach of Scanff et al. (2021).

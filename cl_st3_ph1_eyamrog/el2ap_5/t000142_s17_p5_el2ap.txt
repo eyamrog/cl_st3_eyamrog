@@ -1,0 +1,5 @@
+This test, which introduced to the literature by Harvey &
+Leybourne (2007), does not make any assumptions, 𝐼1 and 𝐼2
+it allows the coexistence of processes. This test has a
+structure with four degrees of freedom, where the following equation
+is used (1):

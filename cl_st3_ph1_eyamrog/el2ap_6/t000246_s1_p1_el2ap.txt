@@ -1,0 +1,3 @@
+Objective: To analyze the dispersion of journals and scientific collaboration
+on Severe Acute Respiratory Syndrome, available on the Web of
+Science.

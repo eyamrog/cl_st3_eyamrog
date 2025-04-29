@@ -1,0 +1,8 @@
+The selection of these areas was based on two criteria:
+their local relevance and the broader coverage of Health in
+SciELO CI, as opposed to SciELO Spain, where coverage is
+limited to Public and Collective Health. The use of SciELO
+CI is significant because it is a relatively recent citation
+index and one of the few regional indexes, which remain
+underutilized in bibliometric research. Additionally, analyzing citation flows between languages
+within a regional citation index provides valuable insights.

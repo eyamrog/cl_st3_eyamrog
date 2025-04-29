@@ -1,0 +1,3 @@
+We built the sample in a simple random way, from
+the list of NPO recorded at the National Register of
+Environmental Entities in Brazil (CNEA).

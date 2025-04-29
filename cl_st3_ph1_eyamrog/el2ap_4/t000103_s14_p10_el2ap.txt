@@ -1,0 +1,15 @@
+These sentences had a person’s name in the subject position,
+a verb in the simple past, another person’s name in
+the object position, the temporal conjunction when/cuando/quando, a third- person
+pronoun in the subject position (or ellipsis in Portuguese and
+Spanish), another verb in the simple past, and a third-person
+pronoun in the object position. The verbs were selected from
+the same type of a verbal constructions database (Baptista, 2013):
+in this case, the verb construction requires (or semantically selects)
+a human agent for subject, a human patient for object
+and no further complement. Respondents had to choose one of
+the three options for the antecedent of the reduced (pronoun
+or zero) subordinate clause’s subject: this anaphor could refer to
+(a) the subject of the main clause, (b) the complement
+of the main clause, or (c) another referent (who has
+not been mentioned in the main clause).

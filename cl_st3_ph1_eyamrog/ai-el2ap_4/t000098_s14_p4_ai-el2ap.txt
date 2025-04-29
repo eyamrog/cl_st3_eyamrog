@@ -1,0 +1,7 @@
+<> represents the cumulative number of deaths that country i
+would experience in each age group j, calculated using the
+mortality rate observed in country i for that age group
+and the hypothetical population size that country i would have
+in age group j if all countries shared the same
+age composition. In this study, the age distribution was standardized
+according to the global population age pyramid.

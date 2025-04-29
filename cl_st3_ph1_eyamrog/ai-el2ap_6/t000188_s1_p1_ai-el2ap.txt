@@ -1,0 +1,2 @@
+Purpose: This study aims to estimate the projected number of
+COVID-19-related deaths in Brazil over the coming months.

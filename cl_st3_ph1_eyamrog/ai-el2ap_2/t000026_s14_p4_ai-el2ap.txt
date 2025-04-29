@@ -1,0 +1,4 @@
+The sociodemographic and clinical questionnaire included items on age, ethnicity,
+sex, marital status, state of residence, academic program, academic term,
+university affiliation, presence of physical and psychological symptoms of anxiety,
+and history of anxiolytic medication use.

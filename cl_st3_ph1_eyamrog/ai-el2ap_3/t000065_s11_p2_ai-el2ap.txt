@@ -1,0 +1,8 @@
+Any selection of texts constitutes a sample; however, the representativeness
+of a sample primarily depends on the degree to which
+it is drawn from the full range of text types
+present in the target population. Assessing this representativeness requires a
+comprehensive and explicit definition of the population that the sample
+is intended to represent, as well as a clear description
+of the sampling techniques employed to select texts from that
+population (Biber, 1993, p. 243).

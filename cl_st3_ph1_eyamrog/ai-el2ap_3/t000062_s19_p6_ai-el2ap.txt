@@ -1,0 +1,14 @@
+Linyphiidae was represented by 101 individuals, with 47 (46.52%) collected
+in FA and 27 (26.74%) in each of the other
+areas; however, this difference was not statistically significant according to
+the ANOVA test (F = 1.274, P = 0.346). During
+the cold and dry period (April to September), Linyphiidae individuals
+were primarily collected in FA and IA. The Shapiro-Wilk test
+indicated that the data were normally distributed, and no significant
+differences were detected by ANOVA (F = 2.121, P =
+0.201). In contrast, during the rainy period (October to March),
+most individuals were collected in DA (Figure 6). Although the
+Shapiro-Wilk test indicated a significant deviation from normality (W =
+0.7500, P < 0.001), neither the Kruskal-Wallis test nor the
+Dunn post-hoc test with Bonferroni correction identified significant differences among
+the areas.

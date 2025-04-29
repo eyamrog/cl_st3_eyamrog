@@ -1,0 +1,7 @@
+The high-frequency (HF) component, which primarily reflects parasympathetic activity, and
+the low-frequency (LF) component, which represents both sympathetic and parasympathetic
+influences, can be quantified through frequency domain analysis of heart
+rate variability. The ratio of LF to HF (LF/HF ratio)
+is commonly used as an index of sympathovagal balance. In
+this study, 41.2% of the patients exhibited an elevated LF/HF
+ratio.

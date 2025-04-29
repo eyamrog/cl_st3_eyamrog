@@ -1,0 +1,2 @@
+- high values for the variables Pe, Hv_c, Hd_c and
+Bv_w (variables are sorted from the strongest).

@@ -1,0 +1,6 @@
+In this connection, Erdem and Yamak (2016) conducted economic analysis
+to create an Optimal Uncertainty Index for Turkey at the
+macroeconomic level. The study’s data covered the period between 2002
+and 2014 based on quarterly data. The analysis was conducted
+using seemingly unrelated regression (SUR), ordinary least squares (OLS), and
+the generalized method of moments (GMM).

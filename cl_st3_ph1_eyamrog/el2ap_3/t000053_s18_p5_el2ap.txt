@@ -1,0 +1,6 @@
+All scientific articles/books were assessed in order to obtain data
+from 32 standardized variables of Darwin Core Terms (Darwin Core,
+2022) (Table 1). These variables were subset in four types
+to identify the Dataset, to describe the essential information about
+specimens condition and quantity, capture location and methods, and taxonomic
+status for each observation (Table 1).

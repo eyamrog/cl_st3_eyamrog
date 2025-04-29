@@ -1,0 +1,12 @@
+The replication of SARS-CoV-2 begins with the translation of the
+pp1a and pp1b polyproteins from the single-stranded positive polarity genomic
+RNA (ssRNA+), which is 5’-capped and 3’-polyadenylated (figure 1). The
+pp1b polyprotein is produced in fusion with pp1a, through a
+-1 frameshift mechanism, generating 2 polyproteins, called pp1a (without frameshift)
+and pp1ab (with frameshift) (Brierley et al. 1989). The frameshift
+occurs due to a slippery sequence in the genome (5’-UUUAAAC-3’)
+and a pseudoknot structure in the secondary structure of the
+RNA before the STOP codon of pp1a ORF, causing a
+pause in the ribosome reading and the translation of pp1b
+ORF in fusion with pp1a ORF, thus generating pp1ab (Fehr
+and Perlman 2015).

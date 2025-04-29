@@ -1,0 +1,13 @@
+This study presents a technique for detecting regularities in the
+complete genome of Coronavirus 2 by utilizing the concept of
+intervals within the RNA sequence and comparing these intervals across
+the known sequence. The Maximum Regularity Index was employed to
+quantify these regularities. The analysis identified regions of high regularity
+that correspond to ORF10, Gene N, the nucleocapsid phosphoprotein, and
+other genomic elements. Notably, intervals around positions 3500 and 11000
+exhibited high regularity values, although these regions do not correspond
+to well-documented genomic features and are both located within Gene
+Orf1ab. These findings suggest that these regions may warrant further
+investigation. The detection of such regularities has the potential to
+inform the development of biochemical or genetic strategies aimed at
+deactivating specific functions of Coronavirus 2 or mitigating its effects.

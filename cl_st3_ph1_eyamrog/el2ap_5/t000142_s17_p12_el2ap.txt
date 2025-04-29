@@ -1,0 +1,4 @@
+The Harvey, Leybourne & Xiao (2008) Linearity Test, which was
+developed by enhancing and strengthening the Harvey & Leybourne (2007)
+Test, reviews the state of stationarity and I1 separately. It
+has a structure with two degrees of freedom.

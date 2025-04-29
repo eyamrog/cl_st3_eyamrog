@@ -1,0 +1,8 @@
+Before embarking upon the operating room, different aspects should be
+considered, such as the risk of SARS-CoV-2 infection at your
+facility, expected length of stay, and possible surgical complications and
+other clinical comorbidities that may add additional morbidity/mortality. If surgical
+treatment is deemed necessary, informed consent should be obtained addressing
+the risk of SARS-CoV-2 infection. Ideally, surgical patients should be
+tested pre-operatively for COVID-19, although this strategy is not possible
+in our institution where just symptomatic patients are being tested.

@@ -1,0 +1,15 @@
+This study demonstrates that, during the described superspreading event, the
+incidence of COVID-19 was significantly higher in the unvaccinated adolescent
+cohort compared to the vaccinated cohort. Specifically, the incidence in
+the unvaccinated group was 35.1% (95% CI: 26.1–46.5), whereas in
+the vaccinated group it was 11.4% (95% CI: 5.1–21.3), with
+a crude odds ratio of 4.19 (95% CI: 1.79–9.8). Among
+those who tested positive for COVID-19, 40 out of 41
+adolescents exhibited more than one symptom, and only one fully
+vaccinated individual remained asymptomatic. The data indicate that vaccination reduced
+the risk of SARS-CoV-2 infection; however, among those who became
+infected, the clinical presentation was similar in both vaccinated and
+unvaccinated individuals, with common symptoms including fatigue, runny nose, anosmia,
+general discomfort, ageusia, fever, and cough. Fatigue was more frequently
+reported among unvaccinated adolescents, while runny nose was more common
+among vaccinated adolescents.

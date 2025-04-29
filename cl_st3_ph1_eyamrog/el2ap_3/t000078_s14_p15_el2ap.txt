@@ -1,0 +1,9 @@
+Embraesp database provides information on the size of the property
+(floor area and total area), the number of bedrooms, bathrooms,
+parking lot spaces, elevators, apartment units per floor, building floors,
+and a dummy distinguishing between an apartment or house typologies).
+Other information is not considered, such as the composition of
+the condominium (swimming pools, playground, courts, etc.). To overcome such
+a lack of information, we used the difference between the
+total area and the useful floor area as a proxy
+for the condominium size per apartment.

@@ -1,0 +1,11 @@
+Those reporting ≥30 minutes in MVPA had a decreased odds
+of prevalent depressive (OR=0.71, 95%CI=0.53-0.96), anxiety (OR=0.72, 95%CI=0.54-0.96), and co-occurring
+D&A (OR=0.71, 95%CI=0.52-0.96) symptoms when adjusting for potential covariates. Those
+spending ≥10 hours per day in SB were more likely
+to present prevalent depressive symptoms (OR=1.39, 95%CI=1.02-1.90) in the most
+adjusted analyses. The detailed results of the logistic regression models
+are presented in table 2. Linear associations, adjusting for relevant
+covariates, demonstrate that each hour spent in SB is associated
+with 0.22 points higher on the BDI (95%CI=0.104-0.338) and 0.16
+points higher at the BAI (95%=CI=0.021-0.313). The linear models for
+MVPA and SB are shown in table 3.

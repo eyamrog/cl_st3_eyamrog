@@ -1,0 +1,27 @@
+Peru is recognized as one of the most biodiverse countries
+globally. Genetic diversity constitutes a fundamental aspect of biodiversity and
+is essential for the effective conservation and sustainable management of
+various organisms and habitats. To date, only one study has
+described Peruvian genetic data available in public databases. The present
+study aims to update this information by systematically searching four
+public databases that store sequencing data: Nucleotide, BioProject, PATRIC, and
+BOLD. Based on these data, we assess the contribution of
+Peruvian institutions in recent years. In the Nucleotide database, which
+is the largest among those examined, bacteria represent the majority
+of sequences submitted by Peruvian institutions (70.60%), with pathogenic species
+such as Pasteurella multocida, Neisseria meningitidis, and Vibrio parahaemolyticus being
+the most frequently recorded. No sequence records from the Archaea
+domain were identified. In BioProject, the most common sequence corresponds
+to Salmonella enterica subsp. enterica serovar Infantis. In PATRIC, a
+database dedicated to pathogenic agents, Mycobacterium tuberculosis and Yersinia pestis
+had the highest number of entries. In BOLD, which exclusively
+contains eukaryotic data, the most frequent records were from Chordata
+(Aves and Actinopterygii), Angiospermae, and Arthropoda (Insecta and Arachnida). These
+findings suggest that Peruvian research institutions predominantly focus on infectious
+diseases. Although there has been a notable increase in the
+volume of DNA data submitted by Peruvian institutions since the
+previous report, the genetic diversity represented in these databases does
+not fully reflect the country’s overall biodiversity. Additional efforts are
+required to obtain genetic information from underrepresented taxonomic groups and
+to encourage broader participation in genetic research by regional Peruvian
+institutions.

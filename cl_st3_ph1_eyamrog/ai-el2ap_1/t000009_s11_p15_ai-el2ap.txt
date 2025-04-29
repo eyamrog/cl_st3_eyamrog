@@ -1,0 +1,10 @@
+For distance education in large territories such as Brazil, conducting
+in-person procedures can be time-consuming and resource-intensive; however, these challenges
+can be addressed by utilizing information and communication technologies (ICT)
+for data collection, as proposed in this study. The following
+two sections present a contextual task and situation analysis (TSA)
+for the design of an online CEAP course intended for
+Brazilian computer science graduate students. Particular emphasis is placed on
+the use of ICT for data collection and its role
+in facilitating the investigation of critical issues in a remote
+context.

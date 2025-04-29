@@ -1,0 +1,20 @@
+Table 3 displays the corrected item-total correlation coefficients and the
+internal consistency of the SBS, as assessed by Cronbach's Alpha
+(α) and McDonald's Omega (ω), including their respective values if
+individual items were deleted. Both alpha and omega coefficients demonstrated
+satisfactory levels of internal consistency, ranging from 0.60 to 0.89,
+consistent with established benchmarks (Toledo Junior et al., 2018; Bowling,
+2005; Tavakol & Dennick, 2011), across both the overall scale
+and its individual factors. In several cases, omega values were
+marginally higher than alpha values for certain factors and items.
+The overall reliability of the scale was α = .80
+and ω = .81, while the reliability coefficients for each
+of the five factors exceeded 0.78 for both α and
+ω. For some items, the deletion resulted in decreased α
+and ω coefficients, indicating that these items contributed positively to
+the reliability of the scale. The "Corrected Item-Total Correlation" column
+reports the correlation between each item and the total scale
+score; values above 0.3 are generally considered acceptable for reliability
+purposes. In this study, all items demonstrated corrected item-total correlations
+above 0.52, supporting the reliability of the scale (Hair et
+al., 2009).

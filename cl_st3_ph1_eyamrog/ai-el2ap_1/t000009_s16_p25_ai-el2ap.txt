@@ -1,0 +1,11 @@
+Data presented in Figure 3 indicate substantial discrepancies among participants
+from different countries and regions regarding their perceptions of contextual
+factors that may influence the publication process in high-impact computer
+science journals. Specifically, 75% of Brazilian participants located in the
+South identified co-authorship with a well-known researcher as a significant
+influence, while 50% of participants from both the South and
+Northeast regions believed that the academic qualifications of researchers affect
+the likelihood of paper acceptance. Additionally, interviewees in the Southeast
+region considered four out of the five contextual factors examined
+to be influential, whereas only a small number of participants
+residing abroad identified two factors as influential.

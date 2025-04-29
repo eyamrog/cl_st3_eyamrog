@@ -1,0 +1,4 @@
+The transpiration rate was measured, and water use efficiency (WUE)
+was calculated as the ratio of the mean carbon assimilation
+rate to the transpiration rate, following the methodology described by
+Field et al. (1983) and Medrano et al. (2015).

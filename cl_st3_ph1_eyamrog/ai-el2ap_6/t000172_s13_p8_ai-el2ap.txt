@@ -1,0 +1,5 @@
+The RNA-dependent RNA polymerase (RdRp) of coronaviruses exhibits low replication
+fidelity. Despite the presence of a reported 3’-5’ exonuclease proofreading
+activity, the mutation rate of this polymerase is approximately 2.0
+× 10⁻⁶ mutations per site per replication cycle (Eckerle et
+al., 2010).

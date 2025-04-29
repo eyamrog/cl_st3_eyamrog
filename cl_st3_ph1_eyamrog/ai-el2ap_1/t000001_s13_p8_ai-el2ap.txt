@@ -1,0 +1,6 @@
+The objective of long-read assembly is to generate contiguous sequences
+that are free of structural errors, such that any remaining
+inaccuracies are limited to small-scale variants, including single-base substitutions, insertions,
+or deletions. This approach is adopted because subsequent polishing steps
+are effective at correcting small-scale errors but are generally insufficient
+for resolving larger structural inaccuracies.

@@ -1,0 +1,9 @@
+Demultiplexing errors may occur during multiplexed sequencing runs, leading to
+the misassignment of reads from one barcode to another and
+resulting in low-level contamination. When a sequence associated with a
+particular barcode is present at very high depth, it can
+appear in other barcodes at sufficient coverage to allow assembly.
+This phenomenon is most frequently observed with high-copy-number plasmids (Figure
+2D). Therefore, when multiple genome assemblies from the same sequencing
+run contain identical plasmids, cross-barcode contamination should be considered as
+a potential explanation.

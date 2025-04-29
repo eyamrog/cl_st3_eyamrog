@@ -1,0 +1,7 @@
+Internal structure validity. An exploratory factor analysis was performed to
+identify the number and composition of components necessary to summarize
+the observed scores of the B-PREA-R. To determine this analysis,
+the theoretical assumptions suggested by Lloret-Segura et al. (2014) were
+taken into account: normality of the data, Kaiser-Meyer- Olkin test
+(KMO), and the advantages offered by the different extraction and
+rotation methods.

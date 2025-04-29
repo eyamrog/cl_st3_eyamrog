@@ -1,0 +1,9 @@
+As search strategies, we conducted a survey in the databases
+of MEDLINE/PubMed, Scientific Electronic Library (SciELO), Latin American and Caribbean
+Health Sciences (LILACS), Web of Science and Scopus, that have
+published scientific studies from recent studies 20 (twenty) years. The
+Medical Subject Headings (MeSH) descriptors used were "pacifier", "disinfection", "biofilm"
+and "microbiology", and to perform the search, the term "pacifier"
+was associated with the others, by using the Boolean operator
+"AND". So, the equations were structured as follows: (pacifier and
+disinfection); (pacifier and biofilm); (pacifier and microbiology).

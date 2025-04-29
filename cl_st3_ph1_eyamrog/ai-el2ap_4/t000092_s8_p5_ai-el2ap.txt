@@ -1,0 +1,8 @@
+Baroreflex function can be assessed through time-domain analysis, which includes
+measures such as the mean of RR intervals, standard deviation,
+and the root mean square of successive differences (RMSSD). Additionally,
+heart rate variability can be analyzed in the frequency domain
+using the Fourier transform, which provides valuable information. This approach
+yields the low-frequency (LF) and high-frequency (HF) indices, and the
+ratio of LF to HF is commonly used to represent
+the balance between sympathetic and parasympathetic (vagal) activity.

@@ -1,0 +1,27 @@
+Recent research has increasingly focused on elucidating the mechanisms underlying
+pathological changes in critically ill patients hospitalized with COVID-19, with
+the aim of informing more targeted therapies and improving clinical
+monitoring during hospitalization. Multiple clinical studies have identified the "inflammatory
+cytokine storm" as a significant factor contributing to disease progression
+and mortality in patients with COVID-19. For example, one study
+demonstrated that interleukin-6 (IL-6) levels are significantly elevated in critically
+ill patients compared to those with mild disease, indicating the
+involvement of this cytokine in various pathophysiological processes, including vascular
+leakage, complement activation, coagulation cascade initiation, and, in rare cases,
+the development of disseminated intravascular coagulation (DIC). The same study
+reported that administration of low molecular weight heparin (LMWH) improved
+coagulation dysfunction in COVID-19 patients, likely due to its anti-inflammatory
+properties, suggesting that LMWH may help prevent or mitigate the
+cytokine storm and thereby improve patient outcomes, supporting its potential
+therapeutic use. Additionally, a study conducted at Weill Cornell Medicine
+in New York utilized pulmonary and skin biopsy and autopsy
+samples from five individuals with severe COVID-19 to further investigate
+disease pathophysiology. The findings indicated that some patients with severe
+SARS-CoV-2 infection exhibited generalized thrombotic microvascular injury, apparently mediated by
+intense complement activation. Although the small sample size precludes broad
+generalization, these results raise the possibility that a subset of
+critically ill COVID-19 patients may experience microvascular lesions associated with
+a pro-coagulant state, which could contribute to poor clinical outcomes.
+These observations suggest that the complement system may play a
+critical role in COVID-19 pathogenesis, highlighting the need for further
+research in this area.

@@ -1,0 +1,14 @@
+Recent studies have documented the positive effects of primary health
+care (PHC) coverage using selected health impact indicators, such as
+mortality rates among specific groups, including children and individuals with
+chronic diseases. Another commonly used indicator for monitoring PHC quality
+is the rate of hospitalizations due to Ambulatory Care Sensitive
+Conditions (ACSC), which encompasses health problems for which effective PHC
+interventions can reduce the likelihood of hospitalization. According to Macinko
+et al., this indicator is infrequently employed to evaluate services
+in low- and middle-income countries. Elevated ACSC hospitalization rates may
+be associated with issues related to access, coverage, or inefficiency
+at the PHC level. The reliability and accessibility of data
+in public databases support the use of ACSC hospitalization rates
+to assess PHC services, particularly with regard to implementation and
+coverage effects, as demonstrated in recent studies.

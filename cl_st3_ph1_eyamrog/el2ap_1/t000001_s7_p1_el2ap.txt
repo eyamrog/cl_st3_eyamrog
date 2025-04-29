@@ -1,0 +1,16 @@
+Compared to eukaryotes which have complex genomes often exceeding one
+billion base pairs (bp) in length, prokaryote genomes are small,
+typically containing a single circular chromosome a few million bp
+in length and often small extrachromosomal plasmids1. In many genomic
+applications, it would be most useful to know the bacterial
+genome sequence in its entirety, i.e. the full sequence of
+nucleotides for each piece of DNA in the cell. However,
+DNA sequencers work by fragmenting the genome and sequencing the
+fragments, producing reads: randomly ordered small pieces of the genome2.
+Reads are imperfect, with the frequency and type of errors
+depending on the platform. They are also redundant, because it
+is necessary to produce reads that total to many times
+the genome size to ensure that the genome is well
+covered. There is thus a disconnect between what sequencers provide
+(small, imperfect, redundant sequences) and what we want (a complete,
+error-free genome).

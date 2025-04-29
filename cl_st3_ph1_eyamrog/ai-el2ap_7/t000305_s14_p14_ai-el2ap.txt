@@ -1,0 +1,5 @@
+To evaluate the null hypothesis that the rates are equal
+between the groups of interest, a Z test for comparison
+of proportions was employed. All statistical analyses were conducted using
+R software version 3.6.3, with a significance level set at
+5%.

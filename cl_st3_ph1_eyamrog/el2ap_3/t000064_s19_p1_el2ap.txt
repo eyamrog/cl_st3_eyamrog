@@ -1,0 +1,17 @@
+Physiological parameters and light response curves - The physiological parameters
+obtained are summarized in table 1 and figures 1 to
+4 show the curves of light response of CO2 absorbance.
+In the control group and in the plants growing in
+the garden, at a light intensity of 900 µmol m-2
+s-1, the leaves reached about 90% of the maximum carbon
+absorption rate. Since most of the leaves had peaked in
+the carbon absorption rate, this was considered as the light
+saturation point. For the light intensities of more than the
+double of this point, the carbon absorption rate was kept,
+hence there were no signs of photoinhibition (figures 1, 2,
+4). In the open groups (wild plants and garden plants),
+the carbon absorption rates under the natural sun light (PAR
+of about 2,000 µmol m-2 s-1) were the same as
+the maximal rates measured by the IRGA (maximal PAR of
+1,600 µmol m-2 s-1), so the data of Amax were
+grouped together.

@@ -1,0 +1,12 @@
+A multidimensional evaluation in academic institutions, as currently implemented by
+CAPES, is not a novel concept. This approach was first
+introduced in Europe in 2008, where a multidimensional ranking system
+was proposed (VAN VUGHT and ZIEGELE, 2012). The selection of
+appropriate dimensions and indicators is a critical aspect of this
+evaluation process, as is the preliminary assessment of the degree
+of independence among these dimensions and indicators. The present evaluation
+conducted by CAPES primarily emphasizes the "Research" dimension of the
+"U-Multirank" framework. Therefore, analyzing the correlations between this dimension and
+other dimensions is relevant for providing an initial estimate of
+potential outcomes in the context of a multidimensional evaluation in
+Brazil.

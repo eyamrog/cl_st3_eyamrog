@@ -1,0 +1,6 @@
+We limited the analysis to hospitalizations attributed to 74 causes,
+as defined by the two-digit categories of the International Classification
+of Diseases. The selection of causes was based on those
+specified in National Ordinance No. 221 of 2008, which outlines
+the list of admissions for conditions considered sensitive to primary
+care (see Supplementary Material #1).

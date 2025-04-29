@@ -1,0 +1,5 @@
+A Self-controlled Case Series (SCCS) or case series method is
+an observational epidemiological study design used to study the temporal
+association between a time varying exposure and a sudden onset
+of events. It’s a study design where the observed cases
+act as their own controls (1–5).

@@ -1,0 +1,15 @@
+Nucleotide data were retrieved using Entrez Direct (Kans 2013). In
+April 2020, all records from the Nucleotide database containing the
+query term "Peru" were downloaded using the command <esearch -db
+nucleotide -query "Peru" | efetch -format gb > peru.gb>. The
+resulting output, a 30 GB file in GenBank format, was
+used to extract information such as the journal and organism
+associated with each published sequence. In the Nucleotide database, the
+institution that submitted the genetic sequence is recorded in the
+“journal” field. A file containing only unique journal names was
+generated to enumerate all Peruvian institutions represented in the database.
+Using awk scripts, the frequency of the word "Peru" in
+the journal field, the number of sequences uploaded by each
+institution, and the number of distinct organisms sequenced were determined.
+Additionally, the analysis identified the most frequently sequenced organisms by
+each Peruvian institution.

@@ -1,0 +1,16 @@
+Given the challenges associated with performing jobs that require face-to-face
+interaction—primarily due to the transmission characteristics of Covid-19—and the government
+classifications of essential activities, a central question addressed by recent
+research is whether specific jobs can be performed remotely. Studies
+by Yasenov (2020), Gallacher and Hossain (2020), Crowley and Doran
+(2020), Brussevich et al. (2020), and Bartik et al. (2020)
+have examined this issue in contexts such as the United
+States, Ireland, Canada, and OECD countries. To date, most research
+has focused on developed countries. Notable contributions in this area
+include work by Balde et al. (2020), Estupinan et al.
+(2021), Gottlieb et al. (2021), and Khamis et al. (2021).
+While these studies differ in certain respects, they consistently identify
+significant inequalities in the likelihood of engaging in remote work,
+with disparities observed across dimensions such as income, age, education,
+gender, and employment contract type, and with more limited opportunities
+for remote work among vulnerable groups in the labor market.

@@ -1,0 +1,5 @@
+Results of the linear regression showed a positive correlation among
+rates of leptospirosis and rainfall in the period with the
+greatest rainfall volume (r = 0.83), in the same way,
+the coefficient of determination (R2) for the same period was
+69% in the variability of disease rates .

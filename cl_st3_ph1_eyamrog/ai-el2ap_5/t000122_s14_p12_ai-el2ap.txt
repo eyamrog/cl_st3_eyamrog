@@ -1,0 +1,4 @@
+Data were assessed for normality using the Shapiro-Wilk test and
+for homogeneity of variances using Levene’s test. Statistical analyses were
+conducted with R software (version 4.0.0), and a significance level
+of 5% was applied.

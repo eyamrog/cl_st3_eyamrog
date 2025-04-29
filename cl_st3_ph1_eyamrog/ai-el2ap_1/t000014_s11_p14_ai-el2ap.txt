@@ -1,0 +1,8 @@
+Most digital archives specializing in language documentation data manage rights
+in broadly similar ways, although specific practices differ among archives.
+Typically, the original rights holders retain full intellectual and/or cultural
+property rights. These rights holders grant non-exclusive licenses to both
+the archive and its users, with the terms of these
+licenses varying depending on the archive and the relevant copyright
+laws of the country in which the archive operates. Commercial
+use of the data is uniformly prohibited.

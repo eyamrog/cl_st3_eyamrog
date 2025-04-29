@@ -1,0 +1,10 @@
+The light intensity effect on photosynthetic aspects of Vellozia leaves
+has been more frequently evaluated by the electron transport rate.
+In several species of Vellozia, this rate is maximal under
+photosynthetically active radiation (PAR) intensities of about 2,100 µmol.m-2.s-1, which
+is coincident to the values commonly found in Cerrado, i.e.
+ca. 1,800 to 2,200 µmol.m-2.s-1 at midday (Lüttge et al.
+2007). As for a comparison, the maximal electron transport rate
+of Smilax goyazana, a common shrub of Cerrado, occurs at
+about half of the maximal PAR of the environment (Palhares
+et al. 2011).

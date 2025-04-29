@@ -1,0 +1,5 @@
+Sample sufficiency for infiltration capacity was assessed by plotting the
+mean and standard deviation against the number of samples. An
+adequate sample size was determined to be achieved when measures
+of central tendency remained stable for at least three consecutive
+increments, following the criteria outlined by Salemi et al. (2020).

@@ -1,0 +1,6 @@
+According to the classification proposed by Santos et al. (2018),
+which is based on data from the World Health Organization
+(WHO) published in 2010, the visual spectrum is categorized into
+four levels: (1) no visual impairment, (2) moderate visual impairment,
+(3) severe visual impairment, and (4) blindness. These categories are
+presented in Table 1.

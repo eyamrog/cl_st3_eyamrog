@@ -1,0 +1,9 @@
+Increased respiration rates during plant development may enhance electron flux
+within mitochondria, leading to elevated production of reactive oxygen species
+(ROS) (Møller 2001). ROS play a role in cell signaling
+pathways and regulate the expression of genes associated with seed
+germination, seedling development, and bud dormancy release (Bailly et al.
+2008; Kranner et al. 2010; Considine & Foyer 2014). Therefore,
+the observed respiration patterns in seeds and NS in this
+study may be linked to variations in mitochondrial ROS levels,
+which could directly affect seedling and plant development from NS.

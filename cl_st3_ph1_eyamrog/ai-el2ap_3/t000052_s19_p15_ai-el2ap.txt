@@ -1,0 +1,3 @@
+The variables Hv_e and Hd_e exhibited the highest values among
+those analyzed, with the variables ranked in order of descending
+strength.

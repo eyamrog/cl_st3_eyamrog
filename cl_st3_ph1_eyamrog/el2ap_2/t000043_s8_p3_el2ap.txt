@@ -1,0 +1,10 @@
+Normally, information from past events may help define the risk
+period (1). For example, in the case of influenza vaccines
+and the development of Guillain-Barré syndrome (GBS), the prespecified risk
+period is 42 days after vaccination. This risk period was
+stipulated after a cluster of GBS cases occurred in the
+United States in 1976 after the population was vaccinated with
+A/New Jersey influenza vaccine (10). During this risk period, it
+is presumed that there will be increased risk of the
+vaccinated individuals to develop the GBS and the time after
+as the control period (1,11).

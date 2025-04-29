@@ -1,0 +1,18 @@
+SARS-CoV-2 (Severe Acute Respiratory Syndrome Coronavirus 2), along with SARS-CoV
+from 2003 and MERS-CoV from 2012, belongs to the Betacoronavirus
+genus within the Nidovirales order and is the etiological agent
+responsible for the ongoing COVID-19 (Coronavirus Disease 2019) pandemic. COVID-19
+is primarily characterized by symptoms such as cough, fever, fatigue,
+and, in severe cases, pneumonia, and had affected over 9.1
+million individuals globally as of June 22, 2020. This review
+examines the cellular mechanisms involved in human coronavirus replication, with
+particular emphasis on the distinct molecular processes associated with the
+replication-transcription complex (RTC) of coronaviruses. The review also summarizes current
+knowledge regarding the interactions between individual viral proteins and host
+cellular proteins, and discusses their implications for coronavirus biology. Additionally,
+it addresses ongoing pharmacological strategies targeting COVID-19, with a focus
+on the potential effects of various drugs on the molecular
+events of viral replication. The aim of this review is
+to support future research directed at elucidating the SARS-CoV-2 replication
+cycle and advancing the development of targeted pharmacological interventions for
+COVID-19.

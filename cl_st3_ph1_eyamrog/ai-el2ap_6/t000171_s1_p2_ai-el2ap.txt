@@ -1,0 +1,9 @@
+Methods: This study employed a quantitative analysis of secondary data
+using a cross-sectional research design. Data on COVID-19 incidence, mortality,
+date of first notification, and the number of rapid and
+RT-PCR tests were obtained from the Laboratory Environment Manager, the
+e-SUS epidemiological surveillance platform, and SES-MG. The Pearson correlation coefficient
+was calculated to assess the strength and direction of associations
+between the relevant variables. Descriptive statistical methods were applied to
+summarize and characterize the distribution of incidence, mortality, and testing
+rates within the study area.

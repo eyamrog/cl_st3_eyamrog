@@ -1,0 +1,9 @@
+ACE2 is a cell-surface non-raft protein with little intracellular localization,
+when binding to coronaviruses, the protein internalizes down-regulating activity from
+the cell surface (Hamming et al., 2007). After SARS-CoV-like viruses
+and ACE2 attach, molecular cascade signal events result in entry
+of the coronavirus into the host cell (Simmons et al.,
+2013), showing a successful evolutionary infection strategy. Kuba et al.
+(2005) showed that ACE2 down regulation mediated by SARS-CoV contributes
+to the acute lung injury, the most important clinical implication
+of human respiratory diseases caused by a coronavirus.

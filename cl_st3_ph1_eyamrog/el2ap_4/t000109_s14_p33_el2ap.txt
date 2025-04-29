@@ -1,0 +1,6 @@
+- E: The location defined as "leisure" represents a place
+usually visited by people routinely and is shared by several
+Ha. Examples of these locations can include cinemas, parks or
+shopping centers. There is a list of locations with an
+associated probability, which varies according to the habits of the
+inhabitants in each particular neighborhood.

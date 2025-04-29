@@ -1,0 +1,3 @@
+The internal consistency of the final instrument was demonstrated by
+a Cronbach's alpha of .85. When each item was individually
+removed, the resulting alpha values ranged from .83 to .86.

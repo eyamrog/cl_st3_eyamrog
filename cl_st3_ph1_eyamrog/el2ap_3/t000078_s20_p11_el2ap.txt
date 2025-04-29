@@ -1,0 +1,8 @@
+The results derived from the estimation of Equation 1 (controlling
+for SBD) by OLS (Table 4, columns 5-8) are supported
+by the urban theoretical models (decreasing gradient price) - for
+both functional forms and specifications of the CBD variable. However,
+tests on spatial randomness reject the null hypothesis. Due to
+spatial dependence, the signals and tests may be inaccurate. Therefore,
+to overcome the OLS estimator limitation, we estimate the econometric
+model by the SLX estimator.

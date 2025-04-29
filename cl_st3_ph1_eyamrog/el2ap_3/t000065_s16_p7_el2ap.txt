@@ -1,0 +1,6 @@
+One of the text variables for CorIFA is length in
+words. IFA teachers may determine text word ranges based on
+their experience with the students’ level and on register characteristics.
+Average word length is kept as presented in Table 2,
+which also shows the total number of words per register
+and in the whole corpus.

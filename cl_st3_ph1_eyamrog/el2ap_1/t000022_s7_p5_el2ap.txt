@@ -1,0 +1,27 @@
+Vuotto, Di Césare and Pallotta (2020) analyzed 17 bibliographic databases
+and verified that currently there are still few of them
+that openly offer their elements in a common format and
+structure to enable the analysis of production at the document
+level. For this reason, to date, the available empirical studies
+have only been able to analyze the journal collections separately
+as offered by each of the indexing databases. Scopus has
+890 journals that are published in the region, and Web
+of Science has 223. As of June 2021, SciELO had
+1,358 active, indexed journals which are also replicated in the
+SciELO Citation Index in the Web of Science platform, allowing
+for the evaluation of the performance of the articles in
+a global context of citations. Redalyc, for its part, has
+its own information system and indicators for its collection of
+1,415 journals. These two collections have many journals in common,
+as we will see shortly. Then there is also Biblat
+which has its own cataloging system with a large number
+of complete records at the document level. However, at present
+it is not possible to work with combined data from
+these three indexing databases in the region because they are
+not interoperable. To these sources LA Referencia should be added.
+It is a very relevant database which harvests the production
+of 790 institutions from 12 Ibero-American countries. It currently has
+more than three million documents. However, it does not have
+advanced searching by journal, and there are overlaps of data
+with the former indexing services given that it originates from
+the repositories of the individual institutions.

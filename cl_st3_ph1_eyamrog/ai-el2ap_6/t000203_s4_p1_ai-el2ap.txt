@@ -1,0 +1,9 @@
+The observed lower incidence and mortality rates of COVID-19 in
+countries with ongoing Bacillus Calmette-Guérin (BCG) vaccination programs are both
+noteworthy and biologically plausible. To date, ongoing analyses have identified
+a correlation between the extent of BCG program coverage and
+the reported numbers of COVID-19 cases and deaths across countries
+over two consecutive months. Rapid initiation of prospective and controlled
+studies is warranted, as BCG vaccination may offer a potential
+interim strategy for the prevention of severe COVID-19 cases until
+a disease-specific vaccine becomes available.

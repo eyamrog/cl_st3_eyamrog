@@ -1,0 +1,22 @@
+The next processes of coronavirus replication and transcription are outlined
+in figure 2 below. Once produced and processed, part of
+the non-structural proteins together with nsp12, the RNA-dependent RNA polymerase
+(RdRp), assemble the Replication and Transcription Complex (RTC). RTC acts
+primarily by producing a set of single-stranded negative RNAs (ssRNA-),
+including copies of the genomic RNA and subgenomic RNAs, which
+will then serve as templates for the production of the
+genome and mRNA, respectively. These intermediate negative RNA molecules are
+about 1% as abundant as their respective positive counterparts and
+contain anti-leader sequences, present in the 5’ untranslated region (UTR)
+of the antigenome and in the 3’-UTR of the genome
+(Sethna et al. 1991). On the other hand, in the
+5’-UTR of the viral genome and 3'-UTR of the antigenome
+there are leader sequences. The leader and anti-leader sequences are
+used by the RTC to initiate replication and transcription. In
+the 5’-UTR of the genome and at the beginning of
+each ORF of the structural genes there are other regulatory
+regions, called Transcriptional Regulatory Sequences (TRS), as shown in figures
+1 and 2. During the transcription of ssRNA molecules, two
+mechanisms may happen, according to the currently established model of
+replication of coronaviruses (Pasternak et al. 2006; Sawicki et al.
+2007):

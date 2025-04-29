@@ -1,0 +1,7 @@
+Photosynthetic pigments were extracted and quantified according to the method
+described by Hendry and Price (1993). Leaf discs weighing 0.1
+g were homogenized in 80% acetone, and the absorbance of
+the resulting extracts was measured at wavelengths of 480, 645,
+and 663 nm using a Genesys 5 Spectronic spectrophotometer. The
+concentrations of total chlorophyll and carotenoids were calculated based on
+the recorded absorbance values.

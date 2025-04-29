@@ -1,0 +1,11 @@
+Results: The proportion of SARS-Cov-2 positive tests without any adjustment
+was 4.0% (95% CI 3.3-4.7%), and the weighted prevalence was
+3.8% (95% CI 3.1-4.5%). Further adjustment by test sensitivity and
+specificity produced lower estimates, 3.6% (95% CI 2.7-4.4%) and 3.3%
+(95% CI 2.6-4.1%), respectively. The variable most significantly associated with
+the crude prevalence was the period of blood collection: the
+later the period, the higher the prevalence. Regarding socio-demographic characteristics,
+the younger the blood donors, the higher the prevalence, and
+the lower the educational level, the higher the odds of
+a positive SARS-Cov-2 antibody. Similar results were found for the
+weighted prevalence.

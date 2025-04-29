@@ -1,0 +1,12 @@
+The global spread of Coronavirus has generated significant levels of
+fear, worry, and concern, particularly among healthcare workers who face
+an elevated risk of infection. This paper compiles strategies and
+guidelines aimed at reducing contamination in Intensive Care Units (ICUs)
+and throughout hospital environments. Recommendations from ASHRAE and REHVA include
+the use of UV-C lamps, pressure-controlled filtration, restroom management protocols,
+and humidity control to mitigate the transmission of COVID-19 in
+ICUs. The importance of infection control in hospital design is
+increasingly recognized. This paper emphasizes the role of heating, ventilation,
+and air-conditioning (HVAC) systems in minimizing the risk of airborne
+infection transmission within healthcare facilities through the implementation of best
+practices.

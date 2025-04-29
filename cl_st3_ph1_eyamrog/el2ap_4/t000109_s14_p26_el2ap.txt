@@ -1,0 +1,7 @@
+It is considered that the behavior linked to each Ha’s
+mobility is different at different times of the day, so
+specific HMM are generated for different time slots. The same
+occurs for age ranges. According to their age range, each
+Ha has a characteristic type of mobility and activities shared
+by all the human agents of the same neighborhood or
+district.

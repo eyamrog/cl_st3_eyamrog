@@ -1,0 +1,14 @@
+As previously mentioned, the weight of Brazil is central to
+the analysis of the scientific journal space in Latin America.
+space. Journals of Brazil account for 29.4% of the 1,720
+journals included in the OLIVA corpus. Looking at the journals
+by discipline, most are found in the Medical and Health
+Sciences (34.3% of the total) and the Natural and Exact
+Sciences (33%). On the other hand, there are fewer among
+the Humanities (23.9%), Engineering and Technology (19.3%) and Multidisciplinary-SSH (17.9%).
+However, Brazil's weight is best measured by analyzing the number
+of articles in its journals. Overall, 50.1% of the articles
+in the OLIVA database have been published in journals of
+Brazil. By discipline, this percentage is even higher for journals
+in the Agricultural Sciences (65.8%), Multidisciplinary (58.8%), Medical and Health
+Sciences (54.5%), and Natural and Exact Sciences (53.9%).

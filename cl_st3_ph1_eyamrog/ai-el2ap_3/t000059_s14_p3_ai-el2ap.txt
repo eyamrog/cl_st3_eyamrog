@@ -1,0 +1,12 @@
+Authorship concentration at the journal level over the five-year period
+was measured using two indicators: the percentage of articles published
+by the most prolific author and the Gini coefficient. For
+each journal, the most prolific author was defined as the
+individual who published the highest number of articles in that
+journal during the study period. The percentage was calculated as
+the ratio of articles authored by this individual to the
+total number of signed articles in the journal. The Gini
+coefficient, which ranges from zero (indicating complete equality) to one
+(indicating complete inequality), was calculated according to the method described
+by Jasso (1979). For a discussion of the comparative advantages
+of different Gini coefficient calculation methods, see Davidson (2009).

@@ -1,0 +1,3 @@
+The variables Pe, Hv_c, Hd_c, and Bv_w exhibited high values,
+with Pe showing the strongest effect, followed by Hv_c, Hd_c,
+and Bv_w in descending order of magnitude.

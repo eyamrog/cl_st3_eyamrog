@@ -1,0 +1,4 @@
+As shown in the table above, the Wilcoxon test results
+for the pretest and posttest on each criterion indicate the
+following for the experimental group: Reading Comprehension yielded a Z
+value of -5.131 (a) with a p-value of 0.000.

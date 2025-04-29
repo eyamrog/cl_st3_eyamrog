@@ -1,0 +1,12 @@
+Agent-based models (ABM) are computational modeling and simulation techniques employed
+to analyze the organization and dynamics of complex systems. These
+models comprise an artificial society composed of autonomous and heterogeneous
+agents that interact with each other and with their environment
+in non-trivial ways, following predefined rules that establish a specific
+social architecture. The social dimension of ABM arises from the
+heterogeneity, autonomy, interdependence, and social embedding of the computational agents
+[20]. To date, relatively few models with these characteristics have
+been applied to the study of COVID-19 [10][11][21][22][23]. Moreover, most
+existing models have been developed for specific contexts within particular
+regions or countries, making it challenging to generalize or adapt
+them to new situations without substantial scientific and technical expertise.

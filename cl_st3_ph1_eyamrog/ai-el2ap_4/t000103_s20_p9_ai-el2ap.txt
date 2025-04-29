@@ -1,0 +1,5 @@
+In presenting the results for the biased sentences, the expected
+preference will be indicated with an asterisk (*). The results
+are reported as the percentage of responses; for each cell
+in the tables, a pair of sentences was tested with
+all participants in the sample.

@@ -1,0 +1,6 @@
+The median number of signed articles per journal was 166
+(Table 1). In comparison, MEDLINE journals analyzed by Scanff et
+al. (2021) had a median of 500 signed articles, with
+an interquartile range of 262 to 964. After statistical reweighting,
+the size distribution of MEDLINE journals was equivalent to that
+of journals indexed in LILACS (1).

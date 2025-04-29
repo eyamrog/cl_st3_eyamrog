@@ -1,0 +1,13 @@
+Previous studies have examined the effects of clause order and
+anaphor salience on ambiguity resolution, as well as the influence
+of first language (L1) on anaphora resolution in a second
+language (L2). For example, Sorace and Filiaci (2006) investigated ambiguous
+anaphora resolution in Italian; Alonso-Ovalle et al. (2002) and Keating
+et al. (2011) in Spanish; Valenzuela et al. (2011) in
+both Spanish and English; and Lobo and Silva (2016) in
+Portuguese. However, few studies have compared anaphora resolution across multiple
+languages, and Portuguese is typically underrepresented in such research. Additionally,
+previous studies often do not specify semantic criteria for verb
+selection in their experimental tasks. In contrast, the present study
+explicitly defines these criteria and examines how different combinations of
+verbs influence anaphora resolution.

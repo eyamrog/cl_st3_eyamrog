@@ -1,0 +1,10 @@
+During the inserted sequence, the original question maintains its transition
+relevance, and if the second speaker does not subsequently provide
+an answer, the absence of a response is as apparent
+as it would be without the intervening sequence. The questioner
+can address the lack of an answer in the same
+manner in both cases. This supports the argument that adjacency
+pairs function as normative structures in which the occurrence of
+the second pair part is expected. Consequently, other sequences can
+be considered as being inserted between the initial pair part
+and the anticipated second pair part.

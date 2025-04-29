@@ -1,0 +1,6 @@
+For studies that do not report a mean and corresponding
+standard deviation (SD), we will extract relevant information and results
+from the text or tables to infer these values where
+possible. If the specified parameters are unavailable, we will estimate
+them using alternative reported statistics, ensuring that the most accurate
+and reliable information is obtained.

@@ -1,0 +1,6 @@
+Another primary objective of this study is to determine whether
+institutions tend to concentrate on specific dimensions and indicators or
+exhibit a uniform performance across all dimensions. This analysis is
+conducted using the 300 highest-performing institutions in Europe, as these
+institutions generally possess more comprehensive datasets, particularly within the European
+context, thereby reducing issues associated with missing data.

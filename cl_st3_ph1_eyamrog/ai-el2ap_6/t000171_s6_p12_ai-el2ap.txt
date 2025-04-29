@@ -1,0 +1,9 @@
+This study identified a phenomenon underlying the spatio-temporal dynamics of
+testing rates, incidence, and mortality related to COVID-19 in Minas
+Gerais, with particular emphasis on the influence of urban center
+hierarchy levels and demographic characteristics of the region. The findings
+enhance understanding of the association between territorial dynamics and epidemiological
+parameters of COVID-19, providing evidence that may inform the preparation
+of health systems and institutional authorities in developing targeted strategies
+to address the disease, based on prior knowledge of demographic
+and hierarchical features of the territory.

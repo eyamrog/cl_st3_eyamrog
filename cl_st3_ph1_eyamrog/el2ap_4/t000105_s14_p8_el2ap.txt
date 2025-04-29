@@ -1,0 +1,5 @@
+A three-stage conglomerate sampling design was adopted: census sector (selected
+for stages 1, 2, and 3 of survey, randomly and
+without replacement), households (selected from a systematic sampling process), and
+residents (one resident selected randomly, using the “Sorteador de Nomes®”
+applicative) [15].

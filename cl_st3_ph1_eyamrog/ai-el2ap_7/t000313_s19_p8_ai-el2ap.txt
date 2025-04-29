@@ -1,0 +1,13 @@
+A Serine (S) residue was also identified at the positively
+selected site 559, which has been shown to reduce or
+inhibit the interaction between the SARS-CoV S glycoprotein and ACE2
+(Li et al., 2005b). This amino acid substitution at position
+559 is present not only in rodents but also in
+certain carnivore species previously considered as potential original or intermediate
+hosts, including the pangolin (Manis javanica). The ACE2 protein of
+the pangolin shares approximately 85% sequence similarity with human ACE2
+(Lam et al., 2020); however, when considering only the 30
+sites analyzed in this study, the similarity decreases to 66%.
+Furthermore, a Serine at position 559 is also observed in
+two species of the Mustelidae family, namely the ferret (Mustela
+putorius) and the sea otter (Enhydra lutris).

@@ -1,0 +1,17 @@
+Time spent in moderate-to-vigorous physical activity (MVPA) was assessed using
+two questions: (1) “How much time on an average day
+have you spent in vigorous physical activity since self-isolating?” and
+(2) “How much time on an average day have you
+spent in moderate physical activity since self-isolating?” Each question was
+accompanied by definitions specifying that vigorous physical activities require substantial
+physical effort and result in breathing much harder than normal,
+while moderate activities require moderate physical effort and cause breathing
+to be somewhat harder than normal. For the logistic regression
+models, MVPA, moderate physical activity (MPA), and vigorous physical activity
+(VPA) during self-isolation were treated as dichotomous variables. MVPA and
+MPA were categorized as either less than 30 minutes per
+day or 30 minutes or more per day, while VPA
+was categorized as either less than 15 minutes per day
+or 15 minutes or more per day. These thresholds were
+selected to align with public health recommendations of 150 minutes
+of MVPA or 75 minutes of VPA per week.

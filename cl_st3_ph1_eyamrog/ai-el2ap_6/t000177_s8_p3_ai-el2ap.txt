@@ -1,0 +1,7 @@
+The protection of healthcare workers and the preparedness of intensive
+care units (ICUs) to manage epidemic clusters should be prioritized.
+While the role of healthcare workers in facilitating patient-to-patient transmission
+of pathogens is well established, emerging evidence indicates that environmental
+contamination, particularly of high-touch surfaces, plays a significant role in
+the spread of infectious agents. Consequently, healthcare workers are at
+an elevated risk of infection [4, 5, 6].

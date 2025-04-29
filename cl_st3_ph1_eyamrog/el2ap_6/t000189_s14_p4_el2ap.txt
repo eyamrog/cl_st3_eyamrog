@@ -1,0 +1,7 @@
+The search algorithm for PubMed was: (("malnutrition"[MeSH Terms] OR "malnutrition"[All
+Fields] OR ("nutritional"[All Fields] AND "deficiency"[All Fields]) OR "nutritional deficiency"[All
+Fields]) AND ("vitamin a"[MeSH Terms] OR "vitamin a"[All Fields])) AND
+("respiratory tract infections"[MeSH Terms] OR ("respiratory"[All Fields] AND "tract"[All Fields]
+AND "infections"[All Fields]) OR "respiratory tract infections"[All Fields]). The keywords
+were changed to provide the inclusion of articles with the
+other micronutrients and infectious conditions (influenza or coronavirus).

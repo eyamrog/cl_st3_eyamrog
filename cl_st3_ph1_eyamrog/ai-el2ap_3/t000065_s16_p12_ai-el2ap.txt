@@ -1,0 +1,13 @@
+Another characteristic relevant to the corpus design is its suitability
+for longitudinal studies, as the data can facilitate analysis of
+the relationship between students’ writing development and proficiency level over
+time. There is a limited number of learner corpus studies
+that adopt a longitudinal approach (with the exceptions of Biber
+et al., 2020; Goutéraux, 2013; Littré, 2015; Meunier & Littré,
+2013). Up to 2019, 217 students submitted texts across more
+than one semester; of these, 197 students submitted texts over
+a one-year period (two semesters), while 20 students contributed over
+a period exceeding one year (three semesters or more). Additionally,
+CorIFA data may include contributions from students who began IFA
+classes as undergraduates and continued to participate after enrolling in
+a graduate program.

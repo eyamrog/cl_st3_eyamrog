@@ -1,0 +1,12 @@
+These data can be utilized to address challenges in the
+control of leishmaniases and to enhance understanding of the epidemiology
+of this disease. As control measures in Brazil rely on
+disease surveillance and monitoring within territorial units that consider biological
+and environmental characteristics, our dataset offers valuable contributions to expanding
+current knowledge. Specifically, our data include occurrence records from previously
+undocumented areas that are typically not surveyed by public health
+system control programs for American cutaneous leishmaniasis (ACL) implemented by
+the Brazilian government. These records can support the modeling of
+both vector and disease distribution across spatial and temporal scales
+and help identify priority areas for ACL surveillance and control
+efforts.

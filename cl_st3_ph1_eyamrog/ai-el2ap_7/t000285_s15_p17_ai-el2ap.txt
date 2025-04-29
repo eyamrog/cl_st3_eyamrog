@@ -1,0 +1,5 @@
+When at least two studies are sufficiently homogeneous with respect
+to design, participant characteristics, and outcome measures, we will evaluate
+the feasibility of combining their results in a meta-analysis. If
+the available studies are heterogeneous or lack sufficient information, their
+findings will be summarized using a qualitative synthesis only.

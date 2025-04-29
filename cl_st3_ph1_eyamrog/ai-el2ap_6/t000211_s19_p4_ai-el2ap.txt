@@ -1,0 +1,8 @@
+The study did not recommend the use of ECD for
+excluding the diagnosis of pulmonary embolism (PE) due to its
+low diagnostic accuracy. A negative D-dimer (DD) result combined with
+a low modified Wells score was considered sufficient to rule
+out PE. However, in the context of SARS-CoV-2 infection, which
+is associated with elevated DD levels, the utility of DD
+as a diagnostic tool is reduced; nevertheless, elevated DD values
+should still be taken into consideration in the clinical assessment.

@@ -1,0 +1,10 @@
+The following two procedures are modifications of the original method
+proposed by McDonald (1987), which analyzes the residuals from a
+log density specification of employment. Craig and Ng (2001) address
+the issue of subjectivity present in the earlier approach by
+employing quantile regression, specifically targeting the 95th percentile of the
+employment density distribution. Their method selects rings with high density
+and employment based on their understanding of the city. However,
+McMillen (2001b) criticizes this approach for assuming a symmetric density
+function around the central business district (CBD) and for relying
+on the researcher's prior knowledge of the city's employment distribution.

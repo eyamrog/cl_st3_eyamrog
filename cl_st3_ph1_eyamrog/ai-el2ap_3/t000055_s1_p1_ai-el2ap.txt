@@ -1,0 +1,11 @@
+The “Coleção de Flebotomíneos” (FIOCRUZ/COLFLEB) at Fiocruz Minas is a
+curated biological collection comprising approximately 80,000 individual specimens representing 370
+species of sand flies (Diptera: Psychodidae, Phlebotominae), primarily from the
+Americas, collected over the past 80 years by entomologists studying
+and seeking to control leishmaniases. Since 2010, metadata for each
+specimen in FIOCRUZ/COLFLEB, including retrospective data for specimens deposited in
+previous decades, has been digitized. The resulting electronic catalogue, which
+includes records for 72,624 specimens along with all available provenance
+information, is now published online via the speciesLink network (<http://www.splink.org.br/search?collectioncode=FIOCRUZ-COLFLEB&group=animais&lang=pt&action=openform>)
+and the Sistema de Informação sobre a Biodiversidade Brasileira (SiBBr)
+(<http://ipt.fiocruz.br/ipt/resource?r=fiocruz_colfleb>).

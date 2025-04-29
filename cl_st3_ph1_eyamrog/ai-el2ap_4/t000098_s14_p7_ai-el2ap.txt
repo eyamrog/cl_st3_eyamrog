@@ -1,0 +1,9 @@
+Given the impracticality of obtaining comprehensive data from a single
+source and the resulting scope of the data collection effort,
+the initial objective was to include countries that collectively accounted
+for 90% of global Covid-19 deaths. Of the 34 countries
+necessary to reach this threshold, minimally updated age-disaggregated data could
+not be identified for six countries: Russia, Iran, Belgium, Romania,
+Iraq, and Bolivia. The remaining 28 countries, for which relevant
+data were successfully obtained, represented 82% of global Covid-19 deaths
+as of January 28, 2021.

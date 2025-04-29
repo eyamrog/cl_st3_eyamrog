@@ -1,0 +1,13 @@
+Immunization is a fundamental component of primary health care (PHC).
+Increased vaccination coverage is associated with a reduction in hospitalizations
+due to preventable diseases such as whooping cough, diphtheria, Haemophilus
+influenzae, and measles. Currently, there are more than 36,000 vaccination
+facilities in Brazil, offering 45 types of immunobiological products, including
+vaccines, sera, and immunoglobulins. The Unified Health System (SUS) is
+responsible for administering 95% of vaccine doses in the country.
+In response to the COVID-19 pandemic, Brazil advanced the start
+of its influenza vaccination campaign by one month to mitigate
+the impact of this seasonal respiratory disease, which can increase
+hospitalization rates and place additional strain on the health system.
+The campaign aims to immunize at least 90% of the
+target population, comprising 67.6 million individuals.

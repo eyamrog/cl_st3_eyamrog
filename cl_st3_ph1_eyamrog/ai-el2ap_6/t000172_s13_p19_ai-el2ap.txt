@@ -1,0 +1,18 @@
+Several cellular targets of the coronavirus N protein have been
+identified. Cui et al. (2015) demonstrated that the N protein
+functions as a viral suppressor of RNA silencing (VSR), as
+ectopic expression of the SARS-CoV N protein enhanced MHV-A59 coronavirus
+replication in RNA interference (RNAi)-competent cells but not in RNAi-deficient
+cells. Additionally, proteomic analyses have revealed that the N protein
+interacts with various cellular components, including ribosomal proteins, translation initiation
+factors, nucleolar proteins, helicases, and heterogeneous nuclear ribonucleoproteins (hnRNPs) (Emmott
+et al. 2013). Some interactions, such as those with NONO
+and poly(A)-binding protein (PABP), may be mediated by RNA, while
+interactions with caprin-1, G3BP-1, and G3BP-2, which are associated with
+cytoplasmic stress granule formation, are consistent with the observed localization
+of N protein within these structures. The interaction between N
+protein and nucleolin (NCL) may account for the nucleolar localization
+of coronavirus N proteins (Chen et al. 2002). Furthermore, RNA
+interference-mediated depletion of specific cellular targets, including NCL, RPL19, and
+GSK3, has demonstrated their functional significance in coronavirus replication (Emmott
+et al. 2013).

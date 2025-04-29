@@ -1,0 +1,4 @@
+These considerations represent the framework necessary to interpret the “heart”
+of the research I carried out: how to implement a
+scientific knowledge not only aimed at the transmission of concepts,
+but also at the development of

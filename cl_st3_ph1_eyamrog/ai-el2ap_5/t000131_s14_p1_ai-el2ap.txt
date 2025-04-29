@@ -1,0 +1,26 @@
+Experiments were conducted at the University of São Paulo, Ribeirão
+Preto campus (21°10'08.4'' S, 47°51'50.6'' W), São Paulo, Brazil, in
+a region characterized by a tropical wet and dry climate
+(Aw) according to the Köppen-Geiger classification. Detailed climatic data for
+the experimental period are provided in Supplementary Table S1. The
+study utilized Mikania glomerata Spreng. and Mikania laevigata Sch. Bip
+ex Baker. Plantlets of each species were propagated from cuttings
+taken from the middle sections of branches of different parental
+plants, with each cutting measuring approximately 1 cm in diameter
+and 12 cm in length, containing a node at the
+apex and a pair of leaves, following the protocol described
+by Lima et al. (2003). The cuttings were initially planted
+in 3-kg plastic bags filled with a 1:1 mixture of
+manure and red latosol soil and maintained under greenhouse conditions.
+After approximately 60 days, once rooting was established, the plantlets
+were transplanted into 20 L pots containing soil and subjected
+to experimental treatments for 150 days. The soil was supplemented
+with 1 g of NPK (4-14-8) fertilizer per kg of
+soil. Plants were exposed to four light regimes: full sunlight
+(I0), and 25% (I25), 50% (I50), and 75% (I75) reduction
+in solar radiation, as illustrated in Supplementary Figure 1. These
+light conditions were achieved using specially constructed greenhouses equipped with
+artificial shading to provide the desired levels of solar radiation
+attenuation. Throughout the experiment, pots were irrigated daily to maintain
+soil at field capacity, monitored using an ML2× Theta Probe
+sensor (Delta-T Devices, Cambridge, UK).

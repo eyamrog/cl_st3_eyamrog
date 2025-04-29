@@ -1,0 +1,5 @@
+Regarding Brazilian Portuguese, the analysis proposed by Rizzi and Bocci
+appears to be highly applicable: (1) both root and embedded
+interrogatives are derived through wh-movement; (2) in root interrogatives, the
+wh-element is focalized; and (3) in embedded interrogatives, the wh-operator
+undergoes raising even in the presence of a focalized constituent.

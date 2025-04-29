@@ -1,0 +1,15 @@
+The thermogravimetric (TG) curve of the ethyl acetate fraction exhibits
+three distinct stages of thermal decomposition. The first stage occurs
+between 29.35 and 225.23 °C, similar to the pattern observed
+in the ethanol extract (EE). In addition to the loss
+of moisture and residual solvent, this stage likely involves the
+volatilization of another compound, as the total mass loss was
+16.97% (1.13 mg). The second stage, observed between 225.30 and
+327.87 °C, is attributed to the degradation of flavonoids and
+gallic acid present in the sample, resulting in a mass
+loss of 26.42% (1.76 mg); this is consistent with the
+known exothermic degradation peak of gallic acid at approximately 263
+°C. The final stage begins at 328.00 °C and is
+associated with the decomposition of carbonaceous residues, leading to an
+additional mass loss of 46.23%, although complete degradation is not
+achieved.

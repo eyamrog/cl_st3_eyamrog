@@ -1,0 +1,5 @@
+Only data from dry-preserved male and female culicids mounted with
+entomological pins were included in the dataset. Information for each
+specimen was recorded in a spreadsheet using Microsoft Office® v.
+2016 (Microsoft Corporation, Redmond, WA, USA) and subsequently transferred to
+a Darwin Core-compliant spreadsheet.

@@ -1,0 +1,9 @@
+The FAP or proboscis extension were not observed in the
+Y-olfactometer, only chemotaxis was observed in certain cases. When one
+arm of the Y-olfactometer was provided with the headscape of
+living cockroaches and the other with clean air, B. corredori
+(P=0.005), B. ferroae (P=0.04) and B. herreri (P=0.014) avoided the
+odorous air current (Fig 3). The chi-square test of independence
+showed that there was no significant relation between species and
+behavioral responses (P=0.347); Belminus genus (n=52) avoided volatiles emanating from
+cockroaches (79%, P=0.000013).

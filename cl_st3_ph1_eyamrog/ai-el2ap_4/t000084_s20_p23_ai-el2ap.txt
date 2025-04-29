@@ -1,0 +1,15 @@
+To examine the relationship between age and emoji use, four
+Spearman’s rho analyses were conducted. Participants’ ages ranged from 21
+to 60 years, with a mean age of 38 years.
+The analyses indicated no significant correlations between age and cognitive
+presence (rs = -.07, p = .62), teaching presence (rs
+= .10, p = .44), social presence (rs = .04,
+p = .74), or total presence (rs = -.002, p
+= .99; see Table 7). These findings are consistent with
+previous research, such as Fullwood, Orchard, and Floyd (2013), who
+reported no significant differences in emoji use across age groups
+in internet chat rooms, and Alshenqeeti (2016), who found that
+age was a weaker predictor of emoji use compared to
+technological awareness and capability. Thus, the present results corroborate existing
+evidence that age is not a significant factor in emoji
+use.

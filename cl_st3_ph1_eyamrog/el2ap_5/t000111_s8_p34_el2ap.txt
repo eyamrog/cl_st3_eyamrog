@@ -1,0 +1,5 @@
+Since Chomsky (1977), those sentences are said to be derived
+via wh-movement; i.e., the wh- phrase in those constructions appears
+in a position that is different from the one it
+is generated, which the author formulates in terms of a
+rule:

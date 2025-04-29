@@ -1,0 +1,8 @@
+For future studies, we recommend testing olfactory and visual cues
+independently, for example by using a cockroach dummy or by
+presenting multimodal stimuli on the servosphere, in order to determine
+whether olfaction alone is sufficient or necessary to elicit fixed
+action patterns (FAP). Additionally, we suggest combining different stimuli to
+clarify the mechanisms underlying the convergence of visual cues, such
+as varying light treatments, and olfactory cues, as described in
+previous studies (Reisenman et al. 2000; Otálora-Luna and Dickens 2011).

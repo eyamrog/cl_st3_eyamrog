@@ -1,0 +1,7 @@
+The primary finding to note is that the inclusion of
+Types of Work F.E., or labor activities fixed effects, leads
+to a significant reduction in almost all coefficients, as shown
+in column (4). This outcome indicates that the composition effect
+related to the distribution of labor force participation across different
+labor activities explains a substantial portion of the observed differences
+in the probabilities of engaging in remote work.

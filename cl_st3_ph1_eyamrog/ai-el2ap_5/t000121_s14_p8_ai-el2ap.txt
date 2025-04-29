@@ -1,0 +1,14 @@
+The PHQ-4 screening diagnoses were categorized into four groups based
+on the presence of anxiety, depression, either diagnosis alone, or
+both diagnoses simultaneously. Each group served as a dependent variable
+(presence or absence of symptoms) in four separate logistic regression
+models. For each model, the following indicators were evaluated: the
+Omnibus test (with statistical significance expected), Nagelkerke’s R² (with higher
+values indicating greater explained variance), the Hosmer-Lemeshow test (with non-significance
+indicating good model fit), and the model’s correct predictive capacity
+(expected to be approximately 70%). Multicollinearity was assessed for all
+models, and no issues were identified in either the model
+composition or the final solutions. All odds ratio (OR) values
+less than 1 were converted using the formula 1/OR to
+standardize the reporting of results. Statistical significance was defined as
+p < 0.05 for all binomial and multinomial regression analyses.

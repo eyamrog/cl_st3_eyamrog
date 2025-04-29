@@ -1,0 +1,14 @@
+Due to its conservative approach, Polypolish may fail to correct
+certain errors that other short-read polishers are able to address,
+particularly in regions with low Illumina sequencing depth. However, alternative
+polishers may introduce new errors, which is undesirable when the
+objective is to achieve a highly accurate assembly. Therefore, it
+is advisable to use additional short-read polishers, but to manually
+evaluate all proposed changes using visualization tools such as IGV.
+Examining read alignments at specific loci before and after polishing
+can help determine whether a modification corrects an existing error
+or introduces a new one, allowing for informed decisions regarding
+the acceptance or rejection of each change. Recommended polishers for
+this process include POLCA, due to its low rate of
+introduced errors, and FMLRC2, due to its capacity to correct
+errors that other polishers may not resolve.

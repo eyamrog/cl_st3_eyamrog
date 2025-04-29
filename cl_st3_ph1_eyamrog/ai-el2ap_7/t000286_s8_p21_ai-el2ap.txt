@@ -1,0 +1,3 @@
+Lesotho (2006) examined the determinants of investment inflow using the
+ordinary least squares (OLS) multiple regression technique, incorporating variables such
+as the interest rate.

@@ -1,0 +1,6 @@
+This study examined the distribution of two recently proposed indicators
+of endogeny among health science journals indexed in LILACS. The
+proportion of articles authored by the most prolific contributor was
+higher, while the Gini coefficient was lower in LILACS journals
+compared to those indexed in MEDLINE. However, both differences were
+no longer observed after adjusting for journal size.

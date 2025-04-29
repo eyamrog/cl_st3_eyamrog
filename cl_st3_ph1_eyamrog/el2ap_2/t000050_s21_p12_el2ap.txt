@@ -1,0 +1,11 @@
+These data can be used to address challenges in leishmaniases
+control and to a better understanding of the epidemiology of
+this disease. Since control measures in Brazil are based on
+disease surveillance and monitoring in territorial units, which include biological
+and environmental characteristics, our dataset can contribute to a broader
+knowledge. Our data provide occurrence records from previously unknown which
+would not normally be surveyed by the public health system
+ACL control programmes from the Brazilian government. These data can
+be used for modelling of both vector and disease distribution
+in space and time as well as provide clues on
+priority areas for ACL surveillance and control in these areas.

@@ -1,0 +1,14 @@
+To have a better idea of the overall problem of
+missing data, we observed that, for all 1788 academic Institutions
+listed in the 2020 version of the ranking, we have
+39.84% missing data, 5.70% data that were considered “not applicable”
+and 54.46% of available data. It means that the Brazilian
+Institutions are about 10% below the world average, in terms
+of available data. Another comparison that can be made is
+with European countries, since “U-Multiranking” was created in Europe. We
+can observe that, for the 79 Spanish Educational Institutions evaluated
+by the “U-Multirank” in the 2020 edition, 86.15% of the
+data is available. Spain is a good choice for comparison,
+because it has a large number of Institutions listed in
+the ranking in 2020. Therefore, Brazilian Institutions are about 40%
+below Spanish Institutions.

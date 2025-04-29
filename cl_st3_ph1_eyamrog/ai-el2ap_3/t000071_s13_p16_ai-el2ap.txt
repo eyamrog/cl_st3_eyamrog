@@ -1,0 +1,16 @@
+Another important consideration is how the outcomes of this and
+other verification systems—such as those for peer review, indexing, and
+related components—will be communicated to readers and authors. To address
+this, we have initiated the development of a "Publication Facts"
+label, modeled after the FDA Nutrition Facts label (see Fig.
+3). This label will be subject to public scrutiny in
+accordance with open science principles and will be evaluated and
+refined with input from diverse audiences, including high school students
+and journalists, to ensure its clarity and comprehensibility for both
+researchers and the general public. The label, which will be
+linked to individual studies, will present metrics regarding compliance with
+established standards, accompanied by detailed explanations of each standard and
+metric. The purpose of this labeling system is to inform
+and educate both the public and professionals about research standards,
+while providing readers with a concise tool to assess, or
+further investigate, the trustworthiness of research publications.

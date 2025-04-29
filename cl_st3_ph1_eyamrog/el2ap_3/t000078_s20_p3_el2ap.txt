@@ -1,0 +1,9 @@
+First, consider the results of Global Moran’s I test. Table
+2 shows the results for the employment variables using the
+weighting matrices discussed above. All results are statistically significant at
+1%. Note that all tests show a positive spatial correlation.
+This result indicates a similarity’s relationship between the level of
+employment and the spatial location of the employment level of
+the neighbors, suggesting that the MSP employment spatial pattern is
+concentrated in the neighborhoods where neighbors are similar to each
+other.

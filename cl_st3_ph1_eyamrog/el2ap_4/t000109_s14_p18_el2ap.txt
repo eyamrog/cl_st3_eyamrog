@@ -1,0 +1,12 @@
+Finally, this submodel takes into account an attribute of each
+Ha that is defined by the level of observance of
+social distancing. This attribute, distancing, has two possible values: high
+or low. In the event that Ha has high level
+of observance, before taking any position in the geographical grid
+that does not correspond to its home, it checks that
+there is no other agent in a diameter of 1.8
+m. If this condition is verified, then Ha takes the
+place. If not, it waits until the corresponding capacity allows
+it. On the other hand, if distancing has a low
+value, then, when this Ha moves, it takes the corresponding
+place, regardless the allowed capacity.

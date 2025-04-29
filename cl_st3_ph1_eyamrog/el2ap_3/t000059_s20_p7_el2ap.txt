@@ -1,0 +1,11 @@
+The importance of journal size appeared again when the LILACS
+journals were grouped by subject or country of publication. Figure
+2 shows the average of each concentration index, by journal
+size, for the six countries with at least 20 journals
+(out of the 18 countries in the database). Likewise, Figure
+3 shows the average of each concentration index, by journal
+size, for the six subjects with at least 20 journals
+(of the 183 subjects in the database). For each country
+and each subject, the proportion of articles by the most
+prolific author was lower and the Gini coefficient was higher
+for larger journals.

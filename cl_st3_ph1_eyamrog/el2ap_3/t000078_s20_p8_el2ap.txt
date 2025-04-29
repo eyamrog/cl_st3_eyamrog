@@ -1,0 +1,9 @@
+It is noted that the CBD coefficient is not statistically
+significant for any of the functional forms (Table 4, columns
+1-2). By controlling the model by the quadratic effect of
+CBD distancing, the coefficient signals diverge from the theoretical models
+and are not statistically significant (Table 4, columns 3-4). Two
+possibilities may justify these results: a) spatial dependence may be
+distorting the signals and/or tests and/or b) omission of (a)
+relevant variable(s) (SBD), in which case the city of São
+Paulo would be polycentric.

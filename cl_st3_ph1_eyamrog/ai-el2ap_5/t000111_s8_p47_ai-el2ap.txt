@@ -1,0 +1,4 @@
+The wh-sentences in (41), although closely resembling the one in
+(35), exhibit DP-like structural properties. In contrast, the embedded sentence
+in (35) constitutes a standard CP with strong [+wh] features,
+which is selected by the matrix verb.

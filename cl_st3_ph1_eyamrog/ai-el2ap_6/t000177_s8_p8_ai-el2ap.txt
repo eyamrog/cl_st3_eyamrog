@@ -1,0 +1,6 @@
+The detection of coronavirus in hospital air ducts has prompted
+researchers to consider the possibility that the disease may be
+transmitted via air-conditioning systems, suggesting a higher level of contagion
+than previously assumed. The presence of SARS-CoV-2 in air conditioning
+vents in certain hospitals has raised concerns about the effectiveness
+of filtration systems in various buildings [7, 11].

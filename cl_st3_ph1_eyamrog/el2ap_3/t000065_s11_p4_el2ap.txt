@@ -1,0 +1,26 @@
+The design of two of the largest learner corpora compiled
+in the 1990s (Granger, 1998) are worth mentioning: the International
+Corpus of Learner English (ICLE) and the Longman Learners’ Corpus
+(LLC), especially due to how they have dealt with language,
+task and learner-related features (Tono, 2003). Language-related features are mode,
+genre, style and topic. These corpora encompass texts in the
+written mode with slight differences in the other features: mostly
+argumentative essays on a previously defined list of topics in
+ICLE and essays and exam scripts on a variety of
+topics in LLC. Task-related characteristics concern (a) data collection: sectional
+rather than longitudinal, (b) type of elicitation: spontaneous as contrasted
+to prepared or edited texts, (c) production time: either fixed
+or timed or untimed and done as homework, and (d)
+use of references allowed, for instance, dictionaries, with such information
+recorded. As for learner- related features, ICLE is a corpus
+with texts produced by university level students, while LLC allows
+for participation of different academic level groups. Both corpora have
+texts written by learners from a variety of first language
+backgrounds. While ICLE has high-intermediate to advanced material, LCC allows
+for the submission of texts at all levels. ICLE was
+“the first large collection of computerized learner data to be
+made available for research” while LLC “has been commercially available
+for research” (Tono, 2003, p. 800). Whereas ICLE has recently
+released a new version presenting over 5.5 million words (Granger
+et al., 2020); LLC, with 10 million words (Tono, 2003)
+does not have such updated information on their website.13

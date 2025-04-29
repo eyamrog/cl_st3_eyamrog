@@ -1,0 +1,20 @@
+For the overall/composite assessment in each section, stars are allocated.
+For section 1, a maximum of three stars can be
+awarded to a study if the cases are representatives of
+the cases in the general population like in the case
+of vaccine safety studies, if there is a clear ascertainment
+of the exposure of interest and if there is a
+demonstration that the outcome of interest occurred in the observation
+period. In section 2, a maximum of two stars can
+be awarded to a study if it reports that time
+varying confounders were accounted for or if the follow up
+period was short enough to mitigate time-confounding factors. In section
+3, a study can be awarded a maximum of five
+stars if there is a clear way of confirming the
+outcome, if the risk and control periods are well stated,
+if the time in the risk and control periods was
+long enough for the outcome of interest to be analyzed
+and if there was complete follow up of the cases
+or accountability of the cases lost during follow up. In
+total, a study can be awarded a maximum of 10
+stars.

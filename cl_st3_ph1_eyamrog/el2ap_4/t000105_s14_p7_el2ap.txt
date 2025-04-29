@@ -1,0 +1,9 @@
+The sample size calculation was based on the population estimate
+for each city, taking into consideration a confidence level of
+95%, a design effect equal to 1.5, and the parameters
+presented in Table 1, which also shows the sample distribution
+by stage of survey. Considering the losses resulting from refusals,
+absence of residents selected for the study, and the existence
+of closed households during the visit, a percentage of 20%
+of recomposition was added to the sample size in each
+city.

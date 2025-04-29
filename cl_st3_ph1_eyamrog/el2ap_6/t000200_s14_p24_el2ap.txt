@@ -1,0 +1,13 @@
+Linear regression analysis of the association between leptospirosis cases and
+variations in rainfall levels was carried out for the period
+and the population as a whole, according to the Health
+Region. In the investigation of the temporal evolution in the
+monthly occurrence of leptospirosis, the monthly incidence rates of the
+disease represent the dependent variable, i.e., the outcome (y); and,
+the months in the studied period, the independent variable (x).
+Thus, in the proposed model, monthly variations in leptospirosis cases
+are supplied by the angular coefficient (beta), from the adjustment
+of linear regression, having the months in the calendar year
+as dependent variable. The trend analysis applied the method of
+Prais-Winsten generalized linear regression, according to Gaynor and Kirkpatrick15, in
+which the regression parameters are corrected for first-order autocorrelation.

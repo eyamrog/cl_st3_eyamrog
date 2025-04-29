@@ -1,0 +1,22 @@
+There was a predominance of significant spatial clusters of femicide
+rates in the central region of Sergipe (Fig. 2), as
+confirmed by the Local Indicators of Spatial Association (LISA) analysis
+(Fig. 3). Previous studies have indicated the possibility of unique
+contextual factors in central Sergipe, although no spatial dependence of
+femicide rates was identified among Sergipe’s municipalities in 2017. However,
+findings by Grana and by Meneghel & Portella suggest that
+the incidence of femicide is higher in urban agglomerations and
+cities with greater population density. The contexts in which femicides
+occur are diverse and are often associated with specific geographical
+and gender-related factors. An increase in femicide has been observed
+in areas characterized by a predominance of patriarchal culture, which
+is a persistent feature of Sergipe society. This pattern was
+evident in the clusters of municipalities in Sergipe that exhibited
+"high-high" spatial autocorrelation. In these areas, there is significant livestock
+activity and a strong valorization of traditional male gender roles,
+where attributes such as courage, strength, and virility are considered
+essential for work with cattle, and these values often extend
+to broader gender relations and daily life. Similar conditions have
+been reported in other regions of Brazil with comparable economic
+structures and enduring patriarchal norms, where the subordination of women
+to men remains prevalent.

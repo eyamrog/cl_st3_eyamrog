@@ -1,0 +1,11 @@
+Although perfect bacterial genome assemblies are now achievable, their production
+remains complex. Ongoing advancements in Oxford Nanopore Technologies (ONT) chemistry,
+basecalling algorithms, and polishing tools are expected to enhance assembly
+quality; however, it is currently unclear whether these improvements will
+be sufficient to achieve consistently perfect assemblies using ONT data
+alone, thereby eliminating the need for supplementary Illumina reads. Additional
+software development is required to eliminate manual intervention, facilitating fully
+automated pipelines capable of generating high-quality assemblies even in challenging
+scenarios, such as genomes exhibiting heterogeneity. The overarching objective is
+to establish assembly methods that are sufficiently robust and user-friendly
+to render the production of perfect genomes routine and unremarkable.

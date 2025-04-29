@@ -1,0 +1,13 @@
+In contrast to short-read-first hybrid assembly approaches of the past
+(e.g. Unicycler), our recommended method follows a long-read-first paradigm. Due
+to their improved handling of repeats, long reads form a
+solid assembly foundation, with short reads only used for final
+polishing. Using this approach, we believe perfect genome assemblies with
+zero errors are achievable. However, it is not easy to
+establish a ground truth genome sequence, so when assembly accuracy
+is critical, we recommend performing multiple alternative assemblies that vary
+in data/methods: sequencing platforms, assemblers in the Trycycler pipeline, read
+QC thresholds, short-read polishing tools, etc. When alternative data/methods produce
+identical assemblies, this builds confidence in their correctness. When alternative
+assemblies are not identical, further investigation (e.g. visualising read alignments
+in IGV) is warranted.

@@ -1,0 +1,8 @@
+This study introduces an agent-based model, AbCSim, designed to simulate
+the progression of the COVID-19 epidemic at the local city
+level. The model explicitly integrates multiple epidemiological factors, enabling its
+adaptation to diverse case studies. Detailed methodologies for parameter calibration,
+as well as for incorporating temporal changes in social distancing
+measures, population activities, and climatic conditions, are presented. The model
+was applied to the city of Paraná as a case
+study, focusing on the second half of 2020.

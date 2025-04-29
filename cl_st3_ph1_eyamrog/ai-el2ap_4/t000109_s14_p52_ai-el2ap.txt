@@ -1,0 +1,4 @@
+As the model represents various aspects of reality through distinct
+parameters in an explicit manner, the resulting information was evaluated
+on a case-by-case basis, and the parameters were subsequently adjusted
+by an expert.

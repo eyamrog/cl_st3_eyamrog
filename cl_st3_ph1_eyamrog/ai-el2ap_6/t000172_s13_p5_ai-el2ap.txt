@@ -1,0 +1,8 @@
+Following its binding to the 3’ anti-leader sequence of the
+viral genome, the RNA transcription complex (RTC) initiates the synthesis
+of negative-sense RNA along the entire length of the molecule
+until it reaches the leader region at the 5’ end,
+resulting in the production of a full-length negative-sense copy of
+the genome, referred to as the antigenome. The antigenome subsequently
+functions as a template for the synthesis of the positive-sense
+genomic RNA (see Figure 2, processes 1a and 1b).

@@ -1,0 +1,18 @@
+Clinical trials are currently underway to assess the efficacy of
+SARS-CoV-2 convalescent plasma, obtained from individuals who have recovered from
+COVID-19 and may possess relevant antibodies, for the treatment of
+patients with severe viral infections. In one study led by
+Lei Liu, convalescent plasma (total dose: 400 mL with a
+SARS-CoV-2-specific IgG antibody titer greater than 1:1,000) was administered to
+five critically ill patients, all of whom exhibited symptom improvement
+within ten days. Although these findings, as reported by Shen
+et al., are noteworthy, the study has several limitations. The
+intervention was not evaluated in a randomized clinical trial, and
+there was no comparison with a control group of patients
+who did not receive convalescent plasma. Additionally, the patients received
+multiple other treatments, including antiviral agents and steroids, and the
+plasma was administered up to 21 days after symptom onset,
+leaving uncertainty regarding the optimal timing of administration and whether
+earlier intervention might have produced different outcomes. Despite these limitations,
+the study provides preliminary evidence that supports further investigation of
+convalescent plasma therapy in more rigorously designed clinical trials.

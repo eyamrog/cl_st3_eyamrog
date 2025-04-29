@@ -1,0 +1,8 @@
+Various quality assessment tools exist for both quantitative and qualitative
+studies. Researchers sometimes modify existing instruments or develop new ones
+to address specific requirements, as was the case in this
+study. In 2018, during the evaluation of self-controlled case series
+(SCCS) and self-controlled risk interval (SCRI) studies included in a
+systematic review, no suitable existing tool was identified. Consequently, the
+Newcastle-Ottawa Scale (NOS) for cohort studies was adapted for this
+purpose.

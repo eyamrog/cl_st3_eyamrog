@@ -1,0 +1,6 @@
+The general criteria investigated were type of document (reopening plan,
+technical norm or decree), document creation team (technicians, researchers, or
+teachers), and presence and quantity of indicators defined in the
+norms. The specific elements corresponded to the source's details, type
+of indicator (quantitative or qualitative), calculation basis, and risk classification
+parameters.

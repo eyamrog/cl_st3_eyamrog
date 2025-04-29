@@ -1,0 +1,6 @@
+The F-statistics of 1.43, which is a measure of the
+joint significance of the explanatory variables, is found to be
+statistically insignificant at 26 percent level as indicated by the
+corresponding probability value of 0.262258. The analysis also shows that
+the R2 which measures the explanatory power of the model
+is estimated to be 0.349699.

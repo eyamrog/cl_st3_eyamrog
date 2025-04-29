@@ -1,0 +1,6 @@
+The incidence ratio, calculated by dividing the incidence rates of
+the groups under comparison, was used to assess differences between
+the groups of interest. Mortality and lethality ratios were also
+reported. To evaluate the null hypothesis that the rates are
+equal between the groups, a Z-test for the comparison of
+proportions was employed.

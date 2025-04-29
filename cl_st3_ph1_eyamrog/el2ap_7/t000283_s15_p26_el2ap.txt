@@ -1,0 +1,4 @@
+To investigate the influence of small-studies effects, we will use
+the visual inspection method of funnel plot when at least
+ten studies were included in a meta-analysis, followed by Egger's
+test (10).

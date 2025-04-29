@@ -1,0 +1,3 @@
+Patients with a diagnosis of diabetes mellitus for more than
+five years, those receiving beta-blocker therapy, and individuals with a
+history of neck irradiation were excluded from the study.

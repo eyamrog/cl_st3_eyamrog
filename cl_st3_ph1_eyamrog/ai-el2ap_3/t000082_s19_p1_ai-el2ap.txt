@@ -1,0 +1,11 @@
+An increased proportion of cheating interactions is associated with greater
+trait disparity among both animal and plant species within the
+network (Fig. 2a-c). This effect is consistent across the three
+types of networks analyzed, resulting in elevated trait disparity regardless
+of network type (Table 2). Therefore, cheating interactions contribute to
+increased trait disparity across species, and this effect appears to
+be independent of the ecological network structure (Fig. 2). Based
+on these findings, an analytical approximation was developed to relate
+the significance of evolutionary effects to species trait disparity. Both
+simulation results and the analytical approximation indicate that cheating interactions
+lead to an increase in trait disparity (Supporting Information).

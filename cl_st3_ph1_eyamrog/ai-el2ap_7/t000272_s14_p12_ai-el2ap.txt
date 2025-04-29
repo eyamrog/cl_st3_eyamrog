@@ -1,0 +1,12 @@
+Each sample was analyzed for gallic acid content using High
+Performance Liquid Chromatography (HPLC) according to the method described by
+Schieber et al. (2001). The analyses were performed on a
+Shimadzu HPLC system (Shimadzu Corporation, Kyoto, Japan) equipped with a
+diode array detector (model SPD-M10A) and a C-18 column (Phenomenex
+Gemini, 4.6 mm × 250 mm, 3 µm particle size).
+The mobile phase consisted of 1% formic acid and methanol
+in a 90:10 (v/v) ratio, delivered at a flow rate
+of 1.0 mL/min. The column temperature was maintained at 30
+°C, and detection was carried out at a wavelength of
+272 nm. The injection volume for each sample was 10
+µL.

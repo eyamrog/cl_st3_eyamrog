@@ -1,0 +1,4 @@
+This kind of restriction does not seem to be affecting
+(47). Also, we have pointed out in the free relative
+clauses section that Brazilian Portuguese free relatives must always match;
+mismatching sentences are ruled out:

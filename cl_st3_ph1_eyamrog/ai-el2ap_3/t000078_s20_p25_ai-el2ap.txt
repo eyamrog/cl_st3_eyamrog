@@ -1,0 +1,11 @@
+From Table 5 (columns 13-20), the signs and statistical significance
+of the estimated coefficients remain consistent, and the direction of
+the effects continues to contradict theoretical expectations across both spatial
+weight matrices and functional forms. These findings support the internal
+validity of the estimates and reinforce the hypothesis that the
+model exhibits bias when SBD controls are omitted. Furthermore, for
+the log-level functional form and the quadratic specification of the
+CBD variable, the estimated coefficient demonstrates robustness to changes in
+the spatial weight matrices. This outcome provides further evidence against
+the use of the quadratic form of CBD as a
+control variable in the model.

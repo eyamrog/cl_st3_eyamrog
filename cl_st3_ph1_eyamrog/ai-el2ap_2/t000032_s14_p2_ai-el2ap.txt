@@ -1,0 +1,11 @@
+To assess the athletes’ present mood states, the Present Mood
+States List (PMSL) was utilized. The PMSL measures mood states
+using 40 first-person statements, each representing a specific mood. Participants
+rate the intensity of each statement on a 5-point Likert-type
+scale positioned alongside each item. These 40 statements are grouped
+into 12 factors, which consider both the hedonic value and
+activation level of each item. For clarity in data description
+and identification, previous authors who have applied the PMSL in
+sports contexts (Picoli, 2016; Silva, 2017) have designated the following
+factor labels based on representative statements: I—Humiliation/Anger, II—Fatigue, III—Hope, IV—Limerence/Empathy,
+V—Physiological Response, VI—Repulsion, VII—Interest, VIII—Surprise, IX—Hunger, X—Disregard/Envy, XI—Receptivity, and XII—Serenity.

@@ -1,0 +1,6 @@
+The "U-Multirank" system categorizes universities into five performance groups for
+each indicator: A (Very good), B (Good), C (Average), D
+(Below average), and E (Weak). This approach mitigates issues related
+to grading accuracy by aggregating results into broader categories, thereby
+confining potential inaccuracies primarily to cases at the boundaries between
+performance groups.

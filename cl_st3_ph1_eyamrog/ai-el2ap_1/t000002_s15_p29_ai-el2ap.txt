@@ -1,0 +1,6 @@
+However, defining what constitutes an explanation or determining its structure
+remains challenging, despite general agreement that an explanation is an
+intellectual construct that accounts for a cause-effect relationship and typically
+employs a logical connective such as ‘because’ to link the
+cause and the outcome. From this perspective, the corpus was
+analyzed to identify structures that exhibit characteristics of scientific explanations.

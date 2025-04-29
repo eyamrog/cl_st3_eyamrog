@@ -1,0 +1,11 @@
+Our results do not support the prediction that highly connected
+species would have a stronger effect on trait evolution in
+mutualistic networks (Table 3). In fact, there is high variability
+in mean trait disparity within scenarios and types of interactions
+across simulations shown by the 0.05 and 0.95 quantiles from
+our simulation results represented by the vertical bars in Fig.
+3a-b. Thus, highly connected cheaters species do not promote higher
+levels of trait diversity than those promoted by cheating interactions
+distributed across the network in our simulations (Fig. 3a). Similarly,
+the number of trait clusters of species between scenarios are
+also variable (Fig. 3b).

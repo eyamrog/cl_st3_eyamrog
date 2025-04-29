@@ -1,0 +1,10 @@
+We recommend that annual central nervous system (CNS) imaging using
+MRI be conducted via telemedicine for the majority of stable
+multiple sclerosis (MS) patients. An exception to this recommendation applies
+to patients treated with natalizumab who are at double or
+triple risk for progressive multifocal leukoencephalopathy (PML), defined as the
+presence of two or more of the following risk factors:
+prior immunosuppression, a John Cunningham virus (JCV) index greater than
+0.9, or more than 24 natalizumab infusions. For these high-risk
+patients, MRI monitoring for asymptomatic PML should be performed every
+3 to 6 months.

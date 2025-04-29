@@ -1,0 +1,10 @@
+Files in ELAN have at least three lines of annotations:
+the transcription, the translation, and the notes. More detailed information
+about the glosses of Paresi or EN morphemes (i.e. the
+interlinearization) is organized in the FLEx program, as it allows
+automatic insertion of glosses (once they are already entered in
+the database), unlike ELAN. Neither language has an established orthography
+that is used consistently in indigenous schools. Therefore, transcriptions were
+made in the orthographies that the speakers know and, in
+the case of Paresi, they were systematized according to the
+orthography that Brandão proposed for the language.

@@ -1,0 +1,7 @@
+We will employ the Cochran’s Q test to assess the
+presence of heterogeneity considering a threshold of P value <
+0.1 as an indicator of whether heterogeneity is present. In
+addition, we will assess statistical heterogeneity by examining the Higgins
+I2 statistic following these thresholds: < 25%: no (none) heterogeneity;
+25% to 49%: low heterogeneity; 50% to 74%: moderate heterogeneity;
+≥ 75%: high heterogeneity.

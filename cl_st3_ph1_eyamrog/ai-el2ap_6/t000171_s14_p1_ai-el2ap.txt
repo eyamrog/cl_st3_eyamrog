@@ -1,0 +1,6 @@
+A quantitative assessment of secondary data was conducted using a
+cross-sectional epidemiological research design, with both descriptive and inferential statistical
+methods applied for analysis. Data analysis was performed utilizing the
+Python™ programming language (version 3.7.7), specifically employing the libraries Matplotlib
+(version 3.2.1), Pandas (version 1.0.5), and Statistics. All analyses were
+carried out within the Project Jupyter© programming environment.

@@ -1,0 +1,10 @@
+Many downstream analyses do not require high-quality assemblies; for example,
+species identification or the detection of gene presence or absence
+can often be performed using low-quality assemblies. However, certain applications,
+such as estimating mutation rates and inferring transmission chains, demand
+highly accurate assemblies, as even a small number of errors
+can significantly impact results. Perfect assemblies eliminate constraints on downstream
+analyses, rendering the question of assembly sufficiency irrelevant. In the
+absence of assembly errors, many analyses that currently rely on
+direct read interrogation through computationally intensive methods, such as variant
+calling, could instead utilize more efficient assembly-based approaches.

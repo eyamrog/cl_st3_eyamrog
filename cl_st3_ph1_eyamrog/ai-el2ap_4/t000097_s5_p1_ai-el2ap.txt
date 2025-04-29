@@ -1,0 +1,12 @@
+This scoping review aimed to identify and characterize physical activity
+and/or exercise intervention study protocols for breast cancer treatment by
+detailing the types, frequency, duration, intensity, and timing of the
+interventions, as well as reporting the outcomes assessed. Seventeen protocol
+studies met the inclusion criteria for this review, all of
+which were randomized clinical trials registered on official platforms. Given
+that protocol studies do not present results, the assessment of
+risk of bias was adapted accordingly. The included study protocols
+adhered to the SPIRIT checklist, and evaluation indicated a low
+risk of bias due to clear reporting of random sequence
+generation, allocation concealment, blinding of participants and researchers, and selective
+reporting, in accordance with the Cochrane Risk-of-Bias tool.

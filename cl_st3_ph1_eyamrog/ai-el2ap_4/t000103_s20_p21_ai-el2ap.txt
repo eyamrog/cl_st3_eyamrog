@@ -1,0 +1,13 @@
+After obtaining the percentages presented in the tables from SPSS,
+multiple t-tests were conducted to identify factors influencing the choice
+of antecedent in the sentence pairs. The results indicated that
+Portuguese speakers’ responses were significantly affected by the salience of
+the anaphors across the three languages at the 0.001 significance
+level, provided there was no semantic opposition to the Position
+of Antecedent Strategy. In contrast, native speakers of Spanish and
+English were not significantly influenced by either the order of
+the clauses or the salience of the anaphors. However, participants
+from all language groups were significantly influenced by the semantic
+relationship between the verbs (p < 0.03). Additionally, no significant
+differences were observed among students from different Portuguese varieties or
+among those with varying proficiency levels.

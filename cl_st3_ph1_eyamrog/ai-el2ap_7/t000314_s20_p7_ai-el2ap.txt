@@ -1,0 +1,5 @@
+When using a length interval of 28 nucleotides, regions near
+positions 3,500 and 11,000 exhibit elevated values. Longer sequences are
+excluded from analysis due to the reduced probability of their
+occurrence, which results from the increasing number of possible combinations
+among the four nucleotide types.

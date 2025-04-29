@@ -1,0 +1,9 @@
+The satisfaction scale for assessing the working conditions at the
+health center is designed to evaluate health professionals’ perceptions of
+their work environment. The scale includes indicators such as satisfaction
+with opportunities for promotion, organizational structure of the health center,
+workload, work schedules, salary, professional development opportunities, infrastructure and equipment,
+relationships with superiors, administrative procedures, and hygiene within the health
+center. In the ENSUSALUD survey, the items corresponding to this
+instrument are included in question 81, with codes ranging from
+c2p81_1 to c2p81_16 (see Supplement 1).

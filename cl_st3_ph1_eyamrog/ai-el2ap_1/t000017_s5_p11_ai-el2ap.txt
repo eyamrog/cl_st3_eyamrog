@@ -1,0 +1,9 @@
+The internal consistency of the B-PREA-R demonstrated acceptable values for
+a psychometric instrument comprising multiple subtests, with a Cronbach's alpha
+of .85 and alpha values ranging from .83 to .86
+when individual items were removed. The previous version of the
+instrument also exhibited satisfactory internal consistency, with alpha values between
+.78 and .81 when items were removed, and test-retest reliability
+coefficients ranging from .82 to .94. Therefore, it is recommended
+that future research include an assessment of internal consistency using
+the test-retest method.

@@ -1,0 +1,11 @@
+Following these results, the principal component method with quartimax rotation
+was applied, revealing that the nine subtests are grouped into
+three factors, which together account for 62.74% of the total
+variance of the test (see Table 5). Factor 1, labeled
+"Executive Skills," comprises the subtests of visual selective attention, matrices,
+story comprehension, graphomotor skills, and counting quantities, and accounts for
+34.69% of the variance in the B-PREA-R. Factor 2, labeled
+"Memory Skills," consists solely of the visual working memory subtest
+and explains 15.30% of the variance. Factor 3, labeled "Linguistic
+Skills," includes the vocabulary, verbal working memory, and repeating syllables
+subtests, and accounts for 12.74% of the variance.

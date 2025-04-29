@@ -1,0 +1,5 @@
+Although there is currently insufficient data to specify and quantify
+the minimum ventilation requirements in hospitals and isolation rooms with
+respect to the airborne transmission of infectious diseases, the referenced
+study provides evidence supporting the use of negatively pressurized isolation
+rooms in hospitals for patients with such diseases.

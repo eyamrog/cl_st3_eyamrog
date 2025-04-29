@@ -1,0 +1,5 @@
+The assessment of the low frequency to high frequency (LF/HF)
+ratio in the spectral analysis of heart rate variability is
+a straightforward method for evaluating baroreflex function. The objective of
+this study is to determine whether patients with COVID-19 exhibit
+alterations in this mechanism, as measured by Holter monitoring.

@@ -1,0 +1,9 @@
+Prediction models indicate that the early implementation of physical distancing
+could prevent approximately 90,000 deaths in the largest metropolitan area
+in Brazil. Although self-isolation measures are essential for reducing infection
+rates, these interventions, in combination with heightened concerns related to
+the pandemic, may be associated with adverse effects on mental
+health, including increased symptoms of depression and anxiety. Consequently, it
+is necessary to develop and implement strategies to mitigate both
+the current and future mental health impacts associated with these
+public health measures.

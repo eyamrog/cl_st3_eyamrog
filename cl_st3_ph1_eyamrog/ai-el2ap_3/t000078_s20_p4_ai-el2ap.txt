@@ -1,0 +1,6 @@
+To identify the SBD candidates, we utilize the Local Moran’s
+I statistic, which is one of the Local Indicators of
+Spatial Association (LISA). Table 3 presents the total area of
+tracts that are statistically significant at the 5% level or
+lower. The results demonstrate a higher sensitivity to the choice
+of distance-based weighting matrix.

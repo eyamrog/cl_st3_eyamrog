@@ -1,0 +1,11 @@
+One key consideration for ONT sequencing is depth: how deep
+must the ONT read set be? High read depth aids
+both assembly (allowing for more independent read sets in Trycycler,
+see Step 3) and polishing (yielding higher accuracy, see Step
+4). When aiming for a perfect assembly, consider 100× depth
+to be a minimum, with 200× being ideal. Depths above
+200× are better but will give diminishing returns. Using a
+single ONT flow cell for one bacterial isolate may provide
+excessive depth, so multiplexing is common in microbial genomics. This
+is not a problem for assembly, though barcode leakage should
+be considered (see Pitfalls).

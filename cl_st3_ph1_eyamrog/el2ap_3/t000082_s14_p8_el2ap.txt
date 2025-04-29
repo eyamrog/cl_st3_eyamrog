@@ -1,0 +1,14 @@
+Our simulations describe how the mean trait Z evolves in
+time (Figure 1a). The values and the description of the
+model parameters are depicted in Table 1. Each simulation ends
+after 1000 timesteps, an amount of time that is sufficient
+to generate asymptotic trait values. In most simulations, however, the
+equilibrium was reached before 1000 timesteps. To reduce computational time,
+we assumed the equilibrium is achieved if |Zi(t+1) - Zi(t)|<10-4
+for every species i, ending the simulation. We run 72.000
+simulations, 3.000 per empirical network, where each simulation tracks how
+species traits change in time due to coevolution and the
+selective pressures from the environment (Figure 1a). All the simulations
+were performed in R v. 3.5.3 (R Core Team 2018).
+In what follows, we explain how we used this modelling
+approach to explore each of our three questions.

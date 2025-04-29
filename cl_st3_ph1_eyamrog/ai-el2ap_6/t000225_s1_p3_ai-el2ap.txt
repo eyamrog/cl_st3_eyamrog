@@ -1,0 +1,10 @@
+The results indicate that the social distancing strategies (SDS) implemented
+in São Paulo City and State were effective in delaying
+the increase in COVID-19 cases. Analysis of the time series
+data enabled the identification of distinct epidemiological trends across different
+regions, supporting the potential for region-specific interventions. Furthermore, the use
+of a death-oriented time series allowed for the assessment of
+the impact of SDS in conjunction with the Social Isolation
+Index (SII) adopted in the state, and facilitated a preliminary
+estimation of the SII threshold necessary to prevent further disease
+transmission.

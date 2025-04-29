@@ -1,0 +1,13 @@
+As non-bibliometric researchers, we recognize that bibliometric measures were originally
+developed with specific objectives that extend beyond the assessment of
+research or researcher quality. These indices were initially intended to
+serve as objective tools to assist librarians in the management
+and development of journal collections (Haustein & Larivière, 2015). According
+to Keith Collier, Senior Vice President of Product, Science Group
+Clarivate, the mission of the Journal Impact Factor (JIF) is
+"to provide a thorough, publisher-neutral, multifaceted view of journal performance,
+reflecting the world’s highest-quality scientific and scholarly literature" (https://bit.ly/31gOMg3). The
+underlying assumption is that citation frequency serves as an indicator
+of a journal's value and usage, as it represents the
+average number of citations received per published article within a
+given journal (Garfield, 1972).

@@ -1,0 +1,7 @@
+The data utilized in this study were obtained from the
+COVID-19 database provided by the Minas Gerais State Health Secretariat
+(SES-MG) (7). The variables extracted include the incidence and mortality
+rates of COVID-19 per 1,000 inhabitants between March 4, 2020,
+and June 22, 2020, as well as the date of
+the first reported case of the disease for municipalities that
+had reported COVID-19 cases up to July 10, 2020.

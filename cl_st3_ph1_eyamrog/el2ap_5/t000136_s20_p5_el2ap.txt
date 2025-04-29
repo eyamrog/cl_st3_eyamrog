@@ -1,0 +1,6 @@
+Due to the theoretical domain defined for each dimension, we
+decided to group some variables with the dimensions for which
+they showed higher discrimination measures. Two referred to dimensions for
+which their discrimination measures were not the highest. However, they
+were superior to the inertia of the dimension to which
+they were associated.

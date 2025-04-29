@@ -1,0 +1,4 @@
+Conclusion: The findings indicate an association between the presence of
+active BCG vaccination programs and lower numbers of COVID-19 cases
+and deaths per capita in the countries analyzed, suggesting a
+potential cross-protective effect of innate immunity against SARS-CoV-2.

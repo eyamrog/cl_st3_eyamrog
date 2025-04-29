@@ -1,0 +1,7 @@
+Combining the three selection components described above (equations 1, 2,
+and 3), the evolutionary change of Zi in timestep t+1
+is given by: <> , in which, φi is a
+compound parameter formed by additive genetic variance and the slope
+of the adaptive landscape. The parameter ϒi dictates the importance
+of ecological interactions versus environmental factors as selective pressures. Thus,
+trait evolution, in our model, is defined as: <>

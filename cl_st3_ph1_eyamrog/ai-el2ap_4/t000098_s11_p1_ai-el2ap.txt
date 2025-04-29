@@ -1,0 +1,20 @@
+More than a year after the onset of the Covid-19
+pandemic, statistical monitoring continues to present significant challenges. Although diagnostic
+tests for detecting infection are now considerably more accessible than
+during the initial stages of the pandemic, disparities in access
+persist across different localities and social groups [O’Driscoll et al.,
+2021: 140]. Furthermore, the effects of earlier testing limitations continue
+to influence cumulative case indicators. The use of additional epidemiologically
+relevant variables, such as hospitalizations, ICU admissions, and intubations, is
+constrained by inconsistent definitions of these events and, more importantly,
+by the lack of systematic reporting in most official information
+systems. Consequently, the number of deaths is widely regarded as
+a more reliable indicator of the magnitude of the epidemic
+[O’Driscoll et al., 2021: 140] and for understanding its dynamics
+[Hallal, 2020: 2403]. Heuveline and Tzen (2021: 6) also argue
+that mortality data are more comparable and generally more reliable,
+although they are not entirely free from underestimation [Orellana et
+al., 2020], making them particularly relevant for evaluating public policy
+responses to the pandemic. Nevertheless, this focus does not preclude
+recognition of the substantial human impact associated with non-fatal cases
+of the disease.

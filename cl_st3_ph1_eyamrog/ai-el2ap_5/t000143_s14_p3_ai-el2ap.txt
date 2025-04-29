@@ -1,0 +1,3 @@
+The geographic and spatial data for each municipality in Sergipe,
+including latitude, longitude, perimeter, area, and location, were obtained from
+the website of the Brazilian Institute of Geography and Statistics.

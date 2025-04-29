@@ -1,0 +1,14 @@
+Here we describe and demonstrate a modern approach for producing
+a bacterial genome assembly with the goal of perfection using
+a combination of Oxford Nanopore Technologies (ONT) long reads and
+Illumina short reads (Figure 1). These platforms were chosen for
+their availability and widespread adoption in microbial genomics. While older
+hybrid assembly methods have used a short- read-first approach (building
+a short-read assembly graph and then scaffolding with long reads)4,
+improvements in the yield and accuracy of long-read sequencing now
+mean that long-read-first hybrid assembly (making a long-read-only assembly and
+then polishing with short reads) can produce more accurate results5,
+and that is the approach we use in this manuscript.
+We also provide an online tutorial (github.com/rrwick/perfect-bacterial-genome-tutorial) with sample data
+(hybrid sequencing of Staphylococcus aureus strain JKD61596) so readers can
+try this method for themselves.

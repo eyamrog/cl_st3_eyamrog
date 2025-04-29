@@ -1,0 +1,4 @@
+Both root and indirect questions are, in principle, subject to
+the same syntactic operation during which their similar structures are
+formed. However, a closer examination of indirect questions reveals that
+they differ in certain respects from root interrogatives.

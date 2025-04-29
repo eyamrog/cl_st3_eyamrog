@@ -1,0 +1,9 @@
+This submodel represents the possibility of Ha to become infected
+due to the contact with surfaces previously contaminated by another
+Ha. According to some studies [44] [45], the most common
+everyday materials to human contact are plastics. There, the virus
+can last for a time that depends exponentially and inversely
+on ambient temperature. If an infected Ha remains in a
+given location longer than 16 minutes, it is possible that
+it leaves an infectious trail on the objects handled (fomites).
+This can be mathematically modeled [44] as: 𝑃(𝑡) = 𝑒((−𝑏).𝑡)

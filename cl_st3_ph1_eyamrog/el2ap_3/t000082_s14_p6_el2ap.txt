@@ -1,0 +1,11 @@
+The evolutionary effects mij(t)and vij(t) that affect the magnitude of
+trait change due to the mutualism and cheating interactions, respectively,
+are defined as the relative effect of species j on
+i, such that mij(t)=amijqij(t) and vij(t)=avijqij(t). amij and avij depict,
+respectively, the presence of a mutualistic or a cheating interaction
+between species i and j. The term qij(t) is defined
+as: <>, where the parameter α controls the sensitivity of
+the evolutionary effect due to trait matching between species i
+and j and aik=1 if there is a mutualistic or
+a cheating interaction between i and k and aik =
+0, otherwise.

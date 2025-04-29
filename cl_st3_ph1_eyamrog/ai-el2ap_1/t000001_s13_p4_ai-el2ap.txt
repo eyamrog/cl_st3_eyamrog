@@ -1,0 +1,12 @@
+Another important factor is the required length of ONT reads.
+The N50 length, defined as the length-weighted median, is a
+commonly used metric for this purpose. To achieve a complete
+genome assembly, the read set should have an N50 length
+that exceeds the length of the longest repeat sequence in
+the genome. In many bacterial genomes, the longest repeat is
+typically the rRNA operon, which is approximately 5 kbp in
+length and often present in multiple copies. Therefore, an ONT
+read N50 of approximately 20 kbp is generally considered an
+appropriate target. In rare instances where the genome contains unusually
+long repeat regions, the use of ultra-long DNA extraction protocols
+may be required.

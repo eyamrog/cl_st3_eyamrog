@@ -1,0 +1,10 @@
+We proposed a two-stage approach, incorporating a priori identification of
+candidates for sub- centrality into the hedonic price model. Thus,
+in the first stage, it identifies all candidates for SBD
+using an ESDA-type analysis. In the second stage, we run
+the hedonic house price model considering explanatory variables distances to
+SBD candidates (identified in the first stage). The second stage
+strategy permits controlling the overidentification derived from using employment level
+concentrated in the polygon centroid. Thus, in both approaches, one
+can test the null hypothesis that each region is not
+an SBD.

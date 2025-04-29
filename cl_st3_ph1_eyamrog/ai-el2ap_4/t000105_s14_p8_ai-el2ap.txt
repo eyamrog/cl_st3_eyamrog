@@ -1,0 +1,6 @@
+A three-stage cluster sampling design was employed. In the first,
+second, and third stages, census sectors were selected randomly and
+without replacement. Within each selected census sector, households were chosen
+using a systematic sampling method. Subsequently, one resident from each
+selected household was randomly chosen using the “Sorteador de Nomes®”
+application [15].

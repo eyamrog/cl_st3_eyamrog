@@ -1,0 +1,5 @@
+Approximately 3 million paired-end reads were generated and processed using
+the ncov2019-artic-nf pipeline (GitHub, 2021) with default parameters. The resulting
+reconstructed genome, in FASTA format, was subsequently analyzed using the
+Pangolin COVID-19 Lineage Assigner (O’Toole et al., 2021) to determine
+the lineage of the sequenced virus.

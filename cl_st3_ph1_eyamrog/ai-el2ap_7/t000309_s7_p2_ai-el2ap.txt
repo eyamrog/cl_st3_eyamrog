@@ -1,0 +1,18 @@
+COVID-19 is primarily transmitted via respiratory droplets, aerosols, and through
+the conjunctiva. In adults, the clinical spectrum of COVID-19 ranges
+from asymptomatic infection to severe pneumonia and fatal outcomes. The
+most common clinical symptoms are fever, cough, shortness of breath,
+and myalgia, with 10–20% of patients developing acute respiratory distress
+syndrome (ARDS) after 8–14 days of illness. Data from over
+72,000 patients in China indicate that 81% experienced mild disease,
+14% had severe manifestations, and 5% were critically ill. No
+deaths were reported among children younger than 9 years, whereas
+the mortality rate was 8–15% among individuals older than 70
+years. Risk factors for severe illness include advanced age and
+pre-existing comorbidities such as cardiovascular disease, hypertension, diabetes, chronic respiratory
+disease, and cancer. Although children of all ages are susceptible
+to COVID-19, their clinical manifestations are generally less severe than
+those observed in adults. Approximately 6% of children developed severe
+or life-threatening disease, most commonly in those with a history
+of congenital or acquired conditions or in infants younger than
+1 year.

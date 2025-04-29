@@ -1,0 +1,6 @@
+This study evaluated the performance of Brazilian universities in the
+U-Multirank from 2017 to 2020. U-Multirank is a multidimensional academic
+ranking system that has gained significance in Brazil, as it
+serves as the basis for the new evaluation method to
+be implemented by Capes for the assessment of the country's
+postgraduate system.

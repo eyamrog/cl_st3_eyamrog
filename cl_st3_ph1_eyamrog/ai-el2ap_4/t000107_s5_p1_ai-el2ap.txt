@@ -1,0 +1,15 @@
+As outlined in the Introduction, the present study aimed to
+replicate the methodology proposed by Alves and Vasconcellos (2016) for
+mapping medical translation studies theses and dissertations written in Portuguese
+and completed at higher education institutions in Brazil. Alves and
+Vasconcellos (2016) based their approach on the assumption that such
+theses and dissertations were required to be made digitally available
+at www.dominiopublico.gov.br, in accordance with Article 1 of CAPES administrative
+regulation 13/2006. However, a review of the regulation indicated that
+it does not mandate a specific website, but rather stipulates
+that the works must be “available to the public through
+the internet.” Additionally, our search identified a thesis completed in
+2002, which predates the initial period considered by Alves and
+Vasconcellos (2016). Therefore, considering the increased robustness of current search
+engines, we established 2002 as the starting point for our
+search period.

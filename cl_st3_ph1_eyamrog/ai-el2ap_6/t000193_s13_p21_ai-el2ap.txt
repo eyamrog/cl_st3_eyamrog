@@ -1,0 +1,15 @@
+Fingolimod use has been associated with an increased incidence of
+upper and lower respiratory tract infections in patients receiving this
+disease-modifying drug (DMD). In the pivotal clinical trial, lymphopenia was
+a common adverse event, and lymphocyte counts were monitored monthly
+during the first three months of treatment and every three
+months thereafter. However, fingolimod-induced lymphopenia has not been correlated with
+a higher rate of infections. It is important to note
+that lymphocyte counts are not direct indicators of immunosuppression, as
+fingolimod primarily causes a redistribution of lymphocytes, resulting in their
+retention within lymph nodes rather than absolute lymphopenia. Based on
+these considerations, laboratory monitoring should be limited to the minimum
+required to reduce the risk of coronavirus infection. It is
+recommended to perform a complete blood count (CBC) three months
+after treatment initiation and subsequently every six months, with the
+goal of maintaining lymphocyte counts above 200 cells/μL.

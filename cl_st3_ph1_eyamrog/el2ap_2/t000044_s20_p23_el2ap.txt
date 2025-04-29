@@ -1,0 +1,5 @@
+This category gives us indications that gestures can reveal what
+is going on in students' minds when explaining to someone
+about certain content or when explaining their responses. Gestural analysis
+using techniques, such as Think Aloud, provides an understanding of
+the articulation between students' gestures and mental images.

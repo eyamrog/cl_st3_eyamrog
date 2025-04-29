@@ -1,0 +1,4 @@
+A fourth argument concerns semantics: as observed in free relative
+clauses, Brazilian Portuguese (BP) free relatives exhibit maximalizing content, meaning
+that wh-phrases convey a universal interpretation. Example (47) appears to
+conform to this pattern.

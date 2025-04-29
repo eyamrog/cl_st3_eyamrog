@@ -1,0 +1,11 @@
+The results of the linear regression analysis stratified by Health
+Region indicated an increasing trend in disease rates associated with
+rainfall volume during the period of higher rainfall (October to
+March) across all regions, irrespective of the baseline average rates
+of leptospirosis. Between 2005 and 2015, disease rates varied from
+0.93 cases per 100,000 inhabitants in Serra Catarinense to 19.82
+cases per 100,000 inhabitants in the Northeast region. Strong correlations
+between leptospirosis rates and rainfall volume (r > 0.80), along
+with their respective coefficients of determination (R²), were observed during
+this period in the Northeast, Far West, Grande Florianópolis, Laguna,
+Alto Uruguai, Carbonífera, Midwest, and Serra Catarinense regions.

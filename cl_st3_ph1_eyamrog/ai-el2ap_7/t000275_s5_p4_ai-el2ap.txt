@@ -1,0 +1,11 @@
+Healthcare professionals who are in contact with COVID-19 patients are
+at an increased risk of infection. Procedures that generate aerosols,
+such as non-invasive ventilation (NIV), high-flow nasal cannula, mask ventilation,
+and intubation, are associated with a higher risk of viral
+transmission. Lima et al. have recently published a technical note
+for surgeons and emergency physicians outlining methods to perform cricothyroidostomies
+and tracheostomies with recommendations for safer procedural alternatives. Additionally, minimally
+invasive surgeries utilize carbon dioxide insufflation to elevate intra-abdominal pressure,
+which may facilitate aerosol dispersion. Richard et al. have demonstrated
+that rapid deflation of pneumoperitoneum under standard conditions can result
+in environmental contamination with blood and other body fluids.

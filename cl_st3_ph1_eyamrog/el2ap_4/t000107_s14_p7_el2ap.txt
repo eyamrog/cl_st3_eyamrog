@@ -1,0 +1,21 @@
+The Catálogo de Teses e Dissertações da CAPES (CAPES Catalog)
+website catalogs theses and dissertations completed in higher education institutions
+in Brazil, following the agency’s administrative regulation number 13/2006. Its
+homepage has only one window for typing keywords and a
+search button. There are, apparently, no filters available. However, after
+a first search is conducted, the results page displays several
+filters for an advanced search. These filters allow the user
+to search by tipo (type), ano (year), autor (author), orientador
+(supervisor), banca (evaluation committee), grande área de conhecimento (major knowledge
+area), área de conhecimento (knowledge area), área de avaliação (evaluation
+area) área de concentração (area of expertise), nome do programa
+(graduate studies area), instituição (institution), and biblioteca (library). We started
+our search in the CAPES Catalog website with the keyword
+tradução (translation). As such action retrieved several thesis and dissertations
+that were of no interest for this study, we used
+the filters listed above to narrow down the list. We
+also ran a search with the keywords tradução médica (medical
+translation) and tradução de artigos científicos (translation of scientific articles)
+using some (or none) of the filters, as the filter
+options provided by the system varied according to the keywords
+used.

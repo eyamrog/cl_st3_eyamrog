@@ -1,0 +1,8 @@
+This location corresponds to Ha’s residence and, as such, has
+a single possible outcome. The precise position on the city’s
+geographical map that serves as the output for this state
+is specified as an attribute for each Ha and is
+incorporated into the Location submodel. This attribute is randomly selected
+from a designated habitable area of the city at the
+start of the simulation and remains constant throughout the duration
+of the simulation.

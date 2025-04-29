@@ -1,0 +1,5 @@
+Based on the error correction coefficient (ECC), it is possible
+to calculate the rebalance ratio of the system by dividing
+the ECC by “1” (1/0.044197075). This value indicates that the
+deviation caused by a 1% shock in the foreign exchange
+rate can be balanced after a period of 22.6 days.

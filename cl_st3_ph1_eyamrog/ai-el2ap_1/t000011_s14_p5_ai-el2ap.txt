@@ -1,0 +1,25 @@
+To determine the relative water content (RWC; %), five stem
+and leaf samples with dimensions identical to those used in
+biomechanical tests were analyzed. The RWC at each dehydration level
+i was calculated using the formula: [(wi - wd) /
+(wt - wd)] × 100, where wi represents the mass
+(g) of the sample at dehydration level i (i.e., at
+each time interval), wt is the mass at full hydration,
+and wd is the dry mass, following the method described
+by Scoffoni et al. (2014). Full hydration was achieved by
+floating samples in distilled water on trays lined with damp
+paper for 24 hours, with mass measurements repeated at least
+three times until stabilization. After the imbibition period, samples were
+oven-dried at 60 °C for 24 hours and weighed at
+least three times until mass stabilization to determine dry mass,
+as described by Turner (1981). For anatomical analysis, stem and
+leaf samples were sectioned transversely using a sliding microtome after
+gradual embedding in polyethylene glycol (PEG 1500) according to Rupp
+(1964). To minimize tissue damage during sectioning, expanded polystyrene dissolved
+in butyl acetate was applied to the samples, and adhesive
+tape was affixed prior to cutting, following Barbosa et al.
+(2010). The sections were double-stained with 1% (w/v) Astra blue
+and 1% (w/v) safranin to differentiate cells containing cellulose from
+those containing both cellulose and lignin, as described by Bukatsch
+(1972) and Kraus and Arduin (1997), and permanent slides were
+prepared using Canada balsam.

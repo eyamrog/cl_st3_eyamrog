@@ -1,0 +1,5 @@
+The theory that has been proposed to explain the development
+of neurological symptoms in SARS CoV-2 infection is that, due
+to the action of the virus, an internalization of angiotensin
+II receptors would occur in the solitary tract nucleus, altering
+baroreflex response.

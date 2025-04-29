@@ -1,0 +1,4 @@
+Statistical Analysis - the software R version 3.6.0 was used
+to compare data concerning species richness, gravimetric humidity and organic
+matter of dependent samples by means of the paired t-
+test with a significance level of p < 0.05.

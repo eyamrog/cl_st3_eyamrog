@@ -1,0 +1,9 @@
+The mean age of the patients was 58.2 years; the
+majority were male (60.4%) and had a prior diagnosis of
+cancer (85.7%). Computed tomography (CT) demonstrated typical findings in 28.6%
+of cases, indeterminate findings in 24.2%, and atypical findings in
+26.4%. Reverse transcription polymerase chain reaction (RT-PCR) testing was positive
+for SARS-CoV-2 in 27.5% of patients. The sensitivity, specificity, and
+accuracy of the diagnostic approach in the first scenario were
+64.0%, 84.8%, and 79.1%, respectively, while in the second scenario
+these values were 92.0%, 62.1%, and 70.3%, respectively.

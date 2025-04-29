@@ -1,0 +1,6 @@
+Language detection software identified that the JUOJS published research in
+60 different languages, with the presence of each language confirmed
+through manual verification of at least one example journal (Table
+1). The language classifications for all ISSN-verified JUOJS (n =
+22,561) were provided to Google Scholar to facilitate the expansion
+of its journal indexing to include additional languages.

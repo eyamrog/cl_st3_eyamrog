@@ -1,0 +1,9 @@
+Anyone who has ever had to copy field recordings from
+an obsolete medium (e.g., cassette tapes) to another format, tried
+to open an old file in a new version of
+the program, or endeavored to find a program that can
+even open the old file, understands the headaches involved in
+format migration.3 However, researchers who archive language documentation materials in
+a digital repository never need to worry about format migration
+again because it is part of the archival workflows that
+are overseen by the archive's personnel.

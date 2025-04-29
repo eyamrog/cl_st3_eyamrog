@@ -1,0 +1,14 @@
+Although English maintains a dominant position as the primary language
+of research among JUOJS, 48.3% of these journals publish content
+in more than one language (Figure 7). The distribution of
+the four leading languages can be observed across both monolingual
+and multilingual journals (Figure 8). Monolingual English-language journals constitute the
+largest group, comprising 6,651 titles (represented by a single dot
+under the first column). However, significant bibliodiversity is evident in
+the subsequent categories, with Indonesian-English bilingual journals accounting for 4,431
+titles and Portuguese-Spanish-English trilingual journals comprising 550 titles. It should
+be noted that the prevalence of English may be overestimated,
+as language analysis is often based on titles and abstracts,
+which are frequently translated into English from other languages. Additionally,
+some articles incorporate multiple languages within their text, such as
+combinations of Spanish and Castilian or Bahasa Indonesia and Javanese.

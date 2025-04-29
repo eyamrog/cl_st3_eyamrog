@@ -1,0 +1,8 @@
+The Cochrane Risk-of-Bias tool was employed to assess the methodological
+quality of the included studies. The evaluation focused on the
+following criteria: (1) random sequence generation, (2) allocation concealment, (3)
+blinding of participants and researchers, and (4) selective reporting. Criteria
+related to blinding of outcome assessment and incomplete outcome data
+were not considered, as study protocols do not report intervention
+results. The reviewers (JS, ACAG) independently rated each domain as
+having a low, unclear, or high risk of bias.

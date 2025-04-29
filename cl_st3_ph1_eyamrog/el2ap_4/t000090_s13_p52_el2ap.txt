@@ -1,0 +1,16 @@
+Next we analyze the Dimension “Regional Engagement”, with the results
+available in Table 8. The results show that there is
+no “very strong” correlation, but there is a “strong” correlation
+among the Indicators of this Dimension. It happens for the
+Indicators “Bachelor graduates working in the region” and “Master graduates
+working in the region”, with a correlation coefficient of 0.7668.
+It is not a surprising correlation, since those Indicators are
+similar. It means that Institutions that have a large number
+of students graduating and working in the region have this
+fact for both bachelors and master levels. Besides that, there
+is only one “moderate” correlation. Therefore, the Indicators of this
+Dimension are very independent from each other, except by one.
+The average of the magnitudes of all the Indicators of
+this Dimension is 0.2483 and the standard deviation is 0.2001.
+Therefore, the results validate this Dimension for the group of
+Institutions studied here.

@@ -1,0 +1,23 @@
+The second and most significant contribution of this study is
+the calculation of adjusted mortality rates, which are derived from
+age-specific mortality rates and the age distribution of populations. This
+adjustment, previously recommended by demographers focusing on the topic [QUEIROZ
+et al., 2020: 3689], is essential for controlling the effects
+of differences in population age structures and for enabling the
+appropriate use of mortality rates in evaluating the effectiveness of
+pandemic response measures [GOLDSTEIN & LEE, 2020: 5]. Although at
+least two prior studies have addressed this issue, the present
+analysis offers important advancements, either due to its broader spatial
+and temporal coverage compared to one study [VILLANI et al.,
+2020] or its more comprehensive methodological approach relative to the
+other [HEUVELINE & TZEN, 2021]. The findings presented here allow
+for the construction of an international ranking of Covid-19 mortality
+that differs substantially from rankings based on crude rates. Furthermore,
+the adjusted rates demonstrate that the presumed “protective” effect of
+younger demographic profiles in lower-income countries [GUILMOTO, 2020: 8; DOWD
+et al., 2020: 9,697] was insufficient to prevent several Latin
+American countries and South Africa from experiencing some of the
+most severe impacts of the pandemic. The primary reason for
+this, as identified in this study, is the presence of
+distinct age-specific mortality patterns in developing countries, particularly the higher
+mortality observed in younger age groups.

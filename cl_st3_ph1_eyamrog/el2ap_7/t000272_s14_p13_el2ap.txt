@@ -1,0 +1,6 @@
+The thermogravimetric curve (TG) and differential thermal analysis (DTA) were
+performed using a DTG-60 (Shimadzu Corporation, Kyoto, Japan). Samples were
+heated at a heating rate of 10 °C/min from 25
+°C to 900 °C in a nitrogen atmosphere in an
+alumina crucible containing approximately 7.0 mg of sample (Sette-de-Souza et
+al., 2018).

@@ -1,0 +1,9 @@
+The twenty-four questions were administered using a Likert scale with
+five response options: never, occasionally, sometimes, often, and most of
+the time. According to the authors, total scores range from
+0 to 100, with scores between 28 and 51 indicating
+mild to moderate distress and scores of 52 or higher
+indicating severe distress. The content validity of the CPDI was
+established by psychiatrists at the Shanghai Mental Health Center, and
+the instrument demonstrated high internal consistency, with a Cronbach’s alpha
+of 0.95 (p<0.001) (Qiu et al., 2020).

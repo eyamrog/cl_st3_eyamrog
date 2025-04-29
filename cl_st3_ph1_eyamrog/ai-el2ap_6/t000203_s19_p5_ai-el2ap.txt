@@ -1,0 +1,14 @@
+Tables 3, 4, and 5 present the descriptive statistics for
+acceleration per inhabitant in the interest groups, as well as
+the results of the statistical tests comparing these groups. Table
+4 displays the comparison between groups 2.1 and 2.2. The
+results indicate a statistically significant difference in acceleration over the
+last 30 days for both cases (p = 0.008) and
+deaths (p = 0.001), with group 2.1 exhibiting higher mean
+and median acceleration values than group 2.2. In contrast, when
+comparing the acceleration up to April 11 in group 2.1
+with the acceleration up to May 11 in group 2.2,
+there is no statistically significant difference in the acceleration of
+cases (p = 0.284). However, a significant difference is observed
+in the acceleration of deaths (p = 0.001), with group
+2.1 showing higher acceleration.

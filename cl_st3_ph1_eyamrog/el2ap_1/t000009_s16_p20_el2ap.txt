@@ -1,0 +1,8 @@
+Part 2 was conducted as a typical semi-structured interview. Participants
+were presented with data gathered from the analyzed questionnaire regarding
+contextual factors – such as sexism, xenophobia, social and academic
+bias – that, according to the 38 respondents, might influence
+the publication of papers, as well as to the profile
+of Brazilian computer scientists who have published in refereed journals.
+Then, they were asked to interpret those findings (cf. Vieira,
+2019b).

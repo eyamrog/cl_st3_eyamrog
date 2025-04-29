@@ -1,0 +1,9 @@
+Total tannin content was quantified using the method described by
+Makkar and Becker (1993). A 4% (w/v) vanillin solution in
+methanol was added to the extract, followed by the addition
+of 1.5 mL of concentrated hydrochloric acid (37%). The absorbance
+of the resulting mixture was measured at 500 nm using
+a Shimadzu UV mini-1240 spectrophotometer. Tannin concentration was determined by
+interpolating the sample absorbance values against a calibration curve prepared
+with catechin standards, and results were expressed as milligrams of
+catechin equivalents per gram of extract.

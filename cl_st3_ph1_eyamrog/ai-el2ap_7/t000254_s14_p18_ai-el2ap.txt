@@ -1,0 +1,5 @@
+Differences in the distribution of individual diameters between 2006 and
+2012 were assessed using the Kolmogorov-Smirnov test. Based on these
+diameter differences, the relative growth rates (RGR) of shrubs and
+trees were calculated according to the method described by Welden
+et al. (1991) as follows:

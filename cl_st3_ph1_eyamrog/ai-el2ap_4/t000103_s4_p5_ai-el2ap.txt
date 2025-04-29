@@ -1,0 +1,8 @@
+When learning a foreign language, native speakers of Portuguese appear
+to be influenced by their first language anaphora resolution strategy
+(PAS), irrespective of their proficiency level in the second language.
+In Spanish, Brazilian learners are more likely than European learners
+to interpret zero anaphora as referring to the subject of
+the main clause. Nevertheless, learners exhibit some uncertainty in selecting
+the antecedent of pronouns in Spanish, particularly in cases involving
+cataphora, as well as in English.

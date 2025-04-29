@@ -1,0 +1,13 @@
+In routine dental practice, radiographic assessment of the mandibular canal
+(MC) is most commonly conducted using periapical, panoramic, and cone-beam
+computed tomography (CBCT) images, with reported visibility rates of 28%,
+32%, and 98%, respectively [24]. On conventional two-dimensional (2D) radiographs,
+the MC is typically visualized as a radiolucent area bordered
+by two well-defined radiopaque lines, located inferior to the roots
+of the mandibular molars and premolars [25]. This characteristic appearance
+results from the principles underlying radiographic line formation, whereby a
+radiopaque line is produced when the primary X-ray beam is
+perpendicular to the interface between two tissues of differing densities.
+In the case of the MC, these density differences are
+attributable to the contrast between the trabecular bone and the
+inferior neurovascular bundle.

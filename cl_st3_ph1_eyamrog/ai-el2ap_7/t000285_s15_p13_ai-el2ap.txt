@@ -1,0 +1,8 @@
+Data extraction will be performed independently by two authors (CRRF
+and FSAR). Any discrepancies or disagreements will be resolved through
+discussion, and, if necessary, by consultation with a third author
+(VFMT). A standardized data extraction form will be developed to
+collect information from the included studies, including: (I) demographic and
+clinical characteristics of the patients; (II) time points used for
+assessments; (III) epidemiological characteristics; (IV) outcome measures; (V) sources of
+funding; and (VI) potential conflicts of interest.

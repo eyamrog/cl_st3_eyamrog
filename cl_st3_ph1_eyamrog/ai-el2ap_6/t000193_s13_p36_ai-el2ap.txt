@@ -1,0 +1,17 @@
+Methotrexate is an immunosuppressive agent that is occasionally used in
+the treatment of neuromyelitis optica spectrum disorder (NMOSD). At low
+doses (e.g., 7.5 to 25 mg), the risk of myelosuppression
+is low, and most patients do not develop opportunistic infections
+unless they are also receiving high-dose corticosteroids. However, hepatotoxicity is
+a common adverse effect. Pancytopenia may occur at various points
+during therapy, but most cases are associated with predisposing factors,
+most commonly impaired renal function. During the COVID-19 pandemic, it
+is recommended that patients receiving stable doses of methotrexate without
+adverse events in the preceding six months undergo complete blood
+count (CBC) and liver enzyme monitoring every six months. For
+patients who have been on methotrexate for less than six
+months or who have a history of adverse events, more
+frequent monitoring, such as every two to three months, is
+advised. Table 3 provides a summary of considerations for the
+use of disease-modifying drugs (DMDs) in NMOSD during the COVID-19
+pandemic.

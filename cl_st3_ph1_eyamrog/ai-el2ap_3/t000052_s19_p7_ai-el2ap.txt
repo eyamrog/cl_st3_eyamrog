@@ -1,0 +1,13 @@
+The dataset comprised 68 individuals characterized by 21 quantitative variables
+(Fig. 3). Of these, three individuals were designated as illustrative:
+individual #66 corresponds to B. auchenoglanii, #67 to B. fraudulenta,
+and #68 to B. anthopenis. The first two principal components
+of the PCA account for 71.73% of the total variance
+in the dataset. The individuals are grouped into three clusters,
+each corresponding to one of the three species analyzed: Bagrobdella
+vanhovei, B. vansteenbergei, and Bagrobdella pauchenoglanii (Figs. 12 and 13).
+The first principal component distinguishes most individuals of B. vanhovei,
+which are located on the right side of the plot
+with positive axis coordinates, from individuals of B. vansteenbergei and
+B. parauchenoglanii (from Cameroon), which are positioned on the left
+side of the plot with strongly negative axis coordinates.

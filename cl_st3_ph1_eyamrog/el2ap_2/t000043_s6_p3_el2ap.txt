@@ -1,0 +1,8 @@
+In this first version of the tool, quality scores are
+recommended but no weighting scores have been attributed to the
+individual items in the domains evaluated. This allows flexibility of
+the evaluation process depending on the type of evidence synthesis
+being elaborated. Quality scores have previously been criticized as being
+poor predictors of the overall quality of a study especially
+when they are considered as a factor for the performance
+of a meta-analysis (26,27).

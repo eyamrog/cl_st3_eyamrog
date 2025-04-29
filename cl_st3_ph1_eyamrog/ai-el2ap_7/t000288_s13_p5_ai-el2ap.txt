@@ -1,0 +1,22 @@
+Host factors significantly influence susceptibility to infection and the progression
+of disease. Studies have demonstrated that SARS-CoV-2 utilizes the angiotensin-converting
+enzyme 2 (ACE2) as its entry receptor. The S-glycoprotein on
+the surface of the virus binds to the ACE2 receptor
+on human cells, facilitating viral entry. Upon binding and fusion
+with the host cell membrane, the viral RNA genome is
+released into the cytoplasm, where it is translated into two
+polyproteins, pp1a and pp1ab. These polyproteins encode non-structural proteins that
+assemble into the replication and transcription complex (RTC), thereby enabling
+the continuation of the viral replication cycle. Host antiviral defense
+mechanisms are critical in determining the outcome of SARS-CoV-2 infection.
+Type I interferons (IFNs), particularly IFN-β, serve as a primary
+defense by initiating antiviral responses. Following viral infection, the host
+innate immune system is activated through the recognition of viral
+components such as single-stranded RNA (ssRNA), double-stranded RNA (dsRNA), or
+viral glycoproteins. Toll-like receptors (TLRs) and RIG-I-like receptors (RLRs) are
+the principal pattern recognition receptors (PRRs) that detect RNA viruses.
+Activation of these receptors triggers an antiviral signaling cascade, resulting
+in the phosphorylation and activation of IRF3 and NF-κB, which
+in turn promote the production of type I IFNs. The
+secretion of IFN-β stimulates the expression of interferon-stimulated genes (ISGs),
+leading to the production of host antiviral effector proteins.

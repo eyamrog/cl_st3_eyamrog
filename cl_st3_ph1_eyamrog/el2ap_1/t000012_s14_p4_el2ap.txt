@@ -1,0 +1,13 @@
+We analyzed the centrality degree of the Brazilian and African
+networks (Sazima et al. 2012; Mikula et al. 2017) by
+computing the number of host species that the cleaners species
+were interacting. We focused on degree measure, where the nodes
+(i.e species) that have more diverse interactions, represent the central
+nodes. Then we compared the centrality degree of each bird
+species with their H value, using a regression analysis. Our
+prediction was that the bird species that interact with many
+different hosts (i.e. more links with different mammal species) would
+be the birds with a higher H, meaning a positive
+correlation between these two measures (Fig 2). The details of
+hosts species and H of each bird species can be
+accessed in Supplementary fig. 2.

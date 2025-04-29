@@ -1,0 +1,11 @@
+RNA was extracted using the TRIzol protocol (TRIzolTM Reagent, no
+date; Rio et al., 2010) from a sample obtained from
+a fully vaccinated, symptomatic SARS-CoV-2 positive patient, which exhibited a
+Ct value of 22.53 as determined by the RIDAGENE SARS-COV-2
+RT-PCR MULTIPLEX kit (R-BIOPHARM AG). This RNA was subsequently used
+to prepare an Illumina sequencing library following the Artic v3
+protocol (Pipelines R&D et al., 2020). The resulting SARS-CoV-2 amplicon
+library was sequenced at the Unidad Universitaria de Secuenciación Masiva
+y Bioinformática (UNAM) using the Illumina NextSeq500 platform with a
+300-cycle kit in paired-end mode, generating reads of 150 base
+pairs in length.

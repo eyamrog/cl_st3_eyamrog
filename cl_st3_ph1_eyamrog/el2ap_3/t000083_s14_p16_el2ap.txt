@@ -1,0 +1,5 @@
+The exploratory and confirmatory factorial analyses and the average variance
+extracted were performed using the statistical software R – SEM
+(Structural Equation Models) package version 0.9-21 and for the other
+analyses the statistical package SPSS (Statistical Program for Social Sciences),
+version 20.0 was used.

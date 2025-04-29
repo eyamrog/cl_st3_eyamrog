@@ -1,0 +1,13 @@
+For procedures involving patients with suspected or confirmed infection with
+the novel coronavirus (SARS-CoV-2) that may generate aerosols—such as those
+that induce coughing, intubation or tracheal aspiration, invasive and non-invasive
+ventilation, cardiopulmonary resuscitation, manual ventilation prior to intubation, sputum induction,
+and nasotracheal sample collection—healthcare professionals are required to use respiratory
+protection masks (particulate respirators) with a minimum filtration efficiency of
+95% for particles up to 0.3 µm (e.g., N95, N99,
+N100, PFF2, or PFF3).8,23 Whenever possible, aerosol-generating procedures should be
+conducted in a respiratory isolation unit equipped with negative pressure
+and a high-efficiency particulate air (HEPA) filter. In settings where
+such units are unavailable, patients should be managed in rooms
+with closed doors and open windows, and the number of
+healthcare professionals present during these procedures should be minimized.23

@@ -1,0 +1,20 @@
+Finally, we checked if the observed changes were significant, considering
+the effects of step (change in the level of the
+result immediately after the policy) and ramp (change of trend
+in the post-political segment) (Table 3). The data confirm that
+the most consistent change in the trend occurred between the
+baseline and the RCAPS. We found that the total rate
+showed a change in the slope, followed by almost all
+groups, except the nose, ear and throat infection, lung diseases,
+epilepsy, kidney and urinary tract infection, skin infection and female
+pelvic inflammatory disease. Also, it is essential to note that
+the change to diseases related to childbirth and the puerperium
+was an increase in the hospitalization rate, unlike the others,
+which was a reduction. For nutritional deficiencies, asthma, angina, urinary
+tract infection and gastrointestinal ulcers, the change was immediate, as
+seen in the step effect. The change between RCAPS and
+PNAB was less impactful, significant only for asthma, hypertension, epilepsy,
+and skin infections (level) and angina, epilepsies and diseases related
+to childbirth and the puerperium (slope). The verification of the
+residues shows that the models were well adjusted (goodness-of-fit and
+Durbin-Watson Statistics).

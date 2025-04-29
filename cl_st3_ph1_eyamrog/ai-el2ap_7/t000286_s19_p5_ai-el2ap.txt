@@ -1,0 +1,12 @@
+The results of the co-integration analysis presented in Table 3
+indicate that the trace statistics exceed the critical values at
+the 5% significance level for both equations, with values of
+117.7144 > 69.81889 and 54.35455 > 47.85613, respectively. Additionally, the
+p-values are less than 0.05 (0.0000 and 0.0109), further supporting
+the rejection of the null hypothesis of no co-integration among
+the variables. These findings provide evidence of a co-integrating relationship
+among the variables used to model the impact of selected
+macroeconomic factors on investment inflow in Turkey during the study
+period. Therefore, the test results suggest the existence of a
+long-run relationship in two co-integrating equations at the 5% significance
+level.

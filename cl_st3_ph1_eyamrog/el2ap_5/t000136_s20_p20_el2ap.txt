@@ -1,0 +1,7 @@
+We next examined the need to include the variable ‘NPO
+age’ in the model, assuming that NPO need time to
+operate and implement governance practices (for example Haski-Leventhal and Foot,
+2016). Since we did not identify any statistically significant correlation
+between age and governance, measured by the sum of the
+dimensions’ scores identified in MCA (r = 0.093; p-value =
+0.339), we did not include this variable in the model.

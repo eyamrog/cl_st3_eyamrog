@@ -1,0 +1,13 @@
+The concept underlying the creation of “U-Multirank” is that there
+is no universally applicable “best” or “top 10” classification of
+academic institutions worldwide. The selection of the “best” university is
+subjective and depends on the individual goals and constraints of
+prospective students. In accordance with this approach, a multidimensional ranking
+system should identify the main criteria (referred to as Dimensions)
+and establish methods for evaluating these criteria (through Indicators and
+the rules for their calculation). Academic institutions are categorized into
+five quality groups for each Indicator, based on the specified
+evaluation rules. Classification occurs only at the level of each
+Indicator, without producing an overall ranking, thereby allowing users to
+focus on the Indicators that are most relevant to their
+preferences.

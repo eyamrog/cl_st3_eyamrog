@@ -1,0 +1,13 @@
+The BNCC presents these technologies as primary solutions to the
+challenges facing Brazilian education. However, rather than being integrated as
+part of the cumulative knowledge developed by humanity, their inclusion
+is shaped by specific interests, particularly those driven by market
+forces, which may not align with the Brazilian socio-economic context.
+The recommendations primarily emphasize the provision of teaching tools, which
+should represent only one component of the broader knowledge base
+to be conveyed to students in the field of ICT.
+Furthermore, the BNCC does not specify the timing or allocation
+of investments in school technological infrastructure, nor does it address
+the training of teachers to effectively utilize digital technologies at
+the required level. Additionally, it does not ensure that students
+will have internet access at home.

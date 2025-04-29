@@ -1,0 +1,17 @@
+In 2018, Philip G. Altbach and Hans de Wit, scholars
+of higher education at Boston College, published an article titled
+“Too Much Academic Research Is Being Published” in University World
+News. They argue that the number of scientific journals, estimated
+at approximately 30,000, is excessive and indicative of a “crisis
+in academic publishing,” characterized by increased pressure on leading journals
+and the proliferation of predatory publishers that disseminate research of
+low or marginal quality. Altbach and de Wit advocate for
+measures to reduce the volume of published research. In contrast,
+the present analysis questions the accuracy of such journal estimates
+and emphasizes the importance of acknowledging the research contributions and
+engagement of the Global South. This analysis is based on
+data from 25,671 journals utilizing the open source editorial management
+and publishing platform Open Journal Systems (OJS), which was first
+released by the Public Knowledge Project (PKP) in 2002. The
+authors’ association with PKP is disclosed in the Competing Interests
+statement at the conclusion of this article.

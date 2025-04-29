@@ -1,0 +1,9 @@
+The Cochrane Risk-of-Bias tool was used34 in order to assess
+the methodological quality of the studies. The following criteria were
+evaluated: (1) random sequence generation, (2) allocation sequence hiding, (3)
+the participants and researchers’ masking, and (4) selective reporting. The
+masking items regarding the evaluation of the outcomes, as well
+as the incomplete data were not included in the study,
+since study protocols do not show intervention results. The researchers'
+judgment (JS, ACAG) on the review was rated as low,
+unclear, or as having a high risk of bias.

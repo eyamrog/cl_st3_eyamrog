@@ -1,0 +1,8 @@
+To account for urban infrastructure, we calculate the minimum Euclidean
+distance from each property to various transportation sites, including train
+and subway stations, main avenues, bus corridors, and highways, as
+well as to a range of amenities such as urban
+parks, libraries, cultural centers, art galleries, theaters, concert halls, cinemas,
+shopping malls, race stadiums, resorts, sports centers, clubs, sports courts,
+soccer stadiums, elementary and high schools, hospitals, health centers, and
+favelas.

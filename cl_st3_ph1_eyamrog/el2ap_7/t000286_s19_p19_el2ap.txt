@@ -1,0 +1,8 @@
+The results revealed that EXC does not granger causes GD;
+the null hypothesis is accepted at 5% significance level, indicated
+by the high probability value 0.0124. The results also revealed
+that GD does not granger causes EXC, the null hypothesis
+is accepted at 5% percent indicated by the probability value
+0.0709 and this is confirmed by the F-statistics value 5.66235.
+This result therefore indicates one-way causation flowing from EXC to
+GD.

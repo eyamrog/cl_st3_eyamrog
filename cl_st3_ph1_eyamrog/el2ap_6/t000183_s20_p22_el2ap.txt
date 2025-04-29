@@ -1,0 +1,2 @@
+More than 30 subjects made up the sample; therefore, Kolmogorov-Smirnov
+test is recommended for this kind of study.

@@ -1,0 +1,10 @@
+The inferential analysis involved calculating Pearson's correlation coefficients to assess
+the relationships between data obtained from the previously mentioned systems.
+The analysis utilized data collected from March 4 to June
+22, 2020. Only cities with at least one reported case
+of the disease by June 22 were included, resulting in
+the exclusion of 215 cities without any notifications of COVID-19
+during this period. The variables analyzed included incidence, mortality, rates
+of rapid and molecular testing, and the date of the
+first notification. Pearson's coefficients were calculated at both the municipal
+and health macro-region levels.

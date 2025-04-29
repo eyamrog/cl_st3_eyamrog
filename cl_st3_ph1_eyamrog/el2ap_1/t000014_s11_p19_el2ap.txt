@@ -1,0 +1,7 @@
+Websites also facilitate content sharing, and code can be added
+to make the pages discoverable by search engines. While limiting
+access to content is possible, it can be a technically
+challenging process. Traditional copyright automatically applies to websites, but the
+website developer can choose to apply Rights Statements6 or open
+licenses, such as those managed by Creative Commons, to the
+webpages and/or the linked files.

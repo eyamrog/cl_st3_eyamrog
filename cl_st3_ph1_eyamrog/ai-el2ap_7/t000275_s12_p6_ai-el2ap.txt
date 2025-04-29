@@ -1,0 +1,7 @@
+An alternative method for implementing the smoke evacuation suction circuit,
+in the absence of the previously described chemical substances, involves
+attaching a ventilation machine filter to the distal end of
+the suction tubing connected to the surgical trocar. The outlet
+of the filter is subsequently connected to a second plastic
+suction tube, which channels the evacuated smoke into a water
+seal device containing saline solution.

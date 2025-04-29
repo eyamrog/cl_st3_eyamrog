@@ -1,0 +1,3 @@
+This part presents the empirical findings obtained by performing the
+tests described in the methodology and dataset parts. The linearity
+test results of the series are presented in Table 2.

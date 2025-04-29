@@ -1,0 +1,16 @@
+Physiological parameters and light response curves—The physiological parameters measured are
+summarized in Table 1, and Figures 1 to 4 present
+the light response curves of CO₂ assimilation. In both the
+control group and the plants cultivated in the garden, leaves
+reached approximately 90% of their maximum carbon assimilation rate at
+a light intensity of 900 µmol m⁻² s⁻¹. As the
+majority of leaves exhibited peak carbon assimilation at this intensity,
+it was designated as the light saturation point. At light
+intensities exceeding twice this value, the carbon assimilation rate remained
+stable, indicating an absence of photoinhibition (Figures 1, 2, 4).
+In the open groups (wild plants and garden plants), the
+carbon assimilation rates under natural sunlight (photosynthetically active radiation [PAR]
+of approximately 2,000 µmol m⁻² s⁻¹) were equivalent to the
+maximum rates measured by the infrared gas analyzer (IRGA) at
+a maximal PAR of 1,600 µmol m⁻² s⁻¹; therefore, the
+Amax data were combined for analysis.

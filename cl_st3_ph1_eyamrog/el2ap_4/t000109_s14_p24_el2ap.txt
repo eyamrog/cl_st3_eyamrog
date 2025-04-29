@@ -1,0 +1,10 @@
+This submodel helps simulate the mobility or movements of human
+agents living in a district or neighborhood of the model,
+considering age range and time slot being simulated. It also
+establishes the type of activity that each Ha will perform
+in the location where it is to be at the
+next period of time considered. Some of these activities are
+unique to each Ha throughout the simulation (e.g., type and
+location of work or study) and others are obtained at
+the moment they are to be conducted (e.g., type of
+leisure activity).

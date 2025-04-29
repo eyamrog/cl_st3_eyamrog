@@ -1,0 +1,9 @@
+Application of Bradford's Law to analyze the distribution of journals,
+as presented in Table 3, enabled identification of a constant
+Bradford Multiplier (Bm), with the variation between the Bm values
+across the zones remaining within the acceptable range of 0.7,
+as specified by the law. This result indicates a distribution
+pattern closely approximating the ideal (1:n:n²) as defined by Bradford's
+Law. The core, or nucleus, consisted of 15 journals, which
+were identified as the most dedicated to the subject under
+investigation.

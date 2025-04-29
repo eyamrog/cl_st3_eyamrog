@@ -1,0 +1,10 @@
+In this first proposal of the assessment tool, the overall
+assessment of a study can be considered to be of
+“poor quality” if the study is awarded 3 stars, “moderate
+quality”, if the study is awarded up to 6 stars
+and “high quality” if the study gets 7 to 10
+stars. This is just a suggestion of how to grade
+the overall quality of the study evaluated but the users
+of the tool are at liberty to decide how this
+can be applied in the studies analyzed depending on the
+specificities of the research question tackled in those studies.

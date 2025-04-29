@@ -1,0 +1,11 @@
+The term ‘Capital Flow Management Measures (CFMs)’ includes both capital
+controls and macroprudential policies. This distinction underlies why some studies
+compare the effectiveness of CFMs implemented by developed countries with
+those used by emerging economies, as discussed in Subsection 4.3.
+Specifically, CFMs in developed countries are generally limited to macroprudential
+policies, as these countries have not imposed capital controls that
+discriminate based on investors’ residency since the liberalization reforms of
+the 1970s and 1980s. In contrast, CFMs in emerging economies
+encompass both capital controls and macroprudential policies. With these distinctions
+clarified, the following section presents the main studies that provide
+new recommendations on this topic.

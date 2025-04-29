@@ -1,0 +1,27 @@
+Position 24, which is one of the three sites with
+high probability of being under positive selection, has eight different
+amino acids segregating across taxon (Figures 2 and S1). Li
+et al. (2005b) showed that the amino acid change from
+Glutamine to Lysine at position 24 (Q24K), together with a
+change from Lysine to Glutamate at position 26 (K26E), slightly
+inhibits interactions with SARS-CoV S glycoprotein (Li et al., 2005b).
+Rattus norvegicus has this combination (24K and 26E), while mouse
+species (Mus musculus, Mus caroli, and Mus pahari) have an
+Asparagine (N) at the position 24. Rattus norvegicus ACE2 also
+has the combination of Asparagine (N), Phenylalanine (F), and Serine
+(S) at positions 82-84. According to Li et al. (2005b),
+this combination in rats (R. norvegicus) inhibits the interaction between
+ACE2 and SARS- CoV S glycoprotein. In addition, a Histidine
+(H) at positions 353 of ACE2 in the murine species
+also could inhibit or reduce the efficiency of the interaction
+according to Wan et al. (2020). Our study shows that
+murine species’ ACE2 have only 56% of identity with the
+human ACE2 regarding these 30 binding sites. This reinforces the
+idea that they cannot naturally bind to S glycoprotein of
+SARS-CoV-2. On the other hand, Glutamine (Q) and Lysine (K)
+at 24 and 26 ACE2 positions are found in humans
+and all primates, as well as in Cavia porcellus (Guinea-pig),
+a rodent used very often as an experimental animal. However,
+there are differences in other important binding sites, resulting in
+the identity between Guinea-pig ACE2 and the human ACE2, regarding
+these 30 binding sites, being just 70%.

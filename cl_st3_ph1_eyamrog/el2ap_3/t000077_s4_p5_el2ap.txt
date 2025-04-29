@@ -1,0 +1,8 @@
+Some variables maintained important independent effects after controlling for types
+of work fixed effects. We can highlight the positive effects
+on the probability of remote work of college education, salaried
+employment (other than self-employed or employers) and labor income –
+indicating that the propensity to remote work varies between occupations
+but also within these occupations. Furthermore, everything else kept constant,
+younger, female and white workers are somewhat more likely to
+work remotely.

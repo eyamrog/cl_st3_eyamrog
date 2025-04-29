@@ -1,0 +1,15 @@
+The analysis of the number of citations made in the
+native language of the author’s country revealed that there was
+a linear relationship between the percentage of publications and their
+impact on their native language. Brazil and the USA publish
+the least amount of research in their own language and
+have a more substantial audience in other languages. In contrast,
+Colombia, Cuba, Spain, and Peru publish the most in their
+native language and, thus, have an impact that is predominantly
+in Spanish. We have also noticed that in the case
+of Spain and the USA, their lowest impact is found
+in SciELO, which suggests that their citations come from outside
+the domain of SciELO CI. On the other hand, the
+Latin American countries were notable for the extent of their
+impact in this research area (about two-thirds of what they
+obtain from the WoS platform).

@@ -1,0 +1,15 @@
+This study has some limitations related to the small sample
+size and short follow-up. RT-PCR test, which was used as
+gold-standard in this study, is believed to have high specificity
+but sensitivity of 60–70% to diagnose SARS- CoV-2 infection(10,11). It
+is known that RT-PCR has poten- tial vulnerabilities related to
+preanalytical issues such as inadequate procedures for collection, handling, transport
+and storage of the swabs, as well as analytical problems,
+including testing outside the diagnostic window and other specific technical
+issues(28). Prior studies demonstrated that COVID-19 patients may show very
+early CT changes even before positive RT-PCR(11,29). Probably, the most
+ef- ficient strategy for diagnosing COVID-19 in suspected patients should
+combine clinical and epidemiologic suspi- cion with RT-PCR test and
+chest CT findings, and repeat- ed RT-PCR should be collected
+in patients with initially negative results and high clinical and
+imaging likelihood of having COVID-19.

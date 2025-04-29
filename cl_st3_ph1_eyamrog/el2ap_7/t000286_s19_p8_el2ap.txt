@@ -1,0 +1,12 @@
+From the VECM result, ECM (-1) was consistent by assuming
+a negative value. It suggests that the ECM could correct
+any deviation from the long run equilibrium relationship between POV
+and the explanatory variables. The coefficient indicates a speedy adjustment
+of 1.99% per annum. This implies that following short-run disequilibrium,
+1.99% of the adjustment to the long-run takes place within
+one year. The above result shows that the R2 is
+0.35, which shows that the model explains about 35% of
+the total variations in FDI are explained by the independent
+variables (GD, INF, INT and EXC) during the period of
+the study while the remaining 65% is explained by variable
+not included in the model.

@@ -1,0 +1,10 @@
+When the codes' occurrences are counted, such a method provides
+a broad overview of data sample and allows the establishment
+of patterns within and across events (Snell & Lefstein, 2011).
+However, this technique is not free of problematic issues, as
+there is a trend to fragment the data and lose
+context or other meanings that are not captured in the
+codes (Cohen et al., 2007). Therefore, systematic coding might be
+seen as reductionist (Mercer et al., 2004; Snell & Lefstein,
+2011). The next subsection shows an example of the kinds
+of research questions and findings that systematic coding might provide.

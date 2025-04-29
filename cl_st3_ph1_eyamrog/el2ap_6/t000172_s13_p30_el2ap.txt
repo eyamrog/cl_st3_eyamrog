@@ -1,0 +1,7 @@
+Metformin and rapamycin are known modulators of viral infection and
+translation control pathways, such as mTOR. It is reported for
+example that in the 1971 influenza outbreak, diabetic patients treated
+with phenformin and buformin presented a lower incidence of infection
+compared to diabetics treated with sulfonylureas or insulin (Lehrer 2020).
+The immunoregulation of COVID-19 with mTOR inhibitors such as rapamycin
+has been recently proposed (Zheng et al. 2020).

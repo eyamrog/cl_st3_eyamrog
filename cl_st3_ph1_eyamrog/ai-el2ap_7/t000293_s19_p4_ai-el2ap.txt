@@ -1,0 +1,11 @@
+In the first scenario, where only chest CT scans with
+typical findings were considered positive, the sensitivity, specificity, positive predictive
+value (PPV), negative predictive value (NPV), and accuracy were 64.0%,
+84.8%, 61.5%, 86.2%, and 79.1%, respectively (Table 1). In the
+second scenario, where chest CT scans with either typical or
+indeterminate findings were considered positive, the sensitivity, specificity, PPV, NPV,
+and accuracy were 92.0%, 62.1%, 47.9%, 95.3%, and 70.3%, respectively
+(Table 2). Sensitivity was significantly higher in the second scenario
+compared to the first (92.0% vs. 64.0%; p = 0.016),
+whereas specificity was significantly higher in the first scenario compared
+to the second (84.8% vs. 62.1%; p < 0.001).

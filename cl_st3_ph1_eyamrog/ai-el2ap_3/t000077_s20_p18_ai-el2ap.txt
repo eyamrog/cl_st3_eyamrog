@@ -1,0 +1,6 @@
+The results presented thus far for the various worker attributes
+are likely to be substantially influenced by the sectoral and
+occupational composition of the workforce. The final analysis therefore examines
+whether these attributes have independent effects on the likelihood of
+remote work, after controlling for work type, occupational position, and
+job function.

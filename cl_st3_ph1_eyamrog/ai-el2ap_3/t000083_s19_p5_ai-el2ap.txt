@@ -1,0 +1,13 @@
+Convergent validity assesses whether the items within a scale, or
+within a specific dimension of a multidimensional scale, are representative
+of a single underlying construct (Graver and Mentzer, 1999). In
+partial least squares (PLS) modeling, convergent validity is evaluated using
+the average variance extracted (AVE), which quantifies the proportion of
+variance captured by each construct relative to the variance attributable
+to measurement error. In the present study, all AVE values
+exceeded 0.79 (environmental enhancement = 0.81; social competition = 0.79;
+attention seeking = 0.83; mood and confidence = 0.85; subjective
+conformity = 0.79), thereby supporting the convergent validity of the
+scale in accordance with established criteria (Fornell and Larcker, 1981;
+Sanches-Franco and Roldan, 2005; Balakrishnan and Griffiths, 2017) (see Table
+1).

@@ -1,0 +1,2 @@
+Below, we will look at each of these phases and
+the language affordances associated with them more closely.

@@ -1,0 +1,19 @@
+It was originally developed in 1995 for the evaluation of
+vaccine safety in pharmacoepidemiology and nowadays it is used in
+general epidemiology (1,6,7). It is derivative of a cohort study
+design where individuals who have experienced the event of interest
+are observed over time, within a pre-established observation period, where
+the exposure history and the occurrence of the event of
+interest are identified. During the observation period, the risk period
+and the control period are established, which usually do not
+have the same length of time. The risk period is
+defined a priori and is considered as the time during
+or after exposure where the individuals are at a higher
+or reduced risk of the events of interest after an
+exposure. The control period constitutes any time within the observation
+period (before, after or between) the risk period (1,2,8). For
+example, in a study to evaluate the risk of GBS
+after Human Papilloma Virus (HPV) Vaccination in England, the risk
+period started with vaccination (day 0) and ended on day
+91 and a control period considered any time outside the
+risk period (9).

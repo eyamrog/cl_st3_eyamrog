@@ -1,0 +1,10 @@
+As a preliminary approach – the sample was over 400
+observations (n = 1844) – FACTOR performed the SALOMON splitting
+method (Lorenzo-Seva 2021). The Ratio Communality Index (RCI) reported (RCI
+= 0.998452) showed both subsamples have a similar amount of
+common variance (the closer its value to 1, the most
+comparable subsamples are) (Lorenzo- Seva 2021). We have a kurtosis
+(p < 0.05), which indicates our data do not have
+a normal distribution. Therefore, the Diagonally Weighted Least Squares (RDWLS)
+extraction method is suitable for categorical data that do not
+have a normal distribution (Asparouhov e Muthén 2010).

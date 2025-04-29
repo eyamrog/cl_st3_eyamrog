@@ -1,0 +1,21 @@
+A general hedonic model for house \(i\) in year \(t\)
+is specified as follows: <>, where \(P_{it}\) denotes the price
+of house \(i\) in year \(t\), \(CBD_i\) represents the distance
+from the city center, \(SBD_{p,i}\) are the distances from house
+\(i\) to each sub-business district (SBD) candidate identified in the
+initial stage, \(Z_{it}\) comprises the intrinsic characteristics of house \(i\)
+in year \(t\), \(A_i\) is the vector of distances from
+house \(i\) to each of the \(l\) amenities, \(T_i\) denotes
+the distances from house \(i\) to each of the \(m\)
+avenues and transportation modes, \(D\) is a vector of time
+dummy variables, \(\varepsilon_{it}\) is the spatially autocorrelated error term, and
+\(u_{it}\) is the random error term. Spatial lags are constructed
+using \(w_{ij}\), the neighborhood spatial matrix, subject to the following
+conditions: (a) \(w_{ij} = 0\) for \(j = i\); (b)
+\(0 < w_{ij} \leq 1\) if \(j\) is a neighbor
+of \(i\); and (c) <>, which is generally set to
+one. Accordingly, \(w_{ij}P_{it}\) represents the spatial lag of house prices,
+and \(w_{ij}X_{m,i}\) denotes the spatial lag of covariates (\(Z_{kit}\), \(A_{li}\),
+\(T_{mi}\)). The coefficients to be estimated in the model are
+\(\alpha\), \(\rho\), \(\theta\), \(\tau_p\), \(\gamma_k\), \(\beta_l\), \(\kappa_o\), \(\mu\), \(\lambda\), and
+\(\sigma_u\).

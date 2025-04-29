@@ -1,0 +1,12 @@
+Social distancing is a key strategy implemented by institutions to
+reduce the transmission of SARS-CoV-2. By limiting contact between potentially
+infected and uninfected individuals, or between groups with differing transmission
+rates, social distancing aims to delay the epidemic peak and
+reduce its overall impact, thereby protecting healthcare system capacity. The
+effectiveness of isolation measures is influenced by epidemiological factors such
+as the basic reproduction number and the proportion of transmissions
+occurring prior to symptom onset. These interventions are warranted due
+to the potential for asymptomatic individuals to transmit the virus
+before being isolated, which complicates efforts to control the pandemic.
+Figure 1 presents the primary public health measures recommended for
+early adoption to mitigate the effects of the pandemic.

@@ -1,0 +1,8 @@
+The term "virus" is derived from Latin, meaning "poison" or
+"toxin." Viruses typically range from 20 to 300 nm in
+diameter and possess a genome composed of one or more
+nucleic acid molecules, either DNA or RNA, which are enclosed
+within a protein capsid and, in some cases, surrounded by
+a lipid bilayer envelope. Coronaviruses are enveloped, positive-sense RNA viruses
+characterized by a distinctive replication strategy that facilitates variation in
+pathogenicity and enables adaptation to diverse environments.

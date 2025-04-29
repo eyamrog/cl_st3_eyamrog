@@ -1,0 +1,18 @@
+The ongoing debate between Diamond Open Access (DOA), which does
+not require article processing charges (APCs) from authors, and paywall-based
+publishing models presents a significant challenge regarding the financial sustainability
+of academic journals. Specifically, questions remain about how journals can
+cover essential operational costs such as publishing, copyediting, DOI assignment,
+data integration into biodiversity databases, and file archiving. These issues
+have become particularly evident during the transition of major publishers’
+journals, such as Diversity and Distributions, from subscription-based access to
+an APC-funded open access model (Peterson et al. 2019). The
+prevailing trend in scientific publishing, especially in biodiversity journals, is
+a shift from paywall models to gold open access (GOA),
+wherein authors are responsible for publication fees (APC-GOA). This model
+is advantageous for large publishers as it mitigates revenue losses
+associated with unauthorized distribution through platforms such as Sci-Hub, ResearchGate,
+or Academia.edu. Notably, unlike some major publishers, Zootaxa has not
+requested authors to remove their work from these platforms, indicating
+a different approach to the management of file sharing and
+access.

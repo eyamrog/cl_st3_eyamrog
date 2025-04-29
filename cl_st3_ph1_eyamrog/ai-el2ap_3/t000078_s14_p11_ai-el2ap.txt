@@ -1,0 +1,8 @@
+As a starting point for estimating the Hedonic Price Model,
+the Ordinary Least Squares (OLS) estimation used in Equation 1
+imposes the following restrictions on the spatial parameters: 𝜌 =
+𝜆 = 𝜅₀ = 𝜏ₚ = 0. This approach enables
+an assessment of whether the inclusion of control variables addresses
+the potential spatial dependence identified in the literature and allows
+for the evaluation of whether the price gradient declines with
+increasing distance from the central business district (CBD).

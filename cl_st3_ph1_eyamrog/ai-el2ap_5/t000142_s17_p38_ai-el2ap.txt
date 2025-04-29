@@ -1,0 +1,4 @@
+The hypotheses for the unit root analysis are specified in
+Equation 16 and Equation 17. The test is conducted by
+evaluating the statistical significance of the estimated parameter ρ̂ using
+the t-test.

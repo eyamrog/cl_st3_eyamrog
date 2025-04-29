@@ -1,0 +1,3 @@
+The equation above shows the estimated regression equation used to
+analyze the impact of selected macroeconomic variables (GD, INF, INT,
+EXC) on Investment inflow(FDI) in Nigeria as stated earlier.

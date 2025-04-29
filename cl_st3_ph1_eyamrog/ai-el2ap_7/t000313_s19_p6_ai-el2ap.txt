@@ -1,0 +1,23 @@
+The five New World monkey (NWm) and Prosimian species exhibit
+distinct patterns at positions 82–84 compared to other primates. Specifically,
+they display a moderately conservative substitution at position 82 (M82T;
+Grantham Score [GS] = 81), which also involves a change
+in amino acid polarity. Given the prevalence of threonine at
+this position across multiple species, and applying the principle of
+parsimony, it is likely that threonine represents the ancestral allele.
+This suggests that a non-synonymous mutation resulting in a threonine
+(T) to methionine (M) substitution occurred in the ancestral lineage
+of the Catarrhini clade, while the Platyrrhini ancestor retained the
+ancestral threonine allele. At position 41, NWm and Prosimian species
+also share the same amino acid. The substitution Y41H (GS
+= 83) is moderately conservative and involves a change in
+charge, as histidine is an acidic amino acid. Another mutation
+at this site, Y41A (GS = 112), represents a moderately
+radical change and a shift in polarity, since tyrosine is
+polar and alanine is non-polar. Such alterations may reduce the
+potential for viral interaction, particularly with SARS-CoV, as reported by
+Li et al. (2005b). The distribution of amino acids at
+position 41 of ACE2 indicates that both NWm and Prosimian
+clades possess the derived histidine allele, which is also observed
+in the bat genera Hipposideros and Myotis, as well as
+in Equus, suggesting possible molecular convergence.

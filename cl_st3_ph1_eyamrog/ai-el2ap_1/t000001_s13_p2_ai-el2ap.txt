@@ -1,0 +1,8 @@
+If culturing and DNA extraction are performed multiple times, such
+as separately for Oxford Nanopore Technologies (ONT) and Illumina sequencing,
+there is a risk of introducing genomic differences between the
+resulting DNA samples. These discrepancies can complicate downstream processes such
+as genome polishing. Therefore, it is advisable to use a
+single DNA extract for all sequencing runs to ensure consistency.
+Additionally, storing extra DNA or bacterial pellets by freezing may
+be beneficial in case further sequencing becomes necessary.

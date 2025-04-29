@@ -1,0 +1,7 @@
+Cone-beam computed tomography (CBCT) is widely regarded as the gold
+standard for maxillofacial imaging due to its ability to provide
+accurate three-dimensional representations of anatomical structures. This technology enables more
+precise visualization of the mandibular canal (MC) compared to two-dimensional
+radiographic methods. De Oliveira-Santos et al. reported that, among cases
+where the MC was not detectable on two-dimensional radiographs, 41%
+became visible when assessed using CBCT [29].

@@ -1,0 +1,4 @@
+Low temperatures increase the persistence of viable viruses on inanimate
+surfaces, as observed on stainless steel in this study (black
+line), whereas high temperatures decrease the persistence of coronaviruses (yellow
+line).

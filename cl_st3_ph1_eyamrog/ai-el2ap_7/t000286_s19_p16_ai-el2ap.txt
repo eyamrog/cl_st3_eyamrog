@@ -1,0 +1,8 @@
+The results indicate that exchange rate (EXC) does not Granger-cause
+foreign direct investment (FDI), as the null hypothesis is accepted
+at the 5% significance level, with a probability value of
+0.6838. Conversely, FDI is found to Granger-cause EXC, as the
+alternative hypothesis is accepted at the 5% significance level, supported
+by a probability value of 0.0233 and an F-statistic of
+4.66525. These findings suggest a unidirectional causality from FDI to
+EXC.

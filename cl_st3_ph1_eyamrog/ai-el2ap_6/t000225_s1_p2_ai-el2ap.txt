@@ -1,0 +1,3 @@
+Methodology: We conducted a time series analysis of COVID-19 mortality
+data, referencing each case to the actual date of death
+rather than the date on which test results were received.

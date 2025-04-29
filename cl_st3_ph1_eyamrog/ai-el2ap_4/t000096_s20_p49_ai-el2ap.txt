@@ -1,0 +1,12 @@
+This study distinguishes the specific characteristics of traditional learning assessment
+from those of electronic assessment (e-assessment), highlighting differences in administration,
+feedback mechanisms, and accessibility. Traditional assessment typically involves paper-based tests
+conducted in controlled environments, with feedback often provided after a
+delay. In contrast, e-assessment utilizes digital platforms, enabling immediate feedback,
+flexible scheduling, and the integration of multimedia resources. To enhance
+the design and implementation of e-assessment, this study proposes strategies
+such as aligning assessment tasks with learning objectives, ensuring accessibility
+for diverse learners, and incorporating automated grading tools. Additionally, the
+use of secure online platforms, question banks, and analytics for
+monitoring student performance are recommended as effective resources to support
+robust and equitable e-assessment practices.

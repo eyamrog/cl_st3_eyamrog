@@ -1,0 +1,8 @@
+As the specification that considers the quadratic form of distancing
+is not very explanatory and generally does not present statistical
+significance for the coefficients that capture such effect, the models
+estimated by SLX will not be demonstrated in this specification.
+The results derived from the SLX estimator show the signs
+of the overall effects following the theory and are statically
+significant. Moran's I tests do not reject the null hypothesis
+of spatial randomness (Table 6, columns 17-22).

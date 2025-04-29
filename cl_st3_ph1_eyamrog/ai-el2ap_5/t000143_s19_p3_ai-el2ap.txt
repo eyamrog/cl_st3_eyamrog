@@ -1,0 +1,9 @@
+Moran's Local Statistics I (Fig. 3) is a critical component
+of the analysis, as it quantifies the statistical significance of
+spatial groupings. Based on the Local Indicators of Spatial Association
+(LISA), the municipalities of Santa Rosa de Lima and Aquidabã
+exhibit the highest femicide rates. The analysis identified statistically significant
+LISA clusters within the study area. The significance of this
+indicator during the period under review suggests the presence of
+positive spatial autocorrelation in femicide rates among municipalities in the
+State of Sergipe.

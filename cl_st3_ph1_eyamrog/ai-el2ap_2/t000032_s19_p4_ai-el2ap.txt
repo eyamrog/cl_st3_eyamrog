@@ -1,0 +1,23 @@
+Statistical analysis comparing presence values between Events and the different
+Series identified temporal patterns of change as a function of
+both Event and Series for Factors III (Hope) and XI
+(Receptivity). Specifically, a significant interaction was observed between Event and
+Series, indicating that the presence values of the PMSL Factors
+varied according to both the type of Event and the
+Series to which they belonged (Figure 3). For Factor III
+(Hope), presence values in the TR-PRE phase of Series 1
+were significantly higher than those in Series 2 (p=0.001) and
+Series 3 (p=0.000), and TR-PRE values in Series 2 were
+higher than those in Series 3 (p=0.001), demonstrating a progressive
+decline of Factor III (Hope) across the Series. Additionally, Factor
+III (Hope) presence values in Series 1 MATCH were higher
+than those in Series 2 (p=0.001) and Series 3 MATCHES
+(p=0.039), confirming the same declining trend throughout the competition Series.
+Factor XI (Receptivity) exhibited a similar pattern, with TR-PRE presence
+values in Series 1 exceeding those in Series 2 (p=0.001)
+and Series 3 (p=0.000), and higher presence values in Series
+1 MATCHES compared to Series 2 (p=0.005), as well as
+in Series 2 MATCHES compared to Series 3 (p=0.028). In
+contrast, Factor VII (Interest) demonstrated statistically significant differences based on
+Event and Series independently, but no significant interaction between these
+variables was detected.

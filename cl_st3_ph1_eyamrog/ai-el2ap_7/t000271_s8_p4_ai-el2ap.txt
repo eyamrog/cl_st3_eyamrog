@@ -1,0 +1,13 @@
+Quantitative reverse transcriptase polymerase chain reaction (qRT-PCR) is considered the
+gold standard for virus detection and COVID-19 confirmation [9]. However,
+several studies have reported a high prevalence of false-negative results,
+which may be attributed to factors such as the type
+of biological sample, inadequate sample collection, fluctuations in viral load,
+and the interval between sample collection and symptom onset [10].
+Therefore, the use of serological tests to detect acute-phase antibodies
+(IgM) or memory antibodies (IgG) is also important. Given the
+need for rapid results, it is crucial to employ diagnostic
+tests that are simple, sensitive, and specific, providing immediate and
+accurate identification of individuals infected with SARS-CoV-2 to support effective
+control of viral transmission and enable timely public health interventions
+[11].

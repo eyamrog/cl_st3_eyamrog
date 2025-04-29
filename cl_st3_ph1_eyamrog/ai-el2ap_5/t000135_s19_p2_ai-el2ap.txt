@@ -1,0 +1,9 @@
+Table 2 presents the incidence rate ratios (IRRs) for the
+monthly procedures analyzed, stratified by pandemic period and compared to
+the corresponding months in 2018 and 2019. A statistically significant
+reduction in the overall procedure rate was observed in February
+(IRR = 0.60, 95% CI [0.55–0.64]), with a further decrease
+in March (IRR = 0.48, 95% CI [0.45–0.52]) and an
+even more pronounced reduction in April (IRR = 0.27, 95%
+CI [0.25–0.29]); this decrease remained significant throughout the entire assessment
+period.

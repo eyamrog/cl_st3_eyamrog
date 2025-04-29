@@ -1,0 +1,8 @@
+This indicates that the analysis of human psychophysiology can proceed
+along two primary directions: organic psychophysiology, which seeks to explain
+brain functioning, and activity psychophysiology, which focuses on describing and
+explaining the mental processes underlying human actions. Both approaches are
+encompassed within cognitive neuroscience, a field dedicated to the scientific
+investigation of the biological mechanisms underlying cognition, with particular emphasis
+on the neural substrates of mental processes and their behavioral
+manifestations.

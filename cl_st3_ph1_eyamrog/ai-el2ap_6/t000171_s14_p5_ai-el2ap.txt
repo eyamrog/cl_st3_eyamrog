@@ -1,0 +1,4 @@
+The quartiles of the two distributions were analyzed based on
+the macro-regions included in their composition. Subsequently, the number of
+tests, both rapid and molecular, was extracted for each health
+macro-region.

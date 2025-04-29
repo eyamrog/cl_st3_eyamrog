@@ -1,0 +1,10 @@
+Azathioprine is a treatment frequently used for NMOSD in Brazil.
+Evidence from studies of other autoimmune diseases indicates that azathioprine-associated
+myelosuppression occurs more frequently within the first year of therapy,
+with a mean onset time of approximately 8 months. Based
+on this information, it is advisable to consider extending the
+interval between hematological monitoring for patients who have been on
+stable azathioprine therapy for more than one year, in order
+to minimize the risk of coronavirus exposure. For these patients,
+routine laboratory testing every six months during the pandemic is
+recommended.

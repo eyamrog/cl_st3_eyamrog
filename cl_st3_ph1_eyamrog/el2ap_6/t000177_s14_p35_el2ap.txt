@@ -1,0 +1,6 @@
+Casanova et al. [25] studied the effects of air temperature
+and humidity on two surrogates of SARS- CoV, namely transmissible
+gastroenteritis virus (TGEV) and mouse hepatitis virus (MHV). These viruses
+could serve as conservative substitutes of SARS-CoV and other coronaviruses
+for modeling exposure, risk of transmission and control measures for
+human pathogenic viruses in health care surfaces .

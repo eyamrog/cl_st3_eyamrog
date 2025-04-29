@@ -1,0 +1,8 @@
+A scoping review was conducted following the JBI® methodology, which
+is designed to map key concepts, clarify definitions, delineate the
+boundaries of a subject, summarize existing information, and identify gaps
+in research and clinical practice (Peters et al., 2020). In
+contrast to a systematic review, which primarily evaluates the effectiveness
+of interventions, a scoping review aims to comprehensively identify and
+synthesize all available literature on a given topic without applying
+strict methodological limitations.

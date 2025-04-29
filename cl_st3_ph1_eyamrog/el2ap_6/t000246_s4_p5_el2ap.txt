@@ -1,0 +1,8 @@
+Because Lotka's Law provides a platform to measure the productivity
+patterns of authors over a given period, it is known
+that each area of a discipline can be associated with
+an exponent, representing its specific rate of productivity of the
+author. This is not enough to explain why one individual
+should be more productive in producing dozens of published articles
+on a subject, another individual produces few works and a
+third individual produces none.

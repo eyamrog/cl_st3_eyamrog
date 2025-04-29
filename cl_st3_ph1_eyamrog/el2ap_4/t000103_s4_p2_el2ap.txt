@@ -1,0 +1,5 @@
+A total of 181 people answered an online survey and
+selected the antecedent of the anaphor for 16 ambiguous sentences.
+We tested the Position of Antecedent Strategy (PAS) for the
+three languages and compared the influence of semantics and syntax
+on the resolution of ambiguous anaphora.

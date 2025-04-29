@@ -1,0 +1,4 @@
+The results of the causality analysis indicate that there is
+no bidirectional causality among the variables examined. However, unidirectional causality
+was identified from foreign direct investment to exchange rate, as
+well as from exchange rate to government deficit.

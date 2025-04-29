@@ -1,0 +1,10 @@
+To calculate the average for each Dimension, the mean value
+is first determined for each Dimension within the “U-Multirank” dataset.
+The distribution of these averages is then analyzed. Figure 4
+provides an initial overview of this distribution. The horizontal axis
+represents the average of all Dimensions for each institution, while
+the vertical axis displays the average scores for Teaching and
+Learning (blue diamonds), Research (red squares), Knowledge Transfer (green triangles),
+International Orientation (purple circles), and Regional Engagement (blue X). The
+analysis includes data from 1,070 European academic institutions listed in
+the 2020 edition of “U-Multirank.”

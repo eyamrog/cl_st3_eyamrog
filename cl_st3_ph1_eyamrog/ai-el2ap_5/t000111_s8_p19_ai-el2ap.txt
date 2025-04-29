@@ -1,0 +1,5 @@
+A careful analysis of (15) and (16) suggests that they
+represent distinct syntactic structures, as evidenced by their differing syntactic
+behaviors. For instance, the anchor element can be elided in
+(15) but not in (16), as demonstrated by the examples
+in (17) and (18) below.

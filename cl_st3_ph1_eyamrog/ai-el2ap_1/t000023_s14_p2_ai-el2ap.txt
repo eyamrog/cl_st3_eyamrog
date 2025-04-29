@@ -1,0 +1,10 @@
+Environmental conditions were characterized based on ecosystem type (rivers, lagoons,
+and lakes), trophic state index (TSI), and pH, following the
+methodological specifications outlined in Zorzal-Almeida et al. (2021). pH values
+were classified as acidic (< 6.5), alkaline (> 7.5), or
+circumneutral (6.5–7.5), according to Šťastný (2010). The occurrence frequency of
+each taxon was determined as described by Zorzal-Almeida et al.
+(2021). Taxa representing first records for Espírito Santo State are
+indicated with [*], while those representing first records for Brazil
+are indicated with [**]. All samples analyzed in this study
+are deposited in the Herbarium VIES/UFES.

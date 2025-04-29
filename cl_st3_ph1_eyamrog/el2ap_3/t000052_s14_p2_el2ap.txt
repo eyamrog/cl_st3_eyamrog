@@ -1,0 +1,25 @@
+Fish DNA isolation was carried out according to the protocol
+of Aljanabi & Martinez (1997): approximately 50 μg of pectoral
+fin fragment was sheared into small pieces before being digested
+at 55 °C overnight with 20 μl of proteinase K
+(20 mg/ml) in 180 μl of extraction buffer solution (1M
+Tris, 0.5M Na Cl2, 1 % SDS). The extracted DNA
+was suspended in 150 μl sterile double distilled water and
+stored at −20 °C until amplified by PCR (Louizi et
+al., 2019). The partial mitochondrial Cytochrome Oxidase (COI) gene was
+amplified using FishF1/F2 and FishR1 universal primers (Ward et al.
+2005). Each amplification was performed in a volume of 50
+μl containing 0.25 mM of MgCl 2, 0.2 mM of
+each dNTP, 1 mM of each primer, 5 μl buffer
+(10×) and 10 units of Taq polymerase. The replication cycle
+was as follows: 94 °C (3 min), 48 °C (30
+s), 72 °C (5 min) for 30 cycles with a
+final step at 72 °C for 10 min (Louizi et
+al., 2019). The sequencing step was performed at the genotyping-sequencing
+platform of the “Institut des Sciences de l'Evolution of Montpellier”
+(ISE-M) in France. The sequences are obtained with a Genomix
+sequencer (MGX), following the manufacturing recommendations and, using the same
+forward and reverse primers as for PCR. Cleaning and alignment
+of the sequences was done with MEGA X software (Kumar
+et al., 2018). Vouchers (Fig. 2) were kept in the
+collection of CRH-Uvira (DRC).

@@ -1,0 +1,20 @@
+Lianas are woody climbers whose stems and leaves are subject
+to various environmental pressures, including mechanical damage and dehydration. The
+resistance of plant tissues to damage can be biomechanically assessed
+through measurements of stiffness, bending, and toughness. Although the relationship
+between physical resistance and tissue moisture content is well established
+in woody plants, it remains unclear and has not been
+systematically investigated in lianas. In this study, the effects of
+dehydration on stem bending stiffness and leaf fracture toughness were
+experimentally evaluated in Amphilophium crucigerum (Bignoniaceae). Ten stem and leaf
+samples were collected and assigned to two conditions: (i) samples
+maintained in a moist state and (ii) samples subjected to
+gradual dehydration through air exposure. Structural Young’s modulus in stems
+and fracture toughness in leaves were measured at 4-hour intervals
+over a 48-hour period for both conditions. Results indicated that
+samples undergoing gradual dehydration exhibited increased stem bending stiffness and
+leaf fracture toughness, whereas samples kept moist showed no significant
+changes in these biomechanical properties throughout the experiment. These findings
+demonstrate that tissue moisture content is a critical factor influencing
+the biomechanical properties of liana stems and leaves, and should
+be carefully considered in related assessments.

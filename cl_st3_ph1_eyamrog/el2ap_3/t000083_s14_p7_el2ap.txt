@@ -1,0 +1,13 @@
+The SBS is an instrument developed by Indian researchers (Balakrishnan
+and Griffiths, 2017) to assess behaviors related to taking selfies,
+called selfitis. In the original study developed by Balakrishnan and
+Griffiths (2017) conducted with 225 Indian university students (average age
+20 years), an exploratory factor analysis was applied and six
+factors were identified: environmental enhancement, social competition, attention seeking, mood
+modification, self-confidence, subjective conformity. The SBS comprises 20 items that
+are rated using a five-point Likert scale (1 = strongly
+disagree and 5 = strongly agree), where higher scores indicate
+higher levels of selfie-taking behavior. Scores ranging from 20-40 indicates
+low selfitis behavior, 41 to 60 indicates mild selfitis behavior,
+61 to 80 indicates moderate selfitis behavior and 81 to
+100 indicates severe level on selfitis behavior.

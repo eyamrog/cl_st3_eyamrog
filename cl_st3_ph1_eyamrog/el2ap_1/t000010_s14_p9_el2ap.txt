@@ -1,0 +1,10 @@
+First, the Chi-square test was used to determine the parity
+criteria between some demographic variables of the study, such as
+sex. The t-test (mean comparison test for independent samples) was
+used to compare the mean of the study groups in
+the different neuropsychological variables and intelligence. The calculation of the
+magnitude of the effect size was applied in order to
+identify the size of the differences in the variables studied.
+For this purpose, Cohen's d was used, where values of
+0.2, 0.5 and 0.8 represent small, medium and large effect
+sizes, respectively.

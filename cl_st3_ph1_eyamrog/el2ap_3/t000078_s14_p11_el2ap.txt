@@ -1,0 +1,7 @@
+As a starting point for the estimation of the Hedonic
+Price Model, it is considered that the OLS estimation, used
+in Equation 1, contains the following restrictions for the spatial
+parameters 𝜌= 𝜆= 𝜅𝑜= 𝜏𝑝= 0. This estimation allows for
+evaluating if control variables can solve the possible spatial dependence
+pointed out in the literature, permitting to assess if the
+price gradient decreases due to the distance from the CBD.

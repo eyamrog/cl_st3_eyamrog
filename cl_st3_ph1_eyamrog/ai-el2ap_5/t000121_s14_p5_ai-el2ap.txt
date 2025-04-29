@@ -1,0 +1,19 @@
+To assess the presence of anxiety and/or depression symptoms, we
+utilized the Portuguese version of the 4-item Patient Health Questionnaire
+(PHQ-4), developed by Kroenke, Spitzer, Williams, and Löwe (2009). In
+its initial validation, the PHQ-4 demonstrated good internal consistency (α
+= 0.75). This ultra-short screening instrument evaluates the frequency of
+anxiety and depression symptoms experienced over the previous two weeks,
+with responses recorded on a 4-point Likert scale ranging from
+“never” (1) to “almost every day” (4). The total score
+is calculated by summing the responses to the two anxiety-related
+items (“feeling nervous, anxious or very tense” and “not being
+able to prevent or control worries”) and the two depression-related
+items (“feeling down, depressed, or without perspective” and “little interest
+or little pleasure in doing things”). A score of three
+or higher on either subscale indicates significant symptoms of anxiety
+and/or depression. In the present study, a cutoff score of
+three was applied to identify participants with significant symptomatology, as
+the primary objective was to screen for notable symptoms of
+anxiety or depressive disorders. The PHQ-4 demonstrated satisfactory reliability in
+this sample (α = 0.84).

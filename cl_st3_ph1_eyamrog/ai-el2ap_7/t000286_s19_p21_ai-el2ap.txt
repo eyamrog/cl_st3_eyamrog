@@ -1,0 +1,8 @@
+The results indicate that EXC does not Granger-cause INF, as
+the null hypothesis is accepted at the 5% significance level,
+with a probability value of 0.0635. Similarly, INF does not
+Granger-cause EXC, as evidenced by the acceptance of the null
+hypothesis at the 5% significance level, with a probability value
+of 0.4724 and an F-statistic of 0.781. These findings suggest
+that there is no evidence of causality in either direction
+between EXC and INF within the context of this analysis.

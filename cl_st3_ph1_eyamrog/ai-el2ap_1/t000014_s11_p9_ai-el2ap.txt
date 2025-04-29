@@ -1,0 +1,5 @@
+Archiving language documentation materials offers several benefits for researchers involved
+in documentation projects. These benefits include facilitating format migration, improving
+personal organization, enhancing accessibility and discoverability, enabling graded access and
+rights management, supporting collaboration, ensuring citability, and promoting long-term digital
+preservation.

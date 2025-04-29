@@ -1,0 +1,15 @@
+Our simulations characterize the temporal evolution of the mean trait
+Z (Figure 1a). The model parameters and their descriptions are
+provided in Table 1. Each simulation was run for a
+maximum of 1000 timesteps, a duration sufficient to allow trait
+values to approach their asymptotic states. In most cases, equilibrium
+was attained before reaching 1000 timesteps. To optimize computational efficiency,
+we defined equilibrium as the point at which |Zi(t+1) -
+Zi(t)| < 10^-4 for every species i, at which time
+the simulation was terminated. A total of 72,000 simulations were
+conducted, with 3,000 simulations per empirical network; each simulation tracked
+the temporal dynamics of species traits under the influence of
+coevolution and environmental selective pressures (Figure 1a). All simulations were
+performed using R version 3.5.3 (R Core Team 2018). In
+the following sections, we describe how this modeling framework was
+applied to address each of our three research questions.

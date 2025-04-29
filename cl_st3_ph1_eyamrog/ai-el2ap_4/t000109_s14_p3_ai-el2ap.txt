@@ -1,0 +1,8 @@
+The Interpersonal Contact submodel (Section 4.1) represents the primary relationships
+between human agents relevant to COVID-19 epidemiology. This submodel also
+characterizes interactions among human agents, as well as their interactions
+with plots of land and the environment. These relationships are
+influenced by factors such as the average distance maintained in
+various locations, the duration of time spent in these locations,
+and adherence to mask usage and social distancing protocols (Sections
+4.1 and 4.2).

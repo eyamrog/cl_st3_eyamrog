@@ -1,0 +1,23 @@
+Demographic data were collected, including sex (male or female), age
+(in 10-year age bands), ethnicity (asian, black, caucasian, mixed, other),
+marital status (single, separated/divorced, widowed or married/in a domestic partnership),
+employment (Unemployed, Student, Military, Self-employed or Retired), and household income
+(i.e., <R$1254, R$1255-R$2004, R$2005-R$8640, R$8641-R$11261, >R$11262), and Brazilian state they
+lived in. Participants were asked whether they are in self-isolation
+and to report the number of days in self-isolation. Substance
+consumption, such as current smoking status (yes or no), and
+current alcohol consumption (yes or no) were evaluated. Self-reported previous
+diagnosis of chronic physical conditions (e.g.: obesity, hypertension, myocardial infarction,
+angina pectoris and other coronary diseases, other cardiac diseases, varicose
+veins of lower extremities, osteoarthritis, chronic neck pain, chronic low
+back pain, chronic allergy [excluding allergic asthma], asthma [including allergic
+asthma], chronic bronchitis, emphysema or chronic obstructive pulmonary disease [COPD],
+type 1 diabetes, type 2 diabetes, diabetic retinopathy, cataract, peptic
+ulcer disease, urinary incontinence or urine control problems, hypercholesterolaemia, chronic
+skin disease, chronic constipation, liver cirrhosis and other hepatic disorders,
+stroke, chronic migraine and other frequent chronic headaches, haemorrhoids, cancer,
+osteoporosis, thyroid disease, renal disease, and injuries), as well as,
+previous diagnosis of psychiatric conditions (e.g.: depression, anxiety, bipolar disorder,
+schizophrenia or others) were also evaluated through self-reported questions. For
+these questions, a list with all the above-mentioned conditions was
+shown.

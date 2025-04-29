@@ -1,0 +1,8 @@
+To evaluate the model against behavioral patterns observed in Argentine
+cities, a simulation was conducted using empirical data from the
+district of Loncopué, Neuquén province. This implementation incorporated both local
+behavioral characteristics and a phase change in PMSI. The reported
+daily case data for Loncopué were found to be consistent
+with the model outputs, supporting the use of these data
+as an indicator of AbCSim validity. The corresponding values are
+presented in Table 1.

@@ -1,0 +1,8 @@
+The results indicate that EXC does not Granger-cause INT, as
+the null hypothesis is accepted at the 5% significance level,
+supported by a high probability value of 0.9582. Additionally, the
+analysis shows that EXC does not Granger-cause INT in another
+test, with the null hypothesis accepted at the 5% significance
+level, as indicated by a probability value of 0.2365 and
+an F-statistic of 1.5637. These findings collectively suggest that there
+is no evidence of causality from EXC to INT.

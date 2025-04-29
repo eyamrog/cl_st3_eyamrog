@@ -1,0 +1,5 @@
+Only information on dry preserved male and female culicids, mounted
+with entomological pins was used for the DataSet. Data on
+each individual were tabulated on a spreadsheet using Microsoft Office®
+v. 2016 (Microsoft Corporation, Redmond, WA, USA) and later transferred
+to a Darwin Core spreadsheet. [49].

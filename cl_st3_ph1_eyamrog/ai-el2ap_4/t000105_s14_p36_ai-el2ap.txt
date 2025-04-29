@@ -1,0 +1,6 @@
+According to the manufacturer's validation data, the One Step COVID-2019
+Test (Wondfo®) demonstrated a sensitivity of 86.43% (95% CI: 82.58%–89.58%)
+and a specificity of 99.57% (95% CI: 97.92%–99.92%). Negative results
+do not definitively exclude SARS-CoV-2 infection, and positive results should
+not be interpreted as conclusive evidence of current infection. Rather,
+these results indicate prior exposure to the infectious agent [19].

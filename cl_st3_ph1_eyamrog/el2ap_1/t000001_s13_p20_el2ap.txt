@@ -1,0 +1,10 @@
+Some bacterial taxa have undergone proliferation of insertion sequence elements
+in their evolution, resulting in genomes with hundreds of 1–2
+kbp repeats37,38. Perfect assembly of such genomes can be challenging
+because short-read polishers struggle to repair errors in high-copy-number repeats
+(Figure 2B). For this reason, it is crucial to maximise
+ONT-only accuracy (using high ONT depth, R10.4.1 pores, ‘super’ basecalling
+and Medaka polishing) to minimise the number of errors left
+for short-read polishing to fix. Additionally, mate-pair Illumina sequencing may
+enable Polypolish to fix errors within repeat sequences by reducing
+the number of ambiguous short-read alignments39.

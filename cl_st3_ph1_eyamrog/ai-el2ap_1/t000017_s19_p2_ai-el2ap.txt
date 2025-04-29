@@ -1,0 +1,6 @@
+Multivariate normality was assessed by estimating skewness and kurtosis indices;
+the assumption of normality was considered satisfied when the values
+of these indices fell within the threshold of ±1.5 (Cuadras,
+2016) (see Table 4). Additionally, the Kaiser-Meyer-Olkin (KMO) test yielded
+a value of 0.81, indicating that the data were suitable
+for factor analysis.

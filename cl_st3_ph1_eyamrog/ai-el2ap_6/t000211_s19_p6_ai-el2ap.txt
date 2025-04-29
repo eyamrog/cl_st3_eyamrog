@@ -1,0 +1,5 @@
+For patients with suspected deep vein thrombosis (DVT), the Michigan
+Medicine team recommends utilizing the Wells score, despite acknowledging its
+limitations within the hospital setting. Furthermore, the effectiveness of the
+Wells score in the context of pandemic-related pneumonia has not
+yet been validated in large-scale studies.

@@ -1,0 +1,23 @@
+In plants, stem and leaf samples consist of complex tissues
+associated with distinct functions (Niklas et al. 2006; Vincent 1992;
+Wegst & Ashby 2004). For instance, fibers and sclerenchyma contribute
+to mechanical support, whereas parenchyma primarily serves a storage function
+but also directly affects the flexibility of woody stems by
+increasing it (Niklas 1992; Speck & Rowe 1999; Ménard et
+al. 2009; Gerolamo et al. 2020). The specific combinations and
+arrangements of tissue and cell types in stems, roots, and
+leaves result in a range of mechanical properties that correspond
+to the types of mechanical stresses experienced by each plant
+organ (Niklas 1992). The water content within these complex tissues
+is also a significant factor influencing their mechanical properties (Niklas
+1992; Vincent 1990a). Generally, dehydration of biological materials induces structural
+changes in tissues and organs, thereby altering their mechanical properties
+(Caliaro et al. 2013; Niklas 1992; Niklas et al. 2006;
+Vincent 1990b). For example, grass leaves exhibit a gradual increase
+in stiffness and toughness as water content decreases (Vincent 1983).
+Similarly, in the stems of self-supporting species, bending stiffness increases
+as wood tissue moisture content declines, and dry branches become
+more brittle and susceptible to fracture compared to hydrated branches
+(Niklas 1992). More recent experimental evidence indicates that the petioles
+of Caladium bicolor lose bending stiffness under increased water deficit,
+resulting in wilting (Caliaro et al. 2013).

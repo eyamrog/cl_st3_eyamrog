@@ -1,0 +1,17 @@
+The definition of SBD candidate areas is based on the
+ESDA technique, consisting of the first stage estimation strategy. From
+this approach, it is possible to obtain measures of global
+and local spatial autocorrelation. While the Global Moran’s I statistic
+allows us to test the spatial association pattern of jobs
+(by weighting area) for the whole sample, the Local Moran’s
+I makes it possible to decompose the spatial association regime.
+The decomposition associate clusters of type HH (high-high), HL (low-low),
+LH (low-high) and LL (low-low). This is possible because, for
+each observation of the sample, a specific Moran’s I is
+computed, that is, 𝐼𝑖 (where 𝑖 is the evaluated region
+and 𝑖= 1, … , 𝐼) (Anselin, 1995). Algebraically, <>,
+where 𝑧𝑖 is the employment deviation by Census tract 𝑖;
+𝑊𝑧𝑖 is the average value of employment level deviations in
+the neighboring tract zones of 𝑖 and 𝜎2 is the
+variance of the value deviation. For inference, the method uses
+random permutation.

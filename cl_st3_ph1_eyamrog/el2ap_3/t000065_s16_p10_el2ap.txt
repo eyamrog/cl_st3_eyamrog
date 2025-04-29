@@ -1,0 +1,9 @@
+From the first semester of 2016 on, the number of
+collected samples was quite higher than in the previous year,
+a situation that remains. The reason that 2015 had the
+smallest number of samples is due to the compilation process,
+which were through mock tests, as previously mentioned. Not all
+students produced the task, many did not give consent to
+have their texts included in the corpus and some texts
+did not achieve the minimum words. Therefore, fewer texts remained
+to be part of the corpus.

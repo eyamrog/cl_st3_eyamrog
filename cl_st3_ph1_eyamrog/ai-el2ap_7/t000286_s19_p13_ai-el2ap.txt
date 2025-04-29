@@ -1,0 +1,8 @@
+The results indicate that GD does not Granger-cause FDI, as
+the null hypothesis is accepted at the 5% significance level,
+with a probability value of 0.0934. Similarly, FDI does not
+Granger-cause GD, as the null hypothesis is also accepted at
+the 5% significance level, with a probability value of 0.3396,
+which is further supported by the F-statistic value of 1.1474.
+These findings suggest that there is no evidence of causality
+between GD and FDI in either direction.

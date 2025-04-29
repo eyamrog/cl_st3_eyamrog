@@ -1,0 +1,4 @@
+Participants exhibiting both depressive symptoms (Beck Depression Inventory score >9)
+and anxiety symptoms (Beck Anxiety Inventory score >7) were classified
+as having co-occurring depressive and anxiety (D&A) symptoms. The presence
+of co-occurring D&A symptoms was analyzed as a dichotomous variable.

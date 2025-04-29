@@ -1,0 +1,6 @@
+Associations between variations in leptospirosis rates and seasonal periods were
+graphically examined by stratifying the data according to the eight
+regions with the highest and lowest leptospirosis rates, as well
+as those with the lowest and highest ratios of cases
+to rainfall. This approach aimed to identify potential cumulative effects
+of rainfall on the incidence of the disease.

@@ -1,0 +1,9 @@
+This step aims to fix as many remaining errors as
+possible using only long reads. We recommend using Medaka24, which
+we have found to produce more accurate results than Nanopolish25,26.
+Medaka uses a neural network and comes with trained models
+that correspond to specific combinations of ONT chemistry and basecaller,
+so one should choose the Medaka model which most closely
+matches their ONT reads. Alternatively, long-read variant callers such as
+Clair327 can be used as polishers by applying the called
+variants to the assembly.

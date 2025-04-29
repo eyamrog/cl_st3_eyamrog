@@ -1,0 +1,12 @@
+Due to its conservativeness, Polypolish may miss errors that other
+short-read polishers can fix, e.g. in regions of low Illumina
+depth. However, other polishers can introduce new errors30, which is
+unacceptable when aiming for perfection. We therefore recommend trying other
+short-read polishers but manually assessing any and all changes using
+a tool such as IGV31. Viewing the read alignments at
+a particular locus before/after polishing can clarify whether the change
+fixed an error (in which case it should be retained)
+or introduced an error (in which case it should be
+rejected)32. Polishers to try include POLCA33 (due to its low
+rate of introduced errors) and FMLRC234 (due to its ability
+to fix errors other polishers cannot).

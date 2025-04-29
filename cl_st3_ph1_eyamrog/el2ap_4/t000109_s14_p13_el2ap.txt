@@ -1,0 +1,5 @@
+As mentioned in the previous section, each Ha has specific
+epidemiological values that affect the Infectivity submodel parameters shown in
+Table 1. Among these attributes, we can highlight: the existence
+of comorbidities or risk factors and the existence of symptomatic
+infected household members.

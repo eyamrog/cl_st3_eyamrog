@@ -1,0 +1,11 @@
+The Directory of Open Access Journals (DOAJ) is an independent
+organization supported by libraries, publishers, and other stakeholders, which evaluates
+and includes journals based on a comprehensive assessment of their
+compliance with established scholarly standards. The Directory of Open Access
+Scholarly Resources is managed by the International Center for the
+Registration of Serial Publications, which oversees ISSN (International Standard Serial
+Number) registration and incorporates data from various sources, including DOAJ,
+Latindex, and Scopus. This integration of multiple data sources results
+in a higher number of journals indexed by the Directory
+of Open Access Scholarly Resources and, consequently, a greater number
+of JUOJS entries.

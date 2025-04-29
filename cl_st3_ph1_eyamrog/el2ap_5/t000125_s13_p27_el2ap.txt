@@ -1,0 +1,8 @@
+There are many options to solve this problem. In the
+present paper we use a different form to classify the
+Universities as a whole. We make first the averages of
+Indicators inside each Dimension, and then we calculate a global
+average using the values coming from each Dimension. It gives
+equal weight for each Dimension, independent of the number of
+Indicators, and do not give almost the same importance to
+grades B or E, as done by the “U-Multirank”.

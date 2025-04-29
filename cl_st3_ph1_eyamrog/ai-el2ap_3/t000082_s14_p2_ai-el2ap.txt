@@ -1,0 +1,12 @@
+The mutualism component, Smi, is defined as the sum of
+the selective effects exerted by all mutualistic partners of species
+i. It is assumed that selection resulting from mutualistic interactions
+promotes trait matching among mutualistic partners. Perfect trait matching between
+partners i and j is considered to occur when |Zj(t)
+- Zi(t)| = 0, as described by Guimarães et al.
+(2011). Since a given species may interact with multiple mutualistic
+partners, and each partner may contribute unequally to the selection
+process, the contribution of partner j to selection on species
+i is represented by mij(t). The total contribution of all
+mutualistic partners to selection on Zi is therefore defined as:
+<>

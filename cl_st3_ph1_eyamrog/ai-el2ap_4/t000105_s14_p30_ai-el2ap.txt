@@ -1,0 +1,8 @@
+The questions regarding personal information were designed to collect data
+necessary for the registration and reporting of serological test results
+to the Ministry of Health via the electronic epidemiological surveillance
+system for notifications to the Unified Health System (e-SUS VE),
+thereby supporting the monitoring and analysis of the COVID-19 epidemiological
+situation in the municipalities. The remaining questions evaluated the living
+conditions of the population, enabling a situational analysis of health
+determinants.

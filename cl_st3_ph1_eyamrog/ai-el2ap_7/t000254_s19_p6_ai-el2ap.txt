@@ -1,0 +1,20 @@
+The maximum height recorded in the community was 18 m,
+observed in a specimen of Aspidosperma olivaceum Müll.Arg (Apocynaceae). The
+median diameter at breast height (dbh) for the shrub-tree synusia
+was 5 cm, with the largest dbh measured at 43.3
+cm in a specimen of Tapirira guianensis Aubl. (Anacardiaceae). For
+climbers, the median dbh was 4.6 cm, and the maximum
+recorded value was 22.3 cm. The distribution of dbh values
+for live plants in 2012 did not differ significantly from
+that in 2006 (Kolmogorov-Smirnov Test, n1 = 367, n2 =
+385, D = 0.05, p = 0.81; see Figure 2a).
+The mean relative diameter growth rate for plants in the
+shrub-tree synusia was 1.14% per year (median = 0.58% per
+year), with a minimum growth rate of zero and a
+maximum of 9.05% per year, the latter observed in a
+specimen of Cryptocarya mandioccana Meisn. (Lauraceae). The diameter growth rates
+of plants with 2.5 < dbh < 5 cm (median
+= 0.48% per year) did not differ significantly from those
+of plants with dbh > 5 cm (median = 0.7%
+per year; Mann-Whitney Test, n1 = 185, n2 = 166,
+z = 1.549, p = 0.12; see Figure 2b).

@@ -1,0 +1,6 @@
+The mapping presented in this paper will contribute to the
+ongoing research conducted by the MapTrad research group at the
+University of Brasilia. Existing mappings by this group include studies
+on game translation and localization (Barcelos & Malta, 2020), didactics
+of translation, translation studies focused on children and adolescents, Spanish-Portuguese
+translation, and black feminist translated literature.

@@ -1,0 +1,9 @@
+Microorganisms at a concentration of 1.5 × 10^8 CFU/mL, corresponding
+to McFarland standard 5, were cultured in brain heart infusion
+(BHI) broth at 37°C. Five 96-well microdilution plates (ALAMAR®, Diadema,
+São Paulo, Brazil) were used for the assays. For each
+microorganism, growth was assessed in triplicate at a concentration of
+100 mg/mL for both the extract and the decoction, as
+well as with a positive control consisting of 0.5% chlorhexidine
+alcoholic solution (CP) and a negative control of dimethyl sulfoxide
+(DMSO).

@@ -1,0 +1,7 @@
+After the interviews were finished, they were transcribed using ELAN,
+software for audio and video transcription. Data analysis was based
+on a six-step methodology for content analysis, proposed by Huckin
+(2004), in which, after defining the unities of analysis, data
+must be tabulated for interpretation. There were over eight hours
+of transcribed data; therefore, AntCon – software for text analysis
+– was used to optimize the work.

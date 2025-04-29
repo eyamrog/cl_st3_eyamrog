@@ -1,0 +1,16 @@
+One approach to estimating the size of a research audience
+that extends across national boundaries is to analyze citations originating
+from a specific country [24]. This method provides insight into
+the types of research being conducted in different geographical regions
+and is reflected in certain university ranking systems, such as
+the Leiden Ranking indicators [32]. Citations may be either positive
+or negative, as they can indicate support for or criticism
+of the statements and results of other authors [33]. Additionally,
+the generalization of a country's publication outcomes has been subject
+to critique [34]. International publications frequently serve as the focus
+of publicly funded research initiatives, such as those within the
+European Union [35]. Although citation impact can be assessed for
+international publications, it may similarly influence the country where the
+research is published. Furthermore, several studies have examined the number
+of publications in various languages across countries [36], providing insight
+into citation patterns in different linguistic contexts.

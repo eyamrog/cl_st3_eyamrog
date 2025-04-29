@@ -1,0 +1,8 @@
+Health Services Management Satisfaction Scale: This scale is designed to
+assess the effectiveness of the facility’s management team in operating
+and organizing the healthcare facility. The items included in this
+scale measure satisfaction with various aspects of management, including resource
+management (both economic and human), drug management, shift scheduling, and
+work capacity. In the ENSUSALUD survey, the items corresponding to
+this instrument are found in question 83, with codes ranging
+from c2p83_1 to c2p83_8 (see Supplement 1).

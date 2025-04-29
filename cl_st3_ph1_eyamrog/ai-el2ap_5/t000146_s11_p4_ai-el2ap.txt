@@ -1,0 +1,24 @@
+The data indicate that the predominance of English-language publications is
+specific to the Web of Science (WoS) database. Within WoS,
+Portuguese is the second most frequently used publication language, while
+Spanish, although less prevalent, still constitutes a significant proportion. In
+contrast, the distribution of publication languages in SciELO CI differs
+substantially, with Spanish accounting for approximately 40% of the papers
+and Portuguese being more prominent than English. Science is inherently
+a global enterprise, and scientific knowledge is intended to have
+worldwide relevance and accessibility. This global orientation has been described
+as the "Fourth Age of Research," characterized by a shift
+from individual, institutional, and national research efforts to international collaboration.
+International collaboration facilitates the resolution of global challenges and provides
+access to advanced infrastructure and funding opportunities. Furthermore, such collaboration
+is associated with increased research impact, as measured by citation
+metrics. Researcher mobility, as evidenced by bibliometric analyses, and the
+structure of international collaboration networks have been the focus of
+several studies, which also highlight the role of research funding
+in supporting these networks. Research conducted in one country or
+region can be highly relevant to other geographical areas, particularly
+in fields such as Public and Collective Health. While English
+serves as the lingua franca of science and enables communication
+with an international audience, it remains important to conduct and
+disseminate research in national languages to ensure its accessibility and
+impact within local communities.

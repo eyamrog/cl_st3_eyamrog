@@ -1,0 +1,17 @@
+The observed differences in the 30 key ACE2 binding sites
+involved in interactions with SARS-CoV-like viruses across various species and
+taxonomic groups are notable and may influence the ability of
+SARS-CoV-2 to bind to ACE2 in certain species. Recent predictions
+regarding the capacity of SARS-CoV-2 to infect 42 additional mammalian
+species were based on amino acid variations at positions 31,
+35, 38, 82, and 353 in ACE2 orthologues relative to
+human ACE2 (Luan et al., 2020). According to these findings,
+76% of the mammalian species examined, including domestic animals such
+as dogs (Canis lupus familiaris) and cats (Felis catus), as
+well as horses (Equus caballus), cattle (Bos taurus), and sheep
+(Ovis aries), may possess ACE2 receptors capable of binding the
+SARS-CoV-2 spike protein. The hypothesis that SARS-CoV-2 is a "generalist"
+coronavirus, with the potential to infect a broad range of
+mammalian species such as pigs, ferrets, cats, orangutans, and monkeys,
+has also been proposed by other researchers, despite the observed
+differences in their respective ACE2 orthologues (Wan et al., 2020).

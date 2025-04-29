@@ -1,0 +1,10 @@
+In order to find perceptive changepoints in this time-series, we
+searched for significant mean and variance changes over the data.
+This process can separate data in different segments in terms
+of means and variance alterations, a changepoint is the observation
+that separates different segments (Killick & Eckley 2014). This procedure
+allowed to identify critical changes in the Garças Reservoir trophic
+dynamics and was performed using the changepoint package (Killick &
+Eckley 2014) and the PELT algorithm (Hinkley 1970), which enables
+multiple changepoints detection. For this purpose, we used the R
+program (R Core Team 2019).

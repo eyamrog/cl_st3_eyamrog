@@ -1,0 +1,18 @@
+While archiving is essential for the long-term conservation, preservation, accessibility,
+and discoverability of language documentation data, not all data are
+equally suitable for archiving or for being archived in the
+same manner. Certain materials may be culturally or personally sensitive
+to the extent that they should not be archived at
+all. Other materials may require restricted access, as discussed in
+§2.3, limiting engagement to specific individuals. In some cases, such
+restrictions may apply differently to various formats of the same
+content, such as audio files, video files, or written transcriptions
+of a single event. Examples of potentially sensitive material include
+esoteric or protected knowledge that is not intended for dissemination
+to particular individuals or groups (e.g., community outsiders, members of
+other clans, or based on gender), speech that could cause
+personal harm, and information that may pose risks to individuals
+or communities. Effective language documentation and archiving require open and
+ongoing communication among documenters, speakers or signers, and other community
+members to ensure that the process is fully ethical and
+informed, as further discussed in §4.

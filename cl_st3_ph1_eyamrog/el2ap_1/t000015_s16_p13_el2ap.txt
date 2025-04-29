@@ -1,0 +1,12 @@
+To compare the JUOJS disciplinary breakdown to the profile found
+in Scopus (with an overlap of less than 4% between
+them; see below), one finds a mixed picture. On the
+one hand, Scopus has a higher proportion of titles in
+mathematics and medicine and health sciences, while the set of
+JUOJS have a higher proportion in education and language, communication
+and culture (Table 2). Yet in other disciplinary areas the
+journal coverage of disciplines is roughly comparable between the JUOJS
+and Scopus two sets, such as economics, engineering and computer
+science. One can imagine more advanced citational studies to determine
+the extent to which journals in these two sets draw
+on the other in their shared disciplinary interests.

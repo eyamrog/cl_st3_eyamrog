@@ -1,0 +1,3 @@
+We will include randomized controlled trials (RCT) and quasi-RCTs that
+evaluate single and/or combined pharmacological interventions at any dose for
+the treatment of COVID- 19.

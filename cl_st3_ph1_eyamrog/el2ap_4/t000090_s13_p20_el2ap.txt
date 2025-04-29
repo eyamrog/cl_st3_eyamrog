@@ -1,0 +1,8 @@
+Table 1 shows all the Indicators used by the “U-Multirank”,
+divided into the five Dimensions. It shows the description of
+each Indicator, the amount of data available, not available and
+data that “do not apply”, as well as the source
+of the data, divided into two categories: “IQ”, which means
+data obtained from questionnaires answered by the institutions; or “IND”,
+which represents data available from independent sources, like the Web
+of Science.

@@ -1,0 +1,12 @@
+Behavioral responses observed in arena 1 were compared using a
+one-tailed binomial test. For arenas 2 and 3, behavioral responses
+for each species were compared using a two-tailed binomial test.
+A chi-square test of independence was conducted to assess the
+relationship between Belminus species and orientation responses in arenas 2
+and 3. If the chi-square test indicated no significant dependence,
+Belminus species were grouped at the genus level for a
+two-tailed binomial test. If significant dependence was detected, multiple pairwise
+chi-square comparisons were performed among species, with post hoc Holm-Bonferroni
+correction applied (Ruxton and Beauchamp 2008). All statistical analyses were
+conducted using R (version 3.5.3, Vienna, Austria; Ihaka and Gentleman
+1996).

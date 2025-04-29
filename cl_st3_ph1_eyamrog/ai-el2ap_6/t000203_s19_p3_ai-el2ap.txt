@@ -1,0 +1,5 @@
+Table 2 presents the incidence, mortality, and lethality ratios for
+each pair of groups under comparison, along with the p-values
+obtained from hypothesis tests for differences between two proportions. The
+results indicate statistically significant differences between all pairs of groups
+analyzed.

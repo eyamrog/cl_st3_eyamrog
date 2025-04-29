@@ -1,0 +1,5 @@
+Initially, Portuguese native speakers completed 20 questions from the Cambridge
+or Cervantes reading proficiency tests, with items distributed across levels
+A2, B1, B2, and C1. Subsequently, participants were instructed to
+identify the subject in 20 sentences in each language, 16
+of which were ambiguous. Example (9) below illustrates the task:

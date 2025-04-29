@@ -1,0 +1,16 @@
+ONT library preparation methods, sequencing chemistry, and basecalling algorithms are
+also significant factors influencing sequencing outcomes. Both ligation-based and rapid
+library preparation protocols are suitable for bacterial whole-genome sequencing; however,
+ligation-based preparations typically yield higher sequencing output, whereas rapid preparations
+tend to produce longer reads. ONT currently provides MinION and
+GridION flow cells with two pore types: R9.4.1, introduced in
+2017, and R10.4.1, released in 2022. The R10.4.1 flow cells
+incorporate longer pores, which enhance homopolymer resolution and consensus sequence
+accuracy, making them preferable for genome assembly. Basecalling, which involves
+converting raw electrical signals from the sequencer into nucleotide sequences,
+is subject to ongoing improvements; therefore, it is recommended to
+use the latest version of ONT’s basecalling software with the
+highest-accuracy model available. If an ONT sequencer equipped with a
+GPU (such as a GridION) is not available, access to
+a separate computer with a GPU is necessary to perform
+basecalling efficiently.

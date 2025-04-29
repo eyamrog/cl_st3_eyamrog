@@ -1,0 +1,6 @@
+A careful corpus design enables generalizations of results, as statistical
+tests are often used to treat data. In this section,
+we will highlight some learner corpus research, focusing on their
+design characteristics and how they have coped with representativeness to
+be able to make comparisons across registers or groups, for
+instance.

@@ -1,0 +1,9 @@
+A three-phase investigation was conducted using various technological tools to
+collect data on contextual factors influencing the production and publication
+of research articles by Brazilian computer science experts, with the
+objective of designing an online Critical English for Academic Purposes
+(CEAP) course for graduate students. This paper aims to demonstrate
+the potential of information and communication technologies (ICT) to facilitate
+contextual target situation analysis remotely, thereby broadening the scope of
+the investigation and optimizing the use of time and resources
+in course development.

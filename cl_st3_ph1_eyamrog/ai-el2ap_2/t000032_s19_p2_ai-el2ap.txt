@@ -1,0 +1,16 @@
+A comparison of the presence values for each Factor within
+the same Series across different Events indicated significant changes in
+mood states over time (Figure 1). Temporal patterns were observed
+for Factors II (Fatigue), VII (Interest), and XII (Serenity). For
+Factor II (Fatigue), presence values were significantly higher at TR-PRE
+compared to MATCH (p=0.001), and MATCH values were significantly lower
+than TR-POST values (p=0.002). Regarding Factor VII (Interest), TR-PRE values
+were significantly higher than TR-POST values (p=0.008), and MATCH values
+were also significantly higher than TR-POST values (p=0.000). For Factor
+XII (Serenity), TR-PRE values were higher than TR-POST values in
+Series 1 (p=0.023) and Series 3 (p=0.023), but lower than
+TR-POST values in Series 2 (p=0.034). Overall, TR-PRE values were
+higher for Factor II (Fatigue) compared to MATCH values, while
+MATCH values were higher for Factors VII (Interest) and XII
+(Serenity) compared to TR-POST values; additionally, TR-POST values for Factor
+II (Fatigue) were higher than MATCH values.

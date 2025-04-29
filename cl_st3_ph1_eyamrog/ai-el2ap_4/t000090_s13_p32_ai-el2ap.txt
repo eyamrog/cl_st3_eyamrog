@@ -1,0 +1,18 @@
+In this equation, X and Y represent the values of
+the two variables under investigation, and n denotes the number
+of paired data points. The resulting correlation coefficient ranges from
+-1 to 1. A value of -1 indicates a perfect
+negative linear correlation, where an increase in one variable corresponds
+to a proportional decrease in the other. Conversely, a value
+of 1 indicates a perfect positive linear correlation, where both
+variables increase proportionally. A value of zero signifies no linear
+relationship between the variables, indicating statistical independence. Intermediate values reflect
+varying degrees of linear association, either positive or negative. For
+the purposes of this study, the following interpretation of correlation
+coefficients is applied: -0.19 to 0.19 indicates a very weak
+correlation; -0.20 to 0.39, a weak correlation; -0.40 to 0.69,
+a moderate correlation; -0.70 to 0.89, a strong correlation; and
+-0.90 to 1.00, a very strong correlation. The initial results
+are presented in Table 3, which displays the correlations among
+the five Dimensions of the U-Multirank for the “Top-300 performers”
+in Europe in 2020.

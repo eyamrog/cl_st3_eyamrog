@@ -1,0 +1,3 @@
+The index of maximum regularity, \(i_{\text{max}, r}\), was originally defined
+in [5] and has been extensively described in subsequent studies,
+including [4].

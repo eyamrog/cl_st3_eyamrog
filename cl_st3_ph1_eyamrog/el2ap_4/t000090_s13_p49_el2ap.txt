@@ -1,0 +1,6 @@
+There are also four “moderate” correlations, as shown in Table
+6. The average of the magnitude of all the Indicators
+of this Dimension is 0.2722 and the standard deviation is
+0.1985, which also shows that this Dimension has a good
+group of Indicators, with only one redundancy out of seven
+Indicators, in the group of Institutions used here.

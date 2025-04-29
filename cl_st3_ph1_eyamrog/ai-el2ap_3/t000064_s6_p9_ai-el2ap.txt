@@ -1,0 +1,12 @@
+The data presented indicate that chlorophyll formation occurs even under
+low photosynthetically active radiation (PAR) intensities. However, the development of
+full photosynthetic capacity appears to depend on the formation of
+additional structural and functional components that require higher light intensities.
+Leite et al. (2017) reported that in Pouteria gardneriana, chlorophyll
+fluorescence did not differ significantly among plantlets grown under varying
+PAR intensities, although anatomical development was more pronounced at higher
+light levels. In grapevine, leaves developed under very low PAR
+intensities (as low as 20 µmol m⁻² s⁻¹) were able
+to release oxygen, demonstrating that the photosynthetic apparatus can perform
+water photolysis; however, these leaves were unable to achieve net
+carbon dioxide assimilation (Amancio et al. 1999).

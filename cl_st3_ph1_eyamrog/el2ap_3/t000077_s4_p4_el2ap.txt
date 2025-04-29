@@ -1,0 +1,9 @@
+The results of the empirical model showed that an important
+part of the pattern found in the descriptive analysis reflects
+differences in selection into occupations and sectors, because almost all
+coefficients were significantly reduced when fixed effects for types of
+work, position, or function were included. There was a significant
+reduction in the public sector-effect, showing that the very high
+participation of remote work among public sector workers visualized in
+the descriptive analysis results from a composition effect, or from
+the types of task prevalent in the public sector.

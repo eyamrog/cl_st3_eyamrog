@@ -1,0 +1,14 @@
+In this study, we applied the exploratory factor analysis to
+assess the dimensionality of the scale in the Brazilian version,
+followed by the confirmatory factor analysis (structural equation model). We
+initially chose to use the exploratory factor analysis because the
+population in the present study (adolescents) had an age range
+different from the population in which the original instrument was
+validated (young adults). Therefore, it was necessary to investigate whether
+the dimensionality of the scale was maintained. The Kaiser-Meyer-Olkin (KMO)
+test and Barlett's test of sphericity were performed to confirm
+the adequacy and possible factoring of the data (Schumacker &
+Lomax, 1998). The principal components extraction method with Oblique rotation
+was applied. The communalities were also evaluated to verify how
+much the variance (correlation) of each item was explained by
+each extracted factor.

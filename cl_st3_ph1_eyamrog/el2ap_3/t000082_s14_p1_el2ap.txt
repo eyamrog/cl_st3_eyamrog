@@ -1,0 +1,12 @@
+Our discrete-time, evolutionary model describes how the average trait of
+a species i, Zi, evolves due to selection imposed by
+ecological interactions and other environmental factors (e.g., abiotic conditions). In
+our model, the selection differential, S, and the additive genetic
+variance of the trait governs trait change across generations (Lande
+1976). We assumed S has three components potentially affecting the
+evolution of the trait Z: the selection imposed by (i)
+mutualisms, (ii) cheating interactions, and (iii) other environmental factors. As
+a first approximation, we assume that, for a given interaction,
+species are either mutualistic partners or cheaters, but the same
+species may behave as a cheater for species j but
+as a mutualistic partner to species k.

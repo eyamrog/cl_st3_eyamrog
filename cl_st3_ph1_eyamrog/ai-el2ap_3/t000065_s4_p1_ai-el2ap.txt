@@ -1,0 +1,9 @@
+The primary objective of this paper was to present the
+rationale for constructing an academic learner corpus, emphasizing its importance
+in identifying features of learners' written interlanguage. The paper detailed
+the main principles of corpus compilation, specifically those related to
+the design criteria implemented for CorIFA. Subsequently, the methodological procedures
+employed during the compilation process were described. Additionally, the characteristics
+of the texts included in the corpus and the registers
+corresponding to students’ proficiency levels were explained, thereby highlighting the
+potential for a wide range of future research topics.

@@ -1,0 +1,4 @@
+Governance was measured using a set of governance factors (proxies)
+identified in the literature, in accordance with the approach adopted
+by previous studies (e.g., Bromley and Orchard, 2016; Feng et
+al., 2016).

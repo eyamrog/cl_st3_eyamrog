@@ -1,0 +1,5 @@
+When at least two studies are sufficiently homogeneous in terms
+of design, participants, and outcome measurements, we will assess the
+possibility of pooling their results into meta-analysis. If insufficient information
+or heterogeneous studies are found, the results of the studies
+will be summarized only in qualitative synthesis.

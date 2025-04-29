@@ -1,0 +1,13 @@
+Chlorophyll fluorescence was assessed by measuring the maximum quantum yield
+of primary photochemistry (Fv/Fm) in three fully expanded leaves using
+a portable fluorometer (OS-3P, ADC BioScientific, UK). Prior to measurement,
+leaves were dark-adapted for 30 minutes to determine the dark
+fluorescence yield (Fo), maximum fluorescence yield (Fm), and variable fluorescence
+(Fv). The Fv/Fm ratio was subsequently calculated. Four diurnal courses
+of Fv/Fm were conducted at two-hour intervals from 06:00 to
+18:00 at 60, 90, 120, and 150 days after transplanting
+(DAT). On each sampling day, relative humidity and ambient temperature
+were recorded using a hygro-thermometer, and photosynthetic photon flux density
+(PPFD) was measured with a quantum sensor connected to an
+irradiation meter (LI-250A, LI-COR, USA), as shown in Supplementary Figure
+S1.

@@ -1,0 +1,17 @@
+In this context, questions regarding the appropriate timing and extent
+of lifting or intensifying suppression measures have been central to
+discussions among public health researchers, professionals, health authorities, and the
+broader community. One potential criterion for informing these decisions is
+the level of herd immunity achieved within the population. Estimates
+suggest that approximately 60% herd immunity may be necessary, based
+on current calculations of the basic reproduction number for the
+infection [22]. In the absence of an available vaccine against
+COVID-19, achieving this level of herd immunity would require widespread
+natural infection. However, in settings such as Rio de Janeiro,
+where the health care system is at risk of imminent
+collapse, pursuing natural herd immunity is not a viable strategy,
+as it would necessitate relaxing current suppression measures and would
+likely result in a substantial increase in COVID-19-related mortality. Conversely,
+maintaining effective and prolonged suppression measures may impede the development
+of herd immunity, complicate the implementation of exit strategies, and
+increase the risk of subsequent epidemic waves [23].

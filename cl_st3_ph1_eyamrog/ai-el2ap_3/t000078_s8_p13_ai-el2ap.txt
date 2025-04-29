@@ -1,0 +1,11 @@
+McDonald (1987) initially proposed the cut-off method for identifying employment
+sub-centers in the Chicago metropolitan area, and Giuliano and Small
+(1991) subsequently extended this empirical approach by identifying 32 sub-centers
+in Los Angeles, United States. According to their method, a
+sub-center is defined as a group of contiguous areas with
+a minimum employment density of ten employees per acre and
+a total of at least 10,000 employees. These models have
+been subject to several criticisms, including the discretionary selection of
+locations, the sensitivity of results to the chosen cut-off values,
+and the lack of generalizability to other cities (Anas et
+al., 1998; McMillen, 2001b; Baumont et al., 2004).

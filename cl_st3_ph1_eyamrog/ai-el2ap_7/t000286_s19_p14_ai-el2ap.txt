@@ -1,0 +1,8 @@
+The results indicate that inflation (INF) does not Granger-cause foreign
+direct investment (FDI), as the null hypothesis is accepted at
+the 5% significance level, with a probability value of 0.8324.
+Similarly, FDI does not Granger-cause INF, as evidenced by the
+acceptance of the null hypothesis at the 5% significance level,
+with a probability value of 0.7724 and an F-statistic of
+0.26197. These findings suggest that there is no causal relationship
+between INF and FDI in either direction.

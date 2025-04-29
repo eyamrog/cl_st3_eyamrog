@@ -1,0 +1,8 @@
+Regarding mortality, groups 1 and 5.1 exhibit the highest rates,
+with 11.586 and 9.925 deaths per 100,000 inhabitants, respectively. In
+contrast, group 4 demonstrates the lowest mortality rate at 0.209
+deaths per 100,000 inhabitants; this result may be influenced by
+the inclusion of China, given its large population size. However,
+group 3, which comprises countries with an expanded vaccine scheme,
+has the lowest case fatality rate, with 1.87 deaths per
+100 cases (p < 0.001).

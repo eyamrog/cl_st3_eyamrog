@@ -1,0 +1,10 @@
+For seed conservation, a 2x3 factorial experimental design was employed,
+incorporating two conservation methods—cryopreservation (+LN; at -196 °C) and a
+control group stored in a refrigerator at 4 °C (-LN)—in
+combination with three collection times (120, 135, and 150 days
+after anthesis [DAA]). Each experimental unit consisted of a cryotube
+containing 30 seeds, with four replicates arranged in a randomized
+block design. Following 24 hours of storage under the respective
+conditions, seeds were immersed in a water bath at 42
+°C for two minutes. Subsequently, seed disinfection was performed according
+to the protocol described by Guerra and Dal Vesco (2010).

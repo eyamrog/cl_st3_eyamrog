@@ -1,0 +1,6 @@
+To address this issue, an alternative method for general evaluation
+is proposed, which involves first calculating the average scores within
+each Dimension, followed by computing the overall average using the
+mean scores of each Dimension. This approach assigns equal weight
+to each Dimension while allowing for different weights to be
+applied to the individual Indicators.

@@ -1,0 +1,7 @@
+Methods: Data were collected on 2,857 blood donors from April
+14 to 27, 2020. We report the crude prevalence of
+antibodies to SARS-CoV-2, the weighted prevalence by the total state
+population, and adjusted prevalence estimates for test sensitivity and specificity.
+To establish the correlates of SARS-CoV-2 prevalence, we used logistic
+regression models. The analysis included period and site of blood
+collection, sociodemographic characteristics, and place of residence.

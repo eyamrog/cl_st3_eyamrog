@@ -1,0 +1,6 @@
+Methods: This study included all confirmed cases of COVID-19-related deaths
+in Brazil from the first recorded death on March 17
+until May 15, 2020. Data were obtained from the official
+website of the Brazilian Ministry of Health. The Boltzmann function
+was applied to simulate the data for each state in
+the country.

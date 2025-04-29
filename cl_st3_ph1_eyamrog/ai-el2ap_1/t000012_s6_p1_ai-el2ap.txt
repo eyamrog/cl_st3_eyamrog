@@ -1,0 +1,20 @@
+Cleaning interactions between birds and mammals encompass a wide range
+of species and ecological contexts. By analyzing two networks of
+differing sizes and geographic locations, this study aimed to identify
+patterns in facultative interactions from a broader perspective. Species with
+a broad dietary repertoire may participate in various types of
+interactions, including facultative associations such as cleaning symbiosis. When a
+bird encounters an opportunity—defined here as the presence of a
+mammal hosting accessible food resources—the likelihood of exploiting this opportunity
+is determined by the species’ natural history. The results indicate
+that, for most cleaner species, the capacity to consume diverse
+resources is an important factor in engaging in cleaning interactions.
+Given the significance of dietary diversity for participation in these
+interactions, it was hypothesized that network structural properties, such as
+degree centrality, might also be influenced by dietary diversity. The
+objective of this analysis was to assess the implications of
+resource consumption for community structure. However, the analysis of network
+degree centrality revealed no relationship between centrality and the diet
+diversity index of bird species, indicating that the ability to
+consume a variety of resources does not influence a species’
+centrality within the network.

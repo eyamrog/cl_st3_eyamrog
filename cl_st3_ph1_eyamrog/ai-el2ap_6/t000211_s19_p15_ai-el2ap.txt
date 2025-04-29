@@ -1,0 +1,6 @@
+Therapeutic doses of low molecular weight heparin (LMWH) or unfractionated
+heparin (UFH) are recommended exclusively for patients with a confirmed
+diagnosis of venous thromboembolism (VTE) or as a bridging strategy
+for individuals already receiving oral anticoagulant therapy, as the use
+of oral anticoagulants may significantly interact with antiretroviral treatment in
+patients with COVID-19.

@@ -1,0 +1,23 @@
+The preparation of the red blood cells for the cytotoxicity
+assay followed the method described by Cruz-Silva et al. (2000).
+Whole blood from a voluntary individual working in our laboratory,
+type O+, was collected and placed in a tube containing
+heparin. The plasma was removed after centrifugation at 2500 rpm
+for 5 minutes. Subsequently, the suspension of erythrocytes was washed
+three times with 1% saline solution. The erythrocytes were re-suspended
+in the same solution and the volume was adjusted to
+5%. Then 1.5 mL of 5% erythrocyte suspension was added
+together with 1.5 mL of test solution at concentrations of
+1.0 mg/mL, 2.5 mg/mL and 5.0 mg/mL in tubes, remaining
+for 1 hour at room temperature for the hemolysis to
+occur. After this period, each tube was centrifuged at 2500
+rpm for 10 minutes, and the supernatant removed for reading
+in a spectrophotometer (Shimadzu UV-mini - 1240) at a wavelength
+of 540 nm (Cruz-Silva et al. 2001). The positive control
+used was Turk's solution 1% negative and 1% saline solution.
+The analysis was performed in triplicate. The calculation of the
+potential hemolyzing substances followed the following equation: Hp = Ae
+−Ab At 𝑥 100 Where: Hp = Hemolyzing potential (in
+percentage) Ae = Absorbance of test sample Ab = Absorbance
+of the Negative Control At = Absorbance of the Positive
+Control

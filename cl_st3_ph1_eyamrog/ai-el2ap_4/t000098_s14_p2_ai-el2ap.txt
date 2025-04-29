@@ -1,0 +1,10 @@
+The age-adjusted COVID-19 mortality rate in country i, denoted as
+ai, is defined as the COVID-19 mortality rate in country
+i that has been standardized to account for differences in
+the age composition of the populations across countries. This adjustment
+enables more accurate comparisons of mortality rates by controlling for
+variations in age distribution, which is a significant factor influencing
+COVID-19 mortality. The age-adjusted rate is calculated using standard demographic
+techniques, such as direct or indirect standardization, to ensure that
+observed differences in mortality are not attributable to disparities in
+population age structures.

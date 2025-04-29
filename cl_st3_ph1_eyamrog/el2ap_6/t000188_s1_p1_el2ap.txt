@@ -1,0 +1,2 @@
+Purpose: We estimated the potential number of COVID-19 deaths for
+Brazil for the next months.

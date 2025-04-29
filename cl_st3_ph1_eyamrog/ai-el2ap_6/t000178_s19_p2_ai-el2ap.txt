@@ -1,0 +1,19 @@
+Records from the Nucleotide, BioProject, and PATRIC databases are predominantly
+associated with pathogenic organisms, likely reflecting the research interests of
+groups that frequently submit DNA data and the allocation of
+research funding. In the Nucleotide database, the majority of records
+correspond to Pasteurella multocida and Neisseria meningitidis, followed by Vibrio
+parahaemolyticus, Bacillus thuringiensis, Escherichia coli, Shewanella sp., Aeromonas veronii, Homo
+sapiens, HIV, and Mycobacterium tuberculosis (Figure 2). Of these records,
+70.60% are classified as Bacteria, 24.38% as Eukaryota, and 3.07%
+as Viruses (Supplementary Information 2). No records of Archaea submitted
+by Peruvian institutions were identified. Within the Eukaryota, most records
+are from the clades Fungi and Viridiplantae, and the phyla
+Chordata, Arthropoda, and Mollusca (Supplementary Information 2). In the BioProject
+database, Salmonella enterica subsp. enterica serovar Infantis is the most
+frequently represented organism (Supplementary Information 3). The PATRIC database is
+dominated by records of pathogenic bacteria, specifically Mycobacterium tuberculosis, Yersinia
+pestis, Shigella sonnei, and Staphylococcus aureus (Supplementary Information 4). In
+contrast, the BOLD database, which focuses on eukaryotic taxa, is
+most frequently represented by Chordata (Aves and Actinopterygii), Angiospermae, and
+Arthropoda (Insecta and Arachnida) (Supplementary Information 5).

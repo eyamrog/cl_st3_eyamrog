@@ -1,0 +1,10 @@
+The data indicate that regions near the intervals 21578, 29876,
+29390, 3952, and 11076 exhibit elevated values. According to database
+consultation, this observation is consistent with the presence of Gene
+S, Gene N, and ORF10 in these regions, which is
+considered a positive finding. Further investigation is warranted specifically around
+the 11078 interval (spanning 20 nucleotides) to elucidate its significance.
+It should be noted that Gene Orf1ab occupies the range
+[269, 21,558], accounting for approximately 71% of the entire genome,
+which is a substantial portion. The observed maximum value at
+approximately 11,000 suggests a notable feature within this region.

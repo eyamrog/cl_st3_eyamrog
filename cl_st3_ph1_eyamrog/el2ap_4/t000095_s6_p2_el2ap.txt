@@ -1,0 +1,5 @@
+In our analysis, removing the last two months of 2020
+and including in the denominator all missing information for case
+definition, allowed us to explore whether the quality of data
+could explain the discrepancy in mortality between the two cities,
+but the discrepancy remained high, despite these procedures.

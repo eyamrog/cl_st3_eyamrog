@@ -1,0 +1,4 @@
+This study primarily examined the number of COVID-19 cases and
+deaths reported between December 31, 2019, and April 11, 2020.
+The same data were subsequently collected and compared for the
+dates of May 11 and June 11, 2020.

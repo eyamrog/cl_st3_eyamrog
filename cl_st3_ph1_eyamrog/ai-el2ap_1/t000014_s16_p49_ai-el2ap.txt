@@ -1,0 +1,12 @@
+Extensive documentation and description are now available for the Paresi
+language, primarily through the independent efforts of Ana Paula Brandão
+and Glauber Silva over several years. Key descriptive works on
+Paresi include Silva (2009, 2013) and Brandão (2010, 2014). In
+contrast, research on Enawene Nawe (EN) is relatively recent, with
+the principal descriptive sources being Rezende (2003, 2013), Brandão and
+Reis (2020), and Reis (2020). Although the project ‘Sketch grammar,
+texts, and dictionary of Enawene Nawe (Arawak, Brazil)’ received funding
+from the Endangered Languages Documentation Program (ELDP) in 2005, it
+was not completed. In 2019, Brandão secured additional ELDP funding,
+administered through the Federal University of Pará, for the project
+‘Documentation of the Enawene Nawe language’.

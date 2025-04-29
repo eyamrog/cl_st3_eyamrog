@@ -1,0 +1,9 @@
+The overall aim of this paper was to present the
+rationale behind building an academic learner corpus, making the case
+that such a process is paramount for revealing traces of
+learners' written interlanguage. The main principles regarding corpus compilation were
+presented associated with the design criteria adopted for CorIFA. After
+that, we outlined the methodological procedures that were followed in
+the compilation process. The texts included in the corpus and
+the register associated with the students’ proficiency level were also
+explained indicating a vast range of topics for future studies.

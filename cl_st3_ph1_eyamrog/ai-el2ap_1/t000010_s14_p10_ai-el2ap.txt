@@ -1,0 +1,8 @@
+A simple linear regression analysis was conducted using neuropsychological test
+scores from two provinces. Neuropsychological variables served as predictors (independent
+variables), while intellectual performance, as measured by the Raven's Progressive
+Matrices (nonverbal) for preschoolers, was the dependent variable. Results were
+presented using a radial graph to illustrate the neuropsychological profiles,
+highlighting relative strengths and weaknesses between the two provinces. Statistical
+significance was determined at a threshold of p < 0.05,
+with values below this level indicating significant differences.

@@ -1,0 +1,19 @@
+According to current epidemiological reports, this pandemic has characteristics rarely
+seen for other infectious diseases [6]. Some of the particularities
+of COVID-19 are: its high basic reproduction number (R0) of
+up to 2.79 [7]; an asymptomatic infectious period of up
+to 14 days, in which there is a group of
+individuals with no symptom onsets and the disease can be
+detected only through a serological test; and a great variability
+in time and clinical repercussions [8]. It has been proven
+that the dynamics of this epidemic varies mainly according to
+the climate [9], social and health local habits [10] [11],
+comorbidities [12] and age range [13], among other variables. The
+multiplicity of factors influencing this pandemic requires a different approach,
+as it is necessary to focus on the formulation of
+more complex and realistic computational models, which include specific characteristics
+for each area under study, rather than on conventional models,
+mainly mathematical ones. Thus, this paper proposes a novel model
+that incorporates local aspects, such as social, cultural, geographical and
+climatological variables, linked to the epidemic under study and to
+its transmission modes.

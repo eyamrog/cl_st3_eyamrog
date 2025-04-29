@@ -1,0 +1,4 @@
+These facts seem to weaken Emonds (1979) generalization on the
+impossibility of having a free relative with appositive content and
+makes such generalization partially wrong. Further details on the analysis
+implemented here are to be addressed in future investigation.

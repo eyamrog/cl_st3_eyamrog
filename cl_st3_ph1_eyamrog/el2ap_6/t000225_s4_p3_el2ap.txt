@@ -1,0 +1,5 @@
+Additionally, when comparing the data for São Paulo City to
+that from the other regions of the state, we observed
+different trends in the spread of the disease, implying that
+it is essential to have localized data to define local
+targets for the SDI.

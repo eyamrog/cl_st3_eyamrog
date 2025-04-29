@@ -1,0 +1,8 @@
+Following the approach of Pereira et al. (2019), we implemented
+a two-phase process for the inclusion or exclusion of articles
+during the literature review. In the first phase, we screened
+the articles by reviewing their titles, abstracts, and keywords based
+on predefined criteria. In the second phase, we conducted a
+full-text review of the articles selected in the initial screening
+and subsequently classified them according to their relevance and thematic
+similarities.

@@ -1,0 +1,10 @@
+Viruses have evolved mechanisms to evade host immune detection and
+suppress the interferon (IFN) response. Specifically, viral proteins can disrupt
+pattern recognition receptor (PRR) signaling pathways, thereby providing an early
+advantage against host defenses. For instance, the nucleocapsid (N) protein
+of SARS-CoV inhibits RIG-I ubiquitination, resulting in reduced type I
+IFN production. Additionally, the membrane (M) protein of SARS-CoV prevents
+the formation of the TRAF3/TBK1 complex and inhibits TBK1/IKKε-dependent activation
+of the IRF3 and IRF7 transcription factors. Furthermore, the nonstructural
+protein 1 (nsp1) of SARS-CoV induces repressive modifications that block
+host mRNA translation and promote host mRNA degradation.

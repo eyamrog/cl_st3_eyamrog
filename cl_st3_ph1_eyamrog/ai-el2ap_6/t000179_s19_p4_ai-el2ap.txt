@@ -1,0 +1,16 @@
+The KMO value exceeded 0.90, indicating that the sample size
+was adequate for conducting exploratory factor analysis. Parallel analysis supported
+a two-factor model, while Kaiser’s criterion suggested a three-factor model;
+therefore, both two- and three-factor models were evaluated (see Table
+2). In the two-factor model, the item “order in the
+health service and labor organization” (variable c2p81_2) exhibited factor complexity,
+as its loadings on the first and second factors did
+not differ substantially, leading to its exclusion from further analysis.
+Additionally, the items related to satisfaction with hours or salary
+(c2p81_7), training opportunities (c2p81_10), completion of medical records (c2p81_15), and
+respect for patients (c2p81_16) demonstrated very low factor loadings and
+were also removed. In the three-factor model, the first factor
+was unstable due to the presence of very few items,
+resulting in the rejection of this model. Consequently, only the
+two-factor model was retained for further analysis, after excluding the
+five problematic items identified (c2p81_2, c2p81_7, c2p81_10, c2p81_15, and c2p81_16).

@@ -1,0 +1,5 @@
+The data in (47) indicate that the wh-sentence is subject
+to the matching requirement. Specifically, the matching sentence in (58)a
+is grammatical, whereas the mismatched sentence in (58)b is ungrammatical.
+However, deleting the preposition, as shown in (58)c, resolves the
+mismatch and results in a grammatical sentence.

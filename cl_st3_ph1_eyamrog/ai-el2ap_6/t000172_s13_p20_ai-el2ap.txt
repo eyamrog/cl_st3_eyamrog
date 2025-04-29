@@ -1,0 +1,15 @@
+In addition to pp1ab, S, E, M, and N proteins,
+SARS-CoV-2 encodes at least five additional open reading frames (ORFs),
+designated ORF3a, ORF6, ORF7a/7b, ORF8, and ORF10, for which the
+molecular mechanisms of action in the viral replication cycle remain
+largely uncharacterized. Previous studies have reported that SARS-CoV ORF3a interacts
+with TRAF3 and ASC, facilitating TRAF3 ubiquitination and activation of
+the NLRP3 inflammasome (Siu et al., 2019). Additional research has
+demonstrated that ORF3a exhibits binding affinities for caveolin-1 and calcium
+(Padhan et al., 2007; Minakshi et al., 2014). SARS-CoV ORF6
+has been localized to the endoplasmic reticulum and Golgi membranes
+in infected cells, where it binds to karyopherin alpha 2
+and karyopherin beta 1, thereby inhibiting STAT1 nuclear import and
+its associated functions (Frieman et al., 2007). Furthermore, evidence indicates
+that nsp8 interacts with ORF6, suggesting a potential role for
+the ORF6 protein in viral replication (Kumar et al., 2007).

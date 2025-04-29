@@ -1,0 +1,8 @@
+Despite this, the temporal correlation was even more pronounced (Figure
+3). At the municipal level, the analysis of the association
+between the elapsed time of the First Notified Case in
+the state of Minas Gerais and rapid tests produced a
+coefficient of -0.11; between the first notified case and RT-PCR
+tests, the coefficient was -0.22; between the first notified case
+and incidence rate, it was -0.25; and between the first
+notified case and mortality rate, -0.19.

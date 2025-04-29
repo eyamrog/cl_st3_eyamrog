@@ -1,0 +1,4 @@
+In this context, this paper aims to identify and characterize
+sub-centralities within the Municipality of São Paulo, thereby enabling future
+analyses of employment decentralization, housing prices, commuting patterns, transportation demand,
+and wage gradients.

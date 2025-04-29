@@ -1,0 +1,13 @@
+To identify the types of emojis used to convey social
+presence, frequency distributions were calculated for all interactions. The most
+frequently used emojis supporting social presence were the Winking Face
+(n = 158) and Clapping Hands (n = 153), followed
+by Thumbs-Up (n = 74), Face With Tears of Joy
+(n = 68), Smiling Face With Smiling Eyes (n =
+64), Smiling Face (n = 60), Smiling Face with Hearts
+(n = 59), Smiling Face with Heart-Eyes (n = 41),
+Slightly Smiling Face (n = 40), Face Blowing a Kiss
+(n = 35), Beaming Face with Smiling Eyes (n =
+31), and Grinning Face (n = 31) emojis (see Appendix
+A). A visualization of the emoji distribution is presented in
+Figure 4.

@@ -1,0 +1,13 @@
+Nestedness patterns indicate that ecological networks exhibit asymmetries, whereby species
+with numerous interactions constitute a core, while species with fewer
+interactions typically do not interact with each other (Bascompte et
+al. 2003). In contrast, modularity patterns suggest that most interactions
+are organized into modules, defined as semi-isolated and densely connected
+groups of interacting species (Olesen et al. 2007; Pimm &
+Lawton 1990). These nonrandom network patterns reflect both the variation
+in average levels of specialization and generalism, and the nonrandom
+distribution of niche overlap across different types of interactions (Guimarães
+2020). Thus, the structure of ecological networks may partially represent
+the underlying processes that shape ecological interactions and influence the
+organization of ecological communities (Jordano et al. 2003; Bastolla et
+al. 2009; Guimarães 2020).

@@ -1,0 +1,5 @@
+The databases utilized for the literature search were ERIC, Scopus,
+and Google Scholar. In each of these databases, the search
+terms “gestures” and “learning” were used in combination, and the
+search was limited to publications from the period 2000 to
+2019.

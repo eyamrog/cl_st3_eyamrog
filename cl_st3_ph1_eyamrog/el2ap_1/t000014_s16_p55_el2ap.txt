@@ -1,0 +1,17 @@
+The secondary data produced in these projects include annotations and
+metadata associated with the recordings. Annotations, consisting of transcriptions and
+translations into Portuguese, were made using the ELAN program (EUDICO
+Linguistic Annotator 2020) and Word. Lexicons for both languages were
+also developed, and several Paresi texts were interlinearized using the
+FLEx program (FieldWorks Language Explorer 2019) according to the analysis
+presented in the reference grammar. The transcriptions and translations of
+the texts were made by the speakers. Most of the
+transcriptions were produced during the period when the lead researcher
+was not in the communities and, in the case of
+Paresi, they were later reviewed with the speakers. Paresi speakers
+received training in the use of ELAN, while EN speakers
+had little interaction with this program and preferred to transcribe
+in Word using a computer or cell phone. We are
+still organizing the notes from the EN recordings, such that
+all material will be transferred to ELAN and can later
+be published in a digital collection.

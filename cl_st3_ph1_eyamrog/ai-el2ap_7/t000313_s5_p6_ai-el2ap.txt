@@ -1,0 +1,17 @@
+The first scientific report identifying ACE2 as a host-cell entry
+receptor for a coronavirus was conducted with SARS-CoV (Li et
+al., 2003). It is currently unknown whether coronaviruses have previously
+utilized the ACE2 protein as an entry mechanism in humans
+or other species. Given the relatively recent emergence of SARS-CoV
+and the long generation time of humans, there has been
+insufficient time for significant evolutionary adaptation of the human ACE2
+protein in response to these viruses. Consequently, the adaptive changes
+observed in the mouse ACE2 receptor in response to MHV,
+as described by Peng et al. (2017), are not expected
+to be present in human ACE2 with respect to SARS-CoV
+or SARS-CoV-2. Furthermore, the recent evolution of the SARS-CoV-2 Spike
+glycoprotein, including the acquisition of a furin cleavage site, combined
+with the high degree of conservation of critical ACE2 binding
+sites among human populations and various demographic and cultural factors,
+has provided SARS-CoV-2 with a substantial advantage in infectivity and
+pathogenicity in humans.

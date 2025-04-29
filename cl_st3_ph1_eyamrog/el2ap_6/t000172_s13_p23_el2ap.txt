@@ -1,0 +1,16 @@
+SARS-CoV infects poorly monocytes/macrophages, even though viral proteins are expressed,
+replication is incomplete in these cell types, that respond secreting
+low levels of IFN-β and high levels of chemokines like
+IP-10 and MCP-1 and may be part of the inflammatory
+response that participates in the pathogenesis of the disease (Cheung
+et al. 2005); dendritic cells infected by SARS-CoV induce low
+levels of IFN-α, IFN- β, IFN- γ, IL12p40, moderate levels
+of TNF- α and IL-6 and high levels of MIP-1A,
+IP-10, and MCP-1 (Law et al. 2005). SARS-CoV shows a
+delayed induction of IFN- α (Spiegel 2006). Comparison of SARS-CoV
+with Vesicular Stomatitis Virus (VSV) and Newcastle virus indicates that
+SARS-CoV induces lower levels of IFN-α, β, and γ, independently
+of viral replication. Differently from SARS-CoV, MERS-CoV is able to
+establish a productive infection in human macrophages and induce higher
+levels of IL-12, IFN- γ, IP-10, MCP-1, MIP-1A, RANTES, and
+IL-8 (Zhou et al. 2014).

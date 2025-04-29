@@ -1,0 +1,7 @@
+A completely randomized factorial experimental design was employed, incorporating two
+storage conditions (non-stored and stored pyrenes) and six pretreatments (control;
+approximately 25°C for 24, 48, and 72 hours; and hot
+water at 75°C for 5 and 10 minutes). Each treatment
+and control group consisted of four replicates, with 25 pyrenes
+per replicate, resulting in a total of 100 individual pyrenes
+per treatment and control.

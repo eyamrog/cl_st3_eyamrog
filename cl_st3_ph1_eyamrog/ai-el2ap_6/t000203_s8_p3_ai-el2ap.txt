@@ -1,0 +1,12 @@
+The innate immune response, which includes macrophages, CD4+ lymphocytes, and
+natural killer cells, plays a critical role in the elimination
+of viral pathogens. Variability in the impact of SARS-CoV-2 infection
+across different countries and among individuals with similar exposure levels
+may be attributable to differences in immune system responses. Therefore,
+it is essential to understand the quality and effectiveness of
+both individual and collective innate immune responses. In this context,
+the present study aimed to examine the correlation between the
+epidemic impact observed in various countries over three consecutive months
+and their respective Bacillus Calmette–Guérin (BCG) vaccination status, given that
+BCG vaccination is known to primarily activate or train innate
+immunity.

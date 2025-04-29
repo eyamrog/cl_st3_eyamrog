@@ -1,0 +1,5 @@
+The models that use a spatial statistical approach are based
+on Exploratory Spatial Data Analysis (ESDA). The methodology allows evaluating
+the spatial pattern of employment level and density. Baumont et
+al. (2004) identify as sub-centers all high employment levels and
+statistically significant densities.

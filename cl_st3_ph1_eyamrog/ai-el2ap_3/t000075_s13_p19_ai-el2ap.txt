@@ -1,0 +1,10 @@
+Regarding spillover effects, certain impulse-response functions indicated that these effects
+were more pronounced in the post-crisis period. In addition to
+increasing net financial flows and exerting greater pressure on exchange
+rate appreciation compared to the pre-crisis period, these effects also
+diminished monetary policy autonomy in other emerging markets. The regression
+results suggest that spillover effects were more significant for Latin
+American economies than for those in Asia, primarily because Latin
+American countries exhibit a higher degree of financial openness and
+a greater reliance on bank flows as a source of
+external funding.

@@ -1,0 +1,5 @@
+The validation of the structural model was performed using the
+plspm package by evaluating the statistical significance (α = 0.05)
+and relevance of the path coefficients through a bootstrapping procedure,
+as well as by assessing the coefficient of determination (R²)
+to measure the model’s accuracy.

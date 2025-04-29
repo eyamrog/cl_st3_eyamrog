@@ -1,0 +1,10 @@
+The use of face masks has become widespread globally. Both
+disposable N95 respirators and medical masks are worn by healthcare
+workers for self-protection; however, these masks serve different purposes. N95
+respirators are designed to protect the wearer by filtering out
+small airborne particles and must meet specific filtration standards while
+fitting tightly to the face to minimize facial seal leakage.
+In contrast, medical masks are primarily intended to prevent the
+transmission of microorganisms from the wearer to the patient, fit
+the face loosely, and do not reliably prevent the inhalation
+of small airborne particles [10].

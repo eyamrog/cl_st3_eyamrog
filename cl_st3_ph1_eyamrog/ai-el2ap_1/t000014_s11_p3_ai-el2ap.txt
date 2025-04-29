@@ -1,0 +1,5 @@
+Key reasons for archiving language data include ensuring their long-term
+preservation and accessibility. As discussed below, digital repositories provide mechanisms
+for replicability and protection against risks such as fire, flood,
+loss, mold, and insect damage, which commonly threaten the conservation
+of physical materials, as illustrated in Figure 1.

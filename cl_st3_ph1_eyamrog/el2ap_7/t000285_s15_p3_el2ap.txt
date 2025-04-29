@@ -1,0 +1,3 @@
+We will include patients of any age tested positive for
+SARS-CoV-2 infection and positive for any type of Arbovirus infection
+(e.g. Dengue, Zika, Yellow Fever, among others).

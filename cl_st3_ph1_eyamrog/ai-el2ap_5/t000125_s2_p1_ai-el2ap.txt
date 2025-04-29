@@ -1,0 +1,2 @@
+The author acknowledges U-Multirank for providing the data utilized in
+this research, which were obtained upon request.

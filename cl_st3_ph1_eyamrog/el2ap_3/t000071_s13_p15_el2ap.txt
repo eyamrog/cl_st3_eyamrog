@@ -1,0 +1,14 @@
+For example, when editors, editorial board members, reviewers, and authors
+initially register with a journal’s publishing platform, they will be
+required to log into ORCiD (Fig. 2). To be listed
+as the editor of a journal would involve a further
+log in with ORCiD in which this new position would
+be added to one’s ORCiD profile, while ORCiD will provide
+the journal with a hyperlinked ORCiD icon, enabling readers and
+authors to explore the editor’s background and qualifications knowing that
+the identities have been authenticated and that appeals can be
+made to ORCiD if anything seems amiss. Such systems may
+be susceptible to circumvention, as no technology is foolproof, of
+course, but the effort required to do so without detection
+will have been greatly increased and in ways that can
+be further improved in the face of violations.

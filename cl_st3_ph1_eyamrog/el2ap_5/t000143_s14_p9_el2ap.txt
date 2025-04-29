@@ -1,0 +1,10 @@
+Univariate exploratory analysis of spatial data was performed to investigate
+global spatial autocorrelation of femicide rates in Sergipe's municipalities using
+the Moran I index, under the assumptions of normality and
+randomization 21. The distribution of Moran index values varies between
+-1,0 and +1,0 and tests whether connected areas present greater
+similarity in relation to the studied indicator, than would be
+expected in a random pattern. Thus, spatial autocorrelation measures the
+number of nearby objects compared to other nearby objects using
+the Moran I index, which can be classified as positive,
+negative and without spatial autocorrelation.

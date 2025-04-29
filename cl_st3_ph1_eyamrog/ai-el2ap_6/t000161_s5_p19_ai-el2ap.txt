@@ -1,0 +1,16 @@
+Bibliometric indexes play a significant role in the scientific publishing
+industry and exert considerable influence on research practices and publication
+choices. Nevertheless, the Journal Impact Factor (JIF) is not a
+comprehensive indicator of the development of an entire scientific field,
+even when funding agencies use it as a quality criterion.
+A high JIF does not necessarily reflect the quality of
+taxonomic studies; rather, it is often associated with the breadth
+of topics, methodological diversity, and types of data that align
+with the interests of high JIF-ranked journals. Additionally, Zootaxa was
+initially focused on publishing extensive papers in descriptive taxonomy but
+later expanded its scope to include short notes and studies
+on a broader range of topics related to zoological taxonomy
+and systematics. Notably, following Clarivate’s announcement regarding the reinstatement of
+Zootaxa’s JIF in September (Clarivate 2020b), the journal’s website promptly
+updated its JIF, suggesting an active engagement with impact factor
+metrics.

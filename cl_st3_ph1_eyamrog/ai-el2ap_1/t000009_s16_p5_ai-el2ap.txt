@@ -1,0 +1,8 @@
+Phase 1 was designed to increase the visibility of the
+selected scientists. Phase 2 was divided into two parts, each
+with a distinct objective: Part 1 assessed the participants' ability
+to produce research articles suitable for publication in high-impact journals,
+while Part 2 explored in greater depth certain contextual factors
+previously examined in the questionnaire. Finally, Phase 3 concluded the
+investigation by analyzing the reviews received by the authors for
+papers submitted to computer science journals.

@@ -1,0 +1,5 @@
+The Harvey, Leybourne, and Xiao (2008) linearity test, which is
+an extension of the Harvey and Leybourne (2007) test, separately
+assesses the presence of stationarity and integration of order one
+(I(1)) in a time series. The test is characterized by
+a structure with two degrees of freedom.

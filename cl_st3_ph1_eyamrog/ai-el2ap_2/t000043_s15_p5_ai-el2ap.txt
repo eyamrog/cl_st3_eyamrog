@@ -1,0 +1,8 @@
+In this initial proposal for the assessment tool, studies receiving
+3 stars are classified as "poor quality," those receiving up
+to 6 stars as "moderate quality," and those receiving 7
+to 10 stars as "high quality." This grading system is
+intended as a suggested framework for evaluating overall study quality;
+however, users of the tool may adapt these criteria as
+appropriate to the specific research questions and contexts of the
+studies under analysis.

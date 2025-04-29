@@ -1,0 +1,11 @@
+The mean of Shannon's indexes in plots R was lower
+(1.90) when compared to plots I (2.20), but they were
+not significantly different by t test (p> 0.05). The Shannon-Weaver
+indexes for the two regions did not exceed the value
+of 3, and according to Souza et al. (2013), areas
+with values less than 3, are recognized as low diversity.
+Due to the forest structure being consistent in areas of
+mature forests, decreasing the seed rain, the diversity and density
+of the seed bank tend to decrease, causing the species
+that integrate the community to build a seedling bank (Souza
+et al. 2006).

@@ -1,0 +1,12 @@
+The "U-Multirank" (https://www.umultirank.org/; PRADO 2021a and 2021b) was created based
+on this idea. It evaluates the performance of educational institutions
+in five Dimensions: (1) Teaching and Learning, (2) Research, (3)
+Knowledge Transfer, (4) International Orientation and (5) Regional Engagement. Each
+of these Dimensions is divided into a large number of
+Indicators, going from four to eleven, depending on the Dimension.
+It is focused in future students who want to see
+an international classification of higher education institutions to choose the
+one that most closely matches their interests. The user can
+evaluate each Indicator, separately or grouped in families, focusing in
+the most important ones for a given decision to be
+made.

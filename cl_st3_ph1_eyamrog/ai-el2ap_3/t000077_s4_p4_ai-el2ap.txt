@@ -1,0 +1,10 @@
+The results of the empirical model indicate that a substantial
+portion of the patterns identified in the descriptive analysis can
+be attributed to differences in occupational and sectoral selection, as
+evidenced by the considerable reduction in nearly all coefficients when
+fixed effects for work type, position, or function were included.
+The observed decrease in the public sector effect suggests that
+the elevated rates of remote work participation among public sector
+employees, as seen in the descriptive analysis, are primarily due
+to compositional factors or the specific nature of tasks commonly
+performed in the public sector.

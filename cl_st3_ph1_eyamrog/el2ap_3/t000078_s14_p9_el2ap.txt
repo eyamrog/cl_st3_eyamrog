@@ -1,0 +1,11 @@
+Thus, the first stage evaluates the tract areas that form
+statistically significant clusters by using the ESDA approach. The validation
+of the tract areas as SBD stems from the hedonic
+price model. In this second stage, the identification strategy considers
+real estate in space for each year. The amenities (schools,
+parks, hospitals, etc.) and transportation (subway, train, access to the
+avenues and roads) were also geocoded. The geocoded data allows
+a) to identify the location of the properties, amenities, and
+transportation in the city, b) to calculate the Euclidean distance
+of each property to the public amenities and transportation within
+the municipality.

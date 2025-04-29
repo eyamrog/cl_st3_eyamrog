@@ -1,0 +1,12 @@
+The adjustment of the different models for the three scales
+was evaluated in three steps. First, a set of the
+goodness-of-fit indices was estimated. We used the Comparative Fit Index
+(CFI) and the Tucker-Lewis Index (TLI), both with optimal values
+≥0.95; Standardized Root Mean Square Residual (SRMR) and Root Mean
+Square Error of Approximation (RMSEA) with a confidence interval of
+90%, both with values adequate if <0.08 (26, 27). Second
+and last step, if a scale had two or more
+dimensions, the correlation between the dimensions was evaluated, in order
+to test whether dimensions could overlap. Clear differentiation between the
+two dimensions can be considered when the correlation is less
+than 0.80 (23).

@@ -1,0 +1,8 @@
+Leybourne, Newbold & Vougas (LNV) (1998)40, who suggested gradual integration
+of structural changes to the model with a smooth transition
+instead of instantaneous integration, developed a unit root test as
+an alternative to the unit root tests with structural breaks.
+This test, in which structural breakage is taken into account
+with a logistic function, allows smooth structural transitions and constitutes
+the beginning of nonlinear tests. Logistic soft transition regressions were
+created by defining three models;

@@ -1,0 +1,21 @@
+Two additional CorIFA CIA studies focused on verb usage. Guedes
+(2017) examined the most frequent academic verbs in argumentative essays
+from CorIFA, comparing their usage to that in the British
+Academic Written English corpus (BAWE). Nunes and Orfanò (2020) analyzed
+verbs in research abstracts, specifically within the system of transitivity
+in passive that-clauses, and contrasted the learner corpus results with
+those from a Lingua Franca Corpus composed of abstracts from
+both soft and hard sciences. Guedes (2017) found that CorIFA
+essays exhibited limited variation in action verbs and a low
+frequency of adverb + verb collocations compared to BAWE, indicating
+Brazilian learners’ limited familiarity with academic register. Regarding abstracts, Nunes
+and Orfanò (2020) reported that learners tended to use more
+mental verbs (e.g., conclude, verify, assume), whereas expert writers preferred
+relational verbs (e.g., show, demonstrate, reveal). Additionally, learners often omitted
+the conscious agent, resulting in a more detached stance toward
+their findings, while expert researchers demonstrated greater engagement with their
+object of study and displayed more intellectual authority. These findings
+suggest that developing authorship is a skill that should be
+addressed in English for Academic Purposes (EAP) instruction, and that
+corpus-driven linguistic analyses of verb variation and collocations can provide
+valuable insights for teaching practice.

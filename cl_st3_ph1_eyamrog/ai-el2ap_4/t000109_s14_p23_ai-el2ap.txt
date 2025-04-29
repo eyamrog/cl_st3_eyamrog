@@ -1,0 +1,5 @@
+As previously described, public transportation has a defined capacity; however,
+there remains a probability of close contact among individuals. This
+probability is influenced by the extent to which individuals adhere
+to mask usage and social distancing measures, consistent with the
+dynamics observed in other locations within the model.

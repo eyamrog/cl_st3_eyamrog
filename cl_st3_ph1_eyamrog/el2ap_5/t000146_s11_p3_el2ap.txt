@@ -1,0 +1,25 @@
+In a recent study, Velez-Cuartas, Lucio-Arias and Leydesdorff [16] compared
+the degree of visibility of LAC publications in WoS and
+SciELO to determine the dissemination of scientific knowledge in LAC.
+They found that LAC scientific communications continued to be written
+in in Spanish and Portuguese, and this persistence can be
+attributed to the fact that these are the main languages
+in the region, owing to the geographical distribution of the
+collaborators. Collaborations in LAC are generally mediated by the skills
+of developed countries, particularly in Europe. Researchers from LAC countries
+play a leading role as first authors in two thirds
+of multi-authored papers; in other words, LAC researchers are well
+integrated in the global dynamics of science. It has been
+found that scientific publications from Latin American countries indexed in
+WoS in Open Access (AA), are mainly published in English
+(70.37%), followed by Portuguese (17.86%) and Spanish (11.63%) [17]. Other
+languages, such as French, Italian and German, represent only 0.19%.
+Compared with the distribution of languages within the total number
+of LAC publications indexed by WoS, the presence of Spanish
+and especially Portuguese is significantly higher in the AA sample
+(11.63% and 17.86% as opposed to 7.40% and 7.44%, respectively),
+while, as a result, the dominance of English is low
+(70.37% as opposed to 84.96% in the total sample). In
+contrast, papers indexed in SciELO CI are mainly published in
+Spanish (39.60%), followed by Portuguese (33.30%) and English (27.07%). Other
+languages account for only 0.03% [17].

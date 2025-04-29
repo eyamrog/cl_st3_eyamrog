@@ -1,0 +1,13 @@
+Rituximab is commonly used in the treatment of neuromyelitis optica
+spectrum disorder (NMOSD). Its administration is associated with an increased
+risk of severe viral infections through several mechanisms, as previously
+described. Monitoring immunoglobulin levels and providing replacement therapy when indicated
+may help mitigate this risk. In the context of B-cell
+monitoring for NMOSD, assessing CD27+ memory B-cells, rather than CD19+
+B-cells, may offer a more accurate indicator of rituximab efficacy.
+Evidence from one study indicates that over half of NMOSD
+relapses occurred when CD19+ B-cell counts were below 0.01 ×
+10^9/L but remained above the therapeutic threshold for CD27+ memory
+B-cells. However, since CD27 marker assessment is not routinely available
+in clinical practice and NMOSD relapses can be life-threatening, it
+is recommended to maintain rituximab administration at regular six-month intervals.

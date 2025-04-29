@@ -1,0 +1,10 @@
+In this study, we conduct a time-series analysis of deaths
+attributed to COVID-19, referencing each death by the actual date
+of occurrence rather than the date of test result confirmation.
+The data series is sourced from the Civil Registry of
+Brazil. Our analysis indicates that social distancing strategies (SDS) had
+a significant effect in reducing the number of deaths in
+São Paulo State. Additionally, we estimate both the reduction in
+mortality associated with the implementation of SDS and the level
+of social distancing required to effectively halt the transmission of
+the disease.

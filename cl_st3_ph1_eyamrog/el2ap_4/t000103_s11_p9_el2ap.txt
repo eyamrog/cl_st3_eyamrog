@@ -1,0 +1,6 @@
+The examples so far are not ambiguous, and it is
+not difficult to identify the anaphor’s antecedent. But if we
+change the name Mary to Peter, as in (5), would
+people think that the anaphor’s antecedent is the subject or
+the complement of the main clause? Or maybe another referent,
+altogether - someone not mentioned at all in the sentence?

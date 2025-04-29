@@ -1,0 +1,24 @@
+The main advantage of SCCS is that time invariant confounders
+that act on the standard rates are rigorously controlled. These
+factors are like: sex, location, genetics, socio economic factors and
+underlying health condition (1,5,12). It is also cheaper and easier
+to collect data since the design only requires cases with
+the event of interest. Also, as an advantage is the
+methodological efficiency compared to the cohort design, for example, in
+the surveillance of adverse events after vaccination, a traditional cohort
+study may not be applicable for full coverage of the
+effects since it would be a challenge to recruit unvaccinated
+controls as the surveillance systems normally collect data on individuals
+who reported an adverse event. The SCCS requires a small
+sample of the population to be studied thus it can
+produce results that are clinically and statistically valid from just
+a few cases (1,4). Some of the limitations of the
+SCCS design include: it does not produce estimates of absolute
+incidence but only estimates of relative incidence; as one of
+its assumptions, it requires that the probability of exposure is
+not affected by the occurrence of an outcome event, the
+effect of exposure has to be transient, variations over time
+are not adjusted for, it is prone to selection and
+information bias (normally uses information from surveillance databases). For non-recurrent
+events, the SCCS design works only when the event risk
+is small over the observation period (1,12)

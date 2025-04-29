@@ -1,0 +1,5 @@
+The ICU community must be prepared for the challenges associated
+with this pandemic. Streamlining of workflows for rapid diagnosis and
+isolation, clinical management, and infection prevention will matter not only
+to patients with COVID-19, but also to health-care workers and
+other patients who are at risk from nosocomial transmission [38].

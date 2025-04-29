@@ -1,0 +1,12 @@
+In step with Sarstedt, Ringle, Cheah, Ting, Moisescu & Radomir
+(2020) and Schamberger, Schuberth, Henseler & Dijkstra (2020), a further
+analysis was conducted so that the present article can confirm
+that the data does not contain outliers with the potential
+to distort the results of structural equation models (Cook’s distance),
+the relationships of model are linear (Linktest) and the model
+has no omitted constructs bias are omitted (RESET for omitted
+variables). At first, the model was estimated in order to
+implement the tests, using the resulting construct scores as input
+for it. Outliers were not identified (D < 1), evidencing
+the linear effect’s robustness (p-value = 0.09) and that omitted
+variables bias does not occur (p- value = 0.31).

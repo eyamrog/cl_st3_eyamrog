@@ -1,0 +1,7 @@
+The satisfaction scale on general professional activity is designed to
+assess various aspects of professional work. Its items evaluate satisfaction
+with the doctor-patient relationship, perceived professional achievements, work availability, perception
+of occupational risk, and expectations regarding the fulfillment of patient
+needs. In the ENSUSALUD survey, the Spanish-language items corresponding to
+this instrument are included in question 82, with codes ranging
+from c2p82_1 to c2p82_6 (see Supplement 1).

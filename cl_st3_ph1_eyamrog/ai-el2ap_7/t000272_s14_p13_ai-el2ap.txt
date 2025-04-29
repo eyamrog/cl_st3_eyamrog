@@ -1,0 +1,6 @@
+Thermogravimetric analysis (TG) and differential thermal analysis (DTA) were conducted
+using a DTG-60 instrument (Shimadzu Corporation, Kyoto, Japan). Approximately 7.0
+mg of each sample was placed in an alumina crucible
+and heated from 25 °C to 900 °C at a
+rate of 10 °C/min under a nitrogen atmosphere, following the
+procedure described by Sette-de-Souza et al. (2018).

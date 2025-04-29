@@ -1,0 +1,8 @@
+Data from 45 individuals of one new species, 10 individuals
+of the other and 10 individuals of Bagrobdella parauchenoglanii, were
+subjected to a Principal Component Analysis (PCA). This analysis was
+done using the FactoMineR (Husson et al. 2020) and factoextra
+(Kassambara & Mundt 2020) packages in R. Bagrobdella auchenoglanii, B.
+fraudulenta and B. anthopenis, each one represented by the mean
+values of the analyzed parameters obtained in Euzet and Le
+Brun (1990) were added to the analysis as supplementary individuals.

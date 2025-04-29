@@ -1,0 +1,3 @@
+Those with prevalent depressive symptoms (BDI>9) and prevalent anxiety symptoms
+(BAI>7) were classified as having co-occurring D&A symptoms. Prevalent co-occurring
+D&A symptoms was treated as a dichotomous variable.

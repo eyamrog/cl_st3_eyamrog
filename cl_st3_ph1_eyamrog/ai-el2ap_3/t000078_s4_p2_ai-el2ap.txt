@@ -1,0 +1,11 @@
+Due to the impact of sub-business districts (SBD) on the
+economy, the identification of sub-centers has been extensively examined in
+the international literature. However, there is a limited number of
+studies addressing sub-center identification in large Brazilian cities. In this
+article, a two-stage identification approach is proposed to reduce the
+subjectivity associated with existing empirical methods. The first stage employs
+an Exploratory Spatial Data Analysis (ESDA) approach to identify potential
+SBD candidates. The second stage introduces the use of a
+Hedonic Spatial Price Model, which represents an innovation in the
+methodology by enabling the testing of the alternative hypothesis regarding
+the existence of SBD.

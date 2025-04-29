@@ -1,0 +1,12 @@
+Data from Brazilian Portuguese support the claim advanced in this
+paper that appositive free relatives exist, contrary to Emonds (1979),
+who argues that free relatives cannot exhibit appositive semantics or
+syntax. I present evidence that the wh-sentence discussed in the
+title of this paper constitutes a free relative with appositive
+content, based on considerations of distribution, matching, the properties of
+quem, and semantic interpretation. The quem-type sentence analyzed here differs
+from standard (headed) appositive relative clauses in that it appears
+to be juxtaposed to, and equivalent with, the nominal it
+modifies, a property that precludes the application of a relativization
+process as described by Kayne (1994) for the derivation of
+such sentences.

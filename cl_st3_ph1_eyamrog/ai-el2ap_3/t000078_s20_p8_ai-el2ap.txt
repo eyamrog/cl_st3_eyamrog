@@ -1,0 +1,11 @@
+The CBD coefficient is not statistically significant in any of
+the functional forms analyzed (Table 4, columns 1-2). When the
+model is adjusted to account for the quadratic effect of
+distance from the CBD, the direction of the coefficients diverges
+from theoretical expectations and remains statistically insignificant (Table 4, columns
+3-4). These findings may be explained by two factors: (a)
+spatial dependence, which could be affecting the coefficient estimates and
+statistical tests, and/or (b) the omission of relevant variables, such
+as the presence of a secondary business district (SBD), which
+would indicate a polycentric urban structure in the case of
+São Paulo.

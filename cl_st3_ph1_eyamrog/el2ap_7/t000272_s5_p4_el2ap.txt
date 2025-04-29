@@ -1,0 +1,20 @@
+It was observed in the DTA curve that the EE
+absorbs less heat than the fractions. All samples show an
+endothermic peak in the range of 85.0 to 130.0 °C,
+consistent with the humidity loss, water and/or volatile solvent used
+in each system. The TG curve of the EE has
+three thermal decomposition events. The first, which is set in
+the range of 30.00 to 86.96 °C is related to
+loss of water and solvent from the extract, as mass
+loss was approximately 4.55% of the total sample. The second
+event (87.01 to 205.75 °C) may be associated with the
+degradation of phytochemical compounds found in the sample, such as
+tannins and flavonoids, with an equivalent mass loss at 21.54%
+(1.33 mg). The third event (from 205.85 °C) could be
+related to degradation of gallic acid present in the sample,
+considering that this temperature coincides with the second step where
+the degradation of phenol lost reaches 51.33% of total sample
+mass (3.17 mg). The fraction chloroform curve is very similar
+to the EE and is even the sample with the
+closest profile to the EE, in respect to both thermal
+decomposition peaks and mass percentage lost in each step.

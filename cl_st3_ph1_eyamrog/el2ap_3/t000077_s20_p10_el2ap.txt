@@ -1,0 +1,5 @@
+To explore this issue, Erro! Fonte de referência não encontrada.
+shows the share of workers that worked from home by
+gender, race, levels of schooling, household location (urban/rural), status in
+employment, age, and economic sector. These shares are calculated within
+each attribute.

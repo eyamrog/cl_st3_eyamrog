@@ -1,0 +1,9 @@
+Despite these findings, the temporal correlation was more pronounced (Figure
+3). At the municipal level in the state of Minas
+Gerais, the analysis of the association between the elapsed time
+since the first notified case and the number of rapid
+tests yielded a correlation coefficient of -0.11. The correlation coefficient
+between the elapsed time and the number of RT-PCR tests
+was -0.22. For the association between the elapsed time and
+the incidence rate, the coefficient was -0.25, and for the
+association with the mortality rate, the coefficient was -0.19.

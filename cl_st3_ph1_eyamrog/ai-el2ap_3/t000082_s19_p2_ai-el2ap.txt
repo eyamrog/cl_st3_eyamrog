@@ -1,0 +1,13 @@
+Cheating interactions were found to influence the number of species
+trait clusters in the networks. At low frequencies of cheating
+interactions (p = 0.01, where p represents the proportion of
+cheating interactions), simulations yielded a low mean number of clusters
+(2.43±0.62; Fig. 2d-f). At intermediate frequencies (p = 0.5), the
+mean number of trait clusters increased (3.03±0.79). However, when the
+majority of interactions in the network were classified as cheating
+(p = 0.9), the mean number of trait clusters decreased,
+resembling the values observed at low frequencies of cheating interactions
+(Fig. 2d-f). These results indicate that increasing the frequency of
+cheating interactions initially promotes trait disparity by increasing the number
+of trait clusters, but this effect is reversed at higher
+frequencies, where trait clusters are reduced or disappear.

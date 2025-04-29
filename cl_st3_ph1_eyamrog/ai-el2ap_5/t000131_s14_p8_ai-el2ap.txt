@@ -1,0 +1,7 @@
+Leaf area (LA) was measured by detaching leaves from the
+entire plant and excising 1 cm² leaf discs from the
+basal, median, and apical regions of each leaf. The mean
+leaf area was estimated using the area and dry weight
+of the discs in conjunction with the total leaf dry
+weight. Specific leaf area (SLA) was calculated as the ratio
+of leaf area to leaf dry mass (dm² g⁻¹).

@@ -1,0 +1,8 @@
+In this figure, application of Price's Law (references 6-8) indicates
+that the proportion of variance explained by the exponential model
+(R² = 0.4306) is greater than that explained by the
+linear model (R² = 0.0202). These results suggest that publications
+on SARS from 1989 to 2020 conform well to Price's
+Law, demonstrating that the growth of scientific literature in this
+research area is best characterized by an exponential model during
+this period.

@@ -1,0 +1,5 @@
+Conclusion: Utilizing a time series of COVID-19 mortality data referenced
+to the actual date of death provides a more accurate
+assessment of the impact of social distancing strategies (SDS) on
+the progression of the COVID-19 epidemic in São Paulo State,
+Brazil.

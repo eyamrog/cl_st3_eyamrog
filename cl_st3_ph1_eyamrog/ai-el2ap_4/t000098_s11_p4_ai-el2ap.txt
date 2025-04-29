@@ -1,0 +1,20 @@
+There is substantial evidence that both the aggressiveness and lethality
+of Covid-19 increase with the age of the affected individual
+[GOLDSTEIN & LEE, 2020: 4; VILLANI et al., 2020: 4;
+O’DRISCOLL et al., 2021: 140]. Age is the variable most
+directly associated with the probability of death from Covid-19, with
+mortality rates increasing exponentially with age across all countries where
+this relationship has been studied [CRIMMINS, 2020: 142]. The primary
+factors underlying this association are the decline in immune function
+and the higher prevalence of comorbidities among older adults [VERITY
+et al., 2020 apud GOUJON et al., 2020]. Age-related deterioration
+of the immune system, including a reduced availability of specific
+naïve T cell subsets, is particularly consequential in the context
+of a novel virus. Additionally, other aspects of immune function
+also decline with age. For example, deregulation in five cytokines
+has been shown to double between the ages of 50
+and 80, increasing the risk of uncontrolled immune responses and
+hyperinflammatory processes, such as cytokine storms, which can overwhelm vital
+organ systems and result in mortality [CRIMMINS, 2020: 142]. Furthermore,
+the prevalence of comorbidities increases steadily with advancing age [BORGES
+& CRESPO, 2020: 6].

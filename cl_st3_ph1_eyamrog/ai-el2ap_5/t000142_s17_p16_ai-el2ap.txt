@@ -1,0 +1,2 @@
+Equation 6 can be reformulated by applying the first-order Taylor
+expansion, resulting in Equation 7.

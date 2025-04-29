@@ -1,0 +1,6 @@
+Insects were identified by keys available in the literature [2,3]
+by experienced taxonomists. The dataset is in Darwin Core format
+41 terms are available for the Suruwaha dataset and 39
+for the Wajãpí dataset. All mandatory fields are present and
+have gone through screening in the FIOCRUZ IPT, metadata fields
+are also available on the online pages.

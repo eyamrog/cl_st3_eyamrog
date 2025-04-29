@@ -1,0 +1,11 @@
+This study is a protocol to describe the rationale, hypothesis
+and planned methods of our systematic review. It was submitted
+for registration in the PROSPERO ‘‘International Prospective Register of Systematic
+Reviews’’ platform. Considering the scenario of need for instant evidence
+to respond to COVID-19 pandemic, we will perform a rapid
+living systematic review, abbreviating the method by running screens of
+titles and abstracts through one author. In addition, this study
+will adopt a living method, continually updating and incorporating new
+clinical trial registrations and relevant data as they become available
+This systematic process will follow the recommendations proposed by the
+Cochrane Collaboration Handbook (5).

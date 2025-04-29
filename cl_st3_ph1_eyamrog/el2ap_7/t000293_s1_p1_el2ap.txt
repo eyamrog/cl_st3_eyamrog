@@ -1,0 +1,3 @@
+Objective: To evaluate the accuracy of chest computed tomography (CT)
+in patients with suspected severe acute respiratory syndrome-related coronavirus-2 (SARS-CoV-2)
+infection at a cancer center.

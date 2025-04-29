@@ -1,0 +1,11 @@
+The data adjustment and analysis procedures were performed using the
+SPSS (Statistical Package for Social Sciences, version 23). The final
+scores of the instruments were obtained with descriptive analyses (absolute
+and percentage frequency, mean, and standard deviation). Four Binomial Logistic
+Regression models (Backward LR method) were used to estimate the
+effects of the independent variables sex, skin color, education, living
+alone, having chronic illness, age (categorized by quartiles in up
+to 24 years, 25-30 years, 31-39 years, and over 39
+years), income, health perception, and meta-worry (dichotomized by the mean
+in above the mean and up to the mean) towards
+symptoms of anxiety and depression.

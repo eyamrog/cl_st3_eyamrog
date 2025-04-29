@@ -1,0 +1,9 @@
+Thus, it is evident that in the areas near the
+intervals around 21578, 29876, 29390, 3952, 11076 have high values.
+As consulted in the database, this is positive because Gene
+S, Gene N and ORF10 were identified. It is important
+to research in more detail what happens around 11078 interval
+(20 nt). It should be clarified that Gene: Orf1ab is
+in the range [269, 21 558] (71% of the entire
+genome) which is extremely wide and the 𝑖𝑚𝑎𝑥, 𝑟 indicates
+something of importance around 11000

@@ -1,0 +1,10 @@
+Implementing open peer review is not straightforward, though. Different traits
+of open peer review serve different editorial goals, and their
+acceptability may vary from one scholarly community to the other
+(Ross-Hellauer; Görögh, 2019). For example, communities traditionally adopting single-blind peer
+review (medicine and natural sciences in the Global North) (Pontille;
+Torny, 2014) are also those adopting open identities (Wolfram et
+al., 2020), suggesting the benefit might be less obvious for
+communities adopting double-blind peer review; and open participation seems more
+popular in the social sciences and humanities than in the
+natural sciences, technology and medicine (Ross-Hellauer, 2017).

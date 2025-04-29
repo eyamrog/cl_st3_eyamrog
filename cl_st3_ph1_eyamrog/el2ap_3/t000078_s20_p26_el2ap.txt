@@ -1,0 +1,9 @@
+As described in the previous section, the coefficients of the
+CBD variable estimated by OLS are robust to the different
+functional forms and specifications, presenting expected signals in all models
+(Table 4, columns 5-8); however, such models have spatial dependence.
+When estimating the model with the control by SBD using
+the SLX estimator, the total effect of the CBD presents
+the expected signals for both matrices of weight considered (Table
+6, columns 18 and 19). The results validate the econometric
+estimation and support the polycentric hypothesis of São Paulo.

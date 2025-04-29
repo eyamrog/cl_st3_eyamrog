@@ -1,0 +1,9 @@
+A detailed analysis of authorship by Brazilian researchers reveals a
+heterogeneous distribution. While articles are authored by individuals from all
+27 Brazilian states, there is a pronounced concentration in a
+limited number of states. Among the documents with at least
+one author from Brazil whose geographic state is identified (n=85,528),
+85.7% are associated with five states: São Paulo (33.4%), Minas
+Gerais (15.4%), Rio de Janeiro (13.7%), Rio Grande do Sul
+(13.1%), and Paraná (10.1%). These states are located in the
+Southeast and South regions of Brazil.

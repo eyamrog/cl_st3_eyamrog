@@ -1,0 +1,8 @@
+Workers with a completed college education and those employed in
+the public sector exhibited notably higher rates of participation in
+remote work, with statistically significant differences compared to individuals with
+lower educational attainment and those in other employment sectors. Additionally,
+there was a direct, strong, and monotonic relationship between remote
+work participation and labor income, as the proportion of workers
+engaged in remote work increased markedly from the 60th income
+percentile and accelerated further from the 80th percentile onward.

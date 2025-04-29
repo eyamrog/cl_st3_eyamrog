@@ -1,0 +1,22 @@
+Our data indicated that M. glomerata and M. laevigata plants
+grown under conditions of retention of solar radiation flux of
+up to 50% had higher A than plants grown under
+I75. Lower A under I75 is presumably the result of
+a combination of many factors such as thinner leaves, low
+stomatal density, decreased gs, and low light intensity. These factors
+may result in lower intercellular CO2 concentration (Ci), Rubisco activity,
+and electron transporters (Lambers et al. 1998). Notably, plants grown
+under I25 exhibited higher A values than plants grown under
+full sunlight (I0). This effect was observed in both species,
+suggesting that the irradiation growth condition was too high at
+I0, which potentially induced dynamic photoinhibition. Fv/Fm is a parameter
+that indicates photoinhibition level, and smaller values than 0.75 indicate
+photoinhibition with a concomitant reduction of the maximum quantum efficiency
+of PSII (Bolhàr-Nordenkampf & Öquist 1993). Under full sunlight conditions,
+the reduced Fv/Fm at noon and subsequent recovery at the
+end of the day is evidence of dynamic reversible photoinhibition
+(Bolhàr-Nordenkampf & Öquist 1993). The dynamic photoinhibition (inactivation of PSII)
+is an efficient defense mechanism because the increase in non-photochemical
+dissipation when the influx of CO2 is reduced (due to
+stomatal closure), prevents the formation of reactive oxygen species (ROS)
+and photooxidative damage (Choudhury & Behera 2001).

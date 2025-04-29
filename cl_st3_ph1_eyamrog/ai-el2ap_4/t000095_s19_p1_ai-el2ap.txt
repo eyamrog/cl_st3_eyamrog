@@ -1,0 +1,16 @@
+A total of 388,657 records from Rio de Janeiro and
+São Paulo (91,532 and 297,125, respectively) were included in the
+analyses. The SIVEP-GRIPE Surveillance System collects a range of variables
+beyond diagnostic information. However, while age data were complete and
+sex data had minimal missing values, other variables such as
+race, years of education, and comorbidities exhibited high rates of
+non-response. Data quality also varied substantially across different settings. For
+example, missing information on race was 13% in public healthcare
+services in the interior of São Paulo, compared to 54%
+in private sector records from the capital of Rio de
+Janeiro. Across all settings, race data were consistently less complete
+in private services than in public ones. Regarding educational attainment,
+the proportion of missing data approached 80% in most comparisons,
+except for public and private services in the interior of
+São Paulo, where missingness, although still considerable, was approximately 50%
+(Table 1).

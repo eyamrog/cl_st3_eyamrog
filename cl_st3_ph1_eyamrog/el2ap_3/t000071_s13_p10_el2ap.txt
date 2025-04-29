@@ -1,0 +1,9 @@
+For its part, Cabells International was generous enough to undertake
+a comparison of PKP’s list of journals with those in
+Predatory Reports by matching the journal’s ISSNs (International Standard Serial
+Number) across the two lists. Limiting the match to journals
+with ISSNs reduced Cabells’ list to 7,490 titles (out of
+15,470) and the PKP’s to 22,802 (out of 25,671). Within
+this set, 237 journals appeared on both lists, representing 3.2
+percent of Cabells list (with ISSNs), and 1.0 percent of
+the journals using OJS (with ISSNs).

@@ -1,0 +1,21 @@
+Figure 1 presents the classical framework summarizing the results of
+the “U-Multirank” (https://www.umultirank.org/export/sites/default/press-media/media-center/universities/2020/country-reports/UK-Country-report-2020.pdf). The diagram illustrates the five ranking dimensions:
+Teaching and Learning (green), Research (pink), Knowledge Transfer (blue), International
+Orientation (orange), and Regional Engagement (purple). Each dimension is further
+subdivided into specific indicators as follows. Teaching and Learning includes:
+(1) Bachelor graduation rate, (2) Master graduation rate, (3) On-time
+graduation (bachelor), and (4) On-time graduation (master). Research comprises: (5)
+External research income, (6) Size-normalized research publications, (7) Art-related output,
+(8) Citation rate, (9) Top-cited publications, (10) Interdisciplinary publications, and
+(11) Postdoctoral positions. Knowledge Transfer consists of: (12) Income from
+private sources, (13) Co-publications with industrial partners, (14) Size-normalized patents
+awarded, (15) Industry co-patents, (16) Spin-offs, (17) Publications cited in
+patents, and (18) Income from continuous professional development. International Orientation
+includes: (19) Foreign language bachelor programmes, (20) Foreign language master
+programmes, (21) Student mobility, (22) International academic staff, (23) International
+doctorate degrees, and (24) International joint publications. Regional Engagement comprises:
+(25) Bachelor graduates employed in the region, (26) Student internships
+in the region, (27) Regional joint publications, (28) Income from
+regional sources, and (29) Master graduates employed in the region.
+Further methodological details and calculation procedures for each indicator are
+available in the U-Multirank Indicator Book (https://www.umultirank.org/export/sites/default/press-media/documents/Indicator-Book-2020.pdf).

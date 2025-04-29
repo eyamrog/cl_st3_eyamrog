@@ -1,0 +1,11 @@
+Second, the centrality of a cheater species does not change
+the trait disparity pattern that results from mutualisms with cheating
+interactions. Although species centrality is one of the best measures
+to identify important species in ecological networks (Martín González et
+al. 2010), it is not the only force driving the
+structure and dynamics of networks. For instance, the distribution of
+mutualistic and antagonistic interactions between component species within a network
+has an impact in maintaining the network structure when facing
+perturbations (Montesinos-Navarro et al. 2017). A next step for our
+work is to explore how the position of certain cheating
+interactions could change the coevolutionary dynamics.

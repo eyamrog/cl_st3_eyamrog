@@ -1,0 +1,27 @@
+The M protein presents three transmembrane domains and is responsible
+for the shape of virions, promoting the membrane curvature and
+binding to the nucleocapsid (Neuman et al. 2011). It is
+the most abundant structural protein in the virion, having approximately
+25–30 kDa and presenting a small glycosylated ectodomain at the
+N- terminal and a larger C-terminal endodomain that extends from
+6 to 8 nm in the viral particle (Nal et
+al. 2005). M protein forms a dimer in the virion
+and can adopt two different conformations, interacting with nucleocapsid N
+protein and S protein (Neuman et al. 2011). The interaction
+with the nucleocapsid N protein promotes the complete assembly of
+the virion and was mapped to occur between the C-terminal
+of the M protein endodomain and the N protein CTD
+(Hurst et al. 2005). As already reported, its interaction with
+protein E has also been demonstrated (Chen et al. 2009a).
+M protein directs most of the protein-protein interactions necessary for
+the assembly of coronaviruses. A study showed that the expression
+of M protein alone is not sufficient for the formation
+of virus-like particles (VLPs) (Bos et al. 1996). However, when
+M protein was expressed together with E protein, the formation
+of VLPs occurred, suggesting the important role of the two
+proteins in producing the envelopes of coronaviruses. A study showed
+that the surface proteins of coronaviruses S, M, and E
+show differential subcellular locations when expressed alone, suggesting that additional
+cellular or viral factors may be necessary for coordinated traffic
+to the viral assembly site in the ERGIC (Nal et
+al. 2005).

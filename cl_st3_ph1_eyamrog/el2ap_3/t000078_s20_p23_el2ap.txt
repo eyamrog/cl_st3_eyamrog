@@ -1,0 +1,4 @@
+The main concern in this section is the validity of
+the identification strategy, i.e., whether the identification strategy correctly identifies
+subcenters. We carry out robustness tests of the SBD identification,
+trying different spatial matrix specifications, and changing the functional form.

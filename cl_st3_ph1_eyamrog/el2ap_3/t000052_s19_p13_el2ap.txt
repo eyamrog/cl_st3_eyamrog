@@ -1,0 +1,3 @@
+- low values for the variables Hd_b, Bd_.x, Bv_x, cx,
+Hv_a, Hd_a, Hv_b, Hd_e, III_IV and Hd_d (variables are sorted
+from the weakest).

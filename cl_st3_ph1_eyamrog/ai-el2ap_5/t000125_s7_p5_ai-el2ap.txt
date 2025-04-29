@@ -1,0 +1,10 @@
+In this context, a new approach emerged in Europe, leading
+to the proposal of a multidimensional ranking system (Van Vught
+& Ziegele, 2012). This initiative resulted in the development of
+"U-Multirank" (https://www.umultirank.org/), which assesses the performance of academic institutions across
+five dimensions: (1) Teaching and Learning, (2) Research, (3) Knowledge
+Transfer, (4) International Orientation, and (5) Regional Engagement. Each dimension
+is measured using multiple indicators. This structure allows users to
+evaluate universities based on individual indicators or groups of related
+indicators, thereby enabling users to focus on the aspects most
+relevant to their specific interests.

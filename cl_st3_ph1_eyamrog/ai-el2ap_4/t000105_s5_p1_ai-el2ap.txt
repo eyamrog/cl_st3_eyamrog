@@ -1,0 +1,25 @@
+The rapid transmission of SARS-CoV-2 and the clinical severity of
+COVID-19 pose significant diagnostic challenges, necessitating the use of methods
+capable of excluding current infection, confirming recent infection, identifying past
+infections, and evaluating the immune response. Accurate assessment of viral
+prevalence is essential to inform the implementation of appropriate containment
+measures [8,9]. As most patients develop detectable antibodies only during
+the second week after symptom onset, the World Health Organization
+does not recommend the use of rapid antibody tests for
+SARS-CoV-2 in routine clinical practice [23,24]. Nevertheless, these tests are
+valuable in population-based studies, as they facilitate the identification of
+previous exposure to the virus and provide data on the
+distribution and characteristics of individuals who have been infected, thereby
+indicating regions with higher viral circulation [8,9]. Immunochromatographic tests for
+antibody detection are cost-effective and simple to administer, enabling frequent
+testing and supporting efforts to limit disease spread; however, they
+should not be used as substitutes for reference diagnostic methods
+such as RT-PCR [8-10,25]. A review of the effectiveness of
+immunochromatographic antibody tests in seroprevalence surveys demonstrated a marked increase
+in diagnostic accuracy over the first three weeks following symptom
+onset, with sensitivities of 30% in the first week, 70%
+in the second week, and over 90% in the third
+week, and reported a low false-positive rate of 2% [8].
+Additionally, immunochromatographic serology tests exhibit higher diagnostic sensitivity when performed
+with serum or plasma samples compared to other sample types
+[26].

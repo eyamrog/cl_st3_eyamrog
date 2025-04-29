@@ -1,0 +1,7 @@
+The geographical coordinates of the 18 sample municipalities were extracted
+from the platform Global Gazetteer Version 2.3 (http://www.fallingrain.com/world/.). These data
+were the basis for the devising of a map covering
+the phytogeographic areas [46], utilising QGis software (V. 3.22.3-Białowieża). The
+culicids in the collection were captured by different methods, such
+as entomological nets, aspiration, light traps (CDC) and Shannon traps
+containing a fluorescent bulb as bait. [1,2,17].

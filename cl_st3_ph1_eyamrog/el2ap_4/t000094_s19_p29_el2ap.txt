@@ -1,0 +1,11 @@
+The pages where there is written text are given attention.
+Regarding the visual, it is given importance by different patterns.
+In some cases, there are characters following a centrifocal-polarised pattern
+because they are in two different corners of the following
+pages: 7, 11, 16, 20, 23, 27, and 28. However,
+there are other cases where characters are represented in lines,
+following the iterating: aligned pattern, as in pages 8, 12,
+15, 19, and 24. When characters are represented in lines,
+they consist of a single focus of attention. But when
+the pattern is centrifocal-polarised, there are different focuses of attention
+joined by vectors.

@@ -1,0 +1,5 @@
+Hospitalization data for Severe Acute Respiratory Syndrome (SARS) was obtained
+by the SIVEP-Gripe Database, available and freely accessible at https://dados.gov.br/dataset/bd-srag-2020,
+and no approval by the ethics committee is required. To
+classify the service as public or private, we used the
+CNES Database, available at http://tabnet.fiocruz.br/dash/menu_dash.htm.

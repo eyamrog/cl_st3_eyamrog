@@ -1,0 +1,21 @@
+Host factors can also influence susceptibility to infection and disease
+progression. Research shows that SARS-CoV-2 use angiotensin-converting enzyme 2 (ACE2).
+The S-glycoprotein located on the surface of the coronavirus can
+bind to the ACE2 receptor on the surface of human
+cells. After binding to the host cell membrane, the RNA
+of the viral genome is released into the cytoplasm and
+translates two polyproteins, pp1a and pp1ab that encode non-structural proteins
+and form the replication and transcription complex (RTC) and the
+replication cycle continues as stated above 18. Host antiviral defense
+plays an important role in the course of SARS-CoV-2 infection.
+As the first line of defense against viruses, type I
+interferon (IFN) plays a critical role in initiating host antiviral
+responses. Following virus infection, the host innate immune system is
+activated by the recognition of viral-specific components such as ssRNA,
+dsRNA or glycoproteins.22 The Toll-like and RIG-I-like receptors are the
+most common host pattern recognition receptors (PRRs) that respond to
+RNA viruses.23 The domains then initiate an antiviral signaling cascade
+by leading the phosphorylation and activation of IRF3 and NF-κB,
+leading to the production of type I IFN. IFN-β secretion
+induces IFN-stimulated genes, which will induce the expression of host
+antiviral effector factors.24

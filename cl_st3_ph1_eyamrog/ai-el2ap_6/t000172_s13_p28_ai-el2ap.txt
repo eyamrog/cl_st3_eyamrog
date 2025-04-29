@@ -1,0 +1,21 @@
+The expression of viral proteins influences cell fate by regulating
+not only the cell cycle but also apoptosis, which is
+critical for viral replication. The SARS-CoV S protein suppresses the
+extrinsic apoptotic pathway by downregulating TRAIL and FasL, while simultaneously
+activating the intrinsic apoptotic pathway through upregulation of Bax and
+downregulation of Bcl-2, Mcl-1, Bcl-xL, and MDM2. This results in
+increased levels of p53 and induction of p21, leading to
+G1/S cell cycle arrest (Yeung et al. 2008). Accumulation of
+the ORF9b protein in the nucleus induces caspase 3-mediated apoptosis
+(Sharma et al. 2011). The SARS-CoV E protein also inhibits
+apoptosis by downregulating IRE-1 (inositol-requiring enzyme-1) and DUSP1/10, which are
+key regulators of the innate immune response and apoptosis (DeDiego
+et al. 2011). The SUD domain of PLpro interacts with
+RCHY1 to promote p53 degradation, thereby affecting cell cycle progression
+and apoptosis, whereas overexpression of p53 has been shown to
+inhibit viral replication (Ma-Lauer et al. 2016). Additionally, SARS-CoV promotes
+the expression of a truncated form of p53 that inhibits
+apoptosis mediated by wild-type p53 (Leong et al. 2005). This
+is further supported by findings that Porcine epidemic diarrhea virus
+(PEDV) production is increased in p53 knockout cells (Hao et
+al. 2019).

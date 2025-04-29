@@ -1,0 +1,9 @@
+The data extraction will be conducted by two authors independently
+(CRRF and FSAR). Discrepancies or disagreements on this process will
+be discussed and, if necessary, solved by a third author
+(VFMT). We will develop a form to extract data from
+included studies, which will be used to insert data related
+to: (I) Demographic and clinical characteristics of the patients; (II)
+Time points used for the assessments; (III) Epidemiological characteristics (IV)
+Outcome measures; (V) Sources of funding; (VI) Possibility of conflict
+of interests.

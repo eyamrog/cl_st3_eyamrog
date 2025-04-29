@@ -1,0 +1,9 @@
+Remdesivir is an antiviral prodrug of remdesivirtriphosphate with in vitro
+activity against coronaviruses.32,33 Remdesivir-TP acts as an inhibitor of RNA-dependent
+RNA polymerases and competes with adenosine-TP for incorporation into emerging
+viral RNA chains.34 Hydroxyhloroquine and chloroquine have in vitro activity
+against SARS-CoV-2 32,35–37 and the mechanism of action includes inhibition
+of viral enzymes (RNA polymerase), viral protein glycosylation, virus assembly,
+new virus particle transport, and virus release. Other mechanisms may
+also involve ACE2 receptor inhibition, decrease acidity in endosomes, and
+immunomodulation of cytokine release.5,32,36

@@ -1,0 +1,11 @@
+vt represents a stationary process with a mean of zero.
+Therefore, the initial value of Y in Model A is
+stationary around a mean that gradually shifts from α1 to
+α1+α2. Similarly, in Model B, the mean also transitions gradually
+between α1 and α1+α2; however, Model B includes an additional
+constant trend term, distinguishing it from Model A. In Model
+C, the constant term transitions from α1 to α1+α2, while
+the trend term shifts from β1 to β1+β2, both occurring
+gradually, simultaneously, and at the same rate. In this test,
+it is assumed that the transitions in both the constant
+and trend terms occur concurrently and at an identical speed.

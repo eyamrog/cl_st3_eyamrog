@@ -1,0 +1,3 @@
+It was determined that the deviation resulting from a 1%
+shock in the exchange rate returns to equilibrium after approximately
+22.6 days.

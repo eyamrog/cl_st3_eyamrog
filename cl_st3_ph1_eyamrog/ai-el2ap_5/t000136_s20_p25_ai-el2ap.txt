@@ -1,0 +1,12 @@
+Following the procedures outlined by Sarstedt et al. (2020) and
+Schamberger et al. (2020), additional analyses were conducted to verify
+that the dataset does not contain outliers capable of distorting
+the results of the structural equation models (as assessed by
+Cook’s distance), that the relationships within the model are linear
+(evaluated using the Linktest), and that the model is not
+affected by omitted variable bias (tested using the RESET procedure).
+The model was first estimated to facilitate these diagnostic tests,
+utilizing the resulting construct scores as input. No outliers were
+detected (Cook’s distance D < 1), the assumption of linearity
+was supported (p-value = 0.09), and there was no evidence
+of omitted variable bias (p-value = 0.31).

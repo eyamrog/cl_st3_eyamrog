@@ -1,0 +1,11 @@
+As reported in previous studies (Bruscato & Baptista, 2022a, 2022b),
+native speakers of English are not influenced by clause order
+or anaphor salience and typically interpret the anaphor as referring
+to the subject of the main clause. In contrast, learners
+do not exhibit a consistent interpretive preference and generally display
+uncertainty, with the exception of advanced Brazilian learners, who tend
+to interpret a stressed pronoun in the subject position of
+the subordinate clause as referring to the complement of the
+main clause, and Portuguese learners, who tend to interpret non-emphatic
+pronominal cataphora as referring to the subject of the main
+clause.

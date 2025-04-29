@@ -1,0 +1,19 @@
+We found relevant R2 values, especially considering the set of
+variables absent in the model. A R2 of 0.508 indicates
+that the relationships established account for 51% of the variance
+of Donations, which provides the model a reasonable adjustment, given
+its economical character; through the gradation exhibited by Sanchez (2013),
+R2 values lower than 0.2, between 0.2 and 0.5, and
+higher than 0.5 showed a low, moderate and high explanatory
+power, respectively. According to Wetzels et al. (2009), in the
+reflective-reflective type of models, first order constructs reflect the second-order
+constructs, which leads to the conclusion that R2 values of
+the latent variables of the first order reflective constructs indicate
+how much they reflect the latent variables of the second-order
+constructs. R2 of the latent variable of the first order
+reflective construct indicates how much this latent variable is affected
+by the latent variable variance of the second-order construct. Using
+Wetzels et al. (2009) terms, we highlight that in the
+Governance construct, the sub-dimension that best reflects it is Management,
+R2 = 0.528, while for the Fiscal Council sub-dimension we
+achieved R2 = 0.181.

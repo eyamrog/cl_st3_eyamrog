@@ -1,0 +1,7 @@
+To evaluate the feasibility of conducting a meta-analysis, we will
+extract the following data for each primary and secondary outcome
+measure: (a) the total number of patients in each group;
+(b) the number of events in each group for dichotomous
+outcomes; (c) the mean, standard deviation, standard error, median, interquartile
+range, minimum, maximum, and 95% confidence interval for continuous outcomes;
+and (d) the p-value.

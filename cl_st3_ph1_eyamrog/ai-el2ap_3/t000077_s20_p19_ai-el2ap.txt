@@ -1,0 +1,8 @@
+This analysis employs Probit models to estimate the likelihood of
+remote work, with results presented as marginal effects for conditional
+probabilities in Table 3. Column (1) reports estimates from a
+model without controls for federation units, months, or the 36
+labor activity categories. Columns (2) through (4) sequentially introduce fixed
+effects for these variables, with column (4) incorporating all fixed
+effects. The full Probit model estimates are provided in Table
+A2.

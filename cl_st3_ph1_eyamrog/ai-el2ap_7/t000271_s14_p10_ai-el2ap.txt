@@ -1,0 +1,5 @@
+Serum or plasma samples that tested positive for antibodies (IgM,
+IgG, or both IgG and IgM) were subsequently analyzed for
+the presence of SARS-CoV-2 RNA using quantitative reverse transcription polymerase
+chain reaction (qRT-PCR) with the Molecular IDT Integrated DNA Technologies
+SARS-CoV-2 N1/N2/P assay (Promega, Madison, USA).

@@ -1,0 +1,8 @@
+CQ and HCQ have also shown anti-inflammatory activity and have
+been used in inflammatory diseases like rheumatoid arthritis and osteoarthritis
+(Sharma 2020). CQ and HCQ intervene with lysosomal acidification, inhibiting
+antigen presentations, phospholipase A2, Toll-Like Receptors (TLRs), T and B
+cell receptors, and production of cytokines, like IL-1 and IL-6
+(Sinha and Balayla 2020). The inhibition of GSK3β by CQ
+may also be responsible for its immunomodulatory activity against COVID-19
+(Embi et al. 2020).

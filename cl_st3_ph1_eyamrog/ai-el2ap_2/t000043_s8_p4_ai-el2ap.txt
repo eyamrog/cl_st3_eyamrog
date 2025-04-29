@@ -1,0 +1,11 @@
+The self-controlled case series (SCCS) design is appropriate for analyzing
+both independent recurrent events and rare non-recurrent events. Key assumptions
+underlying the applicability of the SCCS method include the rarity
+of observed events, the requirement that the occurrence of an
+event does not influence the probability of subsequent exposure (i.e.,
+events should be independent if they are consecutive), and that
+the occurrence of the event of interest does not censor
+or otherwise affect the observation period. Additionally, the observation period
+for each individual must be independent of the timing of
+events. This latter assumption may be violated in cases where
+death occurs (1,2,4,5,7).

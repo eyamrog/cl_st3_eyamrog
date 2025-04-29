@@ -1,0 +1,21 @@
+Example 1: Table 1 presents the quantitative analysis of small-group
+dialogue across seven distinct tasks. The data indicate variation in
+the frequency and type of student interactions depending on the
+nature of the task. Specifically, tasks that required collaborative problem-solving
+elicited a higher proportion of explanatory and elaborative statements, whereas
+tasks focused on information recall were associated with a greater
+frequency of brief, confirmatory responses. Statistical analysis using ANOVA revealed
+significant differences in the mean number of dialogic turns per
+task (F(6, 84) = 5.32, p < 0.01), suggesting that
+task design substantially influences the quality and quantity of student
+dialogue in small-group settings. Example 2: The qualitative analysis of
+whole-class teaching episodes on evaporation identified several recurring themes in
+teacher-student interactions. Teachers frequently employed open-ended questions to elicit students’
+prior knowledge and to encourage hypothesis generation. Students’ responses demonstrated
+varying levels of conceptual understanding, with some participants providing scientifically
+accurate explanations while others relied on everyday language or misconceptions.
+The analysis also revealed that teachers often used scaffolding techniques,
+such as rephrasing questions and providing prompts, to support students
+in articulating more precise scientific ideas. These findings suggest that
+specific instructional strategies can facilitate deeper engagement with scientific concepts
+during whole-class discussions.

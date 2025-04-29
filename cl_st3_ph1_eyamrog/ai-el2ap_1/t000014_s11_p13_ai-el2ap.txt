@@ -1,0 +1,17 @@
+Although some digital repositories present themselves as fully open access,
+all digital language archives implement specific regulations governing user interaction
+with their holdings, and most employ graded access systems in
+which certain materials are restricted to particular users or subject
+to specific conditions of use (see also §2.5). In terms
+of usage policies, all digital language archives require users to
+accept terms and conditions prior to accessing media files. Many
+archives mandate the creation of a free user account and
+login before granting access to these files. In contrast, catalog
+information, or metadata, is typically available to the public, allowing
+any visitor to view and read it without restriction. While
+the implementation of graded access to media files is common
+across language archives, the mechanisms for managing access differ significantly.
+For example, AILLA utilizes a system of numbered levels to
+indicate access grades, whereas other archives assign specialized user roles
+or employ color coding to designate access permissions for specific
+materials.

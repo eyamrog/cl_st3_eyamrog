@@ -1,0 +1,17 @@
+In the second stage, real estate formal market data are
+used. The database was obtained from the Brazilian Company for
+Heritage Studies (Embraesp) with 4,758 thousand vertical and horizontal newly
+constructed housing between January 2006 and March 2013 for the
+municipality of São Paulo (MSP). The base covers 271.861 apartments
+and houses in the period. According to the 2010 Census,
+the number of domiciles (formal and informal) is 3,573,509 units
+in the MSP. Even though we are considering about 6%
+of total domiciles in the MSP, each property launch price
+captures the average market price behavior of each neighborhood composed
+of many existing apartments and houses. Furthermore, the Embraesp database
+permits the understanding that property launching growth rate and housing
+typologies are spatially heterogeneous, reflecting the non-isotropic pattern of land
+use policy, consumer behavior, and financial viability of constructor companies.
+This database has already been widely used in applied work
+(Biderman, 2001; Maciel, 2010; Nadalin, 2010; Campos, 2017; Campos and
+Almeida, 2018).

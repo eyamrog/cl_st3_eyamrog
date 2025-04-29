@@ -1,0 +1,12 @@
+Certain bacterial taxa have experienced an expansion of insertion sequence
+elements during their evolution, leading to genomes that contain hundreds
+of 1–2 kbp repeat sequences. Accurate assembly of these genomes
+is challenging because short-read polishing tools often have difficulty correcting
+errors within high-copy-number repeats (Figure 2B). Therefore, it is important
+to maximise the accuracy of assemblies generated using Oxford Nanopore
+Technologies (ONT) data alone by employing high ONT sequencing depth,
+R10.4.1 flow cells, ‘super’ basecalling, and Medaka polishing, thereby reducing
+the number of errors that remain for short-read polishing. Furthermore,
+the use of mate-pair Illumina sequencing may facilitate the correction
+of errors within repeat regions by Polypolish, as it can
+decrease the frequency of ambiguous short-read alignments.

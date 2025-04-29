@@ -1,0 +1,14 @@
+Calculating adjusted mortality rates to compensate for the effect of
+differences in the age composition of populations is the main
+objective of this article. The results of those calculations, performed
+according to the methodology described in the previous section, are
+reported in Table 3, which gathers information on all 28
+countries for which it was possible to obtain age- disaggregated
+mortality data. Immediately, we must emphasize that the success of
+the adjustment can be inferred from the correlation coefficients between,
+on the one hand, an indicator of population aging and,
+on the other hand, the crude and adjusted mortality rates.
+The correlation between the percentage of the population aged 60
+and over and the crude rate is not only positive
+but also quite significant: 0.573. With the adjusted rate, the
+same indicator presents a very low correlation (-0.252).

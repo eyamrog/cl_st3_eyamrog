@@ -1,0 +1,12 @@
+An implication for practice is that both internal and external
+journal evaluations should account for journal size when interpreting authorship
+concentration indexes. For example, in a journal publishing one thousand
+articles, the most prolific author may contribute only 1% of
+the total output (ten articles), whereas in a journal publishing
+fifty articles, even the least prolific authors would represent at
+least 2% of the total. Additionally, larger journals are capable
+of serving broader and more diverse scientific communities compared to
+smaller journals. It is also important to note that the
+Gini coefficient, or any other measure of inequality, tends to
+be higher for aggregate populations than for their sub-populations, provided
+there is any inequality among the sub-populations (Pyatt 1976).

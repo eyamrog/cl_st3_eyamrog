@@ -1,0 +1,9 @@
+Demographic rates were calculated for plants with a diameter at
+breast height (dbh) of less than 2.5 cm (and greater
+than 1 m in height) as well as for those
+with a dbh greater than 2.5 cm. Additionally, three size
+classes were defined for the shrub-tree synusia: class I included
+individuals with a dbh less than 2.5 cm (and height
+greater than 1 m), class II comprised individuals with a
+dbh between 2.5 cm and 5 cm, and class III
+included individuals with a dbh greater than 5 cm.

@@ -1,0 +1,13 @@
+To represent buildings as houses, workplaces, shops, recreational places, etc.,
+city grid maps were used (they were provided by Paraná
+Municipality Land Registry Office). Tools such as Google Maps and
+Google Places® were also used7, with which a first mapping
+of different areas of the city under study was obtained.
+A visual inspection of the plots and their labels was
+then performed in situ, in order to verify the information
+provided by the resources mentioned. In this way, assisted by
+tracking tools based on GPS, the GIS map was completed
+with the field survey. With this information in the system
+start routine, each Ha is assigned the attributes linked to
+this submodel, until filling the entire map with the number
+of human agents corresponding to each plot of land.

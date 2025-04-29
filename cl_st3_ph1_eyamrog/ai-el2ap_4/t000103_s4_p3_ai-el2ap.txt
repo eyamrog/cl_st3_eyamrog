@@ -1,0 +1,12 @@
+The findings indicate that native speakers of Portuguese generally employ
+the Position of Antecedent Strategy when resolving ambiguous anaphora, with
+Brazilian speakers more frequently interpreting zero anaphora as referring to
+the subject of the main clause compared to European Portuguese
+speakers. For participants from both language varieties, pronominal cataphora appears
+to present greater difficulty in resolution than other types of
+anaphora. While the majority of participants selected either the subject
+or the complement of the main clause as the antecedent
+of the anaphor, a subset of participants identified an alternative
+referent—one not previously mentioned in the sentence—as the antecedent in
+cases of pronominal cataphora, a pattern also reported in Italian
+by Sorace and Filiaci (2006).

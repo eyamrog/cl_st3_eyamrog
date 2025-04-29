@@ -1,0 +1,8 @@
+Equation (7) specifies the model as follows: 𝛥𝑦𝑡 = 𝜆1𝛥𝑦𝑡−1
++ 𝜆2(𝛥𝑦𝑡−1)^2 + 𝜆3(𝛥𝑦𝑡−1)^3 + ∑_{j=1}^{p} 𝜆4,𝑗𝛥𝑦𝑡−𝑗 + 𝜀𝑡, where
+𝛥𝑦𝑡 denotes the first difference of the variable of interest
+at time t, 𝜆1, 𝜆2, and 𝜆3 are coefficients associated
+with the linear, quadratic, and cubic terms of the lagged
+first difference, respectively, 𝜆4,𝑗 represents the coefficients for additional lagged
+differences up to order p, and 𝜀𝑡 is the error
+term.

@@ -1,0 +1,6 @@
+Residuals of soil penetration resistance were evaluated using the Shapiro-Wilk
+test, which indicated that the data did not follow a
+normal distribution. Consequently, the Kruskal-Wallis test was applied, followed by
+the post hoc Dunn test, to assess significant differences between
+treatments. All statistical analyses were performed using PAST software with
+a significance level of α < 0.05.

@@ -1,0 +1,13 @@
+In addition, we include demographic, professional and economic information in
+our analysis. Sex, age and marital status (whether they are
+currently living with a couple) were the demographic variables. We
+also evaluated additional professional information, such as having a specialty
+(yes, in process, or no), whether they worked in other
+institutions (yes / no), self-reported work-related illness (yes / no),
+type of organization where they work (Ministry of Health, EsSalud,
+Armed forces and national police, or Private clinics), and time
+spent working. Additionally, self-reported monthly income was evaluated and categorized
+according the minimum wage (less than four, four to ten,
+and more than ten). Minimum wage was 750 Peruvian soles
+(PEN) or US$222.5 (considered to be an exchange rate of
+3.37 soles per US dollar).

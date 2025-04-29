@@ -1,0 +1,5 @@
+We used the dimensions identified through Multiple Correspondence Analysis (MCA)
+as constructs to define the structural model. Similar to the
+approach taken with the single-item construct Donations, we assigned to
+each observation the standardized score derived from the sum of
+the variables associated with each dimension.

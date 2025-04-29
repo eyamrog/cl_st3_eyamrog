@@ -1,0 +1,20 @@
+In addition to UVC, there are other methods that can
+be used for that objective, such as the use of
+Ozone (O3) and the Advanced Oxidation processes. The first, stands
+out for its high oxidative capacity (2.07 mV), making it
+an excellent sanitizer capable of inactivating several pathogenic microorganisms [27,
+28, 29]. However, both the World Health Organization (WHO) and
+the Brazilian National Environment Council (Conselho Nacional do Meio Ambiente
+- CONAMA) regulate the maximum concentrations of this molecule, because
+when at high levels, it is associated with several respiratory
+problems [30, 31]. As for the Advanced Oxidation processes, also
+called Active Oxidation, the PHI (Photo Hydro Ionization) cells must
+be highlighted. Its operation occurs through high intensity UV lamps
+directed and positioned inside the equipment or in the insufflation
+ducts. This luminous medium when in contact with a specific
+metallic mesh results in the formation of Hydrogen Peroxides (H2O2),
+hydroxides, superoxide ions and ozone ions in low concentration [32,
+33]. Thus, these chemical by-products interact with the microorganisms present
+in the air and on the surface, inactivating them and
+purifying the environment [34]. Therefore, both processes are efficient in
+fighting pathogens.

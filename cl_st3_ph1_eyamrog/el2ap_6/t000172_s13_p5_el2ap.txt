@@ -1,0 +1,7 @@
+1) The RTC, after binding to the 3’ anti-leader sequence
+of the viral genome, initiates the synthesis of negative RNA
+throughout the molecule until it finds the leader region in
+the 5’ end, generating a complete copy of negative polarity
+of the genome, called antigenome. This antigenome will serve as
+a template for the synthesis of the genome (+) (figure
+2, processes 1a and 1b).

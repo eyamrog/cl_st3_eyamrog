@@ -1,0 +1,4 @@
+In view of the presence of a co-integrating vector among
+the variables as evidenced by the co- integration tests, VECM
+is conducted to check the speed of adjustment from short-run
+dynamics to their long-run static disposition: <>

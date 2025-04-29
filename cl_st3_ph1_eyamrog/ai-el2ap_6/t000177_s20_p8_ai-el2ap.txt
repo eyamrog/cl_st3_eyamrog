@@ -1,0 +1,11 @@
+ASHRAE Standard 55 establishes the parameters for thermal comfort, with
+the Predicted Mean Vote (PMV) index incorporating relative humidity, albeit
+to a limited extent. Given the increased attention to airborne
+virus transmission, it is necessary to reconsider the design priorities
+of air conditioning systems, emphasizing not only thermal comfort but
+also the role of relative humidity, which should be considered
+as significant as operative temperature. Additionally, increasing air velocity, even
+in buildings primarily designed for occupant comfort, particularly by directing
+return air downward, may alter the trajectory of airborne pathogens
+and facilitate their removal through return air grilles equipped with
+UV-C lamps [39].

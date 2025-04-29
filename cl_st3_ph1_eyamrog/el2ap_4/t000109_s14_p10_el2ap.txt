@@ -1,0 +1,4 @@
+Human agent population were divided into five age ranges: children,
+young people, adults, older adults and elderly people. Transition constants
+between epidemiological compartments presented in Figure 2 are specific to
+each age range, and are shown in

@@ -1,0 +1,11 @@
+The Anxiety Trait-State Inventory (IDATE), developed by Spielberger et al.
+(1970) and validated for use in Brazil by Biaggio and
+Natalício (1979), is a psychometric instrument with a reported Cronbach's
+alpha coefficient ranging from 0.86 to 0.95 (Spielberger et al.,
+1980). The instrument comprises two scales, each containing 20 items,
+for a total of 40 items, and utilizes a four-point
+Likert response format ranging from "4-very much" to "1-absolutely not."
+The first scale assesses state anxiety (IDATE-E), while the second
+assesses trait anxiety (IDATE-T) (Grös et al., 2007). In the
+present study, the instrument demonstrated a Cronbach’s alpha of 0.85,
+indicating satisfactory internal consistency.

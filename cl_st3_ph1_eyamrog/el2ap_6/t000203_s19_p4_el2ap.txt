@@ -1,0 +1,10 @@
+The main comparisons between countries in the groups 2.1 and
+2.2 or 3.1 and 3.2 support the central hypothesis of
+this work, generating higher incidence, mortality, and lethality ratios in
+countries without vaccination programs. When comparing groups 1.1 and 1.2
+(Table 3), for example, the incidence ratio indicates that the
+incidence in group 1.1 is 6.762 times higher than in
+group 1.2. Also, mortality and lethality are 7.354 and 1.088
+times higher in group 1.1 than in group 1.2, respectively.
+It can be seen that there was no difference between
+acceleration/inhabitants in this comparison.

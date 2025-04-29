@@ -1,0 +1,15 @@
+Adda J (2016) reported that the spread of influenza viruses
+in the twentieth century was closely linked to human mobility,
+with a strong association observed between disease transmission and factors
+such as economic activity and the availability of long-distance transportation.
+This relationship was further supported by Candido D et al.
+(2020), who found that increased air travel distances were correlated
+with a greater spread of COVID-19. Given the similarities in
+transmission mechanisms, it is anticipated that the spread of SARS-CoV-2
+would follow a comparable pattern. Jia et al. (2020) provided
+evidence from China demonstrating a strong association between population movement
+across regions and disease incidence rates. Additionally, their analysis indicated
+that while gross domestic product (GDP) and population size initially
+serve as predictors of disease spread, their predictive value diminishes
+over time, suggesting a subsequent shift of the virus to
+regions with varying economic profiles, including less affluent areas.

@@ -1,0 +1,10 @@
+Biomass of the thalli was measured weekly using an analytical
+balance during each replacement of the culture medium. Prior to
+weighing, thalli were gently blotted with paper towels to remove
+excess surface water. Relative growth rates (RGR) were calculated at
+the end of the cultivation period using the formula recommended
+by Yong et al. (2013): [(Wt/Wi)^(1/t) - 1] × 100,
+where Wt is the wet weight after t days, Wi
+is the initial wet weight, and t is the duration
+of the cultivation period in days. Wet weight and RGR
+were used as indicators of thalli health.

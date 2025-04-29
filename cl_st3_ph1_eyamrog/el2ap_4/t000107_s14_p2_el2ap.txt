@@ -1,0 +1,12 @@
+The objective of the website www.dominiopublico.gov.br is to promote broad
+access to literary, artistic, and scientific works that are in
+the public domain or have had their publication duly authorized.
+Its home page features a basic search form that offers
+the user filters for different types of media (image, sound,
+text, and video). Other home page filters include category, author,
+title, and language. In addition to the basic search section,
+there is a specific section for dissertations and theses, which
+was used for our initial search. In this section, we
+first selected the filter mestrado (master) in the window Nível
+(level) and wrote Tradução (translation) in the window Palavras-Chave (keywords)
+(see Figure 1).

@@ -1,0 +1,11 @@
+Therefore, the absence or poor governance practices can result in
+donors’ reluctance to contribute to NPO. According to Fisman and
+Hubbard (2005), a poor governance leads to a poor management
+monitoring, thus giving rise to agency costs. Figure 2 presents
+the R2 of each endogenous latent variable, which is a
+measure of the model’s accuracy. It is important to mention
+that R2 of the latent variable of the first order
+reflective construct indicates how much this latent variable is a
+sign of the latent variable of the second-order construct and,
+therefore, we analyzed it, since it also generates paths in
+the structural model.

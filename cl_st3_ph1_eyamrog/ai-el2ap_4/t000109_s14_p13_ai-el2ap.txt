@@ -1,0 +1,5 @@
+As noted in the previous section, each Ha is characterized
+by specific epidemiological attributes that influence the parameters of the
+Infectivity submodel, as presented in Table 1. Notable among these
+attributes are the presence of comorbidities or risk factors and
+the presence of symptomatic infected individuals within the household.

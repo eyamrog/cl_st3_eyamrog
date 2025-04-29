@@ -1,0 +1,9 @@
+The variables in this study were grouped into three blocks
+to jointly assess the indicators associated with femicide by Pearson's
+correlation coefficient (r), where the direction and magnitude of the
+associations between the independent variables were assessed using a correlation
+matrix: 1) socioeconomic status; 2) demographic status and 3) services
+and health status. For this analysis, all variables were standardized
+with a mean of zero (0.0) and standard deviation equal
+to one (1.0), due to their different dimensions, which could
+impair their inclusion and interpretation in the model.

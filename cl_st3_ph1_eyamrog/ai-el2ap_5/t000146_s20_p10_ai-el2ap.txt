@@ -1,0 +1,16 @@
+The non-linearity observed in the relationship with the representativeness of
+the SciELO CI domain appears to be partially attributable to
+the countries included in this domain (Fig. 2-B), specifically Brazil,
+the USA, and Spain. Brazil contributes the largest number of
+journals and exerts a relatively significant influence on SciELO CI,
+despite not publishing a proportionate percentage of its output in
+its own language, unlike countries such as Colombia, Cuba, and
+Peru. As previously noted, this domain is not significant for
+the USA. In the case of Spain, the limited representation
+is primarily due to factors related to research production rather
+than research impact. It is important to note that SciELO
+CI is a widely recognized database suitable for analyzing the
+research impact of Latin American and Caribbean (LAC) countries in
+the field of Public and Collective Health. Additionally, all LAC
+countries demonstrate some degree of impact within the broader context
+of the Web of Science (WoS) platform.

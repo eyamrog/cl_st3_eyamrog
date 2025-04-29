@@ -1,0 +1,11 @@
+Three sequential trends in the data relating the number of
+deaths per day attributed to COVID-19 can be identified in
+Figure 1. There is a steep rise in the recorded
+events from March 17th to April 5th, at a rate
+of about 5.2 deaths per day. After that, a flatten­
+ing was seen until April 19th, followed by a second
+rise. We limit the period to April 27th because there
+is a (potential) 14-day delay between the death and the
+consolidation of information on the website, and more recent data
+is not consolidated at the date we fin­ ished the
+present article.

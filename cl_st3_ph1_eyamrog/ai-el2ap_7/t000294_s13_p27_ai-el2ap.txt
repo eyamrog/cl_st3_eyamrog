@@ -1,0 +1,13 @@
+South Korea reported its first COVID-19 case on January 20,
+2020, and subsequently implemented contact management protocols between suspected and
+confirmed cases to facilitate epidemiological investigations. The country established a
+system to assess exposure risk among individuals present in locations
+visited by confirmed cases after symptom onset, and classified contacts
+according to their level of risk. Additionally, disinfection procedures were
+conducted in areas potentially contaminated by confirmed patients to minimize
+the risk of environmental transmission. These systematic investigations were supported
+by a rigorous control process grounded in scientific principles and
+ongoing feedback assessment cycles, which contributed to effective outbreak containment.
+As of April 18, although the cumulative number of cases
+exceeded 10,600, the incidence of new infections had declined substantially
+in recent weeks.

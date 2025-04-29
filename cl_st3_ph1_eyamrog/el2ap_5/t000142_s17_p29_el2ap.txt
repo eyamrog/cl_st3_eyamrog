@@ -1,0 +1,12 @@
+vt is the expression of the stationary process with a
+mean of zero. Hence, the Y initial value for Model
+A is stationary around a mean that gradually changes between
+α1 and α1+α2. Similar to Model A, there is also
+a mean gradual change in Model B between α_1 and
+α1 and α1+α2; however, unlike Model A, there is a
+constant trend term in Model B. In Model C, the
+constant ranges from α1 to α1+α2, and the trend ranges
+from β1 to β1 +β2 gradually, only once, and at
+the same speed and time. In this test, there is
+a constraint that the constant and trend transitions occur at
+the same time and at the same speed.

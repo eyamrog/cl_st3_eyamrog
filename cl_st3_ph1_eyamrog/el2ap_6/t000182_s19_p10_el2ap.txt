@@ -1,0 +1,3 @@
+Controls: During the odorless control experiments, where two empty flasks
+were tested on B. corredori (n=22), orientation did not significantly
+differ from random (left: 12, right: 10, P=0.154).

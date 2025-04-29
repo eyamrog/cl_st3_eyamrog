@@ -1,0 +1,8 @@
+When the concentration of SARS-CoV-2 antibodies in the sample was
+zero or below the established cut-off value, no visible colored
+band appeared in the test region of the device, indicating
+a negative result. A colored line consistently appeared in the
+control region, serving as a procedural control to confirm that
+the test was functioning properly. The results were read after
+a minimum waiting period of 15 minutes and within a
+maximum of 20 minutes.

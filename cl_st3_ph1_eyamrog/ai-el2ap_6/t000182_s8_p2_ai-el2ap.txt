@@ -1,0 +1,20 @@
+Triatomine bugs are nest-dwelling ectoparasites (Guerin et al. 2000) and
+serve as vectors for Trypanosoma cruzi (Kinetoplastida, Trypanosomatidae), the etiological
+agent of Chagas disease. These insects typically maintain a close
+association with their hosts, occupying the same shelters and repeatedly
+feeding on the same individuals throughout their life cycle. Under
+natural conditions, most triatomine species feed on humans and other
+vertebrates at night, primarily when the hosts are asleep. Triatomines
+acquire T. cruzi by feeding on infected vertebrate hosts, such
+as opossums, armadillos, and bats. Within the vector, the parasite
+differentiates into the epimastigote stage, which migrates to the rectum
+and subsequently transforms into the infectious metacyclic trypomastigote form (Schofield
+et al. 1987). Transmission to new hosts occurs when triatomines
+defecate during or shortly after feeding, depositing infectious trypomastigotes onto
+the host’s skin. The parasites can then enter the host
+through the bite wound or via mucous membranes. While T.
+cruzi is capable of surviving in the gut of all
+triatomine species, vector competence varies among species due to factors
+such as triatomine population density, host preference (Gütler et al.
+2009), and the defecation index, defined as the interval between
+feeding and defecation (Aldana and Lizano 2004).

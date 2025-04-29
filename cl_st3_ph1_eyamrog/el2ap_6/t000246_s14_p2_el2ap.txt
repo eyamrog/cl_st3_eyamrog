@@ -1,0 +1,11 @@
+The searches were carried out on the Science web database
+in April 2020 using the descriptor [Severe Acute Respiratory Syndrome]
+and with a "title" filter. Access was via the CAPES
+Journal Portal, using the credentials of the researcher at Rede
+Cafe. The choice of base is due to its acceptance
+in the world scientific community, especially in the area of
+health, which provides summaries and citations of peer-reviewed scientific literature,
+in addition to providing a more comprehensive view of the
+world's research production. To perform the bibliometric analysis step, the
+graphical interface of the VOSViewers® software and the Microsoft Excel
+2017® tool were used.

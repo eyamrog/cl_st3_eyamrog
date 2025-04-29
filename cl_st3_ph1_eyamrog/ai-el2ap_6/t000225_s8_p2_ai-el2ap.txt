@@ -1,0 +1,15 @@
+The primary challenge in evaluating the effectiveness of the SDS
+implemented in São Paulo is the limited number of tests
+conducted in the state, with only 91,552 PCR test kits
+supplied by the Brazilian Ministry of Health as of May
+1, 2020. Instituto Butantan, which is responsible for coordinating testing
+in the state, reported that 35,600 PCR tests had been
+performed as of April 22. Given the state's population of
+42 million, this corresponds to 85 tests per 100,000 inhabitants.
+At the national level, Brazil ranks 133rd among countries in
+terms of COVID-19 testing rates. Furthermore, there was a delay
+of several weeks between sample collection and the availability of
+results during the initial phase of the epidemic. Additionally, Brazilian
+authorities report the number of COVID-19 cases and deaths based
+on the date test results are obtained, rather than the
+date of symptom onset or the date of death.

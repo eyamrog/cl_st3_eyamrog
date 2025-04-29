@@ -1,0 +1,12 @@
+Acknowledgments are due to Gary Schwartz for data collection in
+phase one of this study; Juan Pablo Alperin, Jon Ball,
+Jonas Raoni, and Alec Smecher for providing the OJS beacon
+data set; Miroslav Suzara for conducting the Cabells analysis used
+in phase two; Juan Pablo Alperin (also for editing), Lauren
+Maggio, and Laura Moorhead for their contributions to phase three;
+Kyla Chasalow for providing constructive feedback throughout the project; Doug
+Dworkin for designing Figures 2 and 3; Kathy Kerns, Shani
+Braier Marcovitz, Matt Marostica, Sarah Forsetting, Jennifer Uchiyama, and Greta
+deGroat for facilitating access to Cabells Predatory Reports through Stanford
+University Libraries; and Simon Linacre of Cabells International for assistance
+in identifying journals using OJS in Cabells Predatory Reports.

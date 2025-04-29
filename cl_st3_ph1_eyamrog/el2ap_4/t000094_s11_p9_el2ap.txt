@@ -1,0 +1,9 @@
+Painter et al. (2013) propose a model to analyse multimodal
+meanings in picturebooks that concentrates on representational, interpersonal, and compositional
+meanings; it is based on the model of visual grammar
+of Kress & van Leeuwen (2006). Representational meanings concentrate on
+the relations between participants, things, the actions they perform, and
+the settings or circumstances in which they occur. Interpersonal meanings
+pay attention to the social relations between interactants by observing
+distance, gaze, and perspective. Finally, compositional meanings pay attention to
+the different relations between the elements in the discourse.

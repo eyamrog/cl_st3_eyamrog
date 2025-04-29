@@ -1,0 +1,2 @@
+- Exclusion: master's programs that, although related to ICT, do
+not include education or learning.

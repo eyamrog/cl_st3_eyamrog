@@ -1,0 +1,8 @@
+Building on the framework established by Valenzuela et al. (2011),
+this study compares the resolution of zero and pronominal forward
+and backward anaphora in Spanish and Portuguese with the resolution
+of non-emphatic and emphatic pronominal forward and backward anaphora in
+English. Following initial pilot studies (Bruscato & Baptista, 2022a, 2022b),
+the research has been extended to examine how both L1
+and L2 speakers address ambiguity in anaphora resolution across these
+languages.

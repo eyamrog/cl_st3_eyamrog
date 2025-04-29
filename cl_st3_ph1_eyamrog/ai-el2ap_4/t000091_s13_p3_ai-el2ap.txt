@@ -1,0 +1,9 @@
+The anxiolytic effects of medicinal plants are primarily mediated through
+interactions with gamma-aminobutyric acid (GABA), the principal inhibitory neurotransmitter in
+the central nervous system (CNS). These interactions may involve modulation
+of GABA receptor binding, direct effects on ion channels, alterations
+of cell membrane properties, inhibition of GABA transaminase, or inhibition
+of glutamic acid decarboxylase. The resulting enhancement of GABAergic neurotransmission
+suppresses excitatory neural pathways, thereby producing an overall anxiolytic effect
+(Baldwin & Polkinghorn, 2005; Manayi et al., 2016; Sarris et
+al., 2018; Farah et al., 2019).

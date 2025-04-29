@@ -1,0 +1,8 @@
+The median of depressive symptoms in the overall sample was
+9.00 (IQR=10.00), mean=9.98 (7.60), points in the BDI scale. Those
+that reported ≥30 minutes in MVPA per day reported lower
+depressive symptoms than those that spent <30 minutes per day
+in MVPA (AMD= -0.707; 95%CI= -1.160 to -0.253, p=0.002). Also,
+those that spent <10 hours in SB per day reported
+lower depressive symptoms than those that spent ≥10 hours in
+SB per day (AMD= -1.736, 95%CI= -2.704 to -0.768, p<0.001).

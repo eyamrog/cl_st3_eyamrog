@@ -1,0 +1,6 @@
+For each Ha, there is a method that measures whether
+there is another agent within a 2-m range [39][40][41]. If
+this proximity lasts for 15 minutes or longer and either
+agent is infected (symptomatic or asymptomatic), then the epidemiological state
+attribute of the not infected Ha changes to exposed (E),
+with probability 𝑣(𝑇𝑒𝑚𝑝) ∗𝛽.

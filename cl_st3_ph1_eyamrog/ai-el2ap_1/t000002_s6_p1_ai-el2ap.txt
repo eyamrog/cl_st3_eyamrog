@@ -1,0 +1,11 @@
+This paper examines two research paradigms and their association with
+methodological approaches for analyzing educational dialogue: systematic coding, which aligns
+with positivist and quantitative traditions, and sociocultural discourse analysis, which
+aligns with interpretivist and qualitative traditions. The systematic coding approach
+utilizes a coding scheme in which utterances are assigned to
+predefined categories that can be further refined or expanded as
+needed. According to Hennessy et al. (2020), frequency counting offers
+several advantages, including the ability to process large volumes of
+data, identify key markers, efficiently search datasets to determine correlations
+between specific acts, detect patterns, measure changes in practice, and
+facilitate comparisons that can be subjected to statistical analysis.

@@ -1,0 +1,3 @@
+τ1T and τ2T, indicate the middle points of the transition
+process; γ1 and γ2 indicate the transition speeds. The difference
+in transition speeds is allowed.

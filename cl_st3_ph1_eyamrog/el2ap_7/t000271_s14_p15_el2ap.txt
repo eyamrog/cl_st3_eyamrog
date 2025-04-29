@@ -1,0 +1,8 @@
+To establish the correlates of SARS-CoV-2 infection, we used logistic
+regression models and the odds ratio (OR) as the measure
+of association. Statistical tests at the 5% significance level were
+used to test associations of SARS-Cov-2 antibody (IgG, IgM or
+IgG+IgM) prevalences with the blood donors’ characteristics (sex, age group,
+educational level, place of residence, donation site and period of
+donation). Statistical analysis was performed using STATA version 13 (STATA
+Corp., College Station, Texas, USA).

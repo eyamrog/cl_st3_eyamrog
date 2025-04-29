@@ -1,0 +1,8 @@
+Although not previously reported for liana species, our results demonstrate
+that dehydration significantly alters the biomechanical properties of both stems
+and leaves in the widespread liana Amphilophium curcigerum (L.) L.G.Lohmann
+(Bignoniaceae), specifically increasing stem bending stiffness and leaf fracture toughness.
+The observed increase in bending stiffness renders liana stems more
+susceptible to rupture by reducing their capacity for flexion and
+torsion. Furthermore, maintaining sample moisture following field collection is essential
+for obtaining accurate estimates of biomechanical properties, as discussed below.

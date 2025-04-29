@@ -1,0 +1,21 @@
+To assess JUOJS’ research coverage, the title and abstract of
+the five most recent articles published in the ISSN-verified journals
+were first concatenated, then passed as inputs to a neural
+field of study classifier trained on English-language data (Weber et
+al., 2020). The use of this classifier required the translation
+of all titles and abstracts into English, for which we
+used the Ubiquitous Knowledge Project’s EasyNMT. The outputs of the
+classifier are distributions of likelihood over all classes, meaning that
+it supports multidisciplinary classification. But for ease of reporting, each
+journal was assigned the single most probable field of study
+label according to the Australian and New Zealand Standard Research
+Classification (ANZSRC). This schema was preferred over others because of
+the availability of the data set used to train the
+neural classifier, examples in which were labeled according to ANZSRC
+(Weber et al., 2020). ANZSRC fields map to the OECD’s
+Fields of Science and Technology (FOS), but differ from those
+embodied by the National Science Foundation’s seven research area directorates.
+Differences are mainly found in STEM fields, especially in the
+pure sciences. The classifier mitigates this problem of comparison by
+assigning basic labels such as Chemical and Physical Sciences, which
+the NSF classification then groups into broader research fields.

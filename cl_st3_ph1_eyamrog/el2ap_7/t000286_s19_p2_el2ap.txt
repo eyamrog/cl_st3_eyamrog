@@ -1,0 +1,10 @@
+The data presented above was analyzed using multiple regressions with
+the aid of E- view because of the volume of
+data and to ensure accuracy in computation. The attempt to
+study the relationship between poverty and inflation in Turkey led
+the researcher to subject the data collected to Unit Root
+test, Johansen Co-integration test, Vector Error Correction Model and Granger
+Causality Test. The variables considered in this research work are:
+Poverty rate which is the dependent variable and the independent
+variables Inflation. The empirical results are presented below as generated
+from the analysis:

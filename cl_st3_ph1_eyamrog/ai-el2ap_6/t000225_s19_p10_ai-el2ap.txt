@@ -1,0 +1,8 @@
+Figure 3 presents the daily number of deaths in São
+Paulo City over time. The data indicate a marked increase
+in deaths up to April 5th, with an average growth
+rate of 3.1 deaths per day. Consistent with trends observed
+in the state population, the number of deaths stabilizes after
+April 5th. However, unlike the state-level data, there is no
+clear resurgence in the number of deaths after April 19th
+in São Paulo City.

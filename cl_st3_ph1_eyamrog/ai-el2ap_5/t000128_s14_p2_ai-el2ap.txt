@@ -1,0 +1,6 @@
+This study utilized microorganisms isolated from the environment, including Staphylococcus
+aureus, Micrococcus spp., and Corynebacterium spp. (LAMIV), as well as
+standard reference strains: Staphylococcus aureus (ATCC 25923), Escherichia coli (ATCC
+25922), Enterococcus faecalis (ATCC 29212), Pseudomonas aeruginosa (ATCC 27853), Streptococcus
+agalactiae (ATCC 13813), Salmonella Typhimurium (ATCC 14028), and Klebsiella pneumoniae
+(ATCC 700603).

@@ -1,0 +1,21 @@
+Taxonomy has been characterized as a discipline facing significant challenges,
+including reductions in institutional positions and funding. Beyond this gradual
+decline in workforce and financial support, the field is further
+impacted by the limitations and biases inherent in widely used
+“quality” indexes (see Ebach et al. 2011). One proposed solution
+to low citation rates has been the mandatory citation of
+original taxonomic descriptions whenever a taxon name is mentioned, a
+policy endorsed but not strictly enforced by Zootaxa. This practice
+may partially account for the journal’s high rate of self-citation.
+However, this approach is problematic, as many original descriptions, particularly
+older ones, are insufficient for accurate species identification. A more
+effective strategy would involve explicitly stating the species concept being
+applied and providing the relevant bibliographic reference (see Meier 2017).
+Additionally, increasing multidisciplinarity in the biological sciences has blurred the
+boundaries between traditional fields, including descriptive disciplines such as taxonomy.
+While these factors have been suggested as explanations for the
+elevated self-citation rates in Zootaxa, they are not entirely convincing,
+as numerous other journals currently accept taxonomic studies—whether purely descriptive
+or incorporating broader analytical methods—and are also appealing within the
+context of the Journal Impact Factor (JIF) emphasis (see Supplementary
+File 1).

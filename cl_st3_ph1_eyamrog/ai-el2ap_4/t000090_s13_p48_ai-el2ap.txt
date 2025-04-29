@@ -1,0 +1,6 @@
+The second strong correlation is observed between the indicators "Co-publications
+with industrial partners" and "Spin-offs," with a correlation coefficient of
+0.7197. This result suggests a substantial association between these two
+measures of industrial output, indicating that they may capture overlapping
+aspects of university-industry collaboration and therefore exhibit a high degree
+of redundancy.

@@ -1,0 +1,8 @@
+We define authorship or contribution as the instance of a
+researcher as author or co- author of a published article.
+We follow a complete count, unlike Lotka, who credited only
+senior or first authors, where each co-author is credited with
+a complete contribution, regardless of the number of authors. To
+identify authors and ensure a proper count, a process of
+disambiguation of names was based on the affiliation of the
+authors.

@@ -1,0 +1,7 @@
+Data are presented for frequency-domain measures of heart rate variability
+(HRV), including low-frequency power (LF) and high-frequency power (HF), reported
+in both ms² and normalized units, as well as the
+ratio of LF to HF power (LF:HF). The normalized spectral
+indices are defined as follows: LF normalized units (LFnu) =
+LF / (LF + HF) and HF normalized units (HFnu)
+= HF / (LF + HF).

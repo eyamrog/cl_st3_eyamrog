@@ -1,0 +1,12 @@
+We analyzed 24 empirical mutualistic networks obtained from the Web
+of Life (http://www.web-of-life.es/) and the Interaction Web Database (http://ecologia.ib.usp.br/iwdb/index.html). These
+networks comprise eight plant-pollinator networks, eight plant-frugivore networks, and eight
+ant-myrmecophyte networks. Each network is represented by an adjacency matrix
+(A), where each species corresponds to a single row and
+column, and each matrix element indicates the presence or absence
+of an interaction between the respective animal and plant species.
+Ant-myrmecophyte networks generally exhibit lower connectance, higher modularity, and lower
+nestedness compared to seed dispersal and pollination networks, whereas seed
+dispersal networks tend to be more nested and display higher
+connectance than both pollination and ant-myrmecophyte networks (Supporting Information, Guimarães
+2020).

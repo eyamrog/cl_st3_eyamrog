@@ -1,0 +1,4 @@
+The second “strong” correlation is among the Indicators “Co-publications with
+industrial partners” and “Spin-offs”, which shows that industrial outputs are
+connected. They have a correlation index of 0.7197. Those Indicators
+also have a high degree of redundancy.

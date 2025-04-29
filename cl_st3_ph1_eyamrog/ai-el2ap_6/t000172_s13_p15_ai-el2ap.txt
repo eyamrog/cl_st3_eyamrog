@@ -1,0 +1,17 @@
+Among the structural proteins of coronaviruses, the spike (S), envelope
+(E), membrane (M), and nucleocapsid (N) proteins are considered essential,
+and their functions are described below. The S protein forms
+homotrimers that protrude from the viral surface, facilitating attachment to
+host cell receptors (Beniac et al. 2006). The S protein
+has a molecular mass of approximately 150 kDa and contains
+an N-terminal signal sequence that directs it to the rough
+endoplasmic reticulum (RER) for synthesis, where it undergoes extensive N-linked
+glycosylation. As a class I fusion glycoprotein, the trimeric S
+protein mediates binding to host cell receptors (Bosch et al.
+2003). Recent studies have identified angiotensin-converting enzyme 2 (ACE2) as
+the cellular receptor for both SARS-CoV and SARS-CoV-2, with the
+trimeric S protein serving as its ligand (Yan et al.
+2020). Additionally, the serine protease TMPRSS2, which acts on ACE2,
+facilitates the entry of SARS-CoV and SARS-CoV-2 into host cells,
+and inhibition of TMPRSS2 by camostat mesylate partially reduces SARS-CoV-2
+infection in vitro (Hoffmann et al. 2020).

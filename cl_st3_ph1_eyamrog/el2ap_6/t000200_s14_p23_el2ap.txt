@@ -1,0 +1,8 @@
+Exploratory analysis of monthly trends over the period detected the
+existence of a pattern with two distinct seasonal periods, the
+first (from April to September) with low rainfall levels and
+the second (from October to March) with higher rainfall levels.
+Thus, the investigation of temporal associations between exposure (rain) and
+outcome (leptospirosis) in the present analysis, in addition to the
+monthly evolution in the period as a whole, focused on
+the existence of two distinct seasonal periods.

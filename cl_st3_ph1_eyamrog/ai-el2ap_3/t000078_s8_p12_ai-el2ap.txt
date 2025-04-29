@@ -1,0 +1,14 @@
+In empirical research, there is currently no widely accepted empirical
+strategy for the identification of SBDs. Early studies relied on
+prior regional knowledge for identification; however, as noted by McMillen
+(2001b), this approach often produced results that were inconsistent with
+the data. More objective identification procedures can be categorized as
+follows: (1) the use of cut-off values, where researchers apply
+thresholds to job density and total employment figures (McDonald, 1987;
+Giuliano and Small, 1991; McDonald and McMillen, 1998; Coffey and
+Shearmur, 2001; Baumont and Bourdon, 2002; López and Muñiz, 2005);
+(2) the application of econometric models (Craig and Ng, 2001;
+McMillen, 2001a, 2001b; McMillen and Smith, 2003); and (3) the
+use of spatial statistics (Plaut and Plaut, 1998; Baumont et
+al., 2004; Herman and Haddad, 2005; Guillain et al., 2003;
+Siqueira, 2014).

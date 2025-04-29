@@ -1,0 +1,2 @@
+For each rate, the confidence interval was calculated using the
+confidence interval method for proportions10.

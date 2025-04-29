@@ -1,0 +1,18 @@
+We conducted an exploration of the data for the 19
+groups of causes in the three periods. To do this,
+we calculate the means, standard deviations, and measures of variability
+(quartiles) for each pair at the three periods. In this
+way, we visually inspect these measurements, using box plots for
+each group in the three periods. We were able to
+compare the groups with the average and standard deviation measurements.
+So that we could assume that this comparison of means
+was valid, we analyzed the normality of the distribution data
+using the Shapiro-Wilk adherence test. We used an inferential statistic
+known as the Levene test to accept the homoscedasticity of
+data distribution. Finally, we were interested not only in whether
+there was a statistically significant difference between groups but also
+in understanding the difference between pairs of groups (period one
+vs. period 2; period one vs. period three and period
+two vs. period 3). Thus, we chose not only to
+use the ANOVA test but a Post-Hoc test. For that,
+we used the Tukey test.

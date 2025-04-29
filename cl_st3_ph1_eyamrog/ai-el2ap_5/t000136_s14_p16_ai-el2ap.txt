@@ -1,0 +1,5 @@
+Data processing was conducted using the R software environment (R
+Core Team, 2017). The psych package was utilized for correlation
+analyses, FactoMineR and nFactors were employed for multiple correspondence analysis
+(MCA), and the plspm package was used for partial least
+squares structural equation modeling (PLS-SEM).

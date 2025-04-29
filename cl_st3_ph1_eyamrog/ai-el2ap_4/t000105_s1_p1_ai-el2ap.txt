@@ -1,0 +1,5 @@
+A population study is a valuable methodological approach for assessing
+the epidemiological status of COVID-19 across different regions. It enables
+the identification of the disease’s prevalence, facilitates the analysis of
+transmission dynamics, and provides insights into its demographic, geographical, and
+social distribution.

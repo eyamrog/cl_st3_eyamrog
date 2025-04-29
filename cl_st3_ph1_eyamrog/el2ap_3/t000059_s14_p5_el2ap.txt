@@ -1,0 +1,9 @@
+For better comparison, data from Scanff and colleagues (2021) were
+reweighted so that journal sizes would have the same distribution
+as among LILACS journals. The present study did not include
+a sensitivity analysis restricting data to the research articles, because
+the former study found the results to be largely the
+same, and because in the present study’s data only 244
+journals had at least 50 signed articles with an explicit
+publication type; there would be even fewer journals with at
+least 50 research articles.

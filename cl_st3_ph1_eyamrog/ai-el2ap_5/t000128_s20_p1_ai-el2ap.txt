@@ -1,0 +1,9 @@
+The results of the diffusion tests using both the decoction
+and hydroalcoholic extract from C. ferrea leaves against bacterial strains
+are presented in Tables 1 and 2. Staphylococcus aureus and
+Enterococcus faecalis exhibited sensitivity to the decoction of L. ferrea
+at a concentration of 100 mg/mL, with inhibition zones measuring
+10 mm and 10.67 mm, respectively. According to the criteria
+established by Thomazi, Bertolin, and Pinto (2010), these inhibition zone
+diameters are considered satisfactory, as values equal to or greater
+than 10 mm indicate sensitivity.

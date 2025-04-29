@@ -1,0 +1,8 @@
+To evaluate the effect of saline stress on common rue
+seed germination (Ruta graveolens L.), aqueous solution of sodium chloride
+(NaCl) and calcium chloride (CaCl2) at concentrations corresponding to zero;
+-0.10, -0.20, -0.30, and -0.40 MPa were used. Only distilled
+water was utilized as the control at the level zero.
+The amount of solution required to obtain osmotic potentials was
+calculated by Van't Hoff equation (Braccini et al. 1996, Taiz
+& Zeiger 2013).

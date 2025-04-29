@@ -1,0 +1,4 @@
+The dataset used in this manuscript was deposited at https://ipt.sibbr.gov.br/sibbr/resource?r=literature_review_sandflies_acre
+at the SiBBr IPT(Integrated Publishing Toolkit) referenced as: Espíndola Godoy
+R, Fernandes Brilhante A, José de Andrade A, Helena Fernandes
+Shimabukuro P (2022): literature_review_sandflies_acre. v1.0. No organisation. Dataset/Occurrence.

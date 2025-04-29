@@ -1,0 +1,9 @@
+Accordingly, patients with multiple sclerosis (MS) or neuromyelitis optica spectrum
+disorder (NMOSD) who are infected with SARS-CoV-2 should be managed
+in accordance with the most recent COVID-19 guidelines. At present,
+the standard approach to COVID-19 management is primarily supportive care.
+Given that the potential benefits of antiviral agents such as
+chloroquine derivatives or remdesivir are not supported by robust evidence,
+and that data on their interactions with disease-modifying drugs (DMDs)
+are insufficient, their use is not recommended in this patient
+population.

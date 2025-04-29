@@ -1,0 +1,4 @@
+Background: A population study is an important tool that can
+be used to understand the actual epidemiological scenario of the
+Covid-19 in different territories, identify its magnitude, understand its transmission
+dynamics, and its demographic, geographical, and social distribution.

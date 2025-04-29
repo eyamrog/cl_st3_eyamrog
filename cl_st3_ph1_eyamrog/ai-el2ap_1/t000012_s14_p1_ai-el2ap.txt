@@ -1,0 +1,21 @@
+To investigate the influence of avian diet diversity on cleaning
+associations, where birds (cleaners) feed on the parasites or injured
+tissue of mammals (clients), we first calculated a diet diversity
+index (H) for all bird species using data from the
+EltonTraits 1.0 database, which provides species-level foraging attributes for birds
+and mammals (Wilman et al. 2014). In this database, each
+bird species’ diet is classified into broad categories (see Supplementary
+Figure 1a). We used these categories to estimate the diet
+diversity of each species by calculating Shannon’s Diversity Index (Shannon
+1948): <>, where Hj represents the diet diversity of species
+j, R is the number of diet categories, and pi
+is the proportion of diet category i in the diet
+of species j. Higher H values indicate greater dietary diversity
+within a species. Based on the two previously defined predictions
+(Figure 1), the methods are organized into two sections: (a)
+comparison of H values between cleaner bird species from Brazilian
+and African cleaning networks (Sazima et al. 2012; Mikula et
+al. 2017) and their non-cleaning close relatives, and (b) assessment
+of the correlation between H values and the degree centrality
+of species within both networks. An overview of the methodological
+approach is provided in Figure 2.

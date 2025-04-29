@@ -1,0 +1,8 @@
+For 20 of those countries, we obtained the number of
+deaths for nine homogeneous age ranges (0-9, 10-19, 20-29, 30-39,
+40-49, 50-59, 60-69, 70-79 and 80 years or more) directly,
+through aggregating more disaggregated ranges or through small adjustments4. Data
+for 11 of these countries – Germany, Canada, Spain, France,
+England (including Wales), Italy, the Netherlands, Portugal, Sweden, Switzerland (including
+Liechtenstein), and Ukraine – were obtained from just one source:
+the website of the French National Institute of Demographic

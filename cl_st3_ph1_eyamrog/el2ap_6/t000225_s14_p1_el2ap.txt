@@ -1,0 +1,18 @@
+In order to assess the effects of SDS in São
+Paulo City and State on the evolution of deaths due
+to COVID-19 on a daily basis, we used the public
+data from the National Association of the Registrars for Natural
+Persons (Associação dos Registradores de Pessoas Naturais — ARPEN), an
+organization that congregates all Public Notaries in Brazil. Their website
+pres­ ents the number of deaths attributed to COVID-19 referenced
+to the date in which they happened9. In Brazil, a
+public notary is an organization legally responsible for issuing and
+keeping registry of births, deaths, marriages, and other legal events.
+A death certificate is an official document containing a field
+in which a certified physician informs the cause of death.
+ARPEN’s website also contains data informing the number of COVID-19-suspected
+deaths, attributed by a certified physician. The term “Confirmed COVID-19
+deaths” is used for cases in which there was a
+PCR test with positive result for COVID-19. The term “Suspected
+COVID-19 deaths” is used for cases in which COVID-19 was
+described as a cause of death with clinical diagnosis.

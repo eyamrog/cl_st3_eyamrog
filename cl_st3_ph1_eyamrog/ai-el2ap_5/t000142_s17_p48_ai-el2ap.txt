@@ -1,0 +1,3 @@
+τ1T and τ2T represent the midpoints of the transition process,
+while γ1 and γ2 denote the respective transition rates. Differences
+in transition rates between γ1 and γ2 are permitted.

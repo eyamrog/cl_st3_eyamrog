@@ -1,0 +1,14 @@
+Each Ha exhibits specific behaviors determined by its assigned age
+range, habits, and residential neighborhood, which are randomly allocated at
+the start of each simulation in accordance with the city's
+population statistics. Based on these characteristics, each Ha moves independently
+according to probabilities \(A \in \lambda_{h,e,l}(A, B, \pi)\), which are
+derived from state change matrices (activities/locations) within the set \(\lambda_{h,e,l}\)
+of Hidden Markov Models (HMMs) that constitute the Mobility/Activity submodel.
+Each HMM is associated with a particular location (l) (such
+as neighborhood, city, or area), age range (e), and time
+slot (h) relevant to the simulation. A detailed description of
+this submodel is provided in Section 4.3. Additionally, the persistence
+of active virus in various locations and environments is modeled
+by the Infectious Trail submodel, which is discussed in Section
+4.3.1.

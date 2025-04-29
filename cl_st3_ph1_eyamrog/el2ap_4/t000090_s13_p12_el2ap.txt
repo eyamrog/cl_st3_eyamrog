@@ -1,0 +1,5 @@
+To solve this problem, it is proposed another form to
+make a general evaluation, which first makes the averages inside
+each Dimension and, after that, the global average using the
+grades of each Dimension. It gives equal weight for each
+Dimension and different weights for the Indicators.

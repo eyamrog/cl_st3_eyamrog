@@ -1,0 +1,5 @@
+A relative clause is a nominal modifier that integrates a
+complex DP (Chierchia, 2003) and have been analyzed, in early
+works, as being right adjoined to N (Chomksy, 1977); however,
+these structures have been recently reanalyzed as a complement of
+D within the complex DP (Kayne, 1994)7.

@@ -1,0 +1,4 @@
+Statistical analysis was conducted using R software version 3.6.0. Comparisons
+of species richness, gravimetric humidity, and organic matter in dependent
+samples were performed using the paired t-test, with statistical significance
+set at p < 0.05.

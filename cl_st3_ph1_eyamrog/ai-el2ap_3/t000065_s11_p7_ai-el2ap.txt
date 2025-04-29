@@ -1,0 +1,13 @@
+Researchers compiling their own corpora must adhere to rigorous design
+criteria. As Gilquin (2015, p. 16) notes, such criteria are
+particularly important in the creation of learner corpora due to
+the considerable heterogeneity of interlanguage; these design considerations will be
+discussed in detail in the following section. Additionally, there is
+a lack of research focusing on texts produced by students
+within their actual classroom writing contexts (Staples & Reppen, 2016),
+a gap that the CorIFA corpus aims to address by
+compiling data from class activities in English for Academic Purposes
+courses. Through the systematic collection of learner metadata and careful
+attention to task and language variables, as outlined in the
+next section, CorIFA facilitates comprehensive investigations of learner writing in
+classroom contexts.

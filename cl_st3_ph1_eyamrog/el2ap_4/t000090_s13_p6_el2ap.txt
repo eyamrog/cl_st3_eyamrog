@@ -1,0 +1,12 @@
+A closer look at the “U-Multirank” shows that the Indicators
+that are obtained from sources not related to the Institutions
+under evaluation, like the number of publications, citations, etc; are
+available for all educational institutions and have a high level
+of reliability. In the opposite side, information such as place
+of work of graduates and time of graduation, which are
+obtained from questionnaires sent by educational institutions and students, are
+not always available and do not have a high level
+of accuracy. Besides that, some data are classified as “Not-Applicable”,
+like the number and job location of graduates in the
+Master program in institutions where master programmes are not offered,
+etc.

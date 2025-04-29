@@ -1,0 +1,16 @@
+Xenoctenidae was represented by 30 individuals, with 20 (67%) collected
+in the IA, 7 (23%) in the DA, and 3
+(10%) in the FA. Analysis of variance (ANOVA) indicated a
+marginally significant difference among treatments (F = 4.017, P =
+0.0781), and the Tukey HSD test identified a difference only
+between IA and FA (P = 0.0781). When considering seasonal
+variation, significant differences were observed only during the hot and
+humid period in the IA and FA, and during the
+cold and dry period in the FA (W = 0.7500,
+P = 2 × 10⁻¹⁷). The Levene test, using the
+mean, indicated a difference in the homogeneity of variances only
+for the hot and humid period (F = 5.0256, P
+= 0.05223); however, this difference was not observed when the
+median was used (F = 0.4138, P = 0.6787). No
+significant differences were detected in the Kruskal-Wallis test or Dunn's
+post-hoc test, adjusted by the Bonferroni method, for seasonal data.

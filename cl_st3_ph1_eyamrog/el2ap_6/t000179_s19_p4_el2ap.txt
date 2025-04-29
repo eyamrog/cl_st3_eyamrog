@@ -1,0 +1,19 @@
+KMO value was greater than 0.90, suggesting an adequate sample
+size to perform the exploratory factor analysis. Parallel analysis identified
+a two-dimensional model and Kaiser's analysis identified a three-dimensional model.
+Consequently, two and three- dimensional models were evaluated (see table
+2). In the model with two dimensions, the item “order
+in the health service and labor organization” (variable c2p81_2 in
+the dataset) presented factor complexity, since there was no marked
+difference between factor loadings in the first and second dimensions.
+That was why this item was removed from analysis. In
+addition, the items on satisfaction about the hours or salary
+received (c2p81_7), training opportunities (c2p81_10), filling out the medical records
+(c2p81_15), and respect for the patient (c2p81_16) presented very low
+factor loads so were also eliminated from subsequent analyses. On
+the other hand, in the three-dimensional model we found that
+the first dimension was unstable (very few items,) so this
+model was also eliminated. Therefore, only the 2-dimensional model was
+considered for further analysis, only after excluding the five problematic
+items that were identified during this analysis (c2p81_2, c2p81_7, c2p81_10,
+c2p81_15, and c2p81_16).

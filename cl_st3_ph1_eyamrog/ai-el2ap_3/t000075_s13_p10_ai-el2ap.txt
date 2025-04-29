@@ -1,0 +1,17 @@
+Ghosh et al. (2014) examine the primary determinants and magnitudes
+of net financial flow surges, with a key contribution being
+their distinction between surges driven by foreign investors and those
+driven by domestic investors. Specifically, they differentiate between liability-driven surges,
+associated with foreign investor activity, and asset-driven surges, associated with
+domestic investor behavior. Their regression analyses indicate that external factors
+have greater explanatory power than domestic factors in predicting the
+probability of a surge, which accounts for the high degree
+of synchrony observed in these events across emerging markets. Liability-driven
+surges not only predominate in terms of occurrence probability but
+are also more sensitive to changes in external conditions, contagion
+effects, and the level of financial interconnectedness. Based on this
+evidence, Ghosh et al. (2014) advocate for the implementation of
+capital controls to mitigate excessive volatility in liability-driven surges, as
+well as for the coordination of policies between emerging economies
+that receive these financial flows and advanced economies that are
+the source of such capital outflows.

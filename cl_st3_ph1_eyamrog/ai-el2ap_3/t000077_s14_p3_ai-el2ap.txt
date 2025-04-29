@@ -1,0 +1,11 @@
+We utilized monthly PNAD COVID-19 microdata from May to August
+2020. The sample was restricted to individuals aged 16 to
+65 who reported receiving labor income and were not attending
+school, in order to avoid confounding work and study decisions.
+Table 1 details the filtering process from the initial to
+the final sample. The primary variable of interest, "worked-from-home," was
+coded as 1 if the respondent answered affirmatively to the
+question, “Last week, were you in remote work?” and as
+0 for those who reported no change in their work
+routine activities. The final sample comprised 419,840 observations, of which
+46,261 (11.02%) indicated that they were working from home.

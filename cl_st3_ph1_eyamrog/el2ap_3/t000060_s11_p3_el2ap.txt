@@ -1,0 +1,10 @@
+The simple occurrence of a turn3 does not constitute a
+conversation; actually, we believe that not even two turns constitute
+a conversation either. There must be more than two coordinated
+and cooperative turns, which are involved in conditions of relevance
+(conditional relevance). Given the first part of the turn, a
+second is expectable, and if it occurs, it is regarded
+as a second in relation to the first. In these
+terms, the sequence of the first part coupled with the
+second constitutes a conversational pair, which is considered, in fact,
+the minimal dialogic unit.

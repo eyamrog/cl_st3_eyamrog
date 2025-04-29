@@ -1,0 +1,14 @@
+Several antimicrobial agents have been evaluated in hospital settings for
+their efficacy against various coronaviruses, including isopropanol, povidone-iodine, ethanol, and
+sodium hypochlorite. Some of these agents, such as sodium hypochlorite
+and ethanol, are also widely available outside medical and laboratory
+environments, which increases their accessibility to the general population. Evidence
+indicates that surfaces treated with 70% ethanol demonstrated effective disinfection
+against two types of coronaviruses—mouse hepatitis virus and transmissible gastroenteritis
+virus—after one minute of contact, whereas 0.06% sodium hypochlorite was
+less effective under the same conditions. Studies involving SARS-CoV have
+shown that sodium hypochlorite is effective at concentrations between 0.05%
+and 0.1% after five minutes of exposure. Additionally, a study
+comparing the surface stability of SARS-CoV-2 and SARS-CoV-1, the most
+closely related human coronavirus, provided further insights, as summarized in
+Chart 1.

@@ -1,0 +1,9 @@
+The study analyzed 568 journals, each with a median of
+166 signed articles. The median percentage of papers by the
+most prolific author (PPMP) was 4.5%, with the 95th percentile
+at 12.9%. The median Gini coefficient was 0.149, with the
+95th percentile at 0.310. An increase in journal size was
+associated with a higher PPMP and a lower Gini coefficient.
+Journals indexed in MEDLINE exhibited lower PPMP values and higher
+Gini coefficients compared to non-MEDLINE journals; however, these differences were
+not observed after reweighting the data.

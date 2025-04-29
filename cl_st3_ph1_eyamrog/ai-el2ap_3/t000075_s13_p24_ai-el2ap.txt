@@ -1,0 +1,14 @@
+This strand of the literature on capital controls includes the
+study by Fernández et al. (2016), which utilizes a database
+documenting various financial assets subject to regulatory controls. The authors
+assess the effectiveness of capital controls by examining the co-movements
+between different regulatory measures and by constructing an aggregate control
+indicator. The analysis of co-movements involves calculating the correlation between
+controls imposed on different financial assets, as well as between
+controls on inflows and outflows over time. For 'gate' countries,
+which imposed capital controls sporadically, the results show a moderate
+correlation between controls on the most liquid class of financial
+assets and both inflow and outflow controls. In contrast, 'wall'
+countries, which maintained capital controls on a permanent basis, exhibit
+a high correlation, particularly between controls on the most liquid
+assets and financial credit, for both inflow and outflow controls.

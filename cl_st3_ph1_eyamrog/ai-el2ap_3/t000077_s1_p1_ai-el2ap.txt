@@ -1,0 +1,15 @@
+There is broad agreement that the pandemic has the potential
+to exacerbate pre-existing labor market inequalities, particularly with respect to
+unequal access to remote work opportunities. This study examines disparities
+in remote work in Brazil using descriptive analyses and Probit
+regressions based on PNAD COVID-19 microdata. The results indicate that
+individuals with the lowest likelihood of engaging in remote work
+were those who were poorer, male, residing in rural areas,
+non-white, younger, lacking a college education, self-employed or employed in
+the private sector, and working in agriculture. While a significant
+portion of these disparities can be attributed to differences in
+occupational selection, certain variables—most notably college education and labor income—exhibited
+substantial independent effects. Overall, the pandemic intensified existing inequalities in
+remote work opportunities, disproportionately benefiting wealthier, more educated, and more
+formally employed workers, while compelling others to choose between maintaining
+employment and income or facing increased risk of contagion.

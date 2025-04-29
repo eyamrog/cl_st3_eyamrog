@@ -1,0 +1,21 @@
+Scholarly journals should consider the attitudes of their communities before
+adopting any of the seven traits of open peer review.
+Unfortunately, surveys from the Global North might not generalize to
+the Global South, where double-blind peer review is commonplace even
+among journals on natural sciences and medicine. This paper reports
+the findings of a survey on attitudes to open peer
+review among four stakeholder groups of a scholarly-led medical journal
+in Brazil: society members and journal readers, authors, and reviewers.
+Compared to a previous survey recruiting mostly researchers on natural
+sciences from Europe, this survey found similar support to open
+peer review in general and for most of its traits.
+One important exception was open identities, which were considered detrimental
+by most participants, even more so in this survey than
+in the previous one. Interestingly, participants were not so dismissive
+of open identities when expressing whether they agreed with statements
+about its specific consequences. Because preprints are increasingly popular but
+incompatible with double-blind review, future research should examine the effects
+of transitioning from double-blind to open identities, especially on gender
+bias. Meanwhile, scholarly journals with double-blind review might prefer to
+begin by adopting other traits of open review or to
+make open identities optional at first.

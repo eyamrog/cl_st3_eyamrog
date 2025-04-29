@@ -1,0 +1,7 @@
+Based on the data from Sazima et al. (2012) and
+Mikula et al. (2017), we reconstructed the cleaning interaction networks
+for Brazil (Pantanal) and Africa, utilizing a heat map to
+illustrate the diet diversity index for each bird species (Fig.
+4). In these networks, node size corresponds to the degree
+of centrality, with larger nodes indicating bird species that interact
+with a greater diversity of host species.

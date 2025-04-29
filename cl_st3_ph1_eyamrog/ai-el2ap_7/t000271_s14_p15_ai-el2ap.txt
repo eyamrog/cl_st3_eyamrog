@@ -1,0 +1,8 @@
+To identify factors associated with SARS-CoV-2 infection, logistic regression models
+were employed, with the odds ratio (OR) used as the
+measure of association. Associations between the prevalence of SARS-CoV-2 antibodies
+(IgG, IgM, or both) and blood donor characteristics—including sex, age
+group, educational level, place of residence, donation site, and period
+of donation—were assessed using statistical tests at a 5% significance
+level. All statistical analyses were conducted using STATA version 13
+(StataCorp, College Station, TX, USA).

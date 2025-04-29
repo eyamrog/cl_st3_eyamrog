@@ -1,0 +1,6 @@
+Since 2010, the metadata of the biological specimens held in
+FIOCRUZ/COLFLEB is being digitized, and, among the various biological collections
+of Fiocruz [15], it has the most published online data.
+Our online catalogue is also integrated into the the speciesLink
+network <http://www.splink.org.br/search?collectioncode=FIOCRUZ- COLFLEB&group=animais&lang=pt&action=openform> and the Sistema de Informação sobre a
+Biodiversidade Brasileira (SiBBr) <http://ipt.fiocruz.br/ipt/resource?r=fiocruz_colfleb>.

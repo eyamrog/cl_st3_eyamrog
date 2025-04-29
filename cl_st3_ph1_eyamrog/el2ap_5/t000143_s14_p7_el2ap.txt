@@ -1,0 +1,4 @@
+Demographic status: percentage of civil and/or religious marriage, percentage of
+Catholics, percentage of Evangelicals, percentage of the population without religion,
+percentage of the urban population, percentage of the rural population
+were recovered from IBGE website 20.

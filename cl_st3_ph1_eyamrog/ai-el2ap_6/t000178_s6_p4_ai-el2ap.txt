@@ -1,0 +1,7 @@
+The number of sequencing projects is expected to increase in
+the coming months and years. For example, it is likely
+that the number of SARS-CoV-2 genome submissions from Peruvian institutions
+will also rise. To facilitate effective monitoring and timely updates
+of this information, it is recommended that Peruvian institutions establish
+a unified online platform to systematically collect, organize, and review
+sequencing data.

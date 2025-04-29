@@ -1,0 +1,9 @@
+We investigated the coevolutionary consequences of cheating interactions within mutualistic
+networks. Our findings demonstrate that both trait evolution and network
+structure can be influenced by the emergence of cheating strategies
+in mutualistic relationships. While previous studies have examined the effects
+of mutualisms and cheating interactions on population dynamics (Law et
+al. 2001; Bronstein et al. 2003; Wilson et al. 2003;
+Lee 2015) and phenotypic evolution (Ferriere et al. 2002), the
+present study advances understanding of the coevolutionary dynamics in multispecies
+assemblages in three distinct ways.

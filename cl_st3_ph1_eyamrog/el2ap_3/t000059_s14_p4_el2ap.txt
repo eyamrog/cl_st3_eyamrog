@@ -1,0 +1,7 @@
+Both indexes were described by their median, interquartile range, total
+range and 95th percentile. The relationship between the indexes and
+journal size was described using scatter plots drawn with ggplot2,
+version 3.3.5 (Wickham 2016). The relationship of journal subjects and
+countries with these variables was described by overlaying the same
+scatter plots with one smoothing spline for each subject or
+country with 20 or more journals.

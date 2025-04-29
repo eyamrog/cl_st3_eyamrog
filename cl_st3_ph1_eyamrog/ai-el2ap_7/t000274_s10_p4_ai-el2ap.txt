@@ -1,0 +1,6 @@
+Laryngoscopy, tracheal intubation, and bronchoscopy are associated with aerosol generation
+primarily when they induce a cough or are accompanied by
+other aerosol-generating procedures, such as aspiration. The likelihood of aerosol
+production during these interventions can be reduced by ensuring adequate
+neuromuscular blockade and by avoiding the simultaneous performance of multiple
+procedures.

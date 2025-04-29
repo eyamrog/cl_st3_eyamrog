@@ -1,0 +1,8 @@
+The previous steps have generated a long-read-only assembly of maximal
+accuracy, likely ~Q50 (one error per 100 kbp) if R10.4.1
+ONT reads were used. The final step is to repair
+any remaining errors with short reads. For example, long homopolymers
+can be difficult for ONT sequencing to resolve14, but Illumina
+sequencing does not suffer from this problem12,29, so homopolymer-length errors
+which persist after long-read polishing can be fixed by short-read
+polishing.

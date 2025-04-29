@@ -1,0 +1,9 @@
+The median Gini coefficient was 0.149, with a 95th percentile
+of 0.310 (1). No journal had an outstandingly high Gini
+coefficeint (panel B from Figure 1), but one journal (Ágora,
+with 91 signed articles) had a coefficient of zero. The
+journal had an average of two authors per article, and
+no author published more than one article during the study
+period. As in Scanff and colleagues (2021), the coefficient was
+higher on average but somewhat less varying for journals with
+more articles (panel B in Figure 1).

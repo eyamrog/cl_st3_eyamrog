@@ -1,0 +1,11 @@
+In U-Multirank, institutions are classified into five performance groups for
+each indicator: A (Very good), B (Good), C (Average), D
+(Below average), and E (Weak). This classification approach is intended
+to mitigate issues related to measurement accuracy, as grouping institutions
+helps to minimize the impact of minor numerical differences that
+fall within the margin of measurement error. As a result,
+accuracy concerns are primarily limited to cases where institutions are
+positioned at the boundaries between performance groups, thereby reducing the
+overall effect of such issues. One consequence of this grouping
+method is that a substantial number of institutions receive identical
+grades.

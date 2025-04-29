@@ -1,0 +1,9 @@
+Pearson's correlation matrix was employed to assess the degree of
+association among the factors. Overall, correlation coefficients greater than 0.50
+were observed between all factors. Notably, the "social competition" factor
+demonstrated strong correlations with "attention seeking" (r = 0.79), "mood
+and confidence" (r = 0.80), and "subjective conformity" (r =
+0.81). Additionally, a strong correlation was identified between "attention seeking"
+and "subjective conformity" (r = 0.80), as well as between
+"mood and confidence" and "subjective conformity" (r = 0.82), as
+shown in Table 2.

@@ -1,0 +1,13 @@
+At the conclusion of the data collection period, the database
+was consolidated by merging the three survey stages conducted in
+both cities. A consistency analysis was performed to assess data
+reliability, identify potential typographical errors, and detect missing values. The
+sampling weight for each selected unit—census tract, household, and individual—was
+calculated separately for each city, based on the inverse probability
+of selection as specified in the study’s sampling plan and
+using data from the 2010 demographic census. Adjustments were made
+to account for non-response, and the weights for households and
+selected residents were calibrated to ensure that the population totals
+by sex and age group (18–29 years, 30–49 years, 50–59
+years, and 60 years and older) aligned with the 2019
+population projections provided by DATASUS [22].

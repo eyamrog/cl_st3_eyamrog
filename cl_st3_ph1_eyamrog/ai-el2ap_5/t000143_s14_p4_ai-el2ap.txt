@@ -1,0 +1,15 @@
+The dependent variable in this study was the female mortality
+rate due to aggression, calculated for each municipality in Sergipe
+during the period from 2013 to 2017. To minimize temporal
+and geographic fluctuations commonly observed in events of low frequency,
+the mortality coefficients were aggregated over five years. Data on
+female mortality due to aggression were obtained from the Mortality
+Information System of the Brazilian Ministry of Health, with causes
+of death classified according to categories X85 to Y09 of
+the 10th edition of the International Classification of Diseases (ICD-10).
+The total resident population for each municipality during the study
+period was based on the 2010 population census and inter-census
+year estimates provided by the Brazilian Institute of Geography and
+Statistics. Femicide rates were calculated by dividing the number of
+female deaths due to aggression in each municipality by the
+total female population residing in the same municipality.

@@ -1,0 +1,12 @@
+Our results indicate that the fracture toughness of liana leaf
+laminas increases as the leaves dry, consistent with findings from
+previous studies on grass leaves (Niklas 1992; Vincent 1990b, 1983).
+As moisture content decreases, the leaves exhibit increased brittleness, reflected
+in greater notch sensitivity. For instance, at 10% moisture content,
+the average fracture toughness of A. crucigerum leaves is 280
+J m⁻², whereas at 50% moisture content, the average fracture
+toughness decreases to 200 J m⁻², representing a 30% reduction.
+While detailed analyses of the effects of dehydration on leaf
+fracture toughness have been conducted for a limited number of
+species, primarily grasses (Vincent 1983, 1990b), the present study extends
+this investigation to liana leaves.

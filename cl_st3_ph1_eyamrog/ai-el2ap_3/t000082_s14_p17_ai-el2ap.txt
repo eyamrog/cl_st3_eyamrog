@@ -1,0 +1,7 @@
+In the baseline coevolutionary model, the trait barrier 𝜀𝑖𝑗 represents
+the threshold at which the evolutionary influence of a cheater
+species on a victim species becomes negligible. To investigate the
+impact of cheating interactions on network structure, we modified the
+baseline model by introducing an additional trait barrier, 𝑏𝑖𝑗, which
+specifies the maximum allowable absolute difference between the trait values
+of two species for an interaction to occur.

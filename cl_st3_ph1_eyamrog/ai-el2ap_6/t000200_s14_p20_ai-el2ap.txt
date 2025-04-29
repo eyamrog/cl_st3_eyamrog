@@ -1,0 +1,19 @@
+The data collected for this study include records of leptospirosis
+cases and rainfall rates in Santa Catarina State from 2005
+to 2015, providing an 11-year sample that supports data representativeness.
+Information on confirmed leptospirosis cases was obtained from the restricted
+access database of the Board of Epidemiological Surveillance (Diretoria de
+Vigilância Epidemiológica — DIVE) of Santa Catarina. Rainfall data, measured
+in millimeters, for each municipality within the Health Regions of
+Santa Catarina were sourced from the National Water Agency (Agência
+Nacional de Águas — ANA) and the Company of Agricultural
+Research and Rural Extension of Santa Catarina (Empresa de Pesquisa
+Agropecuária e Extensão Rural de Santa Catarina/Centro de Informações de
+Recursos Ambientais e de Hidrometeorologia de Santa Catarina — EPAGRI/CIRAM).
+Daily precipitation records were collected from 155 rainfall stations distributed
+across Santa Catarina during the study period. These data were
+used to calculate average monthly precipitation at the municipal, Health
+Region, and state levels. Population data for Santa Catarina and
+its Health Regions were obtained from the website of the
+Brazilian Institute of Geography and Statistics (Instituto Brasileiro de Geografia
+e Estatística — IBGE).

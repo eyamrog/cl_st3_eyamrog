@@ -1,0 +1,12 @@
+Finally, we focus on the case of Brazil. Given the
+significant weight of this country with 50% of the total
+number of articles published in the database and having a
+high tendency towards co-authorship among Brazilian authors, we contrast this
+with a more detailed analysis of the SciELO Brazil collection
+(only journals from Brazil). There we find that there is
+a strong tendency towards scientific collaboration between authors affiliated with
+the same country but belonging to universities from different states.
+A picture thus emerges that calls into question the preconception
+that collaboration between authors of the same country signifies academic
+inbreeding and reveals the complexity of this national academic space
+and its current dynamics.

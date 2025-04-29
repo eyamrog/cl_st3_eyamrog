@@ -1,0 +1,3 @@
+Among the three techniques reviewed in this paper, panoramic radiography
+and cone-beam computed tomography can be useful in the MC
+evaluation.

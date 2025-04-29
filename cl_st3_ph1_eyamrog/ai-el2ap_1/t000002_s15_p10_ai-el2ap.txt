@@ -1,0 +1,9 @@
+Utterances related to the task content were classified according to
+their discursive functions, drawing on the IRF (Initiation-Response-Feedback) pattern and
+the dialogic features that characterize productive talk (Howe et al.,
+2019). Six codes were developed, corresponding to the three moves
+of triadic discourse: invitation (INV), dialogic invitation (D_INV), contribution (CON),
+dialogic contribution (D_CON), follow-up (FOL), and dialogic evaluation (D_EVA). This
+distinction was applied exclusively to content-related utterances, as these are
+the primary means through which knowledge construction and conceptual learning
+occur.

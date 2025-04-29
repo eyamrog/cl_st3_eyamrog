@@ -1,0 +1,20 @@
+Data were organized using Microsoft Excel (Windows version 2016, Microsoft
+Corporation, Redmond, WA, USA) and subsequently analyzed with Microcal Origin
+software version 6.0. The Boltzmann function was applied to simulate
+the data for each set corresponding to different geographical regions
+in northeastern Brazil. The parameters of the Boltzmann function were
+obtained for each dataset, with the parameter A2 directly representing
+the estimated potential total number of confirmed cases. The Boltzmann
+function used for future simulation is defined as follows: <>,
+where C(x) denotes the cumulative number of confirmed cases after
+day x, and A1, A2, x0, and dx are constants.
+The parameter x0 represents the inflection point, indicating the date
+on which the daily number of cases is expected to
+reach its maximum, after which a decline in daily cases
+is anticipated. The parameter dx serves as the adjustment coefficient,
+reflecting the rate of increase in y (number of COVID-19
+deaths) as a function of x (days after the first
+case). The parameter A2 provides an estimate of the potential
+total number of deaths. Data from parameter A2 were used
+to calculate the cumulative rate of COVID-19 deaths per 1,000,000
+inhabitants.

@@ -1,0 +1,14 @@
+Fatality rates have varied substantially among countries, and possible explanations
+include differences in test accuracy and testing strategies for SARS-CoV-2.
+For instance, in Brazil, test availability is currently limited, and
+testing is prioritized for patients exhibiting more severe clinical symptoms
+who are suspected of having COVID-19. In contrast, countries such
+as the Republic of Korea have implemented widespread testing for
+SARS-CoV-2. As a result, many patients with mild symptoms—who constitute
+approximately 80% of SARS-CoV-2 infections and would likely not be
+tested in Brazil—were identified and included in the case count
+in Korea. This broader testing approach is associated with a
+lower reported case-fatality rate in Korea (1%) compared to Brazil
+(6.1%). Consequently, the actual overall mortality rate may be closer
+to the estimate observed in Korea than that reported in
+Brazil.

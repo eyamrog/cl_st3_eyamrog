@@ -1,0 +1,6 @@
+Careful corpus design facilitates the generalization of results, as statistical
+analyses are frequently applied to the data. In this section,
+we review selected studies in learner corpus research, with particular
+attention to their design features and the strategies employed to
+address representativeness, thereby enabling valid comparisons across registers or learner
+groups.

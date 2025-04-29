@@ -1,0 +1,9 @@
+A total of 806 articles were identified in the initial
+database search, comprising 290 from Science Direct, 46 from Web
+of Science, 87 from Scopus, 170 from Cochrane, and 213
+from PubMed. After the removal of 102 duplicate records, 704
+articles remained. Screening of titles and abstracts resulted in the
+exclusion of 686 articles that did not meet the inclusion
+criteria, were classified as different study types, or involved populations
+with other diseases. Consequently, 18 articles were selected for full-text
+review, after which one additional article was excluded.

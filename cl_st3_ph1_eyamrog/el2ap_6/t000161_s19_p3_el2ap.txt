@@ -1,0 +1,13 @@
+Influence of self-citations on JIF is almost insignificant to boost
+this metric because most journals from the three categories (Entomology,
+Zoology, and TTJ) have similar means of the ratio between
+JIF without self-citations and JIF for 2010–2018 (Figure 5), except
+Shilap-Revista de Lepidopterologia, a journal devoted to butterflies and moths,
+Insects, published by Multidisciplinary Digital Publishing Institute (MDPI) —a company
+with questionable conduct (Retraction Watch 2018) and considered predatory (Brezgov
+2014) —, and Zootaxa. Some journals have large intervals based
+on SD in the influence of self-citation on JIF, while
+journals such as Zootaxa have a more constant influence of
+self-citation. For instance, in Zootaxa this ratio ranges from 0.55
+to 0.60 and JIF reduces 39.6–45.6% when self-citations are excluded
+(Figure 6, Supplementary File 1).

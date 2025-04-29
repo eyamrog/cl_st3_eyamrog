@@ -1,0 +1,6 @@
+We evaluated the adequacy of the model using the Root
+Mean Square Error of Approximation (RMSEA), Tucker-Lewis Index (TLI), and
+Comparative Fit Index (CFI) fit indices. According to Brown (2015),
+RMSEA values must be less than 0.08, with confidence intervals
+not reaching 0.10. TLI and CFI values must be above
+0.90, or preferably 0.95.

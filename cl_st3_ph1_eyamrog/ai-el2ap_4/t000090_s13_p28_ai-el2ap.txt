@@ -1,0 +1,8 @@
+The subsequent analysis focuses on the statistical correlations among the
+various Indicators and Dimensions of the “U-Multirank.” This aspect is
+critical, as high correlations between multiple Indicators would suggest redundancy,
+indicating that the 36 Indicators may not represent distinct measures
+but rather overlapping constructs assessed through different questions. Such redundancy
+would challenge the validity of the “U-Multirank” results and undermine
+its claim to multidimensionality, which constitutes the primary innovative feature
+of this ranking system.

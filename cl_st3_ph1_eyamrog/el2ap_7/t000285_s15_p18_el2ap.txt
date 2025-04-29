@@ -1,0 +1,14 @@
+For evaluating prognosis, we will perform analyses according to the
+recommendations of Cochrane, and the Cochrane Prognosis Methods Group. To
+perform the meta-analysis we will use R software. When the
+response of interest is provided by continuous variable we will
+perform the analysis in terms of mean difference (MD) or
+Hedge’s/Cohen’s (SMD). In case of dichotomous response will pool a
+hazard ratios (unadjusted (crude) or adjusted) or odds ratio with
+their standard errors for hospital admission, intensive care unit admission
+and/or respiratory support for adult inpatients with COVID-19 and mortality.
+All others parameters as standard deviation (for MD or SMD,
+for instance) and each number of events (RR or OR,
+for instance) will be pooled. In all cases we will
+use the generic inverse variance method with random-effects model. The
+package to be used is the “meta” (version 4.11-0).

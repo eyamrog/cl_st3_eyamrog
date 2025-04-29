@@ -1,0 +1,8 @@
+SARS-CoV ORF7a and ORF3a proteins have been shown to block
+G0/G1 cell cycle progression by reducing cyclin D3 expression, decreasing
+cyclin D/CDK4/6 activity, and inhibiting Rb phosphorylation (Yuan et al.
+2006). Additionally, Nsp15 can alter the subcellular localization and function
+of Rb, promote pRb ubiquitination and degradation, and increase the
+proportion of cells in S-phase. In contrast, overexpression of the
+ORF4 (3b) protein induces cell cycle arrest at G0/G1 and
+promotes apoptosis (Yuan et al. 2005; Bhardwaj et al. 2012).

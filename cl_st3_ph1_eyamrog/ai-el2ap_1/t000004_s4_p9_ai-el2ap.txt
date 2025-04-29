@@ -1,0 +1,5 @@
+Due to the confidentiality agreements established in the TLANG research,
+raw research data is not publicly accessible for ethical reasons.
+However, the data utilized in this paper, as well as
+additional materials such as video clips, are available in the
+project report.

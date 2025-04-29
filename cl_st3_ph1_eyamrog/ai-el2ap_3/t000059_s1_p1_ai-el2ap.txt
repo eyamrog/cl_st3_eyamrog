@@ -1,0 +1,5 @@
+Objective: To describe authorship concentration indexes, specifically the proportion of
+articles published by the most prolific author (PPMP) and the
+Gini coefficient, among health sciences journals indexed in LILACS, and
+to compare these metrics with those reported in a previous
+study of journals indexed in MEDLINE.

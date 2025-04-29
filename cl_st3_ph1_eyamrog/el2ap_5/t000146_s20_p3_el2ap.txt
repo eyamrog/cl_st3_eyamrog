@@ -1,0 +1,6 @@
+When analyzing the citations obtained, two variables allowed us to
+assess their relative impact, on the basis of the proportion
+of article citations that correspond to the total number of
+citations: a) in the national language compared with citations in
+any language (Fig. 1-A); and b) citations from the SciELO
+CI database compared with all the WoS databases (Fig. 1-B).

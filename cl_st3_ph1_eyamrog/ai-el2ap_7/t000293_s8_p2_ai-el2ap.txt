@@ -1,0 +1,11 @@
+Several studies have described the imaging characteristics of this disease,
+with particular focus on high-resolution computed tomography (CT) of the
+chest (3–18). Although chest CT is not currently recommended as
+a routine tool for screening or initial diagnosis of COVID-19,
+it can provide valuable information regarding disease severity, treatment response,
+the presence of complications, and differential diagnoses (19). Only a
+limited number of studies have assessed the diagnostic accuracy of
+chest CT for screening patients with suspected COVID-19 (11,17,18). Such
+analyses are important, especially in contexts where other endemic and
+seasonal viruses are present and where access to serological testing
+(PCR) is limited or results are delayed.

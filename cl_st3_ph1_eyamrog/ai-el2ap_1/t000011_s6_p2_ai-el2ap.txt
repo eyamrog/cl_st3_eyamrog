@@ -1,0 +1,10 @@
+It is well established that environmental temperature and humidity directly
+influence the water status of plant structures, and that both
+anatomical composition and water status affect the biomechanical properties of
+these structures (Niklas 1992, Vincent 1992, Rowe et al. 2005).
+Consequently, most plant biomechanics studies maintain sample moisture immediately after
+collection to ensure that measurements closely reflect the properties of
+living plants in their natural environment. However, prior to the
+present study, the extent to which dehydration alters the values
+of bending stiffness in liana stems and fracture toughness in
+leaves had not been quantified.

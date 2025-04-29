@@ -1,0 +1,9 @@
+Light response curves - For each treatment, two leaves per
+plant from five plants (n = 10 measurements) were analyzed.
+From each leaf, the curve of light intensity/net carbon absorption
+(A, µmol CO2 m-2 s-1) was obtained with a portable
+infra-red gas analyzer (IRGA) model LI-6400XT, manufactured by LI-COR Bioscience®.
+Since the leaves of the in vitro plantlets and the
+recently rooted seedlings were too small to completely fill the
+leaf chamber of the IRGA, data were adjusted according to
+the leaf area.

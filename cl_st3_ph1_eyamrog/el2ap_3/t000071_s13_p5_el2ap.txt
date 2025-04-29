@@ -1,0 +1,15 @@
+On the peer-review question, we asked the 14 publishers who
+responded to our original inquiry, if they would allow us
+limited use of password access to their peer review process
+(based on our knowledge of OJS). Five publishers granted us
+access to a journal (Table 1). In spot-checking an average
+of 12 recent articles per journal, we found four of
+the five publishers’ journals had complete sets of reviews, while
+the fifth was missing reviews for three articles out of
+20. There were 1.6 reviews per article on average, although
+24 percent of the reviews contained only a recommendation to
+publish without comment, suggesting that there is much work to
+be done on improving peer review quality. In sum, of
+the original randomly selected 50 publishers using OJS on Beall’s
+list, 14.0 percent largely compliant with Beall’s basic criteria, with
+five of the seven providing direct evidence of peer review.

@@ -1,0 +1,3 @@
+(b) Academic book chapters were identified based on the academic
+nature of the book title, inclusion in a list of
+leading academic publishers, or publication by any university press.

@@ -1,0 +1,11 @@
+Based on Table 3, we can also calculate that the
+dispersion, measured by the coefficient of variation of the adjusted
+mortality rates, is greater than that of crude rates. This
+indicates that the crude rates converge because different phenomena are
+equalized: the higher mortality within each age group of some
+countries is compensated by a population which is younger and
+less susceptible to more severe cases. Alongside the disparity between
+the three groups of countries, the internal disparity counts on
+those groups. Indeed, the adjusted mortality rate in Mexico is
+89% higher than in Chile, while in England and Wales
+it surpasses Germany by no less than 223%.

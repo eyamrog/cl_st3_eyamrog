@@ -1,0 +1,8 @@
+The endothermic peaks observed in the differential thermal analysis (DTA)
+correspond to the degradation temperature ranges identified in the thermogravimetric
+(TG) curves of the samples. No exothermic events were detected.
+The more polar fractions exhibit distinct endothermic peaks compared to
+those observed for the ethanolic extract (EE) and the ethyl
+acetate fraction. Consequently, it can be inferred that both the
+hexane and chloroform fractions require less thermal energy to initiate
+degradation.

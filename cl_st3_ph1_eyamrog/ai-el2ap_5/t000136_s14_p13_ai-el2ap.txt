@@ -1,0 +1,7 @@
+To investigate the relationships between latent variables, we selected Partial
+Least Squares Structural Equation Modeling (PLS-SEM) as the analytical technique.
+However, because the manifest variables in this study are qualitative
+and dichotomous, and PLS-SEM is not suitable for measuring constructs
+with such variables (Hair et al., 2016), we first conducted
+a Multiple Correspondence Analysis (MCA) to identify the underlying governance
+structure in nonprofit organizations (NPOs).

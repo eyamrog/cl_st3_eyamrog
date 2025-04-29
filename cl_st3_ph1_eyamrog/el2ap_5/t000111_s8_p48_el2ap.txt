@@ -1,0 +1,10 @@
+Besides the selection properties of the matrix verb, which clearly
+selects a question in (35), but not in (41), free
+relatives are said to be affected by the so-called matching
+effect (Bresnan & Grimshaw, 1977; Larson, 1987; Vogel, 2003)8. The
+matching requirement states that the category/C(c)ase of the wh-phrase must
+match the selection properties of the verb of the matrix
+and of the one in the relative. A mismatch will
+cause the sentence to be ungrammatical. Indirect questions are not
+subject to the same requirement, as it gets clear from
+the contrast in (42)/(43):

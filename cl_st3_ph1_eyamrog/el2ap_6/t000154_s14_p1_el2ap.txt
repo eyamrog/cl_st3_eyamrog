@@ -1,0 +1,7 @@
+This electronic survey was administered through the Web from April
+6 to May 10, 2020, using formr 0.18.3 (Arslan; Tata,
+2018), an open-source survey framework (Arslan et al., 2019). The
+full formr “run” (questionnaires and their interconnections) used in this
+survey is openly available at the Open Science Framework (Fontenelle;
+Sarti, 2020a). The participants belonged to four groups of RBMFC
+stakeholders:

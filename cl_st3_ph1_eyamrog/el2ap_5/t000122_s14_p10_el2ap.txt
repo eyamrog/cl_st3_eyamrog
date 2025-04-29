@@ -1,0 +1,10 @@
+Statistical analyses - The number of contaminants (individuals mL-1) in
+thalli culture medium immersed in 5% liquid detergent and 1%
+povidone iodine at different times was compared to the control
+by a one-way analysis of variance (ANOVA), whereas the number
+of contaminants in thalli culture medium immersed in 5% liquid
+detergent and 0.2% sodium hypochlorite (at different times) was compared
+to the control by the following tests: Mann-Whitney (for mean
+number of ciliates, microcrustaceans and nematodes between control and 1
+minute), ANOVA and Tukey’s post hoc test for annelids among
+control and immersion treatments for 1, 2 and 5 minutes.

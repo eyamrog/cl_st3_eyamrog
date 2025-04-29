@@ -1,0 +1,13 @@
+Methods: A cross-sectional online survey was conducted among individuals in
+self-isolation. Participants self-reported moderate-to-vigorous physical activity (MVPA), vigorous physical activity
+(VPA), moderate physical activity (MPA), and sedentary behavior (SB), which
+served as exposure variables. Depressive and anxiety symptoms were assessed
+using the Beck Depression Inventory (BDI) and Beck Anxiety Inventory
+(BAI), respectively. Associations between MVPA, VPA, MPA, and SB and
+the prevalence of depressive symptoms (BDI > 9), anxiety symptoms
+(BAI > 7), and comorbid depressive and anxiety symptoms (BDI
+> 9 and BAI > 7) were examined using logistic
+regression analyses, with results reported as odds ratios (OR) and
+95% confidence intervals (95% CI). Linear regression analyses were also
+conducted to assess associations with symptom severity. All models were
+adjusted for potential confounding variables.

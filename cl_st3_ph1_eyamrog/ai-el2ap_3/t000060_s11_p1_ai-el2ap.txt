@@ -1,0 +1,10 @@
+A central concept in conversation analysis is the sequential unit
+known as the adjacency pair. This concept posits that conversational
+turns are organized in pairs, with the initial turn, or
+first pair-part, establishing expectations that constrain the range of appropriate
+responses in the subsequent turn. As described by Sacks et
+al. (1974, p. 716), adjacency pairs encompass sequences such as
+"greeting-greeting" and "invitation-acceptance/decline," among others. The initial utterance in such
+a sequence is referred to as the "first pair-part," which
+functions to project and delimit the possible forms of the
+second pair-part in the interaction.

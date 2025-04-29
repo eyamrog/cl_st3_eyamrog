@@ -1,0 +1,5 @@
+The median journal size was 166 signed articles (Table 1).
+Meanwhile, MEDLINE journals studied by Scanff and colleagues (2021) had
+a median size of 500 signed articles (IQR, 262 to
+964). After reweighting, MEDLINE journals had the same size as
+those in LILACS (1).

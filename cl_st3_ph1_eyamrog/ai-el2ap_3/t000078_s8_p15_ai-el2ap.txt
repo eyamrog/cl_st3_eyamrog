@@ -1,0 +1,13 @@
+McMillen (2001a, 2001b) introduced a two-stage model that does not
+require prior knowledge of the city under evaluation. In the
+first stage, the method closely follows the approach of Craig
+and Ng (2001) by regressing the logarithm of employment density
+on the distance to the central business district (CBD). Subcenter
+candidates are identified as locations where the residuals from this
+regression form clusters that are statistically significant at the 5%
+level. In the second stage, after identifying potential subcenters, a
+semiparametric model is applied. The nonparametric component of this regression,
+adjusted using a flexible Fourier approximation, employs the residuals from
+the first stage as the dependent variable and the distance
+to the CBD as the explanatory variable. Locations with statistically
+significant estimated distance coefficients are classified as subcenters.

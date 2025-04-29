@@ -1,0 +1,17 @@
+We calculated rarefaction curves and confidence intervals (95%) with the
+moment-based estimator of species richness (Colwell et al. 2004) to
+verify the efficiency of the sampling effort in terms of
+the number of species recorded during the study for both
+amphibians and reptiles. For this analysis, one hour of VES
+constituted a sampling unit, with a total of 460 samples
+being obtained during the study period as a whole. We
+considered the convergence of the confidence intervals to zero as
+an indicator of sampling sufficiency (Colwell et al. 2004). We
+also estimated the number of species and standard deviation with
+the Bootstrap richness estimator (Smith & van Belle 1984) with
+1,000 runs. Both the rarefaction curves and Bootstrap were calculated
+in the program EstimateS 8.2.0 (Colwell 2009). We analyzed the
+distribution of the species abundance, using rank abundance curves or
+Whittaker plots (Whittaker 1965), which show the ranked log abundance
+of each species (Krebs 1999). We analyzed these plots in
+PAST 2.17 (Hammer et al. 2001).

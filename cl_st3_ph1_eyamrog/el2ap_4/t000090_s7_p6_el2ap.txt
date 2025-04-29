@@ -1,0 +1,12 @@
+Since the “U-Multirank” has a much larger number of Indicators
+(36), when compared to one-dimensional rankings, which usually have less
+than 15 Indicators, it is expected that a lack of
+data may be a potential problem, which could be a
+negative point of this ranking. Of course this is not
+as important as it is for one-dimensional rankings, since a
+general classification is not made, and the user can just
+neglect the missing information and concentrate in the available data,
+loosing part of the information, but not the whole ranking.
+But the amount of missing data is not negligible in
+many situations and the present paper will look at this
+point later.

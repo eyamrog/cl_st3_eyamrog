@@ -1,0 +1,14 @@
+If the patient stops taking a DMD during COVID-19 infection,
+its reintroduction should be carefully planned according to MS/NMOSD activity,
+patient's age, and previously used drugs. Moreover, COVID-19 infection severity
+should be observed since it is related to viremia length.
+The literature has reported that after 10 days of symptom
+onset, 90% of previously positive nasopharyngeal RT-PCR in mild infections
+became negative, while the more severe ones remained positive72. In
+addition, immunosuppression may prolong the viremic period even further. At
+the same time, delaying the reintroduction of DMDs may increase
+the chance of relapses or even rebound (in case of
+prior natalizumab or fingolimod use). Hence, we recommend reintroducing DMDs
+4 to 8 weeks after SARS-CoV-2 infection and encourage neurologists
+to consult with infectious disease specialists aiming to confirm viral
+clearance for prompt immunosuppression.

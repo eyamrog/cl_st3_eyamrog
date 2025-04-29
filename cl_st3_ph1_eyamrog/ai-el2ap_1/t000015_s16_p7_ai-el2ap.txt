@@ -1,0 +1,6 @@
+Approximately 49.7% of JUOJS published articles are primarily in English,
+with the top ten languages representing 97.0% of all titles
+(Figure 6). In contrast, Scopus indexes publications in 40 languages,
+with 92.6% of documents published in English, followed by 2.8%
+in Chinese and 1.3% in Spanish (Vera-Baceta, Thelwall, & Kousha,
+2019).

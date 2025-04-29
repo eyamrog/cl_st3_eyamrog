@@ -1,0 +1,17 @@
+Within this debate about the multilateral aspects of capital controls
+and prudential policies, and the necessity for international coordination on
+the subject, Ghosh et al.’s (2014) study also stands out.
+They investigate if capital controls and other regulatory measures (such
+as macroprudential policies) were efficient if countries implemented them simultaneously
+on capital inflows and capital outflows, from emerging recipient and
+advanced source countries. To identify the effectiveness of capital controls
+and other regulatory instruments in reducing the volume of cross-border
+banking flows, the authors collect a sample of 76 capital
+recipient and 31 capital source countries, and perform isolated regressions
+for both the recipient and source countries. On the regulatory
+measures on capital outflows from source countries, the results show
+that prudential regulation on the financial system, especially on external
+loans, have a strong impact in reducing bank flows over
+the sample period. The regulatory measures imposed on capital inflows
+by recipient countries also show some effectiveness in reducing cross-border
+banking flows.

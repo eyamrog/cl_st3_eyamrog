@@ -1,0 +1,24 @@
+Although the use of JIF is not recommended for ranking
+individuals (Alberts 2013), its impact in the real-life academic career
+is crystal clear. It is widely perceived that an academic
+researcher can only evolve in his/her career by means of
+publishing in journals with high JIF values. The metric has
+well-known limitations when used to evaluate both journals or individual
+papers, because the index is strongly sensible to what is
+considered a citable item (The PLoS Medicine Editors 2006); also,
+it is characterized by a misuse of statistics such as
+media and median (Vanclay 2012) and may be radically influenced
+by a single or few papers (e.g., Dimitrov 2010). Its
+widespread adoption leads to several distortions such as unjustified multi-
+authored papers and schemes by journals to artificially increase JIF
+or impact inflation; these schemes are among the most common
+outcomes of the JIF mania. Because of the metrics inflation,
+the bibliometric platforms act as judges to prevent these types
+of distortion, excluding or punishing “deviant” journals. Indexing platforms such
+as Clarivate/JCR, for instance, adopt no less than 24 criteria
+into a putatively unreproducible method of analysis. When a journal
+disagrees or does not fulfill one of these criteria, it
+is suppressed (Clarivate 2020a). The lack of transparency greatly affects
+our ability to properly evaluate journal suppressions. The philosophical dilemma
+“Who watches the watchmen?”, eternalized in the famous graphic novel
+Watchmen, written by Alan Moore, fits well here.

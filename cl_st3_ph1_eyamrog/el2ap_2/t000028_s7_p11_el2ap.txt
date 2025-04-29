@@ -1,0 +1,9 @@
+Based on this classification, we consider: 1) a person with
+“no visual impairment” as someone with mild vision loss or
+near-normal vision, that is, perceiving light; 2) “moderate visual impairment”
+as moderate low vision, still perceiving light; 3) “severe visual
+impairment” as grave low vision, but perceiving a little of
+light; and 4) “blindness” as profound to total visual impairment,
+perceiving no or almost no light. Thus, it is possible
+to say that blindness is one type of visual impairment,
+which is the most severe one.

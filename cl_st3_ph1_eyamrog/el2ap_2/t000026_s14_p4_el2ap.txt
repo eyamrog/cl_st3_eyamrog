@@ -1,0 +1,3 @@
+Sociodemographic and clinical questionnaire: addressed questions such as age, ethnicity,
+sex, marital status, state, course, term, university, symptoms (physical and
+psychological) of anxiety, and history of anxiolytic medication use.

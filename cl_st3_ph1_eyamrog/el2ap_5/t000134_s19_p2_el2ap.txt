@@ -1,0 +1,12 @@
+The cumulative curve for the amphibian species reached the asymptote
+at 213 hours of sampling with a total richness of
+22 species, while the curve for the reptiles reached the
+asymptote at 276 hours, with a total of 14 species,
+based on a total sampling effort of 460 hours (Figure
+8). The confidence intervals of the rarefaction curves converged to
+zero for the amphibians, but not for the reptiles, for
+which the error was estimated as 2.3 species (Figure 8).
+The species richness estimated by the Bootstrap procedure was similar
+to that recorded by the VES method for both amphibians
+(estimated richness = 22.4 species) and reptiles (estimated richness =
+15.6 species).

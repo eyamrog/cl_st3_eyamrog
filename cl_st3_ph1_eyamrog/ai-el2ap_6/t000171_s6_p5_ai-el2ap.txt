@@ -1,0 +1,13 @@
+The negative correlations identified between the time elapsed from the
+first reported case in a municipality to the first reported
+case in the state suggest heterogeneity in the timing of
+virus introduction across different areas. This heterogeneity is particularly evident
+when considering that incidence and mortality rates tend to be
+lower in locations where the first case is reported later.
+Candido et al. (2020) established the spatio-temporal dynamics of COVID-19
+spread in Brazil and identified the health macro-regions of the
+Northern Triangle, Central, Central South, South, and Southeast as the
+initial entry points of the virus into Minas Gerais. These
+findings are consistent with previous studies conducted in Brazil and
+China, which demonstrated that more affluent regions tend to experience
+earlier introduction of the virus compared to less affluent regions.

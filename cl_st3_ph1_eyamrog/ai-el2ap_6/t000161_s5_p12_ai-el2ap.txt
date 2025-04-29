@@ -1,0 +1,14 @@
+The phenomenon of self-citation, whether at the author or journal
+level, has been extensively studied from both sociological and bibliometric
+perspectives. Szomszor et al. (2020) provided a comprehensive review of
+author self-citation, addressing its technical aspects. High levels of self-citation
+are generally viewed negatively, particularly when journal self-citation is perceived
+as an attempt to artificially inflate bibliometric indicators; in such
+cases, it has been established that the resulting biased metrics
+should be excluded from analyses of scholarly influence or impact
+(Ioannidis & Thombs, 2019). Nevertheless, self-citation may be justified under
+certain conditions (Chorus & Waltman, 2016). As a result, the
+assessment of self-citation levels is complex. Ioannidis and Thombs (2019)
+noted that self-citation rates can vary naturally and that elevated
+levels may be reasonable in highly specialized journals or in
+fields with a limited number of publication outlets.

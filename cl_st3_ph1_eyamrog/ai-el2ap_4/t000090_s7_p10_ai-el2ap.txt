@@ -1,0 +1,9 @@
+This study examines the statistical correlations among all Dimensions to
+determine whether institutions exhibit homogeneous performance across different Dimensions or
+demonstrate a greater focus on specific ones. For instance, the
+analysis assesses whether institutions that perform well in "Teaching and
+Learning" also achieve high performance in "Research" or other Dimensions.
+Investigating these correlations is particularly relevant because the traditional evaluation
+conducted by CAPES primarily emphasizes the "Research" Dimension; therefore, understanding
+how this Dimension relates to others in multidimensional rankings provides
+valuable insights into institutional performance profiles.

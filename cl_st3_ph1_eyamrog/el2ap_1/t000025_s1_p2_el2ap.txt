@@ -1,0 +1,5 @@
+Background: Most cancer patients with Malignant Fungating Wounds suffer from
+wound-related pain, affecting their quality of life. Unfortunately, even though
+pain is a relevant symptom in cancer and palliative care,
+little is currently known about topical treatments' availability and impact
+on pain management.

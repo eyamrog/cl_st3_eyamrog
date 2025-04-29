@@ -1,0 +1,11 @@
+The plants cultivated in the greenhouse were subjected to a
+maximum light intensity of approximately 412 µmol m⁻² s⁻¹, which
+is slightly less than half of the light saturation point
+observed in wild (control) plants (Table 1). The maximum rate
+of carbon assimilation in these greenhouse plants was lower than
+that of both wild and garden-grown plants; however, the overall
+shape of the light response curve was consistent with expected
+patterns. For the greenhouse plants, the light saturation point was
+approximately 200 µmol m⁻² s⁻¹, and the rate of carbon
+assimilation remained stable under higher light intensities, indicating the absence
+of photoinhibition (Figure 2).

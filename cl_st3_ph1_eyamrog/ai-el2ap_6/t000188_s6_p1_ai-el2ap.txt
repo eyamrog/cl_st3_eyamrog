@@ -1,0 +1,4 @@
+In this study, we estimate the cumulative rate of COVID-19
+deaths per 1,000,000 inhabitants in Brazil for June 15 and
+July 15, 2020, utilizing available data from March 17, 2020
+to May 15, 2020 and applying a mathematical modeling approach.

@@ -1,0 +1,11 @@
+Since the early days of the pandemic, international collaborative efforts
+have been undertaken to collect indicators for monitoring its spread.
+Data on the number of cases, deaths, and recoveries are
+systematically tracked, both as daily figures and as cumulative totals.
+However, issues related to the accuracy of this information, as
+well as significant international discrepancies in data quality, render case
+counts unsuitable for cross-country comparisons. Variations in testing availability—particularly pronounced
+during the initial stages of the pandemic—further undermine the comparability
+of case-based indicators. While the impact of COVID-19 extends beyond
+outcomes resulting in death, mortality data, despite their own limitations,
+offer a more reliable basis for comparative analysis.

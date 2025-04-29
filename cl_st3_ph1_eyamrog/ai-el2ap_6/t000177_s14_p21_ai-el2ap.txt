@@ -1,0 +1,10 @@
+UV-C radiation possesses a shorter wavelength and higher energy compared
+to other types of ultraviolet radiation, which allows it to
+be most effective when applied directly and at close range.
+The intensity of UV-C radiation follows the inverse square law,
+meaning that its intensity decreases proportionally to the square of
+the distance from the source. Research conducted by Escombe et
+al. [24] and Casanova et al. [25] demonstrated that, provided
+there is adequate air circulation within a room to ensure
+thorough mixing of air, upper-room UV fixtures can serve as
+an effective intervention for infection control in high-risk clinical environments.

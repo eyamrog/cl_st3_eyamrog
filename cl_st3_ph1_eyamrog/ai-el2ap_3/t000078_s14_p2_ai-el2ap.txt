@@ -1,0 +1,5 @@
+In the second stage, the analysis employs the hedonic price
+approach. The hedonic price model quantifies price variations as a
+function of product quality, as established by Court (1939), Lancaster
+(1966), and Griliches (1971). This methodology is widely utilized in
+empirical research.

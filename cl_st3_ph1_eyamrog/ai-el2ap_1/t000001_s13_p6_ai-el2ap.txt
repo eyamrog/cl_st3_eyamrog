@@ -1,0 +1,9 @@
+After basecalling, quality control (QC) filtering can enhance the quality
+of Oxford Nanopore Technologies (ONT) reads. The use of Filtlong
+with the parameter --keep_percent 90 is recommended to remove the
+lowest quality reads, characterized by short length and low accuracy.
+In cases where the read set exhibits a low N50
+value but high sequencing depth, excluding short reads (for example,
+those shorter than 5 kbp) may improve assembly outcomes; however,
+this approach may reduce the recovery of small plasmids (see
+Pitfalls).

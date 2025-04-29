@@ -1,0 +1,4 @@
+Variables and sampling design - We measure both infiltration capacity
+and soil resistance to penetration using, respectively, Mini-Disk infiltrometer (Decagon)
+and Stof Impact Penetrometer (Kamaq) during the dry season of
+2018.

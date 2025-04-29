@@ -1,0 +1,6 @@
+This retrospective, observational, single-center study was approved by the National
+Commission for Research Ethics, with a waiver of informed consent.
+All patients who underwent chest computed tomography (CT) for suspected
+SARS-CoV-2 infection and had a reverse transcription polymerase chain reaction
+(RT-PCR) test collected on the same day between February and
+March 2020 at a cancer center were included.

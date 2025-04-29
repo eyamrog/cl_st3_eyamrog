@@ -1,0 +1,3 @@
+Then ai, the Covid-19 mortality rate in country i adjusted
+by differences in the age composition of the countries, should
+be defined as follows: <>

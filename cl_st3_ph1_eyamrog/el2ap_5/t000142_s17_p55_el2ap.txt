@@ -1,0 +1,7 @@
+Testing is performed based on the equation that the coefficient
+(δ) before the variable of 𝑦𝑡−1 is equal to or
+smaller than zero. In other words, the null hypothesis indicates
+that there is no cointegrating relationship, and the alternative hypothesis
+indicates the presence of a cointegrating relationship. What we need
+to do is to estimate this model and 𝑦𝑡−1 test
+the coefficient before the variable. variable.

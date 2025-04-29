@@ -1,0 +1,10 @@
+Half of the sentences contained anaphora, while the other half
+contained cataphora. Within each group, half of the sentences included
+a salient anaphor (represented by an unstressed pronoun in Portuguese
+or Spanish, or a stressed pronoun in English), and the
+other half included a non-salient anaphor (represented by ellipsis in
+Portuguese or Spanish, or an unstressed pronoun in English). Participants
+were instructed to interpret pronouns written in capital letters as
+stressed. Sentence (9) above provides an example of stressed pronominal
+anaphora, whereas sentence (10) below illustrates unstressed pronominal cataphora in
+English.

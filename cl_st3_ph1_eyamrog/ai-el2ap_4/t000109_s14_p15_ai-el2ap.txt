@@ -1,0 +1,5 @@
+Finally, two attributes associated with the behavior of Ha have
+epidemiological significance: adherence to social distancing (distancing) and both the
+effectiveness and compliance with mask use (mask). Although these attributes
+are essential for the epidemiological characterization of each agent, their
+operationalization is detailed in the Interpersonal Contact submodel (Section 4.1).

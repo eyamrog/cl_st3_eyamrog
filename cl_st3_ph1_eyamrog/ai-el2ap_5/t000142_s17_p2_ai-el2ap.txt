@@ -1,0 +1,6 @@
+This study investigates the potential relationship between the depreciation of
+the national currency and the incidence of femicide. Prior to
+examining this relationship, tests for linearity were conducted using the
+methods proposed by Harvey and Leybourne (2007) and Harvey, Leybourne,
+and Xiao (2008). Subsequently, tests for stationarity were performed on
+the data series.

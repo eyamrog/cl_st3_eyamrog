@@ -1,0 +1,9 @@
+Analyzing Fig. 4, the fact that BCG vaccination promotes a
+protective effect on the incidence and lethality of COVID-19 in
+several countries was identified as a major criticism: most countries
+in group 2 are temporarily behind in the course of
+the pandemic. To minimize the selection bias, a time equalization
+of all countries was individually performed in this study from
+the start date of the pandemic, which will not be
+necessary for future analyses, since the evolution of the pandemic
+itself will clarify this issue (Fig. 5).

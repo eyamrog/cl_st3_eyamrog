@@ -1,0 +1,4 @@
+Additionally, comparison of data from São Paulo City with that
+from other regions of the state revealed distinct trends in
+disease transmission, indicating the necessity of utilizing localized data to
+establish region-specific targets for the SDI.

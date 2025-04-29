@@ -1,0 +1,6 @@
+In this section, the complexity of language teaching and learning
+in CEAP courses is explored to justify the need for
+a contextual target situation analysis during needs analysis, which is
+not common in EAP/ESP literature. Afterwards, the use of ICT
+for such an investigation is presented, as a way to
+carry it out during the design of online CEAP courses.

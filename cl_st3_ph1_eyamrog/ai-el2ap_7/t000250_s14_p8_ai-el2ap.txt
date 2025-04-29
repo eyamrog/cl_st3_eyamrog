@@ -1,0 +1,7 @@
+Time spent in sedentary behavior (SB) was assessed using the
+question: “Since self-isolating, how much time have you spent sitting
+daily?” For analysis, SB was categorized as a dichotomous variable,
+with responses classified as either less than 10 hours per
+day (coded as 1) or 10 hours or more per
+day (coded as 2), consistent with the approach adopted in
+previous studies.23,24

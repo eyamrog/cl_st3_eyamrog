@@ -1,0 +1,19 @@
+Protein synthesis pathways are frequently modulated by viruses. Activation of
+the PKR pathway by RNA viruses constitutes a significant cellular
+defense mechanism, which is often counteracted by various viruses, including
+coronaviruses. For instance, dengue virus maintains activation of the cap-dependent
+translation machinery during the early stages of infection and subsequently
+shifts to a cap-independent mechanism in the later stages by
+downregulating p70-S6K, 4E-BP1, and eIF4 factors (Villas-Bôas et al. 2009).
+The SARS-CoV ORF3a protein has been shown to induce endoplasmic
+reticulum stress and activate eIF2α and PERK, thereby affecting innate
+immunity through suppression of type I interferon signaling (Minakshi et
+al. 2009). Both PKR and PERK, which promote phosphorylation of
+eIF2α and can suppress host translation, are highly expressed during
+SARS-CoV replication; however, knockdown of PKR does not impact viral
+replication, indicating that SARS-CoV may possess mechanisms to circumvent the
+inhibitory effects of phosphorylated eIF2α on viral mRNA translation (Krähling
+et al. 2009). Conversely, another study demonstrated that depletion of
+the antiviral PKR pathway enhances virus replication, leading to increased
+SARS-CoV protein expression and virus production (de Wilde et al.
+2015).

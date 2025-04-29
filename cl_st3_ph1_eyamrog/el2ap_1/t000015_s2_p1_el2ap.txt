@@ -1,0 +1,4 @@
+The authors wish to thank Anurag Acharya, Bianca Kramer, Ron
+Naoko, Kathy Kerns, and Emma Uhl, as well as SerpApi
+and Cabells, for their assistance in the preparation of this
+paper.

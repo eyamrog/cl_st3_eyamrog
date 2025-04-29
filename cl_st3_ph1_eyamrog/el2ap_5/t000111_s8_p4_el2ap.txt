@@ -1,0 +1,7 @@
+As one can perfectly see, it is possible to elide
+the first element of the apposition in (3a), but not
+in (4a); it is also possible to switch the positions
+of the nominal and the subordinate sentence in (3b), but
+not in (4b). Besides this, the wh-sentence can be extraposed
+in (3c), while the extraposition of the appositive clause is
+blocked in (4c).

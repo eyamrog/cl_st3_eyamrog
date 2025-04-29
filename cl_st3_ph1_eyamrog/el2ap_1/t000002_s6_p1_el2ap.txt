@@ -1,0 +1,10 @@
+In this paper, we have discussed two research paradigms and
+related them to two methodological approaches to analysing educational dialogue;
+systematic coding (positivism-quantitative) and sociocultural discourse analysis (interpretivism-qualitative). The first
+consisted of a coding scheme in which utterances were allocated
+to predefined categories that can be broadened or broken down
+further as desired. Hennessy et al. (2020) list some advantages
+of frequency counting, such as processing large quantities of data,
+highlighting key markers, searching the dataset efficiently to find how
+specific acts correlate with others, detecting patterns, measuring change in
+practice and making comparisons subjected to statistical analysis.

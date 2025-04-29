@@ -1,0 +1,18 @@
+In this study, we characterized the main morpho-physiological responses of
+two tropical liana species to varying light availability. The primary
+hypothesis was not supported, as Mikania glomerata exhibited superior growth
+performance under I0, I25, and I50 light treatments, whereas Mikania
+laevigata demonstrated improved performance specifically under I25. Plants cultivated under
+I0 and I25 conditions displayed higher stomatal conductance (gs) and
+transpiration rates (E). The observed increases in air temperature and
+vapor pressure deficit (VPD) at 150 days after transplantation (DAT)
+likely contributed to reductions in gs, E, and net photosynthetic
+rate (A) in both Mikania species. Stomatal closure under high
+light intensity, elevated temperature, and low relative humidity serves to
+reduce water loss to the environment, but also limits CO2
+uptake by the leaves (Hsie et al. 2015). Stomatal regulation
+is considered an adaptive strategy, particularly during the dry season.
+Under field conditions, enhanced intrinsic water use efficiency (iWUE) resulting
+from reduced gs and stable A values represents an effective
+mechanism for sustaining plant growth while minimizing excessive water loss
+(Hanba et al. 2002).

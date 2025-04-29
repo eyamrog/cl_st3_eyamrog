@@ -1,0 +1,4 @@
+For this stage the standard strains used were the American
+Type Culture Collection (ATCC) Streptococcus mutans (25175), Streptococcus oralis (10557),
+Streptococcus mitis (903) and Streptococcus salivarius (7073), which were provided
+by the Oswaldo Cruz Foundation (FIOCRUZ-RJ).

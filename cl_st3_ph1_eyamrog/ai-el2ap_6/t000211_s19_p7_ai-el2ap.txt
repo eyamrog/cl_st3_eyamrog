@@ -1,0 +1,5 @@
+The use of D-dimer levels should not be the primary
+criterion for performing imaging tests, as elevated D-dimer concentrations are
+commonly observed in patients with COVID-19. Instead, additional clinical manifestations
+of deep vein thrombosis (DVT) should be assessed prior to
+requesting imaging studies for definitive diagnosis.

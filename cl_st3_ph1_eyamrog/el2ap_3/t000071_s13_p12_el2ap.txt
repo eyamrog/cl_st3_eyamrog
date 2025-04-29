@@ -1,0 +1,19 @@
+We take little comfort from the proportion of journals using
+OJS on these two lists. An open source publishing platform
+that is free to download and documents setting up and
+operating journals might have been expected to be more widely
+used by fake journals. It may be that OJS’ design,
+dedicated to providing editorial oversight of peer review, is off-putting
+to those with no such intent, or that the platform’s
+design and support enable journals to rise above the subjective
+judgments behind the “predatory” label. Still, some journals are almost
+certainly using OJS to illegitimately charge authors for publishing their
+submissions without peer review to the detriment of science. While
+there is evidence of overcounting on both lists, the proportion
+of journals using OJS is higher in the more recent
+list maintained by Cabells Predatory Reports (3.2 percent) than in
+Beall’s list (1.2 percent), just as Cabells appears to be
+providing greater coverage of journals in the Global South than
+Beall. This increase may reflect OJS’ growth rate, which only
+adds to our responsibilities as platform developers to address this
+issue.

@@ -1,0 +1,12 @@
+Due to the ad hoc characteristic of the neighborhood composition,
+different weighting matrices are considered. In this specific evaluation, binary
+contiguity (queen and rook), distance, and 𝑘 nearest neighbor weight
+matrices are used. In contiguity matrices, 𝑤𝑖𝑗 is equal to
+1 if 𝑖 and 𝑗 are contiguous, and zero otherwise.
+The used distance weight matrix considers the centroid distances of
+the tracts, considering the Euclidean distance. Mathematically, 𝑤𝑖𝑗≤𝑑𝑖𝑗. In this
+specification, the maximum distance for at least one neighbor is
+8 Km, avoiding the island issue in the econometric estimation.
+Concerning the 𝑘 neighbor weight matrix, we chose six closest
+neighbors because it is the average number of neighbors in
+the database.

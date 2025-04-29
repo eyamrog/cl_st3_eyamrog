@@ -1,0 +1,23 @@
+Our data indicate that M. glomerata and M. laevigata plants
+grown under conditions with up to 50% reduction in solar
+radiation flux exhibited higher net photosynthetic rates (A) compared to
+plants grown under I75. The lower A observed under I75
+is likely attributable to a combination of factors, including reduced
+leaf thickness, lower stomatal density, decreased stomatal conductance (gs), and
+diminished light intensity. These factors may contribute to reduced intercellular
+CO2 concentration (Ci), Rubisco activity, and electron transport capacity (Lambers
+et al. 1998). Notably, plants grown under I25 demonstrated higher
+A values than those grown under full sunlight (I0) in
+both species, suggesting that the irradiance at I0 may have
+been excessive and induced dynamic photoinhibition. The parameter Fv/Fm is
+used to assess the level of photoinhibition, with values below
+0.75 indicating photoinhibition and a corresponding reduction in the maximum
+quantum efficiency of photosystem II (PSII) (Bolhàr-Nordenkampf & Öquist 1993).
+Under full sunlight, a decrease in Fv/Fm at midday followed
+by recovery at the end of the day provides evidence
+of dynamic, reversible photoinhibition (Bolhàr-Nordenkampf & Öquist 1993). This dynamic
+photoinhibition, characterized by the temporary inactivation of PSII, serves as
+an effective protective mechanism, as increased non-photochemical energy dissipation during
+periods of reduced CO2 influx (due to stomatal closure) helps
+prevent the formation of reactive oxygen species (ROS) and mitigates
+photooxidative damage (Choudhury & Behera 2001).

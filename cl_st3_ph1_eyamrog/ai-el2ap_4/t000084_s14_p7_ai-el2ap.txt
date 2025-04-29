@@ -1,0 +1,9 @@
+This section examines the relationship between participants’ age and gender
+and their emoji usage, with the aim of determining whether
+these demographic factors can help explain patterns in emoji use.
+Statistical analyses were conducted to assess correlations and potential predictive
+effects of age and gender on the frequency and types
+of emojis used. The findings are discussed in relation to
+existing literature on digital communication and demographic influences, providing insight
+into how age and gender may contribute to variations in
+emoji usage among participants.

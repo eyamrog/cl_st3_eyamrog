@@ -1,0 +1,19 @@
+This is a questionable form to make a general classification,
+because it does not look at the whole performances in
+all Indicators. Besides that, there is also the problem of
+giving different weights for each Dimension, because Dimensions with more
+Indicators will dominate the global evaluation. A good example for
+debate is the second and third place of this list.
+Using the criterions defined by “U- Multirank”, Federal University of
+São Carlos is in second place, with 3 A, 2
+B and 6 D grades. University of São Paulo is
+in third place, with 3 A, 1 B, 3 C
+and 5 D. If we make a “table points”, assuming
+a correspondence like A = 5, B = 4, C
+= 3, D = 2 and E = 1, University
+of São Carlos would have 35 points in total, while
+University of São Paulo would have 38 points, a better
+general performances. Therefore, the order of positions in the ranking
+would be inverted and University of São Paulo would be
+in the second place. Of course there is potential for
+much more problems of this type.

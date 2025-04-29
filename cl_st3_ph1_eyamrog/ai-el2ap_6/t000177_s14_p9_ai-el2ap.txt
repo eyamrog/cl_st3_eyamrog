@@ -1,0 +1,4 @@
+The third option, illustrated in Figure 1c(b), involves the use
+of an in-room fan (non-HEPA) that either discharges air directly
+to the exterior or utilizes the existing TLT room exhaust
+system.

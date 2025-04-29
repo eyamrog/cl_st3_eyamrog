@@ -1,0 +1,5 @@
+This test, introduced to the literature by Harvey and Leybourne
+(2007), does not require assumptions regarding the integration orders I(1)
+and I(2), thereby allowing for the coexistence of different processes.
+The test is characterized by a structure with four degrees
+of freedom, and it utilizes the following equation (1):

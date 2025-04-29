@@ -1,0 +1,11 @@
+The MANOVA results indicated significant differences in the factors across
+the four levels of selfitis intensity (low, mild, moderate, severe),
+as evidenced by Wilks’ λ = 0.421, F(15, 981) =
+39.32, p < 0.001. The mean differences for each individual
+factor at each intensity level, as determined by ANOVA, are
+presented in Table 4. Effect sizes were calculated using partial
+eta-squared (η²), which indicated moderate to large effects according to
+Cohen’s (1988) criteria. Among the factors, "attention seeking" exhibited the
+greatest variation across the four levels of selfie intensity, followed
+by "social competition," "mood and confidence," "subjective conformity," and "environmental
+enhancement."

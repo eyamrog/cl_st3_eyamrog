@@ -1,0 +1,11 @@
+Data were presented as mean values ± standard deviation and
+as frequency percentages (%) using SigmaPlot software (Systat Software, Inc.,
+version 12.0). Following assessment of parametric assumptions and statistical differences
+among experimental groups for the variables studied, comparative analyses were
+conducted between microorganisms and both the decoction and extract, as
+well as among the different concentrations applied to the decoction
+and extract, using one-way ANOVA and repeated measures one-way ANOVA,
+respectively, with Tukey’s post hoc test. Nonparametric data were analyzed
+using the Kruskal-Wallis and Friedman tests. Statistical differences in sensorial
+analysis scores between groups were determined using the Wilcoxon test.
+A p-value of less than 0.05 was considered statistically significant.

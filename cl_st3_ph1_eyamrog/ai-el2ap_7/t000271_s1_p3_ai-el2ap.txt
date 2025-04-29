@@ -1,0 +1,10 @@
+The unadjusted proportion of SARS-CoV-2 positive tests was 4.0% (95%
+CI: 3.3–4.7%), while the weighted prevalence was 3.8% (95% CI:
+3.1–4.5%). After adjusting for test sensitivity and specificity, the estimated
+prevalence decreased to 3.6% (95% CI: 2.7–4.4%) and 3.3% (95%
+CI: 2.6–4.1%), respectively. The variable most strongly associated with crude
+prevalence was the period of blood collection, with higher prevalence
+observed in later collection periods. Among socio-demographic factors, younger age
+and lower educational level were associated with higher prevalence and
+increased odds of a positive SARS-CoV-2 antibody result. Comparable associations
+were observed for the weighted prevalence estimates.

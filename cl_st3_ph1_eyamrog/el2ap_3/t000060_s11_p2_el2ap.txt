@@ -1,0 +1,8 @@
+[...] they set constraints on what should be done in
+a next turn (e.g., a ‘question’ making ‘answer’ especially relevant
+for next turn), but do not by themselves allocate the/a
+next turn to some candidate next speaker. They are, nonetheless,
+the basic component for selecting next speaker, since it is
+primarily by affiliation a first pair-part that the apparently most
+effective device for selecting next speaker – addressing someone –
+in fact works. (Sacks et al., 1974, p. 717)

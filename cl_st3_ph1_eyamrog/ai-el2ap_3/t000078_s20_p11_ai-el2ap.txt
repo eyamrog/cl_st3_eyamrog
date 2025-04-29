@@ -1,0 +1,9 @@
+The results obtained from the estimation of Equation 1, which
+controls for SBD and is conducted using OLS (Table 4,
+columns 5-8), are consistent with urban theoretical models that predict
+a decreasing price gradient. This consistency holds across both functional
+forms and specifications of the CBD variable. However, tests for
+spatial randomness reject the null hypothesis, indicating the presence of
+spatial dependence. As a result, the OLS estimates and associated
+statistical tests may be unreliable. To address this limitation, the
+econometric model is re-estimated using the SLX estimator.

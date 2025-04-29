@@ -1,0 +1,10 @@
+There is evidence that laparoscopic procedures can generate aerosols containing
+viral particles. However, it remains unclear whether conventional open surgical
+procedures are safer than laparoscopic approaches in the context of
+COVID-19. Devices such as the AirSeal iFS® System and the
+Laparoshield™ Laparoscopic Smoke Filtration System have been developed and approved
+for use in filtering surgical smoke, with the aim of
+removing particles, cells, and viruses. Nevertheless, there are currently no
+studies demonstrating their effectiveness specifically against SARS-CoV-2. Furthermore, the availability
+of these devices during the pandemic, particularly in low-income countries,
+is limited.

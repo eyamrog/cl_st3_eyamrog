@@ -1,0 +1,9 @@
+At the conclusion of the interview, each participant was requested
+to provide the teacher/researcher with a review they had received
+for a paper that was either accepted or rejected by
+a high-impact computer science journal. A total of 17 texts
+were submitted via email, corresponding to 12 distinct publication processes;
+of these, four resulted in rejection and eight in acceptance.
+For data analysis, Huckin’s (2004) content analysis methodology was employed,
+and AntConc software was utilized to extract specific information from
+the texts.

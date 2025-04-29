@@ -1,0 +1,10 @@
+The countries of group 5.1 (the USA, Spain, and the
+UK) were selected for comparison with their peers (Mexico, Portugal,
+and Ireland) and presented higher incidence and mortality rates among
+the groups studied, with 154.835 cases per 100,000 inhabitants and
+9.925 deaths per 100,000 inhabitants. When comparing groups 5.1 and
+5.2, it was observed that incidence, mortality, and lethality are
+higher in group 5.1 than in group 5.2. presenting an
+incidence of 8.01 times higher, mortality 14.73 times higher, and
+lethality 1.84 times higher than group 6.2 (p < 0.001)
+(Table 2).

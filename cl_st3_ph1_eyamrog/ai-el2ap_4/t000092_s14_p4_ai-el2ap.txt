@@ -1,0 +1,4 @@
+A 5-minute resting electrocardiogram (ECG) Holter recording was obtained, and
+frequency domain variables were analyzed using Fourier transform methods with
+Kubios HRV software (version 3.0.0, free version, University of Eastern
+Finland).

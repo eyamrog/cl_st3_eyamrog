@@ -1,0 +1,16 @@
+In this study, 𝜀𝑖𝑗 is defined as a trait barrier
+that determines whether a cheater species exerts selection pressure on
+a victim species, whereas bij indicates that a potential mutualistic
+or cheating interaction is precluded due to substantial trait dissimilarity
+between partners. By incorporating bij into our model, we examined
+how network structure evolves over time as a result of
+the coevolutionary process. At each simulation timestep, we assessed whether
+any interacting species pairs exhibited trait differences exceeding bij. In
+accordance with equation 11, we removed these interactions, resulting in
+interaction loss. Because our focus is on network changes driven
+by interaction loss, once an interaction is removed, it remains
+absent for the duration of the simulation and cannot be
+re-established. Consequently, the interaction network at the end of a
+simulation may differ structurally from the initial network due to
+the removal of links. We subsequently compared the initial and
+final network structures for each simulation.

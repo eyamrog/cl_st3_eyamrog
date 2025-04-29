@@ -1,0 +1,19 @@
+Comparing mortality and recruitment rates in the total period (6.5
+years), the class of shrubs and trees with > 2.5
+cm dbh showed average (+ SE) mortality (= 8.68 +
+0.96%) greater (t-test, df = 7, t = 3.03, p
+< 0.02) than average recruitment (= 4.56 + 0.96%). In
+relation to the climbers with > 2.5 cm dbh, there
+was a trend towards increased mortality (Mdn = 28.75%) compared
+to recruitment (Mdn = 7.14%, Mann- Whitney Test, U =
+28, p = 0.097). Excluding the extreme values of an
+area where there was 100% mortality and recruitment, mortality (Mdn
+= 20%) was significantly greater than recruitment (Mdn = 0%,
+Mann Whitney Test, U = 18.5, p = 0.05). In
+this period, recruitment of shrubs and trees with < 2.5
+cm dbh (= 19.65 + 2.03) did not differ from
+the mortality (= 12.96 + 2.22%, t-test, df = 7,
+t = 2.22, 0.05 < p < 0.10), despite the
+trend. However, climbers with < 2.5 cm dbh showed greater
+recruitment(Mdn = 100%, Mann-Whitney test, U = 17, p =
+0.011) than mortality (Mdn = 41.67%).

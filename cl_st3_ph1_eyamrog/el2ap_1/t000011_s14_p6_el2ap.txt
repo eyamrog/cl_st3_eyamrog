@@ -1,0 +1,19 @@
+Statistical analysis - To test the effect of gradual dehydration
+overtime on structural Young’s modulus, fracture toughness, and relative water
+content in stems and leaves, we constructed linear and nonlinear
+mixed model, estimating the parameters by restricted maximum likelihoods (REML).
+In these models, time was used as an independent variable
+separately, and samples were always included as a random term.
+The random term herein explicitly describes aspects of our sampling
+design, i.e., repeated measurements of each sample over time. Similarly,
+nonlinear mixed models were constructed to evaluate the direct effect
+of relative water content on structural Young’s modulus of stems
+and fracture toughness of leaves undergoing gradual dehydration. Exponential nonlinear
+models were used to represent best-fitted curves, similar to those
+applied by Boldrin et al. (2018) and Scoffoni et al.
+(2014). The models were submitted to residual analysis, checking model
+assumptions graphically (Crawley 2007). Finally, the models were tested by
+analyses of variance (ANOVA), considering P-value ≤ 0.05 as the
+threshold for significance (Zar 1996). We performed all statistical analyses
+using R version 3.6.1 (R Core Team 2019) and the
+R packages lme4 (Bates 2010).

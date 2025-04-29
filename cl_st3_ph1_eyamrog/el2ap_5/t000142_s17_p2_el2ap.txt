@@ -1,0 +1,5 @@
+Is there a relationship between the depreciation of the national
+currency and femicide? Before starting to search for the answer
+to this question, firstly the series's linearity tests were carried
+out using Harvey & Leybourne (2007)38 and Harvey, Leybourne &
+Xiao (2008)39 Tests. Next, the stationary tests were performed.

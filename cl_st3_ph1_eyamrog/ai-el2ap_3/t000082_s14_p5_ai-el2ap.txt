@@ -1,0 +1,7 @@
+By integrating the three selection components outlined above (equations 1,
+2, and 3), the evolutionary change in Zi at timestep
+t+1 is expressed as: <>, where φi represents a composite
+parameter incorporating both additive genetic variance and the slope of
+the adaptive landscape. The parameter ϒi quantifies the relative influence
+of ecological interactions compared to environmental factors as selective pressures.
+Consequently, in this model, trait evolution is defined as: <>.

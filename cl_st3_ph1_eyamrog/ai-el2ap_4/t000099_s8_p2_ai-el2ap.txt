@@ -1,0 +1,12 @@
+The cultivation of plants in sealed flasks restricts gas exchange
+between the internal and external environments, resulting in the accumulation
+of gases such as CO2 and O2 within the flasks
+(George et al. 2008). Consequently, the gaseous composition of the
+in vitro atmosphere is determined by the respiratory and photosynthetic
+activities of the micropropagated plants (Chen 2006). Under photomixotrophic conditions,
+which are characterized by high sugar concentrations in the culture
+medium, low irradiance, high relative humidity, and limited gas exchange
+due to the use of enclosed vessels, the rate of
+photosynthesis is reduced, whereas respiration is less affected because of
+the continuous carbon supply (Lucchesini et al. 2001; George et
+al. 2008; Ševčíková et al. 2019).

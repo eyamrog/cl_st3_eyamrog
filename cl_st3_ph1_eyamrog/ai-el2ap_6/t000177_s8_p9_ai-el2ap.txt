@@ -1,0 +1,8 @@
+Airborne transmission of pathogens occurs via droplets and aerosols that
+are commonly produced by activities such as coughing, sneezing, shouting,
+breathing, toilet flushing, and certain medical procedures. While ventilation systems
+are generally ineffective at preventing the rapid settling of large
+droplets, they can affect the distribution and transmission of infectious
+aerosols, including droplet nuclei. The implementation of directional airflow can
+establish clean-to-dirty flow patterns, thereby facilitating the removal of infectious
+aerosols through exhaust systems [12, 13].

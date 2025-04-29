@@ -1,0 +1,9 @@
+There are notable asymmetries in the patterns of collaboration among
+authors from different states. An analysis of co-authorship networks, focusing
+on the top five collaborating states for authors from each
+state, indicates that São Paulo is a leading collaborator in
+26 instances, followed by Minas Gerais in 25, Rio de
+Janeiro in 21, Rio Grande do Sul in 14, and
+Paraná in 12. Pernambuco and Brasília follow with 7 and
+5 instances, respectively. Additionally, seven states do not appear among
+the top five collaborative partners for any other state.

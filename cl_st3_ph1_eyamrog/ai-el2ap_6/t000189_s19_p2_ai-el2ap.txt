@@ -1,0 +1,6 @@
+According to the STROBE criteria, the median quality score of
+the articles was 17.7, with an interquartile range of 15.6
+to 18.8 and a total score range from 15.6 to
+20 points. All included studies achieved scores corresponding to more
+than 50% of the maximum possible value for this indicator
+(see Chart 1).

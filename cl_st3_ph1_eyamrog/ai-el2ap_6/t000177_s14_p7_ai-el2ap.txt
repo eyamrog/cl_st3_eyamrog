@@ -1,0 +1,5 @@
+Figure 1 presents various approaches for modifying the pressure or
+filtration systems in ICU rooms, as outlined in Standard 170
+“COVID-19 Guidance” for Hospital Isolation Rooms [18]. This standard provides
+recommendations regarding HVAC system configurations and modifications to accommodate a
+potential increase in the number of COVID-19 patients.

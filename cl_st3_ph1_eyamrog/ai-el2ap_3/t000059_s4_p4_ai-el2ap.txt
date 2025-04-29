@@ -1,0 +1,13 @@
+This pattern is likely applicable not only to health sciences
+journals from Latin America and the Caribbean but also to
+those from other regions. If journals indexed in MEDLINE exhibit
+authorship concentration indexes comparable to those of journals indexed in
+LILACS, after adjusting for journal size, it is reasonable to
+expect that similar distributions of these indexes would be observed
+in other reputable bibliographic databases within the health sciences. The
+relative prevalence of non-English-language journals among the outliers identified by
+Scanff and colleagues (2021) may also be attributable to the
+tendency of larger journals to publish in English; however, verifying
+this hypothesis falls outside the scope of the present study.
+Whether the distribution of authorship concentration indexes is consistent across
+disciplines beyond the health sciences remains an open question.

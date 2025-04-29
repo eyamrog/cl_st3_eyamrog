@@ -1,0 +1,9 @@
+The implementation of this phase was feasible exclusively through the
+use of information and communication technologies (ICT). The process of
+reviewing research articles inherently involves a digital component, as contemporary
+academic publishing is predominantly conducted online. Consequently, all communications among
+editors, authors, referees, and editorial board members occur via internet-based
+platforms. Accessing these texts requires the use of ICT, not
+only due to the geographical dispersion of the authors but
+also because the documents themselves are available solely in digital
+format.

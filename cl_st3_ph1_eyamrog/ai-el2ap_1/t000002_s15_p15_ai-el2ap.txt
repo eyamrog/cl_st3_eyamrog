@@ -1,0 +1,11 @@
+To address the first research question, the analysis was conducted
+using the entire dataset. Group talk was examined in aggregate,
+and relative code frequencies were calculated by dividing the number
+of content-related utterances (codes 1 to 6), instruction-related utterances (code
+7), and off-topic utterances (code 8) by the total number
+of utterances. As shown in Figure 1, groups devoted approximately
+56% of their utterances to content-related discussion, 25% to negotiating
+task instructions, and 19% to off-topic conversation. Thus, only about
+half of the group work focused on content, which is
+the type of discourse most directly associated with conceptual and
+disciplinary learning gains.

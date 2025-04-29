@@ -1,0 +1,17 @@
+The development of the governance construct was a contribution to
+the agency theory approach, regarding relationships in the third sector.
+Yetman and Yetman (2012) developed measures for governance. However, many
+referred to factors (indicators) related to specific dimensions of governance,
+in particular the Board (for example Harrison and Murray, 2015),
+Disclosure (for example Blouin et al., 2018), and Accountability (for
+example Tacon et al., 2017), and analyzed the effect of
+the indicators (not the construct) on some measure of donation
+(for example Hasnan et al., 2016). Few studies have analyzed
+a broader set of indicators for the governance construct (for
+example Blouin et al., 2018), and even less addressed the
+impact of the constructs on donations measure (for example Harris
+et al., 2015). The basic assumption of the agency theory
+is the existence of an agency problem arising from the
+contractual relationship between principal and agent (Jensen and Meckling, 1976).
+From this perspective, governance is a set of internal and
+external mechanisms aimed at mitigating the agency problem (Jensen, 1993).

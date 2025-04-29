@@ -1,0 +1,22 @@
+In classifying the disciplinary scope of journals, we encountered challenges
+arising from the varying classification systems employed by different indexing
+databases, including inconsistencies in the grouping of journals into scientific
+areas. Consequently, a single journal could be assigned to different
+disciplines and areas depending on the database. For the OLIVA
+database, we adopted a classification framework based on the criteria
+outlined in the OECD and Frascati Manual. The assignment of
+one or more disciplines to each journal was conducted through
+an empirical review of the descriptions provided in the "Scope"
+or "About" sections on the official websites of the journals.
+Subsequently, journals were grouped into eight subject areas: (1) Agricultural
+Sciences, (2) Social Sciences, (3) Humanities, (4) Engineering and Technology,
+(5) Medical and Health, (6) Natural and Exact Sciences, (7)
+Multidisciplinary, and (8) Multidisciplinary-Social Sciences & Humanities (SSH). The presence
+of two multidisciplinary categories reflects the substantial number of journals
+in the OLIVA database with broad and diverse scopes that
+transcend conventional disciplinary boundaries. Specifically, group 7 includes journals that
+span at least two subject areas, combining “hard” sciences with
+SSH, while group 8 comprises journals that integrate subject areas
+exclusively within the Social Sciences and Humanities. This classification approach
+reduced inconsistencies and enabled a more accurate assessment of the
+disciplinary distribution of the journals analyzed.

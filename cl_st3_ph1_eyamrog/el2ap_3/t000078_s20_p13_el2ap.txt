@@ -1,0 +1,4 @@
+From this econometric exercise, it is possible to find evidence
+in favor of the existence of at least one other
+central region in the city of São Paulo. Therefore, models
+that disregard this sub-centrality estimate biased coefficients and heteroskedastic residues.

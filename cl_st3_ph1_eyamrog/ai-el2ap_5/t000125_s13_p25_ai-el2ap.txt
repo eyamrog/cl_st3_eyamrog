@@ -1,0 +1,12 @@
+To generate this classification, U-Multirank employs a criterion analogous to
+an Olympic medals table, in which universities are ranked primarily
+by the number of A grades they receive. Institutions with
+the highest number of A grades are considered the top
+performers, while grades of B and below are used only
+to break ties. According to this method, the Federal University
+of Rio de Janeiro ranks first, having achieved 3 A,
+3 B, 2 C, and 3 D grades, compared to
+the Federal University of São Carlos, which ranks second with
+3 A, 2 B, and 6 D grades. The same
+rule is applied to determine the subsequent positions in the
+overall classification.

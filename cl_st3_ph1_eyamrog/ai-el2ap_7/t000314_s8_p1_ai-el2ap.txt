@@ -1,0 +1,6 @@
+As of April 10, 2020, the genome of Severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2) comprises 29,902 nucleotides [1]. The
+complete taxonomic classification of this virus is as follows: Realm
+Riboviria; Order Nidovirales; Suborder Cornidovirineae; Family Coronaviridae; Subfamily Orthocoronavirinae; Genus
+Betacoronavirus; Subgenus Sarbecovirus; Species Severe acute respiratory syndrome-related coronavirus. The
+GenBank designation for this virus is SARS-CoV-2.

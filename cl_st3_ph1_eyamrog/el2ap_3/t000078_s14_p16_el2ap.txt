@@ -1,0 +1,8 @@
+An important feature of the database is to deal with
+new residences, which excludes the need to consider property depreciation.
+Regarding monetary restatement, all prices were adjusted by the IGP-DI
+index and updated to December 2013. The database is geocoded
+using the ZIP code, street, and number information, and the
+geographic coordinate system used is SIRGAS 2000 with UTM Zone
+23S projection. The same geographical projection is used for the
+maps.

@@ -1,0 +1,7 @@
+Testing is conducted based on the hypothesis that the coefficient
+(δ) of the 𝑦𝑡−1 variable is less than or equal
+to zero. Specifically, the null hypothesis posits the absence of
+a cointegrating relationship, while the alternative hypothesis suggests the existence
+of such a relationship. To evaluate this, the model is
+estimated and the statistical significance of the coefficient associated with
+𝑦𝑡−1 is tested.

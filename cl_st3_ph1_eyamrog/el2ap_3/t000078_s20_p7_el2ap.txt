@@ -1,0 +1,6 @@
+The econometric approach seeks to validate the SBD candidates identified
+in the previous subsection. However, in the first approximation, the
+models will be estimated without SBD controls. This exercise seeks
+to shed light on the behavior of the coefficient that
+measures the distancing effect from CBD by considering the Municipality
+of São Paulo as a monocentric city.

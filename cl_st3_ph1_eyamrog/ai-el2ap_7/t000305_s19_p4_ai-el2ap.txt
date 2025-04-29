@@ -1,0 +1,3 @@
+Table 2 displays the incidence, mortality, and lethality ratios for
+each pair of groups under comparison, along with the p-values
+obtained from hypothesis tests assessing differences between two proportions.

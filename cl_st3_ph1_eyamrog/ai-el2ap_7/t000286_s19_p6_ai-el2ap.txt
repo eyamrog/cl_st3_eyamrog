@@ -1,0 +1,8 @@
+The normalized co-integrating coefficients for the two co-integrating equations, as
+determined by the long-run relationship, are as follows: FDI is
+the dependent variable, with coefficients of -0.001076 for GD, -0.240732
+for INF, 0.213348 for INT, and -0.003069 for EXC. The
+negative coefficients for GD, INF, and EXC indicate a negative
+long-run relationship between these variables and FDI. In contrast, the
+positive coefficient for INT suggests a positive long-run relationship between
+INT and FDI.

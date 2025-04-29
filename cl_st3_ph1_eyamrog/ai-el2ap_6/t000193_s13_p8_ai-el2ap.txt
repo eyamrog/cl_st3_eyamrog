@@ -1,0 +1,7 @@
+Certain acute demyelinating events do not meet the diagnostic criteria
+for multiple sclerosis (MS) or neuromyelitis optica spectrum disorder (NMOSD).
+These events include acute disseminated encephalomyelitis (ADEM), idiopathic isolated optic
+neuritis (ON), and idiopathic isolated transverse myelitis (TM). Management of
+these conditions should involve intravenous corticosteroids, intravenous immunoglobulin, and plasma
+exchange, consistent with standard practice outside of pandemic circumstances. Long-term
+immunotherapy is generally not indicated for these conditions.

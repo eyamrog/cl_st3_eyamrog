@@ -1,0 +1,11 @@
+Since U-Multirank utilizes a substantially larger number of indicators (36)
+compared to one-dimensional rankings, which typically employ fewer than 15
+indicators, the potential for missing data is correspondingly higher and
+may be considered a limitation of this ranking system. However,
+this issue is less critical than in one-dimensional rankings because
+U-Multirank does not produce an overall classification; users can disregard
+missing data and focus on the available information, thereby losing
+only part of the dataset rather than the entire ranking.
+Nevertheless, the extent of missing data is significant in many
+cases, and this issue will be examined in detail later
+in the present paper.

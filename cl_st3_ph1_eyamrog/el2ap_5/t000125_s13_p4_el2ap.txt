@@ -1,0 +1,6 @@
+The data used by “U-Multirank” to classify the academic Institutions
+come from information provided by questionnaires submitted by the Institutions
+and open source databases, like bibliometric and international patent databases,
+etc. It also uses surveys answered by approximately 145,000 students.
+That information can be found at: https://www.umultirank.org/export/sites/default/press-media/documents/IR-2020- questionnaire_display-version.pdf and https://www.umultirank.org/export
+/sites/default/press- media/documents/UMR_Studifragebogen_2020_english.pdf.

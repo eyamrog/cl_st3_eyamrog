@@ -1,0 +1,18 @@
+Comparisons between countries with different demographic sizes require considering rates
+related to their populations. In the case of Covid-19, demographers
+[GOLDSTEIN & LEE, 2020; HEUVELINE & TZEN, 2021; QUEIROZ et
+al. 2020] insist, however, that the calculation of per capita
+rates is absolutely insufficient for several purposes, such as comparing
+the performance of the countries in coping with the disease.
+The enormous disparity in Covid-19 case-fatality rates according to age
+was recently summed up in a study based on data
+from 45 countries, which estimated that they range from 0.001%
+in the age group of 5 to 9 years to
+8.29% for those aged 80 years or older [O'DRISCOLL et
+al., 2021: 142]. On the other hand, there are also
+huge differences between the age pyramids of the countries. The
+comparison between the populations of Pakistan and Portugal provides an
+extreme but enlightening example of the magnitude of these discrepancies.
+Although the Pakistani population is 22 times larger than the
+Portuguese population, there are more inhabitants in Portugal aged 90
+years or older than in Pakistan.

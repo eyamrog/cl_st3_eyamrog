@@ -1,0 +1,7 @@
+To determine the position of each Ha at each time
+step, AbCSim generates a sequence of waypoints at specific geographical
+locations based on a set of Hidden Markov Models (HMM)
+[25]. Each HMM specifies the probabilities of transitioning from one
+position to another, contingent on the position occupied by Ha
+in the previous time step and the activities associated with
+the specific attributes of the Ha.

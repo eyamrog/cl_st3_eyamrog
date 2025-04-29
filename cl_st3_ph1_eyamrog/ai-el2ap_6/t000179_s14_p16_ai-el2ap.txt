@@ -1,0 +1,13 @@
+A random subset of the total sample was analyzed using
+the split-half method (20, 21). Polychoric correlation matrices were employed
+(22), and the weighted least squares means and variance adjusted
+(WLSMV) estimator was applied, as it is most appropriate for
+ordinal data. To determine the optimal number of dimensions, quartimin
+rotation, parallel analysis, and Kaiser’s criterion were utilized (24). Multiple
+models were generated and assessed to identify the one with
+the most favorable measurement properties, in accordance with theoretical frameworks
+that conceptualize job satisfaction as a multidimensional construct. Prior to
+conducting exploratory factor analysis, the Kaiser-Meyer-Olkin (KMO) statistic was calculated
+to assess sampling adequacy and ensure sufficient statistical power for
+the analysis. KMO values greater than 0.90 were considered indicative
+of adequate sample adequacy (22).

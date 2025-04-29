@@ -1,0 +1,10 @@
+Files in ELAN contain a minimum of three annotation tiers:
+transcription, translation, and notes. More detailed information regarding the glosses
+of Paresi or English morphemes (i.e., interlinearization) is managed in
+the FLEx program, which enables the automatic insertion of glosses
+once they have been entered into the database, a feature
+not available in ELAN. Neither language possesses a standardized orthography
+that is consistently used in indigenous schools. Consequently, transcriptions were
+produced using the orthographies familiar to the speakers, and for
+Paresi, these were further systematized according to the orthographic conventions
+proposed by Brandão.

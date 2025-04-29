@@ -1,0 +1,2 @@
+At all tested temperatures (4ºC, 20ºC, and 40ºC), the inactivation
+rate was highest at an intermediate relative humidity of 50%.

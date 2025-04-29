@@ -1,0 +1,6 @@
+Data on Covid-19 deaths broken down by age group are
+not easy to find. Hence, we believe that the presentation
+in a single publication of mortality rates by age is,
+in itself, an important result of this article. The next
+paragraphs describe the effort of collecting and systematizing these data.
+The sources are detailed in Chart 1.

@@ -1,0 +1,12 @@
+The original framework was developed to address a specific question:
+why would rational, utility-maximizing politicians, whose primary objective is typically
+re-election, intentionally engage in potentially unpopular actions such as policy
+dismantling (Bauer et al., 2012, p. 31)? While this question
+is pertinent in the context of policy dismantling under fiscal
+constraints, it may not be applicable to recent instances of
+policy dismantling associated with illiberal populism. In these cases, politicians
+often justify dismantling by invoking narratives such as the existence
+of a “deep state” (Abramson, 2017) or by alleging partisanship
+among civil servants. Illiberal populists may thus pursue policy dismantling
+as a deliberate strategy to appeal to their electoral base,
+rather than as a contradiction to their re-election goals.

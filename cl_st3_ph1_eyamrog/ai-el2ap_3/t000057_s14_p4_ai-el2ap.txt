@@ -1,0 +1,25 @@
+The Mini-disk infiltrometer is a two-chamber device that utilizes the
+Mariotte principle to regulate soil suction, employing the analytical solution
+proposed by Zhang (1997). Following the methodology of Ghimire et
+al. (2013), two procedures were implemented to enhance contact between
+the infiltrometer and the soil: (i) the litter layer was
+carefully removed, and (ii) a thin layer (<1 mm) of
+fine sand was applied. These steps were taken to ensure
+optimal contact between the device and the soil surface. To
+assess the widest range of soil pores, a suction pressure
+of 0 cm was applied, corresponding to Ko, or the
+saturated hydraulic conductivity, as described by Reichardt and Timm (2019).
+Water discharge rates through the Mini-disk infiltrometer were determined by
+monitoring changes in water levels within the storage chamber until
+steady-state flow was achieved. Infiltration measurements were conducted along three
+linear transects that were randomly selected within the riparian forest
+(see Figure 2) using randomizer software (randomizer.org), which selected 3
+out of 50 possible grid transects. Ten infiltration samples were
+collected from each transect, with transects established parallel to the
+stream channel. To minimize the influence of soil moisture variability
+on infiltration measurements, two additional steps were taken: (i) all
+measurements were performed in August, during the dry season when
+regional soil moisture is at its lowest (Oliveira et al.
+2005), and (ii) a suction pressure of 0 cm was
+maintained in the Mariotte bottle, as recommended by Pereira et
+al. (2021).

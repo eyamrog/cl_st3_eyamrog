@@ -1,0 +1,10 @@
+To build upon the methodology proposed by Alves and Vasconcellos
+(2016), we conducted a search using the authors’ names—previously identified
+on DomínioPúblico, BDTD, and the CAPES Theses and Dissertations Catalog—to
+determine which of these platforms hosted the theses and dissertations
+included in our study. This procedure was implemented to introduce
+an additional filter, thereby minimizing the likelihood of including studies
+that did not satisfy the mapping inclusion criteria. Subsequently, to
+analyze the topics addressed in these theses and dissertations, we
+downloaded the respective files and reviewed their abstracts. The results
+of this analysis are presented in Section 4.

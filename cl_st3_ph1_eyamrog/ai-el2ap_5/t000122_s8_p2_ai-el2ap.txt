@@ -1,0 +1,12 @@
+Procedures have been developed and implemented to prevent the contamination
+of cultures. Surface decontamination methods for macroalgae include the use
+of chemical agents such as antibiotics, disinfectant solutions (e.g., detergent,
+povidone iodine, sodium hypochlorite, sodium hydroxide), as well as physical
+techniques such as brushing and washing (Oliveira et al. 1995;
+Kawai et al. 2005; Bravin et al. 2006; Shea &
+Chopin 2007; Fernandes et al. 2011; Holdt et al. 2014;
+Saminathan et al. 2014; Yong et al. 2014; Kerrison et
+al. 2016; Ali et al. 2018). However, these decontamination methods
+must be optimized for each macroalgal species, as the efficacy
+and potential adverse effects of chemical treatments can differ significantly
+among species (Fernandes et al. 2011).

@@ -1,0 +1,8 @@
+Mortality data related to COVID-19 at the territorial level are
+essential for evaluating the severity of SARS-CoV-2 infection and can
+also serve as an indirect indicator of the cumulative number
+of cases. Furthermore, such data facilitate the assessment of the
+quality of healthcare services provided, encompassing prevention, diagnosis, and treatment
+of patients. Additionally, these data are valuable for informing the
+planning and implementation of strategic measures aimed at interrupting the
+transmission cycle of the pathogen.

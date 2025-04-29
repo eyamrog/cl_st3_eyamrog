@@ -1,0 +1,7 @@
+Next, by evaluating the discrimination measures of the variables, we
+decided to add a sixth dimension, since we did not
+get discrimination measures for three dimensions above the dimensions’ inertia.
+The six dimensions explained 78% of the variance, and allowed,
+at least, one value of the discrimination measure to be
+above the inertia of its corresponding dimension. This improved the
+adjustment of the model.

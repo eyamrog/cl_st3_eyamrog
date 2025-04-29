@@ -1,0 +1,6 @@
+Then, Fisher's exact test was performed in quadratic tables (rows
+and columns have the same number) and Pearson's chi-square test
+(χ2) in nonsquare tables (number of rows and columns differ),
+both aiming to evaluate the data distribution of the variables
+in relation to the symptomatic levels of anxiety through the
+scores of the IDATEs (IDATE-T and IDATE-E).

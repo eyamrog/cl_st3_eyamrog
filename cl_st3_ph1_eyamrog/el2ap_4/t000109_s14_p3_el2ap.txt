@@ -1,0 +1,7 @@
+The most important relationships between human agents, regarding COVID-19 epidemiology,
+are represented in the Interpersonal Contact submodel (Section 4.1). This
+submodel also presents human agents’ relationships with each other, with
+the plots of land, and with the environment. These relationships
+are affected by average distance in the different places they
+attend, how long the stay and the observance of mask
+use and social distancing rules (Sections 4.1 and 4.2).

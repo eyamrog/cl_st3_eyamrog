@@ -1,0 +1,15 @@
+The most prolific author in each journal had a median
+of 8 articles, accounting for 4.5% of the signed articles,
+with the 95th percentile reaching 12.9% (Table 1). In one
+quarter of the journals, more than one author shared the
+status of most prolific author. The highest observed percentage was
+61.7%, recorded in Universitas Scientiarum, a journal with 81 signed
+articles, which identifies the editor on the first page of
+each article; in many cases, articles in SciELO and records
+in LILACS list the editor as one of the authors.
+This journal was excluded from panels A and C of
+Figure 1 to improve visualization. Consistent with the findings of
+Scanff et al. (2021), the proportion of articles authored by
+the most prolific author was lower and exhibited less variability
+in journals with a higher total number of articles (panel
+A in Figure 1).

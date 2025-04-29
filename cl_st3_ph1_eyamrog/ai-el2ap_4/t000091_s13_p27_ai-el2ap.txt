@@ -1,0 +1,12 @@
+Grundmann et al. (2008) conducted a study to evaluate the
+anxiolytic properties of a commercially available, phytochemically characterized extract of
+Passiflora incarnata using the elevated plus maze test in mice.
+Following oral administration, the extract produced an anxiolytic effect at
+a dose of 375 mg/kg, which was comparable to the
+effect observed with diazepam at 1.5 mg/kg, and displayed a
+U-shaped dose-response curve. Antagonist studies were also performed using flumazenil,
+a GABA/benzodiazepine receptor antagonist, and WAY-100635, a 5-HT1A receptor antagonist.
+The anxiolytic effect of the extract was antagonized by flumazenil
+but not by WAY-100635. This study provided the first in
+vivo evidence that the anxiolytic activity of a Passiflora incarnata
+extract is mediated via the GABAergic system.

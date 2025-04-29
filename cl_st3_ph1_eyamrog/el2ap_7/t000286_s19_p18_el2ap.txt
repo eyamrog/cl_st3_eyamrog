@@ -1,0 +1,5 @@
+The results also revealed that GD does not granger causes
+INT, the null hypothesis is accepted at 5% percent indicated
+by the probability value 0.2098 and this is confirmed by
+the F-statistics value 1.70505. This result therefore indicates no causation
+flowing from INT to GD.

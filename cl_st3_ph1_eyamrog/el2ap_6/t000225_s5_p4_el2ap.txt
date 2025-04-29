@@ -1,0 +1,17 @@
+For the rest of São Paulo State, the situation in
+terms of control over the spread of the disease seems
+worse, as shown in Figure 4. Except for São Paulo
+City, the summary for the state is shown in Table
+2. In this case, we do not present a value
+for the SDI, given that it does not seem to
+make sense to consider an index averaged over the 645
+differ­ ent municipalities, which have a wide range of different
+populations and social charac­ teristics. It is worth mentioning that
+from April 6th to April 19th, the number of munic­
+ipalities in which there was at least one death attributed
+to COVID-19 grew from 33 to 91. This factor implies
+that the dynamics for the spread must have involved bringing
+the disease from other cities or regions in many cases
+(there was no lockdown policy enacted in Brazil until May
+11th), which confirms the smaller relevance of local SDS (measured
+by an SDI) for this period.

@@ -1,0 +1,10 @@
+A descriptive analysis of housing prices, employment specialization, wages, and
+education offers a comprehensive understanding of each SBD, highlighting the
+heterogeneity among sub-centers. Across all identified SBDs, the average housing
+price per square meter is R$ 8,230.00, with a standard
+deviation of R$ 2,295.00. Housing prices are highest in Pinheiros
+compared to other sub-centers. As shown in Figure 4, there
+is a positive correlation between average housing prices per square
+meter and distance from the CBD, which contrasts with the
+negative correlation predicted by monocentric models. This observed pattern supports
+the existence of sub-centers within the urban structure.

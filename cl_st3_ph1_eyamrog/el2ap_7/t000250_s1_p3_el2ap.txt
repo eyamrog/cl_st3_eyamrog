@@ -1,0 +1,7 @@
+Results: Participants (n=937, females=72.3%) performing ≥30 min/day MVPA or ≥15
+min/day VPA had lower odds of prevalent depressive (ORMVPA=0.71, 95%CI=0.53-0.96;
+ORVPA=0.60, 95%CI=0.43-0.82), anxiety (ORMVPA=0.71, 95%CI=0.54-0.96; ORVPA=0.70, 95%CI=0.51- 0.96), and co-occurring
+D&A symptoms (ORMVPA=0.71, 95%CI=0.52-0.96; ORVPA=0.59, 95%CI=0.41-0.83). People spending ≥10 h/day
+sedentary were more likely to have depressive symptoms (OR=1.39,95%CI=1.02-1.90). Each
+hour spent in SB corresponded to 0.22 (95%CI=0.10-0.33) points and
+0.16 (95%CI=0.02-0.31) points higher on the BDI and BAI, respectively.

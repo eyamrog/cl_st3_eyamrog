@@ -1,0 +1,8 @@
+One of the primary arguments against analyzing the quem-sentences in
+(1) as containing standard appositive relative clauses is the possibility
+of eliding the anchor nominal in (1), a phenomenon not
+observed in genuine appositive relative clauses, where the anchor is
+the noun being relativized. Additionally, it has been argued that
+in utterances such as (1), the anchor and the appositive
+can exchange positions, which does not occur in the presence
+of true appositive relative clauses.

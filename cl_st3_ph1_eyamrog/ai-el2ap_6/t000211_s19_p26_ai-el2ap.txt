@@ -1,0 +1,3 @@
+Patients scheduled for surgery were screened for symptoms indicative of
+COVID-19 infection upon admission, and those with positive findings were
+referred to the emergency department for further evaluation.

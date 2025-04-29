@@ -1,0 +1,13 @@
+For Casini et al.9, all patients hospitalized with COVID-19 should
+receive pharmacoprophylaxis, unless contraindicated. Thus, they recommend the use of
+LMWH in patients with creatinine clearance > 30 mL/min and
+NFH in patients with clearance < 30mL/min, increasing the dose
+in both cases in patients over 100kg. They also guide
+the regular monitoring (daily or two to three times a
+week) of all patients with prothrombin time, DD, fibrinogen, platelet
+count, LDH, creatinine and ALT, in addition to antithrombin if
+the patient has DIC, coagulopathy induced by sepsis or heparin
+resistance, and anti-Xa activity in selected cases. One should consider
+the use of therapeutic doses of NFH or LMWH in
+ICU patients with increased DD, signs of severe inflammation, or
+signs of hepatic or renal dysfunction.

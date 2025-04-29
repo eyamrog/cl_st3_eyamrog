@@ -1,0 +1,4 @@
+Limitations of this work include the lack of knowledge of
+LF/HF values prior to infection and the absence of controls.
+In addition, no follow-up has been carried out to know
+the permanence of this alteration over time.

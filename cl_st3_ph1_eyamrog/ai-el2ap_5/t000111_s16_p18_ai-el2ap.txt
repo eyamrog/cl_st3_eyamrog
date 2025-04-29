@@ -1,0 +1,6 @@
+If a free relative in Brazilian Portuguese is indeed derived
+as proposed in diagram (46), it is necessary for the
+C head and the D head involved in the relativization
+process to be adjacent. This adjacency is required to account
+for the head incorporation process, which is evidenced by the
+morphological form of the wh-element that introduces these structures.

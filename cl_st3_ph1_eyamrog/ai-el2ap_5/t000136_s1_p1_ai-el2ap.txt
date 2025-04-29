@@ -1,0 +1,15 @@
+This article examines governance as a multidimensional construct, measured by
+specific governance factors, and its influence on donations with donor
+restrictions received by environmental nonprofit organizations (NPOs) in Brazil, within
+the framework of agency theory. Data were collected via a
+survey, resulting in a random sample of 108 observations. Governance
+dimensions were identified using Multiple Correspondence Analysis. Subsequently, Partial Least
+Squares Structural Equation Modeling was employed to assess whether governance
+impacts donations. The analysis indicates that governance has a positive
+effect on donations, while public certifications granted to NPOs in
+Brazil do not moderate the relationship between governance and donations.
+These results suggest that effective governance facilitates greater access to
+the donations market for NPOs, whereas public certifications do not
+significantly enhance donation levels. The findings are relevant for practitioners
+and contribute to the ongoing discussion regarding public policy for
+the third sector in environments with limited regulatory oversight.

@@ -1,0 +1,5 @@
+Thus, in the Random scenario, negative effects are not concentrated
+in central species but distributed across the network. For each
+combination of empirical networks (n = 24) and scenarios (Random
+and Central), we performed 1.500 simulations, leading to a total
+of 72.000 simulations. We ran all simulations until the equilibrium.

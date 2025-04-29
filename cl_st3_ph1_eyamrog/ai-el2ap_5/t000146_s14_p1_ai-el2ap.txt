@@ -1,0 +1,4 @@
+A bibliometric study of an exploratory nature was conducted using
+a descriptive approach. Descriptive statistical analysis was performed to characterize
+the sample, and simple linear regression was applied to examine
+the relationship between the variables.

@@ -1,0 +1,23 @@
+Results: A total of 41 out of the 164 adolescents
+(incidence 25%, 95%CI 18.6- 32.4) that attended the private indoor
+event developed COVID-19. A sample was sequenced from one of
+the symptomatic and fully vaccinated individuals with BNT162b2 (Pfizer-BioNTech vaccine)
+finding SARS-CoV-2 Delta (B.1.617.2) variant of concern. The incidence of
+COVID-19 in the unvaccinated was 35.1% (95%CI 25.5-45.6), and in
+the vaccinated 11.4% (95%CI 5.1-21.3). There were more unvaccinated than
+vaccinated teenagers that developed COVID-19 𝝌2= 12.6, (p=0.00). The crude
+Odds Ratio when comparing the unvaccinated vs the vaccinated was
+of 4.19, 95%CI 1.79-9.8. Almost all (40 out of the
+41) developed more than one COVID-19 symptom. The mean number
+of symptoms reported was 6 in both vaccinated and unvaccinated
+individuals. Both unvaccinated and vaccinated positive adolescents developed fatigue, runny
+nose, anosmia, fever, cough, and ageusia. None of the adolescents
+that reported a prior COVID-19 infection got reinfected during the
+event (N=47). At least two known positive individuals attended the
+event; all other attendees tested negative in a rapid antigen
+test performed 24 hours before the event. Attendees were there
+for 2 or more hours in the non-ventilated environment, without
+social distancing, without a face mask (87.8%) and socializing with
+high music volume. None of the COVID-19 positive adolescents, nor
+any of their close contacts who developed secondary infections required
+hospitalization nor died from COVID-19.

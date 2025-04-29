@@ -1,0 +1,7 @@
+The study did not recommend the use of ECD to
+exclude the diagnosis of PE due to its low accuracy.
+Negative DD associated with a low modified Wells score were
+considered sufficient to rule out the diagnosis. However, in the
+context of Sars-Cov-2 infection, which leads to an increase in
+DD values, its usefulness becomes compromised, which does not mean
+that its values should be ignored.

@@ -1,0 +1,12 @@
+Selection imposed by ecological interactions is one of the main
+forces impacting phenotypic patterns observed across levels of biological organization
+(Thompson 2005). Selection imposed by ecological interactions partially shapes trait
+matching among interacting individuals (Zhang et al. 2012), trait distributions
+within interacting populations (Bronstein et al. 2003), trait variation across
+populations of the same species (Thompson 2005), and trait patterns
+at the community level (Strauss & Irwin 2004). At the
+community level, ecological interactions can be a driving force leading
+to trait convergence (Wilson et al. 2012) and trait disparity
+(Siepielski & Benkman 2010). In this sense, theory and empirical
+results indicate that distinct ecological interactions (e.g., mutualistic, antagonistic) may
+favor different trait outcomes at the community level (Thompson 1994).

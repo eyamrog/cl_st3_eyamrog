@@ -1,0 +1,17 @@
+First, cheating interactions promote higher community-level trait disparity in mutualistic
+networks. By imposing selection favoring trait mismatching, the presence of
+cheating interactions leads to an increase in species trait disparity.
+This arms race dynamics partially offsets selection favoring convergence and
+trait matching in mutualisms (Guimarães et al. 2011, Zhang et
+al. 2012). Therefore, cheating interactions may allow us to understand
+one of the mechanisms preventing the perfect trait matching in
+empirical mutualistic communities (Law et al. 2001); yet trait disparity
+cannot increase indefinitely due to factors related to the environmental
+pressures and distinct selection regimes (Andreazzi et al. 2017). For
+instance, limited genetic variation or limited anatomical and physiological mechanisms
+restricts fruit sugar content and flower size (Jordano 1995), which
+could limit the potential for trait matching. Also, annual variation
+in soil nutrients limit the pulp composition of fleshy fruits
+and, consequently, represents a restriction for the development of sugar-rich
+fruits that are be highly attractive to frugivores (Herrera 1998),
+limiting trait matching in plant-frugivore systems.

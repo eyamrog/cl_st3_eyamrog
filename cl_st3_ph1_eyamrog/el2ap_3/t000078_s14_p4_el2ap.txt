@@ -1,0 +1,5 @@
+Equation 1 specification is not the common understanding neither theoretical
+nor empirical urban economics literature. According to Hermann and Haddad
+(2005), studies traditionally adopt the hedonic price function's linear or
+semi-logarithmic functional form. Thus, the specification of Equation 1 will
+be estimated considering these two functional forms.

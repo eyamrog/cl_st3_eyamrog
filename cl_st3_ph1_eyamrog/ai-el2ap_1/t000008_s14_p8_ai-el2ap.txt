@@ -1,0 +1,11 @@
+Germination variables, including germination percentage (G%), mean germination time (MGT),
+and speed index, were analyzed using permutation-based analysis of variance
+(10,000 iterations) implemented with the lmPerm package (Wheeler & Torchiano
+2016) in R statistical software (R Core Team 2020). The
+statistical models assessed the effects of water immersion treatments (control,
+soaking in water for 24, 48, and 72 hours, and
+hot water for 5 and 10 minutes), storage period (freshly
+harvested versus stored pyrenes), and their interaction on the germination
+variables (see Supplementary Material Table S1). Post hoc comparisons among
+all treatment combinations were conducted using Tukey’s Honestly Significant Difference
+(HSD) test to control for multiple testing.

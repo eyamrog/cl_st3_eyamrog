@@ -1,0 +1,13 @@
+The identification of SBDs is influenced by the choice of
+geographical scale, as noted by Anas et al. (1998). Altering
+the spatial units of analysis, such as using municipal districts
+or dividing the municipality into 1 km² grid cells, can
+lead to different results. To address this limitation, it is
+advisable to incorporate the precise spatial locations of firms and
+explicitly consider the modifiable areal unit problem. This approach would
+allow for the identification of SBDs that are not constrained
+by the administrative boundaries defined by the IBGE, enabling the
+detection of spatial patterns such as corridor-shaped SBDs. Furthermore, if
+all identified SBDs are spatially connected, the total number of
+SBDs identified may decrease, potentially resulting in fewer than the
+originally observed seven SBDs.

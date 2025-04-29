@@ -1,0 +1,5 @@
+All patients admitted to the emergency departments should be considered
+carriers of COVID-19, until proven otherwise, under the current pandemic.
+Furthermore, patients with any respiratory symptoms should be treated as
+infected until an appropriate confirmation diagnosis is provided, since there
+is no rapid test for this situation so far5.

@@ -1,0 +1,11 @@
+The sample consisted of 438 students, selected to reflect the
+gender distribution of the university’s total enrollment, which is 63%
+female and 37% male. The sample was drawn from five
+undergraduate programs and their respective academic cycles: Basic Education (six
+cycles), Intercultural Bilingual Education (six cycles), Initial Education (six cycles),
+Special Education (four cycles), and Education in Experimental Sciences (two
+cycles). The number of students selected from each program was
+proportional to the size of its enrolled population, resulting in
+234 students from Basic Education, 78 from Initial Education, 50
+from Intercultural Bilingual Education, 53 from Special Education, and 26
+from Experimental Sciences.

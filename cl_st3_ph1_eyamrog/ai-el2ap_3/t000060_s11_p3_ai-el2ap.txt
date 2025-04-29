@@ -1,0 +1,10 @@
+The mere occurrence of a single turn does not constitute
+a conversation, and it is arguable that even two turns
+are insufficient for this purpose. A conversation requires more than
+two coordinated and cooperative turns that are governed by conditions
+of conditional relevance. When a first part of a turn
+is produced, a second part is expected, and if it
+occurs, it is interpreted as a response to the first.
+In this framework, the sequence formed by the first and
+second parts constitutes a conversational pair, which is regarded as
+the minimal dialogic unit.

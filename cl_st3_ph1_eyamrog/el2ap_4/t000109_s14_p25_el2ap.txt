@@ -1,0 +1,7 @@
+To calculate the position of each Ha at each instant,
+AbCSim generates a series of waypoints in specific geographical locations
+from a set of HMM [25]. Each of these HMM
+defines the probabilities of moving from one position to another
+one, depending on the position occupied by Ha in the
+previous instant and on the activities defined for the Ha's
+particular attributes.

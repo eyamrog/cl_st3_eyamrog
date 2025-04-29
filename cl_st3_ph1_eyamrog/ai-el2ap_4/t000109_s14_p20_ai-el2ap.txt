@@ -1,0 +1,12 @@
+To categorize buildings as residential, commercial, recreational, or other types,
+city grid maps provided by the Paraná Municipality Land Registry
+Office were utilized. Additional data sources included Google Maps and
+Google Places®, which facilitated the initial mapping of various city
+areas under investigation. Subsequently, an on-site visual inspection of the
+plots and their corresponding labels was conducted to verify the
+accuracy of the information obtained from these resources. GPS-based tracking
+tools were employed to support the field survey, enabling the
+completion of the GIS map. During the system initialization routine,
+each hectare (Ha) was assigned attributes associated with this submodel,
+thereby populating the entire map with the number of human
+agents corresponding to each plot of land.

@@ -1,0 +1,14 @@
+Gaudecker et al. (2020), using data from the Netherlands, found
+that total hours worked declined more significantly among the self-employed,
+as firms tend to provide employees with protection against transitory
+shocks. Additionally, workers with lower levels of education experienced greater
+reductions in hours worked, whereas those with higher education were
+more likely to maintain or increase their working hours from
+home. The authors categorized economic sectors into two clusters: the
+first is characterized by office-based occupations with a high proportion
+of highly educated workers, greater feasibility of remote work, and
+limited involvement of essential workers; the second cluster is defined
+by a predominance of manual tasks and social interactions, lower
+participation of highly educated workers, limited opportunities for remote work,
+and a higher proportion of essential workers (Gaudecker et al.,
+2020).

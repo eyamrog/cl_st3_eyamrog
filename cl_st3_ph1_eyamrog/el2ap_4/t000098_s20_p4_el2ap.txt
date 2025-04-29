@@ -1,0 +1,13 @@
+An effort to generalize from the information gathered in these
+two tables allows us to infer three distinct patterns of
+Covid-19 mortality with a good degree of geographical coherence. In
+European countries and the US, overall mortality rates are high
+and the disparity in rates between age groups is extreme.
+In Latin American countries – and also in South Africa
+– overall rates are almost equally high, but the disparity
+in mortality conditions by age is smaller. In poor Asian
+countries, whereas the overall mortality rate is much lower, the
+relationship between age and mortality is less pronounced. Of course,
+there are intermediate situations, such as Turkey, as well as
+more or less important effects of national peculiarities, as in
+the case of Canada and Germany.

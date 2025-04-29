@@ -1,0 +1,6 @@
+The fourth arm of the SOLIDARITY trial evaluates the combination
+of lopinavir-ritonavir with interferon-beta. Interferon-beta is expected to enhance the
+innate antiviral response, which may be beneficial during the early
+stages of infection. However, caution is warranted, as there remains
+a possibility that interferon-beta could exacerbate inflammation during the later
+phases of SARS-CoV-2 infection.

@@ -1,0 +1,10 @@
+We performed the tests according to the manufacturer´s instructions, using
+the MDX Instrument from Qiagen (Hilden, Germany) for RNA extraction
+and Applied Biosystem MDX thermocycler instrument, from Thermo-Fisher (Waltham, USA).
+Specificity Estimates: For estimating the MedTest specificity, we tested 100
+plasma samples from Hemorio´s blood donor repository, collected in the
+year 2018, long before the new Coronavirus pandemic. All the
+donors tested negative for infectious disease markers required for blood
+donation. We also tested 20 donor samples from 2018; those
+samples were all positive for one marker of infection (anti-HIV,
+anti-HCV, HBsAg).

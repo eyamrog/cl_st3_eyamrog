@@ -1,0 +1,5 @@
+Residuals of soil penetration resistance were subjected to Shapiro-Wilk test
+which indicated a lack of gaussian distribution. Therefore, we used
+Kruskal-Wallis test followed by the post hoc Dunn test to
+check significant differences between impacts. Statistical analyses were carried out
+in PAST software at α < 0.05.

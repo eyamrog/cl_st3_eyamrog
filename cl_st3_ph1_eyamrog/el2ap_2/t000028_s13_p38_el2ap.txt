@@ -1,0 +1,7 @@
+With those parameters, the website generated 74 results: three CEIs
+(Child Education Centers), 54 EMEFs (Municipal Elementary Schools) and 17
+EMEIs (Municipal Nursery Schools). In order to discover which English
+language textbook is the most chosen for the sixth grade,
+solely the EMEF data was computed and analyzed, because the
+compulsory teaching of English language begins only in elementary schools,
+from the sixth grade on.

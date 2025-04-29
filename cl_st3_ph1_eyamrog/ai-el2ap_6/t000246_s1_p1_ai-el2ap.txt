@@ -1,0 +1,3 @@
+Objective: To analyze the distribution of journals and the patterns
+of scientific collaboration related to Severe Acute Respiratory Syndrome, as
+indexed in the Web of Science database.

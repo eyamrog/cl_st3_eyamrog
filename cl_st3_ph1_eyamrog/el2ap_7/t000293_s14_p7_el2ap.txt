@@ -1,0 +1,15 @@
+Frequencies and percentages were used to describe categorical variables, and
+mean, median, interquartile range (IQR) and range were used to
+describe continuous variables. Diagnostic accuracy, sensitivity, specificity, posi- tive predictive
+value (PPV) and negative predictive value (NPV) were calculated for
+two different scenarios. In the first scenario, only chest CT
+with typical findings were considered positive, while in the second
+scenario, chest CT with typical or indeterminate findings were considered
+positive. The RT-PCR test was considered as the gold- standard.
+Proportions were provided, along with binomial exact 95% confidence intervals
+(CIs), using the “exact” Clopper-Pearson CIs for sensitivity and specificity,
+and the standard logit CIs for PPV and NPV(25). We
+compared sensitivity and specificity between both scenarios using the McNemar
+test(26). P values less than 0.05 were con- sidered to
+represent statistically significant differences. All analyses were performed using SPSS
+software, version 20.0 (IBM Corp., Armonk, NY, USA).

@@ -1,0 +1,12 @@
+The term “pacifier” was combined with other relevant keywords, resulting
+in the identification of 121 articles across all databases. After
+the removal of duplicate records, 56 articles containing at least
+one of the predefined keywords in their title or abstract
+were selected for further review. These articles underwent an initial
+screening based on their summaries, the disinfection methods employed, and
+the relevance of their results, which led to the selection
+of 11 studies. A subsequent full-text review was conducted to
+assess compliance with the established inclusion and exclusion criteria, ultimately
+yielding 8 articles for analysis. Figure 1 presents a flowchart
+outlining the processes of study identification, selection, eligibility assessment, and
+inclusion.

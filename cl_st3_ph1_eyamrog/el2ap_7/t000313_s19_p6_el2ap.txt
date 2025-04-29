@@ -1,0 +1,23 @@
+Interestingly, the five NWm and Prossimian species show different patterns
+than other primates at position 82-84. They present a moderately
+conserved change at position 82 (M82T; GS = 81), which
+also represents a change in polarity. We note that, due
+to the great number of species that present the amino
+acid Threonine in that position, according to the principle of
+parsimony, Threonine is probably the ancestral allele, meaning that a
+non-synonymous mutation promoted the AA alteration Threonine (T) > Methionine
+(M) in the ancestral branches of the Catarrhini clade. However,
+the ancestor of the Platyrrhini maintained the ancestral allele T.
+At position 41, we also found the same amino acid
+in NWm and Prossimian species. The moderately conservative modification Y41H
+(GS = 83) represents changes in charge, once Histidine (H)
+is an acid AA. Another mutation at this same site
+(Y41A; GS = 112) implies a moderately radical change and
+polarity difference, since Tyrosine (Y) is a polar AA, while
+Alanine (A) is a non-polar AA. This type of alteration
+could potentially prevent viral interaction, at least with SARS-CoV according
+Li et al. (2005b). Based on the distribution of the
+AAs at position 41 of ACE2, it seems that both
+NWm and Prossimian clades shared the derived allele (H), also
+seen in the bat genera Hipposideros and Myotis, as well
+as in Equus, suggesting molecular convergence.

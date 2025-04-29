@@ -1,0 +1,3 @@
+- high values for III_IV, Hd_d, Bd_w, I, Hv_b, Hd_a,
+Bv_x, Hv_a, Hv_d and Hd_b (variables are sorted from the
+strongest).

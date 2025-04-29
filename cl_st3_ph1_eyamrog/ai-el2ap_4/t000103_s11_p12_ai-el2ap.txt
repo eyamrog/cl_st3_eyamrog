@@ -1,0 +1,11 @@
+It has been proposed that English exhibits a tendency to
+interpret a pronoun in subject position as referring to the
+subject of the main clause (Chambers & Smyth, 1998; Crawley
+et al., 1990), as illustrated in (6), except when the
+pronoun is stressed. In cases where the pronoun in subject
+position is stressed, it is generally interpreted as referring to
+an entity distinct from the subject of the main clause
+(Luján, 1986; Smyth, 1994), as shown in (7). This pattern
+is considered analogous to the distinction observed in null subject
+languages between the use of zero anaphora (null pronouns) and
+pronominal anaphora (unstressed overt pronouns).

@@ -1,0 +1,10 @@
+Measurement invariance was established across marital status (living with a
+partner vs. not), presence of chronic disease (yes vs. no),
+and presence of work-related disease (yes vs. no), allowing for
+valid comparisons between these groups. In contrast, measurement invariance was
+not supported for sex (men vs. women), employment in other
+institutions, or length of employment at the institution, precluding meaningful
+comparisons across these variables (see Supplement 3). Additionally, invariance could
+not be assessed for type of organization, monthly income, possession
+of a specialty, or participant age, as the necessary statistical
+assumptions for these analyses were not met in these cases.

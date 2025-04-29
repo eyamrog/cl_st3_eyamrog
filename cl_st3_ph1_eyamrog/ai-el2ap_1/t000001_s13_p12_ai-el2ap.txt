@@ -1,0 +1,9 @@
+Long-read polishing generally enhances assembly accuracy; however, in some cases,
+it may result in decreased accuracy. Consequently, it is not
+always evident whether the unpolished assembly, the Medaka-polished assembly, or
+an alternative such as the Clair3-polished assembly is optimal. ALE
+is a tool that quantifies the concordance between an assembly
+and a short-read dataset, thereby enabling the assessment of the
+relative accuracy of different assemblies. Therefore, it is recommended to
+use ALE to inform the selection of the assembly version
+that should proceed to the subsequent step of short-read polishing.

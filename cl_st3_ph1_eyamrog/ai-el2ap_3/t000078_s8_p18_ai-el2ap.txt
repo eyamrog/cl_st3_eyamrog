@@ -1,0 +1,10 @@
+The SBD is characterized by the highest land prices, which
+decrease proportionally with distance from the center, as well as
+by the agglomeration of employment, serving as focal points for
+firms and workers. The methodology employed by Plaut and Plaut
+(1998) and Herman and Haddad (2005) may not be optimal
+for identifying these centralities. Specifically, these studies utilized the error
+term from a hedonic price econometric model, followed by the
+application of the kriging technique. However, this approach may be
+sensitive to the omission of relevant variables, such as unobservable
+real estate characteristics or amenities that influence the price gradient.

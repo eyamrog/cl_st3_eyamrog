@@ -1,0 +1,15 @@
+Pioneering economists in the field of New Urban Economics developed
+a theoretical model in which employment opportunities are concentrated in
+the Central Business District (CBD), resulting in a monocentric city
+structure. This central assumption is grounded in the historical tendency
+for city centers to develop around a primary transportation node.
+Consequently, monocentric models posit that the CBD functions as a
+price anchor, with increasing distance from the city center exerting
+a negative effect on various price vectors. As distance from
+the CBD increases, transportation costs also rise. The model implies
+that land prices must decrease with increasing distance from the
+CBD to maintain equilibrium between firms and households. In summary,
+the model predicts that endogenous variables such as population density,
+lot size, land price, and wage exhibit an inverse spatial
+gradient, and these variables are modeled as simple functions of
+their distance from the CBD.

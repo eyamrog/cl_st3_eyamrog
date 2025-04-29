@@ -1,0 +1,14 @@
+Google Scholar data affords further insight into the JUOJS by
+offering article-level citation data (although by OJS installation domain rather
+than by journal). The 22,679 JUOJS in Google Scholar (June
+2022) were hosted on 8,548 OJS domains, with 2.7 journals
+on average. Each identified domain was accompanied by the first
+page of search results, with citation counts for roughly the
+top ten articles by citation (Figure 10). This revealed that
+34 (0.4%) of the 8,548 journal domains had over 10,000
+citations among their first ten articles. 565 journal domains (6.6%)
+had over 1,000 citations, and 1,015 journal domains (11.9%) had
+over 500 citations. But then 547 domains (6.4%) had no
+citations on the first page.16 The overall mean for the
+JUOJS’ first page of Google Scholar search results is 358.8
+citations (median: 50.0).

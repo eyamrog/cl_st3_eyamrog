@@ -1,0 +1,10 @@
+This study is justified by its examination of the patterns
+in scientific publications related to SARS-CoV-2, providing an additional resource
+for the scientific community engaged in research on this significant
+disease, which has resulted in substantial public health, economic, and
+social impacts. The central research question is: What are the
+characteristics of scientific production on SARS-CoV-2 within the Web of
+Science database? To address this question, the study aims to
+describe and analyze the publication trends of scientific articles on
+SARS-CoV-2 available in the Web of Science, utilizing relevant indicators
+and metrics.

@@ -1,0 +1,15 @@
+One author (KMM) will select the titles and abstracts of
+studies for inclusion on this review. If duplicated studies are
+found, only one of them will be considered for inclusion.
+When reports using the same participants, but with different outcome
+measurements or different assessment time points are found, both will
+be considered as parts of only one study. After removing
+duplicated studies, KMM will read the study titles and abstracts.
+Studies that clearly do not fulfill the eligibility criteria will
+be excluded and the remaining studies will then be fully
+read and assessed by two authors (APR and ACPNP) for
+inclusion in the review. Disagreements between authors related to this
+process will be solved by a third author (KMM). The
+reasons for the exclusion of studies will be described. To
+optimize the process of screening and selection of studies the
+Rayyan software (6) will be used.

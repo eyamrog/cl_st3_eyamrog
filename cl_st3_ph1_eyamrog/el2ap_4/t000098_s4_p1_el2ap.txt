@@ -1,0 +1,12 @@
+This article presents two main contributions to the analysis of
+the planetary spread of Covid- 19. The first is the
+systematisation of data on mortality rates by age group for
+a set of 28 countries that, on 1/28/2021, concentrated 82%
+of deaths because of the disease. This is a valuable
+result in itself, since no source is known to have
+already published age-disaggregated information with the same geographical coverage. Based
+on them, we can infer whether the notorious growth of
+lethality with age is the same everywhere, an interrogation launched,
+for example, by VILLANI et al. (2020). As we have
+seen, there are important differences between countries and at least
+three patterns are discernible.

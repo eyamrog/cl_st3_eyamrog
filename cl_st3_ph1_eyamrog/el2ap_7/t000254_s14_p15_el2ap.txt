@@ -1,0 +1,3 @@
+In order to evaluate mortality versus recruitment, the proportions of
+the dead and recruited throughout the period (6.5 years) were
+used. To this end, the formulas used were:

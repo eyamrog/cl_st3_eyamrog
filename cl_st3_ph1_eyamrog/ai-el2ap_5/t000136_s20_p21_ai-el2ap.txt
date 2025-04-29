@@ -1,0 +1,15 @@
+We operationalized the variable Donations, which represents the primary outcome
+of interest in this study, as the total amount of
+donations with donor restrictions reported in the Financial Statements. Additionally,
+the single-item construct ‘NPO Certification’ was measured using the presence
+of public certifications granted to NPOs in Brazil, specifically OS
+(Social Organizations), OSCIP, or CEBAS (Charitable Organization for Social Assistance)
+certification. We hypothesized that these certifications, some of which are
+associated with governance mechanisms such as statutory requirements for independent
+audits or the establishment of a superior deliberative body, would
+positively moderate the relationship between Governance and Donations by increasing
+organizational obligations. Furthermore, we posited that public certifications for NPOs
+function similarly to quality standards (e.g., ISO), as organizations often
+pursue certification to enhance their competitive advantage (Rao, 1994), and
+many NPOs are adopting such practices to strengthen their position
+in the donations market (Slatten, 2011).

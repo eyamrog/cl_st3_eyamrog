@@ -1,0 +1,21 @@
+We subsequently assessed the statistical significance of the observed changes
+by analyzing both the step effect (immediate change in outcome
+level following the policy) and the ramp effect (change in
+trend during the post-policy period), as presented in Table 3.
+The results indicate that the most pronounced change in trend
+occurred between the baseline period and the implementation of RCAPS.
+Specifically, the total hospitalization rate exhibited a significant change in
+slope, which was also observed in most diagnostic groups, with
+the exceptions of nose, ear and throat infections, lung diseases,
+epilepsy, kidney and urinary tract infections, skin infections, and female
+pelvic inflammatory disease. Notably, the rate of hospitalizations for diseases
+related to childbirth and the puerperium increased, in contrast to
+the general reduction observed in other groups. For nutritional deficiencies,
+asthma, angina, urinary tract infection, and gastrointestinal ulcers, the primary
+change was immediate, as indicated by the step effect. The
+transition from RCAPS to PNAB was associated with less pronounced
+changes, reaching statistical significance only for asthma, hypertension, epilepsy, and
+skin infections (level), as well as angina, epilepsy, and diseases
+related to childbirth and the puerperium (slope). Residual analysis, including
+goodness-of-fit and Durbin-Watson statistics, confirmed that the models were appropriately
+specified.

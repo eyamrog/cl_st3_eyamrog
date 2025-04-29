@@ -1,0 +1,8 @@
+A key characteristic of the database is its exclusive focus
+on new residences, thereby eliminating the need to account for
+property depreciation. For monetary standardization, all prices were adjusted using
+the IGP-DI index and updated to December 2013 values. The
+database is geocoded based on ZIP code, street, and number
+information, utilizing the SIRGAS 2000 geographic coordinate system with a
+UTM Zone 23S projection, which is also applied to all
+associated maps.

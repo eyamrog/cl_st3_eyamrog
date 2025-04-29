@@ -1,0 +1,12 @@
+Researchers have examined the contrasting characteristics of deductive and inductive
+approaches to data analysis (Evans, 2013; Taber, 2013). Deductive analysis
+involves seeking evidence in relation to pre-established themes, which can
+influence the direction of the analysis, whereas inductive analysis is
+characterized by an open-ended inquiry in which themes are generated
+directly from the data and subsequently used as analytical tools
+(Evans, 2013). Thus, analysis may be informed either by an
+existing conceptual framework or by patterns emerging from the data
+itself (Taber, 2013); however, both approaches typically involve the creation
+of categories, the organization of these categories under broader headings,
+and the development of a general description of the research
+topic (Elo & Kyngäs, 2008).

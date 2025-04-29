@@ -1,0 +1,7 @@
+The analysis of these brokerage relationships seems to offer little
+support for another important premise of principal-agent models: informational asymmetry
+in favor of the agent. Several studies on brokers assume
+that brokers have insider information relative to bosses and strategically
+use this advantage to extract more resources (Stokes et al.,
+2013; Camp, Dixit and Stokes, 2014; Keefer and Vlaicu, 2007;
+Novaes, 2018).

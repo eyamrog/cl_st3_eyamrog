@@ -1,0 +1,4 @@
+The administration of prophylactic doses of fondaparinux, low molecular weight
+heparin (LMWH), or unfractionated heparin (UFH) is strongly recommended for
+all hospitalized patients. If pharmacological prophylaxis is contraindicated, mechanical prophylaxis,
+such as limb compression devices, should be utilized.

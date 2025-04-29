@@ -1,0 +1,12 @@
+The Linguistics Area digital archive currently holds records for 80
+indigenous languages, of which 73 have been fully digitized, catalogued,
+and stored using the LAT software. The LAT files occupy
+2.49 TB of storage and comprise 1,561 hours of audio
+and 474 hours of video recordings. In addition to these,
+the archive contains 9 TB of raw recordings, including high-definition
+video, which require substantial storage capacity. Edited materials, primarily intended
+for community use, account for an additional 1.5 TB, while
+photographs and miscellaneous researcher files occupy a further 6 TB.
+Metadata for the LAT files is accessible at http://arqling.museu-goeldi.br. The
+recordings themselves are not currently available for download, as the
+archive is undergoing reorganization and access issues are being addressed.

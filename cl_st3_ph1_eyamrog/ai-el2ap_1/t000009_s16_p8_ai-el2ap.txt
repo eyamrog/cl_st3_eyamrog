@@ -1,0 +1,8 @@
+Data analysis followed the methodology outlined by Aaker and Day
+(1990), which involves conducting nominal and ordinal analyses of tabulated
+data. Nominal analysis was used to identify the personal, academic,
+and professional characteristics of the participants, while ordinal analysis focused
+on examining the frequency of recurring features among respondents. The
+online format of the questionnaire enabled automatic data tabulation, and
+Microsoft Word and Excel were utilized for data description, analysis,
+and the creation of tables and charts.

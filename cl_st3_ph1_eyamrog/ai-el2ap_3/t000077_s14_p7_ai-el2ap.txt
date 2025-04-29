@@ -1,0 +1,11 @@
+The variables presented in Table 2 were selected to align
+with the study’s objective of examining inequalities in the probabilities
+of remote work based on various socioeconomic and occupational characteristics.
+The selection process was informed by both foundational literature on
+labor market dynamics—including Mincer (1962) on labor force participation, Heckman
+(1974) on shadow prices and market wages, and Mincer (1974)
+and Willis (1986) on earnings functions—and recent empirical studies addressing
+labor market issues in the context of the COVID-19 pandemic,
+such as Bridi (2020), Mattei and Heinen (2020), Pouliakas (2020),
+Yasenov (2020), Al Masri et al. (2021), Corseuil et al.
+(2021), and Góes et al. (2021).

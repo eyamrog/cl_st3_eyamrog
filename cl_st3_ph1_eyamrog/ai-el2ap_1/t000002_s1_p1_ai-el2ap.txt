@@ -1,0 +1,21 @@
+This article presents a theoretical study aimed at discussing methodologies
+and methods in educational research, with a particular focus on
+those used to analyze classroom discursive interactions. The first section
+examines the two principal research paradigms—positivism and interpretivism—along with their
+respective ontological and epistemological foundations. Subsequently, two methods for analyzing
+discursive interactions are introduced and evaluated, each corresponding to one
+of the paradigms. Systematic coding, situated within the quantitative paradigm,
+is recommended for processing data from large samples, describing general
+patterns, and enabling statistical comparisons or temporal analyses by transforming
+discourse into variables. This method is applied to a dataset
+comprising 42 episodes of group dialogue, and the results are
+discussed in relation to the research questions, illustrating the types
+of statistical tests that can be conducted. Within the interpretivist
+paradigm, sociocultural discourse analysis is presented as an example of
+a qualitative method and is applied to selected excerpts from
+classroom dialogues. The primary finding is the identification of typologies
+that characterize how teachers and students collaboratively construct scientific explanations.
+In the final section, the article discusses the possibilities and
+limitations of each method and concludes that both approaches can
+be considered complementary for advancing knowledge in the field of
+education.

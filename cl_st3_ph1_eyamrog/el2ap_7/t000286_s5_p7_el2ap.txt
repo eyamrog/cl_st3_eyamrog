@@ -1,0 +1,9 @@
+The Durbin-Watson statistics of 2.578326 suggest evidence of negative serial
+autocorrelation. The unit root test revealed that the three variables
+(GD, INF and INT ) of the model indicate that
+three variableswere stationary at level, that is order, I (0)
+which is indicated by ADF results (4.180454, 3.173179 and 5.591438)
+which were greater than 0.05 critical value (3.02997, 2.991878 and
+3.004861). While, FDI and EXC were stationary at First level
+as their ADF Values (10.14302 and 3.996066) were greater than
+0.05 critical value (2.998064 and 2.998064).

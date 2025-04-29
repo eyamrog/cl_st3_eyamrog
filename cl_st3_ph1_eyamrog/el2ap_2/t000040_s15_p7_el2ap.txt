@@ -1,0 +1,5 @@
+Kim et al. developed a new automatic technique to isolate
+the MC with no intervention from the user. In early
+experimental results by means of 10 clinical DICOM files, this
+technique could exactly recognize the MC. This technique possesses, additionally,
+the utmost segmentation precision [30].

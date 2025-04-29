@@ -1,0 +1,13 @@
+This is the initial version of the proposed quality assessment
+tool for Self-Controlled Case Series (SCCS) and Self-Controlled Risk Interval
+(SCRI) studies. It has been applied in five studies: one
+master’s dissertation, one published article, two unpublished scientific initiation projects,
+one thesis, and one article submitted for publication (20–23). The
+tool is based on the Newcastle-Ottawa Criteria (NOC), which has
+not been published in a peer-reviewed journal. However, it is
+important to note that the instrument was developed using the
+Delphi method, has been tested in multiple systematic reviews, and
+has been revised throughout this process (25). Despite criticisms of
+the Newcastle-Ottawa Scale (NOS), it has been widely used to
+assess studies included in published systematic reviews, supporting its validity
+and applicability.

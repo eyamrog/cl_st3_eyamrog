@@ -1,0 +1,6 @@
+The evaluation is done through an individual interview between the
+evaluator and the physician. The data was filled in on
+a Tablet that sent the information in real-time into a
+database. The Peruvian National Institute of Statistics was in charge
+of collecting the data and the process was supervised by
+SUSALUD.

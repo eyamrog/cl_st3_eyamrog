@@ -1,0 +1,4 @@
+METHODS: A literature search was performed in the PubMed, LILACS,
+and SciELO databases to identify observational studies published between 2010
+and 2020 that reported outcomes in individuals with respiratory tract
+infections presenting with clinical manifestations similar to those of COVID-19.

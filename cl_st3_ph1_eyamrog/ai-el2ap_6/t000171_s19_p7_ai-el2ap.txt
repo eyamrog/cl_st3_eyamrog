@@ -1,0 +1,9 @@
+Applying the same analytical approach to health macro-regions clarifies the
+observed associations. Aggregating cities into larger regions diminishes the influence
+of outlier cities—specifically, those with test rates per thousand that
+exceed two standard deviations above the mean and are of
+small population size—on the overall results. The Pearson correlation coefficient
+between the elapsed time since the first notified case in
+the state of Minas Gerais and the number of rapid
+tests was -0.59; for RT-PCR tests, the coefficient was -0.25;
+for incidence rate, -0.70; and for mortality rate, -0.71.

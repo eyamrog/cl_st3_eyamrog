@@ -1,0 +1,10 @@
+After each change in the light intensity, the IRGA was
+programmed to record the value after it had stabilized. In
+half of the measurements, the curve was carried out in
+ascendant way and in the other half, in descendant way
+of light intensity. For the plants of open conditions (garden
+and control group - ecological park), the measurements were taken
+between 09:00 and 10:00 AM during the rainy season; and
+besides the curve A/light, the gas exchange rates were also
+measured under the natural light intensity, of about 2,200 µmol
+m-2 s-1.

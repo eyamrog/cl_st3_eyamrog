@@ -1,0 +1,6 @@
+In conclusion, SARS-CoV-2 is highly specialized for infecting humans of
+all populations, i.e. it is a “human-population generalist coronavirus”, at
+least considering its gateway to the cell, the ACE2. In
+contrast, it is not a “generalist” coronavirus with the ability
+to infect, naturally and easily, a range of other species,
+including pets.

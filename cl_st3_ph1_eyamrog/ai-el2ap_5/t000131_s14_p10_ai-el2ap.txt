@@ -1,0 +1,9 @@
+Experimental design and statistical analysis: The effects of irradiance interference,
+species, and their interactions were assessed using a two-way analysis
+of variance (ANOVA) with the SYSTAT software package (SPSS Inc.,
+Chicago, IL). Statistical significance was determined at P < 0.05.
+When significant effects were detected, Tukey's post hoc test was
+applied to identify differences among means. The ANOVA model included
+two species, M. glomerata and M. laevigata, and four levels
+of sunlight retention in the solar radiation flux treatment: 0%
+(I0), 25% (I25), 50% (I50), and 75% (I75).

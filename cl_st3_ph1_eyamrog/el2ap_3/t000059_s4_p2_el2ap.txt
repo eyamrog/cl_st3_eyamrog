@@ -1,0 +1,14 @@
+In other words, if ownership by university does conduce to
+endogeneity in scientific journals, this effect is being countered by
+LILACS’ inclusion criteria. Of note, the present study had the
+ORCID id for some authors, which ought to increase both
+concentration indexes in comparison to just using the authors’ names.
+Furthermore, LILACS measures endogeny more directly, as the proportion of
+reviewers and editors from the same institution or geographic region,
+while the present study used more indirect measures. It is
+perhaps a testament to the effectiveness of the LILACS criteria
+that their effects are seen even when success is measured
+differently than LILACS itself measures it. Researchers interested in measuring
+the effect on endogeneity of journal ownership by universities might
+have to do so in nascent journals not yet indexed
+in LILACS.

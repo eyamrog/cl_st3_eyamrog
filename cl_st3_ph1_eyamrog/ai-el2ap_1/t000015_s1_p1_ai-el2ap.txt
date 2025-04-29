@@ -1,0 +1,20 @@
+By analyzing 25,671 journals that are largely absent from commonly
+used journal indexes, including Web of Science and Scopus, this
+study provides evidence that scholarly communication is more globally distributed
+than is often recognized. These journals, which utilize the open
+source publishing platform Open Journal Systems (OJS), have collectively published
+5.8 million items and are based in 136 countries, with
+79.9% located in the Global South and 84.2% operating under
+the OA diamond model (charging neither readers nor authors). A
+significant proportion of these journals publish in more than one
+language (48.3%), and research is disseminated in a total of
+60 languages, with English, Indonesian, Spanish, and Portuguese being the
+most prevalent. The disciplinary distribution includes the social sciences (45.9%),
+STEM fields (40.3%), and the humanities (13.8%). Despite their geographic,
+linguistic, and disciplinary diversity, only 1.2% of these journals are
+indexed in Web of Science and 5.7% in Scopus, while
+1.0% are listed in Cabells Predatory Reports and 1.4% appear
+on Beall’s list of questionable journals. This study aims to
+document and contextualize the expanded scale and diversity of scholarly
+publishing, with the objective of informing a more comprehensive understanding
+of the global research landscape.

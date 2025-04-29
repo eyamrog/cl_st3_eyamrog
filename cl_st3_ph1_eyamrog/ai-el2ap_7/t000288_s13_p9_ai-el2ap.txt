@@ -1,0 +1,6 @@
+Reliable laboratory diagnosis is a key priority for supporting effective
+public health interventions. In cases of acute respiratory infections, reverse
+transcription polymerase chain reaction (RT-PCR) is routinely employed to detect
+viral pathogens present in respiratory secretions. During international health emergencies,
+the effectiveness of real-time virus detection using RT-PCR has been
+demonstrated through coordinated efforts between public laboratories and academic institutions.

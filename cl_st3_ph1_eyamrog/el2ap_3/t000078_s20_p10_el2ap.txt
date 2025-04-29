@@ -1,0 +1,8 @@
+Controlling for all SBD candidates in the econometrics estimation, we
+are assuming for cross- commuting. That is, workers have the
+possibility of choosing distant business centers even though there are
+business centers closer to their homes (Plaut and Plaut, 1988;
+Wrede, 2015). This specification is more flexible when compared to
+the approach of choosing the nearest center of the worker's
+residence as proposed by Fujita and Ogawa (1982) and Baumont,
+Ertur, and Gallo (2004).

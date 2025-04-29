@@ -1,0 +1,17 @@
+It is important to note that the majority of the
+Brazilian population resides in urban areas. Brazil comprises more than
+5,000 municipalities, most of which are small cities or towns
+where internet transmission signals are often inadequate due to factors
+such as distance from major urban centers, where optical fiber
+infrastructure is more readily available, and limited radio transmission, which
+is sometimes absent in rural areas. Furthermore, residing in urban
+centers does not guarantee access to broadband internet, as service
+quality can be unstable, particularly in peripheral regions. According to
+Lis (2020) and Yuge (2020), the National Telecommunications Agency has
+reported an increasing number of complaints regarding insufficient broadband internet
+provision in Brazil. Cardoso (2020) highlights the challenges of accessing
+broadband internet in the outskirts of São Paulo, the largest
+urban center in the country’s most economically developed region, where,
+according to the SEADE Foundation (2020), more than 7.5 million
+people have never had internet access. Soprana (2020) further indicates
+that over 70 million Brazilians lack internet access.

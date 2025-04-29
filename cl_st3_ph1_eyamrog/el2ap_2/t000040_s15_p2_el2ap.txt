@@ -1,0 +1,3 @@
+Due to their small size and short coverage, periapical radiographs,
+although having the best 2D image resolution, are not advised
+for MC evaluation [25].

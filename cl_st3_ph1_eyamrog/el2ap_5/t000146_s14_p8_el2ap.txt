@@ -1,0 +1,4 @@
+The sample was selected to reflect the most prolific countries
+in Public and Collective Health in SciELO CI. The percentages
+were only calculated when the country's output amounted to at
+least 50 articles in a given language.

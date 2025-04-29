@@ -1,0 +1,21 @@
+Regarding construct validity, the exploratory factor analysis indicated that the
+20 items of the scale loaded onto five factors, in
+contrast to the original study by Balakrishnan and Griffiths (2017),
+which identified six factors. This discrepancy may be attributable to
+differences in the sample populations, as the original study was
+conducted with college students, whereas the present study involved adolescents.
+Previous research has shown that adolescents tend to be more
+active in selfie posting compared to young adults or older
+individuals, underscoring the importance of examining selfie-related behaviors in this
+demographic (Dhir et al., 2016; Baiocco et al., 2016). Additionally,
+cultural differences between Brazil and India may have contributed to
+the reduction in the number of factors observed in the
+Brazilian version of the scale. In contrast, studies assessing the
+psychometric properties of the SBS in countries such as Iran
+and Afghanistan reported the retention of six factors with satisfactory
+fit indices in confirmatory factor analysis (Lin et al., 2019).
+The Italian version of the SBS, similar to the Brazilian
+version, also yielded a five-factor model (Monacis et al., 2020).
+In the present study, the "mood modification" and "self-confidence" factors
+were combined into a single factor labeled "mood and confidence,"
+which demonstrated satisfactory communalities (above 0.62).

@@ -1,0 +1,13 @@
+The implementation of open peer review presents several challenges. Various
+aspects of open peer review align with different editorial objectives,
+and their acceptance can differ across scholarly communities (Ross-Hellauer; Görögh,
+2019). For instance, communities that have traditionally used single-blind peer
+review, such as those in medicine and the natural sciences
+in the Global North (Pontille; Torny, 2014), are also more
+likely to adopt open identities in the review process (Wolfram
+et al., 2020). This pattern indicates that the perceived advantages
+of open identities may be less significant for communities that
+employ double-blind peer review. Additionally, open participation in peer review
+appears to be more prevalent in the social sciences and
+humanities than in the natural sciences, technology, and medicine (Ross-Hellauer,
+2017).

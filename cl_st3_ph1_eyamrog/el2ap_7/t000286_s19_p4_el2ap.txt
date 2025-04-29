@@ -1,0 +1,8 @@
+Table 2 above showed the empirical results from the Johansen
+co-integration analysis. The Johansen’s check is geared toward crucial check
+whether or not a long relationship exists between the series,
+and starting with the null hypothesis that there is no
+co-integrating relation tested that there is at least one co-integrating
+equation. Since there are five variables in the model, we
+then test whether the number of co-integrating equations is zero,
+one, two, three, four or five.

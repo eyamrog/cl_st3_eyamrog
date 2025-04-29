@@ -1,0 +1,13 @@
+Distinct differences in photosynthetic parameters were observed among the treatments.
+In the in vitro plants, some leaves exhibited limited carbon
+dioxide uptake, primarily at light intensities between 100 and 200
+µmol m⁻² s⁻¹; however, the overall measurements predominantly reflected respiration,
+with maximal net photosynthetic rates (A) of -0.35 ± 1.25
+µmol CO₂ m⁻² s⁻¹. As shown in Figure 3, the
+leaves of in vitro plantlets displayed a variable pattern of
+respiration up to a light intensity of 100 µmol m⁻²
+s⁻¹, above which respiration rates decreased progressively up to 900
+µmol m⁻² s⁻¹. At light intensities exceeding this threshold, a
+slight increase in respiration rate was observed, which may indicate
+photodamage. Consequently, in vitro plants did not exhibit a light
+compensation point under the conditions tested.

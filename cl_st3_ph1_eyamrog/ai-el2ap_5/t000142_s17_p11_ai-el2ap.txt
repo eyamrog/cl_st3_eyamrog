@@ -1,0 +1,7 @@
+In Equation 4, \( b \) denotes a non-zero constant,
+\( \text{DFT} \) represents the standard Augmented Dickey-Fuller (ADF) t-statistics
+obtained from the restricted regression, and \( T \) refers
+to the number of observations. \( \text{RSS}_1 \) denotes the
+sum of squared residuals under the alternative hypothesis (\( H_1
+\)). The test statistics proposed by Harvey and Leybourne (2007)
+are appropriate for the distribution of \( x_4^2 \).

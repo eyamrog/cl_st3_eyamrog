@@ -1,0 +1,11 @@
+We propose a two-stage approach that integrates the a priori
+identification of sub-central business district (SBD) candidates into the hedonic
+price model. In the first stage, all potential SBD candidates
+are identified using an exploratory spatial data analysis (ESDA) method.
+In the second stage, the hedonic house price model is
+estimated, incorporating as explanatory variables the distances to the SBD
+candidates identified in the first stage. This two-stage strategy allows
+for control over potential overidentification that may arise from relying
+solely on employment concentration at the centroid of each polygon.
+In both stages, it is possible to test the null
+hypothesis that each region does not constitute an SBD.

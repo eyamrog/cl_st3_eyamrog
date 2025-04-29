@@ -1,0 +1,21 @@
+As a further but still preliminary analysis of citation practices
+surrounding JUOJS, the most-cited articles in English, Indonesian, and Portuguese
+were examined for their citation by JUOJS or by other
+publications. For the leading English-language article, which has 16,432 citations
+and is published in the Journal of Statistical Software, 95%
+of the articles citing it come from outside of JUOJS
+(Table 4). Judging by this one very successful article, the
+journal is contributing to the broader research literature. This is
+less the case with the top-cited article in Indonesian, published
+in Jurnal Ekonomi dan pendidikan, and the top-cited article in
+Portuguese, published in Outra travessia. These two articles are cited
+less frequently than the English leader, with 1,321 citations and
+1,408 respectively, with those citations coming to a far greater
+extent from JUOJS. The leading Indonesian article had 73.2% of
+its citing articles in JUOJS, while for the leading Portuguese
+article the proportion was 77.7%. This likely reflects the prevalent
+role played by JUOJS in these two languages, although still
+roughly one-fifth of the citing articles come from sources other
+than JUOJS. Much more systematic work is needed on this
+question of citational dynamics in recalibrating scholarly communication, and this
+will be the subject of future studies.

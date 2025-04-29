@@ -1,0 +1,10 @@
+Figure 5 shows the comparison between the number of ICU
+beds occupied by COVID-19 positive patients, obtained from Entre Ríos
+province Critical Units Monitoring Program (Programa de Monitoreo de Unidades
+Críticas, PMUC), during the period under study, and the estimate
+obtained by the model. This information is extremely important in
+order to anticipate a possible local health care system strain.
+In addition, this data set that can be obtained from
+reality quite accurately. This figure confirms that weekly reports of
+ICU beds occupancy with COVID-19 patients are compatible with the
+model output values.

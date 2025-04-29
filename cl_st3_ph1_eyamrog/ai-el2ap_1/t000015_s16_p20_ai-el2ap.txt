@@ -1,0 +1,6 @@
+As previously mentioned, Latindex is a regional index that compiles
+bibliographic data from 17 national resource centers located in Latin
+America, the Caribbean, and the Iberian Peninsula. Among the 24,486
+journals included in Latindex, 4,208 (17.2%) are classified as JUOJS.
+Additionally, approximately two-thirds of JUOJS published within the Iberoamerican region
+are indexed in Latindex.

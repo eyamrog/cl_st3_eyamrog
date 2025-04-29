@@ -1,0 +1,19 @@
+Heterogeneity arises when a sample contains a mixture of two
+or more distinct genomic sequences rather than a single, uniform
+genome. This phenomenon can manifest at small scales, such as
+the presence of different nucleotide bases at a specific locus,
+or at larger scales, such as variations in structural genome
+configurations. Low-level heterogeneity, where the vast majority of sequencing reads
+support one sequence (e.g., 95%) and a minority support another
+(e.g., 5%), typically does not interfere with genome assembly or
+polishing, as assembly algorithms generally favor the predominant sequence. In
+contrast, balanced heterogeneity, such as a 50:50 mixture of alternatives,
+can lead to misassemblies and errors during polishing. In Enterobacteriaceae,
+phase variation of the fim switch is a known source
+of heterogeneity (Figure 2E). Another frequent example involves bacteriophages, which
+can integrate into and excise from bacterial chromosomes (Figure 2F).
+Indicators of heterogeneity include incomplete assembly graphs and regions with
+dense clusters of changes introduced by polishing tools. In such
+cases, it may be necessary to manually exclude reads supporting
+one of the alternatives to enable accurate assembly and polishing
+of the remaining sequence.

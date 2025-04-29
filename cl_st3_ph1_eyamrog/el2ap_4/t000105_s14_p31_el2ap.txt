@@ -1,0 +1,6 @@
+Data collection was performed using offline devices and, at the
+end of the day, in a place with a stable
+internet connection, the devices were synchronized and the information that
+was collected, was sent to the storage cloud of the
+software used (DataGoal®). The devices were then loaded for use
+on the next collection day.

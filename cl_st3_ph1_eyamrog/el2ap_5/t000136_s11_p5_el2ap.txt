@@ -1,0 +1,4 @@
+Agency theory regards governance as a set of internal and
+external mechanisms aimed at mitigating the agency problem in organizations,
+which derives from the separation of ownership and management, and
+control and management (Fama and Jensen, 1983; Jensen, 1993).

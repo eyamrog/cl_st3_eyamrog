@@ -1,0 +1,3 @@
+To evaluate mortality and recruitment over the 6.5-year study period,
+the proportions of individuals that died and those that were
+newly recruited were calculated. The following formulas were applied:

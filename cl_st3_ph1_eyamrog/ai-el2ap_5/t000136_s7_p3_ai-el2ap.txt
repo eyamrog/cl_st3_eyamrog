@@ -1,0 +1,12 @@
+Previous research has operationalized governance using a range of measurement
+approaches. For instance, Kitching (2009) employs a single indicator of
+governance, Yetman and Yetman (2012) utilize multiple indicators concurrently, and
+Harris et al. (2015) develop measures for various governance dimensions.
+Although each of these approaches is suitable for their respective
+research questions and designs, there remains a gap in the
+literature regarding a standardized method for measuring governance as a
+latent variable, defined as a set of governance dimensions assessed
+through underlying governance factors. Specifically, prior studies have constructed both
+unidimensional factors and multidimensional constructs to represent governance dimensions and
+have examined the effects of these factors and dimensions on
+donation outcomes.

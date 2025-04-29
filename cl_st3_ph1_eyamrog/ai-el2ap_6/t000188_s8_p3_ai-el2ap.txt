@@ -1,0 +1,8 @@
+According to data from the Johns Hopkins Coronavirus Resource Center,
+as of the evening of May 31, 2020, there were
+6,194,508 confirmed cases of COVID-19 and 372,501 confirmed deaths worldwide.
+On that date, the countries with the highest numbers of
+confirmed cases were the United States (1,790,191), Brazil (514,849), and
+Russia (414,878). The highest numbers of confirmed deaths were reported
+in the United States (104,383), the United Kingdom (38,571), and
+Italy (33,415), with Brazil ranking fourth with 29,314 deaths.

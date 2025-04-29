@@ -1,0 +1,6 @@
+This scoping review classified antimicrobial substances into three categories: topical
+antimicrobials, honey, and antiseptics. For the purposes of this review,
+antimicrobial substances are defined as agents that demonstrate the capacity
+to kill or inhibit the growth and development of microorganisms,
+including bacteria, fungi, and viruses. This definition encompasses antibiotics, antiseptics,
+and disinfectants.

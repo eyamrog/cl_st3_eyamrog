@@ -1,0 +1,16 @@
+The Kaiser-Meyer-Olkin (KMO) test yielded a value of 0.803, indicating
+adequate sampling, while Bartlett's test of sphericity produced a value
+of 0.89921 with p=0.001, confirming the suitability of the data
+for factor analysis (Hair et al., 2009; Kaiser & Rice,
+1974; Tabachnick & Fidell, 2001). Table 1 displays the results
+of the Exploratory Factor Analysis (EFA) conducted on the SBS
+using a sample of 261 adolescents. In contrast to the
+original version, the EFA identified five factors rather than six,
+with items from the "mood modification" and "self-confidence" factors loading
+onto a single factor, which was designated as "mood and
+confidence." The eigenvalues for the five factors ranged from 1.05
+to 5.10, which is considered satisfactory (Hair et al., 2009).
+Collectively, these five factors accounted for 78.3% of the total
+variance. Consistent with the original study (Balakrishnan & Griffiths, 2017),
+at least three items loaded onto each factor, supporting the
+homogeneity of the measure (Byrne, 2001).

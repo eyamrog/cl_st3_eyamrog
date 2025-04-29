@@ -1,0 +1,4 @@
+The specific characteristics of each block are described below, and
+the main parameters of the model are provided in Appendix
+A to facilitate the reproducibility of this study and its
+results.

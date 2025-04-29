@@ -1,0 +1,9 @@
+The results obtained are consistent with those reported by different
+official sources, such as PMUC, in particular with the number
+of ICU beds for COVID-19 patients in the city. It
+was also verified that model outputs agree with the number
+of deceased people reported for the period of time considered.
+It can be concluded that the model can be used
+to predict the most likely evolution of the number of
+cases and number of beds to be occupied in the
+short term.

@@ -1,0 +1,12 @@
+Our findings indicating higher Covid-19 lethality among hospitalized patients in
+Rio de Janeiro compared to São Paulo, both in the
+capitals and interior regions of the states, are consistent with
+mortality rates per 100,000 inhabitants reported by the Epidemiological Monitor
+of the Ministry of Health. Additionally, a recent study utilizing
+SIVEP-Gripe data from March 2020 to January 2021 reported that
+age-standardized Covid-19 mortality in Rio de Janeiro was 56% higher
+than in São Paulo. The authors of this study demonstrated
+that SIVEP-Gripe is a reliable source for Covid-19 mortality data
+and that age-specific mortality rates are consistently higher in Rio
+de Janeiro across all age groups when compared to São
+Paulo.

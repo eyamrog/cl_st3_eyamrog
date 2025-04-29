@@ -1,0 +1,11 @@
+After the event, positive and negative results from each participant
+were determined with different commercial COVID-19 test kits at private
+laboratories (PCR or rapid antigen). Given that there were some
+individuals that only took a rapid antigen test and its
+sensitivity is lower than the PCR “gold standard” tests, they
+were included in the COVID-19 positive cohort if they reported
+more than 3 symptoms including anosmia, even if the rapid
+antigen test was falsely negative and no PCR test was
+performed (Pilarowski et al., 2021). The symptoms of each group
+were described using categorical data by frequency and percentage, and
+compared with 𝝌2 among the vaccinated and unvaccinated groups.

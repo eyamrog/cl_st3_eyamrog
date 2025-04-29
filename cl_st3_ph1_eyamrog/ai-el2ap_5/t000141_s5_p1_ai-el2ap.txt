@@ -1,0 +1,6 @@
+During the SARS-CoV-2 pandemic, social isolation policies and activity restrictions
+were implemented in a disorganized manner, lacking clear guidelines regarding
+the appropriate level of stringency based on the epidemiological context.
+Furthermore, there were no established regulations or protocols to guide
+the phased resumption of activities or the relaxation of isolation
+measures.

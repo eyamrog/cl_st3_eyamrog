@@ -1,0 +1,15 @@
+The sentences used in the study featured a person’s name
+as the subject, a verb in the simple past tense,
+another person’s name as the object, the temporal conjunction "when"
+(or "cuando" in Spanish and "quando" in Portuguese), followed by
+a third-person pronoun in the subject position (or ellipsis in
+Portuguese and Spanish), another verb in the simple past tense,
+and a third-person pronoun as the object. The verbs were
+selected from a database of verbal constructions (Baptista, 2013) that
+require a human agent as the subject, a human patient
+as the object, and no additional complement. Participants were asked
+to select one of three possible antecedents for the reduced
+(pronoun or zero) subject of the subordinate clause: (a) the
+subject of the main clause, (b) the object of the
+main clause, or (c) another referent not mentioned in the
+main clause.

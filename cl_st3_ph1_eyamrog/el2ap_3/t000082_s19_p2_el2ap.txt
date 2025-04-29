@@ -1,0 +1,14 @@
+We observed that cheating interactions affect the number of species
+trait clusters. At low levels of cheating interactions (p =
+0.01, with p being the frequency of cheating interactions in
+the networks), we found a low number of clusters in
+simulations (2.43±0.62, Fig. 2d-f). At intermediate levels of cheating interactions,
+the number of trait clusters increased (p = 0.5, 3.03±0.79).
+Finally, if most of the network is formed by cheating
+interactions then, on average, we saw the formation of lower
+numbers of species trait clusters, similar to when there is
+low frequency of cheating interactions (p = 0.9, Fig. 2d-f).
+Thus, increasing the frequency of cheating interactions fuels trait disparity
+in mutualistic networks by promoting the emergence of trait clusters.
+However, these trait clusters disappear under higher frequencies of cheating
+interactions.

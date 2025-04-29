@@ -1,0 +1,8 @@
+Several limitations should be considered when interpreting the presented data.
+The inclusion of observational studies may affect the ability to
+establish causal relationships. Additionally, the heterogeneity among the selected studies
+precluded the calculation of a summary measure through meta-analysis; however,
+implementing strategies such as assessing the quality of the included
+articles may help mitigate this source of bias. Furthermore, the
+lack of original studies specifically addressing nutritional interventions in patients
+with COVID-19 limited the scope for inferential analysis.

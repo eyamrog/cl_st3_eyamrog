@@ -1,0 +1,6 @@
+Before the 21st century, language documentation materials were commonly archived
+only at the conclusion of a researcher’s career or posthumously.
+In contrast, the development of born-digital recording technologies, the establishment
+of language archives, and the implementation of data archiving requirements
+have led most contemporary researchers to archive their materials much
+earlier in the research process.

@@ -1,0 +1,15 @@
+We also must consider that turns can be allocated. Unlike
+prototypical sequences “Question 1- Answer 1-Question 2-Answer 2” (Q1-A1-Q2-A2), not
+all first pairs necessarily receive immediately their second pairs. These
+cases occur when a question-answer sequence is delayed while another
+question-answer sequence intervenes. According to Yule (1996, p. 77), “the
+sequence will then take the form of Q1-Q2-A2-A1, with the
+middle pair (Q2-A2) being called an insertion sequence”. In this
+structure, the pair Q2A2 is inserted into the pair Q1A1,
+so the embedded pair in the sequence is an insertion
+sequence. The author affirms that “although that appears to be
+a question (Q2) in response to a question (Q1), the
+assumption is that once the second part (A2) of the
+insertion sequence is provided, the second part (A1) of the
+initial question (Q1) will follow”. As Coulthard and Brazil (1992,
+p. 52) observe:

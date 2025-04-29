@@ -1,0 +1,6 @@
+We initially considered different spatial weight matrices for the model
+without SBD controls and the functional forms level-level and log-level.
+Then, we tested distance weight matrices increasing the initial threshold
+by 5% and 10% (8.4 Km and 8.8 Km). This
+procedure allows us to test the omission of a relevant
+variable when estimating models disregarding SBD.

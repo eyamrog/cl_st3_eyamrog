@@ -1,0 +1,15 @@
+The Self-Controlled Case Series (SCCS) and Self-Controlled Risk Interval (SCRI)
+study designs are commonly employed in pharmacovigilance, particularly for the
+analysis of rare adverse events. These methodologies have been widely
+applied in post-vaccination safety studies, including those involving influenza and
+Human Papillomavirus vaccines (28,29). Since the onset of the COVID-19
+pandemic in 2020 and the subsequent global rollout of COVID-19
+vaccines in 2021, there have been reports of temporal associations
+between COVID-19 vaccination or SARS-CoV-2 infection and the occurrence of
+adverse events such as Guillain-Barré syndrome (GBS), cardiovascular events including
+stroke, encephalitis, and various psychiatric outcomes (30–32). A substantial body
+of primary and secondary research has been generated to document
+these associations. The SCCS and SCRI designs are applicable in
+these contexts, and the implementation of a standardized quality assessment
+tool would facilitate the evaluation of methodological rigor, thereby enhancing
+the reliability of study findings.

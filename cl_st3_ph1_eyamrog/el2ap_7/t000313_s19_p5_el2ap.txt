@@ -1,0 +1,13 @@
+Cat (Felis catus) and dog (Canis lupus familiars) are of
+special interest due to their close relationship with humans. Their
+ACE2 orthologues present at 77% and 73% of identity with
+the human ACE2 respectively, considering the 30 variable sites. Both
+species present identity with other species belonging to the Carnivora
+order, such as Leucine (L) at position 24. However, they
+also show differences from each other at positions 25, 34,
+427, and 559, two of them are a target for
+positive selection (34 and 559; Table S3). In other words,
+50% of the differences between the ACE2 binding sites of
+cat and dog are taxon-specific variants that may be connected
+with specific functions of the ACE2 protein in each of
+these two domesticated species.

@@ -1,0 +1,6 @@
+Figure 2 presents the distribution of census sectors in the
+urban areas included at each stage of the survey, based
+on data from the IBGE. The selection process accounted for
+the proportionality of the number of households and average income,
+thereby ensuring the representativeness of different socioeconomic levels both in
+the final sample and at each stage of the survey.

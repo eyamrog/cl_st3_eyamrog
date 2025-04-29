@@ -1,0 +1,13 @@
+The data indicate that both urban and rural schools in
+Brazil face significant physical and technological limitations that hinder the
+effective pedagogical integration of digital information and communication technologies (DICT),
+with rural schools experiencing even greater challenges. Although 64% of
+urban public schools reportedly have computer laboratories, these facilities are
+generally inadequate in terms of capacity, as they are unable
+to accommodate a typical class size of 30 students. Specifically,
+78% of these laboratories are equipped with fewer than six
+computers, and only 9% possess slightly more than 21 computers
+(CGI.br, 2018b, 2019b). Furthermore, most classes in the second phase
+of elementary education in Brazil consist of more than 35
+students, exacerbating the mismatch between available resources and actual classroom
+needs.

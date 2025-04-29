@@ -1,0 +1,5 @@
+In accordance with Article 8.5 of the amended 2012 International
+Code of Zoological Nomenclature (ICZN), information regarding the new species
+has been registered with ZooBank. The Life Science Identifier (LSID)
+for this article is XXXX. The LSID for each new
+species is provided in the corresponding taxonomic summary.

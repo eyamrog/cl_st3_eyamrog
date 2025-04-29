@@ -1,0 +1,21 @@
+Objective: To compare the proportion of deaths among hospitalized cases
+of COVID- 19 in São Paulo and Rio de Janeiro,
+stratified by private and public services. Methods: Hospitalization data for
+Severe Acute Respiratory Syndrome (SARS) was obtained by the SIVEP-Gripe
+Database. All hospitalized adults who were diagnosed as COVID-19 or
+unspecified SARS, between January and December 2020, were included in
+the analysis. Logistic regression models were fitted to evaluate the
+risk of death between Rio de Janeiro and São Paulo,
+adjusted for age, sex, and comorbidities. Results: A total of
+388,657 hospital registers for Rio de Janeiro and São Paulo
+(91,532 and 297,125, respectively) were analyzed. Missing data is frequent
+in the database and it was greater in Rio de
+Janeiro, at the state and capital levels. Adjusting for confounders,
+the odds ratio of dying by Covid-19, comparing the state
+of Rio de Janeiro with São Paulo, was 2.51 in
+the private hospitals and 2.29 in the public ones. For
+the capitals, the scenario is worse. The lethality among hospitalized
+patients with COVID-19 in Rio de Janeiro is at least
+twice compared to São Paulo, both at the states and
+capitals. The public or private services showed important differences, with
+odds ratios of 2.74 and 3.46, respectively.

@@ -1,0 +1,16 @@
+This block represents the influence that public transportation has in
+COVID-19 epidemiology. Different public transportation lines were represented as places
+or fixed positions on the map, where each bus stop
+is a plot of 10x4 m. This simplification aims to
+represent only the main characteristics of public transportation dynamics relevant
+for this study. Human agents can enter this plot once
+every 20 min (average frequency of local transportation), and remain
+at an average distance of 2 m, for 20 min.
+Distancing is not met only for one minute, which would
+represent the time that takes to go from the entrance
+door to the seat and from the seat to the
+exit door. After 20 minutes, each Ha can either move
+to a new position on the map or stay in
+the transportation position for another equal period of time (depending
+on a transition probability defined by Mobility/Activity submodel, which will
+be discussed in the next section).

@@ -1,0 +1,11 @@
+To examine the relationship between the foreign exchange rate and
+femicide in Turkey, daily femicide data from 1 January 2019
+to 29 September 2020 were obtained from the We Will
+Stop Femicide Platform, and daily US Dollar buying rates for
+the same period were sourced from the Central Bank of
+the Republic of Turkey (CBRT) Electronic Data Delivery System (EDDS)
+(Table 1). The dataset comprises 373 observations, which were analyzed
+using various statistical methods. Figures 3 and 4 display the
+distribution of the variables over the study period. During this
+timeframe, an increase in the foreign exchange rate was observed,
+alongside a persistent incidence of femicide cases.

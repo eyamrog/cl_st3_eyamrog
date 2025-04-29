@@ -1,0 +1,11 @@
+In this research strand, Klein’s (2012) study is particularly relevant.
+The author clearly differentiates between countries that implemented capital controls
+as a temporary measure and those that maintained them on
+a permanent basis. The former group primarily comprised Latin American
+and some developed countries, while the latter mainly included Asian
+economies. Using panel regressions, the study analyzes differences in economic
+performance, financial vulnerability, and exchange rate behavior associated with these
+distinct approaches to capital controls. The initial estimation for the
+period 1995–2010 indicates that countries with permanent capital controls experienced
+higher rates of economic growth and lower rates of growth
+in financial variables compared to those with only temporary controls.

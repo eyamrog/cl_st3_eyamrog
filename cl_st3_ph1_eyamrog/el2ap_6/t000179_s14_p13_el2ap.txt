@@ -1,0 +1,8 @@
+Satisfaction scale on the working conditions of the health center:
+To evaluate the working conditions perceived by the health professional.
+The indicators of the scale are satisfied with the possibility
+of promotion, organization of the health center, workload, schedules, salary,
+opportunities, infrastructure and equipment, relationship with superiors, administrative procedures, and
+hygiene of the health center. In ENSUSALUD, the items of
+this instrument are in question 81 with codes from c2p81_1
+to c2p81_16 (see supplement 1).

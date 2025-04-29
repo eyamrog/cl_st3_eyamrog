@@ -1,0 +1,9 @@
+Coronavirus (COVID-19) is a viral respiratory illness caused by the
+new coronavirus (2019-nCoV) that emerged in December 2019 in the
+city of Wuhan/China [1]. The rapid geographical spread of the
+new coronavirus has represented a major challenge for public health
+[2]. According to the World Health Organization (WHO) report [2],
+until April 30, 2020, the world pandemic resulted in 3.090.445
+confirmed cases and more than 217 thousand deaths resulting from
+clinical manifestations secondary to infection (fever, dry cough, and shortness
+of breath) [3,4].

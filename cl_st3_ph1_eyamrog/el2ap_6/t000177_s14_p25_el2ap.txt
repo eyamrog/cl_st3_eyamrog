@@ -1,0 +1,4 @@
+Use more window-driven natural ventilation in buildings without mechanical ventilation.
+The use of openable windows is recommended, even if this
+causes thermal discomfort. Even in buildings with mechanical ventilation, open
+windows can be used to boost ventilation.

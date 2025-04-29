@@ -1,0 +1,15 @@
+On July 15, the total number of deaths predicted in
+the country is 56,955. However, according to model A2, the
+total number of deaths may reach 64,262. This estimate may
+vary depending on the standard deviation reported for each state
+(Table 1). The projected number of cumulative cases per 1,000,000
+inhabitants is highest in Rio de Janeiro, Roraima, Amazonas, Pará,
+and Pernambuco, with values of 1,586.02, 1,054.57, 697.91, 586.77, and
+353.16, respectively. In São Paulo, the estimated rate is 152.12
+COVID-19 deaths per 1,000,000 inhabitants. Lower death rates per 1,000,000
+inhabitants are projected for Mato Grosso do Sul (6.68), Paraná
+(12.32), Minas Gerais (13.79), Rio Grande do Sul (18.90), and
+Santa Catarina (30.24). The spatial distribution of cumulative COVID-19 death
+rates across all states is illustrated in Figure 2 for
+June 15 and Figure 3 for July 15, with color
+gradients indicating the relative intensity of these rates.

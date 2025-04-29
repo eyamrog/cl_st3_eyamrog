@@ -1,0 +1,6 @@
+The role of healthcare workers (HCWs) in facilitating the transmission
+of pathogens between patients is well established. However, recent evidence
+indicates that environmental contamination also plays a significant role in
+the transmission of pathogens. Several factors, such as temperature, humidity,
+and disease severity, may influence the concentration of viral particles
+present in aerosol samples [38].

@@ -1,0 +1,5 @@
+The study design followed the recommendations of the seroepidemiological investigation
+protocol for SARS-CoV-2 infection of the World Health Organization [11].
+All the procedures adopted by this study, followed the Declaration
+of Helsinki and the Brazilian guidelines and standards for research
+involving humans.

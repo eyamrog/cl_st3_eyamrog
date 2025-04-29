@@ -1,0 +1,16 @@
+By now, our results suggest that the incorporation of the
+selection imposed by the cheating interactions that naturally emerge from
+mutualisms is pivotal to a deep understanding of the coevolutionary
+dynamics in species- rich mutualisms. Cheating interactions change the outcomes
+of mutualistic coevolution, leading to increased interspecific trait variation and
+clustering. We provide insights on the effect of multiple interaction
+types in a network and how it may shape trait
+diversity by the contrasting selective forces favoring convergence and disparity
+across interacting species (Sauve et al. 2016). The structure of
+simulated networks significantly changed when we increased the frequency of
+cheating interactions, and this result opens new questions on which
+is the balance of positive and negative effects that maintains
+the structure of empirical networks. Our theoretical predictions may also
+help us to understand how networks might evolve under a
+rapidly changing world, in which interactions are vanishing due to
+several anthropogenic impacts, with unknown consequences for ecosystem functioning.

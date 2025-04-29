@@ -1,0 +1,14 @@
+As noted by Scanff and colleagues (2021), about one third
+of the journals suspected of endogeneity were published in at
+least one language other than English, even if MEDLINE is
+skewed towards journals in English. This skewness also means the
+proposed 95th cutoffs may not generalize to health sciences journals
+in other languages, which are often not indexed in MEDLINE.
+Such journals are more likely to be included in the
+World Health Organization’s Global Index Medicus, which comprises five regional
+bibliographic indexes targeting low- and middle-income countries. The first and
+foremost of such regional indexes is the Latin American and
+the Caribbean Literature on Health Sciences (LILACS), which is maintained
+by the Pan American Health Organization’s Latin American and Caribbean
+Center on Health Sciences Information (BIREME, from its original name
+in Portuguese) (Clark and Castro 2002).

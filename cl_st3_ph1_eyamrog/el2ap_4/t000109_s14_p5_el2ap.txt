@@ -1,0 +1,13 @@
+On the other hand, each Ha has a particular behavior
+according to its age range, habits and neighborhood where it
+lives, randomly assigned at the beginning of each simulation, following
+the population statistics for the city. Considering this, each Ha
+moves individually according to probabilities (𝐴 𝜖 𝜆ℎ,𝑒,𝑙(𝐴, 𝐵, 𝜋))
+associated with state change matrices (activities/locations) of a set 𝜆ℎ,𝑒,𝑙
+of HMM that represent the Mobility/Activity submodel. Each HMM corresponds
+to a place (l) (neighborhood/city/area) where Ha lives, to its
+age range (e) , and to the time slot (h)
+it is in at the time of the simulation. The
+description of this submodel will be resumed in Section 4.3.
+Finally, the permanence of active virus in different locations/environments is
+represented by the Infectious trail submodel described in Section 4.3.1.

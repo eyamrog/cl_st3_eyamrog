@@ -1,0 +1,4 @@
+On cone-beam computed tomography (CBCT) images, the mandibular canal (MC)
+can be visualized and manually traced. Accurate mapping of the
+reconstruction and careful delineation of the MC path by the
+operator are essential to ensure precise identification (Figure 2).

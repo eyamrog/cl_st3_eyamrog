@@ -1,0 +1,11 @@
+Methods: In accordance with the PRISMA Extension for Scoping Reviews
+(PRISMA-ScR) guidelines, a systematic search was conducted across five databases:
+Cochrane Library, PubMed Central®, ScienceDirect, Scopus Elsevier, and Web of
+Science. No restrictions were applied regarding language or year of
+publication. Two researchers independently and blindly screened the identified studies,
+both manually and using Rayyan software. The search strategy utilized
+the following keywords: ‘breast cancer’ AND ‘physical activity’ OR ‘physical
+exercise’ AND ‘protocol study’ OR ‘study protocol’. Studies were included
+if they were protocols of randomized clinical trials involving physical
+activity and/or physical exercise interventions in women undergoing breast cancer
+treatment or in the post-treatment phase.

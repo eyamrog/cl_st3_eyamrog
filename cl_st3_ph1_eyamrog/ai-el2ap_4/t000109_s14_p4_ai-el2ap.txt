@@ -1,0 +1,13 @@
+For the Location submodel, a dedicated geographic information system (GIS)
+module within the Repast platform is utilized, as detailed in
+Section 4.2. This system enables the differentiation and characterization of
+various types of locations, including family residences, buildings, stores, squares,
+transportation facilities, and other relevant sites where individuals may be
+present. The geographical environment and each subdivided plot of the
+city are modeled as agents, each possessing distinct methods and
+attributes. Additionally, major public transportation facilities are represented as specific
+locations where people congregate, as described in the Transportation submodel
+(Section 4.2.1). The level of detail and accuracy of the
+geographical information provided by this system are essential for the
+precise representation of mobility patterns and activities of each Ha
+within the simulated society.

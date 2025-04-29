@@ -1,0 +1,21 @@
+The theoretical literature on polycentric cities can be divided into
+two main strands. The first strand addresses the emergence of
+central business districts (CBD) and sub-business districts (SBD) as endogenous
+outcomes of the urban optimization process, taking into account agglomeration
+economies and transport costs (Ogawa and Fujita 1980; Fujita and
+Ogawa 1982; Anas and Kim 1990; Helsley and Sullivan 1991;
+Henderson and Slade 1993; Sasaki and Mun 1996; Berliant and
+Konishi 2000). The primary focus of this literature is to
+evaluate how changes in the spatial structure of cities influence
+labor and housing markets. Factors contributing to a dispersed distribution
+of workers include high transport costs, the absence of agglomeration
+economies, direct sales to households, firms’ demand for land, and
+greater price elasticity of labor demand. The second strand of
+models examines the effects of employment suburbanization on residential property
+prices and related variables (Romanos 1979; Yinger 1992; Wrede 2015).
+These models analyze how workers choose residential and employment locations
+and how these choices affect land prices, population density, and
+commuting patterns. The findings indicate that land prices and wages
+decline with increasing distance from the CBD and SBD, suggesting
+that the SBD also functions as a determinant of real
+estate prices and wages.

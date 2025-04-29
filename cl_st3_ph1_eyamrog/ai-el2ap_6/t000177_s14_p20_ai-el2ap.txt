@@ -1,0 +1,10 @@
+NAFA recommends the use of a properly designed and maintained
+ultraviolet (UV) system, often in combination with filtration, humidity control,
+and airflow management, to reduce the transmission of various viruses.
+UV-C light is absorbed by ribonucleic acid (RNA) and deoxyribonucleic
+acid (DNA) in cells and microorganisms, inducing structural changes that
+inhibit their ability to replicate. Numerous microorganisms, including bacteria, viruses,
+fungi, and spores, are susceptible to inactivation by UV-C light.
+The extent of inactivation is directly proportional to the UV-C
+dose received, which is determined by both the intensity of
+the UV-C light and the duration of exposure [23, 24].

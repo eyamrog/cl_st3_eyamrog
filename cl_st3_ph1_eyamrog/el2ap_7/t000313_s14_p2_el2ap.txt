@@ -1,0 +1,4 @@
+To investigate the variation within Homo sapiens, we used the
+Ensembl database (www.ensembl.org; Hunt. et al., 2018) and the UNIPROT
+database (www.uniprot.org, The Uniprot Consortium, 2019). Both platforms used data
+from 1000 Genome Project.

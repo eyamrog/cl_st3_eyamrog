@@ -1,0 +1,23 @@
+Repast [29] is a platform with a set of open
+source modeling and simulation tools based on agents that runs
+on different operating systems. For each experiment or new scenario
+tested, a computer cluster is required to run several instances
+of the model simultaneously, which generates results based on central
+trends, given the stochastic nature of the phenomenon under study.
+This platform allows the implementation of agents’ characteristics, behaviors and
+interactions with each other and with their environments. The general
+scheme of the model is presented in Figure 1, and
+it shows different levels of detail. The first general level
+represents the complete model (black block), with its initial conditions,
+inputs and outputs. The second level shows the main blocks
+of the system (blue blocks): a block for the simulation
+of the spread of the virus for each host (left
+side) and another for the transmission of the disease between
+hosts (right side), as proposed by other authors [30]. The
+next level (green blocks) shows the submodels of Epidemiological characterization
+and Infectivity for each agent and their corresponding parameters. It
+also presents Interpersonal contact, Location and Mobility/Activity submodels, and the
+specific parameters for this submodel. Finally, the third level also
+shows the Transport and Infectious trail submodels (magenta blocks). Each
+submodel will be described in further detail in the following
+sections.

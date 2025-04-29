@@ -1,0 +1,7 @@
+The described method necessitates human judgment and intervention, particularly during
+the Trycycler and short-read polishing steps. This involvement enables users
+to identify and address unexpected results, thereby preventing low-quality data
+from advancing to subsequent stages. While this approach is suitable
+in contexts where accuracy is critical, such as reference genome
+assembly, it is not amenable to full automation (e.g., with
+Nextflow) and is therefore unsuitable for high-throughput assembly applications.

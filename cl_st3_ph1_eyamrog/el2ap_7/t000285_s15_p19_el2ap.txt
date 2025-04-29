@@ -1,0 +1,5 @@
+For studies that do not provide a mean and associated
+standard deviation (SD), we will use information and results reported
+in the text or tables, doing the correct inference. When
+the parameters established before are not available, the estimate based
+on other parameters will be made ensuring the correct information.

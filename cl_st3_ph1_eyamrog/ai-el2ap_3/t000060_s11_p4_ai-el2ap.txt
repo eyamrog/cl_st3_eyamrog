@@ -1,0 +1,16 @@
+It is also important to consider that turn allocation can
+occur in conversation. Unlike the prototypical sequence of “Question 1-Answer
+1-Question 2-Answer 2” (Q1-A1-Q2-A2), not all first pair parts necessarily
+receive their corresponding second pair parts immediately. In some cases,
+the response to an initial question is delayed due to
+the intervention of another question-answer sequence. Yule (1996, p. 77)
+describes this as a sequence taking the form Q1-Q2-A2-A1, where
+the intervening pair (Q2-A2) is referred to as an insertion
+sequence. In this structure, the Q2-A2 pair is embedded within
+the Q1-A1 pair, and thus functions as an insertion sequence.
+Yule further notes that although Q2 appears to be a
+question in response to Q1, it is generally assumed that
+once the second part (A2) of the insertion sequence is
+provided, the second part (A1) of the initial question (Q1)
+will subsequently occur. As Coulthard and Brazil (1992, p. 52)
+observe:

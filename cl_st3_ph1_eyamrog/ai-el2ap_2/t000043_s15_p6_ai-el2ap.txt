@@ -1,0 +1,7 @@
+No weights were assigned to the sections of the tool,
+allowing users flexibility in determining the overall quality of a
+study based on the specific requirements of the quality assessment
+and the characteristics of the evidence synthesis product. Table 1
+presents the sections of the quality assessment tool, provides explanations
+for the items evaluated, and outlines the criteria for awarding
+stars to each item.

@@ -1,0 +1,6 @@
+The first observation is the large amount of missing data,
+which are represented by the slices of the circles that
+have only light colors, which represents the Indicators with missing
+data. This is a frequent problem in the “U-Multirank” that
+must be addressed by the Brazilian Institutions that have the
+goal of improving positions in this ranking.

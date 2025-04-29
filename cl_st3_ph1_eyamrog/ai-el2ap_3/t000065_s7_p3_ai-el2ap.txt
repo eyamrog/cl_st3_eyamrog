@@ -1,0 +1,12 @@
+This empirical approach enables the generalization of results, provided that
+the corpus is well-designed and accurately represents the target register,
+defined as a language variety associated with a specific situational
+context and communicative purpose (Biber & Conrad, 2009, p. 6).
+Researchers should therefore take into account the situational characteristics of
+the register, including the participants, the relationships among participants, the
+communication channel, and the production circumstances (Biber & Conrad, 2009).
+Once the research questions and the relevant register characteristics have
+been clearly established, the next step is to select an
+appropriate corpus. At this stage, researchers must determine whether an
+existing corpus is suitable for their purposes or if it
+is necessary to compile a new corpus.

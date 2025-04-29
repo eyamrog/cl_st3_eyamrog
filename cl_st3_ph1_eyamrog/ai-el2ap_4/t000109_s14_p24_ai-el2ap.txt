@@ -1,0 +1,10 @@
+This submodel simulates the mobility patterns of human agents residing
+within a district or neighborhood, taking into account both the
+agents' age ranges and the specific time slots under consideration.
+It also determines the type of activity each human agent
+will engage in at their designated location during the subsequent
+time period. Certain activities, such as the type and location
+of work or study, are assigned uniquely to each agent
+for the duration of the simulation, while others, such as
+leisure activities, are determined dynamically at the time they are
+to be performed.

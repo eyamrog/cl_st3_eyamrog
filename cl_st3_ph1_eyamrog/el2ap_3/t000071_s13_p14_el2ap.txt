@@ -1,0 +1,17 @@
+To support the public value of open access and the
+global expansion of scholarly publishing, PKP is developing new tools
+for assessing and communicating scholarly trustworthiness. This will involve journals
+turning to third-party trade organizations to verify and register who
+is doing what in the publishing process, with an example
+involving ORCiD, a researcher identity and profile management organization, presented
+below. Initially, the goal is to work with five basic
+scholarly standards, before considering more granular and specialized standards around,
+for example, clinical trials (Table 5). These systems will depend
+on the exchange of information between journals and these organizations,
+with an openness to a level of scrutiny not possible
+today, whether in seeing the background of a journal’s reviewers
+or how many reviews a paper is typically subject to.
+While involving automated connections and controls, the outcomes will be
+subject to human review and challenge. Through open source licensing
+of the connecting technologies, such developments will also be made
+available to commercial and other platforms.

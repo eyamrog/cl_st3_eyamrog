@@ -1,0 +1,17 @@
+This is, to the best of our knowledge, the first
+study assessing the association between MVPA, VPA, MPA, and SB
+and prevalent depressive, anxiety, and co-occurring D&A symptoms among self-isolating
+adults during the COVID-19 pandemic. In the present study, nearly
+half of participants reported performing ≥30 minutes MVPA per day,
+and one third reported spending ≥10 hours in SB per
+day. The prevalence of depressive and anxiety symptoms was approximately
+40%, while one third reported co-occurring D&A and anxiety symptoms.
+We observed a relationship suggesting that people reporting ≥30 minutes
+in MVPA per day were approximately 30% less likely to
+present depressive, anxiety, and D&A symptoms, even when we adjust
+for relevant covariates. Those reporting ≥15 minutes of VPA per
+day were approximately 40% less likely to present with prevalent
+depressive and D&A symptoms, and 30% less likely to present
+prevalent anxiety symptoms. Those spending ≥10 hours a day in
+SB were 39% more likely to present prevalent depressive symptoms
+in the adjusted models.

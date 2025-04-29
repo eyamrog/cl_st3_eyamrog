@@ -1,0 +1,8 @@
+The implementation of prudential capital controls can lead domestic agents
+to internalize the consequences of their borrowing decisions, thereby mitigating
+the risk of financial amplification. Furthermore, such controls may facilitate
+the intertemporal smoothing of consumption and contribute to higher economic
+growth, challenging prevailing orthodox views (Korinek, 2011). Similarly, Ostry et
+al. (2012) contend that capital inflow controls targeting these externalities
+are designed to reduce the relevant component of the representative
+agent’s consumption function, thereby promoting intertemporal consumption smoothing.

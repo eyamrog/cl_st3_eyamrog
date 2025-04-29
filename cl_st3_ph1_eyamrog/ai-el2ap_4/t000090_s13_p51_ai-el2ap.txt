@@ -1,0 +1,8 @@
+The results indicate that there are no "very strong" or
+"strong" correlations among the indicators within this dimension, with only
+two instances of "moderate" correlation observed. This suggests a high
+degree of independence among the indicators in this dimension. The
+mean correlation magnitude for all indicators is 0.2451, with a
+standard deviation of 0.1278. These findings support the validity of
+this dimension for the group of institutions analyzed in this
+study.

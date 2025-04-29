@@ -1,0 +1,9 @@
+Small plasmids (<20 kbp) can be underrepresented in ONT read
+sets, due to either ligation preparations (where circular sequences fail
+to acquire adapters13) or overly aggressive QC (e.g. discarding all
+reads <10 kbp). This can be avoided by using rapid
+preparations and less stringent QC (e.g. only discarding reads <1
+kbp). Alternatively, small plasmids can be recovered from an Illumina-
+only or short-read-first-hybrid assembly graph (e.g. from Unicycler4) where they
+usually appear as circular contigs separate from the rest of
+the genome (Figure 2A).

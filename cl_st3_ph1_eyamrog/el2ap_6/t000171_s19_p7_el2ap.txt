@@ -1,0 +1,11 @@
+The same analysis used for the health macro-regions makes the
+association more evident. In fact, by aggregating cities in large
+regions, the outlier cities - whose tests per thousand exceed
+more than two standard deviations from the average and are
+small-sized - have their effect on the total overall reduced.
+Pearson's coefficient for correlation between the elapsed time of the
+first notified case in the state of Minas Gerais and
+rapid tests was -0.59; between the first notified case and
+RT-PCR tests, it was -0.25; between the first notified case
+and incidence rate, -0.70; and between the first notified case
+and mortality rate, -0.71.

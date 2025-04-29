@@ -1,0 +1,9 @@
+We measured fear with the Covid-19 Fear scale (FCV-19S) presented
+in a Likert format in five categories of responses (strongly
+disagree, disagree, neither agree nor disagree, agree, strongly agree). It
+consists of a seven-item unidimensional scale with robust psychometric properties
+(Cronbach’s alpha internal consistency 0.82) reliable and valid in assessing
+and relieving fears of Covid-19 among individuals (Ahorsu, Lin, Imani,
+Saffari, Griffiths & Pakpour, 2020). Scores range from 7 to
+35 indicating levels of fear: normal (7 – 16); mild
+to moderate (17 – 26); and severe (27 – 35).

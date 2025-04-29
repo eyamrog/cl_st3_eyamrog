@@ -1,0 +1,11 @@
+If automation is required, changes in the workflow are needed.
+Flye19 is less likely than other long- read assemblers to
+produce large-scale errors which downstream polishers may not be able
+to fix23, making it a good replacement for Trycycler. Before
+polishing with Medaka, circular Flye contigs should be ‘rotated’ to
+a consistent starting sequence (e.g. dnaA36) or random starting sequence.
+This will serve to move any duplicated/missing bases at the
+start/end of circular contigs to the middle of the sequence
+where polishing tools can repair the error. For short-read polishing,
+we recommend Polypolish followed by POLCA, as these tools are
+the least likely to introduce errors30.

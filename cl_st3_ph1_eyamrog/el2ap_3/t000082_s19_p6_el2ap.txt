@@ -1,0 +1,13 @@
+In our simulations, coevolutionary dynamics assuming p = 0 (no
+cheating interactions) led to almost no change in network structure
+[ΔQ ≅ 0; ΔNODF ≅ 0]. As we increase the
+frequency of cheating interactions, mutualistic networks become more modular and
+less nested (Table 4). This increasing modularity and reduced nestedness
+observed was not reproduced by simply randomly removing interactions. Moreover,
+the increase in modularity and reduction in nestedness was not
+equally distributed across mutualisms. In mutualisms that the empirical network
+was initially very modular and not nested (e.g., ant-myrmecophyte networks)
+changes in network structure were weaker than in mutualisms showing
+higher nestedness (e.g., pollination and seed dispersal). Hence, empirical networks
+under the effect of cheaters shift its network structure towards
+high modular and low nested patterns (Table 4).

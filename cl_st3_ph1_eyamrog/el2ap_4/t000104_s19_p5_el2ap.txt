@@ -1,0 +1,17 @@
+In a preliminary analysis made by replicate, P3C and P2C
+had the greater number of individuals sampled; however, the replicate
+P1A showed a greater number of taxonomic groups (10), in
+contrast to P3B, which presented only 3 groups. The values
+found for Pielou's equitability (J) at each sampling site indicated
+that a high percentage (above 77%) of the maximum diversity
+was found in each sample and little variation between them.
+The Shannon diversity index showed variations between replicates, but the
+mean values calculated for each sample corresponded to 2.13; 2.16
+and 2.12, respectively (Table 4). This evidences that the assemblies
+seem to be homogeneous between the 3 sampling sites. Considering
+only the replicates, the Margaleff richness values ranged from 0.83
+(at P3B) to 3.11 at (P1A). The ANOVA indicated that
+the ecological indexes (diversity, richness and evenness) were similar among
+samples. The high diversity, richness and equitability suggest a good
+water quality in the Itinguçu River, particularly at the Cachoeira
+do Paraíso waterfall.

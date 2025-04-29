@@ -1,0 +1,9 @@
+Looking first at the global picture, for the 300 top
+European academic institutions performers listed in the 2020 ranking, we
+expect 10,800 grades, considering the existence of 36 Indicators. However,
+it is noted that we have only 9,258 data available,
+which corresponds to 85.72%. We also have 1102 missing data
+(10.20%) and 440 data (4.08%) that were considered as “not
+applicable”. It means that we have about 15% blank data
+for this select group of Academic Institutions, which is not
+negligible.

@@ -1,0 +1,10 @@
+For the detection of IgG and IgM anti-SARS-CoV-2 antibodies, we
+used the rapid test MedTest Coronavirus 2019-nCoV IgG/IgM, from MedLevensohn
+manufacturer (Yuhang District, China), which is an immunochromatographic assay and
+uses a combination of particles coated with SARS-COV-2 antigen for
+the qualitative detection of IgG and IgM antibodies. The MedTest
+Coronavirus (COVID-19) IgG / IgM was licensed by the National
+Agency of Sanitary Vigilance/Anvisa in March 2020 (https://consultas.anvisa.gov.br/#/saude/q/?numeroRegistro=80560310056), and it
+can detect SARS-CoV-2 antibodies in whole blood, capillary blood, serum,
+and plasma samples. We performed the tests in serum according
+to the manufacturer's instructions.

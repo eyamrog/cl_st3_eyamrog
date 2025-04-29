@@ -1,0 +1,16 @@
+Alongside the Goeldi Museum, few other Brazilian institutions are involved
+in archiving initiatives. Currently, the principal effort is based at
+the Museu do Índio in Rio de Janeiro, a component
+of the Fundação Nacional do Índio. Over time, this museum
+has systematically increased its infrastructure and has developed impressive digital
+storage and backup capacities. The Museu do Índio has also
+been conducting active projects to document indigenous languages and cultures,
+following the best international practices. Its digital archive contains approximately
+10 TB of linguistic documentation, including the languages of 25
+indigenous groups. It also contains 9 TB of cultural documentation
+from 27 indigenous groups, which includes recordings of linguistic interest.
+Outputs of the ‘Indigenous Sonorities’ project (focusing on cultural preservation
+via audio documentation) for five indigenous groups occupy 1.69 TB.
+The total content of the file occupies approximately 50 TB.
+Copies of all recordings are returned to the communities involved,
+but Internet access is still being resolved.

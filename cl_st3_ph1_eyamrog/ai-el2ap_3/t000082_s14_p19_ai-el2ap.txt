@@ -1,0 +1,9 @@
+We characterized network structure by calculating two commonly used metrics:
+nestedness and modularity (Almeida-Neto et al. 2008; Blondel et al.
+2008). For each simulation, we quantified the number of interaction
+losses resulting from coevolutionary dynamics at the conclusion of the
+simulation, denoted as F. To assess structural changes, we calculated
+two indices: ΔNODF, representing the change in nestedness, and ΔQ,
+representing the change in modularity. Both indices were computed as
+the difference between the respective metric values at the end
+and at the beginning of each simulation.

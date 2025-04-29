@@ -1,0 +1,10 @@
+Finally, the results from the “neutral” and “biased” sentences were
+quite different. Although Portuguese speakers were still influenced by PAS,
+especially when the anaphor was an ellipsis in Portuguese or
+Spanish, we have concluded that the lexical choice of verbs
+and the meaning relation between them has a great influence
+on the task resolution of ambiguous anaphora. This aspect of
+the study has received little attention (if any) in previous
+studies. In view of these results, we posit that the
+semantics of the verb combination should also be considered when
+producing ambiguous sentences for anaphora resolution tasks.

@@ -1,0 +1,9 @@
+Several approaches have been proposed to address this problem. In
+this study, we employ an alternative method to classify universities
+as a whole. Specifically, we first calculate the average of
+the indicators within each dimension, and subsequently compute a global
+average using the values obtained from each dimension. This approach
+assigns equal weight to each dimension, regardless of the number
+of indicators within them, and avoids assigning nearly identical importance
+to grades B and E, as is the case with
+the "U-Multirank" methodology.

@@ -1,0 +1,14 @@
+All 60 specimens of W. cyathiformis were successfully relocated, with
+100% of individuals observed in the vegetative stage and no
+evidence of floral scape development. For Aechmea distichantha, leaf and
+sprout data were analyzed using a generalized linear mixed model
+(GLMM), and means were compared using the Bonferroni test. For
+Wittrockia cyathiformis, the number of leaves and sprouts was assessed
+for normality using the Shapiro-Wilk test; as the assumptions of
+normality were not met, the data were analyzed using the
+Friedman test, with medians compared by the Pairwise Comparisons test
+(Durbin-Conover). All statistical analyses were conducted using JAMOVI software (The
+Jamovi Project 2022). Survival analysis for both bromeliad species was
+performed using the SISVAR program (Ferreira 2011), employing a split-plot
+in time experimental design distributed across three blocks, with the
+main treatment factor being the method of relocation.

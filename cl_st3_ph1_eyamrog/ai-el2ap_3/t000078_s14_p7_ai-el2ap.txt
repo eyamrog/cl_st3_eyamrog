@@ -1,0 +1,13 @@
+Consistent with the findings of Kim, Phipps, and Anselin (2003),
+Campos (2017), and Campos and Almeida (2018), the distribution of
+extrinsic and intrinsic housing characteristics is not uniform within a
+weighting area, contrary to the assumption made by Megbolugbe and
+Hoek-Smit (1996). To address this limitation, this study incorporates the
+spatial location of each house and amenity (such as schools,
+shops, and libraries) rather than relying solely on the number
+or presence of amenities within the weighting area. This methodology
+enables the delineation of distinct neighborhoods within a weighting area
+based on the size determined by the selected distance matrix
+W cut-off. Additionally, this approach reduces the influence of administratively
+defined neighborhood boundaries, such as districts or census tracts, thereby
+minimizing the potential bias introduced by government-imposed area compositions.
