@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Present ^vb++++=Present
+material ^nn++++=material
+was ^vbd+bedz+aux++=was
+gathered ^vpsv++agls+xvbnx+=gathered
+from ^in++++=from
+a ^at++++=a
+lentic ^jj+atrb+++=lentic
+system ^nn++++=system
+under ^in++++=under
+mesotrophic ^jj+atrb+++=mesotrophic
+circumneutral ^jj+atrb+++=circumneutral
+conditions ^nns+nom+++=conditions.
+. ^zz++++=EXTRAWORD

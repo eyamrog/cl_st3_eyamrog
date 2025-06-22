@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Note ^nn++++=Note:
+: ^zz++++=EXTRAWORD
+Only ^rb+down+++=Only
+one ^cd1++++=one
+individual ^jj+atrb+++=individual
+specimen ^nn++++=specimen
+of ^in++++=of
+cosmarium ^np++++=Cosmarium
+ocellatum ^nn++++=ocellatum
+was ^vbd+bedz+aux++=was
+found ^vbd+vprv++xvbn+=found
+during ^in++++=during
+this ^dt+dem+++=this
+survey ^nn++++=survey.
+. ^zz++++=EXTRAWORD

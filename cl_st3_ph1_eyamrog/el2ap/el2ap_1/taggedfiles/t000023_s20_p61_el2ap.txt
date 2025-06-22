@@ -1,0 +1,17 @@
+Present ^vb++++=Present
+material ^nn++++=material
+was ^vbd+bedz+aux++=was
+gathered ^vpsv++agls+xvbnx+=gathered
+both ^abx++++=both
+from ^in++++=from
+lentic ^nn++++=lentic
+and ^cc++++=and
+lotic ^jj+atrb+++=lotic
+environments ^nns+nom+++=environments,
+, ^zz++++=EXTRAWORD
+under ^in++++=under
+oligotrophic ^nn++++=oligotrophic
+and ^cc++++=and
+alkaline ^jj+atrb+++=alkaline
+conditions ^nns+nom+++=conditions.
+. ^zz++++=EXTRAWORD

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Present ^vb++++=Present
+material ^nn++++=material
+was ^vbd+bedz+aux++=was
+found ^vpsv++agls+xvbnx+=found
+in ^in++++=in
+lentic ^jj+atrb+++=lentic
+systems ^nns++++=systems,
+, ^zz++++=EXTRAWORD
+under ^in++++=under
+ultraoligotrophic ^nn++++=ultraoligotrophic
+to ^in++++=to
+eutrophic ^jj+atrb+++=eutrophic
+and ^cc+phrs+++=and
+circumneutral ^jj+atrb+++=circumneutral
+conditions ^nns+nom+++=conditions.
+. ^zz++++=EXTRAWORD

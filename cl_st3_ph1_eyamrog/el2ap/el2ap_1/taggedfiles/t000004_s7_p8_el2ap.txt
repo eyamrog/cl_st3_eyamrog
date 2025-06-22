@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+What ^wdt+who+++=What
+opportunities ^nns+nom+++=opportunities/affordances
+does ^vbz+doz+vrb++=does
+the ^ati++++=the
+capoeira ^nn++++=capoeira
+group ^nn++++=group
+offer ^nn++++=offer
+for ^in++++=for
+the ^ati++++=the
+learning ^nn++++=learning
+of ^in++++=of
+portuguese ^nn+nom+++=Portuguese?
+? ^zz++++=EXTRAWORD

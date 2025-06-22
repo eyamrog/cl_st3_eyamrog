@@ -1,0 +1,20 @@
+The ^ati++++=The
+turn ^nn++++=turn-taking
+- ^zz++++=EXTRAWORD
+taking ^vbg+++xvbg+=EXTRAWORD
+is ^vbz+bez+vrb++=is
+apparent ^jj+pred+++=apparent
+from ^in++++=from
+the ^ati++++=the
+game ^nn++++=game
+between ^in++++=between
+Tiago ^np+++??+=Tiago
+And ^cc++++=and
+A ^at++++=a
+Visiting ^jj+atrb+++=visiting
+Mestre ^np++++=Mestre,
+ ^zz++++=EXTRAWORD
+Mestre ^np++++=Mestre
+Jo ^np++++=Jo
+O ^zz++++=o:
+ ^zz++++=EXTRAWORD

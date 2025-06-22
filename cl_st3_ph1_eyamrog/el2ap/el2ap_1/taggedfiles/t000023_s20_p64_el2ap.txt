@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Present ^vb++++=Present
+material ^nn++++=material
+was ^vbd+bedz+aux++=was
+collected ^vpsv++agls+xvbnx+=collected
+exclusively ^rb++++=exclusively
+from ^in++++=from
+lentic ^jj+atrb+++=lentic
+environments ^nns+nom+++=environments,
+, ^zz++++=EXTRAWORD
+living ^jj++++=living
+under ^in++++=under
+ultraoligotrophicsupertrophic ^nn++++=ultraoligotrophicsupertrophic
+and ^cc++++=and
+alkaline ^jj+atrb+++=alkaline
+conditions ^nns+nom+++=conditions.
+. ^zz++++=EXTRAWORD

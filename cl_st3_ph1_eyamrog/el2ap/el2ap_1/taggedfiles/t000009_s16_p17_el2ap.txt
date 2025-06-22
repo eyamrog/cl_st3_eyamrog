@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+( ^zz++++=(iv)
+iv ^nn+++??+=EXTRAWORD
+) ^zz++++=EXTRAWORD
+evidence ^nn+nom+++=evidence
+that ^tht+rel+obj++=that
+the ^ati++++=the
+papers ^nns++++=papers
+fit ^vb++++=fit
+the ^ati++++=the
+expected ^jj+atrb+++=expected
+conditions ^nns+nom+++=conditions
+for ^in++++=for
+publication ^nn+nom+++=publication;
+; ^zz++++=EXTRAWORD
+and ^cc+cls+++=and

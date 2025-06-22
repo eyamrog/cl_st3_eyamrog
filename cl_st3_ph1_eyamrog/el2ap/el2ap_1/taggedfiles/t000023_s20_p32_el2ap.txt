@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Present ^vb++++=Present
+material ^nn++++=material
+occurred ^vbd+++xvbn+=occurred
+in ^in++++=in
+doce ^np++++=Doce
+river ^nn++++=River
+under ^in++++=under
+mesotrophic ^nn++++=mesotrophic
+and ^cc++++=and
+alkaline ^jj+atrb+++=alkaline
+conditions ^nns+nom+++=conditions.
+. ^zz++++=EXTRAWORD

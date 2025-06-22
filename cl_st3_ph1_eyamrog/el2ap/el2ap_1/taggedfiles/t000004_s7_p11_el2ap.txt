@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+How ^wrb+who+++=How
+can ^md+pos+++=can
+we ^pp1a+pp1+++=we
+understand ^vb+vprv+++=understand
+learning ^vbg+vprv++xvbg+=learning
+though ^cs+sub+++=though
+capoeira ^nn++++=capoeira
+as ^ql++++=as
+a ^at++++=a
+verbal ^jj+atrb+++=verbal/embodied/musical
+assemblage ^nn+nom+++=assemblage?
+? ^zz++++=EXTRAWORD

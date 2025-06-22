@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+( ^zz++++=(i)
+i ^pp1a+pp1+++=EXTRAWORD
+) ^zz++++=EXTRAWORD
+the ^ati++++=the
+concept ^nn++++=concept
+of ^in++++=of
+publishable ^jj+atrb+++=publishable
+articles ^nns++++=articles
+in ^in++++=in
+computer ^nn+nom+++=computer
+science ^nn+nom+++=science
+high ^jj++++=high-impact
+- ^zz++++=EXTRAWORD
+impact ^nn++++=EXTRAWORD
+journals ^nns+nom+++=journals;
+; ^zz++++=EXTRAWORD

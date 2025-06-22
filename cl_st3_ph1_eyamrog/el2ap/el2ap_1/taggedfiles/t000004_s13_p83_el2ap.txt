@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Cultural ^jj+atrb+++=Cultural
+concepts ^nns++++=concepts
+related ^vbd+++xvbn+=related
+to ^in++++=to
+capoeira ^nn++++=capoeira
+that ^tht+rel+subj++=that
+are ^vb+ber+aux++=are
+not ^xnot++not++=not
+easily ^rb++++=easily
+translated ^vpsv++agls+xvbn+=translated
+into ^in++++=into
+english ^nn++++=English:
+: ^zz++++=EXTRAWORD
