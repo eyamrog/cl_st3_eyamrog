@@ -1,0 +1,3 @@
+(c) Media articles identified by the non-academic publication’s title, if
+not already known media outlet, with a screen-full used for
+the “page count.”

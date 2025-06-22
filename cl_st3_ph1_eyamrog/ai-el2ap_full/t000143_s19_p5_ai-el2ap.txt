@@ -1,0 +1,7 @@
+Table 2 presents the results of the final spatial regression
+analysis model. The proportion of female-headed households and the Municipal
+Human Development Index (MHDI) were both positively associated with femicide
+rates in the municipalities of Sergipe between 2013 and 2017
+(p < 0.05). In contrast, the Income Concentration Index (GINI
+Index) was negatively associated with femicide rates in these municipalities
+during the same period.

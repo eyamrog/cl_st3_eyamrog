@@ -1,0 +1,13 @@
+The highest rates were observed in the Northeast and Far
+West regions, while the lowest rates were recorded in Serra
+Catarinense and Xanxerê. Linear regression analysis by Health Region and
+seasonal period indicated that, during periods of higher rainfall, all
+regions experienced a monthly increase in leptospirosis rates ranging from
+20% to 100%. In contrast, regions such as the Midwest
+and Serra Catarinense exhibited lower peak rates and greater variability
+in correlation averages, suggesting that these areas experience more abrupt
+increases in rainfall, which are associated with significant but short-term
+rises in leptospirosis cases. These findings differ from the patterns
+observed during periods of lower rainfall, which were characterized by
+lower disease rates and a substantial number of regions displaying
+negative monthly percentage changes.

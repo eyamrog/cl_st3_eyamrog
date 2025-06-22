@@ -1,0 +1,19 @@
+In this context, issues concerning if and when such suppression
+measures should be lifted or strengthened have been on the
+center of the debate among public health researchers and professionals,
+health authorities, and the community. One of the possible indicators
+for guiding such a decision is the level of herd
+immunity that the population could achieve. Levels around 60% have
+been considered based on the available estimates of the basic
+reproduction number of the infection [22]. Since there is no
+available vaccine against COVID-19, such a level of herd immunity
+would have to be attained by natural infection. However, in
+settings such as Rio de Janeiro, in which a forthcoming
+breakdown of the health care system is soon expected, fostering
+natural herd immunity is not a reasonable option since it
+would require relaxing the suppression measures in course and, consequently,
+increase the number of deaths by COVID-19. On the other
+hand, the effectiveness and duration of suppression measures will decrease
+the capacity of building herd immunity and will create difficulties
+in the implementation of exit strategies and increase the possibility
+of future new epidemic waves [23].

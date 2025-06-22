@@ -1,0 +1,19 @@
+In this last section, a complementary data source is analyzed
+for an in-depth characterization of the national collaboration in this
+country. This is the metadata of articles published in the
+journals of the SciELO Brazil collection over the five-year period
+2016-2020, totaling 104,750 documents. This information was extracted from SciELO
+in May 2021. This is the portion of the database
+that has undergone the process of standardizing the names of
+authors and their institutional affiliations, and allows for a more
+precise analysis. This set of documents includes authors from 162
+countries. In 74.5% of the cases, there are only authors
+affiliated with Brazilian institutions (and 23.6% with only one author),
+while in 18.3% of the cases there are only authors
+from other countries. In just 7.1% of the documents is
+there collaboration between authors inside and outside of Brazil. The
+picture is therefore very similar to the one presented in
+Figure 6. Notably, in these articles co-authored by Brazilians and
+foreigners, only 17% are co- authored with Latin American countries.
+This phenomenon, to a large extent determined by linguistic aspects,
+is something that we have already commented on.

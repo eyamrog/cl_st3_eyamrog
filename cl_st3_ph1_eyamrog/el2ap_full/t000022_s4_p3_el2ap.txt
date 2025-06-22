@@ -1,0 +1,13 @@
+The analysis of collaboration structures in a corpus such as
+OLIVA delved into the complexities of national collaboration to distinguish
+between co-authorships belonging to the same institution and those collaborations
+that represent a combination of efforts from different universities and
+especially from different states, thereby examining the geospatial dynamics of
+national scientific production. The analysis of Brazil, which represents one-third
+of the total number of journals as well as half
+of the authors and articles in the OLIVA database, showed
+that there is strong collaboration between researchers from different states
+throughout the country. We also characterized the states that, by
+their own importance, play an important role in the corpus
+and yet show significant collaboration with colleagues from states with
+less weight in the Brazilian scientific system.

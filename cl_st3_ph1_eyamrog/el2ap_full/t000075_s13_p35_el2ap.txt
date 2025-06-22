@@ -1,0 +1,23 @@
+Given the new evidence on the effectiveness of capital controls,
+several economists aimed to identify the classes of capital flows
+for which the use of CFMs would be theoretical desirable.
+In the research in this field, Blanchard et al.’s (2017)
+study stands out due to the theoretical innovation on conventional
+open economy models. The authors distinguish between capital flows destined
+for emerging economies in terms of bonds and non-bonds, in
+which the first class encompasses debt bonds and the second
+one encompasses mainly equity instruments and FDIs, as a method
+to identify whether capital flows are expansionist or contractionary. According
+to the authors, debts bonds are contractionary, following the IS-LM-BP
+models, because this kind of capital flows appreciate the exchange
+rate and do not contribute to an expansion of internal
+credit backed in a foreign currency. On the other hand,
+non-bond flows can be expansionist or contractionary depending on its
+net effect on economic activity. This is because non-bond flows
+provoke exchange rate appreciation and an expansion of internal credit
+backed in a foreign currency. If the latter effect prevails
+over the former, then non-bond flows will be expansionist. Consequently,
+the use of capital controls on bond inflows is always
+desirable, and the use of capital controls on non-bond inflows
+will be desirable only if the net effect of these
+inflows is contractionary (Blanchard et al., 2017).

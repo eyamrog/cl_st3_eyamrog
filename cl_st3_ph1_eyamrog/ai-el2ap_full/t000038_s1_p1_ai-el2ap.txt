@@ -1,0 +1,21 @@
+An exploratory factor analysis (EFA) was conducted to empirically determine
+the factor structure of the COVID-19 Peritraumatic Distress Index (CPDI)
+using data from the Physical and Psychological Reactions as Health
+Indicators Research (Virtual Laboratory of Affective, Cognitive and Behavioral Neuropsychometry
+– LAVINACC), which assessed peri-traumatic stress during the COVID-19 pandemic.
+The EFA was performed using a polychoric correlation matrix and
+the Robust Diagonally Weighted Least Squares (RDWLS) extraction method. Parallel
+analysis with random permutation was employed to determine the number
+of factors, and Robust Promin was used as the rotation
+technique. Model adequacy was evaluated using the Root Mean Square
+Error of Approximation (RMSEA), Tucker-Lewis Index (TLI), and Comparative Fit
+Index (CFI). The Ratio Communality Index (RCI = 0.998452) indicated
+that both subsamples shared a similar amount of common variance.
+The polychoric correlation matrix demonstrated adequacy, as evidenced by Bartlett's
+test of sphericity (χ² = 21116.6, df = 276, p
+< 0.00001) and a Kaiser-Meyer-Olkin (KMO) value of 0.939. Additional
+indices, including UniCo (0.918), ECV (0.85), and MIREAL (0.200), supported
+the suitability of a two-factor structure for the CPDI, with
+the first factor representing internal stressors and the second factor
+representing external stressors. Further replication studies are recommended to confirm
+the validity and reliability of these findings.

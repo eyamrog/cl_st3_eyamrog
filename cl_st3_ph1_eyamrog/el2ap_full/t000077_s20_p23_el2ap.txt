@@ -1,0 +1,16 @@
+The positive effect of hourly earnings on the probability of
+remote work was also maintained in column (4); therefore, for
+similar workers, the higher the income, the greater the chance
+of being able to work from home. And the effect
+that remained the highest in the column (4) model was
+that of college education. A worker with college education has
+an increase of 11.78 p.p. on the probability of doing
+remote work, compared to the worker with no education. This
+effect fell by almost half when controlling for labor activities,
+indicating that the greater participation in remote work for workers
+with higher education also reflect the occupation selection in the
+labor market. According to Gaudecker et al. (2020), the important
+role of education after controlling income may indicate that the
+possibility of working from home is driven mainly by the
+composition of tasks rather than the availability of home office
+resources.

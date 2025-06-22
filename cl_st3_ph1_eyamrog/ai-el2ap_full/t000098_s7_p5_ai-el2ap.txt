@@ -1,0 +1,7 @@
+The primary objective of this article is to calculate COVID-19
+mortality rates adjusted for differences in age structures, utilizing data
+on mortality by age group. Given both the challenges associated
+with obtaining such data and its significance for related research,
+compiling age-specific mortality data for the countries most affected by
+the pandemic into a single source constitutes a relevant secondary
+objective.

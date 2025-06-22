@@ -1,0 +1,8 @@
+After controlling for intrinsic property characteristics, amenities, and access to
+transportation, we considered a sub-center to be valid if the
+distance from each property to each SBD identified in the
+first stage was statistically significant and exhibited a negative coefficient.
+This identification strategy enables inferences regarding the presence of SBDs
+and facilitates the evaluation of whether the hedonic price model
+for the real estate market aligns with the predictions of
+theoretical models.

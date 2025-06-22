@@ -1,0 +1,9 @@
+Further research is required to provide a more rigorous analysis
+of the relationship between journal size and authorship concentration indexes.
+Specifically, it is important to determine how changes in the
+number of signed articles in a hypothetically non-endogenous journal would
+affect these indexes. Such insights would facilitate more accurate interpretation
+of authorship concentration measures and enable more reliable comparisons across
+countries or subject areas. Additionally, this knowledge would help clarify
+whether larger journals tend to exhibit higher or lower levels
+of endogeneity compared to smaller journals.

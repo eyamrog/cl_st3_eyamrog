@@ -1,0 +1,11 @@
+For Boltzmann data analysis, each region was well-fitted and all
+R2 values were close to 0.999 (from March 17 to
+May 15, 2020) (Table 1). The potential total numbers of
+COVID-19 deaths in Brazil for the next 60 days after
+May 15 were estimated and the results and are shown
+in Table 1. The potential number of cumulative COVID-19 deaths
+per 1,000,000 inhabitants until June 15, 2020 will be higher
+for Roraima (881.98), Rio de Janeiro (761.45), Amazonas (665.56) Pará
+(559.62) and Pernambuco (316.87), and lower for Mato Grosso do
+Sul (6.32), Minas Gerais (12.07), Paraná (12.18), Rio Grande do
+Sul (18.24) and Santa Catarina (19.86).

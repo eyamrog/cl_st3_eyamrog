@@ -1,0 +1,11 @@
+This study subsequently examines the case of Brazil, which accounts
+for 50% of the total articles published in the database
+and demonstrates a high incidence of co-authorship among Brazilian authors.
+To further investigate this pattern, a detailed analysis of the
+SciELO Brazil collection, which includes only journals published in Brazil,
+was conducted. The results indicate a strong tendency for scientific
+collaboration among authors affiliated with institutions in different states within
+Brazil, despite being from the same country. These findings challenge
+the assumption that domestic collaboration necessarily reflects academic inbreeding and
+instead highlight the complexity and dynamic nature of the Brazilian
+academic landscape.

@@ -1,0 +1,13 @@
+A total of 7,304 researchers were identified among the authors
+and co-authors. The average productivity per researcher was slightly above
+1.73 articles. The most productive individuals published 43 articles each
+(2.64%), whereas the majority, comprising 5,172 researchers (70.81%), contributed only
+one article. To analyze patterns of author productivity, Lotka's Law
+was applied using the equation x^α · y = c,
+where x represents the number of documents published, y denotes
+the number of authors with x publications, and c is
+a constant. Figure 2 illustrates the distribution of articles by
+number of authors, with the calculated Lotka constant being 0.8101x^-2.581.
+The Law of Elitism 3-4 was supported by the finding
+that a group of 85 authors (1.16%) accounted for 1,236
+articles, representing 76.15% of the total output.

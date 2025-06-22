@@ -1,0 +1,11 @@
+There is also a relation between the authors’ country affiliation
+and publication in English. The articles authored only by researchers
+from outside Latin America and the Caribbean (8.5% of 643,929
+articles with country of affiliation identified) represent 16.9% of the
+articles in English. Similarly, those in collaboration with at least
+one author from the region and one from outside the
+region account for 4.7% of the articles. In both types
+of authorship, English is the main language of publication, both
+for articles with collaboration outside the region (49.9% of 30,307
+articles) and for those without regional collaboration (52.4% of 54,700
+articles).

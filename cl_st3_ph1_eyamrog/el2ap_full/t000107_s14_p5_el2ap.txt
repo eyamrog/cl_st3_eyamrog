@@ -1,0 +1,12 @@
+As a result, two other websites were included in our
+study, namely the websites Biblioteca Digital de Teses e Dissertações
+(BDTD; Digital Library of Dissertations and Theses)4 and Catálogo de
+Teses e Dissertações da CAPES (CAPES Dissertations and Theses Catalog)5.
+Both these websites aim to give access and visibility to
+Brazilian theses and dissertations. The BDTD website is maintained by
+the Brazilian Institute of Information in Science and Technology. On
+its homepage, the user finds a simplified keyword search window
+with four filter options, todos os campos (all fields), título
+(title), autor (author), and assunto (topic) (Figure 2) as well
+as an advanced search option with a greater variety of
+filters (Figure 3).

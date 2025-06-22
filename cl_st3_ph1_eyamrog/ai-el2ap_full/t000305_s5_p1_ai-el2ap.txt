@@ -1,0 +1,11 @@
+During the preparation of this article, a paper was published
+in which the authors conducted an analysis up to March
+21 and reported similar correlations between the importance of BCG
+vaccination and both the incidence and lethality of COVID-19. Although
+the data sources were comparable, the present study utilized initial
+acceleration rates for the number of cases and deaths (from
+0 to 100) as well as subsequent acceleration rates (from
+101 cases or deaths to April 11). The authors plan
+to extend this analysis by examining acceleration rates from April
+11 to May 11, and subsequently from May 11 to
+June 11.

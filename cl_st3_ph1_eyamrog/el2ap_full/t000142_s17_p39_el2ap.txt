@@ -1,0 +1,4 @@
+The unit root test based on soft transition, created by
+Leybourne, Newbold & Vougas (1998), was extended to two soft
+transitions and introduced to the literature by Harvey & Mills
+(2002)41. Three models were also created for this test;

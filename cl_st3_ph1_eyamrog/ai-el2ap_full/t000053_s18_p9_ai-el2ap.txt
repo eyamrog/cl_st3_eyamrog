@@ -1,0 +1,5 @@
+The dataset utilized in this study is publicly available at
+https://ipt.sibbr.gov.br/sibbr/resource?r=literature_review_sandflies_acre through the SiBBr Integrated Publishing Toolkit (IPT) and is
+referenced as follows: Espíndola Godoy R, Fernandes Brilhante A, José
+de Andrade A, Helena Fernandes Shimabukuro P (2022), "literature_review_sandflies_acre," version
+1.0, No organisation, Dataset/Occurrence.

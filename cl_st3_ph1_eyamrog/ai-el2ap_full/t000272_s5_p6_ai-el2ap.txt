@@ -1,0 +1,9 @@
+The thermogravimetric (TG) curve of the hexane fraction is the
+only one that exhibits two distinct degradation events. The first
+event occurs between 29.78 and 201.52 °C and is likely
+associated with the loss of water and residual solvent, accounting
+for 9.72% of the total mass. The second event takes
+place between 201.53 and 479.82 °C, resulting in a mass
+loss of 81.97%, which corresponds to 5.80 mg of the
+sample and indicates the degradation of the majority of the
+compounds present in the fraction.

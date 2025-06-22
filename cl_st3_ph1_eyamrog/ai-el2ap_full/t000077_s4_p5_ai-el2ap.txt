@@ -1,0 +1,10 @@
+Several variables continued to exhibit significant independent effects after controlling
+for fixed effects related to types of work. Notably, higher
+educational attainment (specifically, holding a college degree), being a salaried
+employee (as opposed to being self-employed or an employer), and
+higher labor income were all positively associated with the probability
+of engaging in remote work. These findings suggest that the
+likelihood of remote work varies not only across different occupations
+but also within the same occupational categories. Additionally, holding other
+factors constant, younger workers, women, and white workers demonstrated a
+somewhat higher probability of working remotely.

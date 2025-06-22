@@ -1,0 +1,23 @@
+On February 3, 2020, the Brazilian Ministry of Health declared
+a public health emergency of national importance through Ordinance 188,
+assigning a level 3 risk classification due to the emergence
+of human infection with the novel coronavirus (SARS-CoV-2). This measure
+was intended to facilitate the implementation of administrative actions with
+increased efficiency, enabling the country to prepare for the impending
+pandemic, despite the absence of confirmed cases at that time.
+The first confirmed case in Brazil was reported by the
+Ministry of Health on February 26 in the city of
+São Paulo, prompting a nationwide state of alert. Preventive measures,
+such as hand hygiene and cough etiquette, were reinforced. Nevertheless,
+the disease spread rapidly, progressing from imported cases to community
+or sustained transmission within less than thirty days. Imported cases
+refer to those in which the source of infection can
+be traced, typically involving individuals who contracted the virus during
+international travel, initially from countries such as China and Italy.
+In contrast, community transmission is characterized by the inability to
+identify the source of infection, and the presence of asymptomatic
+cases, which pose a greater risk due to their potential
+to facilitate widespread transmission. In this context of national-level transmission,
+mathematical models developed by researchers provided estimates of case progression,
+informed by the experiences of countries where the virus had
+been introduced prior to its notification in Brazil.

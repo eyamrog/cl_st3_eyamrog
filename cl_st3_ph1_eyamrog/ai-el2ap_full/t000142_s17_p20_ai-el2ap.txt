@@ -1,0 +1,9 @@
+Leybourne, Newbold, and Vougas (LNV) (1998) proposed a unit root
+test that incorporates structural changes into the model through a
+smooth transition mechanism, rather than assuming instantaneous shifts. This approach
+utilizes a logistic function to account for structural breaks, enabling
+the modeling of gradual structural transitions. The LNV test represents
+an alternative to traditional unit root tests that only consider
+abrupt structural breaks and marks the introduction of nonlinear testing
+procedures. To operationalize this method, logistic smooth transition regressions were
+formulated by defining three distinct models.

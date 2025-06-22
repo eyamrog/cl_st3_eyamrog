@@ -1,0 +1,7 @@
+The data obtained were organized in a Microsoft Excel spreadsheet
+through double typing and later validation to control for possible
+errors and later exported and analyzed in the software Statistical
+Package for the Social Sciences (SPSS) version 25.0 so that
+the sociodemographic and clinical profile data were characterized by absolute
+and relative percentage frequencies (descriptive statistics). The Kolmogorov‒ Smirnov test
+with Lilliefors correlation was used to verify the normality assumption.

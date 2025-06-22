@@ -1,0 +1,13 @@
+Strategies to hinder viral binding have been investigated. Human recombinant
+ACE2 reduced SARS-CoV-2 recovery in vitro and protected mice from
+acute lung injury caused by SARS-CoV (Monteil et al. 2020).
+A chimeric protein composed of the extracellular domain of ACE2
+fused with the Fc region of IgG1 exhibited pharmacological properties
+in mice (Lei et al. 2020). SARS-CoV-2 has two possible
+entry mechanisms, through endosome or membrane fusion. Arbidol is a
+potent broad-spectrum antiviral, that blocks viral envelope fusion (Teissier et
+al. 2011) and clathrin-mediated endocytosis (Blaising et al. 2013), suppressing
+the replication of SARS-CoV in vitro (Khamitov et al. 2008).
+Patients treated with Arbidol had a shorter period of SARS-CoV-
+2 infection compared to patients treated with lopinavir/ritonavir (Zhu et
+al. 2020).

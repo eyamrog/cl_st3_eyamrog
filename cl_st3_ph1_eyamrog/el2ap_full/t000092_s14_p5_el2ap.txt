@@ -1,0 +1,6 @@
+Data are presented for frequency measures of HRV: low-frequency power
+(LF), and high-frequency power (HF) in both ms2 and normalized
+units and the ratio of LF power to HF power
+(LF:HF). The normalized (or normalized unit) spectral indices are defined
+as LFnu = LF / (LF + HF) and HFnu
+= HF / (LF + HF).

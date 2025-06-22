@@ -1,0 +1,13 @@
+Our findings indicate that a significant portion of the taxon-specific
+diversity observed in ACE2 can be attributed to positive natural
+selection, likely due to its role as a membrane protein
+involved in water intake, blood pressure regulation, and other cardiovascular
+functions. Additionally, adaptation to novel hosts often results in reduced
+performance on the original host (Longdon et al., 2014). SARS-CoV-2
+demonstrates a high capacity to infect Homo sapiens across diverse
+populations; however, it appears to be less efficient at infecting
+other species or re-infecting its original or intermediate hosts, such
+as bats or pangolins, particularly when these hosts are phylogenetically
+distant. The emergence of new mutations or recombination events may
+enable SARS-CoV-2 to overcome species barriers in the future, thereby
+perpetuating the ongoing evolutionary dynamics between host and pathogen.

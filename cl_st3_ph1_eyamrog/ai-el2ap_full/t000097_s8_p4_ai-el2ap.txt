@@ -1,0 +1,7 @@
+The publication of study protocols is widely recognized for enhancing
+research transparency and reducing publication bias. When made publicly available,
+these protocols serve as important research tools by facilitating the
+reproducibility of interventions by other researchers and enabling the scientific
+community to track developments within a specific field. However, despite
+these advantages, not all clinical trials publish the protocols for
+physical activity interventions that have been implemented as research instruments.

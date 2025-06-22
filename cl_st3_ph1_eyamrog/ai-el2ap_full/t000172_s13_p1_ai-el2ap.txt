@@ -1,0 +1,19 @@
+The Coronaviridae family, which belongs to the order Nidovirales, is
+divided into two subfamilies: Coronavirinae and Torovirinae. The Coronavirinae subfamily
+comprises four genera: Alphacoronavirus, Betacoronavirus, Gammacoronavirus, and Deltacoronavirus. SARS-CoV-2 (also
+referred to as 2019-nCoV), the causative agent of COVID-19, is
+classified within the Betacoronavirus genus, along with SARS-CoV and MERS-CoV.
+Comparative genomic analyses have demonstrated that SARS-CoV-2 shares 88% sequence
+identity with two bat-derived SARS-like coronaviruses (bat-SL-CoVZC45 and bat-SL-CoVZXC21) collected
+in 2018 in Zhoushan, eastern China, which is higher than
+its identity with SARS-CoV (approximately 79%) and MERS-CoV (approximately 50%)
+(Lu et al., 2020). Additionally, the SARS-CoV-2 genome exhibits 91.02%
+identity with Pangolin-CoV, while showing an even higher identity of
+96.2% with another bat coronavirus, RaTG13 (Zhang et al., 2020c).
+Coronaviruses possess a single-stranded positive-sense RNA genome (ssRNA+), placing them
+in class IV of the Baltimore classification system (Baltimore, 1971).
+The genomic organization of coronaviruses consists of two primary regions:
+one encoding the non-structural polyproteins pp1a and pp1b, and the
+other encoding the structural proteins, including the S (spike), E
+(envelope), M (membrane), and N (nucleocapsid) genes, as illustrated in
+Figure 1.

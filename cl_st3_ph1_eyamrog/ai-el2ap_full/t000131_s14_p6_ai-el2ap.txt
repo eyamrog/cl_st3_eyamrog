@@ -1,0 +1,13 @@
+Leaf anatomy was analyzed by fixing leaf fragments (1 cm²)
+in 70% FAA for 24 hours, followed by dehydration in
+an ethanol series according to Kraus and Arduin (1997). The
+samples were then embedded in paraffin, sectioned at 8 μm
+using a microtome, and stained with 1% toluidine blue. Microscopic
+observations were conducted using a QUIMIS Q720 ED microscope, and
+images were captured for subsequent analysis. Leaf thickness, adaxial epidermis
+thickness (AdE), abaxial epidermis thickness (AbE), palisade parenchyma thickness (PP),
+and spongy parenchyma thickness (SP) were measured using AnatiQuanti 2.0
+software (Laboratory of Plant Anatomy/UFV). A hypodermic layer was observed
+below the adaxial epidermis in both species; however, as this
+tissue was not consistently present in all samples, it was
+not quantified.

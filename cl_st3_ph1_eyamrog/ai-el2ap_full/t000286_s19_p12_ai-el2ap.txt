@@ -1,0 +1,7 @@
+In this case, the probability value of the t-statistic is
+0.1646, which exceeds the conventional significance level of 0.05. This
+result indicates that the interest rate does not have a
+statistically significant effect on the level of investment inflow in
+Turkey. Consequently, the null hypothesis is accepted, and the alternative
+hypothesis is rejected, leading to the conclusion that the interest
+rate does not significantly affect investment inflow in Turkey.

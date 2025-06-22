@@ -1,0 +1,6 @@
+The first notable finding is the substantial proportion of missing
+data, indicated by the segments of the circles displayed in
+light colors, which correspond to indicators lacking data. This issue
+is common in the "U-Multirank" system and should be addressed
+by Brazilian institutions seeking to improve their positions in this
+ranking.

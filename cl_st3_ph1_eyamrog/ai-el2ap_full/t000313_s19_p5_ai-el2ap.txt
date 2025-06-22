@@ -1,0 +1,12 @@
+The domestic cat (Felis catus) and dog (Canis lupus familiaris)
+are of particular interest due to their close association with
+humans. The ACE2 orthologues in these species exhibit 77% and
+73% sequence identity, respectively, with human ACE2 across 30 variable
+sites. Both species share sequence identity with other members of
+the Carnivora order, such as the presence of leucine (L)
+at position 24. However, they differ from each other at
+positions 25, 34, 427, and 559, with positions 34 and
+559 identified as targets of positive selection (Table S3). Thus,
+50% of the differences in ACE2 binding sites between cats
+and dogs represent taxon-specific variants, which may be associated with
+distinct functional adaptations of the ACE2 protein in each species.

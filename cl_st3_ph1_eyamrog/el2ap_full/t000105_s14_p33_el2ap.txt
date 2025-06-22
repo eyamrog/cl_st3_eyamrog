@@ -1,0 +1,5 @@
+Serological screening for anti-SARS-CoV-2 antibodies was performed by trained professionals
+using immunochromatographic reaction-based tests. The diagnostic One Step COVID-2019 Test
+(Guangzhou Wondfo Biotech®, China) was used to determine IgM/IgG antibodies
+in whole blood, serum, or human plasma, qualitatively, without distinguishing
+the immunoglobulin type [21].

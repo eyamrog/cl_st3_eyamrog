@@ -1,0 +1,14 @@
+As previously noted, Brazil plays a central role in the
+analysis of the scientific journal landscape in Latin America. Brazilian
+journals represent 29.4% of the 1,720 journals included in the
+OLIVA corpus. In terms of disciplinary distribution, the majority of
+these journals are classified under Medical and Health Sciences (34.3%)
+and Natural and Exact Sciences (33%). In contrast, lower proportions
+are observed in the Humanities (23.9%), Engineering and Technology (19.3%),
+and Multidisciplinary-SSH (17.9%). The significance of Brazil's contribution is more
+accurately reflected by the proportion of articles published in its
+journals; overall, 50.1% of the articles in the OLIVA database
+appear in Brazilian journals. This proportion is even higher in
+specific disciplines, with Agricultural Sciences at 65.8%, Multidisciplinary at 58.8%,
+Medical and Health Sciences at 54.5%, and Natural and Exact
+Sciences at 53.9%.

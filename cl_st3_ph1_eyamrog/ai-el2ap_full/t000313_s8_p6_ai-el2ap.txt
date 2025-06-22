@@ -1,0 +1,14 @@
+Alterations in key amino acids (AAs) involved in the interaction
+between the SARS-CoV-like S glycoprotein and ACE2 are critical determinants
+of cross-species transmission, multi-host infections, and interspecies differences in susceptibility
+to infection and disease manifestation. Evolutionary processes may account for
+some of these patterns. To enhance understanding of these mechanisms,
+we conducted a comparative genomic analysis of 70 ACE2 orthologues
+from a diverse set of placental mammal species, including pangolin,
+civet, bat, mink, and five New World monkey (Parvorder Platyrrhini)
+species. In addition, we examined genetic variation at key ACE2
+binding sites across human populations. The primary objective of this
+study is to characterize taxon-specific variability in the ACE2 amino
+acid sequence and assess its potential impact on cross-species SARS-CoV-2
+transmission, host range, and related factors, which are of particular
+relevance in the context of the ongoing COVID-19 pandemic.

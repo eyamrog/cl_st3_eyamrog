@@ -1,0 +1,21 @@
+Antagonisms and mutualisms are not isolated in nature but coexist
+in a variety of ways. Studies have explored the effects
+of combining mutualisms and antagonisms on population dynamics (e.g., Melián
+et al. 2009), community stability (e.g., Wilson et al. 2003),
+and network structure (e.g., Genini et al. 2010), highlighting the
+importance of considering the multiple outcomes that interactions may have
+at a single community and assigning the extremes of a
+gradient between mutualism and antagonism (Fontaine et al. 2011, Rodríguez-Rodríguez
+et al. 2017). Individuals of the same species can function
+as antagonists or mutualistic partners of the same interacting species,
+e.g., seed-caching rodents acting as seed predators and seed dispersers
+of the same plant species (Loayza et al. 2014). In
+other scenarios, individuals may act as antagonisms of some species
+and as mutualisms of others (Gómez et al. 2018, Gómez
+et al. 2014, Montesinos-Navarro et al. 2017). Finally, there are
+species in which individuals are specialized cheaters, exploring mutualistic interactions
+without providing any benefit in return like fig wasps and
+yucca moths (Bronstein 2001). Thus, in mutualistic interactions, selection may
+favor the evolution of life histories that exploit the resources
+and services provided by mutualistic partners without providing benefits, hereafter,
+cheating interactions (Bronstein 2001, Vieira et al. 2003).

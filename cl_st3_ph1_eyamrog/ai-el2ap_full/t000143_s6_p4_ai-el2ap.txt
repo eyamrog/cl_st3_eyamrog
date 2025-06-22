@@ -1,0 +1,7 @@
+In multiple spatial regression analysis, the Municipal Human Development Index
+(MHDI) was found to be positively associated with femicide rates.
+This finding highlights a contradiction, as it indicates an increase
+in femicide in areas with higher human development, which contrasts
+with previous studies that have reported an inverse relationship between
+femicide occurrence and both economic development and population quality of
+life.

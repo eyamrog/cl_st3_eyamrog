@@ -1,0 +1,11 @@
+Bioinformatics, the discipline that uses computational approaches to answer biological
+questions, has become essential to analyze genetic and genomic information
+(Baxevanis and Ouellette 2005). Especially, to study large and complex
+DNA datasets obtained via next- generation sequencing (NGS), to discover
+new genes, functions, pathways, and molecular interactions. Most of this
+information is available in online public databases. For instance, GenBank
+(https://www.ncbi.nlm.nih.gov/genbank), at the National Center for Biotechnology Information from the
+US National Institute of Health, currently possess 216,531,829 sequences, being
+one of the largest source worldwide. Other databases such as
+the Barcode of Life Data System (https://www.boldsystems.org), 2,869,168 sequences, are
+more specific, providing information from specific eukaryotic genes.

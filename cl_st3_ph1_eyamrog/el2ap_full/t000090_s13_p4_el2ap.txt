@@ -1,0 +1,12 @@
+As already mentioned, the “U-Multirank” was not designed to elaborate
+a general classification of Educational Institutions. The classifications are made
+only in each of the specific performance Indicators, grouped in
+Dimensions. Therefore, this ranking presents institutional performances showing the strengths
+and weaknesses of each one, in each Indicator and Dimension.
+Considering these points, each user can make their own ranking,
+selecting the Dimensions and Indicators that they considered to be
+more important for their needs. Another usual justification presented for
+the multidimensionality is that one- dimensional rankings are not robust,
+since small changes in the weights of the currently used
+Indicators significantly change the results, which greatly reduces the validity
+of these one- dimensional rankings.

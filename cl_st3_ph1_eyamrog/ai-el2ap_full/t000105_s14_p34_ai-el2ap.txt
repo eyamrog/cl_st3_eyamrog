@@ -1,0 +1,12 @@
+In this study, 10 μL of serum and three drops
+of buffer solution were added to the reaction well of
+the test device in accordance with the manufacturer's instructions. The
+sample was drawn into the device by capillary action and
+mixed with the SARS-CoV-2 antigen-dye conjugate, which then migrated through
+the pre-coated membrane. If the concentration of SARS-CoV-2 antibodies in
+the sample met or exceeded the assay's minimum detection limit,
+the antibodies bound to the antigen-dye conjugate were subsequently captured
+by the immobilized human anti-IgG antibody and anti-μ-chain antibody complex
+in the test region. This interaction resulted in the formation
+of a colored test band, which was interpreted as a
+positive result.

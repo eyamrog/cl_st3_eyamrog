@@ -1,0 +1,27 @@
+The results of the present study indicate that the forests
+of the PNT harbor for a large proportion of the
+herpetofaunal diversity of the Atlantic Forest of the state of
+Rio de Janeiro. Considering both the records obtained during our
+fieldwork and from secondary data, the park’s amphibian species richness
+would amount to at least 38 species, which represent 19%
+of the amphibians known to occur in the state (N
+= 201 species; Dorigo et al. 2018), 6% of the
+amphibian species from Atlantic Rainforest (N = 600; Rossa-Feres et
+al. 2017), and 3% of the amphibian fauna of Brazil
+(N = 1,136; Segalla et al. 2019). The combination of
+primary and secondary data also indicates the occurrence of 36
+reptile species in the PNT, which represent 24% of the
+reptiles known to occur in the whole Rio de Janeiro
+state (N = 149; Oliveira et al. 2020), 12% of
+the species recorded in the Atlantic Rainforest (N = 300;
+Tozetti et al. 2017), and 4% of the country’s reptilian
+diversity (N = 795 species; Costa & Bérnils 2018). When
+considering the sampled area and the effort employed, the number
+of amphibian and reptile species recorded during surveys in PNT
+is consistent with the expected. In fact, the cumulative species
+curves for both groups reached the asymptote by around the
+middle of the study period, indicating that sampling effort was
+adequate in both cases. Similarly, while the confidence intervals of
+the rarefaction curves for the amphibians converged to zero, indicating
+sampling sufficiency, those calculated for the reptiles approached the convergence,
+with reduced estimated error.

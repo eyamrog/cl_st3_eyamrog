@@ -1,0 +1,8 @@
+Analysis of variance of the germination data for common rue
+seeds indicated significant differences related to both the type of
+salt and the osmotic potential of the solutions (Figures 1
+and 2). The highest germination percentage was observed in the
+control treatment without added salts (82%), while increasing concentrations of
+NaCl resulted in a significant linear decline in germination. Additionally,
+germination percentages dropped below 50% at osmotic potentials equal to
+or lower than -0.1 MPa in CaCl2 treatments (Figure 1a).

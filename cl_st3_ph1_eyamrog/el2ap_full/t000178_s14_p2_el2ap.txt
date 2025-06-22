@@ -1,0 +1,17 @@
+BioProject data was also retrieved using Entrez Direct and the
+command <esearch -db BioProject -query "Peru" | efetch -format xml
+| xtract -pattern DocumentSummary -element Project \ -block Organism -element
+OrganismName Supergroup \ -block Submission -element Name > BioProject.xml>, and
+processed using awk scripts. Both, BOLD and PATRIC data were
+retrieved directly from their webpages, using “Peru” as a search
+query. This data was downloaded in tabular (tsv) and comma-separated
+(csv) formats, respectively. For both datasets, cat and grep scripts
+were used. cat concatenates texts to create a new output,
+and grep -c, counts the occurrences of a certain word
+query. awk scripts were additionally used for the BOLD dataset
+to group and count most sequenced taxonomic orders per institution.
+For the PATRIC dataset, csvgrep was used to count sequenced
+organisms per institution. All code and scripts are available in
+this GitHub repository: https://github.com/reymonera/mining_peru_sequence_DB. Finally, we searched in the Scopus
+reference database (https://www.scopus.com) for records with the term “genetic diversity”
+produced by at least one Peruvian institution.

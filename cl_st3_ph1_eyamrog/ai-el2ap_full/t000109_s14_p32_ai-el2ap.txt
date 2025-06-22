@@ -1,0 +1,9 @@
+This state denotes the work or study location assigned to
+each human agent (Ha). Multiple human agents may share the
+same geographical point on the map. For some agents, particularly
+those who do not work or study, this location coincides
+with their home. The work or study location for each
+agent is fixed throughout the simulation and is determined at
+the start of the run from a predefined list of
+possible places. The probability of each location being selected varies
+according to the age range of the human agents.

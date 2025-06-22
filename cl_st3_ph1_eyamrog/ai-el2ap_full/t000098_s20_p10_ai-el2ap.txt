@@ -1,0 +1,13 @@
+A comprehensive analysis of the factors contributing to the observed
+discrepancies in adjusted mortality rates among countries falls outside the
+scope of this article. Apart from the age distribution of
+populations, which is accounted for in the calculation of adjusted
+mortality rates, all other determinants influencing disease incidence and lethality
+also impact these rates. Notably, the present study identifies a
+clear inverse association between health expenditure levels and adjusted mortality
+rates among Western developing countries. This relationship is illustrated in
+Figure 2, where the horizontal axis represents current per capita
+health expenditure, expressed in US dollars adjusted for purchasing power
+parity, and the vertical axis displays the adjusted mortality rate.
+The size of each sphere corresponds to the absolute number
+of deaths in each country.

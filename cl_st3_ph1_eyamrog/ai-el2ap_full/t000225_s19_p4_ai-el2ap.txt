@@ -1,0 +1,7 @@
+The evolution depicted in Figure 1 contrasts notably with the
+evolution observed in Figure 2, which presents daily data reported
+by the Ministry of Health and the State Secretary of
+Health. As previously mentioned, these data are referenced to the
+date of test results rather than the date of death.
+It is important to note that the shape of the
+plot in Figure 2 is influenced by the following factors:

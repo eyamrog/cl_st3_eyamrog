@@ -1,0 +1,18 @@
+The ability to monitor the temporal progression of the disease,
+even with some delay, facilitates a more accurate analysis, development,
+and implementation of strategies to address the epidemic. For São
+Paulo City, Table 1 presents the daily increase in deaths
+alongside the corresponding social distancing index (SDI) measured 15 days
+prior. These data enable a preliminary estimation of the SDI
+threshold required to slow disease transmission. The analysis suggests that
+an SDI between 52% and 56% represents a critical range:
+an SDI of 56% is associated with a decrease of
+0.40 deaths per day, while an SDI of 52% corresponds
+to an increase of 0.82 deaths per day. During the
+pre-intervention period (prior to March 16th), the disease advanced at
+a rate of 3.18 deaths per day. However, these estimates
+should be interpreted with caution, as disease transmission is influenced
+by multiple factors beyond the SDI. The relationship between SDI
+and viral transmission rate is not fully understood, and similar
+SDI values may yield different transmission rates depending on variables
+such as temperature, humidity, population density, and mask usage.

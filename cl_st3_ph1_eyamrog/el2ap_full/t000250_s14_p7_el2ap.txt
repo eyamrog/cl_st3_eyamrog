@@ -1,0 +1,19 @@
+Time spent in MVPA was assessed by two questions: 1)
+“How much time on an average day have you spent
+in vigorous physical activity since self-isolating?”; and 2) “How much
+time on an average day have you spent in moderate
+physical activity since self-isolating?”. The questions were accompanied by the
+following explanations: “Think about all the vigorous and moderate activities
+that you do on average daily during self-isolating. Vigorous physical
+activities refer to activities that take hard physical effort and
+make you breathe much harder than normal. Moderate activities refer
+to activities that take moderate physical effort and make you
+breathe somewhat harder than normal”. For the logistic models, MVPA,
+moderate physical activity (MPA), and vigorous physical activity (VPA) when
+self-isolating were treated as dichotomous variables. MVPA and MPA were
+dichotomized into 1 = <30 minutes per day, or 2
+= ≥30 minutes per day. VPA was dichotomized into 1
+= <15 minutes per day, or 2 = ≥15 minutes
+of VPA per day). These cut-offs were chosen to be
+in line with the public health recommendations of 150 minutes
+of MVPA, or 75 minutes of VPA per week22.

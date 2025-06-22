@@ -1,0 +1,21 @@
+In response to the challenges posed by the COVID-19 pandemic,
+the University of Michigan Health System conducted a comprehensive study
+on the establishment of a temporary committee composed of specialists
+in venous thromboembolism (VTE), vascular surgery, and clinical care to
+review and update existing management protocols. This committee engaged in
+consultations with additional experts in pulmonology, hematology, and internal medicine,
+among other fields, to develop and implement an updated action
+plan aimed at optimizing patient care during the pandemic. For
+decisions regarding VTE prophylaxis, patients were assessed using the Caprini
+score at the time of hospital admission. Although current data
+are insufficient to precisely determine the incidence of VTE among
+patients with COVID-19, evidence indicates a reduction in mortality among
+patients with significantly elevated D-dimer levels (greater than three times
+the upper normal limit) who received thromboprophylaxis with either unfractionated
+heparin (UFH) or low molecular weight heparin (LMWH). Furthermore, VTE
+and primary pulmonary thrombus are recognized as potential underlying causes
+of mortality in critically ill patients with COVID-19. Based on
+these findings and the observation that less critically ill patients
+have a low risk of bleeding when receiving thromboprophylaxis, the
+study committee recommends routine thromboprophylaxis for all patients hospitalized with
+COVID-19, irrespective of risk stratification.

@@ -1,0 +1,9 @@
+To evaluate the factor structures, three criteria were applied. First,
+item factor loadings were required to be equal to or
+greater than 0.40 (20). Second, for scales with multiple dimensions,
+each dimension was required to include at least three items
+to ensure stability (25). Third, items that loaded on more
+than one dimension with a difference in loadings of less
+than 0.020 were excluded. Conversely, if the difference in loadings
+was equal to or greater than 0.20, the item was
+retained in the dimension with the highest factor loading (20).

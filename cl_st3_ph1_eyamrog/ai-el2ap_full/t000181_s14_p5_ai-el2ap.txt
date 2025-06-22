@@ -1,0 +1,10 @@
+Fear was assessed using the Covid-19 Fear Scale (FCV-19S), a
+seven-item unidimensional instrument presented in a five-point Likert format (strongly
+disagree, disagree, neither agree nor disagree, agree, strongly agree). The
+FCV-19S has demonstrated robust psychometric properties, with a reported Cronbach’s
+alpha of 0.82, indicating good internal consistency, and has been
+shown to be both reliable and valid for measuring fear
+related to Covid-19 (Ahorsu et al., 2020). Total scores on
+the scale range from 7 to 35, with higher scores
+indicating greater levels of fear; scores are categorized as normal
+(7–16), mild to moderate (17–26), and severe (27–35).

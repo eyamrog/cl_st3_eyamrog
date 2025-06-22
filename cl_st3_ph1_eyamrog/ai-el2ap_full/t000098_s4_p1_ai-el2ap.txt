@@ -1,0 +1,11 @@
+This article makes two primary contributions to the analysis of
+the global spread of Covid-19. First, it systematizes data on
+mortality rates by age group for 28 countries that, as
+of January 28, 2021, accounted for 82% of Covid-19-related deaths.
+This dataset is significant, as no existing source is known
+to provide age-disaggregated mortality information with comparable geographic coverage. Utilizing
+these data, it is possible to assess whether the well-documented
+increase in lethality with age is consistent across different countries,
+a question previously raised by Villani et al. (2020). The
+analysis reveals notable cross-country differences, with at least three distinct
+patterns emerging.

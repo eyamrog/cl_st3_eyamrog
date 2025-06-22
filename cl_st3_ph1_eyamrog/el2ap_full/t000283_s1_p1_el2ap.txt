@@ -1,0 +1,6 @@
+CONTEXT AND OBJECTIVE: Coronavirus disease 2019 (COVID-19) has emerged in
+China in December 2019 and rapidly spread. Although extraordinary efforts
+have been made on research regarding pharmacological interventions, none have
+proven effective. This is the protocol for a rapid living
+systematic review that aims to compare the effectiveness and safety
+of different pharmacological interventions for the treatment of COVID-19.

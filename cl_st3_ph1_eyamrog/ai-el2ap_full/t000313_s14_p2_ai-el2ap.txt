@@ -1,0 +1,4 @@
+To examine genetic variation within Homo sapiens, we utilized data
+from the Ensembl database (www.ensembl.org; Hunt et al., 2018) and
+the UniProt database (www.uniprot.org; The UniProt Consortium, 2019). Both databases
+incorporate information derived from the 1000 Genomes Project.

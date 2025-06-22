@@ -1,0 +1,7 @@
+Results: Countries without a vaccination program in place or that
+never had one for BCG had incidence and mortality acceleration
+rates of 21.36 and 53.21 times higher (p < 0.001),
+respectively, than the same rates in countries with a universal
+vaccination program. In addition, patients with an expanded vaccination program
+had a 43% lower mortality rate (p < 0.001) compared
+to countries with a vaccination program at birth only.

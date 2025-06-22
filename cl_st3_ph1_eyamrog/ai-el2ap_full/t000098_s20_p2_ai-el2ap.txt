@@ -1,0 +1,15 @@
+The tables demonstrate substantial variation in Covid-19 mortality rates according
+to age. Table 1 presents data from a group of
+countries that accounted for 49% of global Covid-19 deaths as
+of January 28, 2021. The data indicate that, with the
+exception of the transition from the 0–9 to the 10–19
+age group, mortality rates increase consistently and markedly with each
+successive age group. This trend is pronounced, as the mortality
+rate among individuals aged 80 years or older is more
+than 30 times higher than that among individuals aged 40–49
+years, and similarly, the rate for the 40–49 age group
+is more than 30 times higher than that for individuals
+aged 0–19 years. The difference in mortality rates between individuals
+aged 60 years and older and those under 60 is
+also substantial, with the rate for the older group being
+approximately 29 times higher.

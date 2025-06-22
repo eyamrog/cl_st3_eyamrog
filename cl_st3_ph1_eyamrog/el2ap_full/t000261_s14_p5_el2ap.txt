@@ -1,0 +1,16 @@
+After detecting critical changepoints in the data, we examined those
+with an analysis that deals with fitting piecewise terms (segments)
+in a regression model called piecewise (or segmented) regression. This
+type of regression considers one or more break- points as
+true parameters of the model and identifies potential time points
+that show significant change. The potential break-points are identified in
+the model due to a so-called “nuisance parameter”. As a
+consequence, standard statistical tests do not apply (Muggeo 2008). In
+other words, we cannot use the p-value returned through classical
+tests. To mitigate this, we used the Davies test (Davies
+1977) to verify significant differences between the slopes of each
+segment. It is worth mentioning that the Davies test is
+not aimed at obtaining the estimate of the break-point, it
+tests for a non-zero difference-in-slope parameter of a segmented relationship.
+For this purpose, we used segmented package (Muggeo 2008), also
+in R program (R Core Team 2019).

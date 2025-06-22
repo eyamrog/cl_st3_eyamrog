@@ -1,0 +1,11 @@
+The annual mortality rates of plants with a diameter at
+breast height (dbh) less than 2.5 cm did not differ
+significantly from those of plants with a dbh greater than
+2.5 cm in either the shrub-tree synusia (Mann-Whitney Test, U
+= 31.5, p = 0.171) or the climber synusia (Mann-Whitney
+Test, U = 41.5, p = 0.538). In contrast, annual
+recruitment in the smallest size class (< 2.5 cm dbh)
+was significantly higher than in the > 2.5 cm dbh
+class in both the shrub-tree synusia (Mann-Whitney Test, U =
+0, p = 0.00001) and the climber synusia (Mann-Whitney Test,
+U = 8, p = 0.0006; see Figure 3).

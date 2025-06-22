@@ -1,0 +1,4 @@
+This study aims to compare the proportion of deaths among
+hospitalized COVID-19 cases in the states and capitals of São
+Paulo and Rio de Janeiro, stratified by type of healthcare
+service (public versus private).

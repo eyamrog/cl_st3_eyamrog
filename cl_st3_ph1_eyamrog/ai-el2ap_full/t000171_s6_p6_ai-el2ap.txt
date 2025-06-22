@@ -1,0 +1,11 @@
+A similar negative correlation, with varying coefficients and greater intensity,
+was observed when the analysis was conducted at the health
+macro-region level. This stronger association suggests that SARS-CoV-2 remains concentrated
+for a longer period within the sub-region where it was
+initially introduced, indicating that interregional transmission generally occurs after local
+transmission has been established. In Brazil, the spread of the
+virus appears to follow two main patterns: spatial diffusion, in
+which the virus moves from metropolitan areas to other parts
+of the country, and hierarchical diffusion, in which cities of
+regional significance facilitate the transmission of COVID-19 to smaller, less
+influential localities (19).

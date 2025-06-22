@@ -1,0 +1,7 @@
+For each Ha, a method is implemented to detect the
+presence of another agent within a 2-meter range [39][40][41]. If
+this proximity is maintained for 15 minutes or longer and
+at least one of the agents is infected (either symptomatic
+or asymptomatic), the epidemiological state attribute of the uninfected Ha
+transitions to exposed (E) with a probability of 𝑣(𝑇𝑒𝑚𝑝) ∗
+𝛽.

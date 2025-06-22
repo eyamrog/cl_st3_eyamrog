@@ -1,0 +1,13 @@
+Design and setting: Protocol for a rapid living systematic review,
+that will follow the Cochrane Handbook for Systematic Reviews recommendations.
+We will include prospective and retrospective cohort, case-control studies and
+case series of patients with confirmed diagnosis of SARS-CoV-2 and
+Arboviral infection. We will perform the search strategy with no
+language restrictions on Medline via PubMed, Embase via Elsevier, Cochrane
+Library - Cochrane Central Register of Controlled Trials (CENTRAL), Portal
+Regional BVS - LILACS, Scopus and WebOfScience to identify published,
+ongoing, and unpublished studies. The selection and extraction will be
+performed by two authors. We will perform the critical appraisal
+of included studies with the Newcastle-Ottawa Scale and the certainty
+of evidence will be evaluated using the Grading of Recommendations
+Assessment, Development and Evaluation (GRADE).

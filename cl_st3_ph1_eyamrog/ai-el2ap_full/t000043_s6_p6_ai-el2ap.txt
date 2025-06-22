@@ -1,0 +1,15 @@
+The self-controlled case series (SCCS) and self-controlled risk interval (SCRI)
+are important study designs in pharmacoepidemiology, particularly for investigating rare
+events following transient exposures, such as the association between influenza
+vaccines and Guillain-Barré syndrome (GBS). This paper introduces an initial
+proposal for a quality assessment tool specifically tailored to these
+study designs. The development of this tool was prompted by
+the authors' previous need to evaluate the methodological quality of
+SCCS and SCRI studies, during which no suitable instrument was
+identified. Consequently, the authors adapted an existing tool and incorporated
+methodological considerations unique to SCCS and SCRI designs. The proposed
+tool is intended to assist researchers in systematically assessing the
+methodological rigor of SCCS and SCRI studies, which is especially
+relevant in the context of the Covid-19 pandemic, where these
+designs are likely to be widely applied to evaluate adverse
+events following Covid-19 vaccination.

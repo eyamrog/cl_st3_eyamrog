@@ -1,0 +1,7 @@
+Data sampling - We performed the samplings monthly over 20
+consecutive years (1997-2017), always in the morning at the deepest
+site of the reservoir and collected the water samples using
+a van Dorn sampler and transferred to acid-rinsed bottles. We
+determined water transparency using a Secchi disk, total phosphorus (TP)
+concentration according to Valderrama (1981), and chlorophyll-a concentration corrected for
+pheophytin using 90% ethanol (Sartory & Grobbelaar 1984).

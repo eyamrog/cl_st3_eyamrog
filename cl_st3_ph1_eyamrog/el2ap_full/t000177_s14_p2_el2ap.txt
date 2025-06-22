@@ -1,0 +1,4 @@
+Large droplets (> 10 microns): Airborne transmission through large droplets
+that are released and fall to surfaces no further than
+1-2 meters from the infected person. Droplets are formed from
+coughing and sneezing.

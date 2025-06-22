@@ -1,0 +1,8 @@
+The blockage of G0/G1 progression has been observed by SARS-CoV
+ORF7a and ORF3a proteins through the reduction of cyclin D3
+expression, decreased activity of cyclin D/CDK4/6, and inhibition of Rb
+phosphorylation (Yuan et al. 2006). Nsp15 is able to alter
+cellular localization of Rb and function, promoting pRb ubiquitination and
+degradation, increasing the proportion of S-phase cells, while overexpression of
+ORF4 (3b) protein arrests cell cycle at G0/G1 and promotes
+apoptosis (Yuan et al. 2005; Bhardwaj et al. 2012).

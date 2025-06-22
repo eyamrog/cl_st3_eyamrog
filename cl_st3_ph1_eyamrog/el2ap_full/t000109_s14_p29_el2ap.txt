@@ -1,0 +1,13 @@
+As shown in the state graph in Figure 4, all
+HMM have four states. Each state represents a different type
+of location or activity, namely: Home (C), Work (T), Leisure
+(E) and Others (O). In turn, each HMM has its
+own transition matrix 𝐴ℎ,𝑒,𝑙, which presents state change probabilities 𝑎ℎ,𝑒,𝑙(𝑖,
+𝑗), that is, to move from a type of location
+(j) to another (i); a matrix 𝐵ℎ,𝑒,𝑙 that shows output
+probabilities 𝑏ℎ,𝑒,𝑙(𝑘, 𝑖) for each state (for the k possible
+places where Ha in the state i could go to)
+and a vector 𝜋 of initial location probabilities. Vector 𝜋
+is always (1,0,0,0) for the beginning of the day, as
+it is assumed that all citizens start the day at
+home.

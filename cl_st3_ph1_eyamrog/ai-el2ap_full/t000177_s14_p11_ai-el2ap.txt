@@ -1,0 +1,5 @@
+The fifth option, shown in Figure 1d, involves placing a
+HEPA-filtered negative air machine in the vestibule, with the duct
+extending from the vestibule to the corridor. In this configuration,
+the door to the vestibule remains closed while the door
+to the patient room is kept open.

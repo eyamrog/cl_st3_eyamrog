@@ -1,0 +1,6 @@
+The objective of this study was to identify the characteristics
+of workers who engaged in remote work in Brazil and
+to assess the extent of inequality in the probability of
+remote work across various sociodemographic and occupational groups. To achieve
+this, we employed descriptive graphical analysis, Kernel density estimation, and
+Probit regression models using microdata from the PNAD COVID-19 survey.

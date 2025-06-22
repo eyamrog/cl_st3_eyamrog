@@ -1,0 +1,10 @@
+To examine the effect of gender on emoji use, four
+independent samples t-tests were conducted with gender as the independent
+variable and emoji use for each type of presence as
+the dependent variable. Among the 61 survey participants, 39 identified
+as female, 21 as male, and one did not specify
+a gender. For cognitive presence, female participants (M = 10.13,
+SD = 14.30) reported slightly higher emoji use compared to
+male participants (M = 8.00, SD = 8.38); however, this
+difference was not statistically significant, t(58) = 0.63, p =
+0.53 (see Tables 8 and 9).

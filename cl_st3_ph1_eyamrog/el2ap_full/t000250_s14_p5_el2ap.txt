@@ -1,0 +1,11 @@
+Anxiety symptoms were assessed using the Beck Anxiety Inventory (BAI).
+The BAI is composed of 21 items. Each item consists
+of a different anxiety symptom in which the participant scores
+how he/she felt in relation to that symptom during the
+last month, on a scale that varies from 0 (Not
+at all) to 3 (Severely, it bothered me a lot).
+The overall scores range from 0 to 63. Scores ranging
+from 0-7 indicate minimal/no anxiety symptoms; 8-15 indicate mild anxiety
+symptoms; 16-25 indicate moderate anxiety symptoms, and 26-63 indicate severe
+anxiety symptoms21. For the study purpose, anxiety was dichotomized into
+absent anxiety symptoms (0-7) or prevalent anxiety symptoms (8-63)21.

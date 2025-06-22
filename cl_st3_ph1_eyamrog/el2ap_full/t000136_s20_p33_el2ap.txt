@@ -1,0 +1,5 @@
+Contrary to intuition, we observed that NPO Certification did not
+moderate the relationship between Governance and Donations. That is, we
+did not confirm the hypothesis that NPO Certification, with at
+least one Brazilian Federal Government certification, would increase Governance relationship
+with Donations (p-value = 0.1461).

@@ -1,0 +1,10 @@
+Satisfaction scale on general professional activity KMO value was greater
+than 0.90, suggesting an adequate sample size to perform the
+exploratory factor analysis. Parallel analysis identified two possible dimensions and
+Kaiser's analysis identified a single dimension. Due to this heterogeneity
+in our findings, one and two-dimensions models were evaluated at
+this stage. The one-dimensional model showed adequate factor loads (λ>0.4;
+see Table 2), but the two-dimension model did not meet
+the criteria of having at least three items for each
+dimension. Therefore, this two- dimension model was not considered for
+additional analyses.

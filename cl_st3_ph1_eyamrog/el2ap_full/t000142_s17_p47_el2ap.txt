@@ -1,0 +1,4 @@
+In the models, 𝑆𝑖𝑡(λ1,τ1) indicates the logistic smooth transition, which
+is presented in Equation 21. The error term, 𝑣𝑡 is
+the expression of the stationary process with a mean of
+zero.

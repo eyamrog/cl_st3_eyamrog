@@ -1,0 +1,20 @@
+This rapid living review will systematically evaluate the best available
+evidence on the pharmacological treatment of COVID-19, which we expect
+will help the front line on their decision-making processes. Currently,
+there is no evidence from RCT that has shown potential
+improvements in outcomes in patients with confirmed COVID-19. In addition
+to the fact that there is no drug with proven
+efficacy or approval by drug regulatory agencies for the treatment
+of COVID-19. However, to date, there are almost two thousand
+ongoing trials on SARS-CoV-2 infection registered in WHO ICTRP. While
+different therapeutic classes emerge as possible treatments against COVID-19, the
+availability of drug-related information, time to clinical improvement, adverse events
+and mortality rate are still challenging. There is an urgent
+need to find reliable evidence on which pharmacological treatment is
+more effective and safer for treating SARS-CoV-2 infection. To ensure
+the quality of the results, we will follow the Cochrane
+Handbook of Systematic Reviews recommendations (10). We believe this rapid
+systematic review with network meta-analysis and extensive searches will be
+able to summarize the current available evidence on pharmacological treatments
+and to provide important information for clinical decision-making on COVID-19
+that has recently emerged and caused a deadly pandemic.

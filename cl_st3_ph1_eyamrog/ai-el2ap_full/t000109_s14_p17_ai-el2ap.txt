@@ -1,0 +1,12 @@
+For each Ha, the model applies the current national definition
+of “close contact” [5]. Under this protocol, household members residing
+with a symptomatic infected individual automatically transition from the susceptible
+(S) to the exposed (E) state, irrespective of whether direct
+interpersonal contact has been confirmed. Additionally, as previously described, each
+Ha possesses an attribute indicating the level of mask use
+observance. This attribute influences the transmission rate parameter (𝛽) through
+a coefficient referred to as "mask." Specifically, the mask coefficient
+reduces 𝛽 by 30% [17][21][42][43] during close contact events when
+Ha demonstrates a high level of mask use observance. If
+the level of observance is low, the mask coefficient is
+not applied.

@@ -1,0 +1,20 @@
+Facing the empirical literature on the relative effectiveness of capital
+controls, orthodox models aimed to theoretically explain why some controls
+reached their aims more frequently than others did. One of
+the main studies to formalize this new economics of capital
+controls was by Magud et al. (2011). The authors first
+assume that countries impose capital controls to reach four goals:
+reduce short-term capital inflows (hot money); reduce the large magnitude
+in capital inflows, which can bring financial risks; smooth the
+pressure of exchange rate appreciation; and increase the degree of
+monetary policy autonomy. Capital controls can be efficient in reducing
+the volume of short-term debt, and therefore stretch the maturity
+of external liabilities, as well as increasing monetary policy autonomy
+if the elasticity of short-term inflows in relation to the
+sum of external liabilities is above one. In this way,
+the imposition of capital controls would lead to a relative
+reduction in short-term inflows compared to total external liabilities. An
+increase in monetary policy autonomy would also characterize this scenario
+since the controls would create a wedge in the interest
+rate differential between external short-term and long-term liabilities (Magud et
+al., 2011).

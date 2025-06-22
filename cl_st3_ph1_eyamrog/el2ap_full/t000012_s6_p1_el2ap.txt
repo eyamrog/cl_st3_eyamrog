@@ -1,0 +1,21 @@
+Cleaning interactions among birds and mammals exhibit a great diversity
+of species and contexts. Analyzing two different networks, of different
+sizes and different locations, we could identify patterns in a
+facultative interaction from a broader perspective. Species with a wide
+repertoire of consumption could potentially engage in different types of
+interactions, such as facultative interactions like cleaning symbiosis. Once the
+bird is exposed to an opportunity, here defined as the
+presence of a mammal that hosts food resources, the ability
+to use this opportunity is defined by the species natural
+history. Our results suggest that for the majority of cleaners,
+the ability to consume different types of resources is an
+important feature to engage in cleaning interactions. Because the diversity
+of consumption is important for engaging in the interactions, a
+structural pattern such as centrality degree could also be influenced
+by the diversity of consumption. The purpose of this analysis
+is to understand the implications of resource consumption in the
+community. The network centrality degree analysis shows that there is
+no relation between the centrality degree and the diet diversity
+index of bird species. Which means that the ability of
+consuming different types of resources do not influence the centrality
+of the species in the network.

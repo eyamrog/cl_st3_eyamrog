@@ -1,0 +1,11 @@
+Depressive symptoms were assessed using the Beck Depression Inventory (BDI).
+The BDI is composed of 21 items. Each item consists
+of a series of four statements based on the severity
+of depressive symptoms. The score of each item varies from
+0 (minimum score) to 3 maximum score). The overall score
+of the instrument range from 0 to 63. Scores ranging
+from 0-9 indicate minimal/no depressive; 10-18 indicate mild to moderate
+depressive symptoms; 19-29 indicate moderate to severe depressive symptoms, and
+30-63 indicate severe depressive symptoms20. For this study, depression was
+dichotomized into no depressive symptoms (0-9) or prevalent depressive symptoms
+(10-63)20.

@@ -1,0 +1,4 @@
+We will utilize the forest.netmeta function from the netmeta package
+to construct and display the network geometry of the various
+interventions. In this network, nodes will represent individual interventions, while
+edges will indicate direct comparisons between interventions.

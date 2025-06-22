@@ -1,0 +1,9 @@
+The greatest number of samples in the corpus comes from
+students enrolled in courses from the following areas: Physical Sciences
+and Engineering and Biological and Health Sciences. Humanities and Arts,
+on the other hand, constitute the discipline area with the
+smallest number of samples (see Figure 2). This corpus characteristic
+is very likely due to the total number of students
+from Humanities and Arts and Social Sciences and Education enrolled
+in English for Academic Purposes disciplines being considerably lower than
+those in the Biological and Hard Sciences fields.

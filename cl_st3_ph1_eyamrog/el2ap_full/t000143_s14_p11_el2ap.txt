@@ -1,0 +1,15 @@
+Multiple spatial regression was performed in the last analysis phase.
+The quality of the fit of the spatial regression model
+is similar to the traditional linear regression model, verified by
+the residual analysis and also based on the Moran I
+index 22. The following criteria were used to include or
+remove variables from the model: 1) Selection of the variable
+with the highest statistical correlation; 2) Inclusion of variables that,
+when analyzed together, obtained a higher F in the simple
+regression analysis; This inclusion does not prevent variables from the
+same block from being included as “adjustment variables”, regardless of
+their association. 3) Inclusion of variables that, once in partial
+correlation, controlled by modeled variables, showed significant correlation with the
+dependent variable. The final model exclusion criteria for the variables
+were the value of p ≥0,05. The software used was
+Stata 11.0, SPSS 18.0 and GeoDa 0.95-i.

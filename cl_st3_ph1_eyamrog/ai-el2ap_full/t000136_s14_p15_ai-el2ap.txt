@@ -1,0 +1,4 @@
+Regarding the potential moderating effect (H2), since the data were
+dichotomous (i.e., coded as zero and one), we assessed this
+effect using a multigroup analysis, following the recommendations of Hair
+et al. (2016) and Sanchez (2013).

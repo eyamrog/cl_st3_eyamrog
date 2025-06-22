@@ -1,0 +1,16 @@
+Current epidemiological investigations indicate that the incubation period of COVID-19
+ranges from 1 to 14 days, with most cases occurring
+between 3 and 7 days, and individuals can be contagious
+during the latency period. The virus demonstrates high transmissibility among
+humans, particularly affecting elderly individuals and those with pre-existing medical
+conditions. Common symptoms in patients with COVID-19 include fever, malaise,
+and cough, and the majority of adults and children experience
+mild, influenza-like symptoms. Nevertheless, a subset of patients may progress
+to severe disease, developing acute respiratory distress syndrome, respiratory failure,
+multiple organ dysfunction, and, in some cases, death. Despite ongoing
+research, significant gaps remain in understanding the epidemiology and clinical
+characteristics of COVID-19, such as the precise incubation period, the
+potential for transmission by asymptomatic carriers, and the exact rate
+of transmissibility. However, human-to-human transmission has been conclusively demonstrated and
+is recognized as the primary driver of the ongoing spread
+of the disease.

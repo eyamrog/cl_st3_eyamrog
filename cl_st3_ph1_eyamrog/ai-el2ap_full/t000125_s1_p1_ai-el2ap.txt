@@ -1,0 +1,11 @@
+This paper evaluates the performance of Brazilian universities in the
+U-Multirank from 2017 to 2020. U-Multirank is a multidimensional academic
+ranking system developed in Europe, with results available since 2014.
+It employs five dimensions to assess universities, aiming to identify
+both strengths and weaknesses without producing a single overall ranking
+of institutions. This approach is particularly relevant in Brazil, as
+it has been adopted by Capes for the forthcoming evaluation
+of the national postgraduate system, albeit with some adaptations. In
+2020, only 20 Brazilian universities were included in U-Multirank, which,
+although a relatively small number, is regionally significant given that
+only 35 South American universities are listed in total.

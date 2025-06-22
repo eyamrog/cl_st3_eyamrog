@@ -1,0 +1,6 @@
+During the analysis Gene S, Gene N and ORF10 were
+identified. The interval around 3500 and the interval around 11000,
+respectively, appear with high values of regularity and this do
+not correspond to documented elements (both within Gene: Orf1ab). It
+might be in the interest of giving importance to that
+region.

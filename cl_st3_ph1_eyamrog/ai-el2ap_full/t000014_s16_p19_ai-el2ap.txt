@@ -1,0 +1,21 @@
+Informed consent is both a legal requirement in many jurisdictions,
+including Brazil, and a moral obligation. It is therefore essential
+that participants fully understand the nature of their involvement and,
+in particular, the implications of digital archiving. A significant challenge
+to obtaining informed consent for archiving arises from varying levels
+of familiarity with archives, the Internet, and, in some cases,
+computers among community members and participants. As Robinson (2010, p.
+189) notes, it is questionable whether truly informed consent can
+be obtained if participants or their communities have never encountered
+a computer, an archive, or the Internet. Two additional issues
+are relevant in this context. First, research is inherently open-ended;
+while corpora are typically collected to address specific research questions,
+the findings may generate new questions, potentially altering the scope
+of the project. This raises the question of whether initial
+consent remains valid if project goals evolve or new research
+directions emerge, particularly given that archived data may be reused
+by others in the future. Second, future generations and communities
+may require access to these materials for language revitalization, as
+discussed by Bomfim (2017). The following section illustrates these challenges
+and outlines one possible approach to addressing some of these
+concerns.

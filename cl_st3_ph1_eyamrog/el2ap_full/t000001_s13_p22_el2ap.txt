@@ -1,0 +1,8 @@
+Demultiplexing errors can occur in multiplexed sequencing runs: reads from
+one barcode can ‘leak’ into another, resulting in low-level contamination41.
+When a sequence in one barcode is very high depth,
+it may appear in other barcodes at sufficient depths to
+be assembled. This most often occurs with high-copy-number plasmids (Figure
+2D), so when multiple genome assemblies from the same sequencing
+run contain identical plasmids, cross-barcode contamination should be considered as
+a possible cause.

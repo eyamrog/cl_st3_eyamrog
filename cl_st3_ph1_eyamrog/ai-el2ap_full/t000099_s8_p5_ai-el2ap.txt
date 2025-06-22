@@ -1,0 +1,18 @@
+Given the developmental differences between seeds and non-seed (NS) propagules,
+we hypothesize that these propagules of A. strobilacea exhibit distinct
+respiration rates during early plant development. To test this hypothesis,
+we examined the morphological development and monitored the progression of
+respiratory rates during the first 35 days of in vitro
+shoot formation from both seeds and NS by measuring CO2
+and O2 concentrations within culture vessels. Assessing the temporal changes
+in respiratory rates during in vitro plant formation also enables
+the detection of differences in photosynthetic activity between the two
+types of propagules. The results obtained may reflect the metabolic
+status of plants derived from seeds and NS, and provide
+information on the timing of photosynthetic activity initiation, which is
+associated with an increased capacity to withstand acclimatization (Ševčíková et
+al. 2019). Consequently, this study may contribute to the optimization
+of germplasm conservation and plant production protocols for A. strobilacea,
+while also introducing a novel approach for the simultaneous assessment
+of the early developmental dynamics of different explant types during
+micropropagation.

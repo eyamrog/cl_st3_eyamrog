@@ -1,0 +1,12 @@
+Given that the SciELO Network has been operational for over
+20 years, analysis of its scientific output in the fields
+of Public and Collective Health enables the identification of the
+most productive countries in the region. This assessment is based
+on citation flow, which considers both the language of the
+cited articles and the representativeness of SciELO Citation Index (CI)
+within the databases available on the Web of Science (WoS)
+platform. This methodology highlights the significance of databases such as
+SciELO CI in research areas that address local issues, which
+are most effectively studied by researchers affiliated with national institutions
+and are prevalent in regional or local contexts, where the
+use of native languages is particularly relevant.

@@ -1,0 +1,5 @@
+An analysis of the centrality degree of birds within the
+networks and the H values of the bird species indicates
+no clear relationship between these two variables. The data do
+not provide significant evidence of a correlation between H values
+and centrality degree (Fig. 5).

@@ -1,0 +1,5 @@
+This section provides an explanation of the Kapetanios, Shin, and
+Snell (KSS) (2006) Cointegration Test, which is a nonlinear cointegration
+test, as well as the Banerjee, Arčabić, and Lee (2017)
+Fourier Cointegration Test, which is based on Fourier functions; both
+tests were employed in the analysis.

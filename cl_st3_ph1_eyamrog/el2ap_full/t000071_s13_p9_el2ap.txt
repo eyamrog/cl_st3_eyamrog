@@ -1,0 +1,20 @@
+In this phase, we set out to determine the extent
+to which journals using OJS are identified as “predatory” in
+Beall’s and Cabells’ lists. In the first instance, we compared
+the PKP list of journals using OJS with Beall’s final
+list of predatory publishers and journals, which he suspended in
+2017 after several publishers and organizations fought back against such
+listings (Silver, 2017). To establish how many journals Beall’s list
+ultimately represented in 2018, we counted the journals in a
+sample of 231 publishers (19.9 percent of the 1,163 publishers)
+without regard to the use of OJS (Table 2). The
+average we found of 24.3 journals per publisher suggested that
+Beall’s list represents 30,968 journals as “predatory,” including the 1,395
+standalone journals. We also found that 61.7 percent of these
+journals had not yet published an article, while 6.3 percent
+did not have a website, a proportion that rose to
+32 percent by 2021.9 Of journals using OJS, 366 titles
+are associated with Beall’s list, amounting to 1.2 percent of
+the journal total for Beall’s List and 1.4 percent of
+the 25,671 active journals known to be using OJS (Table
+3).10

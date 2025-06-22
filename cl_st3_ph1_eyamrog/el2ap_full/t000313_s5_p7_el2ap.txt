@@ -1,0 +1,22 @@
+However, it is very well known that subsequent to cell
+entry, pathogens can be blocked by neutralizing host-antibodies, which appears
+to be occurring in SARS-CoV-2 infections in humans (Conti et
+al., 2020). According to the WHO the majority of humans
+infected by SARS-CoV-2 have mild symptoms or are asymptomatic, despite
+the fact that they have the same AAs in the
+ACE2 binding sites as reported here. The mechanisms of how
+antibodies neutralize a coronavirus infection have already been published (Hofmann
+et al., 2004; Reguera et al., 2012; Li et al.,
+2020a), illustrating that an innate agile and efficient host-immune system
+(like those in young individuals and/or in individuals who do
+not develop an immunological over-response) is the first weapon to
+block the infection of opportunistic coronaviruses. Eventual population variability in
+other genetic systems, which may also be involved in this
+heterogeneity of COVID-19 symptoms and outcomes, cannot be ruled out.
+We must also remember that the ACE2 gene has many
+polymorphisms outside the regions coding for key binding sites, as
+mentioned in the last paragraph of the results section. In
+this way, we cannot rule out that some of these
+SNPs may also be involved in differential susceptibility for infection,
+as well as to the differences in the symptoms and
+outcomes observed across human populations.

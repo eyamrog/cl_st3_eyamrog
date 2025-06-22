@@ -1,0 +1,7 @@
+The next Dimension to be analyzed is Research, which has
+much more data available compared to Teaching and Learning. The
+reason is that the Indicators Research publications (size- normalized), Citation
+rate, Top cited publications and Interdisciplinary publications are obtained from
+open sources. Only the Indicators External research income, Art related
+output and Post-doc positions are dependent on reports from the
+Institutions.

@@ -1,0 +1,6 @@
+The observed heterogeneity in the incidence and mortality rates of
+COVID-19, as well as in the testing rates (including both
+rapid and RT-PCR tests) across the territory of Minas Gerais,
+may be partially attributable to the varying dates of virus
+introduction in different municipalities and macro-regions. This variation is likely
+influenced by the dynamics of regional and inter-regional population movement.

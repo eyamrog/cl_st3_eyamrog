@@ -1,0 +1,7 @@
+The results revealed that EXC does not granger causes FDI;
+the null hypothesis is accepted at 5% significance level, indicated
+by the high probability value 0.6838. The results also revealed
+that FDI granger causes EXC, the Alternate hypothesis is accepted
+at 5% percent indicated by the probability value 0.0233 and
+this is confirmed by the F-statistics value 4.66525. This result
+therefore indicates one-way causation flowing from FDI to EXC.

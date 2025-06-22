@@ -1,0 +1,13 @@
+Coronaviruses (CoV) are a group of viruses characterized by the
+presence of ribonucleic acid (RNA) as their genetic material [1].
+These viruses primarily infect epithelial cells in the respiratory and
+gastrointestinal tracts, enabling transmission through various routes, including fomites, airborne
+particles, and the faecal-oral pathway [2]. In early January 2020,
+the Chinese Center for Disease Control and Prevention identified a
+novel coronavirus, designated as SARS-CoV-2, as the causative agent of
+a newly recognized human disease, COVID-19 [3]. In late January
+2020, the World Health Organization declared a public health emergency
+of international concern, followed by the declaration of a global
+pandemic in March 2020 [4]. As of 4 June 2020,
+COVID-19 had affected 213 countries and territories, resulting in over
+6 million confirmed cases and nearly 400,000 deaths worldwide [5].

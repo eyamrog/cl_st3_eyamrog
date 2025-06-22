@@ -1,0 +1,6 @@
+There are two approaches that are widely used in the
+quality assessment of a primary study: the component approach that
+evaluates the individual items of each domain of the assessment
+tool and the composite approach that considers the quality scores
+of each of the domains and gives an overall score
+(24).

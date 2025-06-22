@@ -1,0 +1,15 @@
+For the remainder of São Paulo State, control over the
+spread of the disease appears to be less effective, as
+illustrated in Figure 4. Excluding São Paulo City, a summary
+of the situation for the state is provided in Table
+2. In this context, an SDI value is not reported,
+as averaging this index across the 645 municipalities—each with distinct
+population sizes and social characteristics—would not yield a meaningful measure.
+Notably, between April 6 and April 19, the number of
+municipalities reporting at least one COVID-19-related death increased from 33
+to 91. This trend suggests that the transmission dynamics likely
+involved the introduction of the disease from other cities or
+regions in many instances, particularly given the absence of a
+lockdown policy in Brazil until May 11. Consequently, local social
+distancing strategies, as measured by the SDI, appear to have
+had limited impact during this period.

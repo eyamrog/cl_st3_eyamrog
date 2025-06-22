@@ -1,0 +1,10 @@
+Convergent validity tests whether the items in a scale, or
+the dimension of a multidimensional scale, converge to a single
+construct or dimension (Graver and Mentzer, 1999). In modelling by
+partial least squares (PLS), the convergent validity is shown by
+the average variance extracted (AVE), which computes the variance captured
+for each variable. The present study showed AVE values above
+0.79 (environmental enhancement=0.81; social competition=0.79; attention seeking=0.83; mood and confidence=
+0.85 and subjective conformity=0.79) which confirmed the convergent validity of
+the scale (Fornell e Larcker 1981; Sanches-Franco & Roldan, 2005;
+Balakrishnan e Griffiths, 2017) (table 1).

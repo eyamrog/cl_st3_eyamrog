@@ -1,0 +1,10 @@
+Viruses have developed the capacity to escape host immune detection
+and to suppress the host IFN system.25 Viruses encode viral
+proteins that interfere with PRRs signaling pathways to increase an
+early benefit against host defense. For example, the SARS-CoV N
+proteins inhibit RIG-I ubiquitination and thus suppress the release of
+type I IFN,26 SARS-CoV M proteins prevents the TRAF3/ TBK1
+complex formation and inhibits TBK1/IKKε- dependent activation of IRF3/IRF7 transcription
+factors.27 Lastly, the repressive modifications that are induced by the
+nonstructural SARS-CoV nsp1 protein blocks host mRNA translation28 and mediates
+host mRNA degradation.29

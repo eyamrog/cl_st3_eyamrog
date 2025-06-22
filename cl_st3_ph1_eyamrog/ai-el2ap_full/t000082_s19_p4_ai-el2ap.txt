@@ -1,0 +1,10 @@
+Our results do not support the hypothesis that highly connected
+species exert a stronger influence on trait evolution within mutualistic
+networks (Table 3). The simulation outcomes indicate substantial variability in
+mean trait disparity within scenarios and interaction types, as evidenced
+by the 0.05 and 0.95 quantiles represented by the vertical
+bars in Fig. 3a-b. Specifically, highly connected cheater species do
+not generate higher levels of trait diversity compared to scenarios
+in which cheating interactions are more evenly distributed across the
+network (Fig. 3a). Additionally, the number of trait clusters observed
+among species varies considerably between scenarios (Fig. 3b).

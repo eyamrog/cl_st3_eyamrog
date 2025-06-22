@@ -1,0 +1,6 @@
+The Measure of Sampling Adequacy (MSA) proposed to remove one
+item (21 Recently, I rarely talk to my family) (MSA
+= 0.55089) (Lorenzo e Ferrando 2021). Nevertheless, Pratt's relative importance
+indicator that measures how much each of the factors explains
+the item’s variance showed item #21 is significant for the
+first factor, therefore the decision was to retain the item.

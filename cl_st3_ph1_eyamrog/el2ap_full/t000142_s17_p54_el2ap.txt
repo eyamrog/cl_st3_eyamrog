@@ -1,0 +1,8 @@
+This test, which was introduced to the literature by Banerjee,
+Arčabić & Lee (2017)43, is a typical cointegration test expanded
+in Fourier terms that takes the delayed structures of both
+dependent and independent variables into account. The test is logically
+based on error correction. As presented in Equation 34 and
+Equation 35, the test includes constant and trend terms, the
+delayed value of the independent variable, and the value of
+its level the previous period.

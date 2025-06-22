@@ -1,0 +1,12 @@
+The questions were organized into an array format (Figure 2),
+adapted from Gordon and Dawes (2015), and implemented using Microsoft
+Word, which was populated with participants’ responses. During the interviews,
+participants were given access to the array via Skype’s screen
+sharing feature, allowing them to actively engage in the data
+collection process by monitoring and, if necessary, correcting the researcher’s
+interpretation of their responses. This method employs a second-person perspective,
+in which the researcher functions as a mediator to facilitate
+participants’ articulation of their subjective experiences through targeted questioning (Keranen
+et al., 2012). Furthermore, this approach promotes greater engagement from
+both the researcher and participants, as both parties share responsibility
+for the accuracy and completeness of the collected data.

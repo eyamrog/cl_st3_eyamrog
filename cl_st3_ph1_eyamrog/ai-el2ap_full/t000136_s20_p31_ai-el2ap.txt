@@ -1,0 +1,19 @@
+The R² values obtained are considered relevant, particularly in light
+of the variables not included in the model. An R²
+of 0.508 indicates that the model explains 51% of the
+variance in Donations, which represents a reasonable level of model
+fit given its economic context. According to the gradation proposed
+by Sanchez (2013), R² values below 0.2 indicate low explanatory
+power, values between 0.2 and 0.5 indicate moderate explanatory power,
+and values above 0.5 indicate high explanatory power. Wetzels et
+al. (2009) state that in reflective-reflective models, first-order constructs reflect
+second-order constructs, implying that the R² values of first-order latent
+variables indicate the extent to which they are explained by
+the variance of the corresponding second-order latent variables. In this
+context, the R² of a first-order reflective construct’s latent variable
+quantifies the proportion of its variance attributable to the second-order
+construct. Applying the terminology of Wetzels et al. (2009), the
+Management sub-dimension within the Governance construct demonstrates the highest level
+of reflection with an R² of 0.528, whereas the Fiscal
+Council sub-dimension exhibits a lower reflection with an R² of
+0.181.

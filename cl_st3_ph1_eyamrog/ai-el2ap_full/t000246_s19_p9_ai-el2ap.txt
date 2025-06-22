@@ -1,0 +1,10 @@
+The 1,623 SARS-related documents were published across 532 different journals.
+Application of Bradford’s Law identified 15 journals in the core,
+86 journals in zone 1, and 532 journals in zone
+2. Tables 1 and 2 display the distribution of journals
+and their respective publication output across the nucleus and the
+two zones, as well as the calculated values of the
+Bradford Multiplier (Bm). The Bradford Multiplier was used to demonstrate
+that the number of journals in the nucleus corresponds to
+those most dedicated to SARS research, as its variation between
+zones did not exceed the maximum value of 0.7.

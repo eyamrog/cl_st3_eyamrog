@@ -1,0 +1,14 @@
+We calculated the dietary diversity index (H) for bird species
+observed engaging in cleaning behavior in Brazil and Africa, as
+reported in Sazima et al. (2012) and Mikula et al.
+(2017). Based on the identified cleaner bird species, we determined
+the families to which these species belong, resulting in a
+total of 26 families. We then compared the mean H
+of all species within these 26 families, excluding the observed
+cleaners, to the mean H of the cleaner species within
+the same families (Fig. 2). The objective was to assess
+whether cleaner species exhibit a bias toward more generalized diet
+habits, under the hypothesis that cleaners represent the more dietarily
+diverse members of their respective families. Detailed values of the
+calculated H for both species and families are provided in
+Supplementary Fig. 1.

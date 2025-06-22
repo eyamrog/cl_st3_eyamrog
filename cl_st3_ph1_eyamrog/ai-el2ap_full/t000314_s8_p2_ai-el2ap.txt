@@ -1,0 +1,4 @@
+A method was employed in which RNA sequences of a
+specified length were extracted and compared to sequences of the
+same length within the complete genome. This technique has previously
+been applied to other microorganisms [2],[3],[4].

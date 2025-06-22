@@ -1,0 +1,9 @@
+1. Check library holdings and open access. A university’s syllabuses
+would be analyzed by an artificial intelligence system to determine
+which assigned readings are accessible to students through institutional licenses
+and open access. The materials the university does not yet
+license would be treated as acquisition recommendations. The continuing consideration
+given to acquiring assigned academic resources valued by instructors leads
+to the second step. The non-academic readings for which the
+university does not hold an institutional license would go to
+the third step for processing.

@@ -1,0 +1,5 @@
+Patients were included if they had a confirmed diagnosis of
+COVID-19 based on the clinical, epidemiological, and laboratory criteria established
+by the Argentine Health Ministry (4), and were admitted to
+the Internal Medicine Service of JB Iturraspe Hospital in Santa
+Fe, Argentina, between May 10 and July 20, 2021.

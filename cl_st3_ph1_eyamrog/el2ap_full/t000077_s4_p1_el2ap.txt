@@ -1,0 +1,6 @@
+The objective of this study was to analyze who were
+the workers who worked from home in Brazil and how
+unequal the probabilities of remote work were, considering different sociodemographic
+and work characteristics. For this, we used descriptive graphical and
+Kernel density analyzes and Probit regressions based on PNAD COVID-19
+microdata.

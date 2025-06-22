@@ -1,0 +1,13 @@
+Research data from the Internet Steering Committee in Brazil in
+2019 showed that 64% of Brazilian public schools have computer
+labs and 57% have access to the Internet (CGI.br, 2019b).
+However, this access has been limited to the administrative sectors
+of the schools and many laboratories have been abandoned due
+to the lack of investments in technical maintenance and adequate
+human resources. Thus, the devices and internet access that exist
+in schools are not available to students in more than
+70% of the schools that have them. Only 34% of
+public schools were able to update their equipment in the
+period from 2015 to 2018 (CGI.br, 2018a, 2018b, 2019b), as
+they do not receive regular investments to keep computer labs,
+mobile devices and even the Internet functioning.

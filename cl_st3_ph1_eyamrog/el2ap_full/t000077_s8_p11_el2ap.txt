@@ -1,0 +1,6 @@
+This paper is structured as follows: in Section 2, we
+present the growing literature regarding the effects of Covid-19 on
+labor markets; in Section 3, we discuss our empirical model
+and the data sources that were used; and Section 4
+shows the results and discussions. The final section presents our
+concluding remarks.

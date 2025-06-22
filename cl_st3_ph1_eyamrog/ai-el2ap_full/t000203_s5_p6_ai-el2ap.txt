@@ -1,0 +1,5 @@
+The primary bias present in the initial paper published by
+this group in April was addressed through temporal adjustment to
+account for the progression of the pandemic. Even after applying
+this temporal correction, a statistically significant difference remained, favoring countries
+with active BCG vaccination coverage.

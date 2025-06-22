@@ -1,0 +1,5 @@
+The time evolution depicted in Figure 1 differs from that
+shown in Figure 2; additionally, the total number of deaths
+reported in Figure 2 is 1,825, whereas Figure 1, which
+is based on death certificates, indicates a total of 3,293
+deaths.

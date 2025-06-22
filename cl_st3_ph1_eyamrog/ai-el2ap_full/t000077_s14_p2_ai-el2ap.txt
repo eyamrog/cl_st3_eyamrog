@@ -1,0 +1,7 @@
+In response to the pandemic, the Brazilian Institute of Geography
+and Statistics (IBGE) conducted a supplementary survey, PNAD COVID-19, which
+commenced on May 4, 2020. Data collection for PNAD COVID-19
+was performed via telephone interviews in approximately 193,000 households throughout
+the national territory. The survey instrument consisted of two sections:
+one addressing health-related topics and the other focusing on labor-related
+issues.

@@ -1,0 +1,5 @@
+Germination percentage data (%) and total soluble carbohydrate levels (mg
+g⁻¹ MF) were analyzed using analysis of variance (ANOVA), followed
+by mean comparison using Tukey’s test at a 5% significance
+level, with all statistical analyses conducted in R (R Development
+Core Team, 2010).

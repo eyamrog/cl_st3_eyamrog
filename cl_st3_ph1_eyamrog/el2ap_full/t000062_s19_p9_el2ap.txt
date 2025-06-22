@@ -1,0 +1,17 @@
+Xenoctenidae was represented by 30 individuals, 20 (67%) of these
+collected in the IA, 7 (23%) in the DA and
+3 (10%) in the FA. The treatments showed a significant
+difference in the ANOVA test (F-value = 4,017; P-Value =
+0.0781) and the Tukey HSD test obtained differences only between
+IA and FA (P-value = 0,0781). When compared to the
+time of year, the family showed differences only in the
+hot and humid period in the IA and FA and
+in the cold and dry period in the FA (W-test
+= 0,7500; P-value = 0,00000000000000002). Levene test using the mean
+as a basis, showing difference in the homogeneity of variances
+only for period of heat and humidity (F-value = 5,0256;
+P- value = 0,05223), but when the median was used
+as a basis, this difference was not recovered (F-value =
+0,4138; P-value = 0,6787). Data from the time of year
+did not show significant differences in the Kruskal-Wallis and Dunn's
+post-hoc, adjusted for the Bonferroni method.

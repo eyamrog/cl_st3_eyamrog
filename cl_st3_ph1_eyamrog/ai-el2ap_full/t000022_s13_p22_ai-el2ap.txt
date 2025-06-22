@@ -1,0 +1,17 @@
+The degree of international collaboration can be assessed through patterns
+of co-authorship. Figure 6 presents, for six countries, the proportion
+of articles authored by a single author from the country,
+by multiple co-authors from the same country, and by co-authors
+from the country in collaboration with researchers from other countries.
+A comparison between Argentinian and Brazilian authors reveals notable differences.
+Among articles authored by Argentinians, 42% are single-authored, a pattern
+that is associated with the predominance of social sciences and
+humanities (SSH) publications. The remaining articles are divided between those
+authored exclusively by multiple Argentine researchers (48.3%) and those involving
+international collaboration (9.8%). In contrast, only 14.1% of articles by
+Brazilian authors are single-authored, while the majority (79.6%) involve collaboration
+among researchers affiliated with Brazilian institutions, reflecting the extensive geographic
+distribution of research activity within Brazil (see next section). International
+collaboration remains limited among Brazilian authors publishing in journals edited
+in Brazil. Thus, national collaboration is prevalent in Brazil, accompanied
+by a lower incidence of single-authored publications.

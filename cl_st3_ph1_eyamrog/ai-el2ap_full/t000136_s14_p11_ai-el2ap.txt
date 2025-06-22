@@ -1,0 +1,4 @@
+Furthermore, we assessed the necessity of including the control variable
+'NPO age' in the model, based on the premise that
+nonprofit organizations require time to establish operations and implement governance
+practices (Saxton, Neely, & Guo, 2014).

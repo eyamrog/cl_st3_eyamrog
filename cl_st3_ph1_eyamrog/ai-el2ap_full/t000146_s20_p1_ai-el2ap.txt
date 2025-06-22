@@ -1,0 +1,11 @@
+Table 1 presents the distribution of research output by authors
+affiliated with institutions in countries that contribute the most publications
+to SciELO CI journals. For countries that are part of
+the SciELO Network, the proportion of publications in the national
+language is at least 80%. The United States (USA) is
+an exception, with a publication rate in the national language
+of 73.6%. It is also noteworthy that the USA does
+not have its own journals included in SciELO CI, and
+authors from the USA are primarily listed as co-authors in
+research conducted in Latin America in the majority of these
+articles.

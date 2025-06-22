@@ -1,0 +1,10 @@
+Infection and disease spread rapidly, reaching virtually every country in
+the world. By the end of the first week of
+May 2020, more than 3.8 million cases have been confirmed,
+with around 260,000 deaths worldwide [2]. In Brazil, as of
+May 6th, more than 125,000 cases were confirmed, with 8,536
+deaths and a lethality rate of around 7% [3]. The
+first case in the State of Rio de Janeiro was
+identified on March 1st, 2020; as of May 6th, 13,295
+cases were notified, with 1,205 deaths and a 9.1% lethality
+rate [3].

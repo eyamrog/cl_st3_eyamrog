@@ -1,0 +1,9 @@
+For the statistical analysis, we considered two outcomes: the unadjusted
+and weighted prevalence of the SARS-Cov-2 antibody test. Also, the
+following variables were included in the analysis: sex, age group
+(18-29; 30-49; 50+), blood donation site (Hemorio, churches, condominiums), education
+level (no college education; college education) and place of residence
+(capital; other cities in the State of Rio de Janeiro).
+To investigate a possible increasing trend, the test dates were
+aggregated in three time periods (April 14th to 18th; April
+19th to 23rd; April 24th to 27th).

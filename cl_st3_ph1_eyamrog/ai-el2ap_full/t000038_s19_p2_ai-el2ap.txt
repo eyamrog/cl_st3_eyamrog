@@ -1,0 +1,6 @@
+The adequacy of the polychoric correlation matrix was supported by
+Bartlett's test of sphericity (χ² = 21,116.6, df = 276,
+p < 0.00001) and a Kaiser-Meyer-Olkin (KMO) measure of 0.939,
+indicating that the correlation matrix was suitable for factor analysis.
+Parallel analysis identified two factors as the most representative structure
+for the data (see Table 1).

@@ -1,0 +1,16 @@
+The Moran’s I test is employed to assess the presence
+of spatial dependence in the residuals of ordinary least squares
+(OLS) models. This study adopts the empirical approach proposed by
+Halleck Vega and Elhorst (2015), with particular attention to models
+incorporating the spatial lag of explanatory variables (SLX). As noted
+by Gibbons and Overman (2012) and Halleck Vega and Elhorst
+(2015), the SLX model is recommended when a spatial econometric
+framework is required. The SLX specification is considered the most
+flexible among spatial econometric models; however, it is subject to
+certain limitations, including potential multicollinearity and challenges in interpreting causality.
+Despite these drawbacks, the SLX model offers straightforward interpretation regarding
+the direction, magnitude, and statistical significance of effects. Furthermore, it
+circumvents several criticisms associated with global spillover models, such as
+the spatial Durbin model (SDM), spatial Durbin error model (SDEM),
+or general nesting spatial (GNS) models, as discussed by Halleck
+Vega and Elhorst (2015).

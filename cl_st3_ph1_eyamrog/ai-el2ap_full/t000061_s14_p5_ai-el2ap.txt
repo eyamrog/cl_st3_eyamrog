@@ -1,0 +1,10 @@
+The data collection instrument, an online questionnaire initially developed in
+2016, has undergone minor modifications to accommodate the specific target
+audiences of the various research phases. The study is registered
+with the Scientific Committee of (omitted to preserve anonymity) and
+adheres to all relevant research ethics protocols. In the version
+employed for the current phase, the questionnaire comprised eight closed-ended
+questions, thirteen open-ended questions, and one item utilizing the Likert
+Intensity Scale. To minimize the time required for completion, certain
+questions related to respondent profile characterization that were included in
+previous phases were omitted in this iteration.

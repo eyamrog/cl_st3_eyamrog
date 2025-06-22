@@ -1,0 +1,14 @@
+Our dataset contained 68 individuals with 21 quantitative variables (Fig.
+3). Among the 68 individuals, three were considered as illustrative
+(#66 corresponds to B. auchenoglanii, #67 corresponds to B. fraudulenta
+and #68 corresponds to B. anthopenis). The first two dimensions
+of the PCA represent 71.73% of the total dataset inertia.
+Individuals are clustered into three groups which correspond to the
+three species included in the analysis (Bagrobdella vanhovei, B. vansteenbergei
+and Bagrobdella pauchenoglanii) (Fig. 12 & 13). The dimension 1
+opposes most individuals belonging to the group B. vanhovei (to
+the right of the graph, characterized by a positive coordinate
+on the axis) to individuals belonging to the groups B.
+vansteenbergi and B. parauchenoglanii (from Cameroon), to the left of
+the graph, characterized by a strongly negative coordinate on the
+axis).

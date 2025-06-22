@@ -1,0 +1,27 @@
+Apart from the controversies of whether JIF actually assesses a
+journal “quality,” it aims, together with other bibliometric indexes, the
+recognition of patterns and trends in publications. Since its creation
+in the beginning of the 1970 decade (Garfield 1972, however,
+mentioned that it was designed in 1955; see also Garfield
+2006), the metric became strongly popular and has been adopted
+as a major parameter for evaluating the quality of research,
+a topic certainly controversial (Hecht et al. 1998, Alberts 2013).
+The index is a very simple measure calculated from the
+ratio between the number of citations along a year (numerator)
+and number of papers published along the two previous years
+(denominator) — i.e., JIF 2019 is the number of citations
+in 2019 from papers published in 2017 and 2018 divided
+by the number of published papers in 2017 and 2018—
+(Garfield 2006). So, in a certain way, it shows how
+trendy papers or subjects published by a journal are, as
+well as if they are achieving a wide audience. The
+bad twist occurred when organizations, including governmental funding agencies, reached
+the conclusion that, since journals are evaluated by their impact,
+bingo, the scientific production in universities, institutes, and graduate courses,
+as well as the researchers themselves, should be evaluated in
+the same manner. However, there is a flawed logic in
+extrapolating indexes such as JIF to evaluate work and careers.
+Hence, the JIF is recognized without doubt as being the
+most widely misused and abused bibliometric index in academic science
+(Hecht et al. 1998, Haustein & Larivière 2015, Ioannidis &
+Thombs 2019).

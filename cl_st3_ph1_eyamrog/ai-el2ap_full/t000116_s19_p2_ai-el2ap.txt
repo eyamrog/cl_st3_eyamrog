@@ -1,0 +1,12 @@
+Visual inspection alone indicates potential changes between periods but does
+not provide sufficient evidence to assess consistency. Therefore, we evaluated
+whether the differences in means were statistically significant (Table 1).
+The average rates of hospitalization for conditions sensitive to primary
+care decreased significantly from the previous period to the period
+during the primary care reform in Rio de Janeiro (Post-Hoc
+p-value <0.001). The average rates continued to decline following the
+publication of the new national primary care policy; however, this
+reduction was not statistically significant compared to the reform period
+(Post-Hoc p-value = 0.504). This pattern was also observed for
+specific hospitalizations due to bacterial pneumonia, hypertension, cerebrovascular diseases, diabetes
+mellitus, and gastrointestinal ulcer.

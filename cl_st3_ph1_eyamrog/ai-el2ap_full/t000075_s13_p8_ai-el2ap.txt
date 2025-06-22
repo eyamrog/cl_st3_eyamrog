@@ -1,0 +1,25 @@
+The global financial crisis of 2007–2008 prompted a significant shift
+in mainstream perspectives on capital account liberalization. In contrast to
+the threshold approach to financial openness that characterized the period
+between the crises in emerging economies and the global crisis,
+recent mainstream studies increasingly advocate for the use of capital
+controls in their policy recommendations. Two important clarifications should be
+noted. First, capital controls and (macro)prudential policies targeting capital outflows
+are designed to limit the outflow of domestic resources, rather
+than to restrict the repatriation of investments by non-resident agents.
+For instance, during the 1990s and 2000s, many emerging economies
+further liberalized domestic capital outflows by easing restrictions on cross-border
+financial activities—such as loans and investments—conducted by domestic residents, including
+banking institutions, non-banking financial institutions (e.g., institutional investors), non-financial corporations,
+and individuals. Second, the mainstream literature has increasingly adopted the
+typology proposed by authors such as Ostry et al. (2010,
+2011) and Ghosh et al. (2014), which defines capital controls
+as regulatory measures that differentiate based on the residency of
+the investor. For example, the imposition of the IOF tax
+(Imposto sobre Operações Financeiras) on capital inflows from foreign investors
+constitutes a capital control under this classification. In contrast, macroprudential
+policies do not distinguish based on investor residency but rather
+on the currency denomination of cross-border financial transactions; for example,
+increasing restrictions on banking institutions’ ability to take open positions
+in foreign currencies is considered a macroprudential policy, specifically classified
+as a ‘foreign exchange-related measure’.

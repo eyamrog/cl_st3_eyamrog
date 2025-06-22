@@ -1,0 +1,2 @@
+If the probability associated with the t-statistic is less than
+0.05, the null hypothesis is rejected.

@@ -1,0 +1,4 @@
+The wh-word quem is multifunctional in Brazilian Portuguese. One can
+find quem working as an interrogative pronoun, introducing a wh-question
+(23), a relative pronoun, introducing a relative CP (24), or
+a wh-phrase introducing a free relative clause (25):

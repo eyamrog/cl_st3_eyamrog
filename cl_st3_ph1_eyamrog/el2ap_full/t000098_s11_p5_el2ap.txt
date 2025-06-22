@@ -1,0 +1,17 @@
+A complete treatment of the issue addressed in this article
+should preferably deal with all three factors, adjusting mortality rates
+to the previous prevalence of comorbidities and differences in demographic
+structures regarding sex and age. The data available at the
+time this article is being written make this impossible. Albeit
+from the earliest moments of the pandemic, researchers have called
+governments to systematize and disseminate data on cases and deaths
+disaggregated by age and sex [DOWD et al., 2020: 9,696],
+the crossing of this information in most cases remains unavailable.
+The record of comorbidities among those killed by Covid-19 is
+even more flawed and less available [HEUVELINE & TZEN, 2020:
+8]. Considering that not only age is the factor that
+most markedly conditions the risk of severe Covid-19 and death,
+but also that heterogeneity between populations is much higher in
+age composition than in gender distribution [GUILMOTO, 2020: 9], it
+is justifiable in an initial research effort to focus on
+the age-related adjustment.

@@ -1,0 +1,8 @@
+As expected, the information coming from Universities and students are
+not always available, since some of them do not reply
+the questionnaires. There is also the problem of low reliability
+and accuracy in those data. This is a weak point
+for this ranking, but it is not so crucial, because
+its goal is not to make a general classification, and
+the users can benefit from the information available and just
+neglect the missing ones.

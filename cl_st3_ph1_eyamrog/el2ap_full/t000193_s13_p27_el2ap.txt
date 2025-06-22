@@ -1,0 +1,5 @@
+Alemtuzumab is an anti-CD52 monoclonal antibody induction therapy. A cycle
+of this drug results in >90% depletion of both CD4
+and CD8 in the first month, with gradual recovery to
+70% of the baseline after a year, just before the
+second cycle49.

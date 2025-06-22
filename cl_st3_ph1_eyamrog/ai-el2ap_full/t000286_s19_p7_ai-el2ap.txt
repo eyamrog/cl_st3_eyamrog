@@ -1,0 +1,4 @@
+Given the existence of a co-integrating vector among the variables,
+as indicated by the results of the co-integration tests, a
+Vector Error Correction Model (VECM) is employed to examine the
+speed at which short-run dynamics adjust towards the long-run equilibrium.

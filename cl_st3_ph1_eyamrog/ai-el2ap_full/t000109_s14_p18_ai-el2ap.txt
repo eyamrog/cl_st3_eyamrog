@@ -1,0 +1,11 @@
+This submodel incorporates an attribute for each Ha that represents
+the level of adherence to social distancing, designated as "distancing,"
+which can take one of two values: high or low.
+When an Ha exhibits a high level of observance, it
+evaluates any potential position on the geographical grid, excluding its
+home, to ensure that no other agent is present within
+a 1.8-meter diameter. If this condition is satisfied, the Ha
+occupies the position; otherwise, it waits until the spatial capacity
+permits entry. Conversely, if the distancing attribute is set to
+low, the Ha moves to the selected position without regard
+for the allowed capacity or the presence of other agents.

@@ -1,0 +1,6 @@
+As already explained, “U-Multirank” does not make a general classification
+of Universities, but classify them only in each specific performance
+Indicators, which are grouped in five Dimensions. It shows the
+strengths and weaknesses of each University, in each Indicator and
+Dimension. The user can elaborate its own ranking, choosing the
+Dimensions and Indicators that are more important for their needs.

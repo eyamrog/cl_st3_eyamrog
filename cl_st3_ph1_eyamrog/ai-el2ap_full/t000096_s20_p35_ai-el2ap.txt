@@ -1,0 +1,15 @@
+Educational processes are grounded in several learning theories that seek
+to explain how individuals acquire, process, and retain knowledge. Behaviorism
+emphasizes the role of external stimuli and reinforcement in shaping
+observable behaviors, suggesting that learning occurs through conditioning. Cognitivism focuses
+on the mental processes involved in learning, such as memory,
+perception, and problem-solving, and posits that learners actively construct knowledge
+by organizing and integrating new information with existing cognitive structures.
+Constructivism asserts that learning is an active, contextualized process in
+which learners build new understandings based on their experiences and
+prior knowledge. Social learning theory highlights the importance of observation,
+imitation, and modeling in the learning process, emphasizing the influence
+of social interactions and the environment. These theories collectively inform
+the design and implementation of educational practices by providing frameworks
+for understanding how learning occurs and how instructional strategies can
+be optimized to support learner development.

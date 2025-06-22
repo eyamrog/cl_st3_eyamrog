@@ -1,0 +1,6 @@
+Regarding Dimensions, we have 95.83% data available for “Teaching and
+Learning”, 81.42% for “Research”, 95.17% for “Knowledge Transfer”, 95.17% for
+“International Orientation”, and 84.83% for “Regional Engagement”. In that sense,
+“Teaching and Learning”, and “International Orientation” stand out as more
+reliable Dimensions, with percentages above 95%, but the other Dimensions
+also have acceptable numbers, all of them above 80%.

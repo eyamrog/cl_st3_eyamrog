@@ -1,0 +1,7 @@
+Materials and Methods: A literature search was performed in the
+MEDLINE/PubMed, Scielo, Lilacs, Web of Science, and Scopus databases to
+identify all relevant articles published in the past 20 years,
+following PRISMA guidelines. Two reviewers independently extracted data using a
+standardized form. The extracted variables included country of study, study
+design, pacifier material, sample size, microorganisms analyzed, decontamination methods employed,
+accessibility of the methods, and reported results.

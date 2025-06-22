@@ -1,0 +1,7 @@
+Governance is a complex concept; thus, there are theoretical reasons
+to take it as a construct, because as a latent
+variable it better represents the theoretical definitions underlying its conceptualization
+(Larcker et al., 2007; Harris et al. 2015). Therefore, in
+this study governance is a second-order construct that contain a
+set of layers of governance dimensions (first order constructs) measured
+by governance factors (manifest variables).

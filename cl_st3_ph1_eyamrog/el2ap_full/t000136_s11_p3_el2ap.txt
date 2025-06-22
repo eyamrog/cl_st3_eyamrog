@@ -1,0 +1,6 @@
+In short, we assume that governance practices allow NPO to
+have easier access to the donations market, or more specifically,
+governance positively affects NPO donations (Harris et al., 2015). Understanding
+that governance relieves the agency problem that results from the
+contractual relationship between donor (principal) and NPO (agent) in the
+donation process (Jensen and Meckling, 1976) supports this assumption.

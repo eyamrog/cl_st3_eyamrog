@@ -1,0 +1,13 @@
+During the 6.5-year study period, mortality (Mdn = 9.19%) was
+significantly higher than recruitment (Mdn = 0%) among early-successional plants
+with a diameter at breast height (dbh) greater than 2.5
+cm (Mann-Whitney Test, U = 18, p = 0.007), while
+no significant difference was observed between mortality and recruitment rates
+in early-successional plants with a dbh less than 2.5 cm.
+In late-successional plants with a dbh greater than 2.5 cm,
+there was no significant difference between mortality (7.67 ± 1.24%)
+and recruitment (5.53 ± 1.26%) rates (t test, t =
+1.21, p = 0.24). However, late-successional plants with a dbh
+less than 2.5 cm exhibited significantly higher recruitment (Mdn =
+20.0%) compared to mortality (Mdn = 7.14%) (Mann-Whitney Test, U
+= 16, p = 0.026) over the same period.

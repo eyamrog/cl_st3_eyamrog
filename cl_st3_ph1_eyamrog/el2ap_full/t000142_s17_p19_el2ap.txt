@@ -1,0 +1,2 @@
+Following the determination of the nonlinearity, the unit root tests
+produced from nonlinear models were performed.

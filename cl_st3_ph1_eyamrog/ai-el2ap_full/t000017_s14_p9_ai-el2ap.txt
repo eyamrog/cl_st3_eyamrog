@@ -1,0 +1,4 @@
+Cut-off points were determined by calculating percentile values, specifically quartiles,
+using SPSS 20.0 for the nine subtests of the B-PREA-R.
+This approach was employed to identify children with low and
+high abilities relative to their age.

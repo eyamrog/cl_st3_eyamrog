@@ -1,0 +1,6 @@
+The incidents ratio obtained by dividing the incidence rates of
+the compared groups was presented for the comparison of the
+interest groups. The mortality and lethality ratios are also presented.
+To test the null hypothesis that the rates are equal
+between groups of interest, the Z-test was used to compare
+proportions.

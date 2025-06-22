@@ -1,0 +1,12 @@
+Successional Group Dynamics - Mortality (Mdn = 9.19%) was greater
+(Mann-Whitney Test, U = 18, p = 0.007) than recruitment
+(Mdn = 0%) in early- successional plants with > 2.5
+cm dbh during the 6.5‑year period, and there was no
+significant difference between rates in early-successional plants with < 2.5
+cm dbh. Late-successional plants with > 2.5 cm dbh did
+not present significant differences (t test, t = 1.21, p
+= 0.24) between mortality (= 7.67 + 1.24%) and recruitment
+(= 5.53 + 1.26%), whereas those with < 2.5 cm
+dbh had higher (Mann-Whitney Test, U = 16, p =
+0.026) recruitment (Mdn = 20.0%) than mortality (Mdn = 7.14%)
+during the same period.

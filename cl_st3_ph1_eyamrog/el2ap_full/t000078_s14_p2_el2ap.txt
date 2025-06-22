@@ -1,0 +1,5 @@
+In the second stage, we consider the hedonic price approach.
+In general terms, the hedonic price model seeks to measure
+price changes as a function of product quality (Court, 1939,
+Lancaster, 1966 and Griliches, 1971). Such an approach is widely
+used in empirical work.

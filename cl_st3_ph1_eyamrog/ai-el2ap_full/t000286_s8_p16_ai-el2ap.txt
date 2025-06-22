@@ -1,0 +1,15 @@
+The results indicate a negative relationship between the general economic
+situation index and the optimal macroeconomic uncertainty index. In relation
+to this topic, Kalyoncu (2009) investigated the sensitivity of purchasing
+power parity (PPP) and its validity by applying unit root
+tests to data from Turkey and its major trading partners,
+including the United States, France, Germany, Japan, and the United
+Kingdom. The findings demonstrate a significant correlation between the validity
+of PPP and the level of trade for each country
+in the sample. Regarding the literature on the impact of
+foreign exchange and tourism on Turkey's GDP, Arslantürk and Atan
+(2012) examined the effects of these variables using data from
+1987 to 2009. They employed co-integration and Granger causality models
+to assess the relationships among the variables. Their results reveal
+a positive relationship between tourism income and GDP growth, indicating
+that increases in tourism income are associated with economic growth.

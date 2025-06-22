@@ -1,0 +1,8 @@
+Once the broker is selected and the link is established,
+it is necessary to examine the mechanisms by which participants
+maintain this relationship. It is important to analyze the practical
+processes through which requests and deliveries are conducted. Additionally, the
+capacity of state representatives to assess the performance of brokers
+warrants investigation, as does the extent to which such evaluations
+influence subsequent decisions regarding the allocation of services and the
+manner in which these services are provided.

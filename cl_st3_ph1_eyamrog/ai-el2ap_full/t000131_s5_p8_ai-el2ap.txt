@@ -1,0 +1,23 @@
+Our data indicate that plants grown under low light intensity
+exhibited increased chlorophyll content, leaf area (LA), and specific leaf
+area (SLA). However, net photosynthetic rate (A) was lower in
+these conditions compared to other treatments, which likely contributed to
+reduced aboveground dry mass. In both Mikania species, individuals developed
+under shaded environments (I75) demonstrated lower overall performance than those
+grown under higher light intensities. Plants cultivated under I25 exhibited
+higher photosynthetic rates than those under I0, a response that
+may be associated with increased chlorophyll content. Despite their morphological
+similarity, Mikania glomerata and Mikania laevigata responded differently to varying
+irradiance levels. M. glomerata produced substantial biomass under I0, I25,
+and I50, with minimal variation in photosynthetic rates. In contrast,
+M. laevigata displayed its highest photosynthetic rates under I25 and
+I50, with maximum biomass production at I25. Additionally, M. laevigata
+invested more in root growth at higher light intensities (I0
+and I25), which resulted in lower aboveground biomass compared to
+M. glomerata. While M. glomerata exhibited higher stomatal index (SI),
+stomatal density (SD), LA, and SLA, M. laevigata developed thicker
+leaves. This increased leaf thickness, primarily due to a greater
+adaxial epidermis (AdE), along with lower chlorophyll content and higher
+photosynthetic rates observed under I25 and I50, likely contributed to
+reduced photoinhibitory effects (as indicated by Fv/Fm) in M. laevigata
+compared to M. glomerata under equivalent light conditions.

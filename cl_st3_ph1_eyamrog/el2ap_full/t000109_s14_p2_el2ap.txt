@@ -1,0 +1,7 @@
+Since it is an ABM, the core of the model
+is constituted by agents named human (Ha). Each Ha has
+the ability to acquire and transmit SARS-CoV-2 virus; to change
+the symptoms and health state, according to the infection spread,
+and to change behaviors accordingly (Infectivity submodel, Section 3.1). Besides,
+each Ha has specific characteristics and attributes corresponding to specific
+risk factors and comorbidities (Epidemiological characterization submodel, Section 3.2).

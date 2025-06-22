@@ -1,0 +1,15 @@
+Our discrete-time evolutionary model characterizes the change in the mean
+trait value of species i (Zi) as a consequence of
+selection arising from ecological interactions and other environmental factors, such
+as abiotic conditions. In this framework, the evolutionary change in
+the trait across generations is determined by the selection differential
+(S) and the additive genetic variance of the trait, following
+the approach of Lande (1976). We decompose S into three
+components that may influence the evolution of trait Z: selection
+resulting from (i) mutualistic interactions, (ii) cheating interactions, and (iii)
+other environmental factors. For the purposes of this model, we
+assume that, within a given interaction, species can be classified
+as either mutualistic partners or cheaters; however, a single species
+may act as a cheater in its interaction with species
+j while simultaneously functioning as a mutualistic partner with species
+k.

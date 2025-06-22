@@ -1,0 +1,23 @@
+More than a year after its inception, the Covid-19 statistical
+monitoring remains a challenge. Although the tests that prove contagion
+are much more widely available today than in the early
+stages of the pandemic, not only is there still a
+disparity in the access to them among localities and social
+groups [O’DRISCOLL et al., 2021: 140], but also the effects
+of the previous bottleneck persist on any cumulative indicator of
+cases. The use of other variables in principle relevant to
+epidemiological follow-up, such as the numbers of hospitalizations, ICU admissions
+and intubations, is restricted by the different criteria used to
+define these events and, mainly, by the fact that they
+are not reported by most official systems that disclose information
+on the subject. For all these reasons, it is widely
+recognized that the number of deaths is a more reliable
+indicator of the size of the epidemic [O’DRISCOLL et al.,
+2021: 140] and for the understanding of its dynamics [HALLAL,
+2020: 2403]. HEUVELINE and TZEN (2021: 6) also maintain that
+data on deaths are more comparable – and more reliable,
+although not totally immune to underestimates [ORELLANA et al., 2020]
+-, which makes them particularly relevant to evaluate public policy
+measures to address the pandemic. None of this, of course,
+implies ignoring the enormous human cost of cases of the
+disease that do not culminate in death.

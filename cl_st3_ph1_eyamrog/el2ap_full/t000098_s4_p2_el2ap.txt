@@ -1,0 +1,26 @@
+The second and most important contribution is the calculation of
+adjusted mortality rates based on mortality rates by age group
+and the age profile of populations. This adjustment was previously
+indicated by demographers who focused on the subject [QUEIROZ et
+al. 2020: 3689]. It is essential to filter the effect
+of disparities in age pyramids and to enable the appropriate
+use of mortality rates in assessing the success or failure
+of measures to address the pandemic [GOLDSTEIN & LEE, 2020:
+5]. In fact, at least two previous studies have attempted
+to move in this direction. Notwithstanding, whether due to the
+broader spatial and temporal scope in relation to one of
+them [VILLANI et al., 2020] or to the methodologically more
+complete procedure in relation to the other [HEUVELINE & TZEN,
+2021], we can argue that our results in this article
+offer important developments. From them, one can infer an international
+ranking of Covid-19 mortality very different from that based on
+crude rates. More than that, adjusted rates reveal that the
+“protective” effect of younger demographic profiles on populations in poorer
+countries [GUILMOTO, 2020: 8; DOWD et al, 2020: 9,697], at
+least in the case of several Latin American countries and
+South Africa, was not enough to prevent these countries from
+staging some of the more dramatic impacts of the pandemic.
+The primary explanation for this is the existence, identified in
+this article, of rather different mortality patterns by age in
+developing countries and, more specifically, the higher mortality in lower
+age groups.

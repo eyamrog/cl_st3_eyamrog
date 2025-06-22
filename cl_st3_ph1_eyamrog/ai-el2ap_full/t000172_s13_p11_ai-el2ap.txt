@@ -1,0 +1,15 @@
+Several studies have demonstrated that coronavirus proteins modulate cellular pathways,
+thereby facilitating the viral life cycle or influencing viral pathogenesis,
+as summarized in Table 2. For example, interactions have been
+identified between the coronavirus nsp1 protein and the cyclophilins PPIA,
+PPIG, PPIH, as well as FKBP1A and FKBP1B, which are
+known to regulate the Calcineurin/NFAT pathway, a key mediator in
+immune cell activation (Pfefferle et al., 2011). In this study,
+the yeast two-hybrid system was employed to confirm these interactions,
+and it was further shown that inhibition of cyclophilins by
+cyclosporine A (CspA) suppressed the replication of various coronaviruses, including
+human SARS-CoV, CoV-229E, CoV-NL63, feline CoV, and avian infectious bronchitis
+virus (IBV). Additionally, another study reported an interaction between SARS-CoV
+nsp2 and cellular prohibitins, indicating that this nonstructural protein may
+contribute to the disruption of intracellular host signaling pathways (Cornillez-Ty
+et al., 2009).

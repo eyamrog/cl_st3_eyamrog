@@ -1,0 +1,5 @@
+- Search criteria customization techniques were used through the logical
+operator AND, and the terms were applied in the search
+section corresponding to each website of the universities around the
+world. Thus, the combination used was the following: Maestrías en
+Tecnología Educativa AND Maestrías en Aprendizaje electrónico.

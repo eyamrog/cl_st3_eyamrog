@@ -1,0 +1,4 @@
+Serum obtained from the samples used for infectious disease markers
+tests were also used for SARS-Cov-2 antibody tests. We collected
+and barcoded those samples for each blood donor at the
+beginning of the blood donation process.

@@ -1,0 +1,14 @@
+The proposed quality assessment tool is organized into three sections:
+Selection, Comparability, and Outcomes, as presented in Table 1. In
+the Selection section, the tool assesses the representativeness of the
+selected cases in the SCCS/SCRI relative to the total cases
+from the study population, the clarity of case definitions, the
+method of exposure ascertainment, and the absence of the outcome
+of interest at the beginning of the observation period. The
+Comparability section evaluates the consideration of time-varying confounding factors, such
+as age and seasonality, and requires that studies report whether
+these factors were addressed and if any adjustments were made
+in the analysis. The Outcomes section examines the methods used
+to ascertain the outcome of interest, the explicit identification of
+risk and control periods, and the adequacy of the observation
+periods.

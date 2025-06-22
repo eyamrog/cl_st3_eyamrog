@@ -1,0 +1,18 @@
+The association between various chronic diseases and an increased risk
+of severe forms of COVID-19 is well documented in the
+medical literature [Zhou et al., 2020; Chow et al., 2020,
+as cited in Borges & Crespo, 2020]. Cardiovascular diseases, diabetes,
+respiratory diseases, obesity, and immunodeficiency are among the most frequently
+identified risk factors. Additionally, evidence indicates that the risk of
+mortality from COVID-19 is significantly higher among males. A meta-analysis
+incorporating data from 46 countries and 44 US states found
+that this risk is 39% higher in men [Peckham et
+al., 2020: 2], which is consistent with findings from studies
+conducted during the early months of the pandemic [Goujon et
+al., 2020: 5; Guilmoto, 2020: 8]. While the relative contribution
+of each factor remains subject to debate, the main determinants
+of this disparity are well established in the literature. Peckham
+et al. (2020) acknowledge the potential influence of sociocultural factors
+and differences in comorbidity prevalence, but, based on a comprehensive
+review of biological differences between the sexes—particularly in immune system
+responses to infection—they emphasize the predominance of biological factors.

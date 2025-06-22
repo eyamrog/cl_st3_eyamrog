@@ -1,0 +1,13 @@
+Analysis across different intensities of moderate-to-vigorous physical activity (MVPA) indicates
+that engaging in at least 15 minutes per day of
+vigorous physical activity (VPA) is associated with significantly lower odds
+of prevalent depressive symptoms (OR=0.60, 95% CI=0.43–0.82), anxiety symptoms (OR=0.70,
+95% CI=0.51–0.96), and co-occurring depressive and anxiety (D&A) symptoms (OR=0.59,
+95% CI=0.41–0.83). Additionally, spending at least 30 minutes per day
+in moderate physical activity (MPA) is associated with a reduced
+prevalence of co-occurring D&A symptoms (OR=0.72, 95% CI=0.53–0.98) (Table 4).
+Linear regression analyses further demonstrate that each additional 10 minutes
+of VPA per day is associated with a decrease of
+0.18 points (95% CI=0.041–0.335) on the Beck Depression Inventory (BDI)
+and a decrease of 0.21 points (95% CI=0.034–0.400) on the
+Beck Anxiety Inventory (BAI) (Table 5).

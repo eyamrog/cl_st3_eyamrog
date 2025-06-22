@@ -1,0 +1,16 @@
+Mutualistic interactions, for example, can favor trait matching, which is
+the trait similarity between interacting species. Although mutualisms may also
+generate other trait patterns, such as intensification of traits (Anderson
+& Johnson 2008), trait matching is an observed pattern in
+a variety of mutualistic systems, such as pollination by flies
+and bees (Zhang et al. 2012, Santamaria & Rodríguez-Gironés 2007),
+seed dispersal by birds and bats (Galetti et al. 2013,
+Mello et al. 2011), and Müllerian rings in velvet ants
+(Wilson et al 2012). Hence, trait matching is an expected
+outcome of reciprocal selection that could favor higher interaction efficiency
+in mutualisms (Thompson 1994, Zhang et al. 2012). In contrast,
+antagonisms, such as parasites and hosts, favor trait mismatching between
+hosts and parasites, leading to several coevolutionary dynamics such as
+coevolutionary alternation and escalation, that favor the maintenance or the
+increase in trait variation across and within species (Andreazzi et
+al. 2017).

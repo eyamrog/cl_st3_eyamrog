@@ -1,0 +1,7 @@
+In Equation 7, \( p \) denotes the number of
+lags, and \( \Delta \) represents the difference operator. The
+\( W_0 \) test statistics, used to assess stationarity, and
+the \( W_1 \) test statistics, used to assess nonstationarity,
+are both calculated based on the \( W_\lambda \) test
+statistics proposed by Harvey et al. (2008). These statistics follow
+the distribution of \( W_\lambda \chi^2_2 \).

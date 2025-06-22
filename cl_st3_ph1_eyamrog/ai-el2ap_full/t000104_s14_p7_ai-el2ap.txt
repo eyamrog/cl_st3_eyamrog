@@ -1,0 +1,22 @@
+Water samples were collected to measure parameters including pH, dissolved
+oxygen, conductivity, and temperature using a multiparameter probe. Sediment samples
+were also obtained and stored at 4°C in the laboratory
+for subsequent analysis of organic matter (OM) and calcium carbonate
+(CaCO₃) content, as well as grain size distribution. The sediment
+samples were initially dried at 60°C for 48 hours (Carmo
+& Silva, 2012). Organic matter content was quantified using Goldin’s
+gravimetric method (1987), in which 5 g aliquots were placed
+in porcelain crucibles and weighed before and after combustion in
+a muffle furnace at 550°C for 4 hours; the OM
+content was determined by the mass loss following incineration. Calcium
+carbonate content was determined gravimetrically by hydrochloric acid (HCl) digestion,
+which reacts with CaCO₃ to release carbon dioxide and solubilize
+calcium, resulting in a measurable loss of sample mass (Gross,
+1971; Loring & Rantala, 1992). Grain size distribution was assessed
+using the dry-sieving method, in which 60 g of dried
+sediment were sieved through a series of mesh sizes (φ
+scale) and mechanically agitated for 15 minutes; the mass retained
+on each sieve was then measured with a high-precision balance
+to determine the proportion of each particle size class. Granulometric
+classification followed the Wentworth (1922, 1933) scale in millimeters and
+the Krumbein (1934) phi (φ) scale.

@@ -1,0 +1,18 @@
+Four binomial logistic regression analyses were conducted: one for each
+PHQ-4 outcome and two for the possible combinations of these
+outcomes. Table 1 presents the results of each model, including
+their fit indices, all of which indicated satisfactory model performance
+with high predictive capacity and explained variance. No multicollinearity issues
+were identified among the variables in any of the models.
+In the first model, which examined anxious symptoms, individuals aged
+24 years or younger had a 1.6 times higher likelihood
+of exhibiting symptoms compared to those over 39 years old
+(OR = 0.6; 1/OR = 1.5). Participants without a steady
+income were more likely to report anxious symptoms than those
+with a steady income (OR = 1.4), and individuals who
+perceived themselves as ill had a higher likelihood of presenting
+symptoms suggestive of anxiety compared to those who perceived themselves
+as healthy (OR = 2.1). Additionally, participants with meta-worry scores
+above the mean had a 12-fold increased likelihood of experiencing
+anxious symptoms compared to those with scores at or below
+the mean (OR = 12.0).

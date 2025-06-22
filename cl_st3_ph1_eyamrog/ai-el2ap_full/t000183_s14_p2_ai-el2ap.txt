@@ -1,0 +1,5 @@
+This study employed a quasi-experimental, nonequivalent group design, which requires
+the administration of both a pretest and a post-test to
+compare outcomes between a treatment group and a comparison group.
+In this research design, the independent variable is manipulated; however,
+participants are not randomly assigned to the experimental conditions.

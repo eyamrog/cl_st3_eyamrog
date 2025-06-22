@@ -1,0 +1,4 @@
+Demographic data were extracted from the blood center’s donor management
+software (SACS) using coded identifiers to ensure donor anonymity. The
+study population comprised all individuals who donated blood at Hemorio
+between April 14 and April 27.

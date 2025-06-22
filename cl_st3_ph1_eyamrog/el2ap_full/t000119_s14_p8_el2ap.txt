@@ -1,0 +1,7 @@
+Data analysis: the experimental design was completely randomized in a
+2 x 5 factorial scheme respectively with two salts and
+five saline concentrations. The variables expressed as percentages were converted
+to arc sen <>. Data were subjected to analysis of
+variance and when significant, qualitative variables were compared by the
+Scott-Knott test at 5% error probability and quantitative variables were
+submitted to regression analysis using the Sisvar software (Ferreira 2011).

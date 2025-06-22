@@ -1,0 +1,22 @@
+The ability to track the spread of the disease in
+time, even with some delay, allows for a better understanding
+of how to analyze, develop, and implement strategies to confront
+the epidemic. For São Paulo City, Table 1 shows a
+measurement of its spread in terms of addi­ tional deaths
+per day, and the corresponding social distancing index measured 15
+days before. From such data, it is possible to make
+a gross estimation for the SDI value, which will slow
+down the spread of the disease. It appears that at
+a SDI between 52 and 56%, makes the pro­ gression
+of the disease to cross the break-even point: an SDI
+of 56% causes decrease deaths 0.40 per day, whereas an
+SDI of 52% increase deaths to 0.82 per day. For
+the normal-life period (before March 16th) the disease progressed at
+a rate of 3.18 deaths per day. The values obtained
+from this gross estimate should be analyzed with care, because
+the spread of the disease is affected by other factors
+beyond the SDI and it is not known how the
+SDI relates specifically to the transmission rate of the virus,
+so that similar values of SDI might result in different
+transmission rates for different environments, for example when temperature, humidity,
+population density, and use of masks11 changes.

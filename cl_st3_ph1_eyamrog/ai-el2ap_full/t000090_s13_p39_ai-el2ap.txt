@@ -1,0 +1,4 @@
+This section focuses on the correlations among the indicators within
+each dimension as measured by "U-Multirank." The analysis begins with
+the "Teaching and Learning" dimension, and the corresponding results are
+presented in Table 4.

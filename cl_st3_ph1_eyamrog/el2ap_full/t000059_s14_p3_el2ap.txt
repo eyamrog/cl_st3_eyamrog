@@ -1,0 +1,11 @@
+Authorship concentration at the journal level, aggregating all five years,
+was indicated by the proportion (or rather percentage) of articles
+published by the most prolific author and the Gini coefficient.
+Each journal’s most prolific author was whoever had published more
+articles in that journal, and the proportion of articles was
+simply the ratio between the number of these articles and
+the journal size (total amount of signed articles in that
+journal). The Gini coefficient (zero meaning complete equality and one
+meaning complete inequality) was calculated following Jasso (1979); see Davidson
+(2009) for a discussion of the relative merits of each
+way of calculating the Gini coefficient.

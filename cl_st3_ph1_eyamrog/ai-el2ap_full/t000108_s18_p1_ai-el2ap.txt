@@ -1,0 +1,12 @@
+For this study, specimens deposited at the CESJ herbarium (acronyms
+following Thiers 2020) were examined. These specimens were compared and
+analyzed for their macro- and micromorphological characteristics, as well as
+their geographical and ecological data. The taxonomic treatment was conducted
+in accordance with the most recent phylogenetic studies of the
+tribe Melastomateae (Michelangeli et al. 2013; Guimarães et al. 2019).
+Species of Tibouchina s.s. and related genera from Brazil were
+identified using taxonomic keys provided by Silva et al. (2014)
+and Guimarães and Silva (2014). The distribution map was generated
+using ArcGIS software version 9.3 (ESRI 2008). Conservation assessments were
+performed following the criteria established by the International Union for
+Conservation of Nature (IUCN 2019).

@@ -1,0 +1,5 @@
+The F-statistic of 1.43, which assesses the joint significance of
+the explanatory variables, is not statistically significant at the 5
+percent level, as indicated by the associated p-value of 0.262258.
+Additionally, the coefficient of determination (R²), which reflects the explanatory
+power of the model, is estimated to be 0.349699.

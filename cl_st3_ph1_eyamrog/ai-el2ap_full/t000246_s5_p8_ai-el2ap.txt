@@ -1,0 +1,11 @@
+The co-authorship analysis enabled the assessment of the strength of
+scientific collaboration among authors and co-authors who produced at least
+five documents, each with a minimum of ten citations; most
+of these individuals constitute the Elite Group. Co-authorship analysis is
+a significant bibliometric indicator and is among the most frequently
+examined attributes in the application of Social Network Analysis (SNA),
+as it offers researchers a comprehensive perspective on the collaborative
+structures within the research community, as well as insights into
+patterns of association in the scientific domain. The importance of
+teamwork is underscored by the complex and interdisciplinary nature of
+contemporary research, as well as the associated cost considerations.

@@ -1,0 +1,22 @@
+Finally, a trustworthy digital repository has an active plan for
+the long-term digital preservation of the digital media files and
+associated metadata. According to the Digital Preservation Coalition (DPC), digital
+preservation "[r]efers to the series of managed activities necessary to
+ensure continued access to digital materials for as long as
+necessary. [...] [It] refers to all of the actions required
+to maintain access to digital materials beyond the limits of
+media failure or technological and organizational change.” Long-term preservation is
+the "continued access to digital materials, or at least to
+the information contained in them, indefinitely” (DPC, 2015). This means
+that digital preservation is much more than just backing up
+files. Digital preservation work includes migrating data and metadata from
+one format to another and from one software system to
+another as technology changes. It means ensuring accurate redundancy of
+data (meaning that there are duplicate copies stored on various
+media types and in multiple locations); and it means monitoring
+the health of all of the files in all of
+the locations on a regular basis. According to Owens (2018,
+p. 5), “preservation is the result of ongoing work of
+people and commitments of resources. The work is never finished
+[…] It is not something that can be thought of
+as a one-time cost.”

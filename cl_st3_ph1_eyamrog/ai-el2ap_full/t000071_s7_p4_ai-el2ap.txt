@@ -1,0 +1,16 @@
+The intervention described in this study consists of two main
+components: (a) providing OJS-using publications identified as predatory with guidance
+on addressing the factors contributing to their classification, with the
+aim of enhancing their scholarly publishing standards; and (b) implementing
+verification technologies and communication strategies within publishing platforms to enable
+readers to more effectively evaluate journal integrity. The primary objective
+is to mitigate the confusion and negative impact associated with
+predatory publishing in scholarly communication, while simultaneously promoting higher standards
+in scholarly publishing. While there is a potential risk that
+such support may inadvertently enable unethical actors to more effectively
+mislead authors and readers, this risk is weighed against the
+potential loss of legitimate research and the benefits of increasing
+the technical requirements for deceptive practices in scholarly communication. Readers
+are encouraged to consider these potential conflicts of interest and
+the associated responsibilities when interpreting the findings presented in this
+chapter.

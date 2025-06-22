@@ -1,0 +1,11 @@
+Table 5 presents the results of the comparison between groups
+3.1 and 3.2. Consistent with the findings reported in Table
+4, there is statistical evidence of a difference between the
+groups in terms of acceleration over the last 30 days
+for both cases (p = 0.003) and deaths (p =
+0.001), with group 3.1 exhibiting higher mean and median acceleration
+values than group 3.2. In the comparison of acceleration up
+to April 11 in group 3.1 versus acceleration up to
+May 11 in group 3.2, a statistically significant difference was
+observed only for the acceleration of deaths (p = 0.001),
+with group 3.1 demonstrating higher acceleration than group 3.2.

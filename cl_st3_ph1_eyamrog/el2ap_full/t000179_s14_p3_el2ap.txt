@@ -1,0 +1,4 @@
+Participants were selected from a complex two-stage probabilistic national representative
+sampling stratified by political region. Primary sampling unit was the
+healthcare centers and secondary sampling unit were professionals. Physicians over
+65 years were excluded (retirement age in Peru).

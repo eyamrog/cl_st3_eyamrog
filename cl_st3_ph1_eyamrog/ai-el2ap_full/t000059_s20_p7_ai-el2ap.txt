@@ -1,0 +1,12 @@
+The relevance of journal size was further demonstrated when LILACS
+journals were categorized by subject area or country of publication.
+Figure 2 presents the mean values of each concentration index,
+stratified by journal size, for the six countries with at
+least 20 journals represented in the database, which includes a
+total of 18 countries. Similarly, Figure 3 displays the mean
+values of each concentration index, stratified by journal size, for
+the six subjects with at least 20 journals among the
+183 subjects included in the database. In both country and
+subject groupings, larger journals exhibited a lower proportion of articles
+authored by the most prolific contributor and a higher Gini
+coefficient compared to smaller journals.

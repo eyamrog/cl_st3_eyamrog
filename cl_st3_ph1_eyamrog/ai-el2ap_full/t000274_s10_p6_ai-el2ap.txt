@@ -1,0 +1,6 @@
+During the current pandemic, all patients admitted to emergency departments
+should be regarded as potential carriers of COVID-19 until infection
+is ruled out. Additionally, patients presenting with respiratory symptoms should
+be managed as suspected cases of COVID-19 until a definitive
+diagnosis is established, given the absence of a rapid diagnostic
+test for this condition at present.

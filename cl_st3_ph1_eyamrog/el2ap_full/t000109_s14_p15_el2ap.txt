@@ -1,0 +1,5 @@
+Finally, there are two attributes linked to the Ha’s behavior
+which have epidemiological consequences: the observance of social distancing (distancing)
+and the effectiveness and observance of mask use (mask).Although both
+attributes complete the epidemiological characterization of each agent, its functioning
+is described in Interpersonal Contact submodel (Section 4.1).

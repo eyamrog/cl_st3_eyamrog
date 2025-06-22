@@ -1,0 +1,6 @@
+If one analyzes (15) and (16) carefully, one might easily
+conclude that they are different structures (with obvious different syntactic
+behavior), mainly if we take into account, for example, the
+fact that the anchor can be elided in (15), but
+not in (16), as we can see by (17) and
+(18) bellow:

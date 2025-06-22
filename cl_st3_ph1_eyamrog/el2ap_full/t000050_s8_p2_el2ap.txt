@@ -1,0 +1,11 @@
+Our datasets are comprised of sand fly occurrence data from:
+(i) the Suruwaha Indigenous Land (SIL) in the south of
+the state of Amazonas collected between 2012-1013; and (ii) the
+Wajãpi Indigenous Land (WIL) in the state of Amapá collected
+between 2013-2014. The data sets reported here are the metadata
+for each individual sand fly specimen collected during the fieldwork
+and include 41 Darwin Core Standard (DwC) terms [5] available
+for the Suruwaha dataset and 39 for the Wajãpi dataset.
+All mandatory fields are present and have gone through screening
+in the FIOCRUZ IPT, metadata fields are also available on
+the online pages.

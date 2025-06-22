@@ -1,0 +1,3 @@
+We included a chronological table showing all the scientific data
+used to compile the dataset by municipality, author and species
+names (Table 3).

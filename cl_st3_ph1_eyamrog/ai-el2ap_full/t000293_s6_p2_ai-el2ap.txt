@@ -1,0 +1,8 @@
+Our data provide clinical evidence supporting the use of chest
+CT as an alternative triage tool in resource-constrained settings for
+patients with suspected COVID-19 infection. This aligns with a recent
+statement from the Fleischner Society, which recommended that chest CT
+may be indicated for the medical triage of patients with
+suspected COVID-19 who exhibit moderate to severe clinical features and
+have a high pre-test probability of disease, particularly in situations
+where rapid point-of-care COVID-19 testing is unavailable (19).

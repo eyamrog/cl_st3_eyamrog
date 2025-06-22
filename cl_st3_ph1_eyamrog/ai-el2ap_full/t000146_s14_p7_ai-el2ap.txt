@@ -1,0 +1,5 @@
+The number of citations accumulated by each article at the
+time of data collection was recorded without applying a citation
+window. The proportion of publications in the national language was
+considered as an independent variable. The country of the author's
+institutional affiliation served as the unit of analysis.

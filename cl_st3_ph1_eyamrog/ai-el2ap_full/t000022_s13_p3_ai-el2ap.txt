@@ -1,0 +1,19 @@
+Regarding the temporal coverage of the available data, the corpus
+encompasses over a century of indexed Latin American scientific production,
+with documents ranging from 1909 to May 2019. The majority
+of articles (84.2%) were published between 2005 and 2018. The
+proportion of documents from 2019 is considerably lower (0.67%) because
+data collection occurred between May and June of that year,
+resulting in only partial coverage. The earliest records are from
+Memórias do Instituto Oswaldo Cruz, which contributed 582 documents between
+1909 and 1939. Subsequent early entries include Revista Chilena de
+Pediatría (1940), Bragantia (1941), Arquivos de Neuro-Psiquiatria (1943), and Anais
+da Escola Superior de Agricultura Luiz de Queiroz—now Scientia Agricola
+(1944). The initial appearances of journal documents from other countries
+are as follows: Colombia (1969), Mexico (1974), Argentina and Cuba
+(1993), Costa Rica and Peru (1995), Venezuela’s Revista de la
+Facultad de Medicina (1984), Ecuador, Puerto Rico, Dominican Republic, and
+Uruguay (2000), Bolivia (2001), and Panama (2005). The first journal
+in the Social Sciences and Humanities represented in the database
+is Revista de Administração de Empresas (1961), followed by Revista
+Latinoamericana de Psicología (1969).

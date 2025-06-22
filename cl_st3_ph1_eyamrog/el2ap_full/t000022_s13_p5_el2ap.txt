@@ -1,0 +1,14 @@
+The most notable growth in the number of journals and
+articles occurred with the launching of Redalyc in 2005 which
+began to index journals especially in the Social Sciences. As
+seen in Figure 1, the peak is reached in 2015
+which shows a sharp increase relative to some flattening of
+the article curve beginning in 2011. The number of articles
+and journals per year decreases in 2018 because there is
+a delay between publishing and incorporation of the new issues
+into the Redalyc and SciELO databases. This delay varies widely
+from one publisher to the next and among countries, and
+is due to a multitude of reasons such as delays
+in publication or in the management of the databases, difficulties
+in XML-JATS markup, or differing priorities which the publishing institutions
+place on the inclusion of new issues in each database.

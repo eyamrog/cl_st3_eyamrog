@@ -1,0 +1,17 @@
+Rarefaction curves and 95% confidence intervals were calculated using the
+moment-based estimator of species richness (Colwell et al. 2004) to
+assess the adequacy of the sampling effort in terms of
+the number of amphibian and reptile species recorded during the
+study. In this analysis, one hour of visual encounter survey
+(VES) was defined as a sampling unit, resulting in a
+total of 460 samples collected throughout the study period. Sampling
+sufficiency was inferred when the confidence intervals converged to zero,
+following the criteria of Colwell et al. (2004). Species richness
+and standard deviation were further estimated using the Bootstrap richness
+estimator (Smith & van Belle 1984) with 1,000 iterations. Both
+rarefaction and Bootstrap analyses were performed using EstimateS version 8.2.0
+(Colwell 2009). Species abundance distributions were examined using rank abundance
+curves (Whittaker plots; Whittaker 1965), which display the log-transformed abundance
+of each species in rank order (Krebs 1999), and these
+plots were generated in PAST version 2.17 (Hammer et al.
+2001).

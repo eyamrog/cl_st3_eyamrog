@@ -1,0 +1,11 @@
+Some families were analyzed only with one species counting as
+a cleaner species, such as Coraciidae, Cuculidae and Furnariidae. But
+still, it seems that there is a tendency that the
+cleaner species have a more diverse diet, when compared with
+other species in their families. With Furnariidae, for example, the
+H mean value was about 0.113 without the cleaners (which
+in this family, represents about 99.5% of the members) but,
+if only considering the cleaner species, the H value was
+about 0.5 (which in this family, represents about 0.45% of
+the members). All values can be found in Supplementary fig.
+1 b).

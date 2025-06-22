@@ -1,0 +1,4 @@
+The SciELO Citation Index (SciELO CI) database was used as
+the data source for collecting and categorizing the scientific output
+of countries in the fields of Public and Collective Health
+for the period 2011 to 2015.

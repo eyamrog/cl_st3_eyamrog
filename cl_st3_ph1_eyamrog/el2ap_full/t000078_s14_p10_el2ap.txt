@@ -1,0 +1,7 @@
+After controlling property prices for intrinsic characteristics, amenities, and access
+to transportation, we assumed that the distance of each property
+to each SBD suggested by the first stage should be
+statistically significant and with negative signs to be considered sub-centers.
+This identification strategy allows making inferences about the SBD and
+evaluating if the econometric model of hedonic prices of the
+real estate market behaves as predicted by the theoretical models.

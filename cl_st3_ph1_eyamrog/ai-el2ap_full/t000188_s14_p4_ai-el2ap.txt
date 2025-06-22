@@ -1,0 +1,9 @@
+Density maps were generated using inverse distance weighting (IDW) interpolation
+to represent the distribution of cumulative COVID-19 deaths per 1,000,000
+inhabitants, based on both observed and modelled Boltzmann data. The
+cartographic base of Brazil, obtained from the IBGE electronic database,
+and officially reported COVID-19 data were utilized for this analysis.
+The maps employed the SIRGAS 2000 geodetic reference system and
+the Universal Transverse Mercator (UTM) cartographic projection. All georeferenced data
+were processed and visualized using Quantum GIS (QGIS, Open Source
+Geospatial Foundation, OSGeo, CHI, USA, Version 3.10.5).

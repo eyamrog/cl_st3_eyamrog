@@ -1,0 +1,21 @@
+First released in 2002, the use of OJS has grown
+to 25,671 active journals in 2020, publishing in 155 countries,
+with 81.7 percent originating in the Global South, led by
+journals in Indonesia, Brazil, and the USA, and with research
+published in 56 languages, led by English, Indonesian, and Portuguese
+(Fig. 1).6 These journals published an average of 38.8 articles
+in 2020, and over 4.7 million articles since 2010. PKP
+gathers this and other data from these journals through the
+software’s optional beacon feature. The beacon provides PKP with access
+to journal data, although a portion of journal users turn
+the beacon off, implying the numbers reported here are undercounts.
+Other studies have found that the journals using OJS are
+largely open access (89 percent), and account for 60 percent
+of what are termed “diamond open access” journals, neither charging
+readers subscription fees nor authors APCs (Alperin et al., 2017;
+Becerril et al., 2021; Edgar & Willinsky, 2010;). While largely
+indexed by Google Scholar and in more limited ways by
+the Directory of Open Access Journals, the journals utilizing OJS
+represent an emerging force in research that includes a mix
+of century-old journals, new and inexperienced publishers, and a few
+outright crooks.7

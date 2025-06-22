@@ -1,0 +1,22 @@
+A limitation in our approach, if it is to be
+used for fast response decisions, is the delay which exists
+between the death and the emission of the Death Certificate
+and its filing in the Civil Registry database, which can
+be as long as 15 days. We used the available
+time series, which had the data as to the number
+of deaths referenced to the date of the death, to
+demonstrate that referencing to the date of the death was
+relevant. We believe the authori­ ties might be able to
+use primary data informing the causa mortis and referencing the
+death to the date of death, as opposed to the
+date in which the result of a PCR test was
+made avail­ able. The point of our argument is not
+that the ARPEN data should be used for policy—we used
+ARPEN data to demonstrate that by referencing the deaths to
+the date of the death more can be learned about
+the evolution of the disease and the measures taken to
+control it. It seems to us that by reporting information
+about the deaths caused by ­COVID-19 ref­ erenced to the
+test results date is distorting, and unnecessarily hindering the advance
+of the understanding about the spread of the disease in
+Brazil.

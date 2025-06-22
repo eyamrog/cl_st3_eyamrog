@@ -1,0 +1,7 @@
+Romanos (1979) argues that rent prices tend to be underestimated
+in areas where sub-centers are present. Furthermore, many cities contain
+more than one business center or multiple sub-centers. In contrast
+to the predictions of monocentric models, where the property price
+gradient is expected to decrease monotonically with distance from the
+central business district (CBD), the polycentric model suggests that this
+gradient does not necessarily follow a monotonic decline.

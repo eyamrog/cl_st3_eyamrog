@@ -1,0 +1,6 @@
+Methods: Part one of three of the data survey from
+official sources on the number of cases and number of
+deaths by COVID-19 between December 31, 2019 and April 11,
+2020, being calculated the incidence, mortality and lethality acceleration rates,
+and compared among predefined groups according to their BCG vaccination
+programs.

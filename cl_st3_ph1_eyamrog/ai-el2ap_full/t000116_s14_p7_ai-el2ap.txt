@@ -1,0 +1,9 @@
+Given the heterogeneous nature of the causes included in the
+list, it is expected that some may exhibit immediate changes
+in response to modifications in primary care policy, while others
+may demonstrate more gradual changes. Accordingly, two types of effects
+between trends were assessed: differences in the slope of hospitalizations
+between two groups were analyzed using an interrupted time series
+approach to evaluate the ramp effect, and changes in the
+level of trends between groups were examined to assess the
+step effect.

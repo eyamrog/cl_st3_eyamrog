@@ -1,0 +1,6 @@
+It is worth mentioning that the original study found 6
+factors by applying only the exploratory factor analysis (EFA), while
+in the present study, in addition to the EFA, we
+also performed the CFA, with a good fit for structural
+equation models and good reliability evaluated by Cronbach's α and
+McDonald's ω coefficients.

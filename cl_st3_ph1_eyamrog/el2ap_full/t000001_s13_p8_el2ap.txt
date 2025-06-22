@@ -1,0 +1,5 @@
+The goal of long-read assembly is to produce complete sequences
+with no structural errors, i.e. the only errors in the
+assembly should be small-scale, e.g. single-bp substitutions, insertions or deletions.
+This is because later polishing steps can repair small-scale errors
+but may not be able to fix larger structural errors.

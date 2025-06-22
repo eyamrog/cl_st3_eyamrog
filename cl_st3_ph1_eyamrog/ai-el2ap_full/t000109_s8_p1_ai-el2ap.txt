@@ -1,0 +1,9 @@
+In March 2020, the novel coronavirus SARS-CoV-2, which caused the
+COVID-19 outbreak, infected over 270,000 individuals globally and resulted in
+more than 11,300 deaths [1]. Epidemiological analyses of various outbreaks
+worldwide have facilitated the development of several models, primarily mathematical,
+to monitor and predict the spread of epidemics [2][3][4][5]. Within
+this context, the present study aims to offer an alternative
+approach that incorporates a broader range of real-world factors and
+enables the prediction of the effects of different social and
+health policies.

@@ -1,0 +1,11 @@
+In addressing the first research question, the result is presented
+considering the entire dataset. Firstly, group talk as a whole
+was considered, and relative code frequencies measured the number of
+content-related (codes 1 to 6), instruction-related (code 7), and off-topic
+utterances (code 8) divided by the sum of all of
+them. Figure 1 shows that groups spent almost half (56%)
+of the utterances talking about the content of the task,
+around one-quarter negotiating the task-instruction (25%), and a reasonable number
+off-topic (19%). Only half of group work was devoted to
+content, which is the kind of talk was more directly
+related to conceptual-disciplinary learning gains.

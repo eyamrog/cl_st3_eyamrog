@@ -1,0 +1,5 @@
+Each of the bars representing the Indicators are divided in
+five parts and painted in dark color to represent the
+grade received in the Indicator. It means that a full
+dark bar represents an “A”, while a full light bar
+represents “No data available”.

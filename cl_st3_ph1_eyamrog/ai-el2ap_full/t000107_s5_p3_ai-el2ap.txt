@@ -1,0 +1,16 @@
+The Google search engine was found to be unreliable for
+the purposes of this study due to its lack of
+appropriate filtering options and the influence of user-specific algorithms, which
+are primarily optimized for commercial interests and heavily influenced by
+paid advertisements. Although Google offers a specialized tool for locating
+scholarly literature, namely Google Scholar, this platform predominantly retrieves content
+from books and scientific articles, which fall outside the scope
+of the present analysis. Consequently, searches were conducted using two
+Brazilian websites specifically designed to catalogue theses and dissertations produced
+at Brazilian higher education institutions: www.bdtd.ibict.br/vufind/ (BDTD) and www.catalogodeteses.capes.gov.br/catalogo-teses/ (CAPES).
+The CAPES website contained a larger collection of theses and
+dissertations compared to both the Domínio Público and BDTD platforms.
+However, the CAPES interface was less user-friendly, as filtering options
+become available only after keywords are entered and these options
+vary depending on the keywords used. These features render the
+search process on the CAPES website more complex and time-consuming.

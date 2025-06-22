@@ -1,0 +1,2 @@
+A visualization of the components of Coronavirus 2 is presented
+based on the configuration provided by NCBI (2020).

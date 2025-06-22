@@ -1,0 +1,16 @@
+If a patient discontinues a disease-modifying drug (DMD) during a
+COVID-19 infection, the timing of reintroduction should be carefully determined
+based on the activity of multiple sclerosis (MS) or neuromyelitis
+optica spectrum disorder (NMOSD), the patient's age, and the specific
+DMDs previously used. The severity of COVID-19 infection should be
+closely monitored, as it is associated with the duration of
+viremia. Evidence indicates that, in mild cases, 90% of patients
+with initially positive nasopharyngeal RT-PCR tests become negative within 10
+days of symptom onset, whereas more severe cases may exhibit
+prolonged positivity. Immunosuppression may further extend the duration of viremia.
+Conversely, delaying the reinitiation of DMDs may increase the risk
+of disease relapse or rebound, particularly following discontinuation of natalizumab
+or fingolimod. Therefore, it is recommended to reintroduce DMDs 4
+to 8 weeks after SARS-CoV-2 infection and to involve infectious
+disease specialists to confirm viral clearance prior to resuming immunosuppressive
+therapy.

@@ -1,0 +1,8 @@
+Linearity Tests are structured upon the models based on smooth
+transitions typed the STAR (Smooth Transition Autoregressive). These tests are
+a priori test for the transition to the STAR type
+test. Unlike other tests, these tests, which were introduced to
+the literature by Harvey, do not have any prerequisites. Considering
+the main advantage of not being affected by stationarity levels,
+Harvey & Leybourne (2007) and Harvey, Leybourne & Xiao (2008)
+Tests were administered for testing the linearity.

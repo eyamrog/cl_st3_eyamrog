@@ -1,0 +1,6 @@
+Finally, regarding the first-order constructs representing Governance, Audit is included
+as a single-item construct. This construct refers to the auditing
+of financial statements by an independent audit firm, which provides
+an opinion on whether the non-profit organization’s financial statements are
+free from material misstatements and comply with applicable standards (Verbruggen
+et al., 2015).

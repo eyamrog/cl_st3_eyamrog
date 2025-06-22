@@ -1,0 +1,7 @@
+Assuming that virus transmission in streets is practically negligible and
+therefore has no significant impact on the model, it is
+postulated that, for Ha, movement on foot between plots occurs
+instantaneously. As described in the previous section, only public transportation
+mobility dynamics are represented where relevant, since this mode of
+mobility is considered a possible activity for individuals in the
+"Others" state, which will be discussed in detail below.

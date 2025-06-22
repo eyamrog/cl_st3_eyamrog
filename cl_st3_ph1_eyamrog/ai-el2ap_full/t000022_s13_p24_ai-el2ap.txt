@@ -1,0 +1,25 @@
+The degree of international collaboration by Brazilian researchers in mainstream
+journals appears to be influenced by the country's linguistic distinctiveness
+within Latin America, its increasing preference for publishing in English,
+and its internationalization policies that prioritize North America and Europe.
+In contrast, Spanish-speaking Latin American authors demonstrate a more consistent
+pattern of intra-regional collaboration. Analysis of the OLIVA corpus indicates
+that Brazilian authors are more likely to collaborate with other
+Brazilians, whereas authors from Argentina, Mexico, and Chile more frequently
+engage in collaborative work with colleagues from other Latin American
+countries. Nevertheless, Brazilian researchers also constitute a significant proportion of
+co-authors in articles published in journals edited outside Brazil. For
+instance, among articles with Argentine authors and international collaboration (n=3,906),
+at least one Brazilian co-author is present in 26.5% of
+cases; for collaborative articles with Chilean authors (n=5,376), Brazilian co-authorship
+occurs in 19% of cases; and for Colombian authors (n=6,729),
+the figure is 16.6%. While national collaboration is predominant among
+Brazilian authors in journals edited in Brazil, their participation in
+co-authored articles published in other countries is also substantial. Further
+analysis of the OLIVA database will be conducted to map
+international collaboration patterns, with particular attention to the balance between
+intra-regional and extra-regional collaboration by discipline and by country. Future
+research will also examine whether Brazilian authors are more likely
+to collaborate with colleagues from outside the region than with
+those from Spanish-speaking countries, and whether this tendency is influenced
+by the perceived prestige of the journal.

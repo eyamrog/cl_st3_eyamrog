@@ -1,0 +1,11 @@
+In this context, a notable finding is the substantial reduction
+in the public-sector effect when controlling for types of work.
+The descriptive analysis indicates that the prevalence of remote work
+among public sector employees is significantly higher than among individuals
+in other employment categories. However, evidence from Table 3—specifically the
+comparison between columns 3 and 4—suggests that this difference is
+attributable to a composition effect, namely the types of tasks
+that are more common in the public sector. Regarding employment
+status, self-employed workers exhibit a lower probability of engaging in
+remote work compared to salaried employees without a formal contract,
+even after accounting for observable characteristics.

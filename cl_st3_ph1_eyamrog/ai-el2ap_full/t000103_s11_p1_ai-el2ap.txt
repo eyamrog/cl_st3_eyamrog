@@ -1,0 +1,13 @@
+King and Lewis (2018, p. 1) define anaphora as “the
+phenomenon whereby the interpretation of an occurrence [the anaphor] of
+one expression depends on the interpretation of an occurrence of
+another [the antecedent].” The anaphor and its antecedent may occur
+within the same sentence or across different sentences, and the
+anaphor may either precede or follow its antecedent in the
+discourse. When the anaphor follows its antecedent, this is referred
+to as forward anaphora or simply anaphora (see example 1).
+Conversely, when the anaphor precedes its antecedent, this is known
+as backward anaphora or cataphora (see example 2). In this
+study, the term anaphora will be used to refer to
+both anaphora and cataphora when the distinction between them is
+not pertinent.

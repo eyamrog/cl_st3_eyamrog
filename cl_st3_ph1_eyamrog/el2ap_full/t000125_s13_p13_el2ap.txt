@@ -1,0 +1,10 @@
+Considering Knowledge Transfer (blue), all the Institutions have at least
+three Indicators with data available out of the seven Indicators.
+University of Campinas is the only one to have data
+in all the seven Indicators. In this Dimension we have
+four Indicators coming from open sources: Co- publications with industrial
+partners, Patents awarded (size-normalized), Industry co-patents and Publications cited in
+patents. The Indicators Income from continuous professional development, Income from
+private sources and Spin-offs depend on reports from the Institutions.
+ESPM is the only one with 3 A, followed by
+five others with 2 A.

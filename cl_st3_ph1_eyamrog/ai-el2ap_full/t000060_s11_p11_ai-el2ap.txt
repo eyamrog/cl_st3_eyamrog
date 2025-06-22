@@ -1,0 +1,7 @@
+In the example above, the delay in the response suggests
+that the initial utterance does not automatically elicit the anticipated
+second part from the interlocutor. According to Yule (1996, p.
+78), a delay in response indicates the potential unavailability of
+an immediate and typically automatic reply. Such delays are interpreted
+as significant, as they highlight a discrepancy between what is
+expected and what is actually provided in the interaction.

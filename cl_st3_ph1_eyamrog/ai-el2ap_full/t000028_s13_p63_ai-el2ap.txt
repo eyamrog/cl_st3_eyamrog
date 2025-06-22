@@ -1,0 +1,3 @@
+Another activity that can be implemented as a group task
+is Activity E, which focuses on the months of the
+year (see Image 5).

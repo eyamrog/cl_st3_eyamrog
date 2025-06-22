@@ -1,0 +1,8 @@
+The definition encompasses an interesting and useful distinction between different
+types of policy dismantling strategies: active dismantling, dismantling by default,
+symbolic dismantling, and dismantling by arena shifting. Additionally, it includes
+the possibility that dismantling may be pursued by a manipulation
+of the capacities for policy implementation. All of these elements
+of the policy dismantling framework are not only useful but
+also applicable to policy dismantling processes underway in Bolsonaro’s Brazil,
+as indicated below.

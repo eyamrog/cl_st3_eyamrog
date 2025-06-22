@@ -1,0 +1,7 @@
+A sample of one of the symptomatic fully vaccinated individuals
+was sequenced using the extracted RNA material from the positive
+qPCR test as described in our Methods. The result was
+a genome with a 99.48% coverage assigned as the Delta
+variant of concern (B.1.617.2) lineage according to the Pangolin COVID-19
+Lineage Assigner website. Sequence was submitted to GISAID, Submission Number:
+EPI_ISL_3982391

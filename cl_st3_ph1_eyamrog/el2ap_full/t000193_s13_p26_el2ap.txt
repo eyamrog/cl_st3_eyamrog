@@ -1,0 +1,10 @@
+Cladribine is an immunosuppressive agent used as induction therapy in
+MS patients. It has a preferential lymphocyte depletion that reaches
+its nadir one month after the last administered dose and
+is further intensified after the second cycle48. At that time,
+a 60% reduction in CD4 count and a 40% decrease
+in CD8 are expected, with relative stabilization in a year.
+We highlight that the degree of lymphopenia does not seem
+to be related to MS relapses. However, more pronounced levels
+(i.e., <500 lymphocytes/mm3) have led to a two-fold increase in
+the incidence of Herpes-Zoster in the pivotal trial.

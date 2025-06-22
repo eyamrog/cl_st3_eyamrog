@@ -1,0 +1,6 @@
+Regarding shrub-tree and climber dynamics, annual mortality rates of climbers
+were significantly higher than those of plants in the shrub-tree
+synusia for both diameter classes: individuals with < 2.5 cm
+dbh (Mann-Whitney Test, U = 7, p = 0.0004) and
+those with > 2.5 cm dbh (Mann-Whitney Test, U =
+16, p = 0.009; see Figure 3 and Table 4).

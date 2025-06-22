@@ -1,0 +1,11 @@
+To the best of our knowledge, this study represents the
+first large-scale seroprevalence survey of SARS-CoV-2 infection among asymptomatic individuals
+in Rio de Janeiro, Brazil. While the survey sample was
+not randomly selected from the general population, it includes a
+demographically and socially diverse group of healthy participants, thereby enabling
+a preliminary assessment of antibody prevalence in asymptomatic individuals. The
+prevalence estimates reported in this study have been adjusted for
+the sensitivity and specificity of the serological test used and
+weighted according to the age and sex distribution of the
+population, providing a more accurate representation of antibody prevalence at
+the population level.

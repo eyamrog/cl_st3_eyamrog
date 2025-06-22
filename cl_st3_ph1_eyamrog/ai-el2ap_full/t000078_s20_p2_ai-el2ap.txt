@@ -1,0 +1,14 @@
+Given the ad hoc nature of neighborhood composition, various weighting
+matrices are employed in this analysis. Specifically, binary contiguity matrices
+(queen and rook), distance-based matrices, and k-nearest neighbor matrices are
+utilized. In the contiguity matrices, the element \( w_{ij} \)
+is assigned a value of 1 if units \( i
+\) and \( j \) are contiguous, and 0 otherwise.
+The distance-based weight matrix is constructed using the Euclidean distances
+between the centroids of the tracts, such that \( w_{ij}
+\leq d_{ij} \). To address the potential issue of isolated
+units in the econometric estimation, a maximum distance threshold of
+8 km is imposed to ensure that each unit has
+at least one neighbor. For the k-nearest neighbor matrix, six
+neighbors are selected for each unit, corresponding to the average
+number of neighbors observed in the dataset.

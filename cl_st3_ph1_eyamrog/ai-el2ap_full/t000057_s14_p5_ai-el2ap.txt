@@ -1,0 +1,5 @@
+To assess the capacity of the riparian forest to accommodate
+regional storm events, we compared the median infiltration capacity obtained
+in this study with the 5-minute rainfall intensities corresponding to
+100-, 50-, and 25-year return periods, as reported by Souza
+(2014).

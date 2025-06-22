@@ -1,0 +1,12 @@
+Selection resulting from ecological interactions is a major factor influencing
+phenotypic patterns across various levels of biological organization (Thompson 2005).
+Such selection contributes to trait matching between interacting individuals (Zhang
+et al. 2012), affects trait distributions within interacting populations (Bronstein
+et al. 2003), influences trait variation among populations of the
+same species (Thompson 2005), and shapes trait patterns at the
+community level (Strauss & Irwin 2004). At the community level,
+ecological interactions can promote both trait convergence (Wilson et al.
+2012) and trait disparity (Siepielski & Benkman 2010). Both theoretical
+and empirical studies suggest that different types of ecological interactions,
+such as mutualistic and antagonistic relationships, may lead to distinct
+trait patterns within communities (Thompson 1994).

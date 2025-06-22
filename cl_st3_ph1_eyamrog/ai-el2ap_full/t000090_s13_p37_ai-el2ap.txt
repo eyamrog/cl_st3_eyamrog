@@ -1,0 +1,5 @@
+Overall, the Dimensions exhibit low correlations with one another, indicating
+that they assess distinct aspects of Academic Institutions. This suggests
+that institutional performance is not uniform across all Dimensions; an
+institution may demonstrate strong performance in one Dimension while performing
+less well in others.

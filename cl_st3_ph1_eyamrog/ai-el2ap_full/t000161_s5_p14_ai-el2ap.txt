@@ -1,0 +1,14 @@
+Chorus and Waltman (2016) conducted a detailed analysis of journal
+self-citation and introduced a metric to assess increases in the
+Journal Impact Factor (JIF) attributable to self-citation, with the aim
+of identifying disproportionate and potentially unethical practices. They acknowledged the
+limitations of their metric and discussed circumstances in which self-citation
+may be justified. These circumstances include situations where a researcher
+is influenced by recent studies published in a particular journal
+and subsequently conducts similar research, making that journal a logical
+venue for submission. Additionally, if an author completes a manuscript
+and finds that the majority of relevant references are from
+a specific journal, submitting to that journal may be a
+reasonable choice. Such scenarios are likely relevant to the Zootaxa
+mega-journal phenomenon and may partially account for its elevated self-citation
+rates.

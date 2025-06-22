@@ -1,0 +1,22 @@
+Velez-Cuartas, Lucio-Arias, and Leydesdorff [16] conducted a comparative analysis of
+the visibility of Latin American and Caribbean (LAC) publications in
+the Web of Science (WoS) and SciELO databases to assess
+the dissemination of scientific knowledge in the region. Their findings
+indicate that LAC scientific communications are predominantly written in Spanish
+and Portuguese, a trend attributable to the linguistic composition of
+the region and the geographical distribution of research collaborators. Collaborations
+within LAC are often influenced by partnerships with researchers from
+developed countries, particularly in Europe. Notably, LAC researchers serve as
+first authors in approximately two-thirds of multi-authored papers, suggesting substantial
+integration into global scientific networks. Analysis of LAC scientific publications
+indexed in WoS and available in Open Access (AA) reveals
+that the majority are published in English (70.37%), with Portuguese
+(17.86%) and Spanish (11.63%) following; other languages, such as French,
+Italian, and German, constitute only 0.19% [17]. When compared to
+the overall language distribution of LAC publications indexed in WoS,
+the proportions of Spanish and especially Portuguese are higher in
+the AA subset (11.63% and 17.86%, respectively, versus 7.40% and
+7.44%), while the proportion of English is lower (70.37% versus
+84.96%). In contrast, publications indexed in SciELO CI are primarily
+in Spanish (39.60%), followed by Portuguese (33.30%) and English (27.07%),
+with other languages representing only 0.03% [17].

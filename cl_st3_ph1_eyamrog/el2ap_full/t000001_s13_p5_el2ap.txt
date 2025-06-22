@@ -1,0 +1,14 @@
+ONT library preparation, chemistry and basecalling are also important factors.
+Both ligation-based and rapid preparations are appropriate for bacterial whole-genome
+sequencing, though ligation-based preparations can favour sequencing yield while rapid
+preparations can favour read length13. ONT currently offers MinION/GridION flow
+cells with two different pores: R9.4.1 (released in 2017) and
+R10.4.1 (released in 2022). The pores used in R10.4.1 flow
+cells are longer, improving homopolymer resolution and consensus accuracy, making
+them the better choice for assembly14. Basecalling, the computational process
+of translating the sequencer’s raw signals into nucleotide sequences, is
+under constant development, so users should opt for the most
+recent version of ONT’s recommended basecaller and use its highest-accuracy
+model. If users do not have an ONT sequencer with
+a GPU (e.g. a GridION), then access to a computer
+with a GPU will be required to perform basecalling.

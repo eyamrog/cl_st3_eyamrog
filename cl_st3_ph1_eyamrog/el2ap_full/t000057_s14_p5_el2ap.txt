@@ -1,0 +1,4 @@
+In order to predict the effectiveness of the riparian forest
+in accommodating storms of the region, we compared our median
+of infiltration capacity with 5-minutes rainfall intensities of different return
+periods (100, 50 and 25-years) available in Souza (2014).

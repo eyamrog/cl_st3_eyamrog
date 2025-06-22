@@ -1,0 +1,13 @@
+Results: Among participants (n=937, 72.3% female), those engaging in at
+least 30 minutes per day of moderate-to-vigorous physical activity (MVPA)
+or at least 15 minutes per day of vigorous physical
+activity (VPA) exhibited lower odds of prevalent depressive symptoms (MVPA:
+OR=0.71, 95% CI=0.53–0.96; VPA: OR=0.60, 95% CI=0.43–0.82), anxiety symptoms (MVPA:
+OR=0.71, 95% CI=0.54–0.96; VPA: OR=0.70, 95% CI=0.51–0.96), and co-occurring depressive
+and anxiety symptoms (MVPA: OR=0.71, 95% CI=0.52–0.96; VPA: OR=0.59, 95%
+CI=0.41–0.83). Participants who reported spending 10 or more hours per
+day in sedentary behavior had higher odds of depressive symptoms
+(OR=1.39, 95% CI=1.02–1.90). Additionally, each additional hour spent in sedentary
+behavior was associated with an increase of 0.22 points (95%
+CI=0.10–0.33) on the Beck Depression Inventory (BDI) and 0.16 points
+(95% CI=0.02–0.31) on the Beck Anxiety Inventory (BAI).

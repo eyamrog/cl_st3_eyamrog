@@ -1,0 +1,9 @@
+This study utilized the top 300 performing universities in Europe,
+as identified in the 2020 edition of U-Multirank. The selection
+of this sample was based not only on the availability
+of more comprehensive data, as previously discussed, but also on
+the advantage that these institutions are located within the same
+continent. This geographic consistency helps to minimize the influence of
+cultural and contextual differences, thereby allowing the analysis to focus
+primarily on the indicators and dimensions employed by the ranking
+system.

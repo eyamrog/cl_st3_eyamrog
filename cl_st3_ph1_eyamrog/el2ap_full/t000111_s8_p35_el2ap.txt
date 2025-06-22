@@ -1,0 +1,5 @@
+In a more recent investigation, wh-movement has been treated as
+a result of a checking operation, which is necessary in
+order to verify a strong [+wh] feature in a wh-operator;
+such an operation would only be possible in a specific
+configuration, namely, a Spec-head configuration (Cheng, 1991; Rizzi, 1991):

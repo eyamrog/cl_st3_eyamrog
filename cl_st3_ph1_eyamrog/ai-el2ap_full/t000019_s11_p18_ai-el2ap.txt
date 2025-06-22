@@ -1,0 +1,10 @@
+With the transformation of productive processes in contemporary society, numerous
+professional activities and citizen services have transitioned to digital formats,
+necessitating at least a basic level of information technology proficiency.
+In the Brazilian federal public sector, data from the Digital
+Government Secretariat of the Ministry of the Economy indicate that,
+prior to the COVID-19 pandemic, 54% of public services offered
+to the population had already been digitized. By the end
+of 2020, more than 60% of federal government services were
+available in digital form, with the stated objective of achieving
+full digitization (100%) by the end of 2022 (Brasil, 2020).

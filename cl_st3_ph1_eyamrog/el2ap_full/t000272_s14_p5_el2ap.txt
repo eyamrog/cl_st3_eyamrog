@@ -1,0 +1,23 @@
+The determination of minimum inhibitory concentration (MIC) was performed as
+recommended by the Clinical and Laboratory Standards Institute (CLSI 2009).
+The inoculum was standardized in tubes containing 5 mL of
+0.9% sterile saline solution. The microbial suspension was adjusted using
+a spectrophotometer (Shimadzu UV-mini 1240 – São Paulo, Brazil) at
+a wavelength of 625 nm, which is the equivalent to
+106 Colony Forming Units per mL (CFU/mL). For this step,
+the extract and the fractions were solubilized in 10% dimethyl
+sulfoxide (DMSO - Merck - Darmstadt, Hessen, Germany). One hundred
+microliters of each fraction or extract at a concentration of
+500 mg/mL was serially diluted in brain heart infusion broth
+(BHI – Difco - Detroit, MI, USA) in a 96-
+well plate (TPP - Trasadingen, Switzerland) along with the positive
+control (0.12% Chlorhexidine - Sigma-Aldrich - St. Louis, MO, USA).
+Ten microliters of inoculation with the microorganism was added to
+the wells. The plates were incubated at 37 ± 0.5
+°C for 24 hours. The bacterial growth was indicated by
+the addition of 20 µL of aqueous resazurin (Sigma-Aldrich -
+St. Louis, MO, USA) at 0.01% with subsequent incubation at
+37 ± 0.5 °C for two hours. Viable bacteria reduce
+the dye, changing its color to blue and the MIC
+was defined as the lowest concentration of test substance that
+inhibited the change of color of resazurin.

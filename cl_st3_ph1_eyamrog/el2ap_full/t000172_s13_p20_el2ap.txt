@@ -1,0 +1,14 @@
+Besides pp1ab, S, E, M, and N proteins, SARS-CoV-2 present
+at least 5 more ORFs, called ORF3a, ORF6a, ORF7a/7b, ORF8,
+and ORF10, which much less information is known regarding their
+molecular mechanisms of action in the viral replication cycle. SARS-CoV
+ORF3a is reported to bind to TRAF3 and ASC, promoting
+TRAF3 ubiquitination and activation of the NLRP3 inflammasome (Siu et
+al. 2019). Other studies have demonstrated that ORF3a presents binding
+affinities for caveolin-1 and calcium (Padhan et al. 2007; Minakshi
+et al. 2014). SARS-CoV ORF6 is localized in the ER
+and Golgi membranes in infected cells, binding to karyopherin alpha
+2 and karyopherin beta 1 proteins and hindering STAT1 nuclear
+import and its function (Frieman et al. 2007). Another study
+showed that nsp8 interacts with ORF6, suggesting that ORF6 protein
+plays a role in virus replication (Kumar et al. 2007).

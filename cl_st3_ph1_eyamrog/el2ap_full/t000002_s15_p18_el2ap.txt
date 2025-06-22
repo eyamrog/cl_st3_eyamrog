@@ -1,0 +1,6 @@
+In order to answer whether the groups became more dialogic
+(question 3), it was compared the aggregated results for non-dialogic
+utterances (the sum-up of codes 1, 3 and 5) with
+those considered dialogic (codes 2, 4 and 6). As the
+dialogic and non-dialogic measures are mirrored images, it suffices to
+conduct the statistical analysis for just one of them.

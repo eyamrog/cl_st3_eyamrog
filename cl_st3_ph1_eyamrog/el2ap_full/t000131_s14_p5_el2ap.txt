@@ -1,0 +1,6 @@
+Photosynthetic pigment analysis - Photosynthetic pigments were extracted and quantified
+following the methodology of Hendry and Price (1993). Leaf discs
+(0.1g) were ground in 80% acetone, and the absorbance was
+measured at 480, 645, and 663 nm using a spectrophotometer
+model Genesys 5Spectronic. Based on the absorbance value, the concentration
+of total chlorophyll and carotenoids were calculated.

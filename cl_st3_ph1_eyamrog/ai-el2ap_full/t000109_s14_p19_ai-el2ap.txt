@@ -1,0 +1,9 @@
+To obtain an approximate representation of locations where citizens reside,
+work, engage in consumption, and participate in leisure activities, GIS
+tools integrated within Repast were utilized. This spatial information, combined
+with data on daily movements, was used to characterize the
+social interaction patterns of each Ha. These patterns were identified
+based on 441 individual field surveys, which were conducted in
+accordance with age and sex quotas and adhered to the
+requirements set by the Ethics Committee regarding survey design, data
+anonymization, and informed consent.

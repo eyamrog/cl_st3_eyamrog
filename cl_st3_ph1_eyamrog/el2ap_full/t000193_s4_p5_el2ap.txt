@@ -1,0 +1,3 @@
+- Preference for drugs associated with lower infection risk (interferons,
+glatiramer, teriflunomide, and natalizumab) and extended-interval dosing of natalizumab, when
+safe.

@@ -1,0 +1,7 @@
+The sampling method employed in the 10 plots was adapted
+from Braga et al. (2016) and involved collecting four samples
+per plot using a 25 cm x 25 cm template.
+Sampling was conducted in September 2018, during the transition from
+the dry season to the rainy season, as this period
+has been shown to yield greater species diversity in seed
+bank analyses (Braga et al. 2016).

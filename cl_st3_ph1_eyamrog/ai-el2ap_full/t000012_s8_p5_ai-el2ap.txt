@@ -1,0 +1,12 @@
+Opportunism is a central component of some ecological networks; however,
+opportunistic species coexist with highly specialized species that also contribute
+to network structure. Certain specialists exhibit extreme specificity by interacting
+with a single partner, as observed in some gall-making insects,
+floral parasites, myrmecophytes, and anemonefishes. In contrast, other specialized species
+are highly connected within the network, relying on interactions with
+a diverse array of partners for persistence. Examples of these
+highly connected specialists include obligate nectarivorous insects, obligate frugivorous birds,
+cleaner fishes, hypercarnivores, and specialized cleaning birds such as oxpeckers.
+Investigating the integration of opportunistic and specialized lifestyles within ecological
+networks can provide valuable insights into the ecological and evolutionary
+processes that shape species-rich assemblages of interacting organisms.

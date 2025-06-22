@@ -1,0 +1,3 @@
+The variables III_IV, Hd_d, Bd_w, I, Hv_b, Hd_a, Bv_x, Hv_a,
+Hv_d, and Hd_b exhibited high values, with the variables listed
+in order from the strongest to the weakest.

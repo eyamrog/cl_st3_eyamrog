@@ -1,0 +1,9 @@
+Results: The model data were well-fitted, with R2 values close
+to 0.999. Up to May 15, 14,817 COVID-19 deaths were
+confirmed in the country. Amazonas has the highest rate of
+accumulated cases per 1,000,000 inhabitants (321.14), followed by Ceará (161.63).
+We estimated that Rio de Janeiro, Roraima, Amazonas, Pará, and
+Pernambuco will experience a substantial increase in the rate of
+cumulative cases until July 15. Mato Grosso do Sul, Paraná,
+Minas Gerais, Rio Grande do Sul, and Santa Catarina will
+show lower rates per 1,000,000 inhabitants.

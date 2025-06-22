@@ -1,0 +1,4 @@
+We will use the forest.netmeta function of the netmeta package
+to build and present the geometry of different interventions. We
+will use Nodes to represent the intervention and edges to
+show comparisons between interventions.

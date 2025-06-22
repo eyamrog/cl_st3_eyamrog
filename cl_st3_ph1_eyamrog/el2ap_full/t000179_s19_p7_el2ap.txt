@@ -1,0 +1,5 @@
+The one-dimensional model and the two-dimensional model had adequate goodness-of-
+fit indices. However, the two-dimensional model has an extremely high
+latent correlation (greater than 0.80) suggesting that its dimensions might
+have been overlapping (see Table 3). Hence, the best model
+for this scale was the one-dimensional one with eight items.

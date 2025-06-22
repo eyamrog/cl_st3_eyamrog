@@ -1,0 +1,8 @@
+Table 2 presents the empirical results of the Johansen co-integration
+analysis. The Johansen test is designed to determine whether a
+long-run relationship exists among the series by testing the null
+hypothesis of no co-integrating relationship against the alternative hypothesis that
+at least one co-integrating equation is present. Given that the
+model includes five variables, the analysis assesses whether the number
+of co-integrating equations is zero, one, two, three, four, or
+five.

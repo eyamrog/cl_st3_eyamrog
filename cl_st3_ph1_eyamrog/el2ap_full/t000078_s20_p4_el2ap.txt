@@ -1,0 +1,5 @@
+To identify the SBD candidates, we consider the Local Moran’s
+I, which composes the LISA (Local Indicator of Spatial Association)
+indicators. Table 3 shows the total of tracts area statistically
+significant at least 5%. The results are much more sensitive
+to the distance-formatted weighting matrix.

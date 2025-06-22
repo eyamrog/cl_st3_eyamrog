@@ -1,0 +1,18 @@
+RBMFC authors and reviewers were significantly more likely to disagree
+than to agree that open identities are fairer to authors
+(see Supplemental Table 2 in Fontenelle, 2020b), whereas participants in
+Ross-Hellauer (2017) were equally likely to agree or disagree. This
+difference may be attributable to RBMFC’s use of double-blind review,
+which has been consistently identified as the preferred peer review
+model in researcher surveys (Mulligan et al., 2013; Pontille &
+Torny, 2014; Tennant et al., 2017; Bernal & Román-Molina, 2018).
+Transitioning a natural science journal from single-blind to double-blind review
+has been shown to reduce bias against female authors and
+may also benefit other author demographics (Pontille & Torny, 2014;
+Tennant et al., 2017). However, blinding reviewers to authors’ identities
+does not eliminate bias if the blinding is ineffective, nor
+does it address potential bias related to the content of
+the manuscript, such as its conclusions or theoretical framework (Pontille
+& Torny, 2014; Tennant et al., 2017). Furthermore, there is
+currently no empirical evidence regarding the impact of open identities
+on bias in peer review.

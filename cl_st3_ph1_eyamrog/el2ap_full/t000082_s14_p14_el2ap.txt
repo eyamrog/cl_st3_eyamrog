@@ -1,0 +1,9 @@
+Finally, we compare the coevolutionary dynamics of the Central scenario
+with the scenario in which cheating interactions were randomly distributed
+across the network (the Random scenario). To create the Random
+scenario, we measure the frequency of negative effects in networks
+(fCh) in the Central scenario, as shown in Equation 10,
+and use this value of frequency as a p in
+the networks of the Random scenario. We considered n(-+) as
+the number of cheating interactions and n(++) as the number
+of mutualistic interactions in the network.

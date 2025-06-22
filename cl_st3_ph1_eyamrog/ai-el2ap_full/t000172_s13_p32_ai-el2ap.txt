@@ -1,0 +1,14 @@
+Various strategies to inhibit viral binding have been explored. Human
+recombinant ACE2 has been shown to reduce SARS-CoV-2 recovery in
+vitro and to protect mice from acute lung injury induced
+by SARS-CoV (Monteil et al., 2020). Additionally, a chimeric protein
+consisting of the extracellular domain of ACE2 fused to the
+Fc region of IgG1 demonstrated favorable pharmacological properties in mice
+(Lei et al., 2020). SARS-CoV-2 can enter host cells via
+two primary mechanisms: endocytosis through endosomes or direct membrane fusion.
+Arbidol, a broad-spectrum antiviral agent, inhibits viral envelope fusion (Teissier
+et al., 2011) and clathrin-mediated endocytosis (Blaising et al., 2013),
+and has been shown to suppress SARS-CoV replication in vitro
+(Khamitov et al., 2008). Clinical data indicate that patients treated
+with Arbidol experienced a shorter duration of SARS-CoV-2 infection compared
+to those treated with lopinavir/ritonavir (Zhu et al., 2020).

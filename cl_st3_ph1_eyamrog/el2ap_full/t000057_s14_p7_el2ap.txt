@@ -1,0 +1,5 @@
+Data análisis - Sample sufficency was verified for infiltration capacity
+using a simple plot of mean and standard deviation versus
+number of samples. An adequate sample size was considered met
+when central tendency statistics stabilized for at least three times
+consecutively (Salemi et al. 2020).

@@ -1,0 +1,7 @@
+Apart from the salience of the anaphor, the order of
+the clauses may also affect anaphora resolution. The hypothesis of
+the Active Search Mechanism (ASM), from Kazanina et al. (2007),
+suggests that, in cases of pronominal cataphora in English (as
+in (8)), speakers would choose the first possible antecedent that
+appears after the anaphor. Usually, the first possible antecedent is
+the subject of the main clause.

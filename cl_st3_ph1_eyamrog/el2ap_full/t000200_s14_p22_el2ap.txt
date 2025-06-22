@@ -1,0 +1,13 @@
+The distribution of cases of leptospirosis and the rainfall indexes
+were first obtained in accordance with each one of the
+Health Regions. For each of the 16 regions, the following
+data are presented: the number of leptospirosis cases, the average
+rates of the disease and their rainfall indexes, the proportional
+contribution of cases and their rainfall indexes, and the ratios
+of cases per unit of rainfall. In order to estimate
+the relative excess in the incidence of diagnosis, upon comparing
+the 16 regions, ratios of monthly leptospirosis rates were calculated,
+taking as a reference the month with the lowest rate
+in the period (Serrana). The probability of leptospirosis occurrence when
+comparing each of the regions with that of reference is
+represented by the relative risk (RR).

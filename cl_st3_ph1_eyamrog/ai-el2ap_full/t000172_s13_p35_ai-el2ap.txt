@@ -1,0 +1,18 @@
+Chloroquine (CQ) has been evaluated for its activity against SARS-CoV.
+It induces alkalinization of acidic vesicles in cells infected by
+intracellular pathogens (Rolain et al. 2007) and was developed as
+an alternative to quinine for malaria treatment. Both CQ and
+hydroxychloroquine (HCQ) have been investigated for their effects on viral
+hepatitis (Pareja‐Coronel 1963), dengue virus (Farias et al. 2015), HIV
+(Paton et al. 2002), and other viruses, as well as
+on various intracellular bacteria, including Coxiella burnetii and Tropheryma whipplei,
+bacteria-like organisms such as Legionella pneumophila and Mycobacterium species, and
+fungal pathogens such as Histoplasma capsulatum and Cryptococcus neoformans (Rolain
+et al. 2007). CQ demonstrates antiviral activity in Vero E6
+and Huh7 cells infected with MERS-CoV (De Wilde et al.
+2014), but not in dendritic cells or monocyte-derived macrophages (Cong
+et al. 2018). In vitro, CQ is effective against SARS-CoV
+when administered either before or after viral exposure, interfering with
+ACE2 glycosylation and inhibiting viral binding (Keyaerts et al. 2004;
+Vincent et al. 2005). Additionally, CQ alters endosomal pH, which
+inhibits viral infection (Simmons et al. 2004).

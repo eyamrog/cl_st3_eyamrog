@@ -1,0 +1,5 @@
+Among the countries analyzed, those without a vaccination program exhibited
+the highest incidence and mortality rates (group 1.1), as well
+as the highest lethality (group 4.2). In contrast, countries with
+established vaccination programs demonstrated lower rates of incidence, mortality, and
+lethality.

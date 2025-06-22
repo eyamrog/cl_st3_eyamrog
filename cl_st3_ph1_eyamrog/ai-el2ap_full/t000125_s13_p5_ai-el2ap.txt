@@ -1,0 +1,7 @@
+As anticipated, data provided by universities and students are not
+always available, as some do not respond to the questionnaires.
+Additionally, the reliability and accuracy of the collected data may
+be limited. This represents a limitation of the ranking; however,
+it is not critical, as the primary objective is not
+to produce a comprehensive classification. Users can utilize the available
+information and disregard any missing data as needed.

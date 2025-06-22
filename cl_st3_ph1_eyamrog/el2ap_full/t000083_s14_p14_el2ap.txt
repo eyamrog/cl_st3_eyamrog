@@ -1,0 +1,2 @@
+To evaluate the correlation between the SBS factors, Pearson's correlation
+analysis was performed.

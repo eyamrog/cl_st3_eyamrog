@@ -1,0 +1,15 @@
+Severe coronavirus infection leads to epithelial cell proliferation, macrophage infiltration
+in the lung (Nicholls et al. 2003) and can cause
+pulmonary fibrosis, which can still be present in recovered patients
+(Antonio et al. 2003). About 15% of COVID-19 patients progress
+to acute respiratory distress syndrome (ARDS), the most severe cases
+should be treated in intensive care units (ICU) and receive
+oxygen therapy and mechanical ventilation (Li et al. 2020). In
+extreme cases of COVID-19, lung transplantation is a viable option
+(Chen et al. 2020a). The pharmacological interventions against coronaviruses, as
+summarized in figure 1 and table 4, are reviewed regarding
+their molecular mechanisms of action, effectiveness in vitro and in
+vivo, and ongoing clinical trials. There are two important aspects
+in the clinical outcome of COVID-19: one is viral entry/replication
+and the second is host response. Both are intimately linked
+and can be targeted by different compounds.

@@ -1,0 +1,12 @@
+The Unidimensional Congruence index (UniCo = 0.918) indicated that the
+data cannot be considered essentially unidimensional (Ferrando & Lorenzo-Seva, 2018).
+However, the Explained Common Variance (ECV = 0.85) met the
+threshold, as values greater than 0.85 suggest that the data
+may be treated as essentially unidimensional. Similarly, the Mean of
+Item Residual Absolute Loadings (MIREAL = 0.200), which is below
+the recommended cutoff of 0.300, also supports the assumption of
+essential unidimensionality. Furthermore, the fit indices evaluating the adequacy of
+the factor structure demonstrated strong values, with a Root Mean
+Square Error of Approximation (RMSEA) of 0.067 and a Non-Normed
+Fit Index (NNFI) of 0.976, indicating that the model provides
+a satisfactory fit to the data.

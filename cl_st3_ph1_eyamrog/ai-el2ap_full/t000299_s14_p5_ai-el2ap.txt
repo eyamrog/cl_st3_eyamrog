@@ -1,0 +1,8 @@
+Two reviewers (VS and DL) independently extracted data using a
+standardized form. When available in the reviewed articles, the following
+variables were recorded: country of study, study design, pacifier material,
+sample size (n), microorganisms analyzed, decontamination methods employed, accessibility of
+methods, and reported results. Discrepancies between reviewers were resolved by
+consensus with the involvement of a supervisor (FM). Due to
+heterogeneity among the studies, a meta-analysis was not conducted; instead,
+study characteristics and results were analyzed qualitatively.

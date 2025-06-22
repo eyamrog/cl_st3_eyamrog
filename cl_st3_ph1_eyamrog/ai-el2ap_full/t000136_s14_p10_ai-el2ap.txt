@@ -1,0 +1,4 @@
+To assess the potential moderating effect of NPO certification on
+the relationship between governance and donations, we included as a
+moderator variable the public certifications granted to nonprofit organizations by
+the Federal Government of Brazil.

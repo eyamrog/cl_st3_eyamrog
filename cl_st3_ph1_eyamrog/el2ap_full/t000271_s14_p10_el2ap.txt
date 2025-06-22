@@ -1,0 +1,4 @@
+Serum or plasma from antibody-positive samples (IgM, IgG, or IgG
++ IgM) was tested for the detection of SARS-CoV-2 by
+qRT-PCR - (Molecular IDT IntegratedDNA TechnologiesSARS-CoV-2 – N1/N2/P, Promega, Madison,
+USA).

@@ -1,0 +1,8 @@
+Table 1 shows four prevalence estimates. The proportion of SARS-Cov-2
+positive tests without any adjustment (crude prevalence) was 4.0% (95%
+CI 3.3-4.7%). The weighted prevalence by the Rio de Janeiro
+State population was slightly lower (3.8%; 95% CI 3.1-4.5%). Further
+adjustment by the test sensitivity and specificity produced even lower
+estimates when compared to the crude prevalence: 3.6% (95% CI
+2.7-4.4%) for the non-weighted prevalence and 3.3 (95% CI 2.6-4.1%)
+for the weighted prevalence.

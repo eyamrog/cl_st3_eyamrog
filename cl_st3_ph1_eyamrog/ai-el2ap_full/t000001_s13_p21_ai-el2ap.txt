@@ -1,0 +1,7 @@
+While the approximately 5 kbp rRNA operon represents the longest
+repeat in many bacterial genomes, longer repetitive sequences can occur.
+For instance, the chromosome of Mycobacterium smegmatis mc2155 contains a
+56 kbp duplication. In these cases, standard Oxford Nanopore Technologies
+(ONT) read lengths of around 20 kbp may be inadequate
+for complete assembly, and ultra-long reads of approximately 100 kbp
+are required (Figure 2C).

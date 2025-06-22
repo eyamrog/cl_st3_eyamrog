@@ -1,0 +1,4 @@
+Additionally, when Equation 1 is estimated using level-level function form,
+the econometric estimation identifies more SBD than log-level form; however,
+the R2-adjusted of these models is lower than the semi-
+logarithmic models, as shown before.

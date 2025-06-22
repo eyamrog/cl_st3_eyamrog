@@ -1,0 +1,13 @@
+To give an idea of the effects of using the
+rules defined by the “U-Multirank”, Figure 2 shows the average
+of the Dimensions, in the vertical axis, as a function
+of the position of the Academic Institution as given by
+the “U-Multirank” in the horizontal axis. All the 1070 European
+Academic Institutions listed in the 2020 version are considered for
+this study. Of course there is a tendency of higher
+averages for the best performers, but the correlation is not
+strong, as clearly seen in Figure 2. Many Institutions with
+grades above 2.5 are among the last 300 hundred positions
+in the general ranking. It shows that the rules defined
+by the “U- Multirank” need to be considered with caution,
+and even be revised.

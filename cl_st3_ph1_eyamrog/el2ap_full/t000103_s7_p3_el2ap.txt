@@ -1,0 +1,6 @@
+Data from Portuguese and Brazilian speakers who study English or
+Spanish in a Brazilian or a Portuguese university are compared
+to data from native speakers of these languages. They volunteered
+to answer an online questionnaire that tested their proficiency level
+in the L2 and asked them to identify the subject
+of ambiguous sentences in their L1 and L2.

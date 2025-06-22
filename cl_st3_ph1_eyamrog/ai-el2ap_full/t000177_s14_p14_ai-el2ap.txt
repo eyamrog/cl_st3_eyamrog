@@ -1,0 +1,6 @@
+Decontamination Unit: Compact decontamination units, as illustrated in Figure 2,
+can be installed either within the room or externally, where
+they function by capturing indoor air and exhausting it to
+the outside environment. The use of exhaust systems is particularly
+important in areas with a high risk of contamination, such
+as rooms designated for patients with infectious diseases.

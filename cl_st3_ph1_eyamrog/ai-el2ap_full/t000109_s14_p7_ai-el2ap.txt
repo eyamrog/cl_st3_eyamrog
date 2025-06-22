@@ -1,0 +1,6 @@
+Each Ha is assigned a state attribute corresponding to one
+of seven epidemiological compartments into which the metapopulation is divided:
+S (susceptible), E (latent or exposed), I (symptomatic infectious), A
+(asymptomatic infectious), R (recovered), D (dead), and H (hospitalized). Figure
+2 presents a diagram illustrating the components, relationships, and parameters
+of this submodel.

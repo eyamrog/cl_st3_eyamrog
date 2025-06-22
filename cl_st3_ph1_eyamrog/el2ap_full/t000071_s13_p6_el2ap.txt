@@ -1,0 +1,25 @@
+While Beall did not specify the reasons that individual publishers
+or journals were added to his list, Cabells Predatory Reports
+(2021) identifies the “violations” for each title, ranking them from
+“severe” to “minor.” Cabells’ “60+ behavioral indicators” for journals are
+described as indicative of “misconduct,” “fraudulent operations,” and “probable threats”
+(Cabells, n.d.). For the journals using OJS in its list,
+Cabells identified 4.3 violations, on average, per journal. The most
+common violation was that the journal failed to possess or
+post a policy for digital preservation. This “moderate” violation is
+included for 107 or 45.1 percent of the journals using
+OJS (Table 2). For each of the publishers that had
+one or more journals in Cabells Predatory Reports, we prepared
+an email for publisher and editors that listed their violations.
+After all, it would be very unlikely that they would
+otherwise have access to this list. We also included our
+recommendations for addressing these concerns and the method of notifying
+Cabells of the corrections that they may have made to
+their journals. For the most common violation, for example, we
+recommended that the publisher sign up their journals for the
+PKP Preservation Network, available to all journals using OJS and
+post this as their preservation policy. As the emailing of
+the publishers was only completed at the point at which
+we submitted this chapter for publication, we are not in
+a position to report on its success in helping the
+publishers.

@@ -1,0 +1,8 @@
+At the conclusion of all germination trials, we determined the
+germination percentage (G%) and mean germination time (MGT) based on
+the daily count of germinated pyrenes, following the methodologies described
+by Labouriau (1983) and Ranal and Santana (2006). Additionally, the
+germination speed index was calculated according to Maguire (1962). Non-germinated
+pyrenes were categorized as either dormant or dead; however, seed
+viability was not assessed using a tetrazolium test. Seeds classified
+as dormant or dead were excluded from the data analysis.

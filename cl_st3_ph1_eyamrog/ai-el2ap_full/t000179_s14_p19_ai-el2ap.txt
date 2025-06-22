@@ -1,0 +1,11 @@
+The fit of the different models for the three scales
+was evaluated in three steps. First, a set of goodness-of-fit
+indices was estimated, including the Comparative Fit Index (CFI) and
+the Tucker-Lewis Index (TLI), with optimal values defined as ≥0.95,
+as well as the Standardized Root Mean Square Residual (SRMR)
+and the Root Mean Square Error of Approximation (RMSEA) with
+a 90% confidence interval, both considered adequate if <0.08 (26,
+27). In the second and final step, for scales comprising
+two or more dimensions, the correlations between dimensions were assessed
+to determine the extent of overlap. A correlation coefficient below
+0.80 was considered indicative of clear differentiation between dimensions (23).

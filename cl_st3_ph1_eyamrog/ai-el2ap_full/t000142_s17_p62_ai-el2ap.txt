@@ -1,0 +1,4 @@
+The application of the Fourier Cointegration Test developed by Banerjee,
+Arčabić, and Lee (2017), which utilizes Fourier functions, indicates the
+presence of a long-run cointegration relationship between the foreign exchange
+rate and femicide.

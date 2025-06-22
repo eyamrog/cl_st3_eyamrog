@@ -1,0 +1,6 @@
+Insects were identified by experienced taxonomists using identification keys published
+by Galati (2003) and Young and Duncan (1994). The dataset
+is formatted according to the Darwin Core standard and includes
+57 terms. All mandatory fields are present and have been
+validated through screening in the FIOCRUZ IPT. Metadata fields are
+also available on the corresponding online pages.

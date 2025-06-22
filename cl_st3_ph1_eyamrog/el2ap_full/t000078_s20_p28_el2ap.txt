@@ -1,0 +1,8 @@
+The Morumbi district starts to present the statistically significant coefficient
+with the sign expected from the theoretical models after increasing
+the distance cut-off by 10%. However, the coefficient of region
+A7 ceases to be statistically significant, although the signals remain
+as expected. It should be noted that the coefficients that
+estimate the commuting effect concerning the areas A4, A28, and
+A32 are statistically significant for both specifications of the spatial
+weight matrices.

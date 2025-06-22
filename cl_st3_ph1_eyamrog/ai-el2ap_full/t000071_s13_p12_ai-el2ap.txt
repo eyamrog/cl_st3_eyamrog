@@ -1,0 +1,19 @@
+The proportion of journals using OJS on these two lists
+provides limited reassurance. Given that OJS is an open-source publishing
+platform that is free to download and offers documentation for
+setting up and operating journals, it might be expected to
+have greater adoption among journals with questionable practices. One possible
+explanation for its relatively limited use is that OJS is
+designed to facilitate editorial oversight and peer review, which may
+deter those who do not intend to implement such processes.
+Alternatively, the platform’s design and support may assist journals in
+meeting standards that reduce the likelihood of being labeled as
+“predatory.” Nevertheless, there is evidence that some journals use OJS
+to charge authors for publication without conducting peer review, which
+undermines scientific integrity. Although both lists may overcount the number
+of journals, the proportion of OJS-using journals is higher in
+the more recent Cabells Predatory Reports list (3.2 percent) compared
+to Beall’s list (1.2 percent), and Cabells also appears to
+include more journals from the Global South. This increase may
+be attributable to the overall growth of OJS, highlighting the
+need for platform developers to address these concerns.

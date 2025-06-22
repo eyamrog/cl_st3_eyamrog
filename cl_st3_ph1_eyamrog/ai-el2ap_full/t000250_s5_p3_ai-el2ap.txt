@@ -1,0 +1,23 @@
+In the early stages of the COVID-19 outbreak in China,
+a cross-sectional study reported that nearly 60% of participants did
+not meet the physical activity (PA) recommendations of at least
+150 minutes of moderate-to-vigorous physical activity (MVPA) per week, and
+identified an association between higher PA levels and reduced negative
+affect. Consistent with these findings, our results indicate that engaging
+in more than 30 minutes of daily MVPA is associated
+with lower prevalence of co-occurring depressive and anxiety symptoms. Additionally,
+our study found that performing at least 15 minutes of
+vigorous physical activity (VPA) per day was associated with a
+reduced prevalence of depressive, anxiety, and co-occurring depressive and anxiety
+symptoms. We also observed a linear association between VPA and
+the severity of depressive and anxiety symptoms, suggesting a dose-response
+relationship. However, no linear associations were observed between moderate physical
+activity (MPA) or MVPA and depressive or anxiety symptoms after
+adjusting for covariates. One possible explanation is that, during the
+pandemic, time spent in MPA may have been largely attributable
+to household activities, as most household tasks fall within this
+intensity range. In contrast, VPA may more accurately represent leisure-time
+physical activity. Previous evidence suggests that leisure-time PA is more
+strongly associated with positive mental health outcomes than household activities,
+and individuals who spend extended periods engaged in household activities
+may not experience the same mental health benefits.

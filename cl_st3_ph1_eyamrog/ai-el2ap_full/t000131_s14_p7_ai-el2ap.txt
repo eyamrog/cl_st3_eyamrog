@@ -1,0 +1,13 @@
+For the epidermis analysis, the lower epidermis (from hypostomatic leaves)
+was separated from the mesophyll using Jeffrey solution (10% chromic
+acid and 10% nitric acid, 1:1). Samples were stained with
+safranin for 30 seconds and mounted in 50% glycerin, following
+the protocol described by Kraus and Arduin (1997). Microscopic observations
+were performed using a QUIMIS Q720 ED microscope, and images
+were captured for further analysis. The numbers of epidermal cells
+and stomata were counted, and stomatal density (SD) and stomatal
+index (SI) were calculated using AnatiQuanti 2.0 software (Laboratory of
+Plant Anatomy/UFV). The stomatal index (SI) was determined using the
+equation: SI = [SN / (SN + EC)] × 100,
+where SN represents the number of stomata and EC represents
+the number of epidermal cells.

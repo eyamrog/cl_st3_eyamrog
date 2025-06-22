@@ -1,0 +1,10 @@
+This study builds upon previous research (Bruscato & Baptista, 2022a,
+2022b) by comparing ambiguity resolution in English, Spanish, and Portuguese,
+which are identified as the three most widely spoken European
+languages globally (Eberhard et al., 2020). The primary objectives are
+to examine: (a) the differences in ambiguity resolution strategies among
+English, Spanish, and Portuguese; (b) the extent to which L2
+learners' ambiguity resolution is influenced by their first language; and
+(c) the potential effects of main and subordinate clause order,
+(d) anaphor salience, and (e) verb lexical choice on ambiguity
+resolution processes.

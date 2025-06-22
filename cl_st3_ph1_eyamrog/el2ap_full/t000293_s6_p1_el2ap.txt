@@ -1,0 +1,22 @@
+The results of the present study show that chest CT
+has a good performance for the diagnosis of SARS-CoV-2 infection
+patients at a cancer center. We classified the results of
+chest CT scans according to findings already described for the
+interpretation of studies in patients with suspected COVID-19. We studied
+two scenarios for the CT interpretation: in the first one,
+we considered positive for COVID-19 only chest CT with typical
+findings and, in the second one, we also considered positive
+the CTs with findings described as indeterminate. This information can
+be useful in a triage situation when CT scans are
+avail- able but access to the RT-PCR test is limited,
+the results are time consuming and there is a shortage
+of hospital beds and isolation units. It is interesting to
+note that the first scenario showed high specificity, which gives
+confi- dence to select patients with positive results as those
+who should benefit from investigative or intervention mea- sures, because
+there will be few false-positive results. The second scenario showed
+high sensitivity, which provides confidence to select patients with negative
+CT results as those in which other investigative or intervention
+mea- sures can be avoided or optimized, such as RT-PCR
+test, isolation and hospitalization, because false negative CT results are
+rare.

@@ -1,0 +1,9 @@
+Persistent lymphopenia associated with dimethyl fumarate, defined as a lymphocyte
+count below 500 cells/μL for more than six months, has
+been linked to an increased risk of progressive multifocal leukoencephalopathy
+(PML). Given that the original clinical trials utilized a threshold
+of 800 lymphocytes/μL to define significant lymphopenia, and considering the
+additional concern regarding the risk of severe respiratory infections, we
+have adopted this threshold for reassessing the choice of disease-modifying
+therapy. We recommend maintaining the same monitoring intervals and telemedicine
+follow-up protocols as those implemented for fingolimod and teriflunomide.

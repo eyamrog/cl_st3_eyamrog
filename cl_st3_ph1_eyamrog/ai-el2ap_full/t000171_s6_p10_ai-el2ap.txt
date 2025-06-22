@@ -1,0 +1,10 @@
+It is important to note that testing rates can influence
+both incidence and mortality rates, as disease diagnosis relies on
+the results of diagnostic tests. Consequently, higher testing rates in
+a given region are expected to result in increased reported
+incidence and mortality figures. Conversely, regions with inadequate testing capacity
+may experience significant underreporting of cases and deaths (21). The
+methodological approach employed in this study would be more appropriate
+in a context where testing rates are homogeneous across regions;
+however, achieving such uniformity is not feasible in the present
+setting.

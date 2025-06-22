@@ -1,0 +1,8 @@
+Table 9 makes a summary of the averages and standard
+deviations of the magnitudes of the Indicators for each Dimension.
+It confirms that there are good levels of independence among
+the Indicators, with a maximum average correlation coefficient of 0.3515,
+which occur for the Dimension “Research”, which is the highest
+correlation. It confirms that the Dimensions and Indicators selected by
+the “U-Multirank” make a good set to evaluate Academic Institutions,
+with not many cases of redundancy in the measurements.

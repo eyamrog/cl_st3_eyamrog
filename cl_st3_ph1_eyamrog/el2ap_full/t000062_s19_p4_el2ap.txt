@@ -1,0 +1,10 @@
+The species richness estimators that came closest to the total
+of observed species were Bootstrap and Jackknife 1, they indicated
+24 – 31 species potentially present (figure 5 a), this
+result was obtained when performed as a function of richness
+per treatment, where only Bootstrap was within the standard deviation
+in the three treatments (FA, IA, and DA), Jackknife 2
+and Chao 1 were the least conservative, Jackknife 1 and
+Bootstrap were the most conservative. IA has the smallest difference
+between estimators (figure 5 c), DA and FA have the
+greatest difference between estimators (figure 5 b, d).

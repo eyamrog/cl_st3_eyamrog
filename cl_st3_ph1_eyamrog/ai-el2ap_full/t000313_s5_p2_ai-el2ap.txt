@@ -1,0 +1,14 @@
+SARS-CoV-like viruses utilize ACE2 as a receptor to enter host
+cells. Figure 2 presents the diversity of 70 ACE2 orthologues,
+focusing on 30 potential binding sites for the S glycoproteins
+of SARS-CoV-like viruses. The high mutation and recombination rates characteristic
+of these coronaviruses contribute to their rapid evolution (Li et
+al., 2020a). Such genetic variability in RNA viruses is associated
+with an increased frequency of host switching and the ability
+to infect distantly related species more often than other pathogens
+(Woolhouse et al., 2005a, 2005b; Davies and Pedersen, 2008; Longdon
+et al., 2014). This evidence supports the hypothesis that SARS-CoV-2
+may have originated from one or more phylogenetically distant hosts,
+such as bats and pangolins (Guo et al., 2020; Ji
+et al., 2020; Lam et al., 2020; Li et al.,
+2020c; Wu et al., 2020; Zhou et al., 2020).

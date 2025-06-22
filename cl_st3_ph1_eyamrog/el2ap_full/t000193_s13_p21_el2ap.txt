@@ -1,0 +1,13 @@
+Regarding fingolimod, upper and lower respiratory tract infections are known
+for being more common in patients using this DMD. In
+the pivotal trial37, lymphopenia was frequent, and lymphocyte counts were
+measured monthly in the first trimester of use and every
+three months thereafter. Fingolimod-related lymphopenia, however, has not been associated
+with a higher incidence of infections38. Lymphocyte counts are not
+direct markers of immunosuppression because they do not reflect absolute
+lymphopenia but rather a redistribution of cells (lymphocyte retention in
+lymph nodes). From our perspective, laboratory testing should be restricted
+to the minimum necessary to mitigate coronavirus infection. We suggest
+one complete blood count (CBC) three months after introducing the
+treatment and every six months thereafter, aiming to keep lymphocytes
+above 200 cells.

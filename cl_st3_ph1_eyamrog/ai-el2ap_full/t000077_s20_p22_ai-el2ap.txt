@@ -1,0 +1,18 @@
+A reduced, yet unexpected, effect was observed for private sector
+workers with a formal contract, who were 0.98 percentage points
+less likely to engage in remote work compared to the
+reference group of private sector workers without a formal contract.
+This negative association emerges when fixed effects for types of
+work are included, indicating that the higher probability of remote
+work among formal employees is partly attributable to a composition
+effect. The existing literature on labor market informality during the
+Covid-19 pandemic highlights that informal jobs are generally more vulnerable,
+with relatively greater losses occurring in the informal sector (Balde
+et al., 2020; Bridi, 2020). Furthermore, the lower likelihood of
+remote work among informal workers is attributed to the nature
+of tasks predominant in informal employment, which are more likely
+to involve physical, manual, and contact-intensive activities (Hatayama et al.,
+2020; Garrote Sanchez et al., 2021). After accounting for fixed
+effects related to types of work, the results indicate that
+holding a formal contract is associated with a slight reduction
+in the probability of remote work.

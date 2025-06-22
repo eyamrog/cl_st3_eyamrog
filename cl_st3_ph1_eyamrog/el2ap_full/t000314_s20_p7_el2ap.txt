@@ -1,0 +1,4 @@
+When calculating with a length interval of 28 nt, the
+sectors around 3500 and 11000 appear with high values. Longer
+chains are not considered because the probability of occurrence decreases
+with the number of combinations of the four possibilities.

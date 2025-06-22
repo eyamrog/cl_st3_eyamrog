@@ -1,0 +1,6 @@
+According to the World Health Organization, testing, diagnosing, and isolating
+individuals are essential strategies for controlling the spread of Severe
+Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) and its associated clinical
+syndrome, coronavirus disease (COVID-19). Asymptomatic health-care workers (HCWs) represent a
+potentially underestimated source of infection and should therefore be considered
+for routine testing.

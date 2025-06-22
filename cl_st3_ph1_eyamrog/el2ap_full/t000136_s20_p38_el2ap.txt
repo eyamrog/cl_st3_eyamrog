@@ -1,0 +1,5 @@
+The analysis allowed us to identify, in our sample, the
+underlying governance structure in NPO of the environmental segment that
+operate in Brazil, and to infer the positive impact on
+donations with donor restrictions, as well as the absence of
+moderation of NPO’s certification in this relationship (Governance -> Donations).

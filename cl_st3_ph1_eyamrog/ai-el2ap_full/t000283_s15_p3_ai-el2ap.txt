@@ -1,0 +1,4 @@
+We will include randomized controlled trials (RCTs) and quasi-randomized controlled
+trials (quasi-RCTs) that assess the efficacy and/or safety of single
+or combined pharmacological interventions at any dosage for the treatment
+of COVID-19.

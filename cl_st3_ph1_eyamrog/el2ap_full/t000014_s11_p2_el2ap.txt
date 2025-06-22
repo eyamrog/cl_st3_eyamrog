@@ -1,0 +1,12 @@
+In his groundbreaking article that defined the field of language
+documentation, Himmelmann (1998) includes archiving as one of the four
+key steps in creating what he calls “a language documentation”
+(p. 171); that is, a collection of transcribed and annotated
+audiovisual recordings with their accompanying metadata. Metadata are the supporting
+contextual, technical, and administrative documentation that helps to explain the
+data, including any keys (e.g., codes, orthographies) needed to understand,
+analyze, and reuse them (KUNG et al., 2020). Woodbury (2003)
+calls such a collection of primary data and the associated
+metadata a “corpus” and he includes archiving as one of
+six criteria that establish the overall quality of a documentary
+corpus.

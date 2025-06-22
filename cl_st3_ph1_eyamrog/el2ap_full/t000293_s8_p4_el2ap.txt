@@ -1,0 +1,3 @@
+The aim of this study was to evaluate the accuracy
+of chest CT in patients with clinical suspicion of COVID-19
+at a cancer center.

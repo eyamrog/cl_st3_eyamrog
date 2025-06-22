@@ -1,0 +1,13 @@
+Biomonitoring uses data on the distribution of organisms in each
+habitat to diagnose the environment. Thus, the sampled organisms were
+identified at the lowest possible taxonomic level with the aid
+of identification keys. The method proposed by CETESB (2019) proposes
+the attribution of points to each organism, according to their
+sensitivity and tolerance to pollutants, being (5) sensitive species, (4)
+indifferent, (3) tolerant, (2) second order opportunists and (1) first
+order opportunists (BORJA et al., 2000; BORJA; MUXIKA:, 2005). A
+biological index is then created from the sum of the
+values to indicate the water quality, ranging from very poor,
+poor, fair, good and excellent quality (BUSS, 2008; CETESB, 2019).
+The determination of the indices allows the establishment of qualitative
+comparisons between the sampling sites.

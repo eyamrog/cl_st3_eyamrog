@@ -1,0 +1,10 @@
+Finally, in AbCSim the transmission probability from an interpersonal contact
+is a parameter linked not only to strictly epidemiological aspects,
+as 𝛽 is also multiplied or modulated by the variable
+v, which evolves throughout the year and is inversely proportional
+to daily mean temperature, according to studies that define COVID-19
+as a seasonal disease [36][37][38]. In this way, 𝛽 value
+is affected by the variable v(Temp), which reaches its maximum
+value (the unit) on July 15 and its lowest value
+(0.5) on January 15, when daily mean temperature is higher
+in the southern hemisphere.

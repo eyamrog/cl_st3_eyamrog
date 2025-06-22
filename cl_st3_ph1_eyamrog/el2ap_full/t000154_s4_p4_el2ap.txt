@@ -1,0 +1,7 @@
+The increasing popularity of preprints might render double-blind review unfeasible,
+and open identities unavoidable. Unfortunately, no experimental study to this
+date has examined the effects of transitioning from double-blind to
+open identities. Scholarly journals currently using double-blind peer review should
+ideally participate in randomized trials to examine the effects of
+such a transition on the quality and bias of peer
+review.

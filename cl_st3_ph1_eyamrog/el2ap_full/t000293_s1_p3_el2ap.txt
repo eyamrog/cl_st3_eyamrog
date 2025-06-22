@@ -1,0 +1,7 @@
+Results: Mean patients’ age was 58.2 years, most were male
+(60.4%) and had prior diagnosis of cancer (85.7%). CT showed
+typi- cal findings in 28.6%, indeterminate findings in 24.2% and
+atypical findings in 26.4%. RT-PCR results were positive for SARS-CoV-2
+in 27.5%. The sensitivity, specificity and accuracy in the first
+and second scenarios were respectively 64.0%, 84.8% and 79.1%, and
+92.0%, 62.1% and 70.3%.

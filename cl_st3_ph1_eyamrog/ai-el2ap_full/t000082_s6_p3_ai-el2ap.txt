@@ -1,0 +1,17 @@
+Cheating interactions can promote trait disparity in mutualistic networks by
+generating clusters of species traits at certain frequencies. At intermediate
+frequencies of cheating interactions, the combined effects of mutualistic selection,
+which favors trait matching, and cheater interactions, which favor trait
+mismatching, result in the formation of trait clusters. Theoretical evidence
+suggests that the proportion of positive to negative effects between
+species in real communities is approximately 1:1 (Dodds 1997). Therefore,
+the observed increase in trait disparity due to the formation
+of trait clusters at intermediate levels of cheating interactions may
+be empirically testable. The prevalence of cheaters may be underestimated
+in empirical networks (Genini et al. 2010), in part due
+to substantial behavioral plasticity among interacting individuals (Bronstein 2001). Intraspecific
+variation that generates behavioral plasticity may significantly influence individual fitness
+and occasionally result in cheating behavior. These findings suggest that
+trait disparity in mutualistic interactions may be higher than previously
+assumed, and future research would benefit from measuring trait disparity
+in empirical communities.

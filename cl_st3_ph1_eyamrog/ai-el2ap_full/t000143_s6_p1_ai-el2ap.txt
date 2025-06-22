@@ -1,0 +1,9 @@
+This study has several limitations related to its methodology. The
+potential for ecological fallacy remains, as associations identified at the
+aggregate level do not necessarily reflect associations at the individual
+level. Additionally, the study may be subject to low construct
+validity, given that not all relevant explanatory variables may have
+been included in the analysis. To mitigate some of these
+limitations, the study utilized variables from multiple national databases; however,
+this approach may introduce variability in data quality due to
+reliance on indirect estimates.

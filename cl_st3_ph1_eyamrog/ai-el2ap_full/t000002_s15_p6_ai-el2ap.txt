@@ -1,0 +1,11 @@
+Counting the occurrences of codes offers a broad overview of
+the data sample and facilitates the identification of patterns both
+within and across events (Snell & Lefstein, 2011). However, this
+approach is associated with certain limitations, such as the tendency
+to fragment the data and potentially overlook contextual information or
+meanings that are not captured by the codes (Cohen et
+al., 2007). As a result, systematic coding has been characterized
+as reductionist (Mercer et al., 2004; Snell & Lefstein, 2011).
+The following subsection presents an example of the types of
+research questions and findings that can be generated through systematic
+coding.

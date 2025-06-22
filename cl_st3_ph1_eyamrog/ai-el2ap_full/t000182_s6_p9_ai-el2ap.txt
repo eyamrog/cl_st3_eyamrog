@@ -1,0 +1,26 @@
+Immelmann (1983) emphasizes that while appetitive behavior may include both
+taxis components and fixed action patterns (FAPs), not all instances
+of taxis result in FAPs. Although the initiation of an
+FAP requires an external stimulus, different sensory modalities may independently
+suffice to trigger it. In arena 1, phase 1, visual
+cues—if detectable by Belminus bugs—were insufficient to elicit either the
+FAP or host-mediated taxis, likely because the bugs were unable
+to see the cockroach through the glass barrier. However, previous
+observations indicate that a visual cue, such as a plastic
+dummy resembling a drop of water, can be sufficient to
+trigger the FAP (Páez-Rondón et al. 2018). It remains unclear
+which specific cues elicited the FAP when the glass barrier
+was removed in phase 2, but the presence of the
+host reliably triggered the FAP to completion, with visual cues
+likely playing a significant role in this context. The extension
+of the bug’s proboscis toward the cockroach and subsequent sucking
+behavior observed in arena 1 can be classified as reflexes
+(Páez-Rondón et al. 2018). Approaches toward the cockroach in arena
+1, the black box containing the cockroach in arena 2,
+and positive choices in the Y-tube in arena 3 can
+be categorized as taxis. Taxis, proboscis extension, and sucking are
+all components of the FAP, and there is some overlap
+among these behaviors (Tinbergen 1951; Lorenz 1977; Eibl-Eibesfeldt 1979). While
+olfactory cues were necessary to elicit taxis behavior in arenas
+2 and 3, they were not sufficient to trigger the
+FAP.

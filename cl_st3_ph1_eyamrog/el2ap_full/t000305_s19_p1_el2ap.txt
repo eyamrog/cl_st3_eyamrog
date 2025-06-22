@@ -1,0 +1,3 @@
+Table 1 presents descriptive incidence, mortality, and lethality rates for
+each interest group. Incidence and mortality values are presented based
+on 100,000 inhabitants and lethality values based on 100 cases.

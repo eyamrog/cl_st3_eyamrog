@@ -1,0 +1,11 @@
+Some uncertainty arises from the fact that, being a new
+disease for which biochemical tests are not widely available, it
+is possible that the cause of death may be attributed
+to other factors but COVID-19 in some cases. Following the
+guidelines by the Brazilian Ministry of Health, we chose to
+include the deaths attributed directly to COVID (suspected and con­
+firmed) plus the excess deaths attributed by the ARPEN data
+to Severe Acute Respiratory Syndrome (SARS) in 2020 with respect
+to 2019 (deaths in 2020 minus the deaths in 2019,
+which we consider a baseline) in the count discussed in
+this article.

@@ -1,0 +1,8 @@
+This paper proposes two additional rules for generating a comprehensive
+ranking that incorporates all available grades. The first rule involves
+calculating the simple average of all presented Indicators. While this
+approach utilizes the complete dataset, it assigns equal weight to
+each Indicator without accounting for the relative importance of the
+different Dimensions. This is problematic because the number of Indicators
+per Dimension ranges from four to eleven, resulting in certain
+Dimensions exerting disproportionately greater influence on the final grade.

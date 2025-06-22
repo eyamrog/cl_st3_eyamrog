@@ -1,0 +1,12 @@
+ANOVA followed by Tukey’s test was used to compare thalli
+weights across the three cultivation weeks within each treatment. Final
+weights from the immersion treatments with 5% liquid detergent and
+1% povidone iodine were compared to the control using ANOVA,
+while the Kruskal-Wallis test was applied to compare final weights
+from the 5% liquid detergent and 0.2% sodium hypochlorite treatments
+to the control. Relative growth rates (RGRs) of thalli immersed
+in 5% liquid detergent and 0.2% sodium hypochlorite were analyzed
+in comparison to the control using ANOVA and Tukey’s test.
+The Kruskal-Wallis test was used to compare RGRs of thalli
+immersed in 5% liquid detergent and 1% povidone iodine to
+the control.

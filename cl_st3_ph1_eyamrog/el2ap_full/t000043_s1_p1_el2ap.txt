@@ -1,0 +1,14 @@
+Self-Controlled Case Series (SCCS) and Self-Controlled Risk Interval (SCRI) study
+designs are types of studies where cases act as their
+controls. They are commonly used by pharmacovigilance to study rare
+events. There is no existing tool for the assessment of
+the methodological quality of such studies. Critical appraisal in primary
+and secondary studies is crucial as it enables the reader
+to evaluate how the study was elaborated and take this
+into consideration while analyzing the evidence presented. This paper presents
+a proposal of an instrument that has been adapted from
+an already existing tool used for cohort studies and it
+combines the elements of this tool and the premises of
+the SCCS and SCRI study designs. It is expected that
+the tool will help researchers and readers in critically appraising
+SCCS and SCRI study designs.

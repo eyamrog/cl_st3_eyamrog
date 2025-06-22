@@ -1,0 +1,19 @@
+Considering a general hedonic model for the house 𝑖 in
+years 𝑡, the estimated empirical model is as follows: <>,
+where, 𝑃𝑖𝑡 is the price of house 𝑖 in year
+𝑡, 𝐶𝐵𝐷𝑖 is the center-house distance, 𝑆𝐵𝐷𝑝,𝑖 are the distances
+from house 𝑖 to each SBD candidate (previously identified in
+the first state), 𝑍𝑖𝑡 are the intrinsic characteristics of house
+𝑖 in 𝑡, 𝐴𝑖 are the distance vector of house
+𝑖 to each 𝑙 amenities, 𝑇𝑖 is the distances of
+house 𝑖 to each 𝑚 avenues and modes of transportation,
+𝐷 is the time dummy vector, 𝜀𝑖𝑡 is the spatially
+autocorrelated error and 𝑢𝑖𝑡 is the random error term. Spatial
+lags are created by using 𝑤𝑖𝑗 (neighborhood spatial matrix), under
+the following conditions: a) 𝑤𝑖𝑗= 0 for 𝑗= 𝑖, b)
+0 < 𝑤𝑖𝑗≤1, if 𝑗 is neighbor of 𝑖 and
+c) <>, in general, it is equal to one. Therefore,
+𝑤𝑖𝑗𝑃𝑖𝑡 is house price spatial lag and 𝑤𝑖𝑗𝑋𝑚,𝑖 is covariates
+spatial lag (𝑍𝑘𝑖𝑡, 𝐴𝑙𝑖, 𝑇𝑚𝑖). The coefficients to be estimated
+are 𝛼, 𝜌, 𝜃, 𝜏𝑝, 𝛾𝑘, 𝛽𝑙, 𝜅𝑜, 𝜇, 𝜆
+e 𝜎𝑢.

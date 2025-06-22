@@ -1,0 +1,7 @@
+The data associated with the biological specimens deposited in FIOCRUZ/COLFLEB
+are significant as they document the distribution of sand flies
+across various regions of Brazil and provide extensive temporal coverage,
+with specimens collected from 1939 to 2021. These data are
+applicable to a range of research areas, including taxonomy and
+systematics, ecological niche modeling, and other scientific investigations, as well
+as vector control activities.

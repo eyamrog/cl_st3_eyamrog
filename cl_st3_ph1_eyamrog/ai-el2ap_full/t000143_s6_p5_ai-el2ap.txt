@@ -1,0 +1,13 @@
+Income concentration, as measured by the GINI index, demonstrated an
+inverse association with femicide rates in the final spatial model,
+indicating that areas with lower social inequality exhibited higher femicide
+rates. This finding contradicts the results of Leite et al.
+(2017), who reported a direct relationship between social inequality and
+femicide rates. However, the same study identified regional exceptions, such
+as Espírito Santo State, which displayed lower inequality but higher
+rates of female mortality due to aggression compared to other
+Brazilian states analyzed. It is important to emphasize that, although
+socioeconomic factors are associated with femicide, the determinants of violence
+are not limited to poverty and social inequality. This underscores
+the multifactorial nature of violence against women, which arises from
+the interaction of individual, relational, social, cultural, and environmental factors.

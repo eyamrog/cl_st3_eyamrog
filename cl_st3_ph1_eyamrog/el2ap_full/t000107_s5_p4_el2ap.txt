@@ -1,0 +1,7 @@
+To solve all the issues described above we adapted and
+expanded Alves and Vasconcellos (2016) methodology. More specifically, we conducted
+searches on the websites Domínio Público, BDTD and CAPES using
+not only keywords, but also strings of keywords, a variety
+of filters, and author’s names searches. These measures helped us
+both verify all the information retrieved and streamline the results,
+to avoid duplicating/missing information.

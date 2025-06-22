@@ -1,0 +1,11 @@
+Three distinct trends in the daily number of COVID-19-attributed deaths
+are observable in Figure 1. From March 17th to April
+5th, there is a marked increase in reported deaths, with
+an average rate of approximately 5.2 deaths per day. This
+is followed by a plateau in the number of deaths
+until April 19th, after which a second increase is observed.
+The analysis is limited to data up to April 27th
+due to a potential 14-day delay between the occurrence of
+death and the consolidation of information on the reporting website;
+consequently, more recent data were not available at the time
+of manuscript completion.

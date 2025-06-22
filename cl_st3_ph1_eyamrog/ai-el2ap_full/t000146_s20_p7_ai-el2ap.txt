@@ -1,0 +1,10 @@
+Figure 1-B presents data for the SciELO CI audience. Among
+the countries analyzed, only Brazil provides sufficient data to compare
+the percentage of citations in SciELO CI across the three
+publication languages. When publications are in Portuguese, the SciELO CI
+domain accounts for approximately two-thirds of the citations within the
+Web of Science (WoS) platform databases. For publications in Spanish,
+the impact within SciELO CI is slightly lower, at just
+under 60.8%. In contrast, publications in English have a less
+pronounced effect in the SciELO CI domain, with a citation
+rate of 40.8%.

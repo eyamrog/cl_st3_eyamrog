@@ -1,0 +1,14 @@
+In other to test for the presence or absence of
+unit root in the data used for the empirical analysis,
+the Augmented Dickey-Fuller (ADF) test was employed and the test
+result is as presented in Table 2 above, it showed
+that GD, INF and INT were stationary at level as
+their ADF values (4.180454, 3.173179 and 5.591438) were greater than
+0.05 critical value (3.02997, 2.991878 and 3.004861). These indicate that
+three variables were stationary at level that is order, I
+(0). While, FDI and EXC were stationary at First level
+as their ADF Values (10.14302 and 3.996066) were greater than
+0.05 critical value (2.998064 and 2.998064). Since the variables are
+integrated at level and first level I therefore, proceed to
+conduct co-integration test and short-run speed of adjustment from long-run
+disequilibrium.

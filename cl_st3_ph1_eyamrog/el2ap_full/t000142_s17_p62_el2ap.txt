@@ -1,0 +1,4 @@
+As a result of the Banerjee, Arčabić & Lee (2017)
+Fourier Cointegration Test, one of the cointegration tests based on
+Fourier functions, long-run cointegration was found between the foreign exchange
+rate and femicide.

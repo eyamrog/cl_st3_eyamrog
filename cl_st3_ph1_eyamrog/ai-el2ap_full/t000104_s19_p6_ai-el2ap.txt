@@ -1,0 +1,12 @@
+Biological indices were calculated according to CETESB (2019) and indicated
+the presence of sensitive organisms with the highest score (5),
+such as Trichoptera (with case) and Plecoptera (see Table 5).
+Tolerant organisms with a score of 1, including Diptera, Nematoda,
+Hirudinea, Turbellaria, Polychaeta, and Oligochaeta, were also identified, as shown
+in Table 4. The ecological index for each replicate and
+sampling site was determined by summing the scores assigned to
+the organisms found at each location. Most replicates were classified
+as having excellent or good water quality, while only two
+replicates (P2A and P3B) were classified as regular quality. When
+replicates were grouped by sampling site, all three locations were
+classified as having excellent water quality according to the index.

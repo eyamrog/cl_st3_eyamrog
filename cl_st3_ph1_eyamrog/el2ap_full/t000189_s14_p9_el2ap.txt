@@ -1,0 +1,6 @@
+Data extraction was performed in Microsoft Excel 2016 version, using
+a protocol prepared by the researchers, containing the following data:
+title of the article, author, place and year of publication,
+objective and type of study, sample size, characteristics of the
+study population, diagnosis/clinical manifestation of the infection, the prevalence of
+nutritional deficiency, and clinical outcomes associated with the deficiency.

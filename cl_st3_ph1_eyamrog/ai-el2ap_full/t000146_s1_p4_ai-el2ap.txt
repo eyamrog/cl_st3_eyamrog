@@ -1,0 +1,6 @@
+Conclusion: The extent to which a publication language is exposed
+varies according to the scientific output of each country. For
+Brazilian and US-American publications, the impact on audiences using other
+languages can be assessed through citation metrics. Additionally, the level
+of exposure provided by SciELO CI is valuable for evaluation
+purposes, especially for publications written in the national language.

@@ -1,0 +1,7 @@
+One possible explanation for the Rio/São Paulo disparity in mortality
+would be differences in available beds for Covid. Concerning hospital
+beds (per 100 000 population), São Paulo shows a better
+scenario compared to Rio de Janeiro (27.8 and 23.3, respectively)3.
+However, in the period evaluated, the lag in time between
+diagnostic and hospitalization was similar for Rio and São Paulo,
+around 5 days (5.8 and 5.9, respectively).

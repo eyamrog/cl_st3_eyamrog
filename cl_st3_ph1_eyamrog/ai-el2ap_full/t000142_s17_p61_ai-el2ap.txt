@@ -1,0 +1,5 @@
+Based on the error correction coefficient (ECC), the system's rebalance
+ratio can be calculated by taking the reciprocal of the
+ECC (1/0.044197075). This calculation suggests that a deviation resulting from
+a 1% shock in the foreign exchange rate is expected
+to be corrected within approximately 22.6 days.

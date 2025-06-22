@@ -1,0 +1,14 @@
+Given that Brazil implemented the most extensive capital controls following
+the global financial crisis, an analysis of this case provides
+significant insights into the subject. In contrast to cross-country studies
+that focus on the effectiveness and spillover effects of capital
+controls, Forbes et al. (2016) specifically investigate whether Brazil’s controls
+during 2006–2013 produced spillover effects on other economies, in addition
+to their direct impact on the Brazilian capital account. The
+regression analysis conducted by Forbes et al. (2016) indicates that
+the introduction of the IOF tax during the sample period
+led to a reduction in institutional investors’ holdings of the
+asset class targeted by the controls, particularly fixed income instruments.
+Furthermore, the results show that the reduction in investor positions
+was even more pronounced in certain equity classes, suggesting heightened
+investor caution in response to the government’s capital control measures.

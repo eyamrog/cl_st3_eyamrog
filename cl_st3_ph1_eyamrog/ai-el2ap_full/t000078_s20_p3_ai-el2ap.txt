@@ -1,0 +1,9 @@
+First, the results of the Global Moran’s I test are
+presented in Table 2, which reports the outcomes for the
+employment variables using the previously discussed weighting matrices. All results
+are statistically significant at the 1% level. The tests consistently
+indicate positive spatial correlation, suggesting that employment levels are spatially
+clustered such that areas with similar employment levels are located
+near each other. This finding implies that the spatial distribution
+of MSP employment is characterized by the concentration of similar
+employment levels in neighboring areas.

@@ -1,0 +1,4 @@
+Governance can be defined as a set of dimensions that
+encompass mechanisms of incentive and control designed to mitigate the
+agency problem inherent in the contractual relationship between principal and
+agent, thereby reducing agency costs (Jensen and Meckling, 1976).

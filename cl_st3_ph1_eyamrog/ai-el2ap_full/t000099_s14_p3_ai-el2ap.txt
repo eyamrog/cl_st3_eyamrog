@@ -1,0 +1,7 @@
+The following growth parameters were evaluated in 20 randomly selected
+plants from a total of 25 propagules per period: number
+of leaves, number of roots, length of the longest leaf,
+and length of the longest root. Only roots exceeding 0.5
+cm in length and fully expanded leaves were measured. This
+selection was necessary due to the presence of non-sprouted propagules
+and seeds that did not germinate during the experiment.

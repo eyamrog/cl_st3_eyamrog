@@ -1,0 +1,7 @@
+The behavior associated with each Ha's mobility is assumed to
+vary depending on the time of day; therefore, specific Hidden
+Markov Models (HMMs) are generated for different time intervals. Similarly,
+variations are observed across different age groups. Each Ha exhibits
+characteristic mobility patterns and activities according to its age range,
+which are shared by all human agents within the same
+neighborhood or district.

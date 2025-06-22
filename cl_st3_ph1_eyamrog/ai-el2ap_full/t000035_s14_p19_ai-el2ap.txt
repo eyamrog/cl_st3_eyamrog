@@ -1,0 +1,11 @@
+A descriptive analysis of the sample was conducted using frequency
+distributions, measures of central tendency, and measures of variability. As
+the data did not satisfy the assumptions required for parametric
+analysis, Wilcoxon nonparametric tests were employed to compare the impact
+of oral health on quality of life between the two
+time points (t0 and t1), as well as to compare
+patients' perceptions of upper and lower dentures. Comparisons of patients'
+perceptions regarding the ability to chew different foods were performed
+using the Friedman test. Effect sizes were calculated for all
+relevant comparisons. All analyses were conducted using the R1 program,
+with a significance level set at 5%.

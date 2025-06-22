@@ -1,0 +1,5 @@
+The primary focus of this section is the validity of
+the identification strategy, specifically whether the strategy accurately identifies subcenters.
+To assess this, we conduct robustness tests of the SBD
+identification by employing various spatial matrix specifications and altering the
+functional form.

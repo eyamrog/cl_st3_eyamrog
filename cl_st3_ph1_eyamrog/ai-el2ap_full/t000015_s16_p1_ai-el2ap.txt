@@ -1,0 +1,16 @@
+The JUOJS utilizes an optional PKP Beacon, introduced with the
+software in 2015, which allows PKP to inform OJS users
+about security patches and other software updates. The beacon also
+transmits indexing information about the journal, such as the journal’s
+title, ISSN, number of items published, titles, and abstracts. This
+study adopted the Directory of Open Access Journals (DOAJ, 2020)
+criterion for “active” journals, defined as those publishing at least
+five items per year. The resulting publicly available data set
+for 2020 comprised 25,671 journals, representing 36.5% of the 70,214
+OJS beacons in operation at that time (Khanna et al.,
+2021). The number of journals using OJS has demonstrated an
+upward trend over the previous decade (Figure 1). In 2020,
+journals in the data set published an average of 38.1
+items each, totaling approximately 996,000 items for the year, and
+have collectively published 5.4 million items since their inception. On
+average, a single OJS installation hosts 2.62 active journals.

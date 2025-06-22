@@ -1,0 +1,4 @@
+All options, except Option 1, account for the requirement that
+return air should be covered and specify a distance of
+8 meters from the final discharge point to the building
+entry point.

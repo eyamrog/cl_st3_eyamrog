@@ -1,0 +1,5 @@
+SCCS and SCRI study designs are crucial in epidemiology where
+other study designs may not be quite suitable like the
+case of adverse events after vaccination in pharmacovigilance and thus,
+they require their quality evaluated and reported considering the basic
+assumptions of such study designs.

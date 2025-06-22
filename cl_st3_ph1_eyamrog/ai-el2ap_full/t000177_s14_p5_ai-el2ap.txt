@@ -1,0 +1,5 @@
+Healthcare services should implement permanent quality and safety strategies and
+guidelines. For instance, planning strategies are essential for conducting urgent
+surgical procedures during a pandemic, as they facilitate limiting the
+number of personnel present in the operating room, thereby reducing
+the risk of contamination among individuals [16].

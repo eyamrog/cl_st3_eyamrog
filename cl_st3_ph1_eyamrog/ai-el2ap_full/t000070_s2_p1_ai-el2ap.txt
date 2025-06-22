@@ -1,0 +1,7 @@
+The authors acknowledge the Coordenação de Aperfeiçoamento de Pessoal de
+Nível Superior (CAPES), the Conselho Nacional de Desenvolvimento Científico e
+Tecnológico (CNPq), and the Fundação de Amparo à Pesquisa e
+Inovação do Estado de Santa Catarina (FAPESC) for providing fellowships,
+research grants, and financial support. The authors also thank the
+Laboratório Central de Microscopia Eletrônica (LCME-UFSC) for technical assistance and
+for providing facilities where part of this work was conducted.

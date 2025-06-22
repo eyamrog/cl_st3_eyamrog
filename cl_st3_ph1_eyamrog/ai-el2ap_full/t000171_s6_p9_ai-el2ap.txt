@@ -1,0 +1,10 @@
+Although the present research provides valuable findings, it has several
+limitations. The methods employed, particularly the use of the Pearson
+correlation coefficient without incorporating additional studies on population movement or
+disease transmission dynamics within the state of Minas Gerais, are
+less sensitive for identifying causal relationships underlying the observed phenomena.
+Furthermore, the reliance on univariate analysis restricts the understanding of
+the individual contribution of each variable to the overall effect.
+Nevertheless, the procedures utilized, in conjunction with existing literature, offer
+a foundation for future research aimed at elucidating the nature
+of the associations identified in this study.

@@ -1,0 +1,7 @@
+Several notable observations regarding the correlations among the indicators can
+be made. The indicator "External Research Income" does not exhibit
+a strong or very strong correlation with any other indicator,
+suggesting that external research funding is generally not associated with
+increased outputs such as publications, citations, or art-related products. Similarly,
+the number of "Post-doctoral" positions does not demonstrate a significant
+correlation with these types of academic or creative outputs.

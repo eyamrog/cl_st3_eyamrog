@@ -1,0 +1,4 @@
+We initially conducted graphical and kernel density analyses to examine
+the work-from-home condition across all selected socioeconomic, demographic, and work-related
+characteristics as presented in Table 2; corresponding descriptive statistics are
+provided in Table A1.

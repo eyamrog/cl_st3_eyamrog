@@ -1,0 +1,17 @@
+Himmelmann (2006) expounds on the importance of archiving the primary
+data that result from a research project in addition to
+publishing the analytical results of the project, that is the
+Boasian trilogy of a grammar (sketch), dictionary, and set of
+texts (WOODBURY, 2003). When the primary data are archived, those
+data can be reused for additional language documentation work, as
+well as other types of linguistic analysis. Further, archiving the
+primary and secondary data allows for the analytical output to
+be verifiable and reproducible (HIMMELMANN, 2006; BEREZ-KROEKER et al., 2018).
+Ultimately, archiving primary and secondary data in a digital repository
+where they are publicly accessible facilitates data reuse, and provides
+a stable means for citing the data (for recent guidance,
+see CONZETT and DE SMEDT, 2022), in the form of
+a persistent identifier. Persistent identifiers such as Digital Object Identifiers
+(DOIs), Handles, and Uniform Resource Identifiers (URIs) allow creators of
+the data to receive proper attribution for their work (BEREZ-KROEKER
+et al., 2018).

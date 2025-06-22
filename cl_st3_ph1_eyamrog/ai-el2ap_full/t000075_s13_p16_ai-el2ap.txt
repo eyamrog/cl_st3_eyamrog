@@ -1,0 +1,14 @@
+The emerging economies that implemented capital flow management measures (CFMs)
+primarily pursued six objectives: (i) to counteract exchange rate appreciation,
+(ii) to increase monetary policy autonomy, (iii) to extend the
+maturity of external liabilities, (iv) to reduce the net volume
+of financial inflows, (v) to mitigate credit booms, and (vi)
+to address asset price inflation (Habermeier et al., 2011). The
+rationale for capital controls extends beyond their direct effects on
+the implementing economies, as several studies have highlighted the spillover
+effects of CFMs. To assess the effectiveness of capital controls
+adopted by emerging economies, Habermeier et al. (2011) employ vector
+autoregression (VAR) models, finding that such measures are relatively effective
+in enhancing monetary policy autonomy in Brazil, Thailand, and Colombia,
+as well as in extending the maturity of external liabilities
+in Colombia.

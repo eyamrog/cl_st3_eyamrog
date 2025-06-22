@@ -1,0 +1,9 @@
+Data analysis was conducted using a completely randomized design in
+a 2 x 5 factorial arrangement, with two types of
+salts and five levels of salinity. Percentage data were transformed
+using the arcsine square root method. All data were subjected
+to analysis of variance (ANOVA). When significant effects were detected,
+qualitative variables were compared using the Scott-Knott test at a
+5% significance level, while quantitative variables were analyzed by regression
+analysis. All statistical analyses were performed using Sisvar software (Ferreira,
+2011).

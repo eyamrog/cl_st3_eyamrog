@@ -1,0 +1,24 @@
+In total, the questionnaire had five pages. After a landing
+page for language selection (Portuguese, Spanish, English) and another page
+for informed consent, two main pages comprised 45 items, and
+a fifth and last page thanked participants and provided the
+URL where the results would eventually be made available at
+https://osf.io/u9p4n/. The first main page comprised 18 items: seven items
+about participant characteristics (age, gender, schooling, geographic region, stakeholder groups,
+satisfaction with peer review in RBMFC, personal experience with peer
+review), seven items about the opinion on whether each trait
+would improve peer review, and four items about agreement on
+scholarly communication currently working well and the desirability of three
+open science aspects (open access, open data, and open peer
+review) being common practice. The second main page comprised 27
+items: three items about the experience as author and/or reviewer
+with open identities, open reports, and open participation; and 24
+items about the agreement with statements about the seven traits
+of open peer review. Items about satisfaction, desirability (“…should be
+common practice”) and agreement had an ordinal scale with five
+levels, plus a sixth “don’t know”. All items (except stakeholder
+group) had to be filled before proceeding to the next
+page, and participants were not allowed to revise their answers
+before submitting them. The questionnaire items were not randomized in
+any way, and the only adaptive aspect of the survey
+was the language selection.

@@ -1,0 +1,11 @@
+Coronaviruses are a family of enveloped, positive-sense single-stranded RNA viruses
+that cause respiratory infections, including the novel coronavirus (SARS-CoV-2) identified
+in December 2019 in China. This family is classified into
+four genera: Alphacoronavirus, Betacoronavirus, Gammacoronavirus, and Deltacoronavirus. To date, six
+coronaviruses have been identified as infecting humans: HCoV-OC43, HCoV-229E, HCoV-NL63,
+HCoV-HKU1, Middle East respiratory syndrome coronavirus (MERS-CoV), and severe acute
+respiratory syndrome coronavirus (SARS-CoV). Although SARS-CoV-2 has recently attracted significant
+attention, the first human coronaviruses were isolated in 1937. The
+term "coronavirus" refers to the crown-like appearance of the virus
+particles observed under electron microscopy, and the primary host cell
+receptor for human infection is the angiotensin-converting enzyme 2 (ACE2).

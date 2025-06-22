@@ -1,0 +1,14 @@
+Table 4 shows that there are no “strong” or “very
+strong” correlations among the Indicators, and only one “moderate” correlation,
+a positive one between “Graduating on time (bachelors)” and “Graduating
+on time (masters)”. It means that Institutions that have their
+students graduating in the time expected do that for both
+levels, Master and Bachelor, with a moderate correlation among them.
+The other correlations are “weak”, which means that the Dimension
+“Teaching and Learning” have only four Indicators, but they have
+a good level of independence, so they are adequate to
+measure this Dimension. As a summary, the average of the
+magnitudes of all Indicators of this Dimension is 0.2005, with
+a standard deviation of 0.2443. This is the lowest average
+of all the Dimensions. These results validate this Dimension for
+the group of Institutions studied here.

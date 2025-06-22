@@ -1,0 +1,23 @@
+A database comprising 1,720 scientific journals published in Latin America
+and the Caribbean and indexed in SciELO and/or Redalyc was
+constructed within the framework of OLIVA. The study was conducted
+at two levels: the journal level and the document level.
+The primary objective was to map this circuit of quality
+scientific literature by examining existing forms of co-authorship, disciplinary characteristics,
+and publication languages. The first section of this article provides
+a detailed description of the journals included in the constructed
+database (SciELO and Redalyc). Subsequently, the publishing institutions of these
+journals are characterized, with particular attention to their predominantly public
+status and the extent of self-management by the academic community.
+An empirical classification of the journals’ disciplines was performed based
+on information available on their respective websites, due to limitations
+in the disciplinary cataloging provided by the indexing databases. This
+classification indicated that the indexed production is broadly distributed, with
+approximately half of the documents originating from the Social Sciences
+and Humanities, and the other half from Engineering, Natural Sciences,
+and Health and Biological Sciences. Patterns of co-authorship and various
+levels of collaboration—global, regional (Latin America), and national—were then analyzed.
+Additionally, language patterns within the corpus were examined, revealing an
+increase in journals publishing in English and the emergence of
+multilingualism in journals that have begun to publish in multiple
+languages.

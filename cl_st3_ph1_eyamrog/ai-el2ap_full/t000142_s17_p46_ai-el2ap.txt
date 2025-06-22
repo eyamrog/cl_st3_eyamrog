@@ -1,0 +1,4 @@
+While both Model A and Model B include two transitions
+in the mean, only Model B incorporates a fixed trend
+component. In contrast, Model C permits two transitions in both
+the mean and the trend.

@@ -1,0 +1,7 @@
+The progression of COVID-19 cases in Brazil, compared to selected
+Latin American countries as depicted in Figure 3 (right panel),
+demonstrates a marked increase, with Brazil exhibiting a steeper growth
+curve than Peru, Chile, and Ecuador. The figure presents the
+daily trajectory of reported infections for each country, beginning from
+the point at which a minimum of ten cases had
+been officially confirmed.

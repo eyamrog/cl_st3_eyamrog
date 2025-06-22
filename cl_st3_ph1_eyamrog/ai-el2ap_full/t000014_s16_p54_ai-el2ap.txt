@@ -1,0 +1,12 @@
+The primary data consisted of audio and video recordings, saved
+in .WAV and .MTS formats, respectively. Each session was documented
+using both audio and video. Subsequently, the .MTS video files
+were converted to .MP4 format to facilitate more efficient storage
+and archiving. File names were structured to begin with the
+ISO code for the language (PAB for Paresi and UNK
+for Enawene Nawe), followed by the recording date in YYYYMMDD
+format, the abbreviations of the recorder and the primary speaker,
+and a session-specific keyword; for example, UNK-20200114-WE-YI-Kolito.MTS. These documentation projects
+resulted in digital collections comprising over 150 hours of Paresi
+recordings and 37 hours of Enawene Nawe recordings, which are
+organized into seven categories as shown in Table 1.

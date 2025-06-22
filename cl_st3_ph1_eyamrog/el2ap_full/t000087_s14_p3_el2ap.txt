@@ -1,0 +1,10 @@
+General characteristics for the whole studied population are described using
+categorical and continuous data by frequency and percentage, and mean
+and standard deviation (SD), respectively. Two different cohorts were created:
+vaccinated and unvaccinated. Vaccinated were defined as individuals who had
+received 1 or more doses of a COVID-19 vaccine at
+the time of the event. Unvaccinated were defined as individuals
+without any vaccine dose. We further describe how many adolescents
+were fully vaccinated with all recommended doses administered more than
+14 days prior to the event, and how many were
+partially vaccinated.

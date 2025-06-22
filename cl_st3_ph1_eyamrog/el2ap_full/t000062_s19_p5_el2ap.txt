@@ -1,0 +1,9 @@
+Considering the total number of collected individuals (youth and adults),
+the data have a normal distribution, and no difference was
+by the ANOVA test was detected (F- value = 0,414;
+P-value = 0,678) and the p-values in the Simpson Diversity
+t test were greater than 0.5. There are no significant
+differences in comparisons between treatments, corroborated by the Tukey HSD
+statistical test and the sampled data in each treatment are
+normally distributed according to the Shapiro - Wilk normality test
+(W-test) (table 2).

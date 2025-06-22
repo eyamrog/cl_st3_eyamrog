@@ -1,0 +1,4 @@
+Internal consistency was assessed using Cronbach's alpha and McDonald's omega,
+with values of 0.70 or higher considered acceptable. Additionally, corrected
+item-total correlations were examined in accordance with the criteria established
+by Fornell and Larcker (1981).

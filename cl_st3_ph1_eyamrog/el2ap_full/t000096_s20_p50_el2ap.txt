@@ -1,0 +1,4 @@
+- Assess the importance and characteristics of technological ecosystems for
+learning, as an alternative to traditional CMS, LMS and Learning
+Content Management System (LCMS), and their possible implementation in real
+educational contexts.

@@ -1,0 +1,20 @@
+This section lays out principal considerations relating to the importance
+and process of archiving language documentation data. We provide a
+general assessment of the significance of this initiative (§2.1), followed
+by an overview of the types of digital repositories (§2.2)
+and the benefits of archiving for language documentation (§2.3). We
+explain how digital language archives differ from other online platforms
+(§2.4), and offer some advice on how and when language
+documentation data should be archived (§2.5). Throughout this article, we
+use the term data to refer to language documentation materials;
+that is, recorded examples and/or observations of spoken or signed
+language that can be processed, annotated, and analyzed (see e.g.
+GOOD, 2022). Primary data are the raw audio or video
+recordings or written observations of language, including narratives, oral histories,
+elicitation, conversations, interviews, and experimental protocols; secondary data are transcriptions,
+translations, morphological segmentations, glosses, and other types of annotation that
+require some level of preliminary analysis to create (KUNG, et
+al., 2020; HIMMELMANN, 2012; THIEBERGER and BEREZ, 2012). For accessible
+overviews of language archiving and its history, see also Henke
+and Berez-Kroeker (2016), Berez-Kroeker and Henke (2018), Kaplan and Lemov
+(2019), and Kung (2020).

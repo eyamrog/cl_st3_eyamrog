@@ -1,0 +1,11 @@
+The OLIVA project database is made up of the collected
+data of the journals indexed by SciELO and Redalyc, and
+revised data from the published documents. Each of these indexing
+systems collaborated by providing its historical database updated to June
+2019. The data was subjected to data cleaning and deduplication
+of the journals in common. The result was an integrated
+bibliographic database for statistical purposes and is composed of the
+following elements at the document level: type of document, date
+of publication, language, and author’s country. It does not include
+data on citations as this is outside the scope of
+the project.

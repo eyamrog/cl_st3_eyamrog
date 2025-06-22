@@ -1,0 +1,9 @@
+The third arm of the SOLIDARITY trial evaluates a combination
+of two HIV protease inhibitor drugs, lopinavir and ritonavir. This
+combination has demonstrated potential activity against SARS-CoV and MERS-CoV in
+both in vitro and in vivo studies, with its mechanism
+of action involving the inhibition of Mpro, an essential enzyme
+required for coronavirus replication. However, a recent report published in
+The New England Journal of Medicine indicated that the lopinavir-ritonavir
+combination did not result in a statistically significant difference in
+outcomes compared to the standard care group.

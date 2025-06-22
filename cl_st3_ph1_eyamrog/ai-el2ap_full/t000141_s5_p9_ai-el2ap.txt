@@ -1,0 +1,10 @@
+Although some criteria established by the WHO were met, most
+Brazilian states did not implement concrete policies for the screening,
+monitoring, and, in particular, optimization of testing for suspected cases.
+Only the states of Pará, Mato Grosso do Sul, and
+Santa Catarina reported indicators related to these categories; however, these
+efforts were limited, as only Pará provided a description of
+the metric used to calculate the indicator. This finding is
+significant because, in the absence of prioritization by the public
+tracking system, reopening plans may be based on information that
+does not accurately reflect the epidemiological situation within each state.

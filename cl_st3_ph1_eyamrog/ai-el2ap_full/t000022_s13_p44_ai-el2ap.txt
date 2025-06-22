@@ -1,0 +1,16 @@
+Analyzing the Brazilian research system at a highly aggregated level
+obscures the complexity of interactions within its boundaries. Table 5
+presents data on co-authorship by the number of distinct authors’
+states, categorized by the disciplinary area of the journals according
+to the SciELO classification. Journals in disciplinary areas characterized by
+a higher average number of authors per article, such as
+Agricultural Sciences, Exact and Natural Sciences, Biological Sciences, and Multidisciplinary
+fields, exhibit a higher degree of inter-state collaboration. In these
+areas, the proportion of articles with authors from three or
+more states exceeds 10%. Although the degree of co-authorship is
+lower in the three areas associated with the Social Sciences
+and Humanities, the proportion of documents involving co-authorship between two
+or more Brazilian states does not fall below 29% in
+any case. These findings indicate that a substantial share of
+collaborative activity among authors now occurs across state boundaries rather
+than solely between institutions.

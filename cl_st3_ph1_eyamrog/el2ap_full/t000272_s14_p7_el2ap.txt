@@ -1,0 +1,11 @@
+From the data generated from the linearity curve of each
+sample, it was possible to determine the appropriate concentration of
+each extract that would cause hemolysis of red blood cells
+by 50% (IC50). These data were used to determine the
+selectivity index (SI) of each extract for the bacteria tested,
+and enabled the calculation according to the methodology proposed by
+Protopopova et al. (2005) using the equation: SI = IC50
+MIC , where: SI = Selectivity Index IC50 = concentration
+of each extract that would cause hemolysis of red blood
+cells by 50% MIC = Minimum Inhibitory Concentration against the
+test microorganism

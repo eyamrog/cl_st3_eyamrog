@@ -1,0 +1,3 @@
+Objective: To compare the acceleration rates of incidence and lethality
+of COVID-19 according to the vaccination program for BCG of
+the main countries affected by the pandemic.

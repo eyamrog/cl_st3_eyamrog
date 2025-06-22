@@ -1,0 +1,10 @@
+In summary, the selection of an appropriate repository is a
+critical consideration for the long-term preservation and accessibility of language
+documentation materials. Archives with robust infrastructure, such as those affiliated
+with the DELAMAN consortium, often serve an international user base
+and should not be regarded as proprietary to the country
+in which they are physically located. Archiving efforts at local,
+regional, national, and international levels each provide distinct benefits. In
+certain circumstances, depositing materials in multiple repositories may be advisable
+to address local needs while also utilizing broader infrastructure that
+ensures optimal preservation and access (see §3.2 and §6 below).

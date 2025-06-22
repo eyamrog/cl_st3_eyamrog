@@ -1,0 +1,8 @@
+Therefore, the primary objective of this article is to calculate
+Covid-19 mortality rates adjusted by differences in age pyramids based
+on data on mortality by age group. Both the difficulty
+of obtaining this information and its relevance to other studies
+suggest that gathering data on mortality from the disease by
+age groups into a single source for the countries most
+affected by the pandemic is in itself a relevant secondary
+objective.

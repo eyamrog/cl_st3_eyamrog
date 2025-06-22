@@ -1,0 +1,13 @@
+Corinnidae was represented by 84 individuals, with 32 (38.1%) collected
+in DA and 20 (23.8%) collected in both IA and
+FA. The ANOVA test indicated no significant difference among the
+treatments (F = 0.98, P = 0.428). During both the
+cold and dry period and the hot and rainy period,
+Corinnidae individuals were more frequently collected in DA and IA
+(Figure 6b), but the ANOVA test again showed no significant
+difference (F = 0.208, P = 0.818), and post-hoc analysis
+confirmed a normal distribution of the family across treatments. A
+significant difference was observed only in FA during the cold
+and dry period (W = 0.7500, P = 2 ×
+10⁻¹⁷), but this result was not supported by the Kruskal-Wallis
+test or Dunn’s post-hoc test with Bonferroni correction.

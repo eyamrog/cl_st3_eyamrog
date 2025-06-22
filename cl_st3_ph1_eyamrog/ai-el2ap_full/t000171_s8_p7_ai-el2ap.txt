@@ -1,0 +1,9 @@
+The aim of this study was to conduct a temporal
+and geographical analysis of data on the number of rapid
+and RT-PCR tests performed, as well as COVID-19 incidence and
+mortality, to enhance understanding of the epidemiology of COVID-19 in
+the state of Minas Gerais and the patterns of diagnostic
+test utilization. Analyzing these epidemiological variables from this perspective may
+help identify the most vulnerable regions and inform health institutions
+in optimizing the allocation of diagnostic tests and medical equipment,
+thereby contributing to more effective management of the COVID-19 pandemic.

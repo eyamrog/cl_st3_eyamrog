@@ -1,0 +1,5 @@
+This means that about 34.97% systematic variation in FDI is
+explained by the explanatory variables while 65.03% is attributed to
+other variables not included in the model. Hence, the overall
+model has a weak statistical significant in analyzing the impact
+of selected macroeconomic variables on Investment inflow in Turkey.

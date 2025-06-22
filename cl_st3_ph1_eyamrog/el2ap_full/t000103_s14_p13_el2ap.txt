@@ -1,0 +1,12 @@
+The examples above are part of the set of sentences
+designed to have a “neutral” combination of verbs, that is,
+where little, if any, semantic interference can be detected between
+the choice of the verbs and the reference resolution strategy
+adopted. Half of the sentences were designed in this way.
+The other half was designed to have “tendentious” pairs of
+verbs, that is, verbs that in that combination preferably point
+back either to the subject or to the complement of
+the verb in the main clause. Below, sentence (11) was
+designed to elicit a preference for resolving the anaphor as
+referring to the subject of the main clause; and in
+sentence (12) to the complement of the main clause.

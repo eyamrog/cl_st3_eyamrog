@@ -1,0 +1,8 @@
+Results indicated positive correlations between the rate of rapid tests
+and incidence, as well as between the rate of RT-PCR
+tests and both incidence and mortality. At the municipal level,
+incidence, mortality, and the rates of rapid and RT-PCR tests
+were negatively correlated with the number of days elapsed since
+the first notified case. Similar patterns were observed at the
+level of health macro-regions, although the strength of these correlations
+varied.

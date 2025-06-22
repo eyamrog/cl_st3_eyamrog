@@ -1,0 +1,2 @@
+Test statistics of Harvey & Leybourne (2007) are presented in
+Equation 4;

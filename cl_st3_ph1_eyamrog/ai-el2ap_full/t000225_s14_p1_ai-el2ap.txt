@@ -1,0 +1,17 @@
+To evaluate the impact of social distancing strategies (SDS) in
+São Paulo City and State on the daily progression of
+COVID-19-related deaths, we utilized publicly available data from the National
+Association of the Registrars for Natural Persons (Associação dos Registradores
+de Pessoas Naturais — ARPEN), which encompasses all Public Notaries
+in Brazil. The ARPEN website provides daily counts of deaths
+attributed to COVID-19, referenced by the actual date of occurrence.
+In Brazil, public notaries are legally mandated to issue and
+maintain records of births, deaths, marriages, and other legal events.
+Death certificates, which are official documents, include a section where
+a certified physician records the cause of death. Additionally, the
+ARPEN website reports the number of deaths suspected to be
+due to COVID-19, as determined by a certified physician. "Confirmed
+COVID-19 deaths" refer to cases with a positive PCR test
+result for COVID-19, while "Suspected COVID-19 deaths" refer to cases
+where COVID-19 was listed as a cause of death based
+on clinical diagnosis.

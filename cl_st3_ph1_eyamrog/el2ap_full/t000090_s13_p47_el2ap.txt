@@ -1,0 +1,7 @@
+The results show that there is no “very strong” correlation,
+but there are two “strong” correlations. The first one is
+among the Indicators “Patents awarded (absolute numbers)” and “Patents awarded
+(size-normalized)”. They have a correlation index of 0.8077. It means
+that the Institutions that are good at delivering new products
+have good grades in both Indicators. Those Indicators have a
+high degree of redundancy.

@@ -1,0 +1,12 @@
+Rituximab is frequently used for the treatment of NMOSD. Rituximab
+leads to an increased risk of severe viral infections by
+several mechanisms, as described above. Immunoglobulin monitoring and replacement, as
+appropriate, may be a strategy to reduce infection risk. Regarding
+B-cell monitoring in NMOSD, targeting CD27+ memory B-cells rather than
+CD19+ B-cells is more likely to provide a better measure
+of rituximab efficacy. In a study, more than half of
+NMOSD relapses occurred at CD19+ B-cell counts below 0.01 ×
+109/L but above the therapeutic threshold for CD27+ memory B-cells.
+As CD27 markers are not available in clinical practice and,
+as in NMOSD relapses, can be fatal, we suggest continuing
+rituximab dosing at regular 6 months intervals51.

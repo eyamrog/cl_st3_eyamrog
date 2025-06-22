@@ -1,0 +1,11 @@
+Coronavirus nonstructural protein 6 (nsp6) has been shown to interfere
+with autophagy by restricting the diameter of autophagosomes during omegasome
+formation, which may facilitate viral infection by impairing the autophagic
+degradation of viral components via lysosomes (Cottam et al., 2014).
+Additionally, the coronavirus endoribonuclease nsp15 is necessary for evasion of
+double-stranded RNA sensors and inhibition of apoptosis, as loss of
+nsp15 activity is associated with disease attenuation in mice and
+the induction of a protective immune response (Deng et al.,
+2017). Furthermore, nsp16 has been reported to downregulate the activities
+of RIG-I and MDA5, thereby inhibiting innate immune responses and
+promoting viral replication (Shi et al., 2019).

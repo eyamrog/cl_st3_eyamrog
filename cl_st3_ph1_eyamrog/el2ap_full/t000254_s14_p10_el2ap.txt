@@ -1,0 +1,6 @@
+Demographic rates were calculated for plants with < 2.5 cm
+dbh (> 1 m height) and > 2.5 cm dbh.
+Three class sizes were also considered for the shrub- tree
+synusia: I) < 2.5 cm dbh (> 1 m height),
+II) 2.5 < dbh < 5 cm and III) >
+5 cm dbh.

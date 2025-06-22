@@ -1,0 +1,5 @@
+As these results are sensitive to different weight matrices, robustness
+tests on the spatial matrix will be considered below, seeking
+internal validity for the results found. As for the robustness
+of the weight matrix, we permit 5% and 10% distance,
+increasing the initial cut-off, permitting bigger neighborhoods.

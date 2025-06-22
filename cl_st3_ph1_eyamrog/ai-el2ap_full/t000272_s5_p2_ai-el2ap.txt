@@ -1,0 +1,13 @@
+The samples exhibited no cytotoxicity at the tested concentration, consistent
+with the findings of Santos et al. (2014). According to
+Bézivin et al. (2003), the selectivity index (SI) quantifies the
+extent to which a test compound is more effective against
+target cells compared to human cells. For a compound to
+be considered a promising prototype for drug development, an SI
+value of 10 or higher is generally required (Protopopova et
+al., 2005). Reimão et al. (2010) reported that a higher
+SI value indicates greater toxicity to microorganisms and reduced toxicity
+to human cells. In this study, all tested samples demonstrated
+SI values exceeding the threshold suggested in the literature, indicating
+their potential as candidates for the development of natural products,
+particularly due to their low cytotoxicity and satisfactory antimicrobial activity.

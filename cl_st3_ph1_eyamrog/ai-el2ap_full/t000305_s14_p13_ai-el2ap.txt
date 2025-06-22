@@ -1,0 +1,4 @@
+To compare the groups of interest, the incidence rate ratios,
+calculated by dividing the incidence rate of one group by
+that of another, are presented. Additionally, the mortality and case
+fatality rates are reported.

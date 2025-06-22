@@ -1,0 +1,14 @@
+There are many ways to make a general classification using
+the “U-Multirank”. When asked for that, the “U-Multirank” uses a
+classification similar to the “Olympic Medals Table”, considering the best
+performers as the institutions that obtained the highest number of
+maximum scores (A). Scores B and below are only used
+for tiebreakers. This implies, for example, that an Institution that
+has 20 scores “A” and 16 scores “E” appears ahead
+of an institution that obtained 19 scores “A” and 17
+scores “B”. This a questionable rule to make a general
+classification, which almost do not differentiate “B” from “E”. In
+an extreme situation, institutions may focus their activities on a
+smaller number of Indicators and neglect completely others to obtain
+a better classification, giving poor services to their students in
+some aspects.

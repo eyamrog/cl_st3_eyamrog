@@ -1,0 +1,8 @@
+Both rapid and RT-PCR tests conducted for the detection of
+COVID-19 show a relationship with incidence and mortality rates, as
+illustrated in Figure 2. At the municipal level, the Pearson
+correlation coefficient between the number of rapid tests and the
+incidence rate was +0.39, while the coefficient between RT-PCR tests
+and the incidence rate was +0.21. For mortality rates, the
+correlation coefficients were 0 for rapid tests and +0.12 for
+RT-PCR tests.

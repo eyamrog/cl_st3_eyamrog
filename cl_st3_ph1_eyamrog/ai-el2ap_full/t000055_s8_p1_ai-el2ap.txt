@@ -1,0 +1,22 @@
+Biological collections serve as repositories of biodiversity, housing specimens and
+associated data that are utilized in various scientific research fields
+[1]. These collections are particularly significant for insects of medical
+and veterinary relevance, where precise taxonomic identification is essential for
+understanding and managing the epidemiology of vector-borne diseases [2]. The
+“Coleção de Flebotomíneos” (Collection of Phlebotomines), maintained at the Instituto
+René Rachou, Fiocruz Minas (FIOCRUZ/COLFLEB), a federal public health research
+institution in Belo Horizonte, Minas Gerais, Brazil, is a specialized
+biological collection of sand flies (Diptera: Psychodidae, Phlebotominae). Sand flies
+are of notable medical and public health importance due to
+the role of blood-feeding adult females in transmitting protozoan parasites
+of the genus Leishmania, the causative agents of leishmaniases, as
+well as other bacterial and viral pathogens that affect both
+human and non-human vertebrates [3]. Specimens in FIOCRUZ/COLFLEB originate from
+a range of research projects conducted over approximately the past
+80 years, encompassing both areas with active disease transmission and
+wild environments without recorded cases. The sand flies are typically
+collected using light traps and are identified by trained specialists
+employing established taxonomic keys [2,4]. These specimens support research in
+taxonomy and systematics [5,6,7], and the associated data facilitate applications
+such as ecological niche and species distribution modeling [8], among
+other scientific uses [9].

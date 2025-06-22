@@ -1,0 +1,22 @@
+As noted by Engelen et al. (2016), their study demonstrates
+a significant and strong deterrent effect resulting from an increased
+probability of detection and punishment, which should be utilized in
+policy development. However, it is also important to identify and
+address the underlying factors that contribute to criminal behavior through
+appropriate policy interventions. Accordingly, this study aims to examine the
+phenomenon of violence and murder against women and girls from
+an economic perspective. Specifically, the objective is to investigate the
+potential relationship between the foreign exchange rate and femicide. The
+foreign exchange rate was selected as the primary variable due
+to its role as a catalyst for various economic crises,
+which in turn can lead to increased unemployment and poverty.
+In Turkey, where there is a chronic current account deficit
+and reliance on foreign capital, fluctuations in the exchange rate
+have broad socio-economic implications, including effects on growth and employment.
+Due to the unavailability of official data on femicide, data
+were obtained from a non-governmental organization. Daily data on femicide
+incidents and US Dollar buying rates for the period from
+1 January 2019 to 29 September 2020 were sourced from
+the We Will Stop Femicide Platform and the Central Bank
+of Turkey, respectively. These data were subjected to various econometric
+analyses. According to the results of these analyses,

@@ -1,0 +1,9 @@
+Carminati’s (2002) Position of Antecedent Strategy (PAS) posits that the
+interpretation of anaphors in Italian sentences with intrasentential anaphora is
+determined by the syntactic function of their antecedents. Specifically, null
+pronouns in subject position typically refer to the subject of
+the main clause, whereas unstressed overt pronouns in subject position
+generally refer to the complement of the main clause. However,
+it remains uncertain whether this theoretical framework extends to account
+for the distinctions between unstressed and stressed pronouns in non-null
+subject languages such as English.

@@ -1,0 +1,10 @@
+AbCSim provides data that can be used to quantify the
+effects of implementing various health policies at the local level.
+These capabilities make the model a valuable tool for decision-making
+aimed at assessing healthcare system utilization and preventing system overload,
+while accounting for individuals' local economic and social contexts. Future
+work will include multiple case studies, presenting results from the
+application of this model to other cities and at the
+state level. Additionally, forthcoming research will address the extension of
+the model to incorporate the effects of vaccination campaigns and
+different virus variants.

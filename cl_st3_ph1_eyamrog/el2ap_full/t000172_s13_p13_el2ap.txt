@@ -1,0 +1,11 @@
+Coronaviruses nsp6 is known to interfere with autophagy, limiting the
+autophagosomes diameter at the point of omegasome formation, which may
+favor viral infection by compromising the ability of the autophagy
+system to degrade viral components via lysosomes (Cottam et al.
+2014). Another study reported that the coronavirus endoribonuclease nsp15 is
+required for evasion of dsRNA sensors and apoptosis since the
+loss of nsp15 activity is related to attenuation of the
+disease in mice and stimulated a protective immune response (Deng
+et al. 2017). Nsp16 can downregulate the activities of RIG-I
+and MDA5, inhibiting innate immunity to promote viral proliferation (Shi
+et al. 2019).

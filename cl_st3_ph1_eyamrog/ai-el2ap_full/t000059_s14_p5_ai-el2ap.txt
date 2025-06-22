@@ -1,0 +1,9 @@
+For comparability, data from Scanff et al. (2021) were reweighted
+to match the distribution of journal sizes observed among LILACS
+journals. A sensitivity analysis limited to research articles was not
+conducted in the present study, as the previous study reported
+minimal differences in results when restricting to this subset. Additionally,
+in the current dataset, only 244 journals contained at least
+50 signed articles with an explicit publication type, and the
+number of journals meeting this threshold for research articles alone
+would be even lower.

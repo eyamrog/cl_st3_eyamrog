@@ -1,0 +1,22 @@
+Although the use of the Journal Impact Factor (JIF) is
+not recommended for ranking individual researchers (Alberts 2013), its influence
+on academic career progression remains substantial. There is a widespread
+perception that academic advancement is closely linked to publishing in
+journals with high JIF values. However, the metric has well-documented
+limitations when used to evaluate either journals or individual articles,
+as it is highly sensitive to the definition of a
+citable item (The PLoS Medicine Editors 2006), is subject to
+statistical misapplications such as the inappropriate use of mean and
+median (Vanclay 2012), and can be disproportionately affected by a
+small number of highly cited papers (e.g., Dimitrov 2010). The
+extensive reliance on JIF has led to several distortions, including
+the proliferation of multi-authored papers without clear justification and strategies
+by journals to artificially inflate their JIF. In response to
+metric inflation, bibliometric platforms act as regulators by excluding or
+penalizing journals that engage in such practices. For example, indexing
+services such as Clarivate/JCR employ at least 24 criteria in
+an analysis process that is not fully transparent or reproducible.
+Journals that fail to meet these criteria may be suppressed
+(Clarivate 2020a). The lack of transparency in these procedures hinders
+the objective evaluation of journal suppressions and raises concerns regarding
+oversight and accountability.

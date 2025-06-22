@@ -1,0 +1,6 @@
+Figure 7 presents the cumulative number of COVID-19-related deaths estimated
+by the model during the study period. This model output
+can be directly validated against empirical data, and the results
+indicate that the estimated cumulative deaths closely correspond to the
+figures reported by the UTN FRCU - COVID-19 GIBD Research
+Group Databases [13] for the city of Paraná.

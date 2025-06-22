@@ -1,0 +1,15 @@
+This study has several limitations. Conducting impact analyses of public
+policies, particularly in low- and middle-income countries, presents specific challenges
+due to two main factors. First, although such policies are
+intended to reduce inequities, they may initially exacerbate disparities between
+social classes. This occurs because newly introduced health interventions are
+typically adopted first by the wealthiest segments of the population,
+who generally have less need for them. As a result,
+absolute health inequalities tend to increase in the short term
+and only decrease as the intervention becomes accessible to poorer
+sectors of the population, a phenomenon referred to as reverse
+equity. However, Guimarães (reference 35) found that this effect is
+not observed in the context of primary care. Additionally, there
+is a lack of longitudinal data that would enable comparisons
+over time, as the quality of available data is often
+compromised by changes in health management systems.

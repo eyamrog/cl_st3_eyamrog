@@ -1,0 +1,4 @@
+In this established care algorithm, the initial step in organizing
+and restructuring care during the outbreak involved a clear separation
+between COVID-19 and non-COVID-19 hospitals, accompanied by the requirement that
+all admitted patients undergo at least one mandatory test.

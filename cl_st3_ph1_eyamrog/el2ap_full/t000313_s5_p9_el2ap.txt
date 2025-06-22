@@ -1,0 +1,27 @@
+Here, we have expanded the comparative analysis to more species
+and sites of interaction between ACE2 orthologues and SARS-CoV-like viruses.
+In sum, our results show that ACE2 murine species have
+only 56% of identity with human ACE2, and have also
+several critical taxon- specific changes that explain the barrier to
+infection with SARS-CoV-2. For the other species and taxon investigated
+here, however, the ability to block (or not) the infection
+to SARS-CoV-2 via this receptor is not easy to predict.
+At the moment, preliminary results indicate that a macaque (Macaca
+mulatta) inoculated with SARS-CoV-2 recapitulates moderate respiratory disease observed in
+the majority of human cases (Munster et al., 2020). Note
+that Macaca mulatta, similar to other species of the family
+Cercopithecidae, has only one change (R559K) relative to human and
+other species of the family Hominidae (Pan troglodytes, Pan paniscus
+and Gorilla gorilla; Figure 2). We also found a set
+of AA changes in the ACE2 of NWm species, which
+can characterize different patterns of binding to SARS-CoV-2, making them
+potentially less susceptible to the infection than humans and great
+apes. Earlier, one in vivo study (Greenough et al., 2005)
+demonstrated SARS-CoV infection outcome in Callithrix sp., however, the pattern
+of virus replication and the potential risk for infection in
+nature for this and other NWm species has never been
+demonstrated. Therefore, Callithrix sp., although being a good model for
+MERS-CoV infection (McAuliffe et al., 2004; Van Doremalen and Munster,
+2015), it has not been established as an animal model
+to SARS-CoV infection. Note that MERS-CoV uses another host-cell entry
+receptor, DPP4, rather than ACE2.

@@ -1,0 +1,5 @@
+For the confirmatory factor analysis, the models identified in the
+exploratory factor analysis were evaluated. All analyses accounted for the
+complex multistage sampling design by utilizing the lavaan.survey command. The
+weighted least squares mean and variance adjusted (WLSMV) estimator was
+employed, and polychoric correlation matrices were used.

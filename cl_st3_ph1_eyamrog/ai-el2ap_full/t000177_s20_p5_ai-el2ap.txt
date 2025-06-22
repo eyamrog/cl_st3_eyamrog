@@ -1,0 +1,8 @@
+Poor ventilation in buildings negatively impacts air quality and can
+facilitate the transmission of infectious diseases, as microorganisms may be
+dispersed through air-conditioning systems. In healthcare facilities with a high
+density of infectious patients, existing evidence indicates that inadequate ventilation
+increases the risk of disease transmission among patients, healthcare workers,
+and visitors. Li et al. [38] demonstrated a correlation between
+ventilation rates, air movement within buildings, and the spread of
+infectious diseases.

@@ -1,0 +1,16 @@
+As dictated by the Council of Science Editors (2018), the
+World Association of Medical Editors (2009 Jul 25) and the
+International Committee of Medical Journal Editors (2021), editorial decisions should
+depend solely on the work’s validity and interest to readers,
+not on any competing interests the editors might have, or
+the journal owner’s commercial interests. Journals owned by universities and
+other research institutions can be particularly challenging in this regard,
+because editors may even have the same competing interests as
+the journal owners. Such journals’ scope can be expected to
+substantially overlap the parent organization’s research activities, and some of
+the journal editors, reviewers and authors can be expected to
+be affiliated with said organization. As reviewed by Barradas and
+Pinheiro (2016), such endogeneity may bias the peer review process
+to be more lenient and to incorporate less diverse points
+of view, undermining the journal’s contribution to the scientific record;
+also see Sarigöl and colleagues (2017).

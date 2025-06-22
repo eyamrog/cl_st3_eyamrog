@@ -1,0 +1,2 @@
+ui= number of plots where the ith species appears in
+the experimental unit per group (control or treatment)

@@ -1,0 +1,7 @@
+The miniaturized elements of micro-linguistics can provide a useful framework
+for explaining the concept of mode. In this context, micro-linguistics
+refers to the subfields of phonetics/phonology, morphology, grammar/syntax, and semantics.
+These areas focus on the analysis of the smallest units
+relevant to each domain, such as phones/phonemes in phonetics/phonology, morphemes
+in morphology, and lexemes in grammar/syntax. Additionally, semes are recognized
+as fundamental components within the field of semiotics.

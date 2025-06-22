@@ -1,0 +1,3 @@
+In order to analyze the basic hypothesis of linearity (Equation4)
+compared to the alternative hypothesis indicating the nonlinearity (Equation5), it
+is suggested to use the Equation 6;

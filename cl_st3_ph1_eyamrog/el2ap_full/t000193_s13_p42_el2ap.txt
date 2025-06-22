@@ -1,0 +1,15 @@
+Immunosuppressive therapies are being studied as cytokine storm inhibitors for
+the adjunctive treatment of severe cases of COVID-19 infection (e.g.,
+fingolimod – clinical trial ClinicalTrials.gov, Identifier: NCT04280588). Interferons – MS
+DMDs – have antiviral properties and are of research interest
+in this pandemic (ClinicalTrials.gov, Identifier: NCT04343768, NCT04350671). Also, drugs used
+to treat NMOSD are currently being evaluated in confirmed COVID-19
+infected patients with severe pneumonia and SARS: tocilizumab (ClinicalTrials.gov, Identifier:
+NCT04317092), eculizumab (ClinicalTrials.gov, Identifier: NCT04288713), and intravenous methylprednisolone (ClinicalTrials.gov, Identifier:
+ChiCTR2000029386). However, the theoretical protective effects of MS/NMOSD DMDs for
+COVID-19 infections remain to be proven. Until further information is
+available, we suggest stopping DMDs during severe SARS-CoV-2 infection. In
+moderate and mild cases, DMD discontinuation should be individualized according
+to the aforementioned drug-safety profiles, patient’s age, and other comorbidities.
+At this time, any drug that may interfere with immune
+response cannot be considered completely safe in a symptomatic patient.

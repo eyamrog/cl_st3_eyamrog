@@ -1,0 +1,7 @@
+Measurements based on Euzet & Le Brun (1990), were taken
+using LAS version 4.12.0 software (Fig. 3), and given in
+µm as average followed by the range in parentheses, number
+of individuals. Drawings of the sclerotized parts of the Monogeneans
+were made with CorelDRAW 2019 software using pictures taken from
+the camera. All analyses were performed using R 4.1.2 software
+(R core Team 2022).

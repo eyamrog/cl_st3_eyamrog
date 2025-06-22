@@ -1,0 +1,18 @@
+There was not a random distribution of this rate with
+positive spatial autocorrelation (I=0,0993881; p-valor = 0,001 for 999 permutations).
+It is possible to observe the occurrence of spatial autocorrelations
+of the "high-high" type, indicating a grouping of municipalities in
+Sergipe with the highest mortality rates due to feminicide located
+in the central region of Sergipe (Areia Branca, Malhador, Santa
+Rosa de Lima, Ribeirópolis) and the "low-low" type, considered the
+group with the lowest rate, represented by the municipalities of
+Nossa Senhora de Lourdes, Propriá, São Francisco and Japaratuba (Fig.
+2). It was also observed the occurrence of spatial autocorrelations
+of the "low-high" type, in the municipality of Maruim, meaning
+that the municipality or the spatial group presents low values
+regarding the rates of femicide, but high rates in the
+surrounding municipalities (Fig. 2). An inverse condition was observed in
+the municipalities of Lagarto, Aquidabã and Carmópolis, where spatial autocorrelations
+of the “high-low” type occurred, a scenario in which these
+municipalities present high rates of femicide, but their surrounding municipalities
+have low rates (Fig. 2).

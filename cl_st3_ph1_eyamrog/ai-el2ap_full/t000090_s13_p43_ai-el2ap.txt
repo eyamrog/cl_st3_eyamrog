@@ -1,0 +1,9 @@
+The second highest correlation coefficient is observed between “Research publications
+(absolute numbers)” and “Research publications (size-normalized),” with a value of
+0.6953, which is at the threshold for classification as a
+“strong” correlation. This indicates that the rankings based on total
+publications and those based on publications per faculty member are
+similar, though not identical. Publications per faculty member may serve
+as a more appropriate metric for comparison, as it accounts
+for differences in institutional size; however, the overall results derived
+from both indicators do not differ substantially.

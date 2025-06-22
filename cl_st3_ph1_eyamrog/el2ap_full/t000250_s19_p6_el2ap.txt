@@ -1,0 +1,9 @@
+When we look across different MVPA intensities, spending ≥15 minutes
+per day in VPA is associated with lower odds of
+prevalent depressive (OR=0.60, 95%CI=0.43-0.82), anxiety (OR=0.70, 95%CI=0.51-0.96), and co-occurring D&A
+(OR=0.59, 95%CI=0.41-0.83) symptoms. Spending ≥30 minutes per day in MPA
+is associated with a lower prevalence of co- occurring D&A
+symptoms (OR=0.72, 95%CI=0.53-0.98) (Table 4). Linear regression models found that
+every 10 minutes spent in VPA is associated with 0.18
+(95%CI=0.041-0.335) points lower on the BDI, and -0.21 (95%CI=0.034-0.400) points
+lower on the BAI scales, respectively (table 5).

@@ -1,0 +1,11 @@
+This information enabled the teacher-researcher to determine the relative importance
+of each investigated factor (contextual, textual, linguistic, etc.) in the
+acceptance or rejection of papers submitted by Brazilian computer scientists
+to high-impact journals. As shown in Table 3, while proficiency
+in academic English is considered in reviewers’ evaluations, it is
+not the primary criterion for publication recommendations. Instead, the validity
+and originality of the research are prioritized, followed by the
+clarity, organization, and accuracy of the manuscript. Based on the
+assessment of students’ current abilities, the teacher-researcher was able to
+develop an appropriate syllabus and design targeted tasks to address
+students’ specific needs (cf. Vieira, 2019a).

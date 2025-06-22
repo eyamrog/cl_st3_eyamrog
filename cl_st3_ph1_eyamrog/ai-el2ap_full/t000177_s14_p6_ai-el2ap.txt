@@ -1,0 +1,14 @@
+To protect healthcare workers, critically ill patients with suspected or
+confirmed COVID-19 infection should ideally be admitted to an airborne
+infection isolation room with negative pressure, as illustrated in Figure
+1. The American Society of Heating, Refrigerating and Air-Conditioning Engineers
+(ASHRAE) recommends the use of heating, ventilation, and air conditioning
+(HVAC) systems designed to protect healthcare workers by providing a
+safe environment for interactions with highly contagious patients and by
+reducing exposure to contaminants released during medical procedures. However, it
+is acknowledged that altering the amount of outdoor air introduced
+into a building may affect pressure balance and potentially cause
+humidity-related issues. Additionally, due to their small size, coronavirus particles
+can remain airborne and be transported over long distances by
+airflows within rooms or through the exhaust air ducts of
+ventilation systems [17].

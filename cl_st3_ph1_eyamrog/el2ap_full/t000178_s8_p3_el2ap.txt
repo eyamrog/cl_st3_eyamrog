@@ -1,0 +1,7 @@
+The representativeness of Latin American data in genome projects and
+public databases has been discussed since the beginning of the
+genomic era (Ramírez et al. 2002). The information stored in
+databases has become essential to study the genetic diversity of
+indigenous peoples (Harris et al. 2018), human diseases (Norris et
+al. 2018), and regional biotechnological and agro-industrial challenges (Sasson &
+Malpica 2018, Wang et al. 2017).

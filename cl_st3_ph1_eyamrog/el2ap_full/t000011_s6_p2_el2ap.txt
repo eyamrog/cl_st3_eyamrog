@@ -1,0 +1,11 @@
+It is well known that the temperature and humidity of
+the environment directly affect the hydric conditions of plant structures
+and that both anatomical composition and hydric condition affect biomechanical
+properties of each plant structure (Niklas 1992, Vincent 1992, Rowe
+et al. 2005). For this reason, most studies with biomechanics
+on plants keep the samples moist right after collection to
+obtain the closest results from those of living plants in
+the natural environment. However, until the present study, it was
+not known the magnitude of the dehydration effect on the
+values of bending stiffness and fracture toughness of lianas stems
+and leaves, respectively.

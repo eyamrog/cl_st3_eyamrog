@@ -1,0 +1,6 @@
+Since the quasi-experimental approach was selected, there was two different
+measurements, one with a pre-test (before intervention) and one with
+a post-test (after the intervention). The selected level of significance
+for this social science research was α = 0.05 and
+a risk of 5% is assumed, making the confidence level
+equals to 95%.

@@ -1,0 +1,20 @@
+On average, the structural Young’s modulus of stems maintained in
+a moist condition remains consistent over time (F(59) = 0.001;
+P = 0.96; Figure 2a), with a mean value of
+approximately 4360 ± 316 MN m−2 and a median of
+4331 MN m−2. In contrast, stems subjected to gradual dehydration
+exhibit a significant increase in structural Young’s modulus over time
+(F(59) = 21.54; P < 0.001; Figure 2b; Supplementary Material
+Table S1). Relative water content in these dehydrating stems decreases
+exponentially with time (F(59) = 215.3; P < 0.001; Figure
+2c; Supplementary Material Table S2), and there is a significant
+negative exponential relationship between structural Young’s modulus and stem relative
+water content (F(59) = 11.46; P = 0.001; Figure 3;
+Supplementary Material Table S3). For instance, at 12% moisture content,
+the average structural Young’s modulus in A. crucigerum stems is
+4500 MN m−2, whereas at 24% moisture content, it is
+4400 MN m−2, representing a 4% reduction in bending stiffness.
+Immediately after collection, the structural Young’s modulus in stems under
+gradual dehydration is approximately 4034 MN m−2, and this value
+is maintained during the first 12 hours (Figure 2b) and
+up to 80% moisture content (Figure 3a).

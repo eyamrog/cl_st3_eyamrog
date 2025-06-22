@@ -1,0 +1,9 @@
+Glasser et al. (2018) investigated whether children comprehend iconic gestures
+representing events as early as those representing entities, and whether
+this comprehension is influenced by gesture production patterns in their
+native language. The study found that children’s understanding of event-related
+iconic gestures was affected by the native gesture production patterns,
+with greater comprehension observed for gestures that conformed to the
+specific patterns of their native language, particularly regarding the manner
+of movement, compared to gestures that did not align with
+these patterns.

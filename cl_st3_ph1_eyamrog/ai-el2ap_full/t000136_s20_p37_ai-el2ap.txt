@@ -1,0 +1,3 @@
+We assessed the accuracy of the PLS parameter estimates for
+path coefficients and R² by analyzing their confidence intervals, assuming
+statistical significance at the 0.05 level for all estimates.

@@ -1,0 +1,2 @@
+- Group 4.1: United States, Italy, Belgium, Netherlands = Countries
+from group 2.1 that never had universal vaccination programs.

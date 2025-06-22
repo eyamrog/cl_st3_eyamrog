@@ -1,0 +1,2 @@
+At all temperatures (4ºC, 20ºC, 40ºC), the inactivation rate is
+fastest in intermediate humidity of 50% RH.

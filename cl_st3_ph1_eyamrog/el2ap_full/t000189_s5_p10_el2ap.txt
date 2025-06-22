@@ -1,0 +1,5 @@
+According to a case-control study conducted by Mamani et al
+(2017) [35] with 149 adults diagnosed with community-acquired pneumonia, the
+risk of pneumonia among individuals with deficient levels of vitamin
+D (<10ng/mL) was 3.69-fold (95%CI: 1.46;9.31) greater than those with
+sufficient levels (>20ng/mL) (p<0.01).

@@ -1,0 +1,6 @@
+The sentence "Matthew harassed George when HE interviewed him" is
+structurally ambiguous, as the pronoun "he" could refer to either
+Matthew or George. Consequently, it is unclear whether Matthew harassed
+George during an interview conducted by Matthew or by George.
+This ambiguity arises from the pronoun's unclear antecedent, which affects
+the interpretation of the subject performing the interview.

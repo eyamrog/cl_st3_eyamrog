@@ -1,0 +1,14 @@
+The main descriptive statistics, including measures of central tendency (such
+as mean, median, and mode), measures of dispersion (such as
+range, variance, and standard deviation), and measures of position (such
+as percentiles and quartiles), serve distinct purposes in the analysis
+and interpretation of data. When utilizing electronic spreadsheets or specialized
+statistical software, these statistics facilitate the summarization and characterization of
+datasets by providing concise numerical descriptions. Measures of central tendency
+identify the typical or average value within a dataset, measures
+of dispersion quantify the variability or spread of the data,
+and measures of position indicate the relative standing of individual
+data points. The appropriate selection and application of these statistics
+depend on the nature of the data and the specific
+research objectives, enabling researchers to draw meaningful conclusions and inform
+subsequent analyses.

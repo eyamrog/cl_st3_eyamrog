@@ -1,0 +1,11 @@
+The discussion is based on the hypothesis that, ceteris paribus,
+non-profit organizations (NPOs) with higher levels of governance receive greater
+amounts of donations. Previous research has examined the potential impact
+of specific governance factors, such as board size, or broader
+governance dimensions, such as disclosure, which are typically measured using
+sets of observable variables, for example, the presence of an
+annual report. Harris et al. (2015), for instance, identified seven
+governance dimensions through factor analysis—board, management, policies, access, audit, executive
+compensation, and minutes—and found that donations and government grants are
+positively associated with six of these dimensions, with the exception
+of minutes, which showed no significant effect.

@@ -1,0 +1,26 @@
+Data collection was inspired, at first, by the International Corpus
+of Learner English (ICLE). CorIFA and ICLE carry similarities regarding
+task variables, such as, task medium, genre, topic and task
+setting. CorIFA compilation started with written tasks: argumentative essays, such
+as those in ICLE. Students were asked to write essays
+based on previously chosen topics, such as the internet, feminism,
+science and technology. Teachers asked the students to write their
+essays in class or at home, submitting them by email.
+Essay length, another task variable, was different from ICLE, since
+the latter required texts to be from 500 to 1000
+words; whereas CorIFA allowed, at that time, 200 to 300-word
+essays. Regarding the learner variables, ICLE and CorIFA participants' age
+range and learning context are similar; the data for both
+corpora come from university students who have learned English in
+a non-English speaking country. The main differences between the two
+corpora, however, entail first language, academic level, discipline and language
+proficiency. At this point, we will refer only to first
+language as the other characteristics will be fully discussed in
+the following section. ICLE encompasses subcorpora with English texts from
+speakers of a variety of languages (e.g.,Chinese, Turkish, Portuguese, French,
+etc.) while CorIFA’s participants are mainly Portuguese speakers18. Finally, the
+consent forms were in printed format when the corpus started
+being collected with basic information from the students, for instance,
+name and enrollment number. As consent forms were modified later
+on by the research group to collect more metadata, the
+texts collected in 2013 were discarded.

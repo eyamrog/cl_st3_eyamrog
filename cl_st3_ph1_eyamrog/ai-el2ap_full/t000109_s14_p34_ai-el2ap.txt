@@ -1,0 +1,2 @@
+Locations categorized as "other" occur less frequently. Examples of such
+locations include ATMs, warehouses, restaurants, supermarkets, pharmacies, and public transportation.

@@ -1,0 +1,6 @@
+Insects were identified by keys available in the literature (Galati
+2003; Young and Duncan 1994) by experienced taxonomists. The dataset
+is in Darwin Core format 57 terms are available. All
+mandatory fields are present and have gone through screening in
+the FIOCRUZ IPT, metadata fields are also available on the
+online pages.

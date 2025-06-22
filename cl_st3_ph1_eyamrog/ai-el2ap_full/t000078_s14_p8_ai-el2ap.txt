@@ -1,0 +1,7 @@
+As these results may be influenced by the choice of
+spatial weight matrices, robustness tests using alternative spatial matrices will
+be conducted below to assess the internal validity of the
+findings. Specifically, to evaluate the robustness of the weight matrix,
+we allow for distance thresholds of 5% and 10%, thereby
+increasing the initial cut-off and enabling the inclusion of larger
+neighborhoods.

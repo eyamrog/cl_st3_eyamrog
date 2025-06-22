@@ -1,0 +1,26 @@
+We also analyzed intra-specific variation in the ACE2 gene using
+data from human populations available in the 1000 Genomes Project,
+accessed via the Ensembl and UNIPROT platforms. This dataset identified
+660 missense variants (all with a minor allele frequency of
+0.005 or less), 260 synonymous variants, 14,352 intron variants, 67
+variants in the 5’ untranslated region (UTR), and 268 variants
+in the 3’ UTR of the ACE2 gene in humans.
+Many of these variants have been examined in case-control or
+genome-wide association studies related to cardiovascular diseases and other associated
+conditions (e.g., Ji et al., 2017). Among the 30 ACE2
+binding sites selected for this study (Figure 2), only one
+site, at position 26, exhibits two segregating alleles (K and
+R; minor allele frequency = 0.002; rs4646116). Although population-level data
+are not available for the other species included in this
+study, our results indicate that there is no significant polymorphism
+at the 30 sites mediating the interaction between host ACE2
+and SARS-CoV-like viruses in Homo sapiens, the most extensively studied
+species. This observation supports the conclusion that the amino acids
+shown in Figure 2 are taxon-specific, meaning they are characteristic
+of a species or taxonomic group, with intra-specific variation being
+absent or negligible. Furthermore, the conservation of amino acids at
+these 30 sites within Homo sapiens suggests the presence of
+strong evolutionary constraints, the underlying causes of which require further
+investigation. Analysis of the Neanderthal (Homo neanderthalensis) and Denisovan genomes
+indicates that both archaic hominins share the same amino acids
+as modern humans at these 30 sites.

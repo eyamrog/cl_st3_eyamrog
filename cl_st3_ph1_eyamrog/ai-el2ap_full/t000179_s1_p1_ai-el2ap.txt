@@ -1,0 +1,19 @@
+This study evaluated the validity and reliability of scales measuring
+different aspects of job satisfaction—general professional activity, health services management,
+and working conditions—among Peruvian physicians, using data from the National
+Survey of Satisfaction of Users in Health (ENSUSALUD). Participants were
+selected through a two-stage probabilistic, nationally representative sampling method stratified
+by political region, resulting in a sample of 2,137 physicians.
+The general professional activity scale (6 items; CFI=0.946, RMSEA=0.071) and
+the health services management scale (8 items; CFI=0.972, RMSEA=0.081) demonstrated
+good measurement properties within a one-dimensional model. The working conditions
+scale exhibited adequate measurement properties within a two-dimensional model (CFI=0.914,
+RMSEA=0.080), comprising individual conditions (8 items) and infrastructural conditions (3
+items). Measurement invariance analysis indicated that the scales allow for
+valid comparisons across sex, age, civil status, medical specialty, employment
+in other institutions, work-related illness, chronic disease, and duration of
+employment in the healthcare center. All scales demonstrated adequate internal
+consistency, with omega and alpha coefficients ranging from 0.70 to
+0.90. These findings indicate that the instruments are appropriate for
+assessing job satisfaction among outpatient physicians in Peru, with results
+generalizable at the national level.

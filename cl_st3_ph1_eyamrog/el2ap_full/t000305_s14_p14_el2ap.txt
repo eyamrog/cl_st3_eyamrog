@@ -1,0 +1,4 @@
+To test the null hypothesis that the rates are equal
+between groups of interest, the Z test was used for
+comparison of proportions10. The analyses were performed using R software
+version 3.6.311, and a significance level of 5% was considered.

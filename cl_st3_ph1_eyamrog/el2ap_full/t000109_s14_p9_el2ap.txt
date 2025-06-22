@@ -1,0 +1,23 @@
+Taking into account the aforementioned characteristics of human agents, this
+submodel operates as follows: the susceptible Ha becomes infected with
+a probability 𝛽 due to interpersonal contact with another infected
+Ha either symptomatic (I) or asymptomatic (A). This probability of
+infection is modulated by a variable v, dependent on daily
+mean temperature. If the susceptible individual (S) becomes infected, Ha
+becomes part of people exposed to the virus (E). Exposed
+individuals, 1 𝛼 days later, become asymptomatic or symptomatic, according
+to a characteristic probability 𝜂 , depending on Ha’s age
+range. Once infected, there are two possibilities. The first option
+is that Ha requires hospitalization (H) in intensive care unit
+(ICU), with a certain probability 𝛾, according to Ha’s age
+range, comorbidities and risk factors. Risk factors or comorbidities are
+attributes of each Ha, and the increase in the probability
+of moving to ICU that they represent is shown in
+Table 2 in the following section (Epidemiological characterization submodel). If
+Ha, after 1 𝜇 days is not transfered to ICU,
+then it is considered recovered and not re-infected, at least
+for an average period of 11 months, according to [32].
+During the stay in ICU, individuals have a death probability
+𝜔 [33] after an average period of 1 𝛹 days
+[34][35]. After this period,4 Ha vacates the ICU bed and
+moves to Recovered compartment.

@@ -1,0 +1,6 @@
+REHVA has demonstrated that flushing toilets with open lids generates
+plumes containing droplets and droplet residues. Recent scientific studies and
+reports from Chinese authorities have detected SARS-CoV-2 in stool samples.
+Therefore, exhaust ventilation systems in toilets should be operated continuously
+to maintain negative pressure, which is particularly important for reducing
+the risk of fecal-oral transmission, as illustrated in Figure X.

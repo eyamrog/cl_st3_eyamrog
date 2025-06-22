@@ -1,0 +1,10 @@
+Regular implementation of cleaning and disinfection procedures is a widely
+used strategy to control the presence of pathogenic microorganisms. Although
+only a limited number of studies were identified, this systematic
+review found considerable variation in the disinfectant agents employed for
+pacifier disinfection, each with distinct advantages and disadvantages. Many of
+the procedures described in the reviewed articles were adapted from
+protocols originally developed for the general decontamination of products and
+utensils intended for human use. Analysis of the included studies
+identified nine distinct microbial control strategies, utilizing solutions and products
+that operate through thermal, chemical, mechanical, and chemomechanical mechanisms.

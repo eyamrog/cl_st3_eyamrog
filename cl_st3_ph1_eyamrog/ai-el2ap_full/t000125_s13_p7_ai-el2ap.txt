@@ -1,0 +1,10 @@
+The next step of this research involves an individual analysis
+of the performance of the 20 Brazilian universities included in
+the 2020 edition of the ranking, utilizing the graphical format
+presented in Figure 1. The objective is to provide an
+initial assessment of the performance of Brazilian universities in 2020,
+which will subsequently be expanded to cover the period from
+2017 to 2020. This analysis builds upon the work of
+Morandin et al. (2020), who compared the results obtained from
+“U-Multirank” with those from the Ranking Universitário Folha in 2020.
+The outcomes for these universities are presented in Figure 2.

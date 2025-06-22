@@ -1,0 +1,8 @@
+This study examines the relationship between Foreign Direct Investment (FDI)
+inflows and key economic indicators in Turkey, specifically the Real
+Effective Exchange Rate (REER) and Gross Domestic Product per capita
+based on Purchasing Power Parity (GDP PPP). The inclusion of
+the GDP (PPP) variable is justified by its demonstrated causal
+impact on the REER, as well as its association with
+the volatility of the U.S. Dollar exchange rate in the
+Turkish stock market.

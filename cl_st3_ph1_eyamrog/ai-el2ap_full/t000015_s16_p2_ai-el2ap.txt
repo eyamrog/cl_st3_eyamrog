@@ -1,0 +1,12 @@
+The country of origin for each journal was determined using
+a three-step process. First, the journal’s ISSN (International Standard Serial
+Number) was used to query the Library of Congress (LOC)
+ISSN lookup API, which returns a MARC code indicating location;
+this MARC code was then mapped to a country following
+the approach described by Raoni (2021). MARC codes corresponding to
+subnational regions or states were manually assigned to the appropriate
+countries. Second, the top-level domains of journal URLs were extracted
+and mapped to their respective ISO 3166-1 alpha-2 country codes.
+Third, the IP address of each journal’s host was geolocated
+using a weekly updated copy of the GeoLite2 Free Geolocation
+Data.

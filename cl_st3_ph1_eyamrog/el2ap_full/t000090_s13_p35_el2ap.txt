@@ -1,0 +1,6 @@
+Although the correlations are “weak”, the negative numbers with magnitude
+larger than 0.2500 for the pairs of Dimensions “Teaching and
+Learning” and “Research”; “Teaching and Learning” and “Knowledge Transfer”; “Knowledge
+Transfer” and “International Orientation” also call some attention, meaning that
+they have some level of opposite performances in each pair
+of Dimensions.

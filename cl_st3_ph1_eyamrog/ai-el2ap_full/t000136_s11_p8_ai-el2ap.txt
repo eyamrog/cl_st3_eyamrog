@@ -1,0 +1,10 @@
+This hypothesis is based on the premise that governance mitigates
+agency problems arising from the contractual relationship between the principal
+(donor) and the agent (NPO) by implementing mechanisms that address
+several key issues, including information asymmetry, divergent utility functions (such
+as differing motivations and goals), varying levels of risk aversion,
+rational behavior on the part of the agent, differences in
+planning horizons, and the absence of a perfect contract (see
+Lacruz, 2020). Consequently, governance provides assurance to donors that their
+interests will be prioritized in the allocation and use of
+resources by the NPO.

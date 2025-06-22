@@ -1,0 +1,15 @@
+These individuals utilize resources available within the network, such as
+arthropods, injured tissue, or blood, rather than relying on specific
+hosts. Species with a high number of connections within the
+network are referred to as supergeneralists (Jordano et al. 2003;
+Thompson 2005). These species exhibit highly specialized lifestyles that are
+dependent on the structure and dynamics of the network for
+their survival. The presence of supergeneralists in a community is
+associated with a relatively greater contribution to the maintenance of
+community structure and function compared to other species. The occurrence
+of dietary specialization in central species is not exclusive to
+cleaning networks, as similar patterns are observed in other types
+of supergeneralists. For instance, in seed-dispersal networks, species with higher
+centrality degrees also tend to exhibit dietary specialization, and centrality
+has been shown to be best explained by dietary specialization
+(Mello et al. 2014).

@@ -1,0 +1,6 @@
+The development of the governance construct contributed to the application
+of agency theory in the context of third sector relationships.
+Additionally, this study represents an original application of Multiple Correspondence
+Analysis (MCA) for the validation of reflective measurement models composed
+exclusively of dichotomous data, thereby addressing a limitation associated with
+the Partial Least Squares Structural Equation Modeling (PLS-SEM) technique.

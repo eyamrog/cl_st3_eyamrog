@@ -1,0 +1,12 @@
+In the first stage, the analysis identifies tract areas that
+form statistically significant clusters using the Exploratory Spatial Data Analysis
+(ESDA) approach. The classification of these tract areas as spatially
+bounded districts (SBD) is subsequently validated through the application of
+the hedonic price model. In the second stage, the identification
+strategy incorporates spatial data on real estate for each year.
+Amenities such as schools, parks, and hospitals, as well as
+transportation infrastructure including subways, trains, and major roads, were geocoded.
+The geocoded data enable the identification of the locations of
+properties, amenities, and transportation infrastructure within the city, and facilitate
+the calculation of the Euclidean distance from each property to
+the nearest public amenities and transportation options within the municipality.

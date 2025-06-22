@@ -1,0 +1,15 @@
+Table 2 presents the distribution of data obtained from independent
+sources and data provided by academic institutions. Of the total
+indicators, 22 (61.11%) were collected through questionnaires, while 14 indicators
+(38.89%) were sourced independently. This distribution demonstrates a substantial reliance
+of the ranking results on data reported by academic institutions.
+Consequently, the completeness of the database is critical, and the
+applicability of “U-Multirank” varies across geographic regions due to significant
+differences in data availability among countries. Analysis by dimension reveals
+that “Teaching and Learning” relies entirely on institutional data, with
+no indicators sourced from open data. In contrast, “Research” and
+“Knowledge Transfer” have 54.55% and 55.56% of their indicators, respectively,
+derived from open sources. “International Orientation” and “Regional Engagement” have
+lower proportions, with 16.67% and 33.33% of their data, respectively,
+obtained from open sources. Therefore, it is recommended that additional
+efforts be made to encourage institutions to provide comprehensive data.

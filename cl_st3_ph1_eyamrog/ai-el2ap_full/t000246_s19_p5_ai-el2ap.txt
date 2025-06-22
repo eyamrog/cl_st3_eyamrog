@@ -1,0 +1,11 @@
+The collaborative analysis included only countries with at least five
+publications, resulting in a total of 24 countries (36.36%) represented
+on the collaborative map (Figure 3). An equal number of
+countries published only a single document. Figure 3 illustrates this
+distribution, showing the formation of six clusters, each indicated by
+a different color. Within this group, Brazil is the sole
+representative from Latin America; however, its collaborations are limited to
+Italy and Germany, despite sharing a cluster with Belgium, Spain,
+France, and the Netherlands. This cluster, comprising seven countries, has
+produced 306 documents, accounting for 18.85% of all documents identified
+in this study.

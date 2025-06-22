@@ -1,0 +1,11 @@
+The IRGA was calibrated to maintain an airflow of 500
+µL s⁻¹ and a reference carbon dioxide concentration of 400
+ppm. The relative humidity of the reference air was similar
+across treatments, with values as follows: control group, 45%; in
+vitro plantlets, 38%; greenhouse seedlings, 36%; and garden condition, 44%.
+Air temperature during measurements was within a physiologically favorable range
+for all groups: control group, 25.5 ± 0.5 °C; in
+vitro plantlets, 26.0 ± 0.1 °C; greenhouse seedlings, 30.4 ±
+0.7 °C; and garden condition, 31.3 ± 1.2 °C. Light
+intensities were predetermined and ranged from 0 to 1,600 µmol
+m⁻² s⁻¹.

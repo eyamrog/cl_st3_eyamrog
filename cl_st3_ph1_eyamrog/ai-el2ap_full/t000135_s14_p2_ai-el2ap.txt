@@ -1,0 +1,14 @@
+The outcomes of this study included the rates of medical
+procedures recorded in the Outpatient Information System (SIA-SUS; http://sia.datasus.gov.br/principal/index.php). Procedures
+were classified into three categories: (a) medical appointments, which included
+home visits and appointments in Primary Health Care; (b) prenatal
+procedures, encompassing partner prenatal appointments, prenatal and puerperal appointments, rapid
+tests for HIV and syphilis detection in expectant mothers or
+their partners, and rapid pregnancy tests; and (c) diabetes care,
+which included diabetes treatment, diabetic foot examinations, and urine glucose
+testing. The total number of procedures across these categories was
+also calculated. The absolute number of procedures per 10,000 inhabitants
+was determined monthly from February to December for the years
+2018, 2019, and 2020 for each group. Population estimates for
+2019 were obtained from the Brazilian Institute of Geography and
+Statistics (IBGE; http://www.ibge.gov.br).

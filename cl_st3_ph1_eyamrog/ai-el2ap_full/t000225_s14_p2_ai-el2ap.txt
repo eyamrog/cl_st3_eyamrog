@@ -1,0 +1,10 @@
+Some uncertainty exists due to the novelty of the disease
+and the limited availability of biochemical tests, which may result
+in misattribution of the cause of death to factors other
+than COVID-19 in certain cases. In accordance with the guidelines
+established by the Brazilian Ministry of Health, we included in
+our analysis both deaths directly attributed to COVID-19 (suspected and
+confirmed cases) and the excess deaths attributed to Severe Acute
+Respiratory Syndrome (SARS) as reported by ARPEN in 2020 compared
+to 2019, using the difference between the number of deaths
+in 2020 and those in 2019 as the baseline.

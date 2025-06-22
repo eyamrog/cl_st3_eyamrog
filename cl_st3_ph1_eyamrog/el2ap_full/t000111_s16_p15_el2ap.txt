@@ -1,0 +1,5 @@
+As it is clear, the wh-sentence in (47) seems to
+be subject to the matching requirement; a matching sentence, (58)a,
+is okay; a mismatch, (58)b, rules the sentence out; deleting
+the preposition, (58)c, solves the mismatch problem and the sentence
+is okay again.

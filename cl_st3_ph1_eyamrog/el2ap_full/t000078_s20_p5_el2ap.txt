@@ -1,0 +1,13 @@
+Although the weighting matrices (queen, rook, and 𝑘 neighbors) point
+to different results, they have smaller deviations from the aggregate
+result than the distance weight matrix. To consider the SBD
+candidates from the city of São Paulo, we only take
+those that are statistically significant for all specifications and those
+areas characterized as HH and HL clusters. In this case,
+with at least 5% significance, 37 tract areas are found
+as candidates for SBD, and all of them are labeled
+as HH only, as displayed in Table 3. For the
+three spatial weighting matrix specifications (queen, rook, and k neighbors),
+only one weighting area is not significant for the rook
+and queen specification simultaneously. As a result, 36 weighting areas
+are considered as SBD candidates.

@@ -1,0 +1,16 @@
+In the anonymous questionnaire, 47 (28.6%) attendees reported having COVID-19
+during the previous year and were fully recovered before the
+event, 28 were not vaccinated and 19 were vaccinated with
+at least one dose. No reinfection resulted from this event.
+All 47 previously infected adolescents were negative and did not
+have symptoms after the event. This is consistent with the
+lower risk of reinfection found by other authors in people
+younger than 65 years of age (Hansen et al., 2021)
+and the preliminary data that shows that natural immunity confers
+higher protection against infection with Delta VOC than vaccine-induced immunity
+(Gazit et al., 2021). In this study we cannot assume
+that the superspreading event was caused by Delta since we
+only sequenced one sample from a symptomatic fully vaccinated individual,
+however we did observe a higher risk of infection in
+naive or vaccinated adolescents than in recovered individuals with natural
+immunity.

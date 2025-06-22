@@ -1,0 +1,8 @@
+We thank Clara Baringo Fonseca for her assistance in preparing
+the Darwin Core spreadsheet and Dr. Maria Anice Mureb Sallum
+of the Faculty of Public Health, University of São Paulo,
+for identifying certain culicid samples in the collection. We also
+acknowledge the municipalities and institutions whose contributions facilitated sample collection,
+as well as Dr. Ueslei Teodoro of the State University
+of Maringá and Dr. Mara Cristina Pinto of the State
+University of São Paulo (UNESP, Araraquara) for their field support.

@@ -1,0 +1,14 @@
+This study examined the associations between meta-concerns and symptoms of
+anxiety and depression at the onset of the COVID-19 pandemic
+in Brazil. A total of 2,042 participants, aged 18 to
+78 years, completed an online survey that included a sociodemographic
+questionnaire, the 4-item Patient Health Questionnaire, and the Meta-Worry Questionnaire.
+Four logistic regression models were employed to estimate the effects
+of independent variables on anxiety and depression symptoms. The results
+indicated that being younger, lacking a steady income, feeling ill,
+and reporting a high level of meta-worries were associated with
+increased likelihood of exhibiting anxiety and depressive symptoms. These findings
+suggest that early identification and intervention for psychological distress are
+important in the context of the COVID-19 pandemic, as several
+susceptibility factors for the development of mental disorders were present
+at the beginning of the pandemic in Brazil.

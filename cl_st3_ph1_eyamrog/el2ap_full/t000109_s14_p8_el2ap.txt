@@ -1,0 +1,7 @@
+This submodel comprises all the COVID-19 pandemic specific characteristics, such
+as important epidemiological effects caused by asymptomatic infectious individuals (A)
+or with mild symptoms. The fraction of individuals requiring hospitalization
+in intensive care (H) is also considered and it is
+assumed that all human agents have the possibility of accessing
+a respiratory ventilator, since the local healthcare capacity was not
+exceeded in the city under study.

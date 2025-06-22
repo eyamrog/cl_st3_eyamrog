@@ -1,0 +1,12 @@
+Finally, as this section has explored, it is essential when
+archiving language documentation materials to choose a repository that will
+ensure their long-term preservation and accessibility. Many archives with the
+necessary infrastructure, including many of those in the DELAMAN consortium,
+serve an international community, and should not be viewed as
+proprietary with respect to whatever country might host them. Nonetheless,
+archiving initiatives are valuable at all levels – local, regional,
+national, and international. In some cases, it may be advisable
+to archive materials in more than one location, in order
+to meet local priorities while also leveraging higher-level infrastructure that
+offers the most reliable preservation and access (see §3.2 and
+§6 below).

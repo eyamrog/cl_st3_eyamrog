@@ -1,0 +1,7 @@
+Since we wanted to investigate relationships between latent variables, we
+chose the technique Partial Least Squares Structural Equation Modeling (PLS-SEM).
+As the variables related to manifest variables are qualitative, assuming
+dichotomous values, and this technique is not appropriate for measuring
+constructs under this condition (Hair et al., 2016), we initially
+conducted the Multiple Correspondence Analysis (MCA) to identify the underlying
+governance structure in NPO.

@@ -1,0 +1,21 @@
+This paper presents an agent-based model designed to predict the
+daily evolution of the number of individuals hospitalized in intensive
+care due to COVID-19, with results provided for the year
+2020. The model also accounts for the number of deaths,
+reported cases, asymptomatic individuals, and other relevant epidemiological variables, disaggregated
+by age group. Key characteristics of the climate in Paraná
+city (Entre Ríos, Argentina), as well as its social dynamics
+and public transportation systems, are incorporated as input parameters, alongside
+the various phases of isolation and social distancing implemented during
+the study period. The model employs a set of Hidden
+Markov Models to simulate virus transmission associated with population mobility
+and activities within the city. Disease progression within hosts is
+represented by modeling the stages of infection, considering the presence
+of comorbidities and the proportion of asymptomatic cases. By calibrating
+the model to observed data on intensive care unit hospitalizations
+and COVID-19-related deaths in the study area, the system enables
+analysis of the effects of isolation and social distancing measures
+on population dynamics. Furthermore, the model facilitates the simulation of
+scenarios that could lead to healthcare system overload due to
+insufficient infrastructure, as well as the assessment of the potential
+impact of social events or increased population mobility.

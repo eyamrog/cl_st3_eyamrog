@@ -1,0 +1,24 @@
+The average levels of self-citations in the period of 2010–2018
+range from 0.0–24.2% in Zoology, 0.0–34.9% in Entomology, and 4.6–34.9
+in TTJ. For the last five years (2014–2018), these levels
+are 0.0– 27.3% in Zoology, 0.0–36.4% in Entomology, and 4.5–36.4%
+in TTJ. The upper bounds of self-citation in the Entomology
+and TTJ categories are due to Systematic and Applied Acarology;
+excluding this journal, the maximum level of self-citation for Entomology
+is 21.4% (Coleopterists Bulletin) for 2010–2018 and 27.3% (Odonatologica) for
+2014–2018, while for TTJ they are 26.3% and 27.5% (both
+correspond to Cretaceous Research). In comparison to all other journals,
+excluding Systematic and Applied Acarology, the mean levels of self-citation
+are higher for Zootaxa than for any other journal in
+Zoology (Figure 1), Entomology (Figure 2), and TTJ categories (Figure
+3), being 34.9% for 2010–2018 and 37.6% for 2014–2018 in
+Zootaxa. The levels of self-citation have gradually increased in Zootaxa
+from 27.99% in 2010 to 52.7% in 2018 (Figure 4).
+The percentage of self-citations for 2010–2018 is higher in Zootaxa
+and similar only to Systematic and Applied Acarology (Figure 4).
+The non-parametric one-way analysis of variance Kruskal-Wallis of Q2 and
+Q3 journals, plus TTJ, is highly significant for both the
+ratio of JIF without self-citation and JIF (JIF ratio: H
+= 326.8, d.f. = 67, P < 0.001), as well
+as to the proportion of self-citation (level of self-citation: H
+= 311.4, d.f. = 67, P < 0.001).

@@ -1,0 +1,8 @@
+One possible explanation for the disparity in Covid-19 mortality between
+Rio de Janeiro and São Paulo is the difference in
+the availability of hospital beds. São Paulo has a higher
+number of hospital beds per 100,000 population compared to Rio
+de Janeiro (27.8 and 23.3, respectively). However, during the period
+evaluated, the average time between diagnosis and hospitalization was similar
+in both cities, approximately 5 days (5.8 days in Rio
+de Janeiro and 5.9 days in São Paulo).

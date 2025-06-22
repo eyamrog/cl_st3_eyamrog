@@ -1,0 +1,10 @@
+McDonald (1987) firstly proposed the cut-off method, applying for the
+Chicago metropolitan area, and Guiliano and Small (1991) extend the
+empirical approach, identifying 32 SBD in Los Angeles, United States.
+Under their method, a sub-center is a set of contiguous
+areas that have a minimum density of ten employees per
+acre and hold 10,000 employees. These models received several criticisms
+due to the discretion of the chosen locations, the sensitivity
+of the results to the cut-off, and the impossibility of
+generalization to any other city (Anas et al., 1998; McMillen,
+2001b; Baumont et al., 2004).

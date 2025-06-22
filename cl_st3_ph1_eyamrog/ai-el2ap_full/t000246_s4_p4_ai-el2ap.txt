@@ -1,0 +1,13 @@
+As the classical formulation of Bradford's Law was applied, it
+was anticipated that the fit would not be exact, as
+multiple variables influence the empirical distribution of the literature. These
+variables are not accounted for in Bradford's original formula and
+present a significant challenge for contemporary researchers seeking to refine
+its mathematical representation. The core identified through the application of
+the Law effectively highlighted a key aspect of scientific publishing
+behavior related to SARS: when certain journals are recognized or
+are likely to gain recognition within the field, an increasing
+number of publications are directed to them. To further assess
+this phenomenon, it is important to evaluate the qualitative aspects
+of these journals, with impact factor indicators serving as the
+most reliable measures.

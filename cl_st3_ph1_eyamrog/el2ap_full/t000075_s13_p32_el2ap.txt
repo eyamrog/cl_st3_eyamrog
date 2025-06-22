@@ -1,0 +1,15 @@
+One of the first theorists that grounded the use of
+capital controls in this context was Korinek (2011). The theoretical
+construction formalizes the prudential use of capital controls. According to
+the model, emerging economies show an excess of external indebtedness
+due to capital inflows because private agents do not internalize
+the consequences of a future debt constraint due to excessive
+indebtedness. According to the model, over the boom phase, debt
+inflows raise internal consumption, promote asset inflation (which is also
+used as collateral in financing operations), and provoke currency appreciation.
+However, a negative shock on one of these variables promotes
+financial amplification, which is characterized by currency depreciation, asset deflation,
+and a contraction in aggregate demand. In this scenario, private
+agents experience a vicious circle that leads to a relative
+interruption of external financing and/or to an increase in its
+costs.

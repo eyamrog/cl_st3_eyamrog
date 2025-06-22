@@ -1,0 +1,7 @@
+Adjusting COVID-19 mortality rates to account for variations in population
+age structure necessitates the use of data on the total
+population (P) and the cumulative number of deaths (M), each
+disaggregated by age group. These data enable the calculation of
+both the crude mortality rate (m) and an age-adjusted mortality
+rate (a), the latter standardized to a uniform age distribution.
+Given: <>

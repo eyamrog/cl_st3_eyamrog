@@ -1,0 +1,4 @@
+The data suggest that if focusing and wh-fronting cannot co-occur,
+it is possible that both the focalized constituent and the
+wh-phrase compete for the same syntactic position. Consequently, wh-fronting may
+involve the placement of wh-operators in Spec, FocP.

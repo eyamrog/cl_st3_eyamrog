@@ -1,0 +1,6 @@
+Based on the theoretical framework established for each dimension, we
+grouped certain variables with the dimensions for which they exhibited
+the highest discrimination measures. Two variables were assigned to dimensions
+where their discrimination measures were not the highest among all
+possible associations; however, their discrimination measures exceeded the inertia of
+the respective dimensions to which they were assigned.

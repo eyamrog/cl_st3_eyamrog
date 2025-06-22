@@ -1,0 +1,25 @@
+The low activation of IFN pathway is mediated by viral
+regulation of IRF3, a transcription factor activated by phosphorylation or
+polyubiquitination, and then translocates to the nucleus and induces the
+IFN response genes (Chattopadhyay et al. 2016). The SARS-CoV PLpro
+inhibits IRF3 phosphorylation, preventing its nuclear translocation and disrupting IFN
+response, probably through inhibition of STING (stimulator of interferon genes),
+that is responsible for IRF3 phosphorylation (Chen et al. 2014).
+Nsp3 DUB domain of MHV-A59 and SARS-CoV promotes deubiquitination of
+IRF3 and also prevents its activation, blocking NF-κBsignaling (Frieman et
+al. 2009). PLpro of MERS-CoV has also been described to
+inhibit IRF3 nuclear translocation (Yang et al. 2014). Interferon inhibition
+makes PLpro an important determinator of virulence of coronavirus (Niemeyer
+et al. 2018). SARS-CoV Nsp1 protein also participates in IFN
+inhibition through decreasing STAT1 phosphorylation (Wathelet et al. 2007). While
+ORF3a protein induces ER stress, activates PERK (PKR-like ER Kinase),
+and promotes phosphorylation, ubiquitination, and degradation of IFNAR1, attenuating interferon
+response (Minakshi et al. 2009). The SARS-CoV N protein has
+also been described to inhibit IFN production at an early
+step, by sequestering PACT (protein activator of the dsRNA activated
+protein kinase R) and TRIM25 (tripartite motif protein 25), which
+bind to RIG-I (retinoic acid-inducer gene I) and MDA5 (melanoma
+differentiation gene 5) and activate IFN production (Ding et al.
+2017). Finally, ORF4b of MERS-CoV is another protein that has
+been characterized to inhibit IFN and NF-κB signaling (Matthews et
+al. 2014).

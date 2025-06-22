@@ -1,0 +1,3 @@
+2) the unique RNA replication mechanism using the TRS motifs,
+known as the “copy-choice” mechanism, may induce homologous RNA recombination
+between genes of different coronaviruses (Simon-Loriere and Holmes 2011);

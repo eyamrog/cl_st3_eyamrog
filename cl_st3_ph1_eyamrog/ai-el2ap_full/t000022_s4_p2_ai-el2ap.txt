@@ -1,0 +1,15 @@
+The corpus of documents analyzed in this study was constructed
+from a database that integrates information from two major indexers
+of Latin American and Caribbean scientific journals: SciELO and Redalyc.
+This integration, facilitated by the collaborative efforts of both institutions
+and CLACSO, enables a comprehensive examination of the sustained contributions
+made by these open access publishing platforms. The analysis highlights
+the existence of a substantial body of Latin American scientific
+output that meets high quality standards, yet remains underrepresented in
+prevailing academic assessment frameworks. A key finding is the notable
+longevity and diversity of the journals included, with some titles
+originating in the late nineteenth and early twentieth centuries. Additionally,
+the corpus encompasses a wide range of disciplinary fields, collaboration
+patterns, publication languages, authorship types, geographic affiliations of authors, and
+publishing institutions, reflecting more than a century of scientific production
+in the region.

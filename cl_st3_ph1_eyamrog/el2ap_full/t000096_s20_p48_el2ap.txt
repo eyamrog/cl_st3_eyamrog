@@ -1,0 +1,4 @@
+- Design and implement a Virtual Learning Environment (VLE) within
+a Learning Management System (LMS), which allows to develop a
+specific domain theme, and integrate both synchronous and asynchronous resources
+and activities.

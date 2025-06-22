@@ -1,0 +1,5 @@
+Finally, CPDI and FCV-19S scales showed a correlation factor of
+(r= 0,660) described in Figure 1. Also, correlations between the
+FCV-19S scale and CPDI’s question S3 (I feel terrified from
+imagining myself or my family being infected) showed an even
+higher relationship (r= 0,728).

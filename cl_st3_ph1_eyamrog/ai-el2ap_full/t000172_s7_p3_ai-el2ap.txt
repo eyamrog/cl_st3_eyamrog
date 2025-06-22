@@ -1,0 +1,7 @@
+Symptoms of COVID-19 infection typically manifest after an incubation period
+of approximately 5.2 days. The interval between the onset of
+symptoms and death has a median duration of 14 days,
+with a reported range of 6 to 41 days. The
+most frequently observed initial symptoms include cough, fever, and fatigue,
+while some patients also experience sputum production, headache, hemoptysis, diarrhea,
+dyspnoea, and lymphopenia (Rothan and Byrareddy 2020).

@@ -1,0 +1,11 @@
+To identify significant changepoints in the time series, we analyzed
+the data for substantial changes in mean and variance. This
+approach partitions the data into segments characterized by distinct mean
+and variance values, with a changepoint defined as the observation
+that delineates these segments (Killick & Eckley, 2014). The procedure
+facilitated the detection of critical shifts in the trophic dynamics
+of the Garças Reservoir and was implemented using the changepoint
+package (Killick & Eckley, 2014) and the PELT algorithm (Hinkley,
+1970), which allows for the identification of multiple changepoints. All
+analyses were conducted using the R software (R Core Team,
+2019).

@@ -1,0 +1,6 @@
+This research work was based on a quasi-experimental design and
+it is a nonequivalent group design, which means that a
+pretest and a post-test will be needed to compare two
+groups: one treated and the comparison one. In this type
+of research, the independent variable is manipulated and participants are
+not randomly assigned to conditions.

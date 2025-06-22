@@ -1,0 +1,9 @@
+Figure 6 shows the number of daily COVID-19 cases (symptomatic
+and asymptomatic) estimated by the model in the period under
+analysis. In this case, official numbers only consider a sample
+of the actual total cases, since official reports are highly
+dependent on testing policies and on cases monitoring, appart from
+the difficulty in detecting asymptomatic cases. The model estimates that
+the number of actually infected people is larger than that
+showed by official reports. This agrees with the bibliography reported
+for other case studies [49].

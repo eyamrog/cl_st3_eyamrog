@@ -1,0 +1,16 @@
+In ecological communities, interactions among individuals of different species play
+a central role in shaping population dynamics (Macarthur 1955; Jordano
+2016) and evolutionary processes (Drossel et al. 2001; Guimarães et
+al. 2011), thereby influencing the maintenance of biodiversity at the
+community level (Paine 1966; Fontaine et al. 2006; Hale et
+al. 2020). These interactions frequently give rise to ecological networks,
+in which species are connected through direct or indirect interactions
+(Pascual & Dunne 2006; Jordano et al. 2006). Various types
+of interactions, including mutualisms between plants and their seed dispersers
+or pollinators (Bascompte et al. 2003), predator-prey relationships among mammals
+(Pires & Guimarães 2013), facilitative interactions among plant species (Verdú
+2010), and cleaning interactions among fish (Guimarães et al. 2007),
+contribute to the formation of species-rich networks that exhibit a
+range of nonrandom structural patterns. Notable among these patterns are
+nestedness (e.g., Guimarães et al. 2007; Bascompte et al. 2003)
+and modularity (e.g., Olesen et al. 2007).

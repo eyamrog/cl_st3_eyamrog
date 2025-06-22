@@ -1,0 +1,18 @@
+While there are digital repositories that claim to be purely
+open access, all digital language archives have rules for how
+users may interact with the holdings, and most digital language
+archives have graded access, by which certain materials may be
+restricted to particular users and/or conditions of use (see also
+§2.5). Regarding the rules of use, all digital language archives
+have some sort of terms or conditions that the online
+visitors must agree to before they can access the media
+files. Many digital archives require a user to create a
+free account and log in before they can access the
+media files. However, the catalog information (i.e., the metadata) is
+usually publicly accessible, meaning that anyone who lands on the
+archive’s web page can access and read it. Most language
+archives have some form of graded access to media files,
+though the way graded access works varies greatly between archives.
+AILLA uses numbered levels that indicate grades of access; other
+archives have specialized user roles and some use color coding
+to indicate who can access specific materials.

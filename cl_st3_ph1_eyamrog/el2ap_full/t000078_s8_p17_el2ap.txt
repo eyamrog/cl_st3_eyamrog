@@ -1,0 +1,5 @@
+All approaches that use gross employment density (employment/area) are sensitive
+to the area’s size. More extensive regions tend to have
+smaller densities (and vice versa), confounding the identification of subcenters.
+Besides, Mieszkowski and Smith (1991) point out that the coefficients
+estimated by gross density tend to overestimate the estimated coefficients.

@@ -1,0 +1,15 @@
+After compiling the list of institutions, the correlations among all
+pairs of indicators within the same dimension were calculated and
+analyzed. Similarly, correlations among the average values of each dimension
+were also computed. The purpose of these analyses is to
+assess the degree of association among the dimensions and indicators,
+thereby evaluating their level of independence. High correlations are anticipated
+for certain indicators; for example, the absolute number of publications,
+the normalized number of publications, and the number of “top
+cited” publications are likely to be strongly correlated, as institutions
+with high values in one of these indicators are expected
+to have high values in the others. Examining these correlations
+is important because it provides insight into whether the study
+is genuinely measuring five distinct dimensions and thirty-six separate indicators,
+or if some indicators and dimensions are essentially alternative measures
+of the same underlying construct.

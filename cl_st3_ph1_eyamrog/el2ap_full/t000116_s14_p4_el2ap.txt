@@ -1,0 +1,8 @@
+Usually, rates are presented for 10,000 inhabitants. However, as we
+carry out analyzes by groups of causes, and some are
+infrequent, we chose to increase the base to 100,000 inhabitants.
+Also, we highlight that groups 17 and 19 on the
+list correspond to exclusively female causes. Thus, the denominator of
+these rates was only the female population. Therefore, the total
+rate is the result of the sum of the rates
+of the groups, according to the formula: <>

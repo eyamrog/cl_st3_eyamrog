@@ -1,0 +1,12 @@
+As non-bibliometric researchers, we suppose that measures in bibliometric science
+were created with some genuine purposes, which entail goals other
+than supposedly assessing the quality of research or researchers. Originally
+these indexes aimed to be objective tools for helping librarians
+in the development of journal collections (Haustein & Larivière 2015).
+According to Keith Collier (Senior Vice President of Product, Science
+Group Clarivate, https://bit.ly/31gOMg3), the JIF mission is “to provide a
+thorough, publisher-neutral, multifaceted view of journal performance, reflecting the world’s
+highest-quality scientific and scholarly literature.” The hope relies on the
+citation frequency that would reflect a journal value and the
+use made of it and shows the average citations per
+published paper in a given journal (Garfield 1972).

@@ -1,0 +1,13 @@
+Members of the Coronaviridae family are capable of infecting a
+broad range of animal species, including humans, and are associated
+with severe respiratory, enteric, hepatic, and neurological diseases (Weiss and
+Leibowitz, 2011). In humans, coronaviruses have primarily caused respiratory tract
+infections and, for several decades, were regarded as having limited
+clinical and epidemiological significance until the emergence of SARS-CoV and
+MERS-CoV outbreaks (Kuiken et al., 2003; Zaki et al., 2012).
+Currently, SARS-CoV-2 is the causative agent of COVID-19, a pandemic
+that has posed significant challenges to public health systems worldwide.
+The mortality associated with COVID-19 has already surpassed that of
+diseases caused by SARS-CoV and MERS-CoV combined, underscoring the critical
+importance of this disease as a major public health issue
+(WHO; https://www.who.int/emergencies/diseases/novel-coronavirus-2019).

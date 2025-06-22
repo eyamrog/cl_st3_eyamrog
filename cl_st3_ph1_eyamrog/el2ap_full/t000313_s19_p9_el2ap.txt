@@ -1,0 +1,25 @@
+Finally, we also leveraged intra-specific variation of the ACE2 gene
+using data from human populations available in the 1000 Genomes
+Project (accessed through Ensembl and UNIPROT platforms). This dataset revealed
+660 missense variants (all with minor allele frequency of 0.005
+or less), 260 synonymous variants, 14,352 intron variants, 67 5’UTR
+variants, and 268 3’UTR variants in the ACE2 gene in
+humans. Many of these have been investigated in case-control or
+genome-wide association studies for cardiovascular diseases and other correlated conditions
+(see for instance Ji et al., 2017). Regarding the 30
+ACE2 binding sites selected to present study (Figure 2), only
+one of them, at position 26, has two alleles segregating
+(K and R; Minor Allele Frequency or MAF = 0.002;
+rs4646116). Although we do not have population data for the
+other species investigated here, we observed that there is no
+relevant polymorphism regarding the 30 sites that promote the interaction
+between host-ACE2 and SARS-CoV-like viruses in the most studied species
+of all (Homo sapiens). This finding reinforces the idea that
+the AAs presented in Figure 2 are taxon- specific, i.e.,
+characteristic of a species or a taxonomic group, where intra-specific
+variation is absent or negligible. Also, the AA conservation within
+Homo sapiens in these 30 sites indicates an instigating evolutionary
+constraint whose reasons need to be further studied. A search
+in the genome of the Neanderthal (Homo neanderthalensis) and in
+the specimen of Denisova indicates that both present the same
+AAs as Homo sapiens in these 30 sites.

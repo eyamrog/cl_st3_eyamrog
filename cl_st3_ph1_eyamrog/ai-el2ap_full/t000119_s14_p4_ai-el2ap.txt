@@ -1,0 +1,10 @@
+Germination tests were conducted using four replicates of 100 seeds
+each, placed in plastic boxes (gerboxes) containing three sheets of
+germitest paper moistened with either distilled water or saline solution
+at a volume equivalent to 2.5 times the dry weight
+of the paper. Following sowing, the boxes were incubated in
+a Bio-Oxygen Demand (BOD) chamber maintained at a constant temperature
+of 20 °C under continuous light. Germination was assessed by
+counting the number of germinated seeds at seven and 28
+days, with the final results expressed as a percentage, according
+to the methodology described by Brasil (2009).

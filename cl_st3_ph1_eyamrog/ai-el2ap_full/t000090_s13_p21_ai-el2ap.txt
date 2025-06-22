@@ -1,0 +1,9 @@
+Examining the overall data for the 300 top European academic
+institutions included in the 2020 ranking, a total of 10,800
+grades were expected based on the presence of 36 indicators.
+However, only 9,258 data points were available, representing 85.72% of
+the expected total. Additionally, 1,102 data points (10.20%) were missing,
+and 440 data points (4.08%) were classified as “not applicable.”
+Consequently, approximately 15% of the data for this group of
+academic institutions were either missing or not applicable, which is
+a substantial proportion.

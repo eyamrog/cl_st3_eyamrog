@@ -1,0 +1,6 @@
+The results of the linear regression analysis indicated a positive
+correlation between leptospirosis incidence rates and rainfall during the period
+with the highest rainfall volume (r = 0.83). Additionally, the
+coefficient of determination (R²) for this period was 0.69, indicating
+that 69% of the variability in disease rates could be
+explained by rainfall.

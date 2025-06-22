@@ -1,0 +1,7 @@
+For the correlational analysis, Kendall's Tau-b test was used to
+assess the correlation of the scores (IDATE) between both indices,
+analyzing the strength of the correlation with the variables age,
+period and medications used. Additionally, the agreement rate between IDATE-T
+and IDATE-E was verified through the Kappa (K) coefficient test.
+For all analyses, a 95% confidence interval and a significance
+level of p < 0.05 were adopted.

@@ -1,0 +1,13 @@
+A perfect bacterial genome assembly is one where the assembled
+sequence is an exact match for the organism’s genome –
+each replicon sequence is complete and contains no errors of
+any scale. While this has been difficult to achieve in
+the past, improvements in long-read sequencing, assemblers and polishers have
+brought perfect assemblies within reach. Here we describe our recommended
+approach for assembling a bacterial genome to perfection using a
+combination of Oxford Nanopore Technologies long reads and Illumina short
+reads: Trycycler long-read assembly, Medaka long-read polishing, Polypolish short-read polishing,
+followed by other short-read polishing tools with manual curation. We
+also discuss potential pitfalls one might encounter when assembling challenging
+genomes, and we provide an online tutorial with sample data
+(github.com/rrwick/perfect-bacterial- genome-tutorial).

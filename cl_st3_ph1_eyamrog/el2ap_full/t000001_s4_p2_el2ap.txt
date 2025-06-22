@@ -1,0 +1,10 @@
+While perfect bacterial genome assemblies are now possible, they are
+not yet simple to produce. The future will undoubtedly bring
+improvements to ONT chemistry, basecallers and polishers, but whether these
+will be sufficient for perfect ONT-only assemblies (negating the need
+for Illumina reads) remains to be seen. Further software developments
+are needed to remove the human-interaction elements, enabling perfect assemblies
+from a fully automated pipeline, even in complicated cases (e.g.
+genomes with heterogeneity). The ultimate goal is a future where
+genomes can be assembled to perfection with enough ease and
+reliability that it is taken for granted.

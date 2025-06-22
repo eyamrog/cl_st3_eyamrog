@@ -1,0 +1,16 @@
+SARS-CoV-like viruses use ACE2 as their gateway to the host
+cell. Figure 2 illustrates the diversity of 70 ACE2 orthologues,
+considering 30 potential binding sites to the S glycoproteins of
+the SARS-CoV-like viruses. This fact opens up a wide range
+of possibilities for this type of coronavirus, whose rate of
+evolution is high, due to its high rates of mutation
+and recombination (Li et al., 2020a). These phenomena that generate
+variability in the RNA viruses explain why they change host
+more frequently and jump between distantly related species more often
+than other pathogens (Woolhouse et al., 2005a, 2005b; Davies and
+Pedersen, 2008; Longdon et al., 2014). These facts would explain
+a predicted origin of SARS-CoV-2 from original and/or intermediate phylogenetically
+distant hosts (for instance, bat and pangolin; Guo et al.,
+2020; Ji et al., 2020; Lam et al., 2020; Li
+et al., 2020c; Wu et al., 2020; Zhou et al.,
+2020).

@@ -1,0 +1,9 @@
+The establishment of a definitive airway is inherently associated with
+aerosol generation, particularly when high-speed flow is utilized. Therefore, it
+is essential to implement appropriate safety measures to minimize the
+risk of disease transmission. Positive pressure ventilation during non-invasive ventilation
+(NIV), as well as the use of face masks or
+supraglottic devices, are considered high-risk factors for aerosol generation due
+to their inadequate sealing, which is less effective compared to
+a definitive airway secured with an inflated cuff within the
+trachea.

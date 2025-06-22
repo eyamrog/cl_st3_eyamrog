@@ -1,0 +1,11 @@
+Species of the Coronaviridae family can infect a wide variety
+of animals and humans, causing severe respiratory, enteric, hepatic, and
+neurological diseases (Weiss and Leibowitz, 2011). In humans, coronavirus has
+caused mainly respiratory tract infections and, for decades, were considered
+with little clinical and epidemiological importance until SARS-CoV and MERS-CoV
+outbreaks (Kuiken et al., 2003; Zaki et al. 2012). Today,
+SARS-Cov-2 is responsible for the COVID-19, a pandemic that has
+challenged governments and peoples of every country in the world.
+COVID-19 already killed more persons than diseases caused by SARS-CoV
+and MERS-CoV combined, emphasizing the importance of this pathology as
+a highly relevant public health concern (WHO; https://www.who.int/emergencies/diseases/novel-coronavirus-2019).

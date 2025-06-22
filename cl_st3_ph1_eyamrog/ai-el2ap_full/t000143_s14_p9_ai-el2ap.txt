@@ -1,0 +1,10 @@
+A univariate exploratory analysis of spatial data was conducted to
+assess the global spatial autocorrelation of femicide rates in the
+municipalities of Sergipe using the Moran I index, based on
+the assumptions of normality and randomization. The Moran I index
+ranges from -1.0 to +1.0 and evaluates whether spatially adjacent
+areas exhibit greater similarity in femicide rates than would be
+expected under a random distribution. Spatial autocorrelation, as measured by
+the Moran I index, can be classified as positive, negative,
+or absent, indicating the degree to which similar values cluster
+in space.

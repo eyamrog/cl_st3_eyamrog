@@ -1,0 +1,7 @@
+The covariance between the Gini coefficient and the proportion of
+articles by the most prolific author depended on the number
+of articles (panel C in Figure 1), as expected from
+the relationship between each index and the number of articles.
+Journals with more articles had a low proportion, independently of
+the Gini coefficient, while journals with fewer articles had larger
+proportions if they had larger Gini coefficients.

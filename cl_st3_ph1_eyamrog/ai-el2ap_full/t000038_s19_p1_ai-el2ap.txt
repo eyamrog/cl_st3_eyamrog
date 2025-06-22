@@ -1,0 +1,10 @@
+As a preliminary step, with a sample size of 1,844
+observations, the SALOMON splitting method was applied using the FACTOR
+software (Lorenzo-Seva, 2021). The Ratio Communality Index (RCI) obtained was
+0.998452, indicating that both subsamples possess a similar amount of
+common variance; values closer to 1 suggest greater comparability between
+subsamples (Lorenzo-Seva, 2021). The data exhibited significant kurtosis (p <
+0.05), indicating a deviation from normality. Consequently, the Diagonally Weighted
+Least Squares (RDWLS) extraction method was employed, as it is
+appropriate for categorical data that do not follow a normal
+distribution (Asparouhov & Muthén, 2010).

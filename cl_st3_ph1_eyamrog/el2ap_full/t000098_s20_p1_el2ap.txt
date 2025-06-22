@@ -1,0 +1,5 @@
+Tables 1 and 2 present Covid-19 mortality rates by age
+groups estimated based on the procedure described above. The first
+one reports the rates of those 20 countries for which
+it was possible to obtain information by homogeneous age groups,
+while the second does so for the other eight countries.

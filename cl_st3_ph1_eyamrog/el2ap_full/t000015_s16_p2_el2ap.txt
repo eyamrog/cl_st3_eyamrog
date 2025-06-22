@@ -1,0 +1,12 @@
+A journal’s country of origin of a journal through a
+three step process. First, we used the ISSN (International Standard
+Serial Number) of a journal to query the LOC ISSN
+lookup API for location, which provides us with a MARC
+code. This MARC code can then be mapped to a
+country (Raoni, 2021). MARC codes that map to within-country regions
+or states are handled manually to reflect corresponding countries. Second,
+we extract the top level domains from the journal URLs
+and map them to their corresponding ISO 3166-1 alpha-2 country
+codes. Third, we geolocated the IP address of the journal
+host using a weekly updated copy of the GeoLite2 Free
+Geolocation Data.10

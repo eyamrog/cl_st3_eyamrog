@@ -1,0 +1,6 @@
+To examine the differences between the mean values of H
+for families and cleaners, a paired t-test was conducted to
+assess whether the mean difference between these two groups was
+statistically significant. In addition, the standard deviation and p-value were
+calculated to provide further information regarding the variability and significance
+of the observed differences.

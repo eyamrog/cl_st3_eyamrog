@@ -1,0 +1,15 @@
+Tests on the residuals using Moran’s I indicate the absence
+of spatial autocorrelation (Table 4, columns 1-4). When the SLXb
+estimator is applied to address potential spatial dependence (Table 5,
+columns 9-11), the estimated coefficients for the overall effect are
+statistically significant but theoretically inconsistent, suggesting that land prices are
+higher at the urban periphery—an outcome not supported by empirical
+observation. Additionally, the null hypothesis of spatial randomness cannot be
+rejected in these models. The only exception is observed in
+the log-level functional form model that includes a quadratic term
+for distance from the CBD, where the estimated global effect
+aligns with theoretical expectations (Table 5, column 12). These counterintuitive
+findings prompt further investigation into the second hypothesis: whether the
+unexpected and statistically non-significant results for the CBD coefficients are
+attributable to the omission of controls for sub-central business districts
+(SBDs).

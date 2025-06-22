@@ -1,0 +1,11 @@
+The moisture content (%) of the seeds was determined using
+a composite sample of 1,000 seeds collected at different times.
+The oven-drying method was applied at 105 ± 3 ºC
+for 24 ± 1 hours, following the protocol established by
+Brazil (2009), with four replicates of 200 seeds each. Moisture
+content, expressed on a wet basis, was calculated using the
+following formula: X% = [(Iw - Fw) / Iw] ×
+100, where Iw represents the initial weight of the sample
+(g), Fw is the final weight of the sample (g),
+and X% denotes the water content as a percentage of
+the wet basis.

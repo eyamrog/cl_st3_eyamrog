@@ -1,0 +1,13 @@
+Invariance was reached between marital status categories (those who live
+with a couple and those who don´t), having a chronic
+disease (those who have vs. those who do not), and
+people who have a work-related disease (those who have vs.
+those who do not). Therefore, comparisons between these groups could
+be performed. On the other hand, invariance was violated between
+men and women (sex), between people working in other institutions,
+and according to the time working in the institution. Comparisons
+between these variables could not be performed (see Supplement 3).
+Finally, it was not possible to evaluate invariance according to
+the type of organization, monthly income, having a specialty, nor
+age of the participant, because necessary assumptions for such analysis
+were not fulfilled in this group of variables.

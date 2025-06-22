@@ -1,0 +1,13 @@
+Replication of SARS-CoV-2 is initiated by the translation of the
+pp1a and pp1ab polyproteins from the single-stranded, positive-sense genomic RNA
+(ssRNA+), which possesses a 5’ cap and a 3’ poly(A)
+tail (Figure 1). The pp1ab polyprotein is generated through a
+-1 ribosomal frameshift mechanism that occurs during translation, resulting in
+the synthesis of two distinct polyproteins: pp1a (in the absence
+of frameshifting) and pp1ab (when frameshifting occurs) (Brierley et al.,
+1989). This frameshift is facilitated by a specific slippery sequence
+in the viral genome (5’-UUUAAAC-3’) and a downstream RNA pseudoknot
+structure located just upstream of the pp1a open reading frame
+(ORF) stop codon, which together induce ribosomal pausing and promote
+the translation of the pp1b ORF in-frame with pp1a, thereby
+producing the pp1ab polyprotein (Fehr and Perlman, 2015).

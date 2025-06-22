@@ -1,0 +1,10 @@
+STAT3 modulation is a key factor in both pro-inflammatory and
+anti-inflammatory responses. SARS-CoV PLpro has been shown to activate TGF-β1
+via the p38MAPK/ERK1-2 pathway, which in turn promotes STAT3 activation
+(Li et al. 2016). Additionally, MERS-CoV strains harboring mutations in
+NSP3 and ORF4a exhibit altered STAT3 activation and distinct profiles
+of inflammatory cytokine expression (Selinger et al. 2014). During SARS-CoV
+infection, there is a reduction in IL-4, which is involved
+in humoral immunity, an increase in IFN-γ, which contributes to
+cell-mediated immune responses, and an elevation of IL-10, which is
+associated with increased disease susceptibility (Zhu 2004).

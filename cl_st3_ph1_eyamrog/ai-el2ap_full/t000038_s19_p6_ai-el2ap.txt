@@ -1,0 +1,9 @@
+The quality and effectiveness of factor score estimates were evaluated
+following the guidelines of Ferrando and Lorenzo-Seva (2018). The Factor
+Determinacy Index (FDI) was 0.982 for factor 1 and 0.933
+for factor 2, indicating high levels of factor score determinacy.
+ORION marginal reliability values were 0.964 for factor 1 and
+0.871 for factor 2, supporting the reliability of the factorial
+scores. Additionally, the Sensitivity Ratio (SR) was 5.200 for factor
+1 and 2.597 for factor 2, further demonstrating the adequacy
+of the factor score estimates.

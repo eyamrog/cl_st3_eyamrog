@@ -1,0 +1,8 @@
+Table 2 presents the item factor loadings, along with estimates
+of the replicability of factor scores as measured by the
+H-index. The H-index assesses the degree to which a set
+of items adequately represents a common factor (Ferrando & Lorenzo-Seva,
+2018). Values of H greater than 0.80 indicate a well-defined
+latent variable that is likely to remain stable across different
+studies, whereas lower H values suggest a poorly defined latent
+variable that may vary across studies (Ferrando & Lorenzo-Seva, 2018).

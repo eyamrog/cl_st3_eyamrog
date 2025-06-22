@@ -1,0 +1,16 @@
+Our comparative analysis of the ACE2 coding region in 70
+placental mammal species identified numerous variable sites, of which 30
+were selected based on their documented relevance to interactions with
+SARS-CoV-like S glycoproteins. Among these, three sites exhibited significant evidence
+of positive (Darwinian) selection. The ACE2 coding region demonstrated high
+conservation within Homo sapiens and comparatively greater variation among placental
+mammals. These findings suggest that SARS-CoV-2 possesses a similar capacity
+to infect all human populations, consistent with the global spread
+of COVID-19. Therefore, observed differences in infection and mortality rates
+among human populations are likely attributable to factors such as
+individual comorbidities, cultural practices, population density, healthcare system capacity, public
+health interventions, variation in SARS-CoV-2 strains, and the effectiveness of
+innate immune responses. The potential involvement of additional genetic pathways
+beyond ACE2 and the immune system cannot be excluded, but
+further research is required to identify these factors and clarify
+their roles in the context of the COVID-19 pandemic.

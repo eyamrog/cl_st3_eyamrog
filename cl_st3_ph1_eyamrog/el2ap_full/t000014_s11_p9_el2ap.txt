@@ -1,0 +1,4 @@
+For researchers engaged in documentation projects, there are many advantages
+to archiving language documentation materials (data). These include simplified format
+migration, personal organization, accessibility, discoverability, graded access, rights management, collaboration,
+citability, and long-term digital preservation.

@@ -1,0 +1,11 @@
+Because hospitalizations typically result from acute illness or the exacerbation
+of chronic conditions, and these effects can manifest rapidly, we
+did not incorporate a time lag between policy changes and
+the observation of outcomes. Results with statistical significance at the
+5% level are highlighted. Additionally, logarithmic trend terms were tested
+to evaluate potential non-linear trends as identified by the Prais
+model. Model selection was based on the Bayesian Information Criterion
+(BIC) and the Akaike Information Criterion (AIC). The adequacy of
+each model was further assessed through residual analysis. To detect
+autocorrelation in the residuals (forecast errors), the Durbin-Watson statistic was
+applied. All analyses were conducted using R software, version 3.6.1.

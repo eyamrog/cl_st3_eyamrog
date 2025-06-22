@@ -1,0 +1,8 @@
+Regarding mortality, groups 1 and 5.1 have the highest values,
+11.586 and 9.925 deaths per 100,000 inhabitants, respectively. Group 4
+is the one that presents the lowest mortality, 0.209 deaths
+per 100,000 inhabitants, and here the fact that China is
+included may reflect this result due to its large number
+of inhabitants, but group 3 (countries with an expanded vaccine
+scheme) is the one with the lowest lethality rate, with
+1.87 deaths per 100 cases (p < 0.001).

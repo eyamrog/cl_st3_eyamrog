@@ -1,0 +1,26 @@
+The demand for language documentation archives in Brazil is increasing
+and currently exceeds available capacity. One potential approach to addressing
+this need is the establishment of regional digital archives, which
+would not only expand capacity but also offer greater accessibility
+and visibility to local indigenous communities. This increased proximity may
+facilitate both the collection of additional recordings and improved access
+for indigenous groups. University-based indigenous training programs, such as those
+at the Universidade de Amazonas, Universidade Federal de Goiás, and
+Universidade Federal do Amapá in Oiapoque, are well-suited to host
+such archives. These programs provide indigenous students with computer literacy
+training while maintaining connections with their communities, thereby supporting effective
+collaboration between the archives and the groups involved. The necessary
+infrastructure for such archives can be acquired outright or developed
+incrementally alongside ongoing research or documentation projects, as demonstrated by
+the Goeldi model. As of mid-2021, the cost of a
+48TB Network Attached Storage (NAS) system was approximately R$20,000 (with
+the exchange rate at R$5.80 per US dollar). A comprehensive
+set of high-quality, portable, semi-professional equipment for digital language documentation—including
+a camcorder, tripod, digital audio recorder, laptop, three types of
+microphones, lamp, carrying case, batteries, cables, and adapters—also cost approximately
+R$20,000, and at least two such kits would be necessary
+for a regional documentation center and archive. Beyond infrastructure, effective
+training in documentation technology and methodology is essential to maintain
+quality standards, which remains a persistent challenge. Additionally, there is
+a need for archiving software that is both straightforward and
+user-friendly.

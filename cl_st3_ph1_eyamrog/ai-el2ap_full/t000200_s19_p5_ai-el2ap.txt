@@ -1,0 +1,14 @@
+The results of the linear regression analysis for Santa Catarina,
+stratified by Health Regions and seasons, are presented in Table
+2. This stage of the analysis examined the temporal trend
+in leptospirosis incidence by month for two distinct seasons: October
+to March (characterized by higher rainfall levels) and April to
+September (characterized by lower rainfall levels). The findings indicate that
+the average leptospirosis rates in Santa Catarina are similar to
+those observed in regions with higher disease occurrence during the
+study period, as well as to the rates observed in
+each season individually, regardless of rainfall level. Furthermore, based on
+the mean predicted values (MPV), Santa Catarina exhibited a temporal
+trend of increasing monthly leptospirosis rates during the period of
+higher rainfall, and a decreasing trend during the period of
+lower rainfall.

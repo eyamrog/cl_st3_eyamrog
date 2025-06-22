@@ -1,0 +1,6 @@
+In Equation 7, p indicates the number of delays, and
+Δ indicates the difference operator. The (W0) test statistics, which
+are calculated for stationarity, and the (W1) test statistics, which
+are calculated for nonstationarity, are calculated by using the Harvey
+et al. (2008) Wλ test statistics. They conform with the
+distribution of Wλ 𝑥2 2.

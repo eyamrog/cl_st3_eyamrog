@@ -1,0 +1,6 @@
+The search retrieved 148,667 articles, distributed across at least 933
+journals (some rare entries didn’t have an ISSN). Of these,
+130,312 articles were published in 698 journals systematically indexed by
+LILACS in the period. Finally, 126,774 of these were signed
+articles published in 568 journals with at least 50 signed
+articles during years 2015 to 2019.

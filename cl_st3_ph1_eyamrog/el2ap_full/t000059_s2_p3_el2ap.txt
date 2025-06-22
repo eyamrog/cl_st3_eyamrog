@@ -1,0 +1,6 @@
+This study relied on bibliographic open data curated by the
+Pan American Health Organization’s Latin American and Caribbean Center on
+Health Sciences Information (BIREME), as well as open data which
+Scanff and colleagues (2021) derived from bibliographic data provided by
+the United States National Library of Medicine. None of them
+bear any responsibility for any errors this manuscript might have.

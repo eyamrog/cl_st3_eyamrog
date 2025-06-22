@@ -1,0 +1,16 @@
+A central issue in principal-agent analyses is the extent to
+which agents align with the objectives of principals, as well
+as the mechanisms by which principals select and monitor brokers
+to ensure compliance with their interests (Stokes et al., 2013;
+Aspinall, 2014; Gingerich, 2020; Holland and Palmer-Rubin, 2015). Existing literature
+often posits a misalignment between the interests of brokers and
+those of politicians or parties, which introduces risks related to
+optimization and return on investment for the principals (Stokes et
+al., 2013). Consequently, it is insufficient for brokers to merely
+possess local leadership status; they must also demonstrate effective voter
+mobilization capabilities. Principals, in turn, require observable indicators to evaluate
+and oversee broker performance. Commonly utilized indicators include the number
+of votes brokers deliver (Szwarcberg, 2012; Gingerich, 2020), their attendance
+at campaign events (Szwarcberg, 2012; Muñoz, 2014), and the size
+of the networks they are able to establish (Stokes et
+al., 2013).

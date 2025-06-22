@@ -1,0 +1,5 @@
+Time spent in SB was assessed using the question: “Since
+self-isolating, how much time have you spent sitting daily?”. SB
+was treated as a dichotomous variable (1= <10 hours spent
+sitting per day; 2 = ≥10 hours or more spent
+sitting per day), as used in previous studies23, 24.

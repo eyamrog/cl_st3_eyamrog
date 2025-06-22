@@ -1,0 +1,8 @@
+We assume that, due to the different nature of the
+causes included in the list, some could have an immediate
+impact due to changes in primary care policy, and others
+a gradual change. In this way, we tested two effects
+between trends: we tested differences in the slope of hospitalizations
+from an interrupted time series analysis of two groups (ramp
+effect). We also evaluated the change in the level of
+trends between groups (step effect).

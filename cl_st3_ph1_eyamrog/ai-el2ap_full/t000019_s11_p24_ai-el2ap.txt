@@ -1,0 +1,14 @@
+According to IBGE surveys (2018), 33% of the Brazilian population
+experiences some form of digital exclusion. While this represents an
+improvement compared to 2009, when only 39% of the population
+had Internet access, a detailed analysis of current data reveals
+persistent disparities. Specifically, 50% of individuals in socioeconomic classes D
+and E lack Internet access, whereas over 90% of those
+in classes A and B are connected (CGI.br, 2019a). These
+data indicate that the digital divide in Brazil is primarily
+associated with socioeconomic factors rather than generational differences in exposure
+to information and communication technologies (ICT). Although individuals classified as
+digital natives may have certain advantages, digital exclusion is more
+strongly linked to unequal access to digital devices and educational
+opportunities related to their use (Conceição, 2019; Krug et al.,
+2018).

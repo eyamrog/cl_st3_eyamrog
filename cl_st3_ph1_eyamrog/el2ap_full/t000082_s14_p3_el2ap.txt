@@ -1,0 +1,8 @@
+In the cheating component Sai, selection favors trait matching for
+the cheater species j (as in equation 1) but favors
+trait mismatch for the victim species i, defined as the
+species explored by the cheater. Like the mutualism component, in
+our model, the magnitude of the trait change is dictated
+by the evolutionary effect of species j on species i,
+vij(t). Selection for trait mismatching between cheater on victim is
+dictated by 𝜀𝑖𝑗: <>

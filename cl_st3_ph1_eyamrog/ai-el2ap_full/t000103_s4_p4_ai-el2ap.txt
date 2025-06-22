@@ -1,0 +1,7 @@
+The Position of Antecedent Strategy was not supported by data
+from either Spanish or English native speakers. Both groups demonstrated
+a tendency to interpret the subject of the subordinate clause
+as coreferential with the subject of the main clause. However,
+Spanish native speakers exhibited a stronger preference for establishing this
+correspondence in instances of zero anaphora compared to cases involving
+pronominal anaphora.

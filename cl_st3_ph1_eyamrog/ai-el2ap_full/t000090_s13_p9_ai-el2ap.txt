@@ -1,0 +1,5 @@
+Each bar representing the Indicators is divided into five segments,
+with the segments shaded in dark color to indicate the
+grade assigned to the respective Indicator. A fully shaded (dark)
+bar corresponds to a grade of “A,” whereas a fully
+unshaded (light) bar indicates that no data are available.

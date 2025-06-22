@@ -1,0 +1,18 @@
+A reliable digital repository implements an active strategy for the
+long-term preservation of digital media files and their associated metadata.
+The Digital Preservation Coalition (DPC) defines digital preservation as a
+series of managed activities required to ensure continued access to
+digital materials for as long as necessary, encompassing all actions
+needed to maintain access beyond the limitations imposed by media
+failure or technological and organizational change (DPC, 2015). Long-term preservation
+is characterized by the sustained accessibility of digital materials, or
+at least the information they contain, for an indefinite period.
+Digital preservation extends beyond simple file backup; it involves the
+migration of data and metadata across different formats and software
+systems as technology evolves, the implementation of accurate redundancy through
+the storage of duplicate copies on various media types and
+in multiple locations, and the regular monitoring of file integrity
+across all storage sites. As noted by Owens (2018, p.
+5), preservation is an ongoing process that requires continuous human
+effort and resource allocation, and it cannot be regarded as
+a one-time expenditure.

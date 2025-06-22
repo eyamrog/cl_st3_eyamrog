@@ -1,0 +1,3 @@
+The KSS Test, which models a smooth transition using a
+logistic function, can be applied to variable series comprising raw
+data, demeaned data, or detrended data.

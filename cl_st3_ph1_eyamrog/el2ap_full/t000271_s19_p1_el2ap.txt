@@ -1,0 +1,5 @@
+One out of 120 true negative samples tested positive for
+IgM; this positive sample came from a confirmed anti-HCV+ donor.
+Based on these results, our estimates of specificity were 99.16%,
+which is in accordance with the manufacturer´s estimate specificity (95
+CI 95.0% - 99.8%). All samples tested negative for IgG.

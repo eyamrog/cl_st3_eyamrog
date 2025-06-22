@@ -1,0 +1,10 @@
+The Embraesp database includes data on property characteristics such as
+floor area, total area, number of bedrooms, bathrooms, parking spaces,
+elevators, number of apartment units per floor, number of building
+floors, and a binary variable indicating whether the property is
+an apartment or a house. However, it does not provide
+information on condominium amenities such as swimming pools, playgrounds, or
+sports courts. To address this limitation, the difference between the
+total area and the useful floor area was used as
+a proxy for the size of the condominium amenities available
+to each apartment.

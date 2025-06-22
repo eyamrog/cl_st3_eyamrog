@@ -1,0 +1,19 @@
+The confounding variable assessed in this study was the population
+size of municipalities, obtained from the Brazilian Institute of Geography
+and Statistics and categorized as follows: a) ≤ 20,000 inhabitants;
+b) 20,001 to 50,000 inhabitants; c) 50,001 to 150,000 inhabitants;
+and d) > 150,000 inhabitants. Data on coverage by the
+Family Health Strategy and Oral Health Teams were collected monthly
+at the municipal level as proportions (%) and were sourced
+from primary care information and management databases. Coverage was classified
+as: a) absent (0%); b) incipient (<30%); c) intermediate (30–70%);
+and d) consolidated (≥70%). Municipalities were classified according to the
+Human Development Index (HDI) as follows: low (<0.55), average (0.55–0.699),
+high (0.70–0.799), and very high (≥0.80). The Gini index, obtained
+from the United Nations Development Program databases (http://www.atlasbrasil.org.br/2013/), was included
+as a continuous variable in the model. Brazil is divided
+into five geopolitical regions: Southeast, South, Midwest, North, and Northeast.
+The proportions of physicians and nurses per 10,000 inhabitants for
+2020 were obtained from the human resources section of the
+National Register of Health Establishments (CNES). Additionally, the rate of
+basic health units per 10,000 inhabitants was calculated.

@@ -1,0 +1,11 @@
+On the other hand, a new generation of indexes, such
+as Dimensions and OpenAlex, do much better. They cover 54.3%
+and 63.8% of the JUOJS respectively, by relying on automated
+aggregation of open resources (such as Microsoft Academic Graph, Crossref,
+Unpaywall, DOAJ, ORCID, and PubMed). Finally, 88.3% of the JUOJS
+are indexed in Google Scholar. This is a result, in
+good part, of its lead engineer Anurag Acharya reaching out
+repeatedly to PKP, beginning in 2004, to improve its indexing
+of JUOJS through improvements on both sides. This suggests the
+deliberate effort needed to start to overcome the legacy of
+“the large periphery,” as Cetto put it.

@@ -1,0 +1,3 @@
+Group 2a comprises the same countries as Group 2, with
+the exception of India and China, which are excluded due
+to their large population sizes.

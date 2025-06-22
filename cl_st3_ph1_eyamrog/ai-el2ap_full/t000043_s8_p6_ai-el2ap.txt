@@ -1,0 +1,20 @@
+The primary advantage of the self-controlled case series (SCCS) design
+is its rigorous control of time-invariant confounders, such as sex,
+geographic location, genetic factors, socioeconomic status, and underlying health conditions
+(1,5,12). Additionally, data collection is more cost-effective and straightforward, as
+the design requires only cases that have experienced the event
+of interest. The SCCS design also offers methodological efficiency compared
+to cohort studies; for instance, in post-vaccination adverse event surveillance,
+traditional cohort studies may be impractical due to difficulties in
+recruiting unvaccinated controls, as surveillance systems typically collect data only
+from individuals who report adverse events. The SCCS design can
+yield clinically and statistically valid results from a relatively small
+sample size (1,4). However, the SCCS design has several limitations:
+it provides estimates of relative incidence rather than absolute incidence;
+it assumes that the probability of exposure is not influenced
+by the occurrence of the outcome event; it requires the
+effect of exposure to be transient; it does not adjust
+for time-varying confounders; and it is susceptible to selection and
+information bias, particularly when using data from surveillance databases. For
+non-recurrent events, the SCCS design is appropriate only when the
+event risk remains low throughout the observation period (1,12).

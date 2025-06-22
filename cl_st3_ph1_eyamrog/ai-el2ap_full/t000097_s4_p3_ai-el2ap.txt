@@ -1,0 +1,5 @@
+Despite the availability of various modalities, additional study protocols are
+required to enhance research transparency and facilitate the reproducibility and
+comprehension of interventions. Such protocols also serve as valuable resources
+for subsequent research and contribute to the advancement of scientific
+knowledge.

@@ -1,0 +1,14 @@
+As illustrated in the state graph in Figure 4, all
+Hidden Markov Models (HMMs) considered in this study comprise four
+states, each corresponding to a specific type of location or
+activity: Home (C), Work (T), Leisure (E), and Others (O).
+Each HMM is characterized by its own transition matrix \(A_{h,e,l}\),
+which specifies the state transition probabilities \(a_{h,e,l}(i, j)\), representing the
+probability of transitioning from state \(j\) to state \(i\). Additionally,
+each HMM includes an emission matrix \(B_{h,e,l}\), which defines the
+output probabilities \(b_{h,e,l}(k, i)\) for each state, where \(k\) denotes
+the possible places an individual in state \(i\) may visit.
+The initial state distribution is represented by the vector \(\pi\),
+which is set to (1, 0, 0, 0) at the
+start of each day, reflecting the assumption that all individuals
+begin the day at home.

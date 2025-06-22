@@ -1,0 +1,11 @@
+In viral RNA infections, nutraceuticals have been proposed to inhibit
+NOX2, thereby restoring TLR7-mediated responses to single-stranded viral RNA and
+promoting interferon (IFN) production; additionally, nutraceuticals may upregulate mitochondrial antiviral-signaling
+proteins (MAVS) and attenuate pro-inflammatory signaling (McCarty and DiNicolantonio 2020).
+In addition to nutraceuticals, vitamins A and D, selenium, zinc,
+and probiotics have been reported to enhance immune function and
+reduce the risk of respiratory infections, which may be beneficial
+for patients with COVID-19 (Grant et al. 2020; Jayawardena et
+al. 2020). Therefore, the nutritional status of individuals with COVID-19
+warrants further investigation, as it may influence disease progression and
+therapeutic outcomes.

@@ -1,0 +1,7 @@
+We initially evaluated various spatial weight matrices for the model
+without SBD controls, considering both level-level and log-level functional forms.
+Subsequently, we tested distance-based weight matrices by increasing the initial
+threshold by 5% and 10% (corresponding to 8.4 km and
+8.8 km, respectively). This approach enables the assessment of potential
+omitted variable bias when estimating models that do not account
+for SBD.

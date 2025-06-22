@@ -1,0 +1,5 @@
+The SCCS estimates the relative incidence (RI) of events of
+interest in a defined time period after a transient exposure
+and the control period. The RI is the ratio of
+events of exposure in the risk period and the control
+period (1,6,11).

@@ -1,0 +1,7 @@
+In the example above, the delay in the answer indicates
+that the first part of the pair does not necessarily
+receive the second part that the speaker expects. Yule (1996,
+p. 78) observes that “delay in response symbolically marks potential
+unavailability of the immediate (i.e., normally automatic) expected answer. Delay
+represents distance between what is expected and what is provided.
+Delay is always interpreted as meaningful”.

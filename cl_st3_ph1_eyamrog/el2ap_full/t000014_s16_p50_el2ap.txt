@@ -1,0 +1,7 @@
+The Paresi language documentation project started in 2006 and was
+developed via Brandão’s doctoral and postdoctoral research on the language.
+The EN language documentation project began in May 2019, with
+completion expected at the end of 2022. The goals of
+both projects were to organize a large corpus of audio
+and video recordings, spanning a variety of linguistic genres, and
+transcribed in the relevant indigenous language and translated into Portuguese.

@@ -1,0 +1,8 @@
+Despite the importance of understanding SARS-CoV-2 seroprevalence in asymptomatic populations,
+there are limited studies addressing this issue. One notable investigation
+is the report from the Diamond Princess cruise ship, where
+Japanese health authorities conducted RT-PCR testing on 3,063 passengers following
+an outbreak and estimated that 17.9% of all infected cases
+were asymptomatic [13]. Additionally, a study conducted in Santa Clara
+County, California, USA, reported a SARS-CoV-2 seroprevalence of 2.8% after
+adjusting for test sensitivity, specificity, and population demographics [14].

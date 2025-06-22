@@ -1,0 +1,12 @@
+In line with Ross-Hellauer et al. (2017), most RBMFC readers,
+authors, and reviewers did not agree manuscripts should be made
+freely available before peer review, and most authors and reviewers
+did not believe preprints would improve peer review. Such lack
+of enthusiasm contrasts with the proliferation of preprint servers in
+the last year, such as bioRxiv, medRxiv, OSF Preprints, SciELO
+Preprints and EmeRI (Emerging Research Information), and because RBMFC did
+not receive a single protest when the journal started to
+explicitly accept manuscripts already available as preprints, in December 2018.
+One explanation might be that authors have no intention of
+depositing their own manuscripts in preprint servers, but do not
+object to other authors doing so.

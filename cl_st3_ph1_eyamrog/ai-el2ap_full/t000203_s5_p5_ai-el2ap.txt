@@ -1,0 +1,11 @@
+This study indicates that BCG vaccination coverage may have varying
+effects across different countries and may help address unresolved questions,
+such as the observation of a more pronounced impact among
+older adults, in whom BCG-induced immune memory is more likely
+to wane. Additionally, the study highlights discrepancies in outcomes among
+populations and regions with similar levels of exposure and contamination
+but differing impacts, as well as the higher lethality observed
+in countries with advanced healthcare systems but without BCG vaccination
+coverage. To further substantiate these findings, a double-blind, randomized trial
+utilizing the tuberculin skin test (PPD) as a measure of
+vaccine-induced immune memory is recommended for future research.

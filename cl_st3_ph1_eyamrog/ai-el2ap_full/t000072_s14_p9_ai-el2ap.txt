@@ -1,0 +1,7 @@
+Statistical analysis was conducted using the software PAST 3.0 (Hammer
+& Harper 2006). The total number of species, species diversity
+as measured by the Shannon-Weaver index (H'), and species evenness
+as indicated by Pielou's evenness index (J) (Krebs 2007) were
+calculated. A t-test was performed to determine whether the H'
+values differed significantly between groups, with statistical significance set at
+p < 0.05.

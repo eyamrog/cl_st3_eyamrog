@@ -1,0 +1,4 @@
+The analysis of the collected data is organized into two
+sections: the first addresses the technological equipment available to students
+(see Figure 2), and the second examines students' usage of
+this equipment (see Figure 3).

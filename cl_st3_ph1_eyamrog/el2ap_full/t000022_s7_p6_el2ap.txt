@@ -1,0 +1,11 @@
+Furthermore, there are thousands of journals that do not have
+metadata at the document level. This affects the possibility of
+analyzing the production published in Latindex journals which continues to
+be, as Miguel already observed in 2011, the cataloging database
+with the greatest coverage. In addition, there is no standardization
+of institutional affiliations, nor of the disciplinary classification of journals;
+nor is the use of unique identifiers of authors and
+institutions such as ORCID and ROR sufficiently widespread among the
+different databases. All these further limit studies at the document
+level. Consequently, this large corpus of documents published in the
+region is observed from fragmented approaches.

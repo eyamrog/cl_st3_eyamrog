@@ -1,0 +1,4 @@
+Differences in the distribution of individuals’ diameters between 2006 and
+2012 were evaluated using the Kolmogorov-Smirnov Test. Based on the
+diameter differences, relative growth rates (RGR, Welden et al. 1991)
+of shrubs and trees were determined by:

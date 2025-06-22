@@ -1,0 +1,4 @@
+To identify the underlying governance structure in NPOs, we conducted
+a multiple correspondence analysis (MCA). Based on the scree plot
+criterion and parallel analysis, five dimensions were retained, collectively accounting
+for 74% of the variance in the variables.

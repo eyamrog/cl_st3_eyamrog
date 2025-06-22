@@ -1,0 +1,11 @@
+In contrast, newer indexing platforms such as Dimensions and OpenAlex
+demonstrate improved coverage, indexing 54.3% and 63.8% of JUOJS, respectively,
+by utilizing automated aggregation from open resources including Microsoft Academic
+Graph, Crossref, Unpaywall, DOAJ, ORCID, and PubMed. Additionally, 88.3% of
+JUOJS are indexed in Google Scholar. This high level of
+coverage can be attributed in part to sustained efforts by
+Google Scholar’s lead engineer, Anurag Acharya, who initiated ongoing collaboration
+with PKP beginning in 2004 to enhance the indexing of
+JUOJS through technical improvements on both sides. These findings indicate
+that targeted and sustained initiatives are required to address the
+historical underrepresentation of certain journals in major indexing systems.

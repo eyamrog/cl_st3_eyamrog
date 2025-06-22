@@ -1,0 +1,8 @@
+Analysis of the theme-rheme structure indicates that themes are unmarked
+in the majority of cases (75%), as they typically correspond
+to the subject in declarative clauses, such as ‘my name’,
+the demonstrative ‘this’, ‘I’, ‘we’, and ‘they’. In the four
+imperative clauses, the theme is realized by the predicator or
+by the construction let + subject, as in ‘be careful’,
+‘come’, ‘find out’, and ‘let’s not forget’. As shown in
+Table 1, simple themes occur more frequently than multiple themes.

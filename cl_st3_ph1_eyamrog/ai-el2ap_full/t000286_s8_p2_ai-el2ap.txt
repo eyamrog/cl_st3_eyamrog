@@ -1,0 +1,11 @@
+In the literature examining the relationship between FDI inflows and
+exchange rates, Cushman (1985) investigated the interactions among FDI inflows,
+risk levels, and exchange rate regimes. To control for the
+effects of inflation, Cushman utilized the real exchange rate rather
+than the nominal exchange rate in his analysis. The results
+based on U.S. annual data indicate that a sustained decrease
+in FDI inflows is associated with a significant increase in
+risk. This relationship is also observed in the context of
+Turkey, where the substantial decline in FDI inflows in 2009
+corresponded with an elevated risk factor for the real exchange
+rate.

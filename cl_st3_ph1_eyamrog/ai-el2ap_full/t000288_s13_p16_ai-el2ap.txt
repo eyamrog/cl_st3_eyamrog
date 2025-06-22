@@ -1,0 +1,12 @@
+The rapid identification of COVID-19 cases is essential for effective
+pandemic containment. This process remains challenging due to the absence
+of pathognomonic symptoms and the limited availability of specialized polymerase
+chain reaction (PCR) testing, which itself has certain limitations. There
+is a critical need to develop fast and accurate molecular
+diagnostic methods to identify both symptomatic and asymptomatic individuals, thereby
+reducing viral transmission and supporting appropriate public health measures. Rapid
+diagnostic tests may also facilitate the resumption of elective healthcare
+services by minimizing the risk of SARS-CoV-2 transmission. Nevertheless, dental
+professionals must continue to consider the potential transmission of other
+infectious diseases through saliva and aerosols, including hepatitis B, measles,
+and tuberculosis.

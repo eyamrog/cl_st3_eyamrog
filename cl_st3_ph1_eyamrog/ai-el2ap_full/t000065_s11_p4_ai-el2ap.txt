@@ -1,0 +1,25 @@
+Two of the largest learner corpora compiled in the 1990s,
+the International Corpus of Learner English (ICLE) and the Longman
+Learners’ Corpus (LLC), are notable for their approaches to language-,
+task-, and learner-related features (Granger, 1998; Tono, 2003). In terms
+of language-related features, both corpora consist of written texts, but
+differ slightly in other aspects: ICLE primarily contains argumentative essays
+on a predetermined set of topics, while LLC includes both
+essays and exam scripts on a wider range of topics.
+Task-related characteristics include (a) data collection, which is sectional rather
+than longitudinal; (b) type of elicitation, with a preference for
+spontaneous over prepared or edited texts; (c) production time, which
+may be fixed, timed, untimed, or completed as homework; and
+(d) the use of reference materials, such as dictionaries, with
+such usage systematically recorded. Regarding learner-related features, ICLE comprises texts
+produced by university-level students, whereas LLC includes contributions from learners
+at various academic levels. Both corpora contain texts written by
+learners from diverse first language backgrounds. ICLE focuses on high-intermediate
+to advanced proficiency levels, while LLC accepts texts from all
+proficiency levels. ICLE was the first large-scale computerized learner corpus
+made available for research, whereas LLC has been commercially available
+for research purposes (Tono, 2003, p. 800). The most recent
+version of ICLE contains over 5.5 million words (Granger et
+al., 2020), while LLC comprises 10 million words (Tono, 2003),
+although more recent updates for LLC are not available on
+its website.

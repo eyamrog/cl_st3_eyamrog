@@ -1,0 +1,9 @@
+Furthermore, thousands of journals lack document-level metadata, which limits the
+ability to analyze publications in Latindex journals—a database that, as
+noted by Miguel in 2011, continues to offer the most
+extensive coverage. Additionally, there is no standardization of institutional affiliations
+or disciplinary classifications for journals, and the adoption of unique
+author and institution identifiers such as ORCID and ROR remains
+insufficient across databases. These factors further constrain document-level studies, resulting
+in a fragmented approach to examining the substantial body of
+literature published in the region.

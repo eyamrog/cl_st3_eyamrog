@@ -1,0 +1,11 @@
+Determining the prevalence of SARS-CoV-2 among asymptomatic individuals is important
+for two primary reasons. First, individuals without symptoms in epidemic
+regions may still be infected and contribute substantially to viral
+transmission. For example, during the early phase of the epidemic
+in China, approximately 86% of infections were undetected, yet these
+cases accounted for an estimated 79% of subsequent transmissions [8].
+Second, assessing herd immunity provides critical information regarding the extent
+of infection spread within a community. Monitoring herd immunity levels
+can inform public health decisions about the appropriate timing for
+relaxing social distancing measures, thereby reducing the risk of future
+epidemic outbreaks [12].

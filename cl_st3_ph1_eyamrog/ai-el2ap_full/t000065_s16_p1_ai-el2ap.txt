@@ -1,0 +1,11 @@
+Reppen (2010, p. 33) notes that building a corpus requires
+a considerable time investment due to the complexity and interdependence
+of the necessary procedures. These procedures include collecting texts, saving
+and storing data, marking up the texts, and adding metadata,
+each of which involves numerous decisions for the researcher during
+the corpus compilation process. CorIFA was initially developed in 2013
+at a Brazilian public university. This section provides an overview
+of its compilation history, the challenges encountered, and subsequent modifications.
+Throughout its development, the primary objective of the corpus has
+remained consistent: to describe the written English interlanguage of Brazilian
+university students as produced in a pedagogical context.

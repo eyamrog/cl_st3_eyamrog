@@ -1,0 +1,8 @@
+There are two general patterns in the relationship between the
+written text and the visual: sometimes the written text introduces
+the characters or actions represented on the next page, for
+example, on pages 6, 10, 14, 18, 22, and 26.
+However, there are cases where the visual action is offered
+first and then the written text is found after, explaining
+the action already offered visually. There are examples of such
+pattern on pages 9, 13, 17, 21, 25, and 29.

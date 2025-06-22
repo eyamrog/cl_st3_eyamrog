@@ -1,0 +1,3 @@
+Registration data: sex, individual taxpayer registry (CPF) number, filiation, date
+of birth, telephone number, and symptoms in the last 15
+days.

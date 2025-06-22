@@ -1,0 +1,22 @@
+The clinical progression of COVID-19 suggests that initial symptoms are
+associated with increased viral load, while seroconversion of IgG in
+the subsequent weeks leads to a reduction in viral load;
+however, some patients experience worsening symptoms due to immunopathological damage
+(Peiris et al. 2003). Convalescent plasma (CP) has previously been
+used to improve survival rates in diseases such as SARS,
+MERS, Ebola virus disease, and Chikungunya virus disease (Alzoughool and
+Alanagreh 2020). Several studies have reported that administration of CP
+to critically ill COVID-19 patients resulted in favorable recovery outcomes
+without severe adverse effects (Duan et al. 2020; Shi et
+al. 2020; Zhang et al. 2020b). The U.S. Food and
+Drug Administration (FDA) has authorized the use of CP for
+the treatment of critically ill patients (Tanne 2020), although there
+is a risk of exacerbating hyperimmune responses, and evidence suggests
+that CP is more effective when administered early in the
+course of the disease (Zhao and He 2020). Important considerations
+for the use of CP include establishing eligibility criteria for
+donor convalescent patients, conducting pre-screening tests for donors, defining criteria
+for CP collection, and ensuring appropriate plasma treatment (Epstein and
+Burnouf 2020). Currently, CP is being evaluated in 212 clinical
+trials worldwide for the treatment of COVID-19 (Cochrane COVID-19 Study
+Register).

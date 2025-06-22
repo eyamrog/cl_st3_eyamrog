@@ -1,0 +1,17 @@
+Our findings have direct implications for the reputation of PKP’s
+software and its users, as well as for the underlying
+purpose of this open source project, which is to facilitate
+open access to research and contribute to the improvement of
+scholarly communication. The data from the OJS journals analyzed in
+this study have been made publicly available to support reproducibility
+and enable further research, thereby mitigating potential bias (Khanna et
+al., 2021). Additionally, a potential conflict of interest arises from
+the general principle that open source software projects, such as
+OJS, are committed to respecting users’ freedom to use the
+software for any purpose, as articulated in standard open source
+definitions (Wheeler, n.d.). However, rather than adhering strictly to a
+non-interventionist approach, we recognize a responsibility to evaluate and influence
+the role of OJS in the context of so-called “predatory”
+publishing practices. The objective of this research is to clarify
+the potential contributions that open source software and open infrastructure
+platform developers can make in addressing these challenges.

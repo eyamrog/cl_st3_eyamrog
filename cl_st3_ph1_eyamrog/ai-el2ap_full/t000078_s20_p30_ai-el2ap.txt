@@ -1,0 +1,5 @@
+When Equation 1 is estimated using a level-level functional form,
+the econometric analysis identifies a greater number of statistically significant
+SBD effects compared to the log-level specification. However, the adjusted
+R-squared values for these level-level models are lower than those
+obtained from the semi-logarithmic models, as previously demonstrated.

@@ -1,0 +1,16 @@
+Objective: to translate, adapt, and identify the psychometric properties of
+the Selfitis Behavior Scale (SBS). Methods: online study conducted with
+261 Brazilian adolescents. The translation and cross-cultural adaptation process followed
+international guidelines, resulting in an adequate scale with face, content
+and construct validity. Results: The five factors explained 78.2% of
+the total variance. Confirmatory factor analysis (structural equation model for
+latent variables) showed an adequate fit of the five-factor model
+with χ2= 2.42 p=0.001, GFI=0.92, AGFI= 0.89, NNFI= 0.92, TLI=
+0.96, CFI= 0.93, RMSEA= 0.041. All factor loadings were statistically
+different from zero (0; t >1.96, p<0.05). The total internal
+consistency value by Cronbach's alpha and McDonald's omega was above
+0.80 and the internal consistencies of each factor were above
+0.79. Conclusion: This is the first Brazilian study to evaluate
+the psychometric properties of a selfie scale. The SBS proved
+to be a reliable and valid instrument to assess selfie
+behavior.

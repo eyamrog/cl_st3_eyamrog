@@ -1,0 +1,14 @@
+Brazilian experts who had published articles in the highest-ranked journals
+within each of seven computer science subfields, as identified by
+the Journal Citation Reports (JCR) over a five-year period, were
+invited to participate in this study. Unlike CEAP courses conducted
+in English-speaking countries or in countries where English is the
+language of instruction, the target context in this research is
+not defined by the interactions of a local community, but
+rather by a global community engaged in academic publishing in
+computer science. Conducting an in-person investigation of the contextual features
+of this target situation would require substantial time and resources.
+Therefore, information and communication technologies (ICT) were employed as a
+practical alternative for both remote data collection and analysis. Table
+1 lists the ICT tools utilized in each of the
+three phases of the contextual target situation analysis (TSA).

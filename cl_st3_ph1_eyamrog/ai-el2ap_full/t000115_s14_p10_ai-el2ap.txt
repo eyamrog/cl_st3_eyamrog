@@ -1,0 +1,4 @@
+The Z test was performed using StatDisk version 8.4 to
+compare laboratory analysis data of fecal samples collected before and
+after antiparasitic treatment in the study population. A significance level
+of 5% was applied to determine statistical differences.

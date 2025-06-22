@@ -1,0 +1,10 @@
+When comparisons between locations are a central component of analysis,
+as in this article, differences in population size necessitate the
+use of population-adjusted indicators. Deaths per capita—typically expressed per 100,000
+or 1 million inhabitants—are commonly employed for this purpose. However,
+these indicators may introduce significant biases if the populations being
+compared are exposed to varying risks of developing severe forms
+of Covid-19 due to pre-existing conditions. Among these, the prevalence
+of comorbidities and the demographic composition of the population, particularly
+with respect to sex and age, are the most influential
+factors.

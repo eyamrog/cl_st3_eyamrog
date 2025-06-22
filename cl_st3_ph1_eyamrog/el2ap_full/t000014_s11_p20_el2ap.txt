@@ -1,0 +1,5 @@
+File storage systems, like DropBox, Google Drive, OneDrive, and Box,
+are good for sharing files with your collaborators while you
+are still working on them, as well as for controlling
+access to the files, but they do not have built-in
+rights management, and they are not discoverable in web searches.

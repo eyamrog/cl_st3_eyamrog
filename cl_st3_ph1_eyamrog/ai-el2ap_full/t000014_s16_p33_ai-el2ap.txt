@@ -1,0 +1,17 @@
+Facilitating access to language documentation materials may necessitate innovative approaches.
+One effective model is the "distributed digital audiovisual archive" or
+"jukebox archive" (Barwick, 2004; Barwick et al., 2005; O’Meara and
+González Guadarrama, 2016). Initially implemented in Australia, this model involves
+installing a computer in a community center or other accessible,
+neutral location, allowing community members to access materials without requiring
+an internet connection. The jukebox computer stores language documentation resources—including
+audio and video recordings, transcriptions, photographs, and other relevant files—in
+widely compatible formats such as .mp3. It also provides options
+for users to copy materials onto CDs, DVDs, flash drives,
+phones, or .mp3 players. Community members are able to take
+copies of these materials for personal use and may also
+contribute their own content to the archive. An alternative approach
+utilizes a local Wi-Fi transmitter, such as a Raspberry Pi,
+which is particularly effective in settings where individuals possess smartphones
+and the necessary digital skills but have limited or no
+computer literacy (e.g., Thieberger, 2019).

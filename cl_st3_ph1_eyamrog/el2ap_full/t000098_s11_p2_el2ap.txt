@@ -1,0 +1,10 @@
+When comparisons between locations are an important instrument of analysis,
+as in this article, the discrepancy of scales impels researchers
+to use indicators related to the population. The indicators of
+deaths per capita – most frequently calculated in relation to
+groups of 100 thousand or 1 million inhabitants – will,
+however, present important biases if the populations of the different
+localities are subject to distinct risks of developing severe forms
+of Covid-19 due to pre-pandemic conditions. The diffusion of comorbidities
+and the composition of the population by sex and age
+are the most important of such conditions.

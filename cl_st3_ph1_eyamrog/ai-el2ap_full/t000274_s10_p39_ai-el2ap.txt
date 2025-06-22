@@ -1,0 +1,4 @@
+The Royal College of Anaesthetists recommends avoiding the use of
+humidified circuits, as this practice may theoretically reduce the risk
+of environmental contamination in the event of an unintentional circuit
+disconnection.

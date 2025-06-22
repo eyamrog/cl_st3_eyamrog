@@ -1,0 +1,8 @@
+Recognizing beforehand the impossibility of obtaining this information from a
+single source and, therefore, the size of the data collection
+work, our initial goal was to cover countries that, together,
+accounted for 90% of Covid-19 deaths. Of the 34 countries
+required to achieve this goal, minimally updated age-disaggregated data for
+six countries could not be found: Russia, Iran, Belgium, Romania,
+Iraq, and Bolivia. The other 28 countries for which the
+searches were successful accounted for 82% of deaths by 1/28/2021.

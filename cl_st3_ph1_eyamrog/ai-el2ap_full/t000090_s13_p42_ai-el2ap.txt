@@ -1,0 +1,9 @@
+The results indicate that there is only one "very strong"
+correlation, specifically between the indicators "Citation Rate" and "Top Cited
+Publications," with a correlation coefficient of 0.9402. This value suggests
+an almost perfect positive relationship, implying that institutions with higher
+citation rates also tend to have a greater number of
+highly cited publications. While this association is expected, the magnitude
+of the correlation coefficient suggests that the rankings produced by
+these two indicators are nearly identical, indicating a high degree
+of redundancy between them.

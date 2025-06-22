@@ -1,0 +1,15 @@
+In the logistic regression analyses (Table 2), some of the
+covariates were significantly associated with the crude SARS-Cov-2 antibody prevalence.
+The variable most significantly associated to the crude prevalence was
+the period of blood collection: the later the period, the
+higher the prevalence. The odds of a positive SARS-Cov-2 antibody
+in the third period was 2 times greater than in
+the first period (OR=2.05; 95% CI 1.33- 3.16). Regarding socio-demographic
+characteristics, the younger the blood donors the higher the prevalence;
+furthermore, the lower the educational level the higher the odds
+of a positive SARS-Cov-2 antibody. No statistically significant difference was
+found for sex nor for municipality of residence (capital or
+elsewhere). The site of the blood collection also showed a
+significant association with the crude prevalence: the blood donors from
+condominiums show a significantly lower prevalence when compared to blood
+donors from Hemorio.

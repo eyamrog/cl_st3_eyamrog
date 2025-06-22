@@ -1,0 +1,9 @@
+Content Management Systems (CMS) for learning are a component of
+Information and Communication Technologies (ICT) that support educational processes. While
+CMS are commonly utilized in virtual learning environments, they also
+serve as a supplementary tool in face-to-face instruction by assisting
+teachers in organizing and structuring course content (García-Valcárcel, 2009). Consequently,
+it is essential for teachers to possess the requisite skills
+to effectively leverage ICT, as this can facilitate various cognitive
+outcomes and enhance students’ attitudes, imagination, and creativity throughout the
+teaching-learning process (De la Torre, 2010).

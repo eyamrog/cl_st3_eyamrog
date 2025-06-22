@@ -1,0 +1,18 @@
+Following the initial evolutionary analysis, we examined all variable sites
+identified among the 70 ACE2 orthologues. From these, we selected
+30 variable sites that have been reported as functionally relevant
+and/or implicated in the interaction between host ACE2 and SARS-CoV-like
+viruses (Towler et al., 2004; Li et al., 2005a, 2020;
+Luan et al., 2020; Wan et al., 2020). Figure 2
+presents the amino acid residues observed at these 30 selected
+variable sites across the ACE2 orthologues of 70 placental mammal
+species. Among these sites, three (positions 24, 34, and 559)
+were identified as targets of positive selection according to the
+Bayes Empirical Bayes (BEB) analysis (Table S3). The phylogenetic topology
+depicted in Figure 2 is consistent with the established relationships
+among the major taxonomic groups analyzed. For instance, Homo sapiens
+and other great apes (family Hominoidea) exhibit identical amino acids
+at all 30 positions, with the only observed difference from
+Cercopithecidae species occurring at the positively selected site 559, which
+involves a conservative amino acid substitution (R559K; GS = 26)
+(Figure 2).

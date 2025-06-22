@@ -1,0 +1,4 @@
+The AbCSim infectivity submodel is based on the mathematical framework
+developed by Arenas et al. [31] and has been implemented
+in Repast to simulate the process of virus transmission among
+human agents.

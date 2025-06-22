@@ -1,0 +1,11 @@
+The literature regarding telemedicine and MS has been recently reviewed,
+highlighting benefits in several aspects involved in MS care (e.g.,
+cost- effectiveness and satisfaction of patients and providers)12. This tool
+is supported by the Brazilian Academy of Neurology, which has
+recently published recommendations for conducting a remote neurological examination13. Simple
+approaches, such as the timed 25-foot walk, are considered feasible
+ways of assessing MS patients. If necessary, more complex evaluations,
+such as the fundoscopic examination, can also be used with
+proper technological support14. However, this method is not without its
+drawbacks, particularly concerning compliance to treatment during extended periods and
+technological barriers.

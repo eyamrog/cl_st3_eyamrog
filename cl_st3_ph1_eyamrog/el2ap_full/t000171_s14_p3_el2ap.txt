@@ -1,0 +1,6 @@
+Through the DATASUS system, by accessing the e-SUS Epidemiological Surveillance
+platform (e-sus VE), the number of rapid tests per 1000
+inhabitants carried out between March 4 and June 22, 2020
+was extracted. Similarly, by accessing the Laboratory Environment Manager platform,
+the number of RT-PCR tests performed between March 4, 2020
+and June 21, 2020 was extracted.

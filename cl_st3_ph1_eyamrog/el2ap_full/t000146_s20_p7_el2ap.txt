@@ -1,0 +1,10 @@
+We now turn to Fig. 1-B, where the particular audience
+is provided by SciELO CI. Brazil, again, is the only
+case that allows the percentage of citations in SciELO CI
+to be compared, when the three publication languages are taken
+into account. The SciELO CI domain is important for its
+audience, which represents about two thirds of the databases of
+the WoS platform, when it publishes in Portuguese. Next comes
+the Spanish language, where the impact on SciELO CI is
+a little less than 60.8%. The effects of the English
+language are less apparent in the SciELO CI domain (40.8%).

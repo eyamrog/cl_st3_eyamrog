@@ -1,0 +1,6 @@
+In mid-December 2019, cases of pneumonia of unknown etiology were
+reported in Wuhan, China. Subsequent clinical and laboratory investigations identified
+a novel enveloped RNA virus, classified as severe acute respiratory
+syndrome coronavirus 2 (SARS-CoV-2). This virus was determined to be
+the causative agent of coronavirus disease 2019 (COVID-19), which is
+associated with respiratory, hepatic, enteric, and neurological manifestations (1).

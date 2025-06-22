@@ -1,0 +1,21 @@
+Current protocols commonly involve home-based exercise interventions utilizing electronic devices,
+such as activity-monitoring watches, internet-based software, and smartphone applications. These
+approaches have been promoted for their potential to improve quality
+of life, particularly in the context of the COVID-19 pandemic
+and the widespread shift to remote work. Previous studies, including
+that by Dong et al., have demonstrated that interventions combining
+exercise with internet-based software can yield positive effects on muscle
+strength and quality of life in patients during the postoperative
+period following breast cancer treatment. Similarly, Galiano-Castillo et al. reported
+that a physical exercise program delivered via internet software improved
+and maintained quality of life, reduced pain and fatigue, and
+enhanced muscle strength, thereby improving daily functional abilities in breast
+cancer patients. The use of online tools and home-based interventions
+may offer practical alternatives for both researchers and participants by
+enabling broader recruitment and participation. The increased reliance on digital
+tools during periods of recommended home confinement has highlighted the
+potential of these methods for wider application. However, challenges such
+as software limitations, lack of user proficiency, internet access issues,
+and possible participant disengagement may restrict their effectiveness. Despite these
+limitations, digital strategies can facilitate behavior change and enhance communication
+and engagement between researchers and participants.

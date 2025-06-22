@@ -1,0 +1,9 @@
+Most of the patients with COVID-19 have mild disease symptoms2.
+However, few patients can develop acute respiratory distress syndrome (ARDS)
+and other complications, including thrombotic phenomena in macro- and micro-circulation2-5.
+Coagulopathy is commonly observed in ARDS/sepsis and can predict outcomes
+in severe/critical COVID-19 cases2-5, 3-6. Abnormal coagulation parameters (elevated levels
+of D-dimer and fibrin degradation products) significantly correlate with mortality
+in patients with COVID-196. Moreover, the SARS-CoV-2 may induce a
+cytokine storm along with activation of the coagulation cascade that
+leads to the thrombotic phenomena5,7.

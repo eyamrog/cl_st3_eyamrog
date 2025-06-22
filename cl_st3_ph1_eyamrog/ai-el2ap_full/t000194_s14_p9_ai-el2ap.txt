@@ -1,0 +1,8 @@
+Frequencies of taxon occurrence were calculated following the methods described
+by Dajoz (1973) and Zak and Willig (2004), by dividing
+the number of samples in which each species was recorded
+by the total number of samples analyzed, and multiplying the
+result by 100 to obtain a percentage. Fungal taxa were
+then classified into constancy categories as follows: Constant (C) for
+frequencies ≥ 50%, Accessory (A) for frequencies ≥ 25% and
+< 50%, and Occasional (O) for frequencies < 25%.

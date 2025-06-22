@@ -1,0 +1,10 @@
+This step is designed to correct as many remaining errors
+as possible using only long-read sequencing data. Medaka is recommended
+for this purpose, as it has been observed to yield
+more accurate results than Nanopolish. Medaka employs a neural network
+and provides pre-trained models tailored to specific combinations of Oxford
+Nanopore Technologies (ONT) chemistry and basecaller versions; therefore, it is
+important to select the Medaka model that most closely matches
+the characteristics of the ONT reads being used. Alternatively, long-read
+variant callers such as Clair3 can be utilized as polishers
+by applying the identified variants directly to the assembly.

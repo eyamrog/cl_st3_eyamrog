@@ -1,0 +1,6 @@
+It is also noted that the distribution of missing data
+is not uniform, making some Indicators more complete than others.
+From Table 1, it is possible to make Figure 5,
+which visually shows the number of data available per Indicator.
+A reading of this information shows a great imbalance between
+the Indicators, regarding data available.

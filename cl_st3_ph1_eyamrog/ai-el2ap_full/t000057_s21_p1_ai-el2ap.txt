@@ -1,0 +1,19 @@
+The number of samples used for infiltration measurements was deemed
+sufficient based on the stabilization of the median values (Figure
+3). The median infiltration capacity was 893 mm hr⁻¹ (Figure
+4). The mean soil penetration resistance (± standard deviation) for
+the four measured depths was 0.63 ± 0.21 MPa, 0.66
+± 0.32 MPa, 0.74 ± 0.22 MPa, and 0.76 ±
+0.22 MPa, respectively (Figure 5). Soil penetration resistance increased significantly
+with depth, a pattern consistent with previous findings in a
+forest within the Brazilian savanna (Pereira et al. 2021). The
+observed penetration resistance values were lower than those reported for
+a nearby savanna (locally referred to as “Cerrado típico”) in
+the same region (Murta et al. 2021). This difference in
+soil penetration resistance between the riparian forest and the savanna
+may be explained by the greater and more continuous litter
+input in the forest throughout the year (Costa et al.
+2020). For instance, Aquino et al. (2016) reported an average
+litter input of 6 ton ha⁻¹ year⁻¹ in a riparian
+forest, whereas Valenti et al. (2008) found 0.6 ton ha⁻¹
+year⁻¹ in a savanna.

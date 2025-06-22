@@ -1,0 +1,10 @@
+Exploratory factor analysis (EFA) was conducted using a polychoric correlation
+matrix and the Robust Diagonally Weighted Least Squares (RDWLS) extraction
+method, which is recommended when the univariate distributions of ordinal
+items are asymmetric (Asparouhov & Muthén, 2010). Dimensionality was assessed
+using Parallel Analysis with random permutation, which is considered a
+more accurate approach for this purpose. The determination of the
+number of factors was based on the percentage of common
+explained variance, following the guidelines of Timmerman and Lorenzo-Seva (2011).
+For factor rotation, the Robust Promin method was applied as
+described by Ferrando and Lorenzo-Seva (2018).

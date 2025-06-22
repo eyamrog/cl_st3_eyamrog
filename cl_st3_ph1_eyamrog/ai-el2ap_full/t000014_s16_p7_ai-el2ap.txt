@@ -1,0 +1,15 @@
+Currently, digital recordings are stored on a 32TB Network Attached
+Storage (NAS) system. To mitigate data loss in the event
+of a hard drive failure, RAID-6 redundancy is employed, resulting
+in an effective storage capacity of 22TB. The data from
+this NAS is duplicated onto a new 96TB NAS, which,
+after accounting for redundancy, provides 72TB of usable storage (see
+Figure 4). To protect against risks such as fire or
+lightning, the two NAS units are housed in separate buildings.
+Audio recordings are preserved in their original .wav format, while
+video recordings are maintained in both their highest definition format
+and in a compressed .mpg format to optimize storage efficiency.
+These compressed video files and audio files are cataloged and
+managed using Language Archiving Technology (LAT) software. The majority of
+these files are also copied to the server maintained by
+the Information and Communication Technology Sector of the Goeldi Museum.

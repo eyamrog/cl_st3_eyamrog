@@ -1,0 +1,5 @@
+(c) Media articles were identified by the title of the
+non-academic publication. If the media outlet was not already recognized,
+its name was also recorded. For the purpose of determining
+page count, a single screen-full of text was used as
+the standard unit.

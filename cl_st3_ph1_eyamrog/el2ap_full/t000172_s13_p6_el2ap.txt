@@ -1,0 +1,11 @@
+2) The RTC may, however, temporarily pause the transcription in
+each of the TRS regions of each ORF and continue
+in the 5’-UTR of the genome, given the complementarity of
+the TRS regions. Therefore, a leader region is incorporated in
+each RNA, generating subgenomic RNAs of negative polarity. These subgenomic
+RNAs will serve as a template for mRNA (+) synthesis,
+containing their 3’ regions co-terminal to the genomic RNA (figure
+2, processes 2a and 2b). This process is often called
+“copy- choice” mechanism and is presented in other viruses, allowing
+recombination, as it will be discussed later (Simon-Loriere and Holmes
+2011).

@@ -1,0 +1,8 @@
+Next, we made a study of the performances of the
+Brazilian Universities that are listed in the four years analyzed
+in the present research (2017-2020), using only the Indicators with
+more than 90% of data available. Those indicators are: Citation
+rate, Research publications (absolute numbers), Research publications (size-normalized), Top-cited publications,
+Interdisciplinary publications, Co- publications with industrial partners, Patents awarded (absolute
+numbers), Patents awarded (size- normalized), Spinoffs, Publications cited in patents,
+International joint publications and Regional joint publications.

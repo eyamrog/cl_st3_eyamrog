@@ -1,0 +1,12 @@
+An implication for practice is that journal evaluations, both internal
+and external, should always mind the journal size when interpreting
+the authorship concentration indexes. While a journal publishing a thousand
+articles can be expected to have its most prolific author
+signing only 1% of them (ten articles), journals publishing fifty
+articles have a lower bound of at least 2% for
+even the least prolific authors. Likewise, larger journals can attend
+to larger and more heterogeneous scientific communities than smaller journals,
+and the Gini coefficient (or any other inequality measurement, really)
+for aggregate populations is larger than the Gini coefficient of
+their sub-populations, if there’s any inequality among said sub- populations
+(Pyatt 1976).

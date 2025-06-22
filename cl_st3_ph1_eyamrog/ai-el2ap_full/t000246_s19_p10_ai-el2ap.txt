@@ -1,0 +1,9 @@
+Bradford's premise 8-9 states that scientific journals should be arranged
+in descending order based on their productivity of documents on
+a specific subject. The entire set should then be divided
+into a core group of journals that are most dedicated
+to the subject, along with several additional groups, or zones,
+each containing the same number of documents as the core.
+According to this premise, the number of journals in the
+core and in each successive zone will follow the proportion
+1:n:n²:n³, and so forth.

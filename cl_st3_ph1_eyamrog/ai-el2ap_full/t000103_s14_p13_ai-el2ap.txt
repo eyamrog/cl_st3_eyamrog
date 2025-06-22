@@ -1,0 +1,12 @@
+The examples above are drawn from a set of sentences
+constructed to exhibit a "neutral" combination of verbs, meaning that
+minimal or no semantic interference is expected between verb selection
+and the reference resolution strategy employed. Half of the sentences
+in the experimental set were designed with this neutrality in
+mind. The remaining half consisted of "tendentious" verb pairs, in
+which the combination of verbs is expected to bias reference
+resolution toward either the subject or the complement of the
+main clause. For instance, sentence (11) was constructed to elicit
+a preference for resolving the anaphor as referring to the
+subject of the main clause, whereas sentence (12) was intended
+to favor resolution toward the complement of the main clause.

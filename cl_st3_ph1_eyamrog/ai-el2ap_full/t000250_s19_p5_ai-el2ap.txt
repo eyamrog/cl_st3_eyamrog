@@ -1,0 +1,15 @@
+Participants engaging in at least 30 minutes of moderate-to-vigorous physical
+activity (MVPA) per day exhibited lower odds of prevalent depressive
+symptoms (OR=0.71, 95% CI=0.53–0.96), anxiety symptoms (OR=0.72, 95% CI=0.54–0.96), and
+co-occurring depressive and anxiety symptoms (OR=0.71, 95% CI=0.52–0.96) after adjustment
+for potential covariates. In contrast, individuals reporting sedentary behavior (SB)
+of 10 or more hours per day had higher odds
+of prevalent depressive symptoms (OR=1.39, 95% CI=1.02–1.90) in the fully
+adjusted models. Detailed results from the logistic regression analyses are
+provided in Table 2. Additionally, linear regression models adjusting for
+relevant covariates indicate that each additional hour spent in SB
+is associated with a 0.22-point increase on the Beck Depression
+Inventory (BDI; 95% CI=0.104–0.338) and a 0.16-point increase on the
+Beck Anxiety Inventory (BAI; 95% CI=0.021–0.313). The results of the
+linear models for MVPA and SB are presented in Table
+3.

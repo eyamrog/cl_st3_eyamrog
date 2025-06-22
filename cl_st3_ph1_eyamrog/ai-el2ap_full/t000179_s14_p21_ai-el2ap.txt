@@ -1,0 +1,4 @@
+Reliability was assessed using the internal consistency method, specifically by
+calculating McDonald's omega coefficient (ω) and Cronbach's alpha coefficient (α).
+For both coefficients, values greater than 0.70 were considered indicative
+of acceptable reliability (30–33).

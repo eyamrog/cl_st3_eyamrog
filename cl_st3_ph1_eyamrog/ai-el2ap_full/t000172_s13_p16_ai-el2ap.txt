@@ -1,0 +1,21 @@
+The E protein is involved in the assembly and release
+of virions from host cells and contributes to viral pathogenesis
+(DeDiego et al. 2007). It is a small protein, approximately
+8–12 kDa in size, and is present in low abundance
+within the virion. The E protein forms a homopentameric transmembrane
+structure, comprising an N-terminal ectodomain, a C-terminal endodomain, and exhibits
+ion channel activity; in SARS-CoV, this ion channel activity is
+not essential for viral replication but influences viral pathogenesis (Nieto-Torres
+et al. 2014). Recombinant viruses lacking the E protein remain
+viable but are attenuated, in contrast to viruses lacking other
+structural proteins, although the degree of attenuation varies depending on
+the virus species (DeDiego et al. 2007). The E protein
+interacts with the M membrane protein in the budding compartment
+of the cell, specifically within the endoplasmic reticulum-Golgi intermediate compartment
+(ERGIC) (Chen et al. 2009a). Additionally, the SARS-CoV E protein
+interacts with the PALS1 protein (Protein Associated with Lin-Seven 1)
+through the PDZ binding motif in its C-terminal domain, resulting
+in delayed formation of tight junctions and altered epithelial morphogenesis
+(Teoh et al. 2010). Furthermore, palmitoylation of the E protein
+has been shown to be essential for the assembly of
+murine coronavirus (Boscarino et al. 2008).

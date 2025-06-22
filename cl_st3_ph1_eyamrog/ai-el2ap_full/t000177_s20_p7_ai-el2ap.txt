@@ -1,0 +1,8 @@
+Controlling the spread of this disease requires a multifaceted approach
+involving various interventions. While HVAC systems contribute to mitigation efforts,
+measures such as social distancing, hygiene practices, and modifications in
+personal behavior are also critical. Ryan et al. [26] demonstrated
+that the use of enhanced ultraviolet germicidal irradiation (eUVGI) in
+HVAC systems reduced microbial colonization within the systems and was
+associated with decreased microbial colonization in both the neonatal intensive
+care unit (NICU) environment and tracheal samples [20, 26].

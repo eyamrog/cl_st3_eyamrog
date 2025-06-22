@@ -1,0 +1,8 @@
+Qualitative studies were included if they employed a qualitative theoretical
+and methodological framework. Quantitative studies were included if they utilized
+experimental designs (controlled trials with or without randomization, quasi-experimental studies,
+or before-and-after studies) or observational designs (descriptive, cohort, cross-sectional, case
+reports, and case series). Systematic reviews, non-systematic reviews, meta-analyses, meta-syntheses,
+and clinical practice guidelines were also considered. Additionally, unpublished studies
+(gray literature) in English, Portuguese, and Spanish, regardless of publication
+date, were included.

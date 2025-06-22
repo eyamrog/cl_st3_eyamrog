@@ -1,0 +1,12 @@
+In our model, coevolutionary dynamics may lead to a reduction
+in the total number of interactions, thereby promoting specialization. To
+assess whether the removal of interactions through coevolutionary dynamics differs
+from random removal, we generated, for each simulation, a third
+network by randomly removing F interactions from the initial network,
+where F corresponds to the number of interactions lost in
+the coevolved network. This approach ensured that the randomly altered
+network contained the same number of interactions as the coevolved
+network, although the specific interactions removed were selected at random.
+We then compared changes in network structure resulting from random
+loss of interactions to those resulting from the loss of
+interactions due to trait dissimilarity as determined by coevolutionary outcomes.

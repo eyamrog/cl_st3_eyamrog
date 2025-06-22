@@ -1,0 +1,10 @@
+The results indicate that INF does not Granger-cause GD, as
+the null hypothesis is accepted at the 5% significance level,
+with a probability value of 0.7060. Similarly, GD does not
+Granger-cause INF, as evidenced by the acceptance of the null
+hypothesis at the 5% significance level, with a probability value
+of 0.7405 and an F-statistic of 0.3051. These findings suggest
+the absence of causality between INF and GD in either
+direction. Additionally, the results show that INT does not Granger-cause
+GD, as the null hypothesis is accepted at the 5%
+significance level, with a probability value of 0.5712.

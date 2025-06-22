@@ -1,0 +1,9 @@
+Next, we conduct a deeper study about the amount of
+missing and available data in the “U-Multirank”, as well as
+about the origin of these data, in terms of coming
+from an open source or data informed by the Institutions.
+The goal is to get a better understanding of each
+Indicator, identifying the ones that are weaker or stronger measurements
+of the ranking, considering source and availability. We will use
+again the data available for the 300 best performers in
+European countries in the 2020 version of the ranking.

@@ -1,0 +1,10 @@
+Many downstream analyses do not require high-quality assemblies, e.g. one
+can identify the species of a genome or the presence/absence
+of a gene using a crude assembly3. There are, however,
+tasks which require extreme accuracy, e.g. estimating mutation rates and
+inferring transmission chains, where even a small number of errors
+can have consequences. Perfect assemblies offer no limits on their
+downstream uses, making ‘is my assembly good enough?’ an irrelevant
+question. In the absence of assembly errors, many analyses which
+involve interrogating reads directly (using computationally intensive approaches, e.g. variant
+calling) could be replaced by simpler assembly-based alternatives.

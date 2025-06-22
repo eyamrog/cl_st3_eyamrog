@@ -1,0 +1,8 @@
+The values for mask usage and physical distancing in the
+Interpersonal Contact submodel were determined based on the literature reviewed
+in Section 4.1. As the phases of isolation and distancing
+evolved, an increase in population mobility was observed, as indicated
+by data from Google Mobility12. This shift in mobility towards
+activities characteristic of pre-pandemic conditions is represented by corresponding changes
+in the parameters of matrices A and B in the
+various Hidden Markov Models (HMM) described in Appendix A.

@@ -1,0 +1,15 @@
+In 2014, another attempt was made to collect student texts
+and compile a learner corpus. Since the primary objective of
+having students produce texts was pedagogical, many decisions regarding the
+writing process were made by subject teachers, resulting in most
+essays being handwritten. The substantial time and effort required to
+convert these handwritten texts into digital format led the research
+group to exclude the 2014 texts from CorIFA. The group
+determined that, despite providing transcriber training, there remained a risk
+that spelling or grammatical errors could be inadvertently corrected by
+transcribers or by computer spell checkers, thereby producing texts that
+would not accurately represent the students’ actual proficiency in English.
+As the experience of processing paper-based texts proved inefficient for
+corpus compilation, from 2015 onwards, all texts have been collected
+exclusively in digital format, with students submitting their work through
+an online form.

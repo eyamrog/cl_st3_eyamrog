@@ -1,0 +1,9 @@
+This is a cross-sectional web survey study with a descriptive
+and correlational approach. For greater methodological rigor, this work follows
+the guidelines proposed by Strengthening the Reporting of Observational Studies
+in Epidemiology (STROBE) (Cevallos et al. 2014). The research setting
+covered three geographic regions of Brazil (Northeast, Southeast, and South).
+Data collection was online and took place from September 15
+to October 14, 2021, over a period of 30 days.
+The sample consisted of undergraduate university students in the health
+area.

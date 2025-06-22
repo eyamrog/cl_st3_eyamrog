@@ -1,0 +1,11 @@
+Content validity was assessed through an item analysis of the
+B-PREA-R, which involved evaluating each item's discrimination index (item-total correlation)
+and difficulty index. The discrimination index was interpreted based on
+the criteria established by Ebel and Frisbie (as cited in
+Backhoff et al., 2000): items with values ≥ .39 were
+considered high quality, values between .30 and .39 indicated good
+quality, values between .20 and .29 indicated fair quality, and
+values < .20 indicated low quality. The difficulty index was
+classified according to Crocker and Algina (1986), with values of
+.80 indicating low difficulty, values between .79 and .50 indicating
+medium difficulty, and values < .50 indicating high difficulty.

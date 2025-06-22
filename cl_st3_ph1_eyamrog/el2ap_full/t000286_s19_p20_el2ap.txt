@@ -1,0 +1,8 @@
+The results revealed that INT does not granger causes INF;
+the null hypothesis is accepted at 5% significance level, indicated
+by the high probability value 0.8942. The results also revealed
+that INF does not granger causes INT, the null hypothesis
+is accepted at 5% percent indicated by the probability value
+0.1264 and this is confirmed by the F-statistics value 2.32514.
+This result therefore indicates no causation flowing from INT to
+INF.

@@ -1,0 +1,3 @@
+Secondary outcomes included clinical characteristics, length of stay in the
+intensive care unit, requirement for invasive mechanical ventilation, hospitalization rate,
+and time to clinical improvement.

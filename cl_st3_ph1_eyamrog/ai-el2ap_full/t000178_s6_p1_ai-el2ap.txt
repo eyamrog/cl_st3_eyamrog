@@ -1,0 +1,27 @@
+It has been two years since Norena et al. (2018)
+published the initial analysis of Latin American genetic data available
+in public databases. The authors provided their scripts and relevant
+information, enabling us to reproduce and compare their results. In
+alignment with the principles of open science, all scripts and
+results from the present study are freely accessible and downloadable
+from GitHub. Norena et al. reported that 1.01% (approximately 6,500)
+of the records in NCBI Nucleotide were deposited by Peruvian
+institutions. Our analysis indicates that this number has more than
+doubled to 14,488 records within two years (Table 1). However,
+the calculated proportion of records from Peruvian institutions increased only
+modestly to 1.71%, likely due to the overall growth in
+the total number of Nucleotide records. An independent study by
+Clark et al. (2016) observed two- to four-fold increases in
+both invertebrate and vertebrate data in GenBank over a comparable
+period (2014–2016). For Peru, the National Institute of Health (INS)
+and the National University of San Marcos (UNMSM) have contributed
+more data than all other Peruvian institutions combined, accounting for
+over 8,000 records. In the BioProject database, we identified that
+30.05% of records (58 out of 193) were submitted by
+Peruvian institutions, which is approximately double the proportion reported by
+Norena et al. (15.95%). In PATRIC, Norena et al. found
+that 0.28% of records were submitted by Peruvian institutions, whereas
+our analysis identified 3.62% (107 out of 2,959 records). Finally,
+in BOLD, we recorded 3,754 entries compared to the 3,438
+reported by Norena et al., indicating a smaller increase in
+this database relative to the others.

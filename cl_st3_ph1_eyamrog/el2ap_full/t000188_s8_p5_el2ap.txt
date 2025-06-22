@@ -1,0 +1,11 @@
+In support of the Ministry of Health of Brazil, the
+Pan American Health Organization (PAHO) has developed a series of
+tools to assist governments in decision- making regarding the tightening
+or loosening of measures, such as the technical guide “Considerations
+on adjustments to social distance measures and travel-related measures in
+the context of the response to the COVID-19 pandemic”. Another
+important tool is the “Epidemic Calculator”, which produces scenarios (and
+not predictions about the future) from values, data, and parameters
+(number of available beds, transmission speed, and social contact). The
+effectiveness of the model is directly related to the quality
+of the information used in the calculation.4

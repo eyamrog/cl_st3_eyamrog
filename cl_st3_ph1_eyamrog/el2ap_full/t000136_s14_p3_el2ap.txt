@@ -1,0 +1,6 @@
+Considering the significance level of 0.05, statistical power of 0.8,
+effect size of 0.35, and six predictors, the minimum sample
+size were 46 observations. As we carried out the moderation
+evaluation through multigroup analysis (two groups), we considered as minimum
+size 92 observations, or two groups of 46. Then we
+developed the sampling plan (Table 1).

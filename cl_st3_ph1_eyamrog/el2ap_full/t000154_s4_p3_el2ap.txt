@@ -1,0 +1,8 @@
+Always a paragon of open science, SciELO Brazil requires its
+journals to implement some form of “open peer review”: consisting
+of open identities, open reports, or crediting associate editors. Based
+on this survey and the discussed literature, journal editors should
+be extremely cautious of open identities, as most researchers believe
+it would make more harm than good. If open identities
+are to be adopted, scholarly journals should consider making them
+optional at first, and monitor the adherence.

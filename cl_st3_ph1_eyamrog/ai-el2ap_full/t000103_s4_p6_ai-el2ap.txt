@@ -1,0 +1,9 @@
+The results for the “neutral” and “biased” sentences differed substantially.
+While Portuguese speakers continued to exhibit susceptibility to PAS, particularly
+when the anaphor was an ellipsis in either Portuguese or
+Spanish, the data indicate that both the lexical selection of
+verbs and the semantic relationship between them significantly affect the
+resolution of ambiguous anaphora. This factor has been largely overlooked
+in prior research. Based on these findings, it is recommended
+that the semantics of verb combinations be taken into account
+when constructing ambiguous sentences for anaphora resolution tasks.

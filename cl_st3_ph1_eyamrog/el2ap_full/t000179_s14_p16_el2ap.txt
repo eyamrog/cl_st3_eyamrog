@@ -1,0 +1,14 @@
+A random subset from the total sample (split-half method) (20,
+21) was analyzed. Polychoric matrices were used (22) and the
+estimator was weighted using least squares means and variance adjusted
+(WLSMV) (23), since it best fitted the ordinal nature of
+our items. We used quartimin rotation, parallel analysis test and
+Kaiser analysis to evaluate the most appropriate number of dimensions
+(24). Different models were obtained and evaluated to identify the
+one with the best measurement properties. This decision was made
+since theoretical models suggest that job satisfaction is a multidimensional
+construct. Before performing exploratory factorial analysis, the value of the
+Kaiser- Meyer-Olkin (KMO) was estimated. This is an index of
+sample adequacy, which allows identifying whether there is enough power
+or sample size to perform the analysis. Adequate KMO values
+higher than 0.90 are adequate (22).

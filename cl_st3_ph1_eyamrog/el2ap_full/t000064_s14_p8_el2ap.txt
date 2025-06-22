@@ -1,0 +1,8 @@
+Statistical analysis - The light response curves were adjusted to
+the model of Prado & Moraes (1997): Ameas = Amax
+(1- e-k(PAR-Lcp)), in which Ameas means carbon assimilation rate under
+a given light intensity; Amax means the maximal carbon assimilation
+rate measured; k is a constant calculated for each curve;
+PAR means the given light intensity and Lcp means the
+light compensation point. Data were compared via Student´s T-test with
+the support of the open access graph software Libre Office.

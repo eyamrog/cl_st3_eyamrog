@@ -1,0 +1,11 @@
+The absence of, or deficiencies in, governance practices can lead
+to donor reluctance to contribute to nonprofit organizations (NPOs). Fisman
+and Hubbard (2005) argue that inadequate governance results in insufficient
+management monitoring, thereby increasing agency costs. Figure 2 displays the
+R² values for each endogenous latent variable, which serve as
+indicators of the model’s explanatory power. It is important to
+note that the R² value of the first-order reflective construct’s
+latent variable reflects the extent to which this variable represents
+the second-order construct. Consequently, this R² value was analyzed, as
+it also contributes to the structural model through its generated
+paths.

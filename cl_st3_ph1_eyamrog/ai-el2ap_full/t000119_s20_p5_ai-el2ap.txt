@@ -1,0 +1,9 @@
+Under water deficit conditions, plants experience cell dehydration, which leads
+to a reduction in pressure potential (turgor) and cell volume.
+This state can result in increased ion concentrations in the
+cytosol, reaching cytotoxic levels that may cause protein denaturation and
+membrane destabilization, potentially leading to cell death (Taiz et al.
+2017). In seeds, water deficit is primarily associated with a
+decreased germination percentage, an increased mean germination time, and reduced
+growth of the primary root and hypocotyl (Demontiêzo et al.
+2016; Freire et al. 2018).

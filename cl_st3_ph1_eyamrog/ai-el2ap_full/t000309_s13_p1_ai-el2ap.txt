@@ -1,0 +1,7 @@
+The treatment of inflammatory bowel disease (IBD) frequently includes the
+use of immunosuppressive medications, which may increase patients' susceptibility to
+infections depending on the specific therapies administered. As the COVID-19
+outbreak progressed into a global pandemic, multiple centers worldwide expressed
+concerns that immunocompromised individuals, including those with IBD, could be
+at heightened risk for acquiring SARS-CoV-2 infection or developing severe
+respiratory illness (13).

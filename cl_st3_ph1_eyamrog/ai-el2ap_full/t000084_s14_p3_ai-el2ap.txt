@@ -1,0 +1,14 @@
+All participants completed a 10-item presurvey prior to the start
+of the course. The presurvey included four demographic questions (name,
+location, age, and gender) and six items using a 5-point
+Likert scale to assess participants’ attitudes toward the use of
+mobile devices in teaching and learning. After the 8-week course,
+participants completed a postsurvey consisting of three questions evaluating their
+readiness to use and apply mobile devices for teaching and
+learning. Both pre- and postsurvey items were selected from the
+Mobile Learning Survey, which was originally adapted by Gunter and
+Reeves (2017) to assess teachers’ attitudes toward online professional development
+incorporating mobile learning. The internal consistency reliability for the attitude
+items was acceptable, with Cronbach’s alpha coefficients of .70 for
+the presurvey and .77 for the postsurvey (Gunter & Reeves,
+2017).

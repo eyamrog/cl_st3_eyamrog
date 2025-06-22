@@ -1,0 +1,11 @@
+Information from previous events is often used to define the
+risk period for adverse events following vaccination (1). For instance,
+in studies of influenza vaccines and the subsequent development of
+Guillain-Barré syndrome (GBS), a prespecified risk period of 42 days
+post-vaccination is commonly employed. This duration was established following a
+cluster of GBS cases in the United States in 1976,
+which occurred after administration of the A/New Jersey influenza vaccine
+(10). Within this risk period, individuals who have received the
+vaccine are considered to be at an increased risk of
+developing GBS, while the time following this period is designated
+as the control period (1,11).

@@ -1,0 +1,23 @@
+The consensus phylogeny of species, based on neutral molecular markers,
+was obtained from the Timetree server (www.timetree.org; Kumar et al.,
+2017). This phylogeny is used as a reference by specialized
+literature following Meredith et al. (2011). To better understand evolutionary
+patterns that are acting on ACE2, we performed a Site
+Model (NsSite) test with Codeml package in PAML 4.9 software
+(Yang, 2007), which allows for inter-specific phylogenetic comparison of substitution
+rates in protein-coding genes. This test allows for ω variation
+(ω = dN/dS, being dN the rate of non- synonymous
+substitutions and dS the rate of synonymous substitutions) across sites.
+It fits neutral (ω≅1), selective constraint (ω< 1), or positive
+selection (ω>1) models to the observed levels of variation. To
+determine which evolutionary model best fit the analyzed data, we
+performed Likelihood Ratio Tests (Yang, 1998). For these, we compared
+the neutral model (M1) against the model that allows positive
+selection (M2a) with df = 2 (Yang, 2007). Bayes Empirical
+Bayes (BEB) was used to infer sites with a high
+probability of being under positive selection (Yang et al., 2005).
+Furthermore, we classify amino acid variation found in placental mammals
+ACE2 coding sequences into four classes of chemical similarity accordingly
+Grantham score (Grantham, 1974): conservative (GS = ≤50), moderately conservative
+(GS = 51–100), moderately radical (GS = 101–150), and radical
+(≥151).

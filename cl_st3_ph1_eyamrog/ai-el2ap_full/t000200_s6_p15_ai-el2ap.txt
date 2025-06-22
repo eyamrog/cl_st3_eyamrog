@@ -1,0 +1,6 @@
+It is important to note, however, that the morbidity data
+for leptospirosis presented in this analysis may be underestimated, as
+the disease can be misdiagnosed as other febrile illnesses. Furthermore,
+the majority of reported cases are derived from hospital records,
+which primarily capture patients with more severe manifestations of the
+disease.

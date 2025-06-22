@@ -1,0 +1,3 @@
+- Communicative executions: Ability to execute actions after verbal direction,
+as told. Directing motor actions through language. Before executing what
+to do: language directs the action.

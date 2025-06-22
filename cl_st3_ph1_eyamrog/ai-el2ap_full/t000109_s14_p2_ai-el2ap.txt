@@ -1,0 +1,8 @@
+As an agent-based model (ABM), the core of the system
+consists of agents referred to as humans (Ha). Each Ha
+is capable of acquiring and transmitting the SARS-CoV-2 virus, exhibiting
+changes in symptoms and health status in response to infection
+dynamics, and modifying behaviors accordingly (see Infectivity submodel, Section 3.1).
+Additionally, each Ha possesses specific characteristics and attributes that correspond
+to particular risk factors and comorbidities (see Epidemiological Characterization submodel,
+Section 3.2).

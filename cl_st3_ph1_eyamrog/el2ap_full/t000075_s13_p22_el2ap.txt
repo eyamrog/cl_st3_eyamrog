@@ -1,0 +1,16 @@
+One of the biggest controversies about capital controls is if
+the instruments should be permanent or sporadic. The experience of
+emerging economies in the post-crisis period seems to point to
+the second option. In order to counter the trade-offs between
+these two types of capital account regulation, several econometric studies
+aimed to identify, under several parameters, whether one type of
+regulation is superior to another. Another caveat is noteworthy. Permanent
+capital controls do not mean that a country is totally
+closed to cross-border capital flows; it means that a country
+imposes a control on a certain class of asset or
+debt and maintains this regulatory measure over time. This classificcation
+is independent of the level of taxation, or administrative measure,
+of the capital control imposed. In turn, a sporadic capital
+control refers to a regulation that the government changes or
+lifts quickly, and whose effects can even be stronger relatively
+to the permanent capital controls.

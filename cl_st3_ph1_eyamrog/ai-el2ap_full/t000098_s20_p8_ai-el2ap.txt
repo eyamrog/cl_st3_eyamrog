@@ -1,0 +1,17 @@
+Given the substantial differences in the age profiles of the
+populations studied, it is expected that both the values of
+age-adjusted mortality rates and the resulting country rankings differ considerably
+from those based on crude mortality rates. When ranked by
+age-adjusted mortality rates, the seven countries with the highest rates
+are all classified as Western developing countries, specifically six Latin
+American countries and South Africa. In contrast, developed countries such
+as England, the United States, and Italy, which occupy the
+highest positions in the ranking based on crude mortality rates,
+are ranked below these seven countries when age adjustment is
+applied. The relative positions within the group of countries at
+similar stages of development remain largely unchanged, which can be
+attributed to the comparable age structures of their populations. Finally,
+it is important to note that the lowest positions in
+both rankings are consistently held by the poorer Asian countries
+included in the study, which, as previously indicated, exhibit substantially
+lower Covid-19 mortality rates compared to the Western countries analyzed.

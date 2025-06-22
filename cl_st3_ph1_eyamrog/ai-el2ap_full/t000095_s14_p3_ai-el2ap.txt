@@ -1,0 +1,3 @@
+Data on age, sex, race, educational attainment, and history of
+comorbidities—including obesity, diabetes mellitus, cardiovascular disease, neurologic disease, and kidney
+disease—were also collected.

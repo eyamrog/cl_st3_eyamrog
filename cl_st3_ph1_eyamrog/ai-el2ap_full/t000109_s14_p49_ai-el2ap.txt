@@ -1,0 +1,11 @@
+Here, P(t) denotes the probability of contact with the virus
+via a plastic surface, where t represents the time in
+hours since the fomite was last handled, and temp indicates
+the daily mean temperature. This formula was incorporated into the
+GIS system projection, assigning each cell in which an infected
+individual (Ha) was present a corresponding probability P(t) of transmitting
+the infection to another individual (Ha). This factor was included
+to ensure model completeness, as it is associated with various
+hygiene measures implemented to prevent disease transmission. However, both practical
+experience and recent literature indicate that this factor has no
+significant impact on overall transmission dynamics.

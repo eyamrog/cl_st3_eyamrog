@@ -1,0 +1,11 @@
+Polypolish30 was developed with two primary objectives: first, to utilize
+all-per-read alignments in order to address limitations associated with repetitive
+genomic regions; and second, to adopt a highly conservative approach
+that minimizes the risk of introducing errors during the polishing
+process. Polypolish30 implements sequence changes only when they are unambiguously
+supported by the read alignments; in cases where multiple nucleotide
+possibilities exist at a given locus (for example, when some
+alignments support an adenine and others support a cytosine), the
+tool refrains from altering the sequence. Based on this conservative
+strategy, it is recommended that Polypolish30 be applied prior to
+the use of other short-read polishing tools.

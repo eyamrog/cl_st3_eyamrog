@@ -1,0 +1,8 @@
+However, principal-agent models of brokerage may not adequately capture brokerage
+relationships in which both parties are elected officials seeking votes.
+The core assumptions of these models—particularly the existence of conflicting
+objectives between principal and agent (Gailmard, 2012) and informational asymmetry
+favoring the agent—do not consistently apply to the interactions between
+Brazilian legislators and their local brokers. As demonstrated in the
+following sections, these relationships exhibit considerable variation, and multiple forms
+of equilibrium are possible.

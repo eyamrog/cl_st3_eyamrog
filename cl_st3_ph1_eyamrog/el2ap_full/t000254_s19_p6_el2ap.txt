@@ -1,0 +1,19 @@
+The maximum height recorded in the community was 18 m
+for a specimen of Aspidosperma olivaceum Müll.Arg (Apocynaceae), the median
+dbh value for shrub-tree synusia was 5 cm and the
+biggest dbh was 43.3 cm referring to a specimen of
+Tapirira guianensis Aubl. (Anacardiaceae). The median dbh value for the
+climbers was 4.6 cm and the maximum observed value was
+22.3 cm. The distribution of diameters (dbh) of live plants
+in 2012 did not differ from that in 2006 (Kolmogorov-Smirnov
+Test, n1 = 367, n2 = 385, D = 0.05,
+p = 0.81, figure 2a). The mean relative diameter growth
+of the plants in the shrub-tree synusia was 1.14% year-1
+(Mdn = 0.58% year‑1), the minimum growth was zero and
+the maximum 9.05% year-1 in regards to a specimen of
+Cryptocarya mandioccana Meisn. (Lauraceae). The diameter growth of plants with
+2.5 < dbh < 5 cm (Mdn = 0.48% year-1)
+did not differ from that of plants with > 5
+cm dbh (Mdn = 0.7% year-1, Mann-Whitney Test, n1 =
+185, n2 = 166, z = 1,549, p = 0.12,
+figure 2b).

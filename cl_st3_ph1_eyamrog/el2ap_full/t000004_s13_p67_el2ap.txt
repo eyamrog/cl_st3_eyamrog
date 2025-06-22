@@ -1,0 +1,6 @@
+Despite the fact that Tiago performs several attacks following each
+other towards the end of the extract, we can see
+a regular pattern. However, it needs to be observed that
+this pattern is simplified – for example, it does not
+take into account counter-attacks, such as a rasteira (a sweep)
+performed while escaping.

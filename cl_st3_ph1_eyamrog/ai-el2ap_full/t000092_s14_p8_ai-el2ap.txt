@@ -1,0 +1,3 @@
+Reference values from the normal population, as reported in the
+literature, were utilized, with an LF/HF ratio greater than 2
+considered indicative of an abnormality. (5,6)

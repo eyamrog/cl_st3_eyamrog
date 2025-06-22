@@ -1,0 +1,7 @@
+Adjusting Covid-19 mortality rates to compensate for differences in the
+age structure of populations requires data on the population of
+countries (P) and the cumulative number of deaths (M) broken
+down by age group. Those data allow us to calculate
+both the crude mortality rate (m) and an adjusted mortality
+rate (a) based on a uniform pattern of age structure.
+Given: <>

@@ -1,0 +1,8 @@
+According to the results of both tests, there is nonlinearity
+in the femicide series. In the foreign exchange rate series,
+there is nonlinearity, according to the Harvey & Leybourne (2007)
+Test, and linearity, according to Harvey, Leybourne & Xiao (2008)
+Test. Following the determination of the nonlinearity of the series
+in the linearity tests, the stationarity of the series was
+tested using nonlinear unit root tests. The results of the
+analysis are presented in Table 3.

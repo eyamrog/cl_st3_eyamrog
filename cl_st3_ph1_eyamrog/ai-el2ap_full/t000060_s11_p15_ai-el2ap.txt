@@ -1,0 +1,9 @@
+An adjacency pair is defined as a sequence of two
+utterances that are contiguous, produced by different speakers, organized as
+a first part and a second part, and categorized such
+that the first part necessitates a specific second part or
+a limited set of possible second parts (Heritage, 1984a, p.
+246). For example, an invitation constitutes the first part of
+an invitation–response pair, a question serves as the first part
+of a question–answer pair, and a greeting functions as the
+first part of a greeting–greeting pair.

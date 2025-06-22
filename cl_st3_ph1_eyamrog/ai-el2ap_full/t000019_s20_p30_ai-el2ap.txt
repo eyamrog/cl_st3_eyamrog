@@ -1,0 +1,15 @@
+An additional factor influencing the feasibility of pedagogical use of
+DICT is the consistent presence of a multidisciplinary team, typically
+comprising at least a computer technician and a pedagogical facilitator.
+From 2006 to 2013, the position of computer technician was
+established in the State of Goiás, although its implementation varied
+across Brazil. The primary responsibility of these professionals was to
+support teachers in computer laboratories, particularly in integrating ICT into
+pedagogical practices and disciplinary content (Bueno, 2017; Brito, 2008). In
+most schools, the facilitator role was filled by a teacher
+from any subject area, resulting in a multitasking profile; however,
+in some municipalities, this position was occupied by a computer
+technician. The broad range of duties assigned to these individuals
+often limited their ability to focus on pedagogical functions, a
+challenge that was exacerbated when the facilitator did not possess
+a background in education.

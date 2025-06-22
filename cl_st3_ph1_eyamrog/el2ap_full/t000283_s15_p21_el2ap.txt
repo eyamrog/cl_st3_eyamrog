@@ -1,0 +1,18 @@
+Two authors (ACPNP and APR) will independently extract data. Discrepancies
+or disagreements will be solved by a third author (CRRF).
+We will use a predefined form to extract data from
+included studies. The form will have information related to: -
+the patients (demographic and clinical characteristics); - the pharmacological treatment
+(name of the drug, treatment duration; dose); - time points
+used for the assessments; - number of patients lost to
+follow-up (in each group); - reasons for loss to follow-up;
+- approach for handling missing data (data imputation/how data imputation
+was performed, use of intention-to-treat approach); - sources of funding;
+- possibility of conflict of interests; - adverse events; -
+outcome measures; - protocol deviations. To assess the feasibility of
+performing a meta-analysis, we will also extract the following data
+for each primary and secondary outcome measure: - total number
+of patients (in each group); - number of events in
+each group (for dichotomous outcomes); - mean, standard deviation, standard
+error, median, interquartile range, minimum, maximum, 95% confidence interval (CI)
+(for continuous outcomes); - p-value .

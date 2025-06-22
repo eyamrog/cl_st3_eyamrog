@@ -1,0 +1,5 @@
+Based on the standard curve (y = 61635x - 11502;
+R² = 0.9957), the chloroform fraction contained the highest concentration
+of gallic acid (52.02 mg/g), followed by the ethyl acetate
+fraction (50.39 mg/g) and the ethanol extract (15.56 mg/g). The
+hexane fraction exhibited the lowest gallic acid content (6.51 mg/g).

@@ -1,0 +1,4 @@
+The results we obtained by applying the methodology described in
+Section 3 are going to be presented individually, that is,
+per website. Then, they will be polled and analyzed before
+being discussed in the final section of this paper.

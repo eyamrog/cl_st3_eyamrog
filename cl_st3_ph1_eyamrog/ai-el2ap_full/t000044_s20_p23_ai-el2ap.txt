@@ -1,0 +1,5 @@
+This category suggests that gestures can provide insights into students'
+cognitive processes when they explain specific content or justify their
+responses. The analysis of gestures, employing techniques such as Think
+Aloud, facilitates the examination of the relationship between students' gestures
+and their mental representations.

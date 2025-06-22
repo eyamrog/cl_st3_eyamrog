@@ -1,0 +1,11 @@
+Social media sharing platforms such as YouTube, Vimeo, and SoundCloud
+(see Figure 2) enable the distribution of video and audio
+files to various audiences, including communities and individual users, by
+making content readily accessible through online search engines. These platforms
+support rights management by allowing uploaders to select between traditional
+copyright and Creative Commons licensing options. However, the majority of
+users lack adequate knowledge of both traditional copyright and Creative
+Commons licenses, which may hinder their ability to make informed
+choices regarding rights management. Additionally, these platforms offer graded access
+controls, permitting users to designate content as either private or
+public.

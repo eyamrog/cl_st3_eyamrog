@@ -1,0 +1,7 @@
+If culturing and DNA extraction is conducted multiple times (e.g.
+once for ONT sequencing and again for Illumina sequencing), there
+is the risk of genomic differences between the DNA samples9.
+This can lead to difficulties during polishing, so we recommend
+using a single DNA extract for all sequencing runs. It
+may also be prudent to freeze additional DNA or bacterial
+pellets in case further sequencing is later required.

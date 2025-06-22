@@ -1,0 +1,27 @@
+Players were divided into four groups based on their field
+positions: Goalkeepers (n=2), Defenders (n=7), Midfielders (n=7), and Forwards (n=2).
+The presence values for each PMSL factor, as defined by
+Engelmann (1986), were calculated by multiplying the score assigned by
+each participant on the scale next to each locution by
+its corresponding correlation coefficient (charge) with each factor. To enable
+comparisons among factors with different numbers of correlated locutions, a
+standardization procedure was applied to normalize each presence value to
+a 0–1 scale. Specifically, for each PMSL factor, the maximum
+possible value was determined by multiplying all positive charges by
+5 (the maximum value on the PMSL scale) and all
+negative charges by 1 (the minimum value on the LEAP
+scale), followed by calculating the mean of these values. Conversely,
+the minimum possible value was calculated by multiplying positive charges
+by 1 and negative charges by 5, and then computing
+the mean. The minimum value was then adjusted to 0,
+and the maximum value was adjusted accordingly to maintain the
+scale proportion (e.g., if the minimum value was shifted from
+2 to 0, the maximum value was reduced by 2
+as well). The adjusted maximum value was then set to
+1 by dividing it by itself, and the original presence
+value (ranging from 1 to 5) was divided by the
+adjusted maximum value to yield the standardized presence value for
+the PMSL factor. This standardization procedure was applied to all
+presence values for all participants across all events. The mean
+standardized presence values for each PMSL factor were used for
+statistical analysis.

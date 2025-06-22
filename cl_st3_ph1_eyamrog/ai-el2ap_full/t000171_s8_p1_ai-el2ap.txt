@@ -1,0 +1,9 @@
+Coronaviruses have been recognized as causative agents of respiratory infections
+for the past 50 years (1). In December 2019, a
+cluster of pneumonia cases with unknown etiology was reported in
+Wuhan, China. Subsequent investigations led to the isolation and identification
+of a novel coronavirus, designated SARS-CoV-2, which exhibits phylogenetic similarity
+to other beta-coronaviruses such as SARS-CoV, the agent of severe
+acute respiratory syndrome, and MERS-CoV, responsible for Middle East respiratory
+syndrome (2). The World Health Organization has since declared COVID-19,
+the disease caused by SARS-CoV-2, a global pandemic (1-3).

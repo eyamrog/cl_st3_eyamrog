@@ -1,0 +1,16 @@
+To identify the publication languages of the JUOJS, Google’s Compact
+Language Detector v3 (gcld3) was applied to the 100 most
+recent articles in the ISSN-verified subset of JUOJS. Gcld3 is
+a publicly available, pre-trained neural classifier that provides a reliability
+flag for language predictions when the classification probability exceeds a
+defined threshold. Only language classifications marked as reliable were retained
+for each journal. The most frequently identified language for each
+journal was assigned as its primary language of publication. Journals
+with article abstracts classified by gcld3 as being in multiple
+languages, with at least five articles per language, were designated
+as multilingual. Additional heuristic checks were conducted to verify the
+primary language of each journal, including comparison of predicted languages
+with top-level domains, which led to the semi-manual correction of
+478 journals. Two under-resourced languages, Balochi and Faroese, are not
+currently supported by gcld3 and were instead identified through analysis
+of top-level domains.

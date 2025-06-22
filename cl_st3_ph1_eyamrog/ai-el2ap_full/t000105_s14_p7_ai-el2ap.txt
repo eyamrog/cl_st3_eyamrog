@@ -1,0 +1,8 @@
+The sample size was calculated based on the estimated population
+of each city, using a 95% confidence level, a design
+effect of 1.5, and the parameters specified in Table 1,
+which also details the sample distribution by survey stage. To
+account for potential losses due to participant refusals, absence of
+selected residents, and inaccessible households at the time of the
+visit, an additional 20% was added to the sample size
+in each city to ensure adequate representation.

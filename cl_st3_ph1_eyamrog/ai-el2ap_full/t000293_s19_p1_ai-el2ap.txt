@@ -1,0 +1,13 @@
+Of the 136 chest CT examinations performed due to clinical
+suspicion of COVID-19 during the study period, 91 patients (66.9%)
+had available RT-PCR results and were included in the analysis.
+The majority of patients were male (n = 55; 60.4%).
+The mean age was 58.2 years (median, 61 years; interquartile
+range [IQR], 51–68 years; range, 19–88 years), with 47 patients
+(51.6%) aged over 60 years. The most frequently reported symptoms
+were cough (n = 55; 60.4%), fever (n = 34;
+37.4%), and dyspnea (n = 36; 39.6%). The mean duration
+of reported symptoms was 6.0 days (median, 5 days; IQR,
+1–7 days; range, 1–30 days), with 30 patients (33.0%) experiencing
+symptoms for 0–2 days, 15 patients (16.5%) for 3–5 days,
+and 18 patients (19.8%) for 6–7 days.

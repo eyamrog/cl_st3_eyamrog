@@ -1,0 +1,3 @@
+To evaluate the primary hypothesis of linearity (Equation 4) against
+the alternative hypothesis of nonlinearity (Equation 5), Equation 6 is
+proposed for use in the analysis.

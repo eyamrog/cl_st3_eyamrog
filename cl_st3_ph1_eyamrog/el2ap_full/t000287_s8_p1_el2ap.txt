@@ -1,0 +1,6 @@
+Testing, diagnosing and isolating is the key to controlling the
+spread of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), and
+its clinical syn- dromic manifestations known as coronavirus disease (COVID-19),
+according to the World Health Organization1. Asymptomatic health-care workers (HCWs)
+are an underestimated potential source of infection and are worthy
+of testing2.

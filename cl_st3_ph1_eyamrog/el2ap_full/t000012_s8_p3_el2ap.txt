@@ -1,0 +1,11 @@
+In the simplest scenario, individuals of different species are generalists,
+interacting with partners in an opportunistic way, e.g., feeding on
+resources in the frequency they are available in the environment.
+Although there is compelling evidence of departures of the patterns
+of interaction expected by the availability of resources (Olesen et
+al. 2011; Kuebbing et al. 2013; Pekkonen et al. 2013),
+the assumption that individuals interact as opportunistic foragers allows insights
+on the organization of ecological networks. Specifically, opportunism at the
+individual level implies that, at the species level, variation in
+number of interactions across species would be correlated with species
+abundances (Vazquez et al. 2007; Krishna et al. 2008).

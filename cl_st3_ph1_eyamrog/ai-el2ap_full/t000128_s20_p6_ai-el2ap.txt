@@ -1,0 +1,10 @@
+Such variation may result from differences in extraction methods, as
+the extract may contain molecules capable of penetrating the outer
+membrane of Gram-negative bacterial cell walls, but not those of
+Gram-positive bacteria (Duffy and Power, 2001). Additionally, the presence of
+specific phytochemical compounds in the extract may lead to greater
+bioactivity against Gram-negative bacteria due to a higher affinity for
+the lipid structure of their membranes. This is supported by
+Engel et al. (2017), who observed that the Salmonella strains
+used in their study were more sensitive than Staphylococcus aureus
+strains to disinfectants containing either carvacrol or thymol.

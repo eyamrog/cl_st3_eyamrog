@@ -1,0 +1,8 @@
+For distance education in extensive territories, such as Brazil, however,
+locus procedures may be time- and resources-consuming, which can be
+solved using ICT for data gathering as proposed in this
+paper. The next two sections present a contextual TSA for
+the design of an online CEAP course for Brazilian computer
+science graduate students. Special attention will be given to the
+use of ICT for data gathering and how it has
+facilitated the investigation of critical issues at a distance.

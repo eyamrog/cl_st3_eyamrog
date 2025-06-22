@@ -1,0 +1,8 @@
+Materials and Methods: This retrospective single-center study selected 91 patients
+who had chest CT and real-time polymerase chain reaction (RT-PCR)
+test collected at the same day. CT results were classified
+in negative, typical, indeterminate or atypical findings. Diagnostic accuracy, sensitivity
+and specificity were calculated for two different scenarios: in the
+first, only typical find- ings on CT were considered positive;
+in the second, both typical and indeterminate findings were considered
+positive.

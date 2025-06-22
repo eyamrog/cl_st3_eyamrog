@@ -1,0 +1,5 @@
+Another interesting data is given when comparing groups 3 and
+4. Group 3 presents an incidence rate 3.12 times higher
+and mortality coefficient 43% lower (p < 0.001) and may
+reflect the higher diagnostic capacity of the country but with
+less severity.

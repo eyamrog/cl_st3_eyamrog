@@ -1,0 +1,8 @@
+The preceding steps have produced a long-read-only assembly with high
+accuracy, estimated at approximately Q50 (one error per 100,000 base
+pairs) when R10.4.1 Oxford Nanopore Technologies (ONT) reads are utilized.
+The final step involves correcting any residual errors using short-read
+data. For instance, long homopolymer regions are challenging for ONT
+sequencing to accurately resolve; however, Illumina sequencing does not exhibit
+this limitation. Consequently, homopolymer-length errors that remain after long-read polishing
+can be corrected through short-read polishing.

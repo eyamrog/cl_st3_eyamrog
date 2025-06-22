@@ -1,0 +1,2 @@
+Patients who are coinfected with SARS-CoV-2 and any type of
+arboviral infection.

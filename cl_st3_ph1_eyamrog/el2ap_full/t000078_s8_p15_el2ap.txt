@@ -1,0 +1,11 @@
+McMillen (2001a, 2001b) proposed a two-stage model that requires no
+prior knowledge of the evaluated city. The first stage is
+close to Craig and Ng (2001) approach, i.e., run employment
+density logarithm against the distance to the CBD. SBD candidates
+are those whose residues form clusters statistically significant at 5%.
+In the second stage, after considering the potential subcenters, a
+semiparametric model is used. The nonparametric part of the regression
+adjusted by a flexible Fourier approximation uses the residuals of
+the first stage as a dependent variable and the distance
+to the CBD as an explanatory variable. Statistically significant estimated
+distance coefficients are considered SBD.

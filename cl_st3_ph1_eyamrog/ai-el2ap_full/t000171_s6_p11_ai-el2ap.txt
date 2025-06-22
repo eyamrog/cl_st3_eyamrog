@@ -1,0 +1,7 @@
+The heterogeneous distribution of COVID-19 across the territory corresponds with
+areas of highest affluence within the state. This pattern suggests
+that the most interconnected regions experienced greater increases in incidence
+and mortality during the initial phase of the pandemic. Consequently,
+testing rates increased in these areas, with rapid tests being
+widely implemented across all regions and RT-PCR tests being prioritized
+in locations with higher mortality rates.

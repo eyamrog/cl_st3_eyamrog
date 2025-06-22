@@ -1,0 +1,4 @@
+The databases used were: Eric, Scopus and Google School. In
+these three databases, the following search terms were used: “gestures”
++ “learning” and, in both three search platforms, the search
+period between 2000 and 2019 was selected.

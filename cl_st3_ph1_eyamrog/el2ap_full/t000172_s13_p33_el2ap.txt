@@ -1,0 +1,21 @@
+Several drugs have recently been used to inhibit SARS-CoV-2 replication,
+including the adenosine analog remdesivir, which targets the RNA dependent
+RNA polymerase and is incorporated into viral RNA chains, resulting
+in premature termination. Remdesivir was firstly shown to be effective
+against the Ebola virus (Warren et al. 2016) but presents
+activity against other viruses, including members of the Filoviridae, Paramyxoviridae,
+Pneumoviridae, and Orthocoronavirinae families (Brown et al. 2019). Remdesivir inhibits
+SARS-CoV and MERS-CoV (Sheahan et al. 2017), even though the
+identity among the coronaviruses RdRps range from 70-90%, remdesivir shows
+a broad spectrum of activity (Brown et al. 2019). Recently,
+a study showed that remdesivir also acts against SARS-CoV-2, according
+to its potential antiviral mechanism as a nucleotide analog (Wang
+et al. 2020b). Other nucleotide analogs, such as Ribavirin, Sofosbuvir,
+Galidesivir, and Tenofovir, can bind to SARS-CoV-2 RdRp (Elfiky 2020).
+Favipiravir, a purine analog used against Influenza, is being tested
+against COVID-19 and reduced the time for viral clearance compared
+to patients treated with lopinavir/ritonavir (Cai et al. 2020). There
+are currently ongoing clinical trials to evaluate Remdesivir and Ribavirin
+against COVID-19, regardless of its cost and administration routes there
+are also concerns regarding its side effects and efficacy (Khalili
+et al. 2020).

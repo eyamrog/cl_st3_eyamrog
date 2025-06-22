@@ -1,0 +1,16 @@
+Table 4 indicates that there are no strong or very
+strong correlations among the Indicators, and only one moderate correlation
+is observed, specifically a positive correlation between “Graduating on time
+(bachelors)” and “Graduating on time (masters)”. This suggests that institutions
+with higher rates of on-time graduation at the bachelor’s level
+also tend to have higher rates at the master’s level,
+with a moderate degree of association. All other correlations among
+the Indicators are weak, indicating that the four Indicators within
+the “Teaching and Learning” Dimension exhibit a substantial degree of
+independence from one another. This independence suggests that these Indicators
+are appropriate for measuring the Dimension. The average magnitude of
+the correlations among all Indicators in this Dimension is 0.2005,
+with a standard deviation of 0.2443, representing the lowest average
+among all Dimensions analyzed. These findings support the validity of
+this Dimension for the group of institutions examined in this
+study.

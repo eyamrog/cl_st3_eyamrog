@@ -1,0 +1,5 @@
+The unit root test based on soft transition, originally developed
+by Leybourne, Newbold, and Vougas (1998), was subsequently extended to
+incorporate two soft transitions and introduced into the literature by
+Harvey and Mills (2002). In addition, three distinct models were
+formulated for application within this testing framework.

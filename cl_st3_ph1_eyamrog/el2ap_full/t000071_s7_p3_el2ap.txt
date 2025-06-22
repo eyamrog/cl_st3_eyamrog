@@ -1,0 +1,19 @@
+First of all, our findings bear directly on the reputation
+of PKP’s software and those who employ it for their
+journals, as well as on the reason for this open
+source software project, which is to support open access to
+research as a human right and provide a means of
+improving this body of work. The data from the OJS
+journals used in this analysis have been made available for
+purposes of reproducibility and further studies, as a check on
+possible bias (Khanna et al., 2021). A second conflict of
+interest is rooted in how open source software projects, such
+as OJS, are generally committed to respecting users’ “freedom to
+run the program for any purpose,” to cite a common
+open source software definition (Wheeler, n.d.).5 Yet rather than taking
+the typical open source “hands-off” approach to software’s users, we
+are prepared to intervene out of a responsibility to assess
+and affect where OJS fits into the “predatory” picture. Our
+goal is to better understand the role that open source
+software and open infrastructure platform developers can play in addressing
+this issue.

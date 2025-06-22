@@ -1,0 +1,7 @@
+In the presence of significant heterogeneity or inconsistency, subgroup analyses
+will be conducted. When feasible, the following variables will be
+examined: age, sex, comorbidities, strategies implemented to address the pandemic
+threat (such as quarantine, lockdown, and social distancing), and disease
+severity. Additionally, sensitivity analyses will be performed to assess the
+impact of including studies with a high risk of bias
+and missing data.

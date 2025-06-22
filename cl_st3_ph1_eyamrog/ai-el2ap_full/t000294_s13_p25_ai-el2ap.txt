@@ -1,0 +1,18 @@
+The estimated case doubling time for Canada and the United
+States up to March 24 was approximately two and a
+half days. By April 7, this interval had increased to
+around seven days, indicating a reduction in the rate of
+case growth, although the total number of cases remained a
+concern. In contrast, Colombia and Brazil exhibited different trends during
+the same period, with their doubling times increasing—reflecting a slower
+rate of infection—until March 29 and 30, respectively. However, by
+April 3, Brazil experienced a higher transmission rate, with the
+doubling interval slightly exceeding four days, highlighting the need for
+strengthened containment measures to effectively limit the epidemic’s progression. By
+the end of the observation period on April 18, doubling
+times had generally increased across the region, indicating a further
+reduction in the rate of infection. Specifically, in Mexico, Bolivia,
+Peru, and Brazil, cases were projected to double in up
+to eight days, while the remaining countries depicted in Figure
+4 exhibited doubling intervals exceeding eleven days, reaching up to
+eighteen days in Colombia.

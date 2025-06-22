@@ -1,0 +1,7 @@
+Socioeconomic status indicators, including the Municipal Human Development Index (MHDI),
+Income Concentration Index (GINI Index), average household income per capita,
+percentage of the population earning less than half the minimum
+wage, unemployment rate, and percentage of female-headed households, were obtained
+from the Brazilian Institute of Geography and Statistics website. The
+Social Vulnerability Index (SVI) was sourced from the Institute of
+Applied Economic Research.

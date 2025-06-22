@@ -1,0 +1,7 @@
+Figure 3 shows the evolution of the number of deaths
+per day for São Paulo City. The steep rise until
+April 5th climbs at a rate of 3.1 deaths per
+day. Like what was seen regarding the behavior for the
+state’s population, there is a flattening of cases after April
+5th. However, the increase in the number of cases after
+April 19th is not as visible in this case.

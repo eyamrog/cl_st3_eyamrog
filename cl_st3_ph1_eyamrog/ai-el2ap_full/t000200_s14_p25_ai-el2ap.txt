@@ -1,0 +1,12 @@
+For each region, in addition to reporting leptospirosis rates, the
+strength of the associations between month of occurrence and leptospirosis
+rate is presented using the correlation coefficient (r) and the
+coefficient of determination (R²), which indicates the proportion of variation
+in disease occurrence explained by the independent variable. To interpret
+temporal trends, both the beta coefficient (b) and the Monthly
+Percentage Variation (MPV) were calculated; the MPV is derived by
+applying a logarithmic transformation to the Y values in the
+time series, which helps to reduce heteroscedasticity in the regression
+residuals, and is calculated using the formula: MPV = [-1
++ 10^b1] × 100%. The direction of the trends (increase,
+decrease, or stability) and their corresponding p-values are also reported.

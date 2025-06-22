@@ -1,0 +1,6 @@
+To verify that the series identified as having unit roots
+by the nonlinear unit root tests (Table 3) are integrated
+of order one (I(1)), the Augmented Dickey-Fuller (ADF) and Phillips-Perron
+(PP) tests were conducted on their first differences (Table 4).
+After establishing the stationarity of the series at the first
+difference, cointegration tests were subsequently performed.

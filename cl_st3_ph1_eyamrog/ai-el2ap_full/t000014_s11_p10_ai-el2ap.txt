@@ -1,0 +1,8 @@
+Researchers who have experience transferring field recordings from obsolete media
+(such as cassette tapes) to newer formats, attempting to open
+legacy files in updated software, or searching for compatible programs
+to access outdated file types are familiar with the challenges
+associated with format migration. However, when language documentation materials are
+archived in a digital repository, concerns about format migration are
+mitigated, as this process is incorporated into the archival workflows
+managed by the repository’s staff.

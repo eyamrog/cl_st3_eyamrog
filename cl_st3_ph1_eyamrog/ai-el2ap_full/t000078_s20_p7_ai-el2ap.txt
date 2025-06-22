@@ -1,0 +1,6 @@
+The econometric approach aims to validate the SBD candidates identified
+in the previous subsection. In the initial analysis, the models
+are estimated without including SBD controls. This procedure is intended
+to examine the behavior of the coefficient associated with the
+distance from the CBD, under the assumption that the Municipality
+of São Paulo functions as a monocentric city.

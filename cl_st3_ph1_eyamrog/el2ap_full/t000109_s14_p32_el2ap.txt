@@ -1,0 +1,9 @@
+- T: This state represents the work or study location
+of each Ha. This point on the geographical map can
+be shared by multiple human agents. For some Ha, it
+coincides with that of their home (for those who do
+not work or study). The work/study location is fixed for
+each Ha, and it is selected at the beginning of
+the run from a list of possible places. Each place
+has different probabilities of being selected for human agents according
+to their age ranges.

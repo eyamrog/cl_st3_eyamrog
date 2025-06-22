@@ -1,0 +1,9 @@
+Although two-part adjacency pairs are prevalent in conversation, this framework
+does not account for all types of spoken interaction. For
+example, classroom discourse, interrogations, service encounters, and various other forms
+of everyday communication often involve exchanges that include a third
+move. These conversational routines provide participants with the opportunity to
+confirm mutual understanding of the preceding pair's function, to comment
+on the ongoing exchange, or to respond to the reply
+within the context of the initial utterance (Sinclair, 1992, p.
+85).

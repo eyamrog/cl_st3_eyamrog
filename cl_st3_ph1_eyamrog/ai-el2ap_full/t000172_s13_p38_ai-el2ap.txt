@@ -1,0 +1,10 @@
+Tocilizumab is a humanized monoclonal antibody targeting the interleukin-6 receptor
+(IL-6R), thereby inhibiting IL-6 signaling. Preprint studies suggest that tocilizumab
+is safe and demonstrates efficacy in the treatment of COVID-19.
+However, due to the limited availability of comprehensive clinical trial
+data, its use is currently recommended primarily for critically ill
+patients exhibiting elevated IL-6 levels (Zhang et al. 2020a). Preliminary
+clinical evidence also supports the administration of repeated doses (Luo
+et al. 2020). Reported concerns associated with tocilizumab include the
+potential development of osteonecrosis of the jaw and acute hypertriglyceridemia
+(Bennardo et al. 2020; Morrison et al. 2020).

@@ -1,0 +1,12 @@
+To address the second research question regarding the relationship between
+participants’ attitudes and their emoji use, Spearman’s rho analyses were
+conducted using participants’ posttest scores and their recorded emoji use.
+Due to attrition, only 61 participants completed both the pretest
+(which included demographic information) and the posttest; consequently, analyses related
+to emoji use were limited to these 61 participants for
+the second and third research questions. For the third research
+question, which examined the associations between age, gender, and emoji
+use, Spearman’s rho analyses were performed to assess the relationship
+between age and emoji use, while independent samples t-tests were
+conducted with gender as the independent variable and emoji use
+as the dependent variable.

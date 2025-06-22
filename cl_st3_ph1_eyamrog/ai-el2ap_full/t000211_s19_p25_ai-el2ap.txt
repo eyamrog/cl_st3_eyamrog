@@ -1,0 +1,3 @@
+Elective surgeries were maintained only if they were expected to
+have an immediate impact on patients’ quality of life, reduce
+mortality, or decrease the risk of amputation.

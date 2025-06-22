@@ -1,0 +1,10 @@
+The use of scientific bibliometric indices such as the Journal
+Impact Factor (JIF) has increased significantly over the past two
+decades as a means to objectively assess academic performance in
+a highly competitive environment. However, numerous studies have identified significant
+limitations and unintended negative consequences associated with the reliance on
+JIF for evaluating both individual researchers and institutions (e.g., Hecht
+et al. 1998; Alberts 2013; Chapman et al. 2019). The
+emphasis on publishing in high-impact journals has contributed to what
+has been described as an excessive focus on JIF (Ioannidis
+& Thombs 2019).

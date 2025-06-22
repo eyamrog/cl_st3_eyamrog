@@ -1,0 +1,9 @@
+Chloroquine (CQ) and hydroxychloroquine (HCQ) have demonstrated anti-inflammatory properties and
+have been utilized in the treatment of inflammatory conditions such
+as rheumatoid arthritis and osteoarthritis (Sharma 2020). These agents disrupt
+lysosomal acidification, thereby inhibiting antigen presentation, phospholipase A2 activity, Toll-like
+receptors (TLRs), T and B cell receptor signaling, and the
+production of cytokines including interleukin-1 (IL-1) and interleukin-6 (IL-6) (Sinha
+and Balayla 2020). Additionally, the inhibition of glycogen synthase kinase
+3 beta (GSK3β) by CQ may contribute to its immunomodulatory
+effects in the context of COVID-19 (Embi et al. 2020).

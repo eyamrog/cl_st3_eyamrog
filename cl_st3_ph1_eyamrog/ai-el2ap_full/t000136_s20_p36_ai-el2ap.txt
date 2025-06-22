@@ -1,0 +1,7 @@
+The overall model adjustment was assessed using the Goodness-of-Fit index
+(GoF), which yielded a value of 0.4177. According to the
+gradation proposed by Wetzels et al. (2009), a GoF value
+of 0.1 is considered low, 0.25 is considered average, and
+0.36 is considered high. Based on these criteria, the model
+in the present study demonstrates a high level of overall
+fit.

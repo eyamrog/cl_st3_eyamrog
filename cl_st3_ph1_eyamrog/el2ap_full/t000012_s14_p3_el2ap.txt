@@ -1,0 +1,4 @@
+To uncover the differences between the means of H of
+families and cleaners, we used a Paired T-Test to determine
+whether the mean difference between these two sets of H
+is zero. Standard deviation and P-value were also calculated.

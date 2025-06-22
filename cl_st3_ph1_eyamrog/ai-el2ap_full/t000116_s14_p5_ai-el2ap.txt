@@ -1,0 +1,12 @@
+We analyzed the data for the 19 groups of causes
+across the three periods by calculating the means, standard deviations,
+and quartiles for each group in each period. These descriptive
+statistics were visually examined using box plots to facilitate comparison
+among groups and periods. To ensure the validity of mean
+comparisons, we assessed the normality of the data distributions using
+the Shapiro-Wilk test and evaluated homoscedasticity with the Levene test.
+In addition to determining whether statistically significant differences existed among
+groups, we aimed to identify specific differences between pairs of
+periods (period one vs. period two, period one vs. period
+three, and period two vs. period three). Therefore, we employed
+both ANOVA and a post-hoc analysis using the Tukey test.

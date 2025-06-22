@@ -1,0 +1,10 @@
+Publication in English is associated with a higher average number
+of authors per article compared to other languages. Specifically, English-language
+articles have an average of 4.3 authors, while Portuguese-language articles
+have an average of 3.3 authors, and Spanish-language articles have
+an average of 2.7 authors. The relatively high average for
+Brazil is also related to the tendency of Brazilian authors
+and journals to publish articles with two or more authors.
+This pattern, with English having the highest average number of
+authors followed by Portuguese and then Spanish, is consistent across
+all subject areas.

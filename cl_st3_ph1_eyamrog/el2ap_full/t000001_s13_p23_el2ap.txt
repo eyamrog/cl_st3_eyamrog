@@ -1,0 +1,16 @@
+Heterogeneity occurs when there is not a single underlying genome
+but rather a mixture of two or more alternatives. This
+can occur at small scales (e.g. a mixture of different
+bases at a locus) or large scales (e.g. a mixture
+of structural configurations). When heterogeneity occurs at a low level
+(e.g. 95% of the reads support one sequence and 5%
+another), it does not typically cause problems as assemblers/polishers will
+use the more common alternative. However, balanced heterogeneity (e.g. a
+50:50 mixture) can cause misassemblies and polishing mistakes. The phase
+variation of the fim switch is one cause of heterogeneity
+in Enterobacteriaceae44 (Figure 2E). Another common example occurs with bacteriophages,
+which can integrate into and excise from bacterial chromosomes45 (Figure
+2F). Heterogeneity can be identified by incomplete assembly graphs and
+dense clusters of changes made by a polisher. It may
+then be necessary to manually exclude reads which support one
+alternative, allowing the other alternative to assemble/polish cleanly.

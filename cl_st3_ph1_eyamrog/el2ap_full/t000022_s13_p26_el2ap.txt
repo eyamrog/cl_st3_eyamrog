@@ -1,0 +1,17 @@
+Along similar lines, trends analogous to those mentioned above can
+be analyzed by observing articles by authors of different countries
+and the country of the journal (see Figure 7). The
+first thing that emerges from this analysis is that, for
+the countries in question, articles are published above all in
+journals of the same countries as the authors. This feature
+is particularly pronounced in the case of authors from Brazil:
+93.7% of the articles which they author are published in
+journals of Brazil. Chile comes second, yet it represents only
+1.6% of the total of articles. In bibliometric studies based
+on the mainstream indexing sources, this characteristic is generally interpreted
+as academic inbreeding, thus frequently resulting in a negative assessment.
+In the following section we propose an alternative approach which
+contrasts with simply attributing this national collaboration to practices of
+academic inbreeding. It is based on a detailed study of
+the relevant number of articles authored by Brazilians and published
+in Brazil.

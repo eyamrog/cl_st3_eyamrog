@@ -1,0 +1,8 @@
+Of Brazil’s 5,570 municipalities, 99.9% were included in the present
+sample. Table 1 presents the rates of medical procedures and
+the corresponding characteristics of the covariates. The mean rate of
+medical appointment procedures per 10,000 inhabitants per month was 424.1
+(SD 5,626.2) in the period prior to the pandemic and
+232.7 (SD 1,471.3) during the pandemic period. The mean rate
+of prenatal procedures was 23.6 (SD 759.8) before the pandemic
+and 13.2 (SD 650.6) during the pandemic.

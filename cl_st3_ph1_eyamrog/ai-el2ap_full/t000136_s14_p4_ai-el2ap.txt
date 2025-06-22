@@ -1,0 +1,3 @@
+The sample was constructed using a simple random sampling method
+from the list of non-profit organizations (NPOs) registered in the
+National Register of Environmental Entities (CNEA) in Brazil.

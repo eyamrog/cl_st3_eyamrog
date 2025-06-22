@@ -1,0 +1,27 @@
+We determined the fracture toughness of leaf laminae using the
+Lucas Scientific FLS-1 portable mechanical tester (FLS-1, São Paulo, Brazil),
+following a standard scissors test protocol as described by Lucas
+and Pereira (1990) and Lucas et al. (2001). At four-hour
+intervals, a new flat section from the center of the
+leaf lamina, oriented parallel to and between secondary veins, was
+excised using a razor blade. Strips measuring 2.5 mm in
+length and 1.5 mm in width were mounted perpendicularly between
+the blades of the scissors attached to the mechanical tester.
+The crosshead of the tester lowered the blade handle, and
+the load required to cut through the leaf section was
+recorded as a function of displacement, yielding the total work
+performed (Wc). Subsequently, the scissors were returned to their initial
+position, the leaf sample was removed, and the scissors were
+operated again over the same displacement without a sample to
+measure the frictional work (Wf), referred to as the "empty
+pass." The frictional work from the empty pass was subtracted
+from the total work to obtain the fracture work. Prior
+to each test, the scissor blades were cleaned to eliminate
+any residue from previous samples. The length of the cut
+(L; mm) and the thickness of the leaf lamina (t;
+mm) were measured using a sensitive dial caliper, and the
+cleaved area was calculated as the product of thickness and
+cut length. Fracture toughness (R; J m⁻²) for each sample
+was calculated as the fracture work divided by the cleaved
+area, using the formula R = (Wc - Wf) /
+(L × t).

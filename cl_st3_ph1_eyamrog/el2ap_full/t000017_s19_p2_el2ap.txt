@@ -1,0 +1,6 @@
+The multivariate normality distribution was analyzed, through the estimation of
+the skewness and kurtosis indices, the fulfillment of the normality
+assumption is confirmed when the scores of the indices are
+within the threshold ± 1.5 (Cuadras, 2016) (Table 4). The
+KMO test indicated that the data can be subjected to
+factor analysis (KMO = .81).

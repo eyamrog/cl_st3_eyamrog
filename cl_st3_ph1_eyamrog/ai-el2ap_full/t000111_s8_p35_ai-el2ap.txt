@@ -1,0 +1,5 @@
+In more recent research, wh-movement has been analyzed as the
+outcome of a feature-checking operation required to verify a strong
+[+wh] feature present in a wh-operator. This operation is argued
+to be possible only within a specific structural configuration, specifically
+a Specifier-Head (Spec-head) configuration (Cheng, 1991; Rizzi, 1991).

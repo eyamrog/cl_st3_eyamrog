@@ -1,0 +1,18 @@
+This study investigates (a) differences in ambiguity resolution among English,
+Spanish, and Portuguese; (b) the influence of learners’ first language
+(L1) on ambiguity resolution in a second language (L2); and
+(c) the effects of clause order, (d) anaphor salience, and
+(e) verb choice on this process. A total of 181
+participants completed an online survey in which they selected the
+antecedent of the anaphor in 16 ambiguous sentences. The Position
+of Antecedent Strategy was evaluated across the three languages, and
+the results indicate that this strategy is applicable to both
+European and Brazilian Portuguese, but not to Spanish or English.
+Native speakers of Spanish and English generally interpret the subject
+of the subordinate clause as corresponding to the subject of
+the main clause, whereas L2 learners are influenced by their
+L1 and exhibit particular uncertainty in resolving pronominal cataphora. The
+findings also demonstrate that semantic factors significantly affect the resolution
+of ambiguous anaphora in these languages, and it is recommended
+that such factors be considered in the design of similar
+studies.

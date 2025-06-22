@@ -1,0 +1,10 @@
+Initially, we merged the data according to the Brazilian Institute
+of Geography and Statistics (IBGE) code for the municipalities and
+prepared the descriptive statistical analyzes as follows: cities that exhibited
+more than two standard deviations from the mean in the
+distribution of rapid tests (>12.58) and RT-PCR tests (>4.84) were
+excluded due to the noise of these outliers in the
+general data, thus resulting in the exclusion of 23 cities
+for rapid tests and 28 for molecular tests. Then, mean,
+median and quartiles for city distributions according to the type
+of test were generated.

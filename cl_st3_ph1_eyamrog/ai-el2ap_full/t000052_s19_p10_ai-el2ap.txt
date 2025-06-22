@@ -1,0 +1,3 @@
+The variables Hv_e and Pe exhibited the lowest values among
+those analyzed, indicating that they contributed the least to the
+overall results.

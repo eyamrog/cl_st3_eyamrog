@@ -1,0 +1,6 @@
+Conclusions: The inclusion criteria employed by LILACS effectively mitigate potential
+pro-endogeneity effects that university ownership may exert on regional journals.
+When evaluating journals, it is important to consider journal size
+in the analysis of authorship concentration indexes. A formal derivation
+of the relationship between these indexes and journal size would
+enable a more precise interpretation of authorship concentration metrics.

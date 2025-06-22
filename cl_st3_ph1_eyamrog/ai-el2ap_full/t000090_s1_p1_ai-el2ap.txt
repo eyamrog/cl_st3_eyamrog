@@ -1,0 +1,13 @@
+This paper examines the dimensions and indicators of the academic
+international multidimensional ranking system “U-Multirank.” The analysis of this ranking
+is particularly relevant in the current Brazilian context, as the
+new evaluation framework for graduate programs in Brazil incorporates several
+aspects of multidimensional assessment, including concepts derived from U-Multirank. U-Multirank
+identifies the strengths and weaknesses of academic institutions by employing
+five dimensions, which are further divided into 36 indicators. While
+this extensive set of dimensions and indicators provides a more
+comprehensive assessment of universities, it also raises concerns regarding the
+independence of the indicators and the availability of reliable data.
+The study analyzes the top 300 European academic institutions listed
+in the 2020 edition, describes the dimensions and indicators used,
+and conducts statistical correlations among them.

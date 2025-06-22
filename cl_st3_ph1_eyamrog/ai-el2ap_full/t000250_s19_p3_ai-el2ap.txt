@@ -1,0 +1,11 @@
+The median anxiety symptom score in the overall sample was
+6.00 (IQR = 11.0), with a mean of 9.01 (SD
+= 9.12) points on the BAI scale. Participants who engaged
+in ≥30 minutes of moderate-to-vigorous physical activity (MVPA) per day
+reported significantly lower anxiety symptoms compared to those who engaged
+in <30 minutes per day (adjusted mean difference [AMD] =
+-0.759; 95% CI: -1.312 to -0.206; p = 0.007). Additionally,
+individuals who spent <10 hours per day in sedentary behavior
+(SB) reported significantly lower anxiety symptoms than those who spent
+≥10 hours per day in SB (AMD = -1.665; 95%
+CI: -2.869 to -0.461; p = 0.007).

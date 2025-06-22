@@ -1,0 +1,10 @@
+In addition, the sample size satisfies the recommended minimum of
+200 participants for advanced statistical analyses, such as confirmatory factor
+analysis (Watkins, 1989). The Structural Equation Model used in the
+factor analysis demonstrated an excellent fit, as indicated by the
+following indices: CFI = 0.93, TLI = 0.96, RMSEA =
+0.041, GIF = 0.92, AGIF = 0.89, and NNFI =
+0.92. The reliability of the factors, as measured by Cronbach's
+α and McDonald's ω, as well as the overall reliability
+of the scale, were satisfactory, with coefficients exceeding 0.80 for
+α and 0.81 for ω, respectively (Bentler, 1995).

@@ -1,0 +1,14 @@
+Once we completed this first stage, we performed a visual
+inspection of the time series to recognize changes in the
+pattern of total hospitalizations and groups within the three periods,
+considering the sequential information from the three periods previously described.
+We used segmented linear regression models of interrupted time series
+(ITS) to determine the effect of changes in primary care
+policy across all ACSC groups. When estimating the effects, ITS
+models adjust to pre-existing trends before the policy change and
+can detect changes in the pattern and level of the
+trend. We built the segmented linear regression models using the
+Prais method. The models included three segments, referring to the
+periods previously described. We adjusted the baseline segment (January 2008
+to December 2009) with an intercept and a trend estimate
+variable.

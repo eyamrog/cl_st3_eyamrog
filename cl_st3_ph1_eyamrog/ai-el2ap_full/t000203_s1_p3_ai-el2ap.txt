@@ -1,0 +1,7 @@
+Methods: The second phase of a three-phase data survey was
+conducted using official sources to obtain the number of COVID-19
+cases and deaths between April 11 and May 11, 2020.
+Incidence, mortality, and case fatality rates were calculated and compared
+among predefined groups based on their BCG vaccination programs. Additionally,
+the acceleration rate of cases and deaths during the study
+period was calculated and compared between these groups.

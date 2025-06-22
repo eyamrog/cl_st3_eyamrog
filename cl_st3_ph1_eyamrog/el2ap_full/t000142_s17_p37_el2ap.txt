@@ -1,0 +1,3 @@
+After the residuals are obtained, the ADF regression is established
+in the second phase, and the unit root test is
+performed over this regression (Equation 15).

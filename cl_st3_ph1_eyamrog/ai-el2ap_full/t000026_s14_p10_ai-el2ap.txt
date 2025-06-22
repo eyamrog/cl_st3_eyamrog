@@ -1,0 +1,7 @@
+The data were entered into a Microsoft Excel spreadsheet using
+double data entry and subsequent validation to minimize potential errors.
+The validated data were then exported to the Statistical Package
+for the Social Sciences (SPSS) version 25.0 for analysis. Sociodemographic
+and clinical profile variables were described using absolute and relative
+frequencies. The Kolmogorov–Smirnov test with Lilliefors correction was applied to
+assess the assumption of normality.

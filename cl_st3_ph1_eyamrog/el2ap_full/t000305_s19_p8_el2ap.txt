@@ -1,0 +1,16 @@
+The calculations for a better understanding of the speed variations
+of the incidence and lethality curves in the different countries
+were made considering the initial acceleration (IA), in cases/d²/100,000 inhab.,
+extracted from the date of case 1 until case 100
+and the final acceleration (FA), in cases/d²/100,000 inhab., extracted from
+the date of the case 101 until the cases of
+April 11, 2020 (Figs. 1–3). Subsequently, the ratio between the
+acceleration of current deaths (cases > 101) and the acceleration
+of initial deaths (cases 0–100) was obtained. This calculation generates
+a nondimensional value, where countries with values > 1 are
+in the phase of increasing the speed of cases and
+values < 1 are the ones that the speed of
+mortality per 100,000 inhabitants decreased. Only four countries: Japan, Israel,
+Chile, and Hungary (Fig. 4) had values < 1; the
+United States had the highest ratio with an index of
+354.

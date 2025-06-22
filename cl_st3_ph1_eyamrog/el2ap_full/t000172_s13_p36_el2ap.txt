@@ -1,0 +1,21 @@
+Moreover, CQ and HCQ have shown some in vivo effects
+against SARS-CoV-2 (Wang et al. 2020b). A group of Chinese
+researchers recently reported beneficial effects of chloroquine in the treatment
+of COVID-19, however, without yet publishing data (Gao et al.
+2020). Another group of French researchers reported that hydroxychloroquine decreased
+SARS-CoV-2 levels in a small group of tested patients, and
+the administration of azithromycin appears to improve such effects (Gautret
+et al. 2020). A recent review analyzed several ongoing clinical
+trials and indicates there are paradoxical results, some have shown
+beneficial results, others point to the toxicity issues (Sharma 2020).
+One important point is that there are different strains of
+SARS-CoV-2 circulating (Wang et al. 2020a). Importantly, CQ has pro-apoptotic
+activity and the prophylactic use of CQ has been linked
+to the selection of intracellular pathogen strains that promote cell
+resistance to apoptosis and enhanced lethality, as observed for HIV
+and SARS-CoV (Parris 2004). Despite being a low-cost drug, it
+is a consensus among health agencies such as the WHO
+that further studies are needed for the clinical use of
+CQ and HCQ for COVID-19 treatment. Until now, 390 clinical
+trials are registered using HCQ or CQ to enlighten their
+role in SARS-CoV-2 infection treatment (Cochrane COVID-19 Study register).

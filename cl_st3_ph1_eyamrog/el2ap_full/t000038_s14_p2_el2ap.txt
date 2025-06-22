@@ -1,0 +1,8 @@
+We implemented EFA using a Polychoric Matrix and Robust Diagonally
+Weighted Least Squares (RDWLS) extraction method. RDWLS is advised when
+the univariate distributions of ordinal items are asymmetric) (Asparouhov e
+Muthén 2010). We used the Parallel Analysis with random permutation
+as an improved method to asses dimensionality. We based the
+decision of dimensionality on the percentage of common explained variance
+(Timmerman e Lorenzo-Seva 2011). As a rotation technique, we used
+the Robust Promin (Ferrando e Lorenzo-Seva 2018).

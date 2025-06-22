@@ -1,0 +1,4 @@
+The proposed theory to explain the development of neurological symptoms
+in SARS-CoV-2 infection suggests that viral activity leads to the
+internalization of angiotensin II receptors in the nucleus of the
+solitary tract, resulting in altered baroreflex responses.

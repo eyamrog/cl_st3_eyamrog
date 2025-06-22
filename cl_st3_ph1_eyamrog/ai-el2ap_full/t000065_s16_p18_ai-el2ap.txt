@@ -1,0 +1,18 @@
+The studies conducted with our learner corpus thus far demonstrate
+the extent to which targeted corpus analysis can enhance the
+understanding of learners’ linguistic needs, taking into account the register
+in which they wrote, their proficiency level, and the types
+of tasks performed. The overarching objective of such research is
+to address learners’ specific difficulties, thereby enabling the development of
+more precisely tailored activities and the potential redesign of course
+syllabi. An illustrative example of integrating interlanguage analysis with classroom
+activities is provided by Alves and Pinto (2018). In their
+study, the reporting of results and conclusions in abstracts was
+examined using two apprentice corpora: CorIFA and MICUSP. The analysis
+of CorIFA offered authentic examples of learner language, while access
+to MICUSP facilitated a corpus linguistics pedagogical approach known as
+Do-it-Yourself (DIY) corpora (McEnery et al., 2006). Students compiled their
+own study corpus, which increased their awareness of strategies to
+improve subsequent drafts of their abstracts. MICUSP was particularly suitable
+for DIY activities because it comprises well-evaluated university papers, and
+its online platform allows users to select discipline-specific texts.

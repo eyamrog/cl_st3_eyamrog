@@ -1,0 +1,4 @@
+COVID-19 is resistant to environmental changes and is susceptible only
+to a very high relative humidity (RH), above 80%, and
+a temperature above 30°C, which is not acceptable in terms
+of thermal comfort.

@@ -1,0 +1,9 @@
+Duranton and Puga (2015) point out no agreement regarding a
+consistent definition of SBD. Many authors have considered the contiguity
+areas as an empirical strategy to overcome the challenge of
+quantifying SBD (Guiliano and Small, 1991; McMillen, 2003; Baumont, Ertur,
+and Gallo, 2004). Following the theoretical models, areas whose estimated
+coefficients are statistically significant and negative are taken as SBD.
+Under this criterion, from the estimated model, the city of
+São Paulo presents seven SBDs, which give a negative and
+statistically significant global effect (direct and indirect).

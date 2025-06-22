@@ -1,0 +1,12 @@
+Application of Lotka's law reveals an inverse relationship between the
+number of authors and the number of articles produced, indicating
+that as the number of articles increases, the number of
+contributing authors decreases. The constant identified in Figure 2 supports
+the established principle that a small number of authors contribute
+a large proportion of publications, while many authors contribute fewer
+works. This finding addresses the constraints associated with the biosafety
+level 4 requirement for SARS research and is directly linked
+to increased funding for studies on infectious diseases such as
+HIV/AIDS. Previous studies have reported that funding positively influences research
+outcomes and the citation rates of publications related to specific
+diseases.

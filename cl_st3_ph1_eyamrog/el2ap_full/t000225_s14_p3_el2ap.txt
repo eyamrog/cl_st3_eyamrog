@@ -1,0 +1,3 @@
+For avoiding fluctuations and facilitating visual observations, each data point
+represents the average of five days: two days before, the
+data shown, and two days after the date shown.

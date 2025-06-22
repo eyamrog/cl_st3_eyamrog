@@ -1,0 +1,10 @@
+The optimal initial treatment strategy for multiple sclerosis (MS), specifically
+the choice between induction and escalation therapy, remains under discussion.
+Induction therapy involves the early use of high-efficacy treatments to
+achieve rapid control of disease activity. In contrast, escalation therapy
+typically begins with safer, lower-efficacy medications, with a transition to
+more potent agents only if clinical or radiological disease activity
+persists. Recent observational data indicate that induction therapy may be
+associated with reduced long-term disability, suggesting a potential advantage for
+this approach. However, these findings require confirmation through randomized controlled
+trials, such as the ongoing TREAT-MS and DELIVER-MS studies.

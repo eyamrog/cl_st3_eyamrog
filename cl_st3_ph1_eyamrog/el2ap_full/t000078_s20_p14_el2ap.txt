@@ -1,0 +1,5 @@
+The SLX model controlling for SBD presents the best theoretical
+and econometric adjustment. The CBD coefficients show the signals theoretically
+highlighted. Moreover, the discussion about SBD considers the log-level functional
+form since it presents higher R²-adjusted when compared to the
+level- level specification.

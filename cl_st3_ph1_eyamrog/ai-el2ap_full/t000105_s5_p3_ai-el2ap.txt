@@ -1,0 +1,8 @@
+According to the literature, several factors may account for the
+observed differences in SARS-CoV-2 infection rates between regions and among
+distinct population groups. These factors include variations in the stage
+of the epidemic, limited testing capacity, delayed case detection, differences
+in the implementation of control measures such as movement restrictions,
+as well as local sociodemographic and socioeconomic characteristics. Additionally, environmental
+and meteorological factors, including humidity and air pollution, have also
+been identified as potential contributors to these disparities [4,29].

@@ -1,0 +1,2 @@
+Estimates were obtained by Maximum Likelihood Estimators (MLE) which are
+consistent by optimizing first-order conditions stated as <>

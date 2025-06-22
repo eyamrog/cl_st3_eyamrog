@@ -1,0 +1,9 @@
+Although existing data indicate that patients with cancer who receive
+chemotherapy are at increased risk for severe complications from influenza,
+it remains uncertain whether these findings are applicable to COVID-19.
+A recent study reported a higher incidence and morbidity of
+COVID-19 among patients with cancer; however, these results have been
+directly contested by subsequent research. Preliminary data from Zhang et
+al. demonstrated a relatively high mortality rate, with 8 out
+of 28 (29%) hospitalized patients with COVID-19 who had a
+prior cancer diagnosis succumbing to the disease.

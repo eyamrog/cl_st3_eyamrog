@@ -1,0 +1,10 @@
+A simple linear regression analysis was performed using the values
+of the neuropsychological tests in the two provinces of the
+country. Neuropsychological variables were used as predictors (independent variable) and
+the dependent variables were the values of intellectual performance evaluated
+with the Raven (nonverbal) for preschoolers. A radial graph was
+used for the presentation of the results with the purpose
+of representing the neuropsychological profiles based on the weaknesses and
+strengths between both provinces of the country. In all cases
+when the significance of the test was less than 0.05,
+then we say that significant differences exist.

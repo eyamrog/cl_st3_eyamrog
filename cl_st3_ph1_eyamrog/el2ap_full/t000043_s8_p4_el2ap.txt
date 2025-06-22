@@ -1,0 +1,10 @@
+A SCCS design is suitable for independent recurrent events as
+well as rare non- recurrent events. Some of the assumptions
+that make SCCS applicable include: the observed events are rare;
+the occurrence of an event must not alter the probability
+of subsequent exposure that is, if the events are consecutive,
+they should be independent; the occurrence of the event of
+interest must not censor or affect the observation period and
+that the observation period for each individual is independent of
+the event times. The latter can be violated in the
+event of death (1,2,4,5,7).

@@ -1,0 +1,5 @@
+The design and implementation of this systematic review adhered to
+the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)
+guidelines [10]. Additionally, the research protocol was registered with the
+International Prospective Register of Systematic Reviews (PROSPERO) under registration number
+CRD42020178982 [11].

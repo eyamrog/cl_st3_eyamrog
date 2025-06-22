@@ -1,0 +1,2 @@
+- Health conditions: Self-perception of health, presence of physical pain,
+use of medications/supplements, weight, height, and perception of COVID-19.

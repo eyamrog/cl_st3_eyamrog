@@ -1,0 +1,4 @@
+While researchers in various fields of linguistics aim to understand
+variation and contextual differences, corpus linguistics specifically investigates language variation
+and usage by analyzing large collections of texts produced under
+comparable conditions (Crawford & Csomay, 2016, p. 5).

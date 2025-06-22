@@ -1,0 +1,17 @@
+Then there is the question of how the results of
+this and other verification systems, whether for peer reviews, indexing,
+and other elements, will be communicated to readers and authors.
+Here we have begun to develop a “Publication Facts” label,
+based on the common FDA Nutrition Facts label (Fig. 3).
+This approach will be not only be open to public
+scrutiny, following open science principles, but also assessed and refined
+with various audiences, from high school students to journalists, to
+ensure the label’s clarity and comprehensibility with researchers and members
+of the public who should be able to use the
+label to assess the trustworthiness of research articles.12 The label,
+which will be linked to individual studies, will provide metrics
+on their compliance with standards, along with detailed explanations of
+each standard and metric. Such labelling is intended to inform
+and educate the public and the professions on research standards,
+while providing a basis for readers to briefly consider or
+explore in more detail the trustworthiness of research publications.

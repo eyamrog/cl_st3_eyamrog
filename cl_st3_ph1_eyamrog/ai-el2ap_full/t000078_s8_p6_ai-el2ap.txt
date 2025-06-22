@@ -1,0 +1,7 @@
+In addition to the introduction, the paper is structured into
+five sections. The following section examines the concepts of monocentric
+and polycentric cities, with particular emphasis on the process of
+employment decentralization. The third section outlines the two-stage econometric identification
+strategy, presents the estimated results, and characterizes the SBD. Subsequently,
+the robustness tests are discussed. The final section offers concluding
+remarks, discusses potential extensions, and addresses the study’s limitations.

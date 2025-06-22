@@ -1,0 +1,7 @@
+In Table 1 we present that the incidence of COVID-19
+in unvaccinated individuals was 35.1% (95%CI 25.5 to 45.6), and
+in vaccinated individuals was 11.4% (95%CI 5.1 to 21.3). There
+was a statistically significant difference of COVID infected individuals in
+the unvaccinated group compared to the vaccinated group (𝝌2= 12.6,
+p=0.00). The Odds Ratio when comparing unvaccinated vs. vaccinated was
+of 4.19 (95%CI 1.79-9.8).

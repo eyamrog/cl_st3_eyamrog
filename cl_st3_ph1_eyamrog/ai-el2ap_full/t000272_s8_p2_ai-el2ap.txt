@@ -1,0 +1,21 @@
+Dental caries is a highly prevalent global disease (Bagramian et
+al. 2009). It is a multifactorial and chronic infectious condition
+caused by tooth-adherent bacteria, primarily Streptococcus species, which metabolize dietary
+sugars to produce acid, leading to the demineralization of tooth
+structure over time (Abranches et al. 2018). Streptococcus mitis, S.
+oralis, and S. salivarius are involved in the initial adhesion
+of bacteria to the tooth surface and can facilitate the
+colonization of other oral microbiota, including additional streptococci and periodontopathogens
+(Butler et al. 2017). Additionally, S. salivarius has been implicated
+in cases of meningitis (Falomir et al. 2014; Suy et
+al. 2013; Vignier et al. 2014), while S. oralis and
+S. mitis have been shown to enhance the virulence of
+Candida albicans (Palma et al. 2019) and are associated with
+bloodstream infections in pediatric patients (Basaranoglu et al. 2019). Streptococcus
+mutans is the microorganism most frequently associated with the development
+of dental caries, as it initiates tooth demineralization by acidifying
+the microenvironment and tooth surface (Abranches et al. 2018; Baker
+et al. 2016). Furthermore, S. mutans is linked to bacteremia
+and endocarditis (Nakano et al. 2005; Nakano et al. 2009).
+Therefore, research into effective strategies to minimize these infections is
+warranted.

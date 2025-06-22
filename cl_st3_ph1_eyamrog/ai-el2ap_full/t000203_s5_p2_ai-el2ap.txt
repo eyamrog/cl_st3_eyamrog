@@ -1,0 +1,19 @@
+A major criticism of the initial phase of this research
+was that, in the analysis conducted on April 11, the
+higher incidence, mortality, and lethality rates observed in countries without
+an active vaccination program could be attributed to these countries
+being, on average, ten days ahead in the epidemic timeline
+compared to countries with an active program. To address this
+potential temporal bias in the second phase, the analysis compared
+data from April 11 to May 11 for countries with
+active vaccination programs to data up to April 11 for
+countries without such programs. This approach effectively places the active
+vaccination group an average of 20 days ahead, thereby reducing
+the likelihood of time-related confounding present in the previous analysis.
+As shown in Tables 3, 4, and 5, even with
+this temporal adjustment, countries in the active vaccination group continue
+to exhibit lower incidence, mortality, and lethality rates. These findings
+challenge the hypothesis that the observed differences are solely due
+to temporal factors and support the conclusion that the severity
+of disease impact is not maintained over time in the
+same manner across groups.

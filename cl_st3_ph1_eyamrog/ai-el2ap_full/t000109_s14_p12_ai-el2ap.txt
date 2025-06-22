@@ -1,0 +1,10 @@
+In AbCSim, the transmission probability resulting from interpersonal contact is
+determined not only by epidemiological parameters but also by the
+variable v, which modulates the basic transmission rate (𝛽). The
+variable v changes throughout the year and is inversely proportional
+to the daily mean temperature, reflecting findings from studies that
+characterize COVID-19 as a seasonal disease [36][37][38]. Consequently, the value
+of 𝛽 is adjusted by v(Temp), which attains its maximum
+value of 1.0 on July 15 and its minimum value
+of 0.5 on January 15, corresponding to periods of lower
+and higher daily mean temperatures, respectively, in the southern hemisphere.

@@ -1,0 +1,8 @@
+All athletes completed the PMSL (Engelmann, 1986) in the locker
+room under three conditions: approximately 40 minutes before the final
+training session prior to the match (Training-Previous condition), approximately 40
+minutes before the match (Match condition), and approximately 40 minutes
+before the first training session following the match (Training-Post condition).
+Data collection occurred over three consecutive championship rounds, resulting in
+three assessments for each condition: Training-Previous (TR-PRE), Match (MATCH), and
+Training-Post (TR-POST).

@@ -1,0 +1,12 @@
+All the other countries have a more representative impact on
+SciELO CI, when they publish in Spanish, even the USA.
+Unlike what was observed with regard to the language of
+the articles cited, the SciELO CI regional database is a
+valuable resource and acts as a showcase for impact, when
+it comes to publications in Spanish or Portuguese. On the
+other hand, the effect of publications in English is more
+significant in the WoS database, particularly in the case of
+Brazil, followed by Colombia and Spain. It should be noted
+that the volume of citations to the USA, when published
+in English, is less than 9%, since their impact is
+mainly outside SciELO CI.

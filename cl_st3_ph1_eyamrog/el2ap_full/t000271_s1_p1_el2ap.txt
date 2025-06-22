@@ -1,0 +1,4 @@
+Background: In Brazil, mathematical models for deriving estimates and projections
+of COVID-19 cases have been developed without data on asymptomatic
+SARS-CoV-2 infection. We estimated the seroprevalence of antibodies to SARS-CoV-2
+among blood donors in the State of Rio de Janeiro.

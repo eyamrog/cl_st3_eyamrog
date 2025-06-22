@@ -1,0 +1,17 @@
+This section reviews previous studies that have utilized CorIFA in
+their research. Over the past six years, since its inception,
+the corpus has served as a valuable linguistic resource for
+Brazilian researchers. To date, research has primarily focused on describing
+learner language and comparing learners’ written interlanguage with data from
+other corpora through Contrastive Interlanguage Analysis (CIA), as discussed in
+Section 2. These studies predominantly analyze two academic genres—argumentative essays
+and abstracts—to examine learners’ use of English across different proficiency
+levels and to identify patterns of underuse or overuse of
+specific linguistic features. Most investigations employ a reference corpus consisting
+of either well-rated non-native speakers’ essays or native speakers’ texts.
+The linguistic features examined include linking adverbials, collocations, that-clauses, conjunctions,
+noun phrases, and passive constructions. For clarity, this section first
+presents an overview of one descriptive study and five studies
+employing the CIA approach, and concludes with a CorIFA-based study
+that investigates a pedagogical intervention, offering insights into the practical
+applications of learner corpus research.

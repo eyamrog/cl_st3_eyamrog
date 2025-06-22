@@ -1,0 +1,12 @@
+The analysis indicates that there are no “strong” or “very
+strong” correlations among the Dimensions, and only two “moderate” correlations
+are present: a positive correlation between “Research” and “Knowledge Transfer,”
+and a negative correlation between “Research” and “Regional Engagement.” This
+outcome is favorable for the ranking, as it suggests that
+the five Dimensions under study are largely independent. To illustrate
+these “moderate” correlations, Figure 6 presents the distribution of scores
+for both cases: panel (a) displays the data for “Research”
+and “Knowledge Transfer” (correlation coefficient = 0.5509), while panel (b)
+shows the data for “Research” and “Regional Engagement” (correlation coefficient
+= -0.4175). These plots are representative of moderate positive and
+negative correlations, respectively.

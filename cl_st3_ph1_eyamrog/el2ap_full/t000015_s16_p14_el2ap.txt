@@ -1,0 +1,14 @@
+The visibility and circulation of the JUOJS were assessed by
+determining the presence of these journals in 11 research indexes,
+directories, and lists. The analysis of the Web of Science
+Citation Reports and Cabells Predatory Reports involved drawing on Stanford
+University Library licensing agreements, with Cabells kindly determining the JUOJS
+in its database, based on its use of our data
+set. EBSCOHost, Scopus, OpenAlex, DOAJ, and Beall’s List make their
+respective journal lists publicly available. Bianca Kramer ascertained the number
+of JUOJS in ROAD (2022), while SerpApi generously assisted in
+assessing Google Scholar’s indexing of JUOJS. With each of the
+indexes, we then assess how well JUOJS are represented in
+the index by assessing overlap based on matched ISSNs, and/or
+matched journal URLs and domain names. The specific matching criteria
+used for each resource are also reported with Table 3.

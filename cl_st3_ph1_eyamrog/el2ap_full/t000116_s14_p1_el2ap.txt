@@ -1,0 +1,17 @@
+It is a time-series study conducted in the city of
+Rio de Janeiro, Brazil. The city of Rio de Janeiro
+has a history of expanding primary care coverage that has
+served as a successful case for the study of primary
+care in Brazil and the Americas20. We use data from
+the Department of Health, which contains monthly information on the
+number of hospitalizations in units of the public health system,
+which has universal coverage, for each disease code, between 2008
+and 2019, to assess hospitalization trends in three periods of
+great importance for primary care in the municipality: the period
+between January 2008 and December 2009, which corresponds to the
+period before the reorganization of the municipality's primary care, called
+Primary Health Care Reform (RCAPS); the period between January 2010
+and December 2017, which corresponds to the period of this
+reorganization; and the period between January 2018 and December 2019,
+which corresponds to the beginning of the changes brought about
+by the new National Primary Care Policy (PNAB).

@@ -1,0 +1,8 @@
+Rates are typically presented per 10,000 inhabitants; however, because this
+analysis is conducted by groups of causes, some of which
+are infrequent, the base was increased to 100,000 inhabitants to
+improve interpretability. Additionally, groups 17 and 19 in the classification
+correspond exclusively to female-specific causes, and thus, the denominator for
+these rates was restricted to the female population. Consequently, the
+overall rate was calculated as the sum of the rates
+for each group, according to the following formula: <>

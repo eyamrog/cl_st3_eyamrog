@@ -1,0 +1,19 @@
+The corpus data (Table 2) indicate substantial differences in average
+word length across registers. It comprises six written registers, each
+with a length ranging from 225.39 to 1,564.50 words. The
+research article register contains the highest word count among all
+registers analyzed. This finding is consistent with established linguistic research,
+which attributes such variation to the inherent characteristics of each
+register, including physical mode, setting, and production circumstances (Biber &
+Finegan, 1994). Certain registers, such as research articles, inherently require
+more words due to their structural and communicative demands. Specifically,
+research articles typically follow a standardized four-part organization—Introduction, Methods, Results,
+and Discussion (IMRD)—as described by Biber and Finegan (1994, p.
+131), which contributes to their greater length relative to other
+registers in the corpus. In contrast, the shortest texts produced
+by CorIFA participants were abstracts. Although abstracts are often considered
+components of research articles, their primary communicative function is to
+summarize the article by presenting its aims, methodology, results, and
+conclusions. Furthermore, journals and conferences frequently impose strict word limits
+on abstracts (Swales & Feak, 2009), necessitating conciseness on the
+part of the writer.

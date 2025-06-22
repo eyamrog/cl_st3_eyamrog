@@ -1,0 +1,19 @@
+Types of English spoken as an additional language10 far outnumber
+native-speaker varieties11 inspiring the study of non-native spoken or written
+English. This is the focus of ‘learner corpus research’12 (LCR),
+an umbrella term (Granger et al., 2015) to refer to
+interlanguage investigations that are based on corpus linguistics. A corpus
+is a “collection of pieces of language text in electronic
+form” (Sinclair, 2005: 19) compiled according to some criteria, and
+representing a language or language variety. Corpus compilation requires establishing
+precise and broadly-inclusive criteria for the consideration of the mode
+(e.g.,written), the type (e.g.,a research article) and the domain (e.g.,
+academic) of the texts, the language or language varieties (e.g.,learner
+English), location of texts (e.g.,compiled in Brazil) and text production
+dates (e.g., from 2015-2020), according to Sinclair (2005). With a
+focus on description of language use, corpus linguistics, using a
+range of linguistic software tools, allows both quantitative and qualitative
+approaches to learner language. Among its advantages are the capacity
+to deal with a considerable amount of data, and generalizability
+of results across similar groups. A well- designed corpus, therefore,
+is representative of a population. As Biber points out:

@@ -1,0 +1,10 @@
+This study is justified by researching the behavior of the
+scientific production on SARS-CoV-2, being another contribution to the scientific
+community interested in studying this serious disease, whose pandemic has
+led to serious public health, economic and social consequences. The
+question of this study is: what is the behavior of
+the scientific production on SARS-CoV-2 in the Science web base?
+To answer this question through the use of indicators and
+metrics, the objective is to describe and analyze the behavior
+of the production of scientific articles on SARS-CoV-2, made available
+on the Web base os Science.

@@ -1,0 +1,9 @@
+It is worthwhile noting that the test rate must influence
+the incidence and mortality rates, as the diagnostic criterion for
+the disease is based on diagnostic tests. In this context,
+it is expected that the higher the rate of tests
+in a given territory, the greater the reported number of
+incidence and mortality. Thus, territories that are not suitable for
+testing can suffer from severe underreporting (21). The present methodological
+design would be more appropriate in a homogeneous situation of
+the rate of tests, which is not possible.

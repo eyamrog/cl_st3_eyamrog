@@ -1,0 +1,6 @@
+Two independent reviewers extracted data using a data extraction tool
+developed by the authors, which had been previously tested on
+three articles to evaluate its adequacy. Following this pilot test,
+the variables "trade name of the therapy," "formulation," and "application
+form" were added to the tool, as detailed in Table
+2.

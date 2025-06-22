@@ -1,0 +1,15 @@
+The three instruments employed in this study enable the collection
+of data on various dimensions of physician job satisfaction, taking
+into account the specific characteristics of the health system in
+a middle-income country. For instance, the general professional activity scale
+includes an item (c2p82_3) that measures physicians’ willingness to work
+as care staff in additional institutions, which is relevant given
+that approximately half of physicians in Peru are employed at
+more than one institution. The Health Services Management scale contains
+items that evaluate satisfaction with the management of rotating shifts
+(item c2p83_5) and drug management (item c2p83_2). Notably, a review
+of the literature did not identify any existing scales that
+assess satisfaction with the management of health centres. Additionally, the
+working conditions scale assesses satisfaction with one’s position within the
+institution (item c2p81_6) and with the provision of basic services
+such as water supply and drainage (item c2p81_11).

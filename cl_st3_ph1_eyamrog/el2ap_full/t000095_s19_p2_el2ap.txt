@@ -1,0 +1,6 @@
+The classification of the type of service (public or private)
+has also unidentified ones with a greater percentage in Rio
+(capital and interior) compared to São Paulo, with values around
+22% in Rio and 14% in São Paulo, for both
+private and public services. Missingness for all variables is greater
+in Rio compared to São Paulo.

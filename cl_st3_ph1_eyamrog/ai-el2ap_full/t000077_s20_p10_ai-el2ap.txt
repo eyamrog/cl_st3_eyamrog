@@ -1,0 +1,5 @@
+To investigate this issue, Figure X presents the proportion of
+workers who worked from home, disaggregated by gender, race, educational
+attainment, household location (urban or rural), employment status, age group,
+and economic sector. The proportions are calculated within each respective
+category.

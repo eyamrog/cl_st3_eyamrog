@@ -1,0 +1,11 @@
+The relative frequencies of the sociodemographic variables were estimated for
+each stage of the survey (1, 2, and 3) and
+for all cities. The prevalence rate of seropositivity for SARS-Cov-2
+and the confidence intervals (95% CI) were estimated for each
+stage of the survey, per city, and for both cities.
+Pearson's Chi-square test was used to compare the proportions of
+the sociodemographic variables and the prevalence of seropositivity for SARS-Cov-2
+between each stage of the survey. The weighting factors were
+incorporated into the analyses using the svy command of the
+Stata® software, version 12.0. A significance level of 95% (P≤0.05)
+was adopted.

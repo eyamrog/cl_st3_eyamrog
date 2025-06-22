@@ -1,0 +1,4 @@
+According to guidelines provided by ASHRAE, REHVA, and NAFA, several
+strategies can be implemented to reduce contamination in intensive care
+units (ICUs) and hospitals. These strategies are illustrated in Figure
+3 and are described in detail below.

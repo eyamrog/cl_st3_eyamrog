@@ -1,0 +1,17 @@
+After identifying critical changepoints in the data, we conducted an
+analysis using piecewise (or segmented) regression, which involves fitting separate
+linear segments to different intervals of the data. In this
+approach, one or more breakpoints are treated as parameters within
+the model, allowing for the identification of time points associated
+with significant changes in the relationship between variables. The presence
+of a so-called “nuisance parameter” complicates the statistical inference, rendering
+standard statistical tests inapplicable (Muggeo 2008), and thus classical p-values
+cannot be used for hypothesis testing in this context. To
+address this limitation, we applied the Davies test (Davies 1977)
+to assess whether there were statistically significant differences between the
+slopes of adjacent segments. It should be noted that the
+Davies test does not estimate the location of the breakpoint
+itself, but rather tests for a non-zero difference in slope
+between segments. All analyses were performed using the segmented package
+(Muggeo 2008) in the R statistical environment (R Core Team
+2019).

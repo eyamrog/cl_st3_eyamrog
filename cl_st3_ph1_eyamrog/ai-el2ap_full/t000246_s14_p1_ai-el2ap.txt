@@ -1,0 +1,7 @@
+This quantitative bibliometric study applies Bradford's Law of journal dispersion
+and Lotka's Law of the inverse square to examine patterns
+in scientific production and the utilization of electronically recorded information
+within an international database, focusing on publications from 1989 to
+2020. The analysis was restricted to documents indexed in the
+Science web database, with all document types included as the
+sole inclusion criterion and no exclusion criteria applied.

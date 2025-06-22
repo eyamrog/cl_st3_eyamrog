@@ -1,0 +1,5 @@
+The majority of publications are in English, accounting for 1,590
+documents (97.96%), followed by French with 11 documents (0.67%), German
+with 9 documents (0.55%), Spanish with 7 documents (0.43%), Chinese
+and Portuguese with 2 documents each (0.12%), and Hungarian and
+Russian with 1 document each (0.06%).

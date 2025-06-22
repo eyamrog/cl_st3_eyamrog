@@ -1,0 +1,11 @@
+In the simplest scenario, individuals of different species function as
+generalists, interacting with partners opportunistically, such as by utilizing resources
+in proportion to their environmental availability. While substantial evidence indicates
+deviations from interaction patterns predicted solely by resource availability (Olesen
+et al. 2011; Kuebbing et al. 2013; Pekkonen et al.
+2013), the assumption that individuals behave as opportunistic foragers provides
+a useful framework for understanding the structure of ecological networks.
+In particular, opportunistic behavior at the individual level suggests that,
+at the species level, variation in the number of interactions
+among species should be positively correlated with species abundances (Vazquez
+et al. 2007; Krishna et al. 2008).

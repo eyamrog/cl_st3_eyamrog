@@ -1,0 +1,14 @@
+An analysis of the publishing institutions represented in the OLIVA
+corpus reveals structural differences compared to mainstream commercial journals, particularly
+regarding levels of autonomy and integration with the academic community.
+Neubert and Rodrigues (2021) examined Latin American publications indexed in
+the Web of Science and found that these articles appeared
+in 11,965 scientific journals, with commercial publishers responsible for 56.48%
+of the output, universities for 18.30%, and associations for 19.25%.
+In contrast, journals indexed in SciELO and Redalyc are predominantly
+published by universities, scientific societies, and government agencies, reflecting a
+primarily academic orientation and providing editorial services within the public
+domain. In Latin America, the establishment and maintenance of journals
+have historically been managed by the scholarly community, which continues
+to provide material support despite evaluation systems that incentivize publication
+in mainstream commercial journals.

@@ -1,0 +1,26 @@
+Argentina also has its own peculiarities. The fact that it
+has the lowest share (56.4%) of articles published in its
+journals with at least one author from Argentina suggests a
+stronger trend to publish abroad than that observed for the
+Chilean case. However, there are other explanations. There is evidence
+that journals from Argentina are underrepresented in the OLIVA database,
+a product of a traditional selection of social science and
+humanities journals edited in that country by the services of
+the Latindex catalog. This selection was driven, among other factors,
+by the characteristics of the existing assessment culture at CONICET
+(the National Science Council) and the national universities where publications
+indexed in Latindex are rewarded at the same level as
+those included in SciELO, Scopus and WoS (Beigel, 2014). To
+this we can add the lower technical complexity of indexing
+in the Latindex Catalog 2.0 compared to the requirements of
+SciELO and Redalyc, and the clout of the national (Argentine)
+node of Latindex. If we compare the journals of Brazil,
+Argentina, Chile, Mexico and Colombia in the Latindex Catalog 2.0
+with the OLIVA database, we see that in the case
+of Chile there are 144 journals in OLIVA and 167
+in the Latindex Catalog 2.0. In contrast, there are 316
+Argentine journals in the Latindex Catalog 2.0 and 167 in
+SciELO or Redalyc, that is, almost twice as many. In
+contrast, the journals of Argentina in the OLIVA database that
+do not belong to the social sciences and humanities are
+mostly indexed in SciELO (43/69).

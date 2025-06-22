@@ -1,0 +1,21 @@
+The recent emergence of SARS-CoV-2 has led to the ongoing
+COVID-19 pandemic, with the virus utilizing the human membrane protein
+ACE2 as a receptor for host cell entry. In this
+study, we conducted a comparative genomic analysis of 70 ACE2
+orthologues from placental mammals to identify sequence variations and to
+elucidate the evolutionary dynamics underlying the adaptation of SARS-CoV-2 to
+human infection. Our analysis indicates that 4% of ACE2 sites
+are under positive selection, all of which are located within
+the catalytic domain, suggesting the presence of taxon-specific adaptations potentially
+related to ACE2’s physiological roles, such as in cardiovascular function.
+Among all variable sites, we selected 30 that are situated
+at critical ACE2 binding interfaces with SARS-CoV-like viruses for detailed
+examination. The results demonstrate a relatively high degree of ACE2
+diversity among placental mammal species, while no polymorphism was observed
+within human populations at these 30 inter-species variable sites. These
+findings indicate that the genetic landscape of ACE2 in humans
+may have facilitated the adaptation of SARS-CoV-2. We propose that
+SARS-CoV-2 has evolved as a specialist coronavirus for human hosts.
+Variations in infection and mortality rates may be attributable to
+differences in innate immune responses, other unidentified genetic factors, as
+well as non-biological influences.

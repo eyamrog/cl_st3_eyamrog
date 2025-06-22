@@ -1,0 +1,10 @@
+Data analysis - Germination variables (G%, MGT, and speed index)
+were evaluated using analysis of variance with permutations (10,000 iterations)
+with the lmPerm package (Wheeler & Torchiano 2016) in R
+statistical software (R Core Team 2020). Models compared variable values
+as a function of water immersion treatments (control, soaking in
+water for 24, 48, and 72h, hot water for 5
+and 10 min), storage period (freshly harvested and stored pyrenes),
+and the interaction between them (see Supplementary material table S1).
+The analyses were followed by Tukey HSD tests to address
+multiple comparisons among all treatment combinations.

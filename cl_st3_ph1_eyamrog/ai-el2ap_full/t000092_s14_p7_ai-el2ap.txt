@@ -1,0 +1,6 @@
+The data were analyzed using IBM® SPSS® Statistics, version 23.
+The normality of the distribution of continuous variables was assessed
+with the Kolmogorov-Smirnov test. Quantitative variables with a parametric distribution
+were summarized using means and standard deviations, while non-parametric quantitative
+variables were described using medians and ranges. Qualitative variables were
+reported as percentages.

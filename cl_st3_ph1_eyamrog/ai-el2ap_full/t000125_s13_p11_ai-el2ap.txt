@@ -1,0 +1,8 @@
+The next dimension to be analyzed is Research, for which
+substantially more data are available compared to the Teaching and
+Learning dimension. This increased data availability is primarily due to
+the fact that the indicators for research publications (size-normalized), citation
+rate, top-cited publications, and interdisciplinary publications are derived from open
+sources. In contrast, only the indicators for external research income,
+art-related output, and post-doctoral positions rely on reports provided by
+the institutions themselves.

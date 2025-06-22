@@ -1,0 +1,25 @@
+Lower specific leaf area (SLA) values indicate increased leaf thickness,
+which is attributable to thicker parenchyma and epidermis under high
+levels of solar irradiance. In Mikania laevigata, leaf thickness was
+greater than in Mikania glomerata. This increase in leaf thickness,
+primarily due to a thicker adaxial epidermis, may account for
+the observed reduction in photoinhibition and the higher photosynthetic rates
+in plants grown under I25 conditions. The epidermis attenuates ultraviolet
+(UV) radiation and facilitates the diffusion of photosynthetically active radiation
+(PAR) into the photosynthetic tissues. For instance, Verdaguer et al.
+(2017) reported a thicker adaxial epidermis in plants exposed to
+UV-A radiation. The development of a thicker adaxial epidermis, or
+hypodermis, appears to function as a protective mechanism for the
+palisade parenchyma against excessive visible light and as a safeguard
+against leaf wilting under high solar irradiance (Chazdon & Kaufmann
+1993). Modifications in leaf structure are essential for plant adaptation
+and growth under varying environmental conditions (Hanba et al. 2002;
+Schlüter et al. 2003). Stomatal density (SD) and stomatal index
+(SI) in Mikania leaves were also influenced by solar irradiance
+levels. The concurrent increases in SD and SI suggest that
+solar irradiance stimulates epidermal cell differentiation into stomata, and that
+changes in SD and SI are not attributable to reductions
+in the size or number of epidermal cells (Woodward 1987).
+The elevated SD and SI in plants with the lowest
+retention of solar radiation flux likely resulted in increased stomatal
+conductance (gs) and photosynthetic rate (A).

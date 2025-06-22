@@ -1,0 +1,7 @@
+The results indicate that there is no "very strong" correlation
+among the indicators; however, two indicators exhibit a "strong" correlation.
+Specifically, "Patents awarded (absolute numbers)" and "Patents awarded (size-normalized)" demonstrate
+a correlation coefficient of 0.8077. This suggests that institutions with
+high performance in generating new products tend to score well
+on both indicators. The high correlation also implies a substantial
+degree of redundancy between these two indicators.

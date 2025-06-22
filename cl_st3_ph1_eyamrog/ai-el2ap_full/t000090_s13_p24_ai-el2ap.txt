@@ -1,0 +1,6 @@
+Of the remaining Indicators, one (“Graduate companies”) has data availability
+between 33% and 50%, one (“Art related output”) falls within
+the 50% to 66% range, and two (“Professional Publications” and
+“Spin-Offs”) are in the 66% to 75% range. Consequently, 30
+Indicators have more than 75% data availability, accounting for 83.33%
+of the total Indicators.

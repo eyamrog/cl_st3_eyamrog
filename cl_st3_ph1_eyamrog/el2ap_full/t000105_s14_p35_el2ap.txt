@@ -1,0 +1,8 @@
+When the level of the SARS-CoV-2 antibody in the sample
+was zero or below the cut- off, there was no
+visible colored band formed in the test region of the
+device, indicating a negative result. As a control for the
+procedure, a colored line appeared in the control region, indicating
+that the test was working correctly. The minimum waiting time
+for the reading was 15 min, while the maximum time
+that was allowed was 20 min.

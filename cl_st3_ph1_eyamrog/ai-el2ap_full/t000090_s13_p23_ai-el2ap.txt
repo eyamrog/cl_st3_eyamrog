@@ -1,0 +1,8 @@
+The initial observation concerns the presence of two indicators with
+notably low data availability, each with fewer than 100 data
+points (33%): “Strategic research partnerships,” which contains only missing data,
+and “Industry co-patents,” which has 91 available data points, 5
+missing, and 204 marked as “Not Applicable.” Given that the
+remaining 34 indicators have more complete datasets, these two indicators
+will be excluded from subsequent statistical analyses to minimize the
+impact of extensive missing data on the results.

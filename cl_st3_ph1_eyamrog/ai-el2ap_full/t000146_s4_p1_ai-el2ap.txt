@@ -1,0 +1,12 @@
+The development of the SciELO Citation Index is a recent
+initiative that has replaced the previous global reference database, the
+Web of Science (WoS) Core Collection. This initiative has primarily
+been justified by its ability to increase the visibility and
+accessibility of scientific output through open access, thereby enhancing the
+exposure of nationally published journals. An additional factor contributing to
+the credibility of the SciELO collection is its selectivity, which
+is ensured by the rigorous assessment procedures and criteria implemented
+by the scientific advisory committees of each member country within
+the SciELO Network. However, numerous studies have demonstrated that research
+published in nationally recognized, high-quality journals tends to receive fewer
+citations compared to articles published in commercially operated, high-impact journals.

@@ -1,0 +1,15 @@
+This bibliographic study analyzed data from LILACS for the years
+2015 to 2019, focusing on journals that published at least
+50 articles with at least one identified individual author (“signed
+articles”). In January 2022, the iAH (Interface for Access on
+Health Information) search interface within BIREME’s Virtual Health Library was
+used to retrieve all documents indexed as journal articles during
+the specified period. In May 2022, BIREME supplied a database
+containing journal information, including abbreviated journal titles, LILACS indexing status,
+and subject classifications based on Health Sciences Descriptors (DeCS). All
+data were downloaded in ISO 2709 format and imported into
+the R statistical environment version 4.2.1 (R Core Team 2022)
+using the stringi package version 1.7.8 (Gagolewski 2022) and custom
+code developed for this study (Fontenelle 2022). The dataset was
+subsequently filtered to include only signed articles from journals that
+were systematically indexed and met the minimum publication threshold.

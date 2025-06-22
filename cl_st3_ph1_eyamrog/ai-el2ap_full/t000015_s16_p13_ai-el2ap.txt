@@ -1,0 +1,10 @@
+A comparison of the JUOJS disciplinary distribution with that of
+Scopus, which shares less than 4% overlap (see below), reveals
+notable differences. Scopus contains a higher proportion of journals in
+mathematics and medicine and health sciences, whereas JUOJS includes a
+greater proportion of journals in education as well as language,
+communication, and culture (Table 2). In other fields, such as
+economics, engineering, and computer science, the disciplinary coverage is broadly
+similar between JUOJS and Scopus. Further citation-based analyses could clarify
+the extent to which journals in these two sets reference
+each other within overlapping disciplinary domains.

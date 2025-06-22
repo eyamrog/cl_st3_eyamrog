@@ -1,0 +1,11 @@
+In summary, the cellular mechanisms associated with coronaviruses replication form
+a complex and integrated network of molecular events, starting from
+the translation of Nsps, proteolytic cleavage of polyproteins, assemble of
+RTC, transcription of antigenome, genome and subgenomic RNAs, translation of
+structural proteins and finally viral particles assembly and budding. The
+analysis of the cellular proteins related to coronaviruses proteins reveals
+the modulation of key cellular pathways related to innate immunity,
+cell cycle, and protein synthesis. The current therapeutic approaches for
+COVID19 are partially related to these molecular events and pathways,
+but future pharmacological interventions may take advantage of a better
+understanding regarding the replication cycle of SARS-CoV-2.

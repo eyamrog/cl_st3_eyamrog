@@ -1,0 +1,9 @@
+The Durbin-Watson statistic of 2.578326 indicates the presence of negative
+serial autocorrelation in the model residuals. The unit root test
+results show that the variables GD, INF, and INT are
+stationary at level, or integrated of order zero [I(0)], as
+their respective Augmented Dickey-Fuller (ADF) test statistics (4.180454, 3.173179, and
+5.591438) exceed the 0.05 critical values (3.02997, 2.991878, and 3.004861).
+In contrast, the variables FDI and EXC are stationary at
+first difference, as their ADF test statistics (10.14302 and 3.996066)
+are greater than the 0.05 critical value of 2.998064.

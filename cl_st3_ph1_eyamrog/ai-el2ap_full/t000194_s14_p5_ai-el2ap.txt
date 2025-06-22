@@ -1,0 +1,3 @@
+At each sampling site, water temperature (°C), pH, conductivity (µS·cm⁻¹),
+and dissolved oxygen concentration (mg O₂/L) were measured using Horiba
+U10 and U50 instruments.

@@ -1,0 +1,4 @@
+An ECG Holter recording was performed at rest for 5
+minutes, determining the variables of the frequency domain using Fourier
+transform analysis through Kubios (v.3.0.0 [free version], HRV analysis, University
+of Eastern Finland).

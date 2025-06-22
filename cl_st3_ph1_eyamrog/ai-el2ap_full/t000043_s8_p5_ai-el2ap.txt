@@ -1,0 +1,7 @@
+The self-controlled case series (SCCS) method estimates the relative incidence
+(RI) of events of interest by comparing the incidence of
+events during a predefined risk period following a transient exposure
+to the incidence during a control period. The RI is
+calculated as the ratio of the number of events occurring
+in the risk period to the number of events occurring
+in the control period (1,6,11).

@@ -1,0 +1,6 @@
+Analyzed variables - The evaluated variables included the survival percentage,
+calculated from the number of dead plants, number of emerging
+sprouts and number of leaves. The dependent variables sprout and
+survival were evaluated during nine readings, while the leaves were
+evaluated during five readings from October of 2015 to November
+of 2016.

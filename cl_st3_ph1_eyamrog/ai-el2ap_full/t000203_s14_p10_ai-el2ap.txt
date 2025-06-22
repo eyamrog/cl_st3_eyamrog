@@ -1,0 +1,4 @@
+The profile of each group was characterized using the following
+measures: incidence (Eq. 1), mortality (Eq. 2), and lethality rates
+(Eq. 3). For each of these rates, confidence intervals were
+calculated employing the standard method for proportions.

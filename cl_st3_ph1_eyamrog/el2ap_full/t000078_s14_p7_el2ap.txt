@@ -1,0 +1,12 @@
+As in Kim, Phipps, and Anselin (2003), Campos (2017) and
+Campos, and Almeida (2018), the distribution of extrinsic and intrinsic
+house characteristics are not uniformly distributed in a weighting area,
+as proposed by Megbolugbe and Hoek-Smit (1996). We seek to
+overcome this limitation by considering the spatial location of each
+house and amenity (school, shop, library, etc.) instead of the
+quantity of or participation amenities in the weighting area. This
+approach allows units within the weighting area to configure different
+neighborhoods, depending on the area’s size created by the selected
+distance matrix W cut-off. Another advantage is to avoid the
+neighborhood discretion imposed by the government in the area composition
+(district, census tracts, etc.).

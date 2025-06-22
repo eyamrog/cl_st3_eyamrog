@@ -1,0 +1,9 @@
+The covariance between the Gini coefficient and the proportion of
+articles authored by the most prolific contributor was influenced by
+the total number of articles published, as shown in panel
+C of Figure 1. This pattern is consistent with the
+established relationship between each index and the number of articles.
+Specifically, journals with a higher total number of articles exhibited
+a low proportion of articles by the most prolific author,
+regardless of the Gini coefficient, whereas journals with fewer articles
+displayed higher proportions when associated with higher Gini coefficients.

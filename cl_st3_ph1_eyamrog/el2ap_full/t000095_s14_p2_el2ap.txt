@@ -1,0 +1,6 @@
+All hospitalized adults (age ≥ 18 years) who were diagnosed
+as COVID-19 or unspecified SARS, between 01 January 2020 and
+31 December 2020 were included in the analysis. Cases of
+SARS for other causes (influenza, another respiratory virus, and another
+etiologic agent) as well as Down Syndrome, pregnant or postpartum
+women, were excluded.

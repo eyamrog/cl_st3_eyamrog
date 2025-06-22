@@ -1,0 +1,20 @@
+In this phase, we aimed to assess the extent to
+which journals utilizing Open Journal Systems (OJS) are classified as
+“predatory” according to Beall’s and Cabells’ lists. Initially, we compared
+the Public Knowledge Project (PKP) list of journals using OJS
+with Beall’s final list of predatory publishers and journals, which
+was discontinued in 2017 following challenges from several publishers and
+organizations (Silver, 2017). To estimate the total number of journals
+represented in Beall’s list as of 2018, we counted the
+journals within a sample of 231 publishers, representing 19.9 percent
+of the 1,163 publishers listed, regardless of OJS usage (see
+Table 2). The resulting average of 24.3 journals per publisher
+indicated that Beall’s list encompassed approximately 30,968 journals identified as
+“predatory,” including 1,395 standalone journals. Additionally, we observed that 61.7
+percent of these journals had not published any articles, and
+6.3 percent lacked a website, a figure that increased to
+32 percent by 2021. Among journals using OJS, 366 titles
+were associated with Beall’s list, representing 1.2 percent of the
+total journals on Beall’s list and 1.4 percent of the
+25,671 active journals known to be using OJS (see Table
+3).

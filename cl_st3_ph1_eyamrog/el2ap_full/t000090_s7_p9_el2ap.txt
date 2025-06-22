@@ -1,0 +1,16 @@
+After making this list of Institutions, the correlations among all
+pairs of Indicators of the same Dimension are calculated and
+analyzed. In the same way, the correlations among the averages
+of each Dimension are made. The reason to do those
+correlations is to study how correlated are the Dimensions and
+Indicators, to understand the level of independence of the Indicators
+and Dimensions. Some of them are expected to have high
+correlations. As examples, we can mention the absolute number of
+publications, the normalized number of publications and the number of
+“top cited” publications. It is expected that institutions that have
+high numbers in one of these Indicators may have high
+numbers in all of them. It is important to see
+those correlations, because they give an indication if we are
+really measuring 5 Dimensions and 36 Indicators, or if some
+of them are just different forms to measure the same
+aspect under a different question.

@@ -1,0 +1,12 @@
+As we can see in Table 2, results from EP
+and BP speakers are very similar, though in cases of
+zero anaphora Brazilians tend to relate the ellipsis with the
+subject more than Portuguese people do (90% and 75% respectively).
+They all seem to follow the Position of Antecedent Strategy.
+Nonetheless, the strategy is not as strong in cases of
+pronominal cataphora as it is in cases of pronominal anaphora.
+The alternative other was only chosen when the anaphor was
+a pronoun, and it was chosen much more often in
+cases of cataphora than of anaphora. These results indicate that
+pronominal cataphora is more difficult to resolve than the other
+types of anaphora.

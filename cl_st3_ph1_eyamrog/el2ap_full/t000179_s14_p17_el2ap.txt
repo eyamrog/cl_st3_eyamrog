@@ -1,0 +1,10 @@
+To evaluate the factor structures we used three different criteria.
+First, items factor loadings should be equal to or greater
+than 0.40 (20). Second, if a scale has more than
+one dimension, each dimension must have at least three items
+to be considered stable (25). Third, if an item loads
+in more than one dimension and the difference of loading
+between them is lower than 0.020, the item will be
+deleted. However, if the difference in loadings is equal to
+or greater than 0.20, then the item will be included
+in the dimension that has the highest factor load (20).

@@ -1,0 +1,10 @@
+Patients with severe COVID-19 are susceptible to developing neurological complications,
+including acute cerebrovascular diseases, impaired consciousness, seizures, encephalopathy, and skeletal
+muscle injury. These complications could appear after respiratory symptoms and
+may be mediated by exacerbated immunological response. Immune damage and
+prothrombotic states associated with cytokine storm in COVID-19 might explain
+some neurological symptoms. In fact, it may be responsible for
+activating glial cells with subsequent demyelination. Furthermore, anecdotal cases of
+CNS demyelinating events after SARS-CoV-2 infection have been described69,70. Whether
+SARS-CoV-2 is associated with post-infectious inflammatory demyelinating events is still
+under debate71.

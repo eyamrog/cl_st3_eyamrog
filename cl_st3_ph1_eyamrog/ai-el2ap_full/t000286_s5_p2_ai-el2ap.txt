@@ -1,0 +1,10 @@
+The equation indicates that government deficit and exchange rate have
+a positive effect on foreign direct investment (FDI) in Turkey,
+with coefficients of 0.000197 and 0.001518, respectively. This suggests that
+a one-unit increase in government deficit or exchange rate is
+associated with an increase in FDI by 0.000197 and 0.001518,
+respectively. In contrast, inflation and interest rate exhibit a negative
+relationship with FDI, as reflected by their coefficients of -0.007553
+and -0.022135. This implies that a one-unit decrease in either
+the interest rate or inflation rate is associated with a
+decrease in FDI by 0.007553 and 0.022135, respectively.

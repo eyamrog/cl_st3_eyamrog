@@ -1,0 +1,5 @@
+We understand, therefore, that Governance comprises a set of dimensions,
+composed of mechanisms of incentive and control, in order to
+mitigate the agency problem arising from the contractual relationship between
+principal and agent, thus minimizing agency costs (Jensen and Meckling,
+1976).

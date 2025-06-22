@@ -1,0 +1,10 @@
+Due to the SBD impact on the economy, the sub-centers
+identification has long been evaluated in the international literature. However,
+in Brazil, few studies on sub-center identification in large cities
+exist. Therefore, in this article, we proposed a two-stage identification
+approach, seeking to eliminate the discretion of the suggested empirical
+methods. The first stage aims to identify candidates for SBD
+using an ESDA approach. In the second stage, using a
+Hedonic Spatial Price Model is an innovation to the proposed
+methods since it allows the testing of the alternative hypothesis
+of the existence of SBD.

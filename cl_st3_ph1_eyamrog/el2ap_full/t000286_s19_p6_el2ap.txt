@@ -1,0 +1,11 @@
+The normalized co-integrating coefficients for two co-integrating equation given by
+the long-run relationship is: <>, where FDI is the dependent
+variable, -0.001076 is the coefficient of GD, - 0.240732 is
+the coefficient of INF, 0.213348 is the coefficient of INT
+and -0.003069 is the coefficient of EXC. The sign borne
+by the adjusted coefficient estimates of GD, INF, and EXC
+is negative. Which implies that the long run relationship between
+GD, INF, EXC and FDI is negative. While, the sign
+borne by the adjusted coefficient estimates of INT is positive
+and it implies that the long run relationship between INT
+and FDI is positive.

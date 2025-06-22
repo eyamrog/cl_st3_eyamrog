@@ -1,0 +1,27 @@
+Throughout this article, the term "archive" refers to a repository
+of materials that are collected, saved, and preserved by an
+organization or institution for potential reuse in the present and
+future. An archive may contain analog materials, digital materials (including
+both born-digital and digitized content), or a combination of both.
+A digital repository is defined as an archive that specifically
+stores digital materials or records, while a (digital) language archive
+is an archive that focuses on linguistic cultural heritage and
+language-related materials or data. In the field of language documentation,
+a widely cited definition of an archive is provided by
+Johnson (2004, p. 142): “An archive is a trusted repository
+created and maintained by an institution with a demonstrated commitment
+to permanence and the long-term preservation of archived resources.” Johnson’s
+definition does not explicitly address the digital aspect, so a
+more recent definition by Trevor Owens, Head of Digital Content
+Management at the US Library of Congress, is also considered.
+Owens (2018, p. 4) clarifies that a repository is not
+merely a software solution, but rather encompasses financial resources, hardware,
+staff time, and the ongoing implementation of policies and planning
+to ensure long-term access to content; he emphasizes that any
+software used for digital preservation is inherently temporary, whereas institutional
+commitment enables preservation. In this article, the terms "archive" and
+"repository" are used interchangeably. Both definitions highlight recurring themes such
+as institutional involvement, commitment, ongoing processes, long-term perspective, and preservation.
+These themes will be discussed further in this section, with
+particular emphasis on the necessity of sustained institutional commitment for
+the creation and maintenance of an archive.

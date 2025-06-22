@@ -1,0 +1,25 @@
+Plants are subject to various environmental pressures and must maintain
+resistance to damage, stress, and structural support throughout their lifespan.
+The damage resistance and structural support of stems and leaves
+in woody plants can be biomechanically assessed through measurements of
+stiffness, bending, and toughness (Niklas 1992; Speck 1994; Rowe &
+Speck 1996; Speck & Rowe 1999; Niklas et al. 2006;
+Rowe et al. 2005). Biomechanical properties have also been investigated
+in studies examining potential associations between animal feeding behavior and
+the mechanical characteristics of the plant parts consumed. For instance,
+the physical properties of leaves and stems have been linked
+to the masticatory morphology of primates (Strait 1997), and there
+is evidence suggesting possible coevolution between animal consumers and plant
+mechanical traits (Thiery et al. 2017). In these studies, the
+biomechanical properties of plant structures are quantified using mechanical tests.
+Structural Young’s modulus, for example, quantifies bending stiffness relative to
+the sample’s cross-sectional area (Niklas 1992), while toughness refers to
+a material’s resistance to fracture and is defined as the
+energy required to break an object. Toughness is typically measured
+as the area under a stress-strain curve, representing the work
+done per unit volume (Vincent 1992; Niklas 1992). These mechanical
+properties are influenced by the composition, geometry, and water content
+of the material (Niklas 1992; Vincent 1990a). While the mechanical
+properties of homogeneous materials such as plastics or metals are
+well characterized, less is known about the mechanical behavior of
+heterogeneous biological materials, including plant structures.

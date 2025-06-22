@@ -1,0 +1,9 @@
+SciELO Brazil mandates that its journals implement some form of
+open peer review, which may include open identities, open reports,
+or acknowledgment of associate editors. Based on the findings of
+this survey and the relevant literature, journal editors are advised
+to exercise caution regarding the adoption of open identities, as
+the majority of researchers perceive this practice as potentially more
+harmful than beneficial. If open identities are to be introduced,
+it is recommended that journals initially offer them as an
+optional feature and systematically monitor participation and outcomes.

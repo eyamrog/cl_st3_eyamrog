@@ -1,0 +1,4 @@
+A method has been applied in which chains of RNA
+of a certain length are taken and compared with chains
+of the same length within the complete genome. In previous
+work this technique has been applied to other microorganisms [2],[3],[4].

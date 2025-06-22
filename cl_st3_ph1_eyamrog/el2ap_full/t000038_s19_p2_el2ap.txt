@@ -1,0 +1,5 @@
+Adequacy of the polychoric correlation matrix measured by Bartlett's sphericity
+21116.6, (df = 276; p < 0.00001) and KMO =
+0.939 tests suggested the interpretability of the items' correlation matrix.
+Parallel analysis suggested two factors as being the most representative
+of the data (See Table 1).

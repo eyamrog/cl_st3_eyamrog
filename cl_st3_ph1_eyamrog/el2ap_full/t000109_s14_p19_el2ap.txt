@@ -1,0 +1,8 @@
+With the aim of achieving an approximate representation of locations
+where citizens live, work, consume and perform leisure activities, GIS
+tools included in Repast were used. This information, together with
+movements verified during the day, configures the gregarious habits of
+each Ha. These habits were determined through 441 individual field
+surveys, complying with age and sex quotas, and with the
+requirements of the Ethics Committee in charge of evaluating and
+authorizing the structure, anonymization and informed consent of the surveys6.

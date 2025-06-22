@@ -1,0 +1,5 @@
+According to Romanos (1979), rent prices are underestimated in areas
+where sub-centers exist. Also, many cities have more than one
+business center and/or multiple subcenters. Additionally, as would be expected
+by monocentric models, property price gradient does not decrease monotonically,
+relative to the city's CBD, but in polycentric model does.

@@ -1,0 +1,14 @@
+Water quality is determined by a combination of physical, chemical,
+and biological variables. While physical and chemical parameters are important,
+point measurements of these variables provide only instantaneous data, which
+may not accurately reflect the overall water quality. In contrast,
+resident organisms can serve as long-term indicators of water quality
+(Gorni and Alves, 2012). The physical and chemical parameters measured
+in the Itinguçu River were within the normal ranges established
+by federal standards for protected areas (Class 1 waters) and
+were consistent with values reported in the literature for environments
+characterized by good water quality (Lutz, 1968; Yanoviak, 1999a; Hrovat
+et al., 2009; Monteiro et al., 2008; Taniwaki and Smith,
+2011; Tszydel et al., 2015). Furthermore, these values were similar
+to those observed in rivers within the Intervales State Park,
+São Paulo (Alves et al., 2008; Melo, 2009).

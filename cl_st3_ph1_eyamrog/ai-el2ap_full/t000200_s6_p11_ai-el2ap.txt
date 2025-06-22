@@ -1,0 +1,12 @@
+The stratification of the results by the eight regions, based
+on the highest rates of leptospirosis and the highest case-to-rainfall
+ratios, demonstrated the influence of rainfall levels on leptospirosis incidence,
+as reflected in the two identified seasonal periods. Additionally, the
+data indicate a cumulative effect of rainfall on disease incidence.
+This is evidenced by a strong linear correlation between the
+ratio of new cases to rainfall and the increasing rates
+of both rainfall and leptospirosis in the eight regions with
+the highest values (r = 0.91; p = 0.013). In
+contrast, this relationship was not observed in the eight regions
+with lower rainfall and lower leptospirosis rates (r = 0.24;
+p = 0.644).

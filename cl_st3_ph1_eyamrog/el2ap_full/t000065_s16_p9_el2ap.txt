@@ -1,0 +1,5 @@
+Another essential aspect carefully planned during corpus compilation was to
+account for texts per academic level, a learner variable, since
+participants may either be undergraduate or graduate students (see Figure
+1). As the IFA subjects are elective, students at both
+academic levels can be registered.

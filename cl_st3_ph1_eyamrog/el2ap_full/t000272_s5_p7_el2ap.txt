@@ -1,0 +1,8 @@
+The endothermic peaks of the events observed in the DTA
+coincide with the degradation temperature ranges found in the sample
+TG curves. No events found were exothermic. The more polar
+fractions have discrete endothermic peaks when compared to the peaks
+of the EE and the fraction of ethyl acetate. Therefore,
+it is possible to deduce that both the hexane fraction
+as well as the chloroform fraction require less heat to
+begin their degradation.

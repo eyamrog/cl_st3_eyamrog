@@ -1,0 +1,11 @@
+Unfortunately, double-blind review is essentially incompatible with preprints, especially journal-led
+preprints, when scholarly journals routinely deposit their pre-review manuscripts in
+preprint servers such as SciELO Preprints or EmeRI. The incompatibility
+is even more pronounced with EmeRI, as it encourages preprint
+readers to volunteer to review the manuscripts for corresponding journals
+(open participation). Other traits of open peer review are not
+so incompatible with double-blind review: open reports need not be
+signed, open interaction can be anonymized by editorial platforms such
+as OJS 3, nothing stops decoupled peer review from being
+double-blind, and open commenting on the final version complements rather
+than substitutes traditional peer review.

@@ -1,0 +1,9 @@
+Once produced, the pp1a and pp1ab polyproteins undergo proteolytic cleavage,
+forming a total of 16 proteins, detailed in table 1
+and outlined in figure 1. The cleavage is made by
+2 proteases, nsp3 which is a Papain-like protease (PLpro) and
+nsp5 which is a 3C-like protease (3CLpro). Nsp3 cleaves the
+sites between nsp2 to nsp4, generating, therefore, nsp1, nsp2, and
+nsp3. On the other hand, nsp5 cleaves the other sites
+generating the other non-structural proteins (Ziebuhr et al. 2000; Báez-Santos
+et al. 2015).

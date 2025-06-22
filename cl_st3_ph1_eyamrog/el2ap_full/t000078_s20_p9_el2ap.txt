@@ -1,0 +1,14 @@
+Tests on residues (Moran’s I tests) point to non-spatial randomness
+(Table 4, columns 1-4). When using the SLXb estimator to
+correct spatial dependence (Table 5, columns 9-11), the estimated coefficients
+are theoretically counterintuitive (overall effect) and statistically significant. These models
+estimated without control for sub-centralities indicate that the price of
+land is higher in the fringes of the city -
+a result that is not observed. Moreover, the null hypothesis
+of spatial randomness is not rejected. The exception is the
+log-level functional form model with control for the quadratic form
+of the distancing from CBD, which global effect results agree
+with the theoretical models (Table 5, column 12). However, these
+counterintuitive results open space to evaluate the second hypothesis: do
+the non-intuitive and statistically non-significant results of the CBD coefficients
+stem from the omission of SBD controls?

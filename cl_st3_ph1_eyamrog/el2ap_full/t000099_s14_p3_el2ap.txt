@@ -1,0 +1,7 @@
+The following growth parameters were evaluated in 20 plants separated
+at random from the pool of 25 propagules, per period:
+number of leaves and roots; longest leaf and root length.
+Only roots over 0.5 cm and expanded leaves were measured.
+The selection was performed due to the presence of NS
+that did not sprout or seeds that did not germinate
+during the experiment.

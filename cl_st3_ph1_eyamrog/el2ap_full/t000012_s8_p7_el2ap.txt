@@ -1,0 +1,15 @@
+We hypothesize that opportunism allows species to facultatively engage in
+cleaning interactions to obtain resources. We derived two predictions from
+this hypothesis. First, we expect that cleaners show higher diet
+generalism than closely related species (Fig 1A). If opportunism is
+the leading factor shaping cleaning interactions, opportunist species that already
+show generalist diets would add additional resources (mainly mammalian ectoparasites
+and damaged fleshy tissues) to their diets. Second, we expect
+opportunistic species to interact with more mammalian hosts and with
+hosts that are used by most of the other cleaning
+species, i.e., we expect that opportunistic species are the central
+species of the network (Fig 1B). We test these two
+predictions with two continent-level networks that depict information on natural
+history of cleaning interactions among birds and mammalian hosts in
+Africa and South America (Sazima et al. 2012; Mikula et
+al. 2017).

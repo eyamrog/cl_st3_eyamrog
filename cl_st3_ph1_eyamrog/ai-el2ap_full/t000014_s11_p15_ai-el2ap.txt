@@ -1,0 +1,15 @@
+Data archiving supports collaboration at multiple levels. For researchers collaborating
+remotely with speech communities or other researchers, archiving data as
+they are generated or as analyses are completed enables the
+project team to maintain organization and consistency. Once data are
+systematically organized and archived, they become accessible to other researchers,
+potentially leading to new collaborative opportunities. Furthermore, data archiving facilitates
+the reuse of primary data for a range of research
+purposes, including work in natural language processing and linguistic typology.
+Archived data can also be cited, which is essential for
+ensuring research reproducibility (Berez-Kroeker et al., 2018). Some journals, such
+as Language Documentation & Conservation, require that datasets associated with
+articles be archived and cited appropriately. Therefore, researchers are encouraged
+to cite their own archived data, and it is necessary
+for others who use these data to provide proper citation
+as well.

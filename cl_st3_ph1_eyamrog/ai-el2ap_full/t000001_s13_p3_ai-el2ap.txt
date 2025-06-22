@@ -1,0 +1,14 @@
+A critical factor in Oxford Nanopore Technologies (ONT) sequencing is
+read depth, which directly influences both genome assembly and polishing
+accuracy. Increased read depth facilitates more robust assembly by enabling
+the use of multiple independent read sets in tools such
+as Trycycler (see Step 3), and it improves consensus accuracy
+during polishing (see Step 4). For high-quality assemblies, a minimum
+read depth of 100× is recommended, with 200× considered optimal;
+depths exceeding 200× may offer marginal improvements but are subject
+to diminishing returns. In practice, a single ONT flow cell
+often generates more data than required for sequencing a single
+bacterial isolate, making sample multiplexing a common strategy in microbial
+genomics. While this approach does not generally compromise assembly quality,
+potential issues such as barcode leakage should be taken into
+account (see Pitfalls).

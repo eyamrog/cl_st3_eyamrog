@@ -1,0 +1,21 @@
+A fundamental aspect of mutualisms is that partner species often
+include individuals that exploit the resources and services provided by
+the interaction without reciprocating any benefits to the other participant.
+Although the influence of these cheaters on the evolutionary dynamics
+of mutualisms has been recognized, their broader effects at the
+community level, particularly beyond the directly interacting species, remain insufficiently
+understood. Given that mutualisms typically form networks involving dozens to
+hundreds of species at a single site, indirect effects generated
+by cheaters may propagate throughout the community, potentially altering trait
+evolution. In this study, we investigate how the presence of
+cheating interactions affects coevolution within mutualistic networks. We integrate a
+coevolutionary model, empirical data from animal-plant mutualistic networks, and numerical
+simulations to demonstrate that a higher frequency of cheating interactions
+promotes the formation of groups of species that are phenotypically
+similar within groups but distinct from other groups, thereby increasing
+trait disparity. These clustered trait patterns subsequently alter interaction patterns
+in simulated networks, facilitating the emergence of modules of interacting
+species. Our results suggest that cheaters in mutualisms contribute to
+the formation of phenotypic clusters, counteracting the selection for convergence
+typically imposed by mutualistic interactions and promoting the development of
+modular structures within mutualistic networks.

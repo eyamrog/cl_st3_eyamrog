@@ -1,0 +1,7 @@
+Currently, there is no consensus regarding pacifier disinfection protocols, as
+various agents and strategies have been proposed in the literature.
+Each method offers specific advantages and disadvantages. Therefore, it is
+important to assess the most appropriate disinfection method based on
+factors such as the frequency of pacifier use, the location
+where the pacifier was dropped, and the family's access to
+disinfectant agents.

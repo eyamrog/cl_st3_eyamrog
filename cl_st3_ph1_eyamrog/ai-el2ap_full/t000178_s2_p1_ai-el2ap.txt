@@ -1,0 +1,7 @@
+We thank Marco Cristancho (Universidad de Los Andes) and Andrea
+Gonzalez (Centro de Bioinformática y Biología Computacional de Colombia –
+BIOS) for providing the raw data and scripts from Norena
+et al. (2018). PER acknowledges Cath Brooksbank and Piraveen Gopalasingam
+(EMBL), as well as members of the CABANA initiative, for
+their contributions to strengthening bioinformatics capacities in Latin America. CCV
+acknowledges Pablo Tsukayama (UPCH) for providing access to computing facilities.

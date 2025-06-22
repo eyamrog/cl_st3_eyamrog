@@ -1,0 +1,4 @@
+In order to evaluate the possible moderation of NPO Certification
+in the relationship between Governance and Donations we included with
+moderator variable the public certifications provided to NPO by Federal
+Government of Brazil.

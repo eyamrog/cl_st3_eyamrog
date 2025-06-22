@@ -1,0 +1,14 @@
+Coronaviruses (CoV) are a specific type of group virus which
+include ribonucleic acid (RNA) in its genetic material [1]. Their
+primary targets are epithelial cells of the respiratory and gastrointestinal
+tracts, which facilitates the transmission of the viral load through
+different ways such as fomites, airborne or faecal-oral [2]. In
+early January 2020, the - Chinese Center for Disease Control
+and Prevention [3] reported a novel coronavirus (SARS- COVID-2) as
+the causative agent of a human disease named COVID-19. Late
+January 2020, the World Health Organisation declared a public health
+emergency of international concern, and a global pandemic later was
+announced, in March 2020 [4]. As of 4 June 2020,
+COVID- 19 had affected 213 countries and territories around the
+world, translated in more than 6 million cases and almost
+400 thousand deaths worldwide [5].

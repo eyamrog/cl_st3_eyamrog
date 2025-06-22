@@ -1,0 +1,20 @@
+The literature review allowed us to identify two studies whose
+central objectives were to promote adjustments in Covid-19 mortality rates
+that are close to those proposed in this article. VILLANI
+et al. (2020) calculated analogous age-standardized mortality rates, but for
+only five European countries and based on data available up
+to 8/30/2020. More recently, HEUVELINE and TZEN (2021) have undertaken
+a much more geographically comprehensive effort, covering 186 countries and
+some subnational units particularly affected by the pandemic. In contrast
+to the wider geographical scope, this study allowed for a
+less complete procedure of mortality rates adjustment. Indeed, the “indirect”
+standardization they calculated neutralizes the effects of different age pyramids
+on rates but assumes for all countries and localities the
+same pattern of mortality by age group – in this
+case, that observed in the USA. Even defending the procedure
+adopted when the availability of data hinders the “direct” standardization,
+the authors do not fail to recognize problems arising from
+it, especially in the case of differences in mortality rates
+between countries in the older age groups. It is precisely
+the most complete adjustment procedure for a wide range of
+countries that this article proposes to do.

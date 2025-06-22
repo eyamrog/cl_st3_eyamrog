@@ -1,0 +1,8 @@
+Methods: Cross-sectional online survey in self-isolating people. Self-reported MVPA, VPA,
+MPA, and SB (exposures), and depressive and anxiety symptoms (Beck
+Depression and Anxiety Inventories [BDI and BAI]) were collected. Associations
+of MVPA, VPA, MPA, and SB with prevalent depressive (BDI>9),
+anxiety (BAI>7), and D&A (BDI>9+BAI>7) symptoms were investigated using logistic
+regressions, presented as odds ratio (OR) and 95% confidence interval
+(95%CI). Linear regressions were performed testing associations with symptom severity.
+Models were adjusted for confounding factors.

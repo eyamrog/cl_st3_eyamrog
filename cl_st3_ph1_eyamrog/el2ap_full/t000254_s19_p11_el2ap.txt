@@ -1,0 +1,18 @@
+The division of the shrub-tree synusia into three class sizes
+showed that the annual mortality rates were different among the
+classes (F = 6.30, df = 23, p = 0.007,
+figure 4). Class II (2.5 < dbh < 5 cm)
+had average (+ SE) of 0.65 + 0.25% year-1, lower
+mortality than the Class I ( < 2.5 cm dbh)
+average of 2.32 + 0.41% year-1 (p = 0.01, post-hoc
+test of Tukey - Kramer) and lower than the Class
+III (dbh > 5 cm) average of 2.12 + 0.29%
+year-1 (p = 0.02, post-hoc test of Tukey - Kramer).
+The annual recruitment rates also differed in the three studied
+classes (F = 6.15, df = 23, p = 0.008,
+figure 4). Class I had an average (+ SE) of
+2.99 + 0.26% year-1, higher than the average recruitment of
+Class II of 1.37 + 0.25% year-1 (p = 0.01,
+post-hoc test of Tukey - Kramer) and higher than the
+average of Class III of 1.47 + 0.44% year-1 (p
+= 0.02, post-hoc test of Tukey - Kramer).

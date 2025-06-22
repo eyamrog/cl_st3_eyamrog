@@ -1,0 +1,10 @@
+The analysis and discussion of the study protocols were conducted
+by extracting data on the authors, year of publication, journal,
+country of study, number of citations according to the Web
+of Science database (as of February 7, 2021), number of
+databases searched, search period, and adherence to the 27-item PRISMA
+checklist (yes or no). Additionally, information was collected regarding the
+study objectives, total sample size, intervention and control groups, participant
+age, study location, variables investigated (both physical and psychological), specific
+characteristics of the physical activity intervention, duration, number and frequency
+of sessions, and overall duration of the intervention.

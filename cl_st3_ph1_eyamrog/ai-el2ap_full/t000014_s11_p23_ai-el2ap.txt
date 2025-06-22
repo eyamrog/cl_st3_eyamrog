@@ -1,0 +1,27 @@
+A widely endorsed principle among archivists is to "archive early
+and archive often." Many language archives advocate for progressive or
+incremental archiving, whereby researchers or research teams submit primary data—such
+as audio and video recordings and photographs—together with relevant metadata
+(including participant names, dates, locations, languages used, and contextual descriptions)
+to a digital repository as soon as possible after the
+creation of the media files (see step 1 in Figure
+3). Secondary data, such as annotations, transcriptions, and interlinear glossed
+texts, as well as analyses or academic outputs (steps 2
+and 3 in Figure 3, respectively), are added subsequently once
+they are finalized (Robinson, 2006; Nathan, 2013; Kung et al.,
+2020). In Figure 3, these steps are conceptualized as successive
+waves of archiving. Step 1, involving the archiving of primary
+data and associated metadata, should occur immediately after the completion
+of fieldwork or data collection, or even concurrently with these
+activities. Step 2, which pertains to the archiving of secondary
+data and relevant metadata, can be conducted iteratively as transcriptions
+and translations are completed. Step 3, involving the archiving of
+finalized analyses and academic outputs along with their metadata, can
+also be performed iteratively and may extend well into the
+future. This approach acknowledges that there is rarely an optimal
+time for researchers to archive language documentation data. Delays between
+data collection and archiving, as well as the accumulation of
+digital files and physical materials, tend to increase the complexity
+and duration of the archiving process. Furthermore, organizing materials and
+ensuring comprehensive metadata is generally more efficient immediately following fieldwork
+or data collection, when details are most readily recalled.

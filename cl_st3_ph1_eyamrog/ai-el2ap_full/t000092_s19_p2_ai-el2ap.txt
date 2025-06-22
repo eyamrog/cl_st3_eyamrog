@@ -1,0 +1,9 @@
+The variables analyzed in the frequency domain were as follows:
+low frequency (LF) with a median value of 135.8 ms²
+(range: 13.7–2861.7 ms²), high frequency (HF) with a median value
+of 89.04 ms² (range: 4.14–5234.4 ms²), normalized low frequency (LFnu)
+with a mean of 57.57 ± 22.39, and normalized high
+frequency (HFnu) with a mean of 43.18 ± 22.64. The
+LF/HF ratio had a mean value of 2.1 ± 2.09
+ms². Additionally, 41.2% (n = 28) of the patients exhibited
+a high LF/HF ratio (> 2).

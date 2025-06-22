@@ -1,0 +1,14 @@
+We calculated the H of the cleaning bird species observed
+cleaning in Brazil and Africa registered in two previous works
+(Sazima et al. 2012; Mikula et al. 2017). Based on
+the birds species identified as cleaners, we selected the families
+that the species belong to. We identified a total number
+of 26 families. Then we compared the mean H of
+the 26 different bird families without the observed cleaners, with
+the mean H only of the cleaners, in the same
+given families (Fig 2). Our aim was to uncover a
+bias of generalist diet habits of cleaners, as we hypothesized
+that the cleaners would represent the species of their families
+with more diversification on their feeding habits. The details of
+the calculated H of the species and families can be
+accessed in Supplementary fig. 1.

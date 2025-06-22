@@ -1,0 +1,12 @@
+As previously noted, U-Multirank was not intended to provide an
+overall classification of educational institutions. Instead, it offers classifications based
+solely on specific performance indicators, which are organized into distinct
+dimensions. Consequently, this ranking system presents institutional performance profiles that
+highlight the strengths and weaknesses of each institution within each
+indicator and dimension. Based on this structure, users are able
+to create personalized rankings by selecting the dimensions and indicators
+they consider most relevant to their needs. Additionally, a common
+rationale for the adoption of a multidimensional approach is that
+one-dimensional rankings lack robustness, as minor adjustments to the weighting
+of indicators can lead to substantial changes in results, thereby
+significantly undermining the validity of such rankings.

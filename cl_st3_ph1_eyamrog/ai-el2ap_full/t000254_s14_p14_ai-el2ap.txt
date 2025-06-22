@@ -1,0 +1,5 @@
+NO represents the initial number of individuals; m denotes the
+number of deaths occurring during the interval between censuses (Δt
+= t1‑t0); and r indicates the number of individuals recruited,
+excluding those who died after recruitment, between censuses (Gomes et
+al. 2003).

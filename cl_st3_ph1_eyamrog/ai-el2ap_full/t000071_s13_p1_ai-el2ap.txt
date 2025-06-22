@@ -1,0 +1,20 @@
+First released in 2002, Open Journal Systems (OJS) was used
+by 25,671 active journals in 2020, spanning 155 countries, with
+81.7 percent of these journals based in the Global South,
+particularly in Indonesia, Brazil, and the United States, and publishing
+research in 56 languages, most commonly English, Indonesian, and Portuguese
+(Fig. 1). These journals published an average of 38.8 articles
+each in 2020, contributing to a total of over 4.7
+million articles since 2010. The Public Knowledge Project (PKP) collects
+these and other data from journals through the software’s optional
+beacon feature; however, as some users disable this feature, the
+reported figures likely underestimate the actual totals. Previous studies indicate
+that the majority of journals using OJS are open access
+(89 percent) and constitute 60 percent of so-called “diamond open
+access” journals, which do not charge subscription fees to readers
+or article processing charges to authors (Alperin et al., 2017;
+Becerril et al., 2021; Edgar & Willinsky, 2010). While most
+OJS journals are indexed by Google Scholar and, to a
+lesser extent, by the Directory of Open Access Journals, the
+OJS user base is diverse, including established journals, new and
+inexperienced publishers, and some journals with questionable practices.

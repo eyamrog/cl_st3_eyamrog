@@ -1,0 +1,7 @@
+Subsequently, based on an evaluation of the discrimination measures for
+the variables, a sixth dimension was added because, for three
+dimensions, the discrimination measures did not exceed the inertia of
+the respective dimensions. The inclusion of six dimensions accounted for
+78% of the variance and ensured that, for each dimension,
+at least one discrimination measure exceeded the inertia of its
+corresponding dimension. This modification resulted in an improved model fit.

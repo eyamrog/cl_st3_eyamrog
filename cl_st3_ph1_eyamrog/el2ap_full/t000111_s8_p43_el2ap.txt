@@ -1,0 +1,5 @@
+In Brazilian Portuguese, relative clauses have been analyzed as always
+involving wh-movement (Kato & Nunes, 2009), or sometimes not (Tarallo,
+1984; Kennedy, 2007; Medeiros Junior, 2020). Apart from this divergence,
+which I shall not address in this paper, the relative
+CP (in Portuguese) is usually introduced by que:

@@ -1,0 +1,6 @@
+Kapetanios, Shin & Snell (KSS) (2006)42 enhanced the Engle-Granger Cointegration
+Test and introduced it to the literature by applying this
+test to nonlinear models. The alternative hypothesis stating that there
+is a nonlinear long-term relationship between the variables is tested
+against the basic hypothesis stating that there is no cointegration
+relationship.

@@ -1,0 +1,6 @@
+Most disease-modifying drugs (DMDs) for multiple sclerosis (MS) require regular
+clinical evaluations, laboratory testing, and magnetic resonance imaging (MRI) to
+monitor disease activity and detect potential drug-related adverse effects. Lymphopenia,
+which can occur with agents such as fingolimod, dimethyl fumarate,
+and anti-CD20 monoclonal antibodies, is a significant concern due to
+its association with an increased risk of infectious diseases.

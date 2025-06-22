@@ -1,0 +1,22 @@
+With respect to age, the models indicate that the probability
+of remote work is higher for workers aged 16 to
+19 years, except when compared to those aged 60 to
+65. Although the marginal effects associated with age are small,
+this finding is notable because it initially appears to contrast
+with the results presented in Figure 3. When controlling for
+all other observable characteristics (Table 3), younger workers are somewhat
+more likely to work remotely than older workers. However, when
+these characteristics are not controlled for, the participation of young
+workers in remote work is lower than that of other
+age groups (Figure 3). As discussed by Yasenov (2020) and
+Gallacher and Hossain (2020), the lower participation rate of young
+workers in remote work, relative to their total population, is
+likely attributable to their concentration in occupations that are less
+amenable to remote work. Specifically, 41% of workers aged 16
+to 19 were employed in occupations such as store salesperson,
+farmer/gardener, office clerk, bricklayer and related roles, and production assistant,
+all of which have a very low incidence of remote
+work (see Figure 1). Furthermore, only 1.2% of young workers
+were employed in the public sector. Therefore, the result observed
+in Figure 3 reflects the occupational distribution of young workers
+rather than an intrinsic age effect.

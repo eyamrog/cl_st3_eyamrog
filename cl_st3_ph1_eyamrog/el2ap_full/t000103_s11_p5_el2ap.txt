@@ -1,0 +1,9 @@
+Examples (1) and (2) have pronominal anaphora since the anaphor
+is a pronoun. In Spanish or Portuguese, however, there is
+no need to use a pronoun in the subject position
+of the subordinate clause if the antecedent is also in
+the subject position of the main clause. These languages are
+called pro-drop languages, also known as null subject languages (Chomsky,
+1981; Rizzi, 1982). They allow null or zero anaphora when
+the antecedent is grammatically or pragmatically inferable, as seen in
+(3).

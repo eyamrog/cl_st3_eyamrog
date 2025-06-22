@@ -1,0 +1,11 @@
+The dynamic interaction between hosts and pathogens is characterized by
+ongoing evolutionary adaptations. Several studies have demonstrated that coronaviruses have
+evolved mechanisms to recognize a variety of host receptors, while
+hosts have concurrently developed strategies to counteract viral infection. For
+instance, Peng et al. (2017) reported that infection with murine
+hepatitis coronavirus (MHV) exerts selective pressure on the mouse receptor
+mCEACAM1a. This selective pressure has resulted in amino acid substitutions
+that produced a derived allele, mCEACAM1b, which exhibits significantly reduced
+functionality as an MHV receptor. As a result, mice homozygous
+for the mCEACAM1b allele display a high level of resistance
+to mortality following MHV infection (Peng et al., 2017).

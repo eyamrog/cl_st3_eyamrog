@@ -1,0 +1,6 @@
+Methods: The study included all confirmed cases of COVID-19 deaths,
+from the first confirmed death on March 17 until May
+15, 2020. These data were collected from an official Brazilian
+website of the Ministry of Health. The Boltzmann function was
+applied to a data simulation for each set of data
+regarding to all states of the country.

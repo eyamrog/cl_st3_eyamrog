@@ -1,0 +1,16 @@
+Differences in total chlorophyll content, carotenoid levels, and the carotenoid/chlorophyll
+ratio have been documented between sun- and shade-adapted leaves in
+various species (Demmig-Adams 1998; Lichtenthaler & Babani 2004; Lichtenthaler et
+al. 2007). The increased accumulation of chlorophyll observed in Mikania
+plants grown under shade conditions is considered a compensatory response
+to enhance light capture (Almeida et al. 2005). Chlorophyll undergoes
+continuous synthesis and degradation (photo-oxidation) in the presence of light;
+under high light intensity, the rate of photo-oxidation increases, and
+a steady-state balance is achieved at lower irradiation levels (Kramer
+& Kozlowski 1979). Reductions in chlorophyll content and Fv/Fm values
+serve as indicators of oxidative stress, as observed in plants
+developed under I0. In contrast, in M. laevigata grown under
+I25 and I50, the lower chlorophyll content compared to M.
+glomerata may contribute to photoprotection by reducing light interception, which
+is associated with higher Fv/Fm values in this species (Munné-Bosch
+& Alegra 2000).

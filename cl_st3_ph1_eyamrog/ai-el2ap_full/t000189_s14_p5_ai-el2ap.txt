@@ -1,0 +1,9 @@
+The article selection criteria included original observational studies conducted with
+individuals presenting respiratory infections that exhibited symptoms similar to those
+of COVID-19, published between 2010 and 2020 in English, Spanish,
+or Portuguese. The assessment of symptom similarity between the respiratory
+infections considered in this review and COVID-19 was based on
+the Epidemiological Bulletin on 2019-nCoV [13], which identifies a broad
+clinical spectrum shared by COVID-19 and other respiratory infections, including
+manifestations such as cough, fever, shortness of breath, and, in
+severe cases, pneumonia.

@@ -1,0 +1,8 @@
+We hypothesize that the abrupt change in the increasing trend
+observed around April 5th is attributable to the social distancing
+measures implemented in São Paulo State between March 16th and
+March 22nd. During this period, state decrees mandated remote work
+and the closure of non-essential businesses and educational institutions across
+the state. The observed time lag of approximately 17 days
+aligns with previously reported estimates of the average interval between
+symptom onset and death, which is 17.8 days.

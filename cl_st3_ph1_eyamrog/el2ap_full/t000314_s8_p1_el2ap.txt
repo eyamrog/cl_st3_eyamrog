@@ -1,0 +1,4 @@
+Coronavirus 2 has a sequence of 29902 nt (April 10th,
+2020) [1]. Its full lineage is: Viruses; Riboviria; Nidovirals; Cornidovirineae;
+Coronaviridae; Orthocoronavirinae; Betacoronavirus; Sarbecovirus; Severe acute respiratory syndrome-related coronavirus and
+its genbank acronym is SARS-CoV2.

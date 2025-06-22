@@ -1,0 +1,10 @@
+Figure 2 indicates that the direct relationships within the structural
+model were statistically significant and exhibited positive effects, as evidenced
+by the positive path coefficients. In the second-order hierarchical model,
+the Fiscal Council demonstrated a weaker association with Governance, with
+a path coefficient of 0.425, compared to other dimensions where
+Governance showed similar and higher coefficients ranging from 0.631 to
+0.727. This difference may be attributable to the fact that,
+under the legal framework applicable to the sampled Brazilian non-profit
+organizations (NPOs), the Fiscal Council is not a mandatory body
+for either NPOs or companies.

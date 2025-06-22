@@ -1,0 +1,6 @@
+The biochemical profile of vitamin D in patients diagnosed with
+COVID-19 has not yet been fully characterized. Therefore, assessing vitamin
+D concentrations in baseline blood samples may provide valuable information
+regarding the potential association between vitamin D status and COVID-19
+prognosis, and may help to evaluate the possible therapeutic role
+of vitamin D in the management of SARS-CoV-2 infection.

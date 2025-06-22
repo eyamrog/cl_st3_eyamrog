@@ -1,0 +1,5 @@
+Data on services and health status, including the percentage of
+the population covered by the Unified Health System, mortality rate
+from Human Immunodeficiency Virus, maternal mortality rate, and cervical cancer
+mortality rate, were obtained from the Health Information System websites
+of the Brazilian Ministry of Health.

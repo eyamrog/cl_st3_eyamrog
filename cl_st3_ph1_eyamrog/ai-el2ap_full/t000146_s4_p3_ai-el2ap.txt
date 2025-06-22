@@ -1,0 +1,15 @@
+The analysis of citation patterns based on the native language
+of the author’s country indicated a linear relationship between the
+proportion of publications in the native language and their corresponding
+impact. Brazil and the United States produce the lowest proportion
+of research in their respective native languages and demonstrate a
+greater reach in other languages. In contrast, Colombia, Cuba, Spain,
+and Peru publish a higher proportion of research in their
+native language, resulting in an impact that is primarily concentrated
+within the Spanish-speaking community. Additionally, it was observed that Spain
+and the United States exhibit their lowest citation impact within
+the SciELO database, suggesting that their citations are predominantly sourced
+from outside the SciELO CI domain. Conversely, the Latin American
+countries examined display a notable level of impact in this
+research area, achieving approximately two-thirds of the citation impact observed
+on the Web of Science platform.

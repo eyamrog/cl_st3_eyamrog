@@ -1,0 +1,7 @@
+The primary motivation for using a spatial econometric model stems
+from extensive empirical literature that considers space as an intrinsic
+feature of the housing market, and consequently, its essentially spatialized
+database (Arnold, 1987; 1998b). Also, the importance of testing the
+spatial association is related to two effects overlapping, once that,
+spatial heterogeneity can generate spatial autocorrelation, and spatial autocorrelation can
+generate spatial heterogeneity.

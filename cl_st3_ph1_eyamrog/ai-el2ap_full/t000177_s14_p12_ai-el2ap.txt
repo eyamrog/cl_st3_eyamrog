@@ -1,0 +1,5 @@
+The sixth option, shown in Figure 1e, depicts a HEPA
+unit recirculating air within the room after filtration. This configuration
+does not create negative pressure; therefore, the supply vent should
+be covered to prevent the buildup of high pressure within
+the room.

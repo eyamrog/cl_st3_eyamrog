@@ -1,0 +1,8 @@
+Measurements followed the methodology of Euzet and Le Brun (1990)
+and were obtained using LAS version 4.12.0 software (Fig. 3).
+Results are presented in micrometers (µm) as the mean, with
+the range in parentheses and the number of individuals examined
+indicated. Illustrations of the sclerotized structures of the Monogeneans were
+produced in CorelDRAW 2019, based on photographs captured with a
+digital camera. All statistical analyses were conducted using R version
+4.1.2 (R Core Team, 2022).

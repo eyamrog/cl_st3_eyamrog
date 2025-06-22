@@ -1,0 +1,6 @@
+The striking difference between the two study designs is the
+observation period. In the SCRI design, the index date is
+the vaccination date, and it is used to define the
+risk and control period. On the other hand, the SCCS
+design choses an observation period independent of the vaccination date
+and all cases are identified in the observation period (14).

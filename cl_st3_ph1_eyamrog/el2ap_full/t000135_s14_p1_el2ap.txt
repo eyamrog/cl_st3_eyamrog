@@ -1,0 +1,9 @@
+This is an ecological, retrospective, observational study using secondary data
+from several public databases, comprising all 5,564 Brazilian municipalities and
+with data from information systems in the National Public System
+(Sistema Único de Saúde - SUS). This equates to 99.9%
+of Brazil’s 5,570 municipalities. All of the data that comprised
+the study variables were extracted from secondary databases in the
+public domain, not therefore requiring approval from the Research Ethics
+Committee. Data collection was carried out by a single researcher
+in February 2021.

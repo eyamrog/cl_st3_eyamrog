@@ -1,0 +1,16 @@
+The concept of a multi-dimensional ranking system was first introduced
+in 2008 (Van Vught & Ziegele, 2012). Subsequently, the European
+Commission initiated the development of a multidimensional academic ranking system.
+Following preliminary testing, the first comprehensive set of results was
+published in May 2014. The ranking was developed and implemented
+by the European Commission through a consortium comprising the Centre
+for Higher Education (CHE) in Germany, the Center for Higher
+Education Policy Studies (CHEPS) at the University of Twente in
+the Netherlands, the Centre for Science and Technology Studies (CWTS)
+at Leiden University in the Netherlands, and the Foundation for
+Knowledge and Development (Fundación CYD) in Spain. The project is
+led by Dr. Frans van Vught (CHEPS) and Dr. Frank
+Ziegele (CHE). Although the ranking is relatively recent, its adoption
+has been increasing. The 2020 edition included 1,788 universities from
+92 countries, encompassing approximately 5,000 faculty members and more than
+11,400 programmes across 28 subject areas (https://www.umultirank.org/about/u-multirank/frequently-asked-questions/).

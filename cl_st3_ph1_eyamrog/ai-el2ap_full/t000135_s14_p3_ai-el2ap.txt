@@ -1,0 +1,10 @@
+The exposure variable in this study was defined as the
+occurrence of the COVID-19 pandemic, with the objective of estimating
+the impact of SARS-CoV-2 on the Brazilian Public Health System.
+The monthly rate of procedures during the pandemic period (February
+to December 2020) was compared to the rates observed in
+the corresponding months of 2019 and 2018, in order to
+control for potential seasonal variations. For the purposes of this
+analysis, the onset of the pandemic in Brazil was considered
+to be February 2020, corresponding to the first confirmed case
+of SARS-CoV-2 infection in the country.

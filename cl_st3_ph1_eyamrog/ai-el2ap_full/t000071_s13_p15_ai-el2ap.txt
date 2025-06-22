@@ -1,0 +1,14 @@
+For example, when editors, editorial board members, reviewers, and authors
+initially register with a journal’s publishing platform, they are required
+to log in using their ORCiD credentials (Fig. 2). To
+be designated as the editor of a journal, an additional
+ORCiD login is necessary, during which this new role is
+added to the individual’s ORCiD profile. ORCiD then provides the
+journal with a hyperlinked ORCiD icon, allowing readers and authors
+to access information about the editor’s background and qualifications, with
+the assurance that identities have been authenticated and that concerns
+can be addressed through ORCiD if necessary. While such systems
+are not immune to circumvention, as no technology is entirely
+secure, the level of effort required to bypass these measures
+without detection is significantly increased, and the system can be
+further enhanced in response to any violations.

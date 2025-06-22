@@ -1,0 +1,7 @@
+Comparing the dynamics of the two successional plant groups with
+> 2.5 cm dbh showed that the annual mortality of
+early-successional plants did not differ from that of late-successional plants
+(Mann-Whitney Test, U = 45, p = 0.73, table 4),
+whereas the annual recruitment of late-successional plants was higher than
+that of early-successional plants (U = 22, p = 0.02,
+figure 5).

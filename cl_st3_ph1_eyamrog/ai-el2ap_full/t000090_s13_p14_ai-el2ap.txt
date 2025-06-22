@@ -1,0 +1,11 @@
+To further examine this issue, Figure 3 presents the results
+of the three approaches for generating general classifications. The horizontal
+axis represents the ranking position assigned by “U-Multirank” based solely
+on the number of “A” scores. The vertical axis displays
+three sets of data points: the institutional ranking position according
+to “U-Multirank” (blue dots), the ranking position based on the
+average of indicators (red dots), and the ranking position based
+on the average of dimensions (green dots). The analysis includes
+1,070 European academic institutions listed in the 2020 edition of
+“U-Multirank.” European institutions were selected due to the greater completeness
+of their databases compared to those from other continents.

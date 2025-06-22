@@ -1,0 +1,20 @@
+One of the tools to monitor the dynamics of the
+Covid-19 pandemic has been, from its earliest days, the international
+comparison of mortality rates. The indisputable evidence that lethality is
+exponentially related to the age of the affected people implies
+that, for many purposes, a more appropriate indicator should compensate
+for differences in the age profile between populations. This article
+sets out a method for calculating such standardized mortality rates,
+which take into account both the discrepancies in the age
+pyramids and the mortality rates by age groups. Advancing relatively
+to the few other similar initiatives found in the literature,
+the method is applied to a group of 28 countries
+that on 1/28/2021 accounted for 82% of deaths caused by
+the pandemic. The age-adjusted mortality rates describe a picture quite
+different from that portrayed by the crude rates, with three
+different patterns of mortality. Six Latin American countries and South
+Africa assume leading positions in the ranking calculated based on
+these rates. Moreover, a partial but sufficiently accurate update of
+the calculation based on the number of deaths until 3/26/2021
+indicates that in this ranking Brazil only stands behind Mexico
+and Peru.

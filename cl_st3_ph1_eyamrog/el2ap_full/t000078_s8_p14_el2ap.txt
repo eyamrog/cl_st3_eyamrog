@@ -1,0 +1,11 @@
+The following two procedures are transformations of the pioneer method
+proposed by McDonald (1987). The method considers the residues of
+a log density specification of employment. The main contribution offered
+by Craig and Ng (2001) is to eliminate the problem
+of the discretion of the previous method. The authors use
+quantile regression focusing on the 95th percentile of the employment
+density distribution. They consider the rings that present high density
+and employment, given their knowledge of the city. McMillen's (2001b)
+criticizes the estimation of symmetric density function around the CBD
+and the a priori researcher’s knowledge of employment distribution in
+the city under analysis.

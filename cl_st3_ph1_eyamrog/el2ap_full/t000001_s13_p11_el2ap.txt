@@ -1,0 +1,11 @@
+Long-read polishing is done before short-read polishing because it is
+less influenced by genomic repeats. A ‘repeat’ in this context
+is a sequence which causes reads to align to multiple
+and/or incorrect positions of the genome. For example, some 150-bp
+short reads will be contained within the rRNA operon and
+will therefore align to multiple places, making the operon a
+repeat and impairing the ability of polishers to repair errors.
+With 20 kbp long reads, however, all can span the
+rRNA operon and therefore align uniquely, so the operon is
+not a repeat, ensuring that polishing changes occur in the
+correct instances of the operon.

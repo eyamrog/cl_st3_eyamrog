@@ -1,0 +1,15 @@
+IBGE surveys (2018) show that 33% of the Brazilian population
+is somehow digitally excluded. It may seem like a good
+result if we consider that, in 2009, it was practically
+the opposite: only 39% of the population accessed the Internet.
+However, when we look closely at the current data, it
+is observed that 50% of the Brazilian population of classes
+D and E still do not have access to the
+Internet; while more than 90% of classes A and B
+have such access (CGI.br, 2019a). These figures show that, fundamentally,
+the digital divide is not the result of an age
+group that has or has not had contact with ICT
+since childhood. Despite some advantage of the so-called digital natives,
+digital exclusion has more to do with the opportunities for
+access to digital devices, as well as with their learning
+opportunities (Conceição, 2019; Krug et al., 2018).

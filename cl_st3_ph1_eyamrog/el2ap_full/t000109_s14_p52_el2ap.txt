@@ -1,0 +1,4 @@
+Finally, as the model represents many aspects of reality through
+different parameters in an explicit way, the information obtained was
+assessed ad hoc and the parameters were adjusted by an
+expert.

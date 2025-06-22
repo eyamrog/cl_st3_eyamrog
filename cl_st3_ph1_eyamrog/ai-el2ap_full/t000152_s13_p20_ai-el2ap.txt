@@ -1,0 +1,9 @@
+The geographic remoteness of many municipalities and the limited availability
+of broadband internet in both urban and rural households have
+significantly constrained the adoption of distance learning modalities during the
+pandemic. Data from the 2018 Survey on the Use of
+Information and Communication Technologies in Brazilian Households, conducted by the
+Brazilian Internet Steering Committee (2019) with a sample of just
+over 33,000 households, indicate that internet access is not yet
+universal, with particularly low coverage in rural areas, where only
+44% of surveyed households reported having internet access.

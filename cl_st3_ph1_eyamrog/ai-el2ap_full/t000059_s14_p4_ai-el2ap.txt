@@ -1,0 +1,7 @@
+Both indices were summarized using the median, interquartile range, total
+range, and 95th percentile. The association between the indices and
+journal size was visualized using scatter plots generated with ggplot2,
+version 3.3.5 (Wickham 2016). To examine the influence of journal
+subject and country, the scatter plots were overlaid with separate
+smoothing splines for each subject or country represented by at
+least 20 journals.

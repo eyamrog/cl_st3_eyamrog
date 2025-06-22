@@ -1,0 +1,8 @@
+The primary distinction between the two study designs lies in
+the definition of the observation period. In the self-controlled risk
+interval (SCRI) design, the index date is the vaccination date,
+which serves as the reference point for delineating both the
+risk and control periods. In contrast, the self-controlled case series
+(SCCS) design establishes an observation period that is independent of
+the vaccination date, and all cases are identified within this
+predefined observation period (14).

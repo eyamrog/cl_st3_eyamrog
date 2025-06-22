@@ -1,0 +1,10 @@
+The data were further examined by assessing variations in code
+frequencies across tasks (question 2) and applying statistical analyses to
+identify significant differences. The dataset met the assumptions required for
+non-parametric tests comparing three or more groups, as indicated by
+the Fligner-Killeen test results, which were above the significance threshold
+for all codes except D_EVA when comparing tasks or groups
+(p > 0.05). Consequently, non-parametric methods, specifically the Kruskal-Wallis test
+followed by the post-hoc Nemenyi test, were used to analyze
+group comparisons. The codes labeled as ‘other’ and ‘inaudible’ were
+excluded from the analysis.

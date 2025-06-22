@@ -1,0 +1,5 @@
+The independent variables utilized in this study were obtained from
+several national databases covering the period from 2013 to 2017,
+with the mean values calculated for each variable based on
+the available data. A detailed description of these variables is
+provided below.

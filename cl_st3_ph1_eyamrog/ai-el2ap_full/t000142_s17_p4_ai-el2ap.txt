@@ -1,0 +1,8 @@
+Linearity tests are based on models employing smooth transition autoregressive
+(STAR) frameworks. These tests serve as preliminary assessments for determining
+the appropriateness of STAR-type models. Unlike other linearity tests, those
+introduced by Harvey do not require any specific preconditions. Given
+their primary advantage of being unaffected by the stationarity properties
+of the data, the tests developed by Harvey and Leybourne
+(2007) and Harvey, Leybourne, and Xiao (2008) were utilized to
+assess linearity in this study.

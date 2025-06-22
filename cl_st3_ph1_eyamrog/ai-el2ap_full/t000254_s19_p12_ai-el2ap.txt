@@ -1,0 +1,19 @@
+Over the 6.5-year study period, shrubs and trees with a
+diameter at breast height (dbh) greater than 2.5 cm exhibited
+a significantly higher mean mortality rate (8.68 ± 0.96%) compared
+to mean recruitment (4.56 ± 0.96%; t-test, df = 7,
+t = 3.03, p < 0.02). For climbers with dbh
+> 2.5 cm, there was a non-significant trend toward higher
+mortality (median = 28.75%) relative to recruitment (median = 7.14%;
+Mann-Whitney test, U = 28, p = 0.097). When data
+from an area with 100% mortality and recruitment were excluded,
+mortality (median = 20%) remained significantly greater than recruitment (median
+= 0%; Mann-Whitney test, U = 18.5, p = 0.05).
+During the same period, recruitment of shrubs and trees with
+dbh < 2.5 cm (19.65 ± 2.03%) did not differ
+significantly from mortality (12.96 ± 2.22%; t-test, df = 7,
+t = 2.22, 0.05 < p < 0.10), although a
+trend was observed. In contrast, climbers with dbh < 2.5
+cm demonstrated significantly higher recruitment (median = 100%; Mann-Whitney test,
+U = 17, p = 0.011) than mortality (median =
+41.67%).

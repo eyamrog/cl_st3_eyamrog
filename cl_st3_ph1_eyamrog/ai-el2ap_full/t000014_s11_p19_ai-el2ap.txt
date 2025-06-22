@@ -1,0 +1,8 @@
+Websites enable content sharing and can be configured to enhance
+discoverability by search engines through the addition of appropriate code.
+Although it is possible to restrict access to website content,
+implementing such restrictions can present technical challenges. By default, traditional
+copyright protection applies to website content; however, developers have the
+option to apply specific rights statements or open licenses, such
+as those provided by Creative Commons, to individual webpages and
+associated files.

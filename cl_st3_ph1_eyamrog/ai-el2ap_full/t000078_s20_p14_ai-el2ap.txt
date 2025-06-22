@@ -1,0 +1,6 @@
+The SLX model that controls for SBD demonstrates the most
+appropriate theoretical and econometric fit. The coefficients for CBD exhibit
+the expected signs as indicated by theoretical considerations. Additionally, the
+analysis of SBD employs the log-level functional form, as this
+specification yields a higher adjusted R² compared to the level-level
+specification.

@@ -1,0 +1,8 @@
+Also this study focuses on Foreign Direct Investment (FDI) inflows
+and how they are linked with the economic indicators in
+Turkey including the Real Effective Exchange Rate (REER), and Gross
+Domestic Product per capita of Purchasing Power Parity - GDP
+(PPP) in Turkey. The GDP (PPP) variable is used because
+it shows significant causality on REER, along with the exchange
+rate volatility of the U.S Dollar in the Turkish stock
+market.

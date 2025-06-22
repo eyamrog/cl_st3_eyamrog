@@ -1,0 +1,27 @@
+Once the complete genomic RNA and mRNAs of each structural
+ORFs are produced, the translation of these genes begins to
+occur (figure 2, process 3), generating the S, E, M
+and N proteins, which are essential for the assembly of
+the viral particles, among others (ORFs 3a, 6, 7a /
+b, 8 and 9). The specific functions of these proteins
+will be described later. The viral replication cycle then continues
+through the interaction of the N protein with viral genomic
+RNA, forming the nucleocapsid in the cytosol (figure 2, process
+4). On the other hand, the production of S, E,
+and M proteins are directed to the rough endoplasmic reticulum
+(RER) (Fehr and Perlman 2015). Finally, interactions mediated between these
+structural proteins culminate in the recruitment of nucleocapsids into the
+compartment between RER and the Golgi apparatus called ERGIC (Endoplasmic
+Reticulum - Golgi Intermediate Compartment) and finally in the exocytosis
+of the viral particles (figure 2, processes 5 and 6)
+(Fehr and Perlman 2015). An important feature related to the
+replication of coronaviruses is the high rates of mutation and
+recombination, altering viral protein properties, host range, and pathogenicity. For
+example, the heterologous recombination between subgroup A Betacoronavirus and other
+virus is reported, since some of these coronaviruses have the
+hemagglutinin esterase gene, derived from influenza C virus (Zeng et
+al. 2008). The recombination between coronaviruses targeting different species is
+also largely reported and may explain the similarity between the
+genome sequence of human SARS-CoV-2 and bat and pangolin coronaviruses
+(Lu et al. 2020; Lau et al. 2020). Three aspects
+may explain this increased capacity for recombination/mutation:

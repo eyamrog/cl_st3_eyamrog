@@ -1,0 +1,14 @@
+Inflammatory bowel disease (IBD) in pediatric patients is frequently characterized
+by greater disease extent and severity compared to adults. Consequently,
+SARS-CoV-2 infection presenting with gastrointestinal symptoms is a particular concern
+in pediatric IBD (PIBD) populations. As of April 3, 2020,
+data from the SECURE-IBD registry indicated that eleven children under
+the age of 19 had been reported with SARS-CoV-2 infection
+out of a total of 275 IBD patients, with no
+cases originating from Brazil. Among these, only one patient was
+younger than nine years; all cases were managed as outpatients,
+and no fatalities were reported. These observations raise several important
+questions: Are PIBD patients at increased risk of SARS-CoV-2 infection?
+Is the clinical course of infection in PIBD more severe
+than in adults? Should IBD treatment be delayed or discontinued
+during SARS-CoV-2 infection?

@@ -1,0 +1,7 @@
+The specification of Equation 1 does not align with the
+conventional approaches found in either the theoretical or empirical urban
+economics literature. As noted by Hermann and Haddad (2005), studies
+in this field typically employ either a linear or a
+semi-logarithmic functional form for the hedonic price function. Therefore, the
+estimation of Equation 1 will be conducted using both of
+these functional forms.

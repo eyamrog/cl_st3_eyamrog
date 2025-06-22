@@ -1,0 +1,24 @@
+Scholarly journals should assess the perspectives of their respective communities
+prior to implementing any of the seven characteristics of open
+peer review. Evidence from surveys conducted in the Global North
+may not be applicable to the Global South, where double-blind
+peer review remains prevalent, including in journals focused on the
+natural sciences and medicine. This study presents the results of
+a survey investigating attitudes toward open peer review among four
+stakeholder groups associated with a scholarly-led medical journal in Brazil:
+society members, journal readers, authors, and reviewers. In comparison to
+a previous survey that primarily included researchers in the natural
+sciences from Europe, the present survey identified comparable levels of
+support for open peer review overall and for most of
+its individual traits. A notable exception was the trait of
+open identities, which the majority of participants in this study
+perceived as detrimental, with this negative perception being even more
+pronounced than in the earlier survey. However, participants demonstrated less
+opposition to open identities when responding to statements regarding its
+specific consequences. Given the increasing adoption of preprints, which are
+not compatible with double-blind review, further research is warranted to
+investigate the impact of transitioning from double-blind to open identities,
+particularly with respect to gender bias. In the interim, journals
+currently utilizing double-blind review may consider initially adopting other aspects
+of open peer review or offering open identities as an
+optional feature.

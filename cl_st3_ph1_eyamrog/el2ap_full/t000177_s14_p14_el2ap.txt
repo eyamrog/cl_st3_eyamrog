@@ -1,0 +1,5 @@
+Decontamination Unit: Compact decontamination units as shown in Figure 2
+can be installed in the room or outside, capturing the
+air and exhausting it to the outside. Exhaustion must be
+considered in places with risk of contamination; such as rooms
+for patients with infectious diseases.

@@ -1,0 +1,7 @@
+Sensitivity analyses (Table 5) were conducted by excluding the last
+two months of notifications to account for delays in data
+management in Rio de Janeiro, and by considering all missing
+cases for the variable "evolution" as non-cases, which is expected
+to provide a more conservative estimate. In both scenarios, the
+analyses demonstrated a consistent pattern of substantial disparities in mortality
+in Rio de Janeiro.

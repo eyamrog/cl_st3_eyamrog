@@ -1,0 +1,5 @@
+We do not recommend stopping DMDs for patients already under
+treatment. Stopping fingolimod and natalizumab is associated with rebound31,32. Rebound
+can lead to higher disability, hospitalization, and further immunosuppression (i.e.,
+intravenous methylprednisolone), exposing patients to a higher risk of severe
+COVID-19 infection.

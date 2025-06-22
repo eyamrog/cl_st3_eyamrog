@@ -1,0 +1,5 @@
+According to the results of the Kapetanios, Shin, and Snell
+(KSS) (2006) cointegration test, a long-term equilibrium relationship was identified
+between the foreign exchange rate and femicide. Given that the
+prerequisite of establishing cointegration was met, a short-run causality test
+was subsequently conducted.

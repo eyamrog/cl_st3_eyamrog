@@ -1,0 +1,9 @@
+Current evidence indicates an international consensus that patients with inflammatory
+bowel disease (IBD) are not at increased risk of SARS-CoV-2
+infection compared to the general population; however, it remains unclear
+whether active inflammation in IBD patients contributes to a higher
+susceptibility to SARS-CoV-2. Additionally, it is uncertain whether IBD patients
+who contract SARS-CoV-2 are at greater risk of developing COVID-19,
+or experience higher rates of complications or mortality associated with
+the disease. Data on outcomes in immunosuppressed IBD patients with
+SARS-CoV-2 infection are particularly limited.

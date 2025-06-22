@@ -1,0 +1,23 @@
+This article begins by outlining the fundamental aspects of archiving
+in language documentation initiatives, including the rationale for archiving, its
+benefits, and practical approaches to implementation (§2). To promote the
+quality, longevity, and accessibility of language resources, the discussion addresses
+current best practices in digital curation, contrasts established language archives
+with other online platforms, examines the advantages of archiving, and
+considers key decisions regarding the selection and timing of materials
+to be archived. The article also examines the process of
+selecting appropriate archives, with particular attention to the availability, structure,
+and maintenance of archives relevant to Brazilian indigenous languages and
+related documentation projects; the archive of the Museu Paraense Emílio
+Goeldi serves as a case study in this context (§3).
+Subsequent sections address the relationship between archives and communities, emphasizing
+the ethical considerations of informed consent and community access to
+documentation, illustrated by a case study from Jorge Emilio Rosés
+Labrada’s work with Mako speakers in Venezuela (§4). The importance
+of archiving legacy materials—those produced prior to the digital era
+and often preserved on fragile, short-lived media—is discussed in §5.
+Section 6 returns to the Brazilian context, presenting a detailed
+case study of documentation and archiving projects involving the Paresi-Haliti
+and Enewane Nawe languages, conducted by Ana Paula Brandão, which
+exemplifies many of the issues previously discussed. The article concludes
+with final observations in §7.

@@ -1,0 +1,6 @@
+Finally, Figure 7 shows accumulated number of deaths from COVID-19
+estimated by the model in the period under study. This
+model output is directly verifiable with data field, and it
+follows that the number of accumulated deaths matches the amount
+reported by the UTN FRCU - COVID-19 GIBD Research Group
+Databases 13 for Paraná city.

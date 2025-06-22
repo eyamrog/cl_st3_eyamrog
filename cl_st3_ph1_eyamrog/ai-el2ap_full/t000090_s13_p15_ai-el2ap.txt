@@ -1,0 +1,23 @@
+The differences in institutional rankings across the classification methods are
+substantial. Statistical correlations were calculated for each pair of classification
+approaches, yielding the following results: “U-Multirank” versus the average of
+Indicators, 0.8035; “U-Multirank” versus the average of Dimensions, 0.6179; and
+the average of Indicators versus the average of Dimensions, 0.8403.
+These results indicate that the highest similarity is observed between
+the averages of Indicators and Dimensions, whereas the “U-Multirank” methodology
+produces less correlated outcomes, particularly when compared to the average
+of Dimensions. Based on these findings, the use of the
+average of Dimensions appears to be the most appropriate method
+for generating a general classification, and it is therefore employed
+in this study to identify the top 300 performing institutions
+in Europe in 2020. The impact of missing or “Not
+Applicable” data is present in all classification methods. In the
+“U-Multirank” classification, missing data do not contribute to an “A”
+grade, while in the average of Indicators and average of
+Dimensions classifications, missing data are treated as zero. This approach
+may have a greater effect on the latter two classifications;
+however, this study considers it justified to penalize institutions that
+did not submit data, as this is the sole reason
+for missing values. “Not Applicable” data occur much less frequently
+and do not significantly influence the statistical conclusions presented in
+this study.

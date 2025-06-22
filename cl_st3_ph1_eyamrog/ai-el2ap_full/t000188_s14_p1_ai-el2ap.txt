@@ -1,0 +1,6 @@
+This epidemiological study employed mathematical modeling and geoprocessing techniques, using
+all twenty-seven states of Brazil as the spatial units of
+analysis. Brazil has a territorial area of 8,514,876 km², representing
+approximately 1.6% of the Earth's total surface and accounting for
+20.8% of the area of the Americas and 48% of
+the area of South America.

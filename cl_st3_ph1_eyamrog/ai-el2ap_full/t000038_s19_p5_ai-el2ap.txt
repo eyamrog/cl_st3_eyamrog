@@ -1,0 +1,7 @@
+The Measure of Sampling Adequacy (MSA) suggested the removal of
+item 21 ("Recently, I rarely talk to my family") due
+to its low MSA value (0.55089) (Lorenzo and Ferrando, 2021).
+However, Pratt's relative importance indicator, which assesses the extent to
+which each factor accounts for the variance in the item,
+indicated that item 21 is significant for the first factor.
+Consequently, the decision was made to retain the item.

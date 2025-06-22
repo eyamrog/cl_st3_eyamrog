@@ -1,0 +1,8 @@
+Datacenter facilities are increasingly adopting adiabatic cooling systems to achieve
+energy savings, as measured by indices such as Energy Usage
+Effectiveness Design (EUED) and Total Water Impact (TWI). The maintenance
+of moderately higher humidity levels (45%–65%) in these environments supports
+the effective operation of adiabatic systems and permits higher chilled
+water inlet temperatures for air conditioning units. This approach improves
+compressor efficiency and contributes to overall reductions in energy consumption
+[40–41].

@@ -1,0 +1,12 @@
+The first germination count, conducted seven days after sowing, showed
+that seeds exhibited delayed germination under saline stress. A progressive
+decline in the percentage of normal seedlings was observed with
+increasing NaCl concentrations, with complete inhibition of germination occurring at
+-0.3 MPa of CaCl2 (Figure 1b). This result may be
+attributed to a reduced rate of seed water absorption as
+water potential decreases, while elevated salt concentrations can induce cytotoxicity
+and cellular dehydration, thereby diminishing metabolic activity and inhibiting the
+synthesis of new tissues due to limited water availability (Marcos
+Filho, 2015). Consequently, reduced water accessibility can lower the proportion
+of seeds completing germination or entirely prevent the process (Velázquez-Márquez
+et al., 2015).

@@ -1,0 +1,15 @@
+The number of studies that have evaluated measurement invariance in
+job satisfaction scales is limited, resulting in few instruments with
+sufficient evidence to support group comparisons. Despite this, comparisons between
+groups are frequently conducted even in the absence of adequate
+evidence, which may lead to biased results if measurement invariance
+is not established. For example, one study demonstrated measurement invariance
+by comparing physicians and nurses from 14 European countries, indicating
+that cultural factors may permit the assessment of different organizational
+variables among these professionals over time. In the present study,
+measurement invariance of the scales was tested, enabling valid comparisons
+across groups defined by marital status, presence of occupational or
+chronic diseases, and, for the working conditions and health center
+management scales, by sex, age group, medical specialty, employment at
+another institution, and length of service. The results indicate that
+these group comparisons are not affected by measurement bias.

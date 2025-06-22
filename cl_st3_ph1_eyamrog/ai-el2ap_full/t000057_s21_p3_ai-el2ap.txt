@@ -1,0 +1,18 @@
+Our median infiltration capacity estimate exceeded the rainfall intensities observed
+during various storms in the region (Figure 4). Therefore, infiltration-excess
+overland flow is unlikely to occur in this forest. However,
+penetration resistance measurements indicated a probable decrease in permeability with
+soil depth, which is consistent with the presence of a
+plinthic horizon. Previous research on plinthic soils has demonstrated the
+formation of a perched water table above such layers (Moraes
+et al. 2006). Additionally, riparian forests, such as the one
+examined in this study, are typically located in areas with
+shallow water tables (Ribeiro & Walter 2008). If the water
+table, whether perched or not, intersects the soil surface, both
+return flow and overland flow may be initiated (Dunne &
+Black 1970a, b; Elsenbeer & Vertessy 2000), resulting in saturation
+overland flow. In such cases, these zones may function as
+sources of surface runoff rather than as sinks, contrary to
+common expectations. Further research is required to better understand the
+percolation capacities of these soils and their implications for runoff
+processes.

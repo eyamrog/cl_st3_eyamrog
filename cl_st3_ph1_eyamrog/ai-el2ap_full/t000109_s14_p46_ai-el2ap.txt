@@ -1,0 +1,14 @@
+Table 3 presents the matrix values 𝐴ℎ,𝑒,𝑙 for the Hidden
+Markov Model (HMM) corresponding to a specific neighborhood l, for
+the age group 0 (Children) and time slot 0 (Morning).
+In this context, a0,0,l(i, j) represents the probability that a
+child (e = 0) from neighborhood l, during the morning
+(h = 0), transitions from state i (row) to state
+j (column). Specifically, a0,0,l(1, 2) = 25 indicates the probability
+value (multiplied by 1000) that a child from neighborhood l,
+within time slot 0, leaves a work/study location (state 1)
+and moves to a leisure location (state 2). Appendix A
+provides the complete set of probability matrices A and B
+for all age groups, time slots, and neighborhoods defined in
+AbCSim, corresponding to the first phase of the Preventive and
+Mandatory Social Isolation (PMSI) implemented by the Argentine National Government.

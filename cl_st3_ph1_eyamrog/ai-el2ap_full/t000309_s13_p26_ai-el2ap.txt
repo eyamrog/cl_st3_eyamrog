@@ -1,0 +1,8 @@
+Prior to proceeding to the operating room, several factors should
+be evaluated, including the local risk of SARS-CoV-2 infection, anticipated
+length of hospital stay, potential surgical complications, and the presence
+of clinical comorbidities that may increase morbidity or mortality. If
+surgical intervention is determined to be necessary, informed consent must
+be obtained, explicitly addressing the risk of SARS-CoV-2 infection. Preoperative
+testing for COVID-19 is recommended for all surgical patients; however,
+in our institution, testing is currently limited to symptomatic individuals.

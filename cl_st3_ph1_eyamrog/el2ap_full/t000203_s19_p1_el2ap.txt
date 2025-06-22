@@ -1,0 +1,4 @@
+The incidence, mortality, and lethality rates for each group were
+calculated, as shown in Table 1. To facilitate the interpretation
+of results, incidence and mortality numbers are presented based on
+100,000 inhabitants and lethality numbers based on 100 cases.

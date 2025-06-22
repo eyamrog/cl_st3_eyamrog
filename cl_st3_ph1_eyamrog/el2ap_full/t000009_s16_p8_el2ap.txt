@@ -1,0 +1,8 @@
+Data analysis was based on Aaker and Day (1990), in
+whose methodology nominal and ordinal analyses of tabulated data are
+conducted. In the former, personal, academic, and professional features of
+the subjects were identified, and in the latter, features that
+recurred among participants were analyzed. Because the questionnaire was online,
+data were automatically tabulated, and Microsoft Word and Excel were
+used for data description and analysis, as well as for
+the design of tables and charts.

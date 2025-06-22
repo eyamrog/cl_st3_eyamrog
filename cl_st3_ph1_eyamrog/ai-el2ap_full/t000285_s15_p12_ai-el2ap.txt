@@ -1,0 +1,14 @@
+One author (KMM) will initially screen the titles and abstracts
+of studies for potential inclusion in this review. In cases
+where duplicate studies are identified, only one instance will be
+retained. If multiple reports are found that involve the same
+participants but differ in outcome measures or assessment time points,
+these will be considered collectively as a single study. Following
+the removal of duplicates, KMM will review the titles and
+abstracts to exclude studies that clearly do not meet the
+eligibility criteria. The remaining studies will undergo full-text assessment by
+two authors (APR and ACPNP) to determine final inclusion. Any
+disagreements regarding study selection will be resolved by a third
+author (KMM). The reasons for study exclusion will be documented.
+The Rayyan software (6) will be utilized to facilitate the
+screening and selection process.

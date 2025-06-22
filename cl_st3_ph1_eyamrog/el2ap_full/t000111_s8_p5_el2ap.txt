@@ -1,0 +1,14 @@
+It is therefore necessary to search for an explanation for
+these facts, and it seems that this explanation lies in
+the characterization of both types of sentence, as well as
+in the description of their syntactic-semantical behavior. In order to
+implement the analysis, I shall first discuss briefly the characteristics
+of apposition; then, I shall focus on the examination of
+appositive sentences, especially the Brazilian Portuguese data found in (1)
+and (2). The paper is organized as follows: in section
+1, I discuss apposition in general and sentential apposition, as
+well discussing the typology of sentential apposition in Brazilian Portuguese.
+In section 2, I focus on Brazilian Portuguese QUEM sentences,
+with a special look at free relative sentences. Section 3
+contains the analysis I implement in this paper and section
+4 holds the final remarks.

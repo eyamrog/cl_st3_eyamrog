@@ -1,0 +1,11 @@
+To obtain the average of Dimensions, it is first necessary
+to make the average for each Dimension of the “U-Multirank”.
+Then, it is interesting to see the distribution of those
+averages. To have a general first idea, we build Figure
+4. The horizontal axis shows the average of the Dimensions
+for each Institution. In the vertical axis we have the
+average for Teaching and Learning (in blue diamonds), Research (in
+red squares), Knowledge Transfer (in green triangles), International orientation (in
+purple circles) and Regional Engagement (in blue X). The 1070
+European academic institutions listed in the 2020 version of the
+“U- Multirank” are also used here.

@@ -1,0 +1,15 @@
+In agreement with several members of the scientific community, we
+recognize that open data is essential for enhancing the quality
+of science by promoting transparency, reproducibility, efficiency, and societal benefits
+(Molloy, 2013). Public databases are fundamental to advancing open science
+and ensuring reproducibility; therefore, the availability of sequencing data on
+these platforms is critical for scientific research and should be
+both practiced and encouraged. Furthermore, we emphasize the importance of
+establishing a national genome sequencing plan, coordinated by public and
+private research institutions, to increase the representation of Peruvian genetic
+information in public databases, facilitate collaboration among institutions, and provide
+resources to address issues in areas such as agriculture, public
+health, and biodiversity conservation. Additionally, we recommend the implementation of
+a nationwide capacity-building initiative to train a new generation of
+Peruvian bioinformaticians, who will be essential for addressing future challenges
+related to biodiversity.

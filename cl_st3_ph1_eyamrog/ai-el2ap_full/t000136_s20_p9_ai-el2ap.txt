@@ -1,0 +1,4 @@
+Operationally, governance is conceptualized as a second-order construct, indicated by
+the dimensions identified through Multiple Correspondence Analysis (MCA): Board, Management,
+Fiscal Council, Transparency, Accountability, and Independent Audit. Each of these
+dimensions comprises specific governance mechanisms derived from the theoretical framework.

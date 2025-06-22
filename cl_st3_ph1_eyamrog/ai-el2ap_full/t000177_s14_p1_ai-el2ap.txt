@@ -1,0 +1,9 @@
+The transmission routes of the infectious agent require thorough assessment.
+For COVID-19, current evidence indicates that two primary transmission routes
+are predominant: transmission via large respiratory droplets, which are expelled
+during activities such as sneezing, coughing, or talking, and transmission
+via surface (fomite) contact, including hand-to-hand or hand-to-surface interactions. An
+additional transmission route that has recently attracted increased scientific attention
+is the fecal-oral route [14]. Table 1 presents the relationship
+between aerosol droplet size and exposure time. The droplets can
+be:

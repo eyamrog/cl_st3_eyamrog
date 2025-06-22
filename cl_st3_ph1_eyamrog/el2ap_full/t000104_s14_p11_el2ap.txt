@@ -1,0 +1,8 @@
+In addition, ecological indices were calculated to assess the responses
+to environmental variations presented by the macroinvertebrate community, using the
+Primer® 6.0 software, such as specific richness, evenness and Shannon-Wiener
+diversity (BORJA et al., 2000; BORJA; MUXIKA:, 2005). The ecological
+indices were also compared using Analysis of Variance (ANOVA). To
+assess the community structure, cluster analysis was performed with the
+objects and descriptors, using Simpson's index and comparison by paired
+groups.

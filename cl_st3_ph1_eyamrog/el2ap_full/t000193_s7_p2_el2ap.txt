@@ -1,0 +1,14 @@
+The coronavirus family shows a potential neurotropism that may induce
+neurological disorders, such as inflammatory polyneuropathy, encephalopathy, ischemic stroke, and
+demyelinating diseases. Neurotropism can occur via trans- lamina cribrosa with
+SARS-CoV-2 penetrating the central nervous system (CNS) through the olfactory
+tract. Interaction with human cells probably starts with the bond
+between the S1 portion of the virus S protein and
+the host angiotensin- converting enzyme (ACE) type 2 receptors2. Those
+receptors are widespread in the human body and the CNS,
+as they are present in endothelial and arterial smooth muscle
+cells3. Endothelial dysfunction and consequent blood-brain barrier disruption may work
+as an entry door for infected leukocytes into the CNS.
+This scenario might lead to direct viral damage to the
+parenchyma, as observed with other viruses, or trigger clinical events
+associated with CNS autoimmune disorders.

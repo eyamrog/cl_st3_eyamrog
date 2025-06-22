@@ -1,0 +1,9 @@
+This idea will not be discussed in detail here, as
+it falls outside the scope of the present paper; however,
+certain generalizations made in this context may be incorporated into
+the overall argument. In the case of Brazilian Portuguese, traditional
+analyses predominantly interpret apposition as a form of coordination. For
+example, Rocha Lima (2011) argues that appositive phrases are nominal
+constructions that can immediately follow another nominal phrase with which
+they are coreferential, meaning that both refer to the same
+entity. This is illustrated in examples (8) and (9):

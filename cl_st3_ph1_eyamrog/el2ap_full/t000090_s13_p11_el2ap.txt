@@ -1,0 +1,9 @@
+The present paper proposes two other rules to make a
+general ranking that takes into account all the grades. The
+first one is the simple average of all the Indicators
+presented. It considers all the data available, but it gives
+the same weight to all the Indicators, not giving a
+proportional importance to all the Dimensions involved. The reason is
+that the number of Indicators varies from four to eleven,
+depending on the Dimension. Therefore, some Dimensions would have much
+more weight than others in the final grade.

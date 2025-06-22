@@ -1,0 +1,11 @@
+Consider, for example, the different behaviors shown in Figures 3,
+4 and 5, highlighting the importance of localized information to
+design strategies to cope with the pandemic. Whereas the SDS
+in São Paulo City seems to produce results in controlling
+the spread of disease, the results for São Paulo State
+seem less effective in this respect, and the data for
+Brazil indicates a much worse situation. In São Paulo City,
+the SDS made the evolution in the number of deaths
+to stabilize (or even slightly decrease) between April 7th and
+April 20th. It must be noted that the number of
+deaths slightly increased after April 21st (Figure 3).

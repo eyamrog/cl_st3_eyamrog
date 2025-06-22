@@ -1,0 +1,5 @@
+The equation presented above represents the estimated regression model employed
+to examine the effects of selected macroeconomic variables—Gross Domestic Product
+(GD), inflation rate (INF), interest rate (INT), and exchange rate
+(EXC)—on foreign direct investment (FDI) inflows in Nigeria, as previously
+described.

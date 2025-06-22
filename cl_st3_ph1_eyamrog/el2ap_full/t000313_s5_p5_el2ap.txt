@@ -1,0 +1,13 @@
+Hosts and pathogens are always in an evolutionary arms race.
+Several investigations reveal that coronavirus evolved to recognize different host-receptors,
+while others explain the host’s strategies to defend themselves. For
+example, Peng et al. (2017) showed that a hepatitis coronavirus
+(MHV) infection drives the evolution of a mouse receptor (mCEACAM1a).
+In this case, this event represented an answer to the
+intense selective pressure from a lethal infection where MHV uses
+mCEACAM1a as its host-receptor and changes in critical amino acid
+residues have led to the emergence of a derived-allele (mCEACAM1b)
+that is much more deficient as MHV receptor (Peng et
+al., 2017). Consequently, mice that are homozygous for this derived-allele
+are highly resistant to death from MHV infections (Peng et
+al., 2017).

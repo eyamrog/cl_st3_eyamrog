@@ -1,0 +1,9 @@
+Taylor et al [35] correlated mid-range humidity levels with improved
+mammalian immunity against respiratory infections. Mousavi et al [36] reported
+that RH values between 40% and 60% are most unfavorable
+climatic conditions for microorganisms’ survival. A proper selection, operation, and
+maintenance of humidification equipment is required when water vapor is
+introducted in the indoor environment to achieve the mid-range humidity
+levels associated with decreased infections. Using the SARS study as
+a basis, the relationship between relative humidity and virus activation
+is understandable [35, 36].

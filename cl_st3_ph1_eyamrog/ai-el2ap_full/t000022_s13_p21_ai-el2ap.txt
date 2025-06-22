@@ -1,0 +1,13 @@
+Certain countries exhibit distinct authorship patterns in their academic journals.
+In Brazil, for example, Medical and Health Sciences journals report
+that single-author articles constitute 5% of publications, whereas articles with
+4 to 8 authors account for 61.8%. This trend toward
+multi-authored articles is consistent across other subject areas in Brazilian
+journals. In contrast, Colombian journals display a higher proportion of
+articles with two or three authors, diverging from the more
+common pattern of 4 to 8 authors observed elsewhere. Specifically,
+articles with two or three authors comprise 56.3% in Agricultural
+Sciences, 41.7% in Medical and Health Sciences, 59.9% in Natural
+and Exact Sciences, and 63.8% in Engineering and Technology. These
+proportions in Colombian journals are substantially higher than the corresponding
+averages for other countries presented in Table 3.

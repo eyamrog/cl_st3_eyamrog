@@ -1,0 +1,10 @@
+Similar results were found for the weighted SARS-Cov-2 antibody prevalence.
+The same variables found to be significantly associated to the
+crude prevalence were also significantly associated with the weighted prevalence.
+However, weighting of the sample resulted in more accentuated statistical
+significance for the 18-29 age group (OR=1.86; 95% CI 1.12-3.08%);
+for lower education level (OR=2.11; 95% CI 1.35- 3.28); and
+for condominium donors (OR=0.45; 95% CI 0.23-0.86%) as compared to
+Hemorio blood donor. Time period was also significantly associated to
+the weighted prevalence (p<0.005), nevertheless the OR was a little
+higher for the crude prevalence.

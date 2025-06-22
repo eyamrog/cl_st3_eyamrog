@@ -1,0 +1,3 @@
+When comparing groups 1 with 2a and 1 with 3,
+it was found that the incidence ratio is around eight
+and the mortality ratio 23.24 and 31.18 times, respectively.

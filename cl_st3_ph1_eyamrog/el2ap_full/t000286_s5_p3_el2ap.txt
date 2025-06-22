@@ -1,0 +1,5 @@
+The results indicate that the coefficient of government deficit, inflation,
+interest rate and exchange rate is found to be insignificant.
+Precisely, their coefficient is found to be statistically insignificant at
+58, 91, 16 and 75 percent level respectively as indicated
+by its probability value of 0.5767, 0.9094, 0.1646 and 0.7513.

@@ -1,0 +1,8 @@
+The first problem that appears is how to make a
+general classification of academic Institutions using the “U-Multirank”, which was
+not created for that. Even if it is not its
+main goal, the “U-Multiranking” prepares general classifications when asked. As
+an example, when we asked for a general classification of
+the Brazilian Universities in the 2020 version using only the
+Indicators that have more than 90% of data reported, it
+gives the list showed in Table 1.

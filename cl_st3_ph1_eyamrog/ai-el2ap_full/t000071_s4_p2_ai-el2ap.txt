@@ -1,0 +1,16 @@
+This study contributes to the existing literature on predatory journals
+by providing empirical evidence and rationale for addressing transparency issues
+in scholarly publishing. The development of verification systems for publishing
+platforms, in collaboration with reputable trade organizations, establishes higher standards
+for both the operators of predatory journals and those who
+may misuse the predatory label. Although the Public Knowledge Project
+(PKP) is currently leading these initiatives, the overall effectiveness of
+such systems will depend on their widespread adoption as an
+industry standard for journal accountability among publishers and publishing platforms.
+Achieving this will require the participation of a diverse range
+of journal platforms and scholarly publishers who share the objective
+of enabling the public to assess the reliability of research
+publications, particularly in the context of increasing open access. The
+implementation of verification and authentication standards, designed to communicate publishing
+practices clearly to both the public and professionals, is expected
+to enhance the distinction between legitimate and deceptive journals.

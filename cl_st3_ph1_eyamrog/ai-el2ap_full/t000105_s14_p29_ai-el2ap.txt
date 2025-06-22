@@ -1,0 +1,5 @@
+Food and nutrition variables included daily frequency of food consumption,
+perceived food prices, consumption of comfort foods, food accessibility, and
+availability of food at home. These measures were adapted from
+the Surveillance of Chronic Diseases by Telephone Inquiry (VIGITEL) conducted
+by the Ministry of Health [20].

@@ -1,0 +1,17 @@
+Comparisons between countries with different population sizes require the use
+of rates standardized to population figures. However, in the context
+of Covid-19, several demographers [Goldstein & Lee, 2020; Heuveline &
+Tzen, 2021; Queiroz et al., 2020] have argued that per
+capita rates alone are insufficient for many analytical purposes, including
+the assessment of national responses to the pandemic. This limitation
+is particularly evident given the substantial variation in Covid-19 case-fatality
+rates by age, as demonstrated in a study analyzing data
+from 45 countries, which found that case-fatality rates ranged from
+0.001% among individuals aged 5 to 9 years to 8.29%
+among those aged 80 years or older [O'Driscoll et al.,
+2021: 142]. Additionally, significant differences exist in the age structures
+of national populations. For example, although Pakistan's total population is
+approximately 22 times larger than that of Portugal, the number
+of individuals aged 90 years or older is higher in
+Portugal than in Pakistan, illustrating the extent of demographic variation
+between countries.

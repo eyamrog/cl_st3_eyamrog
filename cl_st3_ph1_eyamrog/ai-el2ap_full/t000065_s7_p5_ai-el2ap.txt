@@ -1,0 +1,16 @@
+To the best of our knowledge, prior to this study,
+no comprehensive learner corpus of English written texts produced by
+Brazilian university students in classroom settings was available to support
+the research objectives of our group. Consequently, in 2013, as
+detailed in Section 3, we designed the CorIFA9 corpus, an
+academic English learner corpus specific to Brazilian university contexts. The
+primary motivation for this initiative was to enhance learners’ proficiency
+in academic English. Corpus analysis enables the systematic investigation of
+language use within a defined population, and the compilation of
+such a corpus was considered essential for the development of
+targeted instructional materials and new courses. The objective of this
+paper is to present the process of compiling this learner
+corpus, highlighting its relevance for understanding learners’ needs and informing
+pedagogical decisions based on empirical data. The subsequent sections address
+the relevant literature underpinning this work, the methodological procedures employed
+in compiling the corpus, and studies that have utilized CorIFA.

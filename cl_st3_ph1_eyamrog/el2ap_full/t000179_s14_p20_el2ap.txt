@@ -1,0 +1,20 @@
+Multiple models of the CFA measurement invariance were evaluated through
+groups defined by relevant variables (sex, age group, marital status,
+if they have a medical specialty, if they work in
+other institution, individual income per month, self-reported work-related illness and
+self-reported chronic disease). Thus, four measurement models with progressive restrictions
+were compared between categories of these groups (e.g. between females
+and males) (28, 29). Change in the CFI (ΔCFI) was
+used as the main criterion for comparing models with more
+restrictions against models with fewer restrictions. Simulation evidence suggests that
+ΔCFI <.01 between successively more restricted models provides evidence for
+measurement invariance (29). Models first assumed configural invariance (i.e. similar
+factor structure across groups) as the baseline model, progressing then
+to metric invariance (i.e. similar factor loadings and factor structure
+across groups), strong invariance (i.e. similar thresholds, factor loadings and
+factor structure across groups), and strict invariance (i.e. similar residual
+item variances, thresholds, factor loadings and factor structure across groups).
+The ΔCFI was examined between each model to establish if
+the more restricted model was appropriate than the previous less
+restricted one. We preferred ΔCFI over χ2 comparisons, since it
+is not sensitive to big sample sizes (28, 29).

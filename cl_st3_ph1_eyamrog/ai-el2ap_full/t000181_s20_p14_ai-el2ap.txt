@@ -1,0 +1,6 @@
+The CPDI and FCV-19S scales demonstrated a correlation coefficient of
+r = 0.660, as presented in Figure 1. Additionally, the
+correlation between the FCV-19S scale and item S3 of the
+CPDI ("I feel terrified from imagining myself or my family
+being infected") was higher, with a coefficient of r =
+0.728.

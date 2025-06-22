@@ -1,0 +1,24 @@
+Numerous institutions worldwide have committed to maintaining digital archives, contributing
+significantly to the preservation of language documentation data. The Digital
+Endangered Languages and Musics Archives Network (DELAMAN, https://www.delaman.org/) is a
+consortium of member archives specializing in such data. These archives
+vary in scope and format; some are exclusively digital, while
+others also maintain physical collections. Certain archives focus on specific
+geographic regions, such as the Archive of the Indigenous Languages
+of Latin America (AILLA), whereas others, like the California Language
+Archive (CLA), accept materials from any location. Additionally, some archives
+restrict submissions to data associated with particular grants or funding
+sources, as is the case with the Endangered Languages Archive
+(ELAR), which primarily accepts materials collected through the Endangered Languages
+Documentation Programme. Others, such as the Standing Rock Sioux Tribe
+Language and Culture Institute, focus on materials pertaining to specific
+languages. In response to increased awareness of language endangerment, several
+Latin American institutions, including those in Brazil, have established local
+language archives; Seifart et al. (2008) provide a detailed account
+of the initial development of these efforts. However, many of
+these archives have not remained operational over time. Notably, two
+repositories in Brazil have continued to function and are discussed
+in §3. Furthermore, new archives have been established in recent
+years, such as the Archivo de Lenguas, Culturas y Memorias
+Históricas del Ecuador, which is institutionally supported by FLACSO Ecuador
+(http://languages.flacso.edu.ec/).

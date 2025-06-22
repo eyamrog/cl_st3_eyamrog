@@ -1,0 +1,11 @@
+UV-C radiation has a short wavelength and high energy, compared
+to other UV radiation, which enables it to function the
+best in a direct line and at a short distance.
+Due to the high energy of the UV-C radiation, it
+is bound to the inverse square law where the propagation
+of light intensity decreases exponentially with increasing distance from the
+light source. Studies developed by Escombe et al. [24] and
+Casanova et al. [25] provided that there is a sufficient
+circulation inside the room to mix the air, upper-room UV
+fixtures have shown to be an effective asset for use
+in infection control in high-risk clinical settings.

@@ -1,0 +1,9 @@
+Thromboprophylaxis is recommended during the hospitalization of patients with COVID-19,
+unless contraindicated, with the choice and duration of therapy determined
+by the patient's clinical status, institutional protocols, and guidelines from
+Hemostasis and Thrombosis Societies. However, there is insufficient evidence and
+no consensus regarding post-discharge thromboprophylaxis in patients with COVID-19. Decisions
+regarding its use, including the D-dimer cutoff point to guide
+therapy, should be individualized, taking into account the risk of
+thrombotic and bleeding events, and should be made in accordance
+with established institutional protocols supported by available evidence.

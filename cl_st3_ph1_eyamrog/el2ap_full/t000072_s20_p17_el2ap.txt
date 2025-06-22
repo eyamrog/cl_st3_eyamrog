@@ -1,0 +1,11 @@
+The mean values of the Pielou index were between 0.78
+for region R, and 0.87 for region I. Therefore, in
+region I the species are better distributed, with no ecological
+dominance, but it can be observed that the values index
+for both areas are high, resulting in a good distribution
+of species. When the value for the Pielou index is
+low, it is possible to assume that the total number
+of individuals belongs to a few species (Pinã-Rodrigues & Aoki
+2014). In a study carried out on the edge of
+semideciduous forest, the Pielou index found was 0.79, considering the
+values of the present study (Bargoena et al. 2020).

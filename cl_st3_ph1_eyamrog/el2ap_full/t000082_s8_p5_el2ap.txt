@@ -1,0 +1,20 @@
+Here, we use a quantitative trait mathematical model, empirical networks
+of species interactions, and numerical simulations to investigate how cheaters
+interactions may affect coevolution in mutualistic networks. Specifically, we explore
+three main questions i) How do different frequencies of cheating
+interactions affect coevolutionary dynamics? Due to the arms race dynamics
+favored by cheaters coevolution, we expect a higher trait mismatch
+in scenarios with elevated frequencies of cheaters interactions. ii) Do
+central cheater species amplify the effect of cheaters interactions on
+trait evolution? Because central species can influence the trait evolution
+of several other species, we expect that central cheater species
+will amplify the effect of cheaters interactions on trait evolution
+in mutualistic networks. iii) What is the effect of cheating
+interactions on the structure of mutualistic networks? By assuming that
+cheaters interactions may favor arms race dynamics, one can expect
+higher trait matching among species involved in arms races, but
+increased trait mismatch with other partners, leading to the loss
+of interactions. Thus, we expect that higher frequencies of cheaters
+interactions will generate higher arms race dynamics and consequently, higher
+frequency of interaction loss, generating networks with higher modularity (Figure
+1b).

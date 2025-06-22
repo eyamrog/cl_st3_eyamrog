@@ -1,0 +1,5 @@
+To interpret the results, marginal effects of changes in the
+regressors on the conditional probability that 𝑦 = 1 were
+calculated at the mean values of the explanatory variables. The
+Probit model estimations also incorporated the sample weights provided by
+the PNAD COVID-19 dataset.

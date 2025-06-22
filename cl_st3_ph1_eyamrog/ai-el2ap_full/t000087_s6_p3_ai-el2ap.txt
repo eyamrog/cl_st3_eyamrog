@@ -1,0 +1,15 @@
+A breakthrough infection is defined as the detection of SARS-CoV-2
+RNA by PCR or a positive rapid antigen test in
+a respiratory specimen collected from an individual at least 14
+days after completion of all recommended doses of a COVID-19
+vaccine (Bergwerk et al., 2021). In our vaccinated cohort of
+70 individuals, 20 were partially vaccinated, among whom 1 case
+of COVID-19 (5%) was observed, and 50 were fully vaccinated,
+among whom 7 cases (14%) of breakthrough infection were identified.
+In most countries, surveillance of breakthrough infections is limited to
+cases in which fully vaccinated individuals are hospitalized or die.
+A study conducted in Israel reported that breakthrough infections occurred
+in 2.6% of fully vaccinated healthcare workers, with persistent symptoms
+observed in 19% of COVID-19 cases (COVID-19 vaccine breakthrough cases:
+Data from the states, 2021). Currently, there is no available
+data regarding mild breakthrough infections in adolescents.

@@ -1,0 +1,14 @@
+Each year, major scientific data analytics companies, including the American-British
+Clarivate™ (InCites™) and the Dutch RELX™ Elsevier B.V. (Scopus®), release
+updated metrics for scientific journals indexed in their extensive databases,
+such as the Journal Impact Factor™ (JIF) and CiteScore™, respectively.
+These metrics are widely adopted by various countries as primary
+indicators of research quality within universities and research institutes. Research
+funding in these institutions is typically sourced from public taxation.
+The reliance on these metrics has led to a strong
+emphasis on publishing in higher-ranked journals (Ioannidis & Thombs, 2019).
+Consequently, researchers with publications in journals with higher impact factors
+are more likely to advance in their careers, gain recognition,
+and secure research grants. As a result, these metrics exert
+significant influence on the direction and nature of contemporary scientific
+research.

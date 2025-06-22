@@ -1,0 +1,10 @@
+A detailed examination of U-Multirank reveals that indicators derived from
+external sources, such as the number of publications and citations,
+are available for all educational institutions and exhibit a high
+degree of reliability. In contrast, information such as graduates’ place
+of employment and time of graduation, which is collected through
+questionnaires distributed by educational institutions and students, is not consistently
+available and tends to have lower accuracy. Additionally, certain data
+are classified as “Not Applicable,” for example, the number and
+job location of graduates from master’s programs in institutions that
+do not offer such programs.

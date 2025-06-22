@@ -1,0 +1,16 @@
+Recent theoretical literature has introduced models that support the international
+coordination of capital controls, marking a significant departure from traditional
+views that favored complete capital account liberalization, such as those
+based on the efficient markets hypothesis. These studies provide a
+formal framework for the multilateral aspects of capital controls, proposing
+coordination both among capital recipient countries and between capital recipient
+and capital source countries. A central argument in this literature
+is that the unilateral implementation of capital controls by emerging
+market economies entails increasing and convex costs, leading to a
+reduction in welfare as measured by the utility functions of
+private agents in countries that intensively apply such measures. Consequently,
+policies that promote the international coordination of capital controls are
+recommended to distribute the associated regulatory burden more evenly among
+recipient countries and between recipient and source countries, thereby mitigating
+the convex costs linked to unilateral capital inflow controls (Ostry
+et al., 2012; Korinek, 2012).

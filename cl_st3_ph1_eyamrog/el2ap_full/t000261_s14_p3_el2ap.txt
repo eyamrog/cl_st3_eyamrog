@@ -1,0 +1,7 @@
+Data analysis - We used an adaptation of Carlson’s Trophic
+State Index (TSI) (Carlson 1977) proposed by Lamparelli (2004) for
+tropical reservoirs - an index elaborated from reservoirs located at
+the same area of our study (CETESB 2014). TSI uses
+the total phosphorus (TP), chlorophyll-a (Chl-a) content, and Secchi disk
+depth (SD) data to calculate the corresponding trophic index. This
+procedure resulted in a 20-year trophic state time-series data.

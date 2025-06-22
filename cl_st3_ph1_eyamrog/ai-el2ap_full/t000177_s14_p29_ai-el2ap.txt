@@ -1,0 +1,4 @@
+COVID-19 exhibits resistance to environmental changes and demonstrates susceptibility primarily
+at relative humidity levels exceeding 80% and temperatures above 30°C;
+however, such conditions are generally considered unacceptable for thermal comfort
+in indoor environments.

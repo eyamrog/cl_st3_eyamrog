@@ -1,0 +1,11 @@
+In December 2019, a cluster of patients in Wuhan, Hubei
+province, China, was diagnosed with pneumonia of unknown origin, with
+epidemiological links to a seafood and wildlife market in the
+city (Rothan and Byrareddy 2020). Subsequent analyses indicated the likelihood
+of a coronavirus outbreak, as the estimated basic reproduction number
+(R0) for the novel 2019 coronavirus disease (COVID-19, officially named
+by the World Health Organization on 11 February 2020) ranged
+from 2.24 to 3.58, which is significantly greater than 1
+(Zhao et al. 2020). As of June 22, 2020, there
+have been 9,154,232 confirmed cases and 473,849 deaths attributed to
+COVID-19 worldwide (Coronavirus Resource Center, Johns Hopkins University).

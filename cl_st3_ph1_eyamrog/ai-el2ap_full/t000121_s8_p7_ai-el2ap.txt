@@ -1,0 +1,9 @@
+This study aimed to examine the associations between meta-worry and
+symptoms of anxiety and depression during the initial phase of
+the COVID-19 pandemic. Data were collected in March 2020, coinciding
+with the implementation of social isolation and quarantine measures for
+suspected and confirmed cases in Brazil. First, the prevalence of
+anxiety and depressive symptoms was estimated. Subsequently, the mean meta-worry
+score was calculated. Finally, a predictive model was tested to
+assess the extent to which meta-worry accounted for the variability
+in anxiety and depression symptoms within the population.

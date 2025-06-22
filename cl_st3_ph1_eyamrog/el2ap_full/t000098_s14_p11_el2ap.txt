@@ -1,0 +1,17 @@
+A last relevant general methodological information is that the numbers
+of deaths that served to calculate mortality rates by age
+group (mij) were not those directly obtained from the reported
+sources. When disaggregated by age groups, the reference dates for
+this information vary greatly and are not homogeneous even in
+the case of the most developed countries surveyed. As can
+be seen in Chart 1, despite the great effort made,
+in some countries, the most recent data obtained refers to
+dates as far as 9/11/2020 (Ecuador), 10/25/2020 (Turkey) or 11/6/2020
+(Poland). Whatever the time lag, international benchmarking requires that the
+numbers of deaths by age group correspond to a single
+date. The procedure for this temporal standardization was very simple
+and involved solely the distribution of the accumulated contingent of
+deaths in each country until 1/28/2021, according to the pattern
+identified up to the most recent date the disaggregation by
+age group was available. In other words, this age pattern
+of mortality was extrapolated to that date6.

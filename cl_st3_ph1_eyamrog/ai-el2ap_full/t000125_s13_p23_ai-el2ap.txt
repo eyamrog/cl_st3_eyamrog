@@ -1,0 +1,8 @@
+Subsequently, we analyzed the performance of Brazilian universities that were
+included in the dataset for all four years under review
+(2017–2020), utilizing only those indicators for which more than 90%
+of the data were available. The selected indicators comprise citation
+rate, research publications (absolute numbers), research publications (size-normalized), top-cited publications,
+interdisciplinary publications, co-publications with industrial partners, patents awarded (absolute numbers),
+patents awarded (size-normalized), spinoffs, publications cited in patents, international joint
+publications, and regional joint publications.

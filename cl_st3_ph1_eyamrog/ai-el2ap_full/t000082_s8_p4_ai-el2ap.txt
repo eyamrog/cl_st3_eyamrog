@@ -1,0 +1,20 @@
+Current research is beginning to elucidate how interactions involving cheaters
+can influence evolutionary patterns in mutualisms, as the roles of
+species as either cheaters or mutualists may impact coevolution and
+local adaptation. For instance, the relationship between the plant Lithophragma
+parviflorum (Saxifragaceae) and the floral-parasitic moth Greya politella shifts from
+parasitism to mutualism in the absence of L. parviflorum’s legitimate
+pollinators within the community (Thompson & Cunningham 2002). A major
+challenge in studying the evolutionary consequences of ecological interactions at
+the community level is that pairwise interactions are not independent
+but instead influence one another within ecological networks. Cheating interactions
+are characterized by a negative effect on one partner and
+a positive effect on the other. In this context, evolutionary
+changes can propagate through indirect effects (Guimarães et al. 2017),
+thereby influencing the evolution of species traits and ultimately shaping
+species interactions within the community. Due to the non-random structure
+of interaction networks, central species are particularly important for maintaining
+network structure and, as a result, for stabilizing selection pressures
+among species within the network (Martín Gonzáles et al. 2010).
+Nevertheless, the effects of central cheaters on mutualistic coevolutionary dynamics
+remain poorly understood.

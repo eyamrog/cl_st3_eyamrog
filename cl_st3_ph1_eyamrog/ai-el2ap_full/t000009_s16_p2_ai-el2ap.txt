@@ -1,0 +1,12 @@
+In 2014, Vieira conducted a comprehensive needs analysis to examine
+the purposes for which Brazilian computer science graduates require English
+in academic contexts. The findings indicated that the primary immediate
+need for these students is to write research articles and
+abstracts. Building on these results, a subsequent target situation analysis
+(TSA) was conducted with a focus on both genres. In
+addition to a textual analysis, which will be reported in
+future work, a contextual analysis was carried out to investigate
+key factors that influence the use of these genres within
+the academic community. Specifically, the contextual TSA presented in this
+study aimed to identify factors that may affect the acceptance
+of papers authored by Brazilian computer scientists in high-impact journals.

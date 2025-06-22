@@ -1,0 +1,4 @@
+The hypotheses to be established in the analysis of the
+unit root are presented in Equation16 and Equation17. This test
+is performed by testing the statistical significance of ρˆ using
+the t test.

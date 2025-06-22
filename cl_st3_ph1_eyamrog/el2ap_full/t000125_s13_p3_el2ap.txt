@@ -1,0 +1,5 @@
+The “U-Multirank” classifies the Universities in five performance groups for
+each Indicator: A (Very good), B (Good), C (Average), D
+(Below average) and E (Weak). This reduces accuracy problems by
+grouping the grades, leaving these problems only to the border
+lines between the performance groups.

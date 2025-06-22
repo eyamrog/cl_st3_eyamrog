@@ -1,0 +1,7 @@
+The results show that the coefficients for government deficit, inflation,
+interest rate, and exchange rate are statistically insignificant, with p-values
+of 0.5767, 0.9094, 0.1646, and 0.7513, respectively. Specifically, these variables
+do not exhibit statistical significance at the 10 percent level,
+indicating that there is insufficient evidence to suggest a meaningful
+relationship between these factors and the dependent variable within the
+context of this analysis.

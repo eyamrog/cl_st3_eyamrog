@@ -1,0 +1,7 @@
+Leaf area and biomass analysis - To measure leaf area
+(LA), we detached leaves from the whole plant and detached
+leaf discs of 1 cm2 from basal, median, and apical
+regions of the leaves. Using the disc area, disc dry
+weight, and total leaf dry weight, we estimated the mean
+leaf area. Specific leaf area (SLA) was estimated as the
+ratio of leaf area to leaf dry mass (dm2 g-1).

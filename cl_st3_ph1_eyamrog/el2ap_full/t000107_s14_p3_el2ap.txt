@@ -1,0 +1,12 @@
+The results obtained from the website were analyzed individually, to
+identify and select studies carried out in the area of
+medical translation. The selected studies were then organized in an
+excel spreadsheet, which featured the columns year, title, institution, area
+of knowledge, type of study, and author. The same steps
+were followed for the filter doutorado (doctorate). The searches conducted
+using both the filters mestrado (master) and doutorado (doctorate) revealed
+that the website www.dominiopublico.gov.br, whose main objective is to make
+Brazilian research publicly available, is not a reliable source for
+data collection. This conclusion was reached because we identified works
+for the time period set for this study that were
+not included in the Domínio Público website.

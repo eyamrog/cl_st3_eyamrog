@@ -1,0 +1,17 @@
+To determine the languages of publication for the JUOJS, we
+ran Google’s Compact Language Detector v3 (gcld3) on the 100
+most recent articles in the ISSN-verified subset of JUOJS. Gcld3
+is a freely available pre-trained neural classifier and has a
+built-in flag for language predictions that indicates when the predicted
+language classification exceeds an optimal probability threshold. Only reliable language
+classifications were retained for each journal. Then, the most frequent
+language classification for each journal was designated as the journal’s
+primary language of publishing. If gcld3 classified a given journal’s
+article abstracts as being in multiple languages (i.e., with at
+least 5 articles per language), then the journal was designated
+as multilingual. Finally, a variety of heuristic checks were applied
+to verify the primary language of publishing for each journal,
+for example, by checking predicted languages against top-level domains, which
+resulted in the semi-manual correction of 478 journals. Two relatively
+under-resourced languages, Balochi and Faroese, are currently unsupported by gcld3
+and were instead discovered by searching top-level domains.

@@ -1,0 +1,11 @@
+In the models, the St(λ,τ), indicates the logistic smooth transition,
+which is presented in Equation 11. In this logistic function,
+𝜏 determines the midpoint of the transition process, and 𝛾
+determines the transition speed. Where γ>0, S−∞(γ τ)=0, S+∞(γ τ)=1
+and SτT (γτ)=0,5. If 𝛾 is smaller, it would take
+longer for the logistic smooth transition of Sτ(γτ) to exceed
+the interval (0,1). If 𝛾= 0, S_τ(γτ)=0,5 at all t
+moments. If 𝛾 is greater, Sτ(γτ) would exceed the (0,1)
+interval rapidly. If 𝛾 converges to +∞, the value of
+the function changes from 0 to 1 momentarily at 𝑡=
+𝜏T.

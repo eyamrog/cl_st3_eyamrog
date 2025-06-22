@@ -1,0 +1,10 @@
+Using web-scraping strategies that attempted to target course syllabuses at
+Canadian universities, we collected 5,898 documents from nine of Canada’s
+ten provinces (Table 1). Of these, 3,916 proved to be
+unique syllabuses for the period 2015-2020. We eliminated 525 of
+the syllabuses that referred to assigned readings but did not
+identify them (as they were to be found in a
+coursepack or on a website). This left 3,391 syllabuses, of
+which 2,800 listed readings and/or textbooks, and 591 of them
+having no required or assigned items, although these courses sometimes
+listed optional and recommended materials for the students.

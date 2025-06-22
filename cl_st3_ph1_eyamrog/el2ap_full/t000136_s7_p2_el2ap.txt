@@ -1,0 +1,10 @@
+In general, the discussion starts from the hypothesis that, all
+else equal, better-governed NPO receive more donations. Previous studies, depending
+on the specific research question, analyzed the potential influence of
+specific governance factors (for example, board size) or governance dimensions
+(such as disclosure) measured by sets of manifest variables (for
+example, annual report). For example, Harris et al. (2015) identified
+seven governance dimensions using factor analysis (board, management, policies, access,
+audit, executive compensation and minutes) and showed that donations and
+government grants are positively associated with six of the dimensions
+(minutes had no effect).

@@ -1,0 +1,5 @@
+In regard to the Similarity Index calculation, the sites that
+share the greatest number of species were the Valley Plain
+and the Foot of Escarpment. On the contrary, the lowest
+Similarity Index was between the Valley Plain and the Riparian
+Zone, which only shared species of wide distribution.

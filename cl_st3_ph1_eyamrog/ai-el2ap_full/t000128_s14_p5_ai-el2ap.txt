@@ -1,0 +1,11 @@
+The methodology described by Engel et al. (2017) was adapted
+to assess the surface disinfectant effects. Plastic, steel, and ceramic
+surfaces were washed and sterilized prior to use. The surfaces
+were then exposed to an inoculum at a concentration of
+approximately 10^8 CFU/mL for 30 minutes to allow biofilm formation.
+Subsequently, disinfectant solutions at a concentration of 100 mg/mL, as
+well as a control product, were applied by spraying for
+15 minutes over an area of 1 cm^2. Following treatment,
+samples were collected using a sterilized swab, and the number
+of microorganisms was quantified using the plate count technique as
+described by Tortora, Funke, and Case (2012).

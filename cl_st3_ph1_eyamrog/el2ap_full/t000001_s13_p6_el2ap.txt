@@ -1,0 +1,7 @@
+After basecalling, QC filtering can improve the quality of the
+ONT reads. We recommend using Filtlong15 to remove the worst
+reads (short length and low accuracy) with --keep_percent 90. If
+the read set has a poor N50 but is very
+deep, then removing short reads (e.g. <5 kbp) can help
+with assembly, though this may compromise small plasmid recovery (see
+Pitfalls).

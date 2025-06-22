@@ -1,0 +1,8 @@
+The authors acknowledge the undergraduate and graduate students, as well
+as the technical staff, for their consistent and valuable assistance
+in both field and laboratory activities over the years. Financial
+support from FAPESP (Fundação de Amparo à Pesquisa do Estado
+de São Paulo) and CNPq (Conselho Nacional de Desenvolvimento Científico
+e Tecnológico) through various grants is also gratefully acknowledged. DCB
+and CEMB received Research Fellowships from CNPq (310404/2016-9 and 305031/2016-3),
+and JEZ received a Postdoctoral Fellowship from FAPESP (2018/18896-4).

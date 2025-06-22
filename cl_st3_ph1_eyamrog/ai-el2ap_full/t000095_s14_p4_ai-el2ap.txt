@@ -1,0 +1,10 @@
+For the descriptive analysis, absolute and percentage values of patient
+characteristics were reported. The risk of death between Rio de
+Janeiro and São Paulo was estimated using logistic regression models
+adjusted for age, sex, and comorbidities. Analyses were conducted at
+both the state and capital levels. Missing data for all
+comorbidities were treated as indicating the absence of morbidity. Two
+sensitivity analyses were conducted: the first assessed potential differences in
+notification rates by excluding data from November and December, and
+the second evaluated the impact of missing outcome data by
+assuming all missing outcomes corresponded to cured cases.

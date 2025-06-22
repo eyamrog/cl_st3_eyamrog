@@ -1,0 +1,2 @@
+1. It is possible to elide the anchor in (47),
+but not in (48):

@@ -1,0 +1,7 @@
+This section presents the simulation results generated using AbCSim, with
+data and parameter adjustments specific to the city under study,
+covering the period from June 12, 2020, when a significant
+increase in local cases was observed, to December 30, 2020.
+The model was configured with the city's climograph, records of
+changes in isolation and distancing phases, and the initial number
+of infected individuals for the specified timeframe.

@@ -1,0 +1,11 @@
+Following the event, positive and negative COVID-19 cases among participants
+were identified using various commercially available test kits (PCR or
+rapid antigen) at private laboratories. Due to the lower sensitivity
+of rapid antigen tests compared to PCR, individuals who only
+underwent rapid antigen testing were classified as COVID-19 positive if
+they reported more than three symptoms, including anosmia, even in
+cases where the rapid antigen test result was negative and
+no PCR test was conducted (Pilarowski et al., 2021). Symptom
+data for each group were summarized as categorical variables using
+frequencies and percentages, and comparisons between vaccinated and unvaccinated groups
+were performed using the chi-square (𝝌2) test.

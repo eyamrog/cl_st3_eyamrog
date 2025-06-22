@@ -1,0 +1,5 @@
+Demographic variables, including the percentage of individuals in civil and/or
+religious marriages, the percentage of Catholics, the percentage of Evangelicals,
+the percentage of the population without religious affiliation, the percentage
+of the urban population, and the percentage of the rural
+population, were obtained from the IBGE website (2020).

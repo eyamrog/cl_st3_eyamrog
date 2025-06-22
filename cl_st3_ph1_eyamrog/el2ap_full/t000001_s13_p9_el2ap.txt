@@ -1,0 +1,13 @@
+Several long-read assemblers have been developed that are suitable for
+bacterial genomes, including Canu18, Flye19, NECAT20, NextDenovo21 and Raven22, each
+of which uses different methods and thus has advantages/disadvantages. Regardless
+of the assembler used, most long-read bacterial genome assemblies contain
+avoidable errors, and given the same read set, different assemblers
+are likely to produce assemblies with different errors23. Trycycler exploits
+this fact by building a consensus from multiple alternative assemblies
+of the same genome, allowing it to avoid structural errors,
+remove spurious contigs and ensure that circular sequences have no
+missing/duplicated bases at their ends5. We therefore recommend using Trycycler
+to produce long-read bacterial genome assemblies. However, note that Trycycler
+is not an automated tool – it requires human judgement
+and interaction.

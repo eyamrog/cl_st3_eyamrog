@@ -1,0 +1,11 @@
+It is noticed a cloud of dispersed points with a
+tendency of a positive correlation, which means that the grades
+of the individual Dimensions tend to be higher for Institutions
+with higher average of Dimensions. This is an expected fact,
+of course, but Figure 4 shows these evolutions in more
+detail. It is clear the presence of vertical lines, which
+shows the interval of grades in each Dimension for a
+given average of the Dimensions. They have a large magnitude,
+near 2 units in most of the cases, which is
+half of the total interval showed, since the averages are
+in the interval from zero to 4.0.

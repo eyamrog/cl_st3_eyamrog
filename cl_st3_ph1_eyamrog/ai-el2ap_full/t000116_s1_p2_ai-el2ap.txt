@@ -1,0 +1,2 @@
+Study design: This is an ecological study utilizing data obtained
+from the Brazilian National Health Information System.

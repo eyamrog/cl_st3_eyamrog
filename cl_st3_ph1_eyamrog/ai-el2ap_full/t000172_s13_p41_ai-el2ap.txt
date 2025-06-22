@@ -1,0 +1,19 @@
+Metronidazole is a redox-active prodrug that has been shown to
+reduce levels of pro-inflammatory cytokines, increase circulating lymphocytes, and decrease
+reactive oxygen species (ROS) produced by neutrophils; it has also
+been proposed as a potential treatment for COVID-19 (Gharebaghi et
+al. 2020). Statins, another class of anti-inflammatory drugs, have been
+incorporated into some treatment protocols; however, due to their modulation
+of Toll-like receptor (TLR) responses, the use of statins in
+animal models of SARS-CoV and MERS-CoV infection has been associated
+with increased viral load, more severe lung damage, and higher
+mortality (Dashti-Khavidaki and Khalili 2020). Nitazoxanide, an agent used to
+treat protozoan and helminthic infections, is metabolized to tizoxanide, which
+has demonstrated inhibitory activity against 16 strains of Influenza A,
+one strain of Influenza B, rotavirus, hepatitis C virus (HCV),
+yellow fever virus, hepatitis B virus (HBV), human immunodeficiency virus
+(HIV), norovirus, and other pathogens (Rossignol 2014). Nitazoxanide has also
+been reported to reduce viral load in various coronaviruses (Cao
+et al. 2015) and to suppress interleukin-6 (IL-6) production in
+mice (Hong et al. 2012), supporting its consideration as a
+candidate for COVID-19 treatment.

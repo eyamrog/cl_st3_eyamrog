@@ -1,0 +1,15 @@
+The Self-controlled Risk Interval (SCRI) design is a variant of
+the Self-Controlled Case Series (SCCS) method in which each case
+serves as its own control. This design defines a risk
+period and a control interval, with the control interval positioned
+either before or after the exposure. In the SCRI approach,
+the control interval is intentionally reduced; for example, in vaccine
+studies, a short period immediately before or after vaccination and
+close to the risk period is selected as the control
+interval. This reduction aims to minimize time-related confounding factors such
+as age and seasonality. Typically, the duration of the control
+interval is matched to that of the risk period. For
+instance, in a study assessing adverse events following varicella vaccination
+in Taiwan, the risk interval was defined as days 1
+to 42 post-vaccination, while the control interval comprised days 43
+to 84 post-vaccination.

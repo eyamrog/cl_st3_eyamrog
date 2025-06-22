@@ -1,0 +1,6 @@
+The variables analyzed in this study included survival percentage, determined
+by the number of dead plants, as well as the
+number of emerging sprouts and the number of leaves. The
+dependent variables, sprout emergence and survival, were assessed across nine
+measurement intervals, while the number of leaves was recorded during
+five measurement intervals between October 2015 and November 2016.

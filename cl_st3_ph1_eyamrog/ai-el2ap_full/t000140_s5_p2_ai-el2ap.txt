@@ -1,0 +1,8 @@
+Library holdings and open access should be systematically reviewed. An
+artificial intelligence system would analyze a university’s syllabuses to identify
+which assigned readings are accessible to students via institutional licenses
+or open access platforms. Materials not currently licensed by the
+university would be flagged as acquisition recommendations. The ongoing evaluation
+of academic resources prioritized by instructors informs the subsequent step.
+Non-academic readings lacking institutional licenses would proceed to the third
+step for further processing.

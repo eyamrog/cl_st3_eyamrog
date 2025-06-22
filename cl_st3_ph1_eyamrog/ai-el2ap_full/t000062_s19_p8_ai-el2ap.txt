@@ -1,0 +1,11 @@
+Theridiidae was represented by 37 individuals, with 16 (43%) collected
+in the DA, 13 (35%) in the IA, and 8
+(22%) in the FA. The Shapiro-Wilk test indicated a significant
+deviation from normality in the DA (W = 0.7500; P
+< 0.0001); however, this result was not corroborated by the
+Kruskal-Wallis test or Dunn’s post-hoc test with Bonferroni adjustment, which
+did not detect significant differences among the areas. Analysis by
+season showed no significant differences during the hot and humid
+period. In the cold and dry period, no significant differences
+were observed between DA and IA, and no individuals from
+the family were collected in the FA.

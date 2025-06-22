@@ -1,0 +1,1 @@
+- If probability of t-statistics < 0.05, reject null hypothesis

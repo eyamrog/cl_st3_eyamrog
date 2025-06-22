@@ -1,0 +1,6 @@
+Conclusion: CT has a high accuracy for the diagnosis of
+SARS-CoV-2 infection. Different interpretation criteria can provide either high sensitivity
+or high specificity. CT should be integrated as a triage
+test in resource-constrained environments during the pan- demic to assist
+in the optimization of PCR-tests, isolation beds and intensive care
+units.

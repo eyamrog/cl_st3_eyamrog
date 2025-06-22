@@ -1,0 +1,10 @@
+The initial search on the BDTD website was conducted using
+the simplified keyword search interface (Figure 2). The term "tradução"
+(translation) was entered into the search field, following the same
+procedure used on the Domínio Público website. This search yielded
+4,849 theses and dissertations, a volume that rendered individual selection
+unfeasible. Consequently, a more targeted search strategy was implemented. The
+keywords "tradução médica" (medical translation) and "tradução artigo científico" (scientific
+article translation) were subsequently used. The resulting records were reviewed
+individually, and those that met the inclusion criteria were documented
+in an Excel spreadsheet.

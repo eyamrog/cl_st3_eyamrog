@@ -1,0 +1,5 @@
+When considering the functional level-level form (Table 6, column 20-22),
+it is noted that the same areas identified as SBD
+are identified compared to the econometric model estimated with the
+log-level functional form. The exception is the Pinheiros area that
+is not significant, but Morumbi does.

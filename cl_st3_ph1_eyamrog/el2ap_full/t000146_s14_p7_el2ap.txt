@@ -1,0 +1,5 @@
+We have included the number of citations accumulated in the
+registration of each article, without forming a citation window. The
+percentage of publications in the national language was taken into
+account as an independent variable. Finally, the unit of analysis
+was the author's country of institutional affiliation.

@@ -1,0 +1,8 @@
+We next assessed whether it was necessary to include the
+variable 'NPO age' in the model, based on the assumption
+that nonprofit organizations require time to operate and implement governance
+practices (e.g., Haski-Leventhal and Foot, 2016). However, analysis revealed no
+statistically significant correlation between age and governance, as measured by
+the sum of the dimension scores identified in the multiple
+correspondence analysis (r = 0.093; p = 0.339). Consequently, this
+variable was not included in the model.

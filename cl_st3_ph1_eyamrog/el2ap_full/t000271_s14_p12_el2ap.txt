@@ -1,0 +1,3 @@
+The data were stored in an Excel® spreadsheet with demographic
+and donors code so that it is not possible to
+identify each donor individually.

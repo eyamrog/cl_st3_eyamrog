@@ -1,0 +1,16 @@
+This study aimed to examine femicide, a consequence of violence
+against women and a significant public health issue, from an
+economic perspective. Specifically, it investigated the relationship between foreign exchange
+rates—identified as a key factor in economic crises and unemployment—and
+femicide, which is distinct from general homicide due to its
+gender-based nature. Data were obtained from the We Will Stop
+Femicide Platform and the Central Bank of the Republic of
+Turkey and analyzed using various statistical methods. The results indicate
+the existence of a long-term cointegrating relationship between the foreign
+exchange rate and femicide in Turkey. The analysis further shows
+that a 1% shock in the exchange rate is balanced
+after approximately 22.6 days. This study contributes to the literature
+by addressing femicide from an underexplored economic perspective and demonstrates
+that empirical analyses of exchange rate fluctuations are relevant not
+only to economic outcomes but also to public health and
+social issues.

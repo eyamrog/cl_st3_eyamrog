@@ -1,0 +1,6 @@
+The variables of the analysis in the frequency domain were:
+LF 135.8 ms2 (13.7 - 2861.7); HF, 89.04 ms2 (4.14-5234.4),
+LFnu 57.57 ± 22.39, HFnu 43.18 ± 22.64. LF /
+HF ratio 2.1 ms2 ± 2.09. 41.2% (n = 28)
+of the patients had a high LF / HF ratio
+(> 2).

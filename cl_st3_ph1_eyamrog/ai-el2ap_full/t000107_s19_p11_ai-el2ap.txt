@@ -1,0 +1,11 @@
+Analysis of the spreadsheet containing the collected data identified several
+inconsistencies. Specifically, the titles of two theses obtained from the
+Catálogo de Teses e Dissertações da CAPES differed from those
+listed on the BDTD website. The titles from the BDTD
+were considered accurate, as they corresponded to the titles presented
+in the official thesis documents. Additionally, cross-referencing the spreadsheet entries
+by author names and publication years revealed that one thesis
+title appeared in English on the BDTD website but in
+Portuguese in the Catálogo de Teses e Dissertações da CAPES.
+Figure 8 presents the results obtained after these inconsistencies were
+addressed.

@@ -1,0 +1,5 @@
+The original study identified six factors using only exploratory factor
+analysis (EFA). In contrast, the present study employed both EFA
+and confirmatory factor analysis (CFA), demonstrating a good fit for
+structural equation models and satisfactory reliability, as indicated by Cronbach's
+α and McDonald's ω coefficients.

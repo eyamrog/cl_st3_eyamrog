@@ -1,0 +1,5 @@
+This scoping review was conducted in accordance with the PRISMA
+Extension for Scoping Reviews (PRISMA-ScR) guidelines. The research question was
+formulated using the PICOS framework and focused on identifying the
+characteristics of physical activity and/or physical exercise intervention protocols implemented
+during breast cancer treatment.

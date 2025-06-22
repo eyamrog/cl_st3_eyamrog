@@ -1,0 +1,7 @@
+There are different quality evaluation tools for both quantitative and
+qualitative studies. At times, researchers modify existing tools or develop
+their own to meet their needs and this was our
+case. In 2018, we had to evaluate SCCS and SCRI
+included in a systematic review, and we couldn’t find an
+existing tool that could be used. This led us to
+adapting the NOS for cohort studies.

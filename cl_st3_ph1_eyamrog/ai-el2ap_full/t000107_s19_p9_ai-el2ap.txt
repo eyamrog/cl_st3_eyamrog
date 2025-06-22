@@ -1,0 +1,17 @@
+On the Catálogo de Teses e Dissertações da CAPES website,
+three separate searches were conducted using different keywords and filters.
+The first search employed the keyword "tradução" (translation) and applied
+the following filters: arts, human sciences, language studies, translation studies,
+linguistic studies, letters, classical letters, linguistics, linguistics and literature, medicine,
+and medicine I. This search yielded only one dissertation. The
+second search used the keywords "tradução médica" (medical translation) with
+the filters language studies, letters, linguistics, and linguistics and arts,
+resulting in the retrieval of four theses and two dissertations.
+The third search utilized the keywords "tradução artigos científicos" (translation
+scientific articles) and the filters human sciences, letters, letters and
+arts, linguistics, and linguistics and literature, which identified three theses
+and one dissertation. However, the dissertation identified in the third
+search had already been retrieved in the second search. Therefore,
+a total of 10 unique studies met the selection criteria,
+comprising eight theses and two dissertations. The results are summarized
+in Table 3.

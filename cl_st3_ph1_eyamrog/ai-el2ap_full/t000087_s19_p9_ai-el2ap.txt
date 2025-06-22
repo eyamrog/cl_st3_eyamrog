@@ -1,0 +1,6 @@
+RNA extracted from a positive qPCR test of one symptomatic,
+fully vaccinated individual was sequenced as described in the Methods
+section. The resulting genome exhibited 99.48% coverage and was classified
+as the Delta variant of concern (B.1.617.2 lineage) using the
+Pangolin COVID-19 Lineage Assigner. The sequence has been submitted to
+GISAID under Submission Number EPI_ISL_3982391.

@@ -1,0 +1,11 @@
+The outcome variable in this study is the number of
+monthly cases of leptospirosis. Monthly incidence rates were calculated for
+each group of months within the study period. To account
+for potential variations in age structure and gender when comparing
+different periods, direct rate standardization was applied, using the population
+of Santa Catarina in 2010 as the reference. The analysis
+presents the number of leptospirosis cases, the monthly average, and
+the incidence rate for the period studied. Non-standardized rates were
+reported when a significant correlation (r > 0.90) was observed
+between raw and standardized rates, as these were considered to
+retain the original values and provide greater representativeness and interpretability.

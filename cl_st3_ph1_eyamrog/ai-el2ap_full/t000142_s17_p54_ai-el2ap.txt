@@ -1,0 +1,7 @@
+This test, introduced by Banerjee, Arčabić, and Lee (2017), is
+a cointegration test extended with Fourier terms that accounts for
+the lagged structures of both the dependent and independent variables.
+The test is conceptually grounded in the error correction framework.
+As shown in Equations 34 and 35, it incorporates constant
+and trend terms, the lagged value of the independent variable,
+and its level from the previous period.

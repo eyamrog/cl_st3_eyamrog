@@ -1,0 +1,10 @@
+The BNT162b2 (Pfizer/BioNTech) COVID-19 vaccine was the first to receive
+emergency use authorization for individuals aged 16 years and older
+on December 11, 2020 (Office of the Commissioner, 2021). On
+March 31, 2021, it became the first vaccine to report
+phase 3 clinical trial results in adolescents aged 12 to
+15 years, demonstrating that it was well tolerated, safe, immunogenic,
+and exhibited 100% efficacy in preventing symptomatic COVID-19 (Frenck et
+al., 2021). However, limited data are available regarding the epidemiology
+and clinical course of COVID-19 among adolescents, both vaccinated and
+unvaccinated, in real-world settings that differ from controlled experimental conditions.

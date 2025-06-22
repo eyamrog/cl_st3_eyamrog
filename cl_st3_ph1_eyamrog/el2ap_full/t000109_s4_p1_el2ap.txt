@@ -1,0 +1,9 @@
+This work presents an agent-based model called AbCSim, capable of
+reproducing the evolution of the COVID-19 epidemic at a local
+city scale. The model explicitly incorporates various aspects of the
+epidemic, which facilitates its adjustment to different case studies. The
+methodology used to adjust the system's parameters is provided, as
+well as the methodology to consider changes in social distancing
+measures, in people's activity and climate variations over time. As
+a case study, the model was applied to Paraná city
+in the second half of 2020.

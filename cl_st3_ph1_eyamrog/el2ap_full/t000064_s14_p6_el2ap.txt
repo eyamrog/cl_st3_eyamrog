@@ -1,0 +1,5 @@
+Also, the transpiration rate was measured, and the water use
+efficiency (WUE) was considered as the ratio between the mean
+of the carbon absorption rate and the transpiration rate as
+seen in Field et al. (1983) and Medrano et al.
+(2015).

@@ -1,0 +1,8 @@
+Coding sequences for ACE2 gene for 70 placental mammals species
+were retrieved trough BLAST from Genbank (www.ncbi.nlm.nih.gov accessed at 20/02/2020).
+For these analyses we considered sixteen domestic and fifty-four wild
+species including representatives of orders Carnivora (N = 9), Ungulata
+(N = 11), Chiroptera (N = 10), Primates (N =
+22), Rodentia (N = 9), and others (Table S1). Sequences
+were aligned according to the MUSCLE algorithm (Edgar, 2004) in
+AliView software (Larsson, 2014).

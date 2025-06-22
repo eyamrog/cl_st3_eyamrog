@@ -1,0 +1,7 @@
+The results show that there are no “very strong” or
+“strong” correlations among the Indicators of this Dimension. There are
+only two “moderate” correlations. Therefore, the Indicators of this Dimension
+are very independent from each other. The average of the
+magnitude of all the Indicators of this Dimension is 0.2451,
+and the standard deviation is 0.1278, so the results validate
+this Dimension for the group of Institutions studied here.

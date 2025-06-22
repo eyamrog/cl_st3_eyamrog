@@ -1,0 +1,15 @@
+Archiving supports effective personal data management by providing a systematic
+approach to organizing research materials. While researchers may initially recall
+the locations and organization of their files shortly after fieldwork,
+this familiarity typically diminishes over time, making it increasingly difficult
+to locate files, understand their organizational structure, determine their interrelationships,
+and access the necessary metadata for future reuse by themselves
+or others. This challenge is particularly pronounced for digital files,
+which often lack distinguishing physical features and therefore require opening
+or viewing to identify their contents. Promptly archiving language documentation
+data and associated metadata in a reliable repository addresses these
+issues by ensuring that materials can be consistently located and
+accessed. This practice eliminates the need for researchers to remember
+specific storage locations or manage multiple copies and backups across
+various devices or platforms. Ultimately, archiving mitigates the risk of
+data and metadata being lost, discarded, or overlooked.

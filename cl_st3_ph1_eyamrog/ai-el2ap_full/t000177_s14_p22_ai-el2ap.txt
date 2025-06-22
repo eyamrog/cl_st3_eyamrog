@@ -1,0 +1,10 @@
+According to Ryan et al. [26], lamps utilizing germicidal ultraviolet
+irradiation (eUVGI) reduced microbial proliferation in HVAC systems. The study
+was conducted in neonatal intensive care units and within the
+ventilation systems of air conditioning units. The results indicated a
+reduction in microbial colonization of the trachea among patients, as
+well as a decrease in antibiotic usage. The study included
+the assessment of various bacteria and fungi present in the
+HVAC systems, the intensive care unit environment, and among patients,
+thereby providing further evidence for the effectiveness of UV radiation
+in reducing microbial contamination.

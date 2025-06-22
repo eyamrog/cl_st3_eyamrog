@@ -1,0 +1,5 @@
+As of April 30, 2020, no oncological patient at CTO
+had been officially diagnosed with COVID-19. The implementation of mass
+testing among healthcare workers may have contributed to reducing asymptomatic
+SARS-CoV-2 transmission and maintaining the health of patients receiving services
+at the facility.

@@ -1,0 +1,4 @@
+As a measure of governance (explanatory factor), we used the
+presence of a set of governance factors (proxies) identified in
+the literature, following other authors (for example Bromley and Orchard,
+2016; Feng et al., 2016).

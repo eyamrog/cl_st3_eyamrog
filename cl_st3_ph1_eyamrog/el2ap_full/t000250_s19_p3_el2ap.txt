@@ -1,0 +1,8 @@
+The median of anxiety symptoms in the overall sample was
+6.00 (IQR=11.0), mean =9.01 (9.12) points in the BAI score
+scale. Those that spent ≥30 minutes in MVPA reported lower
+anxiety symptoms than those that spent <30 minutes per day
+in MVPA (AMD= -0.759; 95%CI= -1.312 to -0.206, p=0.007). Also,
+those that spent <10 hours in SB per day reported
+lower anxiety symptoms than those that spent ≥10 hours in
+SB per day (AMD= -1.665; 95%CI= -2.869 to -0.461, p=0.007).

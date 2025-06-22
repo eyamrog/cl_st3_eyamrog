@@ -1,0 +1,9 @@
+Upon accessing the questionnaire link, respondents were first presented with
+the Informed Consent Form (ICF), which outlined the voluntary nature
+of participation, guaranteed anonymity, and clarified that withdrawal from the
+study could occur at any time without adverse consequences. Consent
+was obtained electronically by requiring participants to select "I agree
+to participate in the research" before proceeding. Subsequently, participants were
+directed to a page containing the sociodemographic and clinical questionnaire
+as well as the IDATE, with the entire process taking
+approximately 20 minutes to complete.

@@ -1,0 +1,10 @@
+Taylor et al. [35] identified a correlation between mid-range humidity
+levels and enhanced mammalian immune responses to respiratory infections. Mousavi
+et al. [36] found that relative humidity (RH) values between
+40% and 60% are the least favorable conditions for the
+survival of microorganisms. Appropriate selection, operation, and maintenance of humidification
+equipment are necessary when introducing water vapor into indoor environments
+to achieve these mid-range humidity levels, which are associated with
+reduced infection rates. The relationship between relative humidity and viral
+activity is further supported by findings from studies on SARS
+[35, 36].

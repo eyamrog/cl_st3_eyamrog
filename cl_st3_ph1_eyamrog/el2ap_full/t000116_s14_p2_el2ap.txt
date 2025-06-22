@@ -1,0 +1,5 @@
+We restricted the number of hospitalizations to 74 causes, according
+to the two-digit classification of the International Classification of Diseases.
+We focus on the causes established by National Ordinance No.
+221 of 2008, which sets the list of admissions for
+conditions sensitive to primary care (Supplementary Material #1).

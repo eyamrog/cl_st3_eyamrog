@@ -1,0 +1,8 @@
+Finally, research is needed to provide a more rigorous description
+of the relationship between journal size and authorship concentration indexes.
+If an ideally non-endogenous journal increased or decreased in number
+of signed articles, how would that affect the indexes? Such
+knowledge would enable more precise interpretation of the indexes, and
+allow one to confidently compare countries or subjects, as well
+as to investigate whether larger journals are generally less or
+more endogenous than smaller ones.

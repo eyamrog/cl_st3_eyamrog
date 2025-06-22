@@ -1,0 +1,13 @@
+In diseases where lethality is strongly correlated with age, the
+overall mortality rate within a population is determined not only
+by age-specific mortality rates but also by the population's age
+structure. This is illustrated by the observation that the four
+countries with the highest overall mortality rates in Table 1—England
+and Wales, Italy, Hungary, and Spain—do not have the highest
+mortality rates in any age group below 70 years, where
+the highest rates are consistently observed in Latin American countries
+or South Africa. Conversely, in the age group of 80
+years or older, three of the four highest mortality rates
+are found in developed countries, with the exception of Colombia,
+which has the second highest mortality rate in this age
+group.

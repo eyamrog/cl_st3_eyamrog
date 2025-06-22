@@ -1,0 +1,13 @@
+Interferon release constitutes a critical innate defense mechanism against viral
+infections. In vivo studies have demonstrated that treatment with IFN-β1b
+reduces pulmonary infiltrates, bronchointerstitial pneumonia, and viral load in MERS-CoV
+infection (Chan et al. 2015). Additionally, IFN-α, a mismatched double-stranded
+RNA interferon inducer, and the interferon inducer Ampligen, have been
+shown to inhibit SARS-CoV replication in the lungs (Barnard et
+al. 2006). IFN-λ has also exhibited antiviral activity against both
+SARS-CoV and MERS-CoV by establishing an antiviral state with minimal
+induction of systemic inflammation (Prokunina-Olsson et al. 2020). A review
+of the Cochrane COVID-19 Study Register indicates that antibodies targeting
+cytokines are investigated in 88 studies, while 34 studies focus
+specifically on interferons, either by inhibiting their activity or administering
+recombinant forms as therapeutic interventions.

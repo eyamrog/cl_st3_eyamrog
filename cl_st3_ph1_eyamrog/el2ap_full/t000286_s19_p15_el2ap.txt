@@ -1,0 +1,8 @@
+The results revealed that INT does not granger causes FDI;
+the null hypothesis is accepted at 5% significance level, indicated
+by the high probability value 0.1538. The results also revealed
+that FDI does not granger causes INT, the null hypothesis
+is accepted at 5% percent indicated by the probability value
+0.8541 and this is confirmed by the F-statistics value 0.15915.
+This result therefore indicates no causation flowing from INT to
+FDI.

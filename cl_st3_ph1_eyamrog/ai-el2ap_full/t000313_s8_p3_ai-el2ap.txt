@@ -1,0 +1,20 @@
+Similar to SARS-CoV, SARS-CoV-2 utilizes the Angiotensin-Converting Enzyme 2 (ACE2)
+as a cellular receptor to facilitate entry into host cells
+(Li et al., 2003; Li et al., 2005a; Li et
+al., 2005b; Chen et al., 2020; Hoffmann et al., 2020;
+Letko et al., 2020; Li et al., 2020a; Li et
+al., 2020b; Luan et al., 2020; Walls et al., 2020;
+Wan et al., 2020; Xu et al., 2020). The ACE2
+gene is located on the X chromosome and encodes a
+zinc metallopeptidase protein consisting of 805 amino acids with a
+single catalytic domain. ACE2 is primarily expressed in the vascular
+endothelium, myocardium, lungs, kidneys, and intestines (Turner et al., 2004;
+McKinney et al., 2014; Zhang et al., 2020). Functionally, ACE2
+acts as a strict carboxypeptidase, hydrolyzing its substrates by removing
+a single amino acid from the C-terminus. It cleaves Angiotensin
+I and Angiotensin II to generate Angiotensin 1-9 and Angiotensin
+1-7, respectively, both of which are key components involved in
+cardiovascular physiology, including the regulation of vascular tone, blood pressure,
+electrolyte balance, and water intake (Millan et al., 1990; Donoghue
+et al., 2000; Oudit et al., 2009; McKinney et al.,
+2014).

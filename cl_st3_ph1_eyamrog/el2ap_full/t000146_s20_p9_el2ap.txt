@@ -1,0 +1,6 @@
+Each of the two previous variables are now analyzed together
+with the percentage of publications in the national language. Figure
+2 shows that the linear relationship of the percentage of
+publications in the native language is more representative when the
+analysis takes account of the impact on the national language
+(measured in percentage terms) (Fig.

@@ -1,0 +1,8 @@
+This finding indicates the potential for misdiagnosis, which may result
+in delayed diagnosis, inappropriate treatment, and inefficient allocation of healthcare
+resources (2,4). However, the specific effects of a potential syndemic
+on patient outcomes and health systems remain unclear. Therefore, this
+study aims to systematically review the literature to identify evidence
+describing the clinical presentation, severity, and prognosis of coinfection with
+SARS-CoV-2 and arboviruses, with the goal of informing decision-makers in
+anticipation of possible future syndemic scenarios.

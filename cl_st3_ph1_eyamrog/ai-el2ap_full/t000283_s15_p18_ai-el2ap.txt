@@ -1,0 +1,11 @@
+We will conduct systematic searches in Medline via PubMed, Embase
+via Elsevier, the Cochrane Library (Cochrane Central Register of Controlled
+Trials [CENTRAL]), Portal Regional BVS (LILACS), Scopus, and Web of
+Science, utilizing relevant descriptors and synonyms and adapting the search
+strategies to the specific requirements of each database to identify
+published, ongoing, and unpublished studies. Additionally, we will search COVID-19-specific
+databases, including the Epistemonikos COVID-19 L·OVE platform, ClinicalTrials.gov, and the
+World Health Organization International Clinical Trials Registry Platform (WHO ICTRP).
+Reference lists of included studies will also be screened using
+the snowballing technique. No language restrictions will be applied during
+study selection.

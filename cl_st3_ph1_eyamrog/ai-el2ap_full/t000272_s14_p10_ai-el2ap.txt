@@ -1,0 +1,9 @@
+The total polyphenol content was determined using the method described
+by Chandra and Mejia (2004), in which Folin-Ciocalteu reagent (1N)
+was added to the aqueous extract. After a 2-minute incubation,
+a 20% aqueous solution of sodium carbonate (Na2CO3) was added,
+and the mixture was allowed to stand for 10 minutes.
+Absorbance was then measured at 757 nm using a Shimadzu
+UV mini-1240 spectrophotometer. A calibration curve was constructed using gallic
+acid solutions, and the polyphenol concentration was expressed as milligrams
+of gallic acid equivalents.

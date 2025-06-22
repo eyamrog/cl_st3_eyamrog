@@ -1,0 +1,9 @@
+To the best of our knowledge, and following consultation with
+two experts in SCCS/SCRI design, no specific methodological assessment tool
+has been reported or validated for evaluating the methodology of
+SCCS/SCRI designs. In 2018, Wachira et al. adapted the Newcastle-Ottawa
+Scale, originally developed for quality assessment of cohort studies, to
+evaluate SCCS study designs in their systematic review of the
+etiology of Guillain-Barré syndrome. The present study aims to propose
+a methodological quality assessment tool for use in the evaluation
+of SCCS/SCRI study designs.

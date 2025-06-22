@@ -1,0 +1,11 @@
+The results for the control group are as follows: Reading
+Comprehension Z = -4.292 (a) with p = 0.000. Given
+that the Z values are negative and the p values
+are less than 0.05, it can be concluded that there
+are statistically significant differences between the pre-test and post-test results
+in both the experimental and control groups. Consequently, the use
+of graphic organizers appears to be effective in enhancing students'
+reading comprehension. However, despite the significant differences observed in both
+groups, it cannot be conclusively determined that the improvement in
+reading comprehension is solely attributable to the use of this
+strategy.

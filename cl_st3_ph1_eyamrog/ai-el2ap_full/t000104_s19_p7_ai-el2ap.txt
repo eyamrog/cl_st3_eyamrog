@@ -1,0 +1,13 @@
+The cluster analysis indicated that the sampling sites exhibited similarities
+of 50% or greater based on the taxonomic composition of
+their respective replicates (Figure 2). Two primary groups were identified:
+the first comprised all replicates from P2 and two replicates
+from P3 (P3A and P3B), with further subdivision by sampling
+site; the second group consisted of replicates from P1 and
+P3C. These results suggest a higher degree of similarity between
+the assemblages from P1 and P3. In contrast, the cluster
+analysis based on species did not reveal distinct groupings, which
+may be attributed to the high incidence of “double-zeros,” as
+most taxa were present in only a few replicates, with
+the exception of Diptera with head I and II, and
+Diptera without head.

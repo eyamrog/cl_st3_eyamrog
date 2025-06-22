@@ -1,0 +1,8 @@
+Embedded interrogatives, as illustrated in (32)b, appear to differ slightly
+from their matrix counterparts. Although they are also assumed to
+be derived through wh-movement, evidence from Italian, as discussed by
+Rizzi (1997) and Rizzi & Bocci (2017), suggests that the
+displaced wh-element in embedded contexts does not exhibit focalization. This
+is indicated by the absence of certain restrictions that are
+observed in matrix clauses. In subordinate clauses, wh-operators are proposed
+to occupy the Specifier position of an EmbQ projection.

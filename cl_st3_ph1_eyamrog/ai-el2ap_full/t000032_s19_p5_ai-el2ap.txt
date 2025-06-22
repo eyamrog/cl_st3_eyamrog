@@ -1,0 +1,18 @@
+Factor V (Physiologic) exhibited the most substantial change during the
+study, as the observed differences indicated a consistent pattern of
+Factor presence across the temporal sequence of the Series of
+Events, with notable alterations specifically in Series 3. The TR-POST
+presence values were higher than both MATCH and TR-PRE values
+across all three Series. In Series 3, the presence values
+of this Factor differed from those in Series 1 and
+2. Specifically, TR-PRE presence values were higher in Series 1
+(p=0.007) and Series 2 (p=0.000) compared to their respective MATCH
+values, whereas in Series 3, the TR-PRE value was lower
+than that of MATCH 3 (p=0.000). Additionally, the MATCH presence
+values varied among the three Series, with the Series 2
+MATCH value being lower than those of Series 1 and
+3. Overall, analysis of the interaction between Series and Event
+demonstrated a consistent pattern in the presence of mood state
+Factors throughout the temporal sequence for all three Series, although
+Series 3 displayed significant and specific changes compared to Series
+1 and 2.

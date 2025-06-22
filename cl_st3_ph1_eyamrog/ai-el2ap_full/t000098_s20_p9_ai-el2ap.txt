@@ -1,0 +1,12 @@
+Based on Table 3, the dispersion, as measured by the
+coefficient of variation of the adjusted mortality rates, is greater
+than that of the crude rates. This suggests that crude
+rates tend to converge due to the offsetting effects of
+different underlying factors; specifically, higher mortality within certain age groups
+in some countries is counterbalanced by a younger population structure
+that is less susceptible to severe cases. In addition to
+the disparities observed between the three groups of countries, there
+is also significant internal disparity within these groups. For example,
+the adjusted mortality rate in Mexico is 89% higher than
+in Chile, while in England and Wales it exceeds that
+of Germany by 223%.

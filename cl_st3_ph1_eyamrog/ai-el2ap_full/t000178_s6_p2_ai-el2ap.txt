@@ -1,0 +1,8 @@
+It is expected that the same institutions are actively submitting
+data to multiple databases, as they host prominent research groups
+specializing in emerging and infectious diseases, biodiversity, and biotechnology. However,
+the majority of these institutions are located in Lima, the
+capital of Peru. To enhance diversity and representativeness, it is
+recommended that funding efforts be directed toward regional research groups
+and the study of a broader range of taxa, including
+non-pathogenic bacteria, archaea, non-vertebrates, and non-flowering plants.

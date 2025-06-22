@@ -1,0 +1,13 @@
+Just like the SCCS, the SCRI design controls for fixed
+confounding factors like sex, race, genetic factors, preexisting health conditions
+and geographical locations. For time varying confounders like seasonality and
+age, there is a need for explicit adjustments, like in
+the case of vaccines, the adverse effects vary especially among
+children and can also vary over the follow up period
+and be confounded with other factors giving a false positive
+impression of the vaccine effects (13,14). Unlike SCCS that includes
+both the vaccinated and unvaccinated individuals in the case of
+the analysis of adverse effects after vaccination, the SCRI design
+only includes vaccinated cases. (13). This is the primary strength
+of the SCRI design as it reduces bias that can
+arise among the vaccinated and unvaccinated cases (16).

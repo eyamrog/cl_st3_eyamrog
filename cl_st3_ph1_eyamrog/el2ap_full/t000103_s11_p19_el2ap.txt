@@ -1,0 +1,13 @@
+Previous studies have considered the effects of the order of
+the clauses and the salience of the anaphor on ambiguity
+resolution, as well as the influence of L1 on the
+process of anaphora resolution in L2. Sorace and Filiaci (2006)
+have tested the resolution of ambiguous anaphora in Italian, Alonso-Ovalle
+et al. (2002) and Keating et al. (2011) in Spanish,
+Valenzuela et al. (2011) in Spanish and English, and Lobo
+and Silva (2016) in Portuguese. However, few studies compare anaphora
+resolution in multiple languages, and Portuguese is not usually included
+in them. They also do not specify semantic criteria for
+the verb selection in the exercises. Our study, on the
+other hand, not only specifies them, but investigates how different
+combinations of verbs can affect anaphora resolution.

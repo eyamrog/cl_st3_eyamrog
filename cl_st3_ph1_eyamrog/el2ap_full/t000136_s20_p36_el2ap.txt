@@ -1,0 +1,5 @@
+As a general measure of model adjustment, we got the
+Goodness-of-Fit index (GoF) of 0.4177. Wetzels et al.(2009) suggest for
+gradation a low GoF = 0.1, average = 0.25 and
+high = 0.36. By this criterion, the general fit of
+this study’s model can be considered high.

@@ -1,0 +1,11 @@
+As for the empirical model, we used Probit models to
+estimate the conditional probability of working from home for individual
+𝑖 given several observable characteristics (𝑦𝑖= 1|𝒙𝒊). We used this
+class of models since OLS regressions ignore the discreteness of
+the dependent variable and there is no constrain for probabilities
+to be between zero and one. Following Cameron and Trivedi
+(2005), Probit model specifies 0 < 𝑝𝑖< 1 as in
+eq. (1): <> where Φ is the cumulative distribution function
+for the standard normal and 𝑥𝑖 indicates the vector of
+covariates described in Table 2. The Probit model marginal effects
+are (2): <>

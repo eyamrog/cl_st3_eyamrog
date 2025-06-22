@@ -1,0 +1,20 @@
+Recently, a high-profile scandal involving editors affiliated to the same
+institution as the authors motivated Locher and colleagues (2021 Mar
+30) to propose an authorship concentration index (proportion of articles
+by the most prolific author) as an indicator of endogeneity.
+A second index (the Gini coefficient of inequality) was soon
+proposed by Scanff and colleagues (2021), who validated both indexes
+in a representative sample of journals indexed in MEDLINE. When
+either index was above its 95th percentile, the journal’s most
+prolific author was more likely than not to participate in
+the journal’s editorial board. Furthermore, the most prolific authors were
+more likely to have their articles accepted in less than
+three weeks, and this publication lag was even shorter in
+journals with a larger number of articles by their most
+prolific author. As discussed by Scanff and colleagues (2021), while
+there are legitimate reasons for editors to publish in their
+own journals, and for articles from prolific authors to have
+shorter evaluation times, both authorship concentration indexes can be used
+for flagging journals as potentially endogenous, “self-promotion journals” (as in
+Locher and colleagues (2021 Mar 30)), or “nepotistic journals” (as
+in Scanff and colleagues (2021)).

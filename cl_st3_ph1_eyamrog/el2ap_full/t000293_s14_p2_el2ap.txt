@@ -1,0 +1,8 @@
+Clinical variables included age, gender, presence and type of neoplasia,
+time of onset of symptoms, signs and symptoms at admission
+and serological tests. Chest CT exams were reviewed by two
+experienced radiologists and imaging findings were classified, according to the
+consen- sus statement on reporting chest CT findings related to
+COVID-19 issued by the Society of Thoracic Radiology, the American
+College of Radiology, and the Radiology So- ciety of North
+America(24) in:

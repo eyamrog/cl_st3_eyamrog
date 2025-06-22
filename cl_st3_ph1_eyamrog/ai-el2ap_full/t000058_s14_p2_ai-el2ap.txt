@@ -1,0 +1,7 @@
+The geographical coordinates of the 18 sampled municipalities were obtained
+from the Global Gazetteer Version 2.3 platform (http://www.fallingrain.com/world/). These coordinates
+were used to create a map of the phytogeographic areas,
+following the classification in reference [46], using QGIS software (version
+3.22.3-Białowieża). Culicid specimens were collected using various methods, including entomological
+nets, aspiration, CDC light traps, and Shannon traps equipped with
+a fluorescent bulb as bait [1,2,17].

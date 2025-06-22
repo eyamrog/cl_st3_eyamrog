@@ -1,0 +1,5 @@
+The Kapetanios, Shin & Snell (KSS) (2006) Cointegration Test from
+the nonlinear cointegration tests, and the Banerjee, Arčabić & Lee
+(2017) Fourier Cointegration Test from the cointegration tests based on
+Fourier functions, which were used in the analysis, were explained
+in this part.

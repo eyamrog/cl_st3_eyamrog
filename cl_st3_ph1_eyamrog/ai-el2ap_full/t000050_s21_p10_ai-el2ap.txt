@@ -1,0 +1,7 @@
+Insects were identified by experienced taxonomists using identification keys available
+in the literature [2,3]. The dataset is formatted according to
+the Darwin Core standard, with 41 terms included for the
+Suruwaha dataset and 39 terms for the Wajãpí dataset. All
+mandatory fields are present and have been screened in the
+FIOCRUZ IPT, and metadata fields are also accessible on the
+corresponding online pages.

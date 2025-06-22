@@ -1,0 +1,16 @@
+At the end of the collection period, the database was
+consolidated by merging the three stages of the survey conducted
+in the two cities. A consistency analysis was then carried
+out to verify the consistency of the data, the presence
+of typing errors, or the absence of data. The sample
+weight of each selected unit (census tract, household, and individual)
+was calculated separately for each city, taking into consideration the
+inverse of the probability of selection, according to the sampling
+plan of the study and according to data from the
+2010 demographic census. An adjustment was applied to compensate for
+the loss of interviews due to non-response and the weight
+of the household and the selected resident was calibrated, so
+that the population totals by sex and age group (18
+to 29 years, 30 to 49 years, 50 to 59
+years, and 60 years and older) were consistent with the
+2019 population projections (DATASUS) [22].

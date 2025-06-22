@@ -1,0 +1,6 @@
+Statistical analysis - Through the Software Past 3.0 (Hammer &
+Harper 2006), the total number of species, species diversity through
+the Shannon-Weaver (H') index and the equality rate of Pielou
+(J) (Krebs 2007) were observed. The T test was used
+to ascertain if the H 'values differed from each other
+(p <0.05).

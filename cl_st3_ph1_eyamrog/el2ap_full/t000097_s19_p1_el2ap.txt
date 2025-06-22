@@ -1,0 +1,9 @@
+806 articles were found in the first database search, that
+is, 290 in Science Direct, 46 in Web of Science,
+87 in Scopus, 170 in Cochrane and 213 in PubMed.
+102 duplicate articles were excluded. After reading the titles and
+abstracts, 686 articles were excluded for not meeting the inclusion
+criteria, besides being characterized as another type of study or
+for investigating individuals with other diseases. Thus, 18 articles remained
+to be read in full and, after doing so, one
+article was excluded.

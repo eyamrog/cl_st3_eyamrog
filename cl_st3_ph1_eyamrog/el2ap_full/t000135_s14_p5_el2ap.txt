@@ -1,0 +1,9 @@
+The analysis was performed using STATA 16.0 software (https://www.stata.com). Descriptive
+analysis was performed using mean rates, standard deviation, minimum, maximum
+and median of the variables. Multilevel mixed-effects negative binomial regression
+was used to analyze the association between the procedures and
+the impact of COVID-19, from February 2018 to December 2020.
+A stepwise backward procedure was used to select variables in
+the adjusted model. Only variables presenting a p-value < 0.250
+were retained in the final model. Incidence rate ratios and
+95% confidence intervals were estimated in the regressions.

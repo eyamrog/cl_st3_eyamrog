@@ -1,0 +1,3 @@
+Methodology: We use a time series analysis of deaths due
+to COVID-19 referenced to the date of deaths (as opposed
+to the date in which the test results were obtained).

@@ -1,0 +1,5 @@
+Due to the heterogeneous structure of AbCSim, each submodel employs
+distinct mechanisms for parameter acquisition, adjustment, and adaptation. Certain constants
+were sourced directly from the literature, whereas others were calibrated
+using a grid search approach by comparing simulation outputs with
+available empirical data.

@@ -1,0 +1,10 @@
+Anxiety symptoms were measured using the Beck Anxiety Inventory (BAI),
+a 21-item self-report instrument. Each item assesses a specific anxiety
+symptom, and participants rate the extent to which they experienced
+each symptom over the past month on a scale from
+0 (not at all) to 3 (severely, it bothered me
+a lot). Total scores range from 0 to 63, with
+established cutoffs indicating minimal or no anxiety symptoms (0–7), mild
+anxiety symptoms (8–15), moderate anxiety symptoms (16–25), and severe anxiety
+symptoms (26–63). For the purposes of this study, anxiety was
+dichotomized as absent (scores 0–7) or prevalent (scores 8–63).

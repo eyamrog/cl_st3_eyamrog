@@ -1,0 +1,7 @@
+There are eleven more “moderate” correlations, as shown in Table
+5. In general, the average of the magnitude of all
+Indicators of this Dimension is 0.3515 and the standard deviation
+is 0.1763. This is the highest average of all the
+Dimensions, but it is not high enough to consider the
+Indicators as redundant. Therefore, the results also validate this Dimension
+for the group of Institutions studied here.

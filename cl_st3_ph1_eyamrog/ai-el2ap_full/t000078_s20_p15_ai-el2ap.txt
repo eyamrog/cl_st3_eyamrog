@@ -1,0 +1,11 @@
+Duranton and Puga (2015) note the absence of a universally
+accepted definition of subcenter business districts (SBD). Several studies have
+employed the use of contiguous areas as an empirical approach
+to address the difficulties associated with quantifying SBD (Guiliano and
+Small, 1991; McMillen, 2003; Baumont, Ertur, and Gallo, 2004). In
+accordance with theoretical models, areas with estimated coefficients that are
+both statistically significant and negative are identified as SBDs. Based
+on this criterion and the results of the estimated model,
+the city of São Paulo contains seven SBDs, each exhibiting
+a negative and statistically significant global effect, encompassing both direct
+and indirect impacts.

@@ -1,0 +1,7 @@
+Based on this theoretical framework, governance is conceptualized as a
+higher-order abstraction that functions through a set of dimensions. Harris
+et al. (2015), among others, identified theoretical attributes that may
+serve as determinants of governance and treated these as latent
+variables, adopting a reflective measurement model for the constructs. Accordingly,
+in the context of this research, the observable variables (proxies)
+are regarded as indicators that reflect the underlying theoretical constructs.

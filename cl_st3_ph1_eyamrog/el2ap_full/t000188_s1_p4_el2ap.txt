@@ -1,0 +1,5 @@
+Conclusion: We estimate a substantial increase in the rate of
+cumulative cases in Brazil over the next months. The Boltzmann
+function proved to be a simple tool for epidemiological forecasting
+that can assist in the planning of measures to contain
+COVID-19.

@@ -1,0 +1,6 @@
+The distribution of missing data is not uniform across the
+Indicators, resulting in varying levels of data completeness. Table 1
+provides the basis for Figure 5, which visually represents the
+number of available data points for each Indicator. Analysis of
+this information reveals a substantial imbalance in data availability among
+the different Indicators.

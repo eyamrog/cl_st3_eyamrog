@@ -1,0 +1,9 @@
+Following translation, the pp1a and pp1ab polyproteins are proteolytically cleaved
+to yield 16 non-structural proteins, as listed in Table 1
+and illustrated in Figure 1. This cleavage is mediated by
+two viral proteases: nsp3, a papain-like protease (PLpro), and nsp5,
+a 3C-like protease (3CLpro). Nsp3 is responsible for cleaving the
+junctions between nsp1, nsp2, and nsp3, specifically at the sites
+between nsp1/nsp2, nsp2/nsp3, and nsp3/nsp4. In contrast, nsp5 cleaves the
+remaining sites, thereby generating the other non-structural proteins (Ziebuhr et
+al., 2000; Báez-Santos et al., 2015).

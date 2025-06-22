@@ -1,0 +1,5 @@
+Large droplets, defined as those with diameters greater than 10
+microns, are primarily responsible for airborne transmission within a short
+range. These droplets are generated predominantly through coughing and sneezing
+and typically settle onto surfaces within 1 to 2 meters
+of the infected individual.

@@ -1,0 +1,9 @@
+In this Figure it was possible, based on the Price
+Law 6-8, to affirm that the proportion of variance explained
+by the exponential model (R² = 0,4306) is larger than
+in the case of the linear model (R² = 0,0202).
+Based on these results, we can conclude that publications about
+SARS show a good fit with the Price Law 6-8
+when considering the period (1989-2020). This also shows that the
+growth of scientific literature in the research area is in
+the exponential growth stage.

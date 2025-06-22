@@ -1,0 +1,10 @@
+The data source is official and published by Johns Hopkins
+Hospital. Countries were selected in descending order based on the
+number of reported cases as of April 11, 2020, and
+categorized into two groups: the first group includes countries with
+no tuberculosis vaccination programs or with low vaccination coverage, while
+the second group comprises countries with the highest vaccine coverage,
+either through administration at birth or at two or more
+life stages. These categories were further divided into seven subgroups,
+each consisting of the countries listed above and the rationale
+for their classification, as detailed in Table 1.

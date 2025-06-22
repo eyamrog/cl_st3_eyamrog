@@ -1,0 +1,12 @@
+This perspective, in the context of the COVID-19 pandemic and
+its aftermath, addresses the challenges faced by educators and learners
+regarding mental health. Evidence suggests that the engagement of brain
+regions involved in emotional processing, such as the limbic system,
+combined with the potential for viral transmission between neurons, may
+disrupt the release of key neurotransmitters, including glutamate and acetylcholine
+(excitatory), GABA and dopamine (inhibitory), as well as serotonin (which
+has both excitatory and inhibitory functions), and may also affect
+glial cells that respond to environmental stimuli. Consequently, it is
+hypothesized that SARS-CoV-2 can impair the efficiency of neural circuits,
+thereby affecting both afferent and efferent projections that are essential
+for learning processes (73).

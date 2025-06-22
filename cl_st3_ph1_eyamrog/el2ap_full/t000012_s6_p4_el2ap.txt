@@ -1,0 +1,14 @@
+Here, we have analyzed the structure of interactions and the
+natural history of bird species in facultative interactions, aiming to
+unravel the complexity of bird-mammal cleaning communities. Although the history
+of resources consumed and the centrality degree are important to
+comprehend the patterns of interactions, each one of them plays
+a different role in the composition of the community. In
+a broader perspective, these results suggest that the factors that
+may allow species to participate in ecological community networks are
+not the same factors that modulate their role in the
+same networks. Other factors, such as species abundance, can determine
+degree centrality. Thus, the role of species does not depend
+on a global structural generalism. But specifically, the role of
+species depends on their natural history and their integration into
+different types of interactions.

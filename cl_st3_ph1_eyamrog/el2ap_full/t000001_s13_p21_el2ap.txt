@@ -1,0 +1,6 @@
+While the ~5 kbp rRNA operon is the longest repeat
+in many bacterial genomes, longer repeats are possible. For example,
+Mycobacterium smegmatis mc2155 contains a 56 kbp duplication in its
+chromosome40. In such cases, typical ONT read lengths (~20 kbp)
+can be insufficient for assembly and ultra-long reads (~100 kbp)
+are needed (Figure 2C).

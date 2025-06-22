@@ -1,0 +1,6 @@
+Data availability for each Dimension is as follows: 95.83% for
+“Teaching and Learning,” 81.42% for “Research,” 95.17% for “Knowledge Transfer,”
+95.17% for “International Orientation,” and 84.83% for “Regional Engagement.” “Teaching
+and Learning” and “International Orientation” exhibit the highest data availability,
+both exceeding 95%, while the remaining Dimensions also demonstrate acceptable
+levels of data availability, each above 80%.

@@ -1,0 +1,6 @@
+Compiling a learner corpus in a pedagogical context has been
+challenging, since, for a couple of years, data collection procedures
+changed, as described. After establishing consistent compilation parameters, the corpus
+grew steadily. Its task and learner variable complexities allow for
+a multitude of investigations, some of which will be shown
+in the next section.

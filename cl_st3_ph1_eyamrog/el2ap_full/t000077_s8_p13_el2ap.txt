@@ -1,0 +1,11 @@
+Gaudecker et al. (2020), analyzing data from the Netherlands, have
+found that the total hours worked reduced more for the
+self-employed, because firms insure employees against transitory shocks, and for
+workers with less education, since workers with higher education may
+work more hours at home. These authors divided the economic
+sectors into two clusters: one dominated by office occupations with
+high participation of academics, hours of work at home and
+a reduced involvement of “essential” workers; and another in which
+manual tasks and social interactions are predominant, with low participation
+of academics and hours of work at home and a
+greater participation of “essential” workers (Gaudecker et al., 2020).

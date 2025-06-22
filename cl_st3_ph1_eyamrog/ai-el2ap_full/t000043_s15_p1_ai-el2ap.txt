@@ -1,0 +1,8 @@
+The quality assessment tool used in this study is an
+adaptation of the Newcastle-Ottawa Scale (19) for evaluating the quality
+of cohort studies, as presented by Wachira et al., and
+incorporates the fundamental assumptions of the Self-Controlled Case Series (SCCS)
+and Self-Controlled Risk Interval (SCRI) methods (21). The adaptation was
+developed by V.W. and subsequently evaluated by H.M. and M.R.
+Additionally, the tool has been utilized by two other researchers
+in their respective systematic review studies (22, 23).

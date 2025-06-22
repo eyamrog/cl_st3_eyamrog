@@ -1,0 +1,4 @@
+In order to identify the underlying governance structure in NPO,
+we conducted a MCA. Using the scree plot criteria and
+parallel analysis, we retained five dimensions, which together accounted for
+74% of the variables’ variance.

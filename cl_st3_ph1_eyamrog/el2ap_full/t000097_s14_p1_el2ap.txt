@@ -1,0 +1,5 @@
+The present scoping review is based on the guidelines of
+PRISMA Extension for Scoping Reviews (PRISMA-ScR)19. The guiding question was
+formed according to PICOS acronym: what are the characteristics of
+the physical activity and/or physical exercise intervention protocols for breast
+cancer treatment?

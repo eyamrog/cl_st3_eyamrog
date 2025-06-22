@@ -1,0 +1,8 @@
+The transmission routes of the infectious agent must be assessed.
+In relation to COVID-19, the standard assumption is that the
+following two transmission routes are dominant: via large droplets (droplets/particles
+emitted when sneezing or coughing or talking) and via surface
+(fomite) contact (hand- hand, hand-surface etc.). A third transmission route
+that is gaining more attention from the scientific community is
+the fecal-oral route [14]. Table 1 includes the relation between
+aerosol droplets size and exposure time. The droplets can be:

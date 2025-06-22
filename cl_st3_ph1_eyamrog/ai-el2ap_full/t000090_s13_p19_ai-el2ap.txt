@@ -1,0 +1,10 @@
+Next, we conduct a detailed analysis of the extent of
+missing and available data in the “U-Multirank” dataset, as well
+as the provenance of these data, specifically whether they originate
+from open sources or are provided directly by the institutions.
+The objective is to gain a clearer understanding of each
+indicator by identifying those that serve as weaker or stronger
+measures within the ranking, based on their source and availability.
+For this analysis, we utilize the data available for the
+top 300 performers among European countries in the 2020 edition
+of the ranking.

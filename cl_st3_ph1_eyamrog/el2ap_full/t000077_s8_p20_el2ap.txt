@@ -1,0 +1,9 @@
+The vast majority of studies analyzed the circumstances in developed
+countries. Among studies that focus on developing countries, Gottlieb et
+al. (2021) measured the ability to work-from-home (WFH) in Armenia,
+Bolivia, China, Colombia, Georgia, Ghana, Kenya, Laos, Macedonia and Vietnam.
+They show that the ability to WFH is relatively low
+and strongly correlated with per capita income in these countries
+and that there is high heterogeneity across and within occupations
+and across characteristics of workers, with vulnerable groups less likely
+to work remotely.

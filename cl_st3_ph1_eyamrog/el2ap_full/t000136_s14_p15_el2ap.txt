@@ -1,0 +1,4 @@
+Regarding the potential moderator effect (H2), as data assumed dichotomous
+values (zero and one), we evaluated it through a multigroup
+analysis, as suggested by Hair et al. (2016) and Sanchez
+(2013).

@@ -1,0 +1,12 @@
+The pandemic caused by the novel coronavirus (SARS-CoV-2, severe acute
+respiratory syndrome-related coronavirus 2) has led to increased demand for
+healthcare services, and significant uncertainties remain regarding its management. The
+disease associated with this virus (COVID-19, coronavirus disease 2019) is
+characterized by high transmissibility and relatively low lethality, with reported
+mortality rates ranging from 1% to 3.5%. It is estimated
+that 15–20% of infected individuals may develop severe pneumonia, and
+5–10% may require intensive care. Elderly patients and those with
+comorbidities are at increased risk of mortality from COVID-19. The
+current gold standard for the etiological diagnosis of SARS-CoV-2 infection
+is reverse transcription polymerase chain reaction (RT-PCR) performed on respiratory
+tract specimens.

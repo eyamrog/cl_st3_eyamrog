@@ -1,0 +1,8 @@
+The term “virus” comes from Latin, understood as “poison” or
+“toxin”. They are mostly 20-300 nm in diameter, have a
+genome consisting of one or more nucleic acid molecules (DNA
+or RNA), covered by a protein wrapper formed by one
+or more proteins, and by a complex envelope in a
+lipid bilayer.2 Coronaviruses are enveloped positive-RNA viruses, and have a
+unique replication strategy, which makes it possible to vary their
+pathogenicity and ease of adaptation in different environments.2

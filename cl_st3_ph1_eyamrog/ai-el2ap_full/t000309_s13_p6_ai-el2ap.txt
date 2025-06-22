@@ -1,0 +1,19 @@
+The British Society of Gastroenterology (BSG) and Crohn’s and Colitis
+UK jointly issued specific guidance for patients with inflammatory bowel
+disease (IBD), stratifying risk based on medication use, age, and
+additional risk factors. Using a decision tree, patients are categorized
+as being at highest, moderate, or lowest risk for serious
+complications from COVID-19. The highest risk group includes individuals with
+comorbidities such as respiratory or cardiac disease, hypertension, or diabetes
+mellitus; those over 70 years of age receiving any form
+of immunosuppressive therapy for IBD; patients of any age receiving
+≥20 mg prednisolone; those undergoing new induction therapy with biologics
+and immunomodulators (combination therapy) within the previous six weeks; individuals
+with moderate to severe active disease or short gut syndrome;
+and patients requiring parenteral nutrition. Patients treated with biological therapy,
+thiopurines, calcineurin inhibitors, Janus kinase (JAK) inhibitors, or combination therapy
+are classified as moderate risk, while all other IBD patients
+are considered at lowest risk. The guidance recommends that patients
+at highest risk should self-isolate, those at moderate risk should
+adhere to strict social distancing, and those at lowest risk
+should follow general population social distancing measures.

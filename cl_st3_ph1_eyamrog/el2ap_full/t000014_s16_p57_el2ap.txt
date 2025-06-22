@@ -1,0 +1,9 @@
+The metadata were initially organized in an Excel spreadsheet, then
+entered into the Lameta program (HALTON et al., 2021). Each
+session groups together an audio file, video file, and annotation
+in ELAN (.EAF format) or elicitations in PDF. IMDI files
+(ISLE Metadata Initiative) were also created for each session, and
+contain information about the recordings, such as the ‘actors’ (people
+involved), subject, content description, and keywords. There are also sets
+of photographs organized into the following categories: community, craft, school,
+daily life, researchers, training, people, and work.

@@ -1,0 +1,6 @@
+For the remaining Indicators, we have one (“Graduate companies”) below
+50% and above 33% of data available; one in the
+range 50%-66% (“Art related output”) and two in the range
+66%-75% (“Professional Publications”, “Spin-Offs”). Therefore, there are 30 Indicators with
+more than 75% of data available, representing 83.33% of the
+Indicators.

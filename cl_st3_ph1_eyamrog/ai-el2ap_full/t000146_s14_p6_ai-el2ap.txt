@@ -1,0 +1,4 @@
+b) Citations in SciELO Citation Index (CI) are considered in
+relation to the total number of citations across all Web
+of Science (WoS) citation sources, including those from SciELO CI
+itself.

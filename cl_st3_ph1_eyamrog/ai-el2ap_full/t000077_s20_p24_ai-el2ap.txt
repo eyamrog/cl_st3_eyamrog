@@ -1,0 +1,6 @@
+Gottlieb et al. (2021) indicate that more educated and salaried
+employees, as opposed to self-employed individuals or employers, are more
+likely to work from home, even after controlling for specific
+types of work. This finding suggests that while the propensity
+for remote work varies across different occupations, there is also
+significant heterogeneity within individual occupations.

@@ -1,0 +1,12 @@
+To further analyze the cellular proteins related to coronaviruses biology,
+we performed Ingenuity Pathway Analysis, using the list of proteins
+presented in table 2. This allowed the generation of a
+canonical pathways list, presented in table 3, that may be
+important or modulated during the replication cycle of coronaviruses. The
+top 10 pathways were selected based on their associated p-value.
+The modulation of key molecular players, such as p53 and
+mTOR pathways, the inhibition of the host immune response by
+restraint of IFN induction and changes in cell cycle and
+cell growth, has been highly associated with the proteins of
+coronaviruses. These events may create a proliferative state that favors
+viral replication and inhibits apoptosis, facilitating viral cycle progression.

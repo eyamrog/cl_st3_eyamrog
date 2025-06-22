@@ -1,0 +1,8 @@
+Qi et al. [31], in a survey involving 684 Chinese
+children aged 5 months to 12 years, found that vitamin
+A deficiency (retinol <0.2 mg/L) was associated with an increased
+risk of developing acute respiratory tract infection (p<0.05). However, these
+findings should be interpreted with caution, as vitamin A concentrations
+are known to decrease during infectious conditions as a result
+of the acute phase response, which may confound the observed
+association [32].

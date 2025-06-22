@@ -1,0 +1,7 @@
+Additional challenges specific to the disease include the increased likelihood
+that only individuals with severe symptoms seek medical attention and
+undergo diagnostic testing, the high proportion of infected individuals who
+experience mild symptoms or remain asymptomatic, and the influence of
+social determinants on disease outcomes [5-7]. These factors can affect
+transmission dynamics, contribute to underreporting, and obscure the accuracy of
+COVID-19 data.

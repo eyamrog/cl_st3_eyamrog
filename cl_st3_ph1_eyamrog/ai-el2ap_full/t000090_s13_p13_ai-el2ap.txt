@@ -1,0 +1,11 @@
+Figure 2 presents the average values of the Dimensions (vertical
+axis) as a function of the position of each Academic
+Institution according to the “U-Multirank” ranking (horizontal axis). The analysis
+includes all 1,070 European Academic Institutions listed in the 2020
+edition. While there is a general trend indicating higher average
+scores among institutions with better rankings, the correlation is not
+strong, as illustrated in Figure 2. Notably, many institutions with
+average grades above 2.5 are found among the lowest 300
+positions in the overall ranking. These results suggest that the
+criteria and methodology employed by “U-Multirank” should be interpreted with
+caution and may warrant further review.

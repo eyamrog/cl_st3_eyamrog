@@ -1,0 +1,7 @@
+In December 2019, cases of severe pneumonia of unknown etiology
+were reported in Wuhan, China. Following the identification of the
+initial case, the outbreak rapidly disseminated both nationally and internationally.
+The causative agent was identified as a betacoronavirus, designated as
+severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which is responsible
+for the clinical syndrome known as coronavirus disease 2019 (COVID-19)
+[1].

@@ -1,0 +1,6 @@
+Baroreflex can be evaluated by analysis in the time domain:
+mean of RR intervals, standard deviation, RMSSD, etc. Likewise, the
+analysis of heart rate variability in the frequency domain using
+the Fourier transform is of immense value. In this way,
+the LH and HF indices are obtained, the quotient of
+which represents the sympathetic vagal equilibrium.

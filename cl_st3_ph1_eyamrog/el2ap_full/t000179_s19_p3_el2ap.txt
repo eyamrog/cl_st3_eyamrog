@@ -1,0 +1,12 @@
+Health Services Management Satisfaction Scale KMO value was greater than
+0.90, suggesting a good proportion of variance among variables that
+might be common variance. Parallel analysis identified three possible dimensions
+and Kaiser's analysis identified two dimensions. Due to the heterogeneity,
+one, two and three-dimensions models were evaluated. The one-dimensional and
+two- dimensional models presented adequate factor loads for physicians (λ>0.4)
+and met the condition of having at least three items
+in each dimension (see Table 2). On the other hand,
+the structure of the three-dimensional model was very heterogeneous. Its
+dimensions were not stable since they had very few items
+(less than three items per dimension). Therefore, this model was
+not considered in subsequent analyzes.

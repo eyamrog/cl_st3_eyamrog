@@ -1,0 +1,8 @@
+Elias et al [21] showed that in hospitals that contain
+HEPA filtration, localized filtering in high-traffic spaces may further decrease
+the number of viral particles. A low-cost air purifier containing
+a HEPA filter can cost aorund $100 and renovate the
+air in a 15m2 room 5 times per hour and
+could be deployed widely in hospital environments. It may be
+worth taking any measures possible to increase airflow speed in
+existing HVAC systems, and to avoid recirculating air between rooms.

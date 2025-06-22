@@ -1,0 +1,15 @@
+Anti-CD20 monoclonal antibodies (ocrelizumab and off-label use of rituximab) are
+frequently used for the treatment of MS. Anti-CD20 monoclonal antibodies
+have previously been linked to an increased risk of severe
+viral infections, a major concern during the COVID-19 pandemic. Causal
+mechanisms include: neutropenia, lymphopenia, and hypogammaglobulinemia. Therefore, when prescribed, we
+recommend CBC and immunoglobulin monitoring (total serum IgA, IgM, IgG)
+every six months or in the case of recurrent infection.
+Immunoglobulin replacement in patients with hypogammaglobulinemia is associated with lower
+infection risk related to rituximab use. We consider this recommendation
+particularly important in a viral pandemic context45. CD19 monitoring may
+be a reasonable strategy to individualize decision making on dosage
+and reinfusion intervals of B-cell depleting therapies46. Nonetheless, in a
+recent series, ocrelizumab was not associated with severe COVID-1929,47. Thus,
+this treatment option seems reasonable for aggressive MS patients30 with
+positive JCV.

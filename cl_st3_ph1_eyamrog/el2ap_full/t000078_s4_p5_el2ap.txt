@@ -1,0 +1,12 @@
+The identification of SBDs is sensitive to geographical scales, as
+already pointed out by Anas et al. (1998). Thus, by
+changing the weighting areas by districts of the municipality or
+gridding the municipality's total area into cells of 1 km²,
+the results can be changed. One way to overcome this
+limitation would be to consider the spatial location of each
+firm and stress the modifiable areal unit problem. In this
+way, the identification of the SBD would not be restricted
+to the geographical polygon boundary proposed by the IBGE. Then
+it would be possible to identify a corridor-shaped SBD, for
+example. If all identified SBD connect to each other, instead
+of 7 SBDs we would identify fewer SBD.

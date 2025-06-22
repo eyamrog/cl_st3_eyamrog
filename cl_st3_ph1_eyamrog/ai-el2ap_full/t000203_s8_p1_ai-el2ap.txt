@@ -1,0 +1,5 @@
+The initial epidemiological data on COVID-19 indicate that elderly individuals
+with systemic arterial hypertension (SAH) and diabetes mellitus (DM) constitute
+the primary risk groups for adverse outcomes. However, reports of
+severe cases among young people, adolescents, and adults without comorbidities
+suggest the need to consider additional hypotheses regarding risk factors.

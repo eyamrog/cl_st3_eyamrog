@@ -1,0 +1,7 @@
+Frequencies of taxa occurrence were calculated based on Dajoz (1973)
+and Zak & Willig (2004), dividing the number of samples
+in which the species was registered by the total number
+of analyzed samples, multiplied by 100. The fungi were grouped
+in the following constancy categories - C: Constant ≥ 50%;
+A: Accessory ≥ 25% e < 50%; O: Occasional <
+25%.

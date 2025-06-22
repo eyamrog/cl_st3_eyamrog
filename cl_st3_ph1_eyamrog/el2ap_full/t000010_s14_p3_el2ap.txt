@@ -1,0 +1,8 @@
+Raven's Progressive Matrices Intelligence Test. It consists of 36 problems,
+which are presented in a paper notebook. Each of them
+consists of an incomplete figure that the child must complete.
+It is a classic test to measure fluid intelligence. The
+Cuban norms of Ramírez et al. (2017) were used. The
+instrument shows adequate levels of reliability in the Cuban context.
+The analysis indicated, 91% of the items with good discrimination
+indices (items - total) (Ramírez et al., 2017).

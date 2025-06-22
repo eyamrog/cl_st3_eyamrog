@@ -1,0 +1,14 @@
+The SARS-CoV-2 virus has resulted in a major global health
+crisis, leading the World Health Organization (WHO) to declare a
+pandemic in March 2020 (Pan American Health Organization 2020; Vibha
+et al. 2020). Shortly after this declaration, Brazil, the largest
+country in Latin America, reported its first confirmed case and
+first death due to COVID-19 (Federative Republic of Brazil 2020a).
+As of 30 September 2020, Brazil ranked as the third
+most affected country globally, with 4,780,317 confirmed cases and 143,010
+deaths (worldometers.info, 2020). On the same date, the global number
+of reported cases was 33,249,563, with 1,000,004 deaths (World Health
+Organization 2020). Although several countries where the disease was initially
+detected had reported relative success in controlling transmission, reopening their
+economies, and maintaining public health measures such as social distancing,
+Brazil had not yet reached its epidemiological peak.

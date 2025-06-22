@@ -1,0 +1,12 @@
+The OLIVA database, compiled from the Redalyc and SciELO collections,
+comprises 908,982 document records from 1,720 journals published between 1909
+and May 2019 (see Table 1). Articles constitute the predominant
+document type, accounting for 87% of the records, although this
+proportion varies across subject areas. The average number of authors
+per document is 3.1, and per article is 3.3. Since
+multiple authorship is more prevalent in the Exact and Natural
+Sciences, Engineering, and Biological Sciences, these data suggest that the
+database encompasses a wide disciplinary range. While it may be
+assumed that journals published in the region primarily use vernacular
+languages and are therefore concentrated in the Social Sciences and
+Humanities, subsequent analysis will demonstrate that the corpus is multilingual.

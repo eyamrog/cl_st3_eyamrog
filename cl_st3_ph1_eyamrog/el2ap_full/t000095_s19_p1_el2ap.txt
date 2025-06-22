@@ -1,0 +1,15 @@
+The number of registers from Rio de Janeiro and São
+Paulo included in the analyses was 388,657 (91,532 and 297,125,
+respectively). The SIVEP-GRIPE Surveillance System has many variables beyond the
+diagnostic. However, except for age with no missing, and sex
+with very few missing, the other variables (race, years of
+education, and comorbidities) show large percentages of non-response. In addition,
+the quality of data shows greater disparities. Thus, missing information
+on race was 13% in the public service of the
+interior of São Paulo and 54% in the private sector
+of the capital of Rio de Janeiro. Race information was
+always worst in the private compared to public services. For
+schooling, there was almost 80% of missingness for all comparisons,
+except for the public and private services in the interior
+of São Paulo, which, despite being high, it is around
+50% (Table 1).

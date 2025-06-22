@@ -1,0 +1,8 @@
+By applying Price's Law of Elitism, the elite group of
+authors was identified as those corresponding to the square root
+of the total number of authors, which in this case
+was 82. This elite group accounted for 66.1% of the
+documents retrieved, substantially exceeding the minimum threshold of 50% proposed
+by the Law of Elitism. It is noteworthy that the
+productivity index was relatively low at 1.65, a result primarily
+attributable to the high proportion of occasional authors.

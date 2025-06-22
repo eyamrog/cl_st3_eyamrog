@@ -1,0 +1,6 @@
+In this equation (Equation 4), b indicates the non-zero constant,
+𝐷𝐹𝑇 indicates the standard ADF t statistics derived from the
+restricted regression, T indicates the number of observations, 𝑅𝑆𝑆1 ,
+indicates sum of squares of the error term for the
+H1 hypothesis. The Harvey & Leybourne (2007) test statistics are
+suitable for the distribution of 𝑥4 2.

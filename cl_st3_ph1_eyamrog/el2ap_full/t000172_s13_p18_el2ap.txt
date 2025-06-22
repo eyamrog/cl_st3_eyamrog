@@ -1,0 +1,22 @@
+N protein is the only viral nucleocapsid protein and contains
+two domains. The two structural domains of N protein, the
+N-terminal RNA binding domain (RBD) (residues 45-181) and the C-terminal
+dimerization domain (DD) (residues 248-365), do not interact with each
+other and are surrounded by flexible linkers (Chang et al.
+2006). It is reported that N protein can bind to
+nsp3 to assist the binding of the viral genome to
+the RTC and the packaging of the encapsidated genome in
+virions (Hurst et al. 2009; Chen et al. 2020b). The
+interaction between N and nsp3 supports a model in which
+this interaction tethers the genome to newly translated RTCs at
+an early stage of infection (Hurst et al. 2013). Besides,
+one of the N protein domains is critical for the
+recognition of the M protein during virus assembly in cells.
+The interaction of N protein and viral nucleocapsid with the
+membrane proteins S, E, and M for viral packaging takes
+place in the ERGIC, forming the mature virions that are
+then extruded from the cells by exocytosis via Golgi (de
+Haan and Rottier 2005). The expression of N protein increases
+the formation of VLPs, suggesting that the fusion of encapsidated
+genomes in the ERGIC improves viral envelope formation (Siu et
+al. 2008).

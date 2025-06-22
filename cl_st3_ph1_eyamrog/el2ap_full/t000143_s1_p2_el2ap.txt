@@ -1,0 +1,8 @@
+Methodology: An exploratory ecological study investigated the global spatial autocorrelation
+of epidemiological aspects with feminicide rates from municipalities of the
+State of Sergipe – Brazil (n= 75), in the 2013-2017
+period, using the “global” and “local” Moran statistic method and
+a multiple spatial regression, having as variables of exposure the
+socioeconomic status, the demographic status, the services and health status,
+feminicide rates. The software used was Stata 11.0, SPSS 18.0
+and GeoDa 0.95-i.

@@ -1,0 +1,8 @@
+This ecological, retrospective, observational study utilized secondary data from multiple
+public databases, encompassing all 5,564 Brazilian municipalities, which represents 99.9%
+of the country's 5,570 municipalities. The data were obtained from
+information systems within the National Public Health System (Sistema Único
+de Saúde - SUS). All study variables were derived from
+publicly available secondary databases, and as such, ethical approval from
+a Research Ethics Committee was not required. Data collection was
+conducted by a single researcher in February 2021.

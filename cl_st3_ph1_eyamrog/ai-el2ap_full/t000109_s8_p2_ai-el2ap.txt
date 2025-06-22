@@ -1,0 +1,18 @@
+According to recent epidemiological reports, the COVID-19 pandemic exhibits characteristics
+that are uncommon among other infectious diseases [6]. Notable features
+of COVID-19 include a high basic reproduction number (R0) of
+up to 2.79 [7], an asymptomatic infectious period lasting up
+to 14 days during which individuals may not display symptoms
+and infection can only be identified through serological testing, and
+considerable variability in both the duration and clinical outcomes of
+the disease [8]. Evidence indicates that the dynamics of the
+epidemic are influenced primarily by factors such as climate [9],
+local social and health practices [10][11], comorbidities [12], and age
+distribution [13], among other variables. The wide range of factors
+affecting the progression of the pandemic necessitates the development of
+more complex and realistic computational models that incorporate specific characteristics
+relevant to each region under study, rather than relying solely
+on conventional mathematical models. In response, this paper introduces a
+novel model that integrates local variables, including social, cultural, geographical,
+and climatological factors, which are associated with the epidemic and
+its transmission dynamics.

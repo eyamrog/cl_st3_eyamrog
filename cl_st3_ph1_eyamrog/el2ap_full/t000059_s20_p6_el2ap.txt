@@ -1,0 +1,7 @@
+In comparison to journals indexed in LILACS, those indexed in
+MEDLINE had a lower proportion of articles by the most
+prolific author (median 2.9%, 95th percentile 10.6%) and a higher
+Gini coefficient (median 0.183, 95th percentile 0.355), as described by
+Scanff and colleagues (2021). However, after reweighting MEDLINE journals, both
+authorship concentration indexes in MEDLINE became virtually identical to those
+in LILACS (Table 1).

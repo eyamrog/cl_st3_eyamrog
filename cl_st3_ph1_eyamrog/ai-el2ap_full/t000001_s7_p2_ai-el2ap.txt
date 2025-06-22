@@ -1,0 +1,13 @@
+De novo assembly is the computational process of reconstructing a
+genome from sequencing reads. Genome assembly is typically evaluated based
+on two primary criteria: accuracy and completeness. Accuracy denotes the
+frequency and magnitude of errors in the assembled sequences (contigs),
+which may range from single-base substitutions to larger insertions or
+deletions involving hundreds of bases. Completeness refers to the extent
+to which the assembled contigs represent the full length of
+the corresponding genomic sequences, with less fragmentation indicating higher completeness.
+Ideally, each contig would correspond to an entire replicon within
+the genome. A ‘perfect’ assembly is defined as one that
+optimizes both accuracy and completeness; for a bacterial genome, this
+would entail producing a single, error-free contig for each replicon
+without any extraneous contigs.

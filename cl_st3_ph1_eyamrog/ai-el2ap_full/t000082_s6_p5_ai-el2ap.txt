@@ -1,0 +1,17 @@
+Third, the presence of cheating species in mutualistic networks may
+result in the reorganization of network structure due to increased
+trait dissimilarity. Our findings indicate that cheating is associated with
+increased modularity and decreased nestedness in mutualistic networks. The development
+of modularity has also been observed as a consequence of
+coevolutionary dynamics in antagonistic networks and is influenced by the
+selection intensity between victim and cheater species (Andreazzi et al.
+2017). Our results suggest an alternative mechanism for the emergence
+of modularity in mutualistic networks, which is determined by the
+extent to which these networks accommodate cheating interactions. The structure
+of interaction networks is influenced by multiple factors, including species
+abundance distribution (Dátillo et al. 2014), trait mismatches between plants
+and animals (Stang et al. 2007), and phylogenetic and phenological
+constraints (Jordano 1995; Jordano et al. 2003). The present study
+demonstrates that cheating interactions can also alter the structure of
+mutualistic networks through coevolutionary processes. Future research should investigate the
+impact of cheating interactions on cascading co-extinctions within mutualistic networks.

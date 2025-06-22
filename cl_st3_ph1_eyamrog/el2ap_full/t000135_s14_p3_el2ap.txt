@@ -1,0 +1,8 @@
+The exposure variable was the occurrence of the COVID-19 pandemic
+and seeks to estimate the impact of Sars-Cov-19 on the
+Public Health System in Brazil. The figure for the rate
+of procedures in the current pandemic (February to December 2020)
+was monthly, compared (to avoid seasonal variations) to the rate
+of procedures in the equivalent months in 2019 and 2018
+(pre-pandemic). We are assuming that the first confirmed case of
+Sars-Covid-19 in Brazil occurred in February 2020.

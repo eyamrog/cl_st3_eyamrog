@@ -1,0 +1,14 @@
+We estimated that states in the southeast and north regions,
+specifically Rio de Janeiro, Roraima, and Pará, will experience substantial
+increases in cumulative COVID-19 death rates, with projected monthly increases
+of 5.39, 13.36, and 4.20 times, and cumulative increases of
+11.23, 15.97, and 4.41 times, respectively, by July 15. Additionally,
+the states of Amazonas (north region) and Pernambuco (northeast region)
+appear to be entering a potential stabilization phase in terms
+of death cases, with only slight increases in mortality rates
+(2.17 and 2.44 times, respectively); however, these states are still
+expected to remain among those with the highest death rates
+at the end of the observation period. In contrast, states
+in the midwest and south regions are projected to exhibit
+more moderate increases, with the lowest potential cumulative case rates
+by the end of the estimated period.

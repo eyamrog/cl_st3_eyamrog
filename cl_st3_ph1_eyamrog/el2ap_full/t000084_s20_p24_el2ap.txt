@@ -1,0 +1,10 @@
+Finally, to determine how gender affects the use of emojis,
+four independent samples t tests were conducted with gender as
+the IV and emoji use for each type of presence
+as the DV. Of the 61 survey participants, 39 were
+females and 21 were males, and one participant did not
+specify. In terms of cognitive presence, female participants (M =
+10.13, SD = 14.30) used emojis to represent cognitive presence
+slightly more than male participants (M = 8.00, SD =
+8.38), though not significantly, t(58) = .63, p = .53
+(see Tables 8 and 9).

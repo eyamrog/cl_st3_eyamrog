@@ -1,0 +1,11 @@
+The novel coronavirus SARS-CoV-2 (previously referred to as 2019-nCoV) is
+a single-stranded RNA virus belonging to the Coronaviridae family. Estimates
+of the most recent common ancestor (MRCA) for the four
+coronavirus genera within this family range from approximately 10,000 years
+to several million years (Wertheim et al., 2013). In contrast,
+SARS-CoV-2, which is currently the most extensively studied member of
+the Coronaviridae family, has a much more recent origin. Based
+on genomic sequences from various SARS-CoV-2 strains and an estimated
+annual mutation rate of 1.24 × 10⁻³ substitutions per site,
+Li et al. (2020a) estimated that the virus originated on
+November 24, 2019.

@@ -1,0 +1,3 @@
+A chronological table was compiled to present all scientific data
+utilized in the construction of the dataset, organized by municipality,
+author, and species name (Table 3).

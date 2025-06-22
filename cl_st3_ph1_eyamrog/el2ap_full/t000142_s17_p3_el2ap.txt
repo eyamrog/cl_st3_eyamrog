@@ -1,0 +1,3 @@
+Linearity tests of the series should be performed first since
+the linear analysis of the series exhibiting nonlinear behaviors would
+lead to the establishment of false models.

@@ -1,0 +1,14 @@
+The solution to this problem is de novo assembly: the
+computational process of reconstructing a genome from sequencing reads. There
+are two broad goals to consider with genome assembly: accuracy
+and completeness. Accuracy refers to the number of errors present
+in the assembled sequences (contigs). Such errors can be small
+in scale (e.g. an incorrect base) or larger in scale
+(e.g. the addition/removal of hundreds of bases). Completeness refers to
+the length of the contigs relative to the corresponding genomic
+sequence, i.e. how fragmented the assembly is. Longer contigs are
+better, ideally each contig representing an entire replicon in the
+genome. We define a ‘perfect’ assembly as one which maximises
+both accuracy and completeness. A perfect assembly of a bacterial
+genome would contain one complete and error-free contig per replicon
+and no additional contigs.

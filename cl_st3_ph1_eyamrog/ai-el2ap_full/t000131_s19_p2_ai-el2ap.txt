@@ -1,0 +1,16 @@
+The net photosynthetic rate (A) of both Mikania species was
+significantly influenced by solar radiance levels and species identity, with
+no significant interaction detected between these factors (Figure 1e-f). In
+both species, plants grown under the highest shading treatment (I75)
+exhibited lower A values compared to those grown under high
+solar radiance conditions (Figure 1e-f). At 150 days after transplanting
+(DAT), under I75, A reached its minimum values, being 6.7-fold
+lower in Mikania glomerata and 4.5-fold lower in Mikania laevigata
+relative to plants under I25. On average, the highest A
+values were recorded in plants grown under I25, with means
+of 12.69 and 14.87 µmol m⁻² s⁻¹ for M. glomerata
+and M. laevigata, respectively (Figure 1e-f). Throughout the experiment, the
+lowest values of A and stomatal conductance (gs) were observed
+at 150 DAT, a period characterized by low air relative
+humidity, high vapor pressure deficit (VPD), and elevated air temperature
+(Supplementary Material Table S3).

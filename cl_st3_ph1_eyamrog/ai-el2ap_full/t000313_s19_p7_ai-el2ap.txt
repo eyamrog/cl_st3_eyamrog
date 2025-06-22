@@ -1,0 +1,14 @@
+NWm ACE2 differs from that of other primate species due
+to two alterations in potential glycosylation sites at positions 432
+and 546, where asparagine (N) is replaced by serine (S)
+(Luan et al., 2020). Glycosylation at these sites has been
+inferred from the presence of electron density at all asparagine-linked
+sites in the ACE2 N-terminal domain, including positions 432 and
+546, and the loss of these glycosylation sites may have
+functional consequences (Towler et al., 2004). Research on MERS-CoV and
+its host-cell entry receptor, DPP4, has shown that mutations eliminating
+glycosylation sites in mouse DPP4 prevent binding with the MERS-CoV
+receptor-binding domain (RBD) (Peck et al., 2017). Peck et al.
+(2017) concluded that glycosylation at orthologous DPP4 sites constitutes a
+significant barrier to MERS-CoV infection, particularly when combined with taxon-specific
+sequence variations.

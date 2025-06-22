@@ -1,0 +1,8 @@
+The first observation is the existence of two Indicators that
+are very weak from this point of view, with less
+than 100 (33%) data available: “Strategic research partnerships”, with only
+missing data; and “Industry co-patents”, with 91 grades available, 5
+missing and 204 “Not Applicable”. Since we have other 34
+Indicators that are more complete, those two Indicators will be
+removed from the statiscal analyses from now on, to avoid
+the influence of large number of unavailable data.

@@ -1,0 +1,6 @@
+However, there is a limited number of scientific studies that
+compare neuropsychological performance among children residing within the same country
+of origin (Burneo-Garcés et al., 2018). Furthermore, the existing studies
+primarily utilize descriptive statistics for group comparisons, and only infrequently
+employ more rigorous methodological approaches, such as the calculation of
+effect sizes using Cohen's d.

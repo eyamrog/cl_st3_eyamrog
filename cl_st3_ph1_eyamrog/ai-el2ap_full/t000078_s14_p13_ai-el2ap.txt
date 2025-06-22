@@ -1,0 +1,18 @@
+We utilized multiple databases for this study. In the first
+stage of estimation, employment data from the Annual Social Information
+Report (RAIS – Relação Anual de Informações Sociais), produced by
+the Ministry of Labor, was used to identify the SBD.
+RAIS includes all formally established (incorporated) organizations, both public and
+private, as well as workers with a labor card, and
+is regarded as a census of formal workers. However, RAIS
+is limited to the formal labor market, which constitutes a
+limitation of our analysis, as informal employment is not captured.
+According to the National Household Sample Survey (PNAD – Pesquisa
+Nacional por Amostra de Domicílios), formal employment accounted for 66%
+of the labor force in the Metropolitan Area of São
+Paulo in 2013. The geocoding of firms and the aggregation
+of workers by Census tracts were performed by the Municipal
+Secretariat for Urban Development (SMDU – Secretaria Municipal de Desenvolvimento
+Urbano) of the Municipality of São Paulo (MSP). The MSP
+comprises 310 Census tracts, as defined by the Brazilian Institute
+of Geography and Statistics (IBGE).

@@ -1,0 +1,3 @@
+In data processing, we used the software packages R (R
+Core Team, 2017) and psych, for correlation; FactoMineR and nFactors,
+for MCA; and plspm for PLS-SEM.

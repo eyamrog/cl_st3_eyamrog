@@ -1,0 +1,8 @@
+Ambiguity is a classic problem in anaphora resolution, and a
+considerable amount of literature has been published on this subject
+(Alonso-Ovalle et al., 2002; Keating et al., 2011; Lobo &
+Silva, 2016; Sorace & Filiaci, 2006; Valenzuela et al., 2011).
+These studies tried to explain how L1 and L2 speakers
+solve ambiguity in different languages, but to date there has
+been little agreement on what theory would better describe this
+phenomenon.

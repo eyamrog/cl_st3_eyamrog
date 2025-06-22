@@ -1,0 +1,9 @@
+The questionnaire was adapted from Ross-Hellauer et al. (2017) to
+the study context and translated to Portuguese and Spanish by
+the authors of this survey. Because the questionnaire defines its
+key terms (traditional peer review and each trait of open
+peer review) and had already been pilot tested and administered
+by Ross-Hellauer et al. (2017), we opted for pilot testing
+only the questionnaire translation and functionality, by reading and filling
+it in ourselves as well as asking a few colleagues
+to do so.

@@ -1,0 +1,9 @@
+To avoid omitted variables, we consider the global effect (direct
+effect + indirect effect) by estimating spatial econometric models that
+control these kinds of amenities. According to Can (1992) and
+Campos and Almeida (2018), two effects can be identified in
+the decomposition of real estate prices. The first is the
+effect due to the property's characteristics, and the second is
+the spatial spillover effect of those composing its neighborhood. Therefore,
+in terms of econometric analysis, we are interested in the
+global effect results.

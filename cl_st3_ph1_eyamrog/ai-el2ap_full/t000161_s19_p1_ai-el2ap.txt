@@ -1,0 +1,10 @@
+Of the 123 taxonomic journals analyzed, 18.7% employ a mandatory
+article processing charge-gold open access (APC-GOA) model. Diamond open access
+(DOA) accounts for 22.0% of the journals, while the majority
+(59.3%) utilize hybrid models that restrict content access behind a
+paywall, typically requiring payment or subscription from readers (Table 1).
+Additionally, some journals published on platforms managed by scientific societies
+impose page charges on authors regardless of their membership status,
+and their content is also paywalled; consequently, these journals levy
+charges on both authors and readers (e.g., Journal of the
+Kansas Entomological Society and Malacologia).

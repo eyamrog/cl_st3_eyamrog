@@ -1,0 +1,10 @@
+The data could be further explored by searching for variations
+in the codes’ frequencies across tasks (question 2) and using
+statistical analysis to find significant variances. The dataset was consistent
+for non-parametric tests to compare three or more populations (Fligner-Killeen’s
+test was above the significance level for all but the
+D_EVA code when comparing tasks or groups, p > 0.05).
+This result allowed non-parametric tests to analyse comparisons among groups
+employing the Kruskal-Wallis test and the post-hoc Nemenyi test. The
+‘other’ and ‘inaudible’ codes were discarded and not considered for
+analysis.

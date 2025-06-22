@@ -1,0 +1,7 @@
+Lotka's Law offers a framework for quantifying author productivity patterns
+within a specified time frame, with each subfield of a
+discipline characterized by a distinct exponent that reflects its particular
+rate of author productivity. However, this law does not account
+for the underlying factors that explain why some individuals produce
+a large number of publications on a given topic, while
+others produce few or none.

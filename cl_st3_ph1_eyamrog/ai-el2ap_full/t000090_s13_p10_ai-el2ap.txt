@@ -1,0 +1,13 @@
+There are several methods for generating an overall ranking using
+“U-Multirank.” When requested, “U-Multirank” employs a classification approach similar to
+the “Olympic Medals Table,” in which institutions are ranked primarily
+by the number of highest scores (A) they receive, with
+scores of B and below used only as tiebreakers. As
+a result, an institution with 20 “A” scores and 16
+“E” scores would be ranked higher than an institution with
+19 “A” scores and 17 “B” scores. This ranking method
+is problematic because it minimizes the distinction between “B” and
+“E” scores. In extreme cases, this approach may incentivize institutions
+to concentrate their efforts on a limited set of indicators
+while neglecting others, potentially leading to suboptimal outcomes for students
+in certain areas.

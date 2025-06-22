@@ -1,0 +1,9 @@
+A more general comparison can be made with a larger
+number of European Universities. Considering the top 300 best performers
+in Europe in 2020, in terms of average of the
+Dimensions, we can see that they have 85.72% of data
+available, 10.20% of missing data and 4.08% data that were
+considered as “not applicable”. This is of course some kind
+of upper limit, since it has the best performers in
+Europe, where this ranking was created. So, Brazilian Institutions are
+about 40% below the best 300 European Universities.

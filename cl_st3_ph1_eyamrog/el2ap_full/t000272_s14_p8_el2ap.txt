@@ -1,0 +1,8 @@
+For the determination of total flavonoid content, the method proposed
+by Meda et al. (2005) was followed. Aluminum chloride (AlCl3)
+was added to the extract and diluted in 2% methanol.
+After waiting 10 minutes, the sample was taken to a
+spectrophotometer (Shimadzu UV mini - 1240) at an absorbance of
+415 nm. The calibration curve was obtained using solutions of
+quercetin. The concentration of flavonoids was expressed in milligrams equivalent
+of quercetin.

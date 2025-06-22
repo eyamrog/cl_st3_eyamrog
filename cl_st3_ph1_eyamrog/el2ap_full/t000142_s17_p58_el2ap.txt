@@ -1,0 +1,6 @@
+In order to confirm that the series that were determined
+to have unit roots by nonlinear unit root tests (Table
+3) are stationary in I1, the ADF and PP tests
+were applied by taking their first differences (Table 4). Following
+the determination of the stationarity of the series at I1,
+cointegration tests were performed.

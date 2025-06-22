@@ -1,0 +1,11 @@
+This rapid living systematic review and network meta-analysis (if applicable)
+protocol was prospectively registered in the PROSPERO ‘‘International Prospective Register
+of Systematic Reviews’’ platform (CRD42020179818), and was developed following the
+preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P)
+guidance (5). The final report will comply with the recommendations
+of the PRISMA extension statement for reporting of systematic reviews
+incorporating network meta- analyses (6). To conduct the rapid systematic
+review, we will employ abbreviated systematic review methods. Compared with
+the methods of a systematic review, we will not perform
+independent screens of abstracts and we will not search grey
+literature (7).

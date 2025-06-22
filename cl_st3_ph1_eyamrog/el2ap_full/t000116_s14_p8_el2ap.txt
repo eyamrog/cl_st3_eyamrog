@@ -1,0 +1,12 @@
+Since hospitalizations are the result of acute illness or worsening
+of chronic disease, and the effect can be rapid, we
+choose not to use time lag between policy change and
+observation of outcomes. We highlight the results with statistical significance
+at a level of 5%. Besides, we tested logarithmic trend
+terms to assess possible non-linear trends obtained by the Prais
+model. With the results, we used the BIC and AIC
+aptitude criteria for the choice. Finally, we test the suitability
+of each model for residual analysis. To detect the presence
+of autocorrelation in the residue lag (forecast errors), we used
+the Durbin-Watson statistic. We performed the analyzes in the R
+program, version 3.6.1.

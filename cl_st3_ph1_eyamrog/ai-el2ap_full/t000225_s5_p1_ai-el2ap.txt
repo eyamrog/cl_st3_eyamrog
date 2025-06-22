@@ -1,0 +1,10 @@
+The data presented above indicate that SDS can alter the
+progression of disease spread. Furthermore, the findings highlight the importance
+of recording events according to their actual dates of occurrence.
+This approach is particularly relevant in the context of how
+Brazilian authorities have managed and projected disease data. Analyzing events
+based on their occurrence dates is essential for accurately characterizing
+the temporal dynamics of disease transmission, as it provides a
+more reliable understanding of the spread of the disease compared
+to analyses based on the timing of testing or public
+announcements.

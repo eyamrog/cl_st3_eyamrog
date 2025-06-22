@@ -1,0 +1,6 @@
+Some interesting facts about the correlations are noted. The Indicator
+“External Research Income” has no “strong” or “very strong” correlation
+with any other Indicator. It means that, in general, those
+external income do not generate more publications, citations, art related
+products, etc. The same is true for “Pos-doc” positions, which
+do not affect those productions.

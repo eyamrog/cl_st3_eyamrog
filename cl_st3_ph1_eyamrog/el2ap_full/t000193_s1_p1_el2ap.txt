@@ -1,0 +1,7 @@
+Background: The novel coronavirus disease 2019 (COVID-19) pandemic poses a
+potential threat to patients with autoimmune disorders, including multiple sclerosis
+(MS) and neuromyelitis optica spectrum disorder (NMOSD). Such patients are
+usually treated with immunomodulatory or immunosuppressive agents, which may tamper
+with the organism’s normal response to infections. Currently, no consensus
+has been reached on how to manage MS and NMOSD
+patients during the pandemic.

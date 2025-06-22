@@ -1,0 +1,9 @@
+This hypothesis derives from the understanding that governance mitigates agency
+problem, due to the contractual relationship between principal (donor) and
+agent (NPO), through mechanisms that minimize several effects. Some of
+them are information asymmetry, distinct utility functions (motivation and goals),
+different levels of risk aversion, rational behavior of the agent,
+different planning horizon, and lack of a perfect contract (see
+Lacruz, 2020). Hence, governance assures donors that their interests will
+prevail in the application of the resources given to the
+NPO.

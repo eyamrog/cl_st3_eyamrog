@@ -1,0 +1,4 @@
+Unit root testing can be conducted using the two-step procedure
+proposed by Leybourne, Newbold, and Vougas (1998). In this approach,
+the test statistic is the t-statistic for the parameter ρ,
+which is estimated using the classical least squares method.

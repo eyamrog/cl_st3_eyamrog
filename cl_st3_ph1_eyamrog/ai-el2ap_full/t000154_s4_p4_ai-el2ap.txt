@@ -1,0 +1,8 @@
+The growing prevalence of preprints may compromise the feasibility of
+double-blind peer review and make open identities increasingly common. However,
+to date, no experimental studies have systematically investigated the effects
+of transitioning from double-blind to open identity peer review. It
+is therefore recommended that scholarly journals employing double-blind peer review
+participate in randomized controlled trials to assess the impact of
+this transition on the quality and potential bias of the
+peer review process.

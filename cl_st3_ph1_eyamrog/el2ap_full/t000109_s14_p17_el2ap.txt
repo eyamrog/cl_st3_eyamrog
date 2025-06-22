@@ -1,0 +1,12 @@
+For each Ha, the model considers the current national definition
+of “close contact "5. This routine causes an automatic state
+change from susceptible (S) to exposed (E) for the household
+members who live with a symptomatic infected, regardless of whether
+interpersonal contact has been corroborated. In addition, as previously mentioned,
+each Ha has an attribute that expresses the observance of
+mask use. This attribute makes 𝛽 to be affected by
+another coefficient, named mask. This coefficient modulates 𝛽 when there
+is a close contact, subtracting a 30% [17][21][42][43] of its
+value when Ha shows a high level of observance of
+mask use. When this level of observance is low, then
+mask coefficient is not applied.

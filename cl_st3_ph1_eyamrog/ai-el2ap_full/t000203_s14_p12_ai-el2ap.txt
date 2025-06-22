@@ -1,0 +1,5 @@
+For the analysis of the acceleration per inhabitant variable, the
+following descriptive statistics are reported: mean, standard deviation, median (q50),
+and the first and third quartiles (q25 and q75). Group
+comparisons at this stage were conducted using the Mann–Whitney test
+for independent samples.

@@ -1,0 +1,4 @@
+To assess the potential influence of small-study effects, we will
+first conduct a visual inspection of funnel plots when a
+meta-analysis includes at least ten studies, and subsequently perform Egger's
+test.

@@ -1,0 +1,6 @@
+Methods: In the first part of the study, data were
+collected from official sources regarding the number of COVID-19 cases
+and deaths reported between December 31, 2019, and April 11,
+2020. Incidence, mortality, and lethality acceleration rates were calculated and
+compared among predefined groups based on their Bacillus Calmette-Guérin (BCG)
+vaccination programs.

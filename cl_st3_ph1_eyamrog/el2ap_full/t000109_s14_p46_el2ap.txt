@@ -1,0 +1,13 @@
+As an example, Table 3 shows matrix values 𝐴ℎ,𝑒,𝑙 for
+the HMM of a particular neighborhood l for age range
+0 (Children) and time slot 0 (Morning). So, a0,0,l(i, j)
+has the probabilities that a child (e = 0) of
+neighborhood l, during the morning (h = 0), moves from
+state i (row) y to the state j (column). In
+particular, a0,0,l(1, 2) = 25 is the probability value (multiplied
+by 1000) that a child from the neighborhood l, within
+the time slot 0 leaves work/study (1) and goes to
+a leisure location (2). Appendix A presents probabilities A and
+B for all age ranges, time slots and neighborhoods defined
+in AbCSim, for the first phase of the Preventive and
+Mandatory Social Isolation (PMSI) ruled by the Argentine National Government.

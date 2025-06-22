@@ -1,0 +1,8 @@
+This study seeks to provide a detailed analysis of the
+characteristics of workers who engaged in remote work in Brazil,
+with a focus on the extent of inequality in the
+probability of working from home across various sociodemographic and occupational
+groups. Utilizing data from the PNAD COVID-19 survey collected between
+May and August 2020, the research employs both descriptive statistics
+and econometric methods, specifically estimating Probit regression models, to examine
+these disparities.

@@ -1,0 +1,11 @@
+The PLpro protein (nsp3) from SARS-CoV has been shown to
+significantly activate the TGF-β1 promoter via the ROS/p38-MAPK/STAT3 signaling pathway,
+which is associated with the positive regulation of pro-fibrotic responses
+both in vitro and in vivo (Li et al., 2016).
+Additionally, p53 has been identified as a negative regulator of
+SARS-CoV replication and is targeted by nsp3 through an E3
+ubiquitin ligase-mediated mechanism (Ma-Lauer et al., 2016). Furthermore, the viral
+protease 3CLpro (nsp5) has been demonstrated to specifically cleave STAT2,
+but not JAK1, TYK2, STAT1, or IRF9, all of which
+are key components of the JAK-STAT pathway, thereby antagonizing type
+I interferon signaling (Zhu et al., 2017).

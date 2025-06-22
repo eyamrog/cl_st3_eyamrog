@@ -1,0 +1,9 @@
+A broader comparison can be conducted by examining a larger
+sample of European universities. Among the top 300 European universities
+in 2020, based on the average of the evaluated dimensions,
+85.72% of the data were available, 10.20% were missing, and
+4.08% were classified as “not applicable.” These figures likely represent
+an upper benchmark, as they pertain to the highest-performing institutions
+in Europe, where the ranking system originated. In comparison, Brazilian
+institutions exhibit data availability approximately 40% lower than that of
+the top 300 European universities.

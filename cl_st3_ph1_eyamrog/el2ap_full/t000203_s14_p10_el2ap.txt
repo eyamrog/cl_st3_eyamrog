@@ -1,0 +1,4 @@
+For the description of the profile of each group, the
+following measures were presented: incidence (Eq. 1), mortality (Eq. 2),
+and lethality rates (Eq. 3). For each rate, the confidence
+interval was calculated using the confidence interval method for proportions.

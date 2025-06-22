@@ -1,0 +1,15 @@
+It is well established that specific pathogen mutations are often
+necessary to increase a pathogen’s fitness in a new host
+(Longdon et al., 2014). This phenomenon was observed in the
+emergence of SARS-CoV-2. Recent studies indicate that the cross-species transmission
+leading to the emergence of SARS-CoV-2 in humans was primarily
+facilitated by five amino acid substitutions in key binding sites
+of the S glycoprotein (Wan et al., 2020; Andersen et
+al., 2020). Additionally, the S glycoprotein of SARS-CoV-2 possesses a
+furin protease cleavage site at the S1/S2 subunit junction, a
+feature shared with other human coronaviruses such as HCoV-OC43, MERS-CoV,
+and HKU1, but absent in bat and pangolin SARS-CoV-2-like coronaviruses
+as well as in SARS-CoV (Coutard et al., 2020). These
+molecular changes are associated with the increased affinity and efficient
+binding of SARS-CoV-2 to the human ACE2 receptor (Andersen et
+al., 2020; Lam et al., 2020).

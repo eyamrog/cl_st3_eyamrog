@@ -1,0 +1,8 @@
+Gas exchange measurements - Net photosynthesis rate (A, µmol m-2
+s-1), transpiration rate (E, mmol m-2 s-1), and stomatal conductance
+(gs, mol m-2 s-1) were evaluated daily from 8:00 to
+11:00 hours in fully expanded leaves using an infrared gas
+analyzer model LCpro+ (ADC BioScientific, Ltd., UK). The measurements were
+made under ambient conditions of radiation, [CO2], and air temperature.
+The intrinsic water-use efficiency (iWUE; µmol mol-1) was estimated from
+gas exchange (A/gs) data.

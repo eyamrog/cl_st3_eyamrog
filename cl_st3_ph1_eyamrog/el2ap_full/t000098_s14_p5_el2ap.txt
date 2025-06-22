@@ -1,0 +1,17 @@
+Calculating adjusted mortality rates2, therefore, requires basic data on the
+population and deaths broken down by age group and by
+countries. In the case of demographic information, data availability is
+broad, and access is trivial. The Population Division of the
+Department of Economic and Social Affairs of the United Nations
+displays estimates for the population of all countries in the
+world disaggregated by age measured as whole numbers up to
+99 years of age and with an additional range for
+people aged 100 years or older. In this article, we
+employ estimates for 2020 published by the UN in August
+2019 [UNITED NATIONS, 2019]. The only exception concerns population data
+from England and Wales. As information on deaths appropriately disaggregated
+by age is available only for these two units together
+and not for the entire United Kingdom3, which is the
+unit represented in the UN statistics, it was necessary to
+collect population data for England and Wales. In this case,
+the source is the UK Office for National Statistics.

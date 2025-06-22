@@ -1,0 +1,4 @@
+To ensure data quality, continuous monitoring was implemented through a
+hierarchical network of supervisors. Evaluators were overseen by a coordinator
+assigned to each team, and these teams were subsequently supervised
+by a regional supervisor.

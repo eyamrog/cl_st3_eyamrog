@@ -1,0 +1,22 @@
+Chloroquine (CQ) and hydroxychloroquine (HCQ) have demonstrated some in vivo
+activity against SARS-CoV-2 (Wang et al. 2020b). A group of
+Chinese researchers has reported potential therapeutic benefits of chloroquine in
+the treatment of COVID-19, although supporting data have not yet
+been published (Gao et al. 2020). Additionally, a French research
+group observed that hydroxychloroquine reduced SARS-CoV-2 viral loads in a
+small cohort of patients, and the concomitant use of azithromycin
+appeared to enhance this effect (Gautret et al. 2020). A
+recent review of ongoing clinical trials highlighted inconsistent findings, with
+some studies reporting beneficial outcomes while others raised concerns regarding
+toxicity (Sharma 2020). It is also relevant to note the
+existence of different circulating strains of SARS-CoV-2 (Wang et al.
+2020a). Furthermore, CQ exhibits pro-apoptotic properties, and its prophylactic use
+has been associated with the selection of intracellular pathogen strains
+that increase resistance to apoptosis and lethality, as previously observed
+in HIV and SARS-CoV infections (Parris 2004). Despite the low
+cost of CQ, major health agencies, including the World Health
+Organization, agree that additional research is required to establish the
+clinical efficacy and safety of CQ and HCQ for COVID-19
+treatment. As of now, 390 clinical trials involving HCQ or
+CQ are registered to further investigate their potential role in
+the management of SARS-CoV-2 infection (Cochrane COVID-19 Study Register).

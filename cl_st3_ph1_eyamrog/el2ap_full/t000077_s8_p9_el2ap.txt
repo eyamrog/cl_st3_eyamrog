@@ -1,0 +1,6 @@
+Our study aims to go into more detail regarding this
+issue, analyzing who are the workers who worked from home
+in Brazil and how unequal the probabilities of remote work
+are, considering different sociodemographic and work characteristics. We used PNAD
+COVID-19 data from May to August 2020 and descriptive as
+well as econometric analysis methods, by estimating Probit regressions.

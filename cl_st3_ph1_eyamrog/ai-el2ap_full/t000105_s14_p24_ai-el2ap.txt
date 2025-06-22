@@ -1,0 +1,3 @@
+Sociodemographic and economic variables included race/ethnicity, marital status, relationship to
+the household, educational attainment, occupation, and family income assessed both
+prior to and during the pandemic.

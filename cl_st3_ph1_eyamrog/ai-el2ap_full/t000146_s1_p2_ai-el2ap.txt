@@ -1,0 +1,5 @@
+Methods: This bibliometric study analyzed the scientific output in the
+field of Public and Collective Health from the most prolific
+countries within the SciELO Network during the period 2011–2015. Data
+were obtained from the SciELO Citation Index (SciELO CI) database,
+and citation patterns were examined according to language and source.

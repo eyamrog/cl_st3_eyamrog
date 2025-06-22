@@ -1,0 +1,8 @@
+Cabells International conducted a comparison of PKP’s list of journals
+with those included in Predatory Reports by matching the journals’
+International Standard Serial Numbers (ISSNs) across both lists. Restricting the
+analysis to journals with ISSNs reduced Cabells’ list to 7,490
+titles (from an original 15,470) and PKP’s list to 22,802
+titles (from 25,671). Among these, 237 journals were present on
+both lists, corresponding to 3.2 percent of Cabells’ ISSN-matched list
+and 1.0 percent of the OJS journals with ISSNs.

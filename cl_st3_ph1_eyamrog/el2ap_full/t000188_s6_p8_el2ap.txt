@@ -1,0 +1,13 @@
+Finally, our results suggest that the model used is adequate
+to analyze and predict cumulative cases of deaths caused by
+COVID-19, since all data sets were well adjusted to the
+Boltzmann function. Factors related to the host and its behavior,
+the pathogen's ability to survive, and environmental influences can also
+alter the analyzed estimate because the estimate of the model
+is based on the assumption that the general conditions are
+maintained. In addition, predicted deaths may be even greater when
+considering the possibility of underreporting. Despite this, the main advantage
+of the model used is that it only needs the
+cumulative number of confirmed cases or deaths, and this represents
+a quick method that can assist in the decision of
+measures to contain the pandemic by COVID-19.

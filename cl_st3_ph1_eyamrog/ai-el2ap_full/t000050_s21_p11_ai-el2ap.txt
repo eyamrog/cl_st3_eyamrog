@@ -1,0 +1,9 @@
+These data are significant as they document the distribution of
+sand flies collected from various sites within two indigenous territories
+in the Brazilian Amazon. The dataset is relevant to multiple
+stakeholders, including academia, government agencies, civil society, and non-governmental organizations.
+Notably, the data have the potential to facilitate the integration
+of scientific and indigenous knowledge, thereby supporting the development and
+adaptation of health surveillance activities to diverse eco-social contexts with
+the active involvement of indigenous communities, who possess detailed knowledge
+of their territories.

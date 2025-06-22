@@ -1,0 +1,15 @@
+Our dataset include fields describing for each individual sand fly
+specimen their: (i) taxonomy (kingdom, phylum, class, order, family, genus,
+specificEpithet, verbatimIdentification, infraspecificEpithet, scientificName, scientificNameAuthorship, taxonRank), (ii) collection details, including
+the collectors (recordedBy: Shimabukuro PHF; Stumpp RGAV; Medeiros MES.; Alves
+DRC; Moreno ES; Freire M P; Nascimento LOC), the collection
+date, trapping method, trap identification number, collection site description (verbatimEventDate,
+eventTime, habitat, samplingProtocol), (iii) geolocation data (stateProvince, county, locality, locationRemarks,
+verbatimLatitude, verbatimLongitude, decimalLatitude, decimalLongitude, geodeticDatum), (iv) catalogue reference data (otherCatalogNumbers).
+Our data is available in the Sistema de Informação sobre
+a Biodiversidade Brasileira (SiBBr), an online platform that integrates data
+and information about biodiversity and ecosystems, and is the Brazilian
+Node of the Global Biodiversity Information Facility (GBIF), an internationally-recognized
+resource for collation of biological occurrence data [4], where our
+data set has been submitted, and is publically available for
+use by others (fiocruz_suruwaha_01: https://doi.org/10.15468/28xvr7 and fiocruz_wajapi_01: https://doi.org/10.15468/gt29ub).

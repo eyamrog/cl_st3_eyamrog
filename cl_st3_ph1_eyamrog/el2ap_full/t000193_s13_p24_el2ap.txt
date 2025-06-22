@@ -1,0 +1,17 @@
+Natalizumab is associated with increased infection risk when compared to
+beta-interferons and glatiramer acetate. However, it has a lower infection
+risk than other high-efficacy therapies, such as fingolimod and anti-CD20
+monoclonal antibodies41. Natalizumab has well-established safety and efficacy profile, except
+for the 0.7% of PML cases in real-life series42. This
+rare and fatal infectious demyelinating disease is caused by a
+polyomavirus called John Cunningham virus (JCV). PML associated with natalizumab
+use is a constant concern. Extended-interval dosing43,44 is a strategy
+that has proven, through observational data, to reduce PML risk,
+while maintaining treatment efficacy. It consists of a 5– 8
+weeks interval dosing of natalizumab instead of the standard 4
+weeks (standard interval dosing). This strategy is particularly interesting in
+the COVID-19 pandemic setting, as it allows less exposure to
+viral contamination. Our current protocol involves a 6-week interval dosing
+for patients previously treated with the standard interval protocol and,
+in some cases, an 8-week interval dosing for patients previously
+treated with a 6-week interval.

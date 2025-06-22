@@ -1,0 +1,13 @@
+Materials and Methods: This study employed a cross-sectional, observational, and
+descriptive design with prospective inclusion, utilizing a non-probabilistic convenience sampling
+method. Patients were eligible for inclusion if they had a
+confirmed diagnosis of COVID-19 and were admitted to the Internal
+Medicine Service of JB Iturraspe Hospital in Santa Fe, Argentina,
+between May 10 and July 20, 2021. A 5-minute resting
+ECG Holter recording was obtained for each participant, and frequency
+domain variables were analyzed using Fourier transform analysis with Kubios
+software. The data presented include heart rate variability (HRV) frequency
+measures: low-frequency power (LF), high-frequency power (HF), and normalized units
+LFnu and HFnu. Patients were excluded if they had a
+diagnosis of diabetes mellitus for more than five years, were
+receiving beta-blocker therapy, or had a history of neck irradiation.

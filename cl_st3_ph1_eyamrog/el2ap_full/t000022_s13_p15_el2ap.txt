@@ -1,0 +1,20 @@
+A key element in the current discussions of scholarly publishing
+refers to the change in the business model from charging
+for subscriptions to charging fees to authors for publishing their
+papers (Article Processing Charges, APC). We gathered the publication fee
+information from the websites of each of the journals. In
+most cases, the journals did not report publication fees. Upon
+further analysis, we verified that the absence of this information
+was due to the fact that they were indeed open
+access diamond journals, i.e. they do not charge authors for
+publishing or readers for accessing the contents. In our universe
+of 1,720 journals, we observed that 10% of the journals
+charge APC’s, the majority being published in Brazil (60% of
+the total 182 journals with APC). This is different from
+what was observed by Appel and Albagli (2019) in considering
+a larger universe of journals edited in Brazil, where the
+incidence of APC was still very low. In the OLIVA
+database, Brazil appears as leading the growth of this APC
+business model. To a lesser extent, in descending order, are
+the journals edited in Mexico, Chile, Argentina, Colombia, Peru and
+Venezuela.

@@ -1,0 +1,14 @@
+Most scientific journals in the region are owned by universities
+(Fischman et al. 2010; Beigel et al. 2021), which may
+result in journals indexed in LILACS exhibiting higher levels of
+endogeneity compared to those in MEDLINE. However, the region has
+an established practice of considering endogeneity in journal evaluations (Amorim
+et al. 2015; Rozemblum et al. 2015; Paz Enrique et
+al. 2016; Boas et al. 2021), and the absence of
+significant endogeneity is one of the criteria for journal selection
+in LILACS (Suga 2019). Therefore, the overall endogeneity of LILACS-indexed
+journals is likely influenced by the interplay between these factors.
+The objective of this study was to describe authorship concentration
+indexes among health sciences journals indexed in LILACS and to
+compare these indexes with those reported by Scanff et al.
+(2021) for MEDLINE.

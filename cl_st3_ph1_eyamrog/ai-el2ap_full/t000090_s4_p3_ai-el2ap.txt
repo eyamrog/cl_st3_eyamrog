@@ -1,0 +1,6 @@
+Missing data were also analyzed, and the results indicate that
+this issue is not negligible in the context of this
+ranking. For the "top 300 performers" in Europe in 2020,
+10.20% of the data were missing; however, the proportion of
+missing data increases when considering institutions from other continents and
+those with lower performance levels.

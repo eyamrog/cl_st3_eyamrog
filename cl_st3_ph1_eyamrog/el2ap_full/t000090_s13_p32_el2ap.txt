@@ -1,0 +1,19 @@
+In this equation X and Y are the values of
+the two variables under study and n is the number
+of pairs of data. The result is a number in
+the range -1 to 1. The value -1 stands for
+a 100% negative correlation, meaning that the variables are exactly
+linearly related and when one variable increases the other one
+decreases. The value 1 stands for a 100% positive correlation,
+meaning that the variables are exactly linearly related and when
+one variable increases the other one also increases. The value
+zero means that the variables are completely independent, and they
+represent quantities that are totally not related. Intermediate values mean
+partially related variables, either positive or negative. For the present
+study we consider the following interpretations for those numbers: -0.19
+to 0.19: very weak correlation; -0.20 to 0.39: weak correlation;
+-0.40 to 0.69: moderate correlation; -0.70 to 0.89: strong correlation;
+- 0.90 to 1.00: very strong correlation. The first results
+are shown in Table 3. It shows the correlations among
+all the five Dimensions of the U-Multirank for the “Top-300
+performers” in Europe in 2020.

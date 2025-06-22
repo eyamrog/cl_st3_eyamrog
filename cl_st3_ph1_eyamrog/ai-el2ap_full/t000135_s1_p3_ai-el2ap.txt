@@ -1,0 +1,10 @@
+Data from 5,564 Brazilian municipalities were analyzed in this study.
+The greatest reduction in medical appointments attributable to the pandemic
+was observed in May 2020 (IRR = 0.27, 95% CI
+[0.24–0.30]). For prenatal procedures, a 65% reduction was also recorded
+in May (IRR = 0.35, 95% CI [0.32–0.38]). The most
+substantial decreases in diabetes care occurred in April 2020 (IRR
+= 0.24, 95% CI [0.11–0.53]) and May 2020 (IRR =
+0.19, 95% CI [0.09–0.43]). Overall, from February to December 2020,
+the pandemic had a significant impact on the total number
+of procedures evaluated.

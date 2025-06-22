@@ -1,0 +1,12 @@
+For the empirical analysis, Probit models were employed to estimate
+the conditional probability that individual 𝑖 works from home, given
+a set of observable characteristics (𝑦𝑖 = 1|𝒙𝒊). This modeling
+approach was selected because ordinary least squares (OLS) regression does
+not account for the binary nature of the dependent variable
+and does not restrict predicted probabilities to the [0,1] interval.
+In accordance with Cameron and Trivedi (2005), the Probit model
+ensures that 0 < 𝑝𝑖 < 1, as specified in
+equation (1): <>, where Φ denotes the cumulative distribution function
+of the standard normal distribution and 𝑥𝑖 represents the vector
+of covariates detailed in Table 2. The marginal effects derived
+from the Probit model are presented in equation (2): <>.

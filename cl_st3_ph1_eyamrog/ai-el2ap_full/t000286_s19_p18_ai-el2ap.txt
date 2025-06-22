@@ -1,0 +1,5 @@
+The results also indicate that GD does not Granger-cause INT,
+as the null hypothesis is accepted at the 5% significance
+level, with a probability value of 0.2098 and an F-statistic
+of 1.70505. Consequently, there is no evidence of causality from
+GD to INT.

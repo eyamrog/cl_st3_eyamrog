@@ -1,0 +1,9 @@
+Results: The spatial distribution of femicide rates exhibited significant spatial
+autocorrelation, indicating a non-random pattern with a concentration of municipalities
+with the highest mortality rates due to femicide in the
+central region of Sergipe State. In the multiple regression analysis,
+both the percentage of female-headed households and the Municipal Human
+Development Index were positively associated with femicide rates in the
+municipalities of Sergipe during the study period (p < 0.05).
+In contrast, the GINI Index demonstrated a negative association with
+femicide rates.

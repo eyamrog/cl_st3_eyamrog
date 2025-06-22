@@ -1,0 +1,4 @@
+Countries with ongoing and comprehensive Bacillus Calmette-Guérin (BCG) vaccination programs
+are likely to experience lower COVID-19 incidence, mortality, and lethality
+rates compared to countries that have discontinued or never implemented
+such vaccination programs.

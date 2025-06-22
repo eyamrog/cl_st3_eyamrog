@@ -1,0 +1,16 @@
+Since Illumina reads are used exclusively for final polishing (see
+Step 5), they are of secondary importance compared to ONT
+reads. Most contemporary Illumina platforms generate comparable data, typically 150-bp
+paired-end reads, and are equally suitable for bacterial whole-genome sequencing;
+thus, the choice of instrument is primarily determined by cost
+and multiplexing requirements. Nextera XT library preparations are associated with
+variable read depth across the genome, which can result in
+regions of low coverage; therefore, Illumina DNA Prep (also known
+as Nextera DNA Flex) and TruSeq are generally preferred. If
+Nextera XT is employed, a high mean depth (e.g., 300×)
+is recommended to mitigate depth variability, whereas a mean depth
+of 100× is usually adequate with other library preparations. For
+genomes with high repeat content, mate-pair library preparations may enhance
+the effectiveness of short-read polishing (see Pitfalls). Following sequencing, it
+is advisable to use a quality control tool such as
+fastp to remove low-quality bases and adapter sequences.

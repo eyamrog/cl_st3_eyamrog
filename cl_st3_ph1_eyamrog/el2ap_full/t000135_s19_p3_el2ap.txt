@@ -1,0 +1,18 @@
+A similar trend was observed for medical appointments, which fell
+by 36% in February (IRR = 0.64, CI 95% [0.57
+– 0.72]) with the biggest reduction occurring in May (IRR
+= 0.27, CI 95% [0.24 – 0.30]), remaining significant until
+December. A steady decrease was also observed in prenatal procedures,
+starting with a reduction of 36% in February. The reduction
+was less evident in June (IRR = 0.63, CI 95%
+[0.59 – 0.66]) and September (IRR = 0.61, CI 95%
+[0.58 – 0.65]). On the other hand, the number of
+diabetes treatment procedures did not fall significantly in February (IRR
+= 1.51, CI 95% [0.88 – 2.61]) or March (IRR
+= 0.58, CI 95% [0.33 – 1.01]), but saw the
+biggest decreases in April (IRR = 0.24, CI 95% [0.11
+– 0.53]) and May (IRR = 0.19, CI 95% [0.09
+– 0.43]), all in 2020. After this period, the reduction
+was significant only in August (IRR = 0.61, CI 95%
+[0.38 – 0.99]) and December (IRR = 0.29, CI 95%
+[0.16 – 0.54]).

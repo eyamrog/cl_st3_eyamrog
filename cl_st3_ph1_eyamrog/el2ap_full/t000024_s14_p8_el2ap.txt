@@ -1,0 +1,16 @@
+The specimens of W. cyathiformis, which also consisted of 60
+plants, were all relocated with 100% of them in the
+vegetative stage, with no plants with evidence of floral scape.
+Statistical analyses - A generalized mixed linear modeling (GLMM) approach
+was used to analyze the leaves and sprouts of Aechmea
+distichantha and the means were compared by the Bonferroni test.
+Also, the data of the variables number of leaves and
+sprouts of the specie Wittrockia cyathiformis were analysed by the
+Shapiro-Wilk test to verify the assumptions of normality. Thus, the
+data were submitted to the Friedman test, whose medians were
+compared using the Parwise Comparisons test (Durbin-Conover). Data were analyzed
+using JAMOVI software (The Jamovi Project 2022). The survival of
+the two species of bromeliads was analyzed using the SISVAR
+program (Ferreira 2011), whose experimental design was split-plot in time,
+distributed in three blocks, with the main treatment being the
+relocation form.

@@ -1,0 +1,18 @@
+Enabling access may require creative solutions. One model that has
+met with considerable success is the “distributed digital audiovisual archive”
+or “jukebox archive” (BARWICK, 2004; BARWICK et al., 2005; O’MEARA
+and GONZÁLEZ GUADARRAMA, 2016). This initiative, originally piloted in Australia,
+involves setting up a computer in a community center or
+other neutral location where community members can easily access it,
+and does not require a connection to the internet. The
+jukebox computer contains language documentation materials – audio and video
+recordings, as well as (potentially) transcriptions, photographs, etc. – in
+easily movable file formats (such as .mp3), as well as
+the capacity to burn CDs/DVDs and to download files onto
+a flash drive, phone, or .mp3 player. Community members can
+thus take copies of materials home with them, and can
+also add to the jukebox by uploading their own. Another
+useful model relies on a local wifi transmitter called a
+‘Raspberry Pi’, which is effective in contexts where people have
+smartphones and the associated skills, but have limited or no
+computer literacy (e.g. THIEBERGER, 2019).

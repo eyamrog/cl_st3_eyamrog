@@ -1,0 +1,3 @@
+As described in previous sections, the model is composed of
+multiple blocks and submodels, each with distinct parameters that require
+adjustment to ensure proper operation.

@@ -1,0 +1,6 @@
+The Self-controlled Case Series (SCCS) method is an observational epidemiological
+study design used to investigate the temporal association between a
+time-varying exposure and the occurrence of acute events. In this
+design, individuals who have experienced the event of interest serve
+as their own controls, allowing for within-person comparisons over different
+time periods (1–5).

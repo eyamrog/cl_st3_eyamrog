@@ -1,0 +1,12 @@
+The EE underwent liquid-liquid partitioning. It was first dissolved in
+an ethanol:water mixture (80:20, v/v) at a 1:1 (v/v) ratio.
+The resulting EE solution was transferred to a separatory funnel,
+and the solvents hexane (Hex), chloroform (Chlo), and ethyl acetate
+(EtAc) (all from Merck, Darmstadt, Hessen, Germany) were sequentially added
+at a 1:1 (v/v) ratio, followed by stirring. The mixture
+was allowed to stand for approximately 10 minutes to facilitate
+phase separation. This extraction process was repeated three times for
+each solvent to obtain sufficient quantities of each fraction. Each
+resulting fraction was then concentrated using a vacuum rotary evaporator
+at 40 °C and 55 rpm until complete removal of
+the solvent was achieved.

@@ -1,0 +1,8 @@
+Assuming that virus transmission in streets is practically negligible and
+that, therefore, it has no impact on the model, it
+is postulated that, for Ha, mobility on foot from one
+plot to another is immediate. As described in the previous
+section, only dynamics of mobility by public transportation are represented,
+where appropriate, since this type of mobility is considered as
+a possible activity for the state Others, which will be
+discussed below.

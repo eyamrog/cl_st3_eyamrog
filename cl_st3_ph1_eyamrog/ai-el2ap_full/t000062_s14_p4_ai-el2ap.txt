@@ -1,0 +1,16 @@
+Data analysis was conducted to assess sampling sufficiency and estimate
+potential species richness using the following estimators: Bootstrap, Jackknife 1,
+Jackknife 2, Chao 1, Chao 2, and ICE. All calculations
+were performed with EstimateS 9.1 (Colwell 2013). Estimator curves were
+plotted alongside observed species accumulation curves. For these analyses, all
+treatments were pooled, with each sample representing the total number
+of spiders collected monthly per treatment. To determine whether significant
+differences existed in the number of individuals collected among treatments,
+the Shapiro-Wilk test for normality, Levene’s test for homogeneity of
+variances, ANOVA, post-hoc Tukey HSD test, Kruskal-Wallis test, and post-hoc
+Dunn’s test were applied using R (R Development Core Team
+2009); however, non-informative results were not discussed. Additionally, the Simpson
+Diversity t-test (significance threshold p < 0.05) was conducted using
+Past 2.1 (Hammer et al. 2001), and cluster analysis was
+performed based on the Bray-Curtis similarity index and the UPGMA
+clustering method.

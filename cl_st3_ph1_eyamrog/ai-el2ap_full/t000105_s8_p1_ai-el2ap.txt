@@ -1,0 +1,6 @@
+The rapid transmission of SARS-CoV-2, the causative agent of COVID-19,
+prompted the World Health Organization to declare the disease a
+global public health emergency on January 30, 2020. Globally, the
+high rate of spread and the associated risk of overwhelming
+healthcare systems have presented persistent challenges for governments, including the
+management of successive waves of infection [1-3].

@@ -1,0 +1,9 @@
+Such long-term monitoring measures a lot of variables and can
+hamper public understanding and management decision making. In order to
+mitigate such an issue, trophic state indexes (TSI) have been
+developed and improved since the 70s. Aiming at aquatic productivity
+and eutrophication measurements, the TSIs compose truthful health information on
+ecosystem. Particularly in São Paulo State, Lambarelli (2004) developed a
+TSI that has been widely used and is based on
+the classic Carlson’s TSI (Carlson 1977) with some updates considering
+the tropical reservoir dynamics.

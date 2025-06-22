@@ -1,0 +1,4 @@
+The incidence, mortality, and lethality rates for each group were
+calculated and are presented in Table 1. For clarity, incidence
+and mortality rates are expressed per 100,000 inhabitants, while lethality
+rates are expressed per 100 cases.

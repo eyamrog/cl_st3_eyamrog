@@ -1,0 +1,7 @@
+Governance is a multifaceted concept, and there are theoretical justifications
+for treating it as a construct, as its characterization as
+a latent variable more accurately reflects the theoretical definitions underlying
+its conceptualization (Larcker et al., 2007; Harris et al., 2015).
+Accordingly, in this study, governance is modeled as a second-order
+construct comprising multiple governance dimensions (first-order constructs), each of which
+is measured by specific governance factors (manifest variables).

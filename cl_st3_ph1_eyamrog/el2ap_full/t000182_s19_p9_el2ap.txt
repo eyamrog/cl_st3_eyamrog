@@ -1,0 +1,10 @@
+However, volatiles emanating from cockroach feces attracted B. corredori (P=0.019)
+and B. ferroae (P=0.003), while B. herreri did not show
+attraction or avoidance behaviors (P=0.0541). The chi-square test of independence
+showed that there was a significant relation between species and
+behavioral responses (P=0.0208). When performing multiple pairwise comparisons, chi- square
+tests showed that the behavioral responses of B. corredori and
+B. ferroae were not different (P=0.766), the behavioral responses of
+B. corredori and B. herreri were not different (P=0.0683), and
+the behavioral responses of B. ferroae and B. herreri were
+different (P=0.0392) (Fig 3).

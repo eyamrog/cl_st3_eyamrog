@@ -1,0 +1,17 @@
+Among all the structural proteins of coronaviruses, S, E, M,
+and N proteins are considered essential and their functions are
+described below. Homotrimers of S protein form the spikes in
+the viral surface, which give the virion a crown or
+corona aspect and the name of the family Coronaviridae, being
+responsible for binding to host receptors (Beniac et al. 2006).
+S protein has about 150 kDa and contains an N-terminal
+signal sequence that gives access to the endoplasmic reticulum (RER)
+for its synthesis, being strongly N-terminal glycosylated. Trimeric S glycoprotein
+is a class I fusion protein and mediates host receptor
+binding (Bosch et al. 2003). A recent study showed that
+the angiotensin-converting enzyme 2 (ACE2) is the cell receptor for
+SARS-CoV-2, as well as for SARS-CoV, being trimeric protein S
+its ligand (Yan et al. 2020). In addition, the serine
+protease TMPRSS2, targeting ACE2, facilitates the cellular entry of SARS-CoV
+and SARS-CoV-2 and a TMPRSS2 inhibitor, camostat mesylate, partially inhibits
+in vitro SARS-CoV-2 infection (Hoffmann et al. 2020).

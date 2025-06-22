@@ -1,0 +1,6 @@
+In conclusion, SARS-CoV-2 exhibits a high degree of specialization for
+infecting humans across diverse populations, functioning as a human-population generalist
+coronavirus with respect to its primary cellular entry receptor, ACE2.
+Conversely, current evidence does not support the classification of SARS-CoV-2
+as a generalist coronavirus capable of naturally and efficiently infecting
+a broad range of other species, including domestic animals.

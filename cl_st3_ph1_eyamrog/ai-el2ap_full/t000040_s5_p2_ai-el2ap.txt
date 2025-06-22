@@ -1,0 +1,7 @@
+Although cone-beam computed tomography (CBCT) plays a significant role in
+daily oral and maxillofacial practice, it is limited to visualizing
+the mandibular canal (MC) rather than the nerve itself. Nevertheless,
+CBCT remains the most effective imaging modality for preoperative radiographic
+planning, including procedures such as implant placement and surgical extraction
+of third molars. Accurate delineation of the MC using CBCT
+can assist surgeons in minimizing the risk of intraoperative complications.

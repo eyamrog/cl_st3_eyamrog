@@ -1,0 +1,16 @@
+The three limnological variables used to estimate the Trophic State
+Index (TSI)—chlorophyll-a (Chl-a), total phosphorus (TP), and Secchi disk depth
+(SD)—exhibited substantial variation throughout the study period (Figure 3). Across
+the entire period, TP concentrations ranged from 37.77 to 979.68
+µg L⁻¹, with a mean of 172.44 µg L⁻¹; Chl-a
+concentrations ranged from 11.77 to 1323.63 µg L⁻¹, with a
+mean of 156.60 µg L⁻¹; and SD values ranged from
+0.05 to 1.7 m, with a mean of 0.41 m
+(Table 1). Chlorophyll-a and total phosphorus concentrations displayed similar temporal
+patterns, both showing a rapid increase at the end of
+1999. Notably, TP exhibited distinct increases in 1999, 2001, at
+the end of 2002, and from 2003 to 2005, after
+which both variables maintained similar relative trends. Secchi disk depth
+experienced a marked decrease during the winter of 1999 and
+remained at relatively low levels until 2010, when values began
+to rise again (Figure 3).

@@ -1,0 +1,9 @@
+A sociodemographic questionnaire was administered, including the following variables: sex
+(male or female), age (in years), skin color (white, black,
+or brown; participants identifying as yellow or indigenous were excluded
+from the final sample due to low representation), education level
+(up to high school or higher education), living arrangement (living
+alone: yes or no), presence of chronic disease (yes or
+no), income status (with or without steady income), self-perceived health
+status (ill or healthy), and place of residence (municipality and
+state).

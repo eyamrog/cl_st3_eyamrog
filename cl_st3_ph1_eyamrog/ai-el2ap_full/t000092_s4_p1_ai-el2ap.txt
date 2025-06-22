@@ -1,0 +1,3 @@
+Analysis of a 5-minute Holter recording indicated that 41.2% of
+patients hospitalized with COVID-19 exhibited an increased LF/HF ratio, which
+may reflect alterations in autonomic function.

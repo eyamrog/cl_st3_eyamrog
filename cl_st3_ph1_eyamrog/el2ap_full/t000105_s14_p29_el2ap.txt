@@ -1,0 +1,5 @@
+- Food and nutrition: Daily frequency of food consumption, perceived
+food prices, comfort food consumption, food accessibility, and availability of
+food at home, adapted from the research on Surveillance of
+Chronic Diseases by Telephone Inquiry - VIGITEL, from the Ministry
+of Health [20].

@@ -1,0 +1,15 @@
+Tables 3, 4, and 5 present the descriptive measures for
+acceleration/inhabitants in the interest groups, as well as the result
+of the interest groups comparison test. Table 4 shows the
+results of the comparison between groups 2.1 and 2.2. It
+can be observed that there is evidence of a statistical
+difference between accelerations in the last 30 days for both
+cases (p = 0.008) and deaths (p = 0.001). Group
+2.1 has mean and median acceleration values higher than group
+2.2. On the other hand, when comparing the acceleration up
+to April 11 in group 2.1 with the acceleration up
+to May 11 in group 2.2, it is observed that
+there is no evidence of a difference between the accelerations
+of cases (p = 0.284). However, there is evidence of
+the difference between the accelerations of deaths (p = 0.001),
+with the acceleration being higher in group 2.1.

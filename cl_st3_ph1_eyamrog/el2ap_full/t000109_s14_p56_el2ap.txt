@@ -1,0 +1,8 @@
+Finally, in order to test the model against habits verified
+for Argentine cities, a simulation was run with actual data
+obtained from the district of Loncopué, Neuquén province10 11. For
+this implementation not only local habits were considered, but also
+a phase change of PMSI. Since the reported daily case
+data for this city are compatible with the model outputs,
+this information can be used as a measure of AbCSim
+validity, thus defining the values presented in Table 1.

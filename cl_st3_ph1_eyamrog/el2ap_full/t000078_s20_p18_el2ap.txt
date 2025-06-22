@@ -1,0 +1,9 @@
+A descriptive evaluation of housing price, employment specialization, wage, and
+education provides the best understanding of each SBD, underlining the
+heterogeneity amongst sub-centers. Considering all identified SBD, the average prices/m²
+is R$ 8.230,00, and the standard deviation is R$ 2.295,00.
+Housing prices are higher in Pinheiros than elsewhere. Figure 4
+displays a positive correlation between average prices/m² and distance from
+CBD, while monocentric models point out a negative correlation. Such
+behavior supports our findings in terms of the existence of
+sub-centers.

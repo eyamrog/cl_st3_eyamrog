@@ -1,0 +1,14 @@
+The SCCS and SCRI are important study designs in pharmacoepidemiology
+and are useful in studying rare events reported after transient
+exposures, a good example are the influenza vaccines and the
+development of GBS. This paper presents a first proposal of
+a quality assessment tool for such studies. This came after
+the authors necessity to evaluate the methodological quality of such
+designs a few years back and no instrument was found,
+thus, the authors adapted an already existing tool and took
+into consideration the premises of SCCS/SCRI to design the tool.
+It is expected that the tool may guide researchers in
+assessing the methodological rigor of SCCS/SCRI study designs especially now
+with the Covid-19 pandemic where these designs could be widely
+used especially in studying the events being reported after the
+administration of the Covid-19 vaccines.

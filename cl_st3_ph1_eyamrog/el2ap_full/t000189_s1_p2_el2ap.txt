@@ -1,0 +1,4 @@
+METHODS: The search was conducted in the databases PubMed, Lilacs,
+and SciELO, including observational studies published between 2010-2020, with results
+for individuals with respiratory tract infections with manifestations similar to
+COVID-19.

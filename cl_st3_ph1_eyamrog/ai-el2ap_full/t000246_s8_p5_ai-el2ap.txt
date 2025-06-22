@@ -1,0 +1,8 @@
+Bibliometric research, which involves the application of statistical methods to
+bibliographic data, is guided by three classically recognized laws: Bradford's
+Law, Lotka's Law, and Zipf's Law. These studies are grounded
+in a set of laws and empirical principles from information
+science, with the primary objective of investigating the quantitative aspects
+of the production, dissemination, and utilization of recorded information. This
+approach contributes to the assessment of the current state of
+scientific knowledge and supports the management of research activities.

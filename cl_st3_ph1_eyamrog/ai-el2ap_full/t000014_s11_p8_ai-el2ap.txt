@@ -1,0 +1,10 @@
+Although the aforementioned archives encompass a broad range of geographic
+regions and collection criteria, they may not be suitable for
+all language documentation projects. Alternative options include digital data repositories
+maintained by various universities. Linguistic datasets, excluding primary data from
+language documentation, may be deposited in the Tromsø Repository of
+Language and Linguistics (TROLLing, https://site.uit.no/trolling/about/). Both primary and secondary data,
+as well as datasets, can be archived in general-purpose repositories
+such as Zenodo (https://zenodo.org/) and the Harvard DataVerse (https://dataverse.harvard.edu/). Further
+options are available in the Registry of Research Data Repositories
+(https://www.re3data.org/).

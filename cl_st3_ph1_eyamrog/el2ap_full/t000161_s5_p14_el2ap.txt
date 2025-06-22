@@ -1,0 +1,15 @@
+In addition, Chorus & Waltman (2016) carefully studied journal self-citation
+and proposed a measure to evaluate boosts in the JIF,
+detecting disproportional and potentially unethical behavior (“Impact Factor Biased Self-Citation
+Practices”). They did not consider their measure unfailing and discussed
+a few cases when self-citation would be legitimated. The latter
+include distinct situations. For instance, a researcher could be inspired
+by recent studies published in a journal and thus decides
+to conduct similar research; accordingly, that journal would naturally be
+an important source and his/her first choice for publication. Also,
+there are situations when, after finishing a manuscript, an author
+realizes that most of the cited references are from a
+given journal; the latter becomes again a naturally expected option.
+We believe that such cases are strongly associated to the
+Zootaxa mega-journal phenomenon and appear to partially explain its high
+levels of self-citation.

@@ -1,0 +1,18 @@
+The quantification of total soluble carbohydrate content (mg g⁻¹) was
+performed on 200 mg seed samples from each treatment, as
+previously described, using the phenol-sulfuric acid method (Dubois et al.,
+1956). Samples were prepared in triplicate, macerated with liquid nitrogen,
+and transferred to 15 mL test tubes. Subsequently, 0.4 mL
+of 80% ethanol (at -22 °C) was added, and the
+mixture was incubated in a water bath at 70 °C
+for 5 minutes. The extracts were then centrifuged at 3,000
+rpm for 10 minutes, and the supernatants were collected. This
+extraction process was repeated three times, followed by filtration through
+glass wool, and the final volume was adjusted to 2
+mL with 80% ethanol (at -22 °C). For the colorimetric
+assay, 50 μL of the extract was mixed with 450
+μL of distilled water, 0.5 mL of 5% phenol, and
+2.5 mL of 96% sulfuric acid. The total carbohydrate concentration
+was determined using a standard curve generated with glucose, and
+absorbance was measured at 490 nm using a Pro-Analysis V-1600
+spectrophotometer.

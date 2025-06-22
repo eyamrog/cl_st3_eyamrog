@@ -1,0 +1,16 @@
+According to Casini et al.9, pharmacological prophylaxis is recommended for
+all patients hospitalized with COVID-19, except in cases where it
+is contraindicated. The authors advise the use of low molecular
+weight heparin (LMWH) for patients with a creatinine clearance greater
+than 30 mL/min and unfractionated heparin (UFH) for those with
+a clearance less than 30 mL/min, with dose adjustments for
+individuals weighing over 100 kg. They also recommend regular monitoring
+of prothrombin time, D-dimer, fibrinogen, platelet count, lactate dehydrogenase (LDH),
+creatinine, and alanine aminotransferase (ALT) either daily or two to
+three times per week in all patients. Additional monitoring of
+antithrombin is suggested for patients with disseminated intravascular coagulation (DIC),
+sepsis-induced coagulopathy, or heparin resistance, and anti-Xa activity should be
+assessed in selected cases. The use of therapeutic doses of
+UFH or LMWH should be considered in intensive care unit
+(ICU) patients who exhibit elevated D-dimer levels, evidence of severe
+inflammation, or signs of hepatic or renal dysfunction.

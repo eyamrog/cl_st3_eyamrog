@@ -1,0 +1,4 @@
+This section presents the empirical results derived from the tests
+outlined in the methodology and dataset sections. The outcomes of
+the linearity tests for the series are summarized in Table
+2.

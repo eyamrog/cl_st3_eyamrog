@@ -1,0 +1,7 @@
+Introduction: A novel type of coronavirus, SARS-CoV-2, is responsible for
+an unprecedented pandemic with profound socioeconomic consequences. Owing to its
+recent discovery, the virus that emerged in the Chinese city
+of Wuhan in December 2019 still represents a great unknown
+to researchers. This study aims to establish the spatio- temporal
+associations of the incidence, mortality, and the rate of both
+rapid and RT-PCR tests in Minas Gerais.

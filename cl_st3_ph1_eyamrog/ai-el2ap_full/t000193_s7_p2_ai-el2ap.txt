@@ -1,0 +1,14 @@
+The coronavirus family exhibits neurotropic potential that may contribute to
+the development of neurological disorders, including inflammatory polyneuropathy, encephalopathy, ischemic
+stroke, and demyelinating diseases. Neurotropism may occur via trans-lamina cribrosa
+transmission, with SARS-CoV-2 entering the central nervous system (CNS) through
+the olfactory tract. The interaction with human cells is likely
+initiated by the binding of the S1 subunit of the
+viral spike (S) protein to angiotensin-converting enzyme 2 (ACE2) receptors.
+These receptors are widely distributed throughout the human body, including
+the CNS, where they are expressed in endothelial and arterial
+smooth muscle cells. Endothelial dysfunction and subsequent disruption of the
+blood-brain barrier may facilitate the entry of infected leukocytes into
+the CNS. This process may result in direct viral injury
+to neural parenchyma, as observed with other viruses, or may
+precipitate clinical manifestations associated with CNS autoimmune disorders.

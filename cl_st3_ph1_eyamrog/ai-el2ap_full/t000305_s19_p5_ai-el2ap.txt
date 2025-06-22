@@ -1,0 +1,10 @@
+Comparison of group 1 and group 2 shows that the
+incidence rate in group 1 is 21.36 times higher than
+in group 2. Additionally, the mortality rate in group 1
+is 53.21 times higher, and the lethality rate is 2.49
+times higher than those observed in group 2. These differences
+are likely influenced by the inclusion of the populations of
+China and India; when these populations are excluded from the
+analysis, the incidence and mortality rate ratios decrease to 7.84
+and 23.24, respectively. However, the lethality rate ratio remains consistent
+regardless of group composition.

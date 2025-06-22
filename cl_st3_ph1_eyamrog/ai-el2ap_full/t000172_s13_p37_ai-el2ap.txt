@@ -1,0 +1,22 @@
+The host immune response to viral infection is a critical
+factor in the pathogenesis of COVID-19. SARS-CoV-2 infection induces the
+secretion of several cytokines and chemokines, including IFN-γ, IL-1β, IL-4,
+IL-10, IP-10, and MCP-1 (Huang et al. 2020). Patients requiring
+intensive care exhibit elevated levels of IL-2, IL-7, GCSF, IP-10,
+MCP-1, MIP-1A, and TNF-α, which are associated with cytokine storm
+and an exacerbated inflammatory response (Huang et al. 2020). SARS-CoV
+is capable of infecting not only alveolar epithelial cells but
+also vascular endothelial cells, macrophages, monocytes, and lymphocytes. Rapid viral
+replication can result in endothelial cell damage and increased vascular
+permeability, leading to the release of pro-inflammatory cytokines. Host seroconversion
+results in the production of IgG antibodies against the S
+protein, which may facilitate the accumulation of proinflammatory monocytes and
+macrophages, as well as the release of MCP-1 and IL-8,
+factors that have been associated with severe lung injury (Fu
+et al. 2020). Effective viral clearance requires the activation of
+both innate and adaptive immune responses. IFN-γ and IL-6 play
+roles in neutrophil recruitment and the transition to adaptive immunity;
+however, excessive IL-6 levels and reduced IFN-γ expression may lead
+to decreased numbers of CD4+, CD8+, and NK cells, and
+are implicated in the development of cytokine storm (Lagunas‐Rangel and
+Chávez‐Valencia 2020).

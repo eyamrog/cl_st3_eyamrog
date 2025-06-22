@@ -1,0 +1,5 @@
+Among the countries analyzed, those with no vaccination program in
+place had the highest incidence and mortality rates (group 1.1)
+and the highest lethality (group 4.2). On the other hand,
+the countries that have their programs in place presented lower
+incidence, mortality, and lethality rates.

@@ -1,0 +1,12 @@
+In the first round, all raters coded the same group-talk
+episode and discussed the scheme and rules for alignment and
+convergence. After moderate scores were obtained, the scheme was simplified
+by dropping some codes, and rules were clarified and written
+in more detail. Two raters coded 28% of the episodes
+(12 out of 42), and inter-rater reliability was calculated using
+Cohen’s Kappa scores through R (RStudio team, 2020). After the
+iterative process, an acceptable/excellent level of agreement was accomplished, as
+Cohen’s Kappa scores averaged K = .79 (Kappa values for
+each code are presented in Table 1). Then, the researcher
+finally coded the rest of the material .This procedure makes
+the scheme reliable.

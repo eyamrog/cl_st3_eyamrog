@@ -1,0 +1,13 @@
+In response to recent capital flow volatility, several economists have
+critically examined the assumptions and theories supporting unrestricted capital mobility.
+A notable example is Rey (2015), who challenges the applicability
+of the macroeconomic trilemma (or impossible trinity) to emerging economies.
+Using econometric analysis, Rey finds that cross-border financial flows via
+banking institutions, specifically financial credits, lead to deviations from interest
+rate uncovered parity in emerging economies, regardless of their exchange
+rate regimes or macroeconomic fundamentals. Based on these findings, the
+study argues that only the implementation of capital controls can
+enhance the monetary policy autonomy of emerging economies, with such
+controls specifically targeting financial credit and debt bond flows. Furthermore,
+the research suggests that these regulatory measures should be applied
+during periods of financial inflow booms and relaxed during downturns.

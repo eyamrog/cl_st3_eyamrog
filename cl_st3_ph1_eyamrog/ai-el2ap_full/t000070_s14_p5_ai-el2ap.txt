@@ -1,0 +1,8 @@
+Germination percentage and germination speed index (GSI) data were collected
+daily for 15 days of cultivation. Seeds were classified as
+germinated when they exhibited embryo swelling, rupture of the seminal
+envelope, and a light green coloration indicative of active metabolism.
+The GSI was calculated following the method described by Maguire
+(1962), using the formula GSI = ∑ (Gi/ni), where Gi
+represents the number of seeds germinated on a given day
+and ni denotes the corresponding day of counting.

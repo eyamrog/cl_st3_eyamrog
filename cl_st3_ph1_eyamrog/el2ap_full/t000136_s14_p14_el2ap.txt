@@ -1,0 +1,4 @@
+We used the dimensions detected in MCA as constructs to
+specify the structural model. Just like Donations, a single-item construct,
+we used as observations’ value the standardized score of the
+sum of the observations of each dimension’s variables.

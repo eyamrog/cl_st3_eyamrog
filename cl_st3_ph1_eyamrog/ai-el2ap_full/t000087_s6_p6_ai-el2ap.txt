@@ -1,0 +1,19 @@
+One of the nasopharyngeal samples collected from a symptomatic, fully
+vaccinated individual was sequenced and identified as the Delta variant
+of concern (VOC), which, according to the June report by
+the Consorcio de Vigilancia Genómica in Mexico, accounted for only
+2.12% of samples screened at that time (Programa de Vigilancia
+Genómica, no date). Although it is not possible to attribute
+the superspreading event solely to this VOC, given that at
+least two positive individuals attended the event, the detection of
+the Delta variant is notable, as it may provide insight
+into the variant’s capacity to infect adolescents regardless of vaccination
+status, particularly in the absence of mitigation measures. Furthermore, this
+study contributes to the understanding of Delta’s potential to cause
+breakthrough infections, despite the BNT162b2 (Pfizer-BioNTech) vaccine demonstrating 100% efficacy
+in phase 3 trials involving adolescents when other variants were
+predominant (Frenck et al., 2021). Consistent with previous reports, Delta
+variant infections have been found to predominate among vaccine breakthrough
+cases in countries such as India and the United Kingdom,
+likely due to a combination of reduced neutralizing antibody effectiveness
+and increased viral infectivity (Mlcochova et al., 2021).

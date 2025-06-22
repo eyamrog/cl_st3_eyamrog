@@ -1,0 +1,7 @@
+Based on values reported in the literature [31], an initial
+calibration of parameters primarily associated with virus transmission among hosts
+was performed. To refine these parameter values, data on the
+progression of epidemic indicators in the municipality of Vo, a
+small village in northern Italy, from March to May 2020
+[46], were utilized. Additionally, information regarding the geographical, climatic, demographic,
+and behavioral characteristics of the local population was incorporated.

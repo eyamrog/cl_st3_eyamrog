@@ -1,0 +1,7 @@
+Ecological indices, including species richness, evenness, and Shannon-Wiener diversity, were
+calculated using Primer® 6.0 software to evaluate the responses of
+the macroinvertebrate community to environmental variations (Borja et al., 2000;
+Borja and Muxika, 2005). These indices were statistically compared using
+Analysis of Variance (ANOVA). Additionally, community structure was assessed through
+cluster analysis of the samples and descriptors, employing Simpson's index
+and paired group comparisons.

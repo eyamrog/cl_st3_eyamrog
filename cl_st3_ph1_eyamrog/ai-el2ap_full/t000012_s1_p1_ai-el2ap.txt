@@ -1,0 +1,24 @@
+Cleaning interactions are interspecific associations in which cleaner species obtain
+benefits from host species by consuming parasites, injured tissues, or
+blood. Globally, a diverse array of bird species engage in
+cleaning behaviors directed toward large mammals. In this study, we
+investigated the factors influencing the structure of networks formed by
+cleaning birds and their mammalian hosts. We analyzed two cleaner-host
+networks, one from Brazilian openlands and another from African openlands,
+to examine the relationship between dietary generalism and cleaning behavior.
+We hypothesized that cleaning interactions are predominantly opportunistic, leading to
+the expectation that generalist species constitute the primary components of
+cleaner-host networks. To test this, we compared the diet diversity
+of cleaner species with that of their closely related, non-cleaning
+counterparts. In 18 out of 26 bird families, cleaner species
+exhibited greater diet diversity than their non-cleaning relatives. We further
+assessed whether birds with more diverse diets occupy more central
+positions within cleaner-host networks. The results indicate no significant correlation
+between species centrality in the networks and their diet diversity.
+These findings suggest that while dietary generalism may enable opportunistic
+species to participate in cleaning interactions, the prominence of a
+cleaner species within the network is likely influenced by additional
+factors, such as abundance and behavioral traits related to cleaning.
+More broadly, our results indicate that the traits facilitating species
+participation in ecological networks may differ from those determining their
+functional roles within these networks.

@@ -1,0 +1,14 @@
+Diurnal patterns of chlorophyll a fluorescence showed that, in both
+species, Fv/Fm values were consistently higher under high shading conditions
+(I75) compared to all other treatments (Figure 2). At 60
+and 90 days after transplanting (DAT), only plants grown under
+full sunlight (I0) exhibited a reduced Fv/Fm ratio, with values
+below 0.75, which is indicative of dynamic photoinhibition (Figure 2a–d).
+At 120 and 150 DAT, a reduction in Fv/Fm was
+observed across all treatments except I75 (Figure 2e–h). Recovery of
+Fv/Fm was generally observed at 18:00 hours; however, this recovery
+was not evident in M. glomerata plants under I0 and
+I25, nor in M. laevigata under I0 at 150 DAT,
+suggesting a lower rate of recovery in these cases. Across
+all treatments, the lowest Fv/Fm values occurred between 12:00 and
+16:00 hours in plants exposed to full sunlight (Figure 2).

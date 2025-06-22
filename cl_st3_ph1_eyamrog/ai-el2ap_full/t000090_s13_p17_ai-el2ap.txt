@@ -1,0 +1,10 @@
+The data exhibit a cloud of dispersed points with a
+tendency toward positive correlation, indicating that the scores for individual
+Dimensions are generally higher in institutions with higher average scores
+across all Dimensions. While this outcome is expected, Figure 4
+provides a more detailed illustration of these patterns. The presence
+of vertical lines in the figure represents the range of
+scores for each Dimension at a given average score. These
+ranges are substantial, typically spanning approximately 2 units, which constitutes
+half of the total possible range, as the averages vary
+from 0 to 4.0.

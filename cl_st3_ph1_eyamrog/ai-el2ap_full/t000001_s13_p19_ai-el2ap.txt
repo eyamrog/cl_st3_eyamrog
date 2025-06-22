@@ -1,0 +1,12 @@
+Small plasmids (<20 kbp) may be underrepresented in Oxford Nanopore
+Technologies (ONT) read sets due to limitations in ligation-based library
+preparations, where circular DNA molecules may not efficiently acquire sequencing
+adapters, or as a result of stringent quality control measures
+that exclude shorter reads (e.g., discarding all reads <10 kbp).
+This underrepresentation can be mitigated by employing rapid library preparation
+protocols and applying less stringent quality control thresholds, such as
+discarding only reads shorter than 1 kbp. Alternatively, small plasmids
+can be identified and recovered from assembly graphs generated using
+Illumina-only or short-read-first hybrid assembly approaches (e.g., Unicycler), where they
+typically appear as distinct circular contigs separate from the main
+chromosomal assembly (Figure 2A).

@@ -1,0 +1,7 @@
+Using a time series analysis referenced to the date of
+death rather than the date of COVID-19 testing, this study
+demonstrates that the Social Distancing Strategy implemented in São Paulo
+State was associated with a substantial reduction in the number
+of infections. The effect was particularly pronounced in São Paulo
+City, where the rate of COVID-19 transmission decreased significantly, especially
+during the period from April 5 to April 20.
