@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Avoid ^vb++++=Avoid
+changing ^vbg+++xvbg+=changing
+the ^ati++++=the
+tracheostome ^nn+++??+=tracheostome
+until ^cs+sub+++=until
+the ^ati++++=the
+patient ^nn++++=patient
+has ^vbz+hvz+vrb++=has
+a ^at++++=a
+covid ^np++++=COVID-19
+- ^zz++++=EXTRAWORD
+19 ^cd++++=EXTRAWORD
+negative ^jj+atrb+++=negative
+test ^nn++++=test;
+; ^zz++++=EXTRAWORD

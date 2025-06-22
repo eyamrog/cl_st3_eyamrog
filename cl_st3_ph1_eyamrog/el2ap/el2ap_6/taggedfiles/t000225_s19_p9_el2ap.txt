@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Additional ^jj+atrb+++=Additional
+insight ^nn++++=insight
+on ^in++++=on
+the ^ati++++=the
+evolution ^nn++++=evolution
+of ^in++++=of
+the ^ati++++=the
+disease ^nn++++=disease
+can ^md+pos+++=can
+be ^vb+be+aux++=be
+obtained ^vpsv++by+xvbn+=obtained
+by ^in++++=by
+disaggregating ^nn++++=disaggregating
+the ^ati++++=the
+data ^nns++++=data.
+. ^zz++++=EXTRAWORD

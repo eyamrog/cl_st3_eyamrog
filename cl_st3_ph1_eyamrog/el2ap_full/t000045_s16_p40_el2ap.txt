@@ -1,5 +1,0 @@
-Once the broker is selected, and the link is established,
-how do the participants act to preserve it? How do
-requests and deliveries occur in practice? Are state representatives able
-to evaluate brokers’ performances? Does this evaluation effectively influence the
-decision of whom to serve and how?

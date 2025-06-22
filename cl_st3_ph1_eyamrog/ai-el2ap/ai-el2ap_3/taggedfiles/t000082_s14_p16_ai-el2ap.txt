@@ -1,0 +1,17 @@
+iii ^nn+++??+=iii)
+) ^zz++++=EXTRAWORD
+What ^wdt+who+++=What
+is ^vbz+bez+vrb++=is
+the ^ati++++=the
+impact ^nn++++=impact
+of ^in++++=of
+cheating ^xvbg+++xvbg+=cheating
+interactions ^nns+nom+++=interactions
+on ^in++++=on
+the ^ati++++=the
+structural ^jj+atrb+++=structural
+properties ^nns++++=properties
+of ^in++++=of
+mutualistic ^jj+atrb+++=mutualistic
+networks ^nns++++=networks?
+? ^zz++++=EXTRAWORD

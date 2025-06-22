@@ -1,2 +1,0 @@
-- high values for the variables Hv_e and Hd_e (variables
-are sorted from the strongest).

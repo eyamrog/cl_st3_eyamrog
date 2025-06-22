@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Authors ^nns++++=Authors
+were ^vbd+bed+vrb++=were
+anyone ^pn++++=anyone
+having ^xvbg+++xvbg+=having
+published ^vprf+++xvbn+=published
+an ^at++++=an
+article ^nn++++=article
+in ^in++++=in
+rbmfc ^np++++=RBMFC
+within ^in++++=within
+the ^ati++++=the
+last ^ap++++=last
+five ^cd++++=five
+years ^nns++++=years;
+; ^zz++++=EXTRAWORD

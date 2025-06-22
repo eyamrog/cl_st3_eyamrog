@@ -1,2 +1,0 @@
-- Group 2a: The same countries in Group 2, excluding
-India and China, due to population size.

@@ -1,3 +1,0 @@
-- O: Those defined as "other locations" are less frequent.
-As examples, ATMs, warehouses, restaurants, supermarkets, pharmacies and public transportation
-can be mentioned.

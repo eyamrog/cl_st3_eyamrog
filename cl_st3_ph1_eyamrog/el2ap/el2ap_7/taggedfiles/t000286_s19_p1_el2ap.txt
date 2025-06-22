@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+The ^ati++++=The
+data ^nns++++=data
+used ^vwbn+++xvbn+=used
+in ^in++++=in
+this ^dt+dem+++=this
+research ^nn++++=research
+is ^vbz+bez+aux++=is
+presented ^vbd+++xvbn+=presented
+in ^in++++=in
+the ^ati++++=the
+table ^nn++++=table
+below ^in+strn+++=below.
+. ^zz++++=EXTRAWORD

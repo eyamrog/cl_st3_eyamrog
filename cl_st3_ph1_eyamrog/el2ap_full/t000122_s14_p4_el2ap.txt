@@ -1,4 +1,0 @@
-Tests for surface decontamination with chemical procedures - We tested
-the effectiveness of thalli immersion treatments in chemical solutions after
-several washing and spraying with sterilized seawater and physical removing
-of macrofauna individuals and epiphyte macroalgae (as described above).

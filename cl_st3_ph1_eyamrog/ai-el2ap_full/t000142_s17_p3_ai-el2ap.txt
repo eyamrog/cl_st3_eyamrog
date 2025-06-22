@@ -1,3 +1,0 @@
-Linearity tests should be conducted on the series prior to
-analysis, as applying linear analytical methods to series that exhibit
-nonlinear behavior may result in the development of inaccurate models.

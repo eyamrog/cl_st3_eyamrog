@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Postponement ^nn++++=Postponement
+of ^in++++=of
+consultations ^nns++++=consultations
+for ^in++++=for
+chronic ^jj+atrb+++=chronic
+patients ^nns++++=patients,
+, ^zz++++=EXTRAWORD
+ensuring ^vbg+vprv++xvbg+=ensuring
+medications ^nns++++=medications
+supply ^nn++++=supply
+and ^cc++++=and
+offering ^nn++++=offering
+home ^nr++++=home
+delivery ^nn++++=delivery
+service ^nn++++=service.
+. ^zz++++=EXTRAWORD

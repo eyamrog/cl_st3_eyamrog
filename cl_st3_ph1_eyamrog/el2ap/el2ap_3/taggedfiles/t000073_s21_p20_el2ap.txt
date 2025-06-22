@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Comments ^nns++++=Comments:
+: ^zz++++=EXTRAWORD
+C ^zz++++=C.
+. ^zz++++=EXTRAWORD
+lilacina ^nn+++??+=lilacina
+was ^vbd+bedz+aux++=was
+recorded ^vpsv++agls+xvbnx+=recorded
+for ^in++++=for
+spegazzinii ^np++++=Spegazzinii
+( ^zz++++=(1884)
+1884 ^cd+date+++=EXTRAWORD
+) ^zz++++=EXTRAWORD
+as ^ql++++=as
+lycoperdon ^np++++=Lycoperdon
+lilacinum ^nn++++=lilacinum.
+. ^zz++++=EXTRAWORD

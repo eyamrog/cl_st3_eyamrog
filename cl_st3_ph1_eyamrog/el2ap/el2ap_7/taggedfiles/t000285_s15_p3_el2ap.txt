@@ -1,0 +1,38 @@
+We ^pp1a+pp1+++=We
+will ^md+prd+++=will
+include ^vb++++=include
+patients ^nns++++=patients
+of ^in++++=of
+any ^dti++++=any
+age ^nn++++=age
+tested ^vwbn+++xvbn+=tested
+positive ^jj++++=positive
+for ^in++++=for
+Sars ^np+++??+=SARS-CoV-2
+- ^zz++++=EXTRAWORD
+cov ^nn+++??+=EXTRAWORD
+- ^zz++++=EXTRAWORD
+2 ^zz++++=EXTRAWORD
+infection ^nn++++=infection
+and ^cc++++=and
+positive ^jj++++=positive
+for ^in++++=for
+any ^dti++++=any
+type ^nn++++=type
+of ^in++++=of
+Arbovirus ^np+++??+=Arbovirus
+infection ^nn++++=infection
+( ^zz++++=(e.g.
+e.g ^rb++++=EXTRAWORD
+. ^zz++++=EXTRAWORD
+Dengue ^np+++??+=Dengue,
+ ^zz++++=EXTRAWORD
+Zika ^np++++=Zika,
+ ^zz++++=EXTRAWORD
+Yellow ^jj+atrb+++=Yellow
+Fever ^nn++++=Fever,
+ ^zz++++=EXTRAWORD
+Among ^in++++=among
+Others ^aps++++=others).
+	 ^zz++++=EXTRAWORD
+ ^zz++++=EXTRAWORD

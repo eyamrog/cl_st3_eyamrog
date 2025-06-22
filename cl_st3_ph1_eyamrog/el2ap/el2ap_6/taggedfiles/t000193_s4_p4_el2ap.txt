@@ -1,0 +1,17 @@
+Avoiding ^vbg+++xvbg+=Avoiding
+treatment ^nn++++=treatment
+of ^in++++=of
+mild ^jj+atrb+++=mild
+relapse ^nn++++=relapse
+and ^cc++++=and
+using ^vbg+++xvbg+=using
+equivalent ^jj+atrb+++=equivalent
+doses ^nns++++=doses
+of ^in++++=of
+oral ^jj+atrb+++=oral
+steroids ^nns++++=steroids
+to ^in++++=to
+treat ^vb++++=treat
+ms ^nn++++=MS
+relapses ^nns++++=relapses.
+. ^zz++++=EXTRAWORD

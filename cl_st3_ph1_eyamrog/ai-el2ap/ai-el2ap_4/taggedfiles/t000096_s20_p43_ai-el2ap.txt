@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Develop ^vb++++=Develop
+curricular ^jj+atrb++??+=curricular
+designs ^nns++++=designs
+that ^tht+rel+subj++=that
+are ^vb+ber+vrb++=are
+specifically ^rb++++=specifically
+tailored ^jj+pred+++=tailored
+to ^to++++=to
+incorporate ^vbi++++=incorporate
+and ^cc++++=and
+effectively ^rb++++=effectively
+utilize ^vb++++=utilize
+technological ^jj+atrb+++=technological
+resources ^nns++++=resources.
+. ^zz++++=EXTRAWORD

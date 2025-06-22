@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Organize ^vb++++=Organize
+scientific ^jj+atrb+++=scientific
+information ^nn++++=information
+through ^in++++=through
+bibliographic ^nn+++??+=bibliographic
+managers ^nns++++=managers
+for ^in++++=for
+the ^ati++++=the
+proper ^jj+atrb+++=proper
+application ^nn++++=application
+of ^in++++=of
+international ^jj+atrb+++=international
+citation ^nn++++=citation
+standards ^nns++++=standards.
+. ^zz++++=EXTRAWORD

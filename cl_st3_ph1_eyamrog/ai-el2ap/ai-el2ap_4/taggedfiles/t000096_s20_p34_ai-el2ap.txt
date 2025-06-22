@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Accordingly ^rb+cnj+++=Accordingly,
+, ^zz++++=EXTRAWORD
+the ^ati++++=the
+module ^nn+++??+=module
+is ^vbz+bez+aux++=is
+designed ^xvbn+++xvbn+=designed
+to ^to+vcmp+++=to
+achieve ^vbi++++=achieve
+the ^ati++++=the
+following ^nn++++=following
+learning ^vbg+vprv++xvbg+=learning
+outcomes ^nns++++=outcomes:
+: ^zz++++=EXTRAWORD

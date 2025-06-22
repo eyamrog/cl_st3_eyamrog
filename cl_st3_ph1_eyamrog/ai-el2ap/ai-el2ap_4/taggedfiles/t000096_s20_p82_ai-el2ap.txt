@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+The ^ati++++=The
+degree ^nn++++=degree
+work ^nn++++=work
+is ^vbz+bez+aux++=is
+to ^to++++=to
+be ^vbi+vbi+aux++=be
+prepared ^vpsv++agls+xvbnx+=prepared
+under ^in++++=under
+the ^ati++++=the
+guidance ^nn++++=guidance
+of ^in++++=of
+specialized ^jj++++=specialized
+and ^cc++++=and
+individualized ^nn++++=individualized
+tutorials ^nns++++=tutorials.
+. ^zz++++=EXTRAWORD

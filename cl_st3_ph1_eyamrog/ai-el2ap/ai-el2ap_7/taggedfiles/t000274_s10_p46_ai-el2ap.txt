@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Airway ^np+++??+=Airway
+procedures ^nns++++=procedures
+are ^vb+ber+aux++=are
+currently ^rb++splt++=currently
+classified ^vpsv++agls+xvbnx+=classified
+according ^in+cmpx+++=according
+to ^in"++++=to
+their ^pp$+pp3+++=their
+associated ^vpsv++agls+xvbn+=associated
+risk ^vb++++=risk,
+, ^zz++++=EXTRAWORD
+listed ^vwbn+++xvbn+=listed
+here ^rn+pl+++=here
+in ^in++++=in
+decreasing ^jj+atrb+++=decreasing
+order:10 ^nn++++=order:10

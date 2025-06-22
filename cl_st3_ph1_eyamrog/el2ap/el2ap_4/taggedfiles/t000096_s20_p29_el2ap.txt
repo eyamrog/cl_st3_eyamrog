@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Identify ^vb++++=Identify
+bibliographic ^nn+++??+=bibliographic
+review ^nn++++=review
+techniques ^nns++++=techniques
+that ^tht+rel+subj++=that
+allow ^vb++++=allow
+systematizing ^nn+++??+=systematizing
+the ^ati++++=the
+scientific ^jj+atrb+++=scientific
+production ^nn++++=production
+published ^vbd+++xvbn+=published
+in ^in++++=in
+different ^jj+atrb+++=different
+academic ^jj+atrb+++=academic
+resources ^nns++++=resources.
+. ^zz++++=EXTRAWORD

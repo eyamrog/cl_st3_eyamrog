@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+The ^ati++++=The
+hypotheses ^nns+nom+++=hypotheses
+for ^in++++=for
+the ^ati++++=the
+unit ^nn++++=unit
+root ^nn++++=root
+analysis ^nn++++=analysis
+are ^vb+ber+aux++=are
+specified ^vbn+vsua+++=specified
+in ^in++++=in
+equation ^nn+nom+++=Equation
+26 ^cd++++=26
+and ^cc++++=and
+equation ^nn+nom+++=Equation
+27 ^cd++++=27.
+. ^zz++++=EXTRAWORD

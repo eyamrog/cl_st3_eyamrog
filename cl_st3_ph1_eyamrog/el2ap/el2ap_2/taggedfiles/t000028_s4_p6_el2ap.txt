@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+testing ^nvbg+++xvbg+=testing
+and ^cc++++=and
+improving ^nvbg+++xvbg+=improving
+the ^ati++++=the
+adapted ^jj+atrb++xvbn+=adapted
+material ^nn++++=material
+according ^in++++=according
+to ^in++++=to
+blind ^jj+atrb+++=blind
+students ^nns++++=students
+necessities ^nns+nom+++=necessities
+and ^cc++++=and
+abilities ^nns+nom+++=abilities;
+; ^zz++++=EXTRAWORD

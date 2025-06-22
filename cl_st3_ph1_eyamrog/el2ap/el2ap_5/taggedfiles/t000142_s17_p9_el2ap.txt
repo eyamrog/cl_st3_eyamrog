@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Test ^nn++++=Test
+statistics ^nns++++=statistics
+of ^in++++=of
+Harvey ^np++++=Harvey
+& ^zz++++=&
+Leybourne ^np+++??+=Leybourne
+ ^zz++++=(2007)
+007 ^np++++=EXTRAWORD
+	 ^zz++++=EXTRAWORD
+Are ^vb+ber+aux++=are
+Presented ^vbd+++xvbn+=presented
+In ^in++++=in
+Equation ^nn++++=Equation
+ ^zz++++=4;
+ ^zz++++=EXTRAWORD

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+The ^ati++++=The
+model ^nn++++=model
+seeks ^vbz++++=seeks
+to ^to+vcmp+++=to
+investigate ^vbi++++=investigate
+the ^ati++++=the
+impact ^nn++++=impact
+of ^in++++=of
+selected ^jj+atrb+++=selected
+macroeconomic ^nn++++=macroeconomic
+variables ^nns++++=variables
+on ^in++++=on
+investment ^nn++++=investment
+inflow ^nn++++=inflow
+in ^in++++=in
+turkey ^np++++=Turkey

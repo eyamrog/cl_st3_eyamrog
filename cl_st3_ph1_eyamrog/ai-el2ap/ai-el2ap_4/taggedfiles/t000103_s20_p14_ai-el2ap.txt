@@ -1,0 +1,17 @@
+The ^ati++++=The
+results ^nns++++=results
+for ^in++++=for
+the ^ati++++=the
+neutral ^jj+atrb+++=neutral
+sentences ^nns++++=sentences
+will ^md+prd+++=will
+be ^vb+be+aux++=be
+presented ^vbd+++xvbn+=presented
+prior ^in+cmpx+++=prior
+to ^in"++++=to
+those ^dt+dem+++=those
+for ^in++++=for
+the ^ati++++=the
+biased ^vpsv++agls+xvbn+=biased
+sentences ^nns++++=sentences.
+. ^zz++++=EXTRAWORD

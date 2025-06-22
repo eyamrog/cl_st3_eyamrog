@@ -1,3 +1,0 @@
-All these options consider that returns should be covered (except
-Option 1) and a distance of 8 meters from final
-discharge point to opening into building.

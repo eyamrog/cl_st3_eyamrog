@@ -1,4 +1,0 @@
-This review limited the languages for searching articles to Portuguese,
-English, and Spanish. However, search strategies brought up six articles
-in languages other than those cited, and they were not
-included in this review (supplementary table 3).

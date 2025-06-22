@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Suspension ^nn++++=Suspension
+of ^in++++=of
+all ^rb++++=all
+varicose ^jj+atrb+++=varicose
+vein ^nn++++=vein
+surgeries ^nns++++=surgeries
+and ^cc++++=and
+office ^nn++++=office
+and ^cc++++=and
+emergency ^nn++++=emergency
+activities ^nns++++=activities.
+. ^zz++++=EXTRAWORD

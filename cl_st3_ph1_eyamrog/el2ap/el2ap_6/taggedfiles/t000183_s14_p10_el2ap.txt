@@ -1,0 +1,17 @@
+Null ^np+++??+=Null
+Hypothesis ^nn++++=Hypothesis
+( ^zz++++=(H0):
+h0 ^nn+++??+=EXTRAWORD
+) ^zz++++=EXTRAWORD
+: ^zz++++=EXTRAWORD
+Using ^vbg+++xvbg+=Using
+graphic ^jj+atrb+++=graphic
+organizers ^nns++++=organizers
+do ^vb+do+aux++=do
+not ^xnot++not++=not
+affect ^vb++++=affect
+students ^nns++++=students
+reading ^nn++++=reading
+comprehension ^nn++++=comprehension
+development ^nn++++=development.
+. ^zz++++=EXTRAWORD

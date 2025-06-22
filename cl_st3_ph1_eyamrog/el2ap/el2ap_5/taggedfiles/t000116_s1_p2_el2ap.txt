@@ -1,0 +1,17 @@
+Study ^nn++++=Study
+design ^nn++++=design:
+: ^zz++++=EXTRAWORD
+It ^pp3+it+++=It
+s ^zz++++=s
+an ^at++++=an
+ecological ^nn+++??+=ecological
+study ^nn++++=study
+with ^in++++=with
+data ^nns++++=data
+from ^in++++=from
+brazilian ^jj+atrb+++=Brazilian
+national ^jj+atrb+++=National
+health ^nn++++=Health
+information ^nn++++=Information
+system ^nn++++=System.
+. ^zz++++=EXTRAWORD

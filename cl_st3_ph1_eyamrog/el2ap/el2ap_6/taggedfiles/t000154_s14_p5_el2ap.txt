@@ -1,0 +1,17 @@
+Reviewers ^np+++??+=Reviewers
+were ^vbd+bed+aux++=were
+anyone ^pn++++=anyone
+having ^vbg+hvg++xvbg+=having
+peer ^nn++++=peer-reviewed
+- ^zz++++=EXTRAWORD
+reviewed ^vbd+++xvbn+=EXTRAWORD
+a ^at++++=a
+submission ^nn++++=submission
+for ^in++++=for
+rbmfc ^np++++=RBMFC
+within ^in++++=within
+the ^ati++++=the
+last ^ap++++=last
+five ^cd++++=five
+years ^nns++++=years.
+. ^zz++++=EXTRAWORD

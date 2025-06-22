@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Standard ^jj+atrb+++=Standard
+operative ^jj+atrb+++=operative
+procedure ^nn++++=procedure
+for ^in++++=for
+tracheostomy ^nn+++??+=tracheostomy
+in ^in++++=in
+a ^at++++=a
+covid ^np++++=COVID-19
+- ^zz++++=EXTRAWORD
+19 ^cd++++=EXTRAWORD
+positive ^jj+atrb+++=positive
+patient ^nn++++=patient
+unknown ^jj+atrb+++=unknown
+status5 ^nn++++=status5

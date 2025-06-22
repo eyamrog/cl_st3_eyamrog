@@ -1,0 +1,17 @@
+Figure ^nn++++=Figure
+6 ^zz++++=6
+presents ^vbz++++=presents
+the ^ati++++=the
+toxic ^jj++++=toxic
+or ^cc++++=or
+potentially ^rb++++=potentially
+toxic ^jj+atrb+++=toxic
+plant ^nn++++=plant
+species ^nn++++=species
+for ^in++++=for
+cattle ^nns++++=cattle
+identified ^vpsv++agls+xvbn+=identified
+at ^rb++++=at
+each ^dt++++=each
+site ^nn++++=site.
+. ^zz++++=EXTRAWORD

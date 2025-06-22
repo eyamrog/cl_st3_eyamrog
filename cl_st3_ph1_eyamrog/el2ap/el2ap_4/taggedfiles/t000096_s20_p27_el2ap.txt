@@ -1,0 +1,17 @@
+Assess ^vb++++=Assess
+the ^ati++++=the
+importance ^nn++++=importance
+of ^in++++=of
+the ^ati++++=the
+information ^nn++++=information
+on ^in++++=on
+the ^ati++++=the
+network ^nn++++=network
+to ^to++++=to
+promote ^vbi++++=promote
+the ^ati++++=the
+dissemination ^nn++++=dissemination
+of ^in++++=of
+scientific ^jj+atrb+++=scientific
+knowledge ^nn++++=knowledge.
+. ^zz++++=EXTRAWORD

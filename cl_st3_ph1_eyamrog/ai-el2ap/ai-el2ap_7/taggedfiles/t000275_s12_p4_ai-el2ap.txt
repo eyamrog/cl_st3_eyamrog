@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+A ^at++++=A
+minimal ^jj+atrb+++=minimal
+incision ^nn+++??+=incision
+length ^rb++++=length
+is ^vbz+bez+aux++=is
+preferred ^vpsv++agls+xvbnx+=preferred
+in ^in++++=in
+order ^vb++++=order
+to ^to+vcmp+++=to
+reduce ^vbi++++=reduce
+the ^ati++++=the
+risk ^nn++++=risk
+of ^in++++=of
+air ^nn++++=air
+leakage ^nn++++=leakage.
+. ^zz++++=EXTRAWORD

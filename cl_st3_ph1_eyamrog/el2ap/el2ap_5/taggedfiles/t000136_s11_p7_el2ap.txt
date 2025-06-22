@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+H1 ^np+++??+=H1
+Better ^jjr++++=Better
+Governance ^np+++??+=Governance
+positively ^rb++++=positively
+affects ^vbz++++=affects
+donations ^nns++++=Donations
+whit ^jj+atrb+++=whit
+donor ^nn++++=donor
+restrictions ^nns++++=restrictions
+to ^in++++=to
+nonprofit ^np++++=Nonprofit
+organizations ^nns++++=Organizations.
+. ^zz++++=EXTRAWORD

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+To ^to++++=To
+evaluate ^vbi++++=evaluate
+the ^ati++++=the
+correlation ^nn++++=correlation
+between ^in++++=between
+the ^ati++++=the
+Sbs ^np+++??+=SBS
+Factors ^nns++++=factors,
+ ^zz++++=EXTRAWORD
+Pearson ^np++++=Pearson's
+s ^$++++=EXTRAWORD
+Correlation ^nn++++=correlation
+Analysis ^nn++++=analysis
+Was ^vbd+bedz+aux++=was
+Performed ^vpsv++agls+xvbn+=performed.
+ ^zz++++=EXTRAWORD

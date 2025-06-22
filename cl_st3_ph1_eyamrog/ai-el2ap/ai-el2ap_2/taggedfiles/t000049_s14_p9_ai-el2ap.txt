@@ -1,0 +1,17 @@
+Group ^nn++++=Group
+A ^at++++=A
+was ^vbd+bedz+aux++=was
+assigned ^vpsv++agls+xvbnx+=assigned
+to ^to++++=to
+evaluate ^vbi++++=evaluate
+the ^ati++++=the
+effectiveness ^nn++++=effectiveness
+of ^in++++=of
+the ^ati++++=the
+' ^zz++++='promotion
+promotion ^nn++++=EXTRAWORD
+from ^in++++=from
+within ^in++++=within'
+' ^zz++++=EXTRAWORD
+approach ^nn++++=approach.
+. ^zz++++=EXTRAWORD

@@ -1,0 +1,17 @@
+C ^zz++++=C.
+. ^zz++++=EXTRAWORD
+lilacina ^nn+++??+=lilacina
+was ^vbd+bedz+aux++=was
+originally ^rb+tm+splt++=originally
+documented ^vpsv++by+xvbnx+=documented
+by ^in++++=by
+Spegazzini ^np+++??+=Spegazzini
+ ^zz++++=(1884)
+884 ^np+date+++=EXTRAWORD
+	 ^zz++++=EXTRAWORD
+Under ^in++++=under
+The ^ati++++=the
+Name ^nn++++=name
+Lycoperdon ^np++++=Lycoperdon
+Lilacinum ^nn++++=lilacinum.
+ ^zz++++=EXTRAWORD

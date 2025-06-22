@@ -1,5 +1,0 @@
-The authors thank Bioengineer Emanuel Juarez for his contributions to
-the creation of the tables and figures presented in this
-work; Vet. Silvina Saavedra for her collaboration in epidemiological aspect;
-Programmer Matías Godano for his contribution through the countless lines
-of code that implement the program resulting from this model.

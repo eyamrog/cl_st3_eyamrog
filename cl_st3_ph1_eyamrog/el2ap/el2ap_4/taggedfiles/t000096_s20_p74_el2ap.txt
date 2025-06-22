@@ -1,0 +1,17 @@
+???? ^+++??+=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Evaluate ^vb++++=Evaluate
+educational ^jj+atrb+++=educational
+innovation ^nn++++=innovation
+projects ^nns++++=projects
+to ^to++++=to
+promote ^vbi++++=promote
+local ^jj+atrb+++=local
+and ^cc+phrs+++=and
+national ^jj+atrb+++=national
+entrepreneurship ^nn++++=entrepreneurship.
+. ^zz++++=EXTRAWORD

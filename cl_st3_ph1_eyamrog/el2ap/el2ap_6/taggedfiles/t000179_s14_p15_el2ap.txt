@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+We ^pp1a+pp1+++=We
+presented ^vbd+++xvbn+=presented
+general ^npt++++=general
+characteristics ^nns++++=characteristics
+of ^in++++=of
+the ^ati++++=the
+participants ^nns++++=participants
+using ^jj++++=using
+weighted ^vpsv++agls+xvbn+=weighted
+frequencies ^nns++++=frequencies
+and ^cc++++=and
+percentages ^nns++++=percentages.
+. ^zz++++=EXTRAWORD

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Alternative ^jj+atrb+++=Alternative
+Hypothesis ^nn++++=Hypothesis
+( ^zz++++=(H1):
+h1 ^nn+++??+=EXTRAWORD
+) ^zz++++=EXTRAWORD
+: ^zz++++=EXTRAWORD
+Using ^vbg+++xvbg+=Using
+Graphic ^jj+atrb+++=graphic
+Organizers ^nns++++=organizers
+Do ^vb+do+aux++=do
+Affect ^vb++++=affect
+Students ^nns++++=students
+Reading ^nn++++=reading
+Comprehension ^nn++++=comprehension
+Development ^nn++++=development.
+ ^zz++++=EXTRAWORD

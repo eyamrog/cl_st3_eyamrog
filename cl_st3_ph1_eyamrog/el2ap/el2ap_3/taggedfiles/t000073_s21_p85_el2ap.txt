@@ -1,0 +1,17 @@
+Geastrum ^np+++??+=Geastrum
+pusillipilosum ^nn+++??+=pusillipilosum
+J.o ^np+++??+=J.O.
+. ^zz++++=EXTRAWORD
+Sousa ^np+++??+=Sousa,
+, ^zz++++=EXTRAWORD
+Alfredo ^np+++??+=Alfredo,
+, ^zz++++=EXTRAWORD
+r.j ^np++++=R.J.
+. ^zz++++=EXTRAWORD
+ferreira ^np++++=Ferreira,
+, ^zz++++=EXTRAWORD
+m.p ^npt++++=M.P
+mart ^np++++=Mart
+n ^zz++++=n
+& ^zz++++=&
+baseia ^np++++=Baseia

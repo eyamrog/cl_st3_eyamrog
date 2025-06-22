@@ -1,0 +1,17 @@
+1 ^zz++++=1.
+. ^zz++++=EXTRAWORD
+Science ^nn++++=Science
+and ^cc++++=and
+Health ^nn++++=Health
+care ^nn++++=care
+perception ^nn++++=perception:
+: ^zz++++=EXTRAWORD
+appraisal ^nn++++=appraisal
+of ^in++++=of
+science ^nn++++=science,
+, ^zz++++=EXTRAWORD
+scientists ^nns++++=scientists
+and ^cc++++=and
+health ^nn++++=health
+care ^nn++++=care
+workers ^nns++++=workers

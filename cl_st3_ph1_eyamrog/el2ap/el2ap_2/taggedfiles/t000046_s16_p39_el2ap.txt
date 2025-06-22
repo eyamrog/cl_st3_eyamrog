@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+When ^wrb+who+++=When
+we ^pp1a+pp1+++=we
+approached ^vbd+++xvbn+=approached
+the ^ati++++=the
+relation ^nn+nom+++=relation
+between ^in++++=between
+Pe ^np+++??+=PE
+And ^cc++++=and
+Health ^nn++++=health,
+ ^zz++++=EXTRAWORD
+We ^pp1a+pp1+++=we
+Obtained ^vpsv++agls+xvbn+=obtained
+The ^ati++++=the
+Following ^jj+atrb+++=following
+Answers ^nns+nom+++=answers:
+ ^zz++++=EXTRAWORD

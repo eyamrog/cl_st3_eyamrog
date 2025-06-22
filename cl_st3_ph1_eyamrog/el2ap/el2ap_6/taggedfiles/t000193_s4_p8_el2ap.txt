@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Wider ^jjr+atrb+++=Wider
+interval ^nn++++=interval
+between ^in++++=between
+laboratory ^nn++++=laboratory
+testing ^vwbg+++xvbg+=testing/imaging
+and ^cc++++=and
+using ^vbg+++xvbg+=using
+telemedicine ^nn++++=telemedicine
+to ^to++++=to
+check ^vbi+vprv+++=check
+results ^nns++++=results,
+, ^zz++++=EXTRAWORD
+when ^wrb+who+++=when
+reasonable ^jj++++=reasonable.
+. ^zz++++=EXTRAWORD

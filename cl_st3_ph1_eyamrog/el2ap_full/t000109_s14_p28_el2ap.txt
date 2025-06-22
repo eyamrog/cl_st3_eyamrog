@@ -1,4 +1,0 @@
-The set of HMM that comprises Mobility submodel is defined
-as 𝜆ℎ,𝑒,𝑙(𝐴, 𝐵, 𝜋). There is a particular 𝜆ℎ,𝑒,𝑙 HMM
-for each Ha, based on age range (e), neighborhood (l)
-and time slot (h) corresponding to simulation time.

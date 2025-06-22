@@ -1,3 +1,0 @@
-The unique RNA replication mechanism involving transcription regulatory sequences (TRS),
-referred to as the "copy-choice" mechanism, can facilitate homologous RNA
-recombination between genes of different coronaviruses (Simon-Loriere and Holmes 2011).

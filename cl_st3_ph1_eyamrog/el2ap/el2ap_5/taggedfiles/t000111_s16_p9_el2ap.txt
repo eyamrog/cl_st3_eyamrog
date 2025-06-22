@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+What ^wdt+who+++=What
+might ^md+pos+++=might
+be ^vb+be+vrb++=be
+the ^ati++++=the
+case ^nn++++=case
+here ^rn+pl+++=here?
+? ^zz++++=EXTRAWORD
+let ^vb++++=Let
+us ^pp1o+pp1+++=us
+try ^vb++++=try
+to ^to+vcmp+++=to
+solve ^vb++++=solve
+this ^dt+dem+++=this
+puzzle ^nn++++=puzzle.
+. ^zz++++=EXTRAWORD

@@ -1,0 +1,24 @@
+Based ^xvbn+++xvbn+=Based
+on ^in++++=on
+these ^dt+dem+++=these
+properties ^nns++++=properties
+described ^vwbn+++xvbn+=described
+by ^in++++=by
+the ^ati++++=the
+above ^in+pl+++=above-mentioned
+- ^zz++++=EXTRAWORD
+mentioned ^vbn+vpub++xvbn+=EXTRAWORD
+authors ^nns++++=authors,
+, ^zz++++=EXTRAWORD
+Holt ^np++++=Holt
+and ^cc++++=and
+Johnson ^np++++=Johnson
+ ^zz++++=(2010,
+010 ^np++++=EXTRAWORD
+ ^zz++++=EXTRAWORD
+P ^zz++++=p.
+ ^zz++++=EXTRAWORD
+8 ^cd++++=28)
+	 ^zz++++=EXTRAWORD
+Highlight ^nn++++=highlight:
+ ^zz++++=EXTRAWORD

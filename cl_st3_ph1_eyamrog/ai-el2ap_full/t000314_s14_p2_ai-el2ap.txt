@@ -1,8 +1,0 @@
-In summary, a string or interval lc is defined to
-account for the new sequences generated at step 𝑙𝑐−1 when
-a shift is applied one nucleotide at a time. Each
-ordered pair formed during this process belongs to the set
-𝐵 × 𝐵, where 𝐵 = {𝐴, 𝐺, 𝑇, 𝐶}.
-This procedure is performed for both the original sequence and
-its reverse, ensuring that both orientations are considered in the
-analysis.

@@ -1,0 +1,17 @@
+The ^ati++++=The
+model ^nn++++=model
+aims ^vb++++=aims
+to ^to+vcmp+++=to
+examine ^vbi++++=examine
+the ^ati++++=the
+effects ^nns++++=effects
+of ^in++++=of
+specific ^jj+atrb+++=specific
+macroeconomic ^nn++++=macroeconomic
+variables ^nns++++=variables
+on ^in++++=on
+investment ^nn++++=investment
+inflows ^nns++++=inflows
+in ^in++++=in
+turkey ^nn++++=Turkey.
+. ^zz++++=EXTRAWORD

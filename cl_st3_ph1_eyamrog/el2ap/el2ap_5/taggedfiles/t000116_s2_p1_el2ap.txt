@@ -1,0 +1,18 @@
+???? ^?+clp+++=EXTRAWORD
+This ^dt+dem+++=This
+work ^nn++++=work
+was ^vbd+bedz+aux++=was
+supported ^vpsv++by+xvbnx+=supported
+by ^in++++=by
+Oswaldo ^np+++??+=Oswaldo
+Cruz ^np++++=Cruz
+Foundation ^nn++++=Foundation,
+ ^zz++++=EXTRAWORD
+Programa ^np++++=Programa
+Inova ^np++++=INOVA
+Ideias ^np++++=Ideias
+Inovadoras.(grant ^np++++=Inovadoras.(grant
+Number ^nn++++=number
+Vppis ^np++++=VPPIS-001-FIO-18-74)
+ ^zz++++=EXTRAWORD
+01-fio-18-74) ^nn++++=EXTRAWORD

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+This ^dt+dem+++=This
+study ^nn++++=study
+presents ^vbz++++=presents
+the ^ati++++=the
+first ^od++++=first
+documented ^vbd+++xvbn+=documented
+occurrence ^nn++++=occurrence
+of ^in++++=of
+this ^dt+dem+++=this
+species ^nn++++=species
+in ^in++++=in
+s ^zz++++=S
+o ^zz++++=o
+paulo ^np++++=Paulo
+state ^nn++++=State.
+. ^zz++++=EXTRAWORD

@@ -1,0 +1,17 @@
+We ^pp1a+pp1+++=We
+will ^md+prd+++=will
+include ^vb++++=include
+studies ^nns++++=studies
+conducted ^vbd+++xvbn+=conducted
+since ^in++++=since
+November ^nr++++=November
+2019 ^cd++++=2019,
+, ^zz++++=EXTRAWORD
+without ^in++++=without
+restrictions ^nns++++=restrictions
+on ^in++++=on
+language ^nn++++=language
+or ^cc++++=or
+publication ^nn++++=publication
+source ^nn++++=source.
+. ^zz++++=EXTRAWORD

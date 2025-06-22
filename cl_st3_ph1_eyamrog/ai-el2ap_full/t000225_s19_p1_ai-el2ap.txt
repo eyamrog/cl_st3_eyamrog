@@ -1,4 +1,0 @@
-Figure 1 presents the daily number of deaths in São
-Paulo State, Brazil, attributed to COVID-19 (including both suspected and
-confirmed cases), in addition to the daily number of deaths
-attributed to severe acute respiratory syndrome (SARS).

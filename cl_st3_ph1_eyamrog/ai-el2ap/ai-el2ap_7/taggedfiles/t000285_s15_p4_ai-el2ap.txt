@@ -1,0 +1,17 @@
+Patients ^nns++++=Patients
+who ^whp+rel+subj++=who
+are ^vb+ber+vrb++=are
+coinfected ^nn+++??+=coinfected
+with ^in++++=with
+Sars ^np+++??+=SARS-CoV-2
+- ^zz++++=EXTRAWORD
+cov ^nn+++??+=EXTRAWORD
+- ^zz++++=EXTRAWORD
+2 ^zz++++=EXTRAWORD
+and ^cc++++=and
+any ^dti++++=any
+type ^nn++++=type
+of ^in++++=of
+arboviral ^nn++++=arboviral
+infection ^nn++++=infection.
+. ^zz++++=EXTRAWORD

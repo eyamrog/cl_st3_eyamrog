@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+A ^at++++=A
+long ^jj++++=long-run
+- ^zz++++=EXTRAWORD
+run ^vb+++xvbn+=EXTRAWORD
+cointegrating ^nn+++??+=cointegrating
+relationship ^nn++++=relationship
+was ^vbd+bedz+aux++=was
+found ^vbd+vprv++xvbn+=found
+between ^in++++=between
+foreign ^jj+atrb+++=foreign
+exchange ^nn++++=exchange
+rate ^nn++++=rate
+and ^cc++++=and
+femicide ^nn++++=femicide.
+. ^zz++++=EXTRAWORD

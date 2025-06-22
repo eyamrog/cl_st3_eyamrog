@@ -1,0 +1,23 @@
+Turn ^nn++++=Turn-taking
+- ^zz++++=EXTRAWORD
+taking ^vbg+++xvbg+=EXTRAWORD
+is ^vbz+bez+vrb++=is
+evident ^jj+pred+++=evident
+in ^in++++=in
+the ^ati++++=the
+interaction ^nn+nom+++=interaction
+between ^in++++=between
+Tiago ^np+++??+=Tiago
+and ^cc++++=and
+the ^ati++++=the
+visiting ^jj+++xvbg+=visiting
+Mestre ^np+++??+=Mestre,
+ ^zz++++=EXTRAWORD
+Mestre ^np++++=Mestre
+Jo ^np++++=Jo
+O ^zz++++=o,
+ ^zz++++=EXTRAWORD
+During ^in++++=during
+The ^ati++++=the
+Game ^nn++++=game.
+ ^zz++++=EXTRAWORD

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Plan ^vb++++=Plan
+the ^ati++++=the
+search ^nn++++=search
+for ^in++++=for
+scientific ^jj+atrb+++=scientific
+information ^nn++++=information
+and ^cc++++=and
+collect ^vb++++=collect
+meaningful ^jj+atrb+++=meaningful
+content ^nn++++=content
+that ^tht+rel+subj++=that
+supports ^vbz++++=supports
+a ^at++++=a
+research ^nn++++=research
+process ^nn++++=process.
+. ^zz++++=EXTRAWORD

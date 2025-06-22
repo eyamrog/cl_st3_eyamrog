@@ -1,4 +1,0 @@
-For analysis of the acceleration/inhabitant variable, the following descriptive measures
-are presented: mean, standard deviation, median (q50), and quartiles (q25
-and q75). The groups at this stage were compared using
-the Mann–Whitney test to compare independent groups.

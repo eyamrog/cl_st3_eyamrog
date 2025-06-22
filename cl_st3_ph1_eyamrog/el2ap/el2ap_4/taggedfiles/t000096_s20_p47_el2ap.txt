@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Apply ^vb++++=Apply
+the ^ati++++=the
+instructional ^jj+atrb+++=instructional
+design ^nn++++=design
+process ^nn++++=process
+for ^in++++=for
+the ^ati++++=the
+development ^nn++++=development
+of ^in++++=of
+learning ^nn++++=learning
+environments ^nns++++=environments
+or ^cc++++=or
+other ^ap++++=other
+educational ^jj+atrb+++=educational
+resources ^nns++++=resources.
+. ^zz++++=EXTRAWORD

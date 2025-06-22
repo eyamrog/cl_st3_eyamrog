@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+General ^jj+atrb+++=General
+characteristics ^nns++++=characteristics
+of ^in++++=of
+the ^ati++++=the
+participants ^nns++++=participants
+were ^vbd+bed+aux++=were
+described ^vpsv++agls+xvbn+=described
+using ^vbg+++xvbg+=using
+weighted ^vpsv++agls+xvbn+=weighted
+frequencies ^nns++++=frequencies
+and ^cc++++=and
+percentages ^nns++++=percentages.
+. ^zz++++=EXTRAWORD

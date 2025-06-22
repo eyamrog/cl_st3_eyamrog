@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+At ^rb++++=At
+the ^ati++++=the
+end ^nn++++=end
+of ^in++++=of
+the ^ati++++=the
+1920s ^cd+date+++=1920s,
+, ^zz++++=EXTRAWORD
+several ^ap++++=several
+legal ^jj+atrb+++=legal
+institutions ^nns++++=institutions
+related ^vpsv++agls+xvbn+=related
+to ^in++++=to
+labor ^nn++++=labor
+were ^vbd+bed+aux++=were
+established ^vpsv++agls+xvbn+=established.
+. ^zz++++=EXTRAWORD

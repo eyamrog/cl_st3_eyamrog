@@ -1,4 +1,0 @@
-The 𝑖𝑚𝑎𝑥, 𝑟 method was applied to the complete genome
-of Coronavirus 2. The following results indicate regions of overlap
-with genes previously identified by other techniques (NCBI, 2020), as
-well as potential areas for further investigation.

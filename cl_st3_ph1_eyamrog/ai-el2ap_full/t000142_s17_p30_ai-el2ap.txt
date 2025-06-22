@@ -1,4 +1,0 @@
-The calculation of the test statistics involves two phases. In
-the first phase, the appropriate model is estimated using Nonlinear
-Least Squares (NLS) with only deterministic components included, and the
-resulting residuals are obtained.

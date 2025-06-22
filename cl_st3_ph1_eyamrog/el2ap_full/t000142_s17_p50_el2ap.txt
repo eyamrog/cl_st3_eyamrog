@@ -1,4 +1,0 @@
-Unit root testing can be performed using the two-step procedure
-recommended by Leybourne, Newbold & Vougas (1998). The t statistics
-of ρ obtained by the classical least squares method of
-estimation is used as the test statistics.

@@ -1,0 +1,17 @@
+For ^in++++=For
+each ^dt++++=each
+rate ^nn++++=rate,
+, ^zz++++=EXTRAWORD
+the ^ati++++=the
+confidence ^nn++++=confidence
+interval ^nn++++=interval
+was ^vbd+bedz+aux++=was
+calculated ^vpsv++agls+xvbn+=calculated
+using ^vbg+++xvbg+=using
+the ^ati++++=the
+confidence ^nn++++=confidence
+interval ^nn++++=interval
+method ^nn++++=method
+for ^in++++=for
+proportions10 ^nn++++=proportions10.
+. ^zz++++=EXTRAWORD

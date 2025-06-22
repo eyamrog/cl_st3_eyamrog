@@ -1,3 +1,0 @@
-ui refers to the number of plots in which the
-ith species is present within a given experimental unit for
-each group (control or treatment).

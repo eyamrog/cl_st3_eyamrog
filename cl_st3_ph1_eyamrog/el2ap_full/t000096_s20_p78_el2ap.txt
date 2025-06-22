@@ -1,3 +1,0 @@
-- Design a research project profile, in which information and
-communication technologies are integrated in the solution of real socio-educational
-problems.

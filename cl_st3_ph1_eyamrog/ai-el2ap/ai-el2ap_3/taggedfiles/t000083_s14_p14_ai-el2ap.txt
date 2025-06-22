@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Pearson ^np++++=Pearson's
+'s ^$++++=EXTRAWORD
+correlation ^nn+nom+++=correlation
+analysis ^nn++++=analysis
+was ^vbd+bedz+aux++=was
+conducted ^vpsv++agls+xvbnx+=conducted
+to ^to++++=to
+assess ^vbi++++=assess
+the ^ati++++=the
+relationships ^nns+nom+++=relationships
+among ^in++++=among
+the ^ati++++=the
+sbs ^np++++=SBS
+factors ^nns++++=factors.
+. ^zz++++=EXTRAWORD

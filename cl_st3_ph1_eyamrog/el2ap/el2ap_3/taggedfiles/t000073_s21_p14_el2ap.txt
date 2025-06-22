@@ -1,0 +1,18 @@
+Locality ^nn++++=Locality:
+: ^zz++++=EXTRAWORD
+Sp ^&fo++++=SP,
+, ^zz++++=EXTRAWORD
+Ap ^&fw++++=AP
+( ^zz++++=(Campi
+campi ^nn+++??+=EXTRAWORD
+& ^zz++++=&
+Maubet ^np+++??+=Maubet
+016 ^cd++++=2016,
+ ^zz++++=EXTRAWORD
+Campi ^np++++=Campi
+Et ^&fw++++=et
+Al ^&fw++++=al.
+ ^zz++++=EXTRAWORD
+In ^in++++=in
+Press ^nn++++=press)
+	 ^zz++++=EXTRAWORD

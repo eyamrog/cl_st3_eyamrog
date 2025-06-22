@@ -1,3 +1,0 @@
-Age, sex, race, schooling, and comorbidities history data (obesity, diabetes
-mellitus, cardiovascular disease, neurologic disease, and kidney disease) were also
-collected.

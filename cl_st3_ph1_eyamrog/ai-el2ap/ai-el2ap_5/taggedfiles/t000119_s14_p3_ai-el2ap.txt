@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+The ^ati++++=The
+impact ^nn++++=impact
+of ^in++++=of
+salt ^jj+atrb+++=salt
+toxicity ^nn+nom+++=toxicity
+on ^in++++=on
+seed ^nn++++=seed
+germination ^nn+nom+++=germination
+was ^vbd+bedz+aux++=was
+assessed ^vbd+++xvbn+=assessed
+using ^vbg+++xvbg+=using
+the ^ati++++=the
+following ^jj+atrb+++=following
+experimental ^jj+atrb+++=experimental
+procedures ^nns++++=procedures:
+: ^zz++++=EXTRAWORD

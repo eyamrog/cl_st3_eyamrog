@@ -1,0 +1,17 @@
+The ^ati++++=The
+results ^nns++++=results
+related ^vbd+++xvbn+=related
+to ^in++++=to
+the ^ati++++=the
+Position ^nn++++=Position
+of ^in++++=of
+Antecedent ^jj+atrb+++=Antecedent
+Strategy ^nn++++=Strategy
+ ^zz++++=(PAS)
+Pas ^np++++=EXTRAWORD
+	 ^zz++++=EXTRAWORD
+Were ^vbd+bed+aux++=were
+Highlighted ^vbd+++xvbn+=highlighted
+In ^in++++=in
+Bold ^nn++++=bold.
+ ^zz++++=EXTRAWORD

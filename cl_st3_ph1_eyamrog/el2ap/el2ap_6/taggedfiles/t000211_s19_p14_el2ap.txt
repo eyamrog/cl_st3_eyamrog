@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Intermediate ^jj+atrb+++=Intermediate
+doses ^nns++++=doses
+of ^in++++=of
+Lmwh ^np+++??+=LMWH
+can ^md+pos+++=can
+be ^vb+be+aux++=be
+considered ^vpsv++agls+xvbnx+=considered
+in ^in++++=in
+patients ^nns++++=patients
+with ^in++++=with
+multiple ^nn++++=multiple
+risk ^vb++++=risk
+factors ^nns++++=factors
+for ^in++++=for
+vte ^np++++=VTE.
+. ^zz++++=EXTRAWORD

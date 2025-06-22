@@ -1,0 +1,34 @@
+Problems ^nns++++=Problems
+with ^in++++=with
+inclusion ^nn++++=inclusion
+of ^in++++=of
+blind ^jj+atrb+++=blind
+students ^nns++++=students
+in ^in++++=in
+the ^ati++++=the
+regular ^jj+atrb+++=regular
+classroom ^nn++++=classroom
+( ^zz++++=(FERREIRA;
+ferreira ^nn+++??+=EXTRAWORD
+; ^zz++++=EXTRAWORD
+Dickman ^np+++??+=DICKMAN,
+, ^zz++++=EXTRAWORD
+2015 ^cd++++=2015;
+; ^zz++++=EXTRAWORD
+Uliana ^np+++??+=ULIANA,
+, ^zz++++=EXTRAWORD
+2013 ^cd++++=2013;
+; ^zz++++=EXTRAWORD
+Camargo ^np+++??+=CAMARGO;
+; ^zz++++=EXTRAWORD
+Nardi ^np+++??+=NARDI,
+ ^zz++++=EXTRAWORD
+006 ^cd++++=2006;
+ ^zz++++=EXTRAWORD
+Oliveira ^np++++=OLIVEIRA;
+ ^zz++++=EXTRAWORD
+Reily ^np++++=REILY,
+ ^zz++++=EXTRAWORD
+014 ^cd++++=2014);
+	 ^zz++++=EXTRAWORD
+ ^zz++++=EXTRAWORD

@@ -1,0 +1,17 @@
+???? ^+++??+=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Prepare ^vb++++=Prepare
+curricular ^jj+atrb++??+=curricular
+designs ^nns++++=designs
+adapted ^jj++++=adapted
+to ^in++++=to
+the ^ati++++=the
+use ^nn++++=use
+of ^in++++=of
+technological ^jj+atrb+++=technological
+resources ^nns++++=resources.
+. ^zz++++=EXTRAWORD

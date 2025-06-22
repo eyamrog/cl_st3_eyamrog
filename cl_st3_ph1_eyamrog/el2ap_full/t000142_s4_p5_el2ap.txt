@@ -1,3 +1,0 @@
-- It was determined that the deviation caused by a
-1% shock in the exchange rate could reach the balance
-after 22.6 days.

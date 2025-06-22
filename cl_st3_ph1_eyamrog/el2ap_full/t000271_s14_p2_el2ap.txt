@@ -1,4 +1,0 @@
-Demographic data were obtained from the blood center´s donor management
-software (SACS), through a code, without donor identification. The study
-population corresponds to the total number of people who donated
-blood in the Hemorio from April 14th through April 27th.

@@ -1,3 +1,0 @@
-Our two datasets are comprised of sand fly occurrence data
-from fieldwork undertaken by the authors during the ACL outbreaks
-in) the SIL and WIL.

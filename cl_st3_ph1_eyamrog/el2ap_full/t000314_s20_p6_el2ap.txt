@@ -1,3 +1,0 @@
-In this string size, Gene S (start) and Gene ORF10
-are identified. And again, the 𝑖𝑚𝑎𝑥, 𝑟 points to an
-important zone around the 11000 interval.

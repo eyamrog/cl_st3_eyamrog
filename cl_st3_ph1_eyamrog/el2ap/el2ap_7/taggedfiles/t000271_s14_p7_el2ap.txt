@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Exclusion ^nn++++=Exclusion
+Criteria ^nns++++=Criteria:
+: ^zz++++=EXTRAWORD
+Refusal ^nn++++=Refusal
+to ^to+ncmp+++=to
+sign ^vb++++=sign
+the ^ati++++=the
+informed ^jj+atrb+++=Informed
+consent ^nn++++=Consent
+form ^nn++++=Form
+for ^in++++=for
+blood ^nn++++=blood
+donation ^nn++++=donation
+and ^cc++++=and
+testing ^nn++++=testing.
+. ^zz++++=EXTRAWORD

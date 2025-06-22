@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Check ^vb+vprv+++=Check
+that ^tht+vcmp+++=that
+there ^ex+pex+++=there
+are ^vb+ber+vrb++=are
+no ^at++++=no
+leaks ^nns++++=leaks
+and ^cc++++=and
+that ^tht+vcmp+++=that
+the ^ati++++=the
+tracheostome ^nn++++=tracheostome
+is ^vbz+bez+aux++=is
+well ^rb++++=well
+fixed ^vpsv++agls+xvbn+=fixed;
+; ^zz++++=EXTRAWORD

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Rituximab ^np+++??+=Rituximab
+has ^vbz+hvz+aux++=has
+been ^vprf+ben+aux+xvbnx+=been
+shown ^vpsv++agls+xvbnx+=shown
+to ^to+vcmp+++=to
+be ^vbi++vrb++=be
+more ^rbr++++=more
+effective ^jj+pred+++=effective
+than ^in++++=than
+azathioprine ^nn++++=azathioprine
+in ^in++++=in
+reducing ^jj+atrb+++=reducing
+relapse ^nn++++=relapse
+rates ^nns++++=rates.
+. ^zz++++=EXTRAWORD

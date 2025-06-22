@@ -1,5 +1,0 @@
-The set of Hidden Markov Models (HMMs) that constitutes the
-Mobility submodel is denoted as 𝜆ₕ,ₑ,ₗ(𝐴, 𝐵, 𝜋). For each
-activity type Ha, a specific HMM 𝜆ₕ,ₑ,ₗ is defined according
-to the corresponding age range (e), neighborhood (l), and time
-slot (h) within the simulation period.

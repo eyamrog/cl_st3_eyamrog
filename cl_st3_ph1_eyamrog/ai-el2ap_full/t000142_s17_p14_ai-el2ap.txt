@@ -1,9 +1,0 @@
-The null hypothesis (𝐻0) states that the coefficients 𝛽2, 𝛽3,
-𝛽5, and 𝛽6 are all equal to zero (𝛽2 =
-𝛽3 = 𝛽5 = 𝛽6 = 0), indicating that these
-variables have no statistically significant effect on the dependent variable.
-The alternative hypothesis (𝐻1) asserts that at least one of
-these coefficients is not equal to zero (𝛽2 ≠ 0,
-𝛽3 ≠ 0, 𝛽5 ≠ 0, or 𝛽6 ≠ 0),
-suggesting that at least one of the variables has a
-statistically significant effect on the dependent variable.

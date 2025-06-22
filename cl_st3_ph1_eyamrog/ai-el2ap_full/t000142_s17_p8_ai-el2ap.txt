@@ -1,7 +1,0 @@
-The null hypothesis (𝐻0) states that the coefficients 𝛽2, 𝛽3,
-𝛽5, and 𝛽6 are all equal to zero, that is,
-𝛽2 = 𝛽3 = 𝛽5 = 𝛽6 = 0. The
-alternative hypothesis (𝐻1) posits that at least one of these
-coefficients is not equal to zero, indicating that 𝛽2 ≠
-0, 𝛽3 ≠ 0, 𝛽5 ≠ 0, or 𝛽6 ≠
-0.

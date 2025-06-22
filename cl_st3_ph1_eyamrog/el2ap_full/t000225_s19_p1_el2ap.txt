@@ -1,3 +1,0 @@
-Figure 1 shows the number of deaths per day in
-São Paulo State, Brazil, attributed to COVID-19 (suspected and confirmed
-cases) plus the deaths per day attributed to SARS.

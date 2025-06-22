@@ -1,0 +1,17 @@
+What ^wdt+who+++=What
+types ^nns++++=types
+of ^in++++=of
+topical ^jj+atrb+++=topical
+therapies ^nns+++??+=therapies
+and ^cc++++=and/or
+treatments ^nns+nom+++=treatments
+are ^vb+ber+vrb++=are
+available ^jj+pred+++=available
+for ^in++++=for
+pain ^nn++++=pain
+management ^nn+nom+++=management
+in ^in++++=in
+patients ^nns++++=patients
+with ^in++++=with
+mfws ^np++++=MFWs?
+? ^zz++++=EXTRAWORD

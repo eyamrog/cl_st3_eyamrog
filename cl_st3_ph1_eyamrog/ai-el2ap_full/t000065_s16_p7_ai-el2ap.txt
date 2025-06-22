@@ -1,8 +1,0 @@
-One of the text variables included in CorIFA is length
-in words. Instructors of Italian as a Foreign Language (IFA)
-may establish appropriate word count ranges for texts based on
-their assessment of students’ proficiency levels and the specific characteristics
-of each register. The average word length is maintained as
-indicated in Table 2, which also provides the total number
-of words for each register as well as for the
-entire corpus.

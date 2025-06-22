@@ -1,2 +1,0 @@
-According to these authors, formulations exhibit three fundamental properties: preservation,
-deletion, and transformation of a preceding utterance or utterances.

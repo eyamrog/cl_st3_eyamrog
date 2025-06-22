@@ -1,2 +1,0 @@
-The analyses were conducted using R software version 3.6.3, with
-a significance level set at 5%.

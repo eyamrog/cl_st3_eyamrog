@@ -1,0 +1,17 @@
+The ^ati++++=The
+datasets ^nn++++=datasets
+generated ^vbd+++xvbn+=generated
+during ^in++++=during
+the ^ati++++=the
+current ^jj+atrb+++=current
+study ^nn++++=study
+are ^vb+ber+vrb++=are
+available ^jj+pred+++=available
+from ^in++++=from
+the ^ati++++=the
+corresponding ^jj+atrb+++=corresponding
+author ^nn++++=author
+on ^in++++=on
+reasonable ^jj+atrb+++=reasonable
+request ^nn++++=request.
+. ^zz++++=EXTRAWORD

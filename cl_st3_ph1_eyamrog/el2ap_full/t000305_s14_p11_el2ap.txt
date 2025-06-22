@@ -1,3 +1,0 @@
-For the profile description of each group, the following measures
-are presented: incidence, mortality, and lethality rates. Such measures are
-calculated as follows9: <>

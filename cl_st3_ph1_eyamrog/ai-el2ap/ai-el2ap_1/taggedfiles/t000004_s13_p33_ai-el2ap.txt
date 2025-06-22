@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Engaging ^np+++??+=Engaging
+in ^in++++=in
+stretching ^xvbg+++xvbg+=stretching
+exercises ^nns++++=exercises
+and ^cc++++=and
+informal ^jj+atrb+++=informal
+conversation ^nn+nom+++=conversation
+prior ^in+cmpx+++=prior
+to ^in"++++=to
+the ^ati++++=the
+start ^nn++++=start
+of ^in++++=of
+the ^ati++++=the
+class ^nn++++=class.
+. ^zz++++=EXTRAWORD

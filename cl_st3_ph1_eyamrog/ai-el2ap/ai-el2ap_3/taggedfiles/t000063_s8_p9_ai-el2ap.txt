@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+4 ^zz++++=4.
+. ^zz++++=EXTRAWORD
+Enrollment ^np+nom++??+=Enrollment
+in ^in++++=in
+the ^ati++++=the
+first ^od++++=first
+year ^nn++++=year
+of ^in++++=of
+scientific ^jj++++=scientific
+and ^cc++++=and
+health ^nn++++=health
+care ^nn++++=care
+degree ^nn++++=degree
+programs ^nns++++=programs.
+. ^zz++++=EXTRAWORD

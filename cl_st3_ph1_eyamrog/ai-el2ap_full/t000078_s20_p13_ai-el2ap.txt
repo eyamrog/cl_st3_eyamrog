@@ -1,5 +1,0 @@
-The results of this econometric analysis provide evidence supporting the
-existence of at least one additional central region within the
-city of São Paulo. Consequently, models that do not account
-for this sub-centrality are likely to produce biased coefficient estimates
-and exhibit heteroskedastic residuals.

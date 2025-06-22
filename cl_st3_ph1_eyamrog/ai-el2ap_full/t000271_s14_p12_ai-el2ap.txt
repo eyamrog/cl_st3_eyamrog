@@ -1,3 +1,0 @@
-The data were stored in an Excel® spreadsheet, including demographic
-information and donor codes, to ensure that individual donors could
-not be identified.

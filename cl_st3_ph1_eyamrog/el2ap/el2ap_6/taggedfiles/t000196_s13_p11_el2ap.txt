@@ -1,0 +1,17 @@
+???? ^+++??+=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Build ^nn++++=Build
+upon ^in++++=upon
+existing ^jj+atrb+++=existing
+welfare ^nn++++=welfare
+structures ^nns++++=structures
+to ^in++++=to
+cover ^nn++++=cover
+vulnerable ^jj+atrb+++=vulnerable
+school ^nn++++=school
+children ^nns++++=children.
+. ^zz++++=EXTRAWORD

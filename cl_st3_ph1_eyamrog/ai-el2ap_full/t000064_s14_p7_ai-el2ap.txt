@@ -1,7 +1,0 @@
-Chlorophyll content was estimated using an Opti-Sciences CCM-200® chlorophyll meter
-on two leaves per plant from five plants in each
-experimental treatment. According to the manufacturer, this device does not
-directly measure chlorophyll content; instead, it assesses leaf light transmittance
-and expresses the results as a chlorophyll content index (CCI).
-Therefore, the CCI values are used for comparative analysis among
-treatments.

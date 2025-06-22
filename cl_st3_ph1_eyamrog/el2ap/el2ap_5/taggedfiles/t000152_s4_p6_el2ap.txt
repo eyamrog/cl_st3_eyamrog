@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+We ^pp1a+pp1+++=We
+declare ^vb+vpub+++=declare
+that ^tht+vcmp+++=that
+there ^ex+pex+++=there
+is ^vbz+bez+vrb++=is
+no ^at++++=no
+conflict ^nn++++=conflict
+of ^in++++=of
+interest ^nn++++=interest
+in ^in++++=in
+the ^ati++++=the
+writing ^nn++++=writing
+of ^in++++=of
+this ^dt+dem+++=this
+manuscript ^nn++++=manuscript.
+. ^zz++++=EXTRAWORD

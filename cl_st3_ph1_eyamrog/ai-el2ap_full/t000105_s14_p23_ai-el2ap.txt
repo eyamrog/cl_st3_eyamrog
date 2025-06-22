@@ -1,3 +1,0 @@
-The registration data collected included sex, individual taxpayer registry (CPF)
-number, parental information, date of birth, telephone number, and the
-presence of symptoms within the past 15 days.

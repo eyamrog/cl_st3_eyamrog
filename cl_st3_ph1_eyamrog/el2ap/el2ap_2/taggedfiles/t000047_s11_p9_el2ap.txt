@@ -1,0 +1,17 @@
+How ^wrb+who+++=How
+have ^vb+hv+vrb++=have
+gestural ^jj+atrb+++=gestural
+activities ^nns+nom+++=activities
+contributed ^vbd+++xvbn+=contributed
+to ^in++++=to
+meaning ^xvbg+++xvbg+=meaning-making
+- ^zz++++=EXTRAWORD
+making ^vbg+++xvbg+=EXTRAWORD
+in ^in++++=in
+the ^ati++++=the
+oral ^jj++++=Oral-B
+- ^zz++++=EXTRAWORD
+b ^zz++++=EXTRAWORD
+toothpaste ^nn++++=Toothpaste
+communication ^nn+nom+++=communication?
+? ^zz++++=EXTRAWORD

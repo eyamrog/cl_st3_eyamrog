@@ -1,2 +1,0 @@
-The anchor can be elided in (47), whereas elision is
-not possible in (48).

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+( ^zz++++=(ii)
+ii ^nn+++??+=EXTRAWORD
+) ^zz++++=EXTRAWORD
+the ^ati++++=the
+knowledge ^nn++++=knowledge
+and ^cc++++=and
+skills ^nns++++=skills
+required ^vb++++=required
+to ^to+vcmp+++=to
+produce ^vbi++++=produce
+this ^dt+dem+++=this
+type ^nn++++=type
+of ^in++++=of
+paper ^nn++++=paper;
+; ^zz++++=EXTRAWORD

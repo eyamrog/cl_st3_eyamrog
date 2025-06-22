@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+This ^dt+dem+++=This
+section ^nn+nom+++=section
+outlines ^nns++++=outlines
+the ^ati++++=the
+methodological ^jj+atrb+++=methodological
+procedures ^nns++++=procedures
+employed ^vbd+++xvbn+=employed
+to ^to++++=to
+examine ^vbi++++=examine
+the ^ati++++=the
+relationship ^nn+nom+++=relationship
+between ^in++++=between
+governance ^nn+nom+++=governance
+and ^cc++++=and
+donations ^nns+nom+++=donations.
+. ^zz++++=EXTRAWORD

@@ -1,0 +1,17 @@
+The ^ati++++=The
+test ^nn++++=test
+statistics ^nns++++=statistics
+proposed ^vwbn+vsua++xvbn+=proposed
+by ^in++++=by
+Harvey ^np++++=Harvey
+and ^cc++++=and
+Leybourne ^np+++??+=Leybourne
+ ^zz++++=(2007)
+007 ^np++++=EXTRAWORD
+	 ^zz++++=EXTRAWORD
+Are ^vb+ber+aux++=are
+Presented ^vbd+++xvbn+=presented
+In ^in++++=in
+Equation ^nn+nom+++=Equation
+ ^zz++++=4.
+ ^zz++++=EXTRAWORD

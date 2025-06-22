@@ -1,3 +1,0 @@
-Within this sequence length, both Gene S (start) and Gene
-ORF10 are identified. Additionally, the value of 𝑖𝑚𝑎𝑥, 𝑟 indicates
-a significant region near the 11,000 nucleotide position.

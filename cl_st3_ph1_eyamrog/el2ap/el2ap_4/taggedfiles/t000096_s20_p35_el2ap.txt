@@ -1,0 +1,17 @@
+???? ^+++??+=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Explain ^vb+vpub+++=Explain
+the ^ati++++=the
+learning ^nn++++=learning
+theories ^nns++++=theories
+on ^in++++=on
+which ^whp+rel+pied++=which
+educational ^jj+atrb+++=educational
+processes ^nns++++=processes
+are ^vb+ber+aux++=are
+based ^xvbn+++xvbn+=based.
+. ^zz++++=EXTRAWORD

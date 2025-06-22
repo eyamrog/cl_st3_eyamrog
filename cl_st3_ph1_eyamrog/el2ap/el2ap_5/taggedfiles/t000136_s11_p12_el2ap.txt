@@ -1,0 +1,20 @@
+H2 ^np+++??+=H2
+Npo ^np+++??+=NPO
+s ^zz++++=s
+certification ^nn+++??+=certification
+moderates ^nns++++=moderates
+the ^ati++++=the
+relationship ^nn++++=relationship
+between ^in++++=between
+Governance ^np+++??+=Governance
+and ^cc++++=and
+Donations ^nns++++=Donations
+With ^in++++=with
+Donor ^nn++++=donor
+Restrictions ^nns++++=restrictions,
+ ^zz++++=EXTRAWORD
+With ^in++++=with
+A ^at++++=a
+Positive ^jj+atrb+++=positive
+Impact ^nn++++=impact.
+ ^zz++++=EXTRAWORD

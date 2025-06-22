@@ -1,0 +1,17 @@
+After ^in++++=After
+establishing ^xvbg+++xvbg+=establishing
+the ^ati++++=the
+presence ^nn+nom+++=presence
+of ^in++++=of
+nonlinearity ^nn+nom+++=nonlinearity,
+, ^zz++++=EXTRAWORD
+unit ^nn++++=unit
+root ^nn++++=root
+tests ^nns++++=tests
+based ^xvbn+++xvbn+=based
+on ^in++++=on
+nonlinear ^nn++++=nonlinear
+models ^nns++++=models
+were ^vbd+bed+aux++=were
+conducted ^vbd+++xvbn+=conducted.
+. ^zz++++=EXTRAWORD

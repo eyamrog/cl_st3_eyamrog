@@ -1,0 +1,24 @@
+Objective ^jj++++=Objective:
+: ^zz++++=EXTRAWORD
+To ^in++++=To
+analyze ^nn+++??+=analyze
+the ^ati++++=the
+dispersion ^nn++++=dispersion
+of ^in++++=of
+journals ^nns++++=journals
+and ^cc++++=and
+scientific ^jj+atrb+++=scientific
+collaboration ^nn++++=collaboration
+on ^in++++=on
+Severe ^jj+atrb+++=Severe
+Acute ^jj+atrb+++=Acute
+Respiratory ^jj+atrb+++=Respiratory
+Syndrome ^np++++=Syndrome,
+ ^zz++++=EXTRAWORD
+Available ^jj++++=available
+On ^in++++=on
+The ^ati++++=the
+Web ^nn++++=Web
+Of ^in++++=of
+Science ^nn++++=Science.
+ ^zz++++=EXTRAWORD

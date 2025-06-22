@@ -1,3 +1,0 @@
-b) citations in SciELO CI, with regard to the total
-number of citations in all the WoS citation sources –
-which include SciELO CI.

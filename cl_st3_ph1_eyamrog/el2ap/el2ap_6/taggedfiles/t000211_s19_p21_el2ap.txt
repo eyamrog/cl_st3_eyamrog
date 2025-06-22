@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Suspension ^nn++++=Suspension
+of ^in++++=of
+non ^&fw++++=non-essential
+- ^zz++++=EXTRAWORD
+essential ^nn++++=EXTRAWORD
+meetings ^nns++++=meetings,
+, ^zz++++=EXTRAWORD
+maintaining ^vbg+++xvbg+=maintaining
+the ^ati++++=the
+use ^nn++++=use
+of ^in++++=of
+digital ^jj+atrb+++=digital
+platforms ^nns++++=platforms.
+. ^zz++++=EXTRAWORD

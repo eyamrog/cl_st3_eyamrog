@@ -1,0 +1,17 @@
+In ^in++++=In
+the ^ati++++=the
+short ^nn++++=short
+run ^vbd+++xvbn+=run,
+, ^zz++++=EXTRAWORD
+no ^at++++=no
+causal ^jj+atrb+++=causal
+relationship ^nn+nom+++=relationship
+was ^vbd+bedz+aux++=was
+identified ^vpsv++agls+xvbn+=identified
+from ^in++++=from
+the ^ati++++=the
+exchange ^nn++++=exchange
+rate ^nn++++=rate
+to ^in++++=to
+femicide ^nn++++=femicide.
+. ^zz++++=EXTRAWORD

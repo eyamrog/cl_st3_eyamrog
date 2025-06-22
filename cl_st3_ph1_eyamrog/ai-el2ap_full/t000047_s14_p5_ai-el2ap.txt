@@ -1,3 +1,0 @@
-Table 1 presents the distribution of HLMA across specific time
-frames, along with the corresponding number of shots associated with
-each segmented action.

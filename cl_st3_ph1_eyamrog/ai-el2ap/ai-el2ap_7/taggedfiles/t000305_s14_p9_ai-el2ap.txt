@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Group ^nn++++=Group
+5.1 ^cd++++=5.1
+comprises ^vbz++++=comprises
+the ^ati++++=the
+United ^np++++=United
+States ^nns++++=States,
+ ^zz++++=EXTRAWORD
+Spain ^np++++=Spain,
+ ^zz++++=EXTRAWORD
+And ^cc+cls+++=and
+The ^ati++++=the
+United ^np++++=United
+Kingdom ^nn++++=Kingdom.
+ ^zz++++=EXTRAWORD

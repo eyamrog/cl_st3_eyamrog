@@ -1,3 +1,0 @@
-Reliability by internal consistency was assessed using Cronbach's alpha coefficient,
-as well as item analysis based on the change in
-alpha if each item was removed.

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Primary ^jj+atrb+++=Primary
+outcomes ^nns+++??+=outcomes:
+: ^zz++++=EXTRAWORD
+mortality ^nn++++=mortality
+rate ^nn++++=rate;
+; ^zz++++=EXTRAWORD
+length ^rb++++=length
+of ^in++++=of
+hospital ^npl++++=hospital
+stay ^vb++++=stay;
+; ^zz++++=EXTRAWORD
+disease ^nn++++=disease
+severity ^nn++++=severity.
+. ^zz++++=EXTRAWORD

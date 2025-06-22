@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Topical ^jj+atrb+++=Topical
+opioids ^nns+++??+=opioids,
+, ^zz++++=EXTRAWORD
+topical ^jj+atrb+++=topical
+anesthetics ^nns++++=anesthetics,
+, ^zz++++=EXTRAWORD
+and ^cc+cls+++=and
+medicinal ^np+nom+++=Medicinal
+cannabis ^np++++=Cannabis
+were ^vbd+bed+vrb++=were
+categorized ^jj+pred+++=categorized
+within ^in++++=within
+analgesic ^jj+atrb+++=analgesic
+drugs ^nns++++=drugs.
+. ^zz++++=EXTRAWORD

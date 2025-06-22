@@ -1,0 +1,19 @@
+The ^ati++++=The
+research ^nn++++=research
+question ^nn++++=question
+was ^vbd+bedz+aux++=was
+chosen ^vpsv++agls+xvbnx+=chosen
+in ^in++++=in
+collaboration ^nn++++=collaboration
+with ^in++++=with
+Bruna ^np+++??+=Bruna
+Erlandsson ^np+++??+=Erlandsson
+And ^cc++++=and
+Ana ^np++++=Ana
+Marlene ^np++++=Marlene
+Morais ^np++++=Morais,
+ ^zz++++=EXTRAWORD
+From ^in++++=from
+Linceu ^np++++=Linceu
+Editorial ^nn++++=Editorial.
+ ^zz++++=EXTRAWORD

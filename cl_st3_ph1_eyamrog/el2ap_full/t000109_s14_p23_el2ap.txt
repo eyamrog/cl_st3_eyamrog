@@ -1,5 +1,0 @@
-As described above, public transportation also has its specific capacity,
-but there is a probability of close contact, which is
-modulated by the Ha's observance of mask use and social
-distancing (as it occurs in any other location of the
-model).

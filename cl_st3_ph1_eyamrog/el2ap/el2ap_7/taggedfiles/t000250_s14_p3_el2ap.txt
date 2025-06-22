@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+The ^ati++++=The
+co ^nn++++=co-primary
+- ^zz++++=EXTRAWORD
+primary ^jj+atrb+++=EXTRAWORD
+outcomes ^nns+++??+=outcomes
+were ^vbd+bed+vrb++=were
+symptoms ^nns++++=symptoms
+of ^in++++=of
+depression ^nn++++=depression
+and ^cc++++=and
+anxiety ^nn++++=anxiety
+and ^cc++++=and/or
+these ^dt+dem+++=these
+cooccurring ^nn++++=cooccurring
+together ^rb++++=together.
+. ^zz++++=EXTRAWORD

@@ -1,0 +1,25 @@
+My ^pp$+pp1+++=My
+greatest ^jjt+atrb+++=greatest
+learning ^nvbg+vprv++xvbg+=learning
+was ^vbd+bedz+vrb++=was
+the ^ati++++=the
+look ^nn++++=look
+of ^in++++=of
+a ^at++++=a
+researcher ^nn++++=researcher.
+. ^zz++++=EXTRAWORD
+( ^zz++++=(USResearcher
+usresearcher ^nn+++??+=EXTRAWORD
+14 ^cd++++=14,
+, ^zz++++=EXTRAWORD
+Questionnaire ^nn++++=Questionnaire,
+ ^zz++++=EXTRAWORD
+021 ^cd++++=2021.
+ ^zz++++=EXTRAWORD
+Emphasis ^nn++++=emphasis
+Added ^vbd+vpub++xvbn+=added
+By ^in++++=by
+The ^ati++++=the
+Authors ^nns++++=authors).
+	 ^zz++++=EXTRAWORD
+ ^zz++++=EXTRAWORD

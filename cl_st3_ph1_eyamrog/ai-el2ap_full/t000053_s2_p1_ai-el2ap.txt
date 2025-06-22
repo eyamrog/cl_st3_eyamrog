@@ -1,2 +1,0 @@
-We would like to acknowledge Clara Baringo Fonseca for her
-assistance in preparing the Darwin Core spreadsheet.

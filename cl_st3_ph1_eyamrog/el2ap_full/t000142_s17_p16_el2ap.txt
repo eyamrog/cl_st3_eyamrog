@@ -1,2 +1,0 @@
-Equation 6 can be reorganized using the first-order Taylor expansion,
-and it can be written as Equation7;

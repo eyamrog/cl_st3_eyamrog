@@ -1,16 +1,14 @@
-The evolutionary effects \( m_{ij}(t) \) and \( v_{ij}(t) \),
+The evolutionary effects A and B,
 which represent the magnitude of trait change resulting from mutualistic
 and cheating interactions, respectively, are defined as the relative effect
-of species \( j \) on species \( i \),
-such that \( m_{ij}(t) = a_{mij} q_{ij}(t) \) and \(
-v_{ij}(t) = a_{vij} q_{ij}(t) \). Here, \( a_{mij} \) and
-\( a_{vij} \) indicate the presence of a mutualistic or
-cheating interaction between species \( i \) and \( j
-\), respectively. The term \( q_{ij}(t) \) is defined as
-\( q_{ij}(t) = \frac{\exp[-\alpha(z_j(t) - z_i(t))^2]}{\sum_{k \neq i} a_{ik} \exp[-\alpha(z_k(t)
-- z_i(t))^2]} \), where the parameter \( \alpha \) determines
+of species C on species D,
+such that E = F and G = H. Here, I and
+J indicate the presence of a mutualistic or
+cheating interaction between species K and L
+, respectively. The term M is defined as
+N = O, where the parameter P determines
 the sensitivity of the evolutionary effect to trait matching between
-species \( i \) and \( j \), and \(
-a_{ik} = 1 \) if there is a mutualistic or
-cheating interaction between \( i \) and \( k \),
-and \( a_{ik} = 0 \) otherwise.
+species Q and R, and S
+ if there is a mutualistic or
+cheating interaction between T and U,
+and V otherwise.

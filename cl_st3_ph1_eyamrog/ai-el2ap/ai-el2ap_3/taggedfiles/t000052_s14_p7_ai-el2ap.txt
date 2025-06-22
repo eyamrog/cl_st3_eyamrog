@@ -1,0 +1,23 @@
+Type ^nn++++=Type
+specimens ^nns++++=specimens
+were ^vbd+bed+aux++=were
+deposited ^vpsv++agls+xvbnx+=deposited
+in ^in++++=in
+the ^ati++++=the
+helminthological ^jj+atrb+++=helminthological
+collection ^nn+nom+++=collection
+of ^in++++=of
+the ^ati++++=the
+Royal ^jj+atrb+++=Royal
+Museum ^nn++++=Museum
+for ^in++++=for
+Central ^jj+atrb+++=Central
+Africa ^np++++=Africa
+ ^zz++++=(MRAC)
+Mrac ^np++++=EXTRAWORD
+	 ^zz++++=EXTRAWORD
+In ^in++++=in
+Tervuren ^np++++=Tervuren,
+ ^zz++++=EXTRAWORD
+Belgium ^np++++=Belgium.
+ ^zz++++=EXTRAWORD

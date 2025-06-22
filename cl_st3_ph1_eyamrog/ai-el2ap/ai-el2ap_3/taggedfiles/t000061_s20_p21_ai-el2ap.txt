@@ -1,0 +1,32 @@
+In ^in++++=In
+regular ^jj+atrb+++=regular
+classes ^nns++++=classes,
+, ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I
+observed ^vbd+vprv+tht0+xvbnx+=observed
+a ^at++++=a
+significant ^nn++++=significant
+disconnect ^vb++++=disconnect
+between ^in++++=between
+teachers ^nns+nom+++=teachers
+and ^cc++++=and
+the ^ati++++=the
+student ^nn++++=student
+training ^nn++++=training
+process ^nns+nom+++=process.
+. ^zz++++=EXTRAWORD
+( ^zz++++=(USResearcher
+usresearcher ^jjr++++=EXTRAWORD
+13 ^cd++++=13,
+, ^zz++++=EXTRAWORD
+Questionnaire ^nn++++=Questionnaire,
+ ^zz++++=EXTRAWORD
+021 ^cd++++=2021,
+ ^zz++++=EXTRAWORD
+Emphasis ^nn++++=emphasis
+Added ^vbd+vpub++xvbn+=added
+By ^in++++=by
+The ^ati++++=the
+Authors ^nns++++=authors).
+	 ^zz++++=EXTRAWORD
+ ^zz++++=EXTRAWORD
