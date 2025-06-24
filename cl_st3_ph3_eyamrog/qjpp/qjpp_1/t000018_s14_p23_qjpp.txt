@@ -1,0 +1,13 @@
+OCT sections (10 µM thickness) were incubated in blocking buffer
+(PBS1X, 5% goat serum, 2% FCS and human FcBlock, Miltenyi)
+with unconjugated primary antibodies (PDPN, PDGFRa, ABCA8), conjugated primary antibodies
+(THY1, NE, PECAM1, MCAM) or biotinylated (FAP) overnight at 4
+°C. The following day, either AF488 donkey anti-rat, AF647 donkey
+anti-goat, AF555 donkey anti-rabbit or strepatividin-AF568 was applied for 1
+h at room temperature in blocking buffer. Finally, nuclei were
+stained with Hoechst 28332 (Life Technologies) for 15 min at
+room temperature in blocking buffer and mounted in ProlongGold mounting
+medium (Life Technologies) before imaging with the spectral detector of
+a Zeiss confocal LSM 880 microscope. Images were processed and
+converted to TIFF format in Image J. All antibodies used
+for immunohistochemistry can be found in Supplementary Table 10 .

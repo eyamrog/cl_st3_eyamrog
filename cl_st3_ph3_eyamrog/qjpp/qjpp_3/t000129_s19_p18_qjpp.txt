@@ -1,0 +1,20 @@
+We now sought to dissect the later embryonic limb situation
+where Zfp42R genes remain inactive, despite contacting Fat1 and its
+distal limb (dl) enhancers in a shared intact TAD. LADs
+are compacted heterochromatin domains known to repress transcription ( Leemans
+et al., 2019 78. Leemans, C. ∙ van der Zwalm,
+M.C.H. ∙ Brueckner, L. ... Promoter-intrinsic and local chromatin features
+determine gene repression in LADs Cell. 2019; 177 :852-864.e14 Full
+Text Full Text (PDF) Scopus (59) PubMed Google Scholar ;
+Ou et al., 2017 105. Ou, H.D. ∙ Phan, S.
+∙ Deerinck, T.J. ... ChromEMT: visualizing 3D chromatin structure and
+compaction in interphase and mitotic cells Science. 2017; 357 :eaag0025
+Crossref Scopus (436) PubMed Google Scholar ; Robson et al.,
+2016 118. Robson, M.I. ∙ de Las Heras, J.I. ∙
+Czapiewski, R. ... Tissue-specific gene repositioning by muscle nuclear membrane
+proteins enhances repression of critical developmental genes during myogenesis Mol.
+Cell. 2016; 62 :834-847 Full Text Full Text (PDF) Scopus
+(104) PubMed Google Scholar ). Accordingly, we reasoned that the
+LAD environment of Zfp42R inactivates its genes in limbs, either
+by direct repression or by indirectly blocking communication with Fat1
+enhancers.

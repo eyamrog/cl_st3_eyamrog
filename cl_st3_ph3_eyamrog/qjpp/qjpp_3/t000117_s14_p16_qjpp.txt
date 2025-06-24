@@ -1,0 +1,14 @@
+Thirsty mice were trained to perform a reward-seeking task, in
+which a sound (CS, 1 s in duration) predicted that
+a 200-mM sucrose solution (US) would be available for the
+mice to consume from a spout, but only if the
+mice licked the spout during a response window (2 s
+in duration) following CS presentation. Such trials were counted as
+“hit” trials. To assess how changes in thirst state influence
+behavioral and neural activity, we first conducted one session of
+the imaging experiment on mice performing the task in a
+thirsty state. Each mouse acquired 8 μl of the sucrose
+solution in every hit trial. At the end of the
+first session, we provided each of the mice with 2
+mL of the sucrose solution. We then conducted a second
+session of imaging on these mice (which were all quenched).

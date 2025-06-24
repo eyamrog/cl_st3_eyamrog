@@ -1,0 +1,11 @@
+Fig. 1 does show that ED visits by children aged
+between six and eight, who are not eligible for the
+under-six GP visit card, also increased in the post-policy period.
+When children aged under nine but over five were assessed
+as a placebo treatment group and measured against children aged
+nine and over (Appendix: Table S3 ), a small positive
+effect on the visitation rate was identified, and this effect
+was only significant for the regional hospitals. There was no
+overall effect for this cohort on the marginal probability of
+a visit being GP referred, though an effect was identified
+for D1 (0.014*) and D3 (0.012**).

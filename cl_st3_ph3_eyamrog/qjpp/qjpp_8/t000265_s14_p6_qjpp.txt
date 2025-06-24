@@ -1,0 +1,9 @@
+While our main model in (1) presents effect estimates of
+the deductible increase in absolute terms, i.e. in percentage point
+(pp) changes, we also calculate relative effect sizes by dividing
+δ ˆ by the average mental health care use at
+228 months - the first full deductible observation. A g
+e * i t m is centered at 228 months.
+We estimate all models separately by gender to account for
+different age and time trends in mental health services utilisation.
+All models present clustered standard errors at the individual level.

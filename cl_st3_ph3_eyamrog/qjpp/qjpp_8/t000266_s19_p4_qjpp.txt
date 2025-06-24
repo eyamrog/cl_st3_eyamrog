@@ -1,0 +1,23 @@
+The anchored domain level utility weights are presented in Fig.
+3 (suppl. material, Table A4 shows the 95% CI). By
+construction, the estimated domain level weights are logically consistent within
+all nine well-being domains and non-positive. Two levels failed to
+reach statistical significance (i.e., the second-best levels of ‘acceptance &
+resilience’ and ‘making ends meet’). The strongest decrements were found
+for ‘mental health’ (−0.329), ‘physical health’ (−0.302) and ‘making ends
+meet’ (−0.248), followed by ‘independence’ (−0.157) and ‘living environment’ (−0.147).
+‘Social life’, ‘receiving support’, ‘acceptance and resilience’, and ‘feeling useful’
+were generally perceived as less important for well-being. The theoretical
+spread of the WOOP utility ranges from −0.616 (worst possible
+state) to 1 (best possible state). The estimated discount rate
+was 0.173, considerably larger than has been found in a
+related general population study (0.057) ( Jonker et al., 2018a
+). A higher discount rate may relate to a lower
+remaining life expectancy among older people. Jonker et al. (2018a)
+also found that people with more severe health problems had
+a higher discount rate, thus finding this higher discount rate
+for older people, who tend to have more, and more
+severe health problems, is not completely unexpected. Download: Download high-res
+image (314KB) Download: Download full-size image Fig. 3 . Utilities
+weights of the WOOP domain levels, with level 1 (excellent)
+as reference category.

@@ -1,0 +1,23 @@
+One strength of this analysis is that when analysed separately,
+the findings from the Million Women Study and UK Biobank
+were similar, even though their characteristics were different and the
+questionnaires used to assess social isolation were slightly different. Participants
+in the Million Women Study were asked about any contact
+with others (by email, phone, and in person), whereas UK
+Biobank participants were asked only about visiting or having a
+visit from family or friends in person. Participants included in
+the Million Women Study were all women and were about
+a decade older than UK Biobank participants and more likely
+to live alone. Other strengths include the prospective design of
+both studies, which reduces the risk of recall bias, and
+the adjustment for the most relevant confounders. A further strength
+is the large number of events that occurred during follow-up
+in both studies, which provided adequate power to compare the
+risks of fatal and non-fatal coronary heart disease and stroke
+events associated not only with different levels of social isolation,
+but also with different components of the social isolation index.
+A limitation of our analyses was that around 10% of
+UK Biobank participants might have also been included in the
+Million Women Study; however, although it was not possible to
+identify the overlapping individuals, this relatively small duplication would likely
+have had little effect on the main findings.

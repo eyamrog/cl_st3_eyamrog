@@ -1,0 +1,7 @@
+I test the theoretical expectations outlined earlier (i.e., H1–H5, and
+RQ1) by constructing an OLS regression model that regresses respondents’
+vaccination intentions on their assignments to each level of each
+attribute, for each rating task. These data are structured in
+“long” format, such that each row corresponds to one of
+six rating tasks completed by each respondent (i.e., the unit
+of observation is each rating task).

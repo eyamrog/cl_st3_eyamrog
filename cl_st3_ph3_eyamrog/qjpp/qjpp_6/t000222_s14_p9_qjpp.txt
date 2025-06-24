@@ -1,0 +1,25 @@
+Intraspecific static allometry was explored in the adult sample of
+each species through Procrustes analyses of variance with permutation procedures
+(aim 6). To assess if sex should be considered when
+adjusting for allometry, we tested three regression models for each
+species separately: one including only size (shape ∼ size), a
+second including size and sex (shape ∼ size + sex),
+and a third including size, sex, and the interaction between
+size and sex (shape ∼ size ∗ sex). Based on
+the lowest Akaike information criterion values, showing which model fits
+the data best, the first regression model including only size
+was chosen for all species. Further analyses were performed for
+those species with a significant size-shape regression. Allometric effects were
+explored by predicting and then comparing the maxillary shape of
+the smallest and largest centroid size for each species using
+the size-shape regressions. To investigate how static intraspecific allometry impacts
+shape comparisons between two taxa, we obtained the allometrically adjusted
+shapes by scaling all specimens to the same mean natural
+logarithm of centroid size using the species-specific size-shape regressions. When
+comparing two species, this mean natural logarithm of centroid size
+was calculated by taking the mean of the two species
+mean sizes. When comparing two genera, the mean size of
+each genus was first calculated from their respective species, followed
+by calculating the overall generic mean. A PCA was performed
+on the allometrically adjusted shapes and the results were compared
+with the PCA of isometrically adjusted Procrustes shapes.

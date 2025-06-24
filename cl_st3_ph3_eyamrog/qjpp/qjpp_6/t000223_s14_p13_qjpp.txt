@@ -1,0 +1,8 @@
+The total dose rate to sand-sized grains of quartz and
+feldspar comprises external contributions from beta, gamma, and cosmic radiation,
+plus an internal dose rate due to radioactive inclusions. An
+internal dose rate of 0.02 ± 0.01 Gy.ka −1 was
+conservatively assumed for the quartz fraction. For K-feldspars, the K
+and Rb content was assumed to be 12.5 ± 0.5%
+and 400 ± 100 ppm, respectively, as suggested by Huntley
+and Baril (1997) and Huntley and Hancock (2001) .

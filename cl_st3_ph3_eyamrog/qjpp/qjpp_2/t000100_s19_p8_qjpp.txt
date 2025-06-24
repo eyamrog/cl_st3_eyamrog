@@ -1,0 +1,23 @@
+We next assessed if the proportions of SARS-CoV-2-reactive CD4 +
+T cells in any cluster were greater or lower in
+hospitalized COVID-19 patients when compared to non-hospitalized patients. Unsupervised clustering
+of patients, based on the proportions of SARS-CoV-2-reactive CD4 +
+T cells in different clusters, showed that patients with an
+increased proportion of T FH cells in cluster 0 clustered
+distinctly from those with increased proportions of T FH cells
+in cluster 5 or CD4-CTL cells (cluster 6) ( Figure
+3 A). The total frequency of SARS-CoV-2-reactive CD4 + T
+cells with a T FH profile (cluster 0, 5, and
+7) was not significantly different between hospitalized and non-hospitalized COVID-19
+patients ( Figure 3 B). However, the relative proportion of
+T FH cells in cluster 5 was significantly greater in
+hospitalized patients (severe disease) compared to non-hospitalized patients (mild disease),
+and the inverse was observed for the proportion of T
+FH cells in cluster 0 ( Figures 3 C and
+S3 A and Table S2 B). This pattern was maintained
+irrespective of whether the patients’ samples were analyzed early (<
+3 weeks from symptom onset) or later (> 3 weeks)
+in the course of illness ( Figure S3 B). Notably,
+the proportion of T FH cells in cluster 7 was
+not significantly different between hospitalized and non-hospitalized COVID-19 patients (
+Figure S3 C).

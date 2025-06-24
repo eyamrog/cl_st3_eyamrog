@@ -1,0 +1,9 @@
+Another algorithmic feature adopted by several top-performing teams was to
+apply automated label cleaning, where samples considered as erroneously graded
+by the pathologists were either excluded from training or relabeled.
+Several teams indicated the label noise associated with the subjective
+grading assigned by pathologists as a key problem, and tackled
+it by algorithms that detect samples where the reference standard
+deviates considerably from the predictions of the model. Label denoising
+was then typically applied iteratively to refine the labels more
+aggressively as the model’s performance improved during training.

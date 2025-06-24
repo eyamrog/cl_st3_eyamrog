@@ -1,0 +1,17 @@
+In sum, by looking at frequencies synchronically and diachronically and
+exploring cross-category differences, it is possible to offer initial hypotheses
+for the observed differences in frequency. However, this approach clearly
+offers only part of the explanation, as by focusing on
+normalized frequencies, it is implicitly assumed that each word could
+potentially be substituted with any of the amplifiers in focus.
+Such a model is clearly unrealistic, although it does serve
+as a rough-and-ready indication of differences in discourse function, especially
+since determining the true rate of variation is difficult and
+laborious (see e.g., the discussion in Wallis, Bowie & Aarts
+2012 ). Given that simple frequency analysis has these shortcomings,
+it is useful to complement it with the analysis of
+co-occurrence preferences, as doing so enables us to determine to
+what extent the frequency of intensifier is driven by specific
+lexical items that co-occur with particular intensifiers ( Wagner 2017
+; Schweinberger 2020 ). This approach is explored in the
+following section.

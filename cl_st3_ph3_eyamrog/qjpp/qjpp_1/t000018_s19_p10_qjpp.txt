@@ -1,0 +1,7 @@
+In silico cell type deconvolution showed that M4 and M5
+were predominantly associated with stromal cells including fibroblasts and granulocytes,
+such as neutrophils (Extended Data Fig. 2b ). Projection of
+modules M4 and M5 onto single-cell transcriptomic datasets derived from
+inflamed and noninflamed CD and UC patient tissue suggested that
+module M4 reflects the presence of ‘activated/inflammatory fibroblasts’ whereas module
+M5 reflects ‘myeloid cells/inflammatory monocytes’ (Fig. 3a,b ).

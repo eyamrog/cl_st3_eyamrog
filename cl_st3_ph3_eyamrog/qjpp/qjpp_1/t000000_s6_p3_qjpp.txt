@@ -1,0 +1,15 @@
+We estimate that the greatest reductions in infection and mortality
+are associated with vaccine sharing earlier in the pandemic, with
+less extensive or delayed strategies presenting more modest benefits. In
+our model, given the high transmissibility of SARS-COV-2 infection, countries
+without high and early vaccine coverage are likely to rapidly
+incur high infection levels and, hence, substantial population immunity; as
+such, the effects of late vaccine sharing to these countries
+are much reduced. In addition, due to limited delivery capacities
+and increasing public distrust of vaccination , starting vaccination earlier
+may have led to more successful vaccination campaigns in general.
+However, with increasing transmission and possible immune escape from new
+variants and the risk of waning efficacy, vaccine sharing remains
+important: our model suggests that even late vaccine sharing, once
+wealthy countries had delivered all second doses, would have seen
+sizeable benefits in late 2021 and into 2022.

@@ -1,0 +1,8 @@
+The TCR2 element was found to be a miniature inverted-repeat
+TE (MITE) and ranged from 672 to 1,235 bp, likely
+originated from the DNA transposon MuDR with shared similarity (up
+to 97%) in the terminal inverted repeats. All 158 full-length
+TCR2 elements identified in the R. pubera genome were in
+Tyba arrays, but none were characterized by Tyba insertions. Thus,
+TCR2 elements did not contribute to the dispersal of Tyba
+in the R. pubera genome.

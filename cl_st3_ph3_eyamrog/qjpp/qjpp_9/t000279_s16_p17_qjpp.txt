@@ -1,0 +1,6 @@
+Human propensity is the most interesting category due to its
+frequency, courtroom importance, and semantic diversity. It can be further
+subclassified into mental state, overall physical/inherent constitution, and human behavior
+(see Table 6 ). Interestingly, mental state is by far
+the most modified (74 percent of tokens), as in (18),
+followed by behavior (19 percent of tokens), as in (19).

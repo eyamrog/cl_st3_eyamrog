@@ -1,0 +1,24 @@
+In order to capture SARS-CoV-2-reactive CD4 + T cells that
+may not upregulate the activation markers (CD154 and CD69) after
+6 h of in vitro stimulation with SARS-CoV-2 peptide pools,
+we stimulated PMBCs from the same cultures for a total
+of 24 h (see STAR Methods ) and captured cells
+based on co-expression of activation markers CD137 (4-1BB) and CD69,
+a strategy that allowed us to additionally capture antigen-specific regulatory
+T cells (T REG ) ( Bacher et al., 2016
+5. Bacher, P. ∙ Heinrich, F. ∙ Stervbo, U. ...
+Regulatory T Cell Specificity Directs Tolerance Versus Allergy against Aeroantigens
+in Humans Cell. 2016; 167 :1067-1078.e16 Full Text Full Text
+(PDF) Scopus (228) PubMed Google Scholar ) ( Figures 5
+A and S5 A). Our analysis of a total of
+38,519 single-cell CD4 + T cell transcriptomes revealed 6 distinct
+clusters ( Figures 5 A–5C and Tables S5 A–S5C). The
+T FH subset (cluster D) was detectable at relatively lower
+frequencies in the 24 h condition, though they represented the
+major CD4 + T cell subsets in the 6 h
+stimulation condition ( Figures 2 A and 5 A). Consistent
+with delayed kinetics of activation of central memory T (T
+CM ) cells, we identified a higher proportion of CD4
++ T cells expressing transcripts linked to central memory cells
+( CCR7 , IL7R , and TCF7 ) (cluster C)
+( Figures 2 A, 5 A, and 5C).

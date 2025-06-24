@@ -1,0 +1,9 @@
+In addition, some potential factors require further study. Accessibility is
+related to language processing, which affects imn / omn alternation.
+Zhang (2018) used accessibility theory to explain the DPs’ distribution.
+Moreover, other factors affecting accessibility include: the length of head
+np s and rc s, number of head np s’
+modifiers, distance between the head np s and the relativised
+np s, and whether the head np s are necessary
+arguments. The head np s’ lengths and rc s are
+studied in this paper.

@@ -1,0 +1,17 @@
+Incisors The Boxgrove incisors were scanned using microcomputed tomography (μCT)
+with the HMX-ST 225 CT System (Nikon Metrology, Tring, UK)
+housed at the Imaging and Analysis Centre, Core Research Laboratories,
+at the Natural History Museum (London, UK) (see SOM S1
+for details about the scanning parameters used for each sample).
+The fossil teeth from Atapuerca TD6 and SH were scanned
+with the Scanco Medical AG Micro-Computed Tomography 80, at the
+Microscopy and Micro Tomography Laboratory at CENIEH (Burgos, Spain). The
+RMH sample (Universidad Complutense de Madrid) was scanned using an
+X-ray ICTP-ELETTRA MicroCT system at the Multidisciplinary Laboratory of the
+International Centre for Theoretical Physics (ICTP) in Trieste, Italy. The
+Neanderthal sample was sourced from NESPOS databases ( Weniger et
+al., 2005 ). Image stacks were imported into Avizo v.
+7 (Thermo Fisher Scientific, Waltham) to create 3D models that
+allow for a semiautomatic threshold-based segmentation and minor manual editing
+to separate the different dental tissues (enamel, dentine, and pulp
+cavity).

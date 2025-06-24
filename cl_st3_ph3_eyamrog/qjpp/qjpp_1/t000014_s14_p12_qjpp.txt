@@ -1,0 +1,16 @@
+PBMCs from blood samples of the first 50 and 30
+participants in the three-dose and two-dose regimen cohorts before and
+at 14 d after the booster were used to evaluate
+cellular immunity. PBMCs were isolated by Ficoll-Paque PLUS (Cytiva) density
+gradient centrifugation and cryopreserved before analysis. Peptide pools covering the
+full-length spike glycoprotein were prepared at a concentration of 2
+μg per well, and 100,000 cells per well were added
+to the plate. PBMCs were stimulated with the peptide pools,
+and T H 1-secreted cytokines (IFN-γ and TNF-α) and T
+H 2-secreted cytokines (IL-4, IL-5 and IL-13) were detected by
+the ELISpot assay (Mabtech) . Plates were scanned, and spots
+were counted on the Cellular Technology ImmunoSpot Analyzer. The ELISpot
+assay was developed and qualified for human serum at the
+laboratory of Vazyme Biotech. Each data point represents the normalized
+mean spot count from duplicate wells for one study participant
+after subtraction of the value of the unstimulated control.

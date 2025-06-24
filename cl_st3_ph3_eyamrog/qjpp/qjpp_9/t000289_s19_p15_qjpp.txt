@@ -1,0 +1,22 @@
+In 1939, have to is significantly more frequent in news
+reports. Because it reports on past events, the news genre
+makes particularly extensive use of its past tense form compared
+to editorials. Table 8 shows the frequencies of had to
+compared to those of present-tense have to and has to
+for each corpus. The past form had to is, unsurprisingly,
+comparatively overrepresented in the news. Seen in conjunction with the
+high frequency of must in editorials compared to news, it
+may be that the necessity for past tense forms in
+news reports fosters the use of have to as opposed
+to must (which may be preferred in present-tense contexts) in
+1939 and 1968. This is supported by the fact that
+in Table 8 , genre distinctions become insignificant by the
+2000s, signaling that the distribution of present and past have
+to does not depend on genre the way it did
+at the two earlier sampling points. Open in Viewer Table
+8 . Had to versus Present Tense Forms (Normalized per
+10,000 Words. Raw Frequencies in Parentheses) 1939 1968 2000s Total
+Past Present Past Present Past Present Past Present Editorials 0.83(5)
+2.00(12) 1.65(10) 6.11(37) 1.16(7) 5.13(31) 1.21(22) 4.42(80) News 3.66(44) 0.75(9)
+4.50(54) 0.92(11) 2.33(28) 4.33(52) 3.5(126) 2.00(72) p- value <0.001 <0.05
+<0.01 <0.0001 >0.05 >0.05 <0.0001 <0.0001

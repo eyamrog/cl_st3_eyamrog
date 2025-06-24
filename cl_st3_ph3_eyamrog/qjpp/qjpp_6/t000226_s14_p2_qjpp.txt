@@ -1,0 +1,8 @@
+The data reported in this study cannot be deposited in
+a public repository because they are held by the management
+group of the IAEA DLW database. The instructions to request
+access are available at https://doubly-labelled-water-database.iaea.org/dataAnalysisInstructions . Any additional information required
+to reanalyze the data reported in this article can be
+requested from the corresponding author upon request. For the syntax
+needed to reproduce results and figures presented in this article,
+see SOM S1 for the R script.

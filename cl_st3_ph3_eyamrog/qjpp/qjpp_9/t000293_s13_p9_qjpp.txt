@@ -1,0 +1,9 @@
+Some general observations can be made about the aforementioned learner
+corpora. First of all, most of the data used in
+the compilation of these corpora are written data, rather than
+spoken data. Second, the data contained in each corpus are
+collected from a fairly homogeneous group of participants (e.g., first-year
+students). Third, the data are mostly derived from timed output
+(e.g., classroom assignments and placement tests). Another shared feature of
+these corpora is that the corpus data are not annotated.
+10

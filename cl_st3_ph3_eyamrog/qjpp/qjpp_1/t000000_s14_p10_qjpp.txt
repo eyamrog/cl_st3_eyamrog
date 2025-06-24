@@ -1,0 +1,12 @@
+We make the assumption that all countries aim to eventually
+achieve vaccine coverage in all individuals from the age of
+12 and older, with a 90% uptake for those older
+than 60 years and 80% for those younger (although vaccine
+hesitancy may present substantial difficulty in achieving this in some
+nations). We also assume that an oldest-first approach to vaccine
+distribution is used in all nations, delivering vaccines to the
+most vulnerable first . Although deviation from this approach has
+been seen in some countries that have chosen to prioritize
+essential workers or key disease spreaders (including those, such as
+taxi drivers, in high-contact professions), the strategy of oldest-first is
+the most widely employed .

@@ -1,0 +1,17 @@
+The log-likelihood test was conducted for the token frequencies and
+the two corpora were found to be statistically different (LL=85.38,
+p < 0.0001). Simply put, the TRJPS articles employed more
+lexical bundles than the PJPS ones. This result seems to
+be consistent with a general observation made in the literature
+despite different methodological approaches, namely that formulaicity is often associated
+with more successful or expert writing (e.g., Cortes 2004 ;
+Hyland 2008b ; Pérez-Llantada 2014 ; Wang, 2018 ). However,
+the comparison based on the overall numbers of bundles should
+be treated with great caution as the results can be
+influenced by many factors including different corpus sizes as well
+as the lengths and topical diversity of individual texts (e.g.,
+Bestgen 2017 , 2020; Pan et al. 2020 ). Therefore,
+it would be too hasty to draw any conclusion about
+the differences or commonalities between the two corpora without an
+in-depth investigation of what types of bundles were used by
+the two sets of writers and how.

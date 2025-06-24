@@ -1,0 +1,22 @@
+A third and major area of focus for the multilevel
+approach has been the study of neighborhood effects on health.
+This field has encompassed a broad set of neighborhood-level constructs
+ranging from features of physical environments (such as access to
+resources and walkability) to social variables, including measures of neighborhood
+deprivation, segregation, and violence as well as constructs such as
+social cohesion or collective efficacy ( 33 ). Neighborhood health
+effects have received special attention because of their implications for
+so-called place-based interventions. Important challenges in this field of study
+have included the definition of the neighborhood (or, more precisely,
+the spatial context relevant to the process being studied), the
+measurement of neighborhood attributes, the appropriate time frame for expected
+effects, and causal inference challenges, especially challenges related to properly
+accounting for individual-level confounders ( 29 ). The field has
+evolved from initially simplistic approaches that attempted to isolate a
+contextual effect of neighborhood disadvantage to sophisticated longitudinal studies, including
+direct measurement of a broad range of neighborhood attributes and
+the use of improved analytical approaches to strengthen causal inferences
+( 18 , 28 , 34 ). Work in this
+area has also expanded to policy evaluation ( 20 ),
+randomized trials ( 20 ), and the use of systems
+modeling ( 6 ).

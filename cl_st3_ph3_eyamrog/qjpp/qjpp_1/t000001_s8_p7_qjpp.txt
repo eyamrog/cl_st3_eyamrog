@@ -1,0 +1,13 @@
+From the BPRF we computed a ROS, with a higher
+positive value corresponding to a higher average effect size across
+SBP values in the data-dense area between the 15th and
+85th percentile of SBP distribution in the data analyzed, and
+thus stronger evidence for the estimated relationship. For further interpretability
+we converted the ROS into a star rating, with one
+star indicating no relationship between risk and outcome and five
+stars indicating a large effect and strong evidence. The ROS
+offers a method for comparison of the strength of evidence
+for the effect of SBP on IHD with evidence for
+other risk factors and outcomes , and a robust approach
+to effective translation of scientific knowledge into strategic policies for
+prevention and control of hypertension.

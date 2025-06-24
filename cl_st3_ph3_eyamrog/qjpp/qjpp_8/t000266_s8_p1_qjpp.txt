@@ -1,0 +1,17 @@
+Health care , social care and long-term care spending is
+increasing worldwide ( Lorenzoni et al., 2019 ), propelled by
+the interaction of ageing populations , increased public expectations, and
+advances in medical technology ( de Meijer et al., 2013
+). In high income countries, health care spending in the
+age group above 65 years is already two to three
+times higher compared to spending in all other age groups
+combined ( Papanicolas et al., 2020 ). Therefore, the efficient
+use of scarce care resources, especially within this age group,
+is crucial. Health economic evaluations, like cost-utility analyses, are established
+tools to assess whether care services are offering value for
+money and, therefore, are worthwhile investing in. The results of
+such analyses guide policy makers in their endeavour to provide
+the best possible care from the available budget. So far,
+cost-utility analyses predominantly use quality-adjusted life-years (QALYs) as outcome measure,
+which combine health-related quality of life (HRQoL) with length of
+life ( Neumann et al., 2016 ).

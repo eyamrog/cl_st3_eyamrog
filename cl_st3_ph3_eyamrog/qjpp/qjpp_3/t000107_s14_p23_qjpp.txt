@@ -1,0 +1,22 @@
+Raw FASTQ files from RNaseq paired-end sequencing were aligned to
+the GRCm38/mm10 reference genome using Kallisto ( https://pachterlab.github.io/kallisto/ ). Sequencing
+reads were read in for 19357 genes and 8 samples.
+Genes with zero read count in more than three conditions
+were filtered out. 13628 genes remained after this step. Then,
+differential expression analysis was run using DESeq 2 package. The
+expression of 1440 genes were found to significantly differ between
+the two conditions at a BH corrected P value <
+0.05. GO enrichment analysis was performed using ClusterProfiler. The top
+20 most enriched pathways are shown in the plot. GSEA
+was performed using the Broad Institute software ( http://software.broadinstitute.org/gsea/index.jsp ).
+Enrichment scores were calculated by comparing sgCtrl to sgFli1 groups.
+T EX precursor gene signature was from Chen et al.
+(2019b) 14. Chen, Z. ∙ Ji, Z. ∙ Ngiow, S.F.
+... TCF-1-Centered Transcriptional Network Drives an Effector versus Exhausted CD8
+T Cell-Fate Decision Immunity. 2019; 51 :840-855.e5 Full Text Full
+Text (PDF) Scopus (85) PubMed Google Scholar . T EFF
+gene signature was from Bengsch et al. (2018) 6. Bengsch,
+B. ∙ Ohtani, T. ∙ Khan, O. ... Epigenomic-Guided Mass
+Cytometry Profiling Reveals Disease-Specific Features of Exhausted CD8 T Cells
+Immunity. 2018; 48 :1029-1045.e5 Full Text Full Text (PDF) Scopus
+(90) PubMed Google Scholar .

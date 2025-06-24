@@ -1,0 +1,12 @@
+The analysis concerns negative tags that consist of a negative
+auxiliary and personal pronoun (or there ) attached to an
+affirmative anchor clause, as in (14). Tags with an affirmative
+anchor clause and affirmative tag are outside the variable context.
+Negative tags with a negative anchor were excluded because they
+were infrequent ( N = 5) and were distinct from
+those with positive anchors in that they included tags with
+no or not placed after the pronoun ( does he
+no , have they not , aren’t they not )
+in addition to don’t they and innit . Invariant lexical
+tags (such as no ?) are also excluded. (14) It’s
+lush, isn’t it ? (MP/158, Tyneside)

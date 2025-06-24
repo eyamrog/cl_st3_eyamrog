@@ -1,0 +1,25 @@
+A final example in our sample involves the use of
+epigenetic clocks, which use measures of genome-wide methylation to gauge
+the pace of biological aging (Ryan, 2021 ), to racial/ethnic
+differences in outcomes like all-cause mortality and cardio metabolic disease
+(Horvath, 2013 ). In a highly cited article in our
+sample the authors remain cautious about the mechanisms by which
+“race/ethnicity and sex affect molecular markers of aging” (Horvath et
+al., 2016b : 171). At the same time, the study
+adopts several conventions that reify typological thinking around human population
+variation. Like much scholarship in this literature, the article relies
+on broad racial divisions (Caucasians, Hispanics, African Americans) and describes
+differences across these groups in largely typological terms, without devoting
+space to intra-population heterogeneities (e.g., “African Americans have been shown
+to have longer telomere lengths than Caucasians”; “Hispanics have a
+consistently lower IEAA compared to Caucasians”; “Tsimane have a lower
+intrinsic aging rate than Caucasians” (2016: 170). Because the epigenetic
+clock employed by this study was developed using methylation data
+derived from studies conducted primarily in European-descent populations, epigenetic age
+acceleration in all groups is gauged against this “universal” clock
+which is hence set as the norm from which others
+deviate (2016). The typological framings of this article were amplified
+in the popular media, with Hispanics portrayed not as an
+at-risk population but as the carriers of some anti-aging secret,
+a potential “fountain of youth” at the molecular level (Johnson,
+2016 ).

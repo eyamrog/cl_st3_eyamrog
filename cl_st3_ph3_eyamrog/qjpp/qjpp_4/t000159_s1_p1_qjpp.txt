@@ -1,0 +1,11 @@
+The present study investigated the relationship between birth size and
+activity patterns. One hundred and twenty-four adults wore accelerometers for
+7 days. Birth weight was adjusted for gestational age (AdjBW).
+The overall association between time spent in MVPA/day and AdjBW
+was not significant ( B = 5.64, p = .09).
+MVPA/day increased by 7.02 min ( p = .02) in
+participants 18–21 years ( N = 42) and decreased by
+10.8 min ( p = .02) in participants 22–40 years
+( N = 33) per unit increase in AdjBW. The
+effect of birth size on adult physical activity depends on
+age.

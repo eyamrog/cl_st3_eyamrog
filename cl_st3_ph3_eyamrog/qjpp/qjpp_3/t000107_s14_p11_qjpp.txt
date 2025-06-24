@@ -1,0 +1,8 @@
+CD8 + T cells were purified from spleens by negative
+selection using EasySep Mouse CD8 + T Cell Isolation Kit
+(STEMCELL Technologies) according to manufacturer’s instructions. Cells were stimulated with
+100 U/mL recombinant human IL-2, 1 μg/mL anti-mouse CD3ε, and
+5 μg/mL anti-mouse CD28 in RPMI-1640 medium with 10% fetal
+bovine serum (FBS), 10 mM HEPES, 100 μM non-essential amino
+acids (NEAA), 50 U/mL penicillin, 50 μg/mL streptomycin, and 50
+μM β-mercaptoethanol.

@@ -1,0 +1,14 @@
+We thank Sharon Schendel for editing the manuscript, and Dawid
+Zyla and Haoyang Li for help with model validation. We
+gratefully acknowledge our funding from National Institute of Allergy and
+Infectious Diseases (NIAID) U19 AI142790, Consortium for Immunotherapeutics against Emerging
+Viral Threats (E.O.S., C.W.D.), DARPA contract W31P4Q-14-1-0010 (C.W.D.), and U19AI109762
+(T.W.G). Use of the Stanford Synchrotron Radiation Lightsource, SLAC National
+Accelerator Laboratory, is supported by the U.S. Department of Energy,
+Office of Science, Office of Basic Energy Sciences under Contract
+No. DE-AC02-76SF00515. The SSRL Structural Molecular Biology Program is supported
+by the DOE Office of Biological and Environmental Research, and
+by the National Institutes of Health, National Institute of General
+Medical Sciences (P30GM133894). The contents of this publication are solely
+the responsibility of the authors and do not necessarily represent
+the official views of NIGMS or NIH.

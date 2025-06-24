@@ -1,0 +1,23 @@
+Consistent with previous studies ( Cirillo et al., 2020; Jain
+et al., 2016; Niewidok et al., 2018 20. Cirillo, L.
+∙ Cieren, A. ∙ Barbieri, S. ... UBAP2L Forms Distinct
+Cores that Act in Nucleating Stress Granules Upstream of G3BP1
+Curr. Biol. 2020; 30 :698-707.e6 Full Text Full Text (PDF)
+Scopus (0) PubMed Google Scholar 43. Jain, S. ∙ Wheeler,
+J.R. ∙ Walters, R.W. ... ATPase-Modulated Stress Granules Contain a
+Diverse Proteome and Substructure Cell. 2016; 164 :487-498 Full Text
+Full Text (PDF) Scopus (412) PubMed Google Scholar 68. Niewidok,
+B. ∙ Igaev, M. ∙ Pereira da Graca, A. ...
+Single-molecule imaging reveals dynamic biphasic partition of RNA-binding proteins in
+stress granules J. Cell Biol. 2018; 217 :1303-1318 Crossref Scopus
+(28) PubMed Google Scholar ), super-resolution live cell microscopy revealed
+the presence of micro-phases (“cores”) within SGs ( Figure 6
+G), which could provide insight into the rules governing phase
+miscibility. Since high-affinity UBAP2L complexes containing both FXR1 and G3BP
+are undetectable ( Figure 2 D), we hypothesized that the
+two dimeric nodes compete for available UBAP2L, with their relative
+stoichiometry critical for the observed mixed distribution in SGs by
+conventional confocal microscopy. Indeed, unlike UBAP2L, high ratios of FXR1
+to G3BP cause demixing within SGs, as detected by G3BP-enriched
+and -depleted regions in individual granules ( Figures 6 F
+and S7 A–S7C).

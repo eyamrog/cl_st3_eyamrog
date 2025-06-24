@@ -1,0 +1,11 @@
+Based on the major results, the tourism and travel variable
+is the key factor in the spread of the virus,
+regardless of region; however, the number of days since the
+first reported death is only weakly explained by this variable
+in the Americas. Moreover, the impact of regulation and transparency
+on the reported number of cases and deaths is significant
+and highly positive for both Europe and Africa. These findings
+not only reflect the importance of foreign travel restrictions and
+airport controls but also show that in Europe and Africa,
+more corrupt countries reported significantly fewer cases and deaths than
+countries in other regions.

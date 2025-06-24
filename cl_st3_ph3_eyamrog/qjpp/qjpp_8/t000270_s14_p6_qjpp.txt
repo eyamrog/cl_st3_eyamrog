@@ -1,0 +1,19 @@
+Disease dynamics and adaptive network dynamics are simulated in discrete
+time steps (for detailed pseudocode refer to Online appendix A
+– Additional model definitions , Process overview and scheduling ).
+At the start of each time step, the simulation updates
+the epidemiological state of the population. That is, for each
+agent in random order, we first determine its disease state.
+If an agent is susceptible, the likelihood of the agents
+to become infected is: (1) π i = 1 −
+( 1 − γ ) t i I , with
+γ being the probability to get infected per single contact
+and t i I the number of infected neighbors. If
+an agent is infected and has been infected for a
+fixed number of time steps ( τ ), the agent
+recovers. If an agent is recovered, the agent cannot get
+re-infected until the simulation run ends. Note that the random
+order ensures that all nodes get an equal chance to
+be processed first, as later processed agents may have an
+increased number of infectious neighbors than if they had been
+processed earlier.

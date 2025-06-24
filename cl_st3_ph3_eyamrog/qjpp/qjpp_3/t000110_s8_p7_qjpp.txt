@@ -1,0 +1,20 @@
+In this communication, we investigated the biological significance—using assays of
+infectivity and of antigenicity—of a set of 18 501Y.V2 lineage-related
+mutants. Our approach was based on construction of 18 pseudotyped
+viruses using the vesicular stomatitis virus (VSV)-pseudovirus system, and we
+generated a pseudotyped reference 614G variant as a control for
+the assays. We analyzed the infectivity of the pseudotyped viruses
+for multiple SARS-CoV-2-susceptible cell lines and for a panel of
+HEK293T cells expressing the ACE2 ortholog proteins from a total
+of 14 mammal species. We also profiled the antigenicity of
+the pseudotyped viruses to monoclonal antibodies, to SARS-CoV-2 convalescent sera,
+and to RBD immunize animal sera. We found that the
+501Y.V2 variants showed no increased infectivity for SARS-CoV-2-susceptible human cell
+lines; however, the 501Y.V2 variants were less susceptible to the
+neutralizing activity of antibodies compared to the 614G variant. Similar
+results have also been reported by Daming Zhou's group when
+tested 501Y.V2 against vaccine-induced and SARS-CoV-2-infected sera ( Zhou et
+al., 2021 45. Zhou, D. ∙ Dejnirattisai, W. ∙ Supasa,
+P. ... Evidence of escape of SARS-CoV-2 variant B.1.351 from
+natural and vaccine induced sera Cell. 2021; Full Text Full
+Text (PDF) Scopus (717) Google Scholar ).

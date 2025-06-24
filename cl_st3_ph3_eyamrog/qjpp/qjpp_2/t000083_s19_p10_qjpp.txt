@@ -1,0 +1,9 @@
+Spike-specific Th1 CD8+ cells were detected in 74 to 90%
+of the Ad26.COV2.S-primed recipients, as compared with levels of 10
+to 30% in mRNA-primed recipients. Booster immunization increased the response
+rate and amount of spike-specific CD8+ T cells in all
+groups, except for the Ad26.COV2.S-primed participants who received homologous Ad26.COV2.S
+boosting, in whom no appreciable change above the already high
+prebooster response was noted. The highest amounts of spike-specific CD8+
+T cells were observed in the Ad26.COV2.S-primed group, regardless of
+booster, both before boosting and at 15 days.

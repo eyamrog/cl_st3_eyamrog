@@ -1,0 +1,8 @@
+Learner corpus research has evolved remarkably over the past three
+decades, but in Korea it is still in its infancy
+compared with recent developments in corpus building and research methods
+around the world. In this paper, I introduced seven Korean-speakers’
+English learner corpora. I also reviewed learner corpus-based research articles
+published in two major Korean academic journals and identified some
+practical issues and problems related to corpus building practices and
+corpus research methods.

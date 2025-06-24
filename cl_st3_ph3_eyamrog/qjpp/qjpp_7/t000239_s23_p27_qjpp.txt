@@ -1,0 +1,13 @@
+The Y variable in Equation 1 is the Oxford University
+“Stringency Index,” which measures the extensiveness of lockdown provisions in
+a particular country across nine policy dimensions ( Hale et
+al. 2020 ). The Stringency Index here is taken at
+two separate dates, first at March 15, 2020, the point
+at which nearly every country worldwide had begun to institute
+some form of lockdown policy, but at a point where
+policies still differed wildly across countries (see Figure 1 for
+the distribution of the Index on that date). The second
+date is March 30, 2020, at which point the extent
+of the pandemic had become evident and where, theoretically, the
+leader’s own personality would be taking center stage beyond merely
+institutional mechanisms.

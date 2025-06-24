@@ -1,0 +1,5 @@
+Results: In the largest study of the phenomenon to date,
+I find that the testosterone ( n = 7290) and
+estradiol ( n = 3700) levels of left- and mixed-handed
+adults are no different to those of right-handers. All Bayesian
+95% highest density intervals contained 0.

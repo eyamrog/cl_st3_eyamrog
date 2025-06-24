@@ -1,0 +1,17 @@
+The instantaneous joint powers were computed at the j th
+joint over both the stance and swing phase of walking
+as the dot product of the j th joint moment
+and joint angular velocity vectors. Because the joint angles and
+joint moments were both expressed in the anatomically relevant but
+nonorthogonal joint reference frames, the moment and angular velocity vectors
+were both transformed into a common orthogonal reference frame before
+computing the dot product. This transformation is especially critical when
+the segments forming a joint are not closely aligned with
+the global reference frame, as in the abducted, flexed-limb walking
+of bipedal chimpanzees ( O'Neill et al., 2015 ). The
+hip, knee, and ankle powers were then multiplied by two
+to represent the work done by both limbs over a
+full stride: (1) W j + = 2 · ∫
+t 1 t 2 P j + d t (2)
+W j − = 2 · ∫ t 1 t
+2 P j - d t

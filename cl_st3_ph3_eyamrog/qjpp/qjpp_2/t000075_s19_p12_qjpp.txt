@@ -1,0 +1,20 @@
+Levels of proinflammatory markers, including cytokines, ferritin, and C-reactive protein,
+increased early after ide-cel infusion and decreased by month 1,
+with peak levels higher in patients having cytokine release syndrome
+of grade 3 or higher (Fig. S6). Baseline cytokine levels
+were not associated with higher-grade cytokine release syndrome or neurotoxic
+effects. Soluble BCMA was assessed as a serum-based universal marker
+of myeloma burden. Baseline sBCMA levels were elevated in treated
+patients and decreased rapidly after infusion in patients who had
+a response, with nadir values achieved within 3 months (
+Figure 3A and Fig. S5B and S5C). Achievement of undetectable
+sBCMA levels increased with depth of response (17 of 27
+patients [63%] with a partial response, 21 of 26 [81%]
+with a very good partial response, and 36 of 38
+[95%] with a complete or stringent complete response). Higher CAR+
+T-cell expansion (C max ) was associated with increased depth
+of sBCMA reduction. Time to rebound of sBCMA from undetectable
+levels was longest at the 450×10 dose (Fig. S5D). Duration
+of undetectable sBCMA correlated with response duration, and clearance of
+sBCMA at month 2 was associated with longer progression-free survival
+(Fig. S5E and S5F).

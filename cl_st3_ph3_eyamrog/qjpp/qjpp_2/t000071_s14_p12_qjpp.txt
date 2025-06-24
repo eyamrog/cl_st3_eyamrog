@@ -1,0 +1,15 @@
+An independent data and safety monitoring board externally reviewed the
+data after 25% and 50% of the participants had completed
+14 days of follow-up. Stopping guidelines were provided to the
+data and safety monitoring board with the use of a
+Lan–DeMets spending function analogue of the O’Brien–Fleming boundaries for the
+primary outcome. A conditional power analysis was performed at the
+second and third interim analysis with the option of early
+stopping for futility. At the second interim analysis on April
+22, 2020, the sample size was reduced to 956 participants
+who could be evaluated with 90% power on the basis
+of the higher-than-expected event rate of infections in the control
+group. At the third interim analysis on May 6, the
+trial was halted on the basis of a conditional power
+of less than 1%, since it was deemed futile to
+continue.

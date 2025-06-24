@@ -1,0 +1,18 @@
+Because drift periods were variable in length, our first step
+was to bin trials to ensure uniformity in our analyses
+across neurons. We downsampled trajectories to a predetermined number of
+points; the circular trajectory, individual loops of the helix and
+passes of the lemniscate path were all tiled to a
+length of 101 value space bins. Individual trials were then
+assigned to the appropriate value space bin. Mean neuronal rates
+during the behavioral epoch of interest were calculated for each
+bin by dividing the total number of spikes in that
+bin by the number of trials the subject spent within
+that bin. For all analyses, these mean rates were used.
+For visualization, activity was kernel-smoothed with Gaussian kernels (kernel s.d.
+of 1.2) across bins. Most of our analyses focused on
+the fixation epoch, defined as the 500 ms from the
+onset of fixation following the presentation of the fixation cue.
+We also analyzed the choice epoch, which was defined as
+100 to 600 ms following the onset of the pictures
+( Figure S3 ).

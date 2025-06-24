@@ -1,0 +1,15 @@
+T cells, B cells and plasmablasts were quantified from 100
+µl of heparinized whole blood as described previously using monoclonal
+antibodies towards CD3 (clone SK7, final dilution 1:25), CD19 (clone
+HIB19, 1:40), CD27 (clone L128, 1:200), CD38 (clone HB7, 1:20)
+and IgD (clone IA6-2, 1:33.3). T and B cells were
+identified among total lymphocytes by expression of CD3 and CD19,
+respectively. Plasmablasts were characterized by expression of CD38 among IgD
+CD27 CD19-positive switched-memory B cells. CD4 and CD8 T cells
+were quantified after additional staining of CD4 (clone SK3, 1:100)
+and CD8 (clone RPA-T8). Antibodies used are listed in Supplementary
+Table 2 . Analysis was performed on a BD FACSLyric
+flow-cytometer and BD FACSuite software v.1.4.0.7047, followed by data analysis
+using FlowJo software 10.6.2. The gating strategy is shown in
+Supplementary Fig. 1 . Absolute lymphocyte numbers were calculated based
+on differential blood counts.

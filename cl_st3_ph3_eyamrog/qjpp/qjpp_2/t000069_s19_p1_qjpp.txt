@@ -1,0 +1,6 @@
+The mean (±SE) weight of the lungs from patients with
+proven influenza pneumonia was significantly higher than that from patients
+with proven Covid-19 (2404±560 g vs. 1681±49 g; P=0.04). The
+mean weight of the uninfected control lungs (1045±91 g) was
+significantly lower than those in the influenza group (P=0.003) and
+the Covid-19 group (P<0.001).

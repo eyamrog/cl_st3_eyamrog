@@ -1,0 +1,12 @@
+At D8 p.i. with Cl13, CD8 + T cells were
+isolated from spleens of infected recipients. Male mice were used
+for these experiments. VEX + GFP + cells are sorted
+using FACS with > 95% purity. RNA was isolated using
+the QIAGEN RNeasy Micro Kit with 2 × 10 4
+cell per sample. cDNA libraries were generated using SMARTSeq V4
+Ultra Low kit. Libraries were quantified by qPCR using a
+KAPA Library Quant Kit (KAPA Biosystems). Normalized libraries were pooled,
+diluted to 1.8pg/ml loaded onto a TG NextSeq 500/550 Mid
+Output Kit v2 (150 cycles, 130M reads, Illumina) and paired-end
+sequencing was performed on a NextSeq 550 (Illumina). The estimated
+read depth per sample is 15M reads.

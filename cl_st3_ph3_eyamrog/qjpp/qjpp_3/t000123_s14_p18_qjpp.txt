@@ -1,0 +1,7 @@
+By placing the candidate RBH genes in the genomic syntenic
+blocks (pairwise WGAs between the gray short-tailed opossum and other
+species), we calculated the gene-in-synteny ratio for each gene (synteny-region-length/total-coding-region-length)
+and the syntenic ratio (syntenic length of the two genes/length
+of the shorter gene) in the coding regions. The RBH
+genes with gene-in-synteny ratio ≥ 0.3 and syntenic ratio ≥
+0.3 were considered to have syntenic evidence.

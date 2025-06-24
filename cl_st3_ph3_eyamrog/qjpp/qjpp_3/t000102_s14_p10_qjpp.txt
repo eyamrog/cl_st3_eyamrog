@@ -1,0 +1,6 @@
+For the hyperacetylation experiments, the cells were incubated for 24h
+in 100 nM TSA before they were used in live-cell
+experiments once they reached 60%–70% confluency. To inhibit the BRD-acetylated
+lysine interactions, JQ1 inhibitors was added at a concentration of
+2 mM to the cells 24 h before they were
+used in live-cell experiments.

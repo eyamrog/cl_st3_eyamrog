@@ -1,0 +1,15 @@
+The percentage distributions of the attitude questions were used to
+compute a composite score for each respondent based on a
+linear combination of the questions presented in Table 3 .
+The scores ranged between 1 and 5, with an overall
+mean and SD of 3.62 and 0.62, respectively. Any value
+above 3 (which represents a neutral attitude) was considered a
+favorable attitude or positive concern. It was noted that urban
+respondents had slightly better attitudes than rural residents ( Table
+5 ). Those with no education had a marginally lower
+score than literate respondents. The average attitude score was relatively
+low for farmers (3.44) compared with respondents in other job
+categories. Overall, there was not much difference between the sexes
+in their mean attitude score. In addition, the mean score
+for all categories was found to be marginally above the
+cutoff point.

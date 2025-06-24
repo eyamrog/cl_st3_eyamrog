@@ -1,0 +1,16 @@
+For mouse experiments, tissues were processed, single cell suspensions obtained,
+and cells were stained as described ( Wherry et al.,
+2003 95. Wherry, E.J. ∙ Teichgräber, V. ∙ Becker, T.C.
+... Lineage relationship and protective immunity of memory CD8 T
+cell subsets Nat. Immunol. 2003; 4 :225-234 Crossref Scopus (1371)
+PubMed Google Scholar ). Mouse cells were stained with LIVE/DEAD
+cell stain (Invitrogen) and antibodies targeting surface or intracellular proteins.
+Intracellular cytokine staining was performed after 5 hr ex vivo
+stimulation with GP 33-41 peptide in the presence of GolgiPlug,
+GolgiStop and anti-CD107a. After stimulation, cells were stained with surface
+antibodies, followed by fixation with Fixation/Permeabilization Buffer and then stained
+with intracellular antibodies for TNF, IFN-γ and MIP1α using Permeabilization
+Wash Buffer according to manufacturer’s instructions. Flow cytometry was performed
+with an LSRII. Cell sorting experiments were performed with a
+BD-Aria sorter, with 70-micron nozzle and a 4°C circulating cool-down
+system for sequencing, western and TIDE assays.

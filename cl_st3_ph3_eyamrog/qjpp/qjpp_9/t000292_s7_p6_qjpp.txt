@@ -1,0 +1,11 @@
+This annotated corpus is based on the Series I of
+the ‘Third Republic’, which stores the debate transcripts that took
+place in the Portuguese National Assembly since 1976, when the
+first democratically elected Parliament took seat, covering the full story
+of the Portuguese democracy. Thus, this corpus builds on the
+growing collection of parliamentary corpora at the European level (
+Marx and Schuth, 2010 ; Ogrodniczuk, 2012 ; Pražák and
+Šmídl, 2012 ; Abercrombie and Batista-Navarro, 2018 ; Nanni et
+al ., 2018 ; Hansen, 2018 ; and Wissik and
+Pirkir, 2018 ) and offers tools for discourse analysis and
+comparative studies at the national and international levels.

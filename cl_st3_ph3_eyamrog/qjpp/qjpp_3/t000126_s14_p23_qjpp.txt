@@ -1,0 +1,12 @@
+Potential sumoylation sites on SP140 protein were predicted and ranked
+through GPS-SUMO web interface tool http://sumosp.biocuckoo.org/index.php which is based off
+published algorithms ( Ren et al., 2009 60. Ren, J.
+∙ Gao, X. ∙ Jin, C. ... Systematic study of
+protein SUMOylation: development of a site-specific predictor of SUMOsp 2.0
+Proteomics. 2009; 9 :3409-3412 Crossref Scopus (213) PubMed Google Scholar
+; Zhao et al., 2014 77. Zhao, Q. ∙ Xie,
+Y. ∙ Zheng, Y. ... GPS-SUMO: a tool for the
+prediction of SUMOylation sites and SUMO-interaction motifs Nucleic Acids Res.
+2014; 42 :W325-W330 Crossref Scopus (373) PubMed Google Scholar ).
+Position 762 with a significant P-value was used for subsequent
+mutagenesis.

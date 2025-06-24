@@ -1,0 +1,25 @@
+Subjects performed a task in which they were required to
+choose between pairs of pictures ( Knudsen and Wallis, 2020
+34. Knudsen, E.B. ∙ Wallis, J.D. Closed-loop theta stimulation in
+the orbitofrontal cortex prevents reward-based learning Neuron. 2020; 106 :537-547.e4
+Full Text Full Text (PDF) Scopus (48) PubMed Google Scholar
+). Each picture had a value to the animal that
+was defined by the probability that its selection would be
+rewarded with juice. A single trial started with the presentation
+of a small, red fixation cue in the center of
+the screen. Subjects were required to fixate this cue for
+700 ms (‘Fixation’ epoch). Following fixation, either one (forced choice,
+20% of trials) or two (free choice, 80% of trials)
+pictures were presented at 8° of visual angle to the
+left or right of the fixation cue. Picture locations were
+randomized and counterbalanced, and forced choice trials were randomly interspersed
+with free choice trials. Subjects were free to visually inspect
+each available option and ultimately indicated their choice by maintaining
+fixation on the chosen picture for 425 ms. Following choice,
+a delay of 500 ms preceded the delivery of the
+outcome (reward/no reward). Trials were separated by a 2000 ms
+intertrial interval. Stimulus presentation and behavioral conditions were controlled using
+the MonkeyLogic toolbox ( Hwang et al., 2019 26. Hwang,
+J. ∙ Mitz, A.R. ∙ Murray, E.A. NIMH MonkeyLogic: Behavioral
+control and data acquisition in MATLAB J. Neurosci. Methods. 2019;
+323 :13-21 Crossref Scopus (53) PubMed Google Scholar ).

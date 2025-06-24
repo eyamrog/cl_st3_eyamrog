@@ -1,0 +1,18 @@
+As estimation depends on the use of an appropriate comparison
+group, sensitivity analysis was conducted (Appendix: Table S1 and S2
+) to determine if the removal of older children (aged
+12 and over) altered the results and neither the rate
+of attendance nor the marginal probability of a visit being
+a GP referral were significantly altered. The control group was
+further restricted to children aged six to eight. The overall
+estimated effect on visits remained positive, though the effect size
+reduced for R1 and increased for Dublin. GP referral estimates
+also remained consistent, although the effect for both R2 and
+D3 loses significance. To explore whether the effect of the
+policy might be largely attributable to children aged under two,
+this cohort were removed from the estimation sample. Results varied
+by hospital, with the estimate for R1 reducing substantially, a
+smaller decrease for R2, and with the effect on visits
+for Dublin showing a significant increase. There was no notable
+change in the marginal probability of a visit being GP
+referred.

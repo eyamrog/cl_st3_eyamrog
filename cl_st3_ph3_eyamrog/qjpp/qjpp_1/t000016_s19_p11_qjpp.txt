@@ -1,0 +1,4 @@
+For a summary and details on the individual algorithms see
+Supplementary Methods 7 and Supplementary algorithm descriptions . Most of
+the evaluated algorithms are available freely for research use (please
+see Supplementary algorithm descriptions for further details).

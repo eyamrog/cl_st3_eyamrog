@@ -1,0 +1,2 @@
+For the attitude scale, the ordinary least squares (OLS) regression
+model was applied using the following equation:

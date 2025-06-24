@@ -1,0 +1,13 @@
+While random forests provide a robust approach to modeling variable
+importance of non-normally distributed data, they do not provide easily
+accessible information on possible interaction among predictors. For this purpose,
+single conditional inference trees can be used. Like random forests,
+single ctrees make use of recursive partitioning, predicting outcomes on
+binary splits of the data (the nodes in the tree)
+and sorting them into maximally homogenous “bins” (the “leaves”). 5
+Conditional inference trees have been implemented in R’s partykit package
+( Strobl, Malley & Tutz 2009 ; available through R
+Development Core Team [2011]), with the maximum number of splits
+between the “root” and the “leaves” of the tree set
+to four and the significance level for the splits to
+p < 0.5.

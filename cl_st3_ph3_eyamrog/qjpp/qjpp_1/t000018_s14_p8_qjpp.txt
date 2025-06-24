@@ -1,0 +1,6 @@
+Normalized amounts of isolated RNA were reverse transcribed using a
+high-capacity reverse transcription kit (Thermo Scientific, no. 4368814). Quantitative real-time
+PCR (qPCR) was performed using premade, exon-spanning Taqman probes (LifeTechnologies)
+and run on a ViiA 7 Real-Time PCR system. Gene
+expression values, relative to the housekeeping gene(s) as indicated, were
+calculated using the 2 method.

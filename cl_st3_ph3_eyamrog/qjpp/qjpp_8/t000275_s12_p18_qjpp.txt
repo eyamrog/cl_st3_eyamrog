@@ -1,0 +1,23 @@
+Typically, the annotation of meta-data can be achieved via two
+methods: human judgement and automation, depending on the nature and
+availability of the meta-data. For example, whether a learning page
+mainly consists of videos, articles, audios, or discussion prompts may
+require researchers’ judgment because such data is not provided on
+the platform. In contrast, the annotation of the meta-data for
+the five units proposed above can be automatized because most
+of them can be extracted or calculated based on the
+data files provided by the MOOC providers ( Table 4
+). For other online discussions, it may well depend on
+the data provided via the application programming interface (API) or
+scraped directly from the webpages. Table 4 . Data provided
+by the MOOC providers Data Explanation id The id of
+the comment. author_id The user's id. parent_id The id of
+the post that the comment posted under. If there is
+a parent_id, the comment is a reply, if it is
+blank, it is either an initiating post or independent post.
+step The step where the comment is posted. week_number The
+week of the course where the comment is posted. step_number
+The learning page in the week where the comment is
+posted. text The comment. timestamp The date and time when
+the comment is posted. likes The number of likes the
+comment receives.

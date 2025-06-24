@@ -1,0 +1,12 @@
+It should be noted that learners do not always use
+tsukuru to express the same idea as their usage of
+make . This is because kubec English and Japanese data
+are not a direct mutual translation. According to Jiang’s (2000
+) study on L2 vocabulary acquisition, learners unconsciously use L1
+lexical meaning when they use L2 language. With respect to
+the kubec Japanese data, latent L1 influences the possibility of
+tsukuru collocations or the persistence of other semantically similar words
+when they use make , as shown in the two
+examples, above. Therefore, including these words along with tsukuru ,
+which is in a direct equivalence with make in the
+kubec Japanese data, is effective.

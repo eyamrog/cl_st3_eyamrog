@@ -1,0 +1,10 @@
+Fifth, all the data were collected retrospectively across the institutions
+and the general pathologist reviews were conducted in a nonclinical
+setting, without additional clinical information available at the time of
+review. Sixth, despite the international nature of our evaluation (in
+terms of both pathologists’ practice and data sources), the countries
+involved were predominantly white, and demographic characteristics were not available
+for all datasets in the present study. Further investigation is
+required to validate the use of AI algorithms in more
+diverse settings . Last, this study did not evaluate the
+algorithm grading’s association directly with radical prostatectomy or clinical outcomes.

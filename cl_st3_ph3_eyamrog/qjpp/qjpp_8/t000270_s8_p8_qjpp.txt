@@ -1,0 +1,18 @@
+Despite the advantages of social cohesion , we typically do
+not find fully connected networks. In addition to obvious reasons
+(spatial distance, too many people, personal sympathies), Jackson (2008) presents
+a process of consideration preceding the formation of contacts. He
+argues that while social ties provide benefits (e.g., emotional support
+, sense of belonging), there are also costs to maintain
+the relationships (e.g., time, effort). Thus, the answer to whether
+a social tie is formed or kept is a trade-off
+between the benefits from having the tie and the costs
+to maintain it. On the one hand, this trade-off creates
+tightly-knit clusters within our social networks that are limited in
+size. On the other hand, clusters are not disconnected from
+each other, but bridged by a few ties. Burt (1992)
+argues that bridging ties provide their own advantages such as
+access to and control of resources and information. Consequently, network
+properties, such as the number of relations, the degree of
+clustering, or average path length, depend on costs and benefits
+shaped by social context.

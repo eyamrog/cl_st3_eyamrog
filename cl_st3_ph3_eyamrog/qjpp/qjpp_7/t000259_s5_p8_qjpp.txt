@@ -1,0 +1,11 @@
+Given these limitations, future research may benefit from validating self-reported
+intention data with self-reported retrospective behavioral data, and by re-administering
+this study at several points in time. Researchers could, for
+example, re-contact participants in a study like the one presented
+in this paper (i.e., longitudinally), or by re-administering the experiment
+throughout the rollout of a new vaccine. If possible, efforts
+to then validate self-reported behaviors with actual evidence of vaccine
+uptake (e.g., providing respondents with cash incentives to provide photographic,
+redacted evidence of a receipt from a pharmacy; doctor's note;
+etc.) would further strengthen the validity of insights gleaned from
+this study.

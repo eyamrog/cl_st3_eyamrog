@@ -1,0 +1,4 @@
+The population means were derived from the samples included in
+this analysis (i.e., rather than a mean of the total
+population including adult individuals). The SG population mean was 1.021
+for Taï, 1.019 for Budongo, and 1.014 for LuiKotale.

@@ -1,0 +1,13 @@
+Fig. 1 shows the percentages of words that the sections
+account for in each corpus. As can be seen, the
+articles in the two corpora are quite similar in terms
+of Abstract, Introduction, and Conclusion. The Methods sections in the
+TRJPS articles, however, constitute a considerably larger proportion than that
+in the PJPS counterparts, which have longer Results and Discussion
+sections, instead. This suggests that the authors involved in the
+two corpora may tackle their articles somewhat differently: the authors
+of the latter in general devoted less attention to methodological
+issues while paying more emphasis on their results and discussion
+than did those of the former. Download: Download high-res image
+(178KB) Download: Download full-size image Fig. 1 . Proportions of
+the main sections in each corpus.

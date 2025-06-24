@@ -1,0 +1,8 @@
+Data extraction was based on six shell nouns ( fact
+, problem , thing , truth , trouble , and
+word ) that were attested with a text frequency of
+at least ten instances in the press section of COCA
+(see Hundt & Oppliger 2022 ). The retrieval algorithm made
+use of the shell noun directly followed by the copula
+in the present tense. The resulting concordance files were randomized
+and manually post-edited to exclude false positives.

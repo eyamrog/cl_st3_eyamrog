@@ -1,0 +1,12 @@
+This study was conducted as part of GBD 2020 (ref.
+). We used a meta-regression approach to analyze and interpret
+the available evidence to estimate the dose–response relationships between SBP
+and IHD, using a Bayesian regularized spline that captured the
+shape of the risk function from the data rather than
+imposing a log-linear relationship. We further improved accuracy by employing
+a robust, likelihood-based approach to detect and trim outliers, correcting
+for differences in exposure range across source studies and testing
+and controlling for bias related to study design. To complement
+the risk functions generated using this rigorous methodology, we also
+quantified between-study heterogeneity—a common source of bias in epidemiological studies—and
+used it to inform uncertainty.

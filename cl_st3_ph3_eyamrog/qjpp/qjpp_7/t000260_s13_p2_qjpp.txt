@@ -1,0 +1,8 @@
+Here we assume that all infected individuals are also infectious
+during the time that they are infected. While infected can
+be split into exposed but not infectious, on one hand,
+and infectious, on the other (this extension corresponds to the
+SEIRD model), this would not provide any additional insights with
+regards to our argument. This is because SDs would only
+influence the transition from susceptible to exposed and not affect
+the transition from exposed to infectious.

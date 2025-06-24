@@ -1,0 +1,18 @@
+To compare comments provided by patients at different points, we
+used metadata to divide our corpus according to patients’ self-disclosed
+treatment duration at the time of submitting their feedback (this
+is requested in a dedicated field within the feedback form).
+This allowed us to group the responses into the following
+three broad categories: under 1 year; 1-5 years; and over
+5 years. Table 1 gives a breakdown of the number
+of comments, words and average words per comment for each
+category. Note that not all patients answered this question, while
+some indicated that they did not know/couldn't remember how long
+they had received treatment for. We excluded these cases from
+our analysis. As such, the numbers in Table 1 do
+not correspond exactly to the total number of comments and
+words in our corpus. Table 1. . Breakdown of comments
+and words, according to duration of treatment. Duration of treatment
+Number of comments Words Average words per comment Under 1
+year 128,804 8,866,673 68.84 1-5 years 59,577 3,960,335 66.50 Over
+5 years 16,390 1,049,834 64.05

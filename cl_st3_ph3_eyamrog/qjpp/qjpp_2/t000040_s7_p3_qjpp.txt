@@ -1,0 +1,12 @@
+In 2018, Waymo, the Google subsidiary developing AVs, introduced the
+first shared AV fleet to the market (Waymo-One) ( https://waymo.com/
+). More than 1,400 self-driving cars, trucks, and other vehicles
+are currently being tested by more than 80 companies across
+36 US states and the District of Columbia ( 25
+). Recent estimates suggest that by 2020, 5% of car
+sales will be AVs, representing 2% of the vehicle fleet
+and 4% of the miles traveled in the United States
+( 42 ). The same estimates predict that by 2030,
+AVs will cover 40% of the car market sales, representing
+20% of the vehicle fleet and 30% of the miles
+traveled in the United States ( 42 ).

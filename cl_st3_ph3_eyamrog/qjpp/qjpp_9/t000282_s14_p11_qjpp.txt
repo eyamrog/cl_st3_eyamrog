@@ -1,0 +1,20 @@
+The analysis includes 508 declarative intonational phrases from the five
+speakers, excluding instances of reported speech, false starts, fillers, and
+bad pitch tracking because of creak. Following the labeling and
+extraction, I created mixed effects regression models using the lme4
+package in R that accounted for topic by variable, with
+speaker as a random effect. For the variable of pitch
+accent type (H* versus L+H*), broad and narrow focus phrases
+were analyzed separately, since L+H* has been shown to be
+more frequent in narrow focus phrases for speakers of MUSE
+( Pierrehumbert & Hirschberg 1990 ; Watson, Anenhaus & Gunlogson
+2008 ). Finally, I also ran generalized linear mixed effects
+regression models (GLMER) models for peak delay interval length and
+analyzed H* and L+H*-containing syllables separately, due to the fact
+that bitonal pitch accents typically contain longer peak delay intervals
+because of their two pitch targets. I also controlled for
+nuclear versus non-nuclear pitch accents, here operationalized as either the
+final PA in a phrase (nuclear) or any PA preceding
+it (non-nuclear), due to the fact that nuclear PAs are
+likely to be longer and may be subject to phrase-final
+effects such as lengthening ( Holliday 2016 ).

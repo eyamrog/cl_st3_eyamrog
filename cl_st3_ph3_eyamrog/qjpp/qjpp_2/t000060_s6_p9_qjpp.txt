@@ -1,0 +1,5 @@
+Despite the strengths of our analytic approach, there are limitations.
+First, the study includes only a single COVID-19 measurement occasion
+for each individual and, therefore, no conclusion about the duration
+or persistence of the mental health lockdown effect can be
+drawn. It can only be interpreted as a short-run effect.

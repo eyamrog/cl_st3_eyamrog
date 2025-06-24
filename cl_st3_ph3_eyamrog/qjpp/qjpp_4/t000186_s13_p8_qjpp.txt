@@ -1,0 +1,14 @@
+At the mechanistic level, immunological tolerance develops in two primary
+ways. The first, called central tolerance, develops when T and
+B cells are produced. These cells are screened in the
+thymus or bone marrow, respectively, and any cells that react
+to self-antigens are deleted in order to avoid autoimmunity (
+Nemazee 2017 , Parham 2015 ). The second mechanism, peripheral
+tolerance, involves the suppression of T and B cell responses
+in the periphery. One primary mechanism for peripheral tolerance is
+the development of Tregs, which, true to their name, regulate
+the responses of other cells to particular antigens ( Belkaid
+& Rouse 2005 , Zelenay et al. 2005 ). There
+are trade-offs between immunity and self-tolerance, such that the specificity
+and sensitivity of responses must be tuned to attack as
+many pathogens as possible, while limiting autoimmunity.

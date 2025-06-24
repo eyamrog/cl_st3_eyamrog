@@ -1,0 +1,11 @@
+We imaged the activity of aIC Fezf2 neurons at different
+stages of training ( Figures 2 B–2D and S2 Q).
+By examining the activity of all the neurons in hit
+and CR trials, we found that initially very few neurons
+responded to CS; however, training dramatically increased the neurons showing
+excitatory response to CS SU and had a trend to
+increase the neurons showing inhibitory response to CS SU (
+Figures 2 E, 2F, S2 R, and S2S). Training also
+increased sucrose-responsive neurons, especially those showing inhibitory response ( Figures
+2 E and 2F). Very few neurons responded to CS
+QU throughout training ( Figure 2 E).

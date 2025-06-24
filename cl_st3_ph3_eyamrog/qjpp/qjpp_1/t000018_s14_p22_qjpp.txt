@@ -1,0 +1,18 @@
+Whole-section imaging of chromogenic sections was performed on a NanoZoomer
+S210 digital slide scanner (Hamamatsu). Slide scans of all stains
+can be made available upon request. Scanned tissue sections, stained
+using DAB immunohistochemistry, were analyzed using Indica Labs HALO image
+analysis platform. A consultant gastrointestinal pathologist manually annotated each slide,
+dividing the mucosa into normal and inflamed areas. The tissue
+was scored using Indica Labs’ analysis modules CytoNuclear v.2.0.5, detecting
+DAB-positive and -negative cells in inflamed areas. Pathologic features (ulceration/granulation
+tissue, granulomas, crypt abscess/cryptitis, lymphoid aggregates and architectural distortion/mucin depletion)
+were manually annotated by a consultant pathologist with a special
+interest in gastrointestinal pathology. The area of each annotated feature
+was automatically calculated using HALO software. Nuclei (cells) in areas
+of interest and whole-tissue sections were detected and counted using
+Indica Labs’ CytoNuclear v.2.0.9 analysis module. Scores (percentage) were normalized
+to the number of nuclei found within a pathological feature
+over the total number of nuclei detected in the whole-tissue
+section. These normalized counts were used to investigate Pearson correlations
+between features and correlations with module eigengenes.

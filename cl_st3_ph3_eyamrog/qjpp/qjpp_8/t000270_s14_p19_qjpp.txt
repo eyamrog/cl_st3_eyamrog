@@ -1,0 +1,20 @@
+Submodels are realized through randomized initial settings of the remaining
+model parameters. This allows us to generate epidemics on a
+whole variety of different scenarios and to study how sensitive
+the outcomes are to changes in parameter settings. Variations in
+clustering and average path length are realized through uniform random
+samples of preferred proportion of closed triads ( α ∼
+U [0, 1]). Note that the joint variation of clustering
+and path length is key in the collective dynamics of
+small-world networks ( Watts and Strogatz, 1998 ). Uniform random
+samples of likelihood of ties between agents that are similar
+in risk perception ( ω ∼ U [0, 1]) are
+used to realize variations in homophily. Further, we set randomized
+bounds for risk perception on the network level ( r
+min ∼ U [0, 1], r max ∼ U [1,
+2]) and assign randomized values within the previously set bounds
+to each agent ( r i ∼ U [ r
+min , r max ]) to realize variations of risk
+perception on the network and individual level. Finally, we vary
+disease severity ( σ ∼ U (1, 100]) and infectivity
+( γ ∼ U [0.01, 0.20]).

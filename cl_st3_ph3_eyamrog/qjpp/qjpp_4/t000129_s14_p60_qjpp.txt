@@ -1,0 +1,9 @@
+Distances from NE shown in Figures S4 E and S4F
+are estimated by computing: 𝑑 𝑁 ⁢ 𝐸 = 𝑅
+− ∣ → 𝑟 𝐶 ⁢ 𝑀 − → 𝑟
+𝑁 ⁢ 𝐸 ∣ , where 𝑅 is the model
+NE radius, → 𝑟 𝐶 ⁢ 𝑀 is the position
+of the center of mass of the object and →
+𝑟 𝑁 ⁢ 𝐸 is the position of the NE
+center. Physical distances are then obtained using the mapping factor
+𝜎 previously calculated from the comparison with pairwise FISH distances.

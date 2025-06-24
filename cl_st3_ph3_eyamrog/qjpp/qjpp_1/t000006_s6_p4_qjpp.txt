@@ -1,0 +1,5 @@
+To bypass these issues, we decided to enroll in CHRONOS
+only those patients in whom the ctDNA resistance mutations were
+undetectable. We refer to this strategy as the ‘zero mutation
+ctDNA triage’. This pragmatic approach is easily implemented in outpatient
+clinics and ensures effective turnaround time for timely therapeutic intervention.

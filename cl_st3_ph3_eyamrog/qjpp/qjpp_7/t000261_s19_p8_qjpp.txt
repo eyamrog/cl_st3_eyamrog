@@ -1,0 +1,15 @@
+Inspection of pre-policy trends in attendance (Appendix: Figure A3 )
+reveals a consistent monthly trend between both cohorts for the
+sample as a whole and both regional hospitals for much
+of the pre-policy period, although trends did diverge over the
+winter months. Monthly pre-policy trends did, however, vary considerably for
+the Dublin hospitals. Seasonal variation between cohorts might be expected,
+particularly during winter months. Annual pre-policy trends were broadly consistent
+for all hospitals and we are unable to reject the
+null hypothesis that the pre-policy yearly trends in the treatment
+and controls were the same for all hospitals. Effects were
+also consistent using either pre-treatment period as a baseline (Appendix:
+Table A4 ). Therefore, while the counterfactual assumption cannot be
+assured, the annual trend, statistical non-significance of the placebo tests
+and consistency of effects over choice of baseline provides some
+assurance that the common trend assumption is reasonable.

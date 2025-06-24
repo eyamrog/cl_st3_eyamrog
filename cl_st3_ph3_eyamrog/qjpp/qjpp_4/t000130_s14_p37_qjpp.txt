@@ -1,0 +1,25 @@
+Pull-down experiments were performed as previously described ( del Toro
+et al., 2020 112. del Toro, D. ∙ Carrasquero-Ordaz, M.A.
+∙ Chu, A. ... Structural Basis of Teneurin-Latrophilin Interaction in
+Repulsive Guidance of Migrating Neurons Cell. 2020; 180 :323-339.e19 Full
+Text Full Text (PDF) Scopus (49) PubMed Google Scholar ).
+Fresh E15.5 mouse cortices were homogenized for 1 min at
+4°C with an electric homogenizer using the following lysis buffer:
+50 mM Tris-HCl (pH 7.4), 150mM NaCl, 2mM EDTA, 1%
+Triton X-100 and protease inhibitors (Sigma-Aldrich 04,693,132,001). Samples were incubated
+on ice for 20 min and centrifuged for 10 min
+at 3000 rpm. Supernatant was collected and protein was measured
+using the Bio-Rad protein assay (Biorad, 5,000,001). 1.5 mg of
+protein at a final concentration of 2 μg/μL in lysis
+buffer (volume: 750 μL) was used for each pull-down. Control
+pull-down contained lysate and 40ul of high-capacity streptavidin agarose resin
+(Thermo Fisher Scientific, 20,357, 50% w/v), whereas the nanobody condition
+contained the same beads plus 2μg of biotinylated Nano glue
+. Samples were incubated overnight at 4°C under rotatory agitation.
+The next day, agarose beads were centrifuged for 5 min
+at 3000 rpm and washed three times (first wash with
+400 μL of lysis buffer, second wash with 1:1 (v/v)
+lysis buffer:PBS, last wash only PBS). Pulled-down samples were processed
+for mass spectrometry (MaxQuant run, Proteomic facility, Max Planck Institute
+of Biochemistry, Martinsried, Germany). Volcano plots were generated using the
+DEP package in R-studio.

@@ -1,0 +1,15 @@
+The infinitival be and past participle in (1) follows a
+regular pattern for English passivization. In this paper, I refer
+to this construction as need +TO. In (2), which I
+label need +ING, need takes a gerund-participle complement, rendering the
+same meaning as an equivalent need +TO construction. 2 In
+(3), need takes a past participle complement, which also has
+the same meaning as the equivalent need +TO sentence. Examples
+(4)-(6) are transitive constructions, where need takes an active subject
+and a non-finite clause as a direct object. In these
+examples, the passive object of the non-finite clause has been
+dislocated to the left (i.e., “some simple jobs I need
+done ” has the same underlying syntax as “I need
+some simple jobs done ”). I label these transitive- need
++TO (4), transitive- need +ING (5), and transitive- need +ED
+(6).

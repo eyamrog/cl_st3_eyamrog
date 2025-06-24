@@ -1,0 +1,8 @@
+Edelstein’s (2014) syntactic analysis depicted in Figure 1 proposes that
+the matrix verb in AEP constructions directly selects an aspect
+phrase (AspP) that assigns passive morphology to the verb in
+the passive complement. This contrasts with the standard embedded passive
+syntax for a raising construction in Figure 2 , where
+the matrix verb selects a tense phrase (TP) as a
+complement, which in turn selects a passive phrase that assigns
+passive morphology.

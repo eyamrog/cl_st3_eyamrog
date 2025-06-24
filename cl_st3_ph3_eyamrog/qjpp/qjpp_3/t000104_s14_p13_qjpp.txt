@@ -1,0 +1,22 @@
+PolyA + RNA was isolated using the NEBNext Poly(A) mRNA
+Magnetic Isolation Module and barcoded libraries made using the NEBNext
+Ultra II Directional RNA Library Prep Kit for Illumina (NEB).
+Libraries were pooled and single end sequenced (1 × 75)
+on an Illumina NextSeq 500 using the High Output V2
+Kit (Illumina). Read data was processed in BaseSpace ( https://basespace.illumina.com:443/
+). Reads were then aligned to the Homo sapiens genome
+(hg19) using STAR aligner ( https://code.google.com/archive/p/rna-star ) with default settings.
+Differential transcript expression was determined using the Cufflinks Cuffdiff package
+( https://github.com/cole-trapnell-lab/cufflinks ). GSEA was performed on pre-ranked gene lists
+upon FBXO44 KD using gene set permutation for statistical testing.
+GSEA results were visualized using Enrichment Map in Cytoscape. For
+analysis of RE expression from RNA-seq data, reads were mapped
+to the Homo sapiens genome (hg19) using Bowtie 2 and
+assigned to REs using RepEnrich2 with the recommended parameters (
+https://github.com/nerettilab/RepEnrich2 ) ( Criscione et al., 2014 13. Criscione, S.W.
+∙ Zhang, Y. ∙ Thompson, W. ... Transcriptional landscape of
+repetitive elements in normal and cancer human cells BMC Genomics.
+2014; 15 :583 Crossref Scopus (191) PubMed Google Scholar ).
+The RE annotation file (hg19_repeatmasker_clean.txt) was provided by RepEnrich2. The
+resulting counts for REs were analyzed by the edgeR package
+to obtain CPM (counts per million reads) values.

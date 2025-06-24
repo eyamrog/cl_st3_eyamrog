@@ -1,0 +1,7 @@
+Guide RNA 5′-G UGUGUCUUUCUUCUGUACUG GUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCUUUU-3′ was obtained from Synthego, with
+the target RNA underlined. EnGen Cas9 NLS, S. pyogenes was
+obtained from NEB. For ribonucleoprotein (RNP) preparation 3.125 μL of
+20 μM Cas9 and 0.776 μL of 100 μM sgRNA
+was combined and incubated at room temperature for 10 min,
+followed by addition of 46 μL injection buffer consisting of
+5mM Tris-HCl, 0.1mM EDTA, pH 7.8.

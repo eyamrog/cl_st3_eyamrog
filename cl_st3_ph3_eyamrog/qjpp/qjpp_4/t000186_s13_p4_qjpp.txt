@@ -1,0 +1,13 @@
+Naïve T cells can differentiate into a number of different
+classes, including Th1 (type 1 helper T cells), Th2 ,
+Th17 , and regulatory T cells ( Tregs ). Th1
+and Th17 cells are generally seen as proinflammatory, whereas Th2
+cells promote antibody responses and Tregs facilitate immunological tolerance (
+Eisenstein & Williams 2009 , Lee 2018 , Maizels &
+Yazdanbakhsh 2003 , Tesmer et al. 2008 ). Because these
+develop from common precursors and to some extent have antagonistic
+effects, they can also be seen as trading off with
+one another. However, any immune response will require some coordinated
+action from T cells of multiple classes, so trade-offs are
+best seen as shifts in the relative balance among different
+kinds of response rather than changes in kind.

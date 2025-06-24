@@ -1,0 +1,7 @@
+On procedure days, 100 μL of blood collected in K2-EDTA
+tubes was centrifuged and added to 600 μL of AVL
+viral lysis buffer with 6 μL carrier RNA (QIAGEN) for
+RNA extraction. All blood samples were inactivated in AVL viral
+lysis buffer prior to removal from the BSL-4 laboratory. Subsequently,
+RNA was isolated from blood using the QIAamp viral RNA
+kit (QIAGEN), according to the manufacturer’s instructions.

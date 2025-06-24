@@ -1,0 +1,11 @@
+For the non-AT-2 treated immature full-length ADA.CM pseudovirus, additional data
+was also collected on a 200kV Glacios microscope with a
+K2-Summit direct electron detector. A total of 17 tilt-series were
+collected with a nominal magnification of 28000X, corresponding to a
+pixel size of 1.4975 Å/pixel. Tilt series were collected from
+−60° to +60° with a step size of 3° using
+SerialEM with up to 45° in dose-symmetric tilt scheme (
+Mastronarde, 2005 55. Mastronarde, D.N. Automated electron microscope tomography using
+robust prediction of specimen movements J. Struct. Biol. 2005; 152
+:36-51 Crossref Scopus (3221) PubMed Google Scholar ). A total
+dose of 110 e-/Å 2 was applied to each tilt-series.

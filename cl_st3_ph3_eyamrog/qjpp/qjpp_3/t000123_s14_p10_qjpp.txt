@@ -1,0 +1,14 @@
+We extracted DNA from a male monito del monte for
+genome sequencing. Paired-end and mate-pair DNA libraries with seven different
+insert sizes (250 bp, 500 bp, 800 bp, 2 kb,
+5 kb, 10 kb and 20 kb) were constructed and
+sequenced on the Illumina HiSeq2000 platform. In total, 370 Gb
+of raw reads were produced. To facilitate the assembly work,
+a series of strict filtering steps were conducted to remove
+artificial duplications, adapter contaminations, and low-quality reads ( Li et
+al., 2010 53. Li, R. ∙ Fan, W. ∙ Tian,
+G. ... The sequence and de novo assembly of the
+giant panda genome Nature. 2010; 463 :311-317 Crossref Scopus (815)
+PubMed Google Scholar ). Before starting the assembly, we estimated
+the monito del monte genome size to be 3.2 Gb
+using K-mer analysis.

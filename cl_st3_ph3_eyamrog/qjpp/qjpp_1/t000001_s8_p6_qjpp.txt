@@ -1,0 +1,12 @@
+In this study we assessed the continuous dose–response relationship of
+SBP to IHD, applying a Bayesian meta-analytic approach . We
+estimated the shape of the risk function and BPRF—defined as
+a conservative assessment of the effect of SBP on IHD—based
+on the evidence from both observational cohort studies and RCTs.
+We included potential covariates related to study design to account
+for potential bias. Differences in ranges of SBP levels across
+studies were handled by integration across the risk curve. We
+also tested for the presence of publication and reporting bias
+in the data analyzed . In addition, we minimized the
+number of a priori statistical assumptions and approximations frequently used
+in previous meta-analyses.

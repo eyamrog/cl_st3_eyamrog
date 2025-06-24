@@ -1,0 +1,21 @@
+The concordance software AntConc ( Anthony, 2020 ) was used
+to identify all four-word lexical bundles that appeared at least
+thirty times per million words and in at least three
+separate essays. The choice of four-word bundles is in accordance
+with Hyland’s (2008) observation that the structures and functions of
+three-word lb s can be unclear, while the frequency of
+five-word lb s is often too low to allow valid
+analysis. The threshold of thirty times per million words used
+for this study is more conservative than Biber et al
+.’s (2021) ten times per million words threshold. According to
+these criteria, a string of four words must appear fifteen
+times in the Low corpus (which consists of about half
+a million words), thirty times in the Mid corpus (about
+a million words), and three times in the High corpus
+(86,366 words) to be included in the analysis. The four-word
+strings identified by the concordance software were then manually checked
+to exclude any overlapping bundles derived from the same longer
+sequences as well as essay-topic-dependent bundles, such as knowledge gained
+from books , which is a direct quote from the
+essay topic ‘Compare and contrast knowledge gained from experience with
+knowledge gained from books’.

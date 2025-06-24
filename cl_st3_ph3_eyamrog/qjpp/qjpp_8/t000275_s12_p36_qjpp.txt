@@ -1,0 +1,23 @@
+The extraction of candidate threads can be done by using
+any corpus tools with appropriate search terms. Yet, most tools
+would likely not reveal the number of times the search
+terms appear within a thread, which in contrast is afforded
+by the CWB tool's grouping function. The number of times
+the search terms appear within a thread becomes an important
+point of entry when there are too many threads containing
+the search terms. Researchers could start from the threads with
+the most mentions of the search terms based on the
+assumption that topics related to the search terms will be
+salient in these threads, then take a saturation approach by
+continuing to read the threads with decreasing numbers of mentions
+until no new pattern emerges. For example, in my investigations
+of URL-posting practices in online discussions ( Chua, 2021 ),
+there were 3724 threads and 3429 independent posts containing at
+least one mention of the search term – URL address
+and link(s) . Therefore, although corpus tools help extracting candidate
+threads for digital CA or micro-analysis, the number can still
+remain large and requires further pruning before researchers start analysing
+the threads in-depth. In this case, I started from threads
+containing the highest number of the mentions of these two
+search terms, and continued reading the threads with decreasing number
+of mentions to examine URL-posting practices.

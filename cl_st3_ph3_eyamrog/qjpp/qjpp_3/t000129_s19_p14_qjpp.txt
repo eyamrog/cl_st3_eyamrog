@@ -1,0 +1,25 @@
+This revealed that active and inactive chromatin is successfully combined
+in the intact TAD in limbs but is partitioned into
+discrete compartments in ESCs. Specifically, in limbs, the inactive Zfp42R
+is incorporated with D1 and D2 into a large NE-attached
+B compartment that spans most of the TAD, as reported
+in other differentiated mouse and human cell types ( Figures
+3 A, S3 C, and S3D) ( Takebayashi et al.,
+2012 136. Takebayashi, S. ∙ Dileep, V. ∙ Ryba, T.
+... Chromatin-interaction compartment switch at developmentally regulated chromosomal domains reveals
+an unusual principle of chromatin folding Proc. Natl. Acad. Sci.
+USA. 2012; 109 :12574-12579 Crossref Scopus (50) PubMed Google Scholar
+; van Schaik et al., 2020 139. van Schaik, T.
+∙ Vos, M. ∙ Peric-Hupkes, D. ... Cell cycle dynamics
+of lamina-associated DNA EMBO Rep. 2020; 21 :e50636 Crossref Scopus
+(26) PubMed Google Scholar ; Zhang et al., 2019 156.
+Zhang, Y. ∙ Li, T. ∙ Preissl, S. ... Transcriptionally
+active HERV-H retrotransposons demarcate topologically associating domains in human pluripotent
+stem cells Nat. Genet. 2019; 51 :1380-1388 Crossref Scopus (105)
+PubMed Google Scholar ). The strength of this NE attachment
+is above average, lying in the 88 th percentile of
+LAD scores genome wide ( Figure S3 H). By contrast,
+Fat1 locates within an active A compartment and, together with
+its limb Fat1-enh , remains locally detached from the NE
+in the same domain. Thus, the intact limb TAD simultaneously
+supports multiple interacting inactive and active compartments.

@@ -1,0 +1,26 @@
+In heterozygous P517L and Δ14 mice, we observe selective, age-dependent
+MN degeneration involving neuronal subpopulations, including FF, large-diameter alpha-MNs that
+are preferentially vulnerable in patients with ALS and in other
+mouse models of ALS. Using the conditional Δ14 (c14) allele,
+we were able to avoid the developmental toxicity observed in
+the homozygous P517L and Δ14 mutants and the P517L/Δ14 complex
+heterozygotes. Selective activation of the c14 mutant allele using ChAT-Cre
+in the P517L and Δ14 heterozygotes generated mutants in which
+post-mitotic MNs express two copies of mutant FUS. Analysis of
+these conditional mutants reveals the dose dependence of mutant FUS-mediated
+neurodegeneration through the accelerated loss of spinal MNs that nevertheless
+remains self-limited and selective to the same vulnerable subpopulation of
+MNs involved in the P517L and Δ14 heterozygous mutants. Moreover,
+our analysis of the c14/c14 homozygous, ChAT-Cre animals in which
+only MNs express mutant Δ14 FUS was remarkably similar in
+phenotype to the Δ14/c14, ChAT-Cre mutants in which a single
+copy of the Δ14 FUS allele is expressed broadly in
+the animal, in terms of the onset, time course and
+extent of denervation and MN loss but also with regard
+to the astrocyte and microglial proliferation that precedes MN degeneration.
+These data provide compelling genetic evidence that the onset and
+progression of MN loss in this mouse model of FUS-ALS
+is a cell-autonomous process and that, to the extent that
+other cells (for example, astrocytes and microglia) contribute to neurodegeneration,
+this occurs independent of the expression of mutant FUS, with
+no evidence of a cell-non-autonomous mechanism.

@@ -1,0 +1,8 @@
+Models were run using MCMCglmm default priors. Posterior distributions were
+estimated from 260,000 MCMC iterations sampled at 200 iteration intervals
+following an initial burn-in period of 60,000 iterations. Autocorrelations were
+less than 0.1 for all estimates, which yielded effective sample
+sizes close to 1000 for all estimates (range = 833–1361).
+We visually inspected plots of the traces and posterior distributions
+as well as calculated the autocorrelation among samples to make
+sure that all models had properly converged.

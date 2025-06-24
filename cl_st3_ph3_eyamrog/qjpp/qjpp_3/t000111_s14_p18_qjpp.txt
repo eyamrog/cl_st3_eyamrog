@@ -1,0 +1,23 @@
+Frozen sections and HE-stained slides were prepared by the Breast
+Center Pathology Core at Baylor College of Medicine. The immunofluorescent
+staining was performed with antibodies against mRFP (Rockland, 600-401-379), EGFP
+(Abcam, 13970), mouse CD31 (R&D Systems, AF3628), and mouse VE-Cadherin
+(R&D Systems, AF1002). Briefly, the frozen slides were warmed at
+room temperature for 10 minutes and rinsed with PBS twice.
+50mM Ammonium chloride in PBS were applied to the slides
+to reduce the autofluorescence. Then the sections were penetrated with
+0.3% Triton X-100 in PBS for 30 minutes and blocked
+by 10% donkey serum in PBS-GT (2% Gelatin, 0.1% Triton
+X-100) for 1 hour at RT. Sections were then incubated
+with primary antibodies overnight at 4°C. The next day, after
+PBS washing for three times, the slides were incubated with
+Alexa Fluor 488 conjugated Donkey anti-Chicken IgY (Jackson ImmunoResearch, 703-546-155),
+Alexa Fluor 555 conjugated Donkey anti-Rabbit IgG (Thermo Fisher, A31572),
+and Alexa Fluor 647 conjugated Donkey anti-Goat IgG (Jackson ImmunoResearch,
+705-606-147) for 2 hours at RT. The stained sections were
+then washed, and mounted with ProLong™ Gold antifade mountant with
+DAPI (Thermo Fisher, P36935). Images were acquired by a Zeiss
+LSM780 confocal microscope, or a Leica DMi8 inverted microscope, or
+a Zeiss Axioscal.Z1 scanner. Immunofluorescent images were first exported by
+ZEN (Zeiss), or LAS X (Leica Microsystem). The exported images
+were then analyzed and quantified by Fiji.

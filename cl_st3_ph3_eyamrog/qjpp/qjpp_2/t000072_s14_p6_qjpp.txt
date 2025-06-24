@@ -1,0 +1,7 @@
+An analysis of covariance, with the postintervention value as the
+dependent variable and the baseline value and group assignment as
+predictor variables, was used to assess the effects on outcomes
+of weight loss induced by diet as compared with surgery.
+Assumptions for all models were confirmed by regression residuals. (Additional
+details are provided in the Statistical Analyses section in the
+Supplementary Appendix .)

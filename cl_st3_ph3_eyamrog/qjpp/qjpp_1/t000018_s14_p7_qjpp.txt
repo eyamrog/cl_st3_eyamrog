@@ -1,0 +1,9 @@
+Endoscopic punch biopsies or dissected tissue pieces from surgical resections
+were stored in RNAlater (Qiagen) following collection, until further processing.
+Tissue was homogenized using the soft tissue homogenizing CK14 kit
+(Precellys, Stretton Scientific, no. 03961) in 300 µl of RLT
+lysis buffer (Qiagen) and 20 µM DTT (Sigma). RNA was
+isolated using the Qiagen Mini kit with a DNA digestion
+step (Qiagen). Bulk-sorted cell populations and cultured cells were directly
+lysed in RNA lysis buffer, followed by RNA isolation with
+the appropriate kits and on-column DNase treatment.

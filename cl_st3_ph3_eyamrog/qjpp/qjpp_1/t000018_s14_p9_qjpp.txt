@@ -1,0 +1,10 @@
+Sequencing libraries were prepared using either the QuantSeq 3’ mRNA-Seq
+FWD Library Prep Kit (Lexogen) for whole-tissue samples, or the
+Smart-seq2 protocol for bulk and cultured cell populations (with our
+own in-house indexing primers). Libraries were sequenced using an Illumina
+HiSeq4000 with 75-base-paired-end sequencing . For qPCR analysis, 15–250 ng
+of RNA was reverse transcribed using the High-Capacity cDNA Reverse
+Transcription Kit (Applied Biosystems) and qPCR performed using Precision Fast
+qPCR mastermix with the EagleTaq Universal Master Mix at a
+lower level, 12.8 ml (Primer design, Precision FAST-LR), and Taqman
+probes (Life Technologies).

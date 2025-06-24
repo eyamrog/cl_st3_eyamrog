@@ -1,0 +1,12 @@
+Table 6 shows the results of the hierarchical multiple regression
+analysis. The model as a whole accounted for a statistically
+significant 46.8 percent variance in the dependent variable, F (12,
+638) = 46.79, p = .000; see Table A1 in
+the appendix . Independent demographic variables in model 1 accounted
+for 2.8 percent variation in the dependent variable, which was
+statistically significant, F (7, 643) = 2.68, p = .010.
+In model 2, the variables of interest (thus, knowledge of
+COVID-19, COVID-19 impact, severity of impact, efficacy of response strategies
+and cost of response strategies) contributed 44.0 percent additional variance
+in COVID-19 response strategies, after controlling for the effect of
+demographic variables.

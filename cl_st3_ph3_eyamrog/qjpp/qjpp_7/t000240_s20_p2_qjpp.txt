@@ -1,0 +1,4 @@
+Given that this telephone-based survey excluded those individuals who do
+not have a telephone, and this could create a bias,
+the findings on knowledge, attitude, and practice reported in the
+following sections should be interpreted cautiously.

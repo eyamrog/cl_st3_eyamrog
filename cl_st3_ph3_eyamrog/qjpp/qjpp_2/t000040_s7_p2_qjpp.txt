@@ -1,0 +1,17 @@
+AVs are considered a major disruptive technology in the transportation
+sector, with the potential to produce significant changes in travel
+behaviors and the built environment ( 42 ). “Autonomous technology”
+refers to technology that has the capability to drive a
+vehicle without active physical control or monitoring by a human
+operator ( 74 ). There are six levels of vehicle
+autonomy, as defined by the Society of Automotive Engineers (SAE):
+Levels 0–2 are those where the human driver needs to
+monitor the driving environment, and levels 3–5 are those where
+an automated driving system monitors the driving environment (also referred
+to in the US federal policy guidance as highly automated
+vehicles) ( 69 , 92 ). A fully autonomous vehicle
+is a vehicle that has a full-time automated driving system
+that undertakes all aspects of driving that would otherwise be
+undertaken by a human, under all roadway and environmental conditions
+( 64 ). This article focuses on the role of
+higher levels of AVs in public health.

@@ -1,0 +1,10 @@
+Methods: In this phase 1–2, open-label clinical trial conducted at
+10 sites in the United States, adults who had completed
+a Covid-19 vaccine regimen at least 12 weeks earlier and
+had no reported history of severe acute respiratory syndrome coronavirus
+2 (SARS-CoV-2) infection received a booster injection with one of
+three vaccines: mRNA-1273 (Moderna) at a dose of 100 μg,
+Ad26.COV2.S (Johnson & Johnson–Janssen) at a dose of 5×10 virus
+particles, or BNT162b2 (Pfizer–BioNTech) at a dose of 30 μg.
+The primary end points were safety, reactogenicity, and humoral immunogenicity
+on trial days 15 and 29.

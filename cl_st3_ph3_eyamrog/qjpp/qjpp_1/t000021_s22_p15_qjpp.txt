@@ -1,0 +1,14 @@
+In our analyses, we observed GMs that demonstrated similar temporal
+response patterns within the same cell type but distinct pathway
+enrichments, implying orthogonal biological functionality: for example, the NK cytokine
+signaling GM3 module ( CCL3 , CCL4 ) and the
+cytotoxic GM4 module ( PRF1 , GZMB ) in P3
+(Fig. 3h ). To understand how these GMs might be
+linked, we looked across single cells for module coexpression (obscured
+in bulk approaches). Surprisingly, the strength of the correlation between
+expression of these modules across single NK cells changes with
+time, decreasing later in infection (Extended Data Fig. 8a,b ).
+K-means clustering separated cells by variable expression of GM3 and
+GM4 (Extended Data Fig. 8c ). Variation in the correlation
+of GM3 and GM4 may reflect NK cell plasticity with
+dual cytotoxic and signaling programming near peak viremia.

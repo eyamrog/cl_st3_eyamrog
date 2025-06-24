@@ -1,0 +1,12 @@
+In the TRJPS corpus, only more likely to, the effect(s)
+of and the united states occur frequently in all the
+sections. At the same time, each section contains a number
+of bundles that appear to be specific to that section.
+For instance, the Introduction section features textual signals such as
+in this article as well as stance markers involving self-mention:
+we show that, we find that, we argue that ,
+suggesting that it is not uncommon for the author to
+present the main finding(s) or argument(s) already in the Introduction,
+as in Example (19). 19) In both approaches, we find
+that preregistration has positive and significant effects on young voters’
+participation rates. (TRJPS01)

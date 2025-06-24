@@ -1,0 +1,26 @@
+However, reporting born-barn as being pronounced the same correlates with
+linguistic production in informal conversation in a way which suggests
+that more than phonological conditioning is at play. Linear regression
+of speakers’ start - north Pillai scores in informal conversation
+against their response to the born-barn pair shows that speakers
+who found them to be the same have significantly lower
+Pillai scores than those who found the pair to be
+pronounced differently (Intercept β = .448, p << 0.0001; “same”
+β = -0.257, p = 0.0321, adjusted r 2 =
+0.1864). This suggests that speakers’ perception of born-barn reflects their
+own production of the vowels: when produced close enough, speakers
+perceive the vowels as merged. As no speaker reported cord-card
+to be pronounced the same, this correlation does not hold
+for that pair. I suggest, then that something beyond fine-grained
+phonological conditioning explains the difference in responses to born-barn versus
+cord-card . If phonological conditioning alone explained responses, we would
+still expect the speakers with the greatest overlap between the
+two vowels to rate cord-card as pronounced the same. Instead,
+because no speakers report cord-card as pronounced the same, I
+suggest that speakers with a great deal of overlap between
+the vowels are reporting what they believe to be the
+socially “right” answer for cord-card , rather than what their
+actual perception is. In other words, I speculate that the
+difference in responses to these pairs indicates that overlap differs
+in salience for speakers by lexical items or phonological environment.
+11

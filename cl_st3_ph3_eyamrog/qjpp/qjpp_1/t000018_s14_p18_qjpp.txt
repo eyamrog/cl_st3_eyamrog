@@ -1,0 +1,10 @@
+Meta-analysis of the expression of modules M4 and M5 across
+responders and nonresponders in the various replication datasets was carried
+out using the meta package in R . Anti-TNF response
+data were used from the Arijs 2009 and 2018 papers,
+and corticosteroid response data were from the study of Haberman
+et al. Only the 4-week treatment condition was included from
+the anti-intergrin data from ref. , as this was the
+only one that proved significantly different for either M4 or
+M5. A random effects meta-analysis was carried out comparing standardized
+mean differences between patient groups using the exact Hedges estimate.

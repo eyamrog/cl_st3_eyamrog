@@ -1,0 +1,9 @@
+Total white blood cell counts, white blood cell differentials, red
+blood cell counts, platelet counts, hematocrit values, total hemoglobin concentrations,
+mean cell volumes, mean corpuscular volumes, and mean corpuscular hemoglobin
+concentrations were analyzed from blood collected in tubes containing EDTA
+using a laser-based hematologic analyzer (Beckman Coulter). Serum samples were
+tested for concentrations of alanine aminotransferase, albumin, alkaline phosphatase, amylase,
+aspartate aminotransferase, C-reactive protein, calcium, creatinine, gammaglutamyltransferase, glucose, total protein,
+blood urea nitrogen, and uric acid, and by using a
+Piccolo point-of-care analyzer and Biochemistry Panel Plus analyzer discs (Abaxis).

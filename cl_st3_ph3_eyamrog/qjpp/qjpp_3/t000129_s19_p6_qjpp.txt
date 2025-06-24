@@ -1,0 +1,22 @@
+We therefore sought to identify the mechanisms adapting the ancient
+TAD landscape for independent Fat1 and Zfp42R gene regulation in
+placental mammals. Thus, we mapped active enhancers and chromatin structure
+in mouse tissues where Fat1 and Zfp42R genes are differentially
+expressed (E11.5 limbs) or active together (ESCs) ( Figure 2
+). Significantly, both Zfp42 and Fat1 are dispensable for pluripotency
+and limb development, with the latter possessing functional redundancy with
+Fat2 , 3 , or 4 ( Ciani et al.,
+2003 33. Ciani, L. ∙ Patel, A. ∙ Allen, N.D.
+... Mice lacking the giant protocadherin mFAT1 exhibit renal slit
+junction abnormalities and a partially penetrant cyclopia and anophthalmia phenotype
+Mol. Cell. Biol. 2003; 23 :3575-3582 Crossref Scopus (193) PubMed
+Google Scholar ; Masui et al., 2008 93. Masui, S.
+∙ Ohtsuka, S. ∙ Yagi, R. ... Rex1/Zfp42 is dispensable
+for pluripotency in mouse ES cells BMC Dev. Biol. 2008;
+8 :45 Crossref Scopus (88) PubMed Google Scholar ; Sadeqzadeh
+et al., 2014 123. Sadeqzadeh, E. ∙ de Bock, C.E.
+∙ Thorne, R.F. Sleeping giants: emerging roles for the fat
+cadherins in health and disease Med. Res. Rev. 2014; 34
+:190-221 Crossref Scopus (75) PubMed Google Scholar ). As such,
+alterations to their regulation can be studied in ESCs and
+limbs without confounding effects.

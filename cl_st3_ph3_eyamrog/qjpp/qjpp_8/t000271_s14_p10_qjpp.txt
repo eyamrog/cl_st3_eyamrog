@@ -1,0 +1,21 @@
+WordSmith Tools (6.0) ( Scott 2015 ) was used to
+retrieve lexical bundles under consideration. They were then manually sifted
+through to remove overlapping items with the same frequencies. For
+instance, the two bundles mentioned above ( on the other,
+the other hand ) were removed from the final list,
+with only on the other hand left. Concordances were checked
+to ensure that two or more word strings indeed overlap
+with each other before the removal of the less complete
+one(s). Note that some of the bundles on the final
+lists may appear to be overlapping with each other, such
+as more likely to (387 instances) and are more likely
+to (171 instances) drawn from the TRJPS corpus. At the
+first glance, one may assume that more likely to is
+part of the longer sequence are more likely to ,
+but a close look at the concordance lines revealed that
+apart from the overlapping sequences (a proportion of more likely
+to are indeed part of the longer sequence are more
+likely to ), the former can also form other formulaic
+patterns with other words (e.g., be significantly/relatively/generally/far/N times more likely
+to, seems/becomes/should be/may be more likely to ) and was
+therefore treated as a bundle in its own right.

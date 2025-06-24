@@ -1,0 +1,22 @@
+The shift in the ΔNTF2 Corelet phase threshold after RNA
+influx can be visualized in As-treated cells subjected to repeated
+cycles of activation and deactivation, which triggers valence-dependent opto-SG assembly
+on a timescale similar to endogenous SGs ( Figures 4
+H and S4 F). Such a shift is negated by
+pretreatment with cycloheximide, which blocks polysome disassembly and RNA influx
+( Figures 4 E–4G and S4 G), and long-term inhibition
+of RNA transcription by Actinomycin D prevents opto-SG formation (
+Figures 4 F and 4G). We emphasize that these drug-dependent
+changes in LLPS are not Corelet artifacts: similar threshold shifts
+are absent for self-associating FUS IDR Corelet condensates ( Figures
+S4 D and S4E), which do not recruit SG proteins
+( Figure S2 A) and are thus not SGs; this
+is consistent with previous studies using an orthogonal Cry2-based optoDroplet
+approach ( Shin et al., 2017; Zhang et al., 2019
+88. Shin, Y. ∙ Berry, J. ∙ Pannucci, N. ...
+Spatiotemporal Control of Intracellular Phase Transitions Using Light-Activated optoDroplets Cell.
+2017; 168 :159-171.e14 Full Text Full Text (PDF) Scopus (171)
+PubMed Google Scholar 107. Zhang, P. ∙ Fan, B. ∙
+Yang, P. ... Chronic optogenetic induction of stress granules is
+cytotoxic and reveals the evolution of ALS-FTD pathology eLife. 2019;
+8 :651 Crossref Scopus (23) Google Scholar ).

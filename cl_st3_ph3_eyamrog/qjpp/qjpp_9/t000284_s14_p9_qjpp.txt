@@ -1,0 +1,20 @@
+DASS includes metadata for a variety of factors, as described
+in section 3.1 . Of interest to the present study
+is speakers’ age. For the purposes of this study, speakers
+were grouped by generational cohort, coded as a three-level categorical
+variable. As shown in Figure 2 , speakers born between
+1886 and 1900 were coded as the Lost Generation (
+N = 17). Those born between 1901 and 1927 are
+the G.I. Generation ( N = 19). Typically, the Silent
+Generation would include those born between 1928 and 1942 and
+the Boomer Generation would be those born after 1942, but
+since there were only seven speakers from the Silent Generation
+and five from the Boomer Generation, these two were combined
+into a single Silent/Boomer Generation ( N = 12) to
+create a third group approximately equal in size as the
+other two. These bins, which take their names and age
+ranges from Strauss and Howe’s (1991) work on generational theory,
+represent cohorts that broadly share similar experiences and worldviews. We
+expect speech patterns within generations to pattern similarly. Open in
+Viewer Figure 2 . Speaker Birth Years and Generations by
+Gender

@@ -1,0 +1,12 @@
+It should not be assumed that the official priorities and
+related entitlements described in the previous section will directly match
+actual patterns of coverage across different groups. Depending on how
+vaccines are provided in practice, some groups may have more
+difficulty than others in mobilizing their entitlements. For example, older
+people have limited personal mobility to reach vaccination centers and
+are less likely to have access to or be familiar
+with digital technology, which has been central to the logistics
+of vaccination roll-out in most countries. Without specific strategies to
+overcome these barriers, gaps between entitlements and realities will be
+especially large for them, especially in rural areas (Konovalov, 2021
+).

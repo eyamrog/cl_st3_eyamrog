@@ -1,0 +1,21 @@
+The expression of Triml2, Zfp42 , and Fat1 genes was
+investigated in three sc-RNAseq datasets of early mammal development, whole
+placenta ( Marsh and Blelloch, 2020 90. Marsh, B. ∙
+Blelloch, R. Single nuclei RNA-seq of mouse placental labyrinth development
+eLife. 2020; 9 :e60266 Crossref Scopus (25) PubMed Google Scholar
+), whole embryo gastrulation ( Pijuan-Sala et al., 2019 108.
+Pijuan-Sala, B. ∙ Griffiths, J.A. ∙ Guibentif, C. ... A
+single-cell molecular map of mouse gastrulation and early organogenesis Nature.
+2019; 566 :490-495 Crossref Scopus (281) PubMed Google Scholar ),
+and whole embryo organogenesis ( Cao et al., 2019 30.
+Cao, J. ∙ Spielmann, M. ∙ Qiu, X. ... The
+single-cell transcriptional landscape of mammalian organogenesis Nature. 2019; 566 :496-502
+Crossref Scopus (821) PubMed Google Scholar ). For visualization, we
+used the originally reported Uniform Manifold Approximation and Projection (UMAP)
+embeddings for the whole placenta and the gastrulation datasets and
+the t-Distributed Stochastic Neighbor Embedding (tSNE) for the organogenesis dataset.
+Likewise, we used the reported cell type definitions for visualization.
+For the whole placenta dataset, we used the “integrated_snn_res.0.6” cell
+variable to color cell types. UMI counts for Triml2 ,
+Zfp42 , and Fat1 were plotted for all datasets in
+the range 0 to >2.

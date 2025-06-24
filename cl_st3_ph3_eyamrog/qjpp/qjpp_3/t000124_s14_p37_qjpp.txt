@@ -1,0 +1,17 @@
+We used BLASTP ( Altschul et al., 1990 2. Altschul,
+S.F. ∙ Gish, W. ∙ Miller, W. ... Basic local
+alignment search tool J. Mol. Biol. 1990; 215 :403-410 Crossref
+Scopus (69041) PubMed Google Scholar ) (ncbi-blast-2.3.0+, parameters -max_target_seqs 1
+-evalue 1e–05) to compare potential protein sequences with a trusted
+set of reference proteins (Uniprot Magnoliophyta, reviewed/Swissprot, downloaded on 3
+Aug 2016; https://www.uniprot.org ). This differentiated candidates into complete and
+valid genes, non-coding transcripts, pseudogenes, and transposable elements. In addition,
+we used PTREP (Release 19; http://botserv2.uzh.ch/kelldata/trep-db/index.html ), a database of
+hypothetical proteins containing deduced amino acid sequences in which internal
+frameshifts have been removed in many cases. This step is
+particularly useful for the identification of divergent transposable elements with
+no significant similarity at the DNA level. Best hits were
+selected for each predicted protein from each of the three
+databases. Only hits with an e-value below 10e–10 were considered.
+Furthermore, functional annotation of all predicted protein sequences was done
+using the AHRD pipeline ( https://github.com/groupschoof/AHRD ).

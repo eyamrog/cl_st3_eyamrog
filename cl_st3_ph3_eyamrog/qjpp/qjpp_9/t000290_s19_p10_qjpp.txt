@@ -1,0 +1,16 @@
+This section considers vowel durations both across and within different
+coda contexts. The LMERMs for vowel duration across coda contexts
+are summarized in Table 4 . Open in Viewer Table
+4 . Linear Mixed Effects Regressions: Vowel Duration by Coda
+Context /æ/ duration (ms) /ɛ/ duration (ms) /e/ duration (ms)
+Predictors Estimates Estimates Estimates (Intercept) 130.76 *** 93.07 *** 118.79
+*** Coda [k] ‐3.20 ‐8.23 * ‐27.75 *** Coda [ɡ]
+‐3.12 22.38 ** ‐30.11 *** Coda [ŋ] ‐42.82 *** ‐2.86
+Gender [women] 15.98 *** 8.88 *** 14.08 *** Ethnicity [European]
+‐4.36 Ethnicity [Filipino] ‐6.91 * Random effects σ 2 6970.77
+3484.99 4966.46 τ 00 449.67 word 246.36 word 822.58 word
+207.41 speaker 63.94 speaker 161.91 speaker ICC 0.09 0.08 0.17
+N 64 speaker 64 speaker 64 speaker 823 word 736
+word 747 word Observations 23,374 9177 12,385 Marginal R 2
+/Conditional R 2 0.011/0.096 0.010/0.091 0.023/0.184 Note: * p <
+0.05 ** p < 0.01 *** p < 0.001.

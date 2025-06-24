@@ -1,0 +1,12 @@
+Over a full stride, our estimated total elastic work contributions
+(i.e., ankle and hip: 24.2 ± 3.1% at 1.66 ms
+−1 ; 31.1 ± 7.2% at 1.08 ms −1 )
+are similar to the series elastic element contributions to the
+total lower limb work from individual muscle-tendon dynamics (e.g., 29.4%
+tendon elastic work to muscle fiber work at 1.2 ms
+−1 : Sasaki et al., 2009 ). This suggests that
+our estimates are reasonable initial approximations. It is well known
+that net joint-level measures do not equate to total muscle-tendon
+unit work and power, owing to biarticular muscle recruitment and
+muscle cocontraction ( Sasaki et al., 2009 ), which may
+differ between human and bipedal chimpanzee walking.

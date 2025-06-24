@@ -1,0 +1,15 @@
+Both intra-iliac artery and vein injections were performed as previously
+described ( Yu et al., 2016 57. Yu, C. ∙
+Wang, H. ∙ Muscarella, A. ... Intra-iliac artery injection for
+efficient and selective modeling of microscopic bone metastasis J. Vis.
+Exp. 2016; 2016 :1-7 Google Scholar ). Briefly, animals were
+anesthetized and restrained on a warming pad. The surgery area
+was sterilized, and a 7-8 mm incision was made between
+the right hind limb and abdomen to expose the common
+iliac vessels. Cancer cells were suspended in 100 μL PBS
+and injected to the iliac artery or vein by 31G
+insulin syringe (Becton Dickinson) to generate bone or lung metastases,
+respectively. For inducible knockdown of EZH2 in vivo , animals
+were randomly separated into two groups, and given 0.2 mg/ml
+doxycycline in 1% sucrose water or vehicle for 7 weeks
+one week after the injection, respectively.

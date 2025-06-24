@@ -1,0 +1,15 @@
+The big data revolution presents an exciting frontier to expand
+public health research, broadening the scope of research and increasing
+the precision of answers. Despite these advances, scientists must be
+vigilant against also advancing potential harms toward marginalized communities. In
+this review, we provide examples in which big data applications
+have (unintentionally) perpetuated discriminatory practices, while also highlighting opportunities for
+big data applications to advance equity in public health. Here,
+big data is framed in the context of the five
+Vs (volume, velocity, veracity, variety, and value), and we propose
+a sixth V, virtuosity, which incorporates equity and justice frameworks.
+Analytic approaches to improving equity are presented using social computational
+big data, fairness in machine learning algorithms, medical claims data,
+and data augmentation as illustrations. Throughout, we emphasize the biasing
+influence of data absenteeism and positionality and conclude with recommendations
+for incorporating an equity lens into big data research.

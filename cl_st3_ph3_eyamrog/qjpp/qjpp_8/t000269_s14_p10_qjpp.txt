@@ -1,0 +1,8 @@
+The chosen metric of time is age in months, as
+its granularity allows a more detailed analysis of developmental processes,
+especially for younger children . Our model treats time flexibly
+and allows the slope of the linear term to vary
+randomly across children. We fitted this via the Markov Chain
+Monte Carlo (MCMC) algorithm in MLwiN 3.05 ( Rasbash et
+al., 2020 ), which we called from within R using
+the package “R2MLwiN” ( Zhang et al., 2016 ).

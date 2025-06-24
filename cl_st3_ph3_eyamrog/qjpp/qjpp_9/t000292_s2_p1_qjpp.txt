@@ -1,0 +1,9 @@
+This work was partially supported by ptdc ivc esct 5337
+2012, funded by the Portuguese Fundação para a Ciência e
+para a Tecnologia ( fct ) and by the Welcome
+dfrh wiia 60 2011, co-funded by the fct and the
+Marie Curie Actions, both awarded to jgs . This work
+was produced with the support of incd funded by fct
+and feder under the project 01/SAICT/2016 no. 022153. The funders
+had no role in study design, data collection and analysis,
+decision to publish, or preparation of the manuscript.

@@ -1,0 +1,11 @@
+We next analyzed whether detergent insolubility of RBPs, which is
+the biochemical signature associated with FUS toxicity (Fig. 2c–f ),
+is affected by ION363 treatment. Indeed, a decrease in the
+levels of TDP-43, hnRNP A1, hnRNP U and UPF1 was
+observed in the detergent-insoluble fractions from ION363-treated versus NTC P517L/WT
+mice (Fig. 4c,d ). Moreover, the ION363-induced decrease in wild-type
+FUS protein in wild-type mice also caused decreased partitioning of
+UPF1 and hnRNP A1 into the detergent-insoluble fractions (Fig. 4c,d
+), suggesting that wild-type FUS-dependent partitioning of some RBPs into
+detergent-insoluble subcellular compartments at a low level might reflect normal
+physiology.

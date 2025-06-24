@@ -1,0 +1,9 @@
+Luciferase/fluorescent protein reporter plasmids, or TRIPZ-shEZH2, or TLCV2-hgRNA-A26 were transfected
+together with psPAX2 and pMD2.G packaging plasmids into HEK293T cells
+using X-tremeGENE HP DNA transfection reagent (Sigma). 48 hours later,
+the supernatant was harvested and filtered by 0.45 um filter
+(VWR International). Cancer cells were transduced by the fresh lentivirus
+together with 8ug/ml polybrene (Sigma). Two days later, GFP or
+mRFP positive cells were sorted to generate reporter cell lines.
+For cells with inducible evolving barcodes or shEZH2, cells were
+selected with 2 μg/ml puromycin for 10 days before experiments.

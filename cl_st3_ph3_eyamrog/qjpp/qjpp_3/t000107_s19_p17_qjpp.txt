@@ -1,0 +1,27 @@
+Enforced expression of Runx1 in WT P14 cells reduced cell
+numbers at day 7 p.i. with Cl13 infection ( Figure
+S5 E). Moreover, Runx1-OE fostered formation of Ly108 + CD39
+− T EX precursors at the expense of the more
+T EFF -like Ly108 − CD39 + population at this
+time point ( Figure S5 E). To interrogate the impact
+of enforced Runx1 expression in the absence of Fli1, we
+used a dual RV transduction approach and combined control or
+Fli1 sgRNA RV transduction with either empty or Runx1 expressing
+RVs. Singly versus dually transduced cells were distinguished using VEX
+(for sgRNA) and mCherry. C9P14 cells were efficiently singly or
+dually transduced ( Figure S5 F), adoptively transferred into Cl13-infected
+mice and the double transduced (i.e., GFP + VEX +
+mCherry + ) C9P14 cells were analyzed on day 8
+p.i. ( Figure 5 A). In the sgFli1+Runx1-OE group, the
+number of GFP + VEX + mCherry + C9P14 cells
+was reduced, and there were fewer Ly108 − CD39 +
+cells. In contrast, the sgFli1+Empty-RV group had an increase in
+the GFP + VEX + mCherry + C9P14 cell population,
+and these cells were skewed toward the Ly108 − CD39
++ T EFF -like fate ( Figures 5 B–5D and
+S5 G) as above. However, in the Fli1 -deficient setting
+where there was enhanced CD8 + T cell expansion, Runx1
+overexpression reduced the magnitude of the response and partially reversed
+the skewing toward the Ly108 - CD39 + T EFF
+-like fate caused by loss of Fli1 ( Figures 5
+B–5D).

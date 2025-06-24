@@ -1,0 +1,15 @@
+The present study takes usage-based Construction Grammar as its theoretical
+framework. Following Goldberg (2013 :17), constructions are form-meaning pairings at
+different levels of abstraction displaying different degrees of idiomaticity, ranging
+from individual words to abstract patterns (see Table 1 ).
+At higher degrees of schematicity, constructions have functional slots that
+can be partially filled or completely open; the benefactive and
+transitive constructions are thus highly schematic constructions which are not
+partially filled. Open in Viewer Table 1 . Constructions on
+Different Levels of Abstraction and Idiomaticity Construction (level of abstraction)
+Example Word calendar, exchange, indeed Word (partially filled functional slots)
+un-V, V-ed Idiom (filled) bite the bullet Idiom (partially filled
+functional slots) give/show <someone> the cold shoulder Idiom (minimally filled)
+The Xer the Yer The sooner he leaves, the better
+Benefactive construction She carved him a chuppah Transitive construction He
+opened the door

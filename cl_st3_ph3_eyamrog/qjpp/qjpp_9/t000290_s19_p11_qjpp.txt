@@ -1,0 +1,14 @@
+The vowel /æ/ has both the longest average duration ,
+and exhibits the least amount of variation by coda ,
+with only pre-/ŋ/ context showing a significant decrease in duration
+. /ɛ/ has the shortest average duration among the vowels,
+with slight abbreviation before /k/ and substantial lengthening before /ɡ/.
+Contrastingly, /e/ exhibits a consistent pattern of abbreviation before velars
+/k/ and /ɡ/ (it does not occur before /ŋ/). To
+illustrate these various patterns, Figure 5 displays boxplots of vowel
+duration by coda context. Regarding social factors, the model finds
+a significant effect of gender , with women producing longer
+vowels than men in every case. ethnicity also plays a
+role in production of /æ/, which is shorter as produced
+by Filipino speakers compared with Mennonites. Open in Viewer Figure
+5 . Vowel Duration Distributions Within Coda Contexts

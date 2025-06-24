@@ -1,0 +1,7 @@
+Finally, in this baseline framework, we have assumed that the
+duration of the period when individuals are infected and infectious
+is not influenced by SDs. However, we understand that this
+may not always be the case, hence another research direction
+can be to investigate the effects of SDs both with
+regards to the infection period of individuals and the period
+that they are infectious.

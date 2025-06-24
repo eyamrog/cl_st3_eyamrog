@@ -1,0 +1,6 @@
+Importantly, the qualitative features of these plots, including the number
+of phases in the coexistence region and the relative heights
+of the barriers, are relatively insensitive to the choice of
+Δ ⁢ 𝜇 values. We also verified that these qualitative
+features are not sensitive to variations in the relative binding
+interaction parameters.

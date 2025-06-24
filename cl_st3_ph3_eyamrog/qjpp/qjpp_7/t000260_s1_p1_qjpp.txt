@@ -1,0 +1,11 @@
+The role of socio-economic conditions has been largely implicit in
+mathematical epidemiological models. However, measures to address the current pandemic,
+specifically the relevant interventions proposing physical distancing, have highlighted how
+social determinants affect contagion and mortality dynamics of COVID-19. For
+the most part, these social determinants are not present in
+either policy discussions or in epidemiological models. We argue for
+the importance of incorporating social determinants of health into the
+modelling dynamics of COVID-19, and show how global variation of
+these conditions may be integrated into relevant models. In doing
+so, we also highlight a key political economy aspect of
+reproduction dynamics in epidemics.

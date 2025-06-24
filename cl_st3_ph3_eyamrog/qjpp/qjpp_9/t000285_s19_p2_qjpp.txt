@@ -1,0 +1,19 @@
+Figure 1 shows the distribution of full, reduced, and coalesced
+tags according to locality, which is statistically significant (χ 2
+= 158.68; d.f. = 4; p < 0.001). Under the
+temporal continuum whereby full tag variants are the oldest forms,
+followed by reduced variants, then coalesced variants, the results in
+Figure 1 suggest that Tyneside is the least advanced of
+the three communities in terms of negative tag erosion. In
+Tyneside, there is a clear preference for full tags (70.4
+percent), with lower rates of reduced (7 percent) and coalesced
+variants (22.6 percent). Glasgow and Salford pattern most alike, with
+almost the same relative frequency of coalesced forms. Salford has
+relatively equal rates of use for full and reduced variants,
+but in Glasgow the balance is tipped in favor of
+reduced forms (46.3 percent) compared to full forms (21.3 percent).
+The community with the least tag erosion—Tyneside—also has the sharpest
+social stratification of variation according to age and gender, as
+we will see in section 5.4 , suggesting an ongoing
+change. Open in Viewer Figure 1 . Overall Distribution of
+Negative Tag Variants

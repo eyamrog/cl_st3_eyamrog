@@ -1,0 +1,11 @@
+The second two tests I apply were used by Edelstein
+(2014) to support the analysis of a novel derivational structure
+for the AEP (see Figure 1 ), which differed from
+that of the standard embedded passive ( Figure 2 )
+or concealed passive ( Figure 3 ). The tests indicated
+a closer syntactic relationship between an AEP matrix verb and
+its passive complement than would exist under derivations of a
+non-finite clause being taken as a complement to a matrix
+clause. Edelstein’s (2014) proposal that, in the AEP, the matrix
+verb takes an AspP as a complement rather than a
+TP or complementizer phrase provides this closer syntactic relationship.

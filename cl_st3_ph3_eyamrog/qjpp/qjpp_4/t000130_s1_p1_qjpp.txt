@@ -1,0 +1,15 @@
+Neural migration is a critical step during brain development that
+requires the interactions of cell-surface guidance receptors. Cancer cells often
+hijack these mechanisms to disseminate. Here, we reveal crystal structures
+of Uncoordinated-5 receptor D (Unc5D) in complex with morphogen receptor
+glypican-3 (GPC3), forming an octameric glycoprotein complex. In the complex,
+four Unc5D molecules pack into an antiparallel bundle, flanked by
+four GPC3 molecules. Central glycan-glycan interactions are formed by N-linked
+glycans emanating from GPC3 (N241 in human) and C-mannosylated tryptophans
+of the Unc5D thrombospondin-like domains. MD simulations, mass spectrometry and
+structure-based mutants validate the crystallographic data. Anti-GPC3 nanobodies enhance or
+weaken Unc5-GPC3 binding and, together with mutant proteins, show that
+Unc5/GPC3 guide migrating pyramidal neurons in the mouse cortex, and
+cancer cells in an embryonic xenograft neuroblastoma model. The results
+demonstrate a conserved structural mechanism of cell guidance, where finely
+balanced Unc5-GPC3 interactions regulate cell migration.

@@ -1,0 +1,21 @@
+We conduct three analyses to explore potential violations of the
+identifying assumption that confounding discontinuities at 18 and any manipulation
+of the running variable are time-invariant. First, we focus on
+two potential major discontinuities at the age of 18: living
+situation and personal income. We find no indication that the
+proportion of individuals living with their parents ( eFig. 2.A
+. in appendix D) or the average income ( eFig.
+2.B . in appendix D) evolved dissimilarly in the low
+and high deductible periods. Additionally, and following Grembi et al.
+(2016) , eFigure 3 shows no evidence of time-varying annual
+RDD of mental health care use at age 18 in
+the low deductible period (2009, 2010 and 2011). Finally, while
+age cannot be manipulated, adolescents might anticipate the deductible introduction
+in the last months/year of the exemption; and therefore change
+their mental health care consumption already before turning 18. While
+this violates the identifying assumptions of the standard RDD framework,
+difference-in-discontinuity can overcome such anticipatory behaviour provided it is time-invariant.
+Our estimates in eTable 1 provide supportive evidence of time-invariant
+anticipatory behaviour in the low versus high deductible periods, indicating
+that differences in this behaviour over time are not driving
+our results.

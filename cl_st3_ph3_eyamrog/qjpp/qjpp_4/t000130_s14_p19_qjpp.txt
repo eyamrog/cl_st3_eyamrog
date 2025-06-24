@@ -1,0 +1,22 @@
+Unliganded mGPC3 core and rUnc5D IgIgTSP were concentrated separately to
+10 μM, dialyzed against 1M ammonium acetate buffer (pH 7.5)
+overnight at 4°C, and injected at 3 μM concentration. The
+mGPC3 core(R355A/R358A) - rUnc5D IgIgTSP complex was concentrated to 15
+μM (assuming a 4:4 stoichiometry) and dialyzed against 200mM ammonium
+acetate (pH 7.5) and injected at 3.3 μM concentration. The
+protein samples were loaded into in-house prepared gold-coated capillary needles
+(Harvard Apparatus) and were injected directly to the mass spectrometer.
+The experiments were performed using a Q-Exactive UHMR Hybrid Quadrupole-Orbitrap
+mass spectrometer (Thermo Fisher). Typically, 3 μL of protein solution
+was electrosprayed from gold-coated capillaries. The instrument parameters for MS
+are as follows: 1.2 kV capillary voltage, S-lens RF 200%,
+quadrupole selection from 1,500 to 20,000 m / z range,
+in-source trapping energy (0-20V), nitrogen UHV pressure of 6.07 ×
+10 −10 mbar and capillary temperature of 100 °C. The
+resolution of the instrument was 17,500 at m / z
+= 200 (transient time of 64 ms). The noise level
+was set at 3 rather than the default value of
+4.64. For MS/MS analysis, collisional activation in the HCD cell
+was provided (0–300 V). Calibration of the instruments was performed
+using a 10 mg/mL solution of cesium iodide in water.
+Data were analyzed using the Xcalibur 4.1 (Thermo Scientific).

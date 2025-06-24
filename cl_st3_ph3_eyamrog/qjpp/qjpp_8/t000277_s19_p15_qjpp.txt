@@ -1,0 +1,18 @@
+The analysis of the antecedents in all eight corpora began
+with the manual coding of antecedent category and plurality. Following
+Paterson (2014) , as also done by Loureiro-Porto (this issue),
+the categories I used were definite noun phrases, or NPs
+( the skeptic , the embryo , your laptop users
+), indefinite NPs ( a student , a young person
+), quantified NPs ( no citizen , any one native
+speaker ), and indefinite pronouns ( someone , anyone ).
+To cover the range of antecedent types in these corpora,
+it was necessary to add a bare NPs category, most
+of which were plural ( Shamans , Club DJs ).
+Thus, different to other epicene pronouns, combined pronouns can take
+plural antecedents without necessarily referring to more than one person.
+These antecedents, although rare ( N = 5), were included
+in the analysis because the function of a combined pronoun
+as a generic reference (as in 8) is not confused
+by plural antecedents in the same way that singular they
+(9) or generic he (10) could be.

@@ -1,0 +1,16 @@
+The 1034 negative tag tokens within the variable context were
+coded for various factors that were deemed likely to affect
+the choice of variant and which will facilitate the analysis
+of how grammaticalization mechanisms operate in the negative tag systems
+of different English dialects. The first of these coded factors
+is paradigmaticity, which refers to the extent to which a
+tag agrees in person, number, and gender features with the
+anchor clause subject ( Andersen 2001 ; Pichler 2013 ).
+Lack of agreement between the tag and the anchor clause
+can indicate decategorialization as it shows “invariabilization,” whereby a form
+becomes less restricted in its syntactic distribution within a paradigm
+( Andersen 2001 :98). Non-paradigmatic innit , shown in (16),
+is common in London teenagers’ speech ( Andersen 2001 ;
+Cheshire, Kerswill & Williams 2005 ; Torgersen, Gabrielatos, Hoffmann &
+Fox 2011 ; Pichler 2021a ). (16) I was talking
+to you earlier on innit (COLT; Stenström 1997 :141)

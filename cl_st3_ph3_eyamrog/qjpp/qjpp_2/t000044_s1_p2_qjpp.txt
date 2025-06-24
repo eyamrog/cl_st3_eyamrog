@@ -1,0 +1,16 @@
+Methods: For this systematic review and meta-analysis, we searched without
+date restrictions for original research studies in English that reported
+data on the prevalence or incidence of TBI, or the
+association between TBI and one or more health-related or function-related
+outcome measures. Studies were included if they had a group
+or clearly identifiable subgroup of individuals who were homeless, marginally
+housed, or seeking services for homeless people. With use of
+random-effects models, we calculated pooled estimates of the lifetime prevalence
+of any severity of TBI and the lifetime prevalence of
+moderate or severe TBI. We used meta-regression and subgroup analysis
+to evaluate potential moderators of prevalence estimates and the leave-one-out
+method for sensitivity analyses. We then summarised findings from all
+studies that evaluated TBI incidence and the association between TBI
+and health-related or functioning-related outcomes. All statistical analyses were done
+using R version 3.5.1. The study is registered with PROSPERO,
+number CRD42019119678.

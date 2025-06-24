@@ -1,0 +1,21 @@
+The stability in the formant curves’ shapes in apparent time
+supports Koops’ (2010) proposed development of goose -fronting in the
+South. As mentioned previously, Koops (2010) finds two distinct realizations
+of goose in Houston Anglos: a fronted “southern” version that
+has relatively little spectral change ([y]), and a “mainstream” version
+with a fronted nucleus and a backer offglide ([ɪ u
+]). Labov (2008) suggests that these two variants have a
+shared history, with an intermediate diphthongal stage [ü u ].
+At that point, there was a split, and one variant
+lost its lip rounding while the other fronted the offglide
+to re-form a monophthong. Koops (2010) instead proposes that these
+two renditions of goose were independent developments. The mainstream variant
+began as [u] and, over time, fronted only the nucleus
+while the glide remained in place, resulting in an increasingly
+diphthongal goose with a greater drop in F2 over the
+vowel’s duration. The Southern variant also began as [u], but
+the nucleus and glide fronted in tandem, retaining the monophthongal
+quality over time. The stability in formant trajectories that we
+find in apparent time supports Koops’ (2010) proposed development of
+“southern” goose , specifically by finding no evidence of the
+development and subsequent loss of an offglide.

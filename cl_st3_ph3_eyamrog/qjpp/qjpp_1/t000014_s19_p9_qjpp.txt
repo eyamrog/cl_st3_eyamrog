@@ -1,0 +1,24 @@
+An enzyme-linked immunospot (ELISpot) assay was used to quantify virus-specific
+T cell responses by measuring the secretion of interferon (IFN)-γ,
+tumor necrosis factor (TNF)-α, interleukin (IL)-4, IL-5 and IL-13 after
+stimulating peripheral blood mononuclear cells (PBMCs) with peptides ( Methods
+) . We observed an increase in the levels of
+IFN-γ, which is produced by type 1 helper T (T
+H 1) cells (among other immune cells), across all treatment
+groups at 14 d after the booster (Fig. 4a ).
+Participants in group A had median IFN-γ spot counts of
+65 per 10 PBMCs (interquartile range (IQR) = 40, 135)
+compared with a count of 60 per 10 PBMCs (IQR
+= 20, 170) in group B. Lower IFN-γ spot counts
+were observed in group C (45 per 10 PBMCs; IQR
+= 30, 75) and group D (30 per 10 PBMCs;
+IQR = 10, 40). Baseline levels of TNF-α were comparably
+high across all groups and only increased slightly after the
+booster (Fig. 4b ). Higher post-vaccination IL-4, IL-5 and IL-13
+ELISpot counts were noted in the groups receiving homologous CoronaVac
+vaccination, suggesting type 2 helper T (T H 2) cell
+skewing in these recipients (Fig. 4c–e ). Overall, we observed
+a cytokine profile that might be suggestive of T H
+1 skewing in both heterologous booster groups A and C
+compared to the homologous booster groups B and D (Fig.
+4f ).

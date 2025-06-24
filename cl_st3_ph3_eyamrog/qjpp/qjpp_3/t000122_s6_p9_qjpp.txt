@@ -1,0 +1,19 @@
+In summary, we show that mAbs 1C3 and 1C11 are
+highly protective against severe disease and death due to EBOV
+and SUDV infections in NHPs and confer protection through a
+unique recognition of quaternary epitopes of the ebolavirus GP. Effective
+EBOV-specific mAb-based therapeutics are now standard of care after the
+PALM clinical trial; however, the PALM results sounded a note
+of caution: in patients with high viral loads, case-fatality rates
+remained >60% even with these effective agents ( Mulangu et
+al., 2019 39. Mulangu, S. ∙ Dodd, L.E. ∙ Davey,
+Jr., R.T. ..., PALM Writing Group, PALM Consortium Study Team
+A Randomized, Controlled Trial of Ebola Virus Disease Therapeutics N.
+Engl. J. Med. 2019; 381 :2293-2303 Crossref Scopus (1122) PubMed
+Google Scholar ). The unique binding footprint, absence of binding
+to sGP, and potential for dose-reduction make this 1C3/1C11 combination
+an attractive developmental strategy for consideration in improving outcomes for
+EVD patients. Furthermore, the ebolaviral breadth provided by the combination
+may simplify preparedness, therapeutic pre-positioning, and agile public-health and clinical
+response strategies in regions at risk for either EBOV or
+SUDV outbreaks.

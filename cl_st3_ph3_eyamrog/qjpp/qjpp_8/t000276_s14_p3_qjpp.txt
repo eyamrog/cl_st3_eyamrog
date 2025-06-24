@@ -1,0 +1,11 @@
+In order to extract relevant data from the corpus, appropriate
+queries were entered into CorpusSearch 2 ( Randall, Kroch &
+Taylor 2005-2013 ), a free downloadable software designed for extracting
+data from parsed corpora. All queries processed by the program
+were written in Notepad++ and can be found in Appendix
+2. After data extraction, certain strings were manually excluded from
+further scrutiny. For the simple postposition type, excluded categories were
+adjectivally modified indefinite pronouns, where the adjective is obligatorily postposed,
+as in (7), and adjectives in the vocative case, which
+were excluded on the grounds of being virtually limited to
+the formulaic string Hlaford leof , as in (8).

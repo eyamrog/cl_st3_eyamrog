@@ -1,0 +1,25 @@
+For lcr studies taking lexis as an entry point, researchers
+often start with frequency counts. For example, Li and MacGregor
+(2010) assessed the validity of Vocabulary Levels Test ( vlt
+) as a test of university students’ vocabulary essential to
+their fields of study. The study found that vlt lexis
+frequencies did not match real-life language use. Wong (2018) also
+counted word frequencies used in commenting by university students. Frequency
+counting appears to be a convenient and intuitive way of
+studying lexis in lcr , yet recent lcr using lexical
+metrics has explored more fruitful research questions, including lexical complexity
+in different grades of essay compositions ( Lee et al
+., 2021 ) and speech ( Yan, 2019 ). Over
+time, the focus of lexis-type research has shifted from small
+units (e.g., collocations) to clauses and sequences, and finally to
+overall syntactic complexity in L2 learner output. Fan (2009) first
+studied collocations between words (limited to five) that were commonly
+used by learners; later, Yao (2016) focussed on clefts (i.e.,
+the separation of clause elements for emphasis); while Qian and
+Pan (2019) explored modal sequences (i.e., expressing mood, possibility and
+obligation). In another recent study, Lee et al . (2021)
+used fourteen syntactic complexity indices from Lu (2010) in various
+grades of essay writing and found significant differences between high-
+and low-scored texts. These studies highlight that lcr in Hong
+Kong has started to use a diverse range of syntactic
+indicators to acquire better insights into learner language.

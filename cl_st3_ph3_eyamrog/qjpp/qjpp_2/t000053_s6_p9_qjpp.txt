@@ -1,0 +1,16 @@
+Tuberculosis active case-finding interventions are necessarily highly context-dependent. Different methods
+of delivering tuberculosis active case-finding and different diagnostic algorithms (eg,
+initial screening using symptom interview vs using chest x-ray) might
+be used in different settings, depending on factors such as
+resources available, physical geography, health systems capacity, expected prevalence of
+tuberculosis (ie, pre-test probability of tuberculosis), prevalence of drug resistant
+tuberculosis, prevalence of HIV, and laboratory infrastructure and capacity. In
+areas with high HIV prevalence, Xpert MTB/Rif might be a
+more appropriate diagnostic test than sputum smear, and false negatives
+from symptom screening might be expected to be more common.
+Future studies should describe their context and intervention in as
+much detail as possible and fully report all numerators and
+denominators for total population targeted, number of individuals screened, number
+requiring a diagnostic test, number receiving a diagnostic test, number
+testing positive, and number starting treatment. When appropriate, false positive
+results should also be reported.

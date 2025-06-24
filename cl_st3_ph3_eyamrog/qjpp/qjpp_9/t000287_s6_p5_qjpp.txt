@@ -1,0 +1,13 @@
+The implementation of the reversal offers independent evidence for Sloos’
+(2018) account of perceptual salience playing a role in dialect
+contact-induced sound change. Sloos (2018) finds that Austrian German moves
+away from a merger of the bären and beeren vowels,
+while Swiss German moves toward this merger. Both changes are
+apparently due to contact with northern German varieties, which have
+variable overlap of the vowels. Sloos (2018) suggests that Austrian
+German speakers notice when northern German speakers produce a distinction,
+because it is different from their own speech. As a
+result, they target a distinction and separate the merger. The
+opposite occurs for Swiss German speakers: they notice the overlap
+as different from their own speech and target that overlap
+as a prestige form.

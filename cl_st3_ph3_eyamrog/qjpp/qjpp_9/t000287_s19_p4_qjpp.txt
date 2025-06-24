@@ -1,0 +1,12 @@
+Pillai scores indicate, then, that overlap between start and north
+was essentially total for many St. Louisans born as late
+as 1950. This, however, does not necessarily mean that the
+vowels were in complete merger. It is possible, for example,
+that a slight degree of non-overlap is systematic and indicative
+of a small difference in the distribution of vowel production.
+It is also possible that by focusing on an overlap
+in the overall distribution of tokens, we overlook a difference
+in mean production. At the same time, it is possible
+that an acoustic measure other than F1/F2, such as vowel
+duration, distinguishes the pair. For these reasons, determining merger status
+requires looking beyond individuals’ Pillai scores.

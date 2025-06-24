@@ -1,0 +1,11 @@
+Tenny (1998 :592) and Edelstein (2014 :261-262) noted that need
++ED complements allow purposive by -phrase adjuncts, which force a
+verbal reading. Example (27) shows one of forty-six instances of
+need +ED taking a purposive by -phrase in the dataset.
+Example (28) shows the same for need +ING, which occurred
+in thirty-nine tweets. In the case of need +ING, the
+purposive by -phrase forces a verbal rather than nominal reading
+(see Huddleston & Pullum [2002 :1200] for this analysis of
+by -phrases in gerund-participle non-finite clauses). (27) Trash bags need
+picked up by KCMO Waste Department. (Kansas City) (28) That
+lad needs teaching a lesson by you. (Manchester)

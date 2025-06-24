@@ -1,0 +1,6 @@
+We estimated the expected gain in the NMB for each
+tested vaccination strategy in India (that is, using full dosing,
+1/2 dosing, 1/4 dosing or 1/8 dosing) by using 100
+stochastic simulations, with the resulting NMBs used to estimate the
+median and 95% CrI. All analyses were completed using MATLAB
+2020a.

@@ -1,0 +1,16 @@
+To generate ESCs with an EYS wt -only genotype, 10
+blastocyst-stage embryos were used for ESC derivation. Of these 10,
+3 had been genotyped by Sanger sequencing, 2 of which
+were EYS wt blastocysts. Five karyotypically normal ESC lines were
+obtained ( Figure S2 ; Table S3 ), but despite
+the presence of a distinct inner cell mass and attachment
+to a feeder layer, ESC lines were not obtained from
+the two EYS wt blastocysts, and cell death was observed
+within 3–4 days. Four cell lines showed an indel at
+the paternal mutation site, whereas one maintained an unmodified paternal
+allele ( Figure 3 B; Table S1 ). Thus, none
+of the ESC lines contained two wild type alleles, indicating
+no evidence for interhomolog repair. Combined with the 8 2PN
+zygotes tested for the presence of two wild type alleles
+( Figure S1 ; Table S1 ), none of the
+13 samples showed interhomolog repair after MII injection.

@@ -1,0 +1,5 @@
+WSIs of the biopsies were obtained using four different scanner
+models from three vendors: 3DHISTECH, Hamamatsu Photonics and Leica Biosystems
+(Supplementary Table 1 ). The open source ASAP software (v.1.9:
+https://github.com/computationalpathologygroup/ASAP ) was used to export the slides before uploading
+to the Kaggle platform.

@@ -1,0 +1,6 @@
+To verify our hypothesis of the phenotypic effects of ILS
+genes, we used the CRISPR/Cas9 system to produce transgenic mice
+lines. We designed two genetic manipulation experiments targeting the point
+substitution of the Wfikkn1 gene ( Figures S5 A and
+S5B) and a whole gene knock-in for Papss2 gene (
+Figures S5 C and S5D) as described below.

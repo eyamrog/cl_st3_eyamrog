@@ -1,0 +1,8 @@
+Interviewers indicated in the interviewer questionnaire whether any third adult
+persons were interfering with the interview, for example, spouses, siblings,
+in-laws, or other people. As the ESS does not give
+a clear definition of interference, the colloquial meaning is assumed
+(“to interpose in a way that hinders or impedes; come
+into collision or be in opposition”; “Definition of Interfere” 2018
+). The variable is therefore binary, indicating whether this occurred
+or not.

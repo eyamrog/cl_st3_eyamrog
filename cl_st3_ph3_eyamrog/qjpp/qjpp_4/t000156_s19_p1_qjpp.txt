@@ -1,0 +1,9 @@
+After setting the cohorts and body height categories defined in
+the previous section, possible changes of dynamometry values (mean of
+both hands) at camp entry were ascertained in correlation with
+the camp year. Figure 1 clearly shows that all measurements
+in individuals attending the camps in Granada are quite higher
+than those from the rest of cohorts. We hypothesize that
+this might have happened if measurements in the Granada camps
+were taken reading the traction force gauge rather than the
+compressive force gauge (see the discussion section).

@@ -1,0 +1,9 @@
+Section 2 summarizes theoretical considerations pertaining to the description of
+IndE and of modals and semi-modals in AmE and BrE.
+Section 3 presents the newspaper corpora and lists the variables
+of interest and their classification. The results, presented in section
+4 , give a detailed view of modal use in
+historical Indian newspapers by demonstrating variations in frequency over time,
+genre, and semantics. These results are discussed in section 5
+pointing to their methodological and theoretical implications for the diachronic
+study of modality as well as language change in IndE.

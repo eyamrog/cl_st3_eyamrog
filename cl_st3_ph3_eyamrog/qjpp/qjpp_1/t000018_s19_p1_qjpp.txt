@@ -1,0 +1,13 @@
+Inflamed tissue from patients with IBD is commonly resected when
+either medical therapies have failed, when patients opt for elective
+surgery or when acute complications require emergency surgery. We used
+such tissues (referred to as difficult-to-treat IBD) as our discovery
+cohort (Extended Data Fig. 1 ). Amongst IBD tissue samples
+( n = 41) from the 31 patients in this
+cohort, 15 were macroscopically uninflamed, including seven samples for which
+paired uninflamed/inflamed tissue was available. We additionally profiled unaffected, nontumour
+tissue ( n = 39) collected from 39 patients with
+colorectal cancer (CRC) and undergoing surgery as non-IBD controls. Bulk
+RNA-sequencing (RNA-seq) was used to generate whole-tissue gene expression profiles
+across all samples ( n = 41 IBD and n
+= 39 non-IBD; the‘discovery cohort’).

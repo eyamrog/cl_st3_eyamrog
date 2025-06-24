@@ -1,0 +1,17 @@
+In this study, we conducted a phylogenetic analysis of 222
+mitochondrial genomes from papionin monkeys, 219 of which are from
+the genus Macaca and 60 of which are previously unpublished.
+These 60 new mitochondrial genomes are novel in the sense
+that they include (i) species not previously sampled for whole
+mitochondrial genome sequencing ( M. nigrescens , M. hecki ,
+M. togeanus , M. brunnescens ), (ii) novel geographical regions
+for which full genomes and/or intraspecific variation were not previously
+available ( M. fascicularis from several islands in the Lesser
+Sunda Islands, M. nemestrina from several locations on Borneo Island,
+all Sulawesi macaques except M. ochreata and M. brunnescens ),
+and (iii) prehistoric specimens of M. fascicularis as old as
+∼2 ka that were recovered during archaeological excavations on Flores.
+The increased taxon sampling and broader geographic and temporal coverage
+afforded by these new mitochondrial genomes provide insights into macaque
+evolution, particularly as it relates to macaque dispersals east across
+Wallace's Line.

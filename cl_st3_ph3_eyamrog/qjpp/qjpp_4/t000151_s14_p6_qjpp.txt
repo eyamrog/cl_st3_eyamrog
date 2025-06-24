@@ -1,0 +1,9 @@
+I fitted several Bayesian linear models, with T or E
+as outcome variables and handedness as a predictor, using the
+rstanarm package in R (Goodrich et al., 2020 ). Handedness
+was dummy-coded as two binary variables comparing (a) the effect
+of being left-handed versus right-handed and (b) the effect of
+being mixed-handed versus right-handed. One exception is when analyzing female
+estradiol levels, where data on mixed-handers was insufficient ( n
+= 16). In this case, left- and mixed-handers were combined
+into a single non-right-handers group ( n = 103).

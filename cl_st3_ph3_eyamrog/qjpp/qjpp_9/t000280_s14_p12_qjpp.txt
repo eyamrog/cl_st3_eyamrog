@@ -1,0 +1,9 @@
+The analysis of frequency utilizes the so-called Type B design
+( Biber & Jones 2009 :1298) where each text file
+is treated as an observation, which makes it possible to
+determine mean frequencies and quantify the amount of dispersion, as
+well as to use inferential statistics to determine whether the
+observed differences are statistically significant. The frequencies are normalized to
+1000 words of running text, which, although not ideal for
+determining opportunity of use ( Wallis, Bowie & Aarts 2012
+), is deemed sufficiently accurate for the present purposes. 9

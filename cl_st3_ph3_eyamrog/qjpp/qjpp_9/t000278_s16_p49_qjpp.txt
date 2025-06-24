@@ -1,0 +1,10 @@
+Support for Goldberg’s claim depends largely on the features that
+one considers criterial for SVCs, since the notion of a
+SVC has itself not been delimited clearly in the literature.
+Based on the typological surveys in Foley and Olson (1985)
+, Aikhenvald and Dixon (2006) , Bisang (2009) , and
+Shibatani (2009) , and on recent work by Cleary-Kemp (2015)
+and Haspelmath (2016) , it is possible to isolate a
+few basic properties of SVCs which recur and seem to
+have a direct bearing on the analysis of the VV
+ing OBL construction:

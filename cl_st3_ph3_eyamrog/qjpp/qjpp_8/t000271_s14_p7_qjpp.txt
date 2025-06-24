@@ -1,0 +1,18 @@
+The articles were marked up for sections, including Abstract, Introduction,
+Background, Methods, Results and Discussion, Conclusion, Acknowledgement, Footnote, and Supporting
+information, following the structure of the majority of research articles
+drawn from the top-ranking journal. Some of the sections such
+as Abstract, Introduction, and Conclusion can be found in almost
+all the articles under investigation. Some may be absent or
+not clearly marked out and were thus manually identified. In
+the present study, the Introduction section was considered containing the
+rationale of the study in question and often some metatext
+about the organisation of the article; the Background section may
+include any of the following: theoretical background (namely literature review),
+research questions or hypotheses, and historical development of a given
+issue/phenomenon; the Methods section normally contains research design, data selection,
+methodological framework, or statistical models; the Results and Discussion section
+presents the results as well as an analysis based on
+specific data involved; the Conclusion section sums up the study
+and may or may not include a discussion of the
+limitations and directions for future research.

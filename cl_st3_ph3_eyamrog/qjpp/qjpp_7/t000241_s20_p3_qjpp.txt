@@ -1,0 +1,14 @@
+To examine the threshold level at which governance quality must
+be maintained to ensure that the favorable impact of tourism
+on income inequality is maintained, the threshold value for each
+governance proxy was computed. The study found that three of
+the four interaction variables between governance and tourism are statistically
+significant. Overall, the results show that the favorable (negative) impact
+of tourism on income inequality is likely to change to
+unfavourable (positive) impact if the following governance levels are exceeded:
+1.6842 (0.0032/0.0019) for the case of VAC, 3.1429 (0.0022/0.0007) for
+the case of PS, and 0.7436 (0.0029/0.0039) for the case
+of Govef. This implies that policymakers should ensure that these
+levels of governance quality are not exceeded in the countries
+under study for an increase in tourism arrivals to have
+a sustained favorable impact on income distribution.

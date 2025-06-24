@@ -1,0 +1,11 @@
+G3BP KO cells stably expressing indicated fusion proteins were first
+globally activated to trigger iLID-sspB dimerization by continuously exposing them
+with the 488 laser for 5-min. Light-activated condensates were then
+bleached in a ~1 μm 2 region with the 560
+laser at high power to quench the majority of the
+mCherry-sspB component of the condensate. Fluorescence recovery was monitored while
+imaging both mCherry and mGFP channels at a frame interval
+of 6 s. Fluorescence was standardized based on a non-bleached
+droplet in the same cell to control for FRAP-independent bleaching.
+Fluorescence intensity was compared to the initial image for generating
+plots.

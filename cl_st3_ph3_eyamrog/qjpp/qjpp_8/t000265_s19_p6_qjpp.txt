@@ -1,0 +1,8 @@
+The sensitivity analyses in Appendix G confirm the robustness of
+our estimates, both in terms of direction and size. We
+find consistent results when using larger age bandwidths, with estimates
+for males becoming more precise, and small and imprecise placebo
+discontinuities at age 16 ( eTable 3. ). Estimates obtained
+from a logistic model lead to similar conclusions, as well
+as those allowing for postcode-year variation or not accounting for
+any of the controls ( eTable 4. ).

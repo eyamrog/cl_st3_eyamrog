@@ -1,0 +1,13 @@
+Study designs were evaluated for rigor and the risk of
+bias. The risk of bias in this context is largely
+dependent on study designs that enable causal inference, so our
+evaluation reflected that emphasis. We classified each study's risk of
+bias into one of three broad categories: low risk of
+bias (randomized study or rigorous quasi-experimental design), medium risk of
+bias (regression analysis with a rich set of controls, propensity
+scores, or hierarchical modeling), or high risk of bias (descriptive
+comparisons with no or limited regression adjustment). We did not
+exclude any studies on the basis of weak study designs,
+as descriptive studies can be informative; however, we placed more
+weight on studies with more rigorous designs when drawing conclusions
+across studies.

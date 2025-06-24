@@ -1,0 +1,12 @@
+Let the variable c 1 capture SD1, such that higher
+values of c 1 correspond to higher levels of informal
+work, poverty, inequality etc., c 2 capture SD2, such that
+higher values of c 2 correspond to worse conditions of
+housing and c 3 capture SD3 such that higher values
+of c 3 mean better access to health and better
+quality of health infrastructure. Then based on the analysis of
+the previous section both the infection rate β is and
+the CFR δ are functions of c 1 , c
+2 and c 3 , with ∂ β ∂ c
+i > 0 a n d ∂ δ ∂ c
+i > 0 , f o r i = 1,2

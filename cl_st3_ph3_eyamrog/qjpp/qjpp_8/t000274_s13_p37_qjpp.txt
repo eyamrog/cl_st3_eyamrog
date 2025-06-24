@@ -1,0 +1,5 @@
+The impact of having two versions of the WiSP corpus
+is explored in Section 5 . Here we outline the
+additional modifications applied to Corpus 2, the corpus made available
+for archiving, to decrease the risk of re-identification of individuals.
+1) Extend the range of codes

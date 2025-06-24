@@ -1,0 +1,17 @@
+Cells were imaged on fibronectin-coated 96-well glass bottom dishes (Cellvis).
+Confocal images were taken on a Nikon A1 laser scanning
+confocal microscope using a 60x oil immersion lens with a
+numerical aperture of 1.4. The microscope stage was equipped with
+a humidified incubator to keep cells at 37°C and 5%
+CO 2 . Proteins tagged with mCherry, mGFP (“GFP”), EYFP,
+and miRFP670 (“iRFP”) were imaged with 560, 488, 488, and
+640 nm lasers, respectively. All experiments and image acquisitions were
+performed on living cells to avoid potential artifacts due to
+fixation, with three exceptions: (A) RNA-FISH experiments; (B) immunofluorescence studies;
+(C) Corelet/GFP co-localization analysis. No measurements of protein concentration were
+performed in fixed cells, as fluorescence intensity of proteins in
+specific cellular compartments were differentially affected by paraformaldehyde fixation. The
+above details apply to all imaging data in the manuscript
+with the exception of STED super-resolution ( Figure 6 G)
+and widefield microscopy ( Figures 6 H; S6 H) images.
+See below for details.

@@ -1,0 +1,13 @@
+Strikingly, the photostimulation in the GtACR2 mice caused a dramatic
+reduction in anticipatory licking in go trials, resulting in decreased
+hit rate ( Figures 2 J–2L). These mice were not
+affected by the laser in no-go trials, but this was
+because licking was rare in these trials to begin with.
+As expected, the mCherry mice were not affected by the
+laser in either go or no-go trials ( Figure 2
+L). Interestingly, once the GtACR2 mice had started licking in
+a “continuous licking” task, the photostimulation had no effect on
+the on-going licking behavior ( Figures 2 M and 2N).
+Thus, inhibiting aIC Fezf2 neurons impairs the anticipatory licking needed
+for obtaining reward, but does not affect the motor program
+underlying licking behavior.

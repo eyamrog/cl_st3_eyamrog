@@ -1,0 +1,26 @@
+We tested hippocampal firing rates for evidence of encoding other
+relationships related to value, such as those that have been
+observed in orbitofrontal cortex ( Kennerley et al., 2011 30.
+Kennerley, S.W. ∙ Behrens, T.E. ∙ Wallis, J.D. Double dissociation
+of value computations in orbitofrontal and anterior cingulate neurons Nat.
+Neurosci. 2011; 14 :1581-1589 Crossref Scopus (347) PubMed Google Scholar
+; Padoa-Schioppa, 2013 52. Padoa-Schioppa, C. Neuronal origins of choice
+variability in economic decisions Neuron. 2013; 80 :1322-1336 Full Text
+Full Text (PDF) Scopus (105) PubMed Google Scholar ). Specifically,
+we defined three additional value-related parameters that could plausibly be
+encoded: value sum, Q sum , which is the sum
+of the value of the three pictures ( Q 1
++ Q 2 + Q 3 ), value range, Q
+rng , which is the range of picture values (
+Q max - Q min ), and value difficulty, Q
+diff , which is the discriminability of the two most
+valuable pictures ( Q max - Q mid ). These
+regressors were linearly related to mean firing rates during the
+fixation epoch, FR fix , as: 𝐹 ⁢ 𝑅 𝑓
+⁢ 𝑖 ⁢ 𝑥 = 𝑏 0 + 𝑏 1
+⁢ 𝑄 𝑠 ⁢ 𝑢 ⁢ 𝑚 + 𝑏 2
+⁢ 𝑄 𝑟 ⁢ 𝑛 ⁢ 𝑔 + 𝑏 3
+⁢ 𝑄 𝑑 ⁢ 𝑖 ⁢ 𝑓 ⁢ 𝑓 The
+variance inflation factor for this model was in acceptable bounds
+for all sessions (< 2.5). Significance was assessed at p
+< 0.01.

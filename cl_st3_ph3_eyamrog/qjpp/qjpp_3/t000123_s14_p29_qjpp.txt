@@ -1,0 +1,23 @@
+Based on the coordinate information of 9,227 orthologs in all
+six marsupial species, we extracted the exon blocks that were
+shared among all marsupial species from the WGAs. In total,
+7,471 of 9,227 orthologs (81%) had at least one exon
+block that was qualified for topology inference. We considered an
+exon block as qualified when it met the following criteria:
+a) alignment consists of more than four different haplotypes; and
+b) constant sites < 70% or < 70bp. IQ-TREE v1.6.12
+with the ModelFinder function was used to infer the topologies
+from these exon blocks and we only kept the gene
+trees inferred from those windows that passed the composition Chi-square
+test. Then, we ran TreeShrink v1.3.7 ( Mai and Mirarab,
+2018 62. Mai, U. ∙ Mirarab, S. TreeShrink: fast and
+accurate detection of outlier long branches in collections of phylogenetic
+trees BMC Genom. 2018; 19 :272 Crossref Scopus (0) PubMed
+Google Scholar ) to detect and filter out the inferred
+gene trees with unexpectedly long branches caused by the erroneous
+sequences in any species of monito del monte, two diprotodontian
+species, or two dasyuromorphian species. In total, 22,743 exon blocks
+with an average length of 281 bp were retained and
+DiscoVista was then applied to measure the phylogenetic discordance at
+the MRCA of the monito del monte, diprotodontian and dasyuromorphian
+species based on these gene trees.

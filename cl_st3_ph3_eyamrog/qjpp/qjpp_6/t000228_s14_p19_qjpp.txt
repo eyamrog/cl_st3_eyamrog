@@ -1,0 +1,13 @@
+To investigate plant assemblages, we used nonmetric multidimensional scaling (NMDS)
+based on Bray–Curtis dissimilarities, allowing the visualization of dissimilarities in
+composition across samples. A stress level of <0.2 for NMDS
+is considered acceptable for this purpose ( Clarke, 1993 ).
+We grouped samples according to their archaeological horizons and tested
+for differences between groups by performing a permutational multivariate analysis
+of variance (perMANOVA) with 999 permutations using the adonis function
+in the ‘vegan’ package v. 2.5-7 ( Oksanen et al.,
+2020 ). For pairwise perMANOVAs, we corrected p -values for
+multiple testing using the Bonferroni method ( Bland and Altman,
+1995 ) of the p.adjust function. We tested the perMANOVA
+assumption of homogeneity of multivariate dispersions using the permutest function
+with 999 permutations.

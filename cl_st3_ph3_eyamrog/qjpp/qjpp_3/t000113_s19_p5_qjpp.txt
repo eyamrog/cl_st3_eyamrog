@@ -1,0 +1,19 @@
+Value place fields on the circular path were constrained to
+two dimensions. To test the dimensionality of the value place
+fields, we designed a helical path of similar diameter to
+the circular path that gradually traversed a third dimension (
+Figure 3 A). Both subjects completed between 2 and 4
+loops of the helix per session, although subject V tended
+to complete 4 loops more often than subject T (V:
+3.2 ± 0.4; T: 2.8 ± 0.3). We assessed value
+place activity in 578 hippocampal neurons (V: 355, T: 223).
+Approximately 60% had a place field in at least one
+loop (224/355 or 63%, in V; 136/223 or 61% in
+T), with consistent numbers of fields on each loop (
+χ 2 , V: loops 1–4, 140/355, 160/355, 115/282, and
+42/90, χ 2 = 2.8, p = 0.4; T: loops
+1–3, 69/223, 75/223, 78/204, χ 2 = 1.4, p =
+0.5). Many value place fields spanned multiple loops of the
+helix ( Figure 3 B), although the tuning typically became
+progressively weaker with increased distance from the center of the
+field ( Figure 3 C).

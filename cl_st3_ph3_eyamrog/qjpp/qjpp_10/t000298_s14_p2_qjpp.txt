@@ -1,0 +1,12 @@
+From the above three corpora, we searched the node word
+just and obtained 220 instances from locness-usarg , 168 instances
+from icnale and 500 instances from lttc-elc . Next, irrelevant
+instances, such as non-adverbials (e.g., ‘do not take just stands’),
+phrasal uses 4 ( just in ‘ just about’), and
+repeated instances, were filtered out. In total, seven instances from
+locness-usarg and two instances from icnale were removed. Lastly, we
+slimmed down the number of instances in lttc-elc from 500
+to 200 through random selection to make the size of
+the corpora comparable. The final number of the instances were
+213 in locness-usarg , 166 in icnale and 200 in
+lttc-elc .

@@ -1,0 +1,11 @@
+Spike-specific IgGs were induced in 212/213 individuals after vaccination. IgG
+levels after heterologous vaccination and homologous mRNA vaccination were similar
+(3,630 (IQR = 3721) and 4,932 (IQR = 4,239) BAU
+ml , respectively), whereas levels after homologous vector vaccination were
+significantly lower (404 (IQR = 510) BAU ml , P
+< 0.0001, two-sided Kruskal–Wallis test with Dunn´s multiple comparisons post
+test; Fig. 1a ). This difference was also observed for
+neutralizing antibodies, which were quantified by a surrogate neutralization test.
+While the majority of individuals in the vector/mRNA and mRNA/mRNA
+groups had 100% inhibitory activity, this was significantly lower in
+the vector/vector group (Fig. 1b ).

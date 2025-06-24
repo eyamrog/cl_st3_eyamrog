@@ -1,0 +1,7 @@
+HiFi reads obtained by the sequencing process were subjected to
+assembly using the HiCanu function of Canu ( Nurk et
+al., 2020 73. Nurk, S. ∙ Walenz, B.P. ∙ Rhie,
+A. ... HiCanu: accurate assembly of segmental duplications, satellites, and
+allelic variants from high-fidelity long reads Genome Res. 2020; 30
+:1291-1305 Crossref PubMed Google Scholar ), available at https://github.com/marbl/canu ,
+for R. pubera with the following command line:

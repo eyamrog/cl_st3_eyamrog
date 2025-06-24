@@ -1,0 +1,12 @@
+Differences in pretreatment module eigengene values between responders and nonresponders
+in prospective studies were assessed using Mann–Whitney U- tests, adjusting
+P values for testing of multiple modules within each dataset.
+In the study of Haberman et al. , we considered
+only patients on corticosteroid therapy, combining patients that received oral
+and intravenous administration. In the case of the 2018 study
+of Arjis et al. , which tested multiple different therapies
+and treatment regimens, we used analysis of variance (ANOVA) to
+identify any differences between responders and nonresponders across all combinations,
+adjusting for regimen, and post hoc Mann–Whitney U -tests to
+identify individual treatment regimens where modules were significantly different by
+response.

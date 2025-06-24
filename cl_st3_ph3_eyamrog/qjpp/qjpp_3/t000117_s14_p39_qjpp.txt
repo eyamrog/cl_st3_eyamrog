@@ -1,0 +1,3 @@
+For data visualization purpose, we used principal component analysis (PCA)
+for dimensionality reduction, and projected the population vectors onto a
+two-dimensional space.

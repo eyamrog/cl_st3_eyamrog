@@ -1,0 +1,13 @@
+PET-CT scanning on tumor bearing mice was performed by the
+Small Animal Imaging Facility (SAIF) core at Texas Children Hospital.
+Briefly, animals were fasted for about 12 hours and given
+with Flourine-18 labeled fluorodeoxyglucose (18F-FDG) one hour before the scanning
+via intra-peritoneal injection (Cyclotope, Houston, TX). The scanning was performed
+with appropriate anesthesia and monitoring to maintain normal breathing rates
+of subjects. Images were acquired by an Inveon scanner (Siemens
+AG, Knoxville, TN). 220 CT scan projections were acquired with
+290 ms exposure under 60 kVp X-ray tube voltage and
+500 μA current, followed by a 30-minute PET scan. The
+PET scans were then reconstructed and corrected with CT scans
+using OSEM3D method. A thresholding of 90% of SUVmax was
+applied to the PET images to indicate the tumors.

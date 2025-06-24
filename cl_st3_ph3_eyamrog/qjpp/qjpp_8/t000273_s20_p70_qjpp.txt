@@ -1,0 +1,25 @@
+As described in Section 3 , to answer our third
+Research Question, we focus on language that is characteristic of
+comments provided by patients with differing treatment durations by comparing
+sets of comments against each other using the keywords technique.
+As also noted in that section, our initial analysis considered
+the three patient groups separately. However, there was a large
+degree of overlap in the keywords for the 1-5 years
+and over 5 years groups. Therefore, we merged these groups
+together for this part of the analysis, which resulted in
+two sets of comments: i.) under 1 year, and ii.)
+1 year and over. We generated keywords for both of
+these sets of comments by comparing each against the other.
+Beginning with the under 1 year group, Table 5 gives
+the top 30 keywords (ranked by log-likelihood) for this set
+of comments (positive and negative) when compared against comments from
+patients who received treatment for 1 year or more. Table
+5. . Top 30 keywords for the under 1 year
+group compared to the 1 year and over group (frequencies
+in brackets). was (208,899), operation (22,503), were (62,871), radiotherapy (13,668),
+surgeon (10,347), surgery (14,766), did (21,508), after (31,180), biopsy (5,956),
+speed (4,311), quickly (6,458), had (73,535), quick (3,727), felt (12,021),
+weeks (11,333), Mr (5,515), night (4,247), impressed (3,726), thank (14,131),
+explained (5,631), everything (10,868), discharge (2,978), from (43,094), me (62,695),
+told (17,771), I (296,736), recovery (2,446), days (6,948), mammogram (2,329),
+theatre (1,276)

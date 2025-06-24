@@ -1,0 +1,8 @@
+The quality of the corpus in terms of various elements
+is also very important. In particular, Granger (2003 : 465)
+emphasises that learner corpora should be supplemented with proper annotation,
+such as error tagging. These annotations will allow for more
+systematic searches of corpus data, more accurate error statistics, and
+in-depth analyses of specific error types. However, despite the possibility
+of automated error tagging, in the case of learner data,
+manual annotations of learner errors are still needed.

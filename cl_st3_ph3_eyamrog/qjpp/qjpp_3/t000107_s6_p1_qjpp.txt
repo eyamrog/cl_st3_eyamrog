@@ -1,0 +1,13 @@
+Considerable current efforts focus on improving immunotherapy for cancer and
+chronic infections through a better understanding of the biology of
+T EX and T EFF differentiation. In this study, we
+used a focused in vivo CRISPR screening approach to specifically
+interrogate the mechanisms governing T EX versus T EFF differentiation.
+We identified Fli1 as a key TF that safeguards the
+transcriptional and epigenetic commitment to full T EFF differentiation. Mechanistically,
+Fli1 limited epigenetic accessibility to ETS:RUNX sites, preventing Runx3 from
+fully enabling an effector program. As a result, deleting Fli1
+robustly improved protective immunity in multiple models of acute infection,
+chronic infection and cancer, thus identifying Fli1 as a key
+regulator of the T EFF versus T EX differentiation programs
+and a target for future immunotherapy strategies.

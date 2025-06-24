@@ -1,0 +1,8 @@
+The corpus comprises 4,448 debates, divided into thirteen legislatures (see
+Table 1 ), each of which may contain up to
+four legislative sessions. The average number of utterances per debate
+is 305.12 (with median 273) and the standard deviation is
+194.38. The maximum number of utterances in a single debate
+is 2,104. There are, on average, 95.20 words per utterance
+(median of 19 and standard deviation of 198.30), with the
+longest utterance having 16,558 words.

@@ -1,0 +1,27 @@
+Over a steady, level walking stride, no net mechanical work
+is performed on the environment, and the total whole-body positive
+and negative work must sum to zero. In humans, muscle-tendon
+units of the lower limb provide most of the positive
+work through rotations of the joints; however, soft tissues such
+as the heel pad, intervertebral discs , or articular cartilages
+likely compress and perform significant negative work on the body
+without rotating the lower limb joints ( Zelik and Kuo,
+2010 ; Zelik et al., 2015 ). Our results indicate
+that humans exhibit an imbalance of limb joint work, with
+average negative-to-positive ratios of 67 ± 9% per step (i.e.,
+excluding limb swing). This is nearly identical to the ratio
+of 68% per step in level walking in DeVita et
+al. (2007) . At matched dimensionless speeds, bipedal chimpanzee negative-to-positive
+work is more balanced, with a ratio of 88 ±
+8% per step. This is due to greater negative work—and
+more active muscle-tendon unit lengthening—in bipedal chimpanzees than in human
+walking. Although the metabolic cost of performing negative muscle fiber
+work is low ( Woledge et al., 1985 ), soft
+tissue energy dissipation has no cost at all. As an
+example, a humanlike heel strike permits mechanical energy dissipation via
+the heel pad (e.g., Baines et al., 2018 ; Honert
+and Zelik, 2019 ), rather than muscle-tendon lengthening. The shift
+from facultative to habitual bipedal walking in hominin evolution likely
+increased our reliance on soft (non-muscular) tissues for mechanical energy
+dissipation, which may have some metabolic and fatigue-resistance benefits in
+walking overall.

@@ -1,0 +1,12 @@
+The negative tags variable was analyzed in terms of three
+types of variants which each represent a step in the
+erosion process—full (e.g., isn’t it ), reduced (e.g., int it
+), and coalesced (e.g., innit ). Quantitative variationist analysis of
+corpus data has shown that erosion of negative tags is
+widespread in the varieties studied but to different degrees, with
+Glasgow and Salford furthest ahead. The social stratification of the
+variation is clearest where the change appears to have progressed
+the least, i.e., Tyneside—with the data suggesting a change in
+progress led by young men—whereas in the community where the
+change appears to be furthest advanced, i.e., Salford, there is
+little to no significant social differentiation.

@@ -1,0 +1,13 @@
+The analysis of co-occurrence preferences of words and grammatical constructions,
+commonly referred to as “colligations” or “collostructions” ( Stefanowitsch &
+Gries 2003 ; Wiechmann 2008 ), makes use of the
+Type A design, where each occurrence of the word is
+treated as an observation ( Biber & Jones 2009 :1296).
+The analysis itself is carried out with the help of
+two measures, attraction and reliance ( Schmid 2000) . These
+two measures were chosen, because, along with being “excellent alternatives”
+to the commonly used Fisher-Yates Exact Test p -values and
+necessary in order to “do justice to both directions of
+associations and avoid missing information available in the data” (
+Küchenhoff & Schmid 2015 :538, 546), they are also amenable
+to visual exploration of the data.

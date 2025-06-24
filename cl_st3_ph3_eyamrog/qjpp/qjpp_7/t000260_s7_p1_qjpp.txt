@@ -1,0 +1,13 @@
+The extensive discussions around predictive modelling of SARS-CoV-2 (COVID-19) is
+commonly based on the use of mathematical epidemiological models. These
+largely originate in the work of Kermack and McKendrick (1927)
+, and study the transition of individuals between different compartments
+that correspond to relevant health conditions. The simplest and most
+popular of these is the SIR model, which assumes that
+a given population is split between three compartments: Susceptible (S),
+Infected (I), and Recovered (R), where at every point in
+time some of the susceptible individuals become infected and some
+of the infected individuals recover. In the baseline version of
+the SIR model, immunity of the recovered is assumed, and
+as more people get infected the number of S diminishes,
+which eventually leads the contagion to die out.

@@ -1,0 +1,13 @@
+However, in the specific case of studying COVID-19 vaccination intentions,
+a rating-based task is likely more conceptually appropriate than a
+discrete choice task. This may be the case for at
+least two reasons. First, although several vaccine candidates may become
+available for public consumption in the coming months, high demand
+and supply chain limitations could imply that Americans have little
+choice regarding which vaccine is available to them. In other
+words, COVID-19 vaccine uptake is not a straightforward economic or
+purchasing decision. Consequently, it is important to investigate not whether
+Americans seek out one vaccine over another, but to assess
+change in r their stated intentions to vaccine under different
+potential offerings (i.e., the vaccine that might be most available
+to them).

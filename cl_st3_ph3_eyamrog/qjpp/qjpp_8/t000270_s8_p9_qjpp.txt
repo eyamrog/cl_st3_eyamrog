@@ -1,0 +1,13 @@
+Previous research on disease spread in social networks has shown
+repeatedly that increased clustering leads to smaller epidemics ( Badham
+and Stocker, 2010 ; Keeling, 1999 ; Miller, 2009 ).
+Small-world networks that combine high clustering with short average path
+lengths, however, facilitate the spread of infectious diseases ( Watts
+and Strogatz, 1998 ). That is because transmission events are
+subject to probabilities, and the more transmissions are required to
+reach distant parts of the network, the more likely the
+transmission chain breaks. Ties bridging two clusters lower the average
+path length by providing shortcuts to access distant nodes with
+only a few steps. It follows that while clusters hamper
+the spread of infections, increasing numbers of bridges between clusters
+facilitate the disease to quickly spread through the entire network.

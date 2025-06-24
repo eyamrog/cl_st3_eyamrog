@@ -1,0 +1,8 @@
+To determine the antecedents of the combined pronouns, all of
+the hits returned by the query were downloaded as concordance
+lines with a span of fifty words either side. Manual
+analysis of the hundred-word co-text was enough to match each
+combined pronoun to its antecedent. In all of the corpora,
+there were only two erroneous hits where the query results
+were not combined pronouns but were actually two different pronouns
+referring to separate entities (as in 4).

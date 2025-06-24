@@ -1,0 +1,5 @@
+The general annotation structure of our corpus is exemplified below:
+<debate period="r3" legislature="1" session="1" number="1" date="1976-06-03"> <page number="1"> <utterance page-start="1"
+speaker-string="O Sr. Presidente" speaker-role="president" order="1">Dou a palavra ao senhor Alberto
+Alves</utterance> <utterance page-start="1" speaker-id="123" speaker-name="Alberto Alves" speaker-party="AB" speaker-string="O Sr. Alberto
+Alves (AB)" order="2">Blah</utterance> </page> </debate>

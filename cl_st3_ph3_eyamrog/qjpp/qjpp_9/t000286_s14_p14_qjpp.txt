@@ -1,0 +1,12 @@
+I did not intend to sample transitive- need constructions. However,
+as examples (4)-(6) illustrate, when the passive object complement is
+dislocated leftward, the matrix verb need and participle verb in
+the complement end up next to each other. During tagging,
+these look the same as need +TO, need +ING, and
+need +ED. 357 constructions were erroneously tagged as need +
+ED and recoded to transitive- need +ED, and sixty-four were
+tagged as need +ING and recoded to transitive- need +
+ING. These were excluded from the corpus of need -passives
+but will be examined opportunistically as their own dataset. There
+were only three occurrences of transitive - need +TO; these
+are not analyzed.

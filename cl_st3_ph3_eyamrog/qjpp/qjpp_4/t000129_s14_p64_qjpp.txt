@@ -1,0 +1,10 @@
+Polymer 3D snapshots shown in Figures 3 and S4 are
+representative single molecule structures taken from real MD simulations. Regions
+corresponding to Fl1, D1, Zfp42 R, D2, Fat1, Fl2 are
+differently colored. A slice of the simulated NE is rendered
+as a thick spherical wall colored as in FISH imaging.
+To clarify the relationship between the polymer and NE, each
+image is presented from the same point-of-view through a geometrically
+calibrated 3D rotation matrix. For visual purposes, polymers are shown
+in a coarse-grained version of a smooth third-order polynomial spline
+passing through bead coordinates.

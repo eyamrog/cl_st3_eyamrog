@@ -1,0 +1,18 @@
+For chicken embryonic limb buds, ChIPmentation libraries were prepared as
+previously described ( Schmidl et al., 2015 126. Schmidl, C.
+∙ Rendeiro, A.F. ∙ Sheffield, N.C. ... ChIPmentation: fast, robust,
+low-input ChIP-seq for histones and transcription factors Nat. Methods. 2015;
+12 :963-965 Crossref PubMed Google Scholar ). Briefly, dissociated limb
+cells were filtered through a 70 μm MACS® SmartStrainer before
+fixation with 1% MeOH-free formaldehyde in PBS on ice for
+10 minutes. Fixation was quenched using glycine, and the pellet
+was collected after centrifugation (3000rpm, 5 min, 4°C. Cells were
+then lysed in lysis buffer (10mM Tris pH 8.0, 100mM
+NaCl, 1mM EDTA pH 8.0, 0.5mM EGTA, 0.1% Sodium deoxycholate,
+0.5% N-lauroylsarcosine) on ice, before shearing with a Covaris E220
+for a fragment distribution of 200-700bp. Sheared chromatin was incubated
+with appropriate histone antibodies overnight at 4C. Antibody-bound chromatin was
+immunoprecipitated with Dynabeads™ Protein G. Tn5-mediated ”tagmentation” of pull-downed chromatin
+was incubated at 37°C for 5min. Chromatin was de-crosslinked with
+Proteinase K at 65°C overnight. DNA was then purified using
+the MinElute Reaction Cleanup kit.

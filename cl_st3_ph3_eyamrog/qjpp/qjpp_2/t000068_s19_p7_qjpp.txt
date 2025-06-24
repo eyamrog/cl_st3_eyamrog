@@ -1,0 +1,5 @@
+Noninferiority was confirmed in the as-treated and per-protocol analyses at
+the one-sided level of 0.05 but was not confirmed at
+the one-sided level of 0.025 (Tables S11 and S12). Findings
+were also confirmed in sensitivity analyses that accounted for missing
+data (Table S13).

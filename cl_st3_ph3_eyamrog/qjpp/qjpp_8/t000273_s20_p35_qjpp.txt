@@ -1,0 +1,4 @@
+16) … the test results were re-examined and there was
+an ill defined opacity which was missed! By the time
+the correct diagnosis was made, the cancer had spread to
+other areas.

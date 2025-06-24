@@ -1,0 +1,16 @@
+The negative tags were extracted from the Glasgow, Tyneside, and
+Salford transcripts using AntConc concordance software ( Anthony 2011 )
+using search terms that would capture the full range of
+forms. As the pronunciation of the tags is the basis
+for determining the variants, each token was listened to individually
+and coded. Tokens outside the variable context were removed from
+the sample. All of the examples in my data are
+attached to the right periphery of declarative clauses. There were
+no left-periphery (i.e., non-canonical) tags of the kind found in
+Multicultural London English (see section 2 ). Isolated follow-up questions
+like those in (15) were excluded as they are not
+tagged onto an anchor clause by the same speaker but
+refer back to a proposition expressed by the previous speaker
+( Andersen 2001 ). (15) Fieldworker: I find it really
+miserable com [pared to everything else. JK: [ Isn’t it?
+Uh-huh. (Tyneside)

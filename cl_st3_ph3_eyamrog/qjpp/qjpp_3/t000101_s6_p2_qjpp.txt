@@ -1,0 +1,21 @@
+Double-strand break repair in the embryo occurred predominantly through NHEJ
+or MMEJ. MMEJ restored the reading frame of the EYS
+2265fs allele through the loss of two amino acids in
+relation to the wild-type allele, whereas NHEJ restored the reading
+frame through the insertion of a single A nucleotide, resulting
+in two amino acid substitutions. These recurrent 1 bp insertions
+are the consequence of filling in 1 bp overhangs created
+by Cas9 cutting ( Lemos et al., 2018 22. Lemos,
+B.R. ∙ Kaplan, A.C. ∙ Bae, J.E. ... CRISPR/Cas9 cleavages
+in budding yeast reveal templated insertions and strand-specific insertion/deletion profiles
+Proc. Natl. Acad. Sci. USA. 2018; 115 :E2040-E2047 Crossref Scopus
+(113) PubMed Google Scholar ; Jasin, 2018 18. Jasin, M.
+Under the Influence: Cas9 Ends and DNA Repair Outcomes Crispr
+j. 2018; 1 :132-134 Crossref PubMed Google Scholar ). These
+novel EYS alleles, upon functional testing of the altered proteins,
+might be suitable for somatic gene therapy. In the germline,
+guidelines of the National Academies call for replacement of a
+disease-causing variant with a functional allele already common in the
+population ( NAS, 2020 32. NAS National Academies of Sciences.
+Heritable Human Genome Editing The National Academies Press, 2020 Crossref
+Google Scholar ).

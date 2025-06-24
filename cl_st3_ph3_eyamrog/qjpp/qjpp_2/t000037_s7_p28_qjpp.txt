@@ -1,0 +1,20 @@
+The concept of nonmaleficence is defined by actions that reduce
+the potential harms and burdens of collecting data and promote
+the benefits of doing so, to the greatest degree possible.
+Several threats to nonmaleficence include the use of nonhealth data
+and stigmatization of risk factors, violation of privacy, and mistrust
+in public health information and intentions. Digital surveillance relies primarily
+on systems that were not built for the explicit collection
+of health-related data, but a substantial amount of nonhealth data
+are also often collected during queries. If these nonhealth data
+are subsequently labeled as “risk factors,” this approach may attach
+stigma to certain behaviors or groups that are a proxy
+for the true underlying risk factors. There are many examples
+of stigma manifestation that occurred before the Internet—including the HIV
+epidemic—with groups becoming stigmatized on the basis of sexual orientation,
+country of origin, and race/ethnicity ( 41 , 88 ).
+Collection of nonhealth data for digital surveillance and the speed
+of nowcasting and social media set up similar misattribution of
+risk and stigma ( 78 ). What is communicated from
+digital surveillance and how it is presented to the public
+should be considered thoughtfully and cautiously.

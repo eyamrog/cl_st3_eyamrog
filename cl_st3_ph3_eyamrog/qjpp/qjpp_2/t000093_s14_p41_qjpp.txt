@@ -1,0 +1,17 @@
+The average fluorescence intensity for mCherry and mGFP in an
+individual cell was used to approximate the concentration of associated
+fusion proteins. This was determined by using manual image segmentation
+(ImageJ) to draw 4.5 × 4.5 μm square ROIs in
+cytoplasmic regions featuring homogeneous distribution of fluorescence (i.e., regions with
+low density of membrane-bound organelles like the Golgi). The aforementioned
+FCS calibration curves were then used to determine the protein’s
+concentration. Presence or absence of stress granules was manually annotated.
+For Corelet phase diagrams, phase separation was assessed based on
+whether visible “puncta” formed following a 5-min activation time course
+(6 s intervals between images). Only fully activated cells were
+considered to avoid confounding effects related to diffusion-based capture (
+Bracha et al., 2018 12. Bracha, D. ∙ Walls, M.T.
+∙ Wei, M.-T. ... Mapping Local and Global Liquid Phase
+Behavior in Living Cells Using Photo-Oligomerizable Seeds Cell. 2018; 175
+:1467-1480.e13 Full Text Full Text (PDF) Scopus (56) PubMed Google
+Scholar ).

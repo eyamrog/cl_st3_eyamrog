@@ -1,0 +1,11 @@
+Because back vowels tend to be more fronted after coronal
+sounds (e.g., /t/), the lexical sets of goose , foot
+, and goat were each split into two allophones based
+on whether the preceding sound was a coronal consonant. 3
+The labels we assign for the postcoronal allophones are toot
+, took , and toe , respectively, and for the
+elsewhere allophones, they are boot , put , and boat
+. We retain the use of the labels goose ,
+foot , and goat when referring to the vowel class
+as a whole rather than specific context-dependent allophones of those
+vowels.

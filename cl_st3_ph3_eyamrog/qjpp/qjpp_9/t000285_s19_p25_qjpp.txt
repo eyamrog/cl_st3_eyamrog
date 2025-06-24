@@ -1,0 +1,25 @@
+Table 8 shows that locality is the strongest predictor of
+tag reduction. Only Tyneside is distinguished from Glasgow (the reference
+level) statistically, with a significantly lower degree of tag reduction
+than the other two communities, which lends further support to
+the proposal in section 5.1 that Tyneside is the least
+advanced of the three localities with respect to erosion of
+negative tags. Salford and Glasgow appear to be further advanced
+but are not statistically distinct from one another. The second
+strongest predictor of tag reduction is verb type , with
+be tags undergoing more erosion than do . Tags with
+be are more frequent in the data and the fact
+that these undergo erosion the most is consistent with a
+usage-based account in which higher-frequency constructions are particularly prone to
+phonetic reduction ( Bybee & Hopper 2001 ; Bybee 2003
+; Krug 2003 ). The third and final significant predictor
+is age , with younger people using reduced/coalesced variants significantly
+more than older people, as expected of an ongoing change
+( Labov 2006 :206-207). The association of innit with younger
+speakers ( Krug 1998 ; Andersen 2001 ; Pichler &
+Torgersen 2009 ; Palacios Martínez 2015 ; Pichler 2016 ,
+2021a ) is observed here for phonetically eroded variants more
+broadly. Although tag reduction was more frequent amongst men compared
+to women in the distributional analysis in section 5.4 ,
+gender is not significant when considered alongside the other factors
+in the regression. C onduciveness remains a non-significant factor.

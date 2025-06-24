@@ -1,0 +1,14 @@
+We previously identified high expression of genes encoding the IL-6
+family member oncostatin M (OSM), and its receptor OSMR, in
+the inflamed intestine of patients with IBD as being associated
+with nonresponse to anti-TNF therapy . Notably, OSM produced by
+leukocytes signals primarily into stromal cells such as fibroblasts and
+endothelial cells. Subsequent transcriptomic studies have associated subsets of fibroblasts,
+inflammatory mononuclear phagocytes (MNPs), neutrophils and pathogenic T and plasma
+cells with therapy nonresponse in both UC and CD .
+It remains unknown whether the cellular and molecular hallmarks of
+treatment response are uniform across patients or whether several different
+tissular pathologies are linked to therapy failure through distinct mechanisms.
+Further understanding in those areas is crucial to the design
+of personalized treatment regimens and new therapeutics for individuals that
+do not respond to current options.

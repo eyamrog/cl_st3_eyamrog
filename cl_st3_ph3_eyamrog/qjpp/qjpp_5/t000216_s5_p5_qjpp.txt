@@ -1,0 +1,14 @@
+In the present study, we used landmark-based GMM to compare
+overall pelvic shape, while by contrast, most studies of hybrid
+morphology in nonhuman primates (e.g., Ackermann et al., 2006 ,
+2014 ; Kelaita and Cortés-Ortiz, 2013 ; Fuzessy et al.,
+2014 ; Ito et al., 2015 ) have used traditional
+morphometrics and nonmetric traits. This may, in part, account for
+differences in results between studies, as analysis of individual nonmetric
+traits or measurements can emphasize greater difference between specific regions
+that may be averaged out by analyses of overall shape
+using GMM. Similar GMM used to analyze shape in hybrid
+mouse crania show patterns of increased variation and extreme phenotypes
+similar to those seen in baboons ( Warren et al.,
+2018 ), however, suggesting that GMM is not entirely responsible
+for the differences in results between studies.

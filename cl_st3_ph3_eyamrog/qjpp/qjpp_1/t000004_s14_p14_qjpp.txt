@@ -1,0 +1,10 @@
+Based on the recording phase, each subject’s device was programmed
+to detect brief increases in low-frequency activity in both the
+left and the right ventral NAc (Supplementary Information). These detections
+of low-frequency activity triggered bilateral NAc rDBS (~1 μC cm
+charge density, 10-s duration). Low-frequency triggered bilateral stimulation has been
+well tolerated by both subjects. Neither subject 1 nor subject
+2 experienced a serious adverse event and all reported events
+were self-limited (Supplementary Table 1 ). Examination of sensitivity and
+specificity can be found in Supplementary Figs. 1 and 2
+.

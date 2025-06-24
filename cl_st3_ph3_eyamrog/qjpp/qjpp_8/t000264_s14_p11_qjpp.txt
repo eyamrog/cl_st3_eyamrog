@@ -1,0 +1,18 @@
+We use the Watanabe-Akaike information criterion (WAIC) to compare these
+models for goodness of fit ( Watanabe, 2010 ). This
+measure is a function of the models’ deviance estimates and
+can be written as seen below. W A I C
+= D E V w + p w With D
+E V w a variation of the deviance D E
+V w = ∑ i log ( E θ |
+y ( f ( y i | θ ) )
+) and p w an effective number of parameters calculation
+such that p w = ∑ i V θ |
+y ( log ( p ( y i | θ
+) ) ) . p w is considered a penalty
+term. Smaller values indicate a better fitting model, and a
+difference of at least 3 units is considered a statistically
+significant difference in fit. Due to being likelihood based, this
+measure is only comparable for models with the same outcome.
+Beyond this goodness of fit measure, we also consider estimate
+interpretability and feasibility.

@@ -1,0 +1,14 @@
+Despite these numerous differences, it is remarkable, nevertheless, that women
+and nisāʾ are keywords in their respective corpora. Nisāʾ is
+used nearly four times as often in apic in comparison
+with the reference corpus, arTenTen12 (Log Ratio = 1.96; bic
+= 931). Likewise, women is used more than twice as
+frequently in gkis in comparison with the online English reference
+corpus (Log Ratio=1.29; bic =441). Far from being arbitrary, these
+frequencies appear to be motivated by political ideologies that link
+gender and politics in both corpora. Hence, despite the substantial
+differences in political orientation and the wide gap between the
+cultures, histories, languages, ethnic and religious composition, economic status and
+social forces from which these discourses originate, the representation of
+women is a central element in the political discourses in
+both corpora.

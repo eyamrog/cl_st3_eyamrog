@@ -1,0 +1,13 @@
+A first step in determining whether the vowels were completely
+merged is to determine the degree of overlap between them.
+I do so using the Pillai-Bartlett trace of a MANOVA
+(also called a Pillai score), which is a measure of
+overlap between categories. This has been used to test whether
+a pair of vowels are merged (following Hall-Lew 2010 ;
+Hay, Warren & Drager 2006 ), because the measure includes
+both F1 and F2 in addition to preserving more of
+the information about the distribution of tokens than other measures
+do, such as the Euclidean distance between means. Although scores
+seldomly reach these values, a Pillai score of zero would
+indicate complete overlap between categories, while a Pillai score of
+one would indicate complete separation.

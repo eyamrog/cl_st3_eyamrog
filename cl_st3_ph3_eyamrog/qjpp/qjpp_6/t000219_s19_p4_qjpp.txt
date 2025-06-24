@@ -1,0 +1,6 @@
+The results of the phylogenetic PLS analyses are shown in
+SOM Table S10 . All pairwise tests yielded high and
+significant values ( r PLS > 0.965). In contrast to
+the phylogenetic uncorrected analyses, none of the vertebrae showed significant
+differences in the r PLS values compared with the rest
+of the vertebrae.

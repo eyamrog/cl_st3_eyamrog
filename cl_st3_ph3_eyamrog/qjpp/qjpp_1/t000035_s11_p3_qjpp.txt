@@ -1,0 +1,27 @@
+Known in the economics literature as instruments to be used
+for instrumental variables estimation, these factors that affect treatment assignment
+but do not affect outcomes directly can be used to
+obtain an unbiased estimate of the treatment effect when unobserved
+factors (e.g., hypochondria, motivation, preferences, health literacy) also affect health
+outcomes. Importantly, there could be unobserved differences in health status,
+stage of disease, or severity of disease that make people
+need long-term care and influence the choice of the health
+care team, but that are also related to the health
+outcomes. In addition, preferences of older adults are difficult to
+observe but may drive the long-term-care service mix in the
+home, such as wanting to be bathed only by an
+informal caregiver (or, conversely, only by a formal care provider).
+If one does not account for such differences, the potential
+effectiveness of long-term care will be understated because sicker people
+will be more likely to obtain more long-term care and
+will also be more likely to spend more on care
+and have poor outcomes. This could spuriously make it look
+like long-term care is bad for health. If study designs
+and corresponding analytical approaches neglect to consider or account for
+bias inherent in the choice to use formal care, informal
+care, or a combination of the two (e.g., endogeneity bias),
+they will produce biased estimates of the relationship between these
+treatments of interest and our outcomes of interest (health outcomes,
+health care use and costs, and overall well-being). Such potentially
+biased approaches preclude causal inference and the ability to make
+strong policy recommendations from the findings.

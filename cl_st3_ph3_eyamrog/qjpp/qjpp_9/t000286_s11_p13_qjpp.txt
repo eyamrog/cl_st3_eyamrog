@@ -1,0 +1,10 @@
+Following the implication of complementarity in Murray, Frazer, and Simon
+(1996) , Doyle (2014 :104) searched for tweets containing the
+strings needs to be done , needs done , and
+needs doing . He mapped locations of tweets from the
+continental United States that contained these three strings and found
+that the need +TO string “is acceptable in most locations,”
+whereas [ need +ING] “is strongest in the areas where
+[ need +ED] is not used,” providing empirical evidence that
+need +ING and need +ED are complementary variants in the
+United States ( Doyle 2014 :104-105).

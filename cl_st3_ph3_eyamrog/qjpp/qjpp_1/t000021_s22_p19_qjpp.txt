@@ -1,0 +1,19 @@
+We next used unsupervised analyses to examine differences in proliferating
+T cell responses over time among participants (Fig. 4c and
+Extended Data Fig. 10g ). Clustering over all proliferating T
+cells, we identified four subsets of cells with distinct gene
+programs (Fig. 4d and Supplementary Table 10 ): traditional CD8
+T cells, hyperproliferative CD8 T cells, naive CD4 T cells
+and a subset of cells that were CD8A but TRDC
+and FCGR3A (CD16). Using signatures from a single-cell study of
+cytotoxic cells, we determined that the FCGR3A cells were NK
+cells (Extended Data Fig. 10h and Methods ). Looking at
+the distribution of cells within each of these clusters, the
+NK cluster contained the highest proportion of proliferating cells at
+HIV detection and 1 week thereafter (Fig. 4e,f ). The
+majority of these were from P3 and P4. Thus, our
+data show that the two participants who maintain viral loads
+<1,000 viral copies ml at 2.75 years after infection without
+ART exhibit a subset of proliferative, cytotoxic NK cells during
+the earliest stages of acute infection before the majority of
+HIV-specific CD8 T cells arise.

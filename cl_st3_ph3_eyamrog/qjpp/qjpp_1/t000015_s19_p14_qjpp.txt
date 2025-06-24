@@ -1,0 +1,14 @@
+The conditional expression of Δ14 mutant FUS in MNs showed
+that the dosage of mutant protein determines the age of
+onset of MN degeneration in vivo. These experiments also revealed
+the cell-autonomous nature of this dose-dependent toxicity. The timing of
+microgliosis and subsequent MN loss in Δ14/WT animals was identical
+to that of c14/WT; ChAT-Cre mutants. The same was true
+in Δ14/Δ14, Δ14/c14; ChAT-Cre and c14/c14; ChAT-Cre mice, indicating that
+the MN degenerative phenotype is determined by the level of
+mutant Δ14 FUS expression specifically in MNs, without measurable contribution
+of mutant FUS expression in other cell types. Furthermore, these
+data suggest that microgliosis—and other possible, cell-non-autonomous contributors to MN
+degeneration—is a pathological response to mutant FUS-dependent MN pathology, as
+it occurs independently of mutant FUS expression in the responding
+microglia (Extended Data Fig. 5a–d ).

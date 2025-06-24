@@ -1,0 +1,10 @@
+Since a 2018 review of big data and public health
+( 98 ), the risks of misinterpreting big data findings
+for vulnerable populations that may exacerbate health inequity have become
+more apparent. 1 Equity-focused critiques suggest that incomplete conceptualizations of
+big data may solidify biases, which further marginalize vulnerable populations
+( 37 ). For example, there are widespread concerns about
+racial bias in algorithms ( 109 ), a digital divide
+that includes only data for certain populations ( 84 ),
+and the absence of big data in health and social
+systems in several lower-income countries ( 36 ).

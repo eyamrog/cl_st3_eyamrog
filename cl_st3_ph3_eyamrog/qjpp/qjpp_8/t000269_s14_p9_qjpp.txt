@@ -1,0 +1,16 @@
+The two outcomes were analysed using a bivariate non-linear growth
+curve model. Growth curve models are used to analyse data
+where repeated measures are nested within individuals. We adopted the
+multilevel modelling framework, where the total variance is split into
+variance between time points (level-1, within individuals) and variance between
+individuals (level-2). In this framework, time is modeled explicitly as
+a level-1 covariate and its slope is allowed to vary
+randomly across the individuals. The multilevel framework also allows for
+multivariate outcomes, which is implemented here by modelling conduct and
+emotional problems simultaneously. As Troncoso (2019) and Troncoso and Humphrey
+(2021) point out, multivariate growth curve modelling is advantageous because
+it allows us to analyse trajectories of conduct problems and
+emotional symptoms over time that are: systematic (they have a
+pattern over time); variable (varying growth rates across children); group-specific
+(varying according to individual characteristics) and outcome-specific (relating to an
+outcome while controlling for the association with the other).

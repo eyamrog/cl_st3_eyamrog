@@ -1,0 +1,19 @@
+Gene expression analysis of FACS-sorted cell populations from inflamed tissue
+from patients with IBD confirmed that several M4/M5 genes were
+highly expressed in CD16 neutrophils and podoplanin (PDPN) THY1 stromal
+cells (Extended Data Figs. 5a,b and 3c ; see Extended
+Data Fig. 6 for patient cohort details). Pathway analysis on
+genes upregulated in either cell type (see Supplementary Table 5
+for differential gene expression analysis) demonstrated that neutrophils were enriched
+in antimicrobial and tissue-toxic granule biology when compared to MNPs
+that were mostly defined by genes belonging to the antigen
+presentation pathway (Extended Data Fig. 5d ). Stromal cells were
+enriched in many genes assigned to extracellular matrix pathways (Extended
+Data Fig. 5d ). Of all differentially expressed genes between
+cell types, 35, 28 and 4% of all genes contained
+in M4/M5 were significantly enriched in stromal cells, neutrophils and
+MNPs, respectively (Supplementary Table 5 and Fig. 3c ). The
+enrichment of many M4 and M5 genes in sorted neutrophils
+explained the high correlation of modules M4 and M5 with
+the Nancy index (Fig. 1a ), which is weighted by
+the abundance of neutrophils .

@@ -1,0 +1,9 @@
+To provide a synthetic functional image through a visual representation
+of topographic thickness variation among Boxgrove, SH, and RMH, we
+performed a thickness analysis with Materialise 3-matic Medical (Materialise NV,
+Belgium). This software allows detection of differences in cortical thickness
+in absolute values in each specimen, so the differences in
+thickness of each bone are standardized by assigning an individual
+color scale—with minimum (green) and maximum thickness (red) values as
+the extremes of variation and yellow the mean value—that we
+can compare between individuals.

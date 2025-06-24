@@ -1,0 +1,27 @@
+Table 2 provides the results for the modals in terms
+of raw frequency. Log-likelihood testing was applied to determine their
+significance, using the exact corpus sizes. 5 As a category,
+modals slightly yet significantly increase between 1939 and 2005. Would
+, can , could , and ought ( to )
+have increased in frequency during this period and are evidently
+responsible for the rise in the overall frequency of the
+category. Should , must , might , and shall ,
+by contrast, show significant losses in frequency. The decline of
+must in particular contrasts with that found by Mair’s (2015)
+comparison of the Kolhapur (1978) and ICE-India (1990s) corpora, where
+must exhibits stability. Will and may cannot be said to
+have either increased or decreased in frequency; interpretation of the
+results for need are hindered by its modest frequency. Open
+in Viewer Table 2 . Modals in Three Indian English
+Newspaper Corpora (Raw Frequencies) 1939 1968 % change 1939-1968 2000s
+% change 1968-2000s % change 1939-2000s Would 486 561 +15.4*
+682 +21.6*** +40.3*** Will 722 750 +3.9 704 -6.1 -2.5
+Can 217 267 +23.0* 315 +18.0* +45.2*** Could 134 203
++51.5*** 208 +2.5 +55.2*** May 168 112 -33.3*** 152 +35.7*
+-9.5 Should 311 296 -4.8 254 -14.2 -18.3* Must 152
+80 -47.4*** 94 +17.5 -38.2*** Might 87 72 -17.2 42
+-71.4** -51.7*** Shall 24 15 -37.5 9 -40.0 -62.5** Ought
+(to) 5 6 +20.0 15 +150.0* +200.0* Need 7 7
+0.0 3 -57.1 -57.1 Total 2313 2369 +2.4 2478 +4.6
++7.1* Note: Significance levels: * = p < 0.05, **
+= p < 0.01, *** = p < 0.001.

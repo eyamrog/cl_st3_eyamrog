@@ -1,0 +1,7 @@
+A few tweets were correctly tagged as containing a need
+-passive but were tagged for the wrong construction. This occurred
+most frequently when need was followed by the intensifier fucking
+(21), usually resulting in need +ED tweets being erroneously tagged
+as need +ING. Such cases were re-coded to the correct
+need -passive. (21) Whoever evaluates quality needs fucking sacked .
+(Glasgow; tagged as need +ING)

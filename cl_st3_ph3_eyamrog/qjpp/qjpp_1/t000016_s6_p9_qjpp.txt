@@ -1,0 +1,19 @@
+Fourth, algorithms were compared against reference standards set by various
+panels of pathologists. Although the gold standard in the field,
+relying on pathologists’ gradings introduces a risk of bias because
+algorithms could learn the grading habits of specific pathologists and
+not generalize well to other populations. To remedy this effect,
+panels of uropathologists established the reference standards of the EU
+internal and US external validation sets. Although these sets were
+graded in silo by different panels, we have shown that
+a majority-vote reference standard is highly consistent, even in a
+cross-continental setting (Supplementary Table 9 ). The EU external validation
+set was an exception, because a single uropathologist established the
+reference standard for that set. However, we observed high concordance
+between the grading by this pathologist and other pathologists when
+evaluated on the internal validation set (Supplementary Methods 2 ).
+For the training sets, we relied on reference standards extracted
+from clinical diagnostics, typically set by a single pathologist. Although
+unfeasible due to the high number of cases, a training
+reference standard based on multiple pathologists’ reviews could have potentially
+further increased algorithm performance.

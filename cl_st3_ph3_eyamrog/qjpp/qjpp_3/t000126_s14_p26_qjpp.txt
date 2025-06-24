@@ -1,0 +1,19 @@
+Control or SP140 siRNA-mediated knockdown THP1 or CRISPR-mediated Sp140 null
+mouse immortalized bone marrow-derived macrophages were fixed with 4% formaldehyde
+for 20 mins and subsequently permeabilized with 0.25% Triton X-100,
+blocked with 5% BSA/PBST and stained with 1:500 γH2AX antibody
+(Abcam) overnight at 4°C. The samples were subsequently washed the
+next day and incubated with secondary antibody at 1:1000 (AlexaFluor
+488, Invitrogen) for 1 hour at room temperature, following which
+cells were washed and coverslips were mounted onto microscope slides
+with Prolong Diamond anti-fade mountant (Invitrogen). Multiple representative images were
+obtained on a confocal microscope (Zeiss LSM 800 Airyscan). Images
+were quantified using ImageJ ( Schneider et al., 2012 65.
+Schneider, C.A. ∙ Rasband, W.S. ∙ Eliceiri, K.W. NIH Image
+to ImageJ: 25 years of image analysis Nat. Methods. 2012;
+9 :671-675 Crossref Scopus (43944) PubMed Google Scholar ) by
+measuring fluorescence intensity across the diameter of a nucleus of
+25 cells. Quantified data were binned to normalize different sized
+cells and plotted as a lineplot with Python showing average
+intensity from one periphery of the cell to the other
+periphery.

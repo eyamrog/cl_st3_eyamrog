@@ -1,0 +1,8 @@
+Having established that tag erosion occurs to some degree in
+all three varieties of English studied, the next analysis concerns
+paradigmaticity as a measure of decategorialization. Tags that fail to
+agree with their anchor clause either entirely (non-paradigmatic tags) or
+partly (semi-paradigmatic tags) can be considered to have weaker ties
+to the anchor than those which do agree (paradigmatic tags).
+Tags where paradigmaticity was ambiguous (see section 4.22 ) were
+excluded from this analysis ( N = 43).

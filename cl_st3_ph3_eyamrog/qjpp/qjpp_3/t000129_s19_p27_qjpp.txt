@@ -1,0 +1,4 @@
+Together, this indicates that regulatory conflicts arise frequently as genes
+emerge or are rearranged into shared domains during evolution. However,
+such conflicts can be resolved by DNA methylation-driven silencing, 3D
+restructuring, and likely additional cooperating mechanisms ( Figures 6 E–6G).

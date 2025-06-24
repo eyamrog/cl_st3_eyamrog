@@ -1,0 +1,4 @@
+Background: Community-based active case-finding interventions might identify and treat more
+people with tuberculosis disease than standard case detection. We aimed
+to assess whether active case-finding interventions can affect tuberculosis epidemiology
+in the wider community.

@@ -1,0 +1,15 @@
+The regression model we employ is negative binomial regression (
+Hilbe 2011 ), suitable for word-count data that is distributed
+unevenly across the parameters, in our case time, role, class,
+and gender (see Table 2 ). The analysis only takes
+into account the speakers for whom all three socio-pragmatic parameters
+(role, class, gender) have been annotated, which in the case
+of OBC 2.0 is approximately half of the speakers. The
+annotation of the corpus poses one further limitation worthy of
+note, namely that it does not link utterances by the
+same speaker across trial days or trials, but instead gives
+speakers new IDs for every trial; thus, our model slightly
+overestimates the number of speakers in the data. For the
+latter reason, the statistical uncertainties in connection with our estimates
+should be seen as lower bounds of the true uncertainties
+in our substantive conclusions.

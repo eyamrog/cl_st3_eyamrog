@@ -1,0 +1,11 @@
+Projected elements from ATAC-seq peaks were then classified into directly
+(DC), indirectly (IC) or not conserved (NC) according to the
+following criteria: DC elements overlap a direct sequence alignment between
+the reference and the target species. IC elements do not
+overlap a direct alignment, but are projected with a score
+> 0.99, i.e. either overlapping or in direct vicinity to
+a multi-species anchor. A score of > 0.99 means that
+the sum of the distances from the element and its
+intermediate projections to their respective anchor points is < 150
+bp throughout the optimal bridging species path. The remaining peaks
+are classified as non-conserved (NC).

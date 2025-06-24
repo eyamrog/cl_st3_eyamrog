@@ -1,0 +1,15 @@
+The pooled estimate of the lifetime prevalence of moderate or
+severe TBI was 22·5% (95% CI 13·5–35·0, 95% PI 3·1–72·3;
+figure 2 ). There was high heterogeneity between studies (
+I 2 =99%, p<0·0001). The funnel plot is reported in
+the appendix (p 8) and did not show evidence of
+small-study effects upon visual inspection; Egger's test showed no asymmetry
+(p=0·56). The leave-one-out sensitivity analyses are reported in the appendix
+(p 9) , and show that no single study, nor
+the studies that did not explicitly evaluate severity but which
+we deemed to be focused predominantly on moderate or severe
+TBI, had a disproportionate effect on the pooled estimate of
+lifetime prevalence of moderate or severe TBI. None of the
+moderators (as previously described for overall lifetime prevalence of TBI)
+were statistically significantly associated with estimated prevalence of moderate or
+severe TBI in univariable meta-regression analyses.

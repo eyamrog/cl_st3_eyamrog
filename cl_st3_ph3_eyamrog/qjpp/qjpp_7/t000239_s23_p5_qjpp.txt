@@ -1,0 +1,17 @@
+As final point, it is important to note that the
+use of heuristics—much like decision-making itself—can be a dynamic process,
+with heuristics swapped out in the middle of a situation
+or abandoned entirely in the face of additional information. Somewhat
+surprisingly, social psychologists have not made as much progress in
+determining why some heuristics dominate and why others are discarded,
+and even Gigerenzer, Hoffrage, and Goldstein (2008) admitted that “the
+present knowledge of heuristic selection, as opposed to models of
+heuristics, is rather vague.” On the other hand, such modes
+of heuristic switching have been explored in political science; Mintz
+(2004) suggested that selection might occur via poliheuristic choice, a
+two-stage process in which heuristics are used to narrow the
+available choice set and then rational decision-making is used afterward
+to choose among heuristics. In this manner, various common political
+heuristics such as intraparty rivalry or framing might jostle among
+each other in the first stage, with clear outliers discarded
+and more plausible ones chosen in the second stage.

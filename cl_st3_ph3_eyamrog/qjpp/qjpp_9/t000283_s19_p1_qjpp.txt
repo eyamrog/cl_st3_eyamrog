@@ -1,0 +1,21 @@
+In the following discussion of the results, predictors that are
+not of interest in a particular display are constrained to
+take their normal/average values. For example, if there is no
+focus on genre differences, predictor values of the four predicted
+categories of genre were set to 0.2 to simulate a
+balanced scenario in which all five genres are represented equally.
+For spelling , those controlled predictor values were set to
+reflect the relative frequency of spellings in our raw data:
+of all /ɛr/ cases, 76 percent were <er> (e.g., service
+) and 24 percent were <ear> (e.g., early ); of
+all /ʌr/ cases, 31 percent were <ur> (e.g., turn )
+and 69 percent were <or> (e.g., word ). Accordingly, predictor
+values for the respective categories were set to 0.76, 0.24,
+0.31, and 0.69 to generate more realistic estimates that take
+into account the actual frequencies of different spellings in our
+sample. For gender , the controlled predictor value was zero
+(“between man and woman”). Finally, scenarios in which age differences
+do not play a role used a predictor value of
+age = 0, since this, too, is a centered variable,
+with a predictor value of zero corresponding to an assumed
+“middle” age of 40 years.

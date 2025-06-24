@@ -1,0 +1,11 @@
+Detailed information on DNA extraction, targeted capture methodology, sequencing, and
+genome assembly of WGS and targeted capture data is provided
+in SOM (Fig. S1 and Table S1) . We combined
+our sample of 60 new mitochondrial genomes with 162 genomes
+published previously. One genome sequence from Macaca mulatta that was
+probably incorrectly annotated as M. nigra (GenBank accession KP072068.1 )
+and one from M. fascicularis ( FJ906803.1 ) were initially
+considered, but were subsequently excluded based on tests for recombination
+discussed further in section 2.3 . Provenance information and GenBank
+accession numbers for all data analyzed in this study are
+provided in SOM Table 1 .

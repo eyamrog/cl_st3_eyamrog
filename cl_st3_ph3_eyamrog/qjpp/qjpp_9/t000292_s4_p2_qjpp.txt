@@ -1,0 +1,12 @@
+A web application was developed to browse and search the
+annotated debates. There is a calendar view to browse the
+corpus chronologically and a search feature where utterances can be
+found based on keywords, speakers (both by mp and by
+party), date and/or legislature. In addition to the search results
+– a list of utterances filtered by the search conditions,
+with a link to see them in the context of
+the debates – the user can see a plot of
+the frequency of these utterances through time, by month or
+by year. Figure 1 shows an example of such a
+search, highlighting the usage of the word ‘austeridade’ (Portuguese for
+austerity) during economic crises that prompted imf interventions.

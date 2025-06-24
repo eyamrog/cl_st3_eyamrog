@@ -1,0 +1,10 @@
+Next, we characterized the in vivo response properties of aIC
+Fezf2 neurons. We infected these neurons with the genetically encoded
+calcium indicator GCaMP6 ( Chen et al., 2013 7. Chen,
+T.W. ∙ Wardill, T.J. ∙ Sun, Y. ... Ultrasensitive fluorescent
+proteins for imaging neuronal activity Nature. 2013; 499 :295-300 Crossref
+Scopus (4320) PubMed Google Scholar ) and implanted a gradient-index
+(GRIN) lens into the aIC ( Figures 1 A and
+S2 A). This approach allowed imaging aIC Fezf2 neuron activities—represented
+as GCaMP6 signals—at cellular resolution through the GRIN lens in
+behaving mice ( Figure 1 B; Video S1 ).

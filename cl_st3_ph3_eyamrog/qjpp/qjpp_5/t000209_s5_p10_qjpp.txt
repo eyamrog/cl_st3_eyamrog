@@ -1,0 +1,18 @@
+Another concern is that the rate of evolution at the
+tips of a phylogeny is generally higher than the long-term
+rate of substitution at deeper portions of a phylogeny because
+some variants at tips are polymorphisms that will be removed
+by natural selection before they contribute to divergence ( Ho
+et al., 2011 ). We did not observe a dramatic
+difference in the rate estimates at the tips of the
+tree compared with the older branches ( SOM ), but
+this likely is an artifact of our calibration points, which
+are both old. To explore this possibility further, we estimated
+the rate ratio of nonsynonymous and synonymous substitutions per site
+(dN/dS) on internal and terminal branches ( SOM ). This
+rate ratio (ω) was significantly higher on terminal branches (0.1232)
+than on internal branches (0.0928; p = 0.01). This finding
+is consistent with the proposals that (i) the rate of
+evolution is higher on terminal than on interior branches and
+(ii) our divergence estimates for terminal nodes ( SOM Table
+S3 ) may be overestimates.

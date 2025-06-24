@@ -1,0 +1,6 @@
+Table 4 presents the lexical bundles with embedded I think
+that occur in all three sub-corpora. As the table demonstrates,
+the lower the proficiency group, the heavier the dependence on
+this bi-gram when constructing lexical bundles (Low: thirteen types, 12.4
+percent of all tokens; Mid: seven types, 6.4 percent of
+all tokens; High: four types, 2.5 percent of all tokens).

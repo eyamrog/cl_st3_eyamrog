@@ -1,0 +1,11 @@
+Most studies were deemed to have a high risk of
+bias in the study design. This is somewhat understandable in
+this setting—running randomized controlled trials, especially with respect to informal
+care, is difficult if not impossible. However, well-known quasi-experimental methods
+that have been developed to address the selection of the
+home care team in observational data were seldom employed to
+study this topic. We identified only one-fifth of the studies
+as having a low risk of bias (81.5% had medium
+or high risk of bias) and thus estimating a plausibly
+causal relationship between the sources of care and the outcomes
+of interest.

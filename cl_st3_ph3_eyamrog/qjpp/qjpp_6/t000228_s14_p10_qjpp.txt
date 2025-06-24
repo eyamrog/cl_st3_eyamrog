@@ -1,0 +1,10 @@
+Polymerase chain reaction products were visualized with agarose gel electrophoresis
+. Equal volumes of PCR products with similar band intensity
+were mixed and purified using the MinElute Purification kit (Qiagen
+GmbH, Hilden, Germany), including PCR products that did not show
+a band. Concentrations of the pools with purified PCR products
+were measured on a Qubit 2.0 with the Qubit dsDNA
+HS kit (ThermoFisher Scientific), and pools were subsequently combined in
+an equimolar superpool. Libraries were built from the resulting superpool
+using the KAPA HyperPrep DNA kit (Roche) and sequenced on
+the Illumina HiSeq 4000 at the Norwegian Sequencing Centre.

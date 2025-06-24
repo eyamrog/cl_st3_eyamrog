@@ -1,0 +1,5 @@
+No significant association was detected between min of SED/day and
+AdjBW. Accelerometer wake wear time and VO 2max were both
+significant predictors of min of SED/day. Performing the regression analysis
+by sex did not reveal any significant associations between AdjBW
+and min of SED/day (Table S3 ).

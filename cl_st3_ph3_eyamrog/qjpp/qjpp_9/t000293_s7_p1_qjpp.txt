@@ -1,0 +1,24 @@
+Learner corpora are defined as systematic collections of authentic, continuous
+and contextualised language use (spoken or written) by L2 learners
+stored in electronic format ( Callies and Paquot, 2015 :
+1). Learner Corpus Research ( lcr ) is a relatively
+new field of study that collects and analyses computer learner
+corpora to investigate topics in second/foreign language acquisition and learning,
+and also offer insights into language teaching. lcr as a
+field of study emerged at the turn of the 1990s
+from the then developing field of corpus linguistics, when academics
+started to realise the potential benefits of the systematic analysis
+of authentic language use for foreign language learning and teaching
+( Callies and Paquot, 2015 ). The starting point of
+lcr is usually dated to the emergence of the exemplar
+computer learner corpus, the International Corpus of Learner English (
+icle ) ( McEnery et al ., 2019 : 77).
+2 Since the creation of icle , the range of
+learner corpora around the world, privately collected and publicly available,
+has grown dramatically. And world-renowned publishers and testing organisations have
+also developed their own learner corpora (e.g., the Longman Learner
+Corpus, the Cambridge Learner Corpus, and the TOEFL11 Corpus). In
+Korea, while general corpus research articles began to appear in
+Korean academia in the second half of the 1990s, English
+learner corpora started to be compiled by academics and publishers
+in the late 2000s.

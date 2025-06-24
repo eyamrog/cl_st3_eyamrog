@@ -1,0 +1,23 @@
+We analyzed six sediment samples from Hohle Fels. Two samples
+are from square 89, layer IIIa, corresponding to bead #89.1211
+( Fig. 5 d). Another four samples derive from square
+24, layer Vb, and square 25, layer Vaa, which are
+stratigraphically correlated to bead #25.1320.2 ( Fig. 4 r). Overall,
+the sediment samples represent a temporal spread of the Aurignacian
+layers, from the earliest (layer Vb) to the latest (layer
+IIIa) phases found at Hohle Fels ( Table 3 ).
+Diffraction patterns consist of a mixture of mainly calcite and
+quartz, with calcite values ranging from 51% to 83% and
+quartz values ranging from 17% to 49% ( SOM Fig.
+S3; SOM Table S1 ). Only a few weak diffraction
+peaks cannot be explained by these minerals. Applying the DIFFRAC.EVA
+PDF-4+ database for hematite and goethite to the Hohle Fels
+sediment diffraction patterns leaves no doubt that none of the
+two main hematite reflections at 33.1°2θ and 35.6°2θ (104 and
+110 in Fe 2 O 3 , respectively) are present
+in the sediment samples. The same is true for goethite:
+both major peaks at 21.3°2θ (101) and 36.8°2θ (111) are
+absent from the sediment diffraction patterns. Thus, the results of
+these analyses do not document the presence of the iron
+phases hematite and goethite in the sediment samples from Hohle
+Fels.

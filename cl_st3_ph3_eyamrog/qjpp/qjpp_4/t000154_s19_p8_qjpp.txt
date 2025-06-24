@@ -1,0 +1,11 @@
+Figure 4 provides adjusted z -score coefficients of boys relative
+to girls in the first 8 days from five separate
+regression models including children of a) all mothers, mothers who
+were b) underweight, c) not underweight, d) short stature and
+e) not short stature. Boys had lower adjusted LAZ than
+girls in all subgroups. The difference was −0.15 in not
+underweight and −0.11 in underweight mothers. As stated in H
+0 3, the coefficient for LAZ of boys relative to
+girls born to short women (<145 cm) was more negative
+(−0.32) than in children of not short women (−0.11) (Table
+S5 ).

@@ -1,0 +1,18 @@
+This analysis reconceptualizes previous framings of the syntax of need
+-passives. Edelstein (2014) reflected the traditional treatment of need +ED
+as a regionally constrained alternative to need +TO in using
+the labels “embedded passive” for need +TO and “alternative embedded
+passive” for need +ED, as well as retaining Huddleston and
+Pullum’s (2002) label of the “concealed passive” for need +ING.
+If need +ING is actually formed from the same derivation
+as need +ED, then labels for these constructions should reflect
+their shared syntax—i.e., both need +ING and need +ED are
+either AEPs or concealed passives. The present analysis also addresses
+Murray and Simon’s (1999 :158) speculation in the context of
+passives formed with want that “there must be two rules,
+one in the underlying grammar of [ want +ED] users,
+the other in the underlying grammar of [ want +ING]
+users, that block the formation (and hence the acceptance) of
+the alternate construction.” In this revised analysis, there is one
+rule in the underlying grammar and users differ only superficially
+in participle morphology.

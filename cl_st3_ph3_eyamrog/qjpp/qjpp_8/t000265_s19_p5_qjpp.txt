@@ -1,0 +1,20 @@
+Panel C of Table 4 presents the treatment cessation by
+the number of psychotropic drug classes used at age 17.
+Males using one psychotropic drug class were most likely to
+discontinue care in the high versus low deductible period (−46.5%,
+CI 95%: –62.5%, −30.3%) with similar discontinuation of care in
+relative terms for the remaining subgroups of both genders. When
+restricting to single drug class users (panel D of Table
+4 ), we find the largest discontinuation of services for
+those using agents for ADHD at age 17. In contrast
+to the baseline results for the overall population, this subgroup
+analysis finds equivalent reductions for females and males. We attribute
+this fact to the different trends (and composition) of mental
+health care service use by gender in youth ( Fig.
+1 ). On the one hand, male service use peaks
+in the early teens and decreases later in adolescence (
+Erskine et al., 2015 ). Hence, cost-sharing will mostly reflect
+additional treatment cessation of male patients. On the other hand,
+use of mental health care by females peaks later in
+adolescence, and thus cost-sharing might act more as a barrier
+to those that would start treatment at this time.

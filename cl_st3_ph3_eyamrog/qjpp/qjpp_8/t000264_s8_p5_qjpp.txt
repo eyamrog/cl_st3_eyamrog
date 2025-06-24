@@ -1,0 +1,9 @@
+In this research, we seek to understand which of the
+four composite measures perform best in explaining disease spread and
+mortality, and we explore the extent to which mobility (or
+the lack thereof) account for variance in the outcomes of
+interest. First, we detail our data, variable operationalization, and methodological
+approach. Next, we present results from the spatial and temporal
+analysis and offer a discussion of the relevant findings. We
+conclude with implications of our research for scholars, public health
+practitioners, and policymakers.

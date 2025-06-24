@@ -1,0 +1,18 @@
+We use a difference-in-discontinuity approach ( Grembi et al., 2016
+; Nilsson and Paul, 2018 ) to estimate the causal
+impact of increasing health insurance deductibles on mental service utilization
+during the transition to adulthood. This method exploits two sources
+of exogenous variation to disentangle the effect of increasing deductibles
+from disruptions in care use due to other factors. First,
+variation across individuals due to the exemption from the deductible
+when individuals are younger than 18. Second, variation in the
+deductibles over time, in particular the increase between 2011 and
+2013. Based on this increase, we classify 2009, 2010 and
+2011 as low deductible years (171, 180 and 181 euros
+in 2015 prices) and 2013 and 2014 as high deductible
+years (356 and 362 euros in 2015 prices). The deductible
+in the high deductible period was on average 181 euros
+higher than that in the low deductible period. We exclude
+2012 from the analysis due to a one-year installment of
+co-payments for adult specialist mental health care ( appendix A.3
+).

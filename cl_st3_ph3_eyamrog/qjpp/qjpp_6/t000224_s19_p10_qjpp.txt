@@ -1,0 +1,15 @@
+Seasonality and diurnal variability Temperature seasonality (Bio4; SOM Table S8
+) and annual temperature range (Bio7; SOM Table S9 )
+have implications for the feasibility of year-round occupations. Both show
+greater variation on the east-west transect, with higher values occurring
+in the east and at the northern (Britain) and southern
+(Iberian interior) ends of the south-north transect. Mean diurnal ranges
+(Bio2; SOM Table S10 ) have implications for the maintenance
+of core temperature at nights and show greater variation along
+the south-north transect, with larger values tending to occur in
+the south during MIS 13 and 11, although there is
+considerable local variability and no clear pattern in MIS 12.
+Finally, isothermality values (Bio3; SOM Table S11 ), which quantify
+day–night temperature oscillations relative to summer–winter oscillations, indicate broadly comparable
+variability on both transects, with higher values (i.e., greater relative
+day–night oscillations) occurring in the south and the west.

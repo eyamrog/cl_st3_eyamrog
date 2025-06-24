@@ -1,0 +1,10 @@
+The previous assumptions capture the key elements of the relationship
+between SDs and the probabilities of moving between different compartments
+within the SIRD framework presented in the previous section. While
+the specific functional form of the two parameters with respect
+to c 1 , c 2 and c 3 would
+be different across countries and is an empirical question outside
+the scope of this study, we can assume for simplicity
+a linear form which satisfies the previous assumptions: (5) β
+= β 0 + a 1 c 1 + a
+2 c 2 − a 3 c 3 ,

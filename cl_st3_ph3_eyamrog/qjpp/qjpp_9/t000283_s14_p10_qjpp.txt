@@ -1,0 +1,24 @@
+As summarized in Table 4 , three models were fitted
+to datasets A, B, and C; they were analogously labeled
+“Model A,” “Model B,” and “Model C.” Model A and
+Model B differ only in the latter having age as
+an additional predictor and including fewer speakers. All three models
+were run with 5000 iterations (warmup = 1000) and four
+chains, resulting in 16,000 posterior samples: Bayesian regression models establish
+probability distributions for the specified (e.g., predictor) coefficients and then
+sample from, or iterate across, these distributions. This procedure yields
+a large sample of likely values but also a number
+of less likely values, which are then transformed into an
+equally large number of actual predicted values for the outcome.
+The distribution of predicted values can then be shown as
+an average value with uncertainties, as in our plots. The
+sampling process is partitioned into parallel chains (in our case
+four chains of 4000 valid samples each), and the R-hat
+diagnostic checks if chains converge, i.e., if they are in
+reasonable agreement. R-hat values of 1.0 indicate that the specified
+model is able to “cope with” the data, i.e., the
+individual chains come to similar conclusions concerning parameter values—they converge.
+In cases of overcomplex (or ill-specified) models or when data
+are extremely sparse, this would not be the case, as
+each chain would be “groping in the dark” and come
+to an erratic solution.

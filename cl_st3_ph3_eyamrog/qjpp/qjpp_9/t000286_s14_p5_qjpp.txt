@@ -1,0 +1,17 @@
+The two-month Twitter scrape resulted in an initial pool of
+more than 3.6 million tweets. I tagged all words in
+all tweets for part-of-speech with the TwitIE scripts ( Derczynski,
+Maynard, Aswani & Bontcheva 2013 :21; Bontcheva et al. 2013
+; Derczynski, Ritter, Clark & Bontcheva 2013 ). Tagging procedures
+were detailed in Strelluf (2020) , but as I developed
+methods for this project, taggers nearly always failed to tag
+need +ED—apparently disallowing the possibility that a participle could immediately
+follow a need lexeme, and usually tagging passive complements as
+nouns. In this project, I prevented the tagger from coding
+need lexemes as verbs, which caused it to tag anything
+that looked like a participle after need as a verb.
+The broader methodological observation, though, is that low-frequency features may
+naturally pose challenges for taggers—low-frequency features are unlikely to occur
+in a training corpus, or they occur so infrequently that
+algorithms will assign low probability that a given occurrence in
+a test corpus is that feature.

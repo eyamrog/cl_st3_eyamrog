@@ -1,0 +1,27 @@
+Of the three higher back vowels, fronting of goose is
+the oldest, most widespread, and most advanced. In the speech
+of “older” white Southerners the high back vowel can be
+realized as [ʉ̞u̟] or [y̞ʉ], fronting further to [y̞y] among
+younger speakers ( Thomas 2004 :99), compared to the Standard
+American English transcription of [u]. As mentioned above, it began
+at least 150 years ago. By the time of data
+collection for the Linguistic Atlas of the Gulf States (LAGS;
+Kurath & McDavid 1961 ), goose -fronting had begun across
+the entire South. Today, it continues to be a feature
+in all varieties of SAE ( Labov, Ash & Boberg
+2006 ), though it is less advanced among African American
+Southerners ( Thomas 2001 ; Fridland 2003 ). The large
+geographic coverage may not necessarily be due to geographic diffusion
+alone: Fridland (2012) points out that physiologically-driven factors like overcrowding
+in the back portion of the vowel space may have
+caused GOOSE -fronting to develop independently and language-internally in multiple
+regions. Koops (2010) provides phonetic evidence of this independent development
+by showing two different realizations of fronted goose in Houston:
+a monophthongal “southern” variant ([y]) and a back-gliding diphthongal “mainstream”
+variant ([ɪ u ]). These two variants also coincide with
+Thomas’ (2004) transcriptions of goose with a central nucleus [ʉ]
+or even a front [y]. Thanks to its robust nature
+in the American South, we expect to find goose -fronting
+in our legacy data, but because it was a change
+in progress in the South during the early twentieth century,
+we expect some degree of variation in our corpus.

@@ -1,0 +1,22 @@
+These procedures resulted in a total of 8255 tokens, each
+of which was classified according to its meaning. This classification
+was guided by the terminology and examples in works on
+modality, such as Palmer ([1979] 1990) , Huddleston and Pullum
+(2002) , and Collins (2009a) . Any use diverging from
+those was also recorded. Three main types of modality were
+distinguished: deontic, epistemic, and dynamic. Deontic modality expresses necessity, obligation,
+or permission, which come from a deontic source (the speaker,
+rules, social conventions, etc.). Epistemic modality expresses the likelihood that
+something is possible, based on logical reasoning. Dynamic modality expresses
+ability or theoretical possibility which is intrinsic to the subject
+or forced by circumstances. In (4), for example, contextual elements
+( only ) signal that can expresses strong likelihood based
+on logical reasoning, i.e., epistemic necessity. Can in (5) refers
+to an intrinsic (in)ability of the subject to tell the
+future and is hence classified as dynamic, whereas in (6)
+the writer (a deontic source) aims to proscribe an idea
+or behavior. Epistemic ( it is impossible that India regards
+herself ) or dynamic ( India does not have the
+ability to regard herself ) readings make little sense here
+given a premise which sets up a warning of what
+awaits India if the writer’s recommendation is not heeded.

@@ -1,0 +1,11 @@
+SUDV (strain Gulu) originated from a 35-year-old male patient who
+had died on 16 October 2000. The study exposure material
+was from the second Vero E6 cell passage of SUDV.
+Briefly, the first passage at UTMB consisted of inoculating CDC
+808892 (CDC passage 1 of SUDV isolate 200011676) at a
+multiplicity of infection (MOI) of 0.001 onto Vero E6 cells
+(ATCC CRL-1586). The cell supernatants were subsequently harvested at Day
+7 post-infection and stored at −80°C as ~1-mL aliquots. No
+detectable mycoplasma or endotoxin levels were measured (˂0.5 EU/mL). Animals
+were exposed intramuscularly in the left quadricep with a 1,000
+PFU target dose (actual dose 1,363 PFU) of SUDV.

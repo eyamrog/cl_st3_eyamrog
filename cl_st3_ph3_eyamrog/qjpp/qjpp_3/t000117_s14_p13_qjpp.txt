@@ -1,0 +1,6 @@
+For anterograde tracing of aIC Fezf2 neurons, we unilaterally injected
+∼0.2 μl of AAV9-CAG-Flex-GFP into the aIC in Fezf2-CreER mice.
+For anterograde tracing of NTS Recipient neurons, ∼0.3 μl of
+AAV1-hSyn-Cre-WPRE-hGh was injected into the aIC, and ∼0.3 μl of
+AAV9-CAG-Flex-GFP was injected into the NTS. We waited about 3-4
+weeks before perfusing the mice.

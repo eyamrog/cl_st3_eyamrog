@@ -1,0 +1,5 @@
+This open-label, cluster-randomised controlled trial was done in four health
+facilities in the low tuberculosis incidence setting of Canada (cities
+of Calgary [AB], Edmonton [AB], Montreal [QC], and Vancouver [BC]),
+plus 20 health facilities in four countries with intermediate to
+high tuberculosis incidence rates: Benin, Ghana, Indonesia, and Vietnam.

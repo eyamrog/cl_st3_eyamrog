@@ -1,0 +1,19 @@
+The second pane in Figure 5 shows how the model-based
+usage rate of downtoner or durative little varies with the
+speaker’s role in the courtroom. We can see here that
+witnesses and victims (at model-based rates of circa 28 and
+32 per 100,000 words) use little more than twice as
+frequently as the professionals, i.e., judges and lawyers (whose model-based
+rates are circa 11 and 13 per 100,000 words), while
+defendants cover the middle ground. On average, the rate for
+the top users, victims, exceeds that of judges by a
+factor of 3.06, which makes speaker role a key predictor
+for a speaker’s use of the adverb. The lower estimated
+rates for the professionals (lawyers and judges) make sense when
+considering question/answer sequences frequent in the late modern courtroom: to
+avoid leading questions, the professionals may be more likely to
+pose fairly neutral questions as in (20) and (21) than
+to use formulations with a degree modifier. The downtoner is
+likely to appear in the lay respondents’ reply to produce
+a hedged affirmative (20) or a formulation that leaves some
+leeway as to the exact time (21).

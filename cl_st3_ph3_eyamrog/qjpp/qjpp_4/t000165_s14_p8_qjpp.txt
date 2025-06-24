@@ -1,0 +1,5 @@
+The data from 2019 consist of 25 724 male conscripts
+between 18 and 21 years. In addition to the measurement
+of body height and weight, the Swiss Armed Forces have
+added waist circumference measurements as a new standard as of
+the beginning of 2019.

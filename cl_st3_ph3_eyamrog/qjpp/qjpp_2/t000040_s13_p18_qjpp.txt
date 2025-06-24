@@ -1,0 +1,15 @@
+Vehicles that are highly but not fully automated would probably
+not behave significantly differently from normal vehicles with respect to
+their contribution to congestion. For fully automated AVs (driverless vehicles),
+some factors seem likely to operate both to increase and
+to decrease congestion ( 48 ). A study of a
+theoretical grid-based urban area indicated that one shared-ownership AV could
+replace 11 conventional vehicles ( 27 ). The International Transport
+Forum estimated that the travel needs of the city of
+Lisbon could be met without the use of private cars
+in the urban core area and hence without congestion if
+fleets of SAVs replaced all car and bus trips in
+the city of Lisbon, in addition to existing rail and
+subway services ( 37 ). Reduction in traffic congestion related
+to SAVs could have beneficial impacts on travel time, reducing
+travel sitting time, air pollution, and noise.

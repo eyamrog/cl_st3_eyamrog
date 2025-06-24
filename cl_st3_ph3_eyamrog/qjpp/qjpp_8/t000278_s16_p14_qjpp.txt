@@ -1,0 +1,12 @@
+As discussed in section 5, the results from EEBO are
+based on the lemmatized search strings COME _v?g*, GO _v?g*,
+and RUN _v?g*. This kind of search retrieves both instances
+where the oblique complement is explicit (e.g., came running into
+the room ) and those where it is latent (e.g.,
+came running ), since it was thought that having information
+at hand on the latter subtype might prove useful. One
+disadvantage of this procedure was that a considerable amount of
+manual sorting was needed in order to quantify the number
+of actual VV ing OBL examples attested in the six
+decades in EEBO (1470s, 1480s, 1490s, 1550s, 1570s, 1640s; see
+section 5) that were selected for analysis.

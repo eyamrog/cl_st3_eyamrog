@@ -1,0 +1,14 @@
+To count the number of items refused by the respondent,
+all items with the following codings were selected: “refusal,” “don’t
+know,” and “no answer.” To count the exposure, all items
+were selected that had either one of these missing codes
+or a valid response. Doing so allows discounting all questions
+that were filtered out and are thus not eligible for
+calculating this measurement. In the following models, the exposure is
+included in the models to allow a correct estimation of
+effects. Furthermore, all items that were answered by the interviewers
+were removed since these cannot give information about the response
+rate of the respondent. Respondents with more than 50 missing
+or refused items (which correspondents to the 99th percentile) are
+excluded from these models since no regular survey situation can
+be assumed.

@@ -1,0 +1,19 @@
+The cell–cell signaling networks in Fig. 3d,j and Extended Data
+Fig. 7b were generated using connections annotated in IPA .
+Molecules of interest were chosen from genes in the modules
+belonging to MMgp in P2 (Fig. 3d ) or shared
+among at least two participants (Fig. 3j , Extended Data
+Fig. 7b and Supplementary Table 7 ), respectively. We also
+included select upstream drivers found to be significant by IPA
+given enrichment of downstream genes within the modules. Edges were
+drawn between all nodes (genes or predicted upstream drivers) with
+the ‘Connect’ tool in ‘My Pathways’ using both ‘Direct’ and
+‘Indirect’ interactions. Subsequently, edges were manually trimmed by looking at
+the provided support for the connections and discarding any connections
+not supported by demonstrations of expression or activation in the
+literature. For Fig. 3j , any predicted upstream driver–gene edge
+that connected to a cell for which that upstream driver
+was not significantly enriched was also trimmed (for example, only
+edges between IL-1β and nodes for genes in CD4 T
+cells were kept). Contextualization of these cell–cell signaling networks is
+further explored online: http://shaleklab.com/resource/immune-dynamics-of-acute-hiv-infection .

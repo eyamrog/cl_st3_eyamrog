@@ -1,0 +1,14 @@
+The use of the first person pronoun we can also
+be found in R3 bundles: we focus on, we use
+the, we control for, and we estimate the. Apart from
+the pronoun we , what these bundles have in common
+is the use of the simple present tense and the
+active voice. As mentioned in Section 3 , the top-ranking
+journal has more co-authored articles than single-authored ones (65 vs.
+36). In a way, this could have contributed to the
+frequent occurrence of we- bundles in the TRJPS corpus. However,
+not only are we- bundles rarely seen in the PJPS
+corpus 3 , but the list of retrieved bundles contains
+no single item with the first-person singular pronoun I .
+Therefore, the number of authors seems an irrelevant factor in
+explaining the difference between the two corpora in this respect.

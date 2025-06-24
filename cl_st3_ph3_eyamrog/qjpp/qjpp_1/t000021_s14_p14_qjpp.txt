@@ -1,0 +1,21 @@
+For the cross-participant module discovery analysis (Extended Data Fig. 5
+), we applied the WGCNA framework to all cells of
+a given cell type across all four participants at all
+timepoints sampled. Here, the number of genes input into the
+framework varied between ~350–850 genes by choosing the top and
+bottom 100 genes from the most significant PCs, determined by
+finding the asymptote in the PC elbow plot (ranked s.d.
+of each PC). These modules were then tested for significant
+correlation against random sets of genes using the same permutation
+test outlined above. To test for temporal variability in module
+expression across all four participants, we binned timepoints into pre-infection,
+peak, post-peak and 1-year and implemented an analysis of variance
+(ANOVA) across binned timepoints accounting for participant heterogeneity (see Extended
+Data Fig. 5a ). Specifically, we fitted a linear regression
+to the data across binned timepoints using two models: (1)
+null hypothesis ~1 + participant; and (2) alternative hypothesis ~1
++ participant + time.bin. We then calculated the F statistic
+for the ANOVA between these two models. Peak and post-peak
+timepoints were chosen based on the score maxima for the
+modules discovered in each participant in MMsp and MMgp (see
+Extended Data Fig. 4 ).

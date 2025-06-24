@@ -1,0 +1,15 @@
+We simulated the 3D structure of the Fat1/Zfp42 locus in
+ESC and E11.5 limb buds using a Strings and Binders
+Switch (SBS) polymer model that incorporates NE-attachment as described below
+( Barbieri et al., 2012 15. Barbieri, M. ∙ Chotalia,
+M. ∙ Fraser, J. ... Complexity of chromatin folding is
+captured by the strings and binders switch model Proc. Natl.
+Acad. Sci. USA. 2012; 109 :16173-16178 Crossref Scopus (0) PubMed
+Google Scholar ; Chiariello et al., 2016 31. Chiariello, A.M.
+∙ Annunziatella, C. ∙ Bianco, S. ... Polymer physics of
+chromosome large-scale 3D organisation Sci. Rep. 2016; 6 :29775 Crossref
+Scopus (94) PubMed Google Scholar ; Nicodemi and Prisco, 2009
+97. Nicodemi, M. ∙ Prisco, A. Thermodynamic pathways to genome
+spatial organization in the cell nucleus Biophys. J. 2009; 96
+:2168-2177 Full Text Full Text (PDF) Scopus (83) PubMed Google
+Scholar ).

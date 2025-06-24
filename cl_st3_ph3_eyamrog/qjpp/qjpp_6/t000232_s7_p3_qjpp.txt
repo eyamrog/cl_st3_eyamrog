@@ -1,0 +1,15 @@
+This was the problem in an urban community in BC
+where I was hired as a nonclinical project manager to
+support FPs seeking improvements to the quality of patient transitions
+through a local nonprofit. My initial consultation with the FPs
+who had secured project funding revealed there was no process
+or policy that required the health authority responsible for hospital
+care to notify FPs of admissions or deaths; and no
+impetus to ensure that discharge notifications—while mandated by policy—were timely.
+This created gaps in care when patients transitioned. Investigations into
+the problem quickly revealed that a change in policy would
+not be sufficient because even if there was a mandate
+to notify FPs, there was no process to do so.
+It was clear that a new system-level solution was needed—including
+policies, but also technologies and individual work habits across numerous
+sites governed by different rules.

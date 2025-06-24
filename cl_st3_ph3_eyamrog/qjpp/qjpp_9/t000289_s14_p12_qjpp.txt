@@ -1,0 +1,3 @@
+Since context is often unhelpful or ambiguous (in cases of
+reported speech, for example), the “indeterminate meaning” category is comprised
+of tokens whose meaning cannot be confidently discerned.

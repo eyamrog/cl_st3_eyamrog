@@ -1,0 +1,14 @@
+Although numerous studies were concerned with the effects of small-world
+properties ( Badham and Stocker, 2010 ; Keeling, 1999 ;
+Miller, 2009 ; Watts and Strogatz, 1998 ) or homophily
+( d’Andrea et al., 2022 ; Kitchovitch and Lì, 2010
+; Koku and Felsher, 2020 ) on epidemics, there is,
+to our knowledge, no study that looks into their interplay.
+Furthermore, simulation studies typically consider static networks ( Badham and
+Stocker, 2010 ; d’Andrea et al., 2022 ; Keeling, 1999
+; Kitchovitch and Lì, 2010 ; Miller, 2009 ; Watts
+and Strogatz, 1998 ). To study the combined effects of
+small-world properties and homophily on epidemics in adaptive social networks,
+we created the so-called Small-Worlds Infectious Disease Model ( SWIDM
+), a specific model case of the Networking during Infectious
+Diseases Model ( NIDM ; Nunner et al., 2021 ).

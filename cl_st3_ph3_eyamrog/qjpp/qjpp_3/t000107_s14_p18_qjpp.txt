@@ -1,0 +1,13 @@
+4-5 sgRNA were designed against individual DNA binding domains or
+other functional domains of each TF based on the domain
+sequence information retrieved from NCBI Conserved Domains Database. All of
+the sgRNA oligos, including positive and negative control sgRNAs, were
+synthesized by Integrated DNA Technologies (IDT) and pooled in equal
+molarity. The pooled sgRNA oligos were then amplified by PCR
+and cloned into BsmBI-digested SL21 vector using Gibson Assembly Kit.
+To verify the identity and relative representation of sgRNAs in
+the pooled plasmids, a deep-sequencing analysis was performed on a
+MiSeq instrument. We confirmed that 100% of the designed sgRNAs
+were cloned in the SL21 vector and the abundance of
+> 95% of individual sgRNA constructs was within 5-fold of
+the mean (data not shown).

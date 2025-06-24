@@ -1,0 +1,8 @@
+Analysis of formant dynamics requires the consideration of multiple formant
+measurements per vowel token. We argue that this technique contributes
+to our understanding of phonetic and sociolinguistic variation in human
+speech, and we use it to illustrate diachronic change in
+Southern US vowel systems. We use measurements from five time
+points across each vowel token, and we apply generalized additive
+mixed-effects models (or GAMMs; Wood 2017a ) to nearly 90,000
+back‐vowel tokens.

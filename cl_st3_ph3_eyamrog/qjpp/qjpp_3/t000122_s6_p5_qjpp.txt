@@ -1,0 +1,12 @@
+To determine the mode of recognition by this antibody combination,
+we determined the cryo-EM structure of the ternary 1C3–1C11–EBOV-GP complex.
+The cryo-EM structure reveals that 1C11 anchors to the fusion
+loop, recognizing residues conserved among ebolaviruses and, in a 3:3
+stoichiometry, with each copy of 1C11 bound to one of
+the GP protomers in the trimer, anchoring adjacent protomers together.
+Surprisingly, the other antibody, 1C3, binds in a unique format:
+recognition of the GP1 head in a 1:3 stoichiometry, with
+one single 1C3 Fab simultaneously in contact with all three
+protomers in the GP trimer. Residues from all three copies
+of the GP protomer together comprise the antibody footprint, with
+key contact residues spread across the tripartite antibody footprint.

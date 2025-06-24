@@ -1,0 +1,22 @@
+For the VV ing OBL construction, the degree of adjacency
+between V and V ing has been measured in this
+study by looking at the position of -ly manner adverbs
+(e.g., carefully , as in “John carefully shifted the nitroglycerine”)
+relative to V and V ing . The decision to
+make use of this particular manifestation of adjacency was a
+principled one: on the one hand, - ly adverbs can
+be retrieved computationally from big corpora such as EEBO and
+the BNC. On the other, manner adverbs are core-internal modifiers,
+that is, they modify internally the part of the clause
+consisting of the predicate and its arguments ( Foley &
+Olson 1985 :33-37; Van Valin & LaPolla 1997 :162-171). They
+are thus subject to positional preferences different from those applying
+to aspectual adverbs ( completely, continuously ), which are modifiers
+of the clause nucleus or predicate (cf. “Leslie completely immersed
+herself in the new language”), and to temporal ( early,
+subsequently ), evidential ( evidently ), and epistemic ( probably
+) adverbs, which take the core of the clause in
+their scope and thus have much greater positional mobility (e.g.,
+“ Probably , Sam will bake a cake tomorrow”; “Robin
+saw Pat earlier ”; see also Jackendoff 1972 :47-107; Huddleston
+& Pullum 2002 :574-580).

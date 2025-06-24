@@ -1,0 +1,9 @@
+The evidence base for the effects of informal care in
+the presence of formal care on care recipients is rich
+in looking at a broad range of outcomes using a
+variety of data sets ( Table 1 , column 3).
+Our review revealed 13 studies in this category, spanning populations
+in the United States, Canada, Europe, and Japan. However, the
+risk of bias in this body of work is high
+in that most studies (85%) did not address potential endogeneity
+or selection bias.

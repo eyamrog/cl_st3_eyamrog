@@ -1,0 +1,13 @@
+To investigate the possibility of effect modification attributed to differences
+in baseline characteristics, we computed odds ratios for the association
+between suPAR levels and acute kidney injury in relevant subgroups
+and performed tests of interaction. Finally, we calculated the area
+under the curve (AUC) to assess the incremental value of
+adding suPAR to the Simplified Integer Risk Score for Calculating
+the Risk of Acute Kidney Injury, a validated clinical score
+derived from the National Cardiovascular Data Registry (NCDR) and used
+to predict the risk of contrast-induced nephropathy; the score includes
+age, preprocedural eGFR, history of stroke, history of heart failure,
+history of percutaneous coronary intervention, acute coronary syndrome on presentation,
+diabetes, chronic lung disease, hypertension, cardiac arrest, anemia, heart failure
+at presentation, balloon-pump use, and cardiogenic shock.

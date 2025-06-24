@@ -1,0 +1,16 @@
+Influenza A virus (IAV) is a lytic RNA virus that
+triggers receptor-interacting serine/threonine-protein kinase 3 (RIPK3)-mediated pathways of apoptosis and
+mixed lineage kinase domain-like pseudokinase (MLKL)-dependent necroptosis in infected cells.
+ZBP1 initiates RIPK3-driven cell death by sensing IAV RNA and
+activating RIPK3. Here, we show that replicating IAV generates Z-RNAs,
+which activate ZBP1 in the nucleus of infected cells. ZBP1
+then initiates RIPK3-mediated MLKL activation in the nucleus, resulting in
+nuclear envelope disruption, leakage of DNA into the cytosol, and
+eventual necroptosis. Cell death induced by nuclear MLKL was a
+potent activator of neutrophils, a cell type known to drive
+inflammatory pathology in virulent IAV disease. Consequently, MLKL-deficient mice manifest
+reduced nuclear disruption of lung epithelia, decreased neutrophil recruitment into
+infected lungs, and increased survival following a lethal dose of
+IAV. These results implicate Z-RNA as a new pathogen-associated molecular
+pattern and describe a ZBP1-initiated nucleus-to-plasma membrane “inside-out” death pathway
+with potentially pathogenic consequences in severe cases of influenza.

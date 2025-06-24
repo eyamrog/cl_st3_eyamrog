@@ -1,0 +1,18 @@
+In addition, a number of size -clusters were attested in
+translations from Romance languages (often French and Latin; 30 percent
+of the PPME2 tokens and 78 percent of the EEBO
+examples). A close look at the original sources suggests that
+the size -clusters are not calques but the result of
+the translators’ attempt at finding functional equivalents between source and
+target language (“cultural filtering”; see Kranich, Becher & Höder 2011
+). In these contexts, the English size -clusters are often
+found as equivalents to adjectives with a salient scalar component.
+For instance, French vigoreux (‘vigorous’) in (6) inherently conveys the
+meaning of ‘large quantity or amount.’ The important point to
+highlight here is the “adjectiveness” of the equivalence created by
+the translator, equating a single-adjective lexeme to a relevant size
+-cluster (see 5). (Note, in this connection, that the adverbial
+function of mighty as a modifier of adjectives (i.e., ‘very’)
+seems to be consistently attested only from the sixteenth century
+onwards (cf. OED , s.v. mighty C), hence the preference
+for an adjectival interpretation of the lexeme in 5.)

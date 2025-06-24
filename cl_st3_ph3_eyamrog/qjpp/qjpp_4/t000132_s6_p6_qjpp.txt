@@ -1,0 +1,18 @@
+Our data clearly establish that conserved clusters of amino acids
+in gel-forming mucins preferentially bind copper and that the intestinal
+mucin MUC2 has a two-tiered site for binding of multiple
+copper oxidation states. The conservation of the copper-coordinating amino acids
+across animal species and the lack of variability in the
+human population suggest functional importance, but the physiological roles for
+copper binding by mucins remain to be established. Results presented
+here are consistent with several possibilities, including preventing the generation
+of damaging reactive oxygen species by blocking futile redox cycling.
+Moreover, MUC2 capturing of copper was shown not to interfere
+with copper uptake into cells, but a role in direct
+delivery of copper to cells is hypothetical at this point.
+A definitive demonstration of functional importance will require eliminating the
+MUC2 copper binding capability in a transgenic animal to determine
+the impact on copper metabolism and on commensal and pathogenic
+microorganisms. Additional mechanistic questions remain open, such as whether Cu
+1+ and Cu 2+ can bind MUC2 simultaneously and what
+factors affect the kinetics of binding and release.

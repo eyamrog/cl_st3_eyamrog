@@ -1,0 +1,25 @@
+Our sample comprises 479 specimens of H. sapiens , Pan
+troglodytes , P. paniscus , Gorilla gorilla, and Gorilla beringei
+( Supplementary Online Material [SOM] Table S1 ) housed in
+the Anatomisches Institut, Universität Leipzig, Leipzig, Germany (ULAC); Max Planck
+Institute for Evolutionary Anthropology, Leipzig, Germany; Royal Museum of Central
+Africa, Tervuren, Belgium (RMCA); National Museum of Natural History, Smithsonian
+Institution, Washington, DC, USA (USNM); American Museum of Natural History,
+New York, USA (AMNH); Naturmuseum Senckenberg, Frankfurt am Main, Germany
+(SMF); Museo de La Plata, La Plata, Buenos Aires, Argentina
+(MLP); Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge,
+USA; Museum of Comparative Zoology, Harvard University, Cambridge, USA; Department
+of Anatomical Sciences, Stony Brook University, Stony Brook, USA; National
+Museums of Kenya, Nairobi, Kenya (KNM); and Natural History Museum,
+London, UK. The modern human specimens are from geographically diverse
+preindustrial populations. Sex attributions were taken from museum records when
+available. For the 55 Pan and Gorilla specimens without this
+information, sex was determined based on canine size ( Kelley,
+1995 ) and the stronger development of crests and muscle
+markings in males. For the H. sapiens specimens, the recorded
+sex will likely have been based on conventional criteria used
+in physical anthropology as there is no evidence that autopsy
+or burial records were available. For 18 specimens, the sex
+was not recorded and difficult to establish with any certainty
+without a wider population context. These specimens were therefore excluded
+from the sexual dimorphism analyses.

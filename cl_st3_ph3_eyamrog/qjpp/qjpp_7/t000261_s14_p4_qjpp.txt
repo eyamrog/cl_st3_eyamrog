@@ -1,0 +1,10 @@
+The difference-in-difference (DiD) quasi-experimental design makes use of longitudinal data
+to obtain a relevant counterfactual to estimate a causal effect
+by comparing the changes in outcomes over time between a
+population that is enrolled in a programme (children aged under
+six) and a population that is not (children aged six
+to 15). DiD removes biases that could result from permanent
+unobserved differences between both groups, and from comparisons over time
+in the treatment group that could be the result of
+trends due to other causes of the outcome ( Angrist
+and Pischke, 2008 ).

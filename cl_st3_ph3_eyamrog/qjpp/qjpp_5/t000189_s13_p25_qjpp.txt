@@ -1,0 +1,23 @@
+It is difficult to control a pathogen as transmissible as
+SARS-CoV-2 without an accurate case count. Reducing the virus's R
+0 to 1 requires a layered approach of accurate public
+messaging on infection; a speedy alert system for infection contacts;
+easy-to-access, accurate, and reportable testing; comprehensive vaccine programs and mandates;
+and support for quarantine and masking ( WHO 2022 ).
+Yet in March 2022 the US federal government dialed back
+support and issued COVID-19 guidelines organized around two insufficient principles:
+( a ) a threshold of hospitalizations, which is a
+lagging indicator of infection and triggers a series of individual
+antirisk actions (e.g., wear a mask in public indoor settings),
+and ( b ) the end of mask mandates in
+most public spaces ( NCIRD 2022 ). Under these actions
+and policies, risk of infection is relegated as an individual
+health concern, not a public health concern. In a scathing
+March 2022 commentary in eClinicalMedicine , Tomori and coauthors (
+2022 ) called the US federal government's characterization of COVID-19
+as an individual responsibility “a moral failing.” It can be
+argued the failure is grander than moral. To date, two
+US presidential administrations have achieved the lowest COVID-19 vaccination rate
+of any wealthy nation, and neither has consistently provided testing
+or PPE to the public or contended with underlying inequities
+that contribute to the unequal impact of SARS-CoV-2.

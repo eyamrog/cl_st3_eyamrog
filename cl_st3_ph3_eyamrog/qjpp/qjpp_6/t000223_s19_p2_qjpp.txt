@@ -1,0 +1,24 @@
+In Unit G, two shells gave very similar ages at
+34,830–33,900 cal BP at 95.4% probability (OxA-30629) and 34,660–33,870 cal
+BP at 95.4% probability (OxA-35352). These determinations are several millennia
+too young compared to previous charcoal and shell determinations (
+Table 2 ). The combination of the eleven previous radiocarbon
+determinations gives an age range of 39,520–39,076 cal BP (95.4%
+probability, using R_Combine() in OxCal) for Unit G. The reasons
+for this discrepancy are unknown, but given that the largest
+degree of variation in current and previous dating studies of
+Mochi affect shell samples, we must consider the possibility of
+diagenetic alteration of the shell matrix. In most cases, the
+dated shells are limpets ( Patella sp.). These species are
+among the few gastropods that originally secrete calcite and not
+aragonite to produce their shell exoskeleton. Calcite, however, is also
+the end product of secondary diagenesis, i.e., it is the
+mineral that forms postdepositionally when dissolution and recrystallization of the
+original shell matrix take place. These processes can affect the
+radiocarbon age of a molluscan shell, particularly if the system
+is an ‘open’ one with the input of recrystallized bicarbonate
+of a different age to the shell ( Douka, 2017
+). A third shell sample found in cut 13 of
+the 1959 excavations (equivalent to the top of unit D)
+gave an age of 420–570 AD (95.4% probability) and is
+presumed to be a recent intrusion.

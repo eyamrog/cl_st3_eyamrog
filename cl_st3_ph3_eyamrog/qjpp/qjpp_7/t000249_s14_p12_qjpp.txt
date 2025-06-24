@@ -1,0 +1,10 @@
+Taken together, our methodological approach considered the interrelatedness of the
+dependent variables, by including them as control variables for the
+other measures, and accounted for the different distributions of the
+dependent variables (i.e., binary, multinomial). Since the students were from
+17 different school classes, we also considered between-group variance (i.e.,
+differences at the classroom level). Based on using different model
+comparisons, differences in the variables of interest between classrooms were
+very small and not significant; thus, the use of hierarchical
+models was not appropriate (for details see supplemental materials S3
+).

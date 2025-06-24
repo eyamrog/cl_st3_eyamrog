@@ -1,0 +1,3 @@
+Given the WTP per averted YLL ( θ a for
+age group a ), we calculated the NMB of a
+strategy as

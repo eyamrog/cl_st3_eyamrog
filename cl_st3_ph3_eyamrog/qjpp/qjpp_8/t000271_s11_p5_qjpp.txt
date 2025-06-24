@@ -1,0 +1,16 @@
+To sum up, in this article, we follow up on
+our previous study ( Soler and Wang, 2019 ) in
+a corpus-based investigation of linguistic features that characterise research articles
+published in a predatory journal in the discipline of political
+science . In order to find out what features that
+are typical of a text variety, it is necessary to
+use a comparative approach ( Biber and Conrad (2019) ).
+Therefore, we also involve research articles from a top-ranking journal
+in the same field as a basis of comparison. Focusing
+on lexical bundles, we aim to answer the following research
+questions: RQ1. What are the similarities and differences between the
+predatory and top-ranking journal articles under investigation, as reflected by
+lexical bundles in terms of their frequencies, forms and functions?
+RQ2. To what extent does the use of such bundles
+vary across the main sections of the research article in
+the two sets of data?

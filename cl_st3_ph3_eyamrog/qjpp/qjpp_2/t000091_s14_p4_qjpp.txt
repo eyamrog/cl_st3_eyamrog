@@ -1,0 +1,21 @@
+LET1 AECs were maintained in Dulbecco’s Modified Eagle Medium (DMEM)
+supplemented with 10% fetal bovine serum (FBS, Hyclone), 1 mM
+sodium pyruvate, 1x GlutaMAX (Thermo Fisher Scientific), and 1% penicillin/streptomycin
+(Thermo Fisher Scientific) and have been described before ( Rosenberger
+et al., 2014 38. Rosenberger, C.M. ∙ Podyminogin, R.L. ∙
+Askovich, P.S. ... Characterization of innate responses to influenza virus
+infection in a novel lung type I epithelial cell model
+J. Gen. Virol. 2014; 95 :350-362 Crossref Scopus (37) PubMed
+Google Scholar ). A549 and HT-29 cells were obtained from
+the American Type Culture Collection (ATCC). A549 cells were maintained
+in RPMI 1640 supplemented with 10% fetal bovine serum, 1x
+GlutaMAX, and 1% penicillin/streptomycin. HT-29 cells were maintained in DMEM
+supplemented with 10% fetal bovine serum, 1x GlutaMAX, and 1%
+penicillin/streptomycin. Primary MEFs were generated in-house from E14.5 embryos and
+used within five passages in experiments. MEFs were maintained in
+DMEM supplemented with 15% FBS, 1 mM sodium pyruvate, 1x
+GlutaMAX, and 1% penicillin/streptomycin. All cells were maintained at 37°C
+and 5% CO 2 . A549 and HT-29 cells are
+human cell lines of male and female origin, respectively. The
+sex of embryos was not determined before generation of primary
+MEF cultures.

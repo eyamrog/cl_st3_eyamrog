@@ -1,0 +1,12 @@
+Before applying the algorithms on the external validation sets, we
+first validated that the Kaggle computational environment had been correctly
+replicated and the algorithms’ performance on our systems remained identical.
+To this end, we ran all algorithms on the tuning
+and internal validation sets on the two systems to reproduce
+the output generated during the competition on the Kaggle platform.
+By crosschecking the new results with the competition leaderboard, we
+additionally assured that the algorithms supplied by the teams were
+not altered after the competition or tuned to perform better
+on the external validation sets. The verification runs we performed
+on the Puhti cluster were used as the basis for
+all results reported on the internal validation set.

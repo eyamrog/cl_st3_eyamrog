@@ -1,0 +1,27 @@
+HEK293T cells were seeded into 10-cm dishes and transfected with
+25μg FLAG-Empty Vector (FLAG-EV) and FLAG-SP140 plasmids using Lipofectamine 2000
+(Invitrogen). 48 hours after transfection, nuclear extracts were isolated from
+cells. Alternatively, nuclear extracts from 10 million THP1 monocyte, peripheral
+blood mononuclear cells (PBMCs) or LBL cells were used for
+endogenous SP140 IPs. 500μg of nuclear lysate was incubated with
+SP140 antibody (Sigma) for pulldown overnight at 4 o C.
+This was followed by addition of Protein G Dynabeads (Invitrogen)
+and incubation for 4 hours at 4 o C with
+rotation. The bead slurry was then magnetized, the unbound fraction
+removed, and the beads subjected to a series of increasingly
+harsh salt-based washes. The beads were boiled at 90°C for
+10 minutes in a reducing sample buffer to elute bound
+protein and the elution was used for probing of co-IP
+interactors by Western blotting. Eluted proteins were run on a
+3-8% Tris Acetate Gel (Invitrogen) or 4-12% Tris Bis gel
+(Invitrogen), transferred onto PVDF membrane, blocked with 5% skim milk
+in TBS/0.1% Tween at room temperature for 1h, and then
+incubated with the indicated primary antibody in 3% BSA TBS/0.1%
+Tween overnight at 4°C. To assess DNA dependence of co-IP
+interactors, ethidium bromide was added at a concentration of 1mg/mL
+to 500μg of nuclear lysate and allowed to incubate for
+30 minutes on ice prior to addition of antibody for
+pulldown as described previously. Salt-based wash solutions were also supplemented
+with 100μg/mL ethidium bromide. As before, beads were boiled and
+eluted protein was used for probing of interactors by Western
+blot.

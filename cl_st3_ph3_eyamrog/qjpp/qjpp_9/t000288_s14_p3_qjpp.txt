@@ -1,0 +1,15 @@
+With respect to register, the texts in NOW stem from
+digital news outlets and are not limited to news reports,
+opinion pieces, and reviews, but also include more diverse types
+of texts, among them those that are similar to advice
+columns and letters to the editor (i.e., commentary from readers).
+Unlike smaller reference corpora, the NOW corpus puts greater emphasis
+on size than on careful checking of the material that
+is sampled. It is therefore possible that texts which do
+not actually originate in the country to which they are
+assigned in the corpus get included. And, as with other
+newspaper corpora, it is possible that the materials included were
+written by people who are speakers of a different variety
+of English. Great care therefore has to be taken here
+in manually post-editing and removing instances from material that is
+problematic (see section 3.2 for details).

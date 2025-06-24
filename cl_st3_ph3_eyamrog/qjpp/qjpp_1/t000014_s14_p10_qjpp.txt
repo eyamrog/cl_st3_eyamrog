@@ -1,0 +1,16 @@
+The WHO international standard for anti-SARS-CoV-2 IgG (NIBSC code 20/136)
+was used side by side as reference with the serum
+samples measured in this study for calibration and harmonization of
+the serological assays. The WHO reference (NIBSC code: 20/136) is
+equivalent to a live viral neutralizing antibody titer of 1:320
+against wild-type SARS-CoV-2 and a titer of 1:80 against the
+Delta variant B.1.617.2, while the WHO reference (1,000 BAU ml
+in serum) is equivalent to an RBD-specific IgG ELISA antibody
+titer of 1:2,430. All serum samples from eligible participants were
+used for humoral immune measurements, including for the live viral
+neutralizing antibody against the wild-type isolate and for RBD- and
+N-specific ELISAs. Live viral neutralizing antibodies against the Delta variant
+B.1.617.2 were only detected at day 0 and 14 d
+after the booster. Levels of RBD-binding IgG isotypes in serum
+were measured at day 14, and the ratio of IgG1/IgG4
+was used to evaluate T H 1/T H 2 profiling.

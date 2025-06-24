@@ -1,0 +1,5 @@
+Despite widespread implementation of active case-finding interventions globally, the evidence
+for effectiveness and the optimal approaches to delivering active case-finding
+interventions remain uncertain. Therefore, we aimed to systematically appraise evidence
+for the effectiveness of active case-finding interventions on tuberculosis case
+notifications, tuberculosis disease prevalence, and tuberculosis infection incidence and prevalence.

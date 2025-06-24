@@ -1,0 +1,10 @@
+The observation phase begins when a randomly selected agent gets
+infected ( index case ). The observation phase ends when
+no infected agents are left (every agent is either susceptible
+or recovered). Each observation phase is executed twice for each
+network and parameter setting. That is, one simulation without network
+dynamics and one simulation with network dynamics. Thus, both conditions
+start with the same network structure and index case. The
+only difference is that agents in the static condition cannot
+change their network ties, while agents in the adaptive condition
+can.

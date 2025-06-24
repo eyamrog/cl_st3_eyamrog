@@ -1,0 +1,19 @@
+To evaluate chromosome content in pre-implantation embryos, we first analyzed
+ESCs. ESC lines showed heterozygosity for parent-of-origin-specific SNPs along the
+entire chromosome 6 and throughout the genome because of the
+presence of maternal and paternal chromosomes ( Figure S2 ;
+Table S3 ). We controlled for the effect of genome
+amplification used in embryo analysis by examining single, heterozygous human
+ESCs. Amplification of genomic DNA can alter the normal allelic
+ratio from 1:1 because of stochasticity. In both single amplified
+ESCs and trophectoderm biopsies of embryos that gave rise to
+the stem cell lines, heterozygous alleles were identified along the
+entire chromosome 6 and throughout the genome, albeit at a
+wider distribution than when a large number of cells are
+used (compare Figure S2 B with Figure S2A with Figure
+S2C). For some SNPs, only one of the alleles reaches
+significance of detection and thus, in addition to heterozygous alleles
+(blue dots), paternal alleles (green dots) and maternal alleles (red
+dots) are detected ( Figure S1 C; Table S4 ).
+These controls provide a reference for the expected appearance of
+amplified genomic DNA in embryo samples.

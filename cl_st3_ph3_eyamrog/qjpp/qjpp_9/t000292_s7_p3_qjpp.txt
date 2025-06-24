@@ -1,0 +1,5 @@
+The Portuguese Parliament ( pp ) corpus, introduced here, is
+a resource that can be used for Natural Language Processing
+and other text mining goals to study over four decades
+of a democratic multi-party system, including both quantitative indicators and
+the possibility of discourse analysis, as we describe below.

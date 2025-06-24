@@ -1,0 +1,8 @@
+Previously, a signature of recombination was detected in partial mitochondrial
+sequences from M. nemestrina from Borneo and Sulawesi macaques (
+Piganeau et al., 2004 ; Tsaousis et al., 2005 ).
+To evaluate whether this signature was present in the mitochondrial
+genomes studied here, we analyzed these data using nine methods
+(RDP, GENECONV, Bootscan, Maxchi, Chimaera, SiSscan, PhylPro, LARD, 3Seq) as
+implemented by the Recombination Detection Program ( Martin and Rybicki,
+2000 ), version 4.97.

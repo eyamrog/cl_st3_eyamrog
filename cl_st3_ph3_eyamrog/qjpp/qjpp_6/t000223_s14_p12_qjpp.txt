@@ -1,0 +1,23 @@
+K-feldspar dose values were determined using the elevated temperature post-infrared-infrared
+stimulated luminescence (pIRIR) protocol measured at 290 °C ( Thiel
+et al., 2011 ; hereafter pIRIR 290 ; SOM Table
+S1 ). Standard SAR measurement protocols were applied using four
+regenerative doses and a zero-dose cycle. No corrections were made
+either for the residual or for the anomalous fading, as
+suggested by several authors (e.g., Thomsen et al., 2008 ;
+Jain and Ankjaergaard, 2011 ; Buylaert et al., 2012 ).
+The luminescence signals were obtained by integrating the first 2.5
+seconds of the signal, and the background determined on the
+last 50 seconds was subtracted. The growth curve was fitted
+with a single saturating exponential function (see SOM Fig. S6
+) with Analyst v. 4.57 ( Duller, 2018 ). The
+criteria for validating the application of the SAR protocol rely
+on the recycling ratio and the recuperation ratio, which have
+been met for all measured aliquots. The uncertainties on individual
+D e values have been determined using conventional error propagation
+. The standard deviation takes into account the contributions from
+counting statistics and the curve fitting error. The D e
+distributions are reported for all samples in SOM Fig. S7
+. The OSL and pIRIR 290 ages have been calculated
+using the online calculator DRAC v. 1.2 developed by Durcan
+et al. (2015) .

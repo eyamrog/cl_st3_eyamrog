@@ -1,0 +1,20 @@
+We introduced this system into MDA-MB-231 and AT-3 cells, and
+transplanted them into mammary fat pads of nude and wild-type
+C57BL/6 mice, respectively. When orthotopic tumors reach 1 cm 3
+, we resected the tumors and induced Cas9 by doxycycline.
+It should be noted that the orthotopic tumors already harbored
+a high diversity of mutant barcodes presumably due to leakage
+of Cas9 expression. This served as an initial barcode repertoire
+that enabled us to distinguish distinct clones that metastasize from
+orthotopic tumors to various organs. Further Cas9 expression yielded new
+mutations for delineation of parent-child relationship among lesions ( Figure
+4 C). We rationalize that the diversity of barcodes, or
+the Shannon entropy, in a metastasis should reflect the “age”
+of metastasis. When secondary metastasis occurs, child metastases will inherit
+only a subset of barcodes causing a reduction of Shannon
+entropy. Therefore, among genetically related metastases indicated by sharing common
+mutant barcodes, those with higher Shannon entropy are more likely
+to be parental ( Figure 4 C). This can be
+supported by the observation that primary bone lesions possess higher
+entropy than those secondary metastases in IIA model ( Figure
+S4 B).

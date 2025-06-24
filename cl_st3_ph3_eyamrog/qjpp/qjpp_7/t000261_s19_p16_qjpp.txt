@@ -1,0 +1,7 @@
+Maximum-likelihood Poisson models were estimated for the visit rate models
+to determine if estimates remained robust to the assumption of
+normality. Results were consistent in terms of significance, while estimates
+were also consistent with the log-linear OLS models. Finally, the
+denominator for visits is based on SYOA per Census 2016.
+When this is replaced with births for each age cohort,
+estimates remain consistent.

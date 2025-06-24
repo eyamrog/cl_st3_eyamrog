@@ -1,0 +1,11 @@
+A GP-1C11 scFv-1C3 Fab ternary complex was obtained by incubating
+EBOV GPΔmucin with a 3-fold molar excess of both 1C11
+scFv and 1C3 Fab overnight followed by purification using a
+Superdex 200 Increase 10/300 GL SEC column (Cytiva Life Sciences).
+Specimens for cryogenic electron microscopy (cryo-EM) imaging were prepared by
+applying the complex solution to freshly plasma-cleaned Holey carbon C-flat
+2/1 400 mesh copper grids (Electron Microscopy Sciences), followed by
+blotting and plunge-freezing into liquid ethane using a Vitrobot Mark
+IV (Thermo Fisher Scientific). 1 μL of lauryl maltose neopentyl
+glycol (Anatrace) was mixed with 3 μL of the sample
+just prior to grid application to improve angular distribution.

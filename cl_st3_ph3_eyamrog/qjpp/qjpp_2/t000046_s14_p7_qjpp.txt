@@ -1,0 +1,20 @@
+At the centre of calculating intervention impacts in the PMSLT
+is the conversion of intervention-induced changes in risk factors (ie,
+sodium, PUFA, fruits and vegetables, BMI, and sweetened sugary beverages)
+to changes in disease incidence rates. This conversion is made
+using population impact fractions (PIFs) that use rate ratios for
+each risk factor–disease association, to give percentage changes in disease
+incidence ( appendix pp 2–3 ). We included risk factor–disease
+pairings as per the GBD Study 2013, within the constraints
+of the risk factors that we were able to include
+in the PMSLT simulation model. Time lags were incorporated by
+the average of the PIFs 10–30 years before modelling (each
+limit with probabilistic uncertainty) for cancers and 0–5 years before
+for other conditions. To capture changes in HALYs, the differences
+between the BAU and intervention in disease mortality and morbidity
+rates (by cohort and year into the future) were summed
+across all diseases. They were then subtracted from the all-cause
+mortality and morbidity rates in the main lifetable, to give
+an intervention lifetable. The difference in HALYs between the BAU
+and intervention main lifetable is the effect size of the
+tax or subsidy intervention.

@@ -1,0 +1,3 @@
+Some algorithms were nondeterministic, for example, because of test time
+augmentations with nonfrozen random seeds. We ran each of these
+algorithms five times and averaged the computed metrics.

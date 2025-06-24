@@ -1,0 +1,2 @@
+All analyses were undertaken using Stata version 16.1 (StataCorp. 2017.
+Stata Statistical Software: Release 16. College Station, TX: StataCorp LLC).

@@ -1,0 +1,21 @@
+The results of the phylogenetic analyses are shown in Table
+3 . They revealed that only the cranium, C3, and
+C4 vertebrae shapes exhibited significant (though weak) phylogenetic signal, indicating
+that cranial and cervical vertebrae shapes from these taxa resemble
+each other less than expected under the Brownian motion model
+of evolution. The atlas and axis exhibited the lowest values
+( K mult = 0.052 and 0.058, respectively) and the
+cranium the highest ( K mult = 0.337), indicating lower
+and higher magnitudes of shape change during evolution, respectively. The
+subaxial cervical vertebrae displayed a trend that increases from C3
+to C4 (maximum value, K mult = 0.296) and then
+decreases toward C7 (minimum value, K mult = 0.112). This
+supports our hypothesis that cervical vertebrae in hominids present a
+divergence in the magnitudes of evolutionary variation. Table 3 .
+Phylogenetic signal of the cranium and cervical vertebrae in hominids
+represented in K mult values. Empty Cell Phylogenetic signal p
+Effect size Cranium 0.337 0.033 1.667 C1 0.052 0.479 0.043
+C2 0.058 0.239 0.557 C3 0.186 0.028 1.757 C4 0.296
+0.020 1.691 C5 0.283 0.064 1.796 C6 0.226 0.063 1.762
+C7 0.112 0.085 1.323 Significant values are indicated in bold
+( p -value <0.05).

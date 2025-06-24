@@ -1,0 +1,14 @@
+In their choice to create or maintain ties, agents have
+a preference for triadic closure versus openness in their networks.
+This preference balances two things: first, a preference for closed
+triads ( Coleman, 1994 ), and second, the strategic advantage
+to bridge structural holes ( Burt, 1992 ). Finally, the
+underlying agent selection process captures baseline homophily ( McPherson et
+al., 2001 ) by implementing larger probabilities for changing ties
+with agents who have similar risk perceptions. This process does
+not integrate explicit preferences regarding risk perception of alters (inbreeding
+homophily) and is in line with findings that correlations between
+personal properties, such as risk perceptions and health behavior ,
+are driven by higher likelihoods to meet similar others (e.g.,
+regarding age, gender, ethnicity, educational level, marital status) ( Bish
+and Michie, 2010 ; McPherson et al., 2001 ).

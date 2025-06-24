@@ -1,0 +1,4 @@
+Analysis was performed using scripts written in Python (v.3.8) in
+combination with the following software packages: scipy (1.5.4), pandas (1.1.4),
+mlxtend (0.18.0), numpy (1.19.4), scikit-learn (0.23.2), matplotlib (3.3.2), jupyterlab (2.2.9)
+and notebook (6.1.5).

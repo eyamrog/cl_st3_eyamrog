@@ -1,0 +1,18 @@
+AI algorithms have shown promise for grading prostate cancer ,
+specifically in prostatectomy samples and biopsies , and by assisting
+pathologists in the microscopic reviews . However, AI algorithms are
+susceptible to various biases in their development and validation .
+This can result in algorithms that perform poorly outside the
+cohorts used for their development. Moreover, shortcomings in validating the
+algorithms’ performance on additional cohorts may lead to such deficiencies
+in generalization going unnoticed . Algorithms are also often developed
+and validated in a siloed manner: the same researchers who
+develop the algorithms also validate them. This leads to risks
+of introducing positive bias, because the developing researchers have control
+over, for example, establishing the validation cohorts and selecting the
+pathologists providing the reference standard. There has yet to be
+an independent evaluation of algorithms for prostate cancer diagnosis and
+grading to assess whether they generalize across different patient populations,
+pathology labs, digital pathology scanner providers and reference standards derived
+from intercontinental panels of uropathologists. This represents a key barrier
+to implementation of algorithms in clinical practice.

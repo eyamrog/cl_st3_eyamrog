@@ -1,0 +1,20 @@
+The DASS interviews were manually transcribed at the utterance level
+by trained student workers. The transcriptions were subsequently checked multiple
+times for typos. For the purposes of this study, passages
+that overlapped with interviewer speech or were tagged as unclear
+were excluded. Interviews consisted of both narrative speech and portions
+featuring elicitation of lexical items. We acknowledge that there may
+be stylistic variation depending upon the kind of speech featured,
+but we did not include this as a factor in
+the current analysis. After manual transcription, the corpus was force-aligned
+using an in-house installation of the Montreal Forced Aligner (
+McAuliffe, Socolof, Mihuc, Wagner & Sonderegger 2017 ). Due to
+the size of this corpus, it was not possible to
+manually correct all alignments, but systematically listening to roughly 10,000
+tokens of individual words shows that approximately 86 percent of
+transcribed words are correctly aligned with the corresponding audio. This
+is a higher accuracy rate than has been found in
+other automatically aligned corpora of natural speech, such as the
+Audio British National Corpus, which found an average word boundary
+accuracy rate of approximately 66 percent ( Coleman, Renwick &
+Temple 2016 ; Renwick & Cassidy 2015 ).

@@ -1,0 +1,14 @@
+For the BEAST analyses, we used a more parameterized model
+(GTR+I+G4, with empirical base frequencies) than the one that was
+selected by the BIC as implemented by IQTREE, as detailed
+previously. The GTR model has an independently estimated reversible transition
+rate between each of the four nucleotides. Preliminary analyses recovered
+no well-supported differences when a model with fewer parameters than
+the BIC-selected model was used (TN93). Fifty percent of the
+Markov chain Monte Carlo run was discarded as burn-in based
+on inspection of the posterior likelihood trace using Tracer version
+1.71 ( Drummond and Rambaut, 2007 ), enabling quantification of
+the effective sample sizes of model parameter estimates. The effective
+sample size values for these analyses exceeded 200. Well-supported relationships
+(> 95% posterior probabilities) within the BEAST analysis were identical
+to the maximum likelihood analysis.

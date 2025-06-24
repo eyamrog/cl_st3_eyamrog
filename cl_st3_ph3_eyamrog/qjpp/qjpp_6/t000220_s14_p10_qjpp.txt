@@ -1,0 +1,10 @@
+Using the dataset of takeovers with data on aggression and
+the context of band takeover (within Band 1 vs. between
+Band 1 and another band, n = 118 takeovers), we
+applied Fisher's exact test to assess the relationship between the
+context of band takeover and takeover mechanism (aggressive vs. non-aggressive).
+In addition, we used independent two sample t-tests to assess
+the relationship between aggression intensity (toward other males and toward
+the female) and the identity of the band from which
+the takeover occurred, that is, whether it was within Band
+1 or between two bands.

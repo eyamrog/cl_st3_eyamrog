@@ -1,0 +1,14 @@
+The positive and negative mechanical work of the j th
+joint was computed by integrating over the time duration t
+1 to t 2 of a walking stride, where t
+1 and t 2 are the start and end of
+the first double-support period (ds1), single-support period (ss), second double-support
+period (ds2) of the stance phase or the limb swing
+phase (sw). The total limb positive and negative work in
+the i th period or phase of a stride were
+calculated as the sum of the positive and negative work
+at each of the n joints ( n = 3
+for each species): (3) W i + = ∑ j
+= 1 N W j + d t (4) W
+i − = ∑ j = 1 N W j
+− d t

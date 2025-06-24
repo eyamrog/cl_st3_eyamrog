@@ -1,0 +1,10 @@
+On the subset of the US external validation set with
+pathologist reviews, the algorithms exhibited a similar level of agreement
+with the uropathologists as the US general pathologists did (0.828,
+95% CI, 0.781–0.869 versus 0.820, 95% CI, 0.760–0.865; P =
+0.53). The representative algorithm had higher sensitivity for tumor (96.4%,
+95% CI of all algorithms, 96.6–99.5) than the representative pathologist
+(91.9%, 95% CI of all pathologists, 89.3–95.5) but lower specificity
+(75.0%, 95% CI of all algorithms, 61.2–82.7 versus 95.0%, 95%
+CI of all pathologists, 87.4–98.1). On average, the algorithms missed
+1.9% of cancers, whereas the pathologists missed 7.3%.

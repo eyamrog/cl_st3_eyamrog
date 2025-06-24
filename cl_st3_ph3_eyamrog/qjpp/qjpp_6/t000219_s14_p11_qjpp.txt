@@ -1,0 +1,22 @@
+Next, we assessed the potential influence of size on integration.
+To do so, we calculated the geometric mean of each
+anatomical element (cranium and cervical vertebrae) using their linear measurement
+values (six for the atlas and nine for each of
+the other elements), and we used it as a proxy
+for size ( Darroch and Mosimann, 1985 ; Jungers et
+al., 1995 ). To obtain ‘size-corrected’ data sets, we divided
+the raw values of the linear measurements by the geometric
+mean for each vertebra and the cranium ( Coleman, 2008
+; Pablos et al., 2013 ; Arlegi et al., 2017
+), hereafter size-adjusted. Then, we repeated the two previous analyses
+(i.e., ‘integration.test’ and ‘cor.test’) using the obtained size-adjusted data sets.
+In addition, we analyzed the amount of cervical shape variation
+explained by cranial size (i.e., allometry) and the differences in
+the allometric pattern among species. To do so, we performed
+a regression analysis using the linear measurements from the raw
+data sets as dependent variables and the cranial size represented
+by the geometric mean as the independent variable using the
+‘procD.lm’ function of ‘geomorph’ and the ‘pairwise’ function of ‘RRPP’
+v. 0.6.2 ( Collyer and Adams, 2018 , 2021 )
+to calculate the angle between the male and female regression
+vectors and its significance.

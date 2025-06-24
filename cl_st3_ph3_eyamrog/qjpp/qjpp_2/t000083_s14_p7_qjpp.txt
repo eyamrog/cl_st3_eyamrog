@@ -1,0 +1,19 @@
+Serum binding antibody levels against the spike (S) protein with
+proline modification (S-2P) were evaluated by means of the 384-well
+Meso Scale Discovery Electrochemiluminescence immunoassay analyzer, version 2 (4-plex ECLIA)
+and the 10-plex ECLIA for emerging SARS-CoV-2 variant spike proteins.
+SARS-CoV-2 neutralization titers that were expressed as the serum inhibitory
+dilution required to achieve 50% and 80% neutralization (ID 50
+and ID 80 , respectively) were determined according to trial
+group, age group, and time point with the use of
+pseudotyped lentiviruses presenting SARS-CoV-2 spike mutation D614G and the delta
+and B.1.351 (beta) variants, as described previously. For the beta
+variant, a random subset of samples (20 per group, distributed
+equally between age groups and among sites) was analyzed. Neutralizing
+activity was expressed in international units (IU50) per milliliter for
+the D614G neutralization assay. (The IU50 value was calculated as
+the ID 50 adjusted to an international standard.) SARS-CoV-2 S-specific
+CD4+ and CD8+ T-cell responses were evaluated after ex vivo
+stimulation of cryopreserved peripheral-blood mononuclear cells (PBMCs) with the use
+of a validated intracellular cytokine staining assay with a 27-color
+flow cytometry panel.

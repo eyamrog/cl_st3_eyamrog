@@ -1,0 +1,20 @@
+An obstacle to repairing the paternal allele through recombination between
+homologous chromosomes at the zygote stage is that paternal and
+maternal genomes are in two separate nuclei. To determine whether
+the maternal genome could provide a template for DSB repair
+when present with the paternal genome in the same nucleus,
+we injected Cas9 RNP into both cells of 13 two-cell
+stage embryos heterozygous for the EYS mutation and flanking SNPs
+( Figure 4 A). Single blastomeres were harvested and amplified
+from 9 cleavage stage embryos, and 4 embryos were analyzed
+at the morula and blastocyst stages on day 5 after
+fertilization by using biopsies of multiple cells ( Figure 4
+A). Embryos dissociated to single blastomeres showed mosaicism for multiple
+alleles ( Figure 4 B). Of a total of 45
+genotyped single cells and day 5 biopsies, 25 (55%) showed
+an EYS wt genotype at the mutation site and 12
+(32%) showed end-joining events on the paternal allele; in the
+remaining, 3 showed end-joining events on the maternal allele, 3
+showed no change, and 2 had no allele call even
+as flanking SNPs were detected ( Figure 4 D; Table
+S1 ).

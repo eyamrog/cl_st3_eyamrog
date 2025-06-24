@@ -1,0 +1,11 @@
+Most studies have weak designs, limiting the ability to draw
+causal connections. Future studies in this area should incorporate better
+study designs, including, if possible, large, multisite pragmatic randomized designs.
+Small, single-site trials still face the challenge of scalability, but
+combining randomized controlled trials with implementation science tools could enhance
+the ability to scale promising trial designs and hence have
+a better chance of improving the population health of care
+recipients. Studies that use administrative and claims data could at
+least incorporate longitudinal designs in order to move away from
+cross-sectional correlations and should consider more causal models such as
+instrumental variables and regression discontinuity designs.

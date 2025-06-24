@@ -1,0 +1,25 @@
+Obtaining reliable estimates of TBI incidence and lifetime prevalence in
+the homeless and marginally housed population, as well as in
+the general population, has been challenging. Reported incidence of TBI
+varies widely across counties, and the methods of sampling participants
+and defining TBI cases differ between reports. Considerably higher rates
+of TBI have been reported in population-based studies that capture
+injuries for which medical attention is not sought, as compared
+with studies that gather data from medical records or emergency
+departments. Additional sources of bias also exist, including in the
+common definitions of TBI, and sampling or referral biases. Similarly,
+the method for ascertaining history of TBI has not been
+unanimously agreed upon and estimates of the lifetime prevalence of
+TBI vary considerably. Meta-analytic work has found that 12% of
+the general population reported at least one TBI over the
+lifespan. A 2018 state-wide study in Ohio, USA, which used
+a modified version of the comprehensive Ohio State University TBI
+ascertainment method (a short, structured interview based on the Centers
+for Disease Control definition of TBI and endorsed by the
+National Institute of Neurological Disorders and Stroke), found an estimated
+lifetime prevalence of TBI of 21·7% in the general population,
+and a lifetime prevalence of moderate or severe TBI of
+2·6%. Although several tools designed to ascertain TBI history are
+available (eg, the Ohio State University TBI ascertainment method and
+the Brain Injury Screening Questionnaire), these methods have been inconsistently
+used in studies of homeless and marginally housed individuals.

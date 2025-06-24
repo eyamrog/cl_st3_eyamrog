@@ -1,0 +1,14 @@
+As our hypothesis is that heuristics pick up where institutions
+leave off, in addition to the public health indicators, the
+institutions variable shown in Equation 1 comprises a salient attribute
+of the political system which could have an impact on
+the response to a pandemic: executive constraints, which represent how
+institutionalized political limitations are on the chief executive, with the
+assumption that a highly constrained national executive would not be
+able to unilaterally introduce wide-ranging lockdown measures (alternatively, a weak
+executive may be pressured by legislative bodies to have a
+more expansive lockdown). Additional institutional measures may be explored in
+future research (and indeed are attempted in robustness tests below),
+but executive constraints is the most omnibus variable that can
+be used, in the sense of encompassing check and balances,
+legislative influence, and regime type.

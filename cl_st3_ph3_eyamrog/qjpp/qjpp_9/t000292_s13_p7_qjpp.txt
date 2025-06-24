@@ -1,0 +1,11 @@
+The outermost tag is the <debate>. It contains data and
+other sub-structures that pertain to a single, specific meeting of
+the parliament. Thus, the tag includes the following fixed metadata:
+Period . Corresponds to the historic data source, in this
+case always ‘r3’, the third Republic. Legislature . Indicates the
+government cycle in which the debate took place. Legislative_session .
+Typically refers to a year period within each four-year legislature.
+Number . Ordinal, per legislature session index of the debate.
+Date . Date when the parliamentary session took place (not
+the publication date of the document, which is usually one
+or more days later).

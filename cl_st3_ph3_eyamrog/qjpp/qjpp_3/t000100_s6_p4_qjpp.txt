@@ -1,0 +1,8 @@
+The limitation of this study is the relatively small sample
+size considering the heterogeneity observed in the nature of CD4
++ T cell responses to SARS-CoV-2. Analysis of patients in
+the acute and convalescent phase of illness fails to discriminate
+effector and long-term memory CD4 + T cell responses. Serial
+sampling of the same patients in the recovered phase is
+likely to provide insights into the nature and persistence of
+memory CD4 + T cell responses to SARS-CoV-2.

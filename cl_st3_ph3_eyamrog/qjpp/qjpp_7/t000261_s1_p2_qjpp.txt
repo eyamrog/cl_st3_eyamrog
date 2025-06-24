@@ -1,0 +1,5 @@
+A difference-in-difference (DiD) analysis was applied to visit records of
+367,000 paediatric patients at five hospitals over a period of
+five years, with treatment and control differentiated by age. DiD
+was also used to assess if GP referrals and the
+severity of presentations altered as a consequence of this policy.

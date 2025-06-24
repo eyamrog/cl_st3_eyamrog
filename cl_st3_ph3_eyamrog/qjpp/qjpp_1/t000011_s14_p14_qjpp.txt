@@ -1,0 +1,21 @@
+We conducted several sensitivity analyses on the WTP per averted
+YLL. (1) The 2020 gross domestic product per capita purchasing
+power parity (PPP) is USD $6,454.3 and USD $63,543.6 in
+India and the United States, respectively . Health economists have
+inferred from healthcare expenditure that the United States is willing
+to pay USD $100,000 per quality-adjusted life-year (QALY) , in
+which YLL is a key component. The PPP is a
+popular metric of economists that uses the prices of specific
+goods to compare the economic productivity and standards of living
+among different countries, which is used to estimate the WTP
+in many applications (for example, the New Rural Cooperative Medical
+Scheme in China ). We, thus, assume that the WTP
+in India is USD $10,517 per averted YLL, which is
+estimated by scaling the WTP per averted YLL in the
+United States according to the difference in PPP between India
+and the United States. (2) We performed two additional sensitivity
+analyses: (i) using the WTP per averted YLL estimated for
+middle-income country settings (that is, USD $5,089 per QALY in
+Thailand ) and (ii) using the WTP per averted YLL
+estimated for high-income country settings (that is, USD $100,000 per
+QALY in the United States ).

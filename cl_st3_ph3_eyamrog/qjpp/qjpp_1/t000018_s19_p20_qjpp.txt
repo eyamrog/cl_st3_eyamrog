@@ -1,0 +1,14 @@
+To identify upstream cytokine drivers of the neutrophil-attractant program in
+fibroblasts, we stimulated primary stromal cell lines expanded from surgically
+resected tissue from patients with IBD with a panel of
+disease-associated cytokines . Of these, only the NF-kB activators IL-1β
+and TNF-α, but not IL-6 or OSM, induced CXCL5 expression
+after 3 h of stimulation (Extended Data Fig. 8a ).
+Furthermore, RNA-seq showed that IL-1β and TNF-α induced strong expression
+of genes encoding neutrophil-tropic CXCR1 and CXCR2 ligands in fibroblasts,
+namely CXCL1 , CXCL2, CXCL3 , CXCL5 , CXCL6 and
+CXCL8 (Extended Data Fig. 8b ). In addition, both cytokines
+induced the inflammatory fibroblast markers PDPN and FAP (Extended Data
+Fig. 8b ). Although TNF-α and IL-1β both induced a
+chemokine response, the latter was 100-fold more potent (Extended Data
+Fig. 8b,c ).

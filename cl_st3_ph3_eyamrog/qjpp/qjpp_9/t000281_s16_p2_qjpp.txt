@@ -1,0 +1,22 @@
+All corpora consulted include part-of-speech-tagged versions of the texts, which
+proved to be instrumental for the retrieval and selection of
+the data. Relevant patterns were found through a general search
+for two consecutive adjectives (using the tag search [*_jj *_jj
+]) in the diachronic corpora. For the BNC, the tool
+Phrases in English was used to retrieve all [Adj.+ Adj.]
+2-gram clusters with a minimum of two tokens of frequency.
+4 The results from all these searches were then manually
+pruned down to include only those clusters featuring size -adjectives.
+In the case of the EEBO corpus, however, the original
+general search [ *_jj *_jj ] yielded too many hits
+(over 200,000 per century) to allow manual searches. A process
+of automatic thinning was applied to the data and a
+sample of 15,000 tokens was scrutinized per century. 5 As
+will become evident in subsequent sections, although the largest multi-genre
+historical British English corpora available to date have been used
+for the analyses, the overall raw data frequencies are low
+across most periods under investigation. The overall patterns of development
+that these data suggest are however robust enough to merit
+confident interpretation and indicate further lines of enquiry that will
+hopefully be taken up in future analyses of intensification in
+English.

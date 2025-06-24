@@ -1,0 +1,12 @@
+Investigation of SBP as a continuous risk function is helpful
+in the face of multiple current clinical guidelines for BP
+that suggest different thresholds for applying diagnoses. The American College
+of Cardiology/American Heart Association 2017 guidelines define normal BP as
+<120/80 mm Hg, with elevated BP considered to be SBP
+of 120–129 mm Hg and hypertension defined as SBP ≥130/80
+mm Hg (ref. ). In contrast, the European Society of
+Cardiology/European Society of Hypertension 2018 guidelines consider normal BP to
+be <130/85 mm Hg, with high-normal defined as BP of
+130–139/85–89 mm Hg and hypertension defined as ≥140 mm Hg
+(ref. ). The International Society of Hypertension 2020 guidelines similarly
+consider hypertension to be BP ≥140/90 mm Hg (ref. ).

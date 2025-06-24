@@ -1,0 +1,7 @@
+Most studies (21 of 28) used tuberculosis symptom screening as
+the first step in the screening algorithm. Five studies used
+chest x-ray regardless of symptoms. Three studies used a tuberculin
+skin test as the first screening test. In one study,
+chest x-ray was used to screen people for tuberculosis, but
+sputum was additionally collected regardless of symptoms or chest x-ray
+findings.

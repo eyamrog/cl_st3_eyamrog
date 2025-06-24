@@ -1,0 +1,10 @@
+Digital surveillance has been conducted for multiple health events using
+various sources of search query data, including dengue virus incidence
+using Google search queries ( 1 ), queries from Baidu
+(a large Chinese search engine similar to Google) ( 62
+), and vaccine effectiveness using Google search queries ( 92
+). Online restaurant reservation and review logs have been used
+to identify foodborne disease and influenza-like illness outbreaks ( 49
+, 69 ). While there are a variety of new
+applications in digital public health surveillance, the most utilized has
+been within the area of influenza surveillance and tracking.

@@ -1,0 +1,15 @@
+This study has several limitations. One obvious limitation is the
+fact that the essays were rated not by human raters
+but by an automated rating system. The three sub-corpora were
+also different in size, the High corpus in particular being
+quite small (less than 10,000 words in total). Considering that
+the High corpus data was notably distinct from the Low
+and Mid corpus data in displaying features of academic writing,
+future research with a larger corpus of writing produced by
+higher proficiency learners may lead to findings that can prove
+beneficial for designing teaching materials. Moreover, while this study identified
+certain types of structure that learners use as building blocks
+when producing four-word sequences, the larger structures in which lb
+s are embedded merit further investigation so as to offer
+a more comprehensive picture of learners’ use of sequences beyond
+lexical bundles.

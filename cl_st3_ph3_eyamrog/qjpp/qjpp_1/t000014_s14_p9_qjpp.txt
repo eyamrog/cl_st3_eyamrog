@@ -1,0 +1,16 @@
+RBD- and N-specific ELISA antibody responses were measured at the
+same time points, using an indirect ELISA assay with a
+cutoff titer of 1:10. The commercial Anti-SARS-CoV-2 RBD IgG ELISA
+kit (Vazyme Medical Technology) was used for detection. RBD-specific and
+N-specific binding antibodies were detected using a horseradish peroxidase-conjugated secondary
+antibody (AB320120200316, Vazyme Medical Technology) diluted for each ELISA assay
+(anti-RBD antibody detection, 1:18,000; anti-N antibody detection, 1:15,000) and TMB
+substrate (Surmodics). Data collection was performed using a Multiskan GO
+reader (Thermo Fisher) to detect optical density at 450 and
+630 nm using SkanIt Software for Microplate Readers (version 4.1.0.43).
+We validated the RBD-specific antibody-measuring approach and compared the titers
+of RBD-specific antibodies and the titers of spike protein-specific antibodies
+using sera isolated from participants at 14 d after the
+booster dose. We observed a high correlation between the two
+approaches, with r = 0.91 (Supplementary Fig. 1 ), and
+then proceeded with the RBD-specific antibody-measuring system.

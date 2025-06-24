@@ -1,0 +1,20 @@
+The AA76 of Wfikkn1 in wild-type mice is decoded as
+glutamine as in the monito del monte and the diprotodontian
+species. Thus, we generated transgenic mice with the alternative amino
+acid (arginine) in the AA76 position of this gene. We
+scanned the bodies of Wfikkn1 Q76R/Q76R mice and wild-type mice
+using MicroXCT 400 and measured the height of the spinous
+process of their first and second thoracic vertebrates ( Figure
+S4 D). The scanning result showed that the T1/T2 ratio
+was significantly reduced in Wfikkn1 Q76R/Q76R mice compared with WT
+mice (Welch two sample t test for T1/T2 ratio, p
+value = 0.0004, Figure 5 C), due to a shorter
+T1 spinous process and a higher T2 spinous process (Welch
+two sample t test, p value = 0.0004 for T1,
+p value = 0.0490 for T2; Figure S4 E). These
+results confirmed our hypothesis that changing from glutamine to arginine
+at this site was sufficient to cause a decrease in
+the T1 spinous process, consistent with phenotypic differences observed in
+marsupials. This experiment, thus, provides proof-of-concept that an ancestral genetic
+polymorphism can produce different morphologies through ILS that might create
+a mismatch between morphological and genomic phylogenies.

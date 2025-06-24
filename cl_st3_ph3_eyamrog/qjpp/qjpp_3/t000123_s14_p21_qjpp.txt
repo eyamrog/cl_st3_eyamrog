@@ -1,0 +1,8 @@
+In this way, for each TE in the reference species,
+we could assign it a corresponding status in the query
+species. Here, we removed the TE with a “?” label.
+We then combined these pairwise presence/absence matrices of retroelement insertions
+into one matrix with 401 informative markers across all six
+species. Here, the informative markers are those elements with “0”
+in the outgroup (Mono) and simultaneously with “1” in at
+least two, but not all, of the five species.

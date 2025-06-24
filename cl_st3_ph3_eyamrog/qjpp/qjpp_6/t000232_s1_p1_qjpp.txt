@@ -1,0 +1,15 @@
+Communication during patient transitions is difficult in a fragmented health
+care system. eHealth technologies are often seen as a panacea,
+but a large proportion of eHealth projects fail, primarily because
+of human, not technological, elements. To combat this tendency, concepts
+derived from institutional ethnography were applied to create an electronic
+communications solution, which enabled careful mapping of communications gaps; their
+consequences; and the diverse needs of multiple health care providers.
+Institutional ethnography allowed researchers to trace social relations across locations
+in the health system and determine how action could be
+coordinated to ensure that family physicians were informed of patients’
+acute care encounters, while simultaneously strengthening relations between clinicians and
+information technology workers. As a result, an automated electronic notification
+system was piloted, evaluated, and spread to more than 92
+percent of community physicians in one region of British Columbia,
+Canada, improving communication between providers and enhancing patient care.

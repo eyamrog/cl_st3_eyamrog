@@ -1,0 +1,11 @@
+To estimate utility tariffs for the WOOP for the Netherlands
+a discrete choice experiment was designed. More specifically, a ‘DCE
+with duration’ approach was employed, entailing including duration of life
+as an additional attribute in the choice tasks. This allows
+anchoring of utilities on a scale from 0 (dead) to
+1 (perfect well-being) ( Rowen et al., 2015 ). This
+method was preferred over standard gamble and time-trade-off approaches due
+to concerns relating to the cognitive burden of these iterative
+procedures, the size of the WOOP instrument, and due to
+the possibility of administering DCE tasks online ( Mulhern et
+al., 2014 ).

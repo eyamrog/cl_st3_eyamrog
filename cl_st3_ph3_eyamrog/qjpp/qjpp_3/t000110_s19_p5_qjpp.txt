@@ -1,0 +1,24 @@
+We found that an increasing number of mutation sites in
+the RBD was correlated with immune escape from a steadily
+increasing number of monoclonal antibodies ( Figure 3 ), clearly
+suggesting a superposition effect. Conversely, monoclonal antibodies that do not
+neutralize any of the three RBD site mutations were also
+ineffective in neutralizing the 501Y.V2 variants containing those mutations. 501Y.V2-1
+was a relatively early variant in the second wave of
+this epidemic ( Tegally et al., 2020a 35. Tegally, H.
+∙ Wilkinson, E. ∙ Giovanetti, M. ... Emergence and rapid
+spread of a new severe acute respiratory syndrome-related coronavirus 2
+(SARS-CoV-2) lineage with multiple spike mutations in South Africa medRxiv.
+2020; Published online December 22, 2020 Crossref Scopus (0) Google
+Scholar ); it carries the E484K and N501Y mutations but
+not the K417N mutation. We found that the antibody escape
+spectrum of our pseudotyped virus 501Y.V2-1 was essentially the same
+as for the 614G+E484K+N501Y triple RBD mutation variants. However, and
+recalling that the 501Y.V2-2 pseudotyped virus carries two additional mutations
+(L18F and K417N), it is consistent that 501Y.V2-2’s escape spectrum
+is wider than 501Y.V2-1’s spectrum for this panel of neutralizing
+antibodies ( Figure 3 ). Finally, our finding that 501Y.V2-3’s
+escape spectrum for this RBD-targeting antibody panel is identical to
+501Y.V2-2’s spectrum fit with our expectations, because these two pseudotyped
+variants contain the same mutations in their RBDs ( Figure
+S2 ).

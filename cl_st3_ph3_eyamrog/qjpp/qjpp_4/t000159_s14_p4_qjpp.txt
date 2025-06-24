@@ -1,0 +1,15 @@
+MVPA was identified from the AG device and defined as
+greater than 2020 counts/minutes, approximately three metabolic equivalents (METs) or
+higher (Atienza et al., 2011 ; Piercy et al., 2018
+). This value is in line with the 2018 Physical
+Activity Guidelines for Americans. Time spent in SED was identified
+from the AP device using the proprietary classification of “sitting/lying.”
+Consistent with prior research using accelerometers within NHANES, a complete
+day was defined as at least 10 h of wear
+time while awake (Atienza et al., 2011 ). Periods of
+non-wear were identified using NHANES definitions (Atienza et al., 2011
+; Healy et al., 2011 ). A minimum of 4
+days (including at least 1 weekend day) of data was
+required, consistent with past research (Ward et al., 2005 ).
+Days containing a discrepancy of 7000 total steps/day or more
+between the two devices were discarded.

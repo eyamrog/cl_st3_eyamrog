@@ -1,0 +1,17 @@
+In Hong Kong, Hyland’s (2005 ) metadiscourse framework has had
+a significant impact on lcr studies. Subsequent research has focussed
+on students’ use of stance markers ( Crosthwaite and Jiang,
+2017 ) and boosting devices ( Hafner and Wang, 2018
+), or even whole taxonomies ( El-Dakhs, 2020 ). Other
+frameworks that have been used in lcr in Hong Kong
+include Norrick’s (1987 ) taxonomy of Same Speaker Repetitions, and
+Milton and Tsang’s (1993) twenty-five connectors used by Hong Kong
+students. More sophisticated linguistic metrics have also been used in
+Hong Kong lcr , including Biber’s (1988 , 1989) Multidimensional
+Analysis, McKee et al .’s (2000) lexical diversity ‘VocD’ measure,
+and Lu’s (2010 ) L2 Syntactic Complexity indices. It should
+be noted that researchers have developed automated software which can
+extract the linguistic features required for analysis under these frameworks
+very quickly, for example, Crosthwaite (2016) directly used Nini’s Multidimensional
+Analysis Tagger and Lee et al . (2021) used Lu’s
+(2010 ) Syntactic Complexity Analyzer.

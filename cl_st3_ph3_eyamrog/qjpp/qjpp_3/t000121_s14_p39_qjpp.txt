@@ -1,0 +1,6 @@
+Totally deuterated (TD) samples were prepared by collecting purified peptide
+eluent following reverse phase LC separation of a pepsin digested
+undeuterated sample. Following evaporation of the LC elution buffer the
+peptides were resuspended in HDX PBS pH 7.50 Buffer, deuterated
+in deuteration Buffer for 1 h at 65°C and quenched
+and frozen as described above.

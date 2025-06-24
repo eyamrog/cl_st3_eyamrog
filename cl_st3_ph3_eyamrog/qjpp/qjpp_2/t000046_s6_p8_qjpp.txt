@@ -1,0 +1,11 @@
+There have been concerns about the unintended substitution effects of
+food taxes and subsidies, whereby, for example, a sugar tax
+might lead to increased saturated fat consumption and limit health
+gains, or even lead to health harm. Our simulations suggest
+that although there will be substitution, the net health gains
+are still highly likely (eg, our 95% uncertainty intervals all
+excluded the null), at least for the specific fiscal policies
+modelled in this particular high-income country. Whether the same patterns
+would be observed in countries with markedly different dietary patterns
+remains to be investigated, and models such as ours provide
+a mechanism for doing so.

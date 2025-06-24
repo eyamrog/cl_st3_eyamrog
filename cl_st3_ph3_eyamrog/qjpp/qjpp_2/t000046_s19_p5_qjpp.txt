@@ -1,0 +1,27 @@
+Most of the health gains arose because of reductions to
+BMI ( appendix p 6 ), even for the salt
+tax (high-salt foods are also often energy dense). Per capita,
+all tax and subsidy policies generated as much or more
+age-standardised HALYs per capita for Māori compared with non-Māori people
+(ranging from a ratio of 0·98 for the fruit and
+vegetable subsidy to 1·80 for the salt tax; appendix p
+11 ). Reductions in health expenditure over the remaining lifespan
+reflected patterns of health gain. Using a 3% discount rate,
+health expenditure savings during the remainder of the lifespan ranged
+from $2170 million (95% UI 1470–3060 million) for the junk
+food tax to $9530 million (6480–13 800 million) for the
+sugar tax ( table 3 ). About a third of
+cost savings were realised in the first 20 years after
+the intervention. When health expenditure savings are expressed per capita
+at the 3% discount rate, they ranged from $492 (334–694)
+per person during the remaining lifetime for the junk food
+tax to $2164 (1472–3122) per person for the sugar tax
+( figure 2 ). The health gains from all food
+tax and subsidy policies simulated in this paper were greater
+than those from 10% per annum increases in tobacco tax
+from 2011 to 2025 in New Zealand ( figure 3
+), as simulated using a similar model structure and methods
+(275 000 HALYs gained; 0% discount rate), and most of
+the policies created greater health gains than a sinking lid
+on tobacco (ie, linear reduction in all tobacco sales to
+0% from 2011 to 2025; figure 3 ).

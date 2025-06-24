@@ -1,0 +1,15 @@
+Cells were trypsinated at about 80% confluence and the cell
+number was counted. 20E4 cells were resuspended in 1 mL
+ALDEFUOR™ Assay buffer, and 5 ul of activated substrate was
+added into the cell suspension. Then, 0.5 mL of the
+mixture was transferred to another tube with 5 ul DEAB
+to inactivate the ALDH enzymatic reaction. Both the DEAB and
+test samples were incubated at 37°C for 45 min. For
+CD44 staining, cells were blocked with mouse anti-CD16/32 antibody (Tonbo
+Biosciences) for 10 minutes and then stained with APC conjugated
+CD44 antibody (Tonbo Biosciences) on ice for 30 minutes. ALDH+
+cells and CD44 expression were then examined with BD LSR
+Fortessa Analyzer, and analyzed with FlowJo v10.0 (BD). The percentage
+of ALDH1+ population in test samples was determined with the
+same gate containing 0.1% positive cells in the corresponding DEAB
+sample.

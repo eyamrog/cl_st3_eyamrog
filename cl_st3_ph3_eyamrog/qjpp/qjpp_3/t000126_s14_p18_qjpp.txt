@@ -1,0 +1,9 @@
+RNA was extracted using the RNeasy Mini Kit (Qiagen) with
+on-column DNase digest (Qiagen)according to manufacturer’s instruction. 100ng-1μg RNA was
+used to synthesize cDNA by reverse transcription using the iScript
+cDNA Synthesis Kit (Bio-Rad). Quantitative PCR reactions were run with
+cDNA template in the presence of 0.625μM forward and reverse
+primer and 1x solution of iTaq Universal SYBR Green Supermix
+(Bio-Rad). Quantification of transcript was normalized to the indicated housekeeping
+gene. A complete list of primer sequences is provided in
+STAR Methods chart.

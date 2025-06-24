@@ -1,0 +1,7 @@
+The algorithms were independently evaluated on the two external validation
+sets. The agreements with the reference standards were high with
+a quadratically weighted κ of 0.862 (95% CI, 0.840–0.884) and
+0.868 (95% CI, 0.835–0.900) for the US and EU external
+validation sets, respectively. The main algorithm error mode was overdiagnosing
+of benign cases as ISUP GG 1 cancer (Extended Data
+Figs. 5 and 6 ).

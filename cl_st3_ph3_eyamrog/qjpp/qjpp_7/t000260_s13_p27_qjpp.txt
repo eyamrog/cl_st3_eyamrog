@@ -1,0 +1,13 @@
+This shows the effect of two of the SDs to
+the main variable related to the transmissibility of the virus.
+Equation (7) also shows that improving SDs will require ceteris
+paribus lower levels of NPIs to reduce the effective reproduction
+number R e , such that R e < 1
+. This means that improving SDs will not only have
+a direct effect on people's wellbeing but will also have
+an overall positive effect through leading to a lower R
+0 and R e . Furthermore, given the high economic
+costs of NPIs, an improvement of SIs will also have
+economic benefits. Again here, there might also be indirect network
+effects which may or may not influence the reproduction number
+( Hébert-Dufresne et al., 2021 ).

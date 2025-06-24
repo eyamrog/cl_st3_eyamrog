@@ -1,0 +1,14 @@
+In the present study, 809 patients for whom a CAR
+T order was obtained outside of a trial setting for
+DLBCL in second or subsequent relapse were analyzed. Median OS
+from CAR T order and CAR T infusion was 17
+months and 19 months, respectively, for the whole cohort of
+patients. Strikingly, in the 1:1 matched population of 418 patients
+considered after the stringent PSM statistical approach, ORR/CRR were 66%/42%
+for tisa-cel and 80%/60% for axi-cel, which mirror response rates
+in the two pivotal clinical trials: JULIET and ZUMA-1 (52%/40%
+and 82%/58%, respectively) . Similarly, median OS was 11.2 months
+with tisa-cel, whereas median OS was not reached with axi-cel,
+echoing the 11.1 months and 25.8 months of median OS
+in the recent updates of the JULIET and ZUMA-1 trials,
+respectively.

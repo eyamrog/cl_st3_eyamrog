@@ -1,0 +1,2 @@
+All statistical analyses were performed in R (version 3.5.1) with
+the packages meta (version 4.9-4) and metafor (version 2.0-0).

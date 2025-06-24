@@ -1,0 +1,24 @@
+Wallace's Line demarcates a biogeographical boundary between the Indomalaya and
+Australasian ecoregions. Most placental mammalian genera, for example, occur to
+the west of this line, whereas most marsupial genera occur
+to the east. However, macaque monkeys are unusual because they
+naturally occur on both western and eastern sides. To further
+explore this anomalous distribution, we analyzed 222 mitochondrial genomes from
+∼20 macaque species, including new genomes from 60 specimens. These
+comprise a population sampling of most Sulawesi macaques, Macaca fascicularis
+(long-tailed macaques) specimens that were collected by Alfred R. Wallace
+and specimens that were recovered during archaeological excavations at Liang
+Bua, a cave on the Indonesian island of Flores. In
+M. fascicularis , three mitochondrial lineages span the southernmost portion
+of Wallace's Line between Bali and Lombok, and divergences within
+these lineages are contemporaneous with, and possibly mediated by, past
+dispersals of modern human populations. Near the central portion of
+Wallace's Line between Borneo and Sulawesi, a more ancient dispersal
+of macaques from mainland Asia to Sulawesi preceded modern human
+colonization, which was followed by rapid dispersal of matrilines and
+was subsequently influenced by recent interspecies hybridization. In contrast to
+previous studies, we find no strong signal of recombination in
+most macaque mitochondrial genomes. These findings further characterize macaque evolution
+before and after modern human dispersal throughout Southeast Asia and
+point to possible effects on biodiversity of ancient human cultural
+diasporas.

@@ -1,0 +1,25 @@
+The emergence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+variants and the waning of vaccine-elicited neutralizing antibodies suggests that
+additional coronavirus disease 2019 (COVID-19) vaccine doses may be needed
+for individuals who initially received CoronaVac. We evaluated the safety
+and immunogenicity of the recombinant adenovirus type 5 (AD5)-vectored COVID-19
+vaccine Convidecia as a heterologous booster versus those of CoronaVac
+as homologous booster in adults previously vaccinated with CoronaVac in
+an ongoing, randomized, observer-blinded, parallel-controlled phase 4 trial ( NCT04892459
+). Adults who had received two doses of CoronaVac in
+the past 3–6 months were vaccinated with Convidecia ( n
+= 96) or CoronaVac ( n = 102). Adults who
+had received one dose of CoronaVac in the past 1–3
+months were also vaccinated with Convidecia ( n = 51)
+or CoronaVac ( n = 50). The co-primary endpoints were
+the occurrence of adverse reactions within 28 d after vaccination
+and geometric mean titers (GMTs) of neutralizing antibodies against live
+wild-type SARS-CoV-2 virus at 14 d after booster vaccination. Adverse
+reactions after vaccination were significantly more frequent in Convidecia recipients
+but were generally mild to moderate in all treatment groups.
+Heterologous boosting with Convidecia elicited significantly increased GMTs of neutralizing
+antibody against SARS-CoV-2 than homologous boosting with CoronaVac in participants
+who had previously received one or two doses of CoronaVac.
+These data suggest that heterologous boosting with Convidecia following initial
+vaccination with CoronaVac is safe and more immunogenic than homologous
+boosting.

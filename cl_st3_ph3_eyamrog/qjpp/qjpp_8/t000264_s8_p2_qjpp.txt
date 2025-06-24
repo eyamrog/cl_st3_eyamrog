@@ -1,0 +1,17 @@
+The Centers for Disease Control, along with many other entities
+and scholars, boast socio-demographic disparities including race, age, ethnicity, poverty
+status, overcrowded housing conditions , population density, and epidemiological factors
+as driving forces in the COVID-19 pandemic ( Division of
+Viral Diseases, 2021 , 2020 ). Despite the robust literature
+suggesting that vulnerable populations are key to modeling the COVID-19
+pandemic ( Carroll and Prentice, 2021 ; COVIDCareMap, 2020 ;
+Onder et al., 2020 ; Tai et al., 2020 ),
+we hypothesize that human behavior as explained by mobility furnishes
+a superior metric for explaining the spread of COVID-19 over
+space and time. Our premise is built on several other
+studies that show the benefits of stay at home orders
+( Badr et al., 2020 ; Carroll and Prentice, 2021
+) as well as the relationship between mobility and COVID-19
+presence in the community ( Chen et al., 2020 ;
+Lee et al., 2021 ; Nouvellet et al., 2021 ;
+Rashed and Hirata, 2021 ).

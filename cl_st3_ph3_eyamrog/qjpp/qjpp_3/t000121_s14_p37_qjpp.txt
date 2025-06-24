@@ -1,0 +1,8 @@
+Deuterium uptake analysis was performed with HD-Examiner (Sierra Analytics) and
+HX-Express v2. For solution digestion experiments data was extracted using
+CDCReader and analyzed using HXExpress v2 ( Guttman et al.,
+2013 29. Guttman, M. ∙ Weis, D.D. ∙ Engen, J.R.
+... Analysis of overlapped and noisy hydrogen/deuterium exchange mass spectra
+J. Am. Soc. Mass Spectrom. 2013; 24 :1906-1912 Crossref Scopus
+(130) PubMed Google Scholar ) with binomial fitting and bimodal
+deconvolution.

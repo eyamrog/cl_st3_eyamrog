@@ -1,0 +1,10 @@
+In recent years there has been a move towards greater
+archiving of datasets in national or international repositories ( Tilley
+and Woodthorpe 2011 ; Irwin 2013 ; Parry and Mauthner
+2004 ). Archiving data in this way (i.e. for use
+by researchers beyond a project or single institution) is frequently
+required by research funding bodies and highly recommended by journals.
+In addition to reducing costly repetition of data collection, an
+important rationale for archiving datasets is to enable greater access
+to datasets, thus encouraging replication of studies and verification of
+findings.

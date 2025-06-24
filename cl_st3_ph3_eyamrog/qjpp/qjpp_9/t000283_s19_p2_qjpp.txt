@@ -1,0 +1,12 @@
+Figure 1 displays the estimates of the speaker means of
+F1 and F2 for /ɪr/, /ɛr/, and /ʌr/, based on
+dataset A. The thicker, central parts of the crosses placed
+on each vowel position represent 50 percent uncertainty intervals, while
+their thinner and longer parts represent 95 percent uncertainty intervals.
+The high threshold of confidence was chosen because of the
+large number of speakers ( N = 92) and because
+genre was modeled as a fixed effect. Figure 1 also
+shows the other vowels of the speakers’ system that were
+measured. The resulting vowel system agrees very well with descriptions
+of the Scottish vowel system elsewhere (e.g., Abercrombie 1979 ;
+Giegerich 1992 ; Stuart-Smith 2008 ; Schützler 2015 ).

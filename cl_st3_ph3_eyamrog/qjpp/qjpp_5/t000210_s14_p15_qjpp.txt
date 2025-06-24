@@ -1,0 +1,22 @@
+We verified the assumptions of normally distributed and homogeneous residuals
+by visual inspection of qq-plots and residuals plotted against fitted
+values. We dropped nonsignificant interactions (i.e., p < 0.05) and
+obtained individual p -values using the drop1 function in R,
+by systematically dropping each fixed effect from the model one
+at a time ( Barr et al., 2013 ) and
+comparing the respective reduced model lacking the individual fixed effects
+with the full model using a likelihood-ratio test. Model stability
+was determined by excluding the levels of the random effects
+(individual and mother identity and community) sequentially one at a
+time and comparing estimates derived from these subsets with those
+derived from the full data set. This evaluation revealed no
+problems with overly influential levels of the random effects within
+either model. Confidence intervals were calculated from parametric bootstraps using
+the bootMer function of the ‘lme4’ package. Effect sizes (R
+2 ; explained by the fixed effects [marginal-R 2 m]
+and by the fixed and random effects [conditional-R 2 c];
+Nakagawa and Schielzeth, 2013 ) were calculated using the r.squaredGLMM
+function from the ‘MuMIn’ package ( Bartoń, 2018 ). For
+the ‘weaning category’ models, we performed post hoc Tukey's test
+to compare cortisol levels between the different weaning categories using
+the ‘multcomp’ package ( Hothorn et al., 2008 ).

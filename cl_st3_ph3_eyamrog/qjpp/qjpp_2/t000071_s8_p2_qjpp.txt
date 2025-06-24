@@ -1,0 +1,6 @@
+Both chloroquine and the derivative molecule hydroxychloroquine have in vitro
+activity against SARS-CoV and SARS-CoV-2. Hydroxychloroquine is thought to impair
+the terminal glycosylation of the angiotensin-converting–enzyme 2 (ACE2) receptor, which
+is the binding site for the envelope spike glycoprotein and
+has been shown to inhibit endolysosome function. In addition, hydroxychloroquine
+may have greater in vitro activity against SARS-CoV-2 than chloroquine.

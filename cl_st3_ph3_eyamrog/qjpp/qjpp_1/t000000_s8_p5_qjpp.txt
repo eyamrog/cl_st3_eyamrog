@@ -1,0 +1,27 @@
+Through the use of a detailed global model, matched to
+country-level COVID-19 disease and incorporating SARS-CoV-2 vaccination data to the
+end of 2021 in 152 different countries, we explored the
+effects that increased historic levels of global vaccine sharing would
+have had on the likely state of the pandemic, projected
+from early 2020 to the end of 2021. The model
+simulates five levels of vaccine sharing: from the observed scenario,
+through sharing, once vaccine-rich countries have offered two doses to
+all individuals, those over 40 years of age or those
+over 65 years of age, to full sharing based on
+protecting either equal proportions of each country or the oldest
+individuals first across the globe. The model also captures two
+forms of NPIs: either following the observed controls irrespective of
+infection levels or with adaptive behavior in which countries that
+share more vaccine than observed may relax controls more slowly
+to compensate. We show that increased vaccine sharing may substantially
+decrease mortality in lower-income countries with only limited increases in
+some high-income donor nations, provided that the most vulnerable are
+still vaccinated in a timely manner. We also show the
+broader potential of more equally distributed vaccination. In return for
+an increased duration of control measures in the currently vaccine-rich
+countries, vaccine sharing can substantially decrease the number of overall
+infections in 2021, reducing the potential for the evolution and
+spread of increasingly severe variants and, subsequently, substantially improving the
+outlook of the pandemic both nationally and globally. The main
+findings and policy implications of this work are provided in
+Table 1 .

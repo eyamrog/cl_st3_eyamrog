@@ -1,0 +1,20 @@
+Phylogenetically related species share an evolutionary history and thus tend
+to display similar trait values due to their common ancestry
+( Felsenstein, 1985 ). To evaluate shape divergence over the
+evolution of the cranium and the cervical vertebrae, we calculated
+the phylogenetic signal of our data using the phylogenetic information
+of hominids from the 10kTrees Project platform ( Arnold et
+al., 2010 ) and the Procrustes mean average of each
+species for each element independently. To estimate the phylogenetic signal,
+we used the function ‘physignal’ of ‘geomorph,’ which is based
+on the multivariate version of the K-statistic ( K mult
+: Adams, 2014 ). This method estimates the degree of
+phylogenetic signal in a data set relative to what is
+expected under a Brownian motion of evolution. Conversely to previous
+methods, K mult is appropriate for highly dimensional multivariate data
+avoiding type I errors. Significance was estimated via shape data
+permutation among the tips of the phylogeny ( Adams, 2014
+; Adams and Collyer, 2019 ). Finally, we explored patterns
+of cranial and cervical vertebrae shape evolution by projecting the
+phylogeny onto the morphological morphospace represented by the first two
+principal components (PC1 and PC2).

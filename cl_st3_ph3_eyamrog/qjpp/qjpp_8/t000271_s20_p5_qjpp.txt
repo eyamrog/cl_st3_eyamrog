@@ -1,0 +1,13 @@
+As can be seen in Table 5 , about 60
+per cent of all the bundles retrieved from the TRJPS
+corpus are NPs and PPs, corroborating Biber et al.’s (1999)
+finding about academic prose in general. These two structural types
+also dominate the 3- to 5-word bundles in the PJPS
+corpus, but with an even higher percentage (close to 70).
+The results of the Chi-square test show that the distribution
+of the structural types between the corpora is statistically different
+( p <0.001) 2 , contributed mainly by PPs and
+VPs. That is to say, the main difference between the
+two corpora in the distribution of the major syntactic forms
+lies in the higher proportion of PPs in PJPS as
+well as that of VPs in TRJPS.

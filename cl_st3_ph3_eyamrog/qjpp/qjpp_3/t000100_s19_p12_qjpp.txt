@@ -1,0 +1,26 @@
+While T cells with cytotoxic function are thought to predominantly
+consist of conventional MHC class I-restricted CD8 + T cells,
+MHC class II-restricted CD4 + T cells with cytotoxic potential
+(CD4-CTLs) have also been reported in several viral infections in
+humans and are associated with better clinical outcomes ( Cheroutre
+and Husain, 2013 10. Cheroutre, H. ∙ Husain, M.M. CD4
+CTL: living up to the challenge Semin Immunol. 2013; 25
+:273-281 Crossref Scopus (89) PubMed Google Scholar ; Juno et
+al., 2017 21. Juno, J.A. ∙ van Bockel, D. ∙
+Kent, S.J. ... Cytotoxic CD4 T Cells-Friend or Foe during
+Viral Infection? Front Immunol. 2017; 8 :19 Crossref Scopus (147)
+PubMed Google Scholar ; Meckiff et al., 2019 30. Meckiff,
+B.J. ∙ Ladell, K. ∙ McLaren, J.E. ... Primary EBV
+Infection Induces an Acute Wave of Activated Antigen-Specific Cytotoxic CD4
++ T Cells J Immunol. 2019; 203 :1276-1287 Crossref Scopus
+(33) PubMed Google Scholar ; Weiskopf et al., 2015a 54.
+Weiskopf, D. ∙ Bangs, D.J. ∙ Sidney, J. ... Dengue
+virus infection elicits highly polarized CX3CR1+ cytotoxic CD4+ T cells
+associated with protective immunity Proc Natl Acad Sci USA. 2015;
+112 :E4256-E4263 Crossref Scopus (223) PubMed Google Scholar ). Paradoxically,
+in SARS-CoV-2 infection, we find that cells in the CD4-CTL
+clusters ( Figure 4 A; cluster 6 and 9) were
+present at higher frequencies in some hospitalized COVID-19 patients compared
+to non-hospitalized patients, potentially contributing to disease severity, although we
+observed substantial heterogeneity in responses among patients ( Figures 4
+B and 3 A and Table S2 B).

@@ -1,0 +1,4 @@
+We found no relationship between takeover mechanism (aggressive vs. non-aggressive)
+and the fate of the infant following the takeover (i.e.,
+if the infant lived or died/disappeared; Fisher's exact test: p
+= 1; n = 44 takeovers with infant fate data).

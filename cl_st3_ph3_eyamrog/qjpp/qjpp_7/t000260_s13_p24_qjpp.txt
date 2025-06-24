@@ -1,0 +1,8 @@
+We should highlight at this point that the linear form
+of equations (5) , (6) is a reasonable assumption given
+the focus of the paper on inequalities across countries. However,
+if the focus would have been within country inequalities, it
+would have been important to also allow for network effects
+related to heterogeneity in transmission (for example see Chang et
+al., 2021 ; Hébert-Dufresne et al., 2021 ) which may
+also make superspreading events more likely in particular communities.

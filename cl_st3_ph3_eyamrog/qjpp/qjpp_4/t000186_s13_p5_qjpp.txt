@@ -1,0 +1,7 @@
+At the ultimate level, these trade-offs probably emerge in part
+because of limitations in resource availability. However, these trade-offs also
+represent different strategies for dealing with infections, so resource constraints
+are likely not the entire picture. LHT generally deals with
+energetic trade-offs for simplicity, but trade-offs of other sorts, such
+as those between different strategies, can also be conceptualized within
+this framework.

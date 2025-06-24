@@ -1,0 +1,24 @@
+Size differences between sexes of each hominine species are shown
+in SOM Table S9 . Mean centroid size is always
+larger in males than in females, with the differences being
+most pronounced in Gorilla species, and not statistically significant for
+P. paniscus . Maxillary shape differs significantly between the sexes
+of all hominine species, most strongly in Gorilla species and
+the least in H. sapiens ( Table 4 ). However,
+the latter may not differ from the Pan species in
+shape dimorphism, given the large variance and confidence intervals of
+the effect sizes ( Table 4 ). In shape space,
+the sexes overlap on the first two PCs to a
+variable degree, most clearly for P. troglodytes , P. paniscus,
+and H. sapiens ( Fig. 9 A, B, E) and
+the least for G. gorilla and G. beringei ( Fig.
+9 C, D). Download: Download high-res image (858KB) Download: Download
+full-size image Figure 9 . Plots of PC1 and PC2
+describing sexual dimorphism in the maxillary shape of adult males
+(black squares) and females (colored circles) for P. troglodytes (blue;
+A), P. paniscus (yellow; B), G. gorilla (green; C), G.
+beringei (pink; D), and H. sapiens (red; E). The separation
+between males and females is most distinct for the Gorilla
+species. (For interpretation of the references to color in this
+figure legend, the reader is referred to the Web version
+of this article).

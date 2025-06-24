@@ -1,0 +1,7 @@
+The data for this study were drawn from ICE-Scotland, the
+Scottish component of the International Corpus of English ( Schützler,
+Gut & Fuchs 2017 ). Corpora from the ICE-family follow
+a uniform sampling scheme (see Nelson 1996 ; Nelson, Wallis
+& Aarts 2002 ), with 600,000 words collected from fifteen
+spoken genres (or text types) and 400,000 words sampled from
+seventeen written genres.

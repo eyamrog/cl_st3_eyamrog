@@ -1,0 +1,16 @@
+The primary outcome was prespecified as symptomatic illness confirmed by
+a positive molecular assay or, if testing was unavailable, Covid-19–related
+symptoms. We assumed that health care workers would have access
+to Covid-19 testing if symptomatic; however, access to testing was
+limited throughout the trial period. Covid-19–related symptoms were based on
+U.S. Council for State and Territorial Epidemiologists criteria for confirmed
+cases (positivity for SARS-Cov-2 on PCR assay), probable cases (the
+presence of cough, shortness of breath, or difficulty breathing, or
+the presence of two or more symptoms of fever, chills,
+rigors, myalgia, headache, sore throat, and new olfactory and taste
+disorders), and possible cases (the presence of one or more
+compatible symptoms, which could include diarrhea). All the participants had
+epidemiologic linkage, per trial eligibility criteria. Four infectious disease physicians
+who were unaware of the trial-group assignments reviewed symptomatic participants
+to generate a consensus with respect to whether their condition
+met the case definition.

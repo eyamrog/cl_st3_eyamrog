@@ -1,0 +1,6 @@
+Our analysis found consistent, but minor, between-study heterogeneity in the
+data (95% UIs inclusive of between-study heterogeneity represented by light
+green shading in Fig. 1a,b ) after using a likelihood-based
+approach to trim 10% of the data (Fig. 1a,b )
+to ensure that the model fit the 90% most coherent
+data.

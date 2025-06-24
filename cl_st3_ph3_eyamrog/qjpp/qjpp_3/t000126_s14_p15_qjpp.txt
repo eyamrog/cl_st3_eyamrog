@@ -1,0 +1,24 @@
+The differentiation of hiPSC lines into monocytes was performed as
+described by Yanagimachi, M. D. et al. (23573196). Briefly, 30
+colonies obtained using the ReLeSR™ solution (STEMCELL™ Technologies) were seeded
+in a 100mm Petri dish containing mTeSR1 STEMCELL™ Technologies) medium.
+At Day 0, BMP4 (Sigma Aldrich, 80 ng/mL) was added
+to the mTeSR1 medium. Between Days 4 and 5, medium
+was changed to Stempro®-34 SFM (1X) (Gibco™) supplemented with VEGF
+(Sigma Aldrich, 80 ng/mL), bFGF (Sigma Aldrich, 25 ng/ml), and
+SCF (Sigma Aldrich, 100 ng/mL) to promote the development of
+hemoangiogenic progenitors. On Days 6 and 7, the cytokine cocktail
+was changed to SCF (50 ng/mL), IL-3 (R&D systems, 50
+ng/mL), TPO (Thrombopoietin) (Sigma Aldrich, 5 ng/mL), M-CSF (Sigma Aldrich,
+50 ng/mL), and Flt-3 ligand (Sigma Aldrich, 50 ng/mL) for
+the generation of hematopoietic cells. Finally, the cytokine cocktail was
+changed to Flt-3 ligand (50 ng/mL), GM-CSF (Sigma Aldrich, 25
+ng/mL), and M-CSF (50 ng/mL) between Days 13 and 15
+to drive the monocytic lineage-directed differentiation. Following that, free floating
+monocytes were harvested from the supernatant and the medium was
+changed every 3-4 days. Monocytes were first visualized using H&E
+staining. Briefly, 50,000 monocytes were collected and laid on a
+polarized microscope slide (Thermo Fisher Scientific) and allowed to dry
+completely. Then, slides were fixed and stained following manufacturer’s instructions
+(Hema 3™ Manual Staining System and Stat Pack, Thermo Fisher
+Scientific).

@@ -1,0 +1,12 @@
+Since DHEA-S shows little diurnal variation, a single, morning (08:00-12:30),
+stimulated saliva sample was collected in 5 mL polypropylene vials
+at least 1 hour after eating or drinking using flavorless
+gum base (Cafosa © , Barcelona, Spain). Samples were kept
+on ice until transported to the laboratory at CINVESTAV-Merida, and
+then stored at −80°C until assayed using a DHEA-S ELISA
+(Salimetrics®). Samples were processed in a single batch according to
+manufacturer instructions. ELISA absorbance was read using a Biorad microtiter
+plate reader at 450 nm without correction. Reproducibility was assessed
+by two pooled, blinded quality control samples. Intra-assay coefficient was
+19.7%, detection limits 43 and 16 000 pg/mL, respectively, and
+lower limit of functional assay range, 188.9 pg/mL.

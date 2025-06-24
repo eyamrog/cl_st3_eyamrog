@@ -1,0 +1,18 @@
+Here, we investigate the relationship between CMV infection and age
+among EBV seropositive individuals in the Shuar, an Indigenous Amazonian
+population. Traditionally forager-horticulturalists, Shuar are undergoing rapid market integration (Liebert
+et al., 2013 ; Urlacher et al., 2016 ), have
+high but variable exposure to infectious disease (Blackwell et al.,
+2010 ; Urlacher et al., 2018 ), and no evidence
+of chronic low-grade inflammation (McDade et al., 2012 ). In
+accordance with evidence from high-income settings (Cannon et al., 2010
+), we expect that age will be positively associated with
+CMV seropositivity, due to cumulative exposure to CMV over time,
+and hypothesize that CMV exposure leads to weakened immune function.
+Therefore, we predict that CMV antibody concentration (CMV-Ab) will be
+positively associated with age among co-infected participants due to weakened
+immune function and a limited ability to minimize viral replication
+at older ages (Pourgheysari et al., 2007 ). We also
+predict that CMV-Ab will be positively associated with EBV antibody
+concentration (EBV-Ab) while controlling for age among co-infected participants, signaling
+weakened immunity.

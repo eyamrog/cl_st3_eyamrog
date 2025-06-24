@@ -1,0 +1,20 @@
+In order to establish comparisons explained in the previous section,
+data were pooled into 13 categories for body height, defined
+at 5 cm intervals, and into three cohorts of camp
+date, with a span of 13 years each. The first
+cohort extends from 1887 to 1899, the second from 1900
+to 1912 and the third from 1913 to 1925. An
+initial analysis was performed with individual data (each one with
+its camp year) which statistically showed that in the first
+cohort (Figure 1 ) children attending the first seven camps
+in Granada (held between 1890 and 1896) display dynamometry values
+significantly higher than the rest of the camps in the
+same cohort period, as well as those in the later
+two cohorts. The violin plots in that figure show distribution
+of numeric data for one or more groups using density
+curves. Width of each curve corresponds to the approximate frequency
+of data in each region (Yi, 2019 ). In view
+of these discrepancies detected in the series from Granada, we
+decided to exclude from all further analyses data from those
+seven camps. As a consequence, the sample was reduced to
+2268 schoolchildren (1394 boys and 874 girls).

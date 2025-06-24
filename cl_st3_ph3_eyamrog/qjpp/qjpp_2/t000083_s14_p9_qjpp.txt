@@ -1,0 +1,12 @@
+Safety and subsequent immunogenicity analyses include only participants who had
+received booster vaccination. In addition, we evaluated some exploratory end
+points in a subgroup of 180 participants who were randomly
+selected among those with an adequate sample of PBMCs available
+for testing, stratified according to age and primary vaccine. Immunogenicity
+end points are presented as unadjusted point estimates with 95%
+confidence intervals. The latter are provided as a measure of
+uncertainty around the estimates, have not been adjusted for multiple
+comparisons, and should not be used to infer statistically significant
+differences. In addition, we performed an analysis with trial sites
+as a random effect. (Details regarding this analysis are provided
+in the Supplementary Appendix .)

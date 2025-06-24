@@ -1,0 +1,16 @@
+Comparison of pollen and sedaDNA Across pollen and sedaDNA data
+sets, a total of 32 plant families, 43 genera, and
+14 species were identified, with an overlap between the two
+data sets of six plant families (19%), two genera (5%),
+and no overlap in detected species. Regarding the plant families,
+22 are unique to the pollen data set, including Betulaceae
+and Pinaceae , and four are unique to the sedaDNA
+data set (Boraginaceae, Fabaceae , Lamiaceae , and Polygonaceae). The
+six plant families occurring in both data sets are Asteraceae
+, Brassicaceae , Amaranthaceae , Fagaceae , Plumbaginaceae , and
+Poaceae. Asteraceae (55%) represents the most abundant plant family in
+the pollen record, whereas Brassicaceae (44%) dominates the sedaDNA data
+set, followed by Fabaceae (21%). The plant genera detected in
+both data sets are Artemisia (wormwoods) and Quercus (oaks). Another
+23 genera were uniquely detected by pollen compared to 18
+by sedaDNA analysis.

@@ -1,0 +1,12 @@
+Nextera indexing primers (single-indexed) were added during library amplification. The
+number of PCR cycles for each library was estimated using
+Ct values as determined by qPCR (where number of cycles
+= rounded up Ct value +1). After amplification, DNA was
+cleaned up with AmPure XP beads, and then checked on
+a TapeStation D5000 HS for size distribution. Size selection was
+then carried out accordingly, with either a left-sided selection or
+a double-sided selection. The concentration of final eluted DNA was
+measured using Qubit HS and checked again on a TapeStation
+D5000HS. All libraries were sequenced on a Novaseq2 using 100bp
+paired-end reads. The same histone antibodies used for traditional ChIP-seq
+were also used here for ChIPmentation.

@@ -1,0 +1,15 @@
+We replicated the computational setup of the competition platform and
+ran the algorithms on two different computational systems: Google Cloud
+and Puhti compute cluster (CSC—IT Center for Science, Espoo, Finland).
+On the Google Cloud platform, all algorithms were run using
+the original Docker images. On Puhti, the Docker images were
+automatically converted for use with Singularity (v.3.8.3). The algorithms and
+scripts provided by the teams were not modified except for
+minor adjustments required for successful run-time installation of dependencies on
+our computational systems. On Puhti, the algorithms had access to
+8 central processing unit (CPU) cores, 32 GB of memory,
+1 Tesla V100 32GB GPU (Nvidia) and 500 GB of
+SSD storage. On the Google Cloud platform, the algorithms had
+access to 8 CPU cores, 30 GB of memory, 1
+Tesla V100 GPU 32GB and 10,000 GB of hard disk
+drive storage.

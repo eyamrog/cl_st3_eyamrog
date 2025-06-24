@@ -1,0 +1,16 @@
+Through the present study, we aimed to advance the methodology
+for the design and evaluation of medical imaging AI innovations
+to develop and rigorously validate the next generation of algorithms
+for prostate cancer diagnostics. We organized a global AI competition,
+the Prostate cANcer graDe Assessment (PANDA) challenge, by compiling and
+publicly releasing a European (EU) cohort for AI development, the
+largest publicly available dataset of prostate biopsies to date. Second,
+we fully reproduced top-performing algorithms and externally validated their generalization
+to independent US and EU cohorts and compared them with
+the reviews of pathologists. The competition setup isolated the developers
+from the independent evaluation of the algorithms’ performance, minimizing the
+potential for information leakage and offering a true assessment of
+the diagnostic power of these techniques. Taken together, we show
+how the combination of AI and innovative study designs, together
+with prespecified and rigorous validation across diverse cohorts, can be
+utilized to solve challenging and important medical problems.

@@ -1,0 +1,12 @@
+In utero electroporation was performed at E13.5 with anesthetized C57BL/6
+mice as previously described ( del Toro et al., 2020
+112. del Toro, D. ∙ Carrasquero-Ordaz, M.A. ∙ Chu, A.
+... Structural Basis of Teneurin-Latrophilin Interaction in Repulsive Guidance of
+Migrating Neurons Cell. 2020; 180 :323-339.e19 Full Text Full Text
+(PDF) Scopus (49) PubMed Google Scholar ). DNA plasmids were
+used at 2 μg/μL and mixed with 1% fast green
+(Sigma-Aldrich, final concentration 0.2%). Plasmids were injected into the ventricle
+with a pump-controlled micropipette. After injection, six 50 ms electric
+pulses were generated with electrodes confronting the uterus above the
+ventricle. The abdominal wall and skin were sewed, and the
+mice were kept until E16.5 embryonic stage.

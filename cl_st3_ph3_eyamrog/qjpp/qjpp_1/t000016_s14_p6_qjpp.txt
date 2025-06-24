@@ -1,0 +1,8 @@
+All teams selected for the PANDA consortium were asked to
+provide all data and code necessary for reproducing the exact
+version of their algorithm that resulted in the final competition
+submission. For each algorithm, we collected the main Jupyter notebook
+or python script for running the inference, the specific Kaggle
+Docker image ( https://github.com/Kaggle/docker-python ) used by the team during
+the competition and any necessary associated files, including model weights
+and auxiliary code.

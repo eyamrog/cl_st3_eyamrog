@@ -1,0 +1,16 @@
+We performed CoalHMM analysis on four sets of the multiple
+alignment data, which were made up of different species (more
+details in “ CoalHMM analysis ” section). Based on the
+gray short-tailed opossum’s coordinates, we picked out the overlapped type
+0 loci in four combinations and concatenated these loci into
+a multiple alignment that supported the Dipr_Dasy tree (∼43 Mb).
+Although type1 loci also supported the Dipr_Dasy tree, we exclude
+these loci when estimating the divergence time to eliminate interference
+from the loci with a deeper coalescence between diprotodontian and
+dasyuromorphian species. In the same way, we generated the multiple
+alignment supporting the Dipr_Micr tree by concatenating the overlapped type2
+loci in four combinations (∼100 Mb). We also generated the
+multiple alignment supporting the Dasy_Micr tree by concatenating the overlapped
+type3 loci in four combinations (∼67 Mb). The MCMCTree program
+was then used to analyze three types of alignments and
+the outputs are presented in Figure 3 A.

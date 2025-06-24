@@ -1,0 +1,17 @@
+Ecoimmunology falls within the broader framework of LHT, which is
+itself best thought of as a subset of evolutionary theory.
+LHT examines how organisms have evolved to allocate limited resources,
+such as energy, nutrients, and time, to competing demands such
+as growth, reproduction, and maintenance ( Charnov 1991 ; Stearns
+1976 , 1992 ). LHT gets its name because allocation
+decisions are related to the timing of life history events
+such as the length of the juvenile period, the timing
+of reproduction, and the rate of senescence. LHT originally dealt
+primarily with how natural selection resulted in differences among species,
+but it has also been used extensively to examine the
+evolution of individual plasticity and corresponding phenotypic differences among members
+of the same species ( Blackwell et al. 2010 ,
+2016 ; Gurven et al. 2017 ; Kuzawa et al.
+2020 ; McDade 2005b ; Urlacher et al. 2018 ;
+but for cautions, see Sear 2020 , Stearns & Rodrigues
+2020 ).

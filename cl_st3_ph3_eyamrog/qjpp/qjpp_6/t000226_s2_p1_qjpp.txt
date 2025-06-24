@@ -1,0 +1,8 @@
+The DLW database, which can be found at https://doubly-labelled-waterdatabase.iaea.org/home, is
+hosted by the IAEA and generously supported by Taiyo Nippon
+Sanso and SERCON. We are grateful to the IAEA and
+these companies for their support and especially to Takashi Oono
+for his tremendous efforts at fundraising on our behalf. The
+authors also gratefully acknowledge funding from the Chinese Academy of
+Sciences ( CAS153E11KYSB20190045 ) to J.R.S. and the US National
+Science Foundation (BCS- 1824466 ) awarded to H.P.

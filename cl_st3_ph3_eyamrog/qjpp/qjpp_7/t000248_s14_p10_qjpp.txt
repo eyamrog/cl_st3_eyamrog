@@ -1,0 +1,14 @@
+Multilevel regression analyses were conducted using Mplus 7 to examine
+the relationships between ethnic identification and individual experiences of school
+discrimination (as individual-level predictors) and national identification (as an individual-level
+outcome). Multilevel analysis was appropriate because of the nested data
+structure of students (individual level) within classrooms (class level). 6
+Moreover, multi-level analysis was required to test hypothetical effects of
+minority presence and collective experiences of discrimination by minority peers
+as contextual moderators which were defined at the class level
+(Hox et al., 2010 ). In line with previous studies
+that directly assessed dual identity compatibility, we estimated the association
+between ethnic and national identification as an indicator of compatibility
+and interpreted either dissociation or positive associations (vs. negative associations)
+as evidence of compatibility between ethnic identification and national identification
+(Fleischmann & Phalet, 2016 ; Staerklé et al., 2010 ).

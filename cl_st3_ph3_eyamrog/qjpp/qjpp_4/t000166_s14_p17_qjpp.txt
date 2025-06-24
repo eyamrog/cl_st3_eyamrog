@@ -1,0 +1,7 @@
+Statistical analyses were carried out using GraphPad Prism Software, version
+9 (GraphPad Software, La Jolla, USA), R-based open-source software Jamovi
+( https://www.jamovi.org ) and Jasp ( https://jasp-stats.org ). Data distributions
+were analyzed using Shapiro–Wilk and D'Agostino-Pearson methods. Analysis of outliers
+was conducted with the ROUT method, implemented in Prism (Motulsky
+& Brown, 2006 ). An alpha value of .05 was
+considered as statistically significant.

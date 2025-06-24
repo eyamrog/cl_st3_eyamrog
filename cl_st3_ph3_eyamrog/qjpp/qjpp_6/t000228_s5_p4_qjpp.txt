@@ -1,0 +1,26 @@
+Postdepositional factors impacting pollen and sedaDNA could additionally produce differences
+in the recovery of plant data by the two proxies.
+Although pollen grains are highly robust, sedaDNA is known to
+degrade significantly as a result of temperature fluctuations, low pH,
+and high oxygen and water content, thereby decreasing the amount
+of detectable DNA over time ( Willerslev and Cooper, 2005
+). DNA is better preserved in sediments with a high
+mineral content and at low temperatures. Minerals can bind to
+and protect DNA, whereas low temperatures thermally stabilize DNA against
+chemical degradation ( Torti et al., 2015 ). Desiccated sediments
+can also prevent DNA damage and breakage by strongly decreasing
+the effects of hydrolysis. In addition to degradation, DNA may
+be translocated after deposition, either through the movement of sediment
+particles containing DNA, or the movement of DNA in solution,
+also known as DNA leaching ( Haile et al., 2007
+; Pedersen et al., 2015 ). When there is a
+more or less constant input of plant remains through time
+and no DNA leaching, as is the case for many
+lake sediments, sedaDNA recovery is usually lower in older sediments
+due to degradation processes ( Parducci et al., 2017 ).
+We do not observe such patterns of recovery; we recover
+higher DNA concentrations in the lower archaeological horizons (AH VII
+and VI) and overall DNA concentrations were higher compared to
+the younger horizons (AH V, IV, and the lower part
+of AH III) without obvious evidence of change in the
+sediment composition ( Fig. 2 A).

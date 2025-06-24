@@ -1,0 +1,7 @@
+Unlike boot and boat , which do show change in
+apparent time, put remains stable across generations. While the model
+comparisons showed that the addition of generation as a predictor
+did significantly improve the full model’s fit, we presume much
+of this improvement comes from the postcoronal allophone, took ,
+which shows more apparent change in time (see section 4.3
+).

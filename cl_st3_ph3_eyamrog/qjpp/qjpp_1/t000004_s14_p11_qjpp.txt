@@ -1,0 +1,20 @@
+Subjects participated in a modified multi-item buffet designed to provoke
+LOC eating in a more naturalistic setting (developed by W.
+Stuart Agras ). This buffet of preferred foods was intended
+to model the at-risk environment of LOC in a controlled
+setting where real-time brain recordings could be synchronized to video
+monitoring. For this task, subjects spent the day in this
+behavioral lab where they were served a breakfast and lunch
+(~1,000 kcal total). After a mood provocation protocol with an
+eating disorder psychiatrist (D.S.), the subjects were presented with a
+5,000-kcal calorie buffet of preferred foods. The mood provocation was
+administered based on research showing that negative affective states, compared
+with neutral mood provocations, are more likely to trigger loss
+of control/disinhibited eating in patients who binge eat . During
+the buffet, real-time video with eye tracking (Pupil Lab Pupil
+Core Eyetracker ( https://pupil-labs.com/products/core ) and room video) and NAc
+LFP activity were recorded to capture bites (see Fig. 1c
+, picture insert ). Subjects reported their level of LOC
+before, during and after the presentation of the foods. The
+buffet was stopped 15 min after the subject would verbalize
+that they were experiencing LOC per FDA safety guidelines.

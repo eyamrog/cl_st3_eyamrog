@@ -1,0 +1,14 @@
+Embryonic brains were fixed in 4% PFA overnight. 10 μm
+Cryo-sections were pre-treated using the RNAscope Universal Pretreatment Kit (Advanced
+Cell Diagnostics). RNA In Situ Hybridizations (ISH) were performed using
+the RNAscope Fluorescent Multiplex Reagent Kit (Advanced Cell Diagnostics) according
+to manufacturer’s instructions. The target genes (Unc5D and GPC3) are
+listed in the Key resources table . Sections were immunostained
+using mouse anti-Pvim ⅓00 (Abcam), rat anti-Ctip2 1/600 (Abcam) or
+rabbit anti-Satb2 (Abcam) in combination with the Alexa Fluor 488-,
+555-, and 647-conjugated mouse/rat/rabbit secondary antibodies (Abcam; 1/400). Both primary
+and secondary antibodies were diluted in 2% BSA, 0.3% Triton
+X-100, PBS. Nuclei were counterstained with DAPI before mounting. Images
+were acquired using a Zeiss LSM880 confocal laser scanning microscope
+using a 20x, 40× objective and 2 Airy disk pinhole,
+and processed with ImageJ software.

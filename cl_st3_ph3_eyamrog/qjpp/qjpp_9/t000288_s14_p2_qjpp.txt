@@ -1,0 +1,23 @@
+Therefore, evidence for this study comes from the Newspapers On
+the Web (NOW) corpus. NOW is a web-based monitor corpus
+of newspaper language, i.e., a corpus that keeps growing. At
+the time of data extraction (2017-2021), 1 it expanded from
+around 5 billion words to just under 12 billion words
+from English news publications around the world, with the earliest
+texts dating back to 2010. With respect to regional variation,
+news writing from countries where English is the first language
+of the majority of speakers are included from both the
+northern and the southern hemisphere, i.e., the US, Canada, Great
+Britain, Ireland, Australia, and New Zealand. In addition, data from
+three Asian (India, Singapore, and the Philippines) and three African
+(Kenya, Nigeria, and Ghana) varieties are included. The data are
+thus restricted with respect to register (news writing) 2 and
+mode (written) but they provide breadth with respect to the
+number of shell nouns (see section 3.2) and varieties/regions (see
+Table 3 ) included. Open in Viewer Table 3 .
+Varieties Included in the Present Study Country label (NOW) Variety
+AU Australian English (AusE) CA Canadian English (CanE) GB British
+English (BrE) GH Ghanaian English (GhE) IE Irish English (IrE)
+IN Indian English (IndE) KE Kenyan English (KenE) NG Nigerian
+English (NigE) NZ New Zealand English (NZE) PH Philippine English
+(PhilE) SG Singaporean English (SingE) US American English (AmE)

@@ -1,0 +1,7 @@
+BUSCO ( Seppey et al., 2019 87. Seppey, M. ∙
+Manni, M. ∙ Zdobnov, E.M. BUSCO: assessing genome assembly and
+annotation completeness Methods Mol. Biol. 2019; 1962 :227-245 Crossref Scopus
+(703) PubMed Google Scholar ) (version 5.1.2.) was used to
+evaluate the gene space completeness of the pseudomolecule assembly and
+structural gene annotation with the ‘viridiplantae_odb10’ database containing 425 single-copy
+genes.

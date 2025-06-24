@@ -1,0 +1,7 @@
+To better understand the origin of EYS wt genotypes, we
+analyzed events in the first cell cycle after MII injection
+of sperm and Cas9 RNP in either androgenetic zygotes with
+only a paternal genome, or zygotes with two pronuclei (2PN).
+These approaches also lead to a more conclusive determination of
+mosaicism, which is more reliably achieved when there is just
+a single cell and genome.

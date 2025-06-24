@@ -1,0 +1,20 @@
+A panel of KRAS , BRAF and EGFR ECD mutations
+was assessed in ctDNA using a droplet digital PCR (ddPCR)-based
+assay ( Methods ). A total of 52 patients were
+screened; of these, 16 (31%) had at least one anti-EGFR
+resistance-conferring mutation in their ctDNA (Fig. 1 ). Precisely, we
+found that 13 of 52 (25%) patients had KRAS ,
+four of 52 (8%) had NRAS , one of 52
+(2%) had BRAF and three of 52 (6%) had EGFR
+ECD mutations in their ctDNA. Multiple mutations co-occurred in five
+of the 16 patients, whereas, in two patients, BRAF and
+EGFR ECD were the only resistance-conferring mutations, confirming that the
+addition of these two to the RAS panel optimized patient
+selection. The variant allele frequency varied between 0.28% and 46.20%.
+As we and others previously reported , codon 61 RAS
+mutations were among the most frequently identified RAS alleles, with
+a prevalence of eight of 16 (50%) patients. The high
+frequency of Q61 variants in ctDNA of patients with mCRC
+is directly associated with secondary resistance to anti-EGFR antibodies; accordingly,
+these findings further confirm the emergence of EGFR blockade-specific mutations
+in CHRONOS .

@@ -1,0 +1,25 @@
+We thank Svante Pääbo and the Max Planck Institute for
+Evolutionary Anthropology for hosting B.J.E. during a sabbatical, during which
+some of the work for this project was performed. We
+thank Roberto Portela Miguez (Natural History Museum), Katrin Krohmann (Senckenberg
+Museum), Verity Mathis (Florida Museum of Natural History), and I
+Made Geria (Pusat Penelitian Arkeologi Nasional) for granting permission to
+sample specimens in their collection. We thank Birgit Nickel for
+performing laboratory work associated with mitochondrial DNA capture, Ben Vernot
+for assistance with design of capture probes, David López Herráez
+for logistical assistance with carbon dating, Nicolas Dierckxsens for advice
+on NOVOPlasty, Remco Bouckaert and Michael Matschiner for advice on
+BEAST, Janet Kelso and Emil Karpinski for helpful feedback, and
+Brian Golding for access to computational resources. We thank Eric
+Delson, Masanaru Takai, Kelsey Pugh, and John Barry for providing
+information with regard to the primate fossil record. We also
+thank three anonymous reviewers and the handling editor for constructive
+comments on an earlier draft of this manuscript. We acknowledge
+and thank the Natural Sciences and Engineering Research Council of
+Canada ( RGPIN-2017-05770 ), Compute Canada Resource Allocation Competitions ,
+the Social Sciences and Humanities Research Council of Canada (No.
+435-2017-1234 ), and the Max Planck Society for supporting this
+work. Open-access publication costs were supplied by The Social Sciences
+and Humanities Research Council of Canada (no. 435-2017-1234 ). T.S.
+is supported by the ARC Centre of Excellence for Australian
+Biodiversity and Heritage ( CE170100015 ).

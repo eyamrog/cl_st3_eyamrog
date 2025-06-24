@@ -1,0 +1,9 @@
+Nanobodies are increasingly used to modulate protein functions, including also
+in clinical usage ( Yang and Shah, 2020 129. Yang,
+E.Y. ∙ Shah, K. Nanobodies: Next Generation of Cancer Diagnostics
+and Therapeutics Front. Oncol. 2020; 10 :1182 Crossref Scopus (99)
+PubMed Google Scholar ) due to their small, compact, monovalent
+and rigid structure, and deep tissue penetration. Here we presented
+Nano glue and Nano break to modulate Unc5-GPC3 interactions in
+vitro/vivo in monovalent form, or as tetrameric streptavidin-complexes, with enhanced
+binding capacities.

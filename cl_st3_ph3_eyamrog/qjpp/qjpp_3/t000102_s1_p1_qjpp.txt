@@ -1,0 +1,15 @@
+The association of nuclear DNA with histones to form chromatin
+is essential for temporal and spatial control of eukaryotic genomes.
+In this study, we examined the physical state of condensed
+chromatin in vitro and in vivo . Our in vitro
+studies demonstrate that self-association of nucleosomal arrays under a wide
+range of solution conditions produces supramolecular condensates in which the
+chromatin is physically constrained and solid-like. By measuring DNA mobility
+in living cells, we show that condensed chromatin also exhibits
+solid-like behavior in vivo . Representative heterochromatin proteins, however, display
+liquid-like behavior and coalesce around the solid chromatin scaffold. Importantly,
+euchromatin and heterochromatin show solid-like behavior even under conditions that
+produce limited interactions between chromatin fibers. Our results reveal that
+condensed chromatin exists in a solid-like state whose properties resist
+external forces and create an elastic gel and provides a
+scaffold that supports liquid-liquid phase separation of chromatin binding proteins.

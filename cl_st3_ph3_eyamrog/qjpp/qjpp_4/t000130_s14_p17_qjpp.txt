@@ -1,0 +1,13 @@
+Equilibrium binding experiments were performed at 25°C using a Biacore
+T200 instrument (GE Healthcare) using PBS +0.005% (v/v) polysorbate 20
+(pH 7.5) or 20mM Tris +200mM NaCl +0.005% (v/v) polysorbate
+20 (pH 7.5) as running buffers. Glypican, Unc5 or nanobody
+constructs were biotinylated enzymatically at a C-terminal Avi-Tag and coupled
+to a streptavidin-coated CM5 chip. Protein analytes were injected over
+the chip in 2-fold dilution series for 500 s, followed
+by at least 25 s dissociation time. The regeneration buffer
+used was 2 M MgCl 2 . Data were analyzed
+using the BI-Aevaluation software. Indicative K D and R max
+values were obtained by nonlinear curve fitting of a 1:1
+Langmuir interaction model (bound = (R max x C)/(K D
++ C), where C is analyte concentration calculated as monomer.

@@ -1,0 +1,52 @@
+"Infection: 60% one dose, 75% two doses"
+"Transmission: 45% one dose, 45% two doses"
+"Symptoms: 60% one dose, 83% two doses"
+"Severe disease: 80% one dose, 98% two doses"
+Each vaccine parameter is calculated as
+Data analysis was performed using SAS version 9.3 software.
+Funding: Canadian Institutes of Health Research.
+Funding: Canadian Institutes of Health Research.
+Funding: Health Research Council of New Zealand.
+"Funding: UK Medical Research Council, Cancer Research UK."
+Funding: Canadian Institutes of Health Research
+Funding: WHO Global TB Programme.
+Funding: Bill & Melinda Gates Foundation.
+Funding: US National Institutes of Health.
+Funding: None.
+There was no funding source for this study.
+Funding: Partly funded by Cancer Council Australia.
+Section :Abstract
+Section Abstract
+The study did not generate unique datasets or code.
+ESC lines are available upon request.
+This study did not generate new unique reagents
+TEM pictures were recorded using Digital Micrograph®
+Figures were assembled using Adobe Photoshop®.
+This study did not generate any new.
+Resource available at: https://epigenome.wustl.edu/TE_Transcript_Assembly/index.html .
+Data processing statistics are summarized in Table S2 .
+This study did not generate any new unique reagents.
+hifiasm -o output.asm -t 40 reads.fq.gz.
+-minpallen 4 -maxpallen 100 -gaplimit 20 -nummismatches 0 –overlap
+Different pH MS medium was adjusted by KOH.
+Open access funding enabled and organized by Projekt DEAL.
+We calculated predictors (P1-3) using the following procedures:
+Secion: Abstract
+SectionÇ Abstract
+Brain size in newborn and adult primates 1
+Type locality Beremend 1 (Hungary).
+Type locality Rȩbielice Królewskie 1 (Poland).
+Type locality Villány 3 (Hungary).
+Type locality Fortyogoberg bei Brassó (Rumania).
+Type locality ´Ubeidiya (Israel).
+Type locality Gundersheim (Germany).
+Type locality Castelfranco di Sopra (Italy).
+"Geographic range Europe ( Chaline and Laurin, 1986 )."
+"Type locality Püspökfürdo, Oradea (Nagyvárad, Romania)."
+"Geographic range Europe ( Rabeder, 1981 )."
+The umbrella Policy on Government Security indicates that:
+Variables in levels :
+Variables in first difference :
+Open access funding enabled and organized by Projekt DEAL.
+Open access funding provided by Universite de Lausanne.
+Open access funding enabled and organized by Projekt DEAL.

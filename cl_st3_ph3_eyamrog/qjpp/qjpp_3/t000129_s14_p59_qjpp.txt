@@ -1,0 +1,21 @@
+Pairwise distance distributions are extracted from the population of 3D
+polymer structures as previously described ( Chiariello et al., 2016
+31. Chiariello, A.M. ∙ Annunziatella, C. ∙ Bianco, S. ...
+Polymer physics of chromosome large-scale 3D organisation Sci. Rep. 2016;
+6 :29775 Crossref Scopus (94) PubMed Google Scholar ; Conte
+et al., 2020 34. Conte, M. ∙ Fiorillo, L. ∙
+Bianco, S. ... Polymer physics indicates chromatin folding variability across
+single-cells results from state degeneracy in phase separation Nat. Commun.
+2020; 11 :3289 Crossref Scopus (32) PubMed Google Scholar ).
+For each pair of objects, we first compute the center
+of mass of the polymer beads belonging to that object,
+then we evaluate the distance between the centers of mass.
+This distance is then averaged over the last 20 frames
+of each simulation. In order to map dimensionless length scale
+into physical units we compare pairwise distances measured by FISH.
+In total, we compare six different probe pairs (D1-D2, Fl1-Fl2,
+Zfp42 R-D1, Zfp42 R-D2, Zfp42 R-Fl1, Zfp42 R-Fl2) both in
+E11.5 limb and ESCs, for each pair we equalize the
+model and experimental median and then average over the different
+probe pairs. The resulting length scale mapping factor is 𝜎
+= 4 4 ⁢ 𝑛 ⁢ 𝑚 .

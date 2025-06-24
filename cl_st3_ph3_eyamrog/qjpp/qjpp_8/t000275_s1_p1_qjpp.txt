@@ -1,0 +1,16 @@
+This methodology-focused paper reports how I compiled and analysed a
+12-million-word corpus of threaded online discussions by employing Corpus Workbench
+tool (CWB, Evert & Hardie, 2011) and combining corpus analysis
+with micro-analysis drawing on the principles of digital Conversation Analysis
+. The tool not only affords an efficient retrieval and
+analysis of a large dataset, but also, more importantly, facilitates
+exploration of a corpus of online discussions based on different
+variables (e.g., topics of discussions, role of internet users, types
+of postings) and units of analysis (e.g., subforums, threads, postings).
+Examples are presented to illustrate how I used this tool
+to investigate various aspects of online discussions, and extract threads
+surrounding a particular topic or language practices for micro-analysis. I
+propose internet users’ interactions in online discussions can be further
+explored in the field of corpus linguistics by using this
+tool and a synergy of corpus linguistics and an interactional
+approach.

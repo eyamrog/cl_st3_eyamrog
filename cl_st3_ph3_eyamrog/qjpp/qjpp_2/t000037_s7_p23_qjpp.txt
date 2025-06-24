@@ -1,0 +1,8 @@
+Nonindependence of data is a more challenging problem, since self-perpetuating
+public awareness potentially impacts all forms of health-related online behavior,
+but can be addressed at least in part by improving
+text classification accuracy. For example, Broniatowski et al. ( 9
+) used a multistage filtering approach to distinguish media-related chatter
+from tweets that are true markers of influenza incidence that
+doubled the accuracy in predicting the weekly direction of change
+in incidence (i.e., up or down).

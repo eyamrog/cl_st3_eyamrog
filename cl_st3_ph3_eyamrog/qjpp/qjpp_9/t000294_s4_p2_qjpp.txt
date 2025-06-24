@@ -1,0 +1,22 @@
+As noted earlier, the three groups differed in how they
+used the same bundles in context. This finding indicates that,
+while English learners may be somewhat familiar with recurrent sequences
+or other types of idiomatic expressions, they may have difficulty
+producing them in sentences – a skill which is crucial
+for structuring academic prose ( Shin, 2019 ). For that
+reason, the details of how different proficiency groups use the
+same bundles in sentences, which can be identified by corpus
+analysis using concordance software (e.g., Gilquin and Granger, 2010 ;
+and Flowerdew, 2015 ), could serve as a useful resource
+for writing instructors. Specifically, to implement such data-driven learning, instructors
+could provide students with sentences that include the shared bundles
+used by different groups; then they could be asked to
+compare the structures of the bundles, to note frequently occurring
+words and bigrams embedded in the bundles, or to underline
+the words and phrases that precede and follow the same
+bundle in various sentences, with the goal of leading learners
+to notice different ways of putting sequences in context and
+to identify uses appropriate for academic prose. Moreover, instructors could
+ask students to fill in various frames appropriate for academic
+discourse (e.g., the + Noun + of the ) in
+diverse contexts.

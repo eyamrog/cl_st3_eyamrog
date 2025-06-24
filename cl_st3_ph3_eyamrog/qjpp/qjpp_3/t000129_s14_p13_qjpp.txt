@@ -1,0 +1,15 @@
+2 million mESCs were collected and then washed twice in
+PBS. The cell pellet was then resuspended in cell lysis
+buffer (2 5mM HEPES pH7.6, 5 mM MgCl2, 25 mM
+KCl, 0.05 mM EDTA, 10% Glycerol, 0.1% IGEPAL, 1X Roche
+protease inhibitor, 1mM DTT). Nuclei were pelleted from the cell
+lysate by centrifugation for 5 minutes at 1500 rpm. The
+nuclei were then washed once (10mM HEPES pH7.6, 3 mM
+MgCl2, 100 mM KCl, 0.01 mM EDTA, 10% glycerol, 1X
+Roche protease inhibitor, 1 mM DTT) and centrifuged at 3000g
+for 5 minutes. Nuclei were then resuspended in 150 μl
+RIPA Buffer and vortexed for 20 minutes at 4°C. This
+mixture was spun at 12,000 rpm for 15 minutes and
+the supernatant was collected for blotting. Western blots were performed
+with anti-Dnmt3a (1:2000) and anti-Dnmt3b (1:1000) and imaged using HRP
+chemiluminescence.

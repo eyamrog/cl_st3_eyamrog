@@ -1,0 +1,10 @@
+We have developed a framework on autonomous vehicles and health
+determinants ( Figure 2 ). In this framework, we summarize
+the main health determinants related to AVs, consider two different
+levels of impacts, direct and indirect, and highlight the expected
+changes in such determinants (increments or reductions). “Direct impacts” refer
+to those impacts affecting travelers who use AVs. “Indirect impacts”
+refer to those impacts that occur after widespread implementation of
+AVs and that affect the larger community. The following sections
+describe the health determinants presented in this framework and their
+interrelation with AVs.

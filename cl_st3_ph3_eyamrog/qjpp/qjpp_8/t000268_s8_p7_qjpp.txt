@@ -1,0 +1,11 @@
+The most popular approach is based on calculating the frequency
+with which concepts related to uncertainty appear in the media.
+Baker et al. (2016) constructed the economic policy uncertainty (EPU)
+index by computing a text-mining measure using ten American newspapers
+from the US. The degree of subjectivity entailed in the
+selection of newspapers and its limited scope, led Davis (2016)
+to calculate a global economic policy uncertainty (GEPU) index by
+taking a GDP weighted average of EPUs from several countries
+proportional to the monthly share of national articles. The countries
+on the GEPU index account around 80% of global output
+at market exchange rates.

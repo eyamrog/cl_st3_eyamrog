@@ -1,0 +1,20 @@
+We considered two possible settings for the initialization of the
+Indian vaccination program. The first one assumed that the daily
+vaccination rate of the first dose was 0.01% of the
+Indian population on 16 January 2021 (ref. ) (that is,
+the start time of the Indian vaccination program); the second
+one assumed that 22.0% and 5.3% of the Indian population
+had received the first standard dosing and the second standard
+dosing, respectively, by 11 July 2021 (ref. ) (that is,
+based on the fourth survey of the Indian Council of
+Medical Research ). Through the 150-day simulation, in total 12.5%
+of the Indian population will be newly vaccinated, if the
+standard dosing is used for vaccinating each dose. We assigned
+the vaccines available per day to individuals requiring their first
+or second dose (that is, daily available vaccination number \(\nu\)
+; Supplementary Table 2 ). Because people over age 65
+were prioritized for vaccination, we assumed that vaccines were first
+delivered randomly to people over age 65, after which adults
+17–64 years of age started to receive their first dosing.
+Individuals receiving the first dosing will receive the second dosing
+after \(d_{dose}\) days.

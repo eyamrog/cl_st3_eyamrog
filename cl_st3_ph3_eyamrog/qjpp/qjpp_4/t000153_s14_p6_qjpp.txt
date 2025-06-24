@@ -1,0 +1,19 @@
+We used the flex-heart rate method to estimate TEE. TEE
+across a 24-h period was estimated based on up to
+10 days of raw wear time data measured at 10-s
+epochs—all values reported are TEE over 24 h (i.e., TEE
+kcal day −1 ). We used the formula derived by
+Hiilloskorpi and colleagues (see Appendix S1 ) to analyze heart
+rate data and calculate TEE (Hiilloskorpi et al., 2003 ).
+Using heart rate to estimate TEE is a standard technique
+in human energetics research; the utility of heart rate as
+a proxy measure for energy expenditure stems from the fact
+that there is a linear relationship between heart rate and
+energy expenditure (or oxygen consumption) over a large range of
+activity levels (Booyens & Hervey, 1960 ; Christensen et al.,
+1983 ). Though less accurate at very high levels of
+physical activity, on average as work or exercise levels increase,
+heart rate increases as a direct function of energy demands
+(Leonard, 2003 ; Ocobock, 2016b ). In addition, the flex-heart
+rate method accounts for the variation when the linear relationship
+begins to break down (Leonard, 2003 ).

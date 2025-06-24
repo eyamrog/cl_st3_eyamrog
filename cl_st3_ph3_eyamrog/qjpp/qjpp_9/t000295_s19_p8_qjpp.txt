@@ -1,0 +1,8 @@
+Unlike the logistic regression model, the random forest model does
+not return a regression’s statistics. This includes coefficients to indicate
+the specific level’s effect and direction. It only includes the
+predictor’s importance. Therefore, partial dependence plots are used with the
+following code to visualise the relationships between the different levels
+and response variables. library (pdp) pdp_circle <- partial (rf, ‘name
+of the predictor’,prob = TRUE) plot Partial(pdp_circle, main = ‘name
+of the predictor’)

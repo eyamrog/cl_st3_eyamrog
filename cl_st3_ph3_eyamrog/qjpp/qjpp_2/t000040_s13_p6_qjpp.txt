@@ -1,0 +1,10 @@
+Finally, ethical issues involving the decisions made by AVs in
+the case of traffic incidents are a relevant factor to
+consider ( 47 ). An imminent crash may pose instantaneous
+decisions about who will die: a passenger or pedestrian, an
+older person or a child? The moral elements of such
+decisions must be programmed into the algorithms used by AVs.
+A recent multinational survey on moral decisions related to AV
+and road safety found that these moral decisions vary considerably
+by gender, social status, and nation and appear to reflect
+underlying societal-level preferences for egalitarianism ( 47 ).

@@ -1,0 +1,19 @@
+Further analysis of the grade assignments by the algorithms and
+general pathologists showed that the algorithms tended to assign higher
+grades than the pathologists (Fig. 5 ). For example, in
+the US external validation set, algorithms overgraded a substantial portion
+of ISUP GG 3 cases as GG 4. The general
+pathologists, in contrast, tended to undergrade cases, most notably in
+the high-grade cases. These differences suggest that general pathologists supported
+by AI could reach higher agreements with uropathologists, potentially alleviating
+some of the rater variability associated with Gleason grading .
+It should be noted that the algorithms’ operating points were
+selected solely based on the EU tuning set. For clinical
+usage, the operating points can be adjusted based on the
+needs and the intended use cases. For example, for a
+prescreening use case aimed to reduce pathologist workload, one could
+select an operating point favoring high sensitivity to minimize false
+negatives. Alternatively, if AI was used as a stand-alone tool,
+increasing the algorithms’ specificity to tumors, while retaining a high
+sensitivity, could be an important prerequisite for clinical implementation to
+prevent overdiagnosis.

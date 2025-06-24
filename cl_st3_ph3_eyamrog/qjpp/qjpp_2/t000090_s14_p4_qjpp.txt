@@ -1,0 +1,21 @@
+Yeast transformation was performed by either electroporation or heat shock
+using standard protocols ( Guthrie and Fink, 1991 33. Guthrie,
+C. ∙ Fink, G. Guide to yeast genetics and molecular
+biology Methods Enzymol. 1991; 194 :1-863 PubMed Google Scholar ).
+For generation of myc-tagged strains, one-step PCR amplification was performed
+to generate a 13xmyc-kanMX6 product with flanking homology, which was
+then introduced to the appropriate strain and locus by homologous
+recombination of the linear PCR product via standard heat shock
+transformation ( Bähler et al., 1998 5. Bähler, J. ∙
+Wu, J.Q. ∙ Longtine, M.S. ... Heterologous modules for efficient
+and versatile PCR-based gene targeting in Schizosaccharomyces pombe Yeast. 1998;
+14 :943-951 Crossref Scopus (1546) PubMed Google Scholar ). For
+curing of [ ESI + ] by transient Hsp90 inhibition,
+this was done similarly to as previously described ( Chakrabortee
+et al., 2016a 15. Chakrabortee, S. ∙ Byers, J.S. ∙
+Jones, S. ... Intrinsically disordered proteins drive emergence and inheritance
+of biological traits Cell. 2016; 167 :369-381 Full Text Full
+Text (PDF) Scopus (78) PubMed Google Scholar ). Briefly, strains
+were passaged through 2–3 single-cell bottle-necks on YPD agar containing
+5 μM radicicol. Hsp90 function was then restored by passaging
+once on YPD prior to phenotyping.

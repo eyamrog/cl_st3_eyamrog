@@ -1,0 +1,13 @@
+The fast component dominates the OSL signal from the Riparo
+Mochi samples (see LM-OSL measurements in SOM Fig. S1 ).
+The net intensity of the OSL signal was integrated over
+the first 0.8 seconds after subtracting an early background signal
+derived from the next 0.8 seconds of stimulation (from 0.98
+to 1.6 seconds). To determine the preheat conditions for OSL
+measurement, preheat plateau and dose recovery tests were performed on
+two samples (details are provided in SOM Figs. S2 and
+S3 ). For all samples, the preheat was fixed at
+240 °C for 10 seconds and the cut heat before
+the test dose was fixed at 200 °C. The overall
+average dose recovery ratio was 1.00 ± 0.03 ( n
+= 12).

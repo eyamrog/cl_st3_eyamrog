@@ -1,0 +1,8 @@
+All 100 QuIBL outputs were summarized in Figures S2 B–S2E.
+In all four target triplets of these repetitions, the ILS
+only scenario had a lower BIC value than the mixture
+scenario. Further, the overall Delta.BIC values obtained from the subset
+supporting Dipr_Micr tree or the subset supporting Dasy_Micr tree in
+four target triplets were greater than 10. Thus, as the
+interpretation suggested by QuIBL, the discordances observed in the early
+evolutionary period of marsupials are caused by ILS only.

@@ -1,0 +1,8 @@
+The present study has analysed the effect of economic factors,
+and more specifically global economic uncertainty, on suicide rates in
+183 countries. Since economic uncertainty has been proven to be
+a driver of the business cycle, it is a suitable
+indicator to assess the impact of socioeconomic factors on suicide
+rates. Uncertainty has been measured using a global index constructed
+by combining news-based text-mining measures of uncertainty from a set
+of countries.

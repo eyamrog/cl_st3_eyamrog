@@ -1,0 +1,15 @@
+CD4 CRE , LSL-Cas9-GFP and Constitutive-Cas9-GFP mice were purchased from
+Jackson Laboratory. LSL-Cas9-GFP mice were bred to CD4 CRE mice
+and TCR transgenic P14 C57BL/6 mice (TCR specific for LCMV
+D b GP 33–41 ) and backcrossed for more than
+6 generations before use. Constitutive-Cas9-GFP mice were bred to TCR
+transgenic P14 C57BL/6 mice. Constitutive-Cas9-GFP mice for recipient use were
+bred in house. 6-8 week-old C57BL/6 Ly5.2CR (CD45.1) or C57BL/6
+(CD45.2) mice were purchased from NCI. 6 week-old C57BL/6 (CD45.2)
+mice were purchased from Jackson Laboratory. 5-7 week-old Rag2 −/−
+C57BL/6 mice were purchased from Jackson Laboratory. Recipient mice for
+LCMV challenge were from NCI unless otherwise noted in the
+figure legends. Both male and female mice were used unless
+otherwise noted. All mice were used in accordance with Institutional
+Animal Care and Use Committee guidelines for the University of
+Pennsylvania.

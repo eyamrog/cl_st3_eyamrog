@@ -1,0 +1,20 @@
+Confounding of search terms is also present in correlation-based feature
+selection, particularly when relying on simple terms without sophisticated filtering.
+For example, terms related to basketball correlate strongly with influenza
+due to seasonal overlap ( 42 , 77 ), and
+Google trends for the word “cholera” revealed a cholera “epidemic”
+in the United States in 2007 related to Oprah Winfrey
+selecting Love in the Time of Cholera for her book
+club ( 95 ). Prediction accuracy has also been observed
+to drop off precipitously during holidays ( 116 ). These
+examples illustrate the necessity of semantic filtering, which was performed
+by hand in the initial Google Flu Trends algorithm (
+42 ), but it is possible to automate the process
+( 77 ). Related to confounding, there may be social
+desirability biases related to the use of certain search terms.
+If individuals are concerned that their searches are being tracked
+or that they can be identified through their computer searches,
+they may be less likely to use terms that relate
+to certain diseases and conditions that may be stigmatized. This
+bias may reduce the accuracy of digital data surveillance for
+certain conditions.

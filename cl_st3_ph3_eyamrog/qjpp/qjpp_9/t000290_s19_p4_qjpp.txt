@@ -1,0 +1,22 @@
+Significant differences between coda contexts were identified for formants of
+the three vowels. For /æ/, coda /k/ exhibits only a
+small increase in F1 (lower articulation) from the intercept (non-velar
+codas) and no significant difference in F2. The voiced velars
+/ɡ/ and /ŋ/ both correlate with lower F1 (higher articulation)
+and higher F2 (advanced articulation) values for /æ/, with /ŋ/
+producing the largest differences. /ɛ/ exhibits a similar pattern. Again,
+coda /k/ correlates with higher F1 (lower articulation). As for
+/æ/, codas /ɡ/ and /ŋ/ produce lower F1 (higher articulation)
+and higher F2 (advanced articulation) values for /ɛ/; however, these
+do not reach the level of significance for /ŋ/, most
+likely due to low quantity of tokens, only eight, which
+occur in that condition. For /e/, significant differences only occur
+in F1, where codas /k/ and /ɡ/ correlate with slightly
+lower values (a higher articulation); this is the only condition
+where /k/ and /ɡ/ produce a similar direction of effect.
+Note that /ŋ/ is categorically prohibited after /e/ in English
+( Hammond 1999 :113) and so cannot be compared in
+this context. Visualizations of the differences in vowel F1xF2 position
+according to coda context are provided as density plots in
+Figure 3 . Open in Viewer Figure 3 . Vowel
+Formant Density Distributions Across Coda Contexts

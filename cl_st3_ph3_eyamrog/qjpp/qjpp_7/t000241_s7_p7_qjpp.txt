@@ -1,0 +1,7 @@
+The rest of the paper is structured as follows: In
+the “Literature Review” section, an overview is given of some
+of the previous studies on the relationship between tourism, governance,
+and income inequality in developed and developing countries. The “Methodology”
+section deals with estimation techniques and empirical model specification, while
+the “Empirical Analysis” section presents the empirical analysis and the
+discussion of the results. The “Conclusion” section concludes the study.

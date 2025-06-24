@@ -1,0 +1,5 @@
+Equation (3) states that in every period the number of
+recovered is increased by the number infected who recovered but
+is decreased by a fraction ε of recovered individuals who
+become susceptible again. Equation (4) captures the evolution of the
+number of deceased individuals.

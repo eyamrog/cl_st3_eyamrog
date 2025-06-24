@@ -1,0 +1,11 @@
+The goal of this paper is to examine the role
+of social factors in the formation of country reports related
+to COVID-19 in the early stages of the pandemic. To
+this end, a linked database of countries’ COVID-19 reports and
+five composite variables (which compress the information content of 162
+preliminary selected socioeconomic indicators) is analyzed by using regression models
+with regional dummy interactions. The main findings not only reflect
+the importance of foreign travel restrictions and airport controls but
+also show that in Europe and Africa, more corrupt countries
+have reported significantly fewer cases and deaths than countries in
+other regions.

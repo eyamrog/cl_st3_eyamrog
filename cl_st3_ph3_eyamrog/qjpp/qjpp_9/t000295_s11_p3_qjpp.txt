@@ -1,0 +1,26 @@
+Head np s’ grammatical roles in matrix clauses and rc
+s are often discussed regarding morphosyntactic factors. In the matrix
+clause, Pu (2008) , Wu (2009) , and Li (2013)
+determined its influence on imn / omn alternation. However, the
+concrete preference remains to be discussed. Wu (2011) observed that
+imn never appears in object-extracted clauses, when head np s
+serve other grammatical roles in matrix clauses. This is except
+for subjects and objects. Concerning head np s in rc
+s’ grammatical role, most studies found that DPs tend to
+precede the subjective clause and follow the objective clause (
+Tang, 2007 ; Pu, 2008 ; Wu, 2009 ; Ming
+and Chen, 2010 ; Sheng and Wu, 2013 ; Wu,
+2011 ; Wu and Sheng, 2014 ; and Wu and
+Lü, 2017 ). According to Xu (2008), Li (2013) and
+Zhang (2018), a dp tends to precede the objective clause.
+In Sheng and Wu (2018) , the corpus method and
+the online behavioural experiment demonstrated different trends. The corpus study
+complied with the former, namely, DPs tend to precede the
+subjective clause and follow the objective clause, and the online
+behavioural experiment with the latter, which indicates that a dp
+precedes the objective clause. ( 3 ) 桌上留着朋友的一个留言，上面抄录着我们都十分喜欢的一首小诗。 Zhuōshàng liú-zhe
+péngyǒu-de yī gè liúyán, shàngmiàn chāolù-zhe [wǒmēn shífēn xǐhuān de]
+yī-shǒu xiǎoshī. table above leave-DUR friend-DE one-CL message above, record-DUR
+we very like DE one-CL poem [‘On the table was
+a note from a friend. There was a poem on
+it which both of us liked very much.’]

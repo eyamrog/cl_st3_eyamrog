@@ -1,0 +1,15 @@
+Linguistic exploitation of learner corpora usually involves one of two
+methodological approaches: contrastive analysis and error analysis ( Granger, 2002
+: 11–12). A characteristic feature of the learner corpus research
+in this study is that more than half of the
+articles in each journal employed a contrastive research approach, comparing
+the use of various linguistic features between non-native speakers (
+nns ) and native speakers ( ns ). This approach
+has been adopted in twenty articles in et and in
+seventeen articles in kjal . The most common practice is
+to carry out an analysis of some linguistic features and
+to compare the results from the learner corpus with those
+from a native corpus. In many contrastive studies, the native
+corpus usually serves as a ‘norm’, and instances of linguistic
+items which are either underused or overused in the learner
+corpus are investigated and compared to the native corpus.

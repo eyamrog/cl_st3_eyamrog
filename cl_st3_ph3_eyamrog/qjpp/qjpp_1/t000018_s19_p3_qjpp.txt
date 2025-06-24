@@ -1,0 +1,13 @@
+To determine whether the gene coexpression patterns detected reflect changes
+in the cell type composition of patient tissues, we applied
+in silico cell type deconvolution analysis to the RNA-seq data
+of our discovery cohort ( xCell ). Correlating predicted cell
+type scores with module expression (eigengenes) (Extended Data Fig. 2b
+), modules positively correlated with histologic inflammation (Fig. 1a )
+were associated with signatures of stromal cells (for example, fibroblasts),
+B lymphocytes and plasma cells, T lymphocytes (for example, CD8
+T cells) and granulocytes (for example, neutrophils). Modules negatively correlated
+with histologic inflammation were predicted to reflect epithelial and smooth
+muscle cells. These results suggest that the coexpression patterns associated
+with inflammation were, at least in part, driven by differences
+in cellular composition.

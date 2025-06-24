@@ -1,0 +1,16 @@
+Correction of disease-causing mutations in human embryos holds the potential
+to reduce the burden of inherited genetic disorders and improve
+fertility treatments for couples with disease-causing mutations in lieu of
+embryo selection. Here, we evaluate repair outcomes of a Cas9-induced
+double-strand break (DSB) introduced on the paternal chromosome at the
+EYS locus, which carries a frameshift mutation causing blindness. We
+show that the most common repair outcome is microhomology-mediated end
+joining, which occurs during the first cell cycle in the
+zygote, leading to embryos with non-mosaic restoration of the reading
+frame. Notably, about half of the breaks remain unrepaired, resulting
+in an undetectable paternal allele and, after mitosis, loss of
+one or both chromosomal arms. Correspondingly, Cas9 off-target cleavage results
+in chromosomal losses and hemizygous indels because of cleavage of
+both alleles. These results demonstrate the ability to manipulate chromosome
+content and reveal significant challenges for mutation correction in human
+embryos.

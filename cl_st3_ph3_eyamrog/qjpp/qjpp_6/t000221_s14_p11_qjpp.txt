@@ -1,0 +1,20 @@
+For the chimpanzees, walking speed was calculated as the average
+of the instantaneous forward velocity of four markers (i.e., 3
+pelvis and 1 hip marker) over the full stride, whereas
+for humans, a marker placed over the sacrum was used.
+To account for differences in body size among subjects and
+species, analyses were performed with dimensionless variables, using the base
+units of body mass M b , gravitational acceleration g
+, and average lower/hind limb length L . Lower/hind limb
+length was measured as the average height of the greater
+trochanter marker from the ground during quiet standing for humans
+and during the middle of the single-support period for chimpanzees
+(H = 0.92 ± 0.05, C = 0.39 ± 0.02
+m). Velocity ( v ) was made dimensionless by the
+divisor ( gL ) 0.5 and as the Froude number
+( Fr = v 2 / gL ). Force was
+made dimensionless by the divisor M b g , moment
+and work by M b g L, and power by
+M b g 1.5 L 0.5 . In all cases,
+stance, swing, and stride duration were determined based on the
+ground reaction forces.

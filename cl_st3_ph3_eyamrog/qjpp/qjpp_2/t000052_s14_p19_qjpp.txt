@@ -1,0 +1,13 @@
+In descriptive analysis the number of household contacts identified, the
+number estimated to be eligible for tuberculosis preventive treatment, and
+the number and proportion initiating treatment were reported for control
+and intervention sites for each study phase. For countries that
+treated only household contacts younger than 5 years in the
+trial, all the household contacts of those younger than 5
+years identified were considered eligible to receive tuberculosis preventive treatment.
+For countries that treated household contacts of all ages, the
+number eligible to receive tuberculosis preventive treatment was calculated by
+adding all the household contacts of those younger than 5
+years, and a proportion of the household contacts aged 5
+years and older. This proportion was based on the estimated
+LTBI prevalence in that country.

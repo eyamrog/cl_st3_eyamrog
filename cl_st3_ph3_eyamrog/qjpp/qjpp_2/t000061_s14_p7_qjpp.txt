@@ -1,0 +1,9 @@
+We used an adapted version of the Cochrane Risk of
+Bias Tool for cohort studies to assess study quality. Comprising
+six domains of appraisal, including the exposure, confounding variables, outcome,
+and adequacy of the follow-up ( appendix p 2 ),
+we regarded the quality of the study as high if
+the total score was at least 21 (maximum 24). One
+author (GDB) evaluated the quality of each study included in
+the review and scores were independently corroborated for a random
+50% sample by another (PF).

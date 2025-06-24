@@ -1,0 +1,16 @@
+Only people who spoke English or Spanish were eligible to
+participate in the survey, with selected respondents being randomly assigned
+to face-to-face (75% of cases) or web (25%) survey modes.
+The cumulative survey response rate for the ABS sample was
+estimated at 3%, a level comparable to other large-scale panel
+surveys ( Fischer and Lawton, 2020 ). Fischer and Lawton
+(2020) provide more details about the respondent recruitment procedure, its
+different steps and their potential impacts on the response rate.
+The relatively low response rate compared to standard surveys may
+also be explained by the panel nature of the UCNets
+survey and the higher respondent burden implied by its personal
+network instruments ( Fischer and Bayham, 2019 ). All analyses
+in this article use post-stratification sample weights (with a 95%
+trim) designed to reflect the distributions of age, gender, race/ethnicity,
+marital status and education in the greater SFB Area (
+Child and Lawton, 2020 ; Fischer and Lawton, 2020 ).

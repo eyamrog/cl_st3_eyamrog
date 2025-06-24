@@ -1,0 +1,15 @@
+The distribution of genomic features differed markedly between holocentric Rhynchospora
+and monocentric J. effusus ( Figures 2 E and 2F).
+Rhynchospora had a uniform distribution of genes, transcriptional activity, Tyba
+centromeric repeats, TEs, and DNA methylation ( Figures 2 F,
+S1 D, and S1E). By contrast, J. effusus genes were
+concentrated toward telomeric regions, while TEs and tandem repeats clustered
+toward centromeric regions ( Figure 2 E). Genome-wide gene distribution
+and transcriptional activity were positively correlated, while repeat distribution was
+positively correlated with overall DNA methylation levels ( Figure 2
+E). Genome-wide CpG methylation (mCpG) was lower in R. pubera
+than in J. effusus , whereas CHG methylation was higher
+and CHH methylation was the same in both species (
+Figures S1 F and S1G). Thus, transition to holocentricity likely
+affects 3D genome architecture by redefining the extents of genomic
+compartments and their relationships to each other.

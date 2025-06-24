@@ -1,0 +1,8 @@
+To explore variation within hominine genera, species, and subspecies (aim
+1), size was assessed in the adult sample based on
+the standard deviations of the natural logarithm of centroid size,
+and two-tailed F-tests to compare two variances were performed to
+determine statistical significance. Shape variation within each taxon was examined
+for the adults through Procrustes distances between all possible specimen
+pairs from that taxon, and statistical significance of differences in
+variation was determined through two-tailed Student's t-tests.

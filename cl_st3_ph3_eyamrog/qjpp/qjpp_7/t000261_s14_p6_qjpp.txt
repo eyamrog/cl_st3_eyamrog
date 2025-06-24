@@ -1,0 +1,17 @@
+A linear probability model (OLS) was also estimated at the
+individual level to assess the marginal effect of the policy
+on GP referrals: (2) y i = b 0 +
+b 1 U n d e r 6 + b
+2 P o s t + b 3 U n
+d e r 6 * P o s t +
+b 4 X i + b 5 M o n
+t h + U i where y i is the
+probability of the visit by individual i being a GP
+referral, including out-of-hours, versus a walk-in, and covariates X i
+includes gender, medical card status, indicator of weekend or weekday
+late attendance, triage urgency and whether the patient was admitted.
+Similar estimation is carried out to assess the impact of
+the policy on admissions and of the visit being triaged
+as either urgent or low urgency. Models were estimated in
+aggregate with hospital fixed effects, and at hospital level to
+determine variability in the policy effect.

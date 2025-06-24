@@ -1,0 +1,12 @@
+The annotation process was conducted by two linguistic researchers. More
+than 90 percent correspondence was reached. A set of predictors
+influencing omn / imn alternation identified in the literature were
+annotated in morphological, syntactic, semantic, and extra-textual aspects, as follows:
+Predictor variables: • HeadNPanimacy: Animacy of head np s. •
+HeadNPLength: Length of head np s in a number of
+Chinese characters. • HeadNPMatRole: The grammatical roles of the head
+np s in matrix clauses. • HeadNPRelRole: The grammatical roles
+of the head np s in relative clauses. • RCLength:
+The length of rc s in the number of Chinese
+characters. • NLType: Types of learners’ native languages. • CHProficiency:
+ChineseProficiency. Response variable: • Construction: omn / imn .

@@ -1,0 +1,12 @@
+We next asked whether this phenotype was due to [
+ESI + ]. First, we repeated the nocodazole induction in
+snt1 Δ cells, and observed no increase in zinc resistance
+( Figure 2 C), establishing dependence on Snt1. Second, we
+subjected immunoprecipitated Snt1 derived from single-colony nocodazole-induced isolates to proteolysis
+( Figure S2 A). Among zinc-resistant colonies, we commonly observed
+delayed Snt1 degradation, closely matching [ ESI + ] type
+strains ( Figure 2 D). Thus, nocodazole arrest can induce
+an altered, heritable Snt1 conformation resembling [ ESI + ].
+We did not, however, observe Snt1 phosphorylation in [ ESI
++ ]-type strains ( Figure S2 B), suggesting that the
+modification is not needed to maintain the prion.

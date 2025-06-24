@@ -1,0 +1,11 @@
+The very specific localization of IL-1β in the areas of
+epithelial cell damage in ulcers suggests that disruption of the
+epithelial barrier may be a primary event. Early responders to
+this damage may also include resident MNP, which can produce
+excessive IL-1β and IL-23 particularly in the context of IL-10
+pathway deficiency . Alarmin IL-1α may similarly contribute to the
+activation of fibroblasts and initiation of colitis , and can
+be released by necrotic epithelial cells in IBD . Further
+studies are required to establish whether the IL-1R-driven activation of
+inflammatory fibroblasts identified here is dominated by IL-1α or IL-1β
+signaling or both.

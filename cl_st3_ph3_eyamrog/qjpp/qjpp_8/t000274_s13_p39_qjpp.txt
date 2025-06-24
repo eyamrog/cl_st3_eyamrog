@@ -1,0 +1,11 @@
+In preparing Corpus 2, it was agreed that ‘delinking’ (removing
+a connection between data items and information about data items)
+was important at several levels. First, we broke the link
+between individual texts and their writers (and by extension particular
+cases) by automatically renaming each text with a randomly-generated 4-digit
+number, rendering each text ‘standalone’. Next, we removed coding which
+linked social worker and service user. Contextual data on individual
+social workers such as age group and length of service
+was not provided within the metadata as felt this better
+fulfilled the spirit of our agreement with LAs. 3) Remove
+highly sensitive individual texts

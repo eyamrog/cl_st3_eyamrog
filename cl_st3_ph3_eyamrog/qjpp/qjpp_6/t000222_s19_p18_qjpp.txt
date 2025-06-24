@@ -1,0 +1,19 @@
+Maxillary shape differs significantly between late juveniles and adults of
+all species when sexes are combined ( Table 4 ).
+However, when males and females are compared separately, this difference
+is not significant for both sexes of G. beringei and
+male H. sapiens ( SOM Table S12 ). Effect sizes
+are inconclusive, as small sample sizes result in large confidence
+intervals and variance ( Table 4 ; SOM Table S12
+). Late juveniles tend to cluster along one side of
+PC1 but still fall within the range of adults on
+this axis, except those of P. paniscus which partially fall
+outside the adult variation ( Fig. 11 ). Late juveniles
+and adults are not separated along PC2 (not shown). On
+PC3, late juveniles of African apes tend to have lower
+scores than adults, although still showing substantial overlap, while H.
+sapiens late juveniles and adults cannot be visibly separated along
+this axis. The PC1 and PC3 jointly provide the best
+separation of the two age groups, both with the sexes
+combined ( Fig. 11 A–C) and for males and females
+separately ( SOM Fig. S2 ).

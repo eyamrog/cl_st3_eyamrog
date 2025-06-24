@@ -1,0 +1,6 @@
+Concerning the random part of the models, two nesting structures
+were specified: language-external nesting by speaker and language-internal nesting by
+lexeme captured by the variable word. The slope of F2
+varies randomly across levels of word, while the interaction category*F2,
+varies randomly across speaker. Full regression models for the fixed
+effects can be found in the Appendix.

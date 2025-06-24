@@ -1,0 +1,21 @@
+To determine concordance with Cas9 off-target sites, we evaluated nine
+predicted off-target candidate sites for indels. One gRNA had two
+mismatches ( Figure 5 B), whereas others had three or
+more ( Table S6 ). PCR and Sanger sequencing in
+four stem cell lines and three blastocysts revealed that only
+the site with two mismatches on chromosome 16q23.1 at location
+chr16:74344276 (hg37), showed indels in four of seven samples (
+Table S6 ). The site, which is present on both
+maternal and paternal chromosomes, is concordant with the cytological location
+of recurrent segmental errors: chromosomal break sites in seven different
+cells mapped to chr16 between 74 Mb and 74.5 Mb
+at 16q22.3-23.1. No other predicted off-target sites were concordant with
+the location of singular segmental errors, which were therefore considered
+spontaneous ( Figure 5 A). The off-target site on chromosome
+16 was then further examined for indels in a total
+of 27 cleavage stage blastomeres of 7 embryos. Off-target indels
+were identified in 24 blastomeres, one of which carried 2
+different indels ( Figure 5 C; Table S1 ). In
+cleavage-stage embryos derived after MII injection of Cas9 RNP, three
+out of four embryos showed mosaic indels and just one
+was uniform ( Figure 5 D; Table S1 ).

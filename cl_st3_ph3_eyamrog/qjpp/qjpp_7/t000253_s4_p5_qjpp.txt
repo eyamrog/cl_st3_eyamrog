@@ -1,0 +1,8 @@
+Additionally, age-specific case fatality for men is significantly higher than
+it is for women. Whether prioritizing vaccination for less advantaged
+groups, or for men, would save more or fewer overall
+YLLs would be balance between their relative risk of dying
+and their age-specific life expectancy (which tends to be lower
+for men than for women). This is essentially a theoretical
+concern: the complexity of making and implementing such a calculus
+would be unfeasible in the real world of vaccine roll-out.

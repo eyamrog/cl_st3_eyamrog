@@ -1,0 +1,14 @@
+The consultations described above solicited information about constraints to and
+enablers of individual action; from whom or where they received
+the information; how they used it; and to whom or
+where they in turn shared it. This information was mapped
+by documenting local accounts; identifying coordination points to other accounts
+through common texts (policies, alerts, etc.) or processes (e.g. medical
+rounds, patient hand-offs); and noting gaps where locally produced patient
+information did not travel. From this, I produced an ethnographic
+account of the information system, including points of fragmentation. It
+contained the origin, course, and consequences of the problem and
+delineated social relations by documenting who was affected and how.
+Similar processes were employed to articulate how an eHealth solution
+could potentially affect information transfer across sites, as well as
+how it would affect individuals.

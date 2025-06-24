@@ -1,0 +1,20 @@
+In the central scenarios presented, vaccination is redistributed proportionally to
+the number of eligible individuals in each country who remain
+unvaccinated, although we additionally present strategies (Extended Data Figs. 5
+and 6 ) where vaccine redistribution is age-biased, dependent on
+the number of unvaccinated individuals in each 5-year age bracket
+weighted by vulnerability. To incorporate the effects of variants and
+changing vaccination levels, the model is run in 2-day time
+steps. In each time step, countries are simulated individually by
+solving the set of ODEs (Eq. (1)). Between steps, we
+update a transmission scaling parameter due to variants, ω ,
+as well as country-specific vaccine parameters, v inf , v
+tra , v sym and v sev , scaling infection,
+transmission, probability of infection being symptomatic and probability of hospitalization/death,
+respectively, for each age group. These are applied to the
+susceptibility, v inf M , transmission, ω v tra β
+, and symptomatic probability, v symp d , parameters. The
+final vaccine parameter, v sev , is used to scale
+severe disease outcomes, used in the calculation of numbers of
+hospitalizations, H , and deaths, D , between time steps
+as follows:

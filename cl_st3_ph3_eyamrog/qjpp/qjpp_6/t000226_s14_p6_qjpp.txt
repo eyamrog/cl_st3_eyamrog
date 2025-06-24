@@ -1,0 +1,22 @@
+We also wanted to test whether variance in TEE changed
+according to age (heterogeneity of variance) in males and females
+separately; a statistical effect that is not accounted for by
+including linear or quadratic terms for age, or interactions between
+age and other terms, in the models. To do this,
+we recoded age as a four-level categorical variable with roughly
+equal sample sizes in each age category. We then reran
+the model for TEE with the third set of covariates
+while estimating separate residual variances for each of the four
+age categories in males and females. Finally, we also wanted
+to test whether variance in TEE was different in Western
+countries compared to the rest of the countries sampled. To
+do this, we recoded country as a two-level categorical variable
+(Western country or non-Western country) and reran the model for
+TEE with the third set of covariates while estimating separate
+residual variances in males and females for Western countries and
+non-Western countries. The ethnic makeup of Western and non-Western countries
+based on the available data are presented in SOM Table
+S3 . In brief, the majority of participants in the
+non-Western group are African, whereas a quarter are Asian; in
+the Western group, the great majority are Caucasian and nearly
+a fifth are African American.

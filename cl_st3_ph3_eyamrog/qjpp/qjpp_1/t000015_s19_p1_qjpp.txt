@@ -1,0 +1,13 @@
+To study the effects of ALS-causing mutations on normal FUS
+function and to model the toxicity of mutant FUS in
+vivo, we introduced two ALS-FUS mutations associated with a rapidly
+progressive, juvenile-onset form of ALS into the mouse Fus locus
+(Fig. 1a,b ; see Methods for details). The mouse FUS
+P517L mutation (Fig. 1a ) is equivalent to the human
+FUS P525L allele . The mouse FUS Δ14 mutation (Fig.
+1b ) is equivalent to the human G466VfsX14 C-terminal FUS
+truncation mutation , which causes skipping of FUS exon 14.
+To enable conditional expression of the FUS Δ14 mutant, we
+generated the wild-type FUS-expressing c14 allele, which can be converted
+to the truncated mutant FUS-producing Δ14 allele via Cre-mediated recombination
+(Fig. 1b ).

@@ -1,0 +1,9 @@
+“F,” “R,” and “C” represent the three variant types—full, reduced,
+and coalesced—and, if present in a cell, indicate that the
+variant type was found in the sample at least once
+for a given auxiliary. The cells with “n/a – no
+tokens” represent cases where a particular tag auxiliary was not
+found in the data. The tags can ’ t ,
+won ’ t , and mustn ’ t are omitted
+from Table 5 because in the datasets where they did
+occur, they always appeared with full variants.

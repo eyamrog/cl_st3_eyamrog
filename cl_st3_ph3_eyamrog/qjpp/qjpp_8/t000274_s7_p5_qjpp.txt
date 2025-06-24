@@ -1,0 +1,10 @@
+Section 2 sets out the decision-making involved in the compilation
+of the WiSP corpus, in the context of concerns about
+preserving anonymity and degrees of access of corpora. In Section
+3 , we consider the ethical challenges and solutions of
+creating the two corpora, with discussion of anonymisation coding and
+archiving the corpus. We then explore the extent to which
+differences between the two versions of the WiSP corpus affect
+findings, using three worked examples ( Section 4 ). Section
+5 underlines the implications arising from the building of the
+WiSP corpus for corpus linguistics centreing on sensitive texts.

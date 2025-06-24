@@ -1,0 +1,22 @@
+Transport-related physical activity (walking, cycling, or walking to and from
+public transport) has been suggested as a strategy for increasing
+daily levels of physical activity ( 24 , 65 ,
+67 ). The benefits of active transportation have been quantified
+in several cities around the world and have shown both
+direct benefits for pedestrians and cyclists and broader indirect benefits
+through improved air quality and reduced traffic noise ( 51
+). The impact of AVs on travel behavior (and their
+corresponding impact on transport-related physical activity) is difficult to predict.
+But recent modeling studies suggest that AVs could increase VMTs
+by between 15% and 59% and reduce the use of
+public and active transportation ( 73 ). In these transportation
+models, private AVs also led to a more dispersed urban
+growth pattern (sprawl), which could increase trip distances, making walking
+and cycling less attractive ( 66 ). However, some studies
+also suggest that SAVs could decrease VMTs (in the range
+of 10–25%) if a large share of the travelers are
+willing to rideshare ( 73 ). SAVs, especially when utilized
+through ridesharing or ridesplitting, are likely to reduce transport-related physical
+activity less than private AVs, as this approach is more
+compatible with being complemented by walking, cycling, or using public
+transportation.

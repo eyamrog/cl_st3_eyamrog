@@ -1,0 +1,23 @@
+EYS wt -only detection could be due to unrepaired paternal
+alleles, undetectably modified paternal alleles ( Adikusuma et al., 2018
+3. Adikusuma, F. ∙ Piltz, S. ∙ Corbett, M.A. ...
+Large deletions induced by Cas9 cleavage Nature. 2018; 560 :E8-E9
+Crossref Scopus (220) PubMed Google Scholar ; Kosicki et al.,
+2018 21. Kosicki, M. ∙ Tomberg, K. ∙ Bradley, A.
+Repair of double-strand breaks induced by CRISPR-Cas9 leads to large
+deletions and complex rearrangements Nat. Biotechnol. 2018; 36 :765-771 Crossref
+Scopus (54) PubMed Google Scholar ), or interhomolog repair, as
+previously suggested ( Ma et al., 2017 26. Ma, H.
+∙ Marti-Gutierrez, N. ∙ Park, S.W. ... Correction of a
+pathogenic gene mutation in human embryos Nature. 2017; 548 :413-419
+Crossref Scopus (1) PubMed Google Scholar ). Adikusuma and colleagues
+captured deletions of several hundred base pairs in 45% of
+mouse embryos by using a PCR assay spanning 1.6 kb
+flanking the Cas9 cut site. Similarly, the PCR assays spanning
+1.5 kb used here ( Figure 1 A) would capture
+deletions of this type; however, the longest deletion found in
+20 embryos on the paternal allele at the Cas9 cut
+site was 8 bp ( Table S1 ). Although this
+does not rule out all deletions, deletions of a few
+hundred base pairs as found in mice do not account
+for the frequent EYS wt genotypes.

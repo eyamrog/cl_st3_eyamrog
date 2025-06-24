@@ -1,0 +1,16 @@
+However, despite successfully mixing in limbs, active and inactive chromatin
+is partitioned at the locus in ESCs. Active Fat1 and
+Zfp42R are now re-organized with their proximal enhancers into separated
+A compartments possessing reduced NE-proximity and lower intermingling with D1+D2
+( Figures 3 B–3E, S4 F, and S4G). Conversely, D1
+and D2 themselves remain as NE-attached B compartments but now
+poorly intermingle together ( Figures 3 B, S4 F, and
+S4I). As a result, collective Zfp42R+D1+D2 or Fat1+D1+D2 sphericity is
+reduced in ESCs, thereby indicating the objects now exist as
+separated structures in a non-spherical elongated state ( Figures 3
+B–3D and S4 H). Critically, this partitioning in compartments further
+intensifies when loop extrusion is eliminated, as exemplified by reduced
+Zfp42R intermingling and combined sphericity with D1+D2 in dRad21 ESCs
+( Figures 3 E and S4 J). Combined, this suggests
+that antagonistic compartmentalization defined by chromatin state overrides loop extrusion
+in ESCs to disassemble the TAD.

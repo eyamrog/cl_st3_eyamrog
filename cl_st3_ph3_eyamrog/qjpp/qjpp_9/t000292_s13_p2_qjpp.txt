@@ -1,0 +1,12 @@
+mp names and other biographical information were also retrieved from
+the pp website, when available, and stored in a relational
+database. There is an Open Data section with biographies of
+mp s, which were downloaded in the xml format; in
+addition, for the first five legislatures, we used csv files
+provided by the Parliament administrative services. This information was used
+for the assignment of utterances – uninterrupted sequences of words
+spoken by a subject – to a specific mp during
+a period in which a generic ‘current speaker’ ( Orador
+) was used (more details below). In addition, for all
+other utterances, a match mp was identified in the database
+to identify the utterance’s speaker unambiguously.

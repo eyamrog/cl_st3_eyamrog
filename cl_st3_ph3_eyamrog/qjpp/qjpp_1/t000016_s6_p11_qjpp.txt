@@ -1,0 +1,13 @@
+We found that a group of AI Gleason grading algorithms
+developed during a global competition generalized well to intercontinental and
+multinational cohorts with pathologist-level performance. On all external validation sets,
+the algorithms achieved high agreement with uropathologists and high sensitivity
+for malignant biopsies. The performance exhibited by this group of
+algorithms adds evidence of the maturity of AI for this
+task and warrants evaluation of AI for prostate cancer diagnosis
+and grading in prospective clinical trials. We foresee a future
+where pathologists can be assisted by algorithms such as these
+in the form of a digital colleague. To stimulate further
+advancement of the field, the full development set of 10,616
+biopsies has been made publicly available for noncommercial research use
+https://panda.grand-challenge.org/ .

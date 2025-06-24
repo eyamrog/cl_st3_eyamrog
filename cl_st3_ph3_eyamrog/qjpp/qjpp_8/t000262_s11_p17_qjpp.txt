@@ -1,0 +1,11 @@
+Our second set of dependent variables refer to health outcomes.
+For self-rated health we use a standard ordinal measure based
+on the question, “Would you say your health is excellent,
+very good, good, fair, or poor?” The smaller Fair and
+Poor categories were aggregated. Self-rated health is a subjective measure
+widely used to approximate overall health status ( Fayers and
+Hays, 2005 ), including in migrant health studies ( Kimbro
+et al., 2012 ; Lubbers and Gijsberts, 2019 ). It
+encompasses different aspects of physical and mental health and is
+closely associated with numerous other health measures ( Jylhä, 2009
+).

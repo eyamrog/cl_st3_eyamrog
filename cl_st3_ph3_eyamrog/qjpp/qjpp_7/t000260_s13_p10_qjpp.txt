@@ -1,0 +1,12 @@
+As noted, a large number of social determinants have been
+identified and explored in the literature as important factors in
+shaping health outcomes. It has further been observed that these
+factors are directly influenced by patterns of social stratification and
+social hierarchy, including class, income status, gender, and race/ethnicity (
+Solar and Irwin 2010 ; Braveman and Gottlieb 2014 ).
+Nonetheless, while there exists a wide range of possible SDH
+that could be incorporated into epidemiological modelling, we have selected
+three of the most commonly discussed with a clear and
+explicit bearing on the infection rate and on the CFR.
+We briefly discuss these SDs, their global variability, and their
+potential impact on the pandemic.

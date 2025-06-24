@@ -1,0 +1,5 @@
+HEK293T cells were maintained in DMEM media (Life Technologies) with
+1% penicillin-streptomycin (Gibco) and 10% heat-inactivated Hyclone fetal bovine serum
+(FBS, GE Healthcare). THP-1 human monocytes were maintained in RPMI
+media (Life Technologies) with 1% penicillin-streptomycin (Gibco) and 10% heat-inactivated
+Hyclone fetal bovine serum (FBS, GE Healthcare).

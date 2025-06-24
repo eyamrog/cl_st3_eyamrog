@@ -1,0 +1,23 @@
+Before the injection of contrast material, we found no histopathological
+or biochemical measures of renal dysfunction in 10-week-old mice overexpressing
+suPAR. After the injection of contrast material, the suPAR-transgenic mice
+had significantly more severe acute kidney injury than the wild-type
+mice. The effect of the administration of contrast material on
+kidney injury in suPAR-transgenic mice was attenuated with a monoclonal
+antibody to uPAR, which suggests that chronically elevated suPAR levels
+sensitized the kidney to acute injury (although suPAR concentrations were
+>50 times as high as median levels in humans) and
+that this sensitizing effect of suPAR could be reversed pharmacologically.
+These conclusions are in line with a recent report showing
+that targeting the urokinase receptor in a rat model of
+diabetic kidney disease resulted in improvement in kidney function. The
+mechanisms of suPAR in kidney dysfunction have focused on its
+source of production and its role in binding and activating
+podocyte αvβ3 integrins. Other reports have suggested that suPAR also
+affects proximal tubules and drives kidney fibrosis in an integrin-dependent
+manner. Although it will be helpful for studies to be
+expanded into other models of acute kidney injury, it is
+plausible that prolonged suPAR exposure affects podocytes and tubular cells
+by means of different mechanisms, a hypothesis in line with
+the different bioenergetic profiles seen in HK-2 cells and podocytes
+in response to suPAR.

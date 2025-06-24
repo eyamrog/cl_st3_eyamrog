@@ -1,0 +1,15 @@
+The top right quadrant is exemplified through a corpus of
+one author's personal letters as this is easy for an
+individual author/analyst to obtain but may be sensitive in subject
+matter ( Leedham, 2020 ). In the lower right quadrant,
+corpora built from a newspaper archive such as Lexis Nexis
+are neither sensitive nor hard-to-access as these texts are in
+the public domain (e.g. the Social Work Press corpus 2019
+[SWP2019], ( Leedham, 2021 ). The lower left quadrant names
+the British Academic Written English (BAWE) corpus ( Nesi and
+Gardner 2018 ) to exemplify the category of texts which
+are occluded (since they are not in the public domain)
+yet not deemed sensitive (personal information such as student name/number,
+tutor name, university was immediately anonymised and original data not
+stored). Finally, the top left shows the area occupied by
+the WiSP corpus: hard-to-access texts which are also sensitive.

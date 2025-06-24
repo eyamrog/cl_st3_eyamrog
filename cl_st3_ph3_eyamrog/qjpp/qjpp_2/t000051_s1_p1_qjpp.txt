@@ -1,0 +1,6 @@
+Background: Social isolation has been associated with increased risk of
+coronary heart disease and stroke. However, it is unclear whether
+the associations differ between fatal and non-fatal events or by
+the type of isolation (living alone or having few social
+contacts). We aimed to examine these associations in two large
+UK prospective cohorts.

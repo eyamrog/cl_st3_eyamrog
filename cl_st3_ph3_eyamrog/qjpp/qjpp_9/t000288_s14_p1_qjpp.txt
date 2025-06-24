@@ -1,0 +1,15 @@
+Ideally, the data for a comparative study of N-is focalizers
+in WEs would come from carefully compiled corpora representing different
+registers of both spoken and written language use in a
+broad range of Englishes. Such corpora are available from the
+International Corpus of English (ICE) project. However, even for thing
+, a moderately frequent shell noun in focalizer constructions, the
+British component of ICE yields fewer than fifty instances; less
+common shell nouns are attested in ICE-GB with a frequency
+of just over ten ( trouble is ) or not
+at all ( word is ). Indeed, even a mega
+corpus such as the Global Web-based English Corpus (GloWbE), at
+1.9 million words, does not provide enough evidence on some
+shell nouns for all varieties under investigation here. Another limiting
+factor of ICE as a source of data for this
+study is that ICE-US is still lacking the spoken component.

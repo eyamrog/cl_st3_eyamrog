@@ -1,0 +1,16 @@
+For chromatin fractionation, 1x10 7 cells were washed with PBS
+and resuspended in 200μL of Buffer A (10mM HEPES (pH
+7.9), 50mM NaCl, 0.5M sucrose, 0.1mM EDTA, 1mM dithiothreitol, 1%
+NP40 and protease inhibitor (Roche)). The cells were incubated on
+ice for 5 min and subsequently nuclei were pelleted by
+centrifugation at 3,000 rpm for 10 min at 4°C. The
+cytoplasmic fraction was removed and the pellet was washed once
+with Buffer A then lysed in 200μL of Buffer B
+(10mM HEPES (pH 7.9), 150mM NaCl, 0.1mM EDTA, 1mM dithiothreitol,
+1% NP40 and protease inhibitor mixture), followed by 10-min incubation
+on ice. Soluble nuclear proteins were separated from chromatin by
+centrifugation (5,000 r.p.m., 5min). The pellet was solubilized using sonication
+in Buffer C (10mM HEPES (pH 7.9), 0.1mM EDTA, 1%
+NP40 and 1mM dithiothreitol, protease inhibitor with either 150mM NaCl,
+300nM NaCl or 600nM NaCl) and the association of different
+proteins to chromatin was analyzed using Western blotting.

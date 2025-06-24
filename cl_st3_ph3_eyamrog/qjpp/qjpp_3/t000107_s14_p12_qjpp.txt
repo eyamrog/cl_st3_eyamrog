@@ -1,0 +1,15 @@
+RVs were produced in 293T cells with MSCV and pCL-Eco
+plasmids using Lipofectamine 3000. RV transduction was performed as described
+( Kurachi et al., 2017 39. Kurachi, M. ∙ Kurachi,
+J. ∙ Chen, Z. ... Optimized retroviral transduction of mouse
+T cells for in vivo assessment of gene function Nat.
+Protoc. 2017; 12 :1980-1998 Crossref Scopus (12) PubMed Google Scholar
+). Briefly, CD8 + T cells were purified from spleens
+of P14 mice using EasySep™ Mouse CD8 + T Cell
+Isolation Kit. After 18-24 hr of in vitro stimulation, P14
+cells were transduced with RV in the presence of polybrene
+(0.5 μg/ml) during spin infection (2,000 g for 60 min
+at 32°C) following incubation at 37°C for 6 hr for
+single RV and sgRNA library, or 12 hr for double
+RV. RV-transduced P14 cells were adoptively transferred into recipient mice
+that were infected 24-48 hr prior to transfer.

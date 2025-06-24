@@ -1,0 +1,10 @@
+Missing landmarks were estimated using standard procedures based on bilateral
+symmetry or thin-plate spline interpolation ( Gunz et al., 2009
+). All landmark data were symmetrized using reflected relabeling (
+Bookstein, 1991 ; Klingenberg and McIntyre, 1998 ; Mardia et
+al., 2000 ; Gunz et al., 2009 ) and then
+converted into shape variables using a generalized Procrustes analysis, removing
+size, position, and orientation from the landmark dataset ( Gower,
+1975 ; Rohlf and Slice, 1990 ; Bookstein, 1991 ;
+Rohlf and Marcus, 1993 ; Adams et al., 2004 ;
+Mitteroecker and Gunz, 2009 ).

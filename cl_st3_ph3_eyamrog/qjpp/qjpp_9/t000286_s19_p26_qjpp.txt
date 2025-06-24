@@ -1,0 +1,4 @@
+In the Twitter corpus, neither need +ED nor need +ING
+occurs with negation between the matrix verb and passive complement.
+By contrast, need +TO is interrupted by not or never
+in fifty tweets.

@@ -1,0 +1,2 @@
+As avoiding shaking hands and avoiding large gatherings were dummy
+variables, a logistic regression was used:

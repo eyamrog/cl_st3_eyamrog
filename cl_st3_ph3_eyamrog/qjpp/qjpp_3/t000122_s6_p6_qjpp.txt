@@ -1,0 +1,19 @@
+The requirement of all three GP protomers to be assembled
+together in their natural oligomeric arrangement strongly indicates that 1C3
+was elicited by GP, and not the abundantly shed sGP.
+The asymmetric binding mode of a single 1C3 to a
+GP trimer is rare and not previously noted among antibodies
+against EBOV or other trimeric GPs. As previously described, FVM04,
+an antibody against EBOV GP, also appears to bind as
+a single antibody to the GP1 head, as visualized on
+low-resolution two-dimensional EM imaging ( Howell et al., 2016 26.
+Howell, K.A. ∙ Qiu, X. ∙ Brannan, J.M. ... Antibody
+Treatment of Ebola and Sudan Virus Infection via a Uniquely
+Exposed Epitope within the Glycoprotein Receptor-Binding Site Cell Rep. 2016;
+15 :1514-1526 Full Text Full Text (PDF) Scopus (75) PubMed
+Google Scholar ). However, the footprint of FVM04 appears contained
+on a single protomer, and FVM04 also cross-reacts with sGP.
+It is the angle of FVM04’s approach to GP that
+sterically inhibits other copies of FVM04 from binding. In contrast,
+1C3 does not bind to sGP. Hence, the single-protomer portion
+of its tripartite footprint is insufficient for recognition.

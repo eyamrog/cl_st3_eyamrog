@@ -1,0 +1,16 @@
+We examined the association between step count volume and intensity
+across the entire spectrum of human disease using commercial activity
+monitors linked to an individual’s EHR. We identified consistent and
+statistically significant associations between activity levels and incident diabetes, hypertension,
+GERD, MDD, obesity and sleep apnea. Taking more steps each
+day was related to lower risk of developing these chronic
+diseases. Higher step counts were associated with protection from obesity
+in a high-risk population (BMI 25–29 kg m ). Step
+count was positively correlated with step intensity, regardless of the
+bout cadence definition. The relation of step counts with disease
+risk persisted for diabetes, GERD, MDD and sleep apnea even
+when adjusting for step intensity. Step intensity was also significantly
+associated with these outcomes. These data provide new, empiric evidence
+of activity levels associated with chronic disease risk and suggest
+that integration of commercial wearables data into the EHR may
+be valuable to support clinical care.

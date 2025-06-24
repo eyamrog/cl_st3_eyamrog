@@ -1,0 +1,12 @@
+Statistical analyses were performed using GraphPad Prism, employing a two-tailed
+unpaired Student’s t test ( Figures 4 J, 5D, 6D,
+S4 J, and S7 E) or chi-square contingency analysis (
+Figures 7 D, 7F, and 7H) when comparing two groups
+or multiple groups distribution, and one-way ANOVA test with Tukey’s
+post hoc analysis when comparing multiple groups ( Figures 3
+B, 3F, 3H, 4 H, 4K, 6 B, 6F, S3
+B, S3H, S4 H, S6 F, and S6H). p values
+represent ∗p ≤ 0.05, ∗∗p ≤ 0.01, ∗∗∗p ≤ 0.001
+and ∗∗∗∗p ≤ 0.0001. All data are presented as the
+mean ± SEM, whisker plots or dot plots. All sample
+sizes and definitions are provided in the figure legends.

@@ -1,0 +1,13 @@
+THP-1 human monocytes or mature primary human peripheral blood derived
+macrophages were transfected with control (D-001810-10-05, Dharmacon) or SP140 (L-016508-00-0005,
+Dharmacon) SMARTpool siRNA (100nM) using HiPerfect reagent (Qiagen) or RNAiMAX
+(Invitrogen) for 48 hours followed by 4 hour LPS treatment
+(0.1mg/mL). HEK293T cells were used for knockdown experiments with 100nM
+of Topoisomerase 1 siRNA (siGENOME SMARTpool Human TOP1, M-005278-00-0005, Dharmacon),
+Topoisomerase 2a siRNA (siGENOME SMARTpool Human TOP2A, M-004239-02-005, Dharmacon), DNA-PK
+siRNA (siGENOME SMARTpool Human PRKDC, M-005030-01-0005, Dharmacon) and Control (siGENOME
+Non-Targeting siRNA Pool #1, D-001206-13-05). For double knockdown experiments, primary
+human peripheral blood derived macrophages were incubated with additional siRNAs:
+HOXA9 (Human HOXA9 siRNA, L-006337-00-005, Dharmacon) DDX27 (Human DDX27, L-013635-01-0005,
+Dharmacon), DHX30 (Human DHX30, L-017196-01-0005) and NOP56 (Human NOP56, L-019143-01-005,
+Dharmacon).

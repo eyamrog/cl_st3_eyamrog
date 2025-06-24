@@ -1,0 +1,21 @@
+To determine the minimal G3BP domain for opto-SG LLPS, we
+examined ΔNTF2 Corelets with additional regions deleted. Consistent with a
+lack of SG partitioning ( Figure 1 I), G3BP’s central
+IDRs do not self-interact, as IDR1, IDR2, and IDR1/2 Corelets
+never cause LLPS (+/− As) ( Figures S4 H–S4K). In
+contrast, both G3BP RBD (RRM and RGG) and IDR2-RBD Corelets
+form polyA+ opto-SGs containing all tested SG proteins ( Figures
+4 I, 4J, S4 B, and S4C). Underscoring its utility
+as a biotechnology, G3BP Corelets replicate several phenotypes of corresponding
+GFP-tagged deletions. First, ΔNTF2/ΔIDR2 (synthetic GFP-G3BPΔIDR2) fails to form granules
+(+/− As) ( Figure 4 I). Second, similar to GFP-ΔIDR1,
+ΔNTF2/ΔIDR1 forms irregular granules ( Figures 4 I and S4
+C). Third, RBD-only Corelets feature a right shifted phase threshold
+relative to ΔNTF2 ( Figure 4 I). Finally, all such
+condensates are reversible, form multiphase structures with PBs, and similarly
+recruit SG proteins and polyA+ RNA ( Figures 4 J,
+S4 B, and S4C). Thus, Corelets recapitulate nearly all features
+of GFP-based rescue experiments (see also Figures S4 J and
+S4K) and represent a powerful synthetic approach for assessing the
+relationship between RBD valence, RBD identity, and SG/PB composition and
+coexistence.

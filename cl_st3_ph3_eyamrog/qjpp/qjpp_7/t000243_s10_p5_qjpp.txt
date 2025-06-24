@@ -1,0 +1,17 @@
+When working on issues of sustainability and pro-environmental behavior, social
+psychology often focuses on discrete behaviors, and attempts to predict
+and change them by capturing the antecedents of those behaviors
+(e.g., Osbaldston & Schott, 2012 ; Steg, Bolderdijk, Keizer, &
+Perlavicuite, 2014 ). This atomistic approach is valuable for closely
+and carefully isolating causes of behaviors, but is limited in
+producing scalable interventions that produce durable and generalizable behavior change.
+Part of the reason for this limitation is social psychology's
+inattention to the broader systems within which behaviors happen. Systems
+approaches are available to social psychology, though. Perhaps the most
+notable—paradoxically developed by one of the founders of modern social
+psychology—is the social ecological systems framework developed by Kurt Lewin
+( 1947a, 1947b ). Lewin's framework reminds us that any
+behavior is produced by a set of systemic forces, and
+allows us to identify systemic pressures and tensions that often
+counter efforts to change individual behaviors (Hobman & Walker, 2015
+).

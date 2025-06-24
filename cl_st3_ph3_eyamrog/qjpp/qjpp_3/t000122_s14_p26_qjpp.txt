@@ -1,0 +1,18 @@
+Prior to experimentation, animals were given at least one week
+to acclimatize to the UTMB ABSL-4 facility. Five- to seven-week-old
+STAT1 KO female mice (Taconic Biosciences) were placed in the
+UTMB ABSL-4 facility. Groups of 5 animals were injected intraperitoneally
+(IP) with 1,000 PFU of the EBOV/BDBV-GP chimeric virus (
+Ilinykh et al., 2018 27. Ilinykh, P.A. ∙ Graber, J.
+∙ Kuzmina, N.A. ... Ebolavirus Chimerization for the Development of
+a Mouse Model for Screening of Bundibugyo-Specific Antibodies J. Infect.
+Dis. 2018; 218 :S418-S422 PubMed Google Scholar ) in 100
+μL of PBS. Twenty-four h later, animals were injected with
+mAbs by the IP route using 0.5 mg in 100
+μL of PBS per animal. Animals treated with 100 μL
+PBS served as controls. Animal observation procedure was performed as
+described ( Ilinykh et al., 2018 27. Ilinykh, P.A. ∙
+Graber, J. ∙ Kuzmina, N.A. ... Ebolavirus Chimerization for the
+Development of a Mouse Model for Screening of Bundibugyo-Specific Antibodies
+J. Infect. Dis. 2018; 218 :S418-S422 PubMed Google Scholar ).
+The overall observation period lasted for 28 days.

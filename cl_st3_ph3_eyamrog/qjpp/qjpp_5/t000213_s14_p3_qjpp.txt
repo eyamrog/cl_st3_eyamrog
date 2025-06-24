@@ -1,0 +1,14 @@
+The carbon and nitrogen isotope ratios in collagen were measured
+using a Delta XP continuous-flow isotope ratio mass spectrometer after
+being combusted in an elemental analyzer Flash EA 2112 that
+was interfaced with it (Thermo-Finnigan©, Bremen, Germany) at the Department
+of Human Evolution of the Max-Planck Institute for Evolutionary Anthropology
+(Leipzig, Germany). All samples were measured in duplicates, except faunal
+samples S-EVA 24482 to 24489, from which only one analytical
+run was carried out. Stable carbon isotope ratios were expressed
+relative to the VPDB scale (Vienna PeeDee Belemnite) and stable
+nitrogen isotope ratios were measured relative to the AIR scale
+(atmospheric N 2 ), using the delta notation (δ) in
+parts per thousand (‰). Repeated analysis of internal and international
+standards determined an analytical error better than 0.1‰ (1σ) for
+δ 13 C and δ 15 N.

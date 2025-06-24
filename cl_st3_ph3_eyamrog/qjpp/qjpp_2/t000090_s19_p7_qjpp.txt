@@ -1,0 +1,21 @@
+An argument for the adaptive value of prions is their
+ability to switch in response to environmental stimuli ( Lancaster
+and Masel, 2009 55. Lancaster, A.K. ∙ Masel, J. The
+evolution of reversible switches in the presence of irreversible mimics
+Evolution. 2009; 63 :2350-2362 Crossref Scopus (19) PubMed Google Scholar
+). However, aside from indirect stress-dependent changes in chaperone activity
+( Tyedmers et al., 2008 97. Tyedmers, J. ∙ Madariaga,
+M.L. ∙ Lindquist, S. Prion switching in response to environmental
+stress PLoS Biol. 2008; 6 :e294 Crossref Scopus (193) PubMed
+Google Scholar ), the molecular mechanisms regulating switching remain largely
+unclear. Like many prion proteins, Snt1 harbors extensive predicted, intrinsically
+disordered regions in addition to its eponymous well-folded Swi3, Ada2,
+N-Cor, and TFIIIB (SANT) domains and a domain of unknown
+function ( Figure 2 A). Phosphorylation of disordered proteins can
+induce large conformational shifts ( Bah et al., 2015 4.
+Bah, A. ∙ Vernon, R.M. ∙ Siddiqui, Z. ... Folding
+of an intrinsically disordered protein by phosphorylation as a regulatory
+switch Nature. 2015; 519 :106-109 Crossref Scopus (254) PubMed Google
+Scholar ), and Snt1 harbors numerous phosphorylation sites within its
+putative disordered regions ( Figure 2 A), leading us to
+investigate whether phosphorylation could influence [ ESI + ].

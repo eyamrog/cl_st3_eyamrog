@@ -1,0 +1,17 @@
+Although risk perception is an individual characteristic and the resulting
+behavioral changes occur on the individual level, homophily regarding risk
+perception exerts effects beyond that. Homophily indicates the extent to
+which it is more likely for a social tie to
+exist between similar people than between dissimilar people. Causes for
+homophily can be either the demographic structure of a group
+( baseline homophily) or explicit preferences for similarity ( inbreeding
+homophily; McPherson et al., 2001 ). Independent of what causes
+homophily to emerge, risk perceptions and health behavior often correlate
+with other properties facilitating homophily, such as age, gender, ethnicity,
+educational level, or marital status ( Bish and Michie, 2010
+). McPherson et al. (2001) argue that as a result
+of homophily transmission processes tend to be socially localized. Kitchovitch
+and Lì (2010) , for example, showed that higher levels
+of risk avoidance in scale-free networks limits the disease to
+the area around highly connected nodes, while nodes with lower
+contact numbers remain unaffected.

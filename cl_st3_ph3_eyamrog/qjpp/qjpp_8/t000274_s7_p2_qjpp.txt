@@ -1,0 +1,21 @@
+Sensitivity of topic and inaccessibility go together as, by their
+nature, texts concerning sensitive subjects and giving information on specific
+individuals are not available in the public domain. Within corpus
+linguistic research in general, and corpus-assisted discourse studies in particular,
+due to the quest for ever-larger datasets and the ease
+with which internet-trawling can provide bespoke corpora, less accessible texts
+have been little-studied ( Lischinsky 2018 ; Marchi and Taylor
+2018 ; Taylor and Marchi 2018 ). Conventionally-accepted principles of
+corpus building rest on the foundational quest for representativeness across
+the whole population of texts under investigation, and assume researcher
+access to a large number of texts fitting a previously-generated
+sampling frame, with limitations placed on wordcounts and numbers of
+texts within particular domains, genres and by individuals (e.g. Sinclair
+2005 ; Koester 2010 ; McEnery and Hardie 2012 ).
+However, in cases where paucity of available data or extreme
+sensitivity severely limit access to texts, what are the options
+available to the researcher? In this paper, we use the
+compilation of the WiSP corpus as our framing for examining
+these principles and explore the ethical considerations and ultimately the
+solutions we came to in order to make the corpus
+more widely available.

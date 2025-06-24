@@ -1,0 +1,18 @@
+The last outcome refers to the research question of whether
+a sociodemographic matching between respondents and interviewers influences the probability
+that a third person is interfering with the interview, which
+could affect the answers given by the respondent. A multilevel
+logistic regression is estimated. Results can be found in Table
+6 (p. 15) and Figure 3 . The predictions reveal
+that gender matching is beneficial for both men and women
+but only women have statistically significant effects. If they are
+matched with a female interviewer, the probability that another adult
+is being present at the interview reduces by about one
+percentage point. The effects are slightly weaker when the interviewer
+is younger than the respondent. Summarized, gender matching is beneficial
+for this aspect of the survey setting. Regarding the ICC,
+the outcomes are similar to the reluctance models. The only
+major difference is that the correlation is much lower at
+the country level, indicating that there are smaller differences between
+countries when it comes to the interference of a third
+person at the interview.

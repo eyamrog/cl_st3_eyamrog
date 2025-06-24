@@ -1,0 +1,7 @@
+Imaris was used to create supporting online movies or 3D
+reconstructions from the recorded image stacks. The Volumes of the
+chromocenters and its replication labeled chromatin domains were carried out
+by using 3D stacks of and fitting volumes of these
+structures with the “Surfaces” tool. The respective surfaces were then
+exported in the VRML2 (.wrl) format for further processing in
+Blender.

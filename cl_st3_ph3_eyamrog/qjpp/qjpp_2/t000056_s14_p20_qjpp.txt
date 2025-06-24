@@ -1,0 +1,9 @@
+A statistical analysis plan was finalised before the unblinding of
+data for analysis ( appendix pp 2–9 ). There were
+no interim analyses. In a post-hoc analysis, we excluded participants
+who had been vaccinated from the outcome analyses, to assess
+whether their inclusion biased the results. For all analyses, participants
+were analysed in the groups they were allocated. Results were
+conducted in R (version 4.0.0) and then validated by a
+second statistician (L-MY) in Stata SE (version 16.1). This trial
+was prospectively registered with ISRCTN, ISRCTN37254291.

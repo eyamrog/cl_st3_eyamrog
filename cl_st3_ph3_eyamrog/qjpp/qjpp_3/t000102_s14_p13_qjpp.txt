@@ -1,0 +1,19 @@
+Recombinant H4E63C was obtained from the CSU Protein Expression and
+Purification facility. Fluorophore labeling of histone H4 E63C was performed
+by adding an equimolar concentration of Alexa 488 C5 maleimide
+(Invitrogen) to histone in unfolding buffer in the presence of
+0.7mM TCEP instead of DTT. Histone was then placed on
+a rotator and incubated in the dark overnight at 4°C.
+The fluorescently tagged H4 was then combined with suspended histones
+H2A, H2B, and H3 C110A in unfolding buffer, dialyzed against
+2M NaCl refolding buffer, and the labeled octamers purified using
+size exclusion chromatography as described above. Histone H3 C110A was
+used to prevent potential labeling of H3 with the Alexa
+488 fluorophore during the procedure (Gibson et al., 2019a). Histones
+H4 E63C in combination with H3 C110A are commonly used
+for labeling of the histone octamer. H3 C110A does not
+affect nucleosome structure or positioning ( Shimko et al., 2013
+54. Shimko, J.C. ∙ Howard, C.J. ∙ Poirier, M.G. ...
+Preparing semisynthetic and fully synthetic histones h3 and h4 to
+modify the nucleosome core Methods Mol. Biol. 2013; 981 :177-192
+Crossref Scopus (19) PubMed Google Scholar ).

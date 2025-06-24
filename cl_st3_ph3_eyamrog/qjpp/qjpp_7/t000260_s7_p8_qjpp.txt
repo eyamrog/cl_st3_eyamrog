@@ -1,0 +1,19 @@
+Our choice of SDs draws upon key factors that have
+been highlighted in the SDH literature ( Rolfe et al.,
+2020 ; Braveman and Gottlieb 2014 ; Solar and Irwin
+2010 ) but should be understood as merely illustrative of
+our broader argument. We recognise that a different range of
+SDs could be utilised, and also that social determinants of
+health are significantly co-constituted and mutually-reinforce one another (see the
+discussion of Solar and Irwin 2010 , pp. 20–42). As
+our focus is on the social aspects that can be
+included in a mathematical epidemiological model, our starting point is
+the simplest possible model where we can add the social
+variables. We should note however, that the same intuition can
+hold even if complexity is added through the inclusion of
+more compartments, age cohorts and/or stochastic dynamics. Our contribution is
+twofold. By directly relating compartmental transition rates to quantifiable SDs,
+we are able to improve the estimations of contagion dynamics
+of COVID-19. Second, we provide the basic structure of a
+framework that can be used to analyse the effects of
+SDs on epidemiological modelling for other infectious diseases.

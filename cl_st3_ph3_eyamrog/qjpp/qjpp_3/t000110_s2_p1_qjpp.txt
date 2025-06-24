@@ -1,0 +1,8 @@
+We gratefully acknowledge the authors from the originating laboratories and
+the submitting laboratories where genetic sequence data were generated and
+shared via GISAID, enabling this research. This work was supported
+by the General Program of National Natural Science Foundation of
+China (82073621), the Bill and Melinda Gates Foundation (INV-006379), the
+National Science and Technology Major Projects of Drug Discovery (2018ZX09101001),
+and the National Science and Technology Major Projects of Infectious
+Disease (2017ZX10304402).

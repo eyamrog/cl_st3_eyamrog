@@ -1,0 +1,8 @@
+At least 1 × 10 4 Cas9 + sgRNA +
+T cell pellets were frozen down. Genomic DNA was isolated
+from these samples using QIAmp DNA Mini Kit. A TIDE
+PCR, using 2x Phusion Flash High-Fidelity PCR Master Mix and
+primers designed around the genome region of the sgRNA target
+part was run for each sample to extract the guide
+region from the genome DNA; the resulting products were then
+gel verified, PCR purified, and sent for Sanger sequencing.

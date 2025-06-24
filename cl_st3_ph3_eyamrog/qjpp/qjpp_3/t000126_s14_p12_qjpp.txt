@@ -1,0 +1,6 @@
+Patient information: CD/HC Sex Genotype at rs28445040 Label Age HC
+F C/C SP140 wt 35 HC M C/C SP140 wt
+65 HC M C/C SP140 wt 70 CD F T/T
+SP140 mut 23 CD M T/T SP140 mut 35 CD
+M T/T SP140 mut 37 Open table in a new
+tab

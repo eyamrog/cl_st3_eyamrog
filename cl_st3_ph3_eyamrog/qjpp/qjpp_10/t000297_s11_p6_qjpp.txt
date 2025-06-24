@@ -1,0 +1,21 @@
+Apart from these changes in research perspectives, Hong Kong lcr
+has also undergone transitions in the scope of research, moving
+away from individual linguistic markers to more comprehensive sets of
+linguistic parameters such as meta-discourse markers, lexical diversity and syntactic
+complexity. These holistic approaches offered greater insights into learner language
+output. For example, Yan (2019) cross-compared spoken and written native
+English with spoken and written Hong Kong English, revealing a
+clear distinction between spoken and written English by native speakers
+but a less discernible one by Hong Kong learners. The
+indicators used in the study included a range of holistic
+measures such as vocabulary size, mean word length, lexical density
+and lexical coverage. Taking meta-discourse markers as indicators, El-Dakhs (2020)
+demonstrated that Hong Kong students overused hedges compared to native
+speakers, but underused attitude markers, self-mention markers and interactional markers.
+With the advancement of corpus software and tools, the use
+of such parameters has become more popular with lcr researchers.
+Lee et al . (2021) recently discovered that examination grades
+in writing by secondary-school students are more strongly correlated with
+lexical and syntactic complexity. This innovative study took lcr to
+the next level by exploring writing quality using linguistic complexity
+metrics.

@@ -1,0 +1,10 @@
+The results of the PCAs are provided in SOM Table
+S8 , listing those PCs that account for at least
+5% of the total variance. The distribution of how much
+each PC contributes shows two distinct patterns. When comparing genera,
+the first principal component (PC1) accounts for almost two-thirds of
+all variance (63%), and only PC2 and PC3 contribute 5%
+or more. In contrast, for interspecific and intraspecific comparisons, PC1
+contributes less than a third, and a further three or
+four PCs contribute 5% or more. For each comparison, we
+will only discuss those PCs where groups are visibly separated.

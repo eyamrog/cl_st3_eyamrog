@@ -1,0 +1,20 @@
+Nano glue and Nano break cloned into pCAGIG (Control) plasmids
+were electroporated at E13.5. After 3 days, embryonic brains were
+collected, fixed in 4% PFA overnight and vibratome cut into
+75μm sections. Single cell morphology was reconstructed and analyzed using
+ImageJ (version 1.53) as described previously ( Namba et al.,
+2014 76. Namba, T. ∙ Kibe, Y. ∙ Funahashi, Y.
+... Pioneering Axons Regulate Neuronal Polarization in the Developing Cerebral
+Cortex Neuron. 2014; 81 :814-829 Full Text Full Text (PDF)
+Scopus (0) PubMed Google Scholar ; del Toro et al.,
+2017 111. del Toro, D. ∙ Ruff, T. ∙ Cederfjäll,
+E. ... Regulation of Cerebral Cortex Folding by Controlling Neuronal
+Migration via FLRT Adhesion Molecules Cell. 2017; 169 :621-635.e16 Full
+Text Full Text (PDF) Scopus (86) PubMed Google Scholar ).
+For single cell morphology analysis in the lateral cortex was
+used after maximum projection of a z stack representing 50-60um
+(one image per 5um). Single cell morphology from GFP-expressing neurons
+was reconstructed and analyzed using ImageJ (version 1.49). 15–20 neurons
+per cortical layer (upper CP, lower CP and IZ) were
+quantified per section (2-3 sections per brain and three independent
+brains per condition).

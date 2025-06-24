@@ -1,0 +1,8 @@
+While the latter special case follows the assumption of the
+recent models for COVID-19 (for example see Prem et al.,
+2020 or Kucharski et al., 2020 ), it is known
+that immunity may last for only a short period (
+Iwasaki, 2020 ). Furthermore, while our motivation is the current
+pandemic, our contribution aims to be more general. For these
+two reasons we use a more general form of the
+standard SIRD model.

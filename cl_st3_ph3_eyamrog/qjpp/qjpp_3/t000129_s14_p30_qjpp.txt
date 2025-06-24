@@ -1,0 +1,12 @@
+Fixation: Disassociated ESCs and limb cells were transferred to a
+50-ml falcon tube and complemented with 10% FCS/PBS. 37% formaldehyde
+was added to a final concentration of 2% and cells
+were fixed for 10 min at room temperature. Crosslinking was
+quenched by adding glycine (final concentration; 125 mM). Fixed cells
+were washed twice with cold PBS and lysed using fresh
+lysis buffer (10 mM Tris, pH 7.5, 10 mM NaCl,
+5 mM MgCl2, 0.1 mM EGTA with protease inhibitor) to
+isolate nuclei. Cell lysis was assessed microscopically after 10-min incubation
+in ice. Nuclei were centrifuged for 5 min at 480g,
+washed once with PBS and snap frozen in liquid N
+2 .

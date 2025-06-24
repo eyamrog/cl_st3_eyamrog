@@ -1,0 +1,20 @@
+We took advantage of prior observations that prolonged G2/M cell
+cycle arrest via nocodazole induces Snt1 phosphorylation by Cdc28 (CDK1
+in humans) ( Holt et al., 2009 40. Holt, L.J.
+∙ Tuch, B.B. ∙ Villén, J. ... Global analysis of
+Cdk1 substrate phosphorylation sites provides insights into evolution Science. 2009;
+325 :1682-1686 Crossref Scopus (560) PubMed Google Scholar ). We
+confirmed this finding by phospho-protein-impeding gel electrophoresis (“phostag”) and immunoblot
+( Figure 2 B). After releasing nocodazole-treated cells and passaging
+them for another ~100 generations in the absence of drug,
+we noted frequent emergence of stable zinc resistance ( Figure
+2 C). No such behavior occurred in untreated controls. To
+estimate the frequency of induction, we repeated this experiment, introducing
+single-cell bottlenecks by plating to individual colonies. The majority of
+these colonies (> 50%) acquired stable zinc resistance ( Figure
+S2 A). To rule out general effects of cell cycle
+perturbation, we arrested naive cells in S-phase with hydroxyurea. This
+treatment affected neither Snt1 phosphorylation nor zinc resistance ( Figures
+2 B and 2C). Thus, phosphorylation of Snt1 driven by
+prolonged G2/M arrest is linked to the emergence of a
+stable zinc resistance phenotype.

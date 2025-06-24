@@ -1,0 +1,11 @@
+Our results, summarized in Figure 6 , serve as a
+cautionary note for the use of induced DSBs in editing
+the genome for clinical use. Chromosomal material might be lost
+because of on-target and off-target activity of Cas9 and result
+in aneuploidy and developmental abnormalities. Upon further investigation, alternatives that
+do not require a DSB for mutation correction ( Anzalone
+et al., 2019 5. Anzalone, A.V. ∙ Randolph, P.B. ∙
+Davis, J.R. ... Search-and-replace genome editing without double-strand breaks or
+donor DNA Nature. 2019; 576 :149-157 Crossref Scopus (2396) PubMed
+Google Scholar ), such as base or prime editing, might
+be preferable to precisely correct mutations in the germline.

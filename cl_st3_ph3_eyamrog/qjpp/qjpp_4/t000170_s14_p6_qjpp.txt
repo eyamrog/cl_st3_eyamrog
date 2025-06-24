@@ -1,0 +1,21 @@
+Descriptive statistics of the pre- and post-Black Death samples were
+calculated for tibial and femoral lengths for both sexes. A
+one-way ANOVA analysis was performed to determine if differences in
+long bone lengths by estimated sex were significant across time
+periods. For each time period and long bone, SSD was
+evaluated using the Chakraborty and Majumder ( 1982 ) D
+index (based on the work of Bennett, 1981 ), which
+represents the area of non-overlap between the male and female
+distributions of a metric trait. Values of the D index
+range from 0, which reflects complete overlap of the distribution
+and therefore no sexual difference, to 1, reflecting two distinct
+distributions and complete sexual difference in the phenotypic trait. Rather
+than just a comparison of the central tendencies, like a
+ratio, the D index allows for direct comparison between population
+distributions (Guatelli-Steinberg et al., 2008 ). Further, the D index
+has been evaluated as a good univariate measure, and is
+sensitive to changes in both intersexual variances and mean differences
+(Marini et al., 1999 ). Additionally, tests of normality for
+each sample were conducted using the Shapiro test. All statistics
+were performed in R 3.6.0. p -Values of .1 are
+considered here to indicate trends worthy of consideration.

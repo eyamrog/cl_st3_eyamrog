@@ -1,0 +1,14 @@
+Primers targeting the L gene of SUDV were used for
+RT-qPCR with the following probe: FAM-5 = CAT CCA ATC
+AAA GAC ATT GCG A 3 = -TAMRA; (Life Technologies).Viral
+RNA was detected using the CFX96 detection system (Bio-Rad Laboratories)
+in one-step probe RT-qPCR kits (QIAGEN) with the following cycle
+conditions: 50°C for 10 min, 95°C for 10 s, and
+40 cycles of 95°C for 10 s and 59°C for
+30 s. Threshold cycle (CT) values representing viral genomes were
+analyzed with CFX Manager software, and the data are shown
+as genome equivalents (GEq) per milliliter. To create the GEq
+standard, RNA from SUDV stocks was extracted, and the number
+of SUDV L genomes was calculated using Avogadro’s number and
+the molecular weight of the SUDV genome. Limit of detection
+was 1 × 10 3 GEq/mL.

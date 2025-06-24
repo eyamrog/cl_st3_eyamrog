@@ -1,0 +1,23 @@
+The degree of overlap by vowel across coda contexts is
+visualized via density estimate plots in Figure 4 . The
+upper left panel shows the vowel distributions in pre-/ɡ/ context
+( bag , beg , bagel) . There is substantial
+overlap in the distributions of bag and beg , which
+both also slightly encroach into the region of bagel ’s
+distribution such that some portion of the productions of all
+three vowels do overlap in a single, albeit quite small
+region of the vowel space. The pre-/ŋ/ context, in the
+upper right panel, shows a similar if not greater degree
+of overlap between distributions of bang and length ; however,
+the low token quantities for the latter, as discussed before,
+mean that this must be treated with caution. The lower
+left panel shows the pre-/k/ context ( back , beck
+, bake ). The distributions of back and beck overlap
+slightly, but bake ’s distribution is entirely separate. In the
+lower right, distributions before other codas appear to be medial
+between the pre-/ɡ/ and pre-/k/ contexts, with all three vowels
+occurring in closer proximity, and with slightly more overlap between
+bat - bet relative to back - beck , but
+certainly less so than for bag - beg . Open
+in Viewer Figure 4 . Vowel Formant Density Distributions Within
+Coda Contexts

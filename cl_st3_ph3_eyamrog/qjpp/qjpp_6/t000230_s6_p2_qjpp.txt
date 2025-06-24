@@ -1,0 +1,25 @@
+Comparing education outcomes across contexts also presents a number of
+challenges, which was discussed in terms of making sense of
+racial distributions of public-school students in some U.S. cities. And
+often, data precision must be compromised in order to allow
+for comparability. Additionally, all comparative research must account for context—that
+is, what are the larger external forces driving any differences
+that are observed? For example, when comparing student postsecondary transition
+in Ontario to students elsewhere, we absolutely must account for
+processes of “tracking” or “streaming.” In Ontario, students must pick
+a majority “applied” or “academic” set of courses in grade
+8, which ostensibly determine if they will be eligible for
+university applications when they graduate. 16 In contrast, streaming is
+not practiced (officially or unofficially) in the Chicago public school
+systems, with the “de-tracking” reforms initiated in 1997 ( Nomi
+and Allensworth 2014 ). This has important implications for interpreting
+where jurisdictional differences in postsecondary uptake are found. For example,
+research in Toronto has found that students with special education
+needs were disproportionately put into “applied” courses, which made it
+impossible to be eligible for university ( Robson et al.
+2014 ). Thus, while students with special education needs might
+be accounted for in all data sets being considered, understanding
+why this characteristic was so strongly associated with college attendance
+and so negatively associated with university attendance in Toronto (compared
+to other cities) required the interpretation of these larger structural
+processes at play.

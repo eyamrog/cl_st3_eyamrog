@@ -1,0 +1,4 @@
+3D volume renderings of the replication labeled chromatin domains that
+were exposed to different osmotic environments the “Surface” tool were
+generated in Imaris using the “Surfaces” tool from the 3D
+microscopic data.

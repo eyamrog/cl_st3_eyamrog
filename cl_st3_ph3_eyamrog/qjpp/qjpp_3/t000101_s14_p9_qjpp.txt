@@ -1,0 +1,14 @@
+Manipulation dishes consisted of a droplet with 10%PVP, a 10-20
+μL droplet with RNP in injection buffer, and a droplet
+of Global Total w. HEPES. Sperm was mixed with 10%PVP,
+and individual motile sperm was immobilized by pressing the sperm
+tail with the ICSI micropipette, picked up and ejected in
+the Cas9 RNP droplet and picked up again for injection.
+ICSI without immersion in the Cas9 RNP droplet was also
+performed. After all manipulations, cells were cultures in Global total
+in an incubator at 37°C and 5% CO2. Pronucleus formation
+was confirmed on day 1 after ICSI. 2-cell injections were
+performed at least 3 h after cleavage, between 30-35 h
+post ICSI. Earlier injection resulted in lysis. The tip of
+an injection needle was nicked and small amounts of the
+Cas9RNP was injected manually using a Narishige micromanipulator.

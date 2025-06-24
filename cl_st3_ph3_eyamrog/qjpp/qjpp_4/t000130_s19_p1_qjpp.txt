@@ -1,0 +1,17 @@
+We solved crystal structures of GPC3 residues 32–483 (hGPC3 core
+) and murine GPC3 residues 31–482 (mGPC3 core ). Human
+and murine GPC3 sequences are 94% identical and the two
+structures are similar (Cα root-mean-square deviation, RMSD Cα = 0.54
+Å for 353 aligned atoms; Figures 1 B and S1
+A). Compared to previously solved structures of fly DLP and
+human GPC1, GPC3 has a more curved shape ( Figure
+1 C). Superposition of hGPC1 ( Awad et al., 2015
+5. Awad, W. ∙ Adamczyk, B. ∙ Örnros, J. ...
+Structural aspects of N-glycosylations and the C-terminal region in human
+glypican-1 J. Biol. Chem. 2015; 290 :22991-23008 Full Text Full
+Text (PDF) Scopus (17) PubMed Google Scholar ) and hGPC3
+core results in an RMSD Cα = 8.87 Å (for
+358 aligned atoms). We modeled glycans on two predicted N-glycosylation
+sites (N124 and N241 in hGPC3, Figure 1 B, N123
+and N240 in mGPC3) into evident electron density ( Figure
+S1 B). Crystallographic details are summarized in Table S1 .

@@ -1,0 +1,7 @@
+The second stage of analysis examines durational differences. Studies such
+as Wade (2017) demonstrate that durational differences can play a
+critical role in distinguishing vowels which are otherwise merged acoustically.
+Vowel duration differences were compared under LMERMs following the same
+procedures discussed for static formants. These are accompanied by visualizations
+of duration as boxplots, a standard statistical tool for representing
+a single continuous variable.

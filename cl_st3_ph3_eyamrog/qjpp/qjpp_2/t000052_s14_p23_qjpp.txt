@@ -1,0 +1,3 @@
+A data safety monitoring board was not required for this
+health systems trial which did not have any anticipated safety
+issues. The trial was registered with ClinicalTrials.gov , NCT02810678 .

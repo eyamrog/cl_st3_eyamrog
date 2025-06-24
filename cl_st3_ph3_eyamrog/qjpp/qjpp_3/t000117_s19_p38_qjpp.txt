@@ -1,0 +1,11 @@
+The observed enhancement of dopamine release was unlikely secondary to
+an increase in licking, because activating aIC Fezf2 → NTS
+did not affect licking in no-go trials, but still enhanced
+dopamine release ( Figure 7 H and 7I). Furthermore, we
+selected “no-laser” and “laser” go trials with similar anticipatory licking
+rates ( Figure 7 J; STAR Methods ). Analysis on
+such licking rate-matched go trials still showed that aIC Fezf2
+→ NTS activation was accompanied by an increase in dopamine
+release ( Figures 7 K and 7L). In the GFP
+control mice, shining light in the NTS had no effect
+( Figures 7 M and 7N).

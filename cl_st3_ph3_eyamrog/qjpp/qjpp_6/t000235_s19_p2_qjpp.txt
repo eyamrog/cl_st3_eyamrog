@@ -1,0 +1,20 @@
+For the second outcome of interest, the reluctance to answer
+a question, linear multilevel models are specified. The models are
+built exactly as for the first outcome. The results are
+depicted in Table 5 and Figure 2 . Clearly, neither
+for women nor for men is there any statistically significant
+effect. While some coefficients are statistically significant in the main
+model, these effects disappear after control variables are introduced. Consequently,
+we conclude that there is no effect of matching on
+the reluctance to answer questions as perceived by the interviewers.
+Regarding the partition of variance, it becomes clear that indeed
+a larger correlation is present at the interviewer level (.35).
+This is due to mostly two factors: First, interviewers differ
+in their abilities and experience, so some interviewers might be
+more talented to acquire responses, which causes this correlation. The
+second aspect is that interviewers are often assigned due to
+their geographical availability and the households they visit are often
+similar to each other on average. This can also explain
+the correlation since similar households might behave similarly. The ICC
+regarding the countries is smaller (.12); here, we would expect
+differences due to cultural and economic differences between countries.

@@ -1,0 +1,16 @@
+When a rodent alternates runs down a linear track, hippocampal
+place cells often form directional fields, such that place activity
+in one direction of travel is largely uncorrelated from the
+other ( Gothard et al., 1996 24. Gothard, K.M. ∙
+Skaggs, W.E. ∙ McNaughton, B.L. Dynamics of mismatch correction in
+the hippocampal ensemble code for space: interaction between path integration
+and environmental cues J. Neurosci. 1996; 16 :8027-8040 Crossref PubMed
+Google Scholar ). We tested whether value place fields had
+similar directional properties by designing a double lemniscate trajectory through
+value space ( Figure 4 A). Subjects made passes through
+the center of the space from four distal points. This
+resulted in two passes traversing the central point from the
+same direction and two passes traversing the central point in
+opposite directions. Subjects performed the task well, choosing the highest
+value picture most of the time (mean ± SEM optimal
+choices, V: 68% ± 1%; T: 63% ± 1%)

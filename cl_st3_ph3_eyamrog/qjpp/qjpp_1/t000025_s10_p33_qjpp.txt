@@ -1,0 +1,15 @@
+Although an understanding of the SECPC is a key principle
+in IS ( 96 ), “theories, models and frameworks used
+in implementation science” ( 90 ) had not directly taken
+on health equity. More recently, IS has embraced the call
+to advance health equity. Several authors provide guidance for centering
+health equity in IS ( 8 , 14 , 22
+, 39 , 80 , 111 , 112 ). Some
+of these authors recognize that achieving health equity goals will
+require IS researchers to sit with discomfort in applying methods
+that are less reductionist and embrace the messiness and complexity
+of health equity models that center the historical, economic, political,
+and social forces that impact well-being ( 8 , 14
+). Yet, none of these IS health equity guidance documents
+or frameworks specifically call out rural disparities or apply an
+intersectional lens.

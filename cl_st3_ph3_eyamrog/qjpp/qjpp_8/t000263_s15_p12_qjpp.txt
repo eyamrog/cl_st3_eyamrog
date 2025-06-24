@@ -1,0 +1,10 @@
+Turning to Hypothesis 4, there was no indirect effect of
+openness on mental health through identity importance alone. Instead, identity
+importance comes into play when considering its relationship with community
+integration and perception of personal discrimination. Confirming Hypotheses 2 and
+4, outness has a beneficial indirect effect on mental health
+through an openness → identity importance → community integration path.
+At the same time, confirming Hypotheses 3 and 4, outness
+has a costly indirect effect on mental health measures through
+the openness → identity importance → perception of personal discrimination
+path.

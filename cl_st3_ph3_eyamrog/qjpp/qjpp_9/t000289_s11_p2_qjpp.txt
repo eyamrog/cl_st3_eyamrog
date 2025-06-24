@@ -1,0 +1,24 @@
+In English, modals and semi-modals are the principal means of
+grammatically encoding modality, i.e., of distinguishing theoretical and hypothetical meaning
+from factual meaning ( Leech [1971] 2004). They differ from
+each other in that core or central modals (in this
+paper, simply modals) are fully grammaticalized auxiliaries (e.g., will ,
+must , could ) while semi-modals (also called quasi-modals, semi-auxiliaries,
+or emerging modals) are semantically similar lexical verbs which have
+acquired, and continue acquiring, auxiliary properties (e.g., be going to
+, have to ). As a result, the two types
+of auxiliaries are conventionally studied alongside each other. Modality has
+been the object of debates, especially as regards whether modals
+are declining in frequency in BrE and AmE ( Millar
+2009 ; Leech 2011 , 2013 ). A decline has
+been documented by Leech (2011 , 2013) and Mair (2015)
+in the extended Brown family of corpora (1930s-1990s) for written
+BrE and AmE, but is not found in the TIME
+corpus ( Millar 2009 ), in which modals are found
+to increase greatly. 4 The discussion that ensued ( Leech
+2011 , 2013 ; Biber & Gray 2013 ) identified
+genre as a confounding variable, which highlights the difficulty of
+determining which type of data is most suitable for generalization
+across a variety, and whether generalization is something we should
+strive for in the first place, as addressed by Biber
+and Gray (2013) .

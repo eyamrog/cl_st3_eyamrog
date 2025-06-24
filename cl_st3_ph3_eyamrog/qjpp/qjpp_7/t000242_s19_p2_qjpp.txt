@@ -1,0 +1,8 @@
+Next, the factors were extracted from the variables observed in
+the survey using EFA. As shown in Figure 3 ,
+three factors were adopted as the number of factors whose
+eigenvalue exceeds 1 in the scree plot. As shown in
+Table 4 , the first factor was expert knowledge, the
+second was job satisfaction, and the third was career status.
+Applying a CFA based on the factors extracted through EFA
+resulted in high compatibility ( Table 5 ).

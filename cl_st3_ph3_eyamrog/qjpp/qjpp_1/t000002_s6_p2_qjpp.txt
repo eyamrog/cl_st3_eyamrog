@@ -1,0 +1,21 @@
+Our findings are consistent with previous literature describing associations between
+step counts and adverse events . A systematic review by
+Hall et al. found that taking more steps per day
+was related to lower risk of all-cause mortality, cardiovascular events
+and incident diabetes. The National Health and Nutrition Examination Survey
+study, which quantified steps over a 7-day monitoring period and
+assessed mortality over an average of 10.1 years, found a
+51% lower mortality at 8,000 steps per day compared with
+4,000 steps per day . Similar results were reported from
+a middle-aged, biracial cohort with 7 days of monitoring and
+over 10 years of follow-up time . A prospective cohort
+study conducted in 3,055 community-dwelling adults aged over 70 years
+found a similar nonlinear relation between daily steps and risk
+of developing diabetes, where the risk leveled off at 8,000
+steps per day . It is notable that step count
+thresholds associated with risk of mortality and cardiometabolic disease in
+prior studies are similar to step count thresholds associated with
+a wide variety of previously unreported phenotypes in our study.
+These results suggest that a single step count target of
+approximately 8,000–9,000 steps per day may be suitable to reduce
+risk of many common conditions.

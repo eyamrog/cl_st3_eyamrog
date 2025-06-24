@@ -1,0 +1,10 @@
+Huh-7 (Japanese Collection of Research Bioresources [JCRB], 0403), Vero (ATCC,
+CCL-81), LLC-MK2 (ATCC, CCL-7) and HEK293T (American Type Culture Collection
+[ATCC], CRL-3216) cells were cultured in Dulbecco’s modified Eagle medium
+(DMEM, high glucose; Hyclone, Logan, UT). All the cells were
+cultured in media supplemented with 100 U/mL of Penicillin-Streptomycin solution
+(GIBCO, Germany), 20 mM N-2-hydroxyethyl piperazine-N-2-ethane sulfonic acid (HEPES, GIBCO),
+and 10% fetal bovine serum (FBS, Pansera ES, PAN-Biotech GmbH,
+Germany) in a 5% CO 2 environment at 37°C. Trypsin-EDTA
+(0.25%, GIBCO) was used to detach cells for subculturing every
+2–3 days.

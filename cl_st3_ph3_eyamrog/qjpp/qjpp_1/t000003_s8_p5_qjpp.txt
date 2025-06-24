@@ -1,0 +1,4 @@
+Given the lack of an adequate comparison for efficacy and
+safety between tisa-cel and axi-cel, we embarked on an IPD-based
+matched comparison considering all French patients with DLBCL treated with
+commercial CAR T and included in the DESCAR-T registry.

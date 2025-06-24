@@ -1,0 +1,8 @@
+The second dependent variable of interest is the reluctance to
+answer questions in an interview. The results indicate that there
+is no effect at all regarding age or gender matching.
+Consequently, Hypothesis 2 is rejected as there is no empirical
+support. The stability of the results is tested using an
+ordinal logistic regression instead of a linear one, which does
+not change the findings. The results seem to be rather
+stable.

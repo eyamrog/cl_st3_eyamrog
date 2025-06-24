@@ -1,0 +1,19 @@
+Digested peptides were collected on a Waters XSelect CSH C18
+XP VanGuard Cartridge, 130Å, 2.5 μm, 2.1 mm X 5
+mm before separation on a Waters ACQUITY UPLC Peptide CSH
+C18 Column, 130Å, 1.7 μm, 1 mm X 100 mm
+using a gradient of 7 to 14% B over 1
+min, 14 to 30% B over 12.5 min, and 30
+to 50% B over 1 min, followed by washing with
+three rapid gradients between 95 and 5% B (A: 0.1%
+formic acid, 0.025% trifluoroacetic acid, 2% acetonitrile; B: 0.1% formic
+acid in 100% acetonitrile). The liquid chromatography system was coupled
+to a Waters Synapt G2-Si Q-TOF with ion mobility enabled.
+Source and de-solvation temperatures were 70°C and 130°C respectively. The
+StepWave ion guide settings were tuned to prevent non-uniform gas
+phase proton exchange in the source ( Guttman et al.,
+2016 32. Guttman, M. ∙ Wales, T.E. ∙ Whittington, D.
+... Tuning a High Transmission Ion Guide to Prevent Gas-Phase
+Proton Exchange During H/D Exchange MS Analysis J. Am. Soc.
+Mass Spectrom. 2016; 27 :662-668 Crossref Scopus (33) PubMed Google
+Scholar ).

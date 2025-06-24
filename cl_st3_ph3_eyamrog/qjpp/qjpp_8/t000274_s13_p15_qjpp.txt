@@ -1,0 +1,15 @@
+This shift to archiving datasets greatly affects the collection and
+treatment of data, as highlighted by Carusi and Jirotki (2009
+:287): ‘Gathering and storing data for one's own use or
+with an eye to other possible addressees besides oneself are
+two very different activities.’ The ethical risks in the different
+types of data are made clear: ‘whereas quantitative data are
+arrived at through abstraction from a context, qualitative data is
+highly contextualised.’ (op.cit., p.38). Following this definition, texts in a
+corpus constitute qualitative data as they comprise discursive, contextualised natural
+language, rather than abstractions (cf. Hayes and Devaney 2004 ).
+Where such texts contain extensive writer metadata and/or are linked
+to further datasets, the text is more richly-contextualised and it
+may prove possible to identify individuals featured in the text
+through a process of piecing together the ‘jigsaw’ of information
+from different sources ( http://www.transparencyproject.org.uk/jigsaw-identification ).

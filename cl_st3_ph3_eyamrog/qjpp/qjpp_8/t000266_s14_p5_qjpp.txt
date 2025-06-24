@@ -1,0 +1,25 @@
+Optimizing the statistical efficiency of the DCE design was crucial
+due to the large descriptive system of the WOOP (a
+total of 1,953,125 possible well-being states) and the imposed level
+overlap constraints. Therefore, an efficient design was implemented and optimized
+using the TPC-QALY software package ( Jonker and Bliemer, 2019
+). More specifically, a Bayesian heterogeneous D-efficient design with ten
+sub-designs was used. This implied a simultaneous optimisation of the
+efficiency of ten separate designs, as well as the efficiency
+of their aggregate. To give more detail, the D-efficiency criterion
+was calculated with 100 Bayesian draws based on the weighted
+average of the overall (i.e., combined) D-error (0.25) and D-errors
+of the individual blocks (0.75). An exponential discount function was
+assumed, which appeared to be the most efficient discount function
+tested with the TPC-QALY software ( Jonker and Bliemer, 2019
+). The design was optimized for the above-described matched choice
+task format (see also Fig. 1 ). The number of
+matched choice tasks per respondent was set at 15, resulting
+in ten versions and a total set of 300 paired
+comparisons between two well-being states. Priors for optimizing the initial
+design were informed by logit model estimates of WOOP best-worst
+scaling data (N = 310) from a previous study (
+Himmler et al., 2020a ). The experimental design was updated
+twice after calculating priors based on 201 and a total
+of 514 completes to further increase the efficiency of the
+design.

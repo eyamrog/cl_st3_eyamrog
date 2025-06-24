@@ -1,0 +1,6 @@
+Background: Although the three vaccines against coronavirus disease 2019 (Covid-19)
+that have received emergency use authorization in the United States
+are highly effective, breakthrough infections are occurring. Data are needed
+on the serial use of homologous boosters (same as the
+primary vaccine) and heterologous boosters (different from the primary vaccine)
+in fully vaccinated recipients.

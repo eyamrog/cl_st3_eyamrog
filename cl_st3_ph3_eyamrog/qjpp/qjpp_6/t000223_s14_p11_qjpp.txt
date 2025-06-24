@@ -1,0 +1,25 @@
+First, we calculated the unweighted mean of the D e
+'s ( Table 5 ). The weighted mean was also
+determined from the Central Age Model, also referred to as
+the Central Dose Model (CDM) by Galbraith et al. (1999)
+using the function calc_CentralDose() ( Burow, 2020 ) from the
+package Luminescence v. 0.9.11 ( Kreutzer et al., 2012 ,
+2020 ) in R v. 4.0.2 ( R Core Team,
+2020 ). The CDM is intended to be applied to
+samples composed of a single population of grains, i.e., well
+bleached before deposition, exposed to the same environmental dose rate
+during burial, and having remained unaffected by any postdepositional sedimentary
+processes. However, recent criticisms have suggested some issues regarding the
+CDM calculation and its uncertainty estimates ( Combès et al.,
+2015 ), leading to potential age underestimates ( Guérin et
+al., 2017 ), particularly for older samples ( Heydari and
+Guérin, 2018 ). The Average Dose Model (ADM) proposed recently
+by Guérin et al. (2017) appears as an interesting alternative,
+as it is believed to provide a more satisfactory estimate
+of the average dose, mainly when grains have absorbed variable
+doses ( Heydari and Guérin, 2018 ). Data analysis was
+carried out using the function calc_AverageDose() ( Guérin et al.,
+2017 ). An intrinsic dispersion value (sigma_m) of 10% was
+used, which is higher than the average overdispersion (OD) obtained
+from the dose recovery tests performed on samples X6741 and
+X6747. Still, it accounts for any unrecognized measurement uncertainty.

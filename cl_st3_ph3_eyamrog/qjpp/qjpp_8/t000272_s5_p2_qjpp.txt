@@ -1,0 +1,10 @@
+Understanding modality would require looking into the modals—the only element
+that differs in both iterations of the same policy—and the
+possible outcomes that could arise from choosing one over another.
+DA assumes that—in this case—California policymakers purposefully choose to replace
+“may” with “shall” in their legislation. Policymakers are neither legally
+nor traditionally bound to use “shall” as a default (see
+Williams, 2009 ). Otherwise, they would not go through all
+the troubles of amending a policy only to change a
+single word. Indeed, state policymakers are paying attention to modality
+when drafting a bill that replaces “may” with “shall.”

@@ -1,0 +1,7 @@
+Finally, the committee engaged with vendors who provide infrastructure to
+health care information systems. These included the vendor that provided
+the health authority’s EHR; a company contracted to provide reports
+distribution services; and multiple different electronic medical record (EMR) vendors
+who supplied FPs. Consultations occurred informally through meetings and email;
+consistent with what other applied IE researchers have done (e.g.
+see Pence 2001 ; G. Smith 1990 ).

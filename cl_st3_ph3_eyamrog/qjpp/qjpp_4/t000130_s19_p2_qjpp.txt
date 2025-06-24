@@ -1,0 +1,26 @@
+During an unbiased enzyme-linked immunosorbent assay (ELISA) ( Ozgul et
+al., 2019 80. Ozgul, S. ∙ von Daake, S. ∙
+Kakehi, S. ... An ELISA-Based Screening Platform for Ligand-Receptor Discovery
+Methods Enzymol. 2019; 615 :453-475 Crossref Scopus (11) PubMed Google
+Scholar ; Ranaivoson et al., 2019 88. Ranaivoson, F.M. ∙
+Turk, L.S. ∙ Ozgul, S. ... A Proteomic Screen of
+Neuronal Cell-Surface Molecules Reveals IgLONs as Structurally Conserved Interaction Modules
+at the Synapse Structure. 2019; 27 :893-906.e9 Full Text Full
+Text (PDF) Scopus (0) PubMed Google Scholar ), we confirmed
+the interaction of Unc5D with FLRT2 and FLRT3 and identified
+GPC3 as a ligand for Unc5D ( Figure S1 C).
+We confirmed the interaction using surface plasmon resonance (SPR) binding
+experiments with purified ectodomains ( Figure S1 D). To produce
+complex crystals, we mixed hGPC3 core , mGPC3 core or
+murine GPC3 residues 31–488 (mGPC3 488 ) with Rattus norvegicus
+Unc5D residues 32–307 (rUnc5D IgIgTSP ). The complexes crystallized in
+two different space groups ( Table S1 ) with different
+crystal packing. Strikingly, all three datasets revealed an octameric assembly
+( Figures 1 D–1I, S1 E, and Video S1 ).
+The center of the octamer is formed by four Unc5D
+molecules that are aligned in a “head-to-tail” antiparallel bundle. Two
+GPC3 molecules wrap around each end of the Unc5 tetramer.
+Each GPC3 chain interacts with three Unc5 chains, forming interfaces
+with the Ig1/Ig2 domains of two Unc5 molecules, and with
+a TSP1 domain of a third Unc5 molecule ( Figures
+1 D–1I).

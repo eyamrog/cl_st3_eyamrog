@@ -1,0 +1,12 @@
+Overall, and as has frequently been pointed out, while full
+representativeness may be unattainable (e.g. Leech, 1992; McEnery and Hardie,
+2012 ), seeking to construct a balanced corpus is a
+viable approximation of this (e.g. Leech, 2007, in Lischinsky, 2018
+). Crucial to the endeavour is transparency - making clear
+how the corpus was compiled and the ways in which
+it may be biased - alongside careful wording of claims
+to ensure that findings are based on an (of necessity)
+imperfectly-balanced dataset. A key argument is that the more confidence
+there is in the representativeness of a corpus, the greater
+validity there is in making generalisable claims based on the
+corpus (Mautner, 2019).

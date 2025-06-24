@@ -1,0 +1,21 @@
+To test the role of SES and grade for parental
+expectations, we first conducted a GLM to investigate differences with
+regards to parental expectations, followed by a MLM to analyze
+the reasoning provided to justify parental expectations. Supporting our expectations
+(H3b & H3c), older adolescents in grade 10 (log odds[95%
+CI] = .50 [.25, .99]) and participants with higher SES
+backgrounds (log odds[95% CI] = .75 [.58, .95]) were significantly
+more pessimistic regarding parental approval for cross-group friendship than younger
+adolescents in grade 7 and participants with lower SES (see
+Table 2 , Model 3). Further supporting hypothesis H3b, the
+findings from the MLM model (see Table 3 , Model
+2) revealed that older adolescents in grades 9 and 10
+(log odds[95% CI] = 1.96 [1.07, 3.59]) were more likely
+to reference reasons of reputational concerns than younger adolescents. A
+similar tendency was found for SES, whereby participants with higher
+SES backgrounds (log odds[95% CI] = 1.29 [.96, 1.74]) were
+more likely to mention reputational concerns. However, as this difference
+was not statistically significant, H3c was not supported. As we
+did not have specific hypotheses concerning adolescents’ reasoning about low-SES
+parental expectations, these findings are reported in the supplementary file
+(see Tables S2 and S3 ).

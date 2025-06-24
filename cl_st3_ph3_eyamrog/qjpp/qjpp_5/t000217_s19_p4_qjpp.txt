@@ -1,0 +1,21 @@
+We can summarize that in the concordant condition, time taken
+per knot was shorter, the attempts per knot were fewer,
+and imitation success was greater ( Table 2 ; Fig.
+1 ). Parameter estimates of the factors can be found
+in SOM Table S2 ). Table 2 . Median (upper
+and lower 95% confidence interval) and mean (SEM) scores per
+condition for the time taken per knot, attempts per knot,
+and successful imitation (average number of knots reproduced successfully). n
+= 134 Time per knot (s) Attempts per knot Successful
+imitation Condition Concordant Discordant Concordant Discordant Concordant Discordant Median 46
+(86–109) 96 (108–133) 2 (2.2–2.5) 3 (2.5–2.8) 1 (0.56–0.68) 1
+(0.46–0.58) Mean 97.3 (5.8) 120.6 (6.2) 2.3 (0.8) 2.6 (0.8)
+0.62 (0.03) 0.52 (0.03) Download: Download high-res image (90KB) Download:
+Download full-size image Figure 1 . Boxplot of the time
+needed (in seconds) to complete a knot over the three
+different difficulty levels. White boxes indicate the concordant condition, and
+grey boxes indicate the discordant condition. For reasons of clarity,
+outliers are not shown in this graph, although they were
+included in the statistics (outliers were only present in the
+easy condition n = 18). Error bars represent a 95%
+confidence interval.

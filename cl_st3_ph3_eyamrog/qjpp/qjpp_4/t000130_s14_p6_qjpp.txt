@@ -1,0 +1,5 @@
+Neurons were dissociated from cortices of E15.5 embryos and cultured
+on stripes. Neurons were cultured for 1 day in vitro
+at 37°C, 5% CO2 in Neurobasal medium supplemented with B27.
+Neurons were used for stripe assays and were fixed with
+4% Paraformaldehyde for 10 min followed by immunostaining.

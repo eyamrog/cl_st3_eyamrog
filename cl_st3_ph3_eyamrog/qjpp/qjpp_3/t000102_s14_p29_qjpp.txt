@@ -1,0 +1,7 @@
+The gravity center of the measured points at a certain
+time point was determined according to the formula: 𝑥 𝑠
+= 1 𝑀 ⁢ ∑ 𝑛 𝑖 = 0 𝑥
+𝑖 ⋅ 𝑚 𝑖 . The average distance of individual
+replication domains to the center of gravity at a certain
+time point was calculated: | 𝑥 | = 𝑥 𝑖
+− 𝑥 𝑠 .

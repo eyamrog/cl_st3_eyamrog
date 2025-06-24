@@ -1,0 +1,11 @@
+Many researchers have utilized corpus linguistics methodology that affords both
+quantitative analysis and qualitative analysis to investigate the big textual
+data in online discussions ( Drasovean and Tagg, 2015 ;
+Hunt and Harvey, 2015 ; McDonald and Woodward-Kron, 2016 ;
+Paterson, 2020 ; Sotillo and Wang-Gempp, 2016 ). For example,
+by investigating collocates of the keywords referring to the main
+topics in the respective discussions, that is anorexia and politicians
+, Hunt & Harvey (2015) and Sotillo & Wang-Gempp (2016)
+provided insights into users’ experience and conceptualization of the topics,
+while Drasovean & Tagg (2015) revealed language practices that establish
+online communities.

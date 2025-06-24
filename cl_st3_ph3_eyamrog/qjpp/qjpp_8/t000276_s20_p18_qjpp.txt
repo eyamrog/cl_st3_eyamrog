@@ -1,0 +1,17 @@
+These examples upset the “clear division of labor” that Haumann
+(2010 :61) says exists between prenominal and postnominal adjectives, with
+the latter supposedly always receiving stage-level interpretation. The postnominal adjectives
+in the ANA pattern are not only regularly individual-level (see
+Table 2 ), but they often form up a hierarchical
+structure together with the prenominal adjectives (see Table 4 ).
+Based on this tendency, the meaning of the ANA schema
+could be ‘the adjectives describe the noun hierarchically.’ In a
+sense, then, ANA seems to be functionally closest to AAN,
+which Bech (2017 :15) has discovered to specialize in describing
+hierarchical relations. Table 6 below compares the two patterns. Similarly
+to Bech (2017) , I excluded pairs involving non-prototypical adjectives
+from the AAN pattern (see section 2). Among the remaining
+pairs of purely descriptive adjectives, hierarchical modification turned out to
+be dominant, and the difference between the two patterns on
+the count of hierarchical versus separate description is not statistically
+significant (chi-square = 1.253, p = .2204).

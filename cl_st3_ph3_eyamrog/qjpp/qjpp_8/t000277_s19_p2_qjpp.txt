@@ -1,0 +1,22 @@
+Another finding was that combined pronouns were rarely used in
+the press sections of the corpora. Press texts accounted for
+sixteen tokens in AmE and twelve tokens in BrE (a
+full breakdown of combined pronouns by genre is given in
+the Appendix ). The initial intention for this paper was
+to focus on the use of combined pronouns in the
+press-sections of the corpora with a view to comparing them
+with newspaper style sheets. However, as Table 2 shows, there
+is not enough data for a fruitful analysis. It is
+possible that the absence of combined pronouns in the press
+texts could be a result of the proscription of combined
+pronouns in newspaper style sheets. Another explanation for the small
+number of tokens may be that newspaper reports tend to
+be about actual people rather than humans of unknown gender
+(although Balhorn [2009] did find some combined pronouns in newspaper
+texts). Most likely, given that press texts comprise only a
+small section of each of the LOB and Brown families
+of corpora, the corpora are too small for the specific
+study of newspaper texts. Thus, rather than focusing predominantly on
+the small number of tokens in the press sections, the
+following analysis takes all the combined pronouns together to determine
+overarching patterns in their use.

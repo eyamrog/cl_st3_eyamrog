@@ -1,0 +1,17 @@
+Our argument builds upon the Social Determinants of Health (SDH)
+literature, which emphasises the necessity of viewing health outcomes as
+a social phenomenon that demand a broad range of intersectoral
+initiatives ( Solar and Irwin 2010 ; Krieger 2017 ).
+Social determinants of health are understood as the wider conditions
+in which people are born, live, and age. They encompass
+a variety of factors such as socioeconomic conditions, access to
+education and employment , the quality of urban and physical
+environments, robustness of social support networks, and access to health
+care ( Adler and Stewart 2010 ; Gottlieb et al.,
+2019 ). The insights of the SDH literature have had
+a demonstrable impact on the development of health policy at
+the global level. By and large, however, the various social
+determinants identified in this literature have not been incorporated into
+epidemiological modelling. This remains a significant gap in both understanding
+and addressing the differential vulnerabilities associated with pandemics such as
+COVID-19.

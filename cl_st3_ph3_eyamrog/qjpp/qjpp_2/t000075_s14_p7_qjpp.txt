@@ -1,0 +1,17 @@
+The primary efficacy analysis was performed in the population of
+patients treated with ide-cel (128 patients). The sample size for
+the primary end point (overall response) was based on a
+one-sample binomial test with normal approximation, under the assumption of
+15% dropout between the time of enrollment and ide-cel treatment.
+The null hypothesis to be tested was that the percentage
+of patients receiving ide-cel with a best overall response of
+partial response or better would be 50% or less. If
+the null hypothesis was rejected, a null hypothesis that no
+more than 10% of patients receiving ide-cel would have a
+best overall response of complete or stringent complete response was
+to be tested. Time-to-event analyses and associated 95% confidence intervals
+were estimated with the use of Kaplan–Meier methods. Censoring of
+data for progression-free survival and response duration was based on
+Food and Drug Administration censoring rules. All statistical analyses were
+performed with the use of SAS software, version 9.4 or
+higher. Statistical tests were not performed on subgroup analyses.

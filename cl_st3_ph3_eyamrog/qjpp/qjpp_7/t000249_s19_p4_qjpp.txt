@@ -1,0 +1,9 @@
+To compare whether adolescents differed in their answer patterns regarding
+high- and low-SES parents’ expectations, we used an Exact McNemar
+test with central confidence intervals, which was significant χ 2
+(1) = 180.66, p < .001, odds ratio = .04[CI
+95 = .02, .08], Φ = .18. In line with
+H3a, 81% of adolescents thought that the low-SES parents would
+want the two story characters to be friends, while only
+30% of the adolescents reported that the high-SES parents would
+approve of that friendship.

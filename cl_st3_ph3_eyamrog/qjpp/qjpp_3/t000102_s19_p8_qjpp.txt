@@ -1,0 +1,21 @@
+Having established that, in the presence of TSA, there is
+minimal dense chromatin formation in the nucleoplasm outside of chromocenters,
+we assessed the properties of the hyperacetylated chromatin using time-lapse
+microscopy and FRAP. After TSA treatment, the chromocenters persisted (
+Figure 4 A), as expected from the transmission electron microscopy
+data. Interestingly, despite the observed disassembly of the condensed chromatin
+found throughout the nucleoplasm, in cells where euchromatin incorporated the
+label during the pulse, the labeled chromatin still persisted as
+numerous independently visible foci ( Figure 4 B). When these
+foci were subjected to FRAP, negligible recovery of the bleached
+regions occurred over a 30-min period ( Figures 4 A
+and 4B; Video S3 ). In this instance, although recovery
+was near zero, the measured intensity did show a small
+but statistically significant increase at the 30-min time point. Although
+we cannot rule out that acetylated chromatin is able to
+undergo slow and limited mixing, even fixed specimens show slight
+differences in intensity ( Figure S3 D). This reflects small
+changes in z-positioning because of thermal fluctuations. In the case
+of living cells, the other dynamics taking place over the
+course of 30 min in a living cell are more
+likely the basis of these small changes in fluorescence.

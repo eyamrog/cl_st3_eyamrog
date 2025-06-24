@@ -1,0 +1,16 @@
+The Yonsei English Learner Corpus ( yelc ) consists of
+6,572 written texts, with a total of 1,085,828 words. These
+texts were written in 2011 by 3,286 college entrants who
+took the English placement test (Yonsei English Placement Test) which
+consists of two writing elements. Prospective students wrote two short
+essays: one essay about casual topics (about 100 words) and
+the other about academic topics (about 300 words). Thus the
+corpus contains two parts: Part 1 (3,286 texts, 315,317 words)
+and Part 2 (3,286 texts, 770,511 words). One notable feature
+of the corpus is that each participant’s writings under different
+proficiency levels are rated on a nine-level scale ranging from
+A1 to C2. More details about the design and compilation
+of the corpus can be found in Rhee and Jung
+(2014) . The corpus is freely available on request to
+all researchers through the website 6 of the English Informatics
+Laboratory of Yonsei University.

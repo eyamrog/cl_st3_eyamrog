@@ -1,0 +1,12 @@
+Results are shown as mean ± s.e.m. Visual examination of
+the data distribution as well as normality testing demonstrated that
+all variables appeared to be normally distributed. Comparisons and statistical
+tests were performed as indicated in each figure legend. For
+comparisons of two groups, two-tailed unpaired t tests were used,
+except where indicated. For comparison of multiple groups, one-way ANOVA
+was used. Statistical analyses were performed in the GraphPad Prism
+8 software. The P values denoted throughout the manuscript highlight
+biologically relevant comparisons. A P value of less than 0.05
+was considered significant, denoted as ∗ P <0.05, ∗∗ P
+<0.01, ∗∗∗ P <0.001, and ∗∗∗∗ P <0.0001 for all
+analyses.

@@ -1,0 +1,18 @@
+Coding was done in tandem—a process that is becoming increasingly
+popular in corpus-assisted studies surrounding health issues ( Henry et
+al., 2020 , Hood-Medland et al., 2021 ). as it
+allows coders to offer their expertise, discuss differences, and keep
+each other consistent. This method steps away from blindly going
+with the majority's code and allows the minority to explain
+their coding decisions. For example, the coders in this study
+debated whether a certain policy's purpose is to address substance
+abuse or guide state diversion programs. After listening to each
+other's reasoning, the coders realized that both themes have the
+same intended outcome, thus, creating a category for diversion policies.
+Because the recipients and the contexts of the policies were
+mostly evident in the text, it would be inefficient to
+code separately only to convene later and discuss the disagreements
+if coding in tandem accomplishes this immediately. Chi-square tests of
+restrictive and permissive modal distributions throughout each phase were conducted
+as well to measure any significant correlation between modality and
+the context in which it is used.

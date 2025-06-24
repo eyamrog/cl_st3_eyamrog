@@ -1,0 +1,11 @@
+Like the analysis presented in section 4.1, this part relies
+on text-based frequencies but adds a variable, namely, year .
+Figures 3 - 5 show how the frequencies of so
+( Figure 3 ), very ( Figure 4 ), and
+too ( Figure 5 ) vary as a function of
+time, using LOESS scatterplot smoothers and 95 percent confidence intervals
+(grey ribbon); Pearson correlation coefficients are also displayed for each
+category. The smoother represents the relationship between the two variables
+(year and normalized frequency) visually, and the Pearson correlation coefficient
+(R) shows the strength and direction of linear correlation between
+them (values range from -1 to +1).

@@ -1,0 +1,10 @@
+Life history allocation problems are central to understanding plasticity in
+immune responses. Energy budgets are constrained, at least over long
+periods of time ( Pontzer 2018 , Thurber et al.
+2019 ), and immune responses are costly. For example, fighting
+an infection raises basal metabolic rates ( Lochmiller & Deerenberg
+2000 , Muehlenbein et al. 2010 ), and immune responses
+often necessitate reductions in other costly allocations, such as growth
+and reproduction ( Blackwell et al. 2010 , McDade 2003
+, Sheldon & Verhulst 1996 , Urlacher et al. 2018
+).

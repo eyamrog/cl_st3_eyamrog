@@ -1,0 +1,2 @@
+where λ a denotes the future-discounted life expectancy for individuals
+of age a .

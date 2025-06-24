@@ -1,0 +1,22 @@
+The second GenBank genome with a significant signature of recombination
+in seven tests was FJ906803.1 , which is annotated as
+M. fascicularis of unknown origin. Visual inspection of two putatively
+recombined regions in this genome did not identify a marked
+indication of recombination because the regions were substantially diverged from
+the putative parental sequences. Because recombination can influence phylogenetic reconstruction,
+these two GenBank genomes were not included in the phylogenetic
+analyses presented here, and to our knowledge, neither has been
+included in a publication elsewhere. The signal of recombination in
+KP072068.1 and FJ906803.1 could have a technical explanation (e.g., contamination
+of nuclear insertions of mitochondrial origin, mapping or genotyping errors)
+or a biological basis. For KP072068.1 , a technical explanation
+for inferred recombination event 1 ( SOM Table S4 )
+is supported by the geographically nonoverlapping distributions and relatively distant
+phylogenetic relationships of putative major ( M. mulatta , Macaca
+cyclopis ) and minor ( M. nigra ) parental sequences
+that are inferred to have contributed the larger and smaller
+fractions of sequence to the putative recombined sequence. The major
+parent of recombination event 3 ( KP072068.1 ) and events
+2 and 5 ( FJ906803.1 ) was unknown, and the
+minor parents were M. mulatta (event 3) and M. fascicularis
+(events 2 and 5).

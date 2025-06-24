@@ -1,0 +1,11 @@
+Also of note is the fact that camera-level variation was
+a relatively large component of total variation in visit duration.
+This coincides with our perception, based on direct observations of
+the behavior of habituated individuals on BCI, that capuchin parties
+tend to come to the ground to play, rest, and
+forage in a small number of regularly used sites (M.C.C.,
+pers. obs.). The overlap of some deployments with the commonly
+used traveling routes within the study subjects' home ranges may
+also have contributed to this pattern. Further studies in which
+individuals are observed or tracked over time are needed to
+test these ideas.

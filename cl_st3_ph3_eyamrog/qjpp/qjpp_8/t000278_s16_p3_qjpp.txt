@@ -1,0 +1,8 @@
+Finally, the BNC BYU (100 million words; Davies 2004- ),
+which covers the years 1980-1993, was selected to represent late
+twentieth century usage. Like CLMET3.0, the BNC consists of several
+text categories, namely Fiction_prose, Fiction_poetry, Fiction_drama, Magazine, Newspaper, Non-Academic, Academic,
+and Miscellaneous; its text category Fiction_prose (15,644,928 words) can be
+roughly equated with the category Narrative Fiction (15,784,689 words) in
+CLMET3.0, and is practically identical in size, so it offers
+a good basis for comparison.

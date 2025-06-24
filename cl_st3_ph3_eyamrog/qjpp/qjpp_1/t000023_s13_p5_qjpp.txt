@@ -1,0 +1,19 @@
+Whether formal causal inference methods need to be used to
+draw broad conclusions about social causes of health has been
+the subject of spirited debate ( 51 , 114 ).
+Because the social processes leading to differences in health by
+social position, race, or immigration history involve the functioning of
+systems with multiple interacting pathways and long causal chains, the
+broad causal questions that are of interest in social epidemiology
+are often not easily amenable to causal inference methods designed
+to quantify the short-term causal impact of changes in very
+specifically defined factors, with all other factors held constant. And
+yet it would be difficult to argue that social causation
+cannot be inferred from the persistent documentation of pronounced differences
+in health (across many health outcomes) associated with social stratification
+and race in the context of unequal and racist systems.
+These descriptive analyses are fundamental to making the case that
+social organization shapes the distribution of health and disease, even
+in the absence of precise counterfactual comparisons. We return to
+the topic of causal inquiry in social epidemiology later in
+this review.

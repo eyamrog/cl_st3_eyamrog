@@ -1,0 +1,13 @@
+I utilised large Arabic and English Internet reference corpora to
+give a quantitative understanding of my claim that the English
+and Arabic corpora are ‘political’ corpora. My analysis of collocations
+focussed on strong collocations that occur frequently. For this reason,
+I also used Log Dice measurements to dictate which collocations
+were selected for analysis. Finally, I attempted to account for
+the relatively small size of my corpora by comparing the
+keyness of keywords and the salience of collocations involving women
+in both corpora. Triangulating my data in this way reduced
+potential bias in qualitative analysis by showing that my results
+in Arabic were consistent and meaningful – not only in
+themselves but in relation to an English political Internet corpus
+with a comparable political outlook.

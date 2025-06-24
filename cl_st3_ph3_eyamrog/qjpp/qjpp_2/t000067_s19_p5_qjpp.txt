@@ -1,0 +1,10 @@
+The demographic and clinical characteristics of the patients in the
+surgical and ICU cohorts are listed in Tables S4 through
+S7. Among 250 patients who underwent cardiac surgery, the incidence
+of acute kidney injury was 40% in the highest suPAR
+quartile (≥5100 pg per milliliter) and 16% in the lowest
+quartile (<2860 pg per milliliter). Among 692 critically ill patients
+admitted to the ICU, the incidence of acute kidney injury
+was 53% in the highest suPAR quartile (≥9440 pg per
+milliliter) and 15% in the lowest quartile (<5150 pg per
+milliliter).

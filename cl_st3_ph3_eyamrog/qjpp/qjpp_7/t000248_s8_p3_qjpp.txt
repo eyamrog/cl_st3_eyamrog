@@ -1,0 +1,26 @@
+Following the most common operationalization of dual identity, we measure
+ethnic and national identity separately and we combine the two
+measures to assess dual identities (Fleischmann & Verkuyten, 2016 ).
+The traditional approach in acculturation research focuses on the strength
+of identifications. Usually, participants with high ethnic and high national
+identity are labeled as dual identifiers and participants are categorized
+using median split or cluster analysis (e.g., Klandermans et al.,
+2008 ; Ng Tseung-Wong & Verkuyten, 2013 ). We follow
+a more recently proposed approach that focuses on the extent
+of identity conflict or compatibility and uses the associations between
+ethnic and national identity (e.g., Fleischmann et al., 2019 ).
+Thus, we conceive of compatible dual identity as a positive
+or zero correlation between ethnic and national identity, and we
+operationalize less compatible dual identities as a negative correlation between
+ethnic and national identity. Our interest is in the association
+or dissociation between ethnic and national identification, which we operationalize
+by regressing national identification on ethnic identification. Please note that
+this ordering is purely pragmatic and does not imply a
+specific causal order between ethnic and national identity; it also
+does not mean that we are (more) interested in national
+identification as the outcome. What we are interested in is
+how the socialization context, that is, minority peer presence, and
+peer perceptions of discrimination moderate the association (or dissociation) between
+ethnic and national identification. We therefore add interactions of ethnic
+identification with minority peer presence, and with peer perceptions of
+discrimination to our regression of national identification.

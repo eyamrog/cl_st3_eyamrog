@@ -1,0 +1,26 @@
+Erosion is evident in the negative tag variation across all
+three localities but has progressed to a greater extent in
+Glasgow and Salford than in Tyneside. The mixed-effects logistic regression
+modeling highlighted the distinctive profile of Tyneside English compared to
+the other two varieties in terms of its lesser degree
+of erosion, but the variety is also distinct with regard
+to the distribution of variants: coalesced forms are more frequent
+than reduced forms and are attested in environments even where
+reduced counterparts are not found. The lack of an implicational
+hierarchy in Tyneside, under which one would expect coalesced forms
+to be attested where reduced forms are also found (which
+is the case for Glasgow and Salford), might be a
+product of other phonological properties of Tyneside English such as
+its distinctive patterns of /t/-glottaling and glottal reinforcement ( Milroy,
+Milroy, Hartley & Walshaw 1994 ; Docherty, Foulkes, Milroy, Milroy
+& Walshaw 1997 ). Though this must remain a tentative
+hypothesis for now, the degree to which these processes occur—and
+the constraints on their occurrence—might contribute to more rapid coalescence
+of tag auxiliaries and pronouns. Frequency also appears to play
+a role in facilitating erosion, as the most frequent tags
+in the data— be tags—tended to be more phonetically reduced
+than do tags overall. This finding aligns with the tendency
+for high frequency constructions to become subject to “ritualization or
+automization” in language production and become phonetically reduced ( Bybee
+2003 :621), though there were also some auxiliary-specific tendencies that
+could not be explained entirely by frequency.

@@ -1,0 +1,16 @@
+However, new work by Zajitschek et al. (2020) on lab-raised
+wild mice casts doubt on the ubiquity of GMV in
+mammals. To date, by far the most common type of
+trait investigated has been morphological, in particular body size (
+Reinhold and Engqvist, 2013 ), but of course morphology represents
+only one facet of an organism. While Zajitschek et al.
+(2020) found more variance in males for morphological traits, they
+observed more variance in females than males for eye traits
+and immunological traits. Moreover, no systematic sex differences in trait
+variance were found for physiological, behavioral, and hematological traits. The
+effects of the laboratory environment may influence trait variability—perhaps a
+more homogenous environment for the study population attenuated sex difference
+in variance for many traits. Nonetheless, the findings of Zajitschek
+et al. (2020) suggest that whether differences in trait variability
+between the sexes represent GMV can depend on the trait
+type in question.

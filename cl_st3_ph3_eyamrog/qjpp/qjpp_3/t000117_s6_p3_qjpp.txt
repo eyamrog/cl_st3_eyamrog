@@ -1,0 +1,12 @@
+Our in vivo imaging results revealed the existence of two
+distinct functional types among aIC Fezf2 or aIC NTS neurons,
+with one exhibiting excitatory response and the other showing inhibitory
+response during the anticipation and consumption of homeostatically needed substances.
+However, our optogenetic manipulation did not discriminate between these two
+types and especially did not unravel the role of the
+neurons with inhibitory response. The recently developed technologies for simultaneous
+optogenetics and imaging at single-cell resolution ( Emiliani et al.,
+2015 16. Emiliani, V. ∙ Cohen, A.E. ∙ Deisseroth, K.
+... All-Optical Interrogation of Neural Circuits J. Neurosci. 2015; 35
+:13917-13926 Crossref Scopus (263) PubMed Google Scholar ) may prove
+to be useful in addressing this issue.

@@ -1,0 +1,15 @@
+Our results suggest that extant sequence divergence within clade B1
+began 80 ka (95% CI = 110–60 ka), within clade
+B2 began 140 ka (95% CI = 180–100 ka), and
+within clade B3 began 210 ka (95% CI = 270–160
+ka). Within clade B1, there are two subclades (B1-a, B1-b;
+Fig. 3 ). Clade B1-b began diversifying 70 ka (90–50
+ka) and is restricted to the Lesser Sunda Islands based
+on the currently available data. Clade B1-b comprises three clades
+that are respectively exclusive to the islands of Flores, Flores
++ Sumbawa, or Timor, although support for the Flores +
+Sumbawa clade differed between the Bayesian and maximum likelihood analyses
+(46% and 100% posterior probability and bootstrap support, respectively). Clade
+B1-a includes four sequences from Java and two from Flores.
+Within clade B1, subclade B1-a1 ( Fig. 3 ) contains
+genomes from Java and Flores.

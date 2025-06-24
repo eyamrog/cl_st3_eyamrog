@@ -1,0 +1,19 @@
+We next modeled risk of obesity as a function of
+baseline BMI, daily step counts and BMI*steps interaction using recorded
+BMI values rather than diagnostic codes. We included only individuals
+who never had a recorded BMI > 30 kg m
+or a coded diagnosis of obesity at any time before
+or during the first 6 months of monitoring ( N
+= 1,067). This analysis was designed to address potential concerns
+regarding incidence estimates confounded by conditions that were prevalent but
+undiagnosed at baseline. Figure 3 and Supplementary Table 3 show
+that the risk of obesity decreases substantially at higher step
+counts, even when the baseline BMI is near the threshold
+for obesity. For example, when starting at a baseline BMI
+of 28 kg m , risk of obesity is reduced
+by 36% (95% CI 20–49%) when step counts increase from
+the 25th to 75th percentile. This increase in step counts
+resulted in a 50% reduction in cumulative incidence of obesity
+at 5 years from 16% (95% CI 11, 20) at
+the 25th percentile compared with 8% (95% CI 5, 12)
+at the 75th percentile.

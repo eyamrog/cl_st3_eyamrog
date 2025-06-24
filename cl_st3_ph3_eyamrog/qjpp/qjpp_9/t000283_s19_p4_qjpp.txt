@@ -1,0 +1,25 @@
+While Figure 1 presents the mean F1 and F2 values
+of /ɪr/, /ɛr/, and /ʌr/ averaging across all speakers in
+dataset A on the basis of the statistical model, Figure
+2 zooms into the realizations of /ɪr/, /ɛr/, and /ʌr/
+by the individual speakers. Token numbers differ between the three
+panels of the plot because we excluded speakers for whom
+the respective vowel category was represented by less than two
+tokens (thus, N = 57 for /ɪr/, N = 73
+for /ɛr/, and N = 70 for /ʌr/). Individual speakers’
+average positions for the three categories form “clouds” in the
+vowel space that are centered roughly on the average positions
+shown in Figure 1 . However, considerable inter-speaker variation can
+be observed for all three nurse vowels. We can therefore
+conclude that the high degree of certainty for the average
+positions of the three vowels in Figure 1 above is
+due to the large number of speakers; it does not
+mean that all speakers produce vowels that are actually close
+to those averages. Together with the finding that the areas
+occupied by the three vowel categories overlap considerably, this suggests
+that there may in fact be mergers, or partial mergers,
+at the level of individual speakers. Concrete patterns of this
+kind are neither visible in Figure 1 nor in Figure
+2 , but we return to this issue below, where
+we argue that the speaker-based (non-averaging) perspective is crucial for
+a better understanding of the phenomenon at hand.

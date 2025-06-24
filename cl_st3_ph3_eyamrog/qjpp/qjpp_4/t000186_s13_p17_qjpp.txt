@@ -1,0 +1,11 @@
+Connecting back to our principles above, these interactions involve trade-offs
+between branches of immunity as well as the development of
+tolerance in both the immunological and ecological senses. Evolved dependencies
+are likely to evolve as a form of tolerance because
+tolerance often involves shifts in allocations to compensate for the
+presence of the pathogen. For example, increases in Treg cells
+reduce resistance to a helminth infection but may also help
+limit immunopathology from failed attempts at clearance. Changes in IgE
+and natural killer cell counts may help restrain a helminth
+infection without killing it. These changes may facilitate parasite survival
+but also facilitate host tolerance.

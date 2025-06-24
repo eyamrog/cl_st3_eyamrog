@@ -1,0 +1,7 @@
+Objective: Health economic evaluations using common health-related quality of life
+measures may fall short in adequately incorporating all relevant benefits
+of health and social care interventions targeted at older people.
+The Well-being of Older People measure (WOOP) is a broader
+well-being measure that comprises nine well-being domains. The objective of
+this study was to estimate a utility tariff for the
+WOOP, to facilitate its application in cost-utility analyses.

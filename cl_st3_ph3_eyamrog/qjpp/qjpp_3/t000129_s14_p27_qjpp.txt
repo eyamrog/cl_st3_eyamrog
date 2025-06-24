@@ -1,0 +1,12 @@
+Genomic DNA was extracted from ESCs and E11.5 limb buds
+using the PureLink Genomic DNA Mini Kit following manufacturer’s instructions.
+gDNA was then sheared in Covaris micro TUBE AFA Fiber
+Pre-Slit Snap-Cap tubes. Next, the sheared gDNA was purified with
+the Zymo DNA Clean & Concentrator according to manufacturer’s instructions.
+Purified DNA was then bisulfite converted using the EZ DNA
+Methylation-Gold Kit, and WGBS libraries were processed using the Accel-NGS
+Methyl-seq DNA library kit following manufacturer’s recommendations for each. Libraries
+were prepared and cleaned using Agencourt AMPure XP beads. The
+absence of adapters from the final libraries was verified using
+the Agilent TapeStation. WGBS libraries were sequenced on the NovaSeq6000
+yielding 150 base pair paired-end reads.

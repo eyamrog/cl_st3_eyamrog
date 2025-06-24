@@ -1,0 +1,17 @@
+We then challenged these ACE2 receptor expressing cells with our
+18 pseudotyped viruses. The infectivity of individual variant in each
+ACE2 expressing cells was assessed relative to the reference 614G
+variant’s infectivity. For 13 of the 14 tested ACE2-expressing cells,
+no significant enhancement in infectivity were detected for any of
+the pseudotyped viruses with 501Y.V2-related mutations ( Figure 2 B).
+The exception here was the significant differences in infectivity observed
+with the HEK293T cells expressing murine ACE2. Three single-residue variants,
+K417N, E484K, and N501Y—all located at the RBD region—respectively displayed
+7-fold, 3-fold, and 5-fold increases in infectivity compared to the
+reference 614G variant ( Figure 2 B). Moreover, the pseudotyped
+viruses carrying double (K417N+N501Y) and triple (K417N+E484K+N501Y) mutations exhibited yet-higher
+increases in infectivity compared to the single mutants ( Figure
+2 B). Note that the pseudotyped viruses representing the three
+most prevalent variants (501Y.V2-1, 501Y.V2-2, and 501Y.V2-3) each had an
+∼4-fold increase in infectivity in the murine ACE2-expressing cells (
+Figure 2 B).

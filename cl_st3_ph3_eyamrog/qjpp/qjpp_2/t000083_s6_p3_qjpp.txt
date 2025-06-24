@@ -1,0 +1,13 @@
+All groups, with the exception of the homologous Ad26.COV2.S prime–boost
+group, had postbooster geometric mean titers of neutralizing antibody levels
+of more than 100 IU50 per milliliter, a level that
+correlated with 90.7% vaccine efficacy at preventing symptomatic Covid-19 in
+a previous study. These data strongly suggest that homologous and
+heterologous booster vaccine doses will increase protective efficacy against symptomatic
+SARS-CoV-2 infection. This speculation is supported by emerging data showing
+the effectiveness of the BNT162b2 booster against symptomatic disease in
+the United States and against severe disease, hospitalization, or death
+in Israel. Predicting vaccine efficacy against severe SARS-CoV-2 infection, hospitalization,
+or death is considerably more challenging than predicting efficacy against
+symptomatic disease, and cellular immunity may contribute to the protection
+associated with humoral response for these more important outcomes.

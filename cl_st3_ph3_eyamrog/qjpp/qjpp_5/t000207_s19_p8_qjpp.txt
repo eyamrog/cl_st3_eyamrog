@@ -1,0 +1,8 @@
+For terrestrial party size, the contrast between island and mainland
+sites, analogous to the contrast for terrestrial detection rates, is
+1.4(SE = 0.9), calculated from the posterior samples produced by
+MCMCglmm ( Hadfield, 2010 ). A 95% credibility interval for
+the contrast is then (−0.4, 3.2). Here, the null value
+zero is contained in the interval, so the hypothesis that
+average terrestrial party sizes are the same in island and
+mainland sites is not rejected.

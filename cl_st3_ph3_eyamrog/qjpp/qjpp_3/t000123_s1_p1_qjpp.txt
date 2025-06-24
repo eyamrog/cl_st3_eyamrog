@@ -1,0 +1,16 @@
+Incomplete lineage sorting (ILS) makes ancestral genetic polymorphisms persist during
+rapid speciation events, inducing incongruences between gene trees and species
+trees. ILS has complicated phylogenetic inference in many lineages, including
+hominids. However, we lack empirical evidence that ILS leads to
+incongruent phenotypic variation. Here, we performed phylogenomic analyses to show
+that the South American monito del monte is the sister
+lineage of all Australian marsupials, although over 31% of its
+genome is closer to the Diprotodontia than to other Australian
+groups due to ILS during ancient radiation. Pervasive conflicting phylogenetic
+signals across the whole genome are consistent with some of
+the morphological variation among extant marsupials. We detected hundreds of
+genes that experienced stochastic fixation during ILS, encoding the same
+amino acids in non-sister species. Using functional experiments, we confirm
+how ILS may have directly contributed to hemiplasy in morphological
+traits that were established during rapid marsupial speciation ca. 60
+mya.

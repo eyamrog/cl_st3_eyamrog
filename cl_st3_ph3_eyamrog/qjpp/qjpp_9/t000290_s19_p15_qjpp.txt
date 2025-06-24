@@ -1,0 +1,17 @@
+It is readily apparent in Figure 6 that the between-vowel
+differences are markedly reduced for both F1 and F2 before
+the voiced nasals /ɡ/ and /ŋ/ as compared with /k/
+and other codas. For F2 before /ɡ/, the smooths for
+the vowels /ɛ/ and /e/ overlap across their full durations,
+which is also true for F2 of /ɛ/ and /æ/
+before /ŋ/. Under GAMMs analysis, this cross-smooth overlap indicates that
+the two trajectories are not significantly different from each other;
+in other words, /ɛ/ and /e/ have statistically identical F2
+trajectories before /ɡ/, as do /ɛ/ and /æ/ before /ŋ/.
+While the F1 conditions (the lower plots in Figure 6
+) do not show any cases of full-duration overlap, the
+cross-vowel trajectories before both /ɡ/ and /ŋ/ are much closer
+to each other than before /k/ and other . The
+pre-/k/ context in particular exhibits a greater degree of cross-vowel
+differentiation than any other, with each vowel having distinct F1
+and F2 trajectories.

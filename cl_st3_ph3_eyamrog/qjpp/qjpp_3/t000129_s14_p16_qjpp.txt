@@ -1,0 +1,18 @@
+Whole-mount lacZ reporter staining was performed as previously described with
+minor adjustments ( Lobe et al., 1999 85. Lobe, C.G.
+∙ Koop, K.E. ∙ Kreppner, W. ... Z/AP, a double
+reporter for cre-mediated recombination Dev. Biol. 1999; 208 :281-292 Crossref
+Scopus (447) PubMed Google Scholar ). E11.5 mouse embryos were
+dissected in cold PBS, fixed in 4% paraformaldehyde (PFA) in
+PBS on ice for 20 min and washed three times
+in lacZ buffer (2 mM MgCl2, 0.01% sodium deoxycholate, 0.02%
+Nonidet P-40 in PBS). Embryos were then incubated in staining
+solution (0.5 mg ml−1 X-gal, 5 mM potassium ferrocyanide, 5
+mM potassium ferricyanide in lacZ buffer) at 37°C for a
+few hours to overnight until desired staining was achieved. Following
+staining, embryos were washed in lacZ buffer and stored at
+4°C in 4% PFA in PBS. Finally, embryos were imaged
+using a ZEISS SteREO Discovery.V12 with cold light source CL9000
+microscope and Leica DFC420 digital camera. LacZ signal was scored
+in at least 4 replicate embryos and was performed independently
+by at least two annotators blinded to genotype.

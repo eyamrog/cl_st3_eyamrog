@@ -1,0 +1,11 @@
+CHRONOS was initially conceived to longitudinally monitor the drop of
+resistant mutations in blood, as originally reported by us and
+subsequently confirmed by others . However, in clinical practice, implementation
+of multiple blood tests to confirm decay of resistant mutations
+to prompt a rechallenge therapy would be overcostly and impractical.
+When the approach was indeed attempted in our clinics, the
+availability of sequential samples, often widely spaced in time between
+each other, and the time needed to wait for two
+longitudinal ctDNA measurements (to assess mutation decay) clashed with the
+need to rapidly initiate the next round of treatment, as
+clinically required in patients with advanced-line mCRC.

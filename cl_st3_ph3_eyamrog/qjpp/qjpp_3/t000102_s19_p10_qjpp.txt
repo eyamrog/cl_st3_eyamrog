@@ -1,0 +1,20 @@
+One explanation for the failure of dispersed acetylated chromatin to
+mix is that it becomes immobilized by association with bromodomain
+(BRD)-containing proteins, which have been shown to undergo liquid unmixing
+in cells and bind to superenhancers ( Sabari et al.,
+2018 49. Sabari, B.R. ∙ Dall’Agnese, A. ∙ Boija, A.
+... Coactivator condensation at super-enhancers links phase separation and gene
+control Science. 2018; 361 :eaar3958 Crossref PubMed Google Scholar ).
+It has been demonstrated recently that acetylated chromatin is dispersed
+in solution but can undergo liquid demixing in the presence
+of bromodomain-containing proteins ( Gibson et al., 2019 17. Gibson,
+B.A. ∙ Doolittle, L.K. ∙ Schneider, M.W.G. ... Organization of
+Chromatin by Intrinsic and Regulated Phase Separation Cell. 2019; 179
+:470-484.e21 Full Text Full Text (PDF) Scopus (555) PubMed Google
+Scholar ). This bromodomain-mediated phase separation was inhibited by JQ1,
+an inhibitor of BRD-acetylated lysine interactions. Consequently, we tested whether
+treating cells with JQ1 would enable hyperacetylated chromatin to adopt
+liquid-like behavior. We found that JQ1 had no effect on
+the inability of hyperacetylated chromatin to undergo mixing in FRAP
+experiments—the photobleached regions persisted throughout the time course ( Figure
+4 C; Video S3 ).

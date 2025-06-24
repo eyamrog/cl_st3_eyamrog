@@ -1,0 +1,12 @@
+Beneficence also charges us with considering how health would be
+improved under a digital surveillance system. Merely monitoring a health
+outcome does not necessarily improve population health. Improving population health
+depends on effective communication and interventions. Previous work has made
+the argument that digital surveillance allows for earlier outbreak response
+( 19 , 80 , 85 , 86 , 101
+), since traditional surveillance systems offer insufficient lead time (2–4
+weeks in advance of the outbreak) to plan meaningful responses,
+such as adjustments to hospital surge capacity and vaccine manufacturing
+( 104 ). However, few digital surveillance systems have actually
+described interventions that resulted from the earlier detection via digital
+surveillance and their effectiveness.

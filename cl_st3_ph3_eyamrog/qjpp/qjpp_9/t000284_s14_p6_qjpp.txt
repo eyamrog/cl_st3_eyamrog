@@ -1,0 +1,20 @@
+Together with audio files, the Praat TextGrids ( Boersma &
+Weenink 2018 ) resulting from forced alignment were processed using
+a local installation of FAVE ( Rosenfelder et al. 2014
+) to measure formants at five timepoints for each token,
+at 20 percent, 35 percent, 50 percent, 65 percent, and
+80 percent of vowel duration. Including data from AA speakers,
+1,979,244 total vowel tokens were measured, leaving 1,480,519 for the
+EA speakers analyzed here. Formant values were converted into Barks
+( Zwicker 1961 ), using the formula presented in Traunmüller
+(1990) , to transform them from a linear to a
+logarithmic scale. Vowels that came from highly frequent stopwords, did
+not have primary (lexical) stress, or preceded liquids were removed.
+Only goose , foot , goat , thought , and
+lot , as coded by The CMU pronouncing dictionary (
+Lenzo 2013 ), were retained in this dataset, leaving 102,229
+vowel tokens for analysis. We acknowledge that relying upon classifications
+listed in The CMU pronouncing dictionary may introduce some inaccuracies
+in the results, particularly for the low vowels, since regional
+or individual variation in lexical specification may occur for certain
+words.

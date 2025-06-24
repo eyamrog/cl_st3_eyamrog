@@ -1,0 +1,4 @@
+Results of the KarMMa study support substantial antitumor activity for
+ide-cel across a target dose range of 150×10 to 450×10
+CAR+ T cells. The 450×10 dose appeared to be somewhat
+more effective than the other doses.

@@ -1,0 +1,18 @@
+To compute the difference in dimensionless work and power between
+humans and bipedal chimpanzees, the percent difference was calculated as
+|( s 1 – s 2 )|/[( s 1 +
+s 2 )/2] × 100, where s 1 (species 1)
+and s 2 (species 2) are the species mean work
+and power parameters. Because the sample was balanced, a two-level
+nested analysis of variance (ANOVA) was used to compare work
+and power output in each period or phase of a
+walking stride (i.e., double-support 1, single-support, double-support 2, and limb
+swing; Fig. 1 ), as well as the total mechanical
+work and power output over a full stride, to test
+hypotheses 1–3. A two-level nested approach allowed repeated individual subject
+trials to be incorporated as random effects and was therefore
+preferred to an independent samples t-test based on subject means.
+Statistical significance was set at α = 0.05. The nested
+ANOVA was computed in R v. 4.0.2 using the base
+package for Mac OS ( R Development Core Team, 2020
+).

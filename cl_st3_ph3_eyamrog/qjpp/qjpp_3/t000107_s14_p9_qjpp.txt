@@ -1,0 +1,15 @@
+B16F10 melanoma cells expressing the LCMV GP 33-41 epitope (B16F10-gp33)
+( Prévost-Blondel et al., 1998 65. Prévost-Blondel, A. ∙ Zimmermann,
+C. ∙ Stemmer, C. ... Tumor-infiltrating lymphocytes exhibiting high ex
+vivo cytolytic activity fail to prevent murine melanoma tumor growth
+in vivo J. Immunol. 1998; 161 :2187-2194 Crossref PubMed Google
+Scholar ) were maintained at 37 °C in DMEM medium
+supplemented with 10% FBS, penicillin, streptomycin and L-glutamine. Tumor cells
+were injected subcutaneously into the flanks of Rag2 −/− mice
+at 1 × 10 5 cells/recipient and of Cas9 +
+B6 mice at 2 × 10 5 cells/recipient. Activated sgRNA
++ C9P14 cells are sorted and transferred into recipient mice
+at a dose of 1 × 10 6 cells/recipient (for
+Rag2 −/− ) or 3 × 10 6 cells/recipient (for
+Cas9 + ). Tumor size was measured using digital calipers
+every 2-3 days after inoculation.

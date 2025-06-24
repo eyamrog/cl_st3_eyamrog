@@ -1,0 +1,7 @@
+Organisms walk a tightrope when responding to infections. Misdirected or
+exaggerated immune responses can result in damage to the self,
+energetic costs, and unnecessary illness. Suppressed immune response allows pathogens
+to replicate unchecked, potentially leading to death or compounded future
+immune costs. Thus, immune responses must be tightly regulated but
+variable, responding to and anticipating demands on the basis of
+information gleaned from the environment.

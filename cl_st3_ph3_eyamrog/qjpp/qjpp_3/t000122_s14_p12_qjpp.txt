@@ -1,0 +1,22 @@
+Initial identification of neutralizing antibodies was performed in 96-well format
+using biologically-contained EbolaΔVP30 virus expressing Renilla luciferase, as previously described
+( Davis et al., 2019 11. Davis, C.W. ∙ Jackson,
+K.J.L. ∙ McElroy, A.K. ... Longitudinal Analysis of the Human
+B Cell Response to Ebola Virus Infection Cell. 2019; 177
+:1566-1582.e17 Full Text Full Text (PDF) Scopus (114) PubMed Google
+Scholar ; Halfmann et al., 2008 23. Halfmann, P. ∙
+Kim, J.H. ∙ Ebihara, H. ... Generation of biologically contained
+Ebola viruses Proc. Natl. Acad. Sci. USA. 2008; 105 :1129-1133
+Crossref Scopus (101) PubMed Google Scholar ). EbolaΔVP30-RenLuc viruses expressing
+EBOV GP (H.sapiens-tc/GIN/2014/Gueckedou-C07), Sudan GP (H.sapiens-tc/Sudan/1976/Boneface-R4142L), or BDBV GP (H.sapiens-tc/UGA/2007/Butalya-811250)
+were incubated with 10 μg/mL of mAb for 2 h
+at 37°C and then inoculated onto Vero cells (ATCC, Manassas
+VA, USA) expressing EBOV VP30 ( Halfmann et al., 2008
+23. Halfmann, P. ∙ Kim, J.H. ∙ Ebihara, H. ...
+Generation of biologically contained Ebola viruses Proc. Natl. Acad. Sci.
+USA. 2008; 105 :1129-1133 Crossref Scopus (101) PubMed Google Scholar
+). Luciferase expression, measured in relative light units (RLU), was
+measured 3 days later using EnduRen luciferase substrate (Promega), on
+a Tecan M1000 Pro plate reader. Neutralizing mAbs that reduced
+EBOV RLU levels > 50% were considered neutralizing, and further
+screened using live virus.

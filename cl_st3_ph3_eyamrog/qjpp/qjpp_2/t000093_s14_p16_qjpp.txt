@@ -1,0 +1,18 @@
+In order to determine precise phase threshold boundaries for intracellular
+phase diagrams, analyzed cells must feature high variability with respect
+to sspB-mCherry and iLID-mGFP concentrations, so as to sample sufficient
+core concentrations and valences. In order to achieve a broad
+concentration range for both components, G3BP KO cells were transduced
+in 96-well plates using an arrayed lentivirus approach. In this
+protocol, rows varied from 2 to 60 [2, 6, 20,
+60] μL iLID-GFP-Fe lentivirus; columns, 2 to 60 [2, 6,
+20, 60] μL mCherry-sspB-protein of interest (“POI”) (or POI-mCherry-sspB) lentivirus.
+G3BP KO cells were plated directly into the arrayed lentivirus
+to achieve ~25% confluency upon subsequent attachment to the plastic
+substrate. 72 h later, at confluency, all 16-wells associated with
+an individual Corelet condition were washed with PBS, trypsinized, quenched
+with fresh media, and combined into a single test tube,
+thus ensuring a diverse population of cells with highly variable
+iLID to sspB ratios. Cells were plated at a 1:8
+dilution factor onto fibronectin-coated, glass bottom 96-well plates (Cellvis) and
+imaged 48 h later when at 60%–90% confluency.

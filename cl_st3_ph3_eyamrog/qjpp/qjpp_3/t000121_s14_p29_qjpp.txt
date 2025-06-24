@@ -1,0 +1,10 @@
+ADA.CM.v4 hVLPs were prepared for neutralization assays as described above
+except omitting the AT-2 inactivation step. Pseudotyped viruses were similarly
+produced by co-transfection of HEK293T cells using pSG3ΔEnv backbone plasmid
+and Env-complementation plasmid. Serial dilutions of antibodies were added to
+virus and the mixture was incubated for 1 h at
+37°C prior to addition to TZM-bl target cells. DEAE-dextran was
+added to wells to a final concentration of 10 μg/mL.
+After incubating for 72 h at 37°C, cells were lysed,
+Bright-Glo luciferase reagent (Promega) was added, and luminescence was measured
+using a Synergy H1 microplate reader (Bio-Tek).

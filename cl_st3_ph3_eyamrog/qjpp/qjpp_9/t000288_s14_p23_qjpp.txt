@@ -1,0 +1,2 @@
+Modification is coded as binary, with instances of multiple pre-modification,
+as in (20), subsumed under modification .

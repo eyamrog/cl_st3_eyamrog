@@ -1,0 +1,5 @@
+With the obtained linear variables from the raw 3D coordinates,
+we first analyzed the magnitudes of integration between the cranium
+and the cervical vertebrae in the three species using the
+‘integration.test’ function of ‘geomorph,’ the same method applied for GMs
+(discussed earlier).

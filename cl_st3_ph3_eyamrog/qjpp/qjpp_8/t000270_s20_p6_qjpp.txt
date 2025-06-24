@@ -1,0 +1,7 @@
+Finally, we observe that epidemics with final sizes up to
+90% were insensitive to variation in every independent variable (
+Fig. 2 , column 3). Peak sizes for final sizes
+of more than 90%, however, follow the shape of the
+final size curves. That is, only if the disease spreads
+through almost the entire network, the number of simultaneously infected
+agents correlates with the final size of the epidemic.

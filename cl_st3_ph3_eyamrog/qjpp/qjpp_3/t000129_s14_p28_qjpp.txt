@@ -1,0 +1,11 @@
+Genomic DNA from E11.5 forelimbs was obtained using Quick-DNA/RNA Microprep
+Plus Kit. Bisulfite conversion was performed on 1μg of DNA
+using the EpiTect Bisulfite Kit. Bisulfite-treated DNA was PCR amplified
+by nested PCR at the Zfp42 promoter and subsequently cloned
+into a pbluescript vector and sequenced. 10-20 clones from 2
+replicates per samples were Sanger sequenced and a total of
+12 CpG were analysed with BiQ Analyzer software ( Bock
+et al., 2005 23. Bock, C. ∙ Reither, S. ∙
+Mikeska, T. ... BiQ Analyzer: visualization and quality control for
+DNA methylation data from bisulfite sequencing Bioinformatics. 2005; 21 :4067-4068
+Crossref Scopus (499) PubMed Google Scholar ).

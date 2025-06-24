@@ -1,0 +1,8 @@
+Taken together, these results show that hippocampal value place cells
+conserve two important directional properties observed in rodents running on
+linear tracks. First, neurons are directionally selective. Value place fields
+are uncorrelated when the subject traverses the same location in
+abstract value space in different directions but are correlated when
+the traversal occurs in the same direction. Second, neurons shape
+their value place fields with experience, as the animal learns
+to predict the direction of the trajectory.

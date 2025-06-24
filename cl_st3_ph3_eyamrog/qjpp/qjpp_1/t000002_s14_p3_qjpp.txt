@@ -1,0 +1,16 @@
+Fitbit data were reported as daily (steps per day) and
+intraday (steps per minute) step counts. We examined step intensity
+using steps per minute data . Intensity was defined using
+mean bout cadence, that is, steps per minute, which were
+calculated by averaging the steps over the time when a
+participant engages in ≥2 consecutive minutes at ≥60 steps per
+minute (which suggests that the participant is at least engaged
+in slow walking ) across all valid days . Evidence
+suggests that 10-hour wear time is sufficient to estimate daily
+physical activity during waking time . Therefore, a valid day
+was defined as a participant wearing the Fitbit for at
+least 10 hours per day and reporting at least 100
+steps per day. We acknowledge that Fitbit devices have reduced
+fidelity compared with research-grade actigraphs; however, in systematic reviews, Fitbits
+outperform other commercially available devices when correlated with research-grade devices
+.

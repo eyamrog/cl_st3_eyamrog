@@ -1,0 +1,16 @@
+One hypothesis for GMV is heterogamy—the occurrence of homogametic sex
+chromosomes in one sex and heterogametic sex chromosomes in the
+other. In the homogametic sex of such species, the traits
+affected by the sex chromosomes are influenced by the averaging
+of two parental copies, whereas in the heterogametic sex the
+effects are not averaged. Consequently, the heterogametic sex is expected
+to exhibit greater variability in those traits than is the
+homogametic sex. This explanation has been well evidenced by a
+meta-analysis of body size measurements for a diverse range of
+species by Reinhold and Engqvist (2013) , who found that
+in the two taxa represented in the data set where
+males are heterogametic (mammals and some insects), males are typically
+more variable in body size , whereas in the two
+taxa with heterogametic females (birds and butterflies), the females typically
+exhibit greater variance (but see Wyman and Rowe, 2014 ;
+Branch et al., 2020 ).

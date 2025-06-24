@@ -1,0 +1,16 @@
+The concepts of integration and modularity refer to the degree
+of interaction between the characters of one or more anatomical
+structures ( Olson and Miller, 1958 ). Both concepts have
+been defined as important in the phenotypic evolution of organisms
+from a developmental, genetic, and/or functional point of view (e.g.,
+Olson and Miller, 1958 ; Cheverud, 1996 ; Wagner, 1996
+; Goswami et al., 2014 ). Morphological integration describes high
+degree of correlation within subsets of morphological traits , which
+may result in long-term coevolution ( Cheverud, 1996 ). Modularity
+refers to the relative independence of traits that are part
+of different developmental or functional regions. In evolutionary studies, these
+concepts are crucial for the reconstruction and understanding of how
+morphological changes occur in organisms because they can facilitate or
+restrict the evolution of their characters in specific directions (
+Wagner, 1996 ; Hallgrímsson et al., 2007 ; Goswami and
+Polly, 2010 ; Gómez-Robles and Polly, 2012 ).

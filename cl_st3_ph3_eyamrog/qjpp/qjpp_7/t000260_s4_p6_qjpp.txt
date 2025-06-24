@@ -1,0 +1,13 @@
+Fourth, a key contribution here has been to highlight the
+social components of the models typically used to analyse the
+epidemic, as well as introduce the basic structure of what
+we have classified as a global social compartmental model. Given
+the focus of this paper, we have used one of
+the most basic compartmental models, namely the SIRD, as the
+basis of our analysis. Our approach can be extended into
+other compartmental models that include more compartments and/or other structures
+like age cohorts ( Prem et al., 2020 ) and/or
+social groups ( Albi et al., 2020a , b )
+in order to take into account other relevant characteristics of
+an epidemic and be able to also analyse in detail
+within country and other intra-group inequalities.

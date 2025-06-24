@@ -1,0 +1,19 @@
+This study examines the use of recurrent multi-word sequences (lexical
+bundles) found in a learner corpus of English argumentative essays
+written by L1 Korean college students at three different proficiency
+levels: low, mid and high. After compiling a list of
+the most frequently occurring four-word bundles in the three sub-corpora
+of the learner corpus, the study categorises them by structure
+and identifies which bundles appear in more than one sub-corpus.
+It then identifies frequent bi-grams embedded in the bundles in
+each sub-corpus to ascertain how the learners at each proficiency
+level construct multi-word sequences in context. The findings indicate that
+more proficient learners favour phrasal bundles, often producing them along
+with post-modifiers and in longer sentences, and thus approximating norms
+for academic prose. Lower proficiency learners, however, tend to use
+more clausal bundles, often including first-person pronouns and employing only
+a few specific verbs such as want and be ,
+all of which are characteristic of spoken and informal registers.
+Taken together, these findings reflect L2 development in the use
+of formulaic language as they describe the uses of lexical
+bundles that are specific to each proficiency level.

@@ -1,0 +1,15 @@
+Comparisons of the PCAs of the isometrically and allometrically adjusted
+shapes reveal that taxa are more distinct after allometric adjustment
+( Fig. 13 ). The increased shape differentiation is the
+consequence of both reduced shape variation shown by all taxa
+(except intragenerically in Pan ; SOM Table S14 ) and
+increased shape differences between all three pairs of taxa that
+are compared ( SOM Table S15 ). Download: Download high-res
+image (1MB) Download: Download full-size image Figure 13 . Plots
+of PC1 and PC2 showing isometrically (A–C) and allometrically (D–F)
+adjusted shapes of the maxilla when comparing Pan with Gorilla
+(A, D), P. troglodytes with P. paniscus (B, E), and
+G. gorilla with G. beringei (C, F). Allometrically adjusted specimens
+are scaled to the mean size of the genera (D)
+or the species (E, F). Shape differentiation increases after allometric
+adjustment.

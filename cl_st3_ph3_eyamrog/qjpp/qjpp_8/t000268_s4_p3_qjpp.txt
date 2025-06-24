@@ -1,0 +1,16 @@
+Second, we assessed the relationship between global economic uncertainty and
+suicide risk by estimating a fixed-effects panel model, controlling for
+unemployment and economic growth. Overall, we found that increased lagged
+uncertainty was associated with increased suicide rates. This suggests that
+the incidence of global economic uncertainty shocks is not immediately
+reflected in an increase in suicide rates and highlights the
+complex relationship between the two. Increases in unemployment and economic
+growth were also found to be associated with an increased
+risk of suicide, although there were differences between regions. Unemployment
+had its greatest impact in East Asia and the Pacific
+, while economic uncertainty and accelerated economic growth were most
+significant in Africa and the Middle East. Given the anticipatory
+nature of economic uncertainty and its relationship with suicide rates,
+the results confirm the usefulness of uncertainty indicators for the
+early detection of increases in suicide risk and the design
+of suicide prevention programmes.

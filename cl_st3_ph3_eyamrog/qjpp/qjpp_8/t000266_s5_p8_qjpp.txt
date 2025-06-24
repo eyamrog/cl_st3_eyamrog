@@ -1,0 +1,13 @@
+Reducing the complexity also entailed simplifying the attribute and level
+descriptions in the choice tasks—as is common in health state
+valuation (see e.g. ( Devlin et al., 2018 ). We
+do not know whether and how this might have impacted
+the interpretation of attributes and levels, as we did not
+formally test the equivalence of abbreviated and full descriptions. Nevertheless,
+this is not expected to have had a substantial impact
+on the valuation results. First, as much as possible, all
+domains and levels were abbreviated in the same manner. Second,
+prior to the valuation tasks, individuals already were introduced to
+the full WOOP instrument with the full descriptions. Third, respondents
+had the full attribute descriptions available as mouse-over elements in
+the choice task to ease interpretation.

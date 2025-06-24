@@ -1,0 +1,14 @@
+There is, however, an important missing variable in the Vancouver
+data: race. The closest measures to race in the BC
+data are “language spoken at home” and whether or not
+the student was enrolled in an ESL (English as a
+Second Language) program which are, at best, weak proxies. But
+the lack of this simple demographic variable, however, severely limited
+the extent to which it was useful for comparing to
+Toronto youth. Black youth—those that experienced the greatest systemic barriers
+in Toronto—most likely spoke English as their native language. In
+the end, we decided such comparisons were simply not viable.
+Race as a demographic measure is something lacking in the
+vast majority of Canadian education data sets, steeped in a
+long history of whitewashing racial differences and masking racial disparities
+in the language of multiculturalism.

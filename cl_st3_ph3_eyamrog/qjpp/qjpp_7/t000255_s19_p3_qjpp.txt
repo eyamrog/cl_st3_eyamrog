@@ -1,0 +1,10 @@
+Table 2 shows results from the MLMs. The first model
+predicted overall subjective memory trajectories across the study period using
+linear and quadratic terms for time with no covariates in
+the model. Both the linear and quadratic slopes were statistically
+significant. The linear slope indicator was negative, Estimate (SE) =
+−.042 (.004), and the quadratic slope indicator was positive, Estimate
+(SE) = .003 (.001). These coefficients indicate that subjective memory
+followed a curve from April 2020 to January 2021, with
+a sharper decline in the initial months of the pandemic
+and a subsequent leveling off in rate of decline.

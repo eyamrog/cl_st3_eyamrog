@@ -1,0 +1,26 @@
+The clusters enriched for FLU-reactive CD4 + T cells (clusters
+1 and 10) displayed features suggestive of polyfunctional T helper
+(T H )1 cells which have been associated with protective
+anti-viral immune responses ( Seder et al., 2008 40. Seder,
+R.A. ∙ Darrah, P.A. ∙ Roederer, M. T-cell quality in
+memory and protection: implications for vaccine design Nat Rev Immunol.
+2008; 8 :247-258 Crossref Scopus (1270) PubMed Google Scholar ).
+Such features include the expression of transcripts encoding for the
+cytokines linked to polyfunctionality such as IFN-γ, IL-2, and TNFα,
+and several other cytokines and chemokines like IL-3, CSF2, IL-23A,
+and CCL20 ( Figures 2 D, 2E, S2 E, and
+S2F). SARS-CoV-2-reactive CD4 + T cells were underrepresented in these
+clusters (cluster 1 and 10, < 2%) when compared to
+FLU-reactive cells (> 70%) or HMPV- and HPIV-reactive cells (~5%–20%)
+( Figure S2 C). Furthermore, SARS-CoV-2-reactive CD4 + T cells
+in cluster 1 expressed significantly lower levels of IFNG and
+IL2 transcripts when compared to FLU-reactive cells ( Table S2
+G). Together, these data suggested a failure to generate robust
+polyfunctional T H 1 cells in SARS-CoV-2 infection. A similar
+pattern was also observed in SARS-CoV-2-reactive CD4 + T cells
+from healthy non-exposed subjects ( Figures 2 B and S2
+C) but not for HPIV- or HMPV-reactive CD4 + T
+cells, suggesting the defect in generating polyfunctional T H 1
+cells may be a common feature for coronaviruses, although further
+studies specifically analyzing HCoV-reactive CD4 + T cells in healthy
+individuals will be required to verify this.

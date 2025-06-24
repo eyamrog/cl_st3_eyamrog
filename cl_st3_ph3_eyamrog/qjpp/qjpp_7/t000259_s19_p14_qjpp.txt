@@ -1,0 +1,15 @@
+Further, in addition to accounting for the possibiltiy of correlated
+errors at the respondent level, some might also ask whether
+or not there are systematic demographic differences between respondents concerning
+their intentions to vaccinate (e.g., see Callaghan et al., 2021
+unpublished ), and whether or not these differences might influence
+the effects depicted in Fig. 2 . Table 2 ,
+Colum 3, presents the results of models which adds control
+variables denoting respondents’ age (dichotomous indicators of whether respondents are
+aged 25–44, 44–65, or older than 65), educational attainment (a
+dichotomous indicator of whether or not respondents completed college), race
+(indicators denoting whether respondents self-identify as Black [non-Hispanic] or Hispanic),
+gender (a dichotomous indicator of whether respondents self-identify as female),
+and annual household income (measured on a 24 point scale
+ranging from <$14,999 to $250,000 or more; and intervalized to
+range from 0 to 1).

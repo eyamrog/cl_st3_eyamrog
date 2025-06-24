@@ -1,0 +1,7 @@
+Figure 5 shows that punctuation is by far the most
+important predictor, with variety ranking second but at a much
+lower level. The effect of shell noun on the choice
+between bare proposition and integration with a that- clause is
+even less, as is that of article . PreSet and
+modification rank even lower, while PostSet is excluded from the
+model (i.e., it was not selected as a significant predictor).

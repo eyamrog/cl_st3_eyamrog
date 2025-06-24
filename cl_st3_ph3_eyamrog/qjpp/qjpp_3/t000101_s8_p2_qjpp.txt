@@ -1,0 +1,15 @@
+The correction of pathogenic mutations through interhomolog recombination with a
+lack of mosaicism, if confirmed, would have major advantages over
+other approaches, given that it does not require the introduction
+of exogenous nucleic acids and is limited to alleles already
+present in the human population. However, alternative interpretations of the
+results have been proposed, including the loss of the paternal
+allele through deletions, chromosome loss, or translocations ( Egli et
+al., 2018 11. Egli, D. ∙ Zuccaro, M.V. ∙ Kosicki,
+M. ... Inter-homologue repair in fertilized human eggs? Nature. 2018;
+560 :E5-E7 Crossref Scopus (62) PubMed Google Scholar ; Adikusuma
+et al., 2018 3. Adikusuma, F. ∙ Piltz, S. ∙
+Corbett, M.A. ... Large deletions induced by Cas9 cleavage Nature.
+2018; 560 :E8-E9 Crossref Scopus (220) PubMed Google Scholar ).
+Thus, many questions remain regarding the outcomes of a DSB
+in human embryos, which we sought to address.

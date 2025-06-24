@@ -1,0 +1,6 @@
+Moreover, in addition to the conceptual appropriateness of a rating-based
+conjoint task, recent research has found that results from the
+discrete choice and ratings approaches often closely mirror one another
+(e.g., see Hainmueller et al., 2014 ). Consequently, it appears
+both conceptually and empirically appropriate to employ a rating-based task
+in this study.

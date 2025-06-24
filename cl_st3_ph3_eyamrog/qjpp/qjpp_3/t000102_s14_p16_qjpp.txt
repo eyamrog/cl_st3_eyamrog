@@ -1,0 +1,7 @@
+Chromatin condensates were formed by first preparing buffer solutions containing
+either Tris-Cl pH 7.8 or Tris-(OAc) pH 7.5, the designated
+salts, and in some cases 5% [w/v] glycerol, 0.1 μg/mL
+BSA, or 5 mM DTT. Nucleosomal arrays were then added
+to the buffer solution to a final volume of 2mL
+and nucleosome concentration of 10 nM, rapidly mixed, and incubated
+for 20 min at 23°C.

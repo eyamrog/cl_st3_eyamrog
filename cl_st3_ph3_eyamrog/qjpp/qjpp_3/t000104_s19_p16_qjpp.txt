@@ -1,0 +1,10 @@
+Next, we evaluated the effects of pharmacologically targeting SUV39H1 on
+tumor growth and immunotherapy response. F5446 treatment inhibited mammary tumor
+growth in immunocompromised mice in a dose-dependent manner ( Figures
+6 H–6J). F5446-treated tumors exhibited a dose-dependent increase in γH2AX
+and cleaved caspase 3, a marker of apoptosis ( Figure
+6 K). Consistent with the observed effects in vitro (
+Figures S5 F and S5G), F5446-treated tumors upregulated expression of
+REs, IFN-α/β, and ISGs ( Figure 6 L). In addition,
+F5446 treatment enhanced the sensitivity of 4T1 tumors to anti-PD-1
+therapy, resulting in increased mouse survival ( Figures 6 M–6O).

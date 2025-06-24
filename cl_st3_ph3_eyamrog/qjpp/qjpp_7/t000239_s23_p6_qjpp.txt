@@ -1,0 +1,22 @@
+In a similar vein, management and organization sciences have intensively
+examined the issue of heuristic switching, with E. J. Johnson
+and Payne (1985) the gold standard the first in a
+long line of papers. The main insight of this literature,
+neatly encapsulated by Bauer et al. (2013) , is that
+decision-making is a highly adaptive process with choice of heuristics
+conditioned on the difficulty of the task being undertaken. As
+a task becomes increasingly more difficult, heuristics might switch to
+ones which are better suited for an increasingly complex environment,
+while suffering no corresponding loss of accuracy Bauer et al.
+(2013) . Finally, economics has also focused on how a
+heuristic becomes replaced by another one, with economics specifically exploring
+heuristic switching in the context of inflationary expectations and how
+these expectations are formed. Papers such as Brazier et al.
+(2008) , Massaro (2013) , and Dosi et al. (2020)
+show how adaptive learning occurs as agents switch across monetary
+heuristics based on imperfect assessments of prior performance (and how
+their changes also endogenously influence the effectiveness of these heuristics
+in dampening volatility). In the economics literature, thus, heuristics are
+part and parcel of the outcome as well as the
+decision-making process, and the complexity of this feedback loop may
+mean that heuristics are in constant flux.

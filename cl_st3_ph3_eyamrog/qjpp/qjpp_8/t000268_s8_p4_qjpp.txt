@@ -1,0 +1,21 @@
+To the best of our knowledge, only four studies have
+investigated the relationship between economic uncertainty and suicide rates (
+Antonakakis and Gupta, 2017 ; De Bruin et al., 2020
+; Vandoros et al., 2019 ; Vandoros and Kawachi, 2021
+). Antonakakis and Gupta (2017) examined the relationship between policy-related
+economic uncertainty and suicide mortality in the United States (US)
+during the period 1950–2013, controlling for other socioeconomic determinants. The
+authors found that increased uncertainty was associated with increased suicide
+mortality in the youngest and oldest segments of the male
+population. De Bruin et al. (2020) estimated a fixed-effects panel
+model that matched economic uncertainty and other economic variables to
+suicide rates in 17 countries, and noted a significant association
+between them. Vandoros et al. (2019) used daily data for
+England and Wales , and found that economic uncertainty had
+an effect on the increased risk of suicide in the
+short term. Vandoros and Kawachi (2021) analysed the relationship by
+matching monthly suicide data from the US at states’ level
+from 2000 to 2017 with economic uncertainty and other economic
+indicators. The authors found a positive association and highlighted the
+importance of providing access to suicide prevention interventions during periods
+of high economic uncertainty.

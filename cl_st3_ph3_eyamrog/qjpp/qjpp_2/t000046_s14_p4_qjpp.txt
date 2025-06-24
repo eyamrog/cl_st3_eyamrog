@@ -1,0 +1,6 @@
+Applying price elasticities matrices from one context to another, where
+food consumption patterns and prices differ, might violate assumptions that
+are inherent in price elasticities matrix estimation, which could result
+in underestimation or overestimation of postintervention total food purchasing. We
+therefore constrained total food expenditure using a total food expenditure
+elasticity ( appendix p 2 ).

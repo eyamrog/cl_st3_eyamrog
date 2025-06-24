@@ -1,0 +1,13 @@
+Synthetic biotinylated nucleosomes (EpiCypher no. 16-0006, 16-0315, 16-0325; 25 μg)
+were incubated with 10 μL of streptavidin beads (Cell Signaling
+Technology no. 3419) in binding buffer (50 mM Tris-HCl [pH
+7.4], 125 mM NaCl, 1 mM EDTA, 0.1% Triton X-100,
+50 mM NaF, 1 mM PMSF, 1 mM Na 3
+VO 4 , 1 μg/mL Aprotinin, 1 μg/mL Leupeptin, 1
+μg/mL Pepstatin) on a rotator for 30 min at 4°C.
+Then, 8 μg of recombinant FBXO44 protein (OriGene no. TP760409)
+was added and incubated for 2 hr at 4°C in
+250 μL total volume. Freeze-thaw cycles were avoided with recombinant
+proteins. After centrifugation, the beads were washed 3 × 10
+min with binding buffer and boiled in 1x SDS gel
+loading buffer prior to electrophoresis.

@@ -1,0 +1,24 @@
+Many studies have assessed targeted taxes on sweetened sugary beverages,
+but fewer have simulated the health impacts from taxes and
+subsidies that act on many foods. A 2007 study by
+Mytton and colleagues raised concern that taxing saturated fat alone
+might create a net deleterious impact on cardiovascular disease through
+increased salt intake, but they did find health improvements for
+taxes on unhealthy foods. In 2009, Nnoaham and colleagues estimated
+the effects of food taxes on cause-specific deaths and total
+deaths. They found that a saturated fat-only tax increased cancer
+and cardiovascular disease deaths (due to compensatory increases in salt
+intake), but that a package of taxing less healthy foods
+with all revenue used to subsidise fruits and vegetables could
+lead to large reductions in deaths. In 2017, Cobiac and
+colleagues examined taxes on saturated fat, salt, sugar, and sugar-sweetened
+beverages, and a subsidy on fruits and vegetables. Their tax
+amounts were similar to those that we have used, but
+the taxes only applied to nutrients when they exceeded a
+threshold (eg, saturated fat tax only on products with more
+than 2·3% saturated fat), leading to lower per capita health
+gains. Moreover, they found that on its own, a fruit
+and vegetable subsidy generated health loss because of substitution effects.
+We suspect that if an expenditure constraint had been used
+(as we did with a food expenditure elasticity), this result
+might not have occurred.

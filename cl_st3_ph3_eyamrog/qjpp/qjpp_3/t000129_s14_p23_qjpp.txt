@@ -1,0 +1,26 @@
+ATAC-seq was performed as described previously ( Buenrostro et al.,
+2015 29. Buenrostro, J.D. ∙ Wu, B. ∙ Chang, H.Y.
+... ATAC-seq: a method for assaying chromatin accessibility genome-wide Curr.
+Protoc. Mol. Biol. 2015; 109 :21.29.1-21.29.9 Crossref Scopus (1186) PubMed
+Google Scholar ). Briefly, 1x10 5 isolated E11.5 limb cells
+were employed per biological replicate. Cells were washed in cold
+PBS, lysed in fresh lysis buffer (10mM TrisCl pH7.4, 10mM
+NaCl, 3mM MgCl2, 0.1% (v/v) Igepal CA-630) for 2 min
+on ice, and finally pelleted for 10 min at 500
+x g and 4°C. Following supernatant aspiration, nuclei-containing pellets were
+subjected to transposition using Tn5 Transposase for 30 min at
+37° C. Resulting DNA was then purified using MinElute Reaction
+Clean up kit, eluted in 11 μl of elution buffer
+and stored in -20° C, if not immediately processed further.
+Barcoded adapters were added to the transposed fragments by PCR.
+To avoid saturation in our PCR, we initially performed 5
+cycles and extracted a 5 μl aliquot for qPCR to
+identify the number of cycles required without overamplification. Nextera qPCR
+primers were used for the amplification. The remaining 45 μl
+of the PCR reaction were then amplified for the desired
+number of cycles which never exceeded 12. Finally, samples were
+purified on AMPure XP beads and eluted in 20 μl.
+Concentration was measured with Qubit and the quality of the
+samples was estimated by Bioanalyzer analysis. ATAC-seq samples were sequenced
+yielding for 50 million 75 bp paired-end reads and each
+experiment was performed in duplicate.

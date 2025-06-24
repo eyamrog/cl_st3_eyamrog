@@ -1,0 +1,26 @@
+The heart of the heuristics and bias approach is the
+argument that cognitive biases, generally manifested as relying on any
+number of simplistic rules of thumb, persist even in the
+face of evidence to the contrary (or simply pass by
+unaware), leading to suboptimal decision-making. Given their pervasive nature, reliance
+on heuristics can be problematic if the decision that is
+arrived at via cognitive shortcuts (including availability bias, the representativeness
+heuristic, or anchoring) returns suboptimal utility compared with a decision
+made by not utilizing such shortcuts; as Miler (2009 :868)
+correctly noted, “when the use of heuristics leads individuals to
+rely on a subset of information that is biased, the
+usual efficiency gains associated with using cognitive shortcuts will be
+outweighed by the costs of making poor decisions.” The heuristics
+and bias approach thus calls into question most of what
+we consider as standard probability theory, as our own judgments
+about probability distributions can be off by several factors, meaning
+that our decisions are also based on incorrect assumptions. Such
+a reality is of concern for the individual, but in
+the political context, where decisions are being made for others,
+it can result in much more dire ramifications as its
+errors are magnified. This is particularly important in a crisis
+for, as Evans (2010) noted, when problems are novel, more
+reflection and less reliance on intuition may result in better
+policies (in particular, an avoidance of a focus on short-term
+gains rather than long-term solutions, see Thaler et al. 1997
+).

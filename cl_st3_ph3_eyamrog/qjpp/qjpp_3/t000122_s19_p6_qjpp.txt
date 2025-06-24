@@ -1,0 +1,24 @@
+The other antibody, 1C3, instead binds to the top of
+GP, near the RBS within the GP1 “head” domain (
+Figure 3 D). Other head-binding antibodies have been described (
+Cohen-Dvashi et al., 2020 7. Cohen-Dvashi, H. ∙ Zehner, M.
+∙ Ehrhardt, S. ... Structural Basis for a Convergent Immune
+Response against Ebola Virus Cell Host Microbe. 2020; 27 :418-427.e4
+Full Text Full Text (PDF) Scopus (20) PubMed Google Scholar
+; Corti et al., 2016 8. Corti, D. ∙ Misasi,
+J. ∙ Mulangu, S. ... Protective monotherapy against lethal Ebola
+virus infection by a potently neutralizing antibody Science. 2016; 351
+:1339-1342 Crossref Scopus (326) PubMed Google Scholar ), including the
+EBOV-specific therapeutic mAb 114. In contrast to the 3:3 stoichiometry
+of the mAb 114-GP complex ( Misasi et al., 2016
+38. Misasi, J. ∙ Gilman, M.S.A. ∙ Kanekiyo, M. ...
+Structural and molecular basis for Ebola virus neutralization by protective
+human antibodies Science. 2016; 351 :1343-1346 Crossref Scopus (151) PubMed
+Google Scholar ), 1C3 has a unique binding stoichiometry. Our
+cryo-EM structure reveals that only one 1C3 Fab anchors to
+the GP trimer, simultaneously contacting all three GP1 monomers in
+the center of the GP chalice ( Figures 2 and
+Figure 3 D). The single copy of 1C3 buries ~470
+Å 2 on the first GP protomer in the trimer,
+~380 Å 2 on the second, and ~230 Å 2
+on the third.

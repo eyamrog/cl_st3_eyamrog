@@ -1,0 +1,11 @@
+The notification is sent electronically to FPs’ EMRs. How it
+arrives depends on the technological capabilities of individual FPs’ offices.
+Some EMRs can receive the information into their software and
+display it as an alert, so that it becomes one
+listing in a series visible on the computer screen when
+the FP logs in. For FPs whose EMRs do not
+have this capacity, the third-party vendor contracted by the health
+authority to transmit the data has a Web-based repository where
+notifications are stored as messages that can be downloaded once
+an FP has signed on with a user name and
+password.

@@ -1,0 +1,17 @@
+The instances of these three amplifiers were exhaustively retrieved from
+the corpus. Next, occurrences that were not instances of the
+grammatical patterns in focus were removed (e.g., so used as
+a linking adverb or very modifying a nominal or prepositional
+head; the latter were very infrequent in the data). The
+resulting data set ( so: N = 3510; very: N
+= 4263; too: N = 1331) 8 was coded for
+the variables: text (i.e., name of the text), text category
+, year (year of publication), pos (word class of the
+head word), and head (head word). The analysis focuses on
+three perspectives: first, after determining the frequencies of the three
+amplifiers per text, their distributions were compared across different text
+categories of medical writing. Second, changes in the frequency over
+the time period were traced using per-file-frequencies of the three
+amplifiers grouped according to the text category . Finally, their
+co-occurrence preferences with different adjective heads were compared using the
+measures of “attraction” and “reliance” ( Schmid 2000 ).

@@ -1,0 +1,13 @@
+GSEA scores were calculated with the package fgsea in R
+using the signal-to-noise ratio (or the log 2 fold change
+for cluster 5 versus cluster 0 comparison) as a metric.
+Gene sets were limited by minSize = 3 and maxSize
+= 500. Normalized enrichment scores were presented as GSEA plots.
+Signature module scores were calculated with AddModuleScore function, using default
+settings in Seurat. Briefly, for each cell, the score is
+defined by the mean of the signature gene list after
+the mean expression of an aggregate of control gene lists
+is subtracted. Control gene lists were sampled (same size as
+the signature list) from bins created based on the level
+of expression of the signature gene list. Gene lists used
+for analysis are provided in Table S2H.

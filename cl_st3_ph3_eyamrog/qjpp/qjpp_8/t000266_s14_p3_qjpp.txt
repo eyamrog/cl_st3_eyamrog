@@ -1,0 +1,22 @@
+Attributes and levels used in the choice experiment were defined
+by the descriptive system of the WOOP (see Appendix) (
+Hackert et al., 2020 ). Each of the nine domains
+of the WOOP is represented by one item with five
+response levels, generally ranging from excellent (level 1) to bad
+(level 5). Physical health level 1, for instance, represents being
+very satisfied with one's physical health. In addition to the
+nine WOOP domains, a duration attribute was included to enable
+trade-offs between quality and duration of life. Duration was specified
+in years using 17 values (0.25, 0.5, 1, 2, …,
+15). The values and the range thereof were selected to
+provide realistic quantities of remaining life years in our target
+population (smallest and highest values were designed to appear less
+frequently than the more commonly occurring and hence more realistic
+middle values). To further increase realism in the choice tasks,
+we ruled out that the following attribute levels could appear
+together: Level 1 of independence together with either level 5
+of physical or mental health , as well as level
+1 of social life and level 5 of support. In
+a previous data collection with 1,113 respondents, the first two
+combinations did not occur in the data, while the latter
+occurred just once ( Hackert et al., 2020 ).

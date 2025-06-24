@@ -1,0 +1,10 @@
+The work of mapping led to a deceptively simple set
+of requirements: notifications had to be straightforward and quick to
+comprehend; be interoperable with many EMRs to reach as many
+FPs as possible; be sustainable; and could not increase anyone’s
+workload once it was built since, as with most Canadian
+hospitals, the hospitals in this community routinely operate over-capacity (e.g.
+see Crawley 2020 ; Olsen 2017 ). IMIT created an
+automated electronic notification of hospital admissions, deaths in hospital, and
+discharges from acute care facilities to any FP in the
+province.

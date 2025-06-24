@@ -1,0 +1,2 @@
+Sedimentation coefficients were derived from sedimentation velocity data using the
+van Holde/Weischet analysis module

@@ -1,0 +1,14 @@
+As a first step, 4,040 socioeconomic indicators were obtained from
+the GovData360 and TCdata360 platforms using the data360r (version 1.0.8)
+R package (Ramin and Onglao-Drilon 2020). From these platforms, only
+annual indicators from 2015 and later were collected, and missing
+values were replaced with previous annual values in descending order
+by year until 2015. During preprocessing, indicators with a ratio
+of missing values exceeding 50 percent were filtered out. Then,
+the same filtering process was applied for countries, with the
+cutoff for missing values set at 25 percent. Finally, highly
+correlated variables and variables with near-zero variances were removed, and
+the standardized form of the retained 1,159 indicators was connected
+with 8 COVID-19 variables, generated based on the official reports
+of 138 countries ( European Centre for Disease Prevention and
+Control 2020 ). 3

@@ -1,0 +1,27 @@
+Other clusters that were relatively underrepresented for SARS-CoV-2-reactive CD4 +
+T cells included clusters 2 and 8, which were both
+enriched for T H 17 signature genes, with cluster 2
+highly enriched for cells expressing IL17A and IL17F transcripts, thus
+representing bona fide T H 17 cells ( Figures 2
+B–2F and S2 C–S2E and Table S2 F). T H
+17 cells have been associated with protective immune responses in
+certain models of viral infections ( Acharya et al., 2016
+1. Acharya, D. ∙ Wang, P. ∙ Paul, A.M. ...
+Interleukin-17A Promotes CD8+ T Cell Cytotoxicity To Facilitate West Nile
+Virus Clearance Journal of Virology. 2016; 91 e01529–e16 PubMed Google
+Scholar ; Wang et al., 2011 52. Wang, X. ∙
+Chan, C.C. ∙ Yang, M. ... A critical role of
+IL-17 in modulating the B-cell response during H5N1 influenza virus
+infection Cell Mol Immunol. 2011; 8 :462-468 Crossref Scopus (77)
+PubMed Google Scholar ); however, in other contexts they have
+been shown to promote viral disease pathogenesis ( Acharya et
+al., 2016 1. Acharya, D. ∙ Wang, P. ∙ Paul,
+A.M. ... Interleukin-17A Promotes CD8+ T Cell Cytotoxicity To Facilitate
+West Nile Virus Clearance Journal of Virology. 2016; 91 e01529–e16
+PubMed Google Scholar ; Ma et al., 2019 29. Ma,
+W.T. ∙ Yao, X.T. ∙ Peng, Q. ... The protective
+and pathogenic roles of IL-17 in viral infections: friend or
+foe? Open Biol. 2019; 9 :190109 Crossref Scopus (96) PubMed
+Google Scholar ). Therefore, the functional relevance of an impaired
+T H 17 response in COVID-19 is not clear and
+requires further investigation.

@@ -1,0 +1,5 @@
+Quantification approaches and statistical analyses of the genome sequencing, quality
+assessment of the assembly, phylogeny, QuIBL analysis, four-taxon D-statistic test,
+CoalHMM analysis, as well as the morphological comparative analyses can
+be found in the relevant sections of the method details
+.

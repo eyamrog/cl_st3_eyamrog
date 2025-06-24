@@ -1,0 +1,13 @@
+Considering the assumption check, robust ANOVA and robust t -test
+were chosen to run the comparison tests. In particular, a
+series of robust ANOVAs (median method) were carried out to
+test the gender × age effect on TPB , TPF
+, Shuttle , Floppy , Thumb , BMI , WtHR
+, Control , Locomotor , Active play . In case
+of a significant interaction effect, post-hoc analyses with Tukey correction
+for multiple comparisons were conducted. Robust t -tests (Yuen's test
+with 0.1 trimmed proportion and median method), in addition to
+the nonparametric Mann–Whitney U test, were carried out for the
+left versus right-side manual dominance effect on TPB , TPF
+, Shuttle , Floppy , Thumb , BMI , and
+WtHR .

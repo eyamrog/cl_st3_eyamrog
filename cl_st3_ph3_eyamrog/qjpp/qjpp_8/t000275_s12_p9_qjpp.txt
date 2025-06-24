@@ -1,0 +1,8 @@
+Micro-analysis is another interactional approach widely used to examine discourse
+practices in online discussions. The analysis adopts digital CA's focus
+on how users respond to each other but does not
+focus solely on adjacent pairs. For example, Ziegler et al.
+(2014) examined an online discussion thread through micro-analysis and revealed
+discourse practices employed by users to explore new ideas and
+engage in negotiation, such as making underlying assumption explicit and
+raising new questions.

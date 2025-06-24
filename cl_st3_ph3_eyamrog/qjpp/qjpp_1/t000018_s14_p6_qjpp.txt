@@ -1,0 +1,12 @@
+For the stimulation of stromal cells, either Ccd18-Co colonic fibroblasts
+(ATCC, no. CRL-1459) or primary stromal cell lines (isolated as
+above) were plated at 20,000 cells per well in a
+48-well plate. Plated cells were starved for 72 h in
+culture medium without FCS, before stimulation with cytokines or conditioned
+medium (prediluted 1:3 in starving medium) for 3 h or
+24 h at 37 °C. For blockade experiments, recombinant cytokines
+in starving or conditioned medium were preincubated with 2 mg
+ml Anakinra (Kineret) or Adalimumab (Humira) for 1 h at
+room temperature, with shaking, before stimulation of cells. After 3
+h, supernatants were removed and cells lysed directly in appropriate
+RNA lysis buffer.

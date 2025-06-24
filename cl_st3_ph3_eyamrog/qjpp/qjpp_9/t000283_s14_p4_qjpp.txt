@@ -1,0 +1,4 @@
+The total number of target words containing the vowels we
+consider here was 64,616 in dataset A, 51,576 in dataset
+B, and 23,640 in dataset C. We include word as
+a predictor in our statistical analyses.

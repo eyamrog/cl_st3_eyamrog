@@ -1,0 +1,17 @@
+with x i denoting the actual proportion of closed triads
+i belongs to, α the preferred proportion of closed triads,
+and t i the number of ties agent i possesses.
+Social maintenance costs are assumed to be quadratic in the
+number of ties t i to model increasing marginal costs
+of additional ties: (5) C i = c 1 ⋅
+t i + c 2 ⋅ t i 2 .
+The combination of benefits and costs for social ties (
+[ b 1 ⋅ t i ] − [ c
+1 ⋅ t i + c 2 ⋅ t i
+2 ] ) allows us to control the number of
+ties the agents seek to establish apart from clustering considerations.
+This largely controls the degrees of the agents and thus
+the average degree of the network. Further, we control the
+degree of clustering in the network by defining the proportion
+of closed triads agents seek to be a part of
+( α ).

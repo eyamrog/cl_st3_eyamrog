@@ -1,0 +1,20 @@
+Copper catalyzes the consumption of oxygen and the formation of
+reactive oxygen species (ROS) while depleting available antioxidants ( Buettner
+and Jurkiewicz, 1996 6. Buettner, G.R. ∙ Jurkiewicz, B.A. Catalytic
+metals, ascorbate and free radicals: combinations to avoid Radiat. Res.
+1996; 145 :532 Crossref Scopus (807) PubMed Google Scholar ).
+To explore the effect of MUC2 on copper-mediated electron transfer,
+we followed the oxidation of ascorbate in aerobic copper-containing solutions
+by monitoring the decrease in absorbance at 265 nm (
+Figure 4 A). Although Cu 2+ bound to MUC2 D1
+was reduced by ascorbate ( Figure 3 A), the bound
+copper did not undergo futile cycling in the transfer of
+electrons from ascorbate to oxygen ( Figure 4 B). Mutation
+of MUC2 copper ligands compromised the suppression of redox cycling,
+and Muc5b D1, which lacks a Cu 1+ binding site,
+was less effective than MUC2 D1 ( Figure 4 B).
+Longer MUC2 segments prevented the redox cycling of copper as
+effectively as the D1 assembly alone ( Figure 4 C).
+These results indicate that MUC2 D1 stabilizes Cu 1+ in
+the presence of oxygen in a manner that prevents accumulation
+of ROS.

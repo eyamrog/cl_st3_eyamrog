@@ -1,0 +1,9 @@
+The analyses presented here provide new evidence about the use
+of intensifiers in eighteenth century medical writing, considering both frequency
+data across seven sub-registers and statistical evidence of co-occurrence preferences
+of three major amplifiers ( so, very , and too
+) using Schmid’s (2000) measures of attraction and reliance. The
+study thus presents a specific application of a corpus-pragmatic method,
+incorporating both vertical reading associated with corpus studies and qualitative
+analyses of “contextual embeddedness of communication” ( Rühlemann & Aijmer
+2015 :3).

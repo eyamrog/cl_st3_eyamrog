@@ -1,0 +1,19 @@
+The presence of purposive by -phrase adjuncts to passive complements
+and of passive complements with non-reversive un- prefixes confirms, specifically
+in the cases of the tweets where they occur, that
+the passive complements are verbal. To be clear, these data
+do not show that passive complements to either need -passive
+must be verbal. However, need +ED data fail to contradict
+Tenny’s (1998) and Edelstein’s (2014) claims that need +ED allows
+only verbal complements. In doing so, need -passive productions on
+Twitter offer no challenge to the conclusions Tenny (1998) and
+Edelstein (2014) each reach from acceptability judgments about need +ED
+syntax. Indeed, the extension of Tenny’s (1998) and Edelstein’s (2014)
+tests to need +ING suggests that it would be valuable
+to test the acceptability of need +ING constructions that force
+verbal readings, as in (31), against constructions that allow or
+require the need +ING complement to be nominal, as in
+(32) and (33). (31) Education needs overhauling by experts. (Lagos;
+necessarily verbal) (32) Education needs overhauling . (Constructed; ambiguously verbal
+or nominal) (33) Education needs some serious overhauling . (Constructed;
+necessarily nominal)

@@ -1,0 +1,14 @@
+The reality is that most eHealth projects ultimately fail (
+Adler-Milstein, Bates, and Jha 2013 ; Leviss and Charney 2013
+). Poor design, disorganized implementation, and inadequate attention to training
+and change management can cause quality improvement (QI) projects such
+as eHealth to make health care delivery more difficult instead
+of less ( Dixon-Woods et al. 2014 ). As Grenier
+and Bigdoli (2015) discovered in their evaluation of health reform
+in Quebec, users will resist if the learning curve is
+too steep, eHealth creates too much work burden, or there
+are setbacks in implementation (see also Barr et al. 2017
+; T. F. Bishop et al. 2013 ). This is
+especially true when front-line workers feel they have little input
+into system design ( S. Bishop and Waring 2016 ;
+Grenier and Bidgoli 2015 ).

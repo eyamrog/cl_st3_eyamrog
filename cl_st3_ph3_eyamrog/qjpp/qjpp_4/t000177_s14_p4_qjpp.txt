@@ -1,0 +1,7 @@
+We constructed multivariate regression models for natural log-transformed lactoferrin. Predictors
+included maternal inflammation, maternal IDA, infant sex and age, and
+the interaction between mother-infant variables. Infant age tertiles rather than
+continuous age were used to model the trends across infant
+age, in light of the number of terms in models
+for the sample size. Models were adjusted for maternal age
+and parity and milk total protein.

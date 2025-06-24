@@ -1,0 +1,15 @@
+The mAb combination was next tested against EBOV in rhesus
+monkeys at both high (50 mg/kg; 25 mg/kg of each
+antibody) and low (25 mg/kg; 12.5 mg/kg of each antibody)
+doses, administered on Day 4 and Day 7 post-exposure. Protection
+from severe disease and death was achieved at both doses
+in treated NHPs as evidenced by mild clinical signs (temporary
+inappetence, slightly diminished activity), and 100% survival, whereas the mock
+(PBS)-treated exposed control animal succumbed to acute disease on Day
+8 ( Figure 6 B). Treated NHPs in both high-dose
+and low-dose combination groups presented with similarly mild clinical signs
+and subtle shifts in clinical pathology blood parameters, making the
+two treatment groups (high-dose and low-dose) phenotypically indistinguishable. Although all
+treated NHPs cleared EBOV viremia by Day 12 as determined
+by RT-qPCR, a small amount of RNA remained detectable on
+Day 21 ( Figure 6 D).

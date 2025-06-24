@@ -1,0 +1,8 @@
+As mentioned above, we totally had 5,685,945 qualified windows obtained
+from 984 Mb realigned WGAs after a set of filters.
+According to the topologies inferred by IQ-TREE for each window,
+we concatenated the windows with the output tree that supported
+the Dipr_Dasy tree and repeated the process for windows supporting
+the other two topologies. The MCMCTree program was then used
+to analyze three types of alignments and the outputs are
+presented in Figure S2 A.

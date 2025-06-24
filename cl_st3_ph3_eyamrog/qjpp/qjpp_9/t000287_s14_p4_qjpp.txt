@@ -1,0 +1,16 @@
+FAVE assumes that speakers have a north - force merger
+when labeling vowels. To separate the vowel classes, I followed
+the practice established by Labov, Ash, and Boberg (2006) of
+coding lexical items for vowel based on the pronouncing dictionary
+of Kenyon and Knott (1953) . In the dictionary, lexical
+items in the force class are given a pronunciation of
+/ɔ/ or /o/, while the north class only has a
+production of /ɔ/. Table 1 summarizes the token counts per
+section of the interview that this process yielded. Open in
+Viewer Table 1 . Tokens of S tart, N orth
+, and F orce Vowels Used for Analysis S TART
+N ORTH F ORCE N N /speaker N N /speaker
+N N /speaker Conversation 432 22.737 287 15.105 270 14.211
+Reading Passage 247 14.529 200 11.765 114 6.706 Word List
+102 6.000 138 8.118 66 3.882 Minimal Pairs 44 2.588
+78 4.588 56 3.294

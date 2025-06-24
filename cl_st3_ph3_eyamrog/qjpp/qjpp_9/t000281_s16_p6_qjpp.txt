@@ -1,0 +1,17 @@
+Structural reasons need to be invoked here as a major
+factor facilitating the general development of the pattern. The Old
+English (henceforth OE) NP structure had a part-of-speech organization that
+dispreferred the juxtaposition of two pre-nominal modifiers of the same
+type (unless joined by coordination). Thus, when two OE characterizing
+adjectives were used to qualify a noun, they were either
+“straddled” across the noun (a big dog happy ), coordinated
+(if used attributively; e.g., a big and happy dog), or
+introduced by the so-called “ and -adjective” construction (a big
+dog and happy ; see Fischer 2000 , 2006 ).
+It is only in (late) ME that the OE grammatical
+NP order is reanalyzed as a syntactic one. As a
+result, the present-day scope of modification starts to develop, allowing
+for the accommodation of two or more adjectives prenominally and
+without a coordinator ( Feist 2011 :168, 174). This means
+that, until the 1400s, un-coordinated size -adjectives are unlikely to
+be consecutively placed before the noun.

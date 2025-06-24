@@ -1,0 +1,12 @@
+The semantics of modals has been well discussed through their
+deontic (root or intrinsic) and epistemic (extrinsic) interpretations, as summarized
+in Table 1 ( Coates, 1983 ; Saeed, 1997 ;
+Werth 1999 ; Kratzer, 2012 ). Table 1 . Deontic
+and epistemic interpretations of the sentence “You ____ take opioids.”
+Modal Deontic Interpretation Epistemic Interpretation Can, Could Might, May Ability/
+Permission You have the ability/consent to take opioids. Possibility It
+is a likely that you are to take opioids. Must,
+Should Obligation You have the responsibility to take opioids. Necessity
+It is compulsory that you are to take opioids. Will,
+Shall, Would Volition You have the commitment to take opioids
+Prediction It is projected that you are to take opioids.

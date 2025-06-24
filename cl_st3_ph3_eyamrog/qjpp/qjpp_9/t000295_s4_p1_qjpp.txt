@@ -1,0 +1,10 @@
+In this study, we investigated the significant factors regulating imn
+/ omn alternation in Chinese interlanguage. Multivariate methods were adopted
+to analyse the data collected from the Global Corpus of
+Learner Chinese. This included conditional inference trees and random forests.
+The results showed the predictors’ significant effects in the descending
+order of effect size: HeadNPRelRole, HeadNPMatRole, RCLength, NLType, and HeadNPAnimacy.
+As compared with native Chinese, the omn / imn ’s
+distribution pattern in Chinese interlanguage exposes a larger difference with
+marked imn preference. However, the variation trend corresponded with the
+predictors’ levels.

@@ -1,0 +1,20 @@
+Illustrative of the low frequency of need -passives are the
+sociolinguistic interviews I conducted in Kansas City ( Strelluf 2018
+), where sixteen of fifty Kansas Citians indicated they could
+use the sentence, “The car needs washed .” However, in
+thirty hours of casual speech during these interviews, there were
+no occurrences of need +ED. Need +ING also never occurred,
+and there were just eight tokens of need +TO. Interviews
+conducted for The Scots syntax atlas ( Smith et al.
+2019 ) show that a speech corpus must be massive
+to generate just a small set of need -passives: 281
+interviews conducted with 562 participants yielded twenty-seven instances of need
++ED, eighteen need +TO, and three need +ING (E Jamieson,
+personal communication, 16-20 September 2019). Transitive- need +ING also occurs
+infrequently in speech. In a systematic survey of the 10-million
+word spoken component of the British National Corpus, De Smet
+(2013 :84) found only eight instances. While it is inherently
+difficult to quantify exactly how rarely a feature must occur
+to be “low frequency,” it is qualitatively clear that very
+large corpora of spoken English generate very small counts of
+need -passives.

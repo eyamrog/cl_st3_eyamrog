@@ -1,0 +1,12 @@
+Taken together, these experiments reveal that normal FUS function is
+essential for perinatal mouse survival and that P517L and, to
+a lesser extent, Δ14 mutant FUS protein retain sufficient activity
+for a single copy of either allele to rescue the
+knockout phenotype, albeit partially. However, when expressed at higher levels
+in homozygous or compound heterozygous animals, mutant FUS protein is
+toxic in a dose-dependent manner, decreasing mutant survival. This toxicity
+is associated with increased insolubility of FUS, TDP-43 and related
+RBPs, many of which have been independently implicated in the
+pathogenesis of ALS. This insolubility leads to the consequent loss
+of function of these regulatory proteins and to the aberrant
+processing of their respective target RNAs.

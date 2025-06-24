@@ -1,0 +1,19 @@
+These findings should be interpreted in view of several limitations.
+First, this trial was single-blind because it was not possible
+for operators to be unaware of the device type. Indeed,
+we observed more frequent crossover in patients who had been
+assigned to receive polymer-free drug-coated stents than in those assigned
+to receive polymer-based zotarolimus-eluting stents, which may have contributed to
+the observed differences in device success. However, patients and outcome
+assessors were unaware of the treatment assignments. Second, the trial
+was powered for noninferiority testing for the primary outcome and
+the principal secondary outcome but not for superiority testing. The
+trial was also not powered to examine differences in lower-frequency
+secondary outcomes such as stent thrombosis and target-lesion revascularization, and
+these analyses were not adjusted for multiple comparisons. Finally, neither
+the present trial nor the LEADERS FREE trial had a
+control group of patients taking dual antiplatelet therapy for 3
+or 6 months. Therefore, it is unknown whether patients at
+high bleeding risk who were selected to undergo PCI would
+have a superior net clinical benefit with a course of
+dual antiplatelet therapy longer than 1 month.

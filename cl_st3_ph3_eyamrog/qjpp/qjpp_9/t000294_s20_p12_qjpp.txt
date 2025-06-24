@@ -1,0 +1,21 @@
+As mentioned earlier, the High group overall produced more phrasal
+bundles than did the Low and Mid groups (see Figure
+1 ). Among the np -based bundles, many instantiate one
+particular frame, consisting of a determiner, a slot for a
+noun, and a following of -fragment: the + Noun +
+of the . This frame has previously been identified as
+typical of English academic prose (e.g., Biber and Gray, 2010
+); no instance of this frame was found in the
+Low and Mid corpora. Twenty-eight tokens of this frame were
+found in the High corpus with the noun center in
+seven tokens, development in five, member in eleven and matter
+in five. Example 6 shows two uses of the frame
+with the noun development filling the Noun slot. (6) The
+government should prioritize the development of the nations’ internet service,
+as it holds diverse merits that can benefit Myanmar. The
+nation has not yet fully transitioned into the globalized information
+society, and I worry that Myanmar will fall behind other
+nations in terms of development. Furthermore, the standard of living
+needs to be improved greatly and the development of the
+internet can improve it significantly, as I have mentioned above.
+(High)

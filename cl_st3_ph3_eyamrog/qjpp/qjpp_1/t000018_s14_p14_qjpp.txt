@@ -1,0 +1,9 @@
+Correlations between clinical and metadata measures and module eigengenes were
+assessed using Pearson correlations, with P values estimated using the
+corPvalueStudent function and adjusted for multiple testing. Benjamini–Hochberg correction using
+the p.adjust function was used for all analyses with adjusted
+P values. This was carried out on inflamed IBD tissue
+samples and CRC tissue samples combined, and also on inflamed
+IBD tissue samples alone. Eigengenes were also compared between paired
+inflamed and noninflamed tissues sections using a t -test and
+adjusting for multiple testing across modules.

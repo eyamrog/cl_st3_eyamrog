@@ -1,0 +1,15 @@
+After the competition on the Kaggle platform ended, all teams
+were invited to send in a proposal to join the
+validation phase of the study as members of the PANDA
+consortium. Joining the validation phase was fully voluntary and not
+a prerequisite for partaking in the competition. As a result,
+15 teams were selected for further evaluation on two external
+validation datasets consisting of 741 and 330 biopsies, also fully
+blinded to the participating teams (Supplementary Methods 6 and 7
+). The first external validation set was obtained from two
+independent medical laboratories and a tertiary teaching hospital in the
+USA. The second external validation set was obtained from the
+Karolinska University Hospital, Stockholm, Sweden. All datasets consisted of both
+benign biopsies and biopsies with various ISUP GGs. For details
+on the inclusion and exclusion criteria, see Supplementary Methods 1
+and Extended Data Fig. 1 .

@@ -1,0 +1,16 @@
+When testing for mAb synergy by the mAb cocktail, the
+rVSV neutralization assay was performed using the constant ratio combination
+design based on pre-determined IC 50 values of 1C3 and
+1C11 ( Chou, 2010 6. Chou, T.-C. Drug combination studies
+and their synergy quantification using the Chou-Talalay method Cancer Res.
+2010; 70 :440-446 Crossref Scopus (4313) PubMed Google Scholar ).
+Data was analyzed with CompuSyn software to calculate the combination
+index (CI) ( Chou, 2010 6. Chou, T.-C. Drug combination
+studies and their synergy quantification using the Chou-Talalay method Cancer
+Res. 2010; 70 :440-446 Crossref Scopus (4313) PubMed Google Scholar
+). CI values were calculated for each tested concentration of
+the cocktail, and CI values < 1 were considered as
+evidence of synergy (CI = 1 – additive effect; CI
+> 1 – antagonism). Dose reduction index (DRI) was also
+calculated indicating the fold-reduction in effective doses for individual mAbs
+in the cocktail.

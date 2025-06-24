@@ -1,0 +1,6 @@
+A reference dataset was used to predict BW for each
+participant based on sex and GA (Kramer et al., 2001
+). The difference between self-reported and predicted BW (adjusted BW,
+AdjBW) was calculated and standardized. The AdjBW thus represents each
+participant's relative BW above or below the overall sample mean
+BW, taking into account sex and GA.

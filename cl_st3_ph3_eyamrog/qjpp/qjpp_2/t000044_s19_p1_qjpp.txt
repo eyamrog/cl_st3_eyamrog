@@ -1,0 +1,7 @@
+Our database searches identified 463 potentially eligible studies. After removal
+of duplicates, 260 study titles and abstracts were screened (
+figure 1 ). We assessed 51 full text articles for
+eligibility, of which 13 were excluded from the systematic review
+( appendix p 1 ) and an additional 16 were
+excluded from the meta-analysis. There was a high inter-rater reliability
+for screening titles and abstracts (κ=0·95) and full texts (κ=0·96).

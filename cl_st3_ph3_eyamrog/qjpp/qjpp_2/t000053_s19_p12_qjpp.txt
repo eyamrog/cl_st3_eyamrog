@@ -1,0 +1,7 @@
+The two cluster-randomised trials comparing effects of active case-finding on
+tuberculosis prevalence and tuberculosis infection incidence (ZAMSTAR and ACT3) both
+had some concerns of bias relating to participation in endline
+tuberculosis prevalence surveys and completeness of outcome sputum evaluation (
+appendix p 14 ). The risk of bias for DETECTB
+(before-after comparison) was assessed to be serious; the six other
+non-randomised studies had a critical risk of bias.

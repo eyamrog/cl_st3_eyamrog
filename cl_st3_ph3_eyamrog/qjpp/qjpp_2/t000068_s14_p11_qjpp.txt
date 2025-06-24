@@ -1,0 +1,10 @@
+If the zotarolimus-eluting stent was noninferior to the polymer-free drug-coated
+stent in the analysis of the primary outcome, the principal
+secondary outcome of target-lesion failure at 1 year would be
+tested for noninferiority. In the LEADERS FREE trial, 11% of
+the patients were estimated to have target-lesion failure, on the
+basis of the reported components of target-lesion failure in that
+trial. We selected a noninferiority margin of 4.4 percentage points,
+which represented 40% of the expected percentage of patients with
+an event. If noninferiority regarding the principal secondary outcome was
+met, a conditional test for superiority would be performed.

@@ -1,0 +1,11 @@
+To monitor the endogenous function of aIC Fezf2 → NTS
+pathway, we selectively imaged the activity of the NTS-projecting subpopulation
+of aIC Fezf2 neurons. Because essentially all NTS-projecting neurons in
+the aIC (aIC NTS ) are Fezf2 + ( Figures
+3 A–3D), we labeled aIC NTS neurons with GCaMP6 for
+the imaging, by injecting the NTS of wild-type mice with
+a retrograde AAV expressing Cre, and injecting the aIC of
+the same animals with the AAV expressing GCaMP6 Cre-dependently (
+Figure 5 A). We imaged the activity of aIC NTS
+neurons as we did for aIC Fezf2 neurons ( Figures
+5 A and 5B).

@@ -1,0 +1,26 @@
+Intriguingly, we found that value place field correlations remained high
+when transitioning from the second context back to the original.
+Baraduc and colleagues recently observed a similar phenomenon with spatial
+place fields ( Baraduc et al., 2019 7. Baraduc, P.
+∙ Duhamel, J.R. ∙ Wirth, S. Schema cells in the
+macaque hippocampus Science. 2019; 363 :635-639 Crossref Scopus (70) PubMed
+Google Scholar ). Monkeys were trained to forage in two
+different virtual reality environments, one novel and one familiar. Each
+environment shared a common underlying spatial structure despite differences in
+salient landmarks. As the animals learned the novel environment, hippocampal
+place fields became increasingly correlated with the familiar environment. The
+authors concluded that this was the underlying neural representation of
+generalization, whereby a task “schema” is acquired. Consistent with this
+interpretation, subjects required far less practice in the novel context
+to achieve good performance, relative to the initial acquisition of
+the familiar environment. A conceptually similar approach was tested in
+human participants that learned two image sets corresponding to two
+different underlying task structures that specified the relationship between the
+images ( Mark et al., 2020 39. Mark, S. ∙
+Moran, R. ∙ Parr, T. ... Transferring structural knowledge across
+cognitive maps in humans and models Nat. Commun. 2020; 11
+:4783 Crossref Scopus (25) PubMed Google Scholar ). When participants
+were given a novel image set in a second session,
+those who had learned the underlying hidden task structure were
+quickly able to infer relationships between images that were otherwise
+unknown, suggesting the formation of a schema.

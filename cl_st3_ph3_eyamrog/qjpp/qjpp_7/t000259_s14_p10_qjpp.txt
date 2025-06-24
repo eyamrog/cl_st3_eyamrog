@@ -1,0 +1,13 @@
+To account for the possibility of non-random variance across participants
+(e.g., the possibility that some rate all vaccines more favorably
+or negatively than others) I cluster standard errors at the
+respondent level; as is recommended in previous research (see: Hainmueller
+et al., 2014 ). Additionally, and pursuant with the assumptions
+outlined in Hainmueller and colleagues’ work (2014), I assume that
+ratings on the rating tasks are independent of one another
+(i.e., that presenting respondents with any one particular vaccine candidate
+does not influence how other candidates are evaluated). All analyses
+are conducted using Stata 15. Note also that I do
+not impute missing data, as there were very few missing
+observations across respondents and experimental trials (missingness levels <0.7% in
+all cases).

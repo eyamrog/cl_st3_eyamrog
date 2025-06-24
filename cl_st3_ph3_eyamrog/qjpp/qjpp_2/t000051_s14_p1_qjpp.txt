@@ -1,0 +1,6 @@
+For this analysis, we obtained data from two UK prospective
+observational studies, the Million Women Study and UK Biobank. The
+design, methods, questionnaires, ethical approvals, and data access policies for
+the Million Women Study and UK Biobank are available online.
+For each study, participants provided written consent for participation in
+the study and follow-up through their medical records.

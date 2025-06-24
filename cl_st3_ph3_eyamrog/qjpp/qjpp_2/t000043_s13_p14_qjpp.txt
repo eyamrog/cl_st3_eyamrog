@@ -1,0 +1,7 @@
+New trends in the literature also considered quality variation within
+HMO managed-care programs. Researchers have shown that algorithms used to
+auto-assign Medicaid recipients to plans do not produce optimal matches
+( 32 , 35 ). Evidence also indicated that high-risk
+recipients were more likely to switch to higher-quality plans than
+were low-risk recipients. The latter potentially undermines market viability over
+the long term.

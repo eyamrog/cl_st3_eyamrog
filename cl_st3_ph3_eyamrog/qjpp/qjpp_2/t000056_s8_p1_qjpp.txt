@@ -1,0 +1,27 @@
+In October, 2020, we did a survey of UK adults
+to estimate how many people would agree to be vaccinated
+for COVID-19, to discover whether there were parts of the
+population who were especially reluctant and, most importantly, to determine
+why people might not agree to take an approved vaccine.
+Our aim was to inform the provision of accurate vaccination
+information that will increase acceptance rates. 5114 adults, representative of
+the UK population for age, gender, ethnicity, income, and region,
+took part in the Oxford Coronavirus Explanations, Attitudes, and Narratives
+Survey II (OCEANS-II). We found that 72% of the population
+were willing to be vaccinated, 17% were doubtful, and 12%
+were strongly hesitant. Although vaccine hesitancy was associated with younger
+age, female gender, lower income, and ethnicity, it was spread
+over the whole of the population, and not confined to
+particular sociodemographic groups. What mattered most were the beliefs people
+held about a COVID-19 vaccine—specifically, the potential collective benefit, the
+likelihood of COVID-19 infection, the effectiveness of a vaccine, its
+side-effects, and the speed of vaccine development. Those who were
+hesitant about a COVID-19 vaccine tended to be people who
+were less aware of the public health benefits of vaccination,
+did not consider themselves at high risk of illness, doubted
+the efficacy of a vaccine, worried about potential side-effects, or
+feared that it had been developed too quickly. The factor
+most strongly associated with vaccine acceptance was the awareness of
+collective benefit. We used these insights to develop OCEANS-III, a
+randomised controlled trial to test the effect of different types
+of written information on willingness to be vaccinated.

@@ -1,0 +1,23 @@
+Morphological variation of a taxon will likely be related to
+multiple factors, such as its time span and taxic diversity,
+the degree of sexual dimorphism, as well as geographical area
+inhabited. In this context, extant Homo stands out as the
+only monospecific genus, but with a particularly large geographic distribution.
+In contrast, Gorilla includes several species and subspecies, is overall
+highly sexually dimorphic, but inhabits more restricted parts of Africa.
+How such factors jointly impact a taxon's variation in maxillary
+size and shape (aim 1) is difficult to predict. Differences
+in maxillary size and shape between taxa (aim 2) can
+be affected by similar factors. Deeper divergence times between sister
+taxa are expected to be associated with greater morphological differences
+following genetic drift or adaptive change. Hence, we predict that
+both variation and differences will be largest at the genus
+level and smallest at the subspecies level. This pattern will
+likely apply within each genus, but given that the degree
+of subspecific and interspecific differentiation varies even between closely related
+taxa ( Groves, 1967 , 1970b ; Shea and Coolidge,
+1988 ; Albrecht and Miller, 1993 ; Guy et al.,
+2003 ; Taylor and Groves, 2003 ; Pilbrow, 2007 ;
+White et al., 2020 ), it is unclear if this
+will be the case when taxa of different genera are
+compared.

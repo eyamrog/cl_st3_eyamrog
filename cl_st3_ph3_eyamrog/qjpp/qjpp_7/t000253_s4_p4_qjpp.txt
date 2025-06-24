@@ -1,0 +1,6 @@
+As well as ignoring variations in life expectancy across people
+at the same age, our YLL approach overlooks variations in
+the risk of infection and case fatality. There is evidence
+from many countries that less advantaged social groups face higher
+exposure to infection and enjoy less access to effective COVID-19
+treatment (Marmot & Allen, 2020 ).

@@ -1,0 +1,16 @@
+Our dataset was subjected to statistical modeling in order to
+test whether vowel realizations changed significantly across generations, genders, and
+allophonic contexts. Since the speakers in DASS represent a stratified
+but random sample of US Southerners, a mixed-effects approach is
+necessary to argue that any findings could generalize beyond this
+study. In order to model formant values as trajectories, or
+curves unfolding in time, we adopt GAMMs ( Wood 2017a
+). This type of model is useful for trajectory data
+as it can account for vowel-inherent formant dynamics (i.e., nonlinear
+curves), while simultaneously modeling the effect of demographic factors like
+generation and gender and their effect on the position and
+shape of the trajectory. A schematic of the R code
+for models in this paper is provided, and interpreted, in
+Figure 3 . This code corresponds to “full models” discussed
+in the paper. Open in Viewer Figure 3 . Model
+Specification in R (Left), with Interpretation of Code (Right)

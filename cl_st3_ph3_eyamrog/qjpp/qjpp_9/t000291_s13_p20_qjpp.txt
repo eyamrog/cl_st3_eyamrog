@@ -1,0 +1,10 @@
+In compiling apic , I sought to parallel to some
+degree the selection criteria of gkis , which avoids including
+news items (first-order discourses) in its corpus, preferring texts in
+which (mainly left-leaning) authors make explicit their political viewpoints and
+engage in debate about political principles. I included texts in
+apic on the basis of the aforementioned distinction between first-
+and second-order political discourses in a handful of Arabic-language political
+websites. Consequently, apic represents a wider range of viewpoints than
+gkis , including left-leaning as well as neoliberal outlets (see
+Table 3 ).

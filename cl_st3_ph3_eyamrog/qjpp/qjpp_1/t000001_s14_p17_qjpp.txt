@@ -1,0 +1,3 @@
+Data were extracted and prepared in Microsoft Excel and analyzed
+using comprehensive meta-analysis software. Analyses were carried out using R
+v.3.6.2 and Python v.3.8.

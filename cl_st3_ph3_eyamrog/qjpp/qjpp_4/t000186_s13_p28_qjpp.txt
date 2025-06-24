@@ -1,0 +1,11 @@
+The presence of critical periods and transgenerational effects means that
+the effects of parasite or microbe exposure will not be
+the same for everyone. For example, when individuals who were
+never exposed to parasites in childhood are infected with helminths,
+they may mount a strong resistant response, possibly resulting in
+an immunological outcome opposite of that which was desired. This
+finding may help explain why clinical trials for helminth therapy
+have proven equivocal, despite robust associations with helminth infections in
+population studies ( Helmby 2015 ). Similar effects may also
+complicate microbiome restoration effects, for example following C-section delivery (
+Wilson et al. 2021 ).

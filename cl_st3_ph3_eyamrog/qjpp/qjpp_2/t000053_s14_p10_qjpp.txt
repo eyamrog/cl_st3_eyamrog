@@ -1,0 +1,5 @@
+To assess risk of bias, we used Cochrane RoB 2
+for randomised trials and the ROBINS-i tool for non-randomised studies.
+Quality assessment was done collaboratively by two authors (RMB and
+PM). Because we did not do a meta-analysis, we did
+not stratify assessments on the basis of study quality.

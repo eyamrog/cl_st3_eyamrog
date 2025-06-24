@@ -1,0 +1,15 @@
+Second, our particular selection of SDs should not be understood
+as the only possible relevant factors that could be included
+in compartmental models. Even though our preceding analysis has been
+largely focused on differences in socio-economic conditions between poorer and
+richer countries; the same approach could also be used to
+model the impact of social differentiation within individual countries. Issues
+such as gender and racial inequalities , educational disparities, levels
+of government expenditure on social services, etc. all bear directly
+on β and δ ; and could also be incorporated
+into a social compartmental model. Furthermore, as heterogeneity in transmission
+as a result of SD may also make superspreading events
+more likely in particular communities, the study of social inequalities
+while incorporating network effects across social groups along the lines
+of Chang et al. (2021) and Hébert-Dufresne et al. (2021)
+is a particularly interesting research avenue within this theme.

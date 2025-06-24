@@ -1,0 +1,13 @@
+Given the challenges involved in accessing such sensitive data, it
+is perhaps inevitable that our initial sampling strategy had to
+be rethought. Local Authorities have a clear duty of care
+towards children and adults using care services, with legal and
+ethical responsibility for protecting the personal data of vulnerable people,
+and we realised we could not fulfil Jaworska and Kinloch's
+idealised scenario of including ‘all possible [textual] data produced in
+a given context’ ( Jaworska and Kinloch, 2018 :114). We
+thus decided to adopt an opportunistic sampling approach, and -
+in order to fulfil our research council commitment to a
+1-million-word corpus - accept all texts offered to us from
+participating social workers as far as was practical and ethical
+(see also discussion here: www.writinginsocialwork.com).

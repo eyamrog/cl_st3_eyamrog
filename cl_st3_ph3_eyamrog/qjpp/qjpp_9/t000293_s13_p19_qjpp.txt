@@ -1,0 +1,20 @@
+Learner corpus research typically draws on two types of corpus
+data: written and spoken. Owing to the difficulties inherent in
+collecting and processing spoken data for corpus compilation, there are
+far more written than spoken learner corpora around the world.
+The majority of research articles are also based on written
+corpora. Similarly, due to the lack of spoken learner corpora
+in Korea, the number of articles using learners’ spoken data
+is relatively small (four articles out of thirty in et
+and six articles out of thirty-two in kjal ), but
+it seems to have been growing in the latter half
+of the 2010s. While two articles in et used pre-existing
+corpora (i.e., icnale ), two articles in et and five
+articles in kjal used self-compiled spoken corpora. This indicates that
+many scholars had to construct their own corpora for their
+own research. It is at least encouraging that some spoken
+corpora have so far been constructed by individual scholars, albeit
+on a small scale; but when considering the amount of
+time and effort that goes into building them, it is
+of utmost importance to build more and better spoken learner
+corpora and to make them available to the public.

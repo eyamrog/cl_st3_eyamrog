@@ -1,0 +1,19 @@
+Nanobodies were expressed in E. coli strain WK6., grown at
+37°C in Terrific Broth until an OD600 = 0.8. Expression
+was induced with 150 μM IPTG and incubation at 21°C
+for 16 h. Cells were harvested by centrifugation (6,000xg, 15
+min). Cell pellets were resuspended and incubated in ice-cold 20%
+sucrose, 30 mM Tris-HCl, pH 7.5, 2 mM EDTA buffer
+for 20 min. The cell suspension was clarified by centrifugation
+(10.000 rpm, 20 min, 4°C). After the supernatant collection, cell
+pellets were resuspended and incubated in ice-cold 30 mM Tris-
+HCl, pH 7.5, 5 mM MgSO4 buffer for 20 min.
+The cell suspension was clarified by centrifugation (10.000 rpm, 20
+min, 4°C). The supernatant was filtered, supplemented with 150 mM
+NaCl and 2 mM Imidazole and passed through HisTrap HP
+columns. The column was washed with 200 mL wash buffer
+(30 mM Tris-HCL, pH 7.5, 150 mM NaCl, 5 mM
+Imidazole) and the protein was eluted in elution buffer (30
+mM Tris-HCL, pH 7.5, 150 mM NaCl, 500 mM Imidazole).
+Elution was loaded onto a Superdex200 16/600 HiLoad column in
+20 mM Tris-HCL, pH 7.5, 200 mM NaCl.

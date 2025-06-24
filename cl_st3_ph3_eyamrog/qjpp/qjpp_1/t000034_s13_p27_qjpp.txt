@@ -1,0 +1,13 @@
+Our review of this evidence highlights the limitations of the
+available data. First, purposeful examinations have generated experimental data on
+the health outcomes of cash-transfer programs in LMICs, but most
+of those data have come from regional experiments with targeted
+populations. Thus, generalizability is limited. Moreover, many of these experiments
+collect short- to medium-term data, preventing analysis of long-term health
+effects. Second, evaluations of large-scale policy change in high-income countries
+have relied on linked population-based survey data and program administrative
+data ( a ) to analyze the health of transfer
+recipients and nonrecipients and ( b ) to leverage quasi-experimental
+methods (e.g., regression discontinuity, difference-in-differences). In such studies, small samples
+for some vulnerable groups (e.g., immigrants, Native Americans) preclude tests
+of pathways and mechanisms.

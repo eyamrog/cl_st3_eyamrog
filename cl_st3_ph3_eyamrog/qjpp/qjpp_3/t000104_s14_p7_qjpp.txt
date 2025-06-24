@@ -1,0 +1,8 @@
+Plasmid transfections were performed using jetPRIME transfection reagent (Polyplus) for
+HEK293T and HEK293FT cells and Lipofectamine 2000 (Thermo Fisher Scientific)
+for all other cell lines, following the manufacturer’s instructions. Lentiviruses
+were generated using HEK293FT cells (Thermo Fisher Scientific) and vectors
+pLenti CMV Puro DEST (Addgene plasmid no. 17452), pLiX_402 (Addgene
+plasmid no. 41394), or pLKO.1 (Addgene plasmid no. 10878) using
+standard techniques. Single and multiple viral transductions were performed in
+the presence of 8 μg/ml polybrene (Sigma-Aldrich).

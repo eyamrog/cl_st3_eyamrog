@@ -1,0 +1,18 @@
+Longitudinal poverty: The poverty variable, defined at each time point
+as 60% of the median household income equivalised for household
+size, has been used for waves 1–8 to run a
+latent class analysis (LCA) to classify individuals into different poverty
+classes. Our typology of poverty shows four groups: a) persistently
+poor; b) persistently non-poor; c) escaping poverty and d) falling
+into poverty. The last two groups can be seen as
+a further elaboration of the “recurrent” and “transient poverty” groups
+of the typology set out by Fouarge and Layte (2005)
+, which also included “no poverty” and “persistent poverty”. The
+difference with our approach is that we consider the probability
+of being in poverty and its change over time. Recurrent
+and transient poverty spells considered in isolation can be indicative
+of two distinct longitudinal processes: falling into poverty or escaping
+it. Even though they can manifest over time as one
+of two possible states (poor or non-poor), the overall trajectory
+can be steadily increasing or decreasing, which is captured in
+our typology.

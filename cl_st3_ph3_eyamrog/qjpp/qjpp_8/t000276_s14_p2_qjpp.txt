@@ -1,0 +1,23 @@
+The study is based on the York-Toronto-Helsinki Parsed Corpus of
+Old English Prose (YCOE; Taylor, Warner, Pintzuk & Beths 2003
+), a 1.5-million-word syntactically annotated database. Both translated and non-translated
+texts were analyzed. With regard to the former, only those
+with readily identifiable sources were included, because in order to
+control for a potential Latin influence on postposition (a possibility
+raised, e.g., in Mitchell 1985 ; Fischer 2000 , 2001
+), source and target noun phrases had to be compared
+manually. Consequently, free translations as well as those with unknown
+sources were eliminated from scrutiny (e.g., Boethius’s Consolation of Philosophy
+, Bald’s Leechbook , or The Old English History of
+the World based on Orosius). Non-translated texts were selected according
+to length and only those numbering upward of 10,000 words
+were included; 2 shorter texts classified by the corpus annotators
+as laws and documents were counted together and included in
+the study corpus to ensure genre variation. The division into
+translated and non-translated texts will be detailed in 3.1, which
+addresses the absolute and relative frequencies of the patterns studied.
+This is to establish whether Latin source texts may indeed
+potentially bear on the distribution of the relevant adjectival patterns,
+and, consequently, to determine if the division into translated and
+non-translated texts should be retained throughout this study. The study
+corpus is included in Appendix 1 .

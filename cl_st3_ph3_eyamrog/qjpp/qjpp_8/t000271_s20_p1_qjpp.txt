@@ -1,0 +1,7 @@
+This section is divided into three parts. Sections 4.1 and
+4.2 present the quantitative results regarding the frequencies of lexical
+bundles in the two corpora as well as the distribution
+of different forms and functions. Section 4.3 complements the quantitative
+results with an in-depth analysis of some of the most
+frequent bundles in each corpus. Section 4.4 discusses in-text variation
+in the two corpora.

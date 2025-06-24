@@ -1,0 +1,10 @@
+Despite exhaustive matching on known and measured confounding factors, an
+unmeasured confounder can still lead to erroneous conclusions. For PFS
+and OS, the E-values were 2.18 (lower limit (LL) of
+the CI, 1.6) and 2.09 (LL of the CI, 1.39),
+respectively, meaning that the observed difference for PFS and OS
+between axi-cel and tisa-cel could be explained away only by
+an unmeasured confounder that was associated with both CAR T
+products and PFS (or OS) by a risk ratio of
+more than 2.18-fold each for PFS (or 2.09-fold each for
+OS).

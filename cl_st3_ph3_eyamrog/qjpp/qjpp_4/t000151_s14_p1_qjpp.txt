@@ -1,0 +1,7 @@
+This study used data from participants examined as part of
+2 waves of the U.S. National Health And Nutrition Examination
+Survey (NHANES) in 2011–2012 and 2013–2014. Participants were included if
+handedness and testosterone data were available and they were aged
+18 and over. Women were only included if they reported
+having a menstrual period in the last 12 months. This
+excludes post-menopausal women and women who have had hysterectomies.

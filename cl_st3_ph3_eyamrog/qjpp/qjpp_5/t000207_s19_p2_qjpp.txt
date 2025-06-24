@@ -1,0 +1,13 @@
+The empirical average terrestrial detection rate for capuchins ranged 200-fold,
+from as low as 0.01 mo −1 m −1 in
+SNP—the site with the highest terrestrial predator detection rate—to as
+high as 1.98 mo −1 m −1 on Jicaron Island.
+A hierarchical model for the number of terrestrial detection events
+per deployment allowed us to estimate site-specific rates, while accommodating
+the nesting of cameras within sites. The degree to which
+capuchins used the ground varied substantially across our study sites
+and was negatively associated with the presence of key predators.
+On Jicaron and Coiba, all camera deployments had more than
+one terrestrial detection event ( Supplementary Online Material [SOM] Table
+S1 ), whereas at BCI, GP, and SNP, most deployments
+had zero terrestrial detection events ( Fig. 3 A).

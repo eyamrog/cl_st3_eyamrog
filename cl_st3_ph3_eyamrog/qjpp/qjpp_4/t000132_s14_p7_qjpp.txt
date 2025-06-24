@@ -1,0 +1,23 @@
+For experiments aside from crystallization, the MUC2 D1 expression construct
+was modified to contain a His 6 tag and tobacco
+etch virus (TEV) cleavage site following the signal sequence, and
+the His 6 tag at the carboxy terminus was eliminated.
+Protein was produced without kifunensine. After Ni-NTA purification, protein was
+subjected to cleavage with TEV protease containing a His 6
+tag. The cleaved amino terminal tag and the TEV protease
+were subsequently removed using Ni-NTA beads. The protein was concentrated
+in 10 mM 3-( N -morpholino)propanesulfonic acid (MOPS) buffer, pH
+7.0, 100 mM NaCl. Glycerol was added to 10%, and
+aliquots were stored at −80°C until use. An expression plasmid
+for Muc5b D1 (UniProt E9Q5I3 amino acids 50–426) was prepared
+with a TEV cleavage site followed by a His 6
+tag at the carboxy terminus. Muc5b D1 was produced and
+purified as for MUC2 D1, subjected to TEV cleavage, and
+quantified as described above (ε 280nm for Muc5b D1 including
+the remaining segment of the TEV site = 50,360 M
+−1 cm −1 ). Longer constructs of MUC2, namely D1D2D′
+(amino acids 21–858) and D1D2D′D3 (amino acids 21–1259), were produced
+and purified as for MUC2 D1, subjected to TEV cleavage,
+and quantified as described above (ε 280nm for MUC2 D1D2D′
+= 102,710 M −1 cm −1 and for MUC2 D1D2D′D3
+= 167,760 M −1 cm −1 ).

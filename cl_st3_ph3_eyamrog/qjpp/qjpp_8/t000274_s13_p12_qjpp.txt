@@ -1,0 +1,27 @@
+As already identified, sensitivity of topic and inaccessibility go together
+as, by their nature, texts concerning sensitive topics are not
+available within the public domain. Few corpora exist which both
+contain sensitive texts and are hard-to-access, leading to a situation
+in which ‘corpus linguists who engage in discourse analysis privilege
+certain text types or registers, at the expense of others’
+( Baker 2018 :283). To provide further evidence of this
+point, we reviewed all studies in two key journals (
+Corpora and Journal of Corpora and Discourse Studies ) over
+a 4-year period (2017–2020 inclusive). Findings indicate that corpus studies
+overwhelmingly employ publicly-available texts and, whilst some corpora focus on
+socially and personally sensitive topics (e.g. abortion in Kreischer 2019
+), few of the texts in such corpora include personal,
+potentially identifying information which give rise to difficult questions about
+the ethical concepts of consent, anonymity and confidentiality. Where texts
+involving sensitive data are included in a corpus (e.g. Ohashi
+et al., 2020 ; Bolly and Boutet 2018 ), there
+tends to be little discussion of the ethical principles governing
+anonymisation procedures or the practical challenges faced and decisions taken.
+A few large corpora of sensitive and hard-to-access texts do
+exist - mainly within medical research - but access is
+restricted to a carefully-defined group of researchers who provide aggregated
+data to others on request (e.g. Perera et al., 2016
+). Fig. 1 provides a matrix of categories of sensitive
+and hard-to-access corpora. Download: Download high-res image (540KB) Download: Download
+full-size image Fig. 1 . Examples of corpora in each
+category.

@@ -1,0 +1,11 @@
+Table 4 shows a relatively even split of the total
+variance in both outcomes. Nevertheless, it is worth noting that
+the variation in emotional symptoms is greater within children than
+between children, compared to the variation in conduct problems. This
+indicates that emotional problems are more likely than conduct problems
+to be influenced by changes over time (such as poverty
+or other external factors), and conduct problems are more likely
+to be influenced by stable traits over time, such as
+personality or other time-invariant characteristics. In the next section, we
+interrogate the factors associated with change over time in conduct
+and emotional problems by including our explanatory and control variables.

@@ -1,0 +1,4 @@
+In summary, chromatin state dominates the locus’s structure in ESCs
+through compartmentalization, thereby isolating Fat1 and Zfp42R genes with independent
+enhancers. During pluripotency, Zfp42R and Fat1 can thus operate as
+independent entities in their shared regulatory landscape.

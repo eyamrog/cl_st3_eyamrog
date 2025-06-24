@@ -1,0 +1,16 @@
+A standard multigrain single-aliquot regenerative (SAR) measurement protocol ( Murray
+and Wintle, 2000 , 2003 ; Wintle and Murray, 2006
+) was used for quartz dose determination (see Supplementary Online
+Material [SOM] Table S1 ). The SAR procedure involves measuring
+the natural OSL and regenerative signals induced by four given
+doses, each measured for 40 seconds at 125 °C. After
+each natural and regenerative dose, a fixed test dose (∼10
+Gy) is given to correct the OSL signal for any
+sensitivity changes during the measurement sequence. A duplicate regenerative dose
+was included in the procedure to check the adequacy of
+the sensitivity correction, and the recuperation was measured after a
+zero-dose regenerative cycle. A stimulation at 280 °C held for
+40 seconds was applied between each successive SAR cycle to
+fully reset the OSL signal. The infrared depletion ratio (
+Duller, 2003 ) was also measured on each aliquot to
+check for possible contamination by feldspar grains.

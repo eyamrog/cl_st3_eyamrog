@@ -1,0 +1,20 @@
+To assess interindividual variation in the use of aggression, both
+in percentage of takeovers that were aggressive and intensity of
+male aggression toward the female and other males, we calculated,
+and report here, means and SDs of these traits among
+males. We used linear regression to assess the relationships between
+a leader male's percentage of takeovers that were aggressive and
+all fitness correlates, i.e., yearly birth rates based on the
+number of infants born into a leader male's OMU, mean
+monthly number of females, maximum number of females at a
+time, total number of female-years, total number of followers, and
+maximum number of followers at any given point. In addition,
+we used linear regression to examine the relationships between leader
+males’ average intensity of aggression around the time of a
+takeover and all fitness correlates. We log-transformed response variables in
+all linear regressions and confirmed that linear regression assumptions were
+not violated via visual assessments of diagnostic plots. For all
+analyses of birth rates, we ran both linear regressions and
+Spearman correlations and report both the parametric and non-parametric results.
+We report r 2 values for linear regression and r
+s values for Spearman correlations.

@@ -1,0 +1,16 @@
+Regulatory landscapes drive complex developmental gene expression, but it remains
+unclear how their integrity is maintained when incorporating novel genes
+and functions during evolution. Here, we investigated how a placental
+mammal-specific gene, Zfp42 , emerged in an ancient vertebrate topologically
+associated domain (TAD) without adopting or disrupting the conserved expression
+of its gene, Fat1 . In ESCs, physical TAD partitioning
+separates Zfp42 and Fat1 with distinct local enhancers that drive
+their independent expression. This separation is driven by chromatin activity
+and not CTCF/cohesin. In contrast, in embryonic limbs, inactive Zfp42
+shares Fat1 ’s intact TAD without responding to active Fat1
+enhancers. However, neither Fat1 enhancer-incompatibility nor nuclear envelope-attachment account for
+Zfp42 ’s unresponsiveness. Rather, Zfp42 ’s promoter is rendered inert
+to enhancers by context-dependent DNA methylation. Thus, diverse mechanisms enabled
+the integration of independent Zfp42 regulation in the Fat1 locus.
+Critically, such regulatory complexity appears common in evolution as, genome
+wide, most TADs contain multiple independently expressed genes.

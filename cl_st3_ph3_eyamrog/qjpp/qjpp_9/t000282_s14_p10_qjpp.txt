@@ -1,0 +1,6 @@
+Responses to these questions were then isolated into individual intonational
+phrases from the larger data set, and manually coded for
+pitch accent type (H* or L+H*) using the MAE-ToBI conventions
+( Holliday 2016 ; McLarty 2018 ) and peak delay
+intervals ( Holliday 2016 ; Reed 2016 ; McLarty 2018
+).

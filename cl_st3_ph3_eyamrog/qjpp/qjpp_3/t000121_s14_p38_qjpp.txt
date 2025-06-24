@@ -1,0 +1,10 @@
+Internal exchange standards Pro-Pro-Pro-Ile [PPPI] and Pro-Pro-Pro-Phe [PPPF] were included
+in each reaction to control for variations in ambient temperature
+during the labeling reactions ( Zhang et al., 2012 97.
+Zhang, Z. ∙ Zhang, A. ∙ Xiao, G. Improved protein
+hydrogen/deuterium exchange mass spectrometry platform with fully automated data processing
+Anal. Chem. 2012; 84 :4942-4949 Crossref Scopus (92) PubMed Google
+Scholar ). Back-exchange was measured by including bradykinin peptide at
+2μg/mL in the deuterated buffer to serve as a fully
+deuterated control. The back-exchange level ranged from 12%–16% across experiments;
+deuterium uptake was not corrected.

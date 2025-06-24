@@ -1,0 +1,19 @@
+Linear regression of north - force Pillai score against year
+of birth finds no significant effect of age . A
+separate regression model does find a significant correlation between north
+- force Pillai score and start - north Pillai score
+(Intercept β = 0.396, p < ATB 0.0001; start -
+north Pillai β = -0.465, p = 0.0075, adjusted r
+2 = 0.3132). This indicates that speakers with a complete
+separation of start and north have overlap of north and
+force , and that speakers with a near complete overlap
+of start and north maintain some level of distinction between
+north and force . Because start - north Pillai score
+is correlated with age , we can construct a syllogism
+that suggests that St. Louis is probably in fact moving
+toward a merger of north and force over time, if
+it has not yet already been completed. However, a direct
+change to a complete merger of north and force with
+a complete loss of contrast is not supported by the
+data. Any progression toward this merger should therefore be explored
+in further research.

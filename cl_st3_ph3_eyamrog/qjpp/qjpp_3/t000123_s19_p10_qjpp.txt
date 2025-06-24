@@ -1,0 +1,27 @@
+To identify candidate ILS genes that might be responsible for
+these putative examples of morphological hemiplasy, we extracted the ILS
+signals of orthologous coding regions from the whole genome CoalHMM’s
+results, which produced 6,425 genes free from ILS effects (Dipr_Dasy
+genes) and 2,113 genes significantly affected by ILS ( Figure
+4 B). The sequence identities of the ILS genes between
+monito del monte and Diprotodontia or Dasyuromorphia were significantly higher
+than between the Australasian group (Welch two sample t test,
+p value < 2.2e−16, Figures 4 C and 4D). We
+also measured the frequencies of ILS genes based on their
+expression patterns at the organ level, which showed differences compared
+with identified orthologs, but without obvious tissue-specific expression features (e.g.,
+lowest frequency is as high as 80%; Figure 4 E).
+The widespread expression of these genes suggests that ILS events
+can potentially have a broad functional impact on phenotypic variation
+across many organ systems. To infer the possible functional impact
+of ILS events on phenotypic variation across species, we annotated
+the ILS genes with the Mammalian Phenotype Ontology Database (
+Smith and Eppig, 2009 95. Smith, C.L. ∙ Eppig, J.T.
+The mammalian phenotype ontology: enabling robust annotation and comparative analysis
+Wiley Interdiscip. Rev. Syst. Biol. Med. 2009; 1 :390-399 Crossref
+Scopus (159) PubMed Google Scholar ) and confirmed that they
+influence a wide spectrum of phenotypes in the associated organ
+systems ( Figure 4 F; Table S4 ). Interestingly, we
+found that the brain, reproductive organs, and skeletons were among
+the systems with the highest number of ILS genes, consistent
+with the phenotypic differences observed.

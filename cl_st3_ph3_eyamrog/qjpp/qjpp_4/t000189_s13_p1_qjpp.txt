@@ -1,0 +1,12 @@
+CoVs are a prolific viral subfamily of enveloped positive-strand RNA
+viruses (subfamily Coronavirinae , family Coronaviridae , order Nidovirales). They
+are so-called because under scanning electron microscopy a transmembrane protein
+essential for cellular entry known as Spike decorates the viral
+envelope, giving the virions the appearance of wearing a crown
+(corona) ( Masters 2006 ). Strikingly, CoVs maintain the largest
+genomes of any RNA virus, with SARS-CoV-2 weighing in at
+an enormous (for viruses) 29,900 nucleotides. For these interesting features,
+most of what is known about CoVs has been discovered
+in the past two decades, after the emergence of severe
+acute respiratory syndrome (SARS) caused by the SARS coronavirus (SARS-CoV)
+in 2002 ( Lu et al. 2020 ).

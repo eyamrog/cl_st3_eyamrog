@@ -1,0 +1,14 @@
+The “branched” trajectory was constructed using Monocle 3 (v0.2.1, default
+settings) ( Trapnell et al., 2014 50. Trapnell, C. ∙
+Cacchiarelli, D. ∙ Grimsby, J. ... The dynamics and regulators
+of cell fate decisions are revealed by pseudotemporal ordering of
+single cells Nat Biotechnol. 2014; 32 :381-386 Crossref Scopus (3552)
+PubMed Google Scholar ) with the number of UMI, percentage
+of mitochondrial UMI as the model formula and including the
+highly variable genes from Seurat for consistency. After setting a
+single partition for all cells, the cell-trajectory was projected on
+the PCA and UMAP generated from Seurat analysis. The ‘root’
+was selected by the get_earliest_principal_node function provided in the package.
+Monocle 3 alpha was used to analyze cluster 0 and
+5 using the DDRTree algorithm for dimensional reduction after selecting
+the top 500 highly variable genes with Seurat.

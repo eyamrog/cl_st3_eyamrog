@@ -1,0 +1,15 @@
+The first two are based on dispersion metrics that vary
+depending on the type of survey information ( Claveria, 2021
+; Mokinski et al., 2015 ; Rossi and Sekhposyan, 2015
+). The third way to proxy uncertainty, as proposed by
+Jurado et al. (2015) , is to measure econometric unpredictability,
+which is understood as the conditional volatility of the unforecastable
+components of a broad set of economic variables. The ex-post
+nature of this approach has recently generated a strand in
+the empirical research that makes use of more direct measures
+of uncertainty based on prospective information. The fourth strategy has
+focused on the exploitation of financial data (bond yields, exchange
+rates, and so on). However, since developments in the stock
+market only partially reflect developments in the economy ( Girardi
+and Reuter, 2017 ), some authors have opted to collect
+different types of data.

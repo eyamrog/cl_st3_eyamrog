@@ -1,0 +1,21 @@
+The survey started with a description of its purpose and
+a consent form. Next, respondents had to rate their well-being
+using the WOOP. The DCE training procedure started with a
+two-alternative choice task with three (randomly selected) WOOP domains. Subsequently,
+the complexity of the introductory choice task was increased step
+by step. First, colour-coding was introduced. Second, the duration attribute
+was added. Third, alternative C and, therefore, the second of
+the pairwise choice tasks was included. Fourth, all nine WOOP
+domains were included. Colour-coding, level overlap, and duration were explicitly
+described. Respondents were randomised to one of the ten blocks
+of 15 choice tasks between two well-being states. To avoid
+ordering biases, further randomisation took place regarding the order of
+choice tasks, the order of the well-being states within choice
+tasks (A and B), and the order of WOOP domains
+across respondents (constant order per respondent). The 15 choice tasks
+were split in three blocks of five tasks, interrupted by
+two sets of standard socio-demographic questions to reduce response fatigue
+with respect to the choice tasks. The questionnaire ended with
+cognitive debriefing questions, an inquiry into whether COVID-19 changed the
+importance of the WOOP domains for respondents' well-being, and measures
+for health (EQ-VAS) and life satisfaction (Cantril's ladder).

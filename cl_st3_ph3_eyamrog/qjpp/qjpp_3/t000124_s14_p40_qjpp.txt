@@ -1,0 +1,17 @@
+Orthogroup assignments ( Table S4 ) was performed with OrthoFinder
+( Emms and Kelly, 2019 20. Emms, D.M. ∙ Kelly,
+S. OrthoFinder: phylogenetic orthology inference for comparative genomics Genome Biol.
+2019; 20 :238 Crossref Scopus (1076) PubMed Google Scholar ).
+For GO term enrichment, a GO annotation file (gaf; 2.1)
+was built using all GO terms assigned by the functional
+annotations of R. pubera , R. breviuscula , R. tenuis
+, and J. effusus . GO term enrichment was performed
+by feeding GO terms of the shared orthologos into Ontologiser
+(ontologiser.de). P -values were corrected using the Benjamini-Hochberg procedure. We
+used the UpSetR ( Conway et al., 2017 12. Conway,
+J.R. ∙ Lex, A. ∙ Gehlenborg, N. UpSetR: an R
+package for the visualization of intersecting sets and their properties
+Bioinformatics. 2017; 33 :2938-2940 Crossref Scopus (928) PubMed Google Scholar
+) package ( http://gehlenborglab.org/research/projects/upsetr/ ) to analyze how many orthogroups
+are shared between the five species or are unique to
+a single species.

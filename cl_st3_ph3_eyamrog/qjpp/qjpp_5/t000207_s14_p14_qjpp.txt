@@ -1,0 +1,26 @@
+Finally, the outcome variable duration was the exact duration in
+seconds of each photo sequence containing at least one monkey
+on the ground. Because all visit durations were greater than
+zero, a natural log transformation was applied to stabilize variances;
+thus, the variable to be analyzed was ln (duration [in
+s]). We fitted a Gaussian mixed model to ln (duration)
+using MCMCglmm ( Hadfield, 2010 ), with informative priors to
+accommodate the small numbers of observations at GP and SNP.
+Three additional covariates were included in the model for ln
+(duration): party size, behavior (coded as traveling or nontraveling), and
+the interaction between these. We classified an event as ‘traveling’
+if one or more individuals walked past the camera, without
+performing any other activity while within view of the camera
+(foraging, scanning the environment, playing, and so on). Individuals that
+trigger a camera while traveling are, by definition, moving across
+the camera's field of view and thus are expected to
+produce shorter duration events. By including behavior as a covariate
+in our model, we were able to test for differences
+in the duration of terrestrial activity while accounting for the
+fact that the types of activities that capuchins engage in
+on the ground may vary systematically across sites. Similarly, we
+controlled for party size because a larger number of individuals
+is expected to increase our measure of visit duration. Camera-specific
+detection distance was again treated as an offset. The prior
+specification and the MCMC settings were the same as for
+the party size model.

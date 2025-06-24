@@ -1,0 +1,24 @@
+Titers of EBOV were determined in sera using an Avicel-based
+crystal violet stain plaque assay on Vero E6 cell culture
+monolayers (ATCC CRL-1586) with a limit of detection (LOD) of
+100 PFU. Briefly, 10-fold dilutions of sera were adsorbed to
+Vero E6 cell monolayers in triplicate and covered with 2.5%
+Avicel overlay. After 7 days of incubation at 37°C and
+5% CO 2 , a 0.2% crystal violet stain was
+added, and plaques were counted after 24 h of incubation.
+Sera were inactivated in TRIzol LS according to the manufacturer’s
+instructions (Thermo Fisher Scientific, Waltham, MA, USA), removed from the
+BSL-4 and nucleic acid isolated using QIAamp Viral RNA Mini
+Kit (QIAGEN, Germantown, MD, USA). Standard curve quantitation of EBOV
+nucleic acid was conducted using the BEI Resources Critical Reagents
+Program (CRP) EZ1 RT-PCR kit assay in accordance with manufacturer’s
+instructions ( Trombley et al., 2010 51. Trombley, A.R. ∙
+Wachter, L. ∙ Garrison, J. ... Comprehensive panel of real-time
+TaqMan polymerase chain reaction assays for detection and absolute quantification
+of filoviruses, arenaviruses, and New World hantaviruses Am. J. Trop.
+Med. Hyg. 2010; 82 :954-960 Crossref Scopus (193) PubMed Google
+Scholar ) and analyzed on an Applied Biosystems 7500 FastDx
+Real-Time PCR instrument (Thermo Fisher Scientific, Waltham, MA, USA). Results
+were transformed into log 10 genome equivalents (GEq) per mL
+of sample with a lower limit of quantitation of 1
+× 10 2 GEq per reaction.

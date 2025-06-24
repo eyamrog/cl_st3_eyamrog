@@ -1,0 +1,19 @@
+Basic descriptive statistics (means and standard deviation) was computed to
+understand COVID-19 threats and coping strategies. In addition, parametric tests
+that included t-test, ANOVA, and hierarchical regression were computed. To
+perform these computations, the 5-point Likert-type scale was converted into
+continuous variables (see Kothari and Garg 2013 ), which was
+also used to produce line graph depicting the country distribution
+of the responses. T-test and ANOVA computations helped to understand
+the influence of demography in COVID-19 threat and coping strategies.
+While ANOVA was suitable for demographic variables with three or
+more levels of measurement, such as age, country and education
+level, t-test was equally suitable for variables with two levels
+of measurement, such as gender, and access to COVID-19 information.
+With the aid of Tukey’s honestly significant difference (HSD) test,
+post hoc comparison was employed to further examine the differences
+in the ANOVA results. To determine the magnitude of differences,
+the effect size statistics (eta-squared) was calculated. Cohen’s guidelines for
+interpreting the magnitude of effect size (.01 = small, .06
+= moderate and .14 = large effect) were adopted in
+this study (see Pallant 2016 :210).

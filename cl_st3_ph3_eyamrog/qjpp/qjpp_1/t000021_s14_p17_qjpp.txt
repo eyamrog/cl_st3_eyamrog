@@ -1,0 +1,6 @@
+We chose to use parts of MSigDB v.6.2 ( http://software.broadinstitute.org/gsea/msigdb
+) for the gene-set enrichment analysis in Extended Data Figs.
+8 and 9 , given higher gene numbers (>100), allowing
+for more conservative P values. Multiple-hypothesis testing was corrected by
+the Benjamini–Hochberg FDR procedure. The specific collections of gene sets
+used are reported in the figure legends.

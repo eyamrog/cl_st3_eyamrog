@@ -1,0 +1,12 @@
+Caco-2 cells were passaged in DMEM containing 10% fetal bovine
+serum (FBS), penicillin/streptomycin, and L-glutamine. Cells were seeded at density
+of 25,000 cells/well in a 96-well plate, 48 h prior
+to experiment. To initiate toxicity, cells were washed once with
+PBS, and additives for testing were supplied in serum-free medium.
+Proteins (wild-type or H324A/M326V MUC2 D1) and copper sulfate were
+supplied at 250 μM final concentrations. After 24 h, cells
+were washed with PBS and fixed with 4% paraformaldehyde. After
+blocking with BSA, cells were labeled with anti-E-cadherin antibody ab231303,
+1:100 dilution) for 1 h at room temperature, followed by
+an Alexa 488 conjugated secondary antibody. Images were taken using
+a Olympus IX51 microscope equipped with Olympus XM10 camera.

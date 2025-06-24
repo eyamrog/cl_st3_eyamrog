@@ -1,0 +1,16 @@
+To identify the meanings of just in our data, we
+developed a coding scheme based on three sources: the senses
+of just identified by Kishner and Gibbs (1996) , the
+semantic functions of just proposed by Lee (1987) and the
+corresponding definitions in three online dictionaries ( Cambridge Dictionary ,
+Longman Dictionary of Contemporary English and Merriam-Webster Dictionary ). We
+adopted the taxonomy proposed by Kishner and Gibbs (1996) and
+modified it by including the ‘exact’ just as a part
+of the ‘emphatic’ just . This decision was made on
+the basis that the two meanings were separated by Kishner
+and Gibbs (1996) based on the syntactic structures they tend
+to modify. As the two meanings were considered to be
+semantically identical, we coded both as the ‘emphatic’ just as
+in Lee’s (1987 ) taxonomy. This made our coding scheme
+a taxonomy of five main senses as shown in Table
+1 .

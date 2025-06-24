@@ -1,0 +1,13 @@
+The WiSP corpus is to date the only available collection
+of social worker writing and represents a significant first step
+in corpus creation for social work writing, extending the range
+of texts available to researchers and enabling more systematic text-based
+research into this professional discourse than has previously been possible.
+We envisage that Corpus 2 will lead the way for
+future researchers of social work writing practices and will also
+be useful to social work educators: the texts have already
+been useful in the creation of a site for trainers
+and students (WiSP). We anticipate that the discussions and potential
+solutions around anonymisation issues presented in this paper will be
+beneficial for future corpus builders, particularly in the case of
+sensitive datasets.

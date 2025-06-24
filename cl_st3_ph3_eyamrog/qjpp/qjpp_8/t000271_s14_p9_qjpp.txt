@@ -1,0 +1,27 @@
+Frequency and dispersion are the main criteria used in the
+literature to retrieve lexical bundles (see, for instance, Ädel and
+Erman 2012). It is known that lexical bundles of different
+lengths vary in frequency of occurrence ( Biber et al.
+1999 ; Biber et al. 2004 ), and the actual
+cut-off points, which are often arbitrarily set ( Hyland 2008a
+; Bestgen 2020 ), range from 10 (e.g., Biber et
+al. 1999 ) to 20 (e.g., Cortes 2004 ; Hyland
+2008a ) and 40 times per million words (e.g., Biber
+et al. 2004 ), depending on the size of data
+as well as the length of bundles in question. Given
+the relatively small size of the data involved in the
+present study, we decided to focus on 3-word bundles, which
+would yield an optimum number of bundles that are sufficiently
+representative of the corpora but are also manageable for manual
+sifting and categorisation . The frequency threshold was set to
+be 16 per million words (raw occurrences >= 15 in
+the TRJPS corpus and >= 10 in the PJPS corpus),
+occurring in at least ten different articles in each corpus.
+As some 3-word bundles are part of longer formulaic sequences
+(for instance, on the other and the other hand are
+both part of a 4-word bundle on the other hand
+), to make it easier to clean up and classify
+the retrieved bundles, the same frequency and dispersion threshold was
+also used to retrieve 4- and 5-word bundles. As expected,
+using the same threshold, 4- and 5-word bundles retrieved are
+minimal, and all of them have various shorter configurations.

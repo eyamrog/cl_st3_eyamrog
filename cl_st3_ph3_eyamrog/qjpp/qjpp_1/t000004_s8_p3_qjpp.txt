@@ -1,0 +1,12 @@
+In the effort to identify such a craving biomarker, previous
+work in mice found that anticipation of a high-fat food
+reward was associated with increased low-frequency oscillatory power in the
+NAc . This work supported a growing body of evidence
+across species reporting electrophysiological, neurochemical and functional neuroimaging activities within
+circuits involving the NAc that correlate with reward anticipation and
+predict consequential behavioral outcomes . Using low-frequency, delta-bandpower as a
+biomarker to trigger delivery of a brief train of high-frequency
+electrical stimulation to the NAc (hereafter referred to as rDBS)
+resulted in substantial and lasting attenuation of binge-like eating in
+mice sensitized to high-fat food , whereas conventional, continuous DBS
+appeared to lose efficacy over time .

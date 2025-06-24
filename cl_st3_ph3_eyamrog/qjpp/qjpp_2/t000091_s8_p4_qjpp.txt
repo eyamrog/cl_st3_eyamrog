@@ -1,0 +1,17 @@
+Stimulating MLKL in the nucleus of fibroblasts potently activates neutrophils
+ex vivo , and Mlkl −/− mice displayed reduced nuclear
+damage in epithelial cells and dampened neutrophil recruitment upon IAV
+infection in vivo . Because neutrophils are established drivers of
+pathology in severe IAV disease ( Brandes et al., 2013;
+Camp and Jonsson, 2017 3. Brandes, M. ∙ Klauschen, F.
+∙ Kuchen, S. ... A systems analysis identifies a feedforward
+inflammatory circuit leading to lethal influenza infection Cell. 2013; 154
+:197-212 Full Text Full Text (PDF) Scopus (289) PubMed Google
+Scholar 5. Camp, J.V. ∙ Jonsson, C.B. A Role for
+Neutrophils in Viral Respiratory Disease Front. Immunol. 2017; 8 :550
+Crossref Scopus (159) PubMed Google Scholar ), Mlkl −/− mice
+also fared significantly better than their wild-type counterparts following a
+lethal dose of this virus, without notable differences in virus
+replication rates. These findings provide evidence for Z-RNA as a
+new PAMP, and delineate a ZBP1-initiated “inside-out” nucleus-to-plasma membrane death
+signaling pathway with pathogenic consequences during severe influenza infections.

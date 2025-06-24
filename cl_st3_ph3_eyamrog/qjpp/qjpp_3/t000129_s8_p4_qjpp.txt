@@ -1,0 +1,17 @@
+Here, we address this by reconstructing how a new gene
+regulatory program could emerge during evolution within a more ancient
+TAD without disrupting its prior activities. By examining the Zfp42
+/ Fat1 locus, we find that a 300-kb region encompassing
+the Zfp42 gene emerged within Fat1 ’s ancient TAD in
+placental mammals. We find two mechanisms that enabled independent Zfp42
+regulation while maintaining conserved Fat1 expression. In embryonic stem cells
+(ESCs), the ancient TAD is partitioned to physically separate Zfp42
+and Fat1 with distinct enhancers in smaller domains, thereby driving
+their independent activity. However, in embryonic limbs, Zfp42 is rendered
+inert to Fat1 enhancers that it contacts within the intact
+ancient TAD by highly context-dependent DNA methylation. Hence, multiple novel
+expression programs can be incorporated into a single locus during
+evolution through at least restructuring 3D-chromatin landscapes and selective promoter
+silencing. In this way, we demonstrate generalizable principles of how
+the genome resolves regulatory conflicts that inevitably arise in development
+and evolution.

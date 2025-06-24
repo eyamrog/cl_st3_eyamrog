@@ -1,0 +1,24 @@
+Orthologs were identified among all six species based on the
+sequence similarity and the synteny evidence. We first aligned protein
+sequences of the gene sets of the gray short-tailed opossum
+and another species to each other by BLASTP (BLASTall v2.2.23)
+with an e-value cut-off of 1e-5, and combined local alignments
+with the SOLAR v0.9.6 program ( Almasy and Blangero, 1998
+1. Almasy, L. ∙ Blangero, J. Multipoint quantitative-trait linkage analysis
+in general pedigrees Am. J. Hum. Genet. 1998; 62 :1198-1211
+Full Text Full Text (PDF) Scopus (2546) PubMed Google Scholar
+). The aligned gene pairs with the homologous block lengths
+of ≥ 30% of length of the longest protein and
+identity ≥ 50% were kept as the candidate orthologs. Then,
+the reciprocal best hit (RBH) orthologs were identified from these
+candidates. To save candidate orthologs from the strict RBH method,
+we also included RBH orthologs from the second and third
+round by masking known RBH genes. RBH orthologs that were
+also supported by gene or genome synteny would be retained
+as the final pairwise orthologs between the gray short-tailed opossum
+and another species. Detection of gene synteny and genome synteny
+was done following the criteria in the published literature (
+Jarvis et al., 2014 41. Jarvis, E.D. ∙ Mirarab, S.
+∙ Aberer, A.J. ... Whole-genome analyses resolve early branches in
+the tree of life of modern birds Science. 2014; 346
+:1320-1331 Crossref Scopus (1080) PubMed Google Scholar ).

@@ -1,0 +1,14 @@
+The annotation scheme used in this research draws on the
+factors identified by Ming and Chen (2010) in their study
+of omn / imn alternation. HeadNPAnimacy is composed of animate
+(hn), concrete inanimate (cn), and abstract inanimate (an) [object noun].
+HeadNPMatRole is distinguished as subjects(s), objects (o), and others(x). It
+has also been established by Ming and Chen (2010) .
+These three levels are adopted in HeadNPRelRole. Three types of
+NLType are identified as: ( 1 ) Optional (op), (
+2 ) Obligatory (ob), and ( 3 ) Absent (ab).
+This is according to whether DPs exist or can be
+optionally omitted. HeadNPLength and RCLength were both measured in the
+number of Chinese characters. CHProficiency was examined by the hsk
+test level passed by learners. Construction includes omn and imn
+. The annotation scheme is summarised in Table 1 .

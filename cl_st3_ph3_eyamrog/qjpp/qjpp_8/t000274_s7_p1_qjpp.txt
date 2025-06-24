@@ -1,0 +1,14 @@
+This paper draws on our experience of working with the
+UK-based WiSP corpus dataset ( Lillis, Leedham and Twiner, 2019
+), exploring how the creation of a hard-to-access corpus of
+sensitive texts raises challenging methodological issues in relation to corpus
+compilation and the additional preparation required to meet the funders’
+requirements for secondary archiving. Given that social work involves engagement
+with people at vulnerable points in their lives, the texts
+produced are often sensitive and always highly confidential, thus making
+access understandably difficult. One means of resolving some of the
+ethical issues is the creation of a separate corpus for
+archiving with the more sensitive texts withheld. While an effective
+solution to the risks inherent in archiving texts about living,
+vulnerable people, this response raises epistemological questions about fundamental and
+widely accepted principles governing corpus linguistics.

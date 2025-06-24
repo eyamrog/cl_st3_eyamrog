@@ -1,0 +1,16 @@
+DNA sequence analyses and filtering Initial sequence data processing was
+done using the OBITools package v. 1.2.12 ( http://metabarcoding.org/obitools/doc/index.html ;
+Boyer et al., 2016 ). Forward and corresponding reverse reads
+were assembled using ‘illuminapairedend,’ followed by sample assignment with ‘ngsfilter.’
+We removed reads with a quality score <40, <100% tag
+match, >3 mismatches with the primers, shorter lengths than expected
+(<8 bp), and those containing ambiguous nucleotides. Unique reads were
+merged and singletons removed. Amplification and sequencing errors were identified
+using ‘obiclean,’ with a threshold ratio of 5% for reclassification
+of sequences identified as ‘internal’ to their corresponding ‘head’ sequence.
+Finally, sequences were compared to a taxonomic reference library using
+‘ecotag.’ The reference library was prepared using the global EMBL
+sequence database (release 142; January 2020; http://www.ebi.ac.uk/embl/ ) and the
+NCBI Taxonomy database ( https://www.ncbi.nlm.nih.gov/taxonomy ) by performing an in-silico
+PCR with the ecoPCR software v. 1.0.1 ( Ficetola et
+al., 2010 ).

@@ -1,0 +1,14 @@
+We studied archival formalin-fixed paraffin-embedded (FFPE) samples, gathered before panitumumab
+rechallenge, as well as ctDNA collected at baseline and at
+progressive disease (PD) to panitumumab rechallenge (Fig. 4 ). Tissue
+samples were analyzed using the next-generation sequencing (NGS) Oncomine Comprehensive
+Assay version 3 (OCAv3), whereas ctDNA samples were genotyped by
+a high-sensitivity NGS panel assay based on a custom Duplex
+Sequencing (DS) workflow ( Methods ). NGS analysis on archival
+FFPE samples obtained before panitumumab rechallenge revealed an ERBB2 amplification
+in two patients (INT-001 and NIG-012), one of whom (INT-001)
+also harbored the hotspot ERBB2 p.V777L mutation (Fig. 4 ).
+It was previously reported by us and others that ERBB2
+mutations confer resistance to EGFR blockade in CRC . Of
+note, both INT-001 and NIG-012 had PD as best response
+to panitumumab rechallenge.

@@ -1,0 +1,18 @@
+Immunostaining was performed as described before by Marques et al.
+(2016) 60. Marques, A. ∙ Schubert, V. ∙ Houben, A.
+... Restructuring of holocentric centromeres During meiosis in the plant
+Rhynchospora pubera Genetics. 2016; 204 :555-568 Crossref Scopus (21) PubMed
+Google Scholar with some modifications. Roots or Anthers were fixed
+in ice-cold 4% paraformaldehyde in 1× PBS buffer pH 7.5
+(1.3 M NaCl, 70 mM Na2HPO4, 30 mM NaH2PO4) for
+1 hr and 30 min and squashed in a drop
+of the same buffer. Then, the slides were washed in
+1× PBS and blocked with 3% BSA for 30 min
+at 37 °C. Rabbit anti-H3K4me3 (abcam, ab8580), mouse anti-H3K9me2 (abcam,
+ab1220), and previously generated R. pubera rabbit anti-CENH3 ( Marques
+et al., 2015 59. Marques, A. ∙ Ribeiro, T. ∙
+Neumann, P. ... Holocentromeres in Rhynchospora are associated with genome-wide
+centromere-specific repeat arrays interspersed among euchromatin Proc. Natl. Acad. Sci.
+USA. 2015; 112 :13633-13638 Crossref Scopus (57) PubMed Google Scholar
+) were used for immunostaining. The slides were counterstained with
+2 mg/ml 49,6-diamidino-2-phenylindole (DAPI) in Vectashield H-1000.

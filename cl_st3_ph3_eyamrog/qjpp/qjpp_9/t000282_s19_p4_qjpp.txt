@@ -1,0 +1,24 @@
+Figure 5 shows that there is some variation in which
+speakers use variable peak delay interval length in L+H* pitch
+accents, but, overall, the intervals are shorter when the speakers
+are discussing topics related to the police as opposed to
+how they identify in different situations or how they respond
+to others asking questions about their race. Though this pattern
+is less clear than the results for the use of
+L+H*, with Jesse and Dylan having the shortest intervals in
+response to the what are you question, it is worth
+noting that the peak delay intervals examined here are very
+short, introducing a bit more variability into the results. For
+example, Jesse’s mean delay interval for the police topic is
+0.823 seconds, while his delay interval for the what are
+you topic is 0.791 seconds. However, when each interval for
+each phrase for each speaker is taken into account in
+the model, the results still indicate an overall pattern of
+shorter intervals for the police topic, despite the extremely short
+duration of the intervals and the narrow margins of difference.
+These overall results are notable: longer peak delay intervals are
+more characteristic of AAL than MUSE ( Holliday 2016 ;
+McLarty 2018 ). This would seem to indicate that as
+a group these speakers are again employing a more MUSE-like
+pattern use when they are discussing the police topic than
+the other topics.

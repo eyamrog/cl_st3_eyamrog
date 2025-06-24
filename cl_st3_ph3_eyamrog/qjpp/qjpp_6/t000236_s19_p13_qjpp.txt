@@ -1,0 +1,13 @@
+In model 1, only gender (beta = −.13, p =
+.00) significantly predicted COVID-19 coping strategies. However, in model 2,
+access to COVID-19 information (beta = .07, p = .02),
+country of respondents (beta = .06, p = .05), severity
+of COVID impact (beta = .23, p = .00), and
+efficacy of COVID-19 coping strategies (beta = .55, p =
+.00) emerged as the significant predictors of COVID-19 coping strategies.
+Comparatively, efficacy of coping strategies (beta = .55) was the
+best predictor of COVID-19 response strategies, accounting for about 25
+percent of the variation in the model. This is followed
+by severity of impact (beta = .23), which accounted for
+2.2 percent, access to COVID-19 information (beta = .07, .44
+percent) and country of respondents (beta = .06, .3 percent).

@@ -1,0 +1,26 @@
+The realization of the final /t/ in the full and
+reduced auxiliaries can vary, but this does not affect the
+categorization of tokens into variant types (see Cheshire [1981 :370]
+and Pichler [2013 :183], who took a similar approach). It
+is the loss of auxiliary-medial consonants and/or changes in vowel
+length from the full forms that leads to the categorization
+of tokens as “reduced.” Full tags that contain auxiliaries with
+medial consonants, specifically consonants that are the final segment of
+the auxiliary stem (before n’t ), become reduced tags when
+those consonants are lost. For example, di[d] + n’t becomes
+dint . Other tags have experienced further reduction, such as
+/h/-dropping—e.g., hasn’t and hadn’t become ant . Three auxiliaries— aren’t
+, weren’t , and don’t —typically have no stem-final consonants
+to lose (unless pronounced with /r/, which is not the
+case in this data), but have long vowels in their
+full variants ( aren’t [ɑ:nt], weren’t [wə:nt], and don’t [dɔ:nt])
+which become short vowels in their reduced alternatives. The form
+divn’t ([d iv ənt], N = 10), found only in
+the Northeast of England ( Beal, Burbano-Elizondo & Llamas 2012
+:63), is distinct from the other reduced tags in having
+an additional [v] and schwa that are absent from the
+full form don’t . However, divn’t is still classified as
+“reduced,” as the change from don’t to divn’t involves vowel
+reduction from a long [ɔ:] to a short [ i
+]. This classification also places divn’t alongside other tags with
+“non-canonical” pronunciations.

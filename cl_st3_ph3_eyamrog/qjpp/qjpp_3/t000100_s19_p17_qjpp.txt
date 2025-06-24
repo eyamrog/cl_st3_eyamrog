@@ -1,0 +1,23 @@
+The largest cluster (cluster A) was characterized by high expression
+of FOXP3 transcripts, which encodes for the T REG master
+transcription factor forkhead box P3 (FOXP3) ( Rudensky, 2011 37.
+Rudensky, A.Y. Regulatory T cells and Foxp3 Immunol Rev. 2011;
+241 :260-268 Crossref Scopus (646) PubMed Google Scholar ) (
+Figures 5 A–5D and Table S5 C). Independent GSEA analysis
+showed significant positive enrichment of T REG signature genes in
+this cluster, suggesting that cells in this cluster represented SARS-CoV-2-reactive
+T REG cells ( Figure S5 B and Table S2
+H). Notably, the proportion of cells in the T REG
+cluster was significantly lower in hospitalized COVID-19 patients compared to
+non-hospitalized patients ( Figures 5 D, 5E, and S5 C
+and Tables S5 A and S5B), suggesting a potential defect
+in the generation of immunosuppressive SARS-CoV-2-reactive T REG cells in
+hospitalized patients. Consistent with our data from 6 h stimulation
+condition, we found that cells in the CD4-CTL clusters (clusters
+B and F) were present at higher frequencies in some
+hospitalized COVID-19 patients ( Figures 5 E, 5F, and S5
+C and Tables S5 A and S5B). They also showed
+the greatest clonal expansion compared to other clusters ( Figures
+S5 D an S5E and Table S4 B), suggesting potential
+importance of the CD4-CTL subset in driving immune responses to
+SARS-CoV-2 infection.

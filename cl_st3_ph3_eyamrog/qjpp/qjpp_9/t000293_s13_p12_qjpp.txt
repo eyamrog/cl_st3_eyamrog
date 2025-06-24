@@ -1,0 +1,11 @@
+Google Scholar is a powerful web search engine, allowing users
+to retrieve a list of publications on specific scholarly topics.
+For reference, the search query ‘Korean English learner corpus’ (in
+Korean) on Google Scholar returned thirty-one results for the period
+2001 to 2005, 128 for 2006 to 2010, 240 for
+2011 to 2015, and 455 for 2016 to 2020. There
+were no relevant results before 2000. Based on the query
+results, we can conclude that the number of studies (including
+articles, theses and books) that used English learner corpora have
+increased substantially in Korea since 2000, nearly doubling every five
+years over the past fifteen years.

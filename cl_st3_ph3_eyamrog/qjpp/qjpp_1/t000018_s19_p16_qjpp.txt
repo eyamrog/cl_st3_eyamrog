@@ -1,0 +1,13 @@
+In situ localization of stromal cells in noninflamed large (colon)
+and small (ileum) intestinal tissue confirmed that PDGFRA and ABCA8
+fibroblasts represent two spatially distinct fibroblast subsets (Fig. 4d and
+Extended Data Fig. 7b ). Costaining of PDPN and THY1
+with markers of fibroblasts (PDGFRA, ABCA8), pericytes (MCAM) and endothelial
+cells (PECAM1) confirmed that multiple stromal subsets express these markers
+to varying extents (Fig. 4d , e and Extended Data
+Fig. 7c,d ). Notably, THY1 formed a gradient of staining
+intensity from the perivascular niche toward the lamina propria (as
+recently described in ref. ), being expressed by both ABCA8
+fibroblasts and MCAM pericytes, as well as by cells in
+the muscular layer of the submucosa (Fig. 4d,e and Extended
+Data Fig. 7b,c ).

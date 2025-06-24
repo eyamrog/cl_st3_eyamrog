@@ -1,0 +1,17 @@
+The labeling system for intonation based on the AM theory
+is called the Tones and Breaks Index system (ToBI), and
+each language, dialect, or variety requires its own distinct ToBI
+system that reflect that variety’s intonational phonological specifications. At present,
+the MAE-ToBI (Mainstream American English-Tones and Breaks Index) system, originally
+developed by Beckman and Ayers Elam (1997) for MUSE, is
+the only ToBI system generally in use for American English.
+MAE-ToBI has previously been used for descriptions of Jewish English
+( Burdin 2016 ), Appalachian English ( Reed 2016 ),
+and AAL ( Holliday 2016 ; McLarty 2018 ). However,
+it is important to note that some researchers have posited
+that the intonational phonological inventory of AAL may differ from
+that of MUSE. As a result, MAE-ToBI has some limitations
+in its utility for non-MUSE varieties, but it remains among
+the best tools currently available for studying intonation in American
+English, even across varieties ( Thomas 2015 ; Holliday 2016
+). 3

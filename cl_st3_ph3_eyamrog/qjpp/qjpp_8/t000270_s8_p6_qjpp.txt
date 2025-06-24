@@ -1,0 +1,26 @@
+Many network models of disease spread, however, assume that relationships
+do not change over time ( Bansal et al., 2010
+). In their review on epidemic processes in complex networks,
+Pastor-Satorras et al. (2015) argue that static networks are good
+approximations , when the network evolves at a much slower
+pace than the dynamic process working within it. Examples for
+processes that change network topology slowly are demographic changes, such
+as births and deaths, migration, or social or economic changes.
+Short-term changes, however, can be the result of behavioral changes
+to adapt to health risks thus requiring the consideration of
+the interdependent dynamics between social networks and infectious diseases (
+Bansal et al., 2010 ). An established approach to account
+for such adaptations as well as heterogeneity on the host
+level are individual-based models for infectious disease transmission ( Bedson
+et al., 2021 ; Willem et al., 2017 ; Verelst
+et al., 2016 ). Simulation studies on adaptive networks suggest,
+for example, that epidemic size is smaller in adaptive networks
+compared to their static counterparts, no matter whether ties to
+infectious nodes are simply cut ( Gross et al., 2006
+) or whether infectious nodes rewire randomly ( Leung et
+al., 2018 ; Risau-Gusman and Zanette, 2009 ). Another typical
+application of individual-based models is to test the effectivity of
+network-based interventions ( Verelst et al., 2016 ), such as
+vaccination ( Breban, 2011 ; Nunner et al., 2022 )
+or information campaigns ( Mao and Yang, 2012 ; Nyabadza
+et al., 2010 ).

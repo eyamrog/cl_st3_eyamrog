@@ -1,0 +1,17 @@
+Next, we interrogated The Cancer Genome Atlas (TCGA) to determine
+if FBXO44 expression associated with the tumor immune microenvironment in
+cancer patients. Pan-cancer analysis showed that FBXO44 expression inversely correlated
+with gene expression signatures of CD8 + T and NK
+cell infiltration and antigen processing and presentation ( Figures 7
+D and S7 A; Table S6 ). FBXO44 expression inversely
+correlated with innate immune system, cytosolic DNA sensing pathway, RIG-I/MDA5-mediated
+induction of IFN-α/β pathways, and regulation of IFN-γ signaling, among
+other immune-related processes ( Figures 7 E, 7F, and S7
+B), confirming our results from in vitro and mouse models.
+Specifically, FBXO44 expression strongly anti-correlated with antiviral mechanism by IFN
+stimulated genes and interferon signaling in various human cancers (
+Figure 7 G; Table S7 ). FBXO44 expression also strongly
+anti-correlated with activation of ATR in response to replication stress
+( Figure S7 C; Table S7 ), consistent with activation
+of the DNA replication checkpoint in FBXO44 KD cells in
+vitro ( Figure 3 I).

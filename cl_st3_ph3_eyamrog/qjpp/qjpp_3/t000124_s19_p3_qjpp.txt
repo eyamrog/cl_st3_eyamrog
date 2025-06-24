@@ -1,0 +1,11 @@
+The concept of chromosome arms does not apply to holocentric
+species, as centromeres are ubiquitous. Consequently, we observed no large-scale
+compartmentalization or telomere-to-centromere axes, as evidenced by the chromatin configuration
+capture (Hi-C) contact matrices of our three Rhynchospora species (
+Figures 2 C, 2D, S1 A, and S1B). Further quantification
+of intrachromosomal ( cis ) and interchromosomal ( trans )
+chromatin contacts revealed a significantly higher ratio (p < 4.04e−05)
+of cis versus trans interactions in all Rhynchospora species compared
+with the monocentric J. effusus ( Figure S1 C). Thus,
+holocentric beak-sedges are characterized by higher intrachromosomal spatial genome organization
+and lack of centromere clustering.

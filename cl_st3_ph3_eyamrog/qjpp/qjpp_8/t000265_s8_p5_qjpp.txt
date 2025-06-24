@@ -1,0 +1,16 @@
+Our study contributes to the literature in several forms. First,
+we leverage the ability of the difference-in-discontinuity study design to
+disentangle the effect of increased deductibles from the disruption in
+treatment caused by other reasons, as the transition from CAMHS
+to AMHS. Other empirical methods, such as a regression discontinuity
+design (RDD), would not have allowed us to distinguish the
+impact of financial barriers from other factors. We find that
+cost sharing acts as a financial barrier among youth, and
+contributes to the transition gap in mental health care. Second,
+we measure income at the individual level and obtain estimates
+of heterogeneous effects across the entire population of young adults.
+We find that females in low income are more likely
+to not use mental health care awhen facing increased deductibles.
+Third, we show that cost-sharing increases pro-rich inequalities in access
+to mental health care, in a country with a comprehensive
+mental health care system and low out of pocket expenditures.

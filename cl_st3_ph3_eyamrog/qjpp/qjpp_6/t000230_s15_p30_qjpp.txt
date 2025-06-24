@@ -1,0 +1,12 @@
+In order to undertake comparative analysis, however, one must engage
+in a process that is often called “data harmonization.” This
+term refers to the process of making various items in
+data sets comparable with each other. Researchers must decide on
+the general concepts that are the most important for them
+and look for how such concepts are measured in each
+data set. Sometimes this is very straightforward. For example, measuring
+grade point average on a 4-point scale is usually the
+same from jurisdiction to jurisdiction (just make sure to note
+if it is standardized or not). My team and I
+were able to find comparable indicators on many characteristics, like
+grades, special education needs, and courses taken.

@@ -1,0 +1,2 @@
+In total, we identified 6,425 Dipr_Dasy genes, 1,310 Dipr_Micr genes,
+and 803 Dasy_Micr genes by this method.

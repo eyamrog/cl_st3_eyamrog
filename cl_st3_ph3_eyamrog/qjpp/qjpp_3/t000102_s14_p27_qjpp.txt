@@ -1,0 +1,6 @@
+Quantification of photobleaching was performed in FiJI by determining the
+mean intensities of regions of interest in the bleached areas
+before, immediately after and 30 min after photobleaching. The intensity
+values were normalized in Prism and the average intensities and
+standard deviations across all experiments were calculated. These were tested
+for significance in prism using the t test.

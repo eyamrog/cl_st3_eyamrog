@@ -1,0 +1,6 @@
+Unexpectedly, stabilizing the Unc5-GPC3 interaction artificially with Nano glue reduced
+radial migration in vivo . We hypothesize that stabilizing the
+interaction interfered with the release mechanism from the GPC3-presenting scaffolds
+in neurons. This would be consistent with the lack of
+neural migration observed in stripe assays in the presence of
+Nano glue .

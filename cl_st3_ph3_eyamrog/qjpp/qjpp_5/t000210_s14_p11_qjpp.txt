@@ -1,0 +1,20 @@
+In a second model (‘weaning category model’), we specifically tested
+whether the latter stages of weaning, a key period of
+mother-offspring conflict, were associated with elevations in urinary cortisol levels.
+In the absence of direct behavioral or nutritional data related
+to the weaning stage, we subset our initial data set
+to individuals that had younger siblings. Using demographic birth data,
+we then assigned samples for each of these individuals to
+one of the four categories depending on when the sample
+was collected: ‘early ontogeny,’ ‘year before the birth of a
+younger sibling,’ ‘year after the birth of a younger sibling,’
+and ‘late ontogeny.’ While it is still possible for an
+individual chimpanzee or bonobo to be carried or nursed by
+its mother after the birth of a sibling (personal observations;
+Lee et al., 2020 ), this point represents a clear
+change in maternal resource availability to an older sibling, i.e.
+our study individuals in this model. After subsetting our data
+to include only individuals with younger siblings born within our
+sampling period, our data set included 1025 samples: 252 from
+28 bonobos, 511 from 48 Taï chimpanzees, and 262 from
+9 Budongo chimpanzees.

@@ -1,0 +1,16 @@
+We did a simulation study to assess power. We identified
+and randomly assigned 24 health facilities or clusters of similar
+sizes anticipating that each health facility would see at least
+20 index patients with tuberculosis and 80 household contacts over
+a 6-month period. For each health facility, the number of
+household contacts expected to initiate treatment per index patient was
+generated from a Poisson distribution with a rate that depended
+on the effect of the intervention, the effect of time,
+and a normally distributed random effect for each randomisation unit
+such that the intra-class correlation coefficients ranged from 0·16 to
+0·40. Using this approach, we estimated that we had 96%
+power to detect a significant (α=0·05) effect of the intervention
+if the true increase in the number of household contacts
+initiating tuberculosis preventive treatment (between study phases, and controlling for
+any temporal effects in the control sites) was at least
+15 per 100 index patients with tuberculosis.

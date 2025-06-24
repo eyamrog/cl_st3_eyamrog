@@ -1,0 +1,12 @@
+The reasoning data gained from the AST were coded by
+a team of four trained research assistants (for details, see
+supplementary materials S2 ). The two coding categories (i.e., distinguishing
+between negative = 0 and positive/neutral attributions = 1) for
+attribution of intention were based on previous research (Dodge et
+al., 2015 ; McGlothlin et al., 2006 ). For the
+other measures, research from the social reasoning developmental theory (Killen
+et al., 2016 ) provided a set of categories that
+were employed in the current study. This theoretical framework draws
+on social domain theory (Smetana, 2011 ) and the social
+identity perspective, which is relevant for understanding group dynamics (Tajfel
+& Turner, 1979 ).

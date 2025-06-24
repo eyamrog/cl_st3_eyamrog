@@ -1,0 +1,23 @@
+This thread illustrates a user-user interaction largely builds on a
+URL-URL interaction, such that the thread moves towards presentation, criticism
+and defense of URLs. Each user seems to take their
+own posted URLs as the “hard currency” for their stance
+(Wikgren, 2003), such that the attention is on URLs, and
+there is little negotiation among users in their views, thus
+leading to stalemate towards the end. The obvious stalemate further
+points to the problem of reliance on URLs and link
+war. This URL exchange and the practice of posting URLs
+to argue against each other can only be observed if
+the whole thread is examined while taking into account users’
+responses to each other. This observation would not be possible
+if only individual comments are considered. Furthermore, the implication of
+URL-posting and link war, in this case users’ singular focus
+on their own URLs that impedes on their negotiation with
+each other, is also revealed when the whole thread is
+examined. All these insights point to the importance of conducting
+micro-analysis or digital CA of threads in online discussions where
+a specific topic or language practice is salient. This example
+also shows that the CWB tool is useful for tabulating
+threads that contain most mentions of the search terms, which
+in turn helps researchers to focus on the threads that
+might be illustrative of a certain language practice.

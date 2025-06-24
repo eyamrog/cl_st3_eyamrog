@@ -1,0 +1,24 @@
+Digital public health surveillance affords the opportunity to revolutionize existing
+public health surveillance infrastructure. Although some public health officials report
+monitoring digital data sources such as Google Flu Trends for
+contextual information ( 13 ), our review indicates that public
+health, in any official capacity, has yet to embrace and
+build on existing opportunities that have arisen from new digital
+data sources. While a variety of conditions examined in public
+health surveillance have been explored to some degree using digital
+data sources, the main focus has been on influenza. Moreover,
+road maps describing how public/private partnerships could advance and work
+together toward creating sustainable, efficient, and ethical digital surveillance systems
+have yet to be fully developed. In addition, clear standards
+by which digital public health surveillance can be compared with
+traditional surveillance systems have yet to be established, making it
+difficult to assess whether these sources truly amplify the benefits
+of traditional public health for disease tracking and prevention. While
+we cover applied uses related to search queries, social media
+posts, and crowdsourcing, another potentially promising area that has yet
+to be explored is the use of data from existing
+digital health collection platforms based on smartphones and wearable devices,
+such as Apple HealthKit. These sources could offer highly precise
+information related to both infectious and noninfectious conditions and risk
+factors at a broad scale, but with many of the
+biases and representation concerns mentioned above.

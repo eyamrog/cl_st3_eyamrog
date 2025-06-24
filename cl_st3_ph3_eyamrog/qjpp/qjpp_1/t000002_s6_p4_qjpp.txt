@@ -1,0 +1,20 @@
+The findings of this study should be viewed in the
+context of several limitations. We were not able to account
+for daily step variations between different types of Fitbit models
+and seasonal differences as well as the occurrence of the
+COVID-19 pandemic because device data were not available at the
+time of analyses and data were date-shifted to protect privacy
+of participants. The characteristics of our study sample may limit
+the generalizability of our findings to more diverse populations. The
+majority of our cohort was relatively young, female, white and
+college-educated, and only included participants who owned Fitbit devices. Further,
+participants engaged in more steps per day (median 7,731 steps
+per day) than the average steps per day values reported
+for adults in the USA aged over 60 years ,
+suggesting that the analytical cohort in this study was more
+active. The fact that we were able to detect robust
+associations between steps and incident disease in this active sample
+suggests even stronger associations may exist in a more sedentary
+population. Therefore, further studies are needed including participants who are
+historically under-represented in biomedical research and those with activity levels
+that more closely mirror the general community.

@@ -1,0 +1,17 @@
+To test the significance of the correlation structure of a
+given module, a permutation test was implemented. Binning genes in
+the true module by average gene expression (number of bins
+was ten), genes with the same distribution of average expression
+from the total list of genes used for module discovery
+were randomly picked 10,000 times. For each of these random
+modules, a one-sided Mann–Whitney U -test was performed to compare
+the distribution of dissimilarity values between the genes in the
+true module and the distribution of dissimilarity values between the
+genes in the random module. Correcting the resulting P values
+for multiple hypothesis testing by Benjamini–Hochberg FDR correction, a module
+was considered significant if <500 tests ( P < 0.05)
+had FDR > 0.05. We note that if we chose
+a smaller soft power for TOM generation, which in turn
+resulted in larger modules with fewer excluded genes, fewer modules
+passed this permutation test, likely due to noisier genes that
+maintained weak correlations with all other genes in the analysis.

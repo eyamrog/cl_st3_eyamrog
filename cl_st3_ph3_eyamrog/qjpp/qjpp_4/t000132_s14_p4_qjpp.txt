@@ -1,0 +1,8 @@
+The human colon epithelial cell line Caco-2 were obtained from
+the laboratory of Prof. Benjamin Geiger (Weizmann Institute of Science)
+and grown in DMEM (Gibco, Thermo Fisher Scientific) supplemented with
+10% fetal bovine serum, L-glutamine, and Pen-Strep (Biological Industries). Caco-2
+cells were confirmed to be negative for mycoplasma. The human
+colon epithelial cell line LS174T was purchased from Sigma and
+grown in MEM (Sigma) supplemented with 10% fetal bovine serum,
+L-glutamine, and Pen-Strep (Biological Industries).

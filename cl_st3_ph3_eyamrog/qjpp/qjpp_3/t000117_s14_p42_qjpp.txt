@@ -1,0 +1,17 @@
+To correct for photobleaching of fluorescence signals (baseline drift), a
+bi-exponential curve was fit to the raw fluorescence trace and
+subtracted as follows: 𝐹 𝑟 ⁢ 𝑎 ⁢ 𝑤 _
+𝑓 ⁢ 𝑖 ⁢ 𝑡 = 𝑓 ⁢ 𝑖 ⁢
+𝑡 ⁡ ( 𝑇 ⁢ 𝑖 ⁢ 𝑚 ⁢ 𝑒
+⁢ 𝑠 ⁢ 𝑡 ⁡ 𝑎 ⁢ 𝑚 ⁢ 𝑝
+, 𝐹 𝑟 ⁢ 𝑎 ⁢ 𝑤 , ′ 𝑒
+⁢ 𝑥 ⁢ 𝑝 ⁢ 2 ′ ) 𝐹 𝑟
+⁢ 𝑎 ⁢ 𝑤 _ 𝑐 ⁢ 𝑜 ⁢ 𝑟
+⁢ 𝑟 ⁢ 𝑒 ⁢ 𝑐 ⁢ 𝑡 ⁢ 𝑖
+⁢ 𝑜 ⁢ 𝑛 = 𝐹 𝑟 ⁢ 𝑎 ⁢
+𝑤 − 𝐹 𝑟 ⁢ 𝑎 ⁢ 𝑤 _ 𝑓
+⁢ 𝑖 ⁢ 𝑡 𝐹 𝑟 ⁢ 𝑎 ⁢ 𝑤
+_ 𝑓 ⁢ 𝑖 ⁢ 𝑡 After baseline drift correction,
+the fluorescence signals were z-scored relative to the mean and
+standard deviation of the signals in a time window −4
+to 0 s relative to CS onset.

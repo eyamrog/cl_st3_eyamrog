@@ -1,0 +1,18 @@
+The data, i.e., the text of the comments, and metadata,
+i.e., the various variables, were encoded into CWB ( https://cwb.sourceforge.io/index.php
+; Evert and Hardie, 2011 ). The CWB is a
+corpus tool with efficient data structure and retrieval for concordancing
+as well as frequency counts and sorting. It is the
+query architecture underlying the CQP web ( Hardie, 2012 )
+that hosts various corpora for the public and the commercial
+corpus tool, SketchEngine ( Kilgarriff et al., 2014 ). Although
+CWB might be less user-friendly than other corpus tools such
+as Antconc ( Anthony, 2017 ), Wordsmith ( Scott, 2020
+) and LancsBox ( Brezina et al., 2020 ), it
+is more efficient when it comes to big data. Most
+tools require data to be loaded every time they open,
+and are time-consuming and unstable for big data, whereas CWB
+only requires the data to be encoded once and can
+manage large corpora ranging from 10 million to 2 billion
+words. Therefore, it is more suitable for a large corpus,
+such as the present corpus of online discussions.

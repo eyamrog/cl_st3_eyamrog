@@ -1,0 +1,11 @@
+More serious illness is likely to lead to a child
+being admitted as an inpatient. A priori, one might expect
+that the policy would lead to a higher proportion of
+urgent cases, with less urgent cases being diverted to general
+practice. However, there was no significant increase in the marginal
+probability of a visit for a child aged under six
+resulting in admission following the introduction of the policy (Appendix:
+Table A2 ). There was an increase in the marginal
+probability of visits being triaged as urgent and a decrease
+in the marginal probability of the visit being triaged as
+low urgency, though effects were small (<1pp).

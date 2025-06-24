@@ -1,0 +1,11 @@
+Incisors For comparative analysis of the incisors, and due to
+having only two incisors from Boxgrove, we used the adjusted
+(or modified) Z-score, which allows for comparison between small and
+unbalanced samples using Student's inverse t distribution. In these Z-scores,
+the −1.0 to +1.0 interval comprises 95% of the variation
+in the reference sample ( Maureille et al., 2001 ;
+Scolan et al., 2012 ). Adjusted Z-scores were conducted on
+CA, RL, and RV (variables that captured the overall morphology)
+for the Boxgrove specimen, computed on the means and standard
+deviations of the Neanderthals and RMH groups. Qualitative assessment was
+conducted for all major root variables.

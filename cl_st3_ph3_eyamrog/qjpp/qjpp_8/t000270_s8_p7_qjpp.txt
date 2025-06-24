@@ -1,0 +1,20 @@
+“My it's a small world.” is according to Milgram (1967
+, p. 61) a typical statement we make upon realizing
+that a stranger knows the same person we do. In
+a seminal study, he discovered that it takes only about
+five intermediaries to send a letter from distant places in
+the US (i.e., Wichita, Kansas and Omaha, Nebraska) to a
+stockbroker in Boston, Massachusetts. This surprisingly low number is caused
+by the typical properties of our social networks: high clustering
+and short average path length ( Watts and Strogatz, 1998
+). That is, small-world networks typically have densely connected areas
+that are connected by just a few bridges. Translated into
+our social lives that means we form clusters with people
+who are also connected among each other (e.g., friends, family),
+while we typically know few people who are not part
+of that inner social circle (e.g., a former fellow student).
+The tendency for high clustering or triadic closure ( Simmel,
+1950 ) is often studied in the social sciences (
+Granovetter, 1977 ), also because social cohesive structures have advantages
+in terms of cooperation and trust for the people in
+these structures ( Coleman, 1994 ).

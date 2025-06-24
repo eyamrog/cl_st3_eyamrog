@@ -1,0 +1,24 @@
+The first human CoV, recovered from embryonic tracheal organ cells
+taken from an adult with a cold, was discovered in
+the mid-1960s and, in a move unthinkable today, was later
+demonstrated to cause a common cold when it was deliberately
+applied to the noses of human volunteers ( Kahn &
+McIntosh 2005 ). Shortly thereafter the strain (B814) was found
+to be structurally similar to two other newly discovered human
+viruses, as well as to multiple viruses isolated from chickens,
+mice, and swine. Rapid identification of CoVs across many mammals
+and birds ensued ( Kahn & McIntosh 2005 ). These
+viruses are now attributed to the four genera of the
+subfamily Coronavirinae , Alphacoronavirus , Betacoronavirus , Gammacoronavirus , and
+Deltacoronavirus . While a porcine Deltacoronavirus has recently been found
+to infect humans, viruses of the Gammacoronavirus and Deltacoronavirus genera
+are thus far known to infect primarily birds and ungulates
+and can generate substantial economic loss in the poultry and
+porcine industries (for reviews, see Ambepitiya Wickramasinghe et al. 2015
+, Lednicky et al. 2021 , Wang et al. 2019
+). As of this writing all known circulating human CoVs
+belong to the Alphacoronavirus and Betacoronavirus genera, which find hosts
+in various mammals, including rodents, primates, carnivores, bovids, and cervids.
+Before SARS, however, human CoVs were thought to be a
+subset of viruses that cause only common colds—economically damaging, but
+largely a nuisance from a public health standpoint.

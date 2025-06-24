@@ -1,0 +1,17 @@
+Cycling experiments were performed similarly to experiments describes in Phase
+diagram data collection with minor changes. After treatment of G3BP
+KO cells expressing indicated sspB/iLID Corelets with arsenite (or indicated
+drug), image acquisition was immediately commenced. For most experiments, a
+5-min activation (488 blue light) time lapse was acquired for
+each cycle, immediately followed by a 5-min time lapse for
+deactivation (no 488 blue light). We have determined that this
+deactivation time far exceeds that which is required for complete
+reversibility (typically 30-60 s, see Figures 4 B; S4 A),
+of diverse Corelet condensates. Indicated cycling parameters were repeated 6-8
+times. In certain experiments, instead, a 10-min activation time lapse
+was immediately followed by a 5-min time lapse for deactivation.
+This was repeated four times. Intervals were kept constant at
+6 s in all cases. Representative cells/fields were chosen for
+data analysis based on standard core concentrations (~0.25 μM) and
+desired valence, which is indicated in figure legends for a
+given experiment.

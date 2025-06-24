@@ -1,0 +1,14 @@
+We finally tested the extent to which DNA methylation resolves
+these pervasive regulatory conflicts by expanding our analysis of Dnmt3b
+−/− limbs. We detected 594 promoters displaying hypomethylated DMRs that
+displayed distinct transcriptional responses to hypomethylation (42 upregulated, 4 downregulated,
+546 unaffected). As we predicted, these behaviors were linked to
+a DMR promoter’s expression class and TAD environment. Upregulated DMR
+promoters were enriched in non-Ubiq. “developmental” genes and were located
+in TADs that contain a higher fraction of other non-Ubiq.
+genes ( Figures S6 E and S6F). By contrast, unaffected
+DMR promoters were enriched in Ubiq. “housekeeping” genes and were
+located within TADs that contain fewer non-Ubiq. genes. Thus, like
+Zfp42 , lost DNA methylation preferentially activates promoters if they
+are (1) developmental and (2) exposed to the enhancers of
+other developmental loci in the same TAD.

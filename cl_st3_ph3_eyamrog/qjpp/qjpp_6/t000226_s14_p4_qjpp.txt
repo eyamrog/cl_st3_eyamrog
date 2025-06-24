@@ -1,0 +1,16 @@
+All analyses were conducted in R v. 3.5.3 ( R
+Core Team, 2021 ). We quantified variance in male and
+female energy expenditure using Bayesian general linear models based on
+Monte-Carlo Markov chain (MCMC) models using the ‘MCMCglmm’ package (
+Hadfield, 2010 ). Each model included one trait as the
+response variable (TEE, BEE, or AEE) and sex as an
+independent variable, with no intercept fitted so that the model
+returned separate mean estimates for males and females ( Schielzeth,
+2010 ). Using the ‘idh’ function, we also allowed the
+residual variance to be different in males and females. We
+also ran models with height, fat-free mass, fat mass, or
+age as the dependent variable (with only sex as the
+independent variable) to estimate mean and variance differences in males
+and females for these variables. All models included country as
+a random effect to account for the unequal sampling distribution
+across countries.

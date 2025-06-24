@@ -1,0 +1,10 @@
+Human and bipedal chimpanzee joint moments are broadly similar in
+direction and magnitude throughout limb swing, except in hip internal-external
+rotation. This is consistent with greater circumduction of the hindlimb
+in bipedal chimpanzee walking ( O'Neill et al., 2015 ).
+The limb-swing rotational moments also provide some indirect support to
+the inference of Stern and Larson (1993 :425) that the
+obturator externus muscle is activated “to counteract [a] medial rotatory
+effect” in the first half of limb swing, as there
+is a net internal (i.e., medial) rotation moment at this
+time in bipedal chimpanzees.

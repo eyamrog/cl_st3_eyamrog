@@ -1,0 +1,11 @@
+Tibiae Tomographic scanning of the Boxgrove tibia was carried out
+at the Imaging and Analysis Centre, Core Research Laboratories, at
+the Natural History Museum (London, UK), with an HMX-ST 225
+CT System (Nikon Metrology, Tring, UK). Cross-sectional images of Boxgrove
+1 were obtained in two different pieces, the distal and
+proximal shaft fragments (see SOM S1 for detail about the
+scanning parameters used for each sample). Tomographic scanning of the
+SH hominins and RMH specimens was performed at the University
+of Burgos (Spain), with a YXLON Compact X-Ray industrial multislice
+CT scanner. The CT images were visualized using the software
+package Mimics (Materialise NV, Belgium).

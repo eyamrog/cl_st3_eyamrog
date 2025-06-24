@@ -1,0 +1,19 @@
+It has been suggested, that the magnitude and sign of
+the correlation between height and BMI are age-dependent (Johnson et
+al., 2020 ). It is positive in children and decreases
+with age, becoming negative in middle age (Garn et al.,
+1986 ). The underlying mechanisms are not yet fully clarified
+and are hypothesized to include variations in body proportions (taller
+people have longer leg lengths relative to shorter people, which
+affects body composition), some metabolic traits (e.g., later catch-up growth
+in weight and BMI in children with previously poor growth
+in early life (Fagerberg et al., 2004 ; Lundgren et
+al., 2001 ), associations of alleles for greater height with
+lower BMI (Nüesch et al., 2016 ), and the documented
+non-linear height-weight relationship (Gunnell et al., 1998 ; Henneberg et
+al., 1989 ; Staub et al., 2016 ; Whitley et
+al., 2008 ). Altogether, environmental constraints in early life seem
+to contribute to the correlations of overweight and height in
+adult life. It is also not entirely clear to what
+extent confounding, for example through socio-economic background, can play a
+role.

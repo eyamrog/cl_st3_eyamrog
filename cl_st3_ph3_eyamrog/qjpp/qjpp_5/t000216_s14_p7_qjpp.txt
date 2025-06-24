@@ -1,0 +1,19 @@
+To quantify and visualize the relationship between admixture and pelvic
+shape, we regressed pelvic shape on admixture using least squares
+linear regression and then projected the sex-adjusted shape observations onto
+the resulting regression vector to compute admixture scores ( Drake
+and Klingenberg, 2008 ; Ledevin and Koyabu, 2019 ; Sheratt
+et al., 2019 ; Moore, 2021 ). Displayed in a
+bivariate plot, the results provide a straightforward way to compare
+the magnitude of shape differences attributable to admixture (the regression
+trend) to the magnitude of shape differences not explained by
+the model (residuals about the trend). To visualize the relative
+contributions of sex and admixture variables to overall shape variation,
+we display distributions of pairwise Procrustes distances between specimens using
+different filters of group and sex membership. To test for
+differences in variance, we used the function morphol.disparity in geomorph
+( Adams et al., 2020 ; Collyer and Adams, 2020
+), which calculates the Procrustes variance for each group, the
+pairwise distances between group variances, and the p -values of
+tests of significant difference between pairs ( p < 0.05
+throughout).

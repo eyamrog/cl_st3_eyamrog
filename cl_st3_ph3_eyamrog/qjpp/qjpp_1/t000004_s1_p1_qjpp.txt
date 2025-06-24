@@ -1,0 +1,12 @@
+Cravings that precede loss of control (LOC) over food consumption
+present an opportunity for intervention in patients with the binge
+eating disorder (BED). In this pilot study, we used responsive
+deep brain stimulation (DBS) to record nucleus accumbens (NAc) electrophysiology
+during food cravings preceding LOC eating in two patients with
+BED and severe obesity (trial registration no. NCT03868670). Increased NAc
+low-frequency oscillations, prominent during food cravings, were used to guide
+DBS delivery. Over 6 months, we observed improved self-control of
+food intake and weight loss. These findings provide early support
+for restoring inhibitory control with electrophysiologically-guided NAc DBS. Further work
+with increased sample sizes is required to determine the scalability
+of this approach.

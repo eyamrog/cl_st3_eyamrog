@@ -1,0 +1,23 @@
+Findings: 938 558 participants were included in our analyses (mean
+age 63 years [SD 9]): 481 946 participants from the
+Million Women Study (mean age 68 years [5]) and 456
+612 participants (mean age 57 years [8]) from UK Biobank.
+During a mean follow-up period of 7 years (2), 42
+402 first coronary heart disease events (of which 1834 were
+fatal without an associated hospital admission) and 19 999 first
+stroke events (of which 529 were fatal without an associated
+hospital admission) occurred. Little, if any, association was found between
+social isolation and hospital admission for a first coronary heart
+disease or stroke event (combined RR for both studies 1·01
+[95% CI 0·98–1·04] for coronary heart disease and 1·13 [1·08–1·18]
+for stroke, when comparing the most isolated group with the
+least isolated group). However, the risk of death without an
+associated hospital admission was substantially higher in the most isolated
+group than the least isolated group for coronary heart disease
+(1·86 [1·63–2·12]) and stroke (1·91 [1·48–2·46]). For coronary heart disease
+or stroke death as the first event, RRs were substantially
+higher (test for heterogeneity, p=0·002) for participants living alone versus
+those not living alone (1·60 [1·46–1·75]) than for those with
+fewer versus more contact with family, friends, or groups (1·27
+[1·16–1·38]). These findings did not differ greatly between studies, or
+by self-rated health.

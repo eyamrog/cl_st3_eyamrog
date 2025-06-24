@@ -1,0 +1,11 @@
+Strikingly, across all three therapy response datasets, modules M4 and
+M5 were consistently amongst the strongest associations with nonresponse in
+pretreatment samples (Supplementary Table 3 and Fig. 1b–d ). This
+overall trend of increased expression in nonresponders was significant in
+meta-analyses of both M4 ( P = 0.0025, standardized mean
+difference (SMD) = 0.87, 95% confidence interval (CI) = 0.31–1.44)
+and M5 ( P = 0.0123, SMD = 0.88, 95%
+CI = 0.19–1.58) across the different treatments. Importantly, this association
+remained when clinical subtypes of IBD (Extended Data Fig. 2d
+) and intestinal location (Extended Data Fig. 2e ) were
+analyzed separately.

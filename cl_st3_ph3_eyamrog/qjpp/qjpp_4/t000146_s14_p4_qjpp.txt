@@ -1,0 +1,8 @@
+The function with the highest coefficient of determination (R 2
+) and statistically significant values of the y-intercept a and
+coefficient of regression b was regarded as a model that
+best fits empirical data. The results were also expressed on
+a per-year basis (Table 1 ) and a per-decade basis
+(in the Discussion section) as means for the years of
+the study, to facilitate their comparison with the findings of
+other authors.

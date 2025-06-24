@@ -1,0 +1,9 @@
+How, then, does an eHealth project avoid failure? Factors that
+contribute to the success of projects include that they engage
+multidisciplinary users; consider both intended outcomes and the workflows that
+achieve those outcomes; identify how changes will affect nontechnological aspects
+of work; provide incentives for use; and are supported by
+training ( Graetz et al. 2014 ; Zamora et al.
+2012 ). A key commonality is that these factors attend
+to human, not just technological elements ( Tummons et al.
+2018 ).

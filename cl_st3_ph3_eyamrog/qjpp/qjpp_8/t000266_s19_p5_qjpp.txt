@@ -1,0 +1,14 @@
+Applying the utility tariffs to the WOOP responses in the
+sample produced a mean WOOP utility of 0.856 (SD 0.120).
+A utility value of 1 was observed for 34 respondents
+(1.7%) and a utility value below 0 (−0.067) for one
+respondent. The 25%, 50%, and 75% quantiles were 0.831, 0.889,
+and 0.929, respectively. When plotting utilities against EQ-VAS and Cantril's
+ladder ( Fig. 4 ), a strongly positive correlation was
+observed (r = 0.59 and r = 0.54, respectively) with
+similar trends for males and females. Download: Download high-res image
+(476KB) Download: Download full-size image Fig. 4 . WOOP utility
+values plotted against health (EQ-VAS) and life satisfaction . Note:
+For illustration purposes, jitter was added to the EQ-VAS and
+life satisfaction values, which are bounded on 0 to 100
+and 0 to 10 range, respectively.

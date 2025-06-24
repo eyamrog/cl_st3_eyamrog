@@ -1,0 +1,21 @@
+Over a walking stride, humans generate a coordinated sequence of
+three-dimensional (3-D) moments and powers; with some exceptions, these moments
+and powers approach their minima (i.e., near zero) in the
+middle single-support period and then facilitate a burst in positive
+power during the second double-support period (i.e., push-off), which continues
+into limb swing. At the hip, in particular, there are
+substantial nonsagittal plane moments, work, and power over a stride
+(e.g., Eng and Winter, 1995 ), comprehensive measurements of which
+are needed for accurate determination of skeletal loading (e.g., Stansfield
+et al., 2003a , Stansfield et al., 2003b ), muscle-tendon
+force, and fascicle length change (e.g., Arnold and Delp, 2011
+). Across the limb, the instantaneous 3-D joint moments, work,
+and power reflect the net contributions from active muscle-tendon units
+and some other soft tissues at each joint throughout the
+full gait cycle. Although it is difficult to decompose the
+individual contributions of a mobile lower back, a short pelvis,
+and long lower limbs and short feet via joint-level analyses
+alone, these traits can be expected to act together to
+reduce the total mechanical work and power output of an
+erect human walking stride when compared with facultative bipeds, such
+as bipedal chimpanzees.

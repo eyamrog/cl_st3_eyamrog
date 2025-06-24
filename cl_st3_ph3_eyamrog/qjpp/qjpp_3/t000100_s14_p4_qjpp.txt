@@ -1,0 +1,3 @@
+Scripts are available in our repository on GitHub ( https://github.com/vijaybioinfo/COVID19_2020
+). Sequencing data for this study has been deposited onto
+the Gene Expression Omnibus with the accession number GSE152522.

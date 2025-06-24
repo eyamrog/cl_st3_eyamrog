@@ -1,0 +1,15 @@
+Since the initiation of the hkust-lc project ( Milton and
+Tsang, 1993 ), learner corpus research in Hong Kong has
+undergone significant changes. With the caveat that natural variability renders
+categorisations arbitrary, we can tentatively divide these decades into three
+research phases: the infancy phase (early 1990s to 2000), the
+developmental phase (2001 to 2010) and the maturity phase (2011
+to 2020). During the early 1990s to 2000, Hong Kong
+lcr tended to employ the hkust-lc . Between 2000 and
+2010, some researchers began to utilise self-compiled learner corpora to
+examine how learners differ from native speakers in their language
+use, both linguistically and stylistically. From 2011 to 2020, new
+perspectives emerged in Hong Kong lcr in which the focus
+shifted to learner accomplishments and explicating language learning due to
+cross-linguistic interference. Some comprehensive linguistic parameters were also being applied
+during this phase (lexical complexity and syntactic complexity).

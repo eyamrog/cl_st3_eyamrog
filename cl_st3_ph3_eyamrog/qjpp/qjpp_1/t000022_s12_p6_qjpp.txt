@@ -1,0 +1,21 @@
+Machine learning programs are intended to improve health outcomes, reduce
+expenditures, and improve service delivery in clinical and public health
+programs. Machine learning involves developing algorithms and applying them to
+synthesized data ( 41 ). Recent studies show that discrimination
+can occur when algorithms are applied in the absence of
+complete data, in the presence of biased data, and/or when
+biased assumptions are used to characterize data inputs ( 35
+, 41 , 109 , 114 , 129 ). In
+a highly publicized study of electronic health record algorithms that
+determined which patients were referred for extra care, Obermeyer et
+al. ( 109 ) demonstrated that the algorithm excluded Black
+patients who were equally as sick as White patients. The
+algorithm developers had inappropriately applied a variable capturing total health
+care expenditures as a proxy for unmet health needs in
+establishing risk scores. This example illustrates the inverse prevention law,
+in which those with greatest need are the least likely
+to receive resources ( 14 ), because the cost variable
+did not capture the unmet needs of Black patients (value).
+In the following sections, we present various approaches used to
+enmesh equity approaches into big data research to mitigate these
+challenges.

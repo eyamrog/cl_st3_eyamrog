@@ -1,0 +1,12 @@
+Soluble BG505.SOSIP protein was expressed and purified as previously described
+( Verkerke et al., 2016 89. Verkerke, H.P. ∙ Williams,
+J.A. ∙ Guttman, M. ... Epitope-Independent Purification of Native-Like Envelope
+Trimers from Diverse HIV-1 Isolates J. Virol. 2016; 90 :9471-9482
+Crossref Scopus (30) PubMed Google Scholar ). Briefly, Expi293F cells
+were grown to a density of 3 × 10 6
+/mL prior to co-transfection with pPI4-BG505.SOSIP.664 and furin protease expression
+plasmid in a 3:1 ratio using PEI MAX (Polysciences). Six
+to seven days post-transfection the supernatant was cleared by filtration
+and the SOSIP purified by Galanthus nivalis lectin affinity, followed
+by ion-exchange and hydrophobic interaction chromatography. Trimeric product was buffer
+exchanged into PBS and stored at 4°C.

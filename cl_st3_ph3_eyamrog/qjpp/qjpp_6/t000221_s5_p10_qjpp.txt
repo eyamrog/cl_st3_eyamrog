@@ -1,0 +1,27 @@
+In contrast to the first double-support and single-support periods, humans
+markedly exceed bipedal chimpanzees in total positive mechanical work and
+power during the second double-support period due to substantial mechanical
+energy generation at the ankle for push-off. Muscle-tendon models (e.g.,
+Hof et al., 1983 ) and direct imaging of muscle
+fiber dynamics (e.g., Fukanaga et al., 2001 ; Ishikawa et
+al., 2005 ; Farris and Sawicki, 2012b ) indicate that
+a substantial component of the positive power for human push-off
+is due to the elastic recoil of the Achilles tendon,
+stretched during the single-support period. Based on the mechanical energy
+absorbed at the ankle during the single-support period at this
+speed, we estimated that 39 ± 13% of the positive
+power for ankle push-off is from elastic storage, on average
+( Fig. 5 ). The upper error margin of our
+indirect, inverse dynamics-based approximation overlaps direct imaging of muscle fiber
+behavior in humans walking between 1.25 and 1.75 ms −1
+, which indicates a significant contribution from elastic power (i.e.,
+50–55%), at least for the gastrocnemius muscle ( Farris and
+Sawicki, 2012b ). It has been reported that the typical
+procedures used in direct imaging studies can overestimate the elastic
+energy returned from tendons ( Zelik and Franz, 2017 ),
+which may account for some of the difference in mean
+values. Of course, both these indirect and direct estimates are
+subject to the limitations of the inverse-dynamics approach and would
+benefit from continued refinement using detailed musculoskeletal models that account
+for individual muscle-tendon unit behavior (e.g., Honert and Zelik, 2016
+).

@@ -1,0 +1,14 @@
+We used a stochastic individual-based model to simulate the transmission
+of SARS-CoV-2 in a typical Indian community with 10,000 households
+for 150 days. To describe the individual’s infection and vaccination
+status, we assumed that each individual was in one of
+ten possible epidemiological states at any time (Extended Data Fig.
+1 ). After exposure, an infected individual first experiences a
+non-infectious incubation period (on average of 1/ σ days), after
+which this individual becomes pre-symptomatic with probability p sym or
+becomes asymptomatic with probability 1− p sym . The asymptomatic
+cases are recovered at rate γ . The pre-symptomatic cases
+develop symptoms at rate \({\it{\epsilon }}\) , after which they
+are recovered at rate γ . Supplementary Table 2 summarizes
+the parameterization of these parameters based on a series of
+references .

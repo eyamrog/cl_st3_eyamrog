@@ -1,0 +1,14 @@
+Once separated by cell type and participant, the single-cell transcriptomes
+were processed on a cell-type-by-cell-type basis across all timepoints. For
+each cell type, the presence of residual contaminant RNA or
+doublets was assayed by scoring every cell against a set
+of contaminant genes from other cell types built from our
+marker list used to discern cluster identity (see Supplementary Table
+11 for cell-type-specific contaminant gene lists and cutoffs). Cells with
+high contamination scores (0–10% of cells) were subsequently removed from
+further analysis to avoid unwanted variation in the subsequent unsupervised
+module discovery. Following contamination filtering, data underwent scaling and normalization,
+followed by variable gene discovery (~400–1,000 genes, dependent on cell
+type and cell number). PCA was then applied on the
+limited set of genes, followed by projection to the rest
+of the genes in the dataset.

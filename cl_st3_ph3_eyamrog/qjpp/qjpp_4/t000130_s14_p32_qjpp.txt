@@ -1,0 +1,27 @@
+50 μg/mL of Fc recombinant protein, GPC3 core or GPC3
+coreUG , were mixed with Alexa 594-conjugated anti-hFc antibody (Thermo
+Fisher Scientific) in PBS. Proteins were injected into matrices (90
+μm width) (17,546,017) and placed on 60 mm dishes, resulting
+in red fluorescent stripes. After 30 min incubation at 37°C,
+dishes were washed with PBS and matrices removed. Dishes were
+coated with 50 μg/mL Fc or GPC3 coreUG protein mixed
+with 120 μg/mL anti-hFc (Jackson ImmunoResearch) for 30 min at
+37°C and washed with PBS. Stripes were further coated with
+20 μg/mL Laminin in PBS for at least 2 h
+and washed with PBS. Cortical neurons (E15.5) were cultured on
+the stripes in Neurobasal medium supplemented with B27 (Gibco). For
+testing the effects of nanobodies, neurons were cultured in medium
+containing 50 μg/mL streptavidin Alexa 594 (CN), Strep-Nano break or
+Strep-Nano glue . After 24 h neurons were fixed with
+4% PFA in PBS for 20 min at room temperature
+(RT). Neurons were washed and incubated with rabbit monoclonal anti-beta-III
+tubulin antibody (Sigma-Aldrich) after 20 min permeabilization in 1% BSA,
+0.1% Triton X-100 in PBS. Cy2 anti-rabbit IgG secondary antibody
+(Jackson ImmunoResearch, cat#111-225-144) was used to visualize the tubulin signal.
+Nuclei were counterstained with DAPI before mounting. The numbers of
+beta-III-tubulin-positive (green) pixels on red or black stripes were quantified
+with ImageJ (version 1.53f) ( Schneider et al., 2012 95.
+Schneider, C.A. ∙ Rasband, W.S. ∙ Eliceiri, K.W. NIH Image
+to ImageJ: 25 years of image analysis Nat. Methods. 2012;
+9 :671-675 Crossref Scopus (35614) PubMed Google Scholar ) using
+a custom-made automatic macro that is available upon request.

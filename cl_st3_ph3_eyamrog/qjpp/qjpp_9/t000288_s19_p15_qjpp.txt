@@ -1,0 +1,13 @@
+Second, there is a split between varieties that show a
+strong tendency towards that -complementizer with no punctuation (GhE, IndE,
+NigE) and those that show further interaction with other predictors
+(node 10). Intriguingly, GhE, IndE, and NigE are the varieties
+that have the overall lowest incidence of bare complementation (
+Figure 1 ). For the remaining varieties, there is some
+interaction (albeit at lower p -values) for noun and article
+that predicts a slightly higher likelihood of bare complementation, i.e.,
+with fact , thing , trouble , truth , and
+a zero article (node 15); this is similar to the
+preference in AusE, CanE, and NZE to prefer bare over
+that -clause complementation with zero article (node 8) for almost
+the same set of nouns.

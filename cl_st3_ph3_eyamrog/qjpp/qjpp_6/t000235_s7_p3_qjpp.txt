@@ -1,0 +1,10 @@
+These research tasks seem highly relevant as matching, if positive
+effects could be demonstrated, would be a relatively easy to
+implement way of improving data quality and decreasing the amount
+of item nonresponse. Finally, it should be admitted that the
+focus on item nonresponse in comparison to unit nonresponse seems
+arbitrary, which is true to a certain extent. However, as
+there are given word limits, it seemed best to focus
+on item nonresponse as the ESS provides richer data to
+explore this context. Subsequent studies will also take the unit
+nonresponse into account.

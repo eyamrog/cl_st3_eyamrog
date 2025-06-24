@@ -1,0 +1,13 @@
+The AD5-neutralization assay was based on the firefly luciferase assay
+system. Heat-inactivated human serum samples were diluted in duplicate at
+an initial factor of 1:12, followed by a threefold dilution
+series. No serum was added to the positive control wells,
+which resulted in the maximum luciferase activity for calculating 90%
+neutralization values. Ad5-Luciferase was mixed with an equal volume of
+each diluted serum sample and incubated for 1 h in
+a 96-well plate. Next, a suspension of A549 cells (American
+Strain Preservation Center) was added to the mixture. After 24
+h of culture at 37 °C, cells were washed and
+lysed. Luciferase activity was determined using the Firefly Luciferase Assay
+system (Promega), and values were determined using the GloMax Microplate
+luminometer (Promega).

@@ -1,0 +1,14 @@
+Mixed-effects logistic regression modeling was undertaken to establish the relative
+impact and significance of the factors analyzed so far, using
+R ( R Core Team 2020 ) and the lme4
+package ( Bates, Maechler, Bolker & Walker 2015 ). As
+this requires the dependent variable to be binary, the tokens
+were re-categorized as either “full” or “phonetically reduced”—the latter collapses
+reduced and coalesced variants together. The analysis includes only paradigmatic
+tags with be and do , so as not to
+include verb categories that display little variation in form or
+that are infrequent in at least one of the localities.
+Treatment coding was used, whereby a reference level is selected
+for each independent variable; other levels of the variable are
+then compared against that reference level within the statistical model
+( Levshina 2015 :146).

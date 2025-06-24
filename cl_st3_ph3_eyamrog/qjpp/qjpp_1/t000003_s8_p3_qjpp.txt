@@ -1,0 +1,8 @@
+Several matching-adjusted indirect comparisons (MAICs) have been attempted to compare
+different CAR T products . MAIC uses individual patient data
+(IPD) from one study and trial-level data from another to
+form a population-adjusted indirect comparison between treatments. One of these
+recently reported MAICs suggests that axi-cel is superior to tisa-cel
+for disease control but is associated with significantly more toxicity
+. In addition, despite increasing popularity, many biases remain with
+such statistical methods .

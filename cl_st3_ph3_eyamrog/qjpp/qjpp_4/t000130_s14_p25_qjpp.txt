@@ -1,0 +1,8 @@
+Whole cell extract was isolated using RIPA buffer (150mM NaCl,
+50 mM Tris-HCL pH7.35, 1% DOC, 1% NP40) supplemented with
+protein inhibitor (Roche Diagnostics). The concentration of isolated proteins was
+determined using Bradford assays (Bio-Rad). Western Blot analysis was performed
+using the following primary antibodies: anti-GPC3 (1/1000; Thermo Fisher Scientific),
+anti-Unc5D (1/1000, R&D systems), anti-g-tubulin (1/1000, Sigma-Aldrich). Anti-mouse IgG HRP
+(1/10,000, Sigma-Aldrich) and anti-goat IgG HRP (1/10,000, Sigma-Aldrich) were used
+as secondary antibodies.

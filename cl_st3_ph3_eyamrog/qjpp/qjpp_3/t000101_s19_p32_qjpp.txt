@@ -1,0 +1,19 @@
+Spontaneous aneuploidies are common in human cleavage-stage embryos ( Vanneste
+et al., 2009 39. Vanneste, E. ∙ Voet, T. ∙
+Le Caignec, C. ... Chromosome instability is common in human
+cleavage-stage embryos Nat. Med. 2009; 15 :577-583 Crossref Scopus (653)
+PubMed Google Scholar ; Kort et al., 2016 20. Kort,
+D.H. ∙ Chia, G. ∙ Treff, N.R. ... Human embryos
+commonly form abnormal nuclei during development: a mechanism of DNA
+damage, embryonic aneuploidy, and developmental arrest Hum. Reprod. 2016; 31
+:312-323 PubMed Google Scholar ; Ottolini et al., 2017 34.
+Ottolini, C.S. ∙ Kitchen, J. ∙ Xanthopoulou, L. ... Tripolar
+mitosis and partitioning of the genome arrests human preimplantation development
+in vitro Sci. Rep. 2017; 7 :9744 Crossref Scopus (57)
+PubMed Google Scholar ). In our dataset, 4 of 11
+embryos injected at the MII stage with Cas9 RNP contained
+aneuploidies on autosomes other than chromosome 6, which could be
+spontaneous or Cas9 induced if off-target sites are present. We
+focused on segmental errors to evaluate off-target aneuploidies, given that
+the genomic coordinates of chromosomal break points can be correlated
+with the location of predicted off-target sites.

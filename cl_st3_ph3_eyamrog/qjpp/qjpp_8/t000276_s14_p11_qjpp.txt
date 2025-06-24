@@ -1,0 +1,19 @@
+With regard to terminology, the term “adjective” will henceforth be
+used with reference to both prototypical adjectives and participles, since
+the distinctions between the two are often blurred, and sometimes,
+participles are more “adjectival” than “prototypical” adjectives (see, e.g., Crystal
+1980 :9; Huddleston & Pullum 2002 :540-541). For OE, adjectives
+and participles are treated on a par, e.g., by Fischer
+(2012) , whose article entitled “The status of the postposed
+‘ and -adjective’ construction in Old English: Attributive or predicative?”
+concerns both parts of speech, with examples of adjectives and
+participles used interchangeably. This is also true for Fischer (2000
+, 2001 ). Also, the annotators of the YCOE seem
+to have used the “adjective” label for some elements whose
+morphology would suggest that they are participles: e.g., unlacnode ,
+‘uncleaned,’ features a characteristic participial suffix - od -, but
+the word is classified simply as an adjective. Consequently, for
+the sake of the conciseness of the description, adjectives and
+participles will be considered collectively, with the defining characteristic of
+both parts of speech resting ultimately with their ability to
+modify nouns.

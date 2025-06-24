@@ -1,0 +1,17 @@
+This study was approved by the institutional review board of
+the National Institute of Diabetes and Digestive and Kidney Diseases,
+and the patients provided written, informed consent. For Patient 1,
+whole-exome sequencing was performed by GeneDx, and monogenic autoimmunity and
+autoinflammatory panels (Fig. S1) were screened by Invitae. Patient 2
+was screened with the use of a clinical exome sequencing
+panel prepared by Fulgent Genetics. GNAS methylation analysis was performed
+by means of Southern analysis for Patient 1 and by
+CGC Genetics for Patient 2. Luciferase immunoprecipitation systems (LIPS) technology
+was used for the detection of autoantibodies to PTH and
+PTH1R, as described in the Methods section of the Supplementary
+Appendix . A cell-based assay measuring cAMP responses to PTH
+1-34 (Forteo, Eli Lilly) in PTH1R-expressing cells was used to
+confirm the presence of PTH1R-blocking IgG antibodies, as described in
+detail in the Methods section of the Supplementary Appendix .
+Lymphocyte immunophenotyping was performed (also as described in the Methods
+section of the Supplementary Appendix ).

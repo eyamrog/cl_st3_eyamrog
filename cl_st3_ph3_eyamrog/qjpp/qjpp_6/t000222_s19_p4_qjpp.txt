@@ -1,0 +1,15 @@
+The amount of difference in maxillary shape between hominine genera,
+species, and subspecies is compared in Figure 2 B by
+plotting the distribution of Procrustes distances between all possible specimen
+pairs of different taxa. The maxilla is most distinct among
+the three genera, with the largest differences found between Homo
+and Gorilla and the smallest between Pan and Gorilla .
+At the species level, maxillae of G. gorilla and G.
+beringei differ more from each other than those of P.
+troglodytes and P. paniscus . In fact, even the subspecies
+of G. gorilla and G. beringei differ, on average, more
+from each other than the species of Pan . Moreover,
+G. b. beringei and G. b. graueri differ almost as
+much from each other as do G. gorilla and G.
+beringei . Maxillary shape differences between the subspecies of P.
+troglodytes are the smallest among the groups considered.

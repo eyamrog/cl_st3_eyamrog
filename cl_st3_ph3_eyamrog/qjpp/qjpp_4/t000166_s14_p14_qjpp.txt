@@ -1,0 +1,4 @@
+We conducted an Exploratory Factor Analysis (EFA) on four tablet
+test parameters, see Table 3 , with a Maximum Likelihood
+rotation. We obtained only one fine motor skills factor, based
+on an eigenvalue >1 and on the scree plot.

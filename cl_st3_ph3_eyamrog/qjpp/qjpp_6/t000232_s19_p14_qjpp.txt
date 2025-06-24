@@ -1,0 +1,10 @@
+The admission notification is triggered when the registration clerk completes
+an admission record for a patient. The system does not
+require the clerk to alter their work tasks but is
+automatically engaged when the admission submission is received by the
+EHR. The form auto-populates fields from the EHR including patient
+identifiers; date of admission; facility identifiers; and the name of
+the most responsible provider (MRP) at admission (often, an ED
+physician). Discharge notifications work in a similar fashion but are
+triggered by the submission of the discharge form (deaths are
+considered a form of discharge in the EHR).

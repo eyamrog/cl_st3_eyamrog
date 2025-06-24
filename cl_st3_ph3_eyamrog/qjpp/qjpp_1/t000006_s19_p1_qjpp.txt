@@ -1,0 +1,25 @@
+CHRONOS was designed to test the hypothesis that assessing the
+presence/absence of resistance mutations in blood of patients with mCRC
+could be used to guide additional lines of anti-EGFR blockade
+(Fig. 1 ). To this end, we decided to enroll
+in CHRONOS only those patients in whom the ctDNA levels
+of all the mutations that we monitored were below detection,
+which we refer to as the ‘zero mutation ctDNA triage’
+(Extended Data Fig. 1 ). This approach was set pragmatically
+to ensure timely and effective therapeutic intervention, considering the need
+to rapidly initiate the next round of treatment. A total
+of 52 patients were screened, and 27 with no detectable
+alterations in RAS , BRAF and EGFR ECD in ctDNA
+were enrolled for anti-EGFR treatment (Fig. 1 and Extended Data
+Fig. 2 ). Patient characteristics are representative of a third
+or further line population of patients with mCRC (Table 1
+). The median number of previous anti-cancer treatments was three,
+and the previous anti-EGFR treatment most commonly administered was panitumumab
+(15/27, 55%), predominantly in the first line (21/27, 78%) and
+always in combination with a cytotoxic backbone. All patients had
+a microsatellite stable (MSS) tumor. The primary endpoint of the
+trial was overall response rate (ORR) to panitumumab rechallenge according
+to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1
+(ref. ), and the secondary endpoints were progression-free survival (PFS),
+OS and toxicity according to Common Terminology Criteria for Adverse
+Events (CTCAE) version 4.03.

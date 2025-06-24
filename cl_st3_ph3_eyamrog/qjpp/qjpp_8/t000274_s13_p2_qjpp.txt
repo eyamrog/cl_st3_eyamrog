@@ -1,0 +1,11 @@
+Before exploring the lack of corpora containing sensitive texts, it
+is first useful to bring to the fore relevant and
+widely-accepted principles of corpus compilation. The principles below draw heavily
+on Sinclair (2005) as a significant and influential figure in
+the field and are expressed in terms of written rather
+than spoken corpora (since the WiSP corpus contains only written
+texts). The core assumption underlying these principles is that the
+total population of texts is too large to include in
+its entirety. The four identified principles are:- 1) The corpus
+should comprise a representative sample of the population of texts
+under investigation

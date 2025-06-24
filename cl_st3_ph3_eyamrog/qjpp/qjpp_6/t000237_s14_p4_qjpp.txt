@@ -1,0 +1,9 @@
+At the end of the calculation process, five topics—tourism and
+travel, infrastructure and digitalization, business and information and communications technology
+(ICT), regulation and transparency, and protectionism—were identified and characterized by
+composite variables. 4 The data set was compiled on July
+22, 2020. The details of the indicators compressed by these
+composite variables, as well as their weights (eigenvector-centrality) within their
+topic (community), can be found in the supplementary material .
+Table 1 shows the description of the variables in the
+structure of the final data set.

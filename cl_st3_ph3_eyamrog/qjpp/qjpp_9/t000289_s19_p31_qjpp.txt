@@ -1,0 +1,26 @@
+While may exhibits conflicting tendencies overall, with a statistically significant
+decrease in 1939-1968 but an equal increase in 1968-2000s, the
+tendencies of its various meanings shown in Table 16 give
+a clear picture: its two least frequent meanings, deontic (permission)
+and dynamic (ability), have decreased throughout the period under consideration
+here. Epistemic may (indicating possibility), then accounts for an increasingly
+greater proportions of uses. Thus, despite the V-shaped trend in
+total frequency reported in Table 2 ( section 4.1 ),
+may shows linear changes which may be indicative of a
+greater trend, namely that this verb is increasingly monosemous. This
+was also observed by Leech (2003) in the Brown corpora.
+A satisfactory explanation for the dip in may ’s frequency
+in the 1968 corpus remains to be found, but it
+may lie in the makeup of that corpus, e.g., in
+author-specific preferences. Sampling may be an issue, as language change
+is evidently not always linear, and the year 1968 (or
+1939 or 2000s) may not be representative of the trends
+of that decade, for example. Open in Viewer Table 16
+. Meanings of May in Three Indian English Newspaper Corpora
+1939 1968 % change 1939-1968 2000s % change 1968-2000s %
+change 1939-2000s Epistemic 103 88 -14.6 133 +51.1** +29.1 Deontic
+21 5 -76.2** 8 +60.0 -61.9* Dynamic 37 13 -64.9***
+10 -23.1 -73.0*** Indeterminate 7 6 -14.3 1 -83.3* -85.7*
+Total 168 112 -33.3*** 152 +35.7* -9.5 Note: Significance levels:
+* = p < 0.05, ** = p < 0.01,
+*** = p < 0.001.

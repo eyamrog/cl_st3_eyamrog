@@ -1,0 +1,18 @@
+Participants aged over 18 years were enrolled after an informed
+consent process at clinics and regional medical centers that compose
+the AoURP network. A detailed description of AoURP has been
+published elsewhere . For this study, we used the AoURP
+Registered Tier Dataset version 5 (R2021Q3R2 Curated Data Repository) available
+on the AoURP Researcher Workbench, a secure cloud-based platform. This
+dataset included information on physical measurements and vital signs collected
+at enrollment, surveys, EHR and Fitbit data from participants enrolled
+from May 30, 2018 to April 1, 2021. Our analyses
+focused on participants who owned a Fitbit and agreed to
+share their Fitbit and EHR data. We excluded participants who
+did not wear a Fitbit for at least 6 months.
+The All of Us Research Program Resource Access Board (RAB)
+has granted a post-hoc exception to the program’s Data and
+Statistics Dissemination Policy for reporting exact participant counts of less
+than 20 in some of the analyses reporting in this
+study, due to the very low risk to participant privacy
+and potential for re-identification.

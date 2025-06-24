@@ -1,0 +1,14 @@
+These two measures provided a visual representation of the differences
+in the use of individual adjectives together with the three
+amplifiers in focus. “Attraction” on the horizontal axis shows the
+token frequencies relative to the total number of amplifier +
+adjective pattern: in Figure 6 , for example, great is
+shown to be the most important filler of the adjective
+slot with a proportion of 7.3 percent of total instances
+of the pattern, ten times larger than the attraction score
+for extensive (0.62 percent). By contrast, “Reliance” measures to what
+extent the use of an adjective depends on the intensifier:
+the reliance score for great in Figure 6 is 3.4
+percent (meaning that 3.4 percent of the instances of great
+in the corpus are preceded by so ), which is
+much lower than the score for extensive (13.3 percent).

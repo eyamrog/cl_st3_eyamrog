@@ -1,0 +1,16 @@
+To examine differences between hominine taxa, sexes, and age groups
+(aims 2–5), size was compared based on the natural logarithm
+of centroid sizes and statistical significance was determined using two-tailed
+Student's t-tests. The amount of shape difference between genera, species,
+and subspecies (aim 2) was assessed by calculating Procrustes distances
+between all possible specimen pairs from different taxa. We performed
+principal component analyses (PCAs) to assess the nature of shape
+differences between taxa, sexes, and age groups (aims 2–5). Only
+adults were included in these analyses, except when assessing the
+age differences between late juveniles and adults. The statistical significance
+of group differences in shape was tested through one-way Procrustes
+analyses of variance with permutation procedures (shape ∼ group). When
+significant, the effect size was quantified using Cohen's d, to
+explore how strong the shape differences are between groups (
+Lipsey and Wilson, 2001 ; Wilson, 2001 ; Cohen, 2013
+).

@@ -1,0 +1,8 @@
+As was mentioned in the Introduction, the EPU is computed
+for the US and its construction is conditioned by the
+criteria used for the selection of newspapers. Davis (2016) proposed
+calculating the GEPU by taking a GDP weighted average of
+EPUs for 21 individual countries: Australia, Brazil, Canada, Chile, China,
+Colombia, France, Germany, Greece, India , Ireland, Italy, Japan ,
+Mexico , the Netherlands, Russia, South Korea , Spain, Sweden,
+the United Kingdom, and the United States.

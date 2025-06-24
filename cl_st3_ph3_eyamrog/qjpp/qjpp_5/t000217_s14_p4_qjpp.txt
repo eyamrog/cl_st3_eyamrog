@@ -1,0 +1,18 @@
+The participants were asked to complete a short questionnaire stating
+their sex, year of birth, and the Edinburgh Handedness Inventory
+(EHI; Oldfield, 1971 ) offered in a Dutch translation (
+Strien, 1992 , 2003 ). Participants were asked to mention
+the hand they use to perform a certain task (e.g.,
+ball throwing) and were given the choice to answer ‘left’,
+or ‘right’, coded as 0 or 1, respectively. The sum
+of the coded answers represents the hand preference score (EHI
+score). The EHI score ranged from 0, representing complete left-handedness,
+to 10 (complete right-handedness). Based on this scale, we classified
+participants in one of three groups: left-handed (0–1), ambidextrous (2–8),
+and right-handed (9–10; for a review and discussion of cut-offs,
+see Edlin et al., 2015 ). We only included left-handers
+( n = 15) and right-handers ( n = 119)
+in the analysis, while excluding ambidextrous participants ( n =
+14). Based on the subject’s handedness and that of the
+demonstration, we labeled each trial as a matching or mismatching
+condition.

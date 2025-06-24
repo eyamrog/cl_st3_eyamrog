@@ -1,0 +1,22 @@
+We examined the response of [ ESI + ] cells
+to these conditions. [ ESI + ] cells grew robustly
+relative to their isogenic naive counterparts in multiple stressors, including
+first-line triazole antifungals (fluconazole and clotrimazole) ( Figures 7 A–7C)
+and rapamycin ( Figure 7 D). Two lines of evidence
+suggest that these phenotypes are directly linked to [ ESI
++ ]. First, resistance to fluconazole was cured by transient
+Hsp90 inhibition ( Figures 7 A and 7B). Second, many
+Snt1 aggregate transformants were also resistant to fluconazole ( Figure
+7 E). [ ESI + ]-associated resistance to these pharmacological
+agents are unlikely to be explained by simple upregulation of
+ERG11 , the target of azole drugs, or TOR1 ,
+the target of rapamycin (neither were substantially upregulated in [
+ESI + ] cells; log 2 fold change 0.33 and
+0.66; p adj > 0.75 and 0.03, respectively). Rather, our
+data suggest that resistance is likely derived from the large
+number of stress-responsive genes located in sub-telomeric domains and upregulated
+by [ ESI + ] (e.g., YMR326C , YNL324W ,
+YOR345C , YOR379C, YOL152W , YOR351C , YAL067C , and
+YCL074W ). Regardless, these data demonstrate that the heritably altered
+gene expression of [ ESI + ] cells gives rise
+to multiple adaptive traits.

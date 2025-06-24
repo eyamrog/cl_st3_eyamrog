@@ -1,0 +1,13 @@
+Here, we present crystal structures that reveal a striking GPC3:Unc5D
+(4:4) octameric arrangement. Structured glycan-glycan interactions link C-mannosylated Unc5D tryptophans
+to an N-linked glycan on GPC3. Protein-protein interactions are formed
+along the concave face of GPC3 and all three N-terminal
+domains of Unc5D. We use mutagenesis and molecular dynamics simulations
+to characterize these interfaces, and present mutants that no longer
+interact. Anti-GPC3 nanobodies disrupt or enhance Unc5-binding. In vitro ,
+we show that Unc5-GPC3 signaling elicits a repulsive cellular response.
+In the developing mouse cortex, we find that AP cells
+present GPC3 that acts as a ligand for neuronal Unc5D.
+We also show that Unc5/GPC3 signaling is essential for the
+collective migration of neural-crest derived neuroblastoma cells to their target
+sympathoadrenal derivatives.

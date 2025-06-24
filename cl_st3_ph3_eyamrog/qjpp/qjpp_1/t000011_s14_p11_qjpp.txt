@@ -1,0 +1,20 @@
+The WTP per averted YLL is the maximum price a
+society is willing to pay to prevent the loss of
+1 year of life. We used large-scale survey data from
+the Centre for Monitoring Indian Economy’s Consumer Pyramids Household Survey
+, which is population-representative and has surveyed more than 174,000
+households (>0.85 million individuals) in India. To perform the estimation,
+we first obtained the 2019 household-level mean monthly consumption from
+these data. We then assigned the household consumption to each
+age group using the Organisation for Economic Co-operation and Development
+(OECD)’s modified formula, with each child in the household assigned
+with a weight of 0.3 and each adult in the
+household assigned with a weight of \(\frac{{0.5 \ast (n +
+1)}}{n}\) , where n is the number of adults in
+the household. Each household member is assigned with household consumption
+according to the corresponding weight. By aggregating the household consumption
+from the individual level into the national level according to
+OECD’s sampling weights, we estimate that the WTP per averted
+YLL in India is USD $1,097, USD $1,251, USD $2,977,
+USD $3,150 and USD $3,205 for the five age groups,
+0–5, 6–17, 18–49, 50–64 and >65 years, respectively.

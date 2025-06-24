@@ -1,0 +1,26 @@
+We first made a small cranial window (1-2 mm 2
+) above the target brain region. To prepare mice for
+the GRIN lens imaging experiments, we lowered a glass micropipette
+(tip diameter, ∼5 μm) containing the AAV1-Syn-Flex-GCaMP6f-WPRE-SV40 viral solution to
+reach the aIC at two dorsoventral positions (coordinates: 1.6 mm
+anterior to Bregma, 3.1 mm lateral from midline, 1.9 mm
+and 2.1 mm vertical from brain surface). About 0.25 μL
+of viral solution was delivered at each injection site (in
+total 0.5 μl) with pressure applications (5-20 psi, 5-20 ms
+at 1 Hz) controlled by a Picospritzer III (General Valve)
+and a pulse generator (Agilent). The rate of injection was
+∼20 nl/min. The pipette was left in place for 10
+min following the injection, and then slowly withdrawn. In the
+experiment to image NTS-projecting aIC (aIC NTS ) neurons, we
+additionally injected the AAV-Ef1a-mCherry-IRES-Cre (retrograde) into the NTS (coordinates: 6.55
+mm posterior to Bregma, 1.37 mm lateral from midline, and
+3.8 mm vertical from brain surface). One week later, we
+performed the second surgery to implant a GRIN lens (diameter,
+0.6 mm; length, 7.3 mm; Inscopix). The lens was slowly
+(∼100 μm/min) lowered to the aIC (coordinates: 1.6 mm anterior
+to Bregma, 3.1 mm lateral from midline, 1.7 mm vertical
+from brain surface), and subsequently secured to the skull by
+using C&B-Metabond (Parkell, catalog number S380). A metal head-bar (for
+head restraint) was then mounted onto the skull with black
+dental cement (Ortho-Jet). We waited for ∼4 weeks before starting
+the imaging experiments in these mice.

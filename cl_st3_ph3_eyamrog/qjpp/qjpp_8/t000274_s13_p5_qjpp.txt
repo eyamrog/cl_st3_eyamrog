@@ -1,0 +1,15 @@
+The principle that a larger corpus is more representative than
+a smaller one is often taken as a truism. But
+what counts as ‘large’ or ‘small’ in corpus terms? Three
+decades ago, Sinclair (1991 :18), suggested that ‘a corpus should
+be as large as possible, and should keep on growing’.
+While Sinclair was discussing monitor corpora (i.e. corpora which are
+continually added to), in general it is widely regarded that
+more is better since more data means more instances of
+the linguistic phenomena under investigation and a reduced chance of
+skewed results from outliers. However, quantity alone is, of course,
+no guarantee of representativeness ( Lischinsky, 2018 ; Mautner, 2019),
+and a sample should ideally contain evenly-distributed examples of the
+dimensions across which the population varies. 3) The wordcount and
+number of texts from any individual topic area, genre or
+writer should be carefully controlled

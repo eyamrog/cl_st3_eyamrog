@@ -1,0 +1,19 @@
+We did a systematic review and meta-analysis following the PRISMA
+and MOOSE guidelines. Studies were included in the review if
+they had a sample that exclusively comprised individuals of any
+age who were homeless, marginally housed, or seeking services for
+homeless people at the time of assessment (or if there
+was a clearly identifiable subgroup of individuals who were homeless,
+marginally housed, or seeking services for homeless people at the
+time of assessment and data was able to be extracted
+for this subgroup), and if they examined the prevalence of
+TBI, the incidence of TBI, or the association between TBI
+and one or more health-related or functioning-related outcome measures. Our
+definition of functioning was deliberately broad to evaluate the full
+scope of the effects of TBI in this population, and
+was considered to be any non-health-related outcome measure or any
+outcome related to day-to-day functioning in society (eg, neurocognition or
+involvement in the criminal justice system). Studies were excluded from
+the review if they were not published in English, were
+not peer-reviewed, or were not original research studies with unique
+observational data (ie, reviews or meta-analyses).

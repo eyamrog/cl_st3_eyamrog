@@ -1,0 +1,16 @@
+Information on demographic characteristics, study design, sample size, follow-up duration,
+effect size and associated uncertainty, blood pressure levels and measurement
+methods, outcome definition, outcome ascertainment methods and number of IHD
+events was extracted. If the effect size and/or blood pressure
+levels were not reported directly, this information was estimated from
+published graphics of blood pressure over time or forest plots
+using the webplot digitizer application. For cohorts, covariates included in
+the statistical analysis of the study were also extracted. For
+RCTs, additional information on treatment and control groups was extracted.
+We extracted RRs specifically associated with the most highly specified
+diagnosis possible and excluded those of unspecified cardiovascular disease outcomes.
+IHD outcomes included in the analysis were coronary artery disease,
+heart failure, stable angina, unstable angina and coronary revascularization. Supplementary
+Table 7 presents the categories of data extracted from the
+studies during the systematic literature review (Extended Data Fig. 2
+).

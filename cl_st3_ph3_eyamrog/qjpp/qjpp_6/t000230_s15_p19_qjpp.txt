@@ -1,0 +1,6 @@
+Access to data collected by Statistics Canada is limited to
+individuals who work for Statistics Canada or “deemed employees.” Individuals
+who are granted the “deemed employee” status can examine data
+in Research Data Centres that are located across Canada’s postsecondary
+institutions. The stipulations for being granted access are very stringent
+and require meeting the criteria of the security policy.

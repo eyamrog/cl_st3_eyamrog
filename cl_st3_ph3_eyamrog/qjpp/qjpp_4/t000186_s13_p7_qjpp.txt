@@ -1,0 +1,18 @@
+One particular trade-off that is likely to have implications for
+disease is between tolerance and resistance . In the ecological
+sense, resistance is the ability to fight off an infection,
+whereas tolerance is the ability to withstand an infection without
+suffering fitness costs ( Graham et al. 2011 , Kutzer
+& Armitage 2016 ). In theory, a host might be
+both tolerant of and resistant to an infection. However, in
+practice, these aspects seem to trade off ( Jackson et
+al. 2014 , Råberg et al. 2007 ) because tolerance,
+in the ecological sense, likely involves immunological tolerance, which is
+the moderation of an immune response to an antigen (
+Medzhitov et al. 2012 ). Hosts are good at resisting
+when they mount a strong immune response against an infection.
+However, this strong immune response tends to cause immunopathology and
+is energetically costly. Hosts are best at tolerating when they
+limit their immune responses to those necessary to keep an
+infection from worsening, thereby minimizing both pathology caused by the
+parasite and immunopathology ( Figure 2 ).

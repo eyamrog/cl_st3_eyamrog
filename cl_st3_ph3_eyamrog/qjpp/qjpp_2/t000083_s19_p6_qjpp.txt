@@ -1,0 +1,11 @@
+All serum samples obtained from participants who had received mRNA-1273
+as the primary vaccine had prebooster neutralizing activity against D614G
+S-2P, whereas serum samples obtained from 24 participants (16%) who
+had received Ad26.COV2.S and from 5 (3%) who had received
+BNT162b2 had no detectable neutralizing activity against the D614G mutation.
+Serum neutralization levels (as measured in IU50 per milliliter) before
+booster vaccination were lower than levels in mRNA-1273–primed recipients by
+a factor of 10 for Ad26.COV2.S-primed recipients and by a
+factor of 3 for BNT162b2-primed recipients, regardless of the interval
+between primary and booster vaccination ( Table 2 and Tables
+S43 through S48).

@@ -1,0 +1,7 @@
+Background: The effectiveness of the COVID-19 vaccination programme depends on
+mass participation: the greater the number of people vaccinated, the
+less risk to the population. Concise, persuasive messaging is crucial,
+particularly given substantial levels of vaccine hesitancy in the UK.
+Our aim was to test which types of written information
+about COVID-19 vaccination, in addition to a statement of efficacy
+and safety, might increase vaccine acceptance.

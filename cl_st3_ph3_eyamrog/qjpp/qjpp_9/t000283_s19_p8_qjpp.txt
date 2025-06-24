@@ -1,0 +1,8 @@
+Again, the considerable scatter of individual speakers’ vowel positions for
+all three nurse categories in Figure 2 can serve as
+a warning not to overinterpret the weak tendencies observed in
+Figure 3 and other visualizations of this kind. If we
+assume that individual accents are characterized by different types of
+(partial) merger, it would come as no surprise if averaging
+across such patterns for groups of speakers produces relatively indiscriminate
+patterns.

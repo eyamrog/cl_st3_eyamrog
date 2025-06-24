@@ -1,0 +1,24 @@
+Beyond loop extrusion, chromatin is also antagonistically structured by the
+tendency of active or repressed chromatin to physically separate into
+mutually exclusive A and B compartments, respectively ( Nuebler et
+al., 2018 102. Nuebler, J. ∙ Fudenberg, G. ∙ Imakaev,
+M. ... Chromatin organization by an interplay of loop extrusion
+and compartmental segregation Proc. Natl. Acad. Sci. USA. 2018; 115
+:E6697-E6706 Crossref Scopus (275) PubMed Google Scholar ). Many B
+compartments then further interact with the NE to form repressive
+LADs ( Falk et al., 2019 43. Falk, M. ∙
+Feodorova, Y. ∙ Naumova, N. ... Heterochromatin drives compartmentalization of
+inverted and conventional nuclei Nature. 2019; 570 :395-399 Crossref Scopus
+(227) PubMed Google Scholar ; Rao et al., 2014 114.
+Rao, S.S. ∙ Huntley, M.H. ∙ Durand, N.C. ... A
+3D map of the human genome at kilobase resolution reveals
+principles of chromatin looping Cell. 2014; 159 :1665-1680 Full Text
+Full Text (PDF) Scopus (3413) PubMed Google Scholar ; Robson
+et al., 2017 119. Robson, M.I. ∙ de Las Heras,
+J.I. ∙ Czapiewski, R. ... Constrained release of lamina-associated enhancers
+and genes from the nuclear envelope during T-cell activation facilitates
+their association in chromosome compartments Genome Res. 2017; 27 :1126-1138
+Crossref Scopus (51) PubMed Google Scholar ). As the Zfp42/Fat1
+TAD restructures into active and inactive domains independently of cohesin,
+we reasoned that altered compartmentalization at the NE could drive
+its partitioning in ESCs.

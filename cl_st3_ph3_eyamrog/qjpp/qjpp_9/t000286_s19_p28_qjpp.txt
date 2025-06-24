@@ -1,0 +1,12 @@
+It seems plausible that Edelstein’s (2014) novel derivational structure for
+AEPs can then extend to the derivation of concealed passives.
+This suggestion is bolstered by the broader observation that the
+AEP and concealed passive are formed from the same set
+of matrix verbs. As such, results point toward a reanalysis
+of the syntax of concealed passives as derivationally identical to
+AEPs. Following Edelstein’s (2014 :265; Figure 1 above) analysis of
+the AEP, in the concealed passive, the matrix verb would
+directly select an AspP complement, and that AspP would assign
+passive morphology to the verb in the complement. The AEP
+and concealed passive would differ only in the participle form
+assigned by AspP.

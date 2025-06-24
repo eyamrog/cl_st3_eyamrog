@@ -1,0 +1,14 @@
+Before defining what is absent or problematic in lcr ,
+it will be useful to briefly overview what is present
+and positive about the learner corpus. Learner corpora, defined by
+Granger et al . (2015: 10), are ‘electronic collections of
+natural or near-natural data produced by foreign or second language
+(L2) learners and assembled according to explicit design criteria’. In
+the opening issue of the International Journal of Learner Corpus
+Research, Callies and Paquot (2015 : 1) described learner corpora
+as ‘systematic collections of authentic, continuous and contextualised language use
+(spoken or written) by L2 learners stored in electronic format’
+providing empirical data across a range of disciplines. Following the
+above definitions, Hong Kong lcr can be approached using various
+contextual factors including synchronicity/diachronicity, spoken/written tasks, various disciplines, education levels,
+L2 proficiency, first language and genres.

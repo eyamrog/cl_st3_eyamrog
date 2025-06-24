@@ -1,0 +1,11 @@
+By contrast, in Cardiff and every English city except London
+and Newcastle, at least half of need -transitives are transitive-
+need +ING. In most cities, counts are quite small, but
+cases like Manchester, where thirteen of fifteen transitive constructions are
+transitive- need +ING, give credence to a pattern. Pearson’s product-moment
+correlation tests show that cities’ proportions of need +ING and
+transitive- need +ING are strongly linked ( r = 0.834;
+p < .001). As a city’s proportion of need +ING
+increases, so does its proportion of transitive- need +ING. Need
++ED does not significantly predict transitive- need +ED ( r
+= 0.177; p = .245).

@@ -1,0 +1,8 @@
+In summary, the three SDs discussed here all have a
+direct bearing on the CRF and infection rate variables. They
+are also significantly connected to patterns of social hierarchy and
+degrees of social marginalisation and exclusion observed across different parts
+of the world. In this sense, incorporating these (and potentially
+other) SDs into epidemiological modelling can help elucidate the interaction
+between health outcomes and other forms of social policy, including
+the health implications of various social welfare regimes.

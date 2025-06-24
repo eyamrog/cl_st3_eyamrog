@@ -1,0 +1,11 @@
+Moreover, with regard to the methodological approach, future research could
+further establish generalizability of the AST across different ecological contexts.
+A recent study investigating children's hostile attribution biases in 12
+ecological contexts, including countries from African, American, Asian, European regions
+and the Middle East found reliable results (Dodge et al.,
+2015 ). Lastly, since the current study included multiple dependent
+measures, we adjusted the p-values hypotheses-wise (for details see the
+supplementary file, S5 ). Thereby, the effects regarding students’ SES
+remained significant, while the effects regarding grade differences became non-significant
+(all below p < .10). Future research should thus replicate
+these findings with more power to detect small effects.

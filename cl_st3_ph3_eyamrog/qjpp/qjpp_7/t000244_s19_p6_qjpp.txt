@@ -1,0 +1,15 @@
+For NGO member analyses, we included NGO participatory efficacy and
+NGO collective efficacy into our model (the latter was also
+integrated in our direct and indirect goal efficacy factors). Confirming
+H6, participatory efficacy significantly predicted activist PEB, b = .20,
+95% CI [.08, .32], β = .27, p = .002.
+Post hoc analyses (see Supporting Information Figure A12) showed that
+activist PEB was also predicted by self-efficacy, p = .041,
+and that participatory efficacy also predicted public PEB, p =
+.005. As in the overall analysis, collective efficacy of humanity
+was again a negative predictor of activist, p = .001,
+and public PEB, p = .033. Collective efficacy of NGO
+did not predict any PEB ( p < .05 for
+all), and self-efficacy was the only predictor of private, p
+= .025, and indirect PEB, p < .001, in this
+sample.

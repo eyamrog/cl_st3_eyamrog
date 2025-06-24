@@ -1,0 +1,13 @@
+The decisions taken in building the WiSP corpus raise important
+questions about key principles within corpus linguistics. The first set
+of questions relates to the building of what is referred
+to throughout as Corpus 1. A number of decisions were
+made which do not align with these principles - such
+as accepting all available texts and removing metadata - but
+which were considered essential in order to build a corpus
+of sensitive and hard-to-access texts. Whilst not reflecting certain core
+principles - in particular those signalling a more positivist orientation
+to knowledge making such as generalisability - we consider that
+there is substantial value in making such compromises as corpus
+linguistic tools can generate insights into textual practices which might
+otherwise not come (easily) to light.

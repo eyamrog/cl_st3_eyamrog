@@ -1,0 +1,12 @@
+To further substantiate our results, we conducted several supplementary analyses.
+On the one hand, to examine regional differences, we replicated
+our analysis for five different regions of the world: East
+Asia and the Pacific ; Europe and Central Asia ;
+Latin America and the Caribbean; the Middle East and North
+Africa ; and sub-Saharan Africa. We followed the World Bank
+classification ( https://datahelpdesk.worldbank.org/knowledgebase/articles/378834-how-does-the-world-bank-classify-countries ). Due to the low number of
+cross-sectional units, North America and South Asia were not included
+in the regional analysis . Table 2 presents the results
+for the five regions; country effects for N -1 states
+and time fixed effects for each year were included in
+all models but are not reported.

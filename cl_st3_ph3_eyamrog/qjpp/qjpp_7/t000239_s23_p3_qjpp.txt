@@ -1,0 +1,24 @@
+While the “strong” form of the heuristics and bias approach
+“appears diametrically opposed to the classical rationality of the Enlightenment”
+( Gigerenzer and Goldstein 1996 :650), the limitations it points
+out are still valid, if not necessarily debilitating, when discussing
+decision-making in a political context. On the other hand, the
+fast and frugal approach asserts that heuristics, in a world
+of bounded rationality, can remain “within the domain of rational
+behavior, because people are maximizing their return while minimizing their
+information search and processing costs” ( Gowda 1999 :61). This
+form of satisficing, by resorting to cheap rather than objectively
+optimal processes, may suffer some loss in terms of information
+availability, but the decision rules that actors are working under
+have arisen organically from (and thus take into account) their
+environment ( Gigerenzer, Czerlinski, and Martignon 1999 ) and as
+such may be just as accurate as more computationally intensive
+methods of decision-making ( Bröder and Newell 2008 ; Dosi
+et al. 2020 ; Hafenbrädl et al. 2016 ). While
+fast and frugal heuristics may be plagued by the same
+biases as those which color other types of decision-making (
+Hilbig 2010 ), there is no reason why they need
+necessarily be inferior ( Hogarth and Karelaia 2007 ) and
+may actually lessen the complexity of an environment if enough
+people are relying on them ( Dosi et al. 2020
+).

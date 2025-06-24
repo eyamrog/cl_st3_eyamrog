@@ -1,0 +1,16 @@
+Artificial intelligence (AI) has shown promise for diagnosing prostate cancer
+in biopsies. However, results have been limited to individual studies,
+lacking validation in multinational settings. Competitions have been shown to
+be accelerators for medical imaging innovations, but their impact is
+hindered by lack of reproducibility and independent validation. With this
+in mind, we organized the PANDA challenge—the largest histopathology competition
+to date, joined by 1,290 developers—to catalyze development of reproducible
+AI algorithms for Gleason grading using 10,616 digitized prostate biopsies.
+We validated that a diverse set of submitted algorithms reached
+pathologist-level performance on independent cross-continental cohorts, fully blinded to the
+algorithm developers. On United States and European external validation sets,
+the algorithms achieved agreements of 0.862 (quadratically weighted κ, 95%
+confidence interval (CI), 0.840–0.884) and 0.868 (95% CI, 0.835–0.900) with
+expert uropathologists. Successful generalization across different patient populations, laboratories and
+reference standards, achieved by a variety of algorithmic approaches, warrants
+evaluating AI-based Gleason grading in prospective clinical trials.

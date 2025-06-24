@@ -1,0 +1,15 @@
+The clinical presentations of IHD reported in those studies included
+in this analysis were heterogeneous, primarily capturing acute IHD events
+such as myocardial infarction and new coronary heart disease (Table
+2 ). The most extensively investigated IHD outcomes across studies
+were myocardial infarction (30 studies) and coronary heart disease (
+n = 16), followed by heart failure ( n =
+10), stable angina ( n = 3), unstable angina (
+n = 2) and coronary revascularization ( n = 2).
+Most studies ( n = 38) reported the relative risk
+(RR) of IHD incidence and mortality combined, three studies reported
+IHD mortality only whereas two studies reported IHD incidence. The
+cohort studies provided RR estimates adjusted for age, sex, smoking
+and body mass index. All RCTs reported RRs that resulted
+from the intention-to-treat analysis. Most RCTs ( n = 38)
+entailed control groups that had received placebos.

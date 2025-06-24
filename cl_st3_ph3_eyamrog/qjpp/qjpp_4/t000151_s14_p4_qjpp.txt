@@ -1,0 +1,5 @@
+Serum testosterone (T) and estradiol (E) were measured using isotope
+dilution liquid chromatography tandem mass spectrometry in nanograms per deciliter
+(ng/dl) and picograms per milliliter (pg/ml), respectively. Full details of
+reliability, validation, and quality control are given in the Centre
+for Disease Control and Prevention's laboratory manual (CDC, 2014 ).

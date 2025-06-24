@@ -1,0 +1,11 @@
+Table 4 displays the descriptive statistics and calculated D indices
+for lower limb (femur + tibia) lengths, listed by time
+period. Due to small sample sizes, trends here should be
+interpreted with caution and ANOVA analyses were not performed to
+test differences of stature represented by lower limb length. However,
+D index values calculated from lower limb lengths display the
+same pattern as those for maximum tibial length. The degree
+of difference decreases from the early pre-Black Death period (
+D = 0.878) to the late pre-Black Death period (
+D = 0.646) and then increases in the period following
+the Black Death ( D = 0.755).

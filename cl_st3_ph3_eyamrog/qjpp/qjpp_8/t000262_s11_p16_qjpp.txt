@@ -1,0 +1,7 @@
+Finally, we conceptualize social network closeness as the degree to
+which, independently of network size, individuals are spatially close to
+their social ties and are embedded in networks of strong,
+personally close relationship. Two variables are used to measure these
+concepts, based on the definitions provided above: the proportion of
+close ties , and the proportion of local ties in
+one's personal network.

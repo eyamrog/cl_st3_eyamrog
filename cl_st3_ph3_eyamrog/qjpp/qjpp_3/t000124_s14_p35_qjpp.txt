@@ -1,0 +1,6 @@
+To maximize uniformity across all annotated species, Augustus was also
+run in comparative annotation mode ( Nachtweide and Stanke, 2019
+68. Nachtweide, S. ∙ Stanke, M. Multi-genome annotation with AUGUSTUS
+Methods Mol. Biol. 2019; 1962 :139-160 Crossref Scopus (18) PubMed
+Google Scholar ). The generated WGA served as sequence input
+together with the mapping of RNAseq data as described above.

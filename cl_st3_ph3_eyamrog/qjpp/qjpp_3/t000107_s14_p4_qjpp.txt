@@ -1,0 +1,4 @@
+All the genomic data, including RNA-Seq, ATAC-Seq and CUN&RUN data
+are available on GEO indicated in the Key resources table
+. The full transcription factor CRISPR screening data will be
+available upon requests to the corresponding authors.

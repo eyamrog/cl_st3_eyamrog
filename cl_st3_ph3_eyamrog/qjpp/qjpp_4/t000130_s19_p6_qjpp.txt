@@ -1,0 +1,20 @@
+Recent work showed that the TSP domains of Unc5 receptors
+are C-mannosylated at tryptophan residues W 1 and W 2
+of the consensus sequence W 1 xxW 2 xxW 3
+( Shcherbakova et al., 2019 103. Shcherbakova, A. ∙ Preller,
+M. ∙ Taft, M.H. ... C-mannosylation supports folding and enhances
+stability of thrombospondin repeats Elife. 2019; 8 :e52978 Crossref Scopus
+(43) PubMed Google Scholar ). We revisited our 2.4 Å-resolution
+published crystallographic data for hUnc5A iso ( Seiradake et al.,
+2014 99. Seiradake, E. ∙ del Toro, D. ∙ Nagel,
+D. ... FLRT Structure: Balancing Repulsion and Cell Adhesion in
+Cortical and Vascular Development Neuron. 2014; 84 :370-385 Full Text
+Full Text (PDF) Scopus (73) PubMed Google Scholar ) and
+noticed evidence for C-mannosylation (Trp245 and Trp248), Figures S2 D
+and S2E. We purified hUnc5A iso1 , hUnc5B IgIgTSP (residues
+26–303), mUnc5C IgIgTSP (residues 40–317), and rUnc5D IgIgTSP from HEK293T
+cells. Mass spectrometry shows that the first two tryptophan residues
+(W 1 and W 2 ) were C-mannosylated in all
+Unc5 homologues tested ( Figures S2 F–S2I). In agreement with
+these results, we observed electron density for these glycans in
+the crystallographic maps.

@@ -1,0 +1,11 @@
+The model for terrestrial detection rates was based on the
+number of observations of capuchins on the ground (e.g., events)
+per deployment. Events that were separated by more than 2
+min were considered independent by Agouti software. The median interevent
+time in our data was 47 min. Six terrestrial events
+in the sample were separated by less than 3 min,
+and 28 events were separated by less than 5 min.
+Events that are temporally clustered would produce event counts that
+are overdispersed with respect to the Poisson distribution . We
+therefore modeled detection rates using the negative binomial distribution (
+Lindén and Mäntyniemi, 2011 ).

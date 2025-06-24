@@ -1,0 +1,7 @@
+We fitted a negative binomial mixed model using a likelihood
+method implemented in the R package glmmADMB (generalized linear mixed
+model AD Model Builder; Skaug et al., 2014 ), to
+compare detection rates across sites while accommodating the hierarchical structure
+described previously. Camera-specific deployment duration and detection distance were treated
+as offsets in the model; predictions were generated for the
+mean number of events per month, per meter detection distance.

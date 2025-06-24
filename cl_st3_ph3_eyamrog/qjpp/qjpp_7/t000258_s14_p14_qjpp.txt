@@ -1,0 +1,9 @@
+Finally, structural equation modeling (SEM) was used to examine the
+possibility of a mediation and direct effect of the main
+model of disability on depression and self-esteem. Structural equation modeling
+is effective in modeling the possible mediation effect of stigma
+between disability and depression and self-esteem and effectively addresses the
+risk of bias from measurement error ( Robins and Greenland
+1992 ; Vansteelandt 2009 ). Mplus version 8.2 was used
+to conduct the SEM analyses ( Muthén et al., 2018
+).

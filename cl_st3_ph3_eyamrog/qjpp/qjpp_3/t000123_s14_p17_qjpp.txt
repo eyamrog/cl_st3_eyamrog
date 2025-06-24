@@ -1,0 +1,16 @@
+The candidate RBH genes were mapped on the chromosomes according
+to the coordinates of gray short-tailed opossum and sorted in
+order. For one RBH gene (A1A2; 1 and 2 denote
+the gray short-tailed opossum and another species) and its nearest
+RBH gene (B1B2) were considered to have syntenic evidence if
+they met the following requirements: a) genes A1 and B1
+are on same chromosome or scaffold; b) genes A2 and
+B2 are on same chromosome or scaffold; c) the number
+of genes between A1 and B1 < 5; d) the
+number of genes between A2 and B2 < 5. As
+the literature suggests ( Jarvis et al., 2014 41. Jarvis,
+E.D. ∙ Mirarab, S. ∙ Aberer, A.J. ... Whole-genome analyses
+resolve early branches in the tree of life of modern
+birds Science. 2014; 346 :1320-1331 Crossref Scopus (1080) PubMed Google
+Scholar ), we also retained RBH genes if one of
+their scaffolds only has one gene.

@@ -1,0 +1,9 @@
+This work was supported by the Spanish Ministry of Economy
+and Competitiveness [project number CGL2016-80000-P ]; AGAUR, Gencat [project number
+SGR2017-859 ]. IPHES is part of the CERCA Program (Generalitat
+de Catalunya) and has received financial support from the Spanish
+Ministry of Science and Innovation through the ‘María de Maeztu’
+program for Units of Excellence (CEX2019-000945-M) and project PRP-PID2021-123092NB-C21. P.P.
+is supported by a ‘Juan de la Cierva-Incorporación’ contract (grant
+IJC2020-044108-I) funded by MCIN/AEI/10.13039/501100011033 and ‘ European Union NextGenerationEU/PRTR ’.
+M.F. is a Serra Húnter fellow.

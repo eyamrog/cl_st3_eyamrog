@@ -1,0 +1,12 @@
+For stress granule partitioning experiments, WT U2OS cells stably expressing
+mGFP-CAPRIN1 ( Figure 1 I) or mCherry-CAPRIN1 ( Figure 6
+I) were plated into 96-well plates at 25% confluency and
+transduced with either 30 μL of indicated mCherry-tagged lentivirus (
+Figure 1 I) or mGFP-tagged lentivirus ( Figure 6 I).
+Three days later at confluency, cells were washed, trypsinized, and
+passaged at 1:8 dilution factor. Three days after this, cells
+were passaged onto fibronectin-coated 96-well glass plates (Cellvis). Live cell
+confocal imaging was performed 2-days later (i.e., 8 days following
+lentivirus transduction) when cells were at 60%–80% confluency. Images were
+taken between 1-2 h after arsenite treatment. Three independent experiments
+were performed for each condition.

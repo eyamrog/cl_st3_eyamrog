@@ -1,0 +1,18 @@
+Env copy number on individual mature hVLP particles ranged from
+8–82 Env, and the trimers appeared to be randomly distributed
+with no apparent clustering or predisposition to forming close interactions
+with other trimers ( Figure 1 B). The hVLPs have
+a predominantly spherical morphology in our sample with an average
+diameter of ∼100 nm. Thus, by calculating the surface area
+of the VLPs as a sphere and the Env trimer
+as an equilateral triangle with sides of 13 nm length,
+we can determine that an average hVLP can accommodate up
+to 429 Env trimers (31,400 nm 2 /73.18 nm 2
+) without clashing. Thus, although hVLPs display high levels of
+Env compared to wild-type HIV, the number of surface Env
+trimers present on hVLPs was much lower than the theoretical
+maximum, so Env trimers were not cramped and have sufficient
+surface area for mobility. Furthermore, the sub-volumes used in the
+final reconstruction of hVLP-Env were also selected to exclude neighboring
+Env in close proximity to avoid any influence due to
+unlikely clashing.

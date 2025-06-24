@@ -1,0 +1,26 @@
+To determine whether the cause of conflicting TEs is ILS
+or hybridization, we applied a multi-directional KKSC insertion significance test
+( Kuritzin et al., 2016 48. Kuritzin, A. ∙ Kischka,
+T. ∙ Schmitz, J. ... Incomplete lineage sorting and hybridization
+statistics for large-scale retroposon insertion data PLoS Comput. Biol. 2016;
+12 :e1004812 Crossref Scopus (20) PubMed Google Scholar ). According
+to the algorithm of this test, for a triplet to
+be checked, there are three possible TE insertion modes: 1)
+insertions can be detected only in lineage A and B;
+2) insertions can be detected only in lineage A and
+C; and 3) insertions can be detected only in lineage
+B and C. The mode with the most insertions was
+considered to support the true evolutionary path of the species,
+and the likely factors were then determined by testing whether
+the number of insertions in the remaining two modes was
+statistically symmetric or not. If they are symmetric, the ILS
+is more likely to be the cause; otherwise, the conflicting
+TEs are caused by the hybridization. In our study, lineages
+A, B and C are Dipr, Dasy and Micr. In
+total, we obtained 80 TEs that were only inserted in
+both two Dipr and two Dasy marsupials (named as Dipr_Dasy
+partition), 18 TEs that were only inserted in both two
+Dipr and Micr marsupials (named as Dipr_Micr partition), and 14
+TEs that were only inserted in both two Dasy and
+Micr marsupials (named as Dasy_Micr partition). The number of these
+markers was used in the KKSC insertion significance test.

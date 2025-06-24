@@ -1,0 +1,17 @@
+Although weak, the linear nature of the relationship between admixture
+and pelvic shape we find here is nonetheless informative. Greater
+Chinese ancestry leads to a pelvic shape which is closer
+to the mean shape for full-bred Chinese individuals, and the
+difference in Chinese ancestry is proportional to the difference in
+pelvic shape. If further investigation bears out the suggestion of
+the results we present here—that the morphology of hybrids between
+closely related primate taxa is proportional to the input of
+each parent taxon—this information can be used to further investigate
+the expected morphology of hominin hybrids. Models of expected hominin
+hybrid morphology can be constructed with the known morphology of
+parent taxa; for example, Neanderthal and H. sapiens crania as
+the endpoints of the hypothetical shape vector along which all
+admixed individuals would fall. Thus, the magnitude of disparity between
+parental shapes would not affect the pattern of the hybrids
+that fall between them, if the pattern of variation is
+a valid analog.

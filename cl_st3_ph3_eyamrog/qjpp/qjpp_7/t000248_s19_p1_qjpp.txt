@@ -1,0 +1,9 @@
+Table 2 shows all models with regression estimates, standard errors,
+significance levels, variance components, and model fit statistics. The null
+model showed the decomposition of the variance in national identification
+at the individual and class level. The variance was significant
+at both individual and class levels: 93% of the variance
+was at the individual level, while 7% of the variance
+was at the class level. This class-level variance corresponds to
+the roughly 10% variance usually found at the contextual level
+in school-based research (Hox et al., 2010 ).

@@ -1,0 +1,22 @@
+The survey gathered data on (1) gender, (2) age, (3)
+job, (4) industry, (5) enterprise size, (6) job title, (7)
+annual income, (8) degree of expert knowledge in the fields
+of management, marketing, and finance (5-point Likert scale), (9) degree
+of job satisfaction (7-point Likert scale; 1: very unsatisfied ,
+7: very satisfied ), and (10) degree of job rewards
+(7-point Likert scale). Questions (1) to (5) pertained to basic
+attributes. Table 1 presents the distribution of the basic attributes.
+The number of courses taken was drawn from the course
+databases. Based on previous studies ( Brunello, Comi, and Sonedda
+2012 ), the enterprise size was defined thus: those with
+100 or more employees were large enterprises and those with
+less than 100 employees were SMEs. As this study covered
+local areas, few companies had thousands of employees. Questions (6)
+and (7) pertained to career status. Question (8) related to
+expert knowledge in the hypotheses, and the questions are as
+follows: “How much do you feel you are using the
+expert knowledge and abilities of management / marketing / finance
+in your current job?” Questions (9) and (10) pertained to
+job satisfaction, and the questions are as follows: “How satisfied
+are you with your current job?” and “How rewarding do
+you find your current job?”

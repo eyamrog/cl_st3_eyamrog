@@ -1,0 +1,10 @@
+In this preliminary trial, we found that boosting with any
+of the three vaccines that are currently authorized for emergency
+use in the United States will stimulate an anamnestic response
+in persons who have previously received a primary series of
+any of these vaccines. Homologous boosting provided a wide range
+of immunogenicity responses, and heterologous boosting provided similar or higher
+levels. Reactogenicity and adverse events were similar across booster groups.
+These data suggest that an immune response will be generated
+for each of these vaccines used as a booster regardless
+of the primary Covid-19 vaccination regimen.

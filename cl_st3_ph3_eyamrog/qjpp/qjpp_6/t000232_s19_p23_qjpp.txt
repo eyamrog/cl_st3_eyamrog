@@ -1,0 +1,15 @@
+Mapping helped identify obstacles to implementation that could have caused
+the project to stagnate or fail. For instance, recognizing competing
+priorities within the health authority, which was in the midst
+of a large digital health transformation, enabled the committee to
+position the project as a successful eHealth implementation that was
+part of the overall transformation, not separate from the larger
+goal. Being able to take the standpoint of health authority
+leaders allowed the team to build a better case for
+the solution, which contributed to it becoming a part of
+the information management system. As Dixon-Woods and Martin (2016) point
+out, many QI efforts are abandoned after the pilot stage,
+whereas eNotification underwent formalized approvals and was both spread and
+sustained by the institution. After the pilot, eNotification was implemented
+across the region and within two years, 92 percent of
+FPs were able to receive alerts.

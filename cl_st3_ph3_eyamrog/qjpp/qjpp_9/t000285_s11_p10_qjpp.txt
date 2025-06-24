@@ -1,0 +1,7 @@
+With respect to negative tags, the forms themselves become increasingly
+bonded over time (e.g., innit becomes less easily decomposable into
+is + n’t + it ) even if their clausal
+position or scope changes. Innit ’s behavior is therefore consistent
+with Heine’s (2003 :579) definition of decategorialization above as well
+as Hopper’s (1991 :106) description of the process as resulting
+in items becoming “less prototypical in their distribution.”

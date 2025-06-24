@@ -1,0 +1,10 @@
+Condensate volumes of 2mL were added to MatTek glass-bottom 35
+mm Petri dishes with a 14 mm Microwell No. 1.5
+cover glass slip and spun at 1,000xg for 3 minutes.
+Chromatin condensates were imaged and subject to photobleaching using an
+Olympus IX81 spinning disk confocal microscope, a 100x/1.40 numerical aperture
+objective, and a Photometrics Cascade II camera. Time-lapse images were
+collected every 10 s. Imaging software Slidebook6 (3I, Denver, CO)
+was used for image capture and analysis of fluorescence intensity
+and recovery after photobleaching. Representative images in Figures 1 ,
+S1, and S2 were obtained from the time-lapse series.

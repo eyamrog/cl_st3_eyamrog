@@ -1,0 +1,7 @@
+TADs were identified by applying TopDom v.0.0.228 on 50-kb binned
+and KR-normalized maps using a window size of 10 (
+Shin et al., 2016 128. Shin, H. ∙ Shi, Y.
+∙ Dai, C. ... TopDom: an efficient and deterministic method
+for identifying topological domains in genomes Nucleic Acids Res. 2016;
+44 :e70 Crossref Scopus (126) PubMed Google Scholar ). Insulation
+scores were calculated using Cooltools ( https://github.com/open2c/cooltools/tree/v0.4.1 )

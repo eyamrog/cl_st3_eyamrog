@@ -1,0 +1,8 @@
+To illustrate these concepts, let us consider one such adjective,
+namely hard. Hard occurs in the corpus a total of
+501 times, of which eighteen are instances of so hard
+. For hard , we thus obtain the value 0.93
+for attraction and 3.6 for reliance. If we repeat this
+procedure for all the adjectives and adverbs for the three
+amplifiers, it is possible to compare their lexical preferences, and
+relate this information to the frequency information discussed in 3.1.

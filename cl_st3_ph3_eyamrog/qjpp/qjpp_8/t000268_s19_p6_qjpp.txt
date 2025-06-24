@@ -1,0 +1,7 @@
+Regarding the unemployment rate and economic growth, in all the
+regions for which significant coefficients are obtained, they take on
+a positive sign. For sub-Saharan Africa, the coefficient associated with
+economic growth takes the highest value, 0.106. This result suggests
+that, in some cases, increases in GDP may be associated
+with additional pressures on working conditions, especially in environments with
+high rates of inequality and little government aid.

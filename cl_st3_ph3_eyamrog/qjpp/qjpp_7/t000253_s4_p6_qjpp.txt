@@ -1,0 +1,7 @@
+Though it may lack the sophistication of more holistic health
+metrics, applying YLLs to evaluate fairness is by no means
+simple, as demonstrated by our analysis of vaccine prioritization. Moreover,
+a robust application of the YLL yardstick requires reliable data
+which are not always available in poorer countries. This hinders
+the generation of precise YLL estimates and leaves a large
+margin of potential error.

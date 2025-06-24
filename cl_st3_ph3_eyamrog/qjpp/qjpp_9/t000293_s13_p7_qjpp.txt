@@ -1,0 +1,20 @@
+The Korean English Learners’ Spoken Corpus ( kelsc ) consists
+of 36,588 words of 474 texts collected from 237 participants.
+Korean adults and students from ten universities across the country
+participated in an English speaking test online through video conferencing.
+Participants were given two speaking tasks: Task A (a summarising
+speaking task after listening to a passage about everyday life)
+and Task 2 (a summarising speaking task after reading a
+passage about everyday life). Their speaking performances were recorded, transcribed
+and assessed on a six-grade scale based on the Common
+European Framework of Reference ( cefr ). The corpus is
+thus divided into six sub-corpora based on cefr ’s six-band
+scale, which will facilitate the exploration of learner data at
+different proficiency levels. Since most English learner corpora in Korea
+consist of data from a limited variety of written sources,
+the corpus will provide academics with valuable spoken data for
+research. kelsc , which is available from January 2022 at
+the website 8 of the Institute for Corpus Research of
+Incheon National University, will be particularly valuable in this respect.
+Details about the design and compilation process of this corpus
+are described in Yoon (2020) and Jung (2021) .

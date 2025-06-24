@@ -1,0 +1,26 @@
+The infectiousness of an infected individual depends on the infection
+status (that is, asymptomatic, pre-symptomatic or symptomatic) and the type
+of contacts (that is, household or non-household). The infectiousness of
+asymptomatic and pre-symptomatic cases is scaled by their relative infectiousness
+\(\hat \omega\) and ω , respectively. We used the effective
+reproduction number ( R e ) to describe the disease
+transmissibility of SARS-CoV-2. In each simulation realization, we estimated R
+e as the average number of secondary infections caused by
+the first 100 infectors. To calibrate the transmission rate β
+per contact for symptomatic cases, we used an interior point
+algorithm to minimize the mean square error between the targeted
+value of R e and the mean estimation of R
+e averaged over 100 realizations of the simulated pandemic To
+assess the effect of each vaccination strategy, each simulation realization
+first runs with no vaccination (that is, the status quo
+strategy) and then runs with the rollout of vaccines. Note
+that the status quo strategy assumes no vaccination across all
+150 days. We explored two possible settings for the initialization
+of the simulated pandemic in India. The first one considered
+that only 2% of the Indian population had been randomly
+exposed on 16 January 2021 (that is, the start time
+of the Indian vaccination program ); the second one considered
+that 67.6% of the Indian population had been infected and
+recovered, with 22.0% and 5.3% of the Indian population having
+received the first standard dosing and the second standard dosing,
+respectively, on refs. (Supplementary Table 4 ).

@@ -1,0 +1,8 @@
+To monitor the neural activity of NTS neurons receiving inputs
+from aIC (the NTS Recipient ) using fiber photometry, we
+injected the aIC with ∼0.3 μl of the anterograde trans
+-synaptic AAV1-hSyn-Cre-WPRE-hGh, and injected the NTS with ∼0.3 μl of
+AAV1-Syn-Flex-GCaMP6f-WPRE-SV40 at the coordinates described above. An optic fiber (core
+diameter, 200 μm; length, 4.5 mm; NA, 0.37; Newdoon, Hangzhou,
+China; or Inper, Hangzhou, China) was inserted 0.2 mm above
+the injection site in the NTS.

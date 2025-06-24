@@ -1,0 +1,20 @@
+Freely moving mice were initially habituated to a two-sided chamber
+(23 × 33 × 25 cm; made from Plexiglas) for
+10 min, during which their baseline preference for the left
+or right side of the chamber was assessed. During the
+first test session (10 min), we assigned one side of
+the chamber (counterbalanced across mice) as the photostimulation side, and
+placed the mice in the non-stimulation side to start the
+experiment. Once the mouse entered the stimulation side, photostimulation, generated
+by a 473 nm laser (Shanghai Laser & Optics Century,
+Shanghai, China), was immediately turned on, and was turned off
+as soon as the mouse exited the stimulation side. In
+the second test session (10 min) we repeated this procedure
+but assigned the other side of the chamber as the
+stimulation side. For optogenetic activation, the photostimulation parameters were 10-ms
+pulse width, 20-Hz frequency, 10-mW power measured at fiber tips.
+For optogenetic inhibition, the photostimulation was 10-mW constant illumination. The
+mice were videotaped during the test with a CCD camera
+interfaced with Ethovision software (Noldus Information Technologies), which was also
+used to control the laser stimulation and extract behavioral parameters
+(position, time, distance and velocity).

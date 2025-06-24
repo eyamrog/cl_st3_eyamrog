@@ -1,0 +1,9 @@
+The association between SBP and IHD is one of the
+most widely investigated health risk–outcome relationships, with substantial evidence for
+causation . Prospective cohort studies have reported a continuous log-linear
+association between usual SBP and mortality due to vascular events
+across diverse population groups with and without pre-existing cardiovascular disease
+. Similarly, double-blinded randomized control trials (RCTs) that examine blood
+pressure-lowering drugs and meta-analyses of RCT data have provided evidence
+of the protective effects of pharmacologically induced blood pressure reduction
+.

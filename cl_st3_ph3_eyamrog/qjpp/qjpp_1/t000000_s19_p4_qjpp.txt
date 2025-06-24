@@ -1,0 +1,20 @@
+If the increased infection seen in high-income countries due to
+increased vaccine sharing resulted in extended behavioral caution (adapted behavior
+or longer use of NPIs), we estimate a much greater
+reduction in global infections than in scenarios where behavior remains
+unchanged (Fig. 3i,j ). We estimate that the global population
+infected and mortality rates by the end of 2021 would
+have been substantially reduced for the full vaccine sharing strategy
+scenario (29.1% infected, 84 deaths per 100,000; Fig. 2l ,
+Extended Data Fig. 1l and Supplementary Table 2 ) compared
+to the default scenario (48.4% infected, 133.1 deaths per 100,000).
+This is driven by the benefits of early vaccine sharing
+for lower-income countries persisting throughout 2021 (Extended Data Fig. 2
+), reducing infection and, hence, the potential for the emergence
+and spread of variants. This would create a positive feedback
+loop with less infection causing fewer variants and less increase
+in the basic reproduction number ( R 0 ), itself
+leading to less infection; while infection levels are kept below
+~35%, there is not the opportunity for the Delta variant
+to arise, so we do not observe the associated large
+increase in R 0 . (Fig. 4b,c ).

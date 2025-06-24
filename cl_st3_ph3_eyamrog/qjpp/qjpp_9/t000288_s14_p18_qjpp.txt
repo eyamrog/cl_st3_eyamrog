@@ -1,0 +1,8 @@
+Table 4 gives an overview of the predictors and their
+levels. Punctuation could theoretically be viewed as an aspect of
+syntactic integration, i.e., the dependent variable. However, seeing that both
+instances with that -clause and bare variants can be variably
+punctuated or not (compare 16 and 17 with 18 and
+19), punctuation was coded separately as a predictor, with the
+level punctuation subsuming variants such as comma, colon, semi-colon, as
+well as dash-separated clauses.

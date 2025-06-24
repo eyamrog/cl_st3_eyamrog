@@ -1,0 +1,17 @@
+Using ANOVA and regression analysis, with P values ≤ 0.05
+considered statistically significant, time was found to have a significant
+positive correlation with the number of restrictive policy clauses at
+p <0.050 (F(1,34)=9.603, p = 0.004) and a positive, yet
+insignificant effect, on permissive clauses p <0.050 (F(1,34)=2.913, p =
+0.970). These findings were justified by the gap between the
+regression coefficients of restrictive (β=0.774) and permissive (β=0.159) clauses. Hence,
+as general concerns for the crisis exacerbates with time, restrictive
+clauses significantly increased annually by 0.774, while permissive propositions increased
+not significantly only by 0.159 (see Fig. 3 ). Using
+Mahalanobis distance with a chi-square (χ2) cut off of p
+<0.010, only one restrictive and two permissive outliers were identified
+but were not sufficient enough to affect the results. All
+statistical calculations can be found in Appendix B . Download:
+Download high-res image (317KB) Download: Download full-size image Fig. 3
+. Number of Restrictive (Left) and Permissive (Right) Modals/Clauses Across
+Time.

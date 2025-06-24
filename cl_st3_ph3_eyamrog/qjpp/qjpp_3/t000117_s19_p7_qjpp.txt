@@ -1,0 +1,19 @@
+Third, the mice were subject to a sodium-deficiency condition (
+Lee et al., 2019 39. Lee, S. ∙ Augustine, V.
+∙ Zhao, Y. ... Chemosensory modulation of neural circuits for
+sodium appetite Nature. 2019; 568 :93-97 Crossref Scopus (47) PubMed
+Google Scholar ; Tindell et al., 2009 76. Tindell, A.J.
+∙ Smith, K.S. ∙ Berridge, K.C. ... Dynamic computation of
+incentive salience: “wanting” what was never “liked” J. Neurosci. 2009;
+29 :12220-12228 Crossref Scopus (106) PubMed Google Scholar ) and
+learned that CS predicted the delivery of a high-sodium solution
+(500 mM NaCl) ( Figure 1 P), which is repellent
+to animals under normal conditions. The mice readily licked the
+spout following CS presentation ( Figure 1 Q), reflecting a
+homeostatic need for sodium. As expected, the mice stopped responding
+to the CS after recovery from the deficiency ( Figure
+1 Q). Remarkably, under sodium-deficiency, many aIC Fezf2 neurons showed
+robust excitatory (27%) or inhibitory (29%) responses to sodium or
+the CS predicting sodium delivery, which were completely abolished after
+the mice had recovered from the deficiency ( Figures 1
+R, 1S, S2 N, and S2O).

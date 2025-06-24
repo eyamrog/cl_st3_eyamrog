@@ -1,0 +1,20 @@
+We therefore tested if locus restructuring reflects which enhancers Fat1
+and Zfp42R genes utilize by generating a series of deletions
+in E11.5 embryos and ESCs ( Kraft et al., 2015
+71. Kraft, K. ∙ Geuer, S. ∙ Will, A.J. ...
+Deletions, inversions, duplications: engineering of structural variants using CRISPR/Cas in
+mice Cell Rep. 2015; 10 :833-839 Full Text Full Text
+(PDF) Scopus (135) PubMed Google Scholar ). Specifically, we eliminated
+the placental mammal-specific Zfp42R (ΔZfp42R) or the ancient D1 and
+D2 regions (ΔD1, ΔD2, or ΔD1+2) ( Figures 2 C
+and S3 E). RNA-seq in mutant E11.5 limb buds revealed
+that Fat1 expression was severely disrupted by deletion of the
+ancient D1 and D2 gene deserts but not the more
+recently emerged Zfp42R . Specifically, limb-wide Fat1 expression was reduced
+by 56%–67% in ΔD1 and ΔD1+2 mutants, corresponding with the
+loss of putative centromeric limb enhancers that include the validated
+Fat1-enh ( Figures 2 D and S3 E). By contrast,
+Zfp42R genes remained inactive in wild type and all mutant
+limbs. Hence, in later development, Fat1 expression is driven by
+its ancient TAD regulatory landscape and distal enhancers, but these
+have no effect on Zfp42R gene expression.

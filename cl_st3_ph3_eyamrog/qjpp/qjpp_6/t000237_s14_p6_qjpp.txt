@@ -1,0 +1,12 @@
+which differ only in their dependent variables ( l o
+g ( y i ) , i ∈ { 1
+, 2 , … , 8 } ) and where
+K = 5 is the number of composite variables and
+u i is the error term of the model i
+. Note that Asia is used as the base or
+benchmark group, that is, all estimates on the regional dummy
+variables are interpreted relative to this region. Also note that
+in each model, observations for which outlier values were detected
+in the dependent variable were filtered out of the sample.
+5 The details and the source code of the calculation
+process can be found in the supplementary material .

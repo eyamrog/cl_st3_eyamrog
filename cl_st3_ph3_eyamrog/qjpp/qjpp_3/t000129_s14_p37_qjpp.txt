@@ -1,0 +1,9 @@
+Single-end, 100 bp reads from Illumina sequencing were mapped to
+the reference genome (mm10) using the STAR mapper (splice junctions
+based on RefSeq; options: --alignIntronMin20 --alignIntronMax500000 --outFilterMismatchNmax 10). Differential gene
+expression was ascertained using the DESeq2 package ( Love et
+al., 2014 88. Love, M.I. ∙ Huber, W. ∙ Anders,
+S. Moderated estimation of fold change and dispersion for RNA-seq
+data with DESeq2 Genome Biol. 2014; 15 :550 Crossref Scopus
+(29293) PubMed Google Scholar ). The cut-off for significantly altered
+gene expression was an adjusted P value of 0.05.

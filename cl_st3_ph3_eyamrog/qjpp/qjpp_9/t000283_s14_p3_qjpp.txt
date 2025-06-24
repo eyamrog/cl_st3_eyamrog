@@ -1,0 +1,19 @@
+The total number of speakers is ninety-two; the breakdown by
+gender and genre is shown in the left-hand part of
+Table 1 (dataset A). For most of the analyses, a
+smaller dataset was derived from this dataset A, one that
+includes only those speakers for whom information regarding both gender
+and age was available (dataset B). Further, a third subset
+of the data was used to inspect the relationship between
+the acoustic quality of the vowel and the phonetic realization
+of the following /r/ (dataset C). Since this analysis was
+based on a time-consuming auditory analysis, a smaller dataset was
+chosen (see section 3.3). Rhoticity is a highly sensitive feature
+that is subject to a series of language-internal and external
+factors; dataset C is based solely on broadcast talks rather
+than a cross-section of genres to rule out potential effects
+of speech rate, text type, and orthography on the realization
+of /r/. As Table 1 shows, the genre of broadcast
+talks is strongly overrepresented in our sample in terms of
+speaker numbers, particularly so in dataset B. Moreover, in all
+datasets the gender distribution within most genres is uneven.

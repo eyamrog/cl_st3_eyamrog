@@ -1,0 +1,23 @@
+The limited combinatorial possibilities of the adjectives entering the tautological
+size - clusters in ME have already been briefly commented
+on in 4.1. Clusters invariably include either great (for large-size
+clusters) and little (for small-size ones) and, in most cases,
+these latter lexemes occupy the leftmost slot of the cluster
+(e.g., [ great + [Adj.]] / [ little + [Adj.]]).
+In this connection, recent work by Méndez-Naya (2017) and López-Couso
+(2019) on accretive structures suggests that leftmost positions in tautological
+clusters are often occupied by the semantically more general element
+and/or the element with the widest range of functions. An
+explanation along these lines may apply to the size -clusters
+explored here, particularly of the large-size type. First, adjectives such
+as great (or mighty ) and little are (relatively) general
+in their semantics in that they do not denote any
+specific type of dimension (e.g., length, depth, thickness). Second, they
+also have well-established metaphorical meanings (e.g., [lack of] ‘importance’ or
+‘value’). Third, the OED shows that they are polyfunctional, featuring
+both adjective and adverbial use across OE and ME (note
+that only tokens where such polyfunctional elements perform adjectival functions
+have been included in this paper). By contrast, those lexical
+elements occupying the clusters’ rightmost positions (e.g., deep , long
+, small ) tend to denote a type of dimension
+and often perform adjective-only functions in ME.

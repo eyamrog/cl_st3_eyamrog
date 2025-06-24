@@ -1,0 +1,5 @@
+Demographic variables . We adjusted for gender (female vs. male
+as data were only available on binary gender), race (Black
+and Latino vs. White), age category, age category squared, education
+(college degree or higher vs. otherwise), and income (33-point scale).
+All predictor variables were mean-centered or dummy-coded.

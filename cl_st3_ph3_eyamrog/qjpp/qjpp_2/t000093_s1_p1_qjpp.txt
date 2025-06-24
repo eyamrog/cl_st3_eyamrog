@@ -1,0 +1,16 @@
+Liquid-liquid phase separation (LLPS) mediates formation of membraneless condensates such
+as those associated with RNA processing, but the rules that
+dictate their assembly, substructure, and coexistence with other liquid-like compartments
+remain elusive. Here, we address the biophysical mechanism of this
+multiphase organization using quantitative reconstitution of cytoplasmic stress granules (SGs)
+with attached P-bodies in human cells. Protein-interaction networks can be
+viewed as interconnected complexes (nodes) of RNA-binding domains (RBDs), whose
+integrated RNA-binding capacity determines whether LLPS occurs upon RNA influx.
+Surprisingly, both RBD-RNA specificity and disordered segments of key proteins
+are non-essential, but modulate multiphase condensation. Instead, stoichiometry-dependent competition between
+protein networks for connecting nodes determines SG and P-body composition
+and miscibility, while competitive binding of unconnected proteins disengages networks
+and prevents LLPS. Inspired by patchy colloid theory, we propose
+a general framework by which competing networks give rise to
+compositionally specific and tunable condensates, while relative linkage between nodes
+underlies multiphase organization.

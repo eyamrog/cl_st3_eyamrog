@@ -1,0 +1,15 @@
+In a representative democracy, some decide in the name of
+the rest. These elected officials are commonly gathered in public
+assemblies, such as parliaments, where they discuss policies, legislate, and
+vote on fundamental initiatives. A core aspect of such democratic
+processes are the plenary debates, where important public discussions take
+place. Many parliaments around the world are increasingly keeping the
+transcripts of such debates and other parliamentary data in digital
+formats that are accessible to the public. This is meant
+to increase transparency and accountability, but these records are often
+only provided as raw text or even as images, with
+little, if any, annotation and in inconsistent formats, making them
+difficult to analyse. Here, we present ptarl-d , an annotated
+corpus of debates in the Portuguese Parliament, covering the years
+1976 to 2019 and representing the entire period of Portuguese
+democracy.

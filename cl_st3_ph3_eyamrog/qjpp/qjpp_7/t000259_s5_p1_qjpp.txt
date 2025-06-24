@@ -1,0 +1,16 @@
+The conjoint experiment reported in this study suggests that several
+differences in COVID-19 vaccine properties can have a powerful impact
+on Americans' intentions to vaccinate. Specifically, Americans are significantly more
+likely to prefer vaccines developed in the US (compared to
+the UK, China, or Russia), pose a minimal risk of
+side effects, and that are highly effective at warding off
+infection. This is potentially problematic, as some leading vaccine candidates
+may fall short of achieving some or all of these
+benchmarks. Further, results from the conjoint experiment suggest that, even
+under these ideal conditions, Americans’ intentions to vaccinate may be
+suboptimal. However, and perhaps more-encouragingly, Americans are less discerning regarding
+the type of antigen featured in the vaccine (mRNA vs.
+a weakened virus), whether the vaccine is administered in one
+(vs. two) doses, and the amount of time the vaccine
+spent in development. All conjoint experimental are robust to several
+different modeling specifications, and are generally uniform across demographic subgroups.

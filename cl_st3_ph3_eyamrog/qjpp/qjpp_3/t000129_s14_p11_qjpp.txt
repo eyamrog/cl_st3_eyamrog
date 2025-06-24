@@ -1,0 +1,25 @@
+The flippase (FLP)-flippase recognition target (FRT) system was used to
+introduce enhance-LacZ reporter constructs into C2 ESCs. This modified ESC
+line contains a phosphoglycerate kinase neomycin selection cassette flanked by
+FRT sites and a promoter- and ATG-less hygromycin cassette targeted
+downstream of the Col1A1 locus ( Beard et al., 2006
+17. Beard, C. ∙ Hochedlinger, K. ∙ Plath, K. ...
+Efficient method to generate single-copy transgenic mice by site-specific integration
+in embryonic stem cells Genesis. 2006; 44 :23-28 Crossref Scopus
+(344) PubMed Google Scholar ). 800,000 C2 ESCs were seeded
+onto a feeder-coated 6-well plate and transfected with 9 μg
+of targeting construct, 3 μg FLP-encoding vector, 1 μl Lipofectamine
+LTX Plus reagent (Thermo Fisher Scientific), 20 μl Lipofectamine LTX
+in a to a final OptiMEM volume 250 μl. After
+24 h, transfected C2 cells were transferred onto hygromycin-resistant DR4
+feeders and treated with hygromycin B (final concentration 150 μg/ml)
+in ES growth medium for 5-10 days. Colonies were then
+picked and transferred to CD1 feeders in 96-well plates. Plates
+were subsequently split into triplicates after 2-3 days, two for
+freezing and one for DNA harvesting. Following lysis and genotyping,
+selected clones were expanded from frozen plates after which genotypes
+were reconfirmed. Genetically modified C2 ESCs were used to produce
+embryos through diploid aggregation, and genotyping confirmed the presence of
+the desired mutations in the cells and later in the
+embryos. Enhancer reporter cell lines and corresponding genotyping primers can
+be found in Tables S1 and S2 .

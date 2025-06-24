@@ -1,0 +1,12 @@
+There are a number of frameworks and methodologies for studying
+intonation, though much of the work conducted in the U.S.
+in the last few decades has employed auto-segmental/metrical (AM) theory
+( Pierrehumbert 1980 ). The AM theory is a phonological
+theory that applies cross-linguistically, but its specifications and the inventory
+of possible tones differs by language and variety. Broadly, the
+theory posits that fundamental frequency movements (F 0 ) (i.e.,
+pitch) are the result of an underlying sequence of tones
+that determine their structures. In the AM theory, the tones
+are either high (labelled as H) or low (labeled as
+L), and movements of the pitch contour are decomposable into
+a series of low and high sequences.

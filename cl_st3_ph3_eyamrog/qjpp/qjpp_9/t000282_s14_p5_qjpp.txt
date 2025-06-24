@@ -1,0 +1,6 @@
+The first pitch accent, labeled H*, is characterized by a
+simple rise, and the second one, labeled L+H*, is characterized
+by a fall-rise. The peak delay intervals begin at the
+onset of the stressed vowel in the syllable containing the
+pitch accent, and end at the maximum F 0 in
+that same vowel.

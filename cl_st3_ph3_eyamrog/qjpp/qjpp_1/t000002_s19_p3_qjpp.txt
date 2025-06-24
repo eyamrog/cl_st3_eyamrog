@@ -1,0 +1,17 @@
+We focused subsequent analyses on chronic conditions with a plausible
+biological link to activity levels including diabetes, hypertension, GERD, MDD,
+obesity and sleep apnea (Supplementary Table 1 ). Type 2
+diabetes codes with neurological manifestation were combined with codes for
+type 2 diabetes, and sleep apnea and obstructive sleep apnea
+were combined into a single condition given their phenotypic and
+diagnostic overlap. The conditions that were of interest in time
+to event analyses often coexist clinically, but multimorbidity among these
+six conditions was rare in this cohort (Extended Data Fig.
+2 ). In addition to removing conditions that did not
+meet the statistical significance threshold in logistic regression, acute conditions
+(acute renal failure), nonspecific diagnoses (nausea and vomiting, shortness of
+breath, urinary incontinence, dysphagia, complications of transplants, inflammatory and toxic
+neuropathy), those with few events, that is, n ≤ 50
+(convulsions, heart failure with preserved ejection fraction) and those with
+little to no plausible link to activity (hypopotassemia) were not
+pursued in subsequent analyses.

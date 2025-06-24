@@ -1,0 +1,10 @@
+In this study, we analyzed a pool of human mAbs
+from EVD survivors and identified two antibodies, 1C11 and 1C3,
+that bound the desired core and head epitopes, respectively, were
+specific for GP, did not cross-react with sGP, offered potent
+neutralizing activity in vitro against SUDV as well as EBOV,
+and were efficacious in both laboratory mouse and domesticated guinea
+pig models of EVD. We next determined that a combination
+formed by the 1C11–1C3 pair could protect NHPs against EBOV-
+and SUDV-induced disease, in doses as low as 25 mg/kg
+(12.5 mg/kg of each mAb).

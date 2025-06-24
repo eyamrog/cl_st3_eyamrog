@@ -1,0 +1,12 @@
+The distribution of texts and their word counts are shown
+in Figure 1 . As can be seen, the word
+counts of individual texts vary somewhat, due to the fact
+that short texts were included in their entirety whereas longer
+texts are represented by roughly 10,000-word samples. As far as
+text length is concerned, the figure also highlights the fact
+that journal articles are different from the majority of texts
+in the other categories in being considerably shorter. 3 While
+this difference does not preclude cross-category comparisons, it might be
+a cause of some of the differences observed in the
+data. The other categories included in the study do not
+display major differences in the mean text length.

@@ -1,0 +1,11 @@
+We thank G. Crabtree, J. Kirkland, F.Berger, and members of
+the Jarosz laboratory for critical reading of the manuscript and
+helpful discussions. This work was supported by grants to D.F.J.
+from the NSF (MCB1453762), NIH (DP2GM119140), the Vallee Foundation, and
+the David and Lucile Packard Foundation (2015-63121). Z.H.H. was funded
+through NIH T32GM113854, and R.A.F. is funded by an NSF
+GRFP. A.K.C. was supported as a Howard Hughes Medical Institute
+fellow of the Damon Runyon Cancer Research Foundation (DRG2221-15) and
+by an NIH Pathway to independence award (1K99GM128180). Sequencing was
+performed on an Illumina HiSeq 4000 purchased with funds from
+NIH (S10OD018220).

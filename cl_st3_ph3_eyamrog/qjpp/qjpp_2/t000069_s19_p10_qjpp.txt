@@ -1,0 +1,7 @@
+A multiplexed analysis of angiogenesis-related gene expression examining 323 genes
+from the nCounter PanCancer Progression Panel (NanoString Technologies) revealed differences
+between the specimens from patients with Covid-19 and those from
+patients with influenza. A total of 69 angiogenesis-related genes were
+differentially regulated only in the Covid-19 group, as compared with
+26 genes differentially regulated only in the influenza group; 45
+genes had shared changes in expression ( Figure 5 ).

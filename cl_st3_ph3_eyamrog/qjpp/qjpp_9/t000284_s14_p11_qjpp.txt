@@ -1,0 +1,25 @@
+We built four separate GAMMs for back vowels in DASS:
+one each for goose , foot , and goat ,
+plus a fourth for lot and thought together. The same
+model specification was applied to each. Bark-transformed formant measurements of
+both F1 and F2 were used as the dependent variable
+in each GAMM. The models’ independent variables included formant and
+allophone (or, in the case of the low back model,
+vowel ), since all data for each vowel was pooled
+together (see Gahl & Baayen 2019 ; Faraway 2006 :214–218;
+Wieling et al. 2016 ). Social predictors included gender and
+generation . To allow for each combination of gender and
+generation to have its own best fit curve for each
+formant and allophone, these four variables ( formant , allophone
+, gender , generation ) were combined into a single
+four-way interaction term. The reference level of this interaction term
+was for F1 of the elsewhere allophone, or lot for
+the low back model, corresponding to a woman in the
+G.I. Generation. The interaction was included as a parametric effect
+and as a smooth in the model. Smooth terms, within
+a GAMM, capture non-linear effects. The smooth included percent to
+indicate the normalized time point from which each measurement came.
+The smooth used four knots, a parameter to functionally subdivide
+modeled curves; four is the maximum available when five measurement
+points are used. Additionally, log duration was included as a
+parametric effect in all models.

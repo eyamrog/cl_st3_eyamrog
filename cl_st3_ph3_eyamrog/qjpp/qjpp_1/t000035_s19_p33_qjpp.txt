@@ -1,0 +1,14 @@
+The evidence base for the effects of formal care in
+the presence of informal care on care recipients is generally
+sparse, inconsistent, and heterogeneous. Our review revealed 9 studies in
+this category, all quantitative, conducted mostly on populations in the
+United States and Europe, with one study from Taiwan (
+Table 1 , column 4). The risk of bias in
+this body of work is high in that most studies
+did not address potential endogeneity or selection bias (78% assessed
+as medium or high bias). In addition, although the formal
+care interventions studied were often aimed at similar goals of
+reducing unmet needs and delaying institutionalization, the interventions themselves were
+heterogeneous, including several forms of case management, community care services
+such as adult day care, and therapies. This makes comparisons
+across studies difficult.

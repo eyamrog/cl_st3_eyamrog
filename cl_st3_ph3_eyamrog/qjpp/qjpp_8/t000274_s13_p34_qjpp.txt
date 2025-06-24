@@ -1,0 +1,10 @@
+As our commitment to the ESRC included full archiving of
+the WiSP corpus, the corpus coding needed to be both
+comprehensible and comprehensive for future unknown researchers. Following the initial
+coding within LAs (3.2), as a research team we discussed
+what further anonymisation was needed to render ‘jigsaw identification’ unlikely
+(2.3). For the WiSP dataset overall, it seemed possible for
+an individual social worker or person written about to be
+identified simply through the sheer number of related data items
+(e.g. corpus texts, interview transcripts, fieldnotes); this concern was initially
+brought to our attention by social workers.

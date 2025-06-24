@@ -1,0 +1,14 @@
+Virus titration was performed by plaque assay using Vero E6
+cells (ATCC CRL-1586) from all plasma samples as previously described
+( Pascal et al., 2018 43. Pascal, K.E. ∙ Dudgeon,
+D. ∙ Trefry, J.C. ... Development of clinical-stage human monoclonal
+antibodies that treat advanced Ebola virus disease in nonhuman primates
+J. Infect. Dis. 2018; 218 :S612-S626 Crossref Scopus (133) PubMed
+Google Scholar ). Briefly, increasing 10-fold dilutions of the samples
+were adsorbed to Vero E6 cell monolayers in duplicate wells
+(200 μL) and overlaid with 0.8% agarose in 2X Eagle’s
+minimum essential medium (EMEM) with 10% FBS. After 6 days
+of incubation at 37°C with 5% CO 2 , neutral
+red stain was added and plaques were counted after 48
+h of incubation. The limit of detection for this assay
+was 25 PFU/mL.

@@ -1,0 +1,10 @@
+Subsequently, the bundles were grouped according to the three main
+structural taxonomy proposed by Biber et al . (2004 ,
+2021 ): vp -based, np -based and pp -based bundles.
+vp -based bundles include a verb (e.g., I am going
+to ). np -based bundles begin with a noun phrase,
+usually followed by an of -phrase fragment (e.g., the beginning
+of the ) or a post-modifier fragment (e.g., the fact
+that the ). pp -based bundles begin with a preposition,
+which is followed by an np fragment (e.g., in the
+center of ).

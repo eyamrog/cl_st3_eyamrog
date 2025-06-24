@@ -1,0 +1,27 @@
+Research has repeatedly shown that the spread of infectious diseases
+is influenced by properties of our social networks. Small-world like
+structures with densely connected clusters bridged by only a few
+connections, for example, are not only known to diminish disease
+spread, but also to increase the chance for a disease
+to spread to any part of the network. Clusters composed
+of individuals who show similar reactions to avoid infections (health
+behavior homophily), however, might change the effect of such clusters
+on disease spread. To study the combined effect of health
+behavior homophily and small-world network properties on disease spread, we
+extend a previously developed ego-centered network formation model and agent-based
+simulation. Based on more than 80,000 simulated epidemics on generated
+networks varying in clustering and homophily, as well as diseases
+varying in severity and infectivity, we predict that the existence
+of health behavior homophilous clusters reduce the number of infections,
+lower peak size, and flatten the curve of active cases.
+That is because agents perceiving higher risks of infections can
+protect their cluster from infections comparatively quickly by severing only
+a few bridging ties. A comparison with epidemics in static
+network structures shows that the incapability to act upon risk
+perceptions and the low connectivity between clusters in static networks
+lead to diametrically opposed effects with comparatively large epidemics and
+prolonged epidemics. These finding suggest that micro-level behavioral adaptation to
+health risks mitigate macro-level disease spread to an extent that
+is not captured by static network models of disease spread.
+Furthermore, this mechanism can be used to design information campaigns
+targeting proxies for groups with lower risk perception.

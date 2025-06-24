@@ -1,0 +1,14 @@
+For this study, we considered work- and residential-related mobility as
+options for our independent variable where work-related mobility is defined
+as percent change in total visitors to areas defined as
+places of work while residential-related mobility is defined as percent
+change in duration at areas defined as residential locations. These
+daily data are available at the US county level. We
+aggregated these measures by time and space to represent weekly
+information for each health region – i.e., median percent change
+for a given health region each week. Where too few
+data points are captured, Google assigns those observations as missing
+to avoid issues pertaining to privacy. Despite our aggregations to
+weekly information by health region, we still had some missingness:
+0.9% for work and 5.7% for residential. We imputed by
+carrying the last observation forward.

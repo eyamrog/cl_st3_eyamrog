@@ -1,0 +1,5 @@
+All statistical analyses were performed in R v. 4.1.0 (
+R Core Team, 2021 ). To visualize changes in abundance
+of plant taxa over time, we created stratigraphic plots with
+the ‘rioja’ package v. 0.9-26 ( Juggins and Juggins, 2020
+; SOM Figs. S1–S3 ).

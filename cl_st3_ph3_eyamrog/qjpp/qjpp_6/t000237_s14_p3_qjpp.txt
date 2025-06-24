@@ -1,0 +1,4 @@
+To identify and characterize the topics most strongly related to
+the eight investigated COVID-19 variables, the calculation steps proposed by
+Kurbucz et al. (2021) were employed. These steps are illustrated
+in Figure 1 .

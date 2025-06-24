@@ -1,0 +1,16 @@
+Recombinant Xenopus core histones were purchased from the CSU Protein
+Expression and Purification facility. Reconstitution of unlabeled histone octamers was
+performed by first suspending lyophilized histones H2A, H2B, H3, and
+H4 in unfolding buffer (6M guanidinium HCl, 20mM Tris pH
+7.5, 5mM DTT) for 2 h. Histones were mixed at
+equal molar concentration and then brought to a final protein
+concentration of 1mg/ml. The histone mixture was then dialyzed three
+times against 2 l of refolding buffer (2M NaCl, Tris
+pH 7.5, 1mM EDTA, 5mM β-mercaptoethanol) for 4h each to
+assemble histone octamers. The folded histone octamers were then concentrated
+using an Amicon Ultra-15 centrifugal filter and purified by size
+exclusion chromatography using the ATKA start liquid chromatography system and
+a HiLoad 16/60 Superdex 200 column. Peak fractions were run
+on an SDS polyacrylamide gel, and those fractions with equimolar
+amounts of the core histones were combined and concentrated to
+> 5mg/mL using a clean Amicon Ultra 15 centrifugal filter.

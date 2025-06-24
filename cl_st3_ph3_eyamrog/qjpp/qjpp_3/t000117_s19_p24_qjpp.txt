@@ -1,0 +1,9 @@
+Next, we tested mice in a progressive-ratio (PR) task (
+Figures 3 Q–3U). In this task, the effort required for
+thirsty mice to attain water increased progressively, and the breakpoint
+at which the mice stopped responding was used as a
+measure of motivation ( Figure 3 Q). In some sessions,
+we optogenetically activated aIC Fezf2 → NTS. This manipulation significantly
+increased the breakpoint and the total number of reward-seeking actions
+( Figures 3 R–3U). Thus, aIC Fezf2 → NTS activation
+promotes the effort an animal spends in pursuing reward.

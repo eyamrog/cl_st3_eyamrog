@@ -1,0 +1,11 @@
+Pull-down experiments to investigate the effects of Nano glue and
+Nano break on the Unc5 – GPC3 interaction were performed
+by coupling biotinylated hGPC3 core to high-capacity streptavidin agarose resin
+(Thermo Fisher Scientific, 20,357) after incubation of the beads with
+the biotinylated protein for 1 h hUnc5B Ecto was mixed
+with nanobody in 1:1, 1:5, and 1:10 M ratios in
+20mM Tris-HCL, pH 7.5, 200mM NaCl, 1% BSA and incubated
+with hGPC3 core -coated strep beads for 3 h. Beads
+were washed with 20mM Tris-HCL, pH7.5, 200mM NaCl and the
+proteins were eluted with SDS-containing gel-loading buffer supplemented with 5%
+beta-mercaptoethanol. Samples were analyzed using SDS-PAGE.

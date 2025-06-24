@@ -1,0 +1,7 @@
+Results: The estimation results showed that ‘physical health’, ‘mental health’,
+and ‘making ends meet’ were the most important well-being domains
+for older people, followed by ‘independence’ and ‘living situation’. Of
+somewhat lesser importance were domains like ‘social life’, ‘receiving support’
+and ‘feeling useful’. The generated utility tariffs can be used
+to translate well-being states described with the WOOP to a
+utility score between −0.616 and 1.

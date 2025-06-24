@@ -1,0 +1,20 @@
+This study expressed visits as a rate per population to
+provide a proportionate measure of utilisation. The population of children
+aged under six decreased over the five years of this
+study period and the population of the comparison cohort, children
+aged six to 15, increased year-on-year. Therefore, to ensure changes
+in population did not influence the assessment of the policy
+impact, the analysis of visits was expressed as a rate
+per 10,000 per each single year of age (SYOA) based
+on Ireland's Census 2016, with movements in population for post-census
+periods based on changes in births. As patients are free
+to attend the ED of their choice, private EDs or
+LIUs, each hospital does not have a delineated catchment area.
+Therefore, this study assumed a catchment area using regional authority
+areas as a guide. As the three Dublin hospitals are
+in close proximity and draw most patients from Dublin and
+the surrounding counties, this study assessed the impact of this
+policy on attendance rates for these three hospitals in aggregate.
+However, the impact of the policy on the rate of
+GP referrals, admissions and severity were assessed at hospital level
+as these outcomes are not dependent on population measures.

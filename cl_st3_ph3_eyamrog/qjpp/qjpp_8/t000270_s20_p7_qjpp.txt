@@ -1,0 +1,15 @@
+Dynamics in static networks show several significant differences to their
+adaptive counterparts. First, there is no observable effect of homophily
+and risk perception on final size in static networks (
+Table 2 ). This is, of course, due to the
+operationalization of homophily in our study, which renders agents incapable
+to act upon their perceptions in static networks. Second, we
+observe a positive effect of clustering on epidemic duration in
+static networks ( Table 2 ). That is, while the
+capability to cut off bridging ties quickly in adaptive networks
+causes epidemics to die out quickly (unless the disease spreads
+to the entire networks), the incapability to distance oneself from
+the disease leads to slow spread and on average larger
+final sizes in static networks. Third, we observe negative effects
+of average path length on final size and peak size
+in static networks only ( Table 2 ).

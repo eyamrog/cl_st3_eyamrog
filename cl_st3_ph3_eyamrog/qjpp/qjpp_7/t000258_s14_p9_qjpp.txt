@@ -1,0 +1,3 @@
+Descriptive analysis was conducted in Stata 15 to profile the
+sample and to provide frequencies, means, and standard deviations among
+the study variables.

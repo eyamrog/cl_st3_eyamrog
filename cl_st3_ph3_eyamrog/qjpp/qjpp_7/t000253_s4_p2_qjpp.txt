@@ -1,0 +1,12 @@
+YLLs have a number of important limitations as a metric
+of fairness, since they only take mortality and expected life
+expectancy into account, ignoring other key elements of health and
+quality of life. Some studies argue that YLLs intrinsically discriminate
+against people at younger ages, on a number of grounds.
+These include an argument that, although quality of life is
+not entirely determined by age, there is a broad relationship
+between the two and that this should be included in
+measures of fairness. Also, the “fair innings” argument, postulates giving
+all life years the same value may unfairly deny younger
+people the opportunity to live through different stages of life
+(Harris, 1985 ).

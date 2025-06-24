@@ -1,0 +1,12 @@
+The relationship (or “ground”) between a sign and its object
+is the subject of Peirce's most famous trichotomy: Signs that
+relate to their object through physical similarity are termed icons
+( Peirce 1998 , p. 273); those that relate to
+their object through spatial/temporal contiguity, cause/effect, or part/whole relationships are
+termed indexes ( Peirce 1998 , p. 274); and those
+whose relationship is arbitrary or conventional are termed symbols (
+Peirce 1998 , p. 274). Rather than distinct, these three
+grounds are also hierarchical: The symbolic ground incorporates the indexical,
+which incorporates the iconic. This view contrasts with Saussure's account
+of the sign, which essentially deals only with symbolic legisigns
+(arbitrary types).

@@ -1,0 +1,25 @@
+Previous studies estimating utility tariffs for well-being measures primarily applied
+best-worst scaling (BWS) approaches ( Coast et al., 2008 ;
+Flynn et al., 2015 ; Netten et al., 2012 )
+(or intend to do so ( Ratcliffe et al., 2019
+)). Therefore, a noteworthy strength of the applied methodology is
+that it provides a feasible alternative approach, which was also
+shown to be preferable for older people in terms of
+the cognitive burden of choice tasks in a previous study
+( Himmler et al., 2020a ). Moreover, the DCE design
+with a duration attribute allowed anchoring the utility weights of
+the WOOP on a QALY-like scale, facilitating a more straightforward
+combination of length and quality of life in computing the
+benefits of interventions. The applied approach furthermore accounts for non-linear
+time preferences, which otherwise would bias estimates in DCE with
+duration approaches ( Jonker et al., 2018a ). The estimated
+discount rate of 0.173 implies that parameter estimates would have
+been severely biased by time preferences if we would have
+assumed linear time preferences. A more general implication of this
+is that for older people, estimated/empirical discount rates are much
+higher than the discount rates used in traditional HTA calculations,
+which mostly range between 1.5% and 5% ( Attema et
+al., 2018 ). The use of exponential (as opposed to,
+for example, hyperbolic) discounting in our analysis is also consistent
+with the common approach to discounting of health effects in
+health technology assessment.

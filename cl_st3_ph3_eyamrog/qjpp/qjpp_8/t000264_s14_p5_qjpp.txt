@@ -1,0 +1,6 @@
+Four different composite measures of community vulnerability were considered here
+as alternatives for the independent variable: Area Deprivation Index (ADI),
+Social Vulnerability Index (SVI), COVID-19 Community Vulnerability Index (CCVI), and
+the COVID-19 Pandemic Vulnerability Index (PVI). The ADI, SVI, and
+CCVI measures are spatial only and remain constant over time,
+whereas the PVI is dynamic and changes over time.

@@ -1,0 +1,13 @@
+The top three predictors: HeadNPRelRole, HeadNPMatRole, and RCLength are also
+included in the conditional inference trees model. As Benedikt Szmrecsanyi
+et al . (2016) mentioned, conditional inference trees are subject
+to a high degree of variability. This is as each
+split in the tree depends on the splits that precede
+it. This makes it difficult to generalise the unseen data.
+Thus, it fails to notice highly predictive effects. Conversely, the
+predictors’ importance obtained in a conditional random forest is more
+reliable. It is also based on the predictor variables’ conditional
+permutation over many trees ( Paquot et al ., 2019
+). This is indicated by the considerable increase of the
+random forest model’s classification accuracy (C=0.88) over the conditional inference
+trees model (C=0.74).

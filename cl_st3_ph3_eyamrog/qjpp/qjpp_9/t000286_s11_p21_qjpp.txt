@@ -1,0 +1,9 @@
+When a feature occurs infrequently and non-obligatorily (i.e., a speaker
+may elect to utter a need -passive to fill a
+discursive need, but need -passives are not syntactically required in
+any given utterance), quantifying its occurrence or non-occurrence does not
+yield meaningful analyses. As Murray and Simon (2002 :34) argued
+in their study of the AEP like +ED, non-use of
+a low-frequency feature “means only that an informant has not
+used it yet; the construction may appear in the next
+sentence or […] never.”

@@ -1,0 +1,19 @@
+Segmental chromosomal losses at chromosome 16q23.1 were found in 7
+of 33 blastomeres and blastocyst biopsies (21%) with chromosme 16
+signal ( Figure 5 C). One embryo, embryo one, derived
+after Cas9 RNP injection at the two-cell stage, carried different
+modifications on all four sister chromatids in both daughter cells
+( Figure 5 F). One cell showed maternal segmental loss
+and an indel on the paternal allele, whereas the other
+carried paternal segmental loss and a different indel on the
+maternal allele. The parental origin of the chromosomes with the
+segmental error is identified through homozygous parent-of-origin-specific SNPs. Cells with
+an indel and a segmental loss on the other chromosome
+appeared homozygous by Sanger sequencing but are hemizygous ( Figure
+5 F). Mosaic chromosome content and loss of heterozygosity of
+chromosome 16 was also seen in embryo C, obtained after
+MII injection of Cas9 RNP ( Figure S7 ). All
+blastomeres carried a 6 bp insertion on one chromosome, which
+appeared heterozygous in some cells, and homozygous in others, depending
+on chromosomal content. Altogether, off-target activity of Cas9 results in
+both indels and segmental chromosomal changes.

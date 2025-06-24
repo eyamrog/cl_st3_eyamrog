@@ -1,0 +1,17 @@
+Data were manually extracted to Excel sheets according to a
+predetermined protocol . Two reviewers (GB and SDL) independently extracted
+data from the eligible studies for the following variables: date
+and country of data collection; sampling method; non-response rate (proportion
+of potentially eligible individuals who did not participate or did
+not complete the surveys); type of recruitment (at admission [ie,
+recruited on arrival to prison] or cross-sectional [ie, recruited across
+the entire population at variable times during imprisonment]); diagnostic instrument
+and classification system (International Classification of Diseases; Diagnostic and Statistical
+Manual of Mental Disorders); interviewer (mental health professional or trained
+interviewer); sample size; sex; mean age; proportion of participants with
+previous imprisonment; and number of individuals in prison with dual
+disorders and each of the single serious mental health disorders
+and substance use disorders. Furthermore, we extracted data on race
+and ethnicity, national identity, and country of birth to provide
+more detailed information on the diverse social groups captured in
+the samples.

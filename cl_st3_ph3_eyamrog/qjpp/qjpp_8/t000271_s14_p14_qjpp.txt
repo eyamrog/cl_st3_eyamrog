@@ -1,0 +1,3 @@
+The initial inter-rater agreement rate was 78%, which was then
+improved to 100% through subsequent discussions and close contextual analyses
+of concordance lines in question.

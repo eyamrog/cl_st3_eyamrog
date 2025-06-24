@@ -1,0 +1,2 @@
+The data used in this article are publicly accessible via
+the UK Data Service: https://beta.ukdataservice.ac.uk/datacatalogue/series/series?id=200020 .

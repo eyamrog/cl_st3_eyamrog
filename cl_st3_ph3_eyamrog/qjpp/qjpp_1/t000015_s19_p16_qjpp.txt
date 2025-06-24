@@ -1,0 +1,13 @@
+Despite this earlier onset, MN loss in MN-P517L/Δ14 mutants was
+limited to the same selectively vulnerable pools as in the
+heterozygous P517L/WT and Δ14/WT mice. The vulnerable TA muscle showed
+NMJ denervation, whereas the soleus muscle remained unaffected (Fig. 3e
+and Extended Data Fig. 5e ). Here again, MN loss
+was limited to the large-diameter (alpha) MNs (Fig. 3g )
+and ultimately plateaued at around 20% (Fig. 3f ), approximately
+the same level as in heterozygous P517L/WT and Δ14/WT mice
+(Fig. 1c ), suggesting depletion of the same subset of
+vulnerable MNs. Of note, denervation of the TA recovered in
+time: re-innervation of NMJs (Fig. 3e ), along with functional
+recovery from mild deficiencies in grip strength (Extended Data Fig.
+5h ), occurred by 1 year of age.

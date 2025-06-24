@@ -1,0 +1,9 @@
+These results also confirmed this reduction of the levels of
+correlation from size-adjusted data sets compared with those obtained from
+raw data sets, except in the atlas of H. sapiens
+and P. troglodytes ( SOM Table S16 and Fig. S1
+). Also, in general terms, the highest craniocervical correlation values
+are not related to variables representing maximum length, either midlateral
+(e.g., MaxTrDi, STrD, or M8) or dorsoventral (e.g., MaxDVDi, M5,
+or M13), but variables related to the vertebral foramen (
+SOM Table S17 ).

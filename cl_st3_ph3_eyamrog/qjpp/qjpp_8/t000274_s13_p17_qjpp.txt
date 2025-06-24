@@ -1,0 +1,4 @@
+The issue of what and how to anonymise sensitive data
+and how to archive the resulting corpus comprises a significant
+ethical challenge and is discussed in Section 3 , drawing
+on WiSP to exemplify the issues.

@@ -1,0 +1,14 @@
+To investigate the distribution of little across the groups of
+speakers, we apply a multiple regression model that simultaneously incorporates
+all the parameters of interest (time, role, class, and gender)
+into one analysis. 14 The analysis enables us to assess
+the unique contribution of each individual parameter (predictor), holding the
+other parameters (predictors) constant (as advocated by Jenset & McGillivray
+2017 ). This makes the result for one predictor, say,
+gender, unbiased by any share of variation attributable to the
+other predictors, speaker role and social class. Thus, the variation
+between women and men is not biased by, e.g., the
+fact that there were no women judges or lawyers at
+the time, nor by any other systematic links, such as
+defendants more frequently being men or judges and lawyers by
+definition belonging to the higher classes.

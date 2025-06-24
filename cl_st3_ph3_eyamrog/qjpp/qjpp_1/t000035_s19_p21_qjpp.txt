@@ -1,0 +1,6 @@
+The limitation of Barnay & Juin's study is that they
+have only one year of data and thus cannot control
+for time-invariant individual heterogeneity. They do not include a separate
+interaction effect for the receipt of both informal care and
+formal care, which would have captured any unique complementary benefits
+of having both sources of care.

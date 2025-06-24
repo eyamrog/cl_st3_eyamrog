@@ -1,0 +1,18 @@
+Methods: ACT4 was a cluster-randomised, open-label trial involving 24 health
+facilities in Benin, Canada, Ghana, Indonesia, and Vietnam randomly assigned
+to either a three-phase intervention (LTBI programme evaluation, local decision
+making, and strengthening activities) or control (standard LTBI care). Tuberculin
+and isoniazid were provided to control and intervention sites if
+not routinely available. Randomisation was stratified by country and restricted
+to ensure balance of index patients with tuberculosis by arm
+and country. The primary outcome was the number of household
+contacts who initiated tuberculosis preventive treatment at each health facility
+within 4 months of the diagnosis of the index case,
+recorded in the first or last 6 months of our
+20-month study. To ease interpretation, this number was standardised per
+100 newly diagnosed index patients with tuberculosis. Analysis was by
+intention to treat. Masking of staff at the coordinating centre
+and sites was not possible; however, those analysing data were
+masked to assignment of intervention or control. An economic analysis
+of the intervention was done in parallel with the trial.
+ACT4 is registered at ClinicalTrials.gov , NCT02810678 .

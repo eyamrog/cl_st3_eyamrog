@@ -1,0 +1,10 @@
+A 1C11 single-chain variable fragment (scFv) was ordered from Genscript;
+this plasmid contained the appropriate heavy-chain (VH domain), (G 4
+S) 4 linker, light-chain (VL domain), and C-terminal Strep-tag sequences.
+The DNA was cloned into a pMT-puro vector, and the
+protein was expressed in Drosophila S2 cells. Protein was purified
+from the culture supernatant using a pre-packed StrepTrap HP column
+(Cytiva Life Sciences) followed by cleavage of the Strep-tag at
+an enterokinase cleavage site using EKMax (Thermo Fisher Scientific). The
+tagless protein was further purified using a Superdex 75 Increase
+10/300 GL size-exclusion chromatography (SEC) column (Cytiva Life Sciences).

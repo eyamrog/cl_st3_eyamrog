@@ -1,0 +1,6 @@
+Results: Nearly two-thirds (63.1%) of EBV seropositive participants were also
+CMV seropositive. A 1-year increase in age was associated with
+3.4% higher odds of CMV infection (OR [95% CI]: 1.034
+[1.009–1.064], p = .012), but CMV antibody concentration was not
+significantly associated with age or EBV antibody concentration among co-infected
+individuals.

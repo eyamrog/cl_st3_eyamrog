@@ -1,0 +1,8 @@
+In the rightmost pane of Figure 5 , we can
+see that women have a higher model-based usage rate of
+little than men (circa 20 versus circa 17 per 100,000
+words), their rates differing by a factor of 1.17. However,
+owing to the extensive overlap in the credible intervals, the
+difference between the estimated rates of the genders cannot be
+considered statistically significant. Examples (26) and (27) show downtoner uses
+by women.

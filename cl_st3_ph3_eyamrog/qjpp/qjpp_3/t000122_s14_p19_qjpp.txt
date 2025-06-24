@@ -1,0 +1,25 @@
+Jurkat cells expressing randomly-mutagenized EBOV GP were generated as described
+( Davis et al., 2019 11. Davis, C.W. ∙ Jackson,
+K.J.L. ∙ McElroy, A.K. ... Longitudinal Analysis of the Human
+B Cell Response to Ebola Virus Infection Cell. 2019; 177
+:1566-1582.e17 Full Text Full Text (PDF) Scopus (114) PubMed Google
+Scholar ). Briefly, EBOV GP (strain H.sapiens-wt/GIN/2014/Kissidougou-C15) expressed in a
+lentiviral vector was randomly mutagenized via error-prone rolling circle replication
+( Fujii et al., 2006 17. Fujii, R. ∙ Kitaoka,
+M. ∙ Hayashi, K. Error-prone rolling circle amplification: the simplest
+random mutagenesis protocol Nat. Protoc. 2006; 1 :2493-2497 Crossref Scopus
+(34) PubMed Google Scholar ) using Phi29 polymerase (25640010, Cytiva,
+Marlborough, MA, USA) in the presence of manganese. Jurkat E6-1
+cells were infected with this lentiviral stock at low MOI
+to ensure a single lentiviral integration event per cell. GP-expressing
+cells were sorted on a FACS Aria II for loss
+of binding to either Alexa 488 or Alexa 647 labeled
+1C3 or 1C11 while retaining binding to Alexa 405 labeled
+2.1.6F2 (Alexa 405 NHS Ester, A30000, ThermoFisher). Cells were then
+single cell cloned using ClonaCell TCS medium (03814, StemCell Technologies,
+Inc., Vancouver, Canada). Individual clones were analyzed by flow cytometry
+to confirm loss of binding to either 1C3 or 1C11
+and retention of binding to 2.1.6F2 and GP was sequenced
+from RNA isolated from each Jurkat GP clone. Each escape
+mutation was identified in two separate sorts from at least
+3 individual cell lines.

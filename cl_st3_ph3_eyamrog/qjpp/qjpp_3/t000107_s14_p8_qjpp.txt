@@ -1,0 +1,15 @@
+Mice were infected intranasally (i.n.) with PR8 strain expressing D
+b GP33 (PR8 GP33 ) at a dose of 3.0
+LD50. Male mice were used for these PR8 GP33 experiments.
+Mice were anesthetized before i.n. infection. PR8 viral qPCR detection
+for viral RNA amount was calculated as previously described (
+Laidlaw et al., 2013 42. Laidlaw, B.J. ∙ Decman, V.
+∙ Ali, M.-A.A. ... Cooperativity between CD8 + T cells,
+non-neutralizing antibodies, and alveolar macrophages is important for heterosubtypic influenza
+virus immunity PLoS Pathog. 2013; 9 :e1003207 Crossref Scopus (86)
+PubMed Google Scholar ). Total RNA (including host and viral
+RNA) was purified from lungs of PR8 GP33 infected mice
+as well as the paired spleen, followed by reverse transcriptions
+with random primers. Real-time quantitative PCR was performed on cDNA
+targeting the influenza PA protein with technical triplicate. Influenza viral
+RNA amount was standardized using influenza PA protein cDNA standards.

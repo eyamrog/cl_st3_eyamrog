@@ -1,0 +1,15 @@
+Most existing studies of patient feedback have been undertaken by
+researchers working in health and medical disciplines. As a result,
+the majority of this research has focussed on issues such
+as the design of feedback mechanisms ( Evans et al.,
+2007 ), the reliability of feedback data for assessing healthcare
+quality ( Sitzia, 1999 ), the extent to which insights
+from patient feedback actually lead to service improvements ( Davies
+and Cleary, 2005 ), and how such insights might be
+implemented to improve services and clinical outcomes ( Veloski et
+al., 2006 ). Such studies have thus tended to focus
+on the content of the feedback analysed, with frequently​ reported
+drivers of feedback including the technical quality of care, accessibility
+to care, and the interpersonal and communication skills of practitioners
+( Greco et al., 2001 ; Gupta et al., 1993
+).

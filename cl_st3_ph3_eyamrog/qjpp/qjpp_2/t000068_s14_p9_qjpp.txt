@@ -1,0 +1,15 @@
+The primary outcome was a safety composite of death from
+cardiac causes, myocardial infarction, or definite or probable stent thrombosis
+at 1 year. The principal secondary outcome was an effectiveness
+outcome of target-lesion failure (a composite of death from cardiac
+causes, target-vessel myocardial infarction, or clinically indicated target-lesion revascularization) at
+1 year. Other secondary outcomes included the components of the
+primary outcome and the principal secondary outcome as well as
+major adverse cardiac events, stroke, and bleeding events. A detailed
+list of all outcomes and their definitions is provided in
+the Supplementary Appendix . Myocardial infarction was defined according to
+the Third Universal Definition of Myocardial Infarction. Bleeding was defined
+according to Bleeding Academic Research Consortium (BARC) criteria (see the
+End Point Definitions section in the Supplementary Appendix ). BARC
+types range from 0 to 5, with higher values indicating
+greater severity of bleeding.

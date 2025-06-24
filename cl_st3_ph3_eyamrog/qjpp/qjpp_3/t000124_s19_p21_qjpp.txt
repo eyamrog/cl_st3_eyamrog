@@ -1,0 +1,22 @@
+Despite their high chromosome number and centromere-type differences, J. effusus
+and the previously available genome for the sedge Carex littledalei
+(its homotypic synonym, Kobresia littledalei ) ( Can et al.,
+2020 7. Can, M. ∙ Wei, W. ∙ Zi, H.
+... Genome sequence of Kobresia littledalei, the first chromosome-level genome
+in the family Cyperaceae Sci. Data. 2020; 7 :175 Crossref
+Scopus (9) PubMed Google Scholar ) showed a typical diploid
+gene content and no evidence of any recent WGD, outside
+of a shared ancient WGD between sedges and rushes (
+Figure S4 ). The J. effusus genome also revealed high
+completeness (100% viridiplantae_odb10 dataset) and little duplication (1.6%) ( Figures
+S2 B and S2C). Annotation of its genome yielded 18,942
+high-confidence gene models ( Figures 1 D and 1E; Table
+S1 ). Synteny analysis further revealed that most J. effusus
+and C. littledalei chromosomes are present as highly collinear blocks
+across the five chromosomes of R. breviuscula , suggesting a
+high conservation of synteny although the group is ancient (78
+Mya) ( Figures 5 B and 5C). Thus, neither the
+low nor the high chromosome numbers observed in many holocentric
+species necessarily reflect the absence or presence of recent polyploidy,
+respectively, and these numbers should be interpreted with caution in
+the absence of detailed genomic studies.

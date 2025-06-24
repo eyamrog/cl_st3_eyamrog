@@ -1,0 +1,15 @@
+To investigate the effect of small-world properties and health behavior
+homophily on epidemics, we divide the variables into two categories.
+First, independent variables describing network and disease properties: (i) network
+clustering, (ii) average path length, (iii) homophily, (iv) average degree,
+(v) disease severity, (vi) infectivity, and (vii) average risk perception.
+Note that the listed network properties are outcome variables resulting
+from the network formation process, but independent variables in the
+analysis of epidemics. Second, dependent variables characterizing epidemics and network
+dynamics: (i) the percentage of infected agents throughout the entire
+epidemic ( final size ), (ii) the number of time
+steps from first infection until all agents are either susceptible
+or recovered ( duration ), (iii) the maximum number of
+simultaneously infected agents ( epidemic peak size ), and (iv)
+the number of network changes during the epidemic (number of
+broken and created ties).

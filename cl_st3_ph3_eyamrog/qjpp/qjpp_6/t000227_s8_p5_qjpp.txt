@@ -1,0 +1,26 @@
+Previous work has described the morphology of the Boxgrove tibia
+( Stringer et al., 1998 ), highlighting its rounded and
+straight anterior crest, with only a suggestion of a lateral
+concavity, thus distinguishing it from that of Neanderthals. This study
+also provided an estimate of the articular length of Boxgrove
+1 at 370 and 376 mm (mean = 373 mm).
+Because living bone responds to mechanical loading, especially during development,
+detailed analyses of long bone morphology and inner structure can
+thus indirectly inform us about the activity, sex, and size
+of individuals ( Ruff and Hayes, 1983 ; Ruff et
+al., 1993 , 1994 ). Cross-sectional shape and thickness, in
+particular, have been shown to reflect their robusticity and rigidity
+( Ruff and Hayes, 1983 ; Ruff et al., 1993
+). In a cross-sectional analysis of the Boxgrove tibia (
+Trinkaus et al., 1999 ), the authors noted some degree
+of deformation, which they corrected before deriving moments of area.
+However, although this method is suitable for nearly regular and
+concentric sections, the formulas they used to derive the moments
+of area have been suggested to potentially introduce errors when
+applied to other irregular and eccentric contours ( Nagurka and
+Hayes, 1980 ; Ruff and Leo, 1986 ; Ohman, 1993
+). Thus, we present a new virtual reconstruction of the
+Boxgrove 1 tibia and a revised estimate of the cross-sectional
+parameters, allowing for a new morphological analysis of this specimen
+and comparison of the Boxgrove tibia with seven almost complete
+tibia specimens from SH.

@@ -1,0 +1,18 @@
+For each scenario, we estimated the health and economic outcomes
+of each fractional-dose strategy. For example, taking a 1/4 fractional-dose
+strategy with 72% vaccine efficacy against infection after the second
+dose, the median incremental cost is expected to be positive
+because the vaccine costs incurred outstrip averted hospitalization costs (Supplementary
+Table 3 ). Under a high-transmission scenario ( R e
+= 5), the optimal strategy of 1/8 fractionated dose would
+avert 4 million years of life lost (YLL) (95% credible
+interval (CrI): −9.44, 18.01) at a cost of USD $10.63
+billion (95% CrI: 9.01, 12.05) (Supplementary Table 3 ). Under
+a low-transmission scenario ( R e = 1.2), the optimal
+strategy still suggests the 1/8 fractionated dose, which is expected
+to avert 11.34 million YLL (95% CrI: 0.35, 21.74) at
+a cost of USD $8.8 billion (95% CrI: 7.64, 9.97).
+We also assessed the robustness of our results with reduced
+vaccine efficacy against infection perhaps for new SARS-CoV-2 variants (Extended
+Data Figs. 3–5 ), which denotes slightly lower expected gain
+in the net monetary benefit (NMB).

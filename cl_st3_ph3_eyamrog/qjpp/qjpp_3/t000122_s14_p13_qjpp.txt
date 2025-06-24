@@ -1,0 +1,19 @@
+Neutralization of live viruses by mAbs was assessed by plaque
+assay under BSL-4 conditions as described ( Davis et al.,
+2019 11. Davis, C.W. ∙ Jackson, K.J.L. ∙ McElroy, A.K.
+... Longitudinal Analysis of the Human B Cell Response to
+Ebola Virus Infection Cell. 2019; 177 :1566-1582.e17 Full Text Full
+Text (PDF) Scopus (114) PubMed Google Scholar ; Honnold et
+al., 2014 25. Honnold, S.P. ∙ Bakken, R.R. ∙ Fisher,
+D. ... Second generation inactivated eastern equine encephalitis virus vaccine
+candidates protect mice against a lethal aerosol challenge PLoS ONE.
+2014; 9 :e104708 Crossref Scopus (14) PubMed Google Scholar ).
+Briefly, viruses were incubated with 2-fold serial dilutions of mAbs
+and added to Vero E6 cells (ATCC) in 6-well plates.
+The endpoint titer was determined to be the highest dilution
+with plaque reduction neutralization test (PRNT) producing a ≥50 or
+≥80% reduction (PRNT 50 , PRNT 80 ) in the
+number of plaques observed in control wells. EBOV Zaire 1995
+(Kikwit strain) was used for neutralization testing. For SUDV, the
+Boneface strain was used. For BDBV, the Uganda 2007 strain
+was used.

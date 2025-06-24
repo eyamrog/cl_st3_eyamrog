@@ -1,0 +1,13 @@
+Results: A total of 1996 patients at high bleeding risk
+were randomly assigned in a 1:1 ratio to receive zotarolimus-eluting
+stents (1003 patients) or polymer-free drug-coated stents (993 patients). At
+1 year, the primary outcome was observed in 169 of
+988 patients (17.1%) in the zotarolimus-eluting stent group and in
+164 of 969 (16.9%) in the polymer-free drug-coated stent group
+(risk difference, 0.2 percentage points; upper boundary of the one-sided
+97.5% confidence interval [CI], 3.5; noninferiority margin, 4.1; P=0.01 for
+noninferiority). The principal secondary outcome was observed in 174 patients
+(17.6%) in the zotarolimus-eluting stent group and in 169 (17.4%)
+in the polymer-free drug-coated stent group (risk difference, 0.2 percentage
+points; upper boundary of the one-sided 97.5% CI, 3.5; noninferiority
+margin, 4.4; P=0.007 for noninferiority).

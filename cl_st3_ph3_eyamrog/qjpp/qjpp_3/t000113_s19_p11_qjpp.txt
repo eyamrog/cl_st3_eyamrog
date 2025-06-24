@@ -1,0 +1,11 @@
+We analyzed value place coding in 616 hippocampal neurons (V:
+272, T: 344) as described above, quantifying value space fields
+independently for each block. Many neurons significantly encoded a value
+place field during at least one block (V: 201/272 neurons
+or 74%; T: 194/344, 56%). There tended to be an
+increased number of identified value place fields as subjects traversed
+from one block to the next (Cochran’s Q test for
+number of place neurons per block; V: A, 109/272, B,
+133/272, A′, 148/272, Q = 17, p = 0.0002; T:
+A, 110/344, B, 101/344, A′, 130/344, Q = 8.8, p
+= 0.01) suggesting a recruitment of place neurons.

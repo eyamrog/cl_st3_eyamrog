@@ -1,0 +1,15 @@
+Methods: We did a systematic review by searching PubMed, Embase,
+Scopus, and Cochrane Library for studies that compared tuberculosis case
+notification rates, tuberculosis disease prevalence, or tuberculosis infection prevalence or
+incidence in children, between populations exposed and unexposed to active
+case-finding interventions. We included studies published in English between Jan
+1, 1980, and April 13, 2020. Studies of active case-finding
+in the general population, in populations perceived to be at
+high risk for tuberculosis, and in closed settings were included,
+whereas studies of tuberculosis screening at health-care facilities, among household
+contacts, or among children only, and studies that screened fewer
+than 1000 people were excluded. To estimate effectiveness, we extracted
+or calculated case notification rates, prevalence of tuberculosis disease, and
+incidence or prevalence of tuberculosis infection in children, and compared
+ratios of these outcomes between groups that were exposed or
+not exposed to active case-finding interventions.

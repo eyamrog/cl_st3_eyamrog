@@ -1,0 +1,22 @@
+We also examined the physical state of euchromatic domains labeled
+during S phase. Cells labeled in early S phase incorporate
+labels into distinct small foci that may correspond to individual
+TADs ( Xiang et al., 2018 66. Xiang, W. ∙
+Roberti, M.J. ∙ Hériché, J.K. ... Correlative live and super-resolution
+imaging reveals the dynamic structure of replication domains J. Cell
+Biol. 2018; 217 :1973-1984 Crossref Scopus (44) PubMed Google Scholar
+). We photobleached a region containing several individual foci and
+followed their fluorescence over time. As shown in Figure 2
+D and Video S2 , fluorescence remains depleted over the
+time course of the experiment. Although the individual replication domains
+“jiggle” in space, there is no liquid-like mixing of the
+chromatin that can be observed. Quantification revealed negligible fluorescence immediately
+after and 30 min after photobleaching. This demonstrates that chromatin
+does not mix between individual euchromatic domains. We also examined
+whether this held independent of cell cycle. We found that
+G1-, S-, and G2-phase cells exhibited solid-like behavior in FRAP
+experiments ( Figure S3 A–S3C). The results shown in Figure
+2 indicate that heterochromatin and euchromatin interphase domains in the
+nucleus exist in a solid-like state that precludes mixing with
+the surrounding nuclear environment, whereas specific protein components that associate
+with pericentric heterochromatin have liquid-like properties in solid domains.

@@ -1,0 +1,25 @@
+Section 5.4 indicated that there are community-specific social trends in
+the negative tag variation. As such, separate mixed-effects logistic regression
+models are presented for Tyneside ( N = 205) and
+Salford ( N = 430) respectively in Table 9 .
+Glasgow is not analyzed separately in this way given its
+comparatively small sample ( N = 138). In the Tyneside
+and Salford models, the same fixed factors as in Table
+8 are included, with the exception of locality. Open in
+Viewer Table 9 . Mixed-Effects Logistic Regression of the Combined
+Effect of Factors in the Phonetic Reduction of Negative Tags
+in Tyneside versus Salford Tyneside Salford Total N 205 430
+AIC 166.4 516.5 Log Likelihood −78.2 −252.3 Deviance 156.4 504.5
+Estimate Std. error Z-value p -value Sig. % N Estimate
+Std. error Z-value p -value Sig. % N (Intercept) −4.8510
+0.9327 −5.201 1.98 × 10 −7 *** 0.1868 0.3291 0.568
+0.57031 Verb type Reference level: do 15.9 88 55.7 140
+be 1.9147 0.5389 3.553 0.00038 *** 37.6 117 0.9082 0.2385
+3.808 0.00014 *** 75.2 290 Conduciveness Reference level: Conducive 21.7
+138 69.3 274 Non-Conducive 0.8899 0.4872 1.827 0.06777 41.8 67
+−0.0485 0.2466 −0.197 0.84407 67.9 156 Gender Reference level: Women
+7.8 90 65.3 225 Men 2.2903 0.9170 2.498 0.01250 *
+44.3 115 0.1580 0.3963 0.399 0.69007 72.7 205 Age Reference
+level: Older 4.0 75 70.5 275 Younger N/A N/A N/A
+N/A 42.3 130 −0.1642 0.4308 −0.381 0.70312 65.8 155 Speaker
+Random st. dev. 1.756 0.759

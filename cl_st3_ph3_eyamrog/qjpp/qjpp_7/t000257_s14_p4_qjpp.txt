@@ -1,0 +1,10 @@
+The level of individual distress symptoms, in the context of
+the COVID-19 pandemic, was determined by nine items from the
+Brief Symptom Inventory (BSI, Derogatis and Savitz, 2000 ) which
+concern anxiety and depression. This inventory was scored by a
+Likert scale ranging from 1 (not suffering at all) to
+5 (suffering very much). For example, “How much do you
+suffer from feelings of a sudden fear with no reason?”.
+Due to ethical considerations, we did not include the item
+concerning suicidal thoughts. Cronbach's alpha of this scale for the
+present study was high ( α = 0.86).

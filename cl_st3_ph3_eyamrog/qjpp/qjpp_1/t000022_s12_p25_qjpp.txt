@@ -1,0 +1,23 @@
+Data augmentation methods such as multiple systems estimation (MSE), also
+known as capture–recapture, can be used to assess and correct
+population undercounting, thereby improving representativeness and moving closer to equity
+(virtuosity). With origins in wildlife biology, MSE is applied in
+public health to estimate the size of “hidden” and hard-to-reach
+populations as well as to evaluate the completeness of surveillance
+systems and identify patterns of differential underreporting ( 48 ,
+144 ). MSE estimates the total size of a population
+on the basis of the degree of overlap between two
+or more incomplete lists (or samples) of that population (i.e.,
+how many unique individuals are observed on multiple lists). The
+greater the overlap is, the smaller the unobserved population (i.e.,
+the number of people not already observed on any of
+the lists) will be; conversely, the smaller the overlap is,
+the greater the unobserved population will be. Several assumptions are
+necessary for valid estimation, yet the so-called list independence assumption
+often receives the most attention in public health applications (
+68 ). This assumption states that the lists used for
+MSE must be statistically independent from one another; being on
+one list does not increase or decrease one's probability of
+being on another list. Various design and statistical approaches are
+available to satisfy or relax this assumption, most notably regression
+modeling to account for list dependency ( 144 ).

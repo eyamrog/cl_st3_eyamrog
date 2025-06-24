@@ -1,0 +1,27 @@
+We reveal that even evolutionarily stable TADs can be massively
+restructured to regulate transcription in specific cell types. However, unlike
+previous examples, we show this is unexpectedly driven independently of
+cohesin and CTCF by underlying chromatin activity ( Bonev et
+al., 2017 25. Bonev, B. ∙ Cohen, N.M. ∙ Szabo,
+Q. ... Multiscale 3D genome rewiring during mouse neural development
+Cell. 2017; 171 :557-572.e24 Full Text Full Text (PDF) Scopus
+(568) PubMed Google Scholar ; Isoda et al., 2017 61.
+Isoda, T. ∙ Moore, A.J. ∙ He, Z. ... Non-coding
+transcription instructs chromatin folding and compartmentalization to dictate enhancer-promoter communication
+and T cell fate Cell. 2017; 171 :103-119.e18 Full Text
+Full Text (PDF) Scopus (147) PubMed Google Scholar ). Specifically,
+the activity of the Zfp42 and Fat1 regions in ESCs
+drives the antagonistic tendency of active and inactive chromatin to
+spatially separate. As such, both genes become separated with independent
+enhancers in isolated domains. Intriguingly, other loci reportedly show similar
+activity-dependent isolation within larger existing TADs, including Dppa2/4 , that
+we find also emerged in a pre-existing domain in placental
+mammals ( Figures S6 G–S6I; Sima et al., 2019 129.
+Sima, J. ∙ Chakraborty, A. ∙ Dileep, V. ... Identifying
+cis elements for spatiotemporal control of mammalian DNA replication Cell.
+2019; 176 :816-830.e18 Full Text Full Text (PDF) Scopus (86)
+PubMed Google Scholar ). Thus, TADs are structured by compartmentalization
+as well as loop extrusion, and this can be altered
+for evolutionary adaptation. However, this further raises the exciting generalizable
+possibility that chromatin structure and underlying epigenetic state could both
+reciprocally drive and self-reinforce one another to control transcription.

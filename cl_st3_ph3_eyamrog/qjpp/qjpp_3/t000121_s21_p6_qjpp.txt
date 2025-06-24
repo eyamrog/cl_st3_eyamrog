@@ -1,0 +1,13 @@
+A total of 32,802 sub-volumes were used to reconstruct a
+C3-symmetric sub-tomogram-averaged structure of hVLP-Env with local resolution ranging between
+5.7–12 Å and a global resolution of 9.1 Å (
+Figures 1 C, 3 A, 3B, and S3 ; Table
+1 ). Classification of the sub-volumes did not yield any
+other distinct conformational class, indicating that the hVLP-Env were in
+a predominantly closed, pre-fusion state. The Env ectodomain connects to
+the membrane via a thin tripod stalk ( Figures 1
+C and 3 B). Though the TMD can be observed
+spanning the membrane layer in raw tomograms ( Figure 1
+A), no evidence of TMD is seen in the sub-tomogram-averaged
+structure ( Figure 3 B), similar to the Env structure
+from immature hVLPs.

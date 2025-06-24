@@ -1,0 +1,17 @@
+aIC Fezf2 neurons send dense projections to the NTS (
+Figures S1 A and S1B), consistent with previous observations that
+the IC sends long-range direct projections to the NTS (
+Jin et al., 2021 32. Jin, H. ∙ Fishman, Z.H.
+∙ Ye, M. ... Top-Down Control of Sweet and Bitter
+Taste in the Mammalian Brain Cell. 2021; 184 :257-271.e16 Full
+Text Full Text (PDF) Scopus (39) PubMed Google Scholar ;
+Shipley, 1982 66. Shipley, M.T. Insular cortex projection to the
+nucleus of the solitary tract and brainstem visceromotor regions in
+the mouse Brain Res. Bull. 1982; 8 :139-148 Crossref Scopus
+(159) PubMed Google Scholar ). Therefore, we tested if the
+functions of aIC Fezf2 neurons we observed are conveyed through
+aIC Fezf2 → NTS pathway. We first examined the composition
+of aIC projections to the NTS. More than 90% of
+NTS-projecting aIC neurons were Fezf2 -expressing ( Fezf2 + )
+( Figures 3 A–3D), demonstrating that aIC → NTS projections
+originate predominately from aIC Fezf2 neurons.

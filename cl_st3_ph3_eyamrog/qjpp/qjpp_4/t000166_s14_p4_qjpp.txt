@@ -1,0 +1,12 @@
+The grapho-motor test was performed on a tablet PC, carried
+out following an established procedure (Giammarco et al., 2016 )
+which involved a blank page with a square and a
+diamond represented in four gray segments shown on a tablet
+screen (Samsung Galaxy note, 10.1 in., 1280 × 800). The
+software was developed by the authors of the cited study
+(Giammarco et al., 2016 ) and got by them, who
+also positively tested the retest reliability with Primary school children.
+The size of the square and diamond were large enough
+to cover the entire screen of the tablet (see the
+original article for a deeper description and images). Children were
+supposed to redraw the shapes with a digital pen.

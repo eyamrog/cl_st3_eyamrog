@@ -1,0 +1,3 @@
+where η h / η d denotes the country-specific probability
+of hospitalization/death and l h / l d gives the
+time lag to hospitalization/death, respectively.

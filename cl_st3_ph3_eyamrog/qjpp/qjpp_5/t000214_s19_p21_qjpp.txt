@@ -1,0 +1,5 @@
+Overall, we observed 16 matches for 5D3A. 16 or more
+matches were observed 42/1000 times with simulated line ages when
+using a 7-day matching window ( p = 0.042; Fig.
+4 ), or 117/1000 times using a 9-day matching window
+( p = 0.117; SOM Fig. S1 ).

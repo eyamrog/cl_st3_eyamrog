@@ -1,0 +1,17 @@
+Methods: In this modelling study, we compared the effects in
+New Zealand of a 20% fruit and vegetable subsidy, of
+saturated fat, sugar and salt taxes (each set at a
+level that increased the total food price by the same
+magnitude of decrease from the fruit and vegetable subsidy), and
+of an 8% so-called junk food tax (on non-essential, energy-dense
+food). We modelled the effect of price changes on food
+purchases, the consequent changes in fruit and vegetable and sugar-sweetened
+beverage purchasing, nutrient risk factors, and body-mass index, and how
+these changes affect health status and health expenditure. The pre-intervention
+intake for 340 food groups was taken from the New
+Zealand National Nutrition Survey and the post-intervention intake was estimated
+using price and expenditure elasticities. The resultant changes in dietary
+risk factors were then propagated through a proportional multistate lifetable
+(with 17 diet-related diseases) to estimate the changes in health-adjusted
+life years (HALYs) and health system expenditure over the 2011
+New Zealand population's remaining lifespan.

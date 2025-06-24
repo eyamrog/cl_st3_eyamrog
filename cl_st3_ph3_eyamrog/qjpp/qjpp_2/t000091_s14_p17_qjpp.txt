@@ -1,0 +1,4 @@
+RNA-sequencing data of FLAG-ZBP1 immunoprecipitates in Figure 2 were deposited
+in BioProject: PRJNA603378. All data produced by this study are
+included in the manuscript or available from the corresponding author
+on request.

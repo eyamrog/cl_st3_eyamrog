@@ -1,0 +1,26 @@
+Over time, consideration of factors at multiple levels of organization
+has become the norm rather than the exception in population
+health research, stimulated by the focus on this approach in
+social epidemiology. The use of multilevel approaches has expanded to
+encompass a broad range of questions, including the health impacts
+of gender equality ( 96 ) and residential segregation (e.g.,
+65 ), among others. But social epidemiologists have also recognized
+the need not only to include factors at multiple levels
+of organization but also to capture the dynamics of the
+systems that underlie the social patterning of health. Social epidemiology
+has been at the forefront of efforts to bring systems
+thinking and the tools of complex systems approaches to population
+health ( 30 , 43 , 47 ). The systems
+approach is quite different from traditional approaches to causal inference
+in that it explicitly accounts for feedbacks, dependencies generated via
+social networks or other processes, nonlinearities, and conditional effects. Systems
+approaches include a large set of approaches and tools ranging
+from qualitative and participatory methods to social network analyses to
+sophisticated mathematical modeling using agent-based models or systems dynamics models
+(e.g., 5 , 19 , 72 ). A number of
+applications of systems approaches to social epidemiology questions have emerged
+(e.g., 6 , 21 , 38 , 43 , 131
+), illustrating the potential but also the challenges involved (
+19 ). Multilevel and systems thinking are two important ways
+in which social epidemiology has broadened conceptualization as well as
+empirical analyses in population health more generally.

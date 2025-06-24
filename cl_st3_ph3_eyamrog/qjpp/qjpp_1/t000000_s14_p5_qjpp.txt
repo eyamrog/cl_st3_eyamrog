@@ -1,0 +1,13 @@
+The core infection parameters used were assumed to be the
+same across all countries. These include age-dependent variables for transmission,
+β ; the probability of exhibiting symptoms, d ; the
+progression rate between exposure and infection, α ; the recovery
+rate, γ ; and the reduction in asymptomatic transmission, τ
+. Estimates for these values were fitted from early age-stratified
+United Kingdom case data to match growth rate, reproductive number
+and age profiles of infection between the start of the
+pandemic and the emergence of the Alpha variant in early
+2021. Country models vary in demographics, informed by WHO estimates
+and mixing patterns, based on contact matrices, M , described
+by Prem et al. , vaccination levels, mitigating control factors,
+ϕ , as well as disease outcomes.

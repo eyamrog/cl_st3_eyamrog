@@ -1,0 +1,26 @@
+Technically, the machine learning community approaches equity through the concept
+of fairness. There have recently been substantial efforts to formalize
+this concept in machine learning algorithms. Three formal definitions have
+gained recognition: ( a ) anticlassification, ( b ) classification
+parity, and ( c ) calibration ( 23 ). In
+the anticlassification approach, protected attributes like race, gender, or age,
+and their proxies, are not explicitly included in analyses. The
+idea is that these protected attributes should not be considered
+in the final model, which by definition would make predictions
+unequally across all protected groups. Therefore, by excluding them, the
+model is forced to predict the expected value of the
+outcome by using variables that are not considered to lead
+to unfair models. Here, no guarantees about the accuracy of
+the model for different groups are made. With classification parity,
+common definitions of model accuracy or performance (e.g., false-negative rate)
+are forced to be equal across different groups defined by
+the protected variables. As such, if the model is used
+to redistribute limited resources (i.e., access to health care), then
+protected groups are equally considered. Although classification parity guarantees that
+the model performs the same for all groups, it usually
+comes at the expense of a minimum common denominator, such
+that at least one group performs worse than it otherwise
+would. Calibration requires that, conditional on the risk estimate provided
+by the model, outcomes be independent of the protected attributes.
+Although this last definition is always desirable, in practice it
+falls short of protecting all groups.

@@ -1,0 +1,19 @@
+To develop a faithful model of ALS-FUS to explore disease
+mechanisms, identify therapeutic targets and test therapeutic candidates, we generated
+a series of FUS knock-in mouse lines in which ALS-causing
+mutations were targeted directly to the endogenous mouse Fus locus.
+We provide genetic evidence that, despite a partial loss of
+function associated with the equivalents of the human FUS mutation
+(mFus ) and a truncation mutation (G466VfsX14 or Δ14) associated
+with rapidly progressive, juvenile-onset ALS , expression of these mutant
+forms of FUS in vivo at physiological levels leads to
+progressive, age-dependent MN degeneration that is dose dependent and selective
+for MN subpopulations known to be preferentially vulnerable in patients
+with ALS and related mouse models of familial ALS. Using
+a conditional allele of Δ14, we show that FUS-dependent MN
+degeneration is a cell-autonomous process, driving secondary inflammatory changes that
+do not depend on mutant FUS expression in the reactive
+cells but might contribute to neurodegeneration. In these knock-in mouse
+models of ALS-FUS, toxicity correlates with the degree of insolubility
+of FUS and other RBPs, which is associated with functional
+deficiency of these related, phase-separating proteins.

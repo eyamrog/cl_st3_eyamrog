@@ -1,0 +1,23 @@
+The first models were run without covariates. We then further
+investigated the source of variation in TEE, BEE, and AEE
+by rerunning the models and extracting sex-specific means and variances
+after including three different sets of morphometric covariates. The first
+set of covariates (‘set 1’) included height and fat-free mass
+as morphometric covariates, whereas the second set of covariates (‘set
+2’) also included fat mass and age; the number of
+covariates present did not affect sample size. When included as
+covariates, the three morphometric variables and age were centered so
+that model estimates were estimated at the center of the
+distribution of the covariates ( Schielzeth, 2010 ). To make
+sure that the sex differences in variance were not due
+to confounding nonlinear age and body composition effects, for example,
+energy expenditure decreasing with age but only beyond 60 years
+( Pontzer et al., 2021 ), the third set of
+covariates (‘set 3’) included quadratic effects for age, fat mass,
+and fat-free mass. We also included sex as an interaction
+term with the linear and quadratic terms for age, fat
+mass, and fat-free mass. Given that the effect of body
+composition on TEE, BEE, and AEE might be nonlinear with
+respect to age, we also included interactions between the two
+body composition variables (fat mass and fat-free mass) and the
+linear and quadratic terms for age.

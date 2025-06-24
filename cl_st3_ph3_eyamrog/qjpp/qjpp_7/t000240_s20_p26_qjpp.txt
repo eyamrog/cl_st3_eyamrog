@@ -1,0 +1,15 @@
+where Y i is the dependent variable capturing the adoption
+of preventive practices, that is, the number of times respondents
+washed their hands per day and the total number of
+preventive mechanisms adopted (estimated separately); Z i is a vector
+of demographic and socioeconomic characteristics of respondents; K i is
+the knowledge score of respondents; A i is the attitude
+score of respondents; R i is the risk/impact perception score
+of respondents; and ε ε i is the error term.
+An over-dispersion test was conducted to assess the suitability of
+the Poisson model. The results indicated that over-dispersion was dictated
+for both the number of times respondents washed their hands
+per day and the total number of preventive practices (see
+Table A3 of the appendix ). Therefore, a negative binomial
+regression was used. Incidence rate ratio results are given in
+Table 7 .

@@ -1,0 +1,19 @@
+Table 4 displays the model results for the different independent
+paths. Having a disability was directly and significantly predictive of
+depression ( b path) and low self-esteem ( c path).
+But for the “ a path” measuring the effect of
+disability on stigma, “ d path” and “ e path”,
+the effect of stigma on respectively depression and self-esteem show
+that the effect was partially indirect through the mediation of
+discrimination caused by stigma and measured by unfair treatment. Table
+4 . Structural equation model “a path” from disabled vs.
+non-disabled samples to stigma, “b path” from disability to depression,
+“c path” from disability to self-esteem, “d” path from stigma
+to depression, and “e path” from stigma to self-esteem and
+“f path” from depression to self-esteem. Empty Cell a Path
+b Path c Path d path e path f path
+Estimate 3.864*** 2.143 ** −1.618 *** 0.268 *** −0.09** −6.884***
+Standardized Estimate 0.958 0.554 0.446 0.031 0.025 1.094 Note: Regression
+results are adjusted for age, gender, marital status, level of
+education, employment status and welfare index. *p < 0.05, **p
+< 0.01, ***p < 0.001.

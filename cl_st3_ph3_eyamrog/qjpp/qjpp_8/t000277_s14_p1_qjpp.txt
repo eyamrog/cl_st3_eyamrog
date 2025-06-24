@@ -1,0 +1,12 @@
+To investigate the use of combined pronouns and their potential
+relationship to non-sexist language reforms, this paper draws on tools
+from corpus linguistics. Corpus linguists have a range of tools
+at their disposal, such as frequency counts, keyword lists, and
+tools which calculate collocation (how likely words are to occur
+in close proximity to one another). In the present case,
+the analysis draws on two particular tools: corpus queries are
+used to extract all tokens of combined pronouns from the
+corpora under analysis, and concordance lines—where the results of a
+query are presented within their immediate co-text—are used to facilitate
+antecedent resolution. That is, the concordance lines were manually analyzed
+to determine the antecedents of the combined pronouns.

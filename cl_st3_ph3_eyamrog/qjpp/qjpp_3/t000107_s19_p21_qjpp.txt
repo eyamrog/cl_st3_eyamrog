@@ -1,0 +1,26 @@
+We next evaluated the impact of loss of Fli1 during
+acutely resolving infections. During influenza-PR8 GP33 infection, mice receiving sgFli1
++ C9P14 cells lost less weight than control non-transferred mice
+or mice receiving sgCtrl + C9P14 cells ( Figure 6
+C). Decreased weight loss was associated with better control of
+viral replication in the lungs of mice receiving sgFli1 +
+C9P14 cells ( Figure 6 D). In this setting, there
+was variation in the magnitude of the sgFli1 + C9P14
+expansion in the lungs following PR8 GP33 infection ( Figures
+S6 B–S6D). This heterogeneity in the T cell responses was
+associated with differences in viral control, with some mice nearly
+eliminating viral RNA by this time point ( Figure 6
+D) and recovering from weight loss. Indeed, the overall magnitude
+of the C9P14 response was lower in mice that had
+recovered, consistent with prolonged viral replication and higher antigen load
+driving increased T cell expansion in mice that had not
+yet controlled the infection ( Figures S6 B and S6C).
+Notably, 6 out of 12 of the mice receiving sgFli1
++ C9P14 cells had controlled disease by this time point,
+compared to only 1 out of 11 mice receiving sgCtrl
++ C9P14 ( Figures 6 D and S6 C). In
+the group of mice still harboring viral RNA in the
+lungs, sgFli1 + C9P14 cells had expanded to substantially higher
+numbers than sgCtrl + C9P14 cells ( Figure S6 C).
+A similar difference in T EFF cell expansion was also
+observed in the spleen ( Figure S6 D).

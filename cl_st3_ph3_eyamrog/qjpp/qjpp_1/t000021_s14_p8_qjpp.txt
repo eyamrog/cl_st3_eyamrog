@@ -1,0 +1,6 @@
+For downstream analysis of temporal variation in expression, the dataset
+was separated by participant and cell type: CD4 T cells,
+NK cells, CTLs, proliferating T cells, B cells, plasmablasts, mDCs
+and monocytes. The expression matrix and associated metadata can be
+accessed online through the Single Cell Portal hosted by Broad
+Institute of MIT and Harvard (see Data Availability; https://singlecell.broadinstitute.org/single_cell/study/SCP256 ).

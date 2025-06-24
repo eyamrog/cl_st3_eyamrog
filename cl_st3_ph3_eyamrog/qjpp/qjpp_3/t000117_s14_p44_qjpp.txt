@@ -1,0 +1,12 @@
+To identify pairs of laser-off and laser-on go trials with
+comparable lick rates, we first calculated the average lick rate
+from CS onset to US onset for each trial. We
+then searched all the laser-off trials for trials having the
+lick rates within 10% ± the rate of a laser-on
+trial. Of these, we then selected the laser-off trial that
+had a lick rate nearest to that of the laser-on
+trial. We compared the DA2m signals in such “matched” laser-off
+and laser-on trials. We used a lower power of laser
+for the stimulation to minimize the effect on licking, and
+thus increase the number of laser-on trials with lick rates
+comparable to those in laser-off trials.

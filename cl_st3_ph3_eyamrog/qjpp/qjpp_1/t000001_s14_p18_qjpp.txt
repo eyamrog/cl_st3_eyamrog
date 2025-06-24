@@ -1,0 +1,7 @@
+The study was a secondary analysis of existing data involving
+systematic reviews and meta-analyses. No statistical method was used to
+predetermine sample size. Because the study did not involve primary
+data collection, randomization, blinding and data exclusions are not relevant,
+and because such no data were excluded and we performed
+no randomization or blinding. We have made our data and
+code available, to foster reproducibility.

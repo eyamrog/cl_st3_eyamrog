@@ -1,0 +1,7 @@
+The studies that we classified as having weak study designs
+with a high risk of bias were mostly cross-sectional regression
+analyses that identified associations, not causal connections. Consequently, the studies
+exhibited clear reverse causality in many cases, whereby those receiving
+services had worse outcomes. Some of the studies included regression
+controls to minimize this risk, but the potential for some
+unmeasured confounding remains.

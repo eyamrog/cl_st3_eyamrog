@@ -1,0 +1,8 @@
+To compare algorithms’ performances with those of general pathologists, we
+obtained reviews from two panels of pathologists on subsets of
+the internal and US external validation sets. For the Dutch
+part of the internal validation set, 13 pathologists from 8
+countries (7 from Europe and 6 outside of Europe) reviewed
+70 cases. For the US external validation set, 20 US
+board-certified pathologists reviewed 237 cases. For details on the pathologist
+review protocol, see Supplementary Methods 3 .

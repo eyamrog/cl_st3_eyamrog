@@ -1,0 +1,4 @@
+Following the standard method for count data, the Poisson model
+was applied to estimate correlations of adoption of preventive practices
+to knowledge, attitude, and risk/impact perception. The following equation was
+estimated:

@@ -1,0 +1,14 @@
+Despite having matched persons with and without disabilities in the
+field, we observed substantial differences in the underlying characteristics of
+the two groups of persons with disabilities and controls as
+well as between groups expressing high and low stigma. To
+further ensure that comparisons were made on similar individuals, we
+used propensity score matching (PSM) to evenly balance the distributions
+of observable confounding factors across the groups of individuals with
+and without disabilities for the associations between disability and stigma,
+depression and self-esteem as well as between stigma and depression
+and stigma and self-esteem ( Austin 2011 ; Rosenbaum and
+Rubin 1983 ). The method does not impose a specific
+functional form assumption on how disability results in stigma nor
+does it need any specific identification on the model errors
+( Blundell and Costa Dias 2002 ).

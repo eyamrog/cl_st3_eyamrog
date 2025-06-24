@@ -1,0 +1,9 @@
+To assess how reward size affects behavioral and neural activity,
+we performed the imaging experiment on thirsty mice performing the
+task in two blocks of trials in each session. In
+one block, a big reward (12 μl of sucrose solution)
+was delivered in each hit trial; in the other block,
+a small reward (3 μl of sucrose solution) was delivered
+in each hit trial. The same CS was used in
+both blocks. The sequence of the blocks was counterbalanced in
+different sessions.

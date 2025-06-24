@@ -1,0 +1,13 @@
+The ESRC ReShare archive ( https://reshare.ukdataservice.ac.uk/ ) features three levels
+in which data collections can be deposited: open access (anyone
+can download), ‘safeguarded’ (data users must be registered) and ‘controlled’
+(unavailable, though potential users can contact the data controller). Searching
+in the ESRC ReShare archive indicates that of the 7000+
+data collections, just 31 are tagged as a corpus (search
+conducted in April 2021). Of these, 12 are open access
+(including BAWE), 15 are ‘safeguarded’, of which just two require
+permission from the data controller (one of these is WiSP).
+A further three are not available ‘due to legal, ethical
+or commercial contracts’ with only metadata and documentation such as
+interview protocols and descriptions of the method deposited in the
+archive (allowed by funders under particular circumstances).

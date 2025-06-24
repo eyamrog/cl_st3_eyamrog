@@ -1,0 +1,13 @@
+In addition to accounting for a priori covariates, we ran
+a separate Cox model accounting for wear time, which was
+considered to be a time-varying covariate. Specifically, wear time was
+defined as the number of hours in a day that
+contained non-zero step counts. We also performed trajectory analyses by
+examining the average daily step counts over 0–3 months, 3–6
+months, 6–12 months and 12–24 months for the participants who
+developed versus those who did not develop the conditions, which
+were examined in the Cox models. We then accounted for
+baseline daily steps averaged over the first 3 and 6
+months, in separate Cox models in addition to a priori
+covariates, in an attempt to mitigate the potential for reverse
+causation.

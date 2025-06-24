@@ -1,0 +1,14 @@
+The SWIDM is a network formation and disease spread model
+for a closed population of autonomous agents (nodes) that can
+create infection-relevant relationships (edges). Networking decisions are based on the
+trade-off between the social benefits (e.g., sense of belonging, affection),
+costs (e.g., time, effort, money), and (potential) harm of infections
+(e.g., symptoms, absence from work, hospitalization) that a tie has
+for an agent. Agents seek to myopically maximize personal utility
+by (i) forming ties to other agents (requires the consent
+of the opposite agent), (ii) maintaining existing ties to other
+agents, and (iii) dissolving ties to other agents (unilateral decision).
+Decisions on these actions are based on an agent's position
+in the network, individual risk perception related to the disease,
+and the distribution of disease states among agents in the
+network (see section Utility).

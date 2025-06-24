@@ -1,0 +1,8 @@
+After verification, we ran all algorithms on the external validation
+sets. For the US external validation set, we used the
+Google Cloud platform. For the EU external validation set, we
+used the Puhti cluster. This process was done independently of
+the teams and no prior information about the external datasets
+was supplied to the teams. The ISUP GG predictions of
+the algorithms on the cases were saved and used as
+input for the analysis.

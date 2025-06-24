@@ -1,0 +1,15 @@
+This paper is rather limited in the scope of analysis
+because it reviewed only a total of sixty-three learner corpus-related
+articles published in two journals. As mentioned earlier, there are
+839 English learner corpus-related articles retrieved by the Google Scholar
+search. So the articles in this study might not represent
+the whole picture of English learner corpus research in Korea.
+Despite this limitation, the results of the analysis and classification
+of the articles by topics do not differ substantially from
+global research trends. Interestingly, studies of topics or areas that
+have been undertaken with learner corpora in Korea are highly
+skewed toward grammar and lexis, following the international trend. It
+is encouraging, however, to see that the range of research
+areas in Korea has been broadening to encompass various other
+areas of language use as well as new computational analyses
+of learner data.

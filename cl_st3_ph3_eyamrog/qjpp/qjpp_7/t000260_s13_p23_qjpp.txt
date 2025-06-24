@@ -1,0 +1,16 @@
+and (6) δ = δ 0 + b 1 c
+1 + b 2 c 2 − b 3 c
+3 , where a 1 , a 2 , a
+3 , b 1 , b 2 , b 3
+> 0 capture the relative importance of SD1, SD2 and
+SD3 on β and δ respectively; and could be empirically
+estimated for different countries using different indicators (e.g.labour force engaged
+in informal work fir SD1, proportion of the population living
+in slums or informal dwellings and/or average housing density for
+SD2 and ICU beds per capita for SD3) The parameters
+β 0 and δ 0 capture the rest of the
+factors which influence the two rates and are not (directly)
+influenced by SDs. While for δ 0 it is natural
+to assume that it depends mainly on the epidemiological characteristics
+of the disease, β 0 also depends on the NPIs
+in place.

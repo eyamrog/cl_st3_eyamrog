@@ -1,0 +1,10 @@
+The modelling was done in Microsoft Excel. We used Monte
+Carlo simulation to estimate uncertainty in the HALY outputs, by
+drawing randomly from probability distributions about all input parameters. A
+more complete list of input parameters is given in the
+appendix (pp 7–8) and elsewhere, including probability distributions for own-price
+and cross-price elasticities in the 23 by 23 food matrix.
+2000 iterations were used, because this leads to reasonable stability
+in means, medians and the 2·5th and 97·5th percentile over
+repeated reruns of 2000 simulations. HALYs and costs are presented
+both undiscounted and, as recommended, discounted at 3%.

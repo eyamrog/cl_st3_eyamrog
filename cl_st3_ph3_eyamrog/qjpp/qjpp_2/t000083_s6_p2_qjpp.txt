@@ -1,0 +1,10 @@
+Previous studies have shown correlations between serum binding antibody and
+neutralizing antibody levels with protection from Covid-19 after both mRNA
+and adenovirus-vectored vaccination. However, these correlates of protection were calculated
+on the basis of data collected before the widespread circulation
+of the delta and omicron variants, although a recent analysis
+showed that neutralizing antibody levels also correlated with protection from
+variants of concern, including delta, before the outbreak of the
+omicron variant. A substantial increase in neutralizing antibody titers was
+observed in all trial participants after booster vaccination regardless of
+the booster and primary vaccines that were used.

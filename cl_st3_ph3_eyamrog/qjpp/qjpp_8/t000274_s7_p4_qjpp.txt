@@ -1,0 +1,7 @@
+Research questions addressed in this paper are: 1) What are
+the challenges in data preparation for archiving hard-to-access, sensitive textual
+data, particularly around anonymisation coding? 2) Given the adopted solution
+of creating a separate corpus for archiving, how do the
+differences between the two versions of the WiSP corpus affect
+findings? 3) To what extent do the issues raised and
+solutions found problematise conventionally-accepted principles in corpus building?

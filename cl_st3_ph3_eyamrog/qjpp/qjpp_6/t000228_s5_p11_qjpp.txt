@@ -1,0 +1,21 @@
+The reconstructed plant assemblages differed significantly among AHs, as supported
+by NMDS and perMANOVA ( Fig. 3 ). The stratification
+in assemblages was stronger in the sedaDNA compared to the
+pollen, showing that the plant assemblages reconstructed using sedaDNA are
+more specific to the AHs than those identified using pollen.
+This may reflect an artifact of the nature of the
+sedaDNA data, with MOTUs providing a higher resolution than pollen
+types. Alternatively, this may indicate that the sedaDNA more closely
+reflects the delineation into archaeological horizons of human occupation alternating
+with sterile layers, where the presence of more or different
+plants resulted from increased human activity. The patterns in the
+reduced sedaDNA data set (species and genera only) support an
+association with human occupation in terms of diversity ( Fig.
+2 A). The abundance and composition of the sedaDNA record
+match inferences from previous finds at Aghitu-3, with lithic densities
+indicating low settlement intensity in AH VII and VI, no
+significant occupation in AH V and IV, followed by high
+lithic density in AH III. This trend is mirrored by
+similar patterns in the presence of combustion features and evidence
+of animal exploitation ( Kandel et al., 2017 ; Bertacchi
+et al., 2021 ).

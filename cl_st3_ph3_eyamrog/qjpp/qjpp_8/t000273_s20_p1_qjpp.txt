@@ -1,0 +1,16 @@
+The first part of our analysis compares the quantitative scores
+provided by patients who have received treatment for cancer for
+differing lengths of time. The proportions of patients giving each
+score, between 0 and 10, is shown in Table 2
+. We should note that these scores do not provide
+a comprehensive picture of all feedback provided during the period
+under study, but specifically those scores given by patients who
+also provided free-text comments in addition to their quantitative ratings.
+Table 2. . Proportions of satisfaction ratings (0-10) given by
+patients according to duration of treatment (expressed as percentages). Rating
+Duration of treatment Under 1 year 1-5 years Over 5
+years 0 0.14% 0.12% 0.08% 1 0.23% 0.18% 0.17% 2
+0.26% 0.24% 0.23% 3 0.45% 0.47% 0.47% 4 0.70% 0.64%
+0.70% 5 1.80% 1.89% 1.99% 6 2.27% 2.65% 2.63% 7
+6.45% 7.53% 7.37% 8 18.56% 20.59% 20.86% 9 29.42% 29.76%
+29.80% 10 39.71% 35.92% 35.70%

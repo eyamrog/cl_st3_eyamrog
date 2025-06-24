@@ -1,0 +1,4 @@
+This paper follows the steps of Kurbucz (2020a) and Kurbucz
+et al. (2021) in creating a linked database of a
+country’s COVID-19 reports and five standardized composite variables that compress
+the information content of 162 selected socioeconomic indicators. 2

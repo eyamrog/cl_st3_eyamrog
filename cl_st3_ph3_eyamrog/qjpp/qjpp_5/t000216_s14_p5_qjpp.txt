@@ -1,0 +1,26 @@
+All analyses were carried out in R v. 3.5.2–3.6.3 (
+R Core Team, 2020 ) using the geomorph ( Collyer
+and Adams, 2018 , 2020 ; Adams et al., 2020
+) and Morpho ( Schlager, 2017 ) packages and base
+R functions ( SOM ). To register the shape data,
+we used the procSym function in Morpho ( Schlager, 2017
+) to perform a generalized Procrustes superimposition of the landmarks,
+to slide the semilandmarks along their curves using a criterion
+of minimizing bending energy, and to project the superimposed configurations
+into a tangent space. We performed principal component analysis (PCA)
+in geomorph (using the plotTangentSpace function) to summarize the high-dimensional
+data into axes of greatest explanatory power and to visualize
+variation within and between groups of interest on these axes.
+We then used geomorph's procD.lm function to perform Procrustes analysis
+of variance (ANOVA) to test for relationships between predictor and
+response variables of interest and to compare model fits. To
+test for the presence of different patterns of sexual dimorphism
+in different admixture groups, we compared the fit of additive
+(shape ∼ admixture + sex) and interactive (shape ∼ admixture
+∗ sex) models of shape, sex, and admixture. We also
+included a three-knot B spline model of admixture and sex-adjusted
+shape in the comparison to investigate whether departures from a
+linear relationship between sex and ancestry could result from genetic
+factors such as dominance or epistasis. The B-spline model allows
+for the relationship between the response and predictor variables to
+be described by a smooth curve.

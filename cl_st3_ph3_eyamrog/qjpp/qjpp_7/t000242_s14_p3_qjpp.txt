@@ -1,0 +1,16 @@
+We tested the hypotheses through structural equation modeling (SEM). Factors
+were first extracted from Variables 2 to 8 as shown
+in Table 2 through exploratory factor analysis (EFA). The number
+of factors was determined based on eigenvalues of 1.0 and
+above. The factor rotation was ProMax rotation. Next, a confirmatory
+factor analysis (CFA) was applied based on the factors extracted.
+The following fit indices were used: comparative fit index (CFI),
+goodness of fit index (GFI), root mean square error of
+approximation (RMSEA), and standardized root mean square residual (SRMR). Generally,
+CFI and GFI are .90 or higher, and RMSEA and
+SRMR are .05 or lower. Based on the established factor
+structure, SEM was conducted using the hypothetical model presented in
+Figure 2 . In H3-1 and H3-2, multiple-sample SEM was
+performed using the large enterprises dummy of Variable 9 shown
+in Table 2 . The analysis was conducted using statistical
+analytical software R.

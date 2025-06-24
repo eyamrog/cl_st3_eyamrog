@@ -1,0 +1,12 @@
+As public health surveillance continues to rely on these methods,
+we need to consider and openly discuss the lack of
+informed consent and whether there is sufficient justification to warrant
+digital surveillance without it. Whether the lack of informed consent
+for digital surveillance is justified depends on the specific scenario
+and the corresponding risk to public health. With GDPR giving
+users more control over their data, informed consent could be
+obtained by directly requesting individuals to share their social media
+data with public health authorities ( 84 ). This approach
+has the additional benefit of avoiding the issue of social
+media companies retracting access to data. However, this approach has
+its own ethical concerns ( 40 ) .

@@ -1,0 +1,15 @@
+Although our dataset is a rich resource on SAE, we
+acknowledge that this may not fully capture the range of
+interspeaker variation, given that it includes only a subset of
+the population at the time it was collected. DASS speakers
+include several generations (born between 1886 and 1956) and a
+variety of different social dimensions (see section 3.1 ), providing
+a snapshot of the diversity present in SAE. While we
+stress the importance of vowel dynamics, we acknowledge that we
+work under the assumption that vowel-inherent spectral change is perceptually
+relevant and sociolinguistically meaningful. Some work has been done to
+support this assumption in the Southern US (e.g., Fridland &
+Kendall 2012 ; Farrington, Kendall & Fridland 2018 ; Gunter,
+Vaughn & Kendall 2020 ; Jacewicz & Fox 2020 ),
+though we leave such perceptual work on DASS for the
+future.

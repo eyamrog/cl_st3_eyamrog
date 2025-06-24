@@ -1,0 +1,5 @@
+For each combination, we collected the posterior probabilities per 1
+Mb run based on the gray short-tailed opossum's coordinates. To
+obtain ILS results in the orthologous coding regions, we extracted
+the posterior probabilities in the coding regions based on the
+coordinates of gray short-tailed opossum.

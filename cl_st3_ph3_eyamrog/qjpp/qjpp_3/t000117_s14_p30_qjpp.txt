@@ -1,0 +1,11 @@
+GCaMP6 fluorescence signals were captured with a monochrome CCD camera
+(pco.pixelfly, digital 14 bit CCD camera, image sensor ICX285AL) mounted
+onto the Olympus BX51. A custom Imaging Acquisition software written
+in LabVIEW (National Instruments) was used to interface the camera
+with a dedicated desktop computer and record the GCaMP6 signals
+at a frame rate of 10 frames/s. To synchronize imaging
+with behavioral events, Imaging Acquisition was triggered with a TTL
+(transistor-transistor logic) signal from the Bpod State Machine (Sanworks) used
+for behavioral control. During imaging, the timestamps of different events,
+including the trigger signals sent to Imaging Acquisition, CS onset,
+US onset and licking events, were all recorded with Bpod.

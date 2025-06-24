@@ -1,0 +1,12 @@
+How total deaths averted by different vaccination strategies translates into
+YLLs averted largely depends on the age distribution of these
+deaths and the expected years of remaining life expectancy at
+these ages. Table 2 presents this data for people aged
+40, 60, and 80 for the four case study countries.
+A number of additional factors must also be considered, including
+the reproduction rate 4 , the speed of vaccination roll-out
+and the effect of vaccination coverage on case fatality at
+different ages. The only published study that attempts this analysis
+finds that vaccinating the oldest old against COVID-19 in the
+USA maximizes both overall deaths prevented and YLLs prevented (Goldstein
+et al., 2021 ).

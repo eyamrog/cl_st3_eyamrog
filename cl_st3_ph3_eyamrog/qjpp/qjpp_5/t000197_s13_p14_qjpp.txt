@@ -1,0 +1,25 @@
+Signs can be described using Peirce's phenomenology: Qualisigns are the
+physical characteristics of signs, such as color, hardness, etc. Qualisigns
+are firsts in that they are pure potentiality until they
+exist in actual individual manifestations of signs, what Peirce called
+sinsigns or tokens (seconds). Finally, legisigns, also called types, are
+not individual signs but general categories (thirds) (see Peirce 1998
+, p. 291). Let us look at an example of
+these kinds of signs: The colors red, white, and blue
+are qualisigns. Though we can imagine them, they do not
+physically exist on their own and are therefore firsts. They
+can be combined together (with other qualisigns) to form the
+American flag that graces the White House. This flag is
+a sinsign—a particular instantiation of these qualisigns and therefore a
+second. But this specific flag is also a token or
+“replica” of a legisign 7 —the American flag in general
+as a conventional sign (a third). Each individual token is
+a replica of the type by virtue of shared qualia,
+in this case red, white, and blue. A linguistic example
+would include the phonological properties of the phonemes [n] and
+[o] (qualisigns), which were instantiated when I corrected my toddler
+this morning, “no!” (a sinsign), and which was in turn
+a replica of a legisign—the conventional word no . Thus,
+these three kinds of signs form a hierarchy: Legisigns are
+made up of sinsign replicas, which are made up of
+qualisigns (see Peirce 1998 , p. 291).

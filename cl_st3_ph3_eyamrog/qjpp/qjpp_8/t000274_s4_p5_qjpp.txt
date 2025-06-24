@@ -1,0 +1,12 @@
+Based on analysis of three worked examples, it is clear
+that while the two corpora largely comprise the same texts,
+the additional texts in Corpus 1 give extra perspectives. The
+examples presented in Section 4 illustrate that useful analyses can
+still be conducted on both Corpus 1 and Corpus 2
+datasets, with real-world implications for the understanding of social worker
+writing. Corpus 1 extends what it is possible to reveal
+about social work writing as it contains more texts of
+‘extreme’ sensitivity. In addition, Corpus 1 texts contain more metadata
+on social work writers and the texts produced, meaning that
+it is possible to combine corpus analysis with examination of
+other WiSP datasets on the same case.

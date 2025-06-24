@@ -1,0 +1,8 @@
+Because the estimates for both incident symptomatic Covid-19 after an
+exposure and loss to follow-up were relatively unknown in early
+March 2020, the protocol prespecified a sample-size reestimation at the
+second interim analysis. This reestimation, which used the incidence of
+new infections in the placebo group and the observed percentage
+of participants lost to follow-up, was aimed at maintaining the
+ability to detect an effect size of a 50% relative
+reduction in new symptomatic infections.

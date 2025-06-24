@@ -1,0 +1,10 @@
+To explore the association between serious mental illnesses and substance
+use disorders, we computed odds ratios (ORs) and their 95%
+CIs from the number of individuals in prison with comorbid
+and single disorders. ORs higher than 1 indicate that dual
+disorders are more likely to occur than single disorders. Random-effects
+models were fitted with the restricted maximum likelihood variance estimator
+and Knapp–Hartung corrections. To avoid computational errors when one or
+more cells in the 2 × 2 tables included the
+value of 0, we applied continuity correction of 0·5 in
+studies with cell frequencies of 0.

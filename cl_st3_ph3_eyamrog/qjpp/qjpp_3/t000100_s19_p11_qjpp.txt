@@ -1,0 +1,20 @@
+Next, to characterize upstream regulators that may induce the differentiation
+and maintenance of the cytotoxic T FH cells, we performed
+Ingenuity Pathway analysis (IPA) of the transcripts increased in SARS-CoV-2-reactive
+T FH cells in cluster 5 (cytotoxic) when compared to
+those in cluster 0 ( Tables S3 D and S3E).
+Surprisingly, we found that type 1 and 2 IFNs emerged
+as the top upstream activators of genes enriched in the
+cytotoxic T FH cluster ( Figure S3 J and Tables
+S3 D and S3E). GSEA confirmed that IFN response signatures
+were also significantly enriched in the cytotoxic T FH cluster
+(cluster 5) ( Figure S3 K). Single-cell trajectory analysis showed
+that a large fraction of cytotoxic T FH cells (cluster
+5) followed a separate trajectory from cluster 0 cells (
+Figure 3 H), and cells in this track were enriched
+for the IFN response signature. In addition, we found that
+transcripts encoding perforin ( PRF1 ) and the transcription factor
+ZBED2 were also enriched in the cytotoxic T FH cell
+trajectory, which suggested the hypothesis that ZBED2 may contribute to
+the differentiation or function of cytotoxic T FH cells, although
+further studies will be needed to verify this.

@@ -1,0 +1,10 @@
+Of methodological note, need +TO and need +ING were less
+sensitive than need +ED to tagging errors resulting from spelling.
+In (19) and (20), the tagger correctly interpreted novel spellings
+of educated and re-negotiating . As such, the tagger seemed
+to be likely to miss occurrences of need +ED where
+it would identify need +TO and need +ING. Researchers of
+low-frequency features should interrogate their datasets for similar imbalances. (19)
+People need to be eductd . (Islamabad; correctly tagged as
+need +TO) (20) They need renogatiating because they are part
+of deals. (Manchester; correctly tagged as need +ING)

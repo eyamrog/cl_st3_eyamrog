@@ -1,0 +1,10 @@
+Before moving on, it is important to note this conjoint
+experiment features a rating based outcome variable , as opposed
+to a discrete choice outcome. A discrete-choice experiment asks respondents
+to choose between one of several products they might buy,
+candidates they might vote for, or, in this case, which
+vaccine they might choose to receive. Some argue that choice-based
+tasks are conceptually superior to both rating and ranking tasks;
+especially in economic contexts where individuals are more-commonly asked to
+select one product over another ( Louviere et al. 2010
+).

@@ -1,0 +1,18 @@
+Although many genes differentially expressed in [ ESI + ]
+cells were logically linked to known Set3C functions, hundreds of
+others were not. We searched for shared features that might
+suggest an explanation. Notably, transcripts upregulated by [ ESI +
+] were ~10-fold less abundant in naive cells than the
+transcriptome-wide average (p < 10 −4 , Mann-Whitney test) and
+the degree of upregulation was anticorrelated with abundance in naive
+cells (ρ ≈−0.641) ( Figure 4 A). Further, we noticed
+that many of transcripts were located within the large (~50
+kb), repressive, Hda1-affected sub-telomeric (HAST) domains ( Robyr et al.,
+2002 84. Robyr, D. ∙ Suka, Y. ∙ Xenarios, I.
+... Microarray deacetylation maps determine genome-wide functions for yeast histone
+deacetylases Cell. 2002; 109 :437-446 Full Text Full Text (PDF)
+Scopus (0) PubMed Google Scholar ) (p < 10 −16
+, KS test) ( Figure 4 B). Consistent with [
+ESI + ]-dependent activation being a gain of function, Set3C
+deletion mutants did not show the same enrichment ( Figure
+4 B).

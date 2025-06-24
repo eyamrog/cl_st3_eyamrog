@@ -1,0 +1,7 @@
+By comparing this Internet corpus of political Arabic with the
+large reference corpus arTenTen12, it is clear from Table 4
+that many of these high-frequency words in apic are dramatically
+over-used per million words in relation to the reference corpus,
+and the high bic scores suggest once again that this
+usage is motivated by the nature of contemporary liberal/left-leaning discourse
+in Arabic on the Internet.

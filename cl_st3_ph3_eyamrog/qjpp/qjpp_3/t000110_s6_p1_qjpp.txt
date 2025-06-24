@@ -1,0 +1,18 @@
+Mutation is a common phenomenon in the natural evolution of
+viruses, and SARS-CoV-2 is no exception. The emergence of a
+variety of SARS-CoV-2 mutants has become a major concern during
+the ongoing pandemic. Mutants may be more transmittable, or may
+be able to evade neutralizing monoclonal antibodies, or even polyclonal
+antibodies induced by either infection or vaccination. That is, a
+shift in the predominant variant(s) in various epidemics could cause
+potentially declines in the protective effects of vaccines or neutralizing
+monoclonal antibodies that were developed based on the original variant.
+Here, we constructed 18 501Y.V2-related pseudoviruses using a VSV-based system
+and systematically studied the effects of mutations on virus infectivity
+and antigenicity. We found that, compared with the reference 614G
+variant, the infectivity of the 501Y.V2 variants in human receptor
+cells did not change significantly, but did alter antigenicity. The
+neutralizing activity of multiple RBD-targeting monoclonal antibodies decreased significantly, and
+polyclonal antibodies (from RBD-immunized mouse sera and from SARS-CoV-2 convalescent
+sera) also had decreased neutralizing activity against 501Y.V2 variants to
+certain degrees.

@@ -1,0 +1,5 @@
+All raw read data of this study are available at
+the European Nucleotide Archive under study accession number PRJEB54625. Scripts
+for read data processing are available at https://github.com/terschure/dataprocessing_AGH . All
+processed data are available in SOM Tables S1 and S4–S6
+.

@@ -1,0 +1,13 @@
+To contextualize our single-cell results against previously published datasets in
+SIV infection, we compared genes differentially expressed at peak viremia
+(compared to pre-infection) in all eight cell types studied in
+P1 to genes upregulated in rhesus macaques 0–180 d after
+SIV infection . Any genes found to be differentially expressed
+(FDR-corrected q < 0.05) in our data are depicted alongside
+any gene that demonstrated log 2 (fold change) upregulation at
+any timepoint in the Bosinger et al. microarray experiments (Extended
+Data Fig. 3b ). We note that compared to many
+of the ISGs upregulated in acute SIV infection, where upregulation
+persists for >2 weeks, most ISGs in P1 were only
+differentially expressed at the 1-week timepoint, indicating potential differences in
+the evolution of immune responses between humans and macaques.

@@ -1,0 +1,6 @@
+Freestyle 293F cells (ThermoFisher Scientific) used for expression of antibodies
+were grown at 37þC, 8% CO 2 , with shaking
+at 125 rpm in Freestyle 293 media (ThermoFisher Scientific) without
+additives. The cell lines were not authenticated within our lab,
+however a certificate of analysis from the manufacturer is available.
+The gender of the 293F cell line is female.

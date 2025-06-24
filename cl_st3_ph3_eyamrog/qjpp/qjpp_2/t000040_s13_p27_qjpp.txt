@@ -1,0 +1,23 @@
+For some population groups, driving is not a feasible option.
+Barriers to driving include the cost of full-time car ownership,
+the cost of learning to drive, difficulties with licensing, or
+factors related to health, disability, or age ( 20 ).
+For those affected communities, the difficulty in accessing transportation contributes
+to socioeconomic disadvantage ( 20 ). Some equity priorities in
+transportation are related to transportation costs, access to destinations, services
+(such as health services), and employment ( 16 ). A
+recent study modeled the equity impact of AVs in terms
+of job accessibility in Washington, DC ( 17 ). The
+study found that in all the scenarios modeled, AVs increased
+job accessibility, especially in more disadvantaged populations and in scenarios
+using ridesharing SAVs ( 17 ). Two main recommendations to
+support social equity for AVs are ( a ) to
+engage and include disadvantaged communities in transportation planning, especially regarding
+SAVs; and ( b ) to reduce barriers to using
+SAVs, including financial, technological, language, and cultural barriers. In addition
+to these recommendations, a 2018 report related to the impact
+of AV on US workers found that the introduction of
+autonomous cars and trucks could directly eliminate 1.3–2.3 million workers’
+jobs over the next 30 years; this issue also needs
+to be considered in terms of workers’ health ( 31
+).

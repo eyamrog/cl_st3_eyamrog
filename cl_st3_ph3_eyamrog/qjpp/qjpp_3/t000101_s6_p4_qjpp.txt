@@ -1,0 +1,19 @@
+Surprisingly, a frequent outcome of a single Cas9-induced DSB at
+the EYS locus is the loss of part or all
+of paternal chromosome 6. We found loss of the long
+arm 6q, the short arm 6p, as well as the
+entire chromosome. Embryos with an EYS wt genotype showed aneuploidies
+of chromosome 6; by contrast, embryos with heterozygous edits EYS
+wt/indel did not. Prior to mitosis, a zygote with an
+unrepaired or abnormally repaired DSB has no detectable paternal allele,
+and appears as EYS wt in an on-target sequencing assay
+because of the presence of the intact maternal allele and
+euploid in an array or copy number analysis. In mitosis,
+unjoined chromosomal arms are converted to a segmental or whole-chromosome
+loss, which again appear as EYS wt in on-target sequencing.
+Therefore, cells with the same EYS wt genotype can have
+several different chromosome 6 contents. Different cells of the same
+embryo showed both whole-chromosome loss, as well as mirroring losses
+of the long or the short arms of chromosome 6.
+Therefore, pericentromeric cleavage at the EYS locus destabilizes the entire
+chromosome.

@@ -1,0 +1,26 @@
+Finally, there is significant interest by the global research community
+in developing small molecule inhibitors of chromatin readers. However, a
+poorly understood feature of many chromatin ‘readers’ is how specificity
+of function is achieved through their interaction in multi-protein complexes
+and how this can be leveraged for therapeutic benefit when
+their loss-of-function drives disease. Moreover, although oncogenic outcomes are frequently
+reported ( Filippakopoulos et al., 2010 20. Filippakopoulos, P. ∙
+Qi, J. ∙ Picaud, S. ... Selective inhibition of BET
+bromodomains Nature. 2010; 468 :1067-1073 Crossref Scopus (3237) PubMed Google
+Scholar ; Wan et al., 2020 72. Wan, L. ∙
+Chong, S. ∙ Xuan, F. ... Impaired cell fate through
+gain-of-function mutations in a chromatin reader Nature. 2020; 577 :121-126
+Crossref Scopus (89) PubMed Google Scholar ; Wen et al.,
+2014 73. Wen, H. ∙ Li, Y. ∙ Xi, Y.
+... ZMYND11 links histone H3.3K36me3 to transcription elongation and tumour
+suppression Nature. 2014; 508 :263-268 Crossref Scopus (244) PubMed Google
+Scholar ), human immune pathologies resulting from mutated chromatin regulators
+are less defined. Collectively, this work expands our knowledge of
+the types of human diseases that are caused by “misreading”
+histone modifications. Furthermore, it reveals a mechanism-based strategy to rescue
+loss-of-function SP140 in human immune disease. CD remains incurable by
+surgical or therapeutic interventions; hence, future studies may examine a
+precision-guided approach of FDA-approved TOP inhibitors for the treatment of
+CD, and potentially MS and CLL patients with loss of
+SP140, as well as examine potential roles of SP140 in
+metabolism and RNA processing.

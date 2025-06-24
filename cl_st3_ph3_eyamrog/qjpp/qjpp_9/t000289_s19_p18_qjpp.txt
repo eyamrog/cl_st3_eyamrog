@@ -1,0 +1,25 @@
+Since the semi-modals are largely unaffected by the presence of
+direct quotations, and since news reports appear to be responsible
+for most of the changes observed, I focus on the
+extent to which quoted material affects modal frequencies in news
+reports specifically. Of the 513 modals found in quotations in
+all corpora, 448 occur in news reports. Whereas news reports
+display a significant increase in modals between 1939 and the
+2000s, this trend is reversed to a non-significant decrease when
+the modals in quotations are excluded, as shown in Table
+10 . Tendencies for individual verbs remain the same, however,
+with the exception of a now significant 28 percent decrease
+for will . Open in Viewer Table 10 . Modals
+in Three Indian English Corpora, News Genre (Raw Frequencies), without
+Quoted Material 1939 1968 % change 1939-1968 2000s % change
+1968-2000s % change 1939-2000s Would 293 425 +45.1*** 429 +0.9
++46.4*** Will 458 485 +5.9 330 -32.0*** -28.0*** Can 52
+34 -34.6 84 +147.1*** **+61.5 Could 99 151 +52.5*** 117
+-22.5* +18.2 May 58 31 -46.6** 68 +119.4*** +17.2 Should
+171 170 -0.6 104 -38.8*** -39.2*** Must 32 30 -6.3
+10 -66.7** -68.8*** Might 58 32 -44.8** 21 -34.4 -63.8***
+Shall 16 4 -75.0** 4 0.0 -75.0** Ought 2 0
+-100.0 0 − -100.0 Need 1 4 +300.0 1 -75.0
+0.00 Total 1240 1366 +10.2* 1168 -14.5*** -5.8 Note: Significance
+levels: * = p < 0.05, ** = p <
+0.01, *** = p < 0.001.

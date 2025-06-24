@@ -1,0 +1,12 @@
+The results presented here are not without limitations. We operate
+under the assumption that the available data is mostly without
+error, which may or may not be the case. The
+model is robust to misspecification, but does not account for
+this possible error. Additionally, the mobility measures may include missing
+and potentially not representative data due to privacy issues. Individuals
+need to opt into Location History on their Google Account
+to captured in these data. Finally, the statistical model offers
+a high degree of flexibility through the temporally dependent coefficient
+estimates, but we make the assumption that the coefficient estimates
+apply across all health regions in the model for a
+given week.

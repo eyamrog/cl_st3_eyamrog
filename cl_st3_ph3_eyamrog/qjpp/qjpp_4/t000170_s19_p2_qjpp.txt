@@ -1,0 +1,8 @@
+In Table 3 , the descriptive statistics and calculated D
+indices from femoral lengths are listed by time period. For
+both estimated males and estimated females, femoral length decreased from
+the early to the late pre-Black Death periods and then
+increased again in the aftermath of the Black Death. Results
+of the one-way ANOVA revealed that such changes across time
+are statistically significant for estimated females ( p = .0452)
+as well as estimated males ( p = .0301).

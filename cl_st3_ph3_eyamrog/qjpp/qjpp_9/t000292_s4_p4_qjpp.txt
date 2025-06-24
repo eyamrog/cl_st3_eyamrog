@@ -1,0 +1,6 @@
+The corpus, as well as the web interface to explore
+it, described above, is available online 7 with access on
+request. We are working on a full re-design of the
+website, increasing accessibility and ease of use. Upon completion both
+the corpus and the interface will be released with an
+open license.

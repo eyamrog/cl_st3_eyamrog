@@ -1,0 +1,8 @@
+In light of the conservation of the histidines and glutamic
+acid in other major gel-forming mucins ( Figure 1 D),
+we hypothesized that these mucins also coordinate Cu 2+ .
+Supporting this hypothesis, D1 of the murine MUC5B ortholog (denoted
+Muc5b), a representative respiratory mucin, showed increased thermal stability in
+the presence of Cu 2+ as measured by DSF (
+Figure S4 E). MST confirmed Muc5b Cu 2+ -binding activity
+( Figure S4 F).

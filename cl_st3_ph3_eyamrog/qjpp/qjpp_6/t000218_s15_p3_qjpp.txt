@@ -1,0 +1,26 @@
+To estimate body mass, we used the allometric regressions of
+Delson et al. (2000 : Table 7) for the M
+1 mesiodistal crown length. This measurement is considered the most
+reliable dental variable for the estimation of body mass of
+fossil male cercopithecines. However, owing to the heavily worn state
+of attrition of the M 1 , we additionally used
+the M 2 and M 3 mesiodistal crown length of
+male cercopithecines and calculated the mean value for all molar
+positions. Box and whisker plots, statistical computations, and principal component
+analysis (PCA) were performed with PAST, version 4.05 ( Hammer
+et al., 2001 ; https://www.nhm.uio.no/english/research/infrastructure/past/ ). For the PCA, we
+used only measurements from complete M 1 – M 3
+tooth rows of M. s. sylvanus , M. s. florentina,
+and M. s. pliocena ( Supplementary Online Material [SOM] Table
+S1 ). To account for the effects of size, dental
+measurements used in the PCA were transformed to Mosimann's log-shape
+ratios by dividing each value by the geometric mean of
+all the variables for each observation and logarithmizing (with the
+natural algorithm ln) the results ( Mosimann, 1970 ; Jungers
+et al., 1995 ). For each cheek tooth measurement and
+M. sylvanus subspecies used in the analysis, the z-score was
+computed as z = (x − m)/SD, where x is
+the dental measurement of MAR-1-9B (mean value in case both
+right and left premolars/molars are preserved) and m and SD,
+the mean and standard deviation of the comparative sample, respectively
+( Table 4 ).

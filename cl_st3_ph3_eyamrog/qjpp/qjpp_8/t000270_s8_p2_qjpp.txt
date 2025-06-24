@@ -1,0 +1,17 @@
+However, authority-initiated interventions are not the only factors affecting social
+network structure to lower the risk of infections. Avoidant health
+behaviors , such as keeping away from large crowds, avoiding
+symptomatic coworkers , or avoiding sexual contact because a partner
+has a sexually transmitted disease, are common self-imposed measures known
+to mitigate disease spread ( Bish and Michie, 2010 ;
+Funk et al., 2009 ). These health behaviors depend on
+heterogeneous risk perceptions ( Bish and Michie, 2010 ; Leppin
+and Aro, 2009 ) that, depending on the composition of
+a group, may facilitate or hinder the spread of infectious
+diseases on the macro-level, such as COVID-19 ( d’Andrea et
+al., 2022 ) or HIV ( Koku and Felsher, 2020
+). Furthermore, risk perceptions depend on personal properties, such as
+age, gender, ethnicity, educational level, or marital status ( Bish
+and Michie, 2010 ); properties known to facilitate homophily (
+McPherson et al., 2001 ), a tendency of people to
+be connected to others with similar characteristics.

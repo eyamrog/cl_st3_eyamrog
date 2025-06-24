@@ -1,0 +1,15 @@
+In the monocentric J. effusus , the histone mark H3K4me3,
+which is euchromatin specific, showed dispersed labeling along chromosome arms,
+while H3K9me2 (heterochromatin specific) was concentrated at pericentromeric regions and
+co-localized with chromocenters in interphase ( Figure S1 I). By
+contrast, in the holocentric R. pubera , both euchromatin- and
+heterochromatin-specific histone marks were intermingled all along the chromosomes with
+a constant density even toward the subtelomeric and central chromosomal
+regions ( Figures 4 A–4C). Locally, H3K4me3 was mostly highly
+enriched at the promoter regions of protein-coding genes, whereas H3K9me2
+was enriched on small heterochromatic islands, typically resembling TEs (
+Figure 4 C). H3K4me3 was depleted at CENH3 domains, while
+H3K9me2 showed residual enrichment. We noticed a slight increase in
+H3K9me2 enrichment flanking CENH3 domains relative to the core region,
+mimicking the pericentromeric chromatin composition in monocentromeres ( Figure 4
+C).

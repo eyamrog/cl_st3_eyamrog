@@ -1,0 +1,18 @@
+Urinary cortisol concentrations vary diurnally, typically decreasing throughout the waking
+day ( Muller and Lipson, 2003 ); therefore, time of
+collection was included as a control variable. We controlled for
+circannual variation in cortisol levels attributable to seasonal variation in
+rainfall, temperature, and humidity ( Wessling et al., 2018 )
+by converting Julian dates into a circular variable and including
+its sine and cosine into the model ( Stolwijk et
+al., 1999 ; Wessling et al., 2018 ). We z-transformed
+the age and collection time variables ( Schielzeth, 2010 ).
+To account for repeated measures from individuals, different offspring of
+the same mother, and individuals within certain communities, we included
+individual identity, mother identity, and community as random effects (
+Baayen, 2008 ). We included a maximum random slope structure
+when sufficient variation within a fixed effect was present (
+Schielzeth and Forstmeier, 2009 ; Barr et al., 2013 ):
+this resulted in random slopes for the age variables, seasonality
+variables, and collection time being included within individual identity, community,
+and mother identity.

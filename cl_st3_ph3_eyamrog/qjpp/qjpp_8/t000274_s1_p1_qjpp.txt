@@ -1,0 +1,24 @@
+Corpus linguistics is increasingly employed to explore large, publicly-available datasets
+such as newspaper texts, government speeches and online fora. However,
+comparatively few corpora exist where the subject matter concerns sensitive
+topics about living individuals since, due to their highly personal
+and confidential nature, these texts are hard to access and
+raise difficult ethical questions around secondary data analysis. One exception
+is the Writing in professional social work practice (WiSP) corpus,
+comprising texts written by UK-based professional social workers in the
+course of their daily work and now available to other
+researchers through the ReShare archive. This paper focuses on the
+challenges involved in building the WiSP corpus and the epistemological
+and ethical issues raised. Two key aspects of research practice
+are discussed: data anonymisation and dataset archiving. Specifically, the paper
+explores decision-making around anonymisation and an ethically-informed rationale for treating
+some texts as ‘not for sharing’, leading to the decision
+to create two corpora: one for the research team and
+a further anonymised and slightly reduced version for archiving. The
+paper explores what the WiSP corpora (Corpus 1 and Corpus
+2) contribute to understandings about social work writing, the extent
+to which the two corpora enable different analyses and whether
+the existence of two corpora is problematic from a corpus
+linguistic perspective. The paper concludes by considering how the ethical
+decisions around corpus creation of sensitive texts raise questions about
+key principles in corpus linguistics.

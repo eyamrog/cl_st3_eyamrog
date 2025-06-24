@@ -1,0 +1,15 @@
+The quantitative data were retrieved from several large electronic corpora
+of British English. 3 For LME and EModE, I use
+EEBO BYU ( Davies 2017 ), focusing on decades 1470s-1490s
+(6,411,570 words), decades 1550s and 1570s considered together (34,146,652 words),
+and the 1640s (47,129,000 words). As the main source on
+usage in LModE, I have employed the Corpus of Late
+Modern English Texts, version 3.0 (CLMET3.0; De Smet, Diller &
+Tyrkkö 2013 ). CLMET3.0 is a collection of texts comprising
+six major genres, as indicated in Table 1 . In
+total, the corpus contains thirty-four million words of running text,
+of which 15,784,689 words are from narrative fiction. Because of
+its size and composition, CLMET3.0 provides a solid basis for
+research on motion events, especially given the intimate connection between
+fiction and frequency of motion descriptions (cf. Slobin 2004 ,
+2017 :423).

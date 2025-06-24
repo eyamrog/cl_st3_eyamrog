@@ -1,0 +1,22 @@
+For the US external validation set, the reference standard was
+set by a panel of six US or Canadian uropathologists
+(M.A., A.E., T.v.d.K., M.Z., R.A. and P.H.) from six institutions
+with 18–34 years of clinical experience after residency (mean of
+25 years). Each specimen was first reviewed by two uropathologists
+from the panel. A third uropathologist reviewed discordant cases to
+arrive at a majority opinion. For this external dataset, immunohistochemistry
+was available to aid in tumor identification. The EU external
+validation set was reviewed by a single uropathologist (L.E.). For
+details on the uropathologist review protocol, see Supplementary Methods 2
+. On validation sets, the pathologists who contributed to the
+reference standards showed high pairwise agreement (0.926 on a subset
+of the EU internal validation set and 0.907 on the
+US external validation set, Supplementary Table 6 ). To ensure
+consistency across different reference standards, we additionally investigated the agreement
+between reference standards across continents (Supplementary Table 9 ). We
+found high agreement between pathologists across the regions when EU
+uropathologists reviewed US data and vice versa. Moreover, majority votes
+of the panels were highly consistent with the reference standard
+of the other region (quadratically weighted κ 0.939 and 0.943
+for, respectively, the EU and US pathologists, Supplementary Table 9
+).

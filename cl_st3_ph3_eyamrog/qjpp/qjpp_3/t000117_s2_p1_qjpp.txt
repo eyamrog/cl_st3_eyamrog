@@ -1,0 +1,11 @@
+We thank Dr. Alfredo Fontanini (Stony Brook University) and Dr.
+Tianyi Mao (Vollum Institute, Oregon Health & Science University) for
+comments on an earlier version of the manuscript, Dr. Pengcheng
+Zhou (Columbia University and Shenzhen Institutes of Advanced Technology, Chinese
+Academy of Sciences) for advice and the MATLAB code for
+CNMF-E analysis, Taylor Russo and Radhashree Sharma for technical assistance,
+and members of the Li laboratory for helpful discussions. This
+work was supported by grants from NIH (R01MH101214, R01MH108924, R01DA050374,
+and R01NS104944 to B.L.; U19MH114823-01 to Z.J.H.), the Cold Spring
+Harbor Laboratory and Northwell Health Affiliation (to B.L.), and Feil
+Family Neuroscience Endowment (to B.L.).

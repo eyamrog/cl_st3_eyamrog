@@ -1,0 +1,23 @@
+To further test whether dispersing chromatin can establish a liquid
+state, we induced chromatin decondensation through laser micro-irradiation. This results
+in very rapid poly(ADP-ribosyl)ation (PARP)-dependent decondensation of chromatin in living
+cells ( Strickfaden et al., 2016 58. Strickfaden, H. ∙
+McDonald, D. ∙ Kruhlak, M.J. ... Poly(ADP-ribosyl)ation-dependent Transient Chromatin Decondensation
+and Histone Displacement following Laser Microirradiation J. Biol. Chem. 2016;
+291 :1789-1802 Full Text Full Text (PDF) Scopus (72) PubMed
+Google Scholar ) and is evident by the increase in
+diameter and dilution of fluorescence of Hoechst-contrasted chromatin ( Figure
+4 D). When replication-labeled chromatin was photobleached simultaneously with laser
+micro-irradiation, we again did not observe mixing of the chromatin
+( Figure 4 D; Video S3 ). When we damaged
+a region containing early S phase replicated foci and tracked
+these foci, we found that the chromatin expanded laterally in
+an isometric fashion and displaced, rather than mixed with, chromatin
+outside of the damaged region (Figure S4; Video S4 ).
+Thus, despite the ability of laser micro-irradiation and histone hyperacetylation
+to decondense and disperse native chromatin in the nucleus, they
+do not promote liquid-like behavior (i.e., mixing) of labeled chromatin
+in living cells. These results indicate that, even when fiber-fiber
+contacts are not obvious in thin sections of interphase nuclei,
+there are sufficient nucleosome-nucleosome interactions to prevent mixing (liquid-like) behavior
+at the mesoscale.

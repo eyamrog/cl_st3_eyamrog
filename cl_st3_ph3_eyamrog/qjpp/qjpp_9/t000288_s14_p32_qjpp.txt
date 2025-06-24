@@ -1,0 +1,21 @@
+The approach used here follows previous studies such as Tagliamonte
+and Baayen (2012) in combining random forest analyses with conditional
+inference trees (ctrees). Random forests are a type of permutation
+testing which does not assume normal distribution of the data
+but instead builds the distribution by resampling the observed dataset.
+The algorithm fits many regression trees to random subsets of
+the data and estimates the importance of predictors on the
+combined result of these trees, i.e., the random forest. Unlike
+traditional regression analysis, random forest analysis can cope even with
+highly correlated predictors and avoids overfitting ( Strobl, Malley &
+Tutz 2009 ; Tagliamonte & Baayen 2012 ). Additionally, while
+empty cells or categorical responses for individual predictors pose problems
+for traditional regression modeling, they do not pose a problem
+for random forests. R’s party package ( Strobl, Hothorn &
+Zeileis 2009 ) was used to fit the random forest
+model, with the number of trees set to 500 (mtry
+= 2; the default value, i.e., the root value of
+the number of predictors, in this case rounded down). Somers2
+was used to test for model fit. According to Tagliamonte
+and Baayen (2012 :156), a C-value > 0.8 represents a
+good model fit.

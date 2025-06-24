@@ -1,0 +1,14 @@
+There is promise with the new Education and Labour Market
+Longitudinal Platform offered by Statistics Canada, which links the Postsecondary
+Student Information System (PSIS), the Registered Apprenticeship Information System (RAIS),
+and the T1Family File tax records (T1FF). To the best
+of my knowledge, however, these files are still lacking in
+rich demographic characteristics, limiting key student characteristics to age, gender,
+and whether or not the student self identified as an
+Aboriginal person ( Statistics Canada 2020 ). While it is
+possible to follow these students’ incomes in great detail, there
+is no ability to control for parental characteristics or race.
+For those interested, Finnie et al. (2020) provide a thorough
+overview of the findings of studies that have employed these
+data, as well as those that have connected these data
+with other databases.

@@ -1,0 +1,13 @@
+CENH3 domains were identified by comparing the ChIPed and input
+data using MACS3 ( Zhang et al., 2008 103. Zhang,
+Y. ∙ Liu, T. ∙ Meyer, C.A. ... Model-based analysis
+of ChIP-Seq (MACS) Genome Biol. 2008; 9 :R137 Crossref Scopus
+(8144) PubMed Google Scholar ). The parameters for MACS3 included
+-B –broad –g 1470000000 –trackline. As an alternative method for
+detection of CENH3 domains, we compared input and ChIP using
+the epic2 program for detection of diffuse domains ( Stovner
+and Sætrom, 2019 93. Stovner, E.B. ∙ Sætrom, P. epic2
+efficiently finds diffuse domains in ChIP-seq data Bioinformatics. 2019; 35
+:4392-4393 Crossref Scopus (35) PubMed Google Scholar ). Parameters for
+epic2 included—bin-size 2000. Only CENH3 domains detected with both methods
+were kept for further analysis.

@@ -1,0 +1,26 @@
+ATAC-seq peaks and predicted enhancers were projected between mouse, opossum
+and chicken using a published stepped pairwise sequence alignment approach
+across multiple bridging species ( Baranasic et al., 2021 14.
+Baranasic, D. ∙ Hörtenhuber, M. ∙ Balwierz, P. ... Integrated
+annotation and analysis of genomic features reveal new types of
+functional elements and large-scale epigenetic phenomena in the developing zebrafish
+2021 Crossref Google Scholar ). For a genomic region with
+conserved synteny, any non-alignable coordinate can be approximately projected from
+one genome to another by interpolating its relative position between
+two alignable anchor points. The accuracy of such interpolations correlates
+with the distance to an anchor point. Therefore, projections between
+species with large evolutionary distances tend to be inaccurate due
+to a low anchor point density. Including so-called bridging species
+increases the anchor point density and thus improves projection accuracy.
+The optimal choice and combination of bridging species may vary
+from one genomic location to another. This presents a shortest
+path problem in a graph where every node is a
+species and the weighted edges between nodes correspond to a
+scoring function that represents the distances of genomic locations to
+their anchor points (|x - a|). The scoring function exponentially
+decreases with increasing distances |x - a|. The shortest path
+problem is solved using Dijkstra’s Shortest Path Algorithm ( Dijkstra,
+1959 36. Dijkstra, E.W. A note on two problems in
+connexion with graphs Numer. Math. 1959; 1 :269-271 Crossref Scopus
+(15749) Google Scholar ). The sets of bridging species used
+here are described in Table S6 .

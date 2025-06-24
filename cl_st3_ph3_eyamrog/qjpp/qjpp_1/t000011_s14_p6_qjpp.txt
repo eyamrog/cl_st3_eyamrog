@@ -1,0 +1,15 @@
+Our economic calculations have a restricted scope. The cost of
+implementing each transmission and vaccination scenario is derived from an
+Indian health sector perspective. This includes costs to both government
+and patients (including vaccine and hospitalization costs) but excludes the
+patient salary loss during hospitalization and indirect costs (including costs
+to other household members and the employers). To quantify public
+health benefits, we considered the economic benefits of averting mortality
+and the cost savings of averting hospital admissions, but we
+did not consider the prevention of non-fatal morbidity caused by
+SARS-CoV-2 infection (which might be substantial) and the indirect health
+and mental health consequences of the pandemic. Finally, we assessed
+vaccination strategies across a wide range of reproduction numbers, but
+we did not account for the direct or indirect costs
+of the non-pharmacological interventions enacted to slow transmission in the
+milder scenarios.

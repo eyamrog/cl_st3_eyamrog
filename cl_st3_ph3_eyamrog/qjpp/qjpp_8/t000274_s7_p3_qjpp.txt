@@ -1,0 +1,10 @@
+The paper discusses the methodological, ethical and epistemological considerations around
+anonymising a relatively small corpus (1 million words) of sensitive
+texts, considering institutional access issues, our values and commitments as
+researchers to participants (including social workers, service users and third
+parties such as health visitors or clients’ family members) and
+the imperative to archive the resulting datasets. One significant solution
+adopted for WiSP was the creation of two corpora: ‘WiSP
+Corpus 1′ for use by the research team and 'WiSP
+Corpus 2′ for deposit in the grant funders’ repository: ESRC
+ReShare archive.

@@ -1,0 +1,9 @@
+The ‘emphatic’ just was used to emphasise the adjectives, noun
+(phrases) and verb (phrases) followed by it. In the native
+speaker corpus, the pattern [‘emphatic’ just + verb (phrase)] and
+[‘emphatic’ just + adjective] had a higher frequency, constituting 42.4
+percent and 30.3 percent, respectively. In the learner corpora, both
+adult and younger Taiwanese efl learners preferred to use the
+pattern [‘emphatic’ just + verb (phrase)], accounting for 80 percent
+in the adult Taiwanese efl learner corpus and 51.7 percent
+in the younger Taiwanese efl learner corpus.

@@ -1,0 +1,16 @@
+All imaging experiments were conducted on awake behaving mice under
+head-restraint in a dim, sound attenuated box. A one-photon imaging
+system modified from an Olympus BX51 microscope (Olympus Corporation, Shinjuku,
+Tokyo, Japan) with a 10 X objective (NA 0.3; Olympus,
+Cat. Number MPLFLN10x) was used to monitor GCaMP6 signals in
+behaving mice through the implanted GRIN lenses. The light source
+for imaging was a single-wavelength LED system (λ = 470
+nm; https://www.coolled.com/ ) connected to the epifluorescence port of the
+Olympus BX51 microscope. The output power of the LED was
+set to 0.1-0.3 mW and was kept constant for the
+same subject across all imaging sessions. During imaging, the focus
+of the objective was adjusted such that the best dynamic
+fluorescence signals were at the focal plane. Visible landmarks, such
+as GCaMP6-expressing neurons and blood vessels, were used to help
+identify the same field of view (FOV) across different imaging
+sessions.

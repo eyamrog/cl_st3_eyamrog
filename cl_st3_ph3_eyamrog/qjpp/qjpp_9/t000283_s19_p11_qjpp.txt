@@ -1,0 +1,5 @@
+Figure 5 shows the realizations of /ɪr/, /ɛr/, and /ʌr/
+according to the orthography of the word. In contrast to
+all previous analyses, the predictor spelling was not held constant,
+but specific spellings were targeted when estimating formant values (see
+discussions above).

@@ -1,0 +1,14 @@
+For the set of measurements performed at pH 7.4, substoichiometric
+Cu 2+ binding was observed, with Cu 2+ :protein ratios
+of ∼0.54:1. Measurements subsequently performed at pH 6.8 yielded Cu
+2+ :protein ratios of ∼0.85:1. (Table 2). The reason for
+deviation from the expected 1:1 ratio is as yet unexplained.
+X-ray fluorescence counts at the copper edge showed that purified
+MUC2 D1 was not pre-loaded with Cu 2+ , and
+measurements after addition of Cu 2+ suggested stoichiometric binding. None
+of the other experiments performed ( i.e ., crystallography, BCA
+colorimetric assays, or DSF) suggested either a fraction of copper
+pre-loaded protein or copper binding-incompetent protein. Protein concentrations were determined
+for ITC and EXAFS experiments using the same method and
+were done with care, such that it is unlikely that
+large errors in protein concentration determination explain the ITC results.

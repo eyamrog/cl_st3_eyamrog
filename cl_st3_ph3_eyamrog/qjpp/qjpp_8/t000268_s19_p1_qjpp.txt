@@ -1,0 +1,10 @@
+In this section, we evaluate the relationship between global economic
+uncertainty and suicide worldwide, controlling for unemployment and economic growth,
+and accounting for country fixed effects and for time fixed
+effects. While empirical evidence exists that uncertainty shocks are an
+important exogenous source of economic fluctuation ( Ahiadorme, 2022 ;
+Istiak and Serletis, 2018 ; Yıldırım-Karaman, 2017 ), only a
+few recent studies have examined the link between economic uncertainty
+and suicide ( Antonakakis and Gupta, 2017 ; De Bruin
+et al., 2020 ; Vandoros et al., 2019 ; Vandoros
+and Kawachi, 2021 ).

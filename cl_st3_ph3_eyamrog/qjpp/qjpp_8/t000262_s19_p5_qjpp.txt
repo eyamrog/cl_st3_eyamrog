@@ -1,0 +1,14 @@
+Although the three groups are similar in terms of age,
+gender, and income distribution, bivariate associations between migration and health
+may result from systematic differences between migrant generations in terms
+of marital status, race/ethnicity, education level, and social support. To
+remove potential confounding effects, in the last part of the
+analysis we estimate regression models for health outcomes as a
+function of migration and social support, controlling for all sociodemographic
+characteristics. An interaction term between migration and social support allows
+the association between support and health to vary by migration
+group. For each health outcome (Self-rated health, No serious illness
+last year, No mental illness experience) we estimate six models,
+using each of our six counts of ties (see section
+3.1) as the social support predictor. These counts are logged
+in all 18 models to account for potential curvilinear associations.

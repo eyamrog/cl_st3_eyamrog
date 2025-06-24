@@ -1,0 +1,14 @@
+Rates of use of L+H* versus H* pitch accent were
+considered separately for broad and narrow focus intervals, due to
+the fact that the L+H* may be more likely in
+narrow focus intervals for all speakers ( Pierrehumbert & Hirschberg
+1990 ), and separate GLMER models tested pitch accent type
+by topic, with a random effect of speaker. The results
+indicate no significant differences in pitch accent type in the
+narrow focus intonational phrases (IPs) by topic ( p =
+.617). However, L+H* is significantly less likely in broad focus
+IPs when topic is police as compared to difference or
+what are you topics ( p = .04). The model
+results are displayed in Figure 2 , and Figure 3
+shows the proportion of L+H* (versus H*) pitch accents by
+speaker and topic.

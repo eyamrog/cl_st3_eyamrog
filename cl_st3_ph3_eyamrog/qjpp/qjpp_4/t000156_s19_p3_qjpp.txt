@@ -1,0 +1,10 @@
+To confront these historical data with contemporary ones, the first
+approach was to find out whether to use the combination
+of all camps or else to use only data from
+one or two cohorts. Once the Kolmogorov–Smirnov test reported that
+data were not normally distributed, the Kruskal–Wallis test was applied
+to all three cohorts separately, as a function of age
+and of height category at camp entry. This proved significant
+differences between the categories as well as among age groups,
+for both sexes ( p < .001 in some cases
+and p < .05 in others).

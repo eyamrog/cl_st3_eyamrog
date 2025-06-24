@@ -1,0 +1,20 @@
+The advent of widespread booster dose programs in high- and
+middle-income countries to mitigate new SARS-CoV-2 variants, such as Omicron,
+will aggravate the constraints of vaccine supplies to low-income countries
+. Global vaccine shortages and inequity of vaccine distributions are
+likely to remain a public health problem by mid-2022, compounded
+by challenges in vaccination distribution systems and uptake among target
+populations. To alleviate such constraints, vaccine dose fractionation could serve
+as a cost-effective strategy to reduce public health and socioeconomic
+burdens. Vaccines might not necessarily be administered with the same
+protocols as were tested in clinical trials, as exemplified by
+the ‘first dose first’ strategy adopted in the United Kingdom
+and Canada, where the administration of the first doses of
+COVID-19 vaccines were prioritized by delaying the second doses .
+Therefore, dose fractionation could also be considered as a legitimate
+modification of the vaccine schedule, driven by an unmet public
+health need. Furthermore, the specific fractionation of doses can be
+optimized to balance the costs of vaccine rollout with the
+benefits of averting COVID-19 morbidity and mortality. However, the dose-sparing
+strategy might not help address the problem of shifting resources
+required by vaccination campaigns.

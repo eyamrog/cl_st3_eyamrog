@@ -1,0 +1,19 @@
+Neutralization assay was performed with rVSV expressing enhanced green fluorescent
+protein (eGFP) and EBOV (Makona variant) GP (rVSV-EBOV), as previously
+described ( Wong et al., 2010 57. Wong, A.C. ∙
+Sandesara, R.G. ∙ Mulherkar, N. ... A forward genetic strategy
+reveals destabilizing mutations in the Ebolavirus glycoprotein that alter its
+protease dependence during cell entry J. Virol. 2010; 84 :163-175
+Crossref Scopus (116) PubMed Google Scholar ). Titrated virus was
+incubated with serially diluted mAbs at 37°C for 1 h
+before addition to confluent Vero cell (ATCC CCL-81) monolayers in
+96-well plates (Thermo Fisher Scientific). Following infection, cells were incubated
+for 20 h at 37°C in 5% CO 2 .
+The cells were then fixed in 4% paraformaldehyde (PFA) (Electron
+Microscopy Sciences) and nuclei were stained with 2 μg/mL Hoechst
+33342 stain (Thermo Fisher Scientific). Plates were imaged using a
+CellInsight CX5 imager (Thermo Fisher Scientific), and infection was quantified
+by automated enumeration of total cells and those expressing eGFP.
+Infection was normalized to the average number of cells infected
+with rVSV-EBOV without antibodies. Data are presented as the relative
+infection for each concentration of antibody.

@@ -1,0 +1,20 @@
+Within the fusion loop group, mAb 5.24.1C11 (henceforth referred to
+as “1C11”) was the strongest neutralizer of EBOV, SUDV, and
+BDBV of the entire panel and was therefore selected for
+further study. To complement 1C11, which binds to the base
+of GP, we chose a second, non-competing antibody specific for
+the GP head region. Our previous work has shown that
+antibodies directed at this head region are the most effective
+at inducing immune effector functions (e.g., antibody-dependent cell cytotoxicity) that
+contribute to protection from EBOV infection ( Saphire et al.,
+2018 47. Saphire, E.O. ∙ Schendel, S.L. ∙ Fusco, M.L.
+..., Viral Hemorrhagic Fever Immunotherapeutic Consortium Systematic Analysis of Monoclonal
+Antibodies against Ebola Virus GP Defines Features that Contribute to
+Protection Cell. 2018; 174 :938-952.e13 Full Text Full Text (PDF)
+Scopus (147) PubMed Google Scholar ). mAb 9.20.1C3 (“1C3”) was
+the most potent head-specific mAb at neutralizing EBOV and SUDV,
+the two ebolaviruses responsible for the most human cases and
+outbreaks. Although 1C3 did not neutralize BDBV, it did bind
+to recombinant BDBV GP in our screening assay ( Figure
+S1 B), suggesting it might still be able to contribute
+to protection against BDBV infection through Fc-dependent effector mechanisms.

@@ -1,0 +1,2 @@
+First, a conditional inference trees model is composed of eight
+predictors and one response variable, with the following code:

@@ -1,0 +1,19 @@
+Within Sulawesi macaques, mitochondrial DNA lineages are monophyletic and cluster
+by species, with one exception wherein a mitochondrial genome from
+a M. tonkeana specimen (PF511) clusters with mitochondrial genomes from
+M. hecki ( Figure 2 , Figure 4 ). This
+female macaque was sampled from near the hybrid zone between
+M. tonkeana and M. hecki ( Bynum et al., 1997
+; Evans et al., 2003a ). Based on photographs that
+were taken at the time of sampling, this specimen displayed
+narrow, kidney-shaped ischial callosities and relatively modestly sized brow ridges,
+which are morphological features of M. tonkeana and not M.
+hecki , in which these features are more oval and
+more prominent, respectively ( Fooden, 1969 ). Preliminary analyses of
+WGS data from the nuclear genome of this specimen are
+consistent with this species' identification; at this time, however, we
+do not attempt to quantify the extent of M. hecki
+ancestry in the nuclear genome of this specimen. The uncorrected
+pairwise distance between the mitochondrial genome of sample PF511 and
+the most closely related M. hecki mitochondrial genome (PF643) is
+0.0024.

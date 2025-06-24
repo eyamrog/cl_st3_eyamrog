@@ -1,0 +1,25 @@
+An ELISA-based assay was used to identify novel ligands for
+Unc5D-AP. The experiment was done in duplicate. Twenty μL of
+a solution at 3 μg/mL of mouse anti-AP in 1X
+PBS was added to each well of 96-well plates using
+an automated multichannel pipette (Viaflo Assist, Integra), sealed and incubated
+overnight at 4C. The following day, the plate was washed
+once with PBS and 1% casein was added as a
+blocking agent, which was removed after 1 h at room
+temperature using an automated microplate washer (HydroSpeed, Tecan). Next, to
+each well, 20 μL of Unc5D-AP conditioned medium, containing 2
+μL of monoclonal mouse anti-human IgG1-HRP was added using an
+automated plate copier (Viaflo96, Integra) along with 20 μL of
+culture medium from 95 different ecto-Fc prey proteins. Plates were
+sealed and incubated for 4 h at room temperature in
+the dark. Plates were subsequently washed, and 35 μL 1-Step
+Ultra TMB-ELISA HRP substrate was added using an automated multichannel
+pipette (Viaflo Assist, Integra); after 1 h incubation at room
+temperature, the absorbance at 650 nm was recorded with a
+microplate Spectramax i3 plate reader (Molecular Devices). Finally, plates were
+scanned to obtain matching images of the 650 nm reading.
+A positive control (known interactors NRXN/NLGN1) was used ( Ozgul
+et al., 2019 80. Ozgul, S. ∙ von Daake, S.
+∙ Kakehi, S. ... An ELISA-Based Screening Platform for Ligand-Receptor
+Discovery Methods Enzymol. 2019; 615 :453-475 Crossref Scopus (11) PubMed
+Google Scholar ).

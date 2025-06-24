@@ -1,0 +1,20 @@
+There is little reported evidence of phonological conditioning on production
+of these vowels. Because following nasals often affect vowel production,
+particularly when it comes to vowels in the lower back
+of the vowel space ( Baranowski 2015 ), I considered
+the possibility that this pattern will apply here, and coded
+tokens for the following environment (word-internally): nasal, other consonant, or
+none. Tokens in which the vowel occurs word-medially in an
+open syllable were coded as having no following consonant. Although
+such conditioning is not attested in St. Louis, this coding
+system would thus show us if St. Louisans had phonological
+conditioning of the vowels as in New York City English
+(h[ɑ]rse, but h[ɑ]rrible; see Newman 2014 ). Tokens were also
+coded for the preceding phonological context. Voicing (none, voiceless, voiced),
+place of articulation (none, coronal, labial, velar), and manner of
+articulation (none, stop, fricative, nasal, approximant) were included as factors,
+with affricates treated as stops and /h/ and /j/ treated
+as velars. Additionally, tokens were coded as to whether they
+were function words ( for , or ) or not.
+Function words were only included in the analysis if they
+had primary stress.

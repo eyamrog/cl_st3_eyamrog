@@ -1,0 +1,14 @@
+Inverse probability of treatment weighting (IPTW) is another method where
+weights are assigned to patients based on the inverse probability
+of receiving one treatment or the other as estimated by
+the propensity score. IPTW results in a pseudo-population that is
+balanced regarding the distribution of patient covariates in each treatment
+group. After IPTW, absolute values of the SMDs were less
+than 0.1 for almost all matching covariates (Extended Data Fig.
+3g,h ). IPTW was used to support the findings of
+PSM analysis and to allow for proper comparison between the
+two populations of patients treated with axi-cel or tisa-cel. Using
+this statistical approach, significantly higher ORR/CRR and longer PFS and
+OS with axi-cel compared to tisa-cel were observed (Table 2
+and Extended Data Fig. 4a–e ). Of note, no difference
+was observed for DOR as in the PSM analysis.

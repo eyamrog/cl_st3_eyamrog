@@ -1,0 +1,20 @@
+This is not to suggest that data on bipedal chimpanzee
+walking mechanics are unknown. A seminal series of laboratory-based studies
+provided the first quantitative comparison of human and bipedal chimpanzee
+walking mechanics in the 1970s and 1980s (i.e., Yamazaki et
+al., 1979 ; Okada, 1985 ; Yamazaki, 1985 ). These
+studies include important, initial insights into the ground reaction forces
+and joint moments of human and facultative bipedal walking in
+chimpanzees and other taxa; however, the experimental design (i.e., mismatched
+speeds, markerless joint kinematics), as well as the absence of
+variance metrics, permits only limited interspecific inferences. Indeed, forces and
+moments are velocity-dependent parameters (e.g., Farris and Sawicki, 2012a ;
+Schache et al., 2015 ), and, as such, interspecific comparisons
+will be sensitive to speed. More careful, speed-controlled comparisons of
+human and bipedal chimpanzee walking have examined two-dimensional (2-D) sagittal
+plane stance phase joint moments ( Sockol et al., 2007
+; see also; Pontzer et al., 2009 ), but exclude
+joint work and power as well as limb swing. Thus,
+a comprehensive characterization of the 3-D moments, work and power
+of human and bipedal chimpanzee walking over a full stride
+is still unavailable.

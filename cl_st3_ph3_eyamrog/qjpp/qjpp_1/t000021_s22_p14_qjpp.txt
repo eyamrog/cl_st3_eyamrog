@@ -1,0 +1,17 @@
+Re-scoring cell types against enriched genes for each driver revealed
+variable kinetics in the onset, intensity and length of immune
+responses across different cell types (Extended Data Fig. 7a ).
+We note the following gene-programming upregulation trends in all participants:
+1) CD4 T cells activity from before peak viremia throughout
+acute infection; 2) CTL and proliferating T cell programs are
+induced during hyperacute infection; and 3) NK cell and monocyte
+activity persists throughout the first month of infection, highlighting a
+persistent role for innate immunity throughout acute infection. Based on
+cell type, gene and functional enrichments, we summarize the shared
+(≥2 participants) immune responses with sustained gene expression over the
+course of the first month of HIV infection, their potential
+drivers and putative cell–cell signaling, emphasizing CD4 T cells, which
+was the only cell type expressing genes downstream of proinflammatory
+cytokines (Fig. 3j,k and Extended Data Fig. 7b ). Thus,
+our module discovery approach readily reveals immune responses and potential
+interactions among several cell types during acute HIV infection.

@@ -1,0 +1,9 @@
+The project also needed to engage with the IMIT Department.
+Personnel who would build the solution were more amenable to
+the FP standpoint because they understood the concept of designing
+for “end-users” and could extend that frame to FPs in
+the context of hospital transitions. IMIT partners also brought their
+own perspective, which emphasized technological enablers and limitations; requirements for
+standardizing and automating processes; and scalability. Moving out from the
+initial standpoint thus identified new elements that became important components
+of the project work.

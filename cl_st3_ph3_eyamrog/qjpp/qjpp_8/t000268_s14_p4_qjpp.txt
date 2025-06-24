@@ -1,0 +1,14 @@
+Caggiano and Castelnuovo (2021) combined volatility data on the stock
+market, exchange rate returns, and bond yields to construct a
+measure of global financial uncertainty. However, because finance offers only
+a limited scope, some authors collect new data for approximating
+economic uncertainty. The most popular approach is based on calculating
+the frequency with which concepts related to uncertainty appear in
+the media. Baker et al.’s (2016) EPU index is the
+most widely used text-based uncertainty proxy. It combines a text-mining
+measure with disagreements amongst forecasters, as well as the number
+of tax code provisions that are set to expire in
+the future. Since then, various authors used this methodology to
+develop indicators of economic uncertainty for their respective countries, for
+example, Armelius et al. (2017) for Sweden; Ghirelli et al.
+(2019) for Spain; and Sorić and Lolić (2017) for Croatia.

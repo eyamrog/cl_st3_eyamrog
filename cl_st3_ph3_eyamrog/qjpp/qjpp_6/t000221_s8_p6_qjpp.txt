@@ -1,0 +1,22 @@
+Here, we evaluate how human and bipedal chimpanzee musculoskeletal structure
+affects their 3-D moments, work, and power output. Specifically, we
+provide the first comprehensive description and direct, speed-controlled comparisons of
+stride-to-stride and intraspecific variation of human and bipedal chimpanzee ground
+reaction forces, as well as the lower/hind limb joint moment
+and power profiles of each species over a full walking
+stride. Based on their differences in musculoskeletal structure, we then
+test whether: 1) the estimated limb joint work and power
+during the stance phase, especially the single-support period, is lower
+in humans than in bipedal chimpanzees, 2) the limb joint
+work and power required for limb swing is lower in
+humans than in bipedal chimpanzees, and 3) the estimated total
+mechanical power during walking, accounting for the storage of passive
+elastic strain energy in humans, is lower in humans than
+in bipedal chimpanzees. For completeness, the 3-D mechanics of bipedal
+chimpanzees and humans were compared at matched dimensionless (i.e., relative-speed
+match) and dimensional (i.e., absolute-speed match) speeds. Matched dimensionless speed
+comparisons minimize the effects due to differences in body size
+or walking speed, while emphasizing those arising specifically from differences
+in musculoskeletal design between humans and chimpanzees. The dimensional comparison,
+in contrast, permits an assessment of how sensitive the interspecific
+differences in 3-D mechanics are to walking speed.

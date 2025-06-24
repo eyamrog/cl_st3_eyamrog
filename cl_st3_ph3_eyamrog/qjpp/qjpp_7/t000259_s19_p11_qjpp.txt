@@ -1,0 +1,5 @@
+Finally, with respect to RQ1, I observe no statistically significant
+differences in vaccination intentions across antigen types. Compared to mRNA-based
+vaccines, respondents are neither more nor less likely to prefer
+vaccines with more-conventional weakened virus antigen elements (β = 0.00,
+p > 0.10).

@@ -1,0 +1,16 @@
+Four pairs of biopsies from the same patient were pooled,
+minced and frozen in 1 ml of CryoStor CS10 (StemCell
+Technologies) at −80 °C, then transferred to liquid nitrogen within
+24 h. Single-cell suspensions from these endoscopic biopsies were then
+prepared by thawing, washing and subsequent mincing of the tissue
+using surgical scissors. Minced tissue was then subjected to rounds
+of digestion in RPM 1640 medium (Sigma) containing 5% FBS
+(Life Technologies), 5 mM HEPES (Sigma), antibiotics as above and
+Liberase TL with DNAse I (Sigma). After 30 min, digestion
+supernatant was removed, filtered through a cell strainer, spun down
+and resuspended in 10 ml of PBS containing 5% BSA
+and 5 mM EDTA. Remaining tissue was then topped up
+with fresh digestion medium until no further cells were liberated
+from the tissue. Cells were then stained and FACS-sorted, as
+described above for live EPCAM CD45 cells, before being taken
+for microfluidic partitioning.

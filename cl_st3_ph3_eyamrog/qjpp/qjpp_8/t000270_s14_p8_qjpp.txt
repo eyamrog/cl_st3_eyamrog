@@ -1,0 +1,8 @@
+For each agent j in J , i dissolves an
+existing tie, if i 's utility (see section Utility) without
+tie ij exceeds the utility with tie ij ; or
+i proposes a new tie to j , if i
+'s utility with tie ij exceeds the utility without ij
+. Note that only if j accepts the proposal (
+j 's utility with tie ij also exceeds the utility
+without ij ), a new tie ij is formed.

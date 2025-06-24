@@ -1,0 +1,19 @@
+In the present study, we refer to the three most
+prevalent variants of the 501Y.V2 lineages as 501Y.V2-1, 501Y.V2-2, and
+501Y.V2-3. In the early stages of the second wave, 501Y.V2-1
+was prevalent; it is identifiable by five amino acid mutations
+in the S protein (in addition to D614G), including D80A,
+D215G, E484K, N501Y, and A701V. Subsequently, two further mutations arose
+in the S protein, L18F, and K417N, resulting in the
+emergence of variant 501Y.V2-2. The third variant (501Y.V2-3) appeared based
+on deletion of S protein residues (Del242-244) from 501Y.V2-2. Compared
+against the S protein of the 614G virus shows that
+501Y.V2-3’s S protein contains 8 mutations: four are located at
+the NTD (L18F, D80A, D215G, and Del242-244), three are in
+the viral RBD (K417N, E484K, and N501Y), and one is
+in the S2 region (A701V) ( Tegally et al., 2020a
+35. Tegally, H. ∙ Wilkinson, E. ∙ Giovanetti, M. ...
+Emergence and rapid spread of a new severe acute respiratory
+syndrome-related coronavirus 2 (SARS-CoV-2) lineage with multiple spike mutations in
+South Africa medRxiv. 2020; Published online December 22, 2020 Crossref
+Scopus (0) Google Scholar ).

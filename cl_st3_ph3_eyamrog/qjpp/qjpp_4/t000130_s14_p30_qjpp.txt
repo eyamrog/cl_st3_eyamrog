@@ -1,0 +1,10 @@
+Transfected SY5Y cells were plated on the porous filter of
+the upper chamber of transwell culture dishes (8 μm pore
+size; BD Falcon, NJ, 5 x 10 4 cells/ml). The
+cells were then incubated for 60 h in a 37°C,
+5% CO2-incubator. Cells retained on the upper face of the
+membrane were scrubbed using cotton swabs. The transwell culture dishes
+were then fixed with with 4% PFA for 30 min,
+before washing with 3 successive PBS-baths and mounting in Mowiol.
+Migrating cells were counted using a confocal microscope (Olympus, FV1000,
+X81).

@@ -1,0 +1,12 @@
+The data set had a hierarchical structure, consisting of camera
+trap deployments (the smallest sampling units) nested within unique sampling
+stations, which were in turn nested within each study site
+( Table 1 ). We therefore used hierarchical (mixed) models
+to study site-level properties while accounting for lower-level nested effects.
+Random intercepts for stations (cameras) were incorporated to capture camera-to-camera
+heterogeneity, to accommodate the possibility that repeated deployments within stations
+in the continental sites are not independent, and to allow
+unique camera-specific baselines to contribute to model predictions. We fit
+models for detection rates, party size, and duration of terrestrial
+events in this hierarchical context ( Monteza-Moreno et al., 2020
+).

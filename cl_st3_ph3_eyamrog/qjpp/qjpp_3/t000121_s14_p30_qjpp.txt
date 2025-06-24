@@ -1,0 +1,14 @@
+ELISAs on directly immobilized hVLPs were performed as previously described
+( Tong et al., 2012 86. Tong, T. ∙ Crooks,
+E.T. ∙ Osawa, K. ... HIV-1 virus-like particles bearing pure
+env trimers expose neutralizing epitopes but occlude nonneutralizing epitopes J.
+Virol. 2012; 86 :3574-3587 Crossref Scopus (80) PubMed Google Scholar
+). Briefly ADA.CM.v4 hVLPs (prepared as detailed above and treated
+with or without AT-2) were immobilized on microwell plates at
+a 20x concentration for 2 h at 37þC. Plates were
+blocked with 4% non-fat dry milk (NFDM) PBS for 1
+h at 37þC, probed with serial dilutions of primary antibodies
+and, subsequently, goat anti-human-Fcɣ-HRP secondary antibody (Jackson) in PBS +
+0.4% NFDM, and with washes using PBS between each step
+(detergent was omitted from all steps). Signal was developed using
+One-step Ultra TMB Substrate (ThermoFisher).

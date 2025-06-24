@@ -1,0 +1,24 @@
+We used the A’Hern one-stage approach to calculate the sample
+size. For the primary objective of the trial, 27 patients
+were required to achieve a power of at least 85%
+to test the null hypothesis that the rate of response
+to panitumumab would be 10% or less versus the alternative
+hypothesis that the response rate would be 30% or more,
+at a one-sided alpha level of 0.05. Six objective responses
+were necessary to declare the study positive. Initially, only patients
+experiencing a ≥50% drop of RAS/BRAF plasma clones, determined by
+testing the ctDNA at prior anti-EGFR progression and at progression
+to the preceding chemotherapy, entered the trial. These screening criteria
+were rapidly modified due to logistics attrition and more recent
+retrospective clinical knowledge , as discussed in detail above (
+Discussion ). Accordingly, the protocol was amended to require a
+single determination of RAS/RAF and EGFR ECD WT ctDNA (Extended
+Data Fig. 2 ), obtained at progression of the immediately
+preceding chemotherapy (any type). However, the expected panitumumab rechallenge ORR
+remained the same—that is, 30%—requiring under the same alpha and
+beta assumption a sample size of 27 patients. Therefore, 27
+patients were recruited in the amended protocol (version 3.0) and
+are here reported in both the safety and efficacy analyses.
+The five patients enrolled in the previous version of the
+protocol are not included in this analysis and will be
+reported separately.

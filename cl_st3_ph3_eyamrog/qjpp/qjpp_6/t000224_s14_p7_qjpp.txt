@@ -1,0 +1,17 @@
+In response, Gamisch (2020 :1443) acknowledged the spatial limitations of
+Oscillayers: “the underlying spatial pattern of each modelled time period
+is driven by the scaled differences between the LGM [Last
+Glacial Maximum] and the present”—while noting that these limitations were
+recognized in the original paper ( Gamisch, 2019 ). Overall,
+Gamisch (2020 :1444) defended Oscillayers while acknowledging aspects of Brown
+et al.’s (2020) criticisms, arguing “that describing past climates with
+a single scaling factor might result in oversimplified models of
+past climate change ; however, in lieu of better data
+products, I would contend that, despite its limitations, the Oscillayers
+framework ( Gamisch, 2019 ) works as reasonably well as
+similar approaches.” In light of Brown et al.’s (2020) concerns
+and Gamisch's (2020) responses, addressing Questions 4 and 5 of
+this paper involved a ‘prestage’, in which I tested the
+Oscillayers model against site-specific paleotemperature estimates from the MIS 13–11
+interval. The mechanics of this testing along with the results
+are outlined in Supplementary Online Material (SOM) S1 .

@@ -1,0 +1,7 @@
+Our corpus adds to an ongoing effort to annotate plenary
+debates of several European Parliaments. As a multi-party system with
+little freedom of vote, the Portuguese Parliament is particularly interesting
+for comparative political studies. This effort was also complemented with
+a web platform with a simple user interface, that allows
+for searches and simple longitudinal analysis. This access is free
+and interested parties should contact the authors.

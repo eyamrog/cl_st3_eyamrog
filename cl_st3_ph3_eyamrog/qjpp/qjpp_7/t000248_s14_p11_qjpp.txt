@@ -1,0 +1,18 @@
+To examine Hypotheses 1 and 2, we ran multilevel regression
+analyses with national identification as the outcome variable (Hox et
+al., 2010 ), first testing the null model. Second, ethnic
+identification and individual experiences of school discrimination were added as
+level 1 predictors while controlling for age, gender, and cognitive
+performance (“individual level main effects” model). Third, minority presence and
+minority experiences of school discrimination were added at the class
+level (“individual and class level main effects” model). Fourth, the
+effect of ethnic identification was allowed to vary between classes
+(“random effects model”). Fifth, the cross-level interaction between ethnic identification
+and minority presence was added (“two-way interaction model [MP]”). Sixth,
+the cross-level interaction between ethnic identification and minority experiences of
+discrimination was added instead (“two-way interaction model [MD]”). 7 Finally,
+all two-way interactions and a three-way interaction between ethnic identification,
+minority presence, and minority experiences of school discrimination were jointly
+added (“full” model). We tested improvement in model fit using
+the robust Satorra-Bentler scaled chi-square difference test of the log-likelihood
+ratio (Δχ 2 ).

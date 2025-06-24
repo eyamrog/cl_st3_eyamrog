@@ -1,0 +1,12 @@
+In the proportional multistate lifetable (PMSLT ) model, the BAU
+lifetables for each sex-by-ethnicity-by-age cohort were specified for all-cause mortality
+and morbidity (with trends to 2026, then rates held constant),
+and the incidence and case-fatality rates for the remainder of
+the lifespan for 17 diet-related diseases (coronary heart disease, stroke,
+osteoarthritis, diabetes, and multiple cancers: endometrial, head and neck, kidney,
+liver, lung, oesophageal, pancreatic, stomach, thyroid, colorectal, breast, ovarian, and
+gallbladder). The raw estimates of disease incidence, prevalence, and case-fatality
+rates were first determined by sex, ethnicity, and age group
+from linked health records for all New Zealand citizens. They
+were then processed through an epidemiological calculator (DISMOD ) to
+ensure complete coherence before inputting to BAU in the PMSLT.

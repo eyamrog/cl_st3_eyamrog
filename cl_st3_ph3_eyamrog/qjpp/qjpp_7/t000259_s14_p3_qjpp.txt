@@ -1,0 +1,10 @@
+I test these expectations using a conjoint experimental design (
+Luce and Tukey 1964 ; Strezhnev et al., 2013 ;
+Hainmueller et al., 2014 ). Conjoint experiments are useful for
+testing hypotheses where the number of varied dimensions (“attributes”) and
+the different values they can take on (“levels”) would create
+a prohibitively large design. That is, if we were to
+divide up the sample and randomly assign just one treatment
+per respondent, the number of possible assignments would approach or
+even exceed the number of respondents participating in the survey
+(a “small cell” problem).

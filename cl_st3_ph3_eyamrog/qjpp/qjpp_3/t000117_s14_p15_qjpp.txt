@@ -1,0 +1,11 @@
+All Fezf2-CreER mice underwent tamoxifen induction to activate the Cre-dependent
+expression of genes of interest. Tamoxifen (Sigma-Aldrich, catalog number T5648)
+was dissolved in corn oil at a concentration of 20
+mg/ml, by constant shaking for 24 hours at room temperature
+in a container protected from light. Aliquots (1 mL each)
+were stored at 4°C. Tamoxifen induction was performed via intraperitoneal
+injection at a dose of 0.1 mg/g of body weight,
+once every 2 days for a total of 3 times.
+For virally driven gene expression, the first induction was performed
+one day after surgery. All mice were closely monitored throughout
+the course of tamoxifen injections and the post-injection period.

@@ -1,0 +1,14 @@
+Participants who provided primary consent to be part of the
+AoURP and share EHR data had an opportunity to provide
+their Fitbit data under the Bring Your Own Device program.
+Participants connected their own Fitbit device account with the AoURP
+Participant Portal and agreed to share their complete data over
+all time in their Fitbit account. For example, if a
+participant began tracking in their Fitbit account in May 2015
+(that is, before the launch of AoURP), the AoURP data
+pull captured all existing Fitbit data in their account, not
+just recent data. A participant could stop sharing their data
+at any time. Participants’ data had direct identifiers removed and
+all datetime fields were subjected to date shifting by a
+random number between 1 and 365 days in accordance with
+approved AoURP privacy policies.

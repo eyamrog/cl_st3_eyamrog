@@ -1,0 +1,6 @@
+All models were estimated with and without controls that may
+be influenced by the policy (GP referral, out-of-hours, severity, admission).
+Variation in the effect over the three years post-policy was
+also assessed. Sub-group analysis was carried out by GP referral
+status, diagnosis/presenting complaint and by time of attendance, to better
+understand the variation in the impact of the policy.

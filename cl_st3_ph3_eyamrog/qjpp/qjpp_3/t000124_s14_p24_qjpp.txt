@@ -1,0 +1,19 @@
+The python version of Straw (strawC v0.0.9) ( Durand et
+al., 2016 19. Durand, N.C. ∙ Robinson, J.T. ∙ Shamim,
+M.S. ... Juicebox provides a visualization system for Hi-C contact
+maps with unlimited zoom Cell Syst. 2016; 3 :99-101 Full
+Text Full Text (PDF) Scopus (508) PubMed Google Scholar )
+was used to extract Hi-C counts from the illustrated Hi-C
+maps ( Figure 2 ; Figure S1 ) in 1-Mb
+resolution and with the normalization approach of Vanilla Coverage (VC).
+To represent the intra- and interchromosomal interactions in an intuitive
+manner, the cis Hi-C contact of a chromosome was quantified
+as the sum of all Hi-C counts within the chromosome
+per se , while trans Hi-C contacts referred to the
+sum of Hi-C counts between the designated chromosome and all
+other chromosomes. The final intra- and interchromosomal contacts for each
+single chromosome were normalized through the percentages of Hi-C counts
+over the sum of all Hi-C signals in the corresponding
+Hi-C map. It is also noteworthy that the infinite extracted
+Hi-C counts through Straw were replaced by the mean of
+all other finite counts within the extracted chromosomal pair.

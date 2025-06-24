@@ -1,0 +1,22 @@
+The second analysis focuses on the interactional approach and uses
+CWB to facilitate the extraction of candidate threads from the
+large corpus of online discussions. To conduct digital CA, researchers
+follow a systematic procedure to ensure their findings reveal what
+can possibly be achieved by different language practices, similar to
+that of CA. In CA, according to Heritage (2004), researchers
+can first identify some candidate practices or topics which are
+distinct and relevant to their research interest, by preliminary reading
+of the data. Then, a collection of conversations that involve
+these practices are compiled. To analyze the data following CA
+principles, relevant turns are located in each conversation and analysed.
+Finally, the researchers may narrow down their choices of candidate
+practices to the practices they systematically find in the collection
+of conversations. Similar procedures are used in micro-analysis except that
+it does not strictly follow the CA principles but maintains
+the underlying principles of an interactional approach by examining how
+users respond to each other in a thread. It is
+in the building of collections of threads that the CWB
+tool becomes handy, especially when the corpus is so huge
+that it is not possible for researchers to read through
+all the threads to decide which threads to be examined
+closely.

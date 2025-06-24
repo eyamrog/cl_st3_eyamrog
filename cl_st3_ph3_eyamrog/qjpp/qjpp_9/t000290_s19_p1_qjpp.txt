@@ -1,0 +1,15 @@
+Figure 2 plots the mean formant positions across Manitoba’s monophthongal
+vowel system in F1xF2 space, aggregated across all participants and
+undifferentiated for region, ethnic background, gender, or age. Several features
+of the Manitoba vowel space are notable: it is somewhat
+compact in the F2 dimension, with the most back vowel
+being /o/ at F2 = 1256 Hz; /u/ is advanced/centralized;
+/ʌ/ is very low and back; and /æ/ is the
+lowest vowel in the system. The lowest-vowel status of /æ/
+in Winnipeg was previously observed by Hagiwara (2006) , who
+noted it as being consistent with production of Canadian Shift
+( Clarke, Elms & Youssef 1995 ). With regard to
+the focus of the present study, it is worth mentioning
+that the mean positions of the vowels /æ/, /ɛ/, and
+/e/ are relatively distant from each other. Open in Viewer
+Figure 2 . The Manitoba Vowel Space

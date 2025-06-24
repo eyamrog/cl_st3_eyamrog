@@ -1,0 +1,20 @@
+I calculated the Pillai score for start and north in
+informal conversation for each speaker. Pillai scores ranged from 0.015
+(STLWFCB1, 8 born 1950; Figure 2 ) to 0.784 (STLWFNC2,
+born 1978; Figure 3 ). Open in Viewer Figure 2
+. Distribution of S tart -N orth Tokens for Speaker
+STLWFCB1 Open in Viewer Figure 3 . Distribution of S
+tart -N orth Tokens for Speaker STLWFNC2 The very low
+scores are quite close to zero; several speakers nearly completely
+overlap in production of the two vowels. Given that in
+a small sample we would expect some variability, this result
+would suggest that these speakers almost certainly have a full
+merger between the vowels. The highest Pillai scores, on the
+other hand, indicate a large degree of separation between them.
+Linear regression of Pillai score against speaker age finds a
+significant effect of age (Intercept β = .626, p =
+0.0007; Age β = -.005, p = 0.0329, adjusted r
+2 = 0.1963); Pillai scores have increased in St. Louis
+over time (see Figure 4 ). Open in Viewer Figure
+4 . Change in S tart -N orth Pillai Scores
+over Time

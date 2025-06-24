@@ -1,0 +1,20 @@
+From all four surveys, we used participant self-reported body height
+and body weight, in addition to that reported in the
+menuCH and conscripts, for which body height and body weight
+were measured, to calculate BMI (kg/m 2 ). We included
+only participants with a BMI between 14.0 and 60.0 kg/m
+2 . BMI was categorized using the WHO classification (World
+Health Organization, 2022 ): underweight (BMI <18.5 kg/m 2 ),
+normal weight (18.5 BMI - 24.9 kg/m 2 ), and
+excess weight (BMI ≥25.0 kg/m 2 ). In addition to
+BMI, waist and hip circumferences were measured and waist-to-hip-ratio (WHR)
+and waist-to-height-ratio (WHtR) were calculated in menuCH and grouped according
+to official categorisations: According to previous studies, participants were classified
+to be at risk for cardiovascular complications according to the
+following WHtR- and WHR cut-offs or groups, for men (M)
+and women (W) respectively: WHR: (1) no risk <0.95 (M),
+< 0.80 (W), (2) increased risk 0.95–1.00 (M), 0.80–0.85 (W),
+(3) substantially increased risk >1.00 (M), > 0.85 (W); WHtR
+in both sexes: (1) no risk ≤0.5, (2) increased risk
+>0.5–0.6, (3) substantially increased risk >0.6 (Ashwell, 2011 ; World
+Health Organisation (WHO), 2008 ).

@@ -1,0 +1,24 @@
+Cu 2+ was coordinated in the MUC2 D1 crystal structure
+by three histidines and a glutamate ( Figure 2 B).
+In addition to His277 and His324, which drew closer together
+in the crystal structure compared to their positions in the
+cryo-EM cluster ( Figure 2 C), the amino-terminal region of
+D1 became ordered in the crystal, providing His34 for metal
+coordination. The highly conserved Glu156 ( Figure 1 C) completed
+the Cu 2+ coordination sphere. Though other proteins bind Cu
+2+ with similar ligands, the MUC2 geometry is distinct (
+Figure S2 ). The three histidines occupy approximately three sides
+of a square-planar coordination geometry, while the glutamate approaches at
+an angle of about 120° to the plane. The copper
+ligands were observed at 2.0 to 2.3 Å distance from
+the metal in the crystal structure model. The three methionines
+present in the cryo-EM cluster, Met146, Met154, and Met326, did
+not contribute to Cu 2+ binding in the D1 crystal
+structure and were positioned with their sulfur atoms about 6
+Å away from the metal ( Figure 2 B). Extended
+X-ray absorption fine structure (EXAFS) of Cu 2+ -loaded MUC2
+D1 was consistent with ligation to three multiple scattering histidine
+residues and one N/O ligand and provided more accurate distances
+of 2.018 and 1.886 Å for the histidines and glutamate,
+respectively ( Figures 2 D, S3 A, and Table S3
+).

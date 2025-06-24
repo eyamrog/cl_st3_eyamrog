@@ -1,0 +1,15 @@
+We thank Luke Smith for patient recruitment and sample collection;
+Callum Dixon, Benjamin Johnson, Lydia Scarlett, and Silvia Austin for
+collection of clinical data; Céline Galloway, Oliver Wood, Katy McCann,
+and Lindsey Chudley for sample processing; and Sharon Gilchrist for
+the illustration. We thank the La Jolla Institute (LJI) Flow
+Cytometry Core for assisting with cell sorting and the LJI’s
+Clinical Studies Core for organizing sample collection. We thank Peter
+Friedmann and Anusha Preethi Ganesan for providing critical feedback on
+the manuscript. This work was funded by NIH grants U19AI14274,
+U19AI142742-0S1 (to P.V., A.S., and C.H.O.), U19AI118626 (to P.V., A.S.,
+and G.S.), R01HL114093 (to P.V., F.A., and G.S.), R35-GM128938 (F.A),
+S10RR027366 (BD FACSAria-II), and S10OD025052 (Illumina Novaseq6000); the William K.
+Bowes, Jr. Foundation (P.V.); and Whittaker Foundation (C.H.O.). Supported by
+the Wessex Clinical Research Network and National Institute for Health
+Research UK.

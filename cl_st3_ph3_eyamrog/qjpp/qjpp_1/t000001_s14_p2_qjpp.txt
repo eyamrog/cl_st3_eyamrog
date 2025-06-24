@@ -1,0 +1,6 @@
+From our uncertainty estimates we generated a BPRF representing the
+most conservative (that is, closest to null) interpretation of the
+severity of risk based on the available evidence and mapped
+the results onto a star rating system stratified into five
+levels of risk. The methodology and statistical techniques underlying this
+approach have been described previously .

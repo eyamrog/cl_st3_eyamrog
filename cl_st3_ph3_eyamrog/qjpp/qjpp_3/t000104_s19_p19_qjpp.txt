@@ -1,0 +1,8 @@
+To investigate the clinical relevance of FBXO44/SUV39H1 inhibition for cancer
+immunotherapy, we created a FBXO44-immune gene signature and evaluated its
+predictive value across multiple public cancer immunotherapy datasets, including anti-PD-1
+and tumor-infiltrating T cell (TIL) therapies ( Figure S7 D).
+Responders to immune therapies expressed higher levels of the FBXO44-immune
+gene signature than non-responders across most of the datasets (
+Figures 7 H, 7I, and S7 E), suggesting that FBXO44/SUV39H1
+inhibition sensitizes cancers to immunotherapy.

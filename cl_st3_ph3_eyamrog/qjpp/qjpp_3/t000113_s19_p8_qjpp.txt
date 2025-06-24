@@ -1,0 +1,23 @@
+Traditional spatial place fields are shaped by experience. They are
+initially Gaussian, but with experience they begin to gradually ramp
+up in activity as the animal approaches the center of
+the field, resulting in a negatively skewed place field (
+Mehta et al., 2000 42. Mehta, M.R. ∙ Quirk, M.C.
+∙ Wilson, M.A. Experience-dependent asymmetric shape of hippocampal receptive fields
+Neuron. 2000; 25 :707-715 Full Text Full Text (PDF) Scopus
+(377) PubMed Google Scholar ). To examine whether this was
+the case in our data, for each value place field,
+we computed a skewness index by comparing firing rates on
+either side of the field’s center of mass ( Figure
+4 D; STAR Methods ). Across the population of value
+place cells, fields were negatively skewed only on the portion
+of the trajectory that subjects had previously experienced, that is
+the second pass along the correlated portion of the trajectory
+( Figure 4 E). This was consistent with behavioral results
+which showed that subjects used their prior experience along the
+trajectory. Subjects’ performance significantly improved on the second pass along
+the correlated portion of the trajectory relative to the first
+pass ( Figure S5 ). We also saw a skewing
+of value place fields on the second traversal of the
+circular trajectory relative to the first ( Figure S5 ),
+again consistent with skewing reflecting an effect of experience.

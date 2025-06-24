@@ -1,0 +1,21 @@
+For all study participants, fat-free mass was derived from isotope
+dilution and fat mass was calculated as the difference between
+body mass and fat-free mass. For a subset of the
+TEE measurements (1063 females and 693 males), a paired measure
+of BEE (i.e., the minimum energy required to keep the
+body functioning; McNab, 1997 ; Frappell and Butler, 2004 )
+was taken using indirect calorimetry . To qualify as ‘basal,’
+BEE measurements must be performed on resting, postabsorptive subjects within
+their thermoneutral zone, such that BEE eliminates any source of
+variation related to behavior, digestion, and thermoregulation . We therefore
+used this subset of the data to test for GMV
+not only in BEE but also in AEE. Activity energy
+expenditure was calculated as 0.9∗TEE – BEE, assuming that diet-induced
+energy expenditure accounts for 10% of the total energy budget
+( Westerterp, 2004 ). Total energy expenditure, BEE, and AEE
+are all reported as MJ∙d −1 . We also included
+in our analyses the following traits as variables that differ
+both on average and in magnitude of variance between the
+sexes, and can correlate with energy expenditure: height (cm), fat-free
+mass (kg), fat mass (kg), and age (y) ( Heymsfield
+et al., 2007 ; Pontzer et al., 2021 ).

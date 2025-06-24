@@ -1,0 +1,26 @@
+Stimulus playback and trial control were performed via a Bpod/PulsePal
+open-source Arduino-based system (Sanworks, Stony Brook, NY, USA). Custom-written scripts
+in MATLAB based on Bpod commands were used to control
+the delivery of CS and US and record behavioral responses,
+including licking events, poking events and running velocity. Pure tones
+(70 dB; the CS) with different frequencies were generated as
+sine wave. The tones were uploaded to the audio adaptor
+board using the Bpod control system. The amount of liquid
+(the US) was controlled by fast solenoid valves (Lee Company).
+A metal spout was placed in front of the mouth
+of an animal for liquid delivery. In experiments which required
+delivery of sucrose and quinine, we used two tubes (one
+for each solution) epoxied together to avoid mixing of tastants.
+The spout also served as part of a custom “lickometer”
+circuit, which registered a lick event each time a mouse
+completed the circuit by licking the spout. The licking events
+were recorded and analyzed using custom scripts written in MATLAB.
+We used a rotary encoder (YUMO-E6B2-CWZ3E-1024; SparkFun Electronics) to detect
+and record real-time running velocity. The rotary encoder was attached
+to a running wheel and connected with a microcontroller (Arduino
+UNO R3; SparkFun Electronics). The running wheel (diameter, 14 cm;
+width, 8 cm) was made using a 3D printer (MakerBot
+Replicator 2; MakerBot). The microcontroller converted the digital inputs from
+the rotary encoder into analog signals reflecting running velocity, which
+was in turn recorded and analyzed with custom scripts written
+in MATLAB.

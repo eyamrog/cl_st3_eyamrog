@@ -1,0 +1,17 @@
+where, INEQUAL i , t denotes income inequality measured by
+the Gini coefficient of country i in period t .
+TOUR refers to tourism development of country i in period
+t , which is measured by the number of tourist
+arrivals. Gov denotes governance measurement of country i in period
+t . For robustness check, governance is measured by four
+proxies, namely, the rule of law (Law), PS, VAC, and
+Govef. TOUR × Gov represents interactions between the various indicators
+of governance and tourism development (i.e., TOUR × Law, TOUR
+× PS, TOUR × VAC, and TOUR × Govef). CV
+is a vector of control variables, that is, foreign direct
+investment (FDI) and financial development (FD). τ represents the coefficient
+of auto-regression, ξ t is the time-specific constant, η i
+is the country-specific effect, σ 0 is a constant, and
+ε i , t is the error term. The definitions
+of variables, a summary of statistics, and a correlation matrix
+are presented in Appendices 1, 2, and 3, respectively.

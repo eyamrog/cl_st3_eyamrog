@@ -1,0 +1,2 @@
+Self-rated general health status was estimated by a 4-point Likert
+scale (very good, good, fair, poor).

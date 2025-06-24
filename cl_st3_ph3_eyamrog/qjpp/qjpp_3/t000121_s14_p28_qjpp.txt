@@ -1,0 +1,16 @@
+Structure and tomographic images were generated using UCSF Chimera (
+Pettersen et al., 2004 65. Pettersen, E.F. ∙ Goddard, T.D.
+∙ Huang, C.C. ... UCSF Chimera--a visualization system for exploratory
+research and analysis J. Comput. Chem. 2004; 25 :1605-1612 Crossref
+Scopus (33470) PubMed Google Scholar ), ChimeraX ( Pettersen et
+al., 2021 66. Pettersen, E.F. ∙ Goddard, T.D. ∙ Huang,
+C.C. ... UCSF ChimeraX: Structure visualization for researchers, educators, and
+developers Protein Sci. 2021; 30 :70-82 Crossref Scopus (3748) PubMed
+Google Scholar ), IMOD’s graphical user interface ( Kremer et
+al., 1996 41. Kremer, J.R. ∙ Mastronarde, D.N. ∙ McIntosh,
+J.R. Computer visualization of three-dimensional image data using IMOD J.
+Struct. Biol. 1996; 116 :71-76 Crossref Scopus (4019) PubMed Google
+Scholar ) and ImageJ ( Schneider et al., 2012 77.
+Schneider, C.A. ∙ Rasband, W.S. ∙ Eliceiri, K.W. NIH Image
+to ImageJ: 25 years of image analysis Nat. Methods. 2012;
+9 :671-675 Crossref Scopus (43973) PubMed Google Scholar ).

@@ -1,0 +1,25 @@
+The scope of corpus linguistics has widened considerably over the
+years. Corpus-based methods are now being used in various branches
+of linguistics, broadening the range of their application to diverse
+areas of inquiry within the field. One of the applications
+of corpus linguistics has been in the area of Second
+Language Acquisition ( sla ). Prior to the advent of
+corpus linguistics, research in this area mostly relied on small-scale
+samples collected from learners through highly controlled experiments or language
+tasks, resulting in data that were not necessarily reflective of
+L2 learners’ actual production in natural communicative contexts ( Granger
+et al ., 2015 ). The application of corpus linguistics
+to the research on sla in the late 1980s allowed
+for large-scale aggregation and analysis of learner data, giving rise
+to a completely new strand of research within applied linguistics:
+learner corpus research ( Granger, 2002 ). Learner corpus research
+( lcr ) relies on a principled collection of machine-readable
+learner texts (known as a learner corpus) to provide insights
+into how learners use a language that is additional to
+their mother tongue. Learner corpus studies draw their conclusions on
+the basis of large-scale samples of actual language output of
+learners and can be said, thus, to be in a
+better position to lay claim to generalisability (but see Biber
+et al . [1998 : 243] and Omidian et al
+. [2021] , for a discussion of the unique challenges
+related to research design in a corpus-based study).

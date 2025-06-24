@@ -1,0 +1,14 @@
+The traditional estimation approach for DCE with duration data assumes
+linear time preferences. This implies that the general public is
+willing to give up a constant proportion of remaining life
+years for a certain health improvement, without consideration of the
+number of life years that remain ( Dolan and Stalmeier,
+2003 ). Previous work provided evidence that this assumption does
+not hold in DCE with duration data and that it
+would introduce biased parameters, as health state preferences would be
+contaminated by time preferences ( Craig et al., 2018 ;
+Jonker et al., 2018a ). As such, we did not
+want to presume linear time preferences from the outset and
+selected an approach that can accommodate non-linear time preferences with
+a more flexible approach ( Jonker et al., 2018a ).
+How this was achieved is outlined below under ‘conceptual framework’.

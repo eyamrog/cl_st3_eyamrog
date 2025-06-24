@@ -1,0 +1,17 @@
+The fourth innovation of the current study was to use
+an advanced set of price elasticities in a highly disaggregated
+matrix of 340 food groups to allow for substitution and
+complementary effects. A 23 by 23 food matrix was generated
+using a linear almost-ideal demand system, with Bayesian priors for
+demand equation coefficients generated from a New Zealand food price
+elasticities matrix. The demand equations were first estimated for 11
+hierarchical subsets of food groups ( appendix p 5 ),
+and then aggregated to the 23 by 23 food group
+price elasticities matrix, as is common practice. This approach was
+chosen both for computational tractability and theoretical reasons, including that
+food complements and substitutes for the elasticity estimation of cross-price
+elasticities are more important between foods considered to be alike
+(eg, poultry and pork) than for unlike foods (eg, poultry
+and beverages). The resultant price elasticities matrix is shown in
+the appendix (pp 9–10) , and further details are published
+elsewhere.

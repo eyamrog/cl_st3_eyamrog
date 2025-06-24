@@ -1,0 +1,18 @@
+The key dynamics of the model follow the idea that
+as individuals get infected the number of susceptible people decreases,
+and also that the more that people are infected at
+any point in time the easier it will be for
+the average susceptible individual to get infected. We also allow
+for a fraction ε of the recovered individuals to become
+susceptible per time step . This is captured by the
+following equation: (1) S t + 1 = S t
++ ε R t − β ( S t +
+ε R t ) I t / N , where
+β captures the average number of contacts per individual at
+each time step, times the probability of getting infected if
+meeting an infected individual and is known as the infection
+rate. Note that 0 ≤ ε ≤ 1 such that
+if ε = 0 it is equivalent to assuming that
+all recovered individuals become immune, which means that (1) would
+become S t + 1 = S t − β
+S t I t / N .

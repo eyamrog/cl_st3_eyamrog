@@ -1,0 +1,9 @@
+The simple framework that we use as our starting point
+here, assumes random mixing between the individuals within the population.
+This means that the probability of getting infected if susceptible
+( β ( S t + ε R t )
+I t ) is the product of β with the
+number of susceptible and infected individuals and is the same
+across susceptible individuals. Physical distancing measures will have an effect
+of reducing the contact between susceptible and infected individuals hence
+reducing β .

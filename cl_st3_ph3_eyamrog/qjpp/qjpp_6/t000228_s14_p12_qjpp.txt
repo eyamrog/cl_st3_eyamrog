@@ -1,0 +1,24 @@
+To minimize the chance of misidentification, we filtered the identified
+sequences in R v. 4.1.0 ( R Core Team, 2021
+) to further remove: 1) sequences occurring in negative controls,
+2) sequences with a percentage identity <97.5%, 3) read counts
+<10 reads per sequence in a PCR replicate, and 4)
+PCR replicates with <10 reads. As the used reference database
+contains limited data from the Caucasus region, it is possible
+that DNA sequences were misassigned to a sister taxon, or
+to a more narrow taxon than appropriate, causing potential overconfidence
+in the taxonomic assignments. To mitigate these potential biases, a
+taxonomic expert checked the taxonomic annotations to assess the likeliness
+of occurrence in the region at the time. Based on
+this assessment, several taxonomic assignments were adjusted (see SOM Table
+S1 ) and additional filtering steps were performed removing sequences
+occurring in a single PCR replicate over the entire data
+set, sequences with a percentage identity <98%, and sequences without
+family-annotation or that were deemed unlikely for the period and
+location. Samples consisting of <2 positive replicates after filtering were
+considered empty and their read counts were set to 0.
+Remaining unique DNA sequences were designated as molecular operational taxonomic
+units (MOTUs). An overview of the filtering steps and their
+effect on the size of the data set, as well
+as a list of manually removed taxa, can be found
+in SOM Table S2 .

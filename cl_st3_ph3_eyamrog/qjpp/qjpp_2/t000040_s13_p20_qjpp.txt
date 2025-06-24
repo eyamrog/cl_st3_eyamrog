@@ -1,0 +1,15 @@
+While AV implementation could lead to various impacts on public
+transportation use, not all impacts are positive. If public transportation
+were to be fully supplanted by private AV alternatives such
+as ridesharing offering door-to-door services, this change may lead to
+physical activity reductions and socioeconomic inequities, removing affordable transportation options
+for low-income citizens ( 35 ). A possible path to
+mitigate this scenario is the integration of AVs in the
+public transport system. Recent projects in the European Union have
+successfully tested autonomous transit in 7 European cities, carrying more
+than 60,000 passengers and sharing the infrastructure with other road
+users ( 2 ). Other types of public transit, such
+as bus rapid transit (BRT) using autonomous platooning with precision
+docking, will produce a BRT-type service that can offer the
+same capacity and service as rail transit with significantly less
+cost ( 43 ).

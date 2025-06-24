@@ -1,0 +1,15 @@
+Our corpus data revealed that the ‘restrictive’ just was used
+to impose a limitation on adjectives, noun (phrases), verb (phrases),
+prepositional phrases, to -infinitive phrases, and because -clauses. In the
+native speaker corpus, the top three most frequently used patterns
+were [‘restrictive’ just + noun (phrase)] (43.1 percent), [‘restrictive’ just
++ verb (phrase)] (29.3 percent), and [‘restrictive’ just + because-clause]
+(19 percent). In the learner corpora, [‘restrictive’ just + verb
+(phrase)] was the most commonly used, regardless of age, accounting
+for 66.2 percent in the adult Taiwanese efl learner corpus
+and 69 percent in the younger Taiwanese efl learner corpus.
+Second on the list was [‘restrictive’ just + noun (phrase)],
+taking up 23.5 percent of the adult learner corpus and
+15.4 percent of the younger learner corpus. The other patterns
+made up only a small proportion of the data, with
+none of them higher than 10 percent.

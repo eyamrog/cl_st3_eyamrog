@@ -1,0 +1,14 @@
+Section 2 provides an overview of the epicene pronoun issue.
+Section 3 contextualizes debates about the use of combined pronouns
+as a solution to the apparent privilege of masculine forms.
+Consideration is given to non-sexist language reform, democratization, and the
+role of combined pronouns in reinforcing a gender binary. Section
+4 introduces the source materials and notes the benefits of
+using corpora for analyzing pronouns (especially pronouns which are relatively
+rare). It documents how the corpora were mined for all
+instances of combined pronouns and how the analysis proceeded. Section
+5 is divided into sections on diachronic change (section 5.1),
+men-first language (section 5.2), and antecedent types and stereotypes (section
+5.3). Section 6 draws the analyses together to discuss the
+future potential for combined pronouns to act as a democratizing
+linguistic feature.

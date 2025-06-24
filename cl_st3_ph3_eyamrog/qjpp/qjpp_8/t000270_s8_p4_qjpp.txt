@@ -1,0 +1,9 @@
+Although we know quite well how small-world properties and homophily
+affect disease spread in networks separately, it is less clear
+how the two shape epidemics in combination. Furthermore, network models
+of disease spread typically neglect adaptive changes in the network
+structure, despite their potentially large effect on predictions ( Bansal
+et al., 2010 ). We therefore ask: What are the
+effects of health behavior homophily on epidemics in adaptive small-world
+networks? and How do epidemics differ between adaptive and static
+networks?

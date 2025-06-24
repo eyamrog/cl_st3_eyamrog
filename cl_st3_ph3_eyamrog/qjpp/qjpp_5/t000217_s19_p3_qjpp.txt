@@ -1,0 +1,6 @@
+For the performance measures ‘attempts per knot’ and ‘success of
+imitation’, neither hand preference congruency nor the interaction of hand
+preference congruency and knot difficulty were significant (full model, Table
+1 ). When the interaction term was removed in the
+final model, hand preference congruency was significant for both performance
+measures (final model, Table 1 ).

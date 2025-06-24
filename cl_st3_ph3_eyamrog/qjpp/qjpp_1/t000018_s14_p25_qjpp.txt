@@ -1,0 +1,11 @@
+Single-cell RNA-seq data was generated from disaggregated intestinal tissue sorted
+for CD45 EPCAM stromal cells. Viable cells were subjected to
+a standard droplet single-cell complementary DNA library preparation protocol. The
+experimental details for generation of cDNA libraries are described in
+a separate manuscript . We demultiplexed FASTQ files for each
+10X library using the Cell Ranger (v.3.1.0) mkfastq function .
+We then mapped reads to the GRCh38 human genome reference
+using Kallisto (v.0.46.0) and quantified genes by cell-barcode UMI matrices
+with Bustools ( https://github.com/BUStools/bustools ) (v.0.39.0). For quantification we used
+gene annotations provided by Gencode (release 33), keeping only protein-coding
+genes and collapsing Ensembl transcripts to unique HGNC-approved gene symbols.

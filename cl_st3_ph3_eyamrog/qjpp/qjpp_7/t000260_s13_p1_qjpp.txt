@@ -1,0 +1,7 @@
+For completeness we first present an SIRD model which will
+be extended in the next section. Assume a population of
+N individuals who at any point in time t ,
+are split between: Susceptible ( S t ), Infected (
+I t ), Recovered ( R t ), and Deceased
+( D t ) with S t + I t
++ R t + D t = N .

@@ -1,0 +1,13 @@
+Figure 5 presents an overview of the results of the
+analysis, a summary of how the usage rate of adverb
+little as a downtoner or durative varies across time and
+as a function of the socio-pragmatic parameters, the speakers’ role,
+class, and gender. Each pane in the four-pane panel displays
+the unique contribution of the predictor (e.g., time), holding the
+other variables constant, i.e., set to their average values. Please
+note that the quantities in the figure are model-based estimated
+rates (per 100,000 words) for each condition, while previous graphs
+(e.g., Figure 1 ) have shown normalized frequencies that compound
+all conditions. The error band/bars in Figure 5 show 50-percent
+and 95-percent credible intervals, reflecting the statistical uncertainty in the
+estimates.

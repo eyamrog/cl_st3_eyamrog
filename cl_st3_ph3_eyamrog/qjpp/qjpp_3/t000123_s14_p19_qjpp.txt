@@ -1,0 +1,11 @@
+In this way, we built the pairwise orthologs between the
+gray short-tailed opossum and another five species when considering both
+the protein similarity and the synteny. We then constructed the
+orthologous genes of all six marsupial species through merging pairwise
+orthologs according to the reference gray short-tailed opossum gene set.
+There were 17,639 putative orthologs without any species restriction. When
+we restricted these orthologs to be present in the gray
+short-tailed opossum, monito del monte, at least one diprotodontian species,
+and at least one dasyuromorphian species, 13,320 orthologs were left.
+In the final list, 9,227 orthologous genes were identified in
+all six species.

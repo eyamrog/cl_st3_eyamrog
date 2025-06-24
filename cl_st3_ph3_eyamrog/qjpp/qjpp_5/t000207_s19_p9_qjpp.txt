@@ -1,0 +1,17 @@
+The observation of several very long terrestrial events meant that
+visit duration has a right-skewed distribution; thus, median visit duration
+was more suitable as an empirical metric. SNP had the
+largest median visit duration (51 s), followed by Jicaron (16
+s), Coiba (15 s), BCI (11 s), and GP (1
+s). However, the longest visit durations were detected on Jicaron
+(870 s) and Coiba (472 s). Much of the difference
+in duration was apparently due to the fact that most
+terrestrial detections at the mainland sites involved traveling capuchins that
+moved quickly across the field of view of our cameras,
+yielding shorter duration than other activities. The model estimates suggested
+that differences in the behavior of terrestrial capuchins were the
+primary determinant of differences in visit durations between sites. For
+a given behavior (traveling vs. nontraveling), the visit duration was
+similar across the sites ( Fig. 3 C). However, capuchins
+on the islands of Coiba and Jicaron engaged in nontravel
+behaviors more often than capuchins on the mainland.

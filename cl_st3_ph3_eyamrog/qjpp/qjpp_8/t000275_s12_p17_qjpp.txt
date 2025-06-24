@@ -1,0 +1,12 @@
+More importantly, CWB allows a data structure that can authentically
+encode the online discussions. As mentioned earlier, the comments in
+the online discussions are nested within five units of analysis:
+MOOCs, Weeks, Learning Pages, Threads, Comments. They were annotated in
+XML according to TEI standard (TEI Consortium, 2020 ), as
+shown in Fig. 3 , then subjected to treetagger (Schmid,
+1994) for tokenization, lemmatization and part-of-speech tagging before being encoded
+in the CWB. More details about the encoding procedures can
+be found in the CWB manual ( Evert, 2021 ).
+Download: Download high-res image (2MB) Download: Download full-size image Fig.
+3 . Annotation of the various units of analysis and
+corresponding variables in XML.

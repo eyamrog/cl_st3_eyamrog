@@ -1,0 +1,20 @@
+Plant chloroplast DNA was amplified using the trn L -gh
+primers that target the P6 loop from the trn L-intron
+( Taberlet et al., 2007 ). These primers are specifically
+designed for amplification of degraded plant DNA and are widely
+used in plant sedaDNA studies. Both primers were tagged with
+a unique 8 or 9 base pair long barcode at
+the 5′ end to allow for multiplexing as described by
+Voldstad et al. (2020) . We conducted six polymerase chain
+reaction (PCR) replicates per sample and extraction negative control, and
+included 30 PCR negative controls. Amplifications of DNA were carried
+out in a final volume of 25 μL containing 5
+μL of DNA extract and 0.2 μM of each primer.
+The amplification mixture further contained 2U of AmpliTaq Gold DNA
+Polymerase with Buffer II (Applied Biosystems), 1 × Buffer II,
+2.5 mM MgCl 2 , 0.2 mM of each dNTP,
+and 0.32 μg/μL of bovine serum albumin (BSA, Roche Diagnostic).
+The mixture was denatured at 95 °C for 10 min,
+followed by 45 cycles of 30 s at 95 °C,
+30 s at 50 °C, 1 min at 72 °C,
+and a 10-min final elongation at 72 °C.

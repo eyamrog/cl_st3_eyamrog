@@ -1,0 +1,23 @@
+It is important to recognize that the solid-like behavior of
+chromatin we observe in vitro and in living cells is
+measured at the mesoscale (10–1,000 nm). This scale is relevant
+to the material properties of the cell nucleus and organization
+of chromosomes into territories and of chromatin into compartments. Although
+there is ample evidence of constrained diffusion of chromatin (
+Maeshima et al., 2020 36. Maeshima, K. ∙ Tamura, S.
+∙ Hansen, J.C. ... Fluid-like chromatin: Toward understanding the real
+chromatin organization present in the cell Curr. Opin. Cell Biol.
+2020; 64 :77-89 Crossref Scopus (62) PubMed Google Scholar ),
+demonstrating that chromatin is liquid requires evidence that nucleosomes can
+move in the domain. We did not find evidence of
+this at mesoscale resolutions. However, double-label experiments where single nucleosomes
+and early S-phase replication domains (putative individual TADs) are co-tracked
+reveal that nucleosomes can show nanoscale liquidity that reflects movement
+in the domain ( Nozaki et al., 2017 41. Nozaki,
+T. ∙ Imai, R. ∙ Tanbo, M. ... Dynamic Organization
+of Chromatin Domains Revealed by Super-Resolution Live-Cell Imaging Mol. Cell.
+2017; 67 :282-293.e7 Full Text Full Text (PDF) Scopus (275)
+PubMed Google Scholar ). We expect that this is essential
+for chromatin to function. The available data indicate that condensed
+chromatin may be liquid-like at the nanoscale but is solid-like
+at the mesoscale.

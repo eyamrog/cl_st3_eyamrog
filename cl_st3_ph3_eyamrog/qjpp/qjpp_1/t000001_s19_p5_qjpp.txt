@@ -1,0 +1,19 @@
+In the cohort studies, the lowest SBP category reported for
+a reference group was <115 mm Hg while the highest
+for a comparison group was >175 mm Hg. In RCTs,
+the observed average SBP ranged from 119.3 ± 10.1 to
+166 ± 9.6 mm Hg in the reference/treatment groups and
+from 129 ± 10.3 to 192 ± 10.2 mm Hg
+in the comparison groups. Across all studies, only five studies
+included groups with SBP values <120 mm Hg at baseline,
+although the average of mean SBP exposure (defined as the
+midpoint of the lower and upper bounds of the exposure
+range/category associated with the reported risk measurement for the group
+in question) in the reference group was 121 mm Hg
+(100–166 mm Hg). The average mean SBP exposure in the
+alternate group was 146 mm Hg (115–193 mm Hg). The
+average mean SBP exposure among alternate and control groups was
+135 mm Hg. We calculated the 15th percentile of exposure
+in the cohorts and trials to be an SBP of
+107.5 mm Hg, and the 85th percentile to be 165
+mm Hg (Fig. 1 ).

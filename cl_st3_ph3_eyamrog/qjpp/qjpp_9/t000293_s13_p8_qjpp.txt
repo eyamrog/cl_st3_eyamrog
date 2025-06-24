@@ -1,0 +1,14 @@
+ets Corpus of Non-Native Written English (also known as TOEFL11
+Corpus), developed by the Educational Testing Service ( ets ),
+contains 12,100 English essays. These essays were written in 2006
+and 2007 by speakers of eleven non-English native languages (Arabic,
+Chinese, French, German, Hindi, Italian, Japanese, Korean, Spanish, Telugu and
+Turkish) as part of the Test of English as a
+Foreign Language ( toefl ). This corpus contains 1,100 essays
+for each of the eleven native languages sampled. Contributors wrote
+on one of eight topics and information about the test
+takers’ proficiency level (whether low/medium/high) was given. The Korean section
+of the corpus consists of a total of 328,384 words
+(low proficiency: 30,787 words; medium proficiency: 202,531 words; and high
+proficiency: 95,066 words). This corpus (LDC Catalog No.: LDC2014T06) is
+available online. 9

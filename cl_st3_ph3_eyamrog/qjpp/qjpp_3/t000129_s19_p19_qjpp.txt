@@ -1,0 +1,20 @@
+To investigate this, we mapped the availability of Fat1 regulatory
+activity by integrating minimal β-globin ( Glob ) promoter-LacZ sensor
+constructs at seven positions within and one position outside the
+TAD ( Symmons et al., 2014 133. Symmons, O. ∙
+Uslu, V.V. ∙ Tsujimura, T. ... Functional and topological characteristics
+of mammalian regulatory domains Genome Res. 2014; 24 :390-400 Crossref
+Scopus (262) PubMed Google Scholar ). LacZ staining of E12.5
+embryos revealed all seven intra-TAD “sensor” locations recapitulated most of
+Fat1 ’s expression pattern, although subtle positional differences were observed
+( Figures 4 A–4C). Critically, this sensor activity was abolished
+when integrated at Zfp42Rb in ΔD1+2 embryos that lack most
+of the TAD, confirming its dependence on Fat1 enhancers (
+Figures 4 A–4C). Likewise, the sensor was activated entirely distinctly
+from Fat1 in the snout and external genitalia when insulated
+from its enhancers following integration outside the TAD near Frg1
+( Figures 4 B and S5 B). Thus, the genomic
+positions of the inactive Zfp42R genes can paradoxically sample Fat1
+enhancers within the TAD despite extensive surrounding and intervening heterochromatic
+LADs. In short, LADs neither directly silence Zfp42R genes nor
+indirectly block their communication with Fat1 enhancers.

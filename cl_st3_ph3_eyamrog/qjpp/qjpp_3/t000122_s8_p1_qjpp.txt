@@ -1,0 +1,26 @@
+Viruses of the Ebolavirus genus have caused over two dozen
+human disease outbreaks, and each outbreak has been unpredictable in
+location, timing, scale, and identity of the etiologic virus. Six
+distinct ebolaviruses are known, with Ebola virus (EBOV), Sudan virus
+(SUDV), and Bundibugyo virus (BDBV) having caused more frequent episodes
+of severe disease ( Feldmann et al., 2020 14. Feldmann,
+H. ∙ Sprecher, A. ∙ Geisbert, T.W. Ebola N. Engl.
+J. Med. 2020; 382 :1832-1842 Crossref Scopus (121) PubMed Google
+Scholar ). EBOV caused sustained outbreaks in Western Africa in
+2013–2016 and in the Democratic Republic of the Congo in
+2018–2020, with the virus re-emerging in survivors of both outbreaks
+in 2021 ( CDC, 2021a 4. CDC History of Ebola
+Virus Disease (EVD) Outbreaks, 2021 Google Scholar ; Keita et
+al., 2021 30. Keita, A.K. ∙ Koundouno, F.R. ∙ Faye,
+M. ... Resurgence of Ebola virus in 2021 in Guinea
+suggests a new paradigm for outbreaks Nature. 2021; 597 :539-543
+Crossref Scopus (99) PubMed Google Scholar ; World Health Organization,
+2021 58. World Health Organization Ebola outbreak 2021- North Kivu
+2021 https://www.who.int/emergencies/situations/ebola-2021-north-kivu Google Scholar ). SUDV has caused five outbreaks
+since its discovery in 1976, and BDBV was linked to
+two outbreaks, one in 2007 and one in 2012 (
+CDC, 2021b 5. CDC Ebola Virus Disease Distribution Map: Cases
+of Ebola Virus Disease in Africa Since 1976 2021 Google
+Scholar ). The Glycoprotein (GP) amino-acid sequences of SUDV and
+BDBV differ from that of EBOV by 50% and 30%,
+respectively.

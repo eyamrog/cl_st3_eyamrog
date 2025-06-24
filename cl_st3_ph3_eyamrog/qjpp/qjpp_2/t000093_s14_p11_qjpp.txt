@@ -1,0 +1,14 @@
+Pre-activation and post-activation images of G3BP KO cells stably expressing
+the indicated fusion proteins were captured with the mCherry (560)
+channel only to visualize the sspB component without triggering light-induced
+dimerization with the iLID-mGFP-tagged Ferritin core. Cells were activated with
+a 488-laser using 1% laser power to cause dimerization of
+iLID and sspB ( Guntas et al., 2015 34. Guntas,
+G. ∙ Hallett, R.A. ∙ Zimmerman, S.P. ... Engineering an
+improved light-induced dimer (iLID) for controlling the localization and activity
+of signaling proteins Proc. Natl. Acad. Sci. USA. 2015; 112
+:112-117 Crossref Scopus (196) PubMed Google Scholar ). Activation of
+cells was achieved by imaging the mCherry and mGFP channels
+simultaneously using a 6 s frame interval for an area
+of 120x120 μm 2 (1024x1024 pixels) at Nyquist zoom. See
+also Phase diagram data collection .

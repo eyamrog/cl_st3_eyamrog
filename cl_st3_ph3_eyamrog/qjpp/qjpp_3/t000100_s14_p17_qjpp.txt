@@ -1,0 +1,12 @@
+Pairwise single-cell differential gene expression analysis was performed using the
+MAST package in R (v1.8.2) ( Finak et al., 2015
+16. Finak, G. ∙ McDavid, A. ∙ Yajima, M. ...
+MAST: a flexible statistical framework for assessing transcriptional changes and
+characterizing heterogeneity in single-cell RNA sequencing data Genome Biol. 2015;
+16 :278 Crossref Scopus (1478) PubMed Google Scholar ) after
+conversion of data to log 2 counts per million (log
+2 (CPM + 1)). A gene was considered differentially expressed
+when Benjamini-Hochberg adjusted P -value was < 0.05 and a
+log 2 fold change was more than 0.25. For finding
+cluster markers (transcripts enriched in a given cluster) the function
+FindAllMarkers from Seurat was used.

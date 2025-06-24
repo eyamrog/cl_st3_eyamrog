@@ -1,0 +1,5 @@
+The data, the Java 8 source code to generate the
+data (including an executable program and an easy to use
+graphical user interface), and the R scripts to analyze the
+data during the current study are available under the GPLv3
+license in the GitHub repository, https://github.com/hnunner/nidm-simulation .

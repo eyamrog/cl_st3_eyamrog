@@ -1,0 +1,9 @@
+A hallmark of de-repressed heterochromatin in budding yeast is decreased
+mating efficiency due to expression of inappropriate mating pheromones. Consistent
+with partial loss of HMLα and HMRaR silencing, [ ESI
++ ] cells mated less efficiently than naive (~2-fold) (
+Figure 5 E). Curing [ ESI + ] by transient
+Hsp90 inhibition restored normal mating efficiency ( Figure 5 E).
+[ ESI + ] thus reduces heterochromatic repression at the
+homothallic mating loci and sub-telomeres alike, leading to a partial
+loss of mating independently of SIR.

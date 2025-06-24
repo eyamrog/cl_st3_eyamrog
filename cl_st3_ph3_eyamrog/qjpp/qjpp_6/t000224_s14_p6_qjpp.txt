@@ -1,0 +1,25 @@
+Brown et al. (2020) have raised both theoretical and methodological
+concerns with regard to the Oscillayers data set. Their theoretical
+concerns are two-fold: 1) that the Oscillayers method does not
+allow climate to vary spatiotemporally and 2) that the method
+cannot incorporate important changes in paleoclimatic forcing mechanisms, such as
+orbital-forcing changes in paleogeography . With regard to methodology, Brown
+et al. (2020) expressed concern over the generation of precipitation
+estimates using a linear relationship between temperature and precipitation. They
+also noted that areas characterized by limited change between the
+LGM and the present will inevitably also show limited change
+in the deeper past and were critical of the Bio8–11
+and Bio16–19 measures because they are based on scaling of
+the delta layer ( Brown et al. [2020] argued that
+they represent joint relationships between temperature and precipitation). The authors
+also questioned the Bio2 (mean diurnal range) and Bio3 (isothermality)
+bioclim layers because of concerns about the underlying assumptions that
+diurnal range should increase as mean global temperatures increase (Bio2)
+and that warming is associated with much larger increases in
+maximum rather than minimum temperatures (Bio3). As part of their
+critique, Brown et al. (2020 , their fig. 2) compared
+the Oscillayers reconstructions with GCMs and noted that GCM models
+reconstructed warmer conditions than Oscillayers, on the order of 1–5
+°C in mainland western Europe. With regard to precipitation, the
+GCM models reconstructed both wetter and drier conditions than Oscillayers,
+with marked local variability.

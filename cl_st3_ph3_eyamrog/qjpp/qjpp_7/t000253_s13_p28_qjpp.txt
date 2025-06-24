@@ -1,0 +1,19 @@
+There is emerging evidence from high-income countries that COVID-19 vaccination
+has averted large numbers of deaths. For example, it has
+been estimated that around 140,000 deaths were averted in the
+USA by early May 2021, the great majority of older
+people (Gupta et al., 2021 ). Assuming that associations between
+age and both risk of infection and CFR in other
+countries are broadly similar, different approaches to vaccine prioritization are
+likely to produce large differences in overall COVID-19 mortality. Estimating
+the size of these effects is complicated, since it requires
+comparisons between actual data and counterfactuals, based on various assumptions.
+Also, age disaggregated COVID-19 mortality data are not available for
+some countries and have been shown to be unreliable for
+others (Demombynes et al., 2021a ). In the case of
+Brazil, where mortality data are relatively robust, it has been
+possible to compare deaths attributed to COVID-19 deaths for different
+age groups over time. This estimates that, had levels of
+mortality for people aged 60 or more remained unchanged before
+and after the vaccination campaign, an estimated 43,802 additional COVID-related
+deaths would have occurred over a 3-month period.

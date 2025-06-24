@@ -1,0 +1,15 @@
+We measured mothers' MUAC and weight on up to four
+occasions per woman as shown in Figure 1 . We
+measured mothers' heights in early pregnancy where possible but at
+other time points otherwise. Lordosis during pregnancy may account for
+small errors in maternal height estimation, but since the proportion
+of mothers of boys and girls that were measured at
+different timepoints are similar, we do not expect this to
+affect our results. Offspring length, weight, and head circumference (HC)
+were taken on up to three occasions per child as
+in Figure 1 . At the endpoint, children were 0
+to 22 months old. The children's data were converted to
+z -scores for length-for-age (LAZ), weight-for-length (WLZ), and head circumference-for-age
+(HCAZ), using the WHO 2006 growth standard and the Stata
+command who2006 , and cleaned using standard WHO criteria for
+plausible values (Crowe et al., 2014 ).

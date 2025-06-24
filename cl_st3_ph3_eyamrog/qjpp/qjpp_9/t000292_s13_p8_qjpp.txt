@@ -1,0 +1,22 @@
+Within the <debate> tag, each page is enclosed in a
+<page> sub-tag that corresponds to the page number within the
+published journal containing the debate. This information is kept in
+the annotation scheme to help with the identification of utterances
+in the source journals. Finally, within each page there is
+one or more <utterance> sub-tags, containing the words spoken by
+mp s and other actors in the Parliamentary debate session.
+Utterances contain several attributes: Page-start . This is the page
+number where the utterance begins. Speaker-string . The original string
+identifying the speaker, from which the other speaker attributes are
+derived. We keep this in the document because it is
+useful when the speaker is not (correctly) identified by the
+pipeline. Speaker-id . This is a universal id that identifies
+the mp uniquely across the entire corpus. Speaker-name . This
+is the short name of the speaker; speaker-id will support
+any possible need for disambiguation. Speaker-party . This is the
+party the speaker belonged to when the utterance was produced.
+Speaker-role . This is currently only used for utterances by
+the President of the National Assembly, where its value is
+‘president’. Other utterances do not have this attribute. Order .
+Is the ordinal number specifying the order of the utterance
+in the current debate.

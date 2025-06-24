@@ -1,0 +1,18 @@
+Drawing conclusions across different levels of “resolution” (protein structures, cells,
+tissues) is challenging and relies on tools such as mutant
+proteins or functional nanobodies. Although these enable us to target
+specific protein-binding surfaces, we cannot rule out that other ligands
+use the same surfaces for binding and therefore could also
+be affected. We have mitigated this risk by targeting Unc5
+and GPC3 individually in different experiments. A further limitation is
+that over-expression of proteins in vivo could lead to artifacts.
+We have used our mutants as controls to assess for
+such effects. Indeed, we found that there are interactions beyond
+those between Unc5-GPC3, for example in the stripe assays. We
+have shown that enhancing or inhibiting Unc5-GPC3 interaction impairs neuronal
+migration without affecting neuron morphology or differentiation. However, we have
+not measured the migration speed in these conditions. In the
+neuroblastoma model, the distribution and expression levels of endogenous and
+over-expressed proteins were not quantified. As above, we did not
+visualize the speed of migration directly, but inferred it from
+cell localization.

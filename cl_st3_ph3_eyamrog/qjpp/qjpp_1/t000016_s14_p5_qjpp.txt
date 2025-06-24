@@ -1,0 +1,7 @@
+The present study was approved by the institutional review board
+of Radboud University Medical Center (IRB 2016-2275), Stockholm regional ethics
+committee (permits 2012/572-31/1, 2012/438-31/3 and 2018/845-32) and Advarra (Columbia, MD;
+Pro00038251). Informed consent was provided by the participants in the
+Swedish dataset. For the other datasets, informed consent was waived
+due to the usage of de-identified prostate specimens in a
+retrospective setting.

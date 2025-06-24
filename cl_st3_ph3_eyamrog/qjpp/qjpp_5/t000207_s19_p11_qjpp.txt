@@ -1,0 +1,6 @@
+We examined the magnitude of differences in site-to-site effects for
+each model, in relation to camera-level standard deviations ( Table
+3 ), to assess the importance of camera-to-camera heterogeneity. We
+found that for the detection rate and party size models,
+the camera-level variation did not appear to be important. For
+duration, in contrast, camera-level variation was relatively important.

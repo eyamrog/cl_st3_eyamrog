@@ -1,0 +1,20 @@
+We do not consider subregional variation within DASS, that is,
+the relationship between the state or sector a speaker comes
+from and their degree of participation in back vowel changes.
+At present, the size of our speaker sample is insufficient
+to address variation due to geography, since adding a factor
+like state would introduce eight additional subdivisions of the dataset.
+In our work with DASS, we have found that consistent
+geographically-driven patterns are scarce and can be overridden by variation
+from other sources. However, some work on DASS has successfully
+illustrated subregional variation. For example, Olsen, Olsen, and Renwick (2018)
+show that /aɪ/ monophthongization varies systematically across the six sub-regions
+into which DASS is divided (Coast, Delta, Highlands, Piedmont, Piney
+Woods, and Plains; see Pederson, McDaniel & Adams [1986] for
+more details). Using GIS mapping techniques of local spatial autocorrelation
+analysis, Jones and Renwick (2020 , forthcoming) have presented evidence
+that there are feature-specific pockets of greater and lesser adherence
+to Southern speech features in DASS (see also Renwick &
+Olsen 2016 ; Olsen, Olsen, Stanley, Renwick & Kretzschmar 2017
+; Renwick & Stanley 2017 ; Stanley, Kretzschmar, Renwick, Olsen
+& Olsen 2017 ).

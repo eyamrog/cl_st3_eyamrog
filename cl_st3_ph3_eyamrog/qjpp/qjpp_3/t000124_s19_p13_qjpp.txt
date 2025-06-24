@@ -1,0 +1,17 @@
+The R. pubera genome is 4 times larger than that
+of its closely related species, despite sharing the same ancestral
+chromosome number (ACN) ( x = 5) ( Burchardt et
+al., 2020 4. Burchardt, P. ∙ Buddenhagen, C.E. ∙ Gaeta,
+M.L. ... Holocentric karyotype evolution in Rhynchospora is marked by
+intense numerical, structural, and genome size changes Front. Plant Sci.
+2020; 11 :536507 Crossref Scopus (4) PubMed Google Scholar ;
+Ribeiro et al., 2018 80. Ribeiro, T. ∙ Buddenhagen, C.E.
+∙ Thomas, W.W. ... Are holocentrics doomed to change? Limited
+chromosome number variation in Rhynchospora Vahl (Cyperaceae) Protoplasma. 2018; 255
+:263-272 Crossref Scopus (11) PubMed Google Scholar ) ( Figure
+S2 A). One explanation for this pronounced genome expansion would
+be a sudden and massive proliferation of repeat elements. However,
+we observed no accumulation of repeats when comparing repeat abundance
+profiles among closely related Rhynchospora species ( Figure S2 A).
+Thus, a different process must be responsible for the large
+genome size in R. pubera .

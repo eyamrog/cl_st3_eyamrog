@@ -1,0 +1,13 @@
+Immunohistochemical analysis of angiotensin-converting enzyme 2 (ACE2) expression, measured as
+mean (±SD) relative counts of ACE2-positive cells per field of
+view, in uninfected control lungs showed scarce expression of ACE2
+in alveolar epithelial cells (0.053±0.03) and capillary endothelial cells (0.066±0.03).
+In lungs from patients with Covid-19 and lungs from patients
+with influenza, the relative counts of ACE2-positive cells per field
+of view were 0.25±0.14 and 0.35±0.15, respectively, for alveolar epithelial
+cells and 0.49±0.28 and 0.55±0.11, respectively, for endothelial cells. Furthermore,
+ACE2-positive lymphocytes were not seen in perivascular tissue or in
+the alveoli of the control lungs but were present in
+the lungs in the Covid-19 group and the influenza group
+(relative counts of 0.22±0.18 and 0.15±0.09, respectively). (Details of counting
+are provided in Table S2.)

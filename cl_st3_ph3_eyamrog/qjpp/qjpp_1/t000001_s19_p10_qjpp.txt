@@ -1,0 +1,8 @@
+Within the segment of the RR curve over the exposure
+range 107.5–165.0 mm Hg, the association between SBP and IHD
+was approximately log-linear. Based on mean risk function, mean RR
+estimates for SBP levels of 110, 115, 120, 130, 140,
+150 and 165 mm Hg were 1.12 (1.10–1.13), 1.23 (1.20–1.27),
+1.39 (1.34–1.44), 1.81 (1.70–1.93), 2.38 (2.17–2.62), 3.11 (2.75–3.52) and 4.48
+(3.81–5.26) compared to 100 mm Hg, respectively (Supplementary Table 4
+).

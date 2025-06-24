@@ -1,0 +1,12 @@
+where Y i is the dependent variable capturing knowledge and
+risk/impact perception (estimated separately), X i is a vector of
+the respondents’ demographic and socioeconomic characteristics, and ε ε i
+is the error term. Once the Poisson model was formulated,
+a check for dispersion was made and the conditional variance
+was found to exceed the conditional mean, that is, there
+was over-dispersion in the count data (see Table A2 of
+the appendix for test results of over-dispersion). Hence, a negative
+binomial regression model was used that is considered a generalization
+of the Poisson regression. The results of negative binomial regression
+are shown for each of the dependent variables in Table
+6 (columns 1–4).

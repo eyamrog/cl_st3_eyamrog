@@ -1,0 +1,19 @@
+To determine the specificity of the gRNA for the mutant
+allele, we derived two embryonic stem cell (ESC) lines (eysES1
+and eysES6) ( Figure 1 B). We transfected heterozygous ESCs
+for both the mutation site ( wt/EYS 2265fs ) and
+rs66502009 with Cas9-GFP and gRNA expression vectors to target the
+EYS 2265fs allele, and green fluorescent protein (GFP)-positive cells were
+harvested by flow cytometry. Using PCR and on-target next-generation sequencing
+(NGS) of seven independent biological samples consisting of a population
+of sorted cells, we scored for SNPs rs66502009 and EYS
+2265fs to distinguish edited alleles of maternal or paternal origin.
+Fifty-one percent (199,780 of 392,672) were unmodified reads of the
+maternal EYS wt allele, whereas 49% were of paternal origin,
+of which 11% (range 5%–33%, n = 7) were edited
+to contain small indels on reads containing the EYS 2265fs
+and the rs66502009 paternal allele ( Figure 1 C; Table
+S2 ). No modified maternal reads with an EYS wt
+genotype were observed. This shows the specificity of the gRNA
+for the paternal allele in ESCs, resulting in efficient modification
+at EYS 2 265fs ( Table S2 ).

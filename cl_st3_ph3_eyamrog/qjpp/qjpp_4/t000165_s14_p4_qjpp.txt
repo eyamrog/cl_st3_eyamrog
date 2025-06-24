@@ -1,0 +1,7 @@
+In all studies, information on sex, age, greater region (“Grossregion”),
+nationality, and education was available. The greater regions, were defined
+by the Swiss Federal Office of Statistics (Swiss Federal Statistical
+Office, 2019 ). Nationality was coded as either “Swiss” or
+“Non-Swiss.” Residence status was available for 3 of the 4
+studies (not in SILC), and was binary coded as either
+“urban” or “rural” (Swiss Federal Statistical Office, 2020 ).

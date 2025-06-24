@@ -1,0 +1,13 @@
+Notably, we found that optogenetically activating this pathway did not
+induce appetitive (or aversive) responses, neither did it affect animals’
+locomotion in the RTPP/A test ( Figures S4 H–S4L). Activating
+this pathway also failed to support self-stimulation ( Figures S4
+M–S4O). To test whether aIC Fezf2 → NTS activation promotes
+consumption, we activated the aIC Fezf2 → NTS pathway in
+hungry or thirsty mice in the presence of food or
+water, respectively. The activation did not increase food or water
+intake ( Figures S4 P and S4Q). In a separate
+test, activating this pathway also did not affect ad libitum
+sucrose consumption ( Figures S4 F and S4R). These results
+show that aIC Fezf2 → NTS activity does not produce
+valence, affect movement, or influence food and liquid consumption.

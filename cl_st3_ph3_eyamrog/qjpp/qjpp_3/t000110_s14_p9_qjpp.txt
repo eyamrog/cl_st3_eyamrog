@@ -1,0 +1,10 @@
+A total of 14 ACE2 expressing plasmids were constructed, including
+human (BAB40370.1), mink (QNC68911.1), dog (MT663955), cat (MT663959), pangolin (XP_017505746.1),
+pig (NP_001116542.1), mouse (ABN80106.1), bat (KC881004.1), cow (NP_001019673.2), rabbit (MT663961),
+ferret (MT663957), sheep (XP_011961657.1), civet (AY881174.1), and monkey (MT663960). Each
+gene of the 14 species was mammalian codon-optimized. The codon-optimized
+ACE2 fused with a FLAG tag (GACTACAAGGACGATGACGATAAG) at the 3′-terminal
+end was synthesized by General Biol. Inc, (Anhui, China). Each
+synthesized sequence was inserted into the eukaryotic expression vector pRP[Exp]-EGFP-CMV
+using the BamHI and Xho I sites to get ACE2
+expression plasmids from the different species.

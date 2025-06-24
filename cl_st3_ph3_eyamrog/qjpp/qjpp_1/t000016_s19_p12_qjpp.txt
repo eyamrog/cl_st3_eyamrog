@@ -1,0 +1,11 @@
+In the validation phase, all selected algorithms were fully reproduced
+on two separate computing platforms. The average agreement of the
+selected algorithms with the uropathologists was high with a quadratically
+weighted κ of 0.931 (95% CI, 0.918–0.944, Fig. 3 ).
+Algorithms showed high sensitivity for tumor detection, with the representative
+algorithm (selected based on median balanced accuracy, see Statistical analysis
+) achieving a sensitivity of 99.7% (95% CI of all
+algorithms, 98.1–99.7, Fig. 4 ) and a specificity of 92.9%
+(95% CI of all algorithms, 91.9–96.7). The classification performances of
+the individual algorithms are presented in Extended Data Figs. 2
+– 4 and Supplementary Tables 2 and 3 .

@@ -1,0 +1,18 @@
+An initial assessment of the most frequent words in apic
+suggested that women would be a keyword in the corpus.
+That women is indeed a keyword was confirmed by further
+statistical analysis of the study corpus ( apic ) in
+relation to a reference corpus (arTenTen12) (see Jakubíček et al
+., 2013 ). The effect-size metric Log Ratio ( Hardie,
+2014 ; and Gabrielatos, 2018 ) revealed that women occurs
+with more than twice the frequency (per million words) in
+comparison with the reference corpus (see Table 4 on p.
+33). Furthermore, the Bayes Factor ( bic ), which measures
+the statistical significance of this difference in frequency ( Gabrielatos,
+2018 ), indicated that it was highly unlikely that the
+difference between the normalised frequency of women in apic and
+the reference corpus is arbitrary. 5 ‘Exploratory’ and ‘focussed’ keyword
+analysis combined with effect-size and statistical significance metrics indicated that
+the frequency of women in apic is motivated, and, therefore,
+deserved closer scrutiny at the level of collocation and qualitative
+analysis.

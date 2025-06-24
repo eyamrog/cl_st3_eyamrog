@@ -1,0 +1,15 @@
+In this study, we clarified the effect of training by
+enterprise size for the training service (TOSA Marugoto Business Academy
+Project [Tosa MBA]) provided by Kochi Prefecture in Japan by
+applying structural equation modeling to online survey data. In large
+enterprises, expert knowledge that can be used at work had
+a positive effect on job satisfaction rather than career status
+such as annual income and job title. This may have
+been the case as while promotion involves higher wages and
+greater privileges, in large enterprises, the extent of responsibility and
+working hours increase even more. Conversely, in small and medium-sized
+enterprises (SMEs), career status has a more positive effect on
+job satisfaction than does expert knowledge. For SMEs with a
+simple organizational structure, job position has a greater influence on
+work attitudes. The results present meaningful suggestions to enhance the
+design of local government training services.

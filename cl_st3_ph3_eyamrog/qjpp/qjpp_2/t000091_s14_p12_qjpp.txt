@@ -1,0 +1,16 @@
+Bone marrow from femurs and tibias of 8-week old C57BL/6J
+mice was isolated and cells pelleted in sterile Ca 2+
+/Mg 2+ -free HBSS containing penicillin/streptomycin. Cells were then resuspended
+in ACK (Ammonium-Chloride-Potassium) Lysing Buffer (Thermo Fisher Scientific) for the
+lysis of red blood cells and washed twice with 1xHBSS.
+Neutrophils were separated from mononuclear cells by layering 2 mL
+of the cell suspension onto 3 mL of an 81%
+Percoll cushion (GE Healthcare). The cell suspension was then overlaid
+with 3 mL of 62% Percoll, followed by centrifugation at
+2,500 g for 20 min at 4°C. The middle layer
+enriched for neutrophils was washed twice in 1xHBSS, and cells
+were resuspended in serum-free DMEM. Isolated neutrophils were transferred into
+8-well glass slides containing 200 μL of serum-free DMEM and
+activated by co-culturing with an equal volume of supernatant from
+treated/infected cells for 24 hr. Cells were then fixed and
+processed for immunofluorescence staining.

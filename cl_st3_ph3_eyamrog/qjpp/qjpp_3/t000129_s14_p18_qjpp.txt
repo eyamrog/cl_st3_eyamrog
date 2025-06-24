@@ -1,0 +1,8 @@
+Isolated ESCs were trypsinized, heavily feeder depleted, centrifuged and snap
+frozen. E11.5 forelimb buds were microdissected from wildtype and mutant
+embryos in cold PBS and immediately snap-frozen for storage at
+−80°C. Total RNAs were extracted using the RNeasy Mini Kit
+according to the manufacturer’s instructions. Samples were poly-A enriched, prepared
+into libraries using the Kapa HyperPrep Kit, and sequenced on
+a Novaseq2 with 75 bp or 100 bp paired-end reads.
+RNA-seq experiments were performed at least in duplicates.

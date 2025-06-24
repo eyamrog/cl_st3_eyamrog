@@ -1,0 +1,13 @@
+Last, the potential host range of SARS-CoV-2 is exceptional. Mammalian
+vascular endothelium carries high levels of the SARS-CoV-2 mandatory receptor
+for cellular entry, ACE2. ACE2 is central to stabilizing blood
+pressure, and its conserved sequence in mammals likely explains the
+large known and potential host range of SARS-CoV-2. So far,
+more than 20 mammalian species have been confirmed as hosts
+of SARS-CoV-2 and can potentially serve as host pools from
+which competitive variants can spill back and forth to and
+from humans, creating a persistent threat to human health, animal
+conservation, and agricultural industries ( Figure 2 ). These combined
+characteristics make SARS-CoV-2 not only a more successful zoonotic virus
+than SARS-CoV but a greater threat to human health than
+most currently known circulating viruses.

@@ -1,0 +1,17 @@
+To examine whether models 1 and 2 produced consistent age
+models, we calculated the difference between boundaries from one model
+to another, assuming that the PDFs of the boundaries approximate
+a normal distribution . The mean and standard deviation of
+each boundary within both models was estimated in OxCal in
+the 68.2% and 95.4% probability range. If the difference between
+PDFs of each boundary includes zero in the 68.2% or
+95.4% probability range, then the PDFs are regarded as indistinguishable
+in the respective probability range. The total error is the
+standard deviation of each PDF added in quadrature. The results
+are given in Figure 7 . The two models are
+consistent as all boundaries overlap at 68.2%. Download: Download high-res
+image (118KB) Download: Download full-size image Figure 7 . Difference
+between the probability distribution functions (PDFs) of the boundaries calculated
+in model 1 and model 2 at 68.2% probability (in
+gray) and 95.4% probability (in black). The bar represents the
+error calculated in quadrature.

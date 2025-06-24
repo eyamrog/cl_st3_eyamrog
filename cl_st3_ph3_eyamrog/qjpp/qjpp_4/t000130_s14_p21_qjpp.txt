@@ -1,0 +1,15 @@
+Raw data files were processed using MaxQuant software (Version 1.6.3.4),
+having in-built Andromeda search engine ( Cox and Mann, 2008
+24. Cox, J. ∙ Mann, M. MaxQuant enables high peptide
+identification rates, individualized p.p.b.-range mass accuracies and proteome-wide protein quantification
+Nat. Biotechnol. 2008; 26 :1367-1372 Crossref Scopus (9262) PubMed Google
+Scholar ; Cox et al., 2011 25. Cox, J. ∙
+Neuhauser, N. ∙ Michalski, A. ... Andromeda: A peptide search
+engine integrated into the MaxQuant environment J. Proteome Res. 2011;
+10 :1794-1805 Crossref Scopus (3489) PubMed Google Scholar ). The
+peak lists were searched against individual Unc and common contaminant
+proteins. Carbamidomethylation was kept as fixed modification whereas acetylation (protein
+N-term), oxidation (methionine), and hexose (tryptophan) were used as variable
+modifications. Protein and peptide false discovery rate was kept at
+1%. Trypsin and AspN were set as the protease and
+up to four missed cleavages were allowed.

@@ -1,0 +1,2 @@
+The corpus was POS-tagged for this study using CLAWS (
+Garside & Smith 1997 ).

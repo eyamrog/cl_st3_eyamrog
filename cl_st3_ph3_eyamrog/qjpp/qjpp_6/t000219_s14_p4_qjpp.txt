@@ -1,0 +1,6 @@
+All analyses using GM techniques were performed at the interspecific
+level including all taxa. Before performing the statistical analyses, we
+conducted a generalized Procrustes analysis (GPA; Rohlf and Slice, 1990
+) from the raw 3D coordinates of each cervical vertebra
+and the cranium separately including all taxa to remove the
+information related to size, position, and orientation.

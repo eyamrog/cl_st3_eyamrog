@@ -1,0 +1,9 @@
+To account for relatedness among the hominid species in our
+sample, we calculated craniocervical integration while accounting for the phylogenetic
+relationships among taxa using phylogenetic PLS analyses. This approach, implemented
+in the function ‘phylo.integration’ of ‘geomorph,’ also displays appropriate type
+I error rates and constant levels of integration irrespective of
+the number of species or trait dimensions ( Adams and
+Felice, 2014 ). The significance of the analyses was performed
+via permutation analysis in the same way as for the
+PLS analysis (discussed earlier).

@@ -1,0 +1,7 @@
+The present study takes its data from newspaper writing. In
+speech, segmentation of focalizer and proposition might be different in
+varieties of English as a first language. Indeed, there is
+an example from the spoken part of the BNC that
+supports the existence of the N-is that chunk as a
+variant of the focalizer in BrE; this is shown in
+(49).

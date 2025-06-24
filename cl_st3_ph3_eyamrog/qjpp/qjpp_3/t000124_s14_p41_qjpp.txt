@@ -1,0 +1,20 @@
+To identify the overall repetitiveness of genomes we performed de
+novo repeat discovery with RepeatExplorer2 ( Novák et al., 2020
+72. Novák, P. ∙ Neumann, P. ∙ Macas, J. Global
+analysis of repetitive DNA from unassembled sequence reads using RepeatExplorer2
+Nat. Protoc. 2020; 15 :3745-3776 Crossref Scopus (55) PubMed Google
+Scholar ) for nine species of Rhynchospora , C. littledalei
+, and J. effusus . We used a repeat library
+obtained from the RepeatExplorer2 analysis of Illumina paired-end reads. All
+clusters representing at least 0.005% of the genomes were manually
+checked, and the automated annotation was corrected if needed. Contigs
+from the annotated clusters were used to build a repeat
+library. To minimize potential conflicts due to the occasional presence
+of contaminating sequences in the clusters, only contigs with average
+read depths ≥ 5 were included and all regions in
+these contigs that had read depths < 5 were masked.
+Genome assemblies were then annotated using custom RepeatMasker (REF -
+Smit, AFA, Hubley, R & Green, P. RepeatMasker Open-4.0. 2013-2015
+http://www.repeatmasker.org ) search with options -xsmall -no_is -e ncbi -nolow.
+Output from RepeatMasker was parsed using custom scripts ( https://github.com/kavonrtep/repeat_annotation_pipeline
+) to remove overlapping and conflicting annotations.

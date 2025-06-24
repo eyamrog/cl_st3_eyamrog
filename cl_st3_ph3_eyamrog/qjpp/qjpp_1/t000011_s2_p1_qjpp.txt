@@ -1,0 +1,12 @@
+We acknowledge financial support from AIR@InnoHK, administered by the Innovation
+and Technology Commission; the Collaborative Research Fund (project no. C7123-20G)
+of the Research Grants Council of the Hong Kong Special
+Administrative Region Government; the National Natural Science Foundation of China
+(grant no. 72104208); the Engineering and Physical Sciences Research Council
+Impact Acceleration Grant (grant no. RG90413); the European Research Council
+(grant no. 804744); and the Grand Challenges ICODA pilot initiative,
+delivered by Health Data Research UK and funded by the
+Bill & Melinda Gates Foundation and the Minderoo Foundation. We
+are thankful to S. Ramachandran at the University of California,
+San Diego, for help evaluating the WTP in India based
+on the Indian Economy’s Consumer Pyramids Household Survey.

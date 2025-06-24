@@ -1,0 +1,7 @@
+In the single-cell dataset, the percentage of inflammatory fibroblasts, pericytes
+and endothelial cells was increased in the M4/M5-intermediate and -high
+patient groups at the expense of ABCA8 and PDGFRA fibroblasts
+(Fig. 4a,b and Extended Data Fig. 7d ). FACS analysis
+verified that PECAM1 endothelial cell and PDPN FAP inflammatory fibroblast
+frequencies were increased within the stromal compartment in inflamed compared
+to noninflamed adjacent tissue (Extended Data Fig. 7e ).

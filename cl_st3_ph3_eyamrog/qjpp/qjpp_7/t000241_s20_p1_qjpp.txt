@@ -1,0 +1,21 @@
+The results reported in Table 1 show that the impact
+of tourism on income inequality is consistently negative in all
+the income inequality specifications used in this study. This has
+been confirmed by the coefficient of tourism in the rule
+of law (Law), VAC, PS, and Govef, which have been
+found to be negative and statistically significant at the 1
+percent level of significance. This shows that an increase in
+tourism development leads to a decrease in income inequality in
+the countries under study. This finding is consistent with some
+of the previous studies, such as Haddad et al. (2013)
+for the case of Brazil, Raza and Shah (2017) for
+the case of 43 top tourist arrival countries, Fauzel (2019)
+for the case of Mauritius, and C. P. Nguyen et
+al. (2020) for the case of 97 countries, among others.
+The results also show that only one proxy of governance
+quality (VAC) helps to reduce inequality. This implies that an
+increase in the VAC helps to lower the income distribution
+of the residents of the countries under study. The results
+also show that the interaction between governance and tourism development
+is statistically significant in three of the four specifications used,
+namely, VAC, PS, and Govef.

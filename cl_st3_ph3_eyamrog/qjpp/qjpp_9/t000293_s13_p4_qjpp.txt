@@ -1,0 +1,12 @@
+The Gachon Learner Corpus ( glc ) was collected from
+2012 through 2014 at Gachon University in Korea ( Carlstrom
+and Price, 2012 –2014). The texts were collected using twenty
+topic questions. Participants were asked to write about one of
+the topics in Google Forms using 100 to 150 words
+per text. This corpus is available in two versions: Version
+2.1 and the Final Version. Version 2.1 released in 2013
+contains 1,609,517 words from 16,113 texts produced by 1,607 participants
+and the Final Version released in 2015 consists of over
+2.5 million words from 25,073 texts produced by 2,500 participants.
+All versions are freely downloadable online in text or Excel
+format from the website. 7

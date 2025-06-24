@@ -1,0 +1,24 @@
+The data are limited, and the overall quantitative distribution across
+corpora (i.e., the normalized figures) is non-linear: there is a
+slight increase between ME and EModE, a significant dip in
+Late Modern English (LModE), and a subsequent increase again in
+PDE, but the frequency does not reach EModE levels. As
+regards type-distribution, the results show a gradual diversification of clusters
+in EModE and Present-day English (see sections 4.3 and 4.4).
+Whereas most size -clusters feature the use of great (for
+the large-size clusters) and little (for the small-size ones) in
+ME, the EModE data record new adjectives entering the pattern
+(see clusters such as huge masty , large long ,
+small thin , etc.). New size -combinations are also attested
+in Present-day English (e.g., whacking , poky , or enormous
+in clusters such as whacking great , poky little ,
+or great enormous ). Diversification of cluster types is likely
+to have impacted on the above-mentioned frequency increase of cluster
+tokens across time (note the noticeable increase in normalized token
+frequencies in EModE and PDE in Table 1 ) .
+Considering cluster flexibility matters, the corpora tentatively indicate greater linear
+variation for some clusters over others (e.g., compare the reversibility
+of huge great or little small as opposed to great
+big across the corpora consulted ). Furthermore, if we compare
+cluster types across time, PDE seems to be the period
+with a higher frequency of reversible clusters.

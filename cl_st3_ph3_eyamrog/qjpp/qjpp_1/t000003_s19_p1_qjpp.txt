@@ -1,0 +1,23 @@
+Between December 2019 and October 2021, 809 patients from 23
+French centers with R/R DLBCL after at least two lines
+of previous therapy had a commercial CAR T order for
+axi-cel or tisa-cel and were registered in DESCAR-T (Fig. 1
+). Patient characteristics are presented in Table 1 . Median
+age was 63 years (range, 19–81 years), and 61% of
+patients were male. Median number of prior lines of treatment
+was three (range, 2–10), and 21% of patients had received
+a prior stem cell transplant (SCT). The median time between
+the end date of last treatment and CAR T order
+was 35 days (Q1;Q3, 15;78 days). Most patients﻿ ( n
+= 604, 75%) had DLBCL not otherwise specified (NOS) or
+high-grade B cell lymphoma (HGBCL); 127 patients (16%) had transformed
+follicular lymphoma (tFL); 35 patients (4%) had primary mediastinal large
+B cell lymphoma (PMBCL); and 24 patients (3%) had transformed
+marginal zone lymphoma (tMZL). Few patients ( n = 19;
+2%) had other histologies (T cell/histiocyte-rich large B cell lymphoma
+(T/HRLBCL) in 11 patients; systemic relapse of primary central nervous
+system lymphoma (PCNSL) in four patients; and DLBCL, leg type,
+in four patients) (Table 1 ). With a median follow-up
+of 13 months (95% CI, 12.1–13.5 months), projected median OS
+was 17 months (95% CI, 13.3–21.1 months) from CAR T
+order (Fig. 2a ).

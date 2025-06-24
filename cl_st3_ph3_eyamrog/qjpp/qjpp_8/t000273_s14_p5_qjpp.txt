@@ -1,0 +1,6 @@
+The corpus was mounted on and analysed using CQPweb (
+Hardie, 2012 ). To answer Research Question (i.) How do
+satisfaction rates compare across patients with differing treatment durations? ,
+we focused on patients’ quantitative responses, comparing the distribution of
+scores between 0 and 10 across the treatment duration categories
+in Table 1 .

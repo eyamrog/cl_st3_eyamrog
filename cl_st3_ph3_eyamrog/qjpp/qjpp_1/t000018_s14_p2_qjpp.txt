@@ -1,0 +1,18 @@
+Patients eligible for inclusion in the discovery cohort were identified
+by screening surgical programs at Oxford University Hospitals. Samples were
+obtained from patients undergoing surgical resection of affected tissue for
+UC, CD or CRC (used as non-IBD controls). All tissue
+samples included in the study were classified by pathological examination
+as either macroscopically active inflamed or noninflamed. Additional samples were
+also obtained from patients with CD and UC, or from
+healthy individuals by biopsy. All patients and healthy participants gave
+informed consent and collection was approved by NHS National Research
+Ethics Service under the research ethics committee reference nos. IBD
+09/H1204/30 and 11/YH/0020 (for IBD) and GI 16/YH/0247 (for CRC
+samples and gut biopsies from healthy individuals). Samples were immediately
+placed on ice (RPMI 1640 medium) and processed within 3
+h. All data were fully anonymized before analyses. For replication
+of prospective findings in the discovery cohort, public datasets derived
+from endoscopic tissue samples of patients with IBD were used
+( GSE16879 , GSE73661 , GSE109142 , GSE57945 , GSE100833
+).

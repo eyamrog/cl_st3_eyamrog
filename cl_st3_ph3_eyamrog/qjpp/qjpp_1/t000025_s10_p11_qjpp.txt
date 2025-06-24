@@ -1,0 +1,16 @@
+Rural health disparities have attracted increased national attention, and research
+shows that disparities in rural health outcomes exist ( 45
+, 84 ). When considering the identified disparities, however, it
+is important to note the challenge of small sample sizes
+in this research. For instance, many of the national surveillance
+tools can include only data at the county level. Counties
+are often not a sufficient proxy for “rural” (e.g., when
+a county includes rural and nonrural communities). When case numbers
+are low, county-level numbers are often suppressed, owing to privacy
+considerations ( 68 ). Certain subgroups within rural areas may
+be underrepresented in surveillance systems as a result of limitations
+in data collection methods (e.g., timing of data collection, use
+of landline phones) ( 4 , 69 , 101 ).
+Finally, survey items used in research may not be culturally
+relevant or reflect the needs and priority concerns of rural
+populations ( 4 , 101 ).

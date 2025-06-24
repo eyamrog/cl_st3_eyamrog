@@ -1,0 +1,17 @@
+The unpredictable timing, location, and causative ebolaviruses of disease outbreaks
+means that unvaccinated populations could become infected. Additionally, it is
+possible to become infected with an ebolavirus against which available
+vaccines do not offer protection. Antibody therapies have been evaluated
+as medical countermeasures for unvaccinated people, but all of them
+are EBOV specific. Further, all antibody treatments thus far clinically
+evaluated include components that cross-react to the abundantly shed form
+of the viral GP (sGP), with some of the mAbs
+having higher affinity for sGP over the viral-surface GP that
+would be the target for neutralization ( Pallesen et al.,
+2016 42. Pallesen, J. ∙ Murin, C.D. ∙ de Val,
+N. ... Structures of Ebola virus GP and sGP in
+complex with therapeutic antibodies Nat. Microbiol. 2016; 1 :16128 Crossref
+Scopus (91) PubMed Google Scholar ). As sGP is believed
+to act in part as an immune decoy, the ability
+of an mAb to discriminate between sGP and full-length GP
+has traditionally been considered an asset for a therapeutic candidate.

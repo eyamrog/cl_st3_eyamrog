@@ -1,0 +1,14 @@
+Many critiques of big data concern the veracity and variety
+of data and risks to health equity resulting from how
+data are created. Precision public health, for example, is criticized
+for relying on data sets that do not reflect underlying
+structural relationships, missing upstream socioeconomic determinants ( 77 ). For
+example, early in the coronavirus disease 2019 (COVID-19) pandemic, mobile
+phone–based mobility data were misinterpreted to suggest that noncompliance with
+restrictions was widespread in low-income communities (compared with higher-income communities)
+in the USA ( 20 , 138 ). A fuller
+exploration demonstrated that the privileges of working from home were
+not available to essential workers, who had to continue commuting
+for work ( 20 ). Without a deeper understanding of
+upstream drivers, there is the risk that big data–based policies
+will further exacerbate inequities.

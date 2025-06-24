@@ -1,0 +1,10 @@
+In short, extending concordance lines across different units of analysis,
+that is from lines to postings to whole threads, is
+an important step in the corpus analysis of online discussions.
+Yet, most corpus tools may not allow such flexibility and
+the necessary annotation for considering the different units of analysis.
+In the following, I will first introduce the principle of
+an interactional approach to online discussions, then demonstrate how CWB
+can be used to resolve these challenges of conducting corpus
+analysis on data from online discussions and to incorporate an
+interactional approach in the analysis.

@@ -1,0 +1,13 @@
+To estimate body mass, we applied the allometric regression of
+Delson et al. (2000) for male cercopithecines to the MAR-1-9B
+M 1 MD (7.7 mm). The resulting body mass estimate
+was 10.5 kg. This is at the lower range of
+body size values for males reported by Delson et al.
+(2000 : Appendix Table 1) and Fooden (2007 : Table
+2); however, it may be an underestimate, as the M
+1 dimensions are likely affected by the advanced degree of
+wear. If the M 2 or the M 3 MD
+dimensions are used instead (9.4 and 12.7 mm, respectively), the
+resulting body mass estimate is 12.6 and 15.3 kg, respectively.
+Calculating the mean value from all molar positions produces a
+body mass estimate of 12.8 kg for MAR-1-9B.

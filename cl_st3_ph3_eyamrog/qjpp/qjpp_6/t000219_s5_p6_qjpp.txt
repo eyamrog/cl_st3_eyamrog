@@ -1,0 +1,22 @@
+The phylogenetic signal was weak or very weak in all
+the analyzed anatomical elements and only significant in the cranium,
+C3, and C4 vertebrae. Previous studies also found a significant
+phylogenetic signal in the cranium of hominoids; however, most of
+them focused their hypotheses on cranial developmental and functional modules
+such as the face and the cranial vault ( von
+Cramon-Taubadel and Smith, 2012 ; Profico et al., 2017 ;
+Villamil, 2021 ), the cranial base ( Lieberman et al.,
+2000 ), or the temporal bone ( Lockwood et al.,
+2004 ). The scarce works that have quantified the phylogenetic
+signal in the cervical vertebrae of terrestrial mammals, including primates,
+found a significant phylogenetic signal in the atlas and axis
+( Vander Linden et al., 2019a , b ), but,
+to our knowledge, there is no information about the subaxial
+cervical vertebrae. The discrepancy between these previous works and our
+results could be explained by the phylogenetic sample used by
+Vander Linden et al. (2019a , b ), which included
+a diverse group of mammals, including primates, rodents, lagomorphs ,
+tree shrews , and colugos . Our analysis was reduced
+to a single family (Hominidae) including seven taxa, and thus,
+these results can be considered as preliminary until further analyses
+including more related taxa are performed.

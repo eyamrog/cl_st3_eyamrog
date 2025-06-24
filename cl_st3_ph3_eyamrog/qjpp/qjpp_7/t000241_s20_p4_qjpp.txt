@@ -1,0 +1,11 @@
+These results have been supported by the various information criteria
+used in this study. Specifically, four information criteria have been
+used to ascertain the validity of the estimated GMM models,
+namely, (1) the second-order Arellano and Bond autocorrelation test (AR(2))
+in difference for the absence of autocorrelation in the residuals;
+(2) the Sargan and Hansen over-identifying restrictions (OIR) tests; (3)
+the DHT for exogeneity of instruments, and (4) the Fisher
+test for the joint validity of the estimated coefficients. The
+results reported in Table 1 show that, on the whole,
+the validity of the results reported in this study has
+been supported by these criteria.

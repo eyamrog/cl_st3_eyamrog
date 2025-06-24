@@ -1,0 +1,13 @@
+Additionally, certain network properties are known to affect the spread
+of diseases in networks. On the one hand, small average
+path length reduces the probability of a disease to die
+out before reaching distant points of the network ( Watts
+and Strogatz, 1998 ). On the other hand, the presence
+of clusters, densely connected areas within a network that have
+only few ties bridging to nodes outside this area, can
+reduce the size of an epidemic ( Badham and Stocker,
+2010 ; Keeling, 1999 ; Miller, 2009 ). These two
+features are of particular interest for the spread of infectious
+diseases, as they constitute the typical structure of our small-world
+-like social networks ( Milgram, 1967 ; Watts and Strogatz,
+1998 ).

@@ -1,0 +1,22 @@
+In section 4 , we found that start - north
+Pillai scores suggest that the two vowels overlapped nearly completely
+in St. Louis, but further examination of the data shows
+that the vowels were not in complete merger. While they
+were certainly close enough to be considered a merger as
+a matter of shorthand in the dialectological literature, they were
+more likely in a state of incomplete merger in terms
+of phonetic production, and most likely near merger for a
+time. This near merger has reversed over time. An examination
+of F1 and F2 for each of start , north
+, and force shows that this reversal was implemented by
+raising north and fronting start . The lack of frequency
+or orthography effects, even as random by-speaker slopes, indicates that
+the entire vowel classes may have changed at once. The
+raising of north appears to be a clear instance of
+socially motivated sound change. Below I outline three implications of
+this finding. Firstly, I suggest that fronting of start predated
+the raising of north , maintaining the vowel distinction and
+enabling reversal of the merger. Secondly, I note the role
+of perceptual salience in explaining the reversal ( Sloos 2018
+). Finally, I note that the change superficially resembles a
+chain shift.

@@ -1,0 +1,8 @@
+An exponential discount function was used, which has a single
+discount rate parameter (r) that controls the degree of discounting
+and results in the following specification of the NPV: (2)
+N P V ( y e a r s )
+i j t = ( 1 − exp ( −
+r * y e a r s i j t
+) ) / ( exp ( r ) − 1
+)

@@ -1,0 +1,24 @@
+The only study of attendances at Irish EDs following the
+introduction of this policy used national attendance data available from
+January 2015 and identified no change in the rate of
+attendance by children aged under six, though a 2-percentage point
+increase in GP referrals to EDs for this cohort was
+identified ( Walsh et al., 2019 ). However, data constraints
+meant this study could not examine the common trend assumption
+that underpins the difference-in-difference estimation. In order to assess this
+assumption and the impact of this policy in more detail,
+data was extracted from five hospitals which collectively represent approximately
+48% of annual paediatric ED attendances nationally ( Smyth et
+al., 2017 ). Applying an estimation strategy consistent with Walsh
+et al. (2019) , our study uses data for a
+five-year period from July 1, 2013 to June 30, 2018,
+with the two-year pre-policy period allowing for a robust assessment
+of the common trend assumption. As the hospital level data
+includes diagnosis/presenting complaint not available at national level at this
+time, our study also allows variation in the impact of
+this policy by reason for attendance to be assessed. Furthermore,
+the three-year post-policy period also better represents the establishment and
+embedding of patient behaviours. Finally, our study probes how local
+factors and constraints may lead to regional/hospital level variation in
+the policy effect, factors which may be masked at a
+national level.

@@ -1,0 +1,8 @@
+To determine if the anticipatory activity of NTS Recipient neurons
+is required for need-seeking behavior, we specifically inhibited these neurons
+during anticipation in mice performing the go/no-go task ( Figures
+6 A–6E). Strikingly, this manipulation caused a dramatic decrease in
+the anticipatory licking in go trials, resulting in impaired performance
+( Figures 6 C–6E). In contrast, the inhibition had no
+effect on the on-going licking behavior in the continuous licking
+task ( Figures 6 F and 6G).

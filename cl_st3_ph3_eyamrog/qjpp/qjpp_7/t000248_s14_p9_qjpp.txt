@@ -1,0 +1,7 @@
+Controls . As control variables we included participants’ age (cf.
+supra), gender (1 = boy , 2 = girl ),
+as well as an objective measure of cognitive performance on
+the inductive reasoning subtest of the Culture Fair Intelligence Test.
+In this way, we capture the effects of minority experiences
+of discrimination on national identity net of possibly overlapping variation
+in their cognitive performance (Cattell & Cattell, 1961 ).

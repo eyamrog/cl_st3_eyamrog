@@ -1,0 +1,19 @@
+We acknowledge that this trial has limitations. Because of the
+lack of availability of diagnostic testing in the United States,
+the vast majority of the participants, including health care workers,
+were unable to access testing. Thus, an a priori symptomatic
+case definition was used — the U.S. clinical case definition
+of probable Covid-19. This trial represents real-world implementation after exposure.
+In the context of a randomized trial design, any non–SARS-CoV-2
+viral infection (e.g., influenza, adenovirus, or rhinovirus) should be equally
+distributed in the trial groups. Owing to the Internet-based approach
+used to rapidly recruit participants in the context of a
+pandemic, data were obtained by means of participant report. The
+types and frequency of symptoms that were observed are similar
+to those in previous studies involving U.S. health care providers.
+The U.S. case definition is how probable Covid-19 cases are
+nationally reportable. However, the predictive power of this case definition
+is unknown, particularly in the younger populations that we studied;
+given the small number of PCR tests, it remains theoretically
+possible that hydroxychloroquine therapy limits proven infection. Reproduction of our
+results in other, ongoing trials would confirm our findings.

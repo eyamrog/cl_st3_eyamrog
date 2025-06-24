@@ -1,0 +1,8 @@
+Curve fitting and statistical analyses were performed with GraphPad Prism
+6.0 software, using either unpaired Student’s t test for comparison
+between two groups or two-way ANOVA followed by Tukey’s test
+for comparisons between multiple (> 2) groups. Significance of in
+vivo survival data was determined by the log-rank (Mantel-Cox) test.
+Information on replicates, sample size (e.g., number of animals per
+group), precision measures (mean ± SD), statistical methods and significance
+are indicated in Figure Legends.

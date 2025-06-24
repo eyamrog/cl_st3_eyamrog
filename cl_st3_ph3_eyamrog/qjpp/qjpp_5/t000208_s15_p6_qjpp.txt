@@ -1,0 +1,3 @@
+The following are the anatomical abbreviations: BL = buccolingual width;
+MD = mesiodistal length; tad = talonid; trd = trigonid;
+and wt = waist.

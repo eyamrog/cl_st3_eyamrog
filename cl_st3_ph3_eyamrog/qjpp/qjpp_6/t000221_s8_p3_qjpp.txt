@@ -1,0 +1,17 @@
+In addition to our skeletal structure, our more proximal limb
+segment masses and long, thin distal limb tendons can be
+expected to further reduce the total mechanical work and power
+output in a walking stride. It has long been hypothesized
+that more proximal lower limb-mass distribution reduces the moment of
+inertia, and therefore the mechanical power required for limb swing
+(e.g., Gray, 1968 ; Hildebrand, 1985 ), including in fossil
+hominins ( Jungers and Stern, 1988 ). Human limb mass
+perturbations provide some support for this view, demonstrating that a
+distal shift of the mass-specific moment of inertia increases the
+limb swing mechanical power and metabolic costs of walking (
+Royer and Martin, 2005 ; Browning et al., 2007 ).
+Still, the magnitude of these perturbations is large, and the
+resulting changes in limb segment inertial properties can exceed the
+difference between humans and African apes or some Old World
+monkeys (e.g., Isler et al., 2006 ; Supplementary Online Material
+[SOM] Table S1 ).

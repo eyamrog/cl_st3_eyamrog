@@ -1,0 +1,6 @@
+This principle relates to Sinclair's (1991) preference for the whole
+text in order to preserve authenticity. While texts may be
+augmented through headers to provide additional information, any removal of
+data should be done sparingly (e.g. visuals may be removed
+and replaced with tags, or personal data such as names
+or birthdates may be replaced with codes).

@@ -1,0 +1,3 @@
+Slidebook was used for image capture and analysis of fluorescence
+intensity and recovery after photobleaching of the in vitro chromatin
+condensates

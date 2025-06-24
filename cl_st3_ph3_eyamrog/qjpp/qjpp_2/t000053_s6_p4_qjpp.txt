@@ -1,0 +1,20 @@
+We identified two cluster-randomised trials that had varying results on
+the effects of active case-finding on prevalence of tuberculosis disease
+and incidence of infection in children. The more intensively delivered
+door-to-door active case-finding intervention of ACT3 in Vietnam, which used
+a screening strategy comprising Xpert for all, regardless of symptoms,
+reported a statistically significant relative reduction in the prevalence of
+microbiologically confirmed tuberculosis of 45%. By contrast, the less intensive
+enhanced case-finding intervention in the ZAMSTAR trial in Zambia and
+South Africa, which used a symptom-based and sputum smear-based screening
+approach, did not show an effect. The before-after evaluation that
+pooled data from both intervention groups of the DETECTB trial
+in Zimbabwe, in which active case-finding was delivered through moderate
+intensity interventions (mobile vans and door-to-door symptom-based and smear-based screening),
+showed a relative reduction in culture-confirmed tuberculosis of 41%. Other
+non-randomised studies had inconsistent and imprecise results, and they were
+at critical risk of bias due to confounding by secular
+trends and selection of participants for inclusion and measurement of
+effectiveness. Evidence for reduced tuberculosis transmission was lacking, with two
+studies (ZAMSTAR and ACT3) reporting no significant difference in childhood
+tuberculosis infection (according to prespecified analyses in each study).

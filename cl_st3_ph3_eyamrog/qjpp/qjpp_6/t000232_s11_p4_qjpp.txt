@@ -1,0 +1,10 @@
+Electronic prescribing, on the contrary, is not just a typed
+medication order. It is an interface that is connected to
+a prescription database, which can transmit directly to the pharmacy.
+The physician must choose the medication from a list, along
+with predetermined dosages. Allergies are entered elsewhere, requiring physicians to
+navigate away from the prescription order screen. If nurses review
+prescriptions, they may not be able to add interpretive notes.
+The physician’s method of giving an order, the nurse’s contribution,
+and the pharmacist’s response are changed ( Zamora et al.
+2012 ).

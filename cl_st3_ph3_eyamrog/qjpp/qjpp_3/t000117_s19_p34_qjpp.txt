@@ -1,0 +1,9 @@
+Furthermore, in the RFR task, inhibition of NTS Recipient neurons
+during anticipation markedly reduced the anticipatory running and performance (
+Figures 6 H and 6I). However, inhibiting these neurons did
+not induce aversion or preference or any change in movement
+in the RTPP/A test ( Figures S4 S–S4W); it also
+did not affect ad libitum sucrose consumption ( Figures S4
+F and S4X). Together, these results demonstrate that NTS Recipient
+activity is essential for the anticipatory control of different forms
+of goal-directed actions but dispensable for motor function or consumption.

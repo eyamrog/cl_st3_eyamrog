@@ -1,0 +1,26 @@
+We also conduct subgroup analyses of the effects of increasing
+deductibles on mental health care use ( Y i t
+) following two different approaches. First, we study heterogeneous effects
+by income. We interact month of age polynomials, intercepts and
+discontinuities in model (1) with quartiles of standardized disposable household
+income at age 17. Second, we focus only on the
+subpopulation of mental health care users at the age of
+17. This subgroup analysis sheds light on the impact of
+the deductible increase on treatment cessation vs. treatment initiation, distinguishing
+the two effects captured in main results: patients that stop
+care from individuals that do not start treatment but would
+do so in absence of the deductible increase. Our main
+objective with this analysis is to understand who are the
+patients that stop care the most, by studying different subgroups
+of previous users. It uses the special case of model
+(1) where all individuals to the left of the age
+18 discontinuity are service users (i.e. essentially only using variation
+in mental health care use from month 228 onwards). In
+addition to estimates of treatment cessation for all mental health
+patients at the age of 17, we evaluate subgroup effects
+of treatment cessation by treatment intensity and medicines used at
+the same age. For this, we interact age polynomials, intercepts
+and discontinuities with (a) mental health care intensity – quartiles
+of expenditure, (b) number of psychotropic drug classes used, and
+(c) type of psychotropic drug class for those using only
+one class, all at age 17.

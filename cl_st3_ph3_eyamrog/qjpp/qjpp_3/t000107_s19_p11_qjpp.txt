@@ -1,0 +1,16 @@
+In acute myeloid leukemia, FLI1 co-localizes with the chromatin remodeler
+BRD4 ( Roe et al., 2015 70. Roe, J.-S. ∙
+Mercan, F. ∙ Rivera, K. ... BET Bromodomain Inhibition Suppresses
+the Function of Hematopoietic Transcription Factors in Acute Myeloid Leukemia
+Mol. Cell. 2015; 58 :1028-1039 Full Text Full Text (PDF)
+Scopus (177) PubMed Google Scholar ). The EWS-Fli1 fusion oncoprotein
+driving Ewing’s sarcoma can trigger de novo enhancer formation via
+chromatin remodeling and can inactivate existing enhancers by displacing ETS
+family members ( Riggi et al., 2014 69. Riggi, N.
+∙ Knoechel, B. ∙ Gillespie, S.M. ... EWS-FLI1 utilizes divergent
+chromatin remodeling mechanisms to directly activate or repress enhancer elements
+in Ewing sarcoma Cancer Cell. 2014; 26 :668-681 Full Text
+Full Text (PDF) Scopus (160) PubMed Google Scholar ). It
+is unclear, however, how Fli1 affects epigenetic landscape changes in
+developing T EFF , T MEM , or T EX
+cells.

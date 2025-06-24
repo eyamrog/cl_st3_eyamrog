@@ -1,0 +1,10 @@
+We attempted to date the duplication events using a set
+of conserved genes shared among the four copies of Block1,
+which revealed the first WGD event as occurring around 3.8
+million years ago (Mya) followed by a second WGD event
+around 2.1 Mya ( Figure S3 D). Based on this
+analysis, we deduced the origin and evolution of the R.
+pubera karyotype ( Figure 5 C). These results further support
+an autopolyploid origin for R. pubera and confirm a short
+interval between the two rounds of WGDs, indicating rapid chromosome
+number reduction in this species.

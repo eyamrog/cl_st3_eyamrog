@@ -1,0 +1,13 @@
+Interestingly, of the 25 EYS wt samples, 3 cells from
+3 different embryos showed flanking paternal SNPs, but no maternal
+SNPs on either side of the same PCR product (
+Figures S5 A and S5B). NGS only detected a paternal
+allele at rs66502009 and only the maternal EYS wt allele
+at rs758109813 ( Figure 4 D; Table S1 ). By
+array analysis, SNPs of both maternal and paternal origin were
+detected throughout chromosome 6, demonstrating that this cell contained both
+paternal and maternal chromosome 6 ( Figure S5 C). The
+novel linkages of maternal and paternal SNPs, present at a
+frequency of ∼7% (3 out of 45), represent possible interhomolog
+repair events, although they are not readily explained through a
+simple gene conversion.

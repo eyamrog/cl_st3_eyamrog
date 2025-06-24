@@ -1,0 +1,25 @@
+Southern American English is spoken in a large geographic region
+in the United States. Its characteristics include back-vowel fronting (e.g.,
+in goose , foot , and goat ), which has
+been ongoing since the mid-nineteenth century; meanwhile, the low back
+vowels (in lot and thought ) have recently merged in
+some areas. We investigate these five vowels in the Digital
+Archive of Southern Speech, a legacy corpus of linguistic interviews
+with sixty-four speakers born 1886-1956. We extracted 89,367 vowel tokens
+and used generalized additive mixed-effects models to test for socially-driven
+changes to both their relative phonetic placements and the shapes
+of their formant trajectories. Our results reinforce previous descriptions of
+Southern vowels while contributing additional phonetic detail about their trajectories.
+G oose -fronting is a change in progress, with greatest
+fronting after coronal consonants. G oat is quite dynamic; it
+lowers and fronts in apparent time. Generally, women have more
+fronted realizations than men. F oot is largely monophthongal, and
+stable across time. L ot and thought are distinct and
+unmerged, occupying different regions of the vowel space. While their
+relative positions change across generations, all five vowels show a
+remarkable consistency in formant trajectory shapes across time. This study’s
+results reveal social and phonetic details about the back vowels
+of Southerners born in the late nineteenth and early twentieth
+centuries: goose -fronting was well underway, goat -fronting was beginning,
+but foot remained backed, and the low back vowels were
+unmerged.

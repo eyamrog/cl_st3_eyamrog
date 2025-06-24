@@ -1,0 +1,20 @@
+While such studies hold undoubted value for those responsible for
+designing care and monitoring and interpreting patient feedback, they also
+have limitations in terms of their data and methods of
+analysis. Concerning the data used, existing studies have tended to
+focus on a relatively small number of responses, usually in
+the hundreds ( Lagu et al., 2010 ; López et
+al., 2012 ) and at the most in the tens
+of thousands ( Raleigh et al., 2009 ), and so
+tend to offer fairly limited generalisability with respect to their
+findings. Another feature of existing research into patient feedback is
+the tendency to examine quantitative responses (e.g. checkbox data) rather
+than qualitative responses (e.g. free-text comments). An advantage of checkbox
+data is that patients’ responses can be easily quantified to
+reveal feedback trends. However, a disadvantage of this type of
+data is that patients’ responses are constrained to the questions
+and checkbox options in the survey, meaning that patients have
+limited (if any) space to provide feedback about the particular
+aspects of healthcare that might be important to them, but
+which are not covered explicitly by the questions in the
+survey.

@@ -1,0 +1,9 @@
+In contrast, in ESCs, Fat1 expression remained universally unaffected in
+ΔD1, ΔD2, ΔD1+2, and ΔZfp42R mutants ( Figures 2 C,
+2D, and S3 E). Similarly, Zfp42R genes were unaffected by
+single ΔD1/ΔD2 or combined ΔD1+2 deletions, except Triml1/2 that showed
+mildly decreased activity in ΔD2 ESCs. Thus, in ESCs, Fat1
+and Zfp42R genes utilize only local enhancers for activity within
+their physically isolated domains in the dismembered TAD. As such,
+during pluripotency, Fat1 and Zfp42R genes are functionally independent from
+one another in the now partitioned ancient regulatory landscape.

@@ -1,0 +1,24 @@
+The estimated utility tariffs enable the use of the WOOP
+in economic evaluations of health and social care interventions targeted
+at older people, first of all in the Netherlands. Using
+the WOOP may provide a more comprehensive overview of the
+benefits of such interventions as compared to health-related quality of
+life measures (e.g. EQ-5D), but also as compared to the
+ICECAP-O and the ASCOT ( Makai et al., 2014 ).
+Moreover, the WOOP has the advantage over other well-being measures
+that its utility tariff is anchored on dead and perfect
+wellbeing, facilitating a more straightforward combination of length and quality
+of life in computing the benefits of interventions. Consequently, the
+WOOP may also be useful when evaluation cross-sectoral interventions, for
+instance health and social care services combined with housing or
+income support. However, until further research confirms the (psychometric) validity
+of the WOOP and assessing interventions in health and social
+care in terms of their full benefits to older people
+becomes more established, we would advocate the use of the
+WOOP next to standard measures of health-related quality of life.
+This is also in line with the current recommendation of
+the Dutch health care institute (Zorginstituut Nederlands) for the use
+of the ICECAP-O. We do note that since the WOOP
+captures broader wellbeing including health, the measure cannot be readily
+added to results obtained using generic health-related quality of life
+measures , as this would imply double-counting.

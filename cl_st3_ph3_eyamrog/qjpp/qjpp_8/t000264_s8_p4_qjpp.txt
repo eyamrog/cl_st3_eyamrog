@@ -1,0 +1,26 @@
+ADI and SVI – produced before the onset of COVID-19
+– are employed extensively in the public health and medical
+literatures and are important indicators for predicting various chronic and
+acute health outcomes, medication adherence, and hospital readmission ( Agency
+for Toxic Substances and Disease Registry, 2018 ; Kind and
+Buckingham, 2018 ). We hypothesize that these measures are more
+limited for modeling of COVID-19 transmission since these do not
+account for public policy, epidemiological and health system factors, and
+human behavior which certainly also play a role, as other
+studies have noted ( Chen et al., 2020 ; Lee
+et al., 2021 ; Rashed and Hirata, 2021 ). Hence,
+we incorporate two additional composite measures developed specifically to understand
+vulnerability during the COVID-19 pandemic: CCVI and PVI. Note that
+one of the factors that comprises PVI is a measure
+of social distancing to account for human behavior, a feature
+we suspect is useful for modeling COVID-19. Finally, we supplement
+the composite measures with a key variable noted in recent
+COVID-19 literature – mobility – to see whether these patterns
+have similar or greater associations with the outcomes of interest
+( Badr et al., 2020 ; Campbell et al., 2021
+). We expect, as other scholars have suggested, that modeling
+human behavior is necessary for understanding COVID-19 disease transmission. In
+their analysis of mobility patterns in a sample of U.S.
+counties, Badr et al. found that mobility patterns are strongly
+correlated with changes in COVID-19 case growth rates ( Badr
+et al., 2020 ).

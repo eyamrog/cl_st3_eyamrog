@@ -1,0 +1,26 @@
+Several sensitivity analyses were conducted. First, all patients with at
+least one missing value for at least one matching variable
+were removed from PSM analysis (complete case analysis). Second, a
+multiple imputation approach was performed using the fully conditional specification
+(FCS) method, allowing for different distributions across variables. Continuous variables
+were imputed using linear regression, whereas categorical parameters were imputed
+using logistic regression. All propensity score covariates and outcome (OS)
+were used for imputation. Ten imputed datasets were generated. A
+treatment effect was estimated within each imputed dataset using PSM.
+Estimated treatment effects from each imputed dataset were then combined
+into a single treatment effect using Rubin’s rule (within method).
+Third, a Cox bivariate model adjusting for residual aaIPI imbalance
+after matching was used to assess association between CAR T
+product and outcome (PFS and OS). Fourth, PSM was performed
+with a time of origin for OS set at the
+time of CAR T order instead of the time of
+CAR T infusion. Finally, to assess how robust the association
+between CAR T product and outcome was to potential unmeasured
+or uncontrolled confounding, E-value was computed . It represents the
+minimum strength of association that a unique (or a set
+of) unmeasured confounder would need to have with both the
+treatment and the outcome conditional on the measured covariates to
+fully explain away the association between treatment (here, the CAR
+T product) and the outcome (here, PFS or OS). Therefore,
+the higher the E-value, the stronger the confounder associations must
+be to explain away the effect.

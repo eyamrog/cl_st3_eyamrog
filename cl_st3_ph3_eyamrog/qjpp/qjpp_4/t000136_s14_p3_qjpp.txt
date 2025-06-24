@@ -1,0 +1,17 @@
+For the sake of clarity, we use estimation statistics for
+graphic representation (Ho, Tumkaya, Aryal, Choi, & Claridge-Chang, 2018 )
+( https://www.estimationstats.com/#/ ), which allows to show the pattern of
+change in the relation between the variables analyzed, beyond the
+dichotomous results of the P values. The Tufte slopegraph was
+used as a multi paired samples estimation plot to display
+effect sizes (ML vs H across z -score categories of
+H, SH, vs LL across z -score categories of LL).
+A sample plot is shown and explained in detail in
+Figure 1 . We also include null hypothesis significance testing
+results. The P values from the paired t test (ML
+vs H, SH, vs LL), were calculated with SPSS (Version
+20) and included in the figures. To study the change
+of SH and LL across categories of maternal education, and
+the change of relative ML length across H categories, the
+ANOVA test (Tukey post hoc tests) was used. The independent
+samples t test was used to study sexual differences.

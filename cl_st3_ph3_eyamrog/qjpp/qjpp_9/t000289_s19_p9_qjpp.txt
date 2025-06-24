@@ -1,0 +1,7 @@
+Editorials are fewer in number but usually greater in length
+than news reports, which means that they are likely less
+diversified in terms of authors. Consequently idiosyncratic uses may play
+a greater role in the editorial data. As mentioned in
+section 3 , editorials from 1939 and 1968 are never
+signed, and many in the SAVE subcorpus are not either,
+which renders more precise considerations of individuations impossible.

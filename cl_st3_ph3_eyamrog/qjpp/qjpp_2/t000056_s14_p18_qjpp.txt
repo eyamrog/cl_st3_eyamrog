@@ -1,0 +1,18 @@
+If an individual responded “don't know” to an item in
+the primary outcome measure, then they were excluded from the
+main analysis. For a sensitivity analysis concerning missing data, missing
+data measuring vaccine hesitancy at the item level were assumed
+to be missing at random and thus multiple imputation was
+used. Predictive mean matching was used as the imputation algorithm,
+which is appropriate for numerical data. The conditional predictive distribution
+of the item-level responses required to be imputed were adjusted
+to account for the information from age, gender, and level
+of COVID-19 health risk, all of which were known to
+be significant predictors of vaccine hesitancy as described in OCEANS-II.
+Only complete cases were used for age, gender, and level
+of COVID-19 health risk. Multiple imputation was imputed 50 times
+at the item level, and the responses from each imputed
+dataset were summed to create total hesitancy scores. The regression
+model was estimated 50 times and the predictions were averaged
+on the basis of Rubin's rules to calculate the estimated
+marginal means.

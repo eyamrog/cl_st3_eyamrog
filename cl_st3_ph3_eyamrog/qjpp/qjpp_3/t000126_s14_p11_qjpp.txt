@@ -1,0 +1,6 @@
+Human lymphoblastoid cell lines (LBL) collected by the NIDDK IBD
+Genetics Consortium from three patients with Crohn’s Disease (CD) homozygous
+for the CD-associated minor allele of the rs28445040 variant in
+SP140 (SP140 mut ) and from three healthy controls (HC)
+homozygous for the major allele (SP140 wt ) were obtained
+from the NIDDK Central Repository ( https://repository.niddk.nih.gov ).

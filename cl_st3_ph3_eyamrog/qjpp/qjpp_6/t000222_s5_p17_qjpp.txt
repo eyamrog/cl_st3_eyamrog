@@ -1,0 +1,20 @@
+In our analyses of static allometry, we found that size
+explains a relatively small amount of the total shape variation.
+Adjusting for allometry nevertheless results in statistically significant increased differentiation
+in maxillary shape between Pan and Gorilla , between P.
+troglodytes and P. paniscus , and between G. gorilla and
+G. beringei ( Fig. 13 ; SOM Tables S14 and
+S15 ), as has been observed before for cranial morphology
+among gorilla taxa after size adjustment ( Taylor and Groves,
+2003 ). Our prediction that less overlap between taxa would
+follow from reduced intrataxon variation is indeed confirmed here. The
+one exception is that the variation shown by the genus
+Pan shows an overall increase, but for the individual Pan
+species, this variation is reduced ( SOM Table S14 ).
+Hence, this pattern appears to reflect how P. paniscus and
+P. troglodytes each contribute to the joint variation structure at
+the genus level. Our second prediction that allometric adjustment would
+reduce shape differences is clearly not supported since all three
+pairs that are compared show an increase, thus contributing to
+the increased intertaxon differentiation jointly with the reduction in shape
+variation.

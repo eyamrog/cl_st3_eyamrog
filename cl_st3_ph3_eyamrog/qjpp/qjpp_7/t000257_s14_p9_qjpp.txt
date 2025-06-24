@@ -1,0 +1,19 @@
+Seven demographic attributes were examined: (a) age; (b) gender; (c)
+religiosity: This variable was assessed by one item with a
+four-point scale ranging from 1 = secular to 4 =
+ultra-orthodox. (d) Family income level: This variable was assessed by
+1-item with a 5-point response scale ranging from 1 =
+much above-average to 5 = much below average. (e) Educational
+level: This variable was assessed by one item with a
+five-point scale ranging from 1 = elementary school to 5
+= academic (master's degree and beyond). (f) Size of community:
+Respondents marked the name of their community and we added
+the size of the community according to the Israeli Central
+Bureau of Statistics: 1 = up to 1000, 2 =
+1001–10,000, 3 = 10,001–20,000, 4 = 20,001–50,000, 5 = 50,001–200,000,
+6 = 200,001 and more. And (g), economic difficulties: This
+variable was assessed by one item “Are you or your
+family experiencing financial difficulties due to the COVID-19 pandemic (such
+as unemployment, downsizing business operations and so on)". The scale
+ranges from 1 = not at all to 5 =
+very much.

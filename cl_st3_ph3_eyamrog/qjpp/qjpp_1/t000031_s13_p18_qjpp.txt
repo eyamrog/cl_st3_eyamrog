@@ -1,0 +1,26 @@
+A 2007 meta-analysis of community-based cohort studies reported an absolute
+annual incidence of diabetes among individuals with WHO-IFG or IGT
+of 5–10% ( 39 ), with a relative risk for
+diabetes versus normoglycemia of 6.35 [95% confidence interval (CI) 4.87–7.82]
+for IGT; 5.52 (3.13–7.91) for isolated IGT; 4.66 (2.47–6.85) for
+IFG; 7.54 (4.63–10.45) for isolated IFG; and 12.13 (4.27–20.00) for
+both IFG and IGT ( 39 ). In a 2010
+meta-analysis, the IEC-HbA 1C prediabetes state (6.0–6.5%) was associated with
+a relative risk for diabetes of approximately 20 compared with
+HbA 1C <5%, with a 5-year cumulative incidence of diabetes
+ranging from 25% to 50% ( 115 ). A large
+2018 meta-analysis (103 prospective cohort studies with up to 24
+years of follow-up) found relative risks for diabetes of 4.32
+for ADA-IFG, 5.47 for WHO-IFG, 3.61 for IGT, 6.90 for
+IFG and IGT, 5.55 for HbA 1C >5.7%, and 10.10
+for HbA 1C >6.0% ( 90 ). Regardless of the
+definition, prediabetes identifies individuals at high risk for progression to
+diabetes, although absolute and relative risks vary depending on the
+definition used. IFG and IGT definitions tend to be associated
+with similar risks of future diabetes (with a higher risk
+if IFG and IGT are combined), whereas HbA 1C definitions
+have the highest risk. As mentioned earlier, HbA 1C cut
+points for prediabetes are more specific than those for FBG
+or 2hBG. Thus, HbA 1C -defined prediabetes identifies fewer but
+higher-risk individuals, as borne out in recent individual epidemiologic studies
+and meta-analyses.

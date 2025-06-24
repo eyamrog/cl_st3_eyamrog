@@ -1,0 +1,18 @@
+The research topics and areas of the articles can be
+broadly divided into five categories: lexico-grammar, 11 discourse analysis, conversation
+analysis, eap / esp , and others (Rhetoric, Syntactic, Semantic,
+Computational, Pragmatic). However, not every article falls neatly into one
+of the four categories. Many articles cover more than one
+category, and some fall outside them. Despite this, all of
+the articles under investigation are classified on the basis of
+these four categories. Even though most learner corpus studies concentrated
+on lexico-grammar (twenty-one articles in et and sixteen articles in
+kjal ), there are studies ranging from discourse analysis (five
+articles in et and three articles in kjal ) and
+conversation analysis (three articles in kjal ) to eap /
+esp (two articles in et and five articles in kjal
+). The range of research areas has also broadened to
+include syntax, semantics and rhetoric. The more recent studies attempted
+not only to address new research areas, but also to
+employ new research methods such as the computational analysis of
+lexical richness/diversity and syntactic complexity.

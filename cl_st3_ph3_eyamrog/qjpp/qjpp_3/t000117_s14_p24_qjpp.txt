@@ -1,0 +1,8 @@
+Freely moving mice were placed in a chamber equipped with
+two ports. Poking nose into one of the ports (the
+active port) triggered photostimulation (10-ms pulses, 20 Hz, 10 mW;
+λ = 473 nm) for 2 s in the NTS,
+whereas poking into the other port (the inactive port) did
+not trigger photostimulation. Mice were allowed to freely poke the
+two ports in 1-hour sessions, with the designation of active
+port in each session being counterbalanced.

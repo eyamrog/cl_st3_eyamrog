@@ -1,0 +1,11 @@
+The third composite metric – CCVI – is more comprehensive
+than ADI and SVI, and was developed for modeling vulnerability
+in the COVID-19 pandemic. Developed by the Surgo Foundation and
+featured as a CDC resource, CCVI is constructed by adding
+a range of epidemiological and healthcare system variables to the
+standard vulnerability measures incorporated in SVI ( Surgo Foundarion, 2020
+). CCVI identifies which communities are most vulnerable to coronavirus
+and least prepared to address it once spread. Mapped to
+US census tract, county, and state levels, the CCVI can
+inform COVID-19 planning and mitigation at a granular level. Higher
+CCVI scores indicate a greater level of vulnerability.

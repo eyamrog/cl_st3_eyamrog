@@ -1,0 +1,6 @@
+Table 1 also suggests that the number of reversible size
+-cluster types increases in PDE (on the reversibility of tautological
+size-clusters in PDE, see González-Díaz 2018 ). However, this suggestion
+should be taken with a pinch of salt due to
+the noticeable differences in size between the BNC and the
+historical corpora used in the analysis.

@@ -1,0 +1,7 @@
+The first worked example uses WMatrix semantic tagging software to
+uncover similarities and differences between Corpus 1 and Corpus 2,
+when compared to a reference corpus (see also Leedham, Lillis
+and Twiner, 2020 ). Wmatrix (Rayson, 2008) was used to
+extract key lexical items from each corpus in turn using
+British English 2006 (BE06), a 1-million-word corpus of published general
+written British English (Baker, 2009), as a reference corpus. 5

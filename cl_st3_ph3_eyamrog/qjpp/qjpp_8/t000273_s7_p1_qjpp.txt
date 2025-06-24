@@ -1,0 +1,15 @@
+Patient feedback provides a way for healthcare organisers to understand
+patients’ experiences of healthcare services so that the standards of
+those services can be monitored and improved. This study examines
+patient feedback on NHS cancer care services in England in
+the form of handwritten and typed (online) free-text comments provided
+as part of the national Cancer Patient Experience Survey. We
+focus on the influence of treatment duration (based on length
+of time from first treatment for cancer) on patients’ satisfaction
+rates, feedback themes, and the language used to provide feedback.
+In particular, we seek to answer the following questions: i.)
+How do experience and satisfaction rates compare across patients with
+differing treatment durations? ii.) What themes drive positive and negative
+feedback for patients with differing treatment durations? and iii.) What
+types of language are characteristic of feedback provided by patients
+with differing treatment durations (as characterised above)?

@@ -1,0 +1,10 @@
+It is our contention, however, that standard compartmental epidemiological models
+do not adequately consider the various social determinants of health
+that have a direct impact on the inequalities of health
+outcomes and the ability of populations to effectively comply with
+NPIs ( McCartney et al., 2019 ). Incorporating these social
+determinants into compartmental models can improve the predictive power and
+accuracy of modelling both with regards to contagion dynamics and
+the severity of the relevant epidemic. Moreover, these can help
+us understand the impact of different social welfare regimes on
+the efficacy of a given set of NPIs.

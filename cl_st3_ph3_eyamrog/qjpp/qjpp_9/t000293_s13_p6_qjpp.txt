@@ -1,0 +1,17 @@
+There are very few learner corpora of spoken English available
+for public use in Korea. This may be because –
+especially in the case of spoken corpora – scholars mostly
+have constructed them for their own research purposes. In this
+regard, the efl Teacher Corpus ( etc ) is noteworthy
+for being one of the few spoken corpora in Korea.
+According to Kwon and Lee (2014) , they compiled a
+total of sixty-two hours of recordings from efl classes: thirty-two
+hours of four non-native efl teachers ( nnet ) and
+thirty hours of five native English teachers ( net ).
+The corpus contains a total of 247,398 words: 123,122 words
+from nnet and 124,275 words from net . This corpus
+is different in some ways from typical learner corpora. The
+notable differences are that the efl teachers, albeit non-native, are
+technically proficient speakers of English; they are very likely to
+use structured classroom interaction, and the number of participants is
+very small for a corpus.

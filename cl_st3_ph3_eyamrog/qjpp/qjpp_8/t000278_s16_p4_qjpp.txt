@@ -1,0 +1,12 @@
+In order to identify the verbs occurring most frequently in
+the VV ing OBL construction in both earlier and contemporary
+English, I conducted searches in EEBO and the BNC, using
+the string _vv* _v?g* _i*, which retrieves any verb followed
+by V ing and a preposition. The search options were
+set to 1000 hits, grouped by lemmas; this very high
+figure (100 hits is the option selected for automatic searches
+in many corpus-based studies) ensured the retrieval of a large
+number of relevant strings, in their various forms (e.g., come
+running , comes running , came running , go wand(e)ring
+, goes wand(e)ring , goeth wandring , went wand(e)ring ,
+etc.).

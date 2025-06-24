@@ -1,0 +1,21 @@
+Perceptions of societal ageism were assessed at baseline by asking
+participants the extent to which they agreed with the statement:
+“The level of respect for older adults in society has
+decreased during the coronavirus pandemic,” with continuous response options of
+“Strongly disagree” (0), “Disagree” (1), “Neither agree nor disagree” (2),
+“Agree” (3), and “Strongly agree” (4). Since, ageism during the
+COVID-19 pandemic is a relatively new phenomenon, there were no
+existing survey scales to evaluate this construct during the survey
+development. We thus developed this scale in collaboration with a
+survey methodologist at the Survey Research Center at the University
+of Michigan Institute for Social Research, using a commonly implemented
+5-point Likert-style response scale, and pilot-tested the item along with
+the full baseline survey prior to data collection (Kobayashi et
+al., 2021 ). We elected not to use existing ageism
+scales, as they typically assess interpersonal experiences of age-based discrimination
+(Ayalon et al., 2019 ), while we aimed to examine
+perceptions of how older adults were treated by society as
+a whole during the pandemic. Since, the pandemic onset and
+since our scale was developed, there has been published work
+that used single-item measures of perceived ageism during the pandemic
+(e.g., Cohn-Schwartz & Ayalon, 2021 ).

@@ -1,0 +1,13 @@
+Based on the results, the tourism and travel variable has
+the highest impact on the appearance of the virus (see
+Models 1 and 5). Since this variable compresses indicators measuring
+air transport, tourist traffic, and some aspects of international trade,
+6 its significantly positive coefficients emphasize the importance of foreign
+travel restrictions and airport controls (e.g., using thermal scanners for
+measuring body temperature, to monitor health conditions of passengers). It
+may seem surprising that in the case of the Americas,
+this effect is significantly weaker in Model 5, but note
+that this result does not reflect the case of the
+United States. 7 Moreover, in this model, the positive significant
+coefficient of regulation and transparency in Europe suggests that European
+countries with less transparent regulation typically reported later first deaths.

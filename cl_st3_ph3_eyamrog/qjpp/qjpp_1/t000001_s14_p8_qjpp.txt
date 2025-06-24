@@ -1,0 +1,8 @@
+The estimates we generated—RR, BPRF, ROS and star rating—are neither
+specific to nor disaggregated by specific populations, including by sex
+or gender. We included all available data regardless of how
+or whether the input study collected and reported data by
+sex or gender. From the 41 studies included in the
+study, 100% included information about the self-reported sex of the
+participants but none reported IHD RR estimates by sex, precluding
+us from performing any sex- or gender-based analyses.

@@ -1,0 +1,2 @@
+We used Stata v.15 for statistical computation and p <
+.05 as the cutoff for reporting associations.

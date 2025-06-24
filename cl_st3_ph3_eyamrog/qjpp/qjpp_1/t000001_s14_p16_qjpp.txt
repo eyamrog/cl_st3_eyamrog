@@ -1,0 +1,11 @@
+The validity of the approach used here to meta-analyze the
+data has been extensively evaluated by Zheng et al. .
+For this analysis, dose–response risk estimates were validated by plotting
+the mean risk function along with its 95% uncertainty interval
+against both the extracted dose-specific RR data from the studies
+included and dose–response risk estimates from the GBD 2019 study
+. Mean risk functions, along with 95% UIs, were validated
+based on the fit of the data, the shape of
+the relationship and the plausibility of dose–response risk curves. As
+a final step, risk curves were validated and approved by
+all authors.

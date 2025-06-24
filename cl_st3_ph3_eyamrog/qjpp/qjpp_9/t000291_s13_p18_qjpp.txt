@@ -1,0 +1,18 @@
+This impression is strengthened by examining word frequencies and comparing
+them with another English-language Internet corpus, the enTenTen13 Internet corpus
+compiled by Sketch Engine, which serves as the English reference
+corpus in this study (see Jakubíček et al ., 2013
+). As a ‘snapshot’ of the English-language Internet in 2013,
+enTenTen13 is a large corpus that represents a much wider
+slice of English language usage on the Internet ( Baker,
+2006 ). Table 2 presents the effect-size metric Log Ratio
+along with the bic metric for statistical significance for high-frequency
+words in gkis in comparison with the reference corpus. Clearly,
+not all of the top frequency words in gkis should
+be counted as keywords. For example, the Log Ratio metrics
+suggest that the normalised word-frequencies (per million words) for world
+, system , process , life and right do not
+differ dramatically from their normalised frequencies in the reference corpus.
+On the other hand, a number of high-frequency words in
+gkis are drawn from a vocabulary inspired by liberal economic
+and political concepts and terminology.

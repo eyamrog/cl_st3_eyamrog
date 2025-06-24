@@ -1,0 +1,10 @@
+In recent years, social epidemiology has benefited from a more
+thoughtful consideration of causal inference from observational studies. Recommendations have
+included a greater use of tools such as directed acyclic
+graphs to provide insight into identifiability of causal effects and
+the assumptions and analytical approaches required; greater formalization of the
+assumptions needed to draw causal inferences from observational studies; the
+appropriate use of state-of-the-art statistical approaches; and a greater focus
+on the study of the health impacts of policies or
+interventions using experiments or natural experiments ( 51 , 55
+, 63 ).

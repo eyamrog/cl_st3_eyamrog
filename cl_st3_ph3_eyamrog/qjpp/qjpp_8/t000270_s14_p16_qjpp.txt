@@ -1,0 +1,15 @@
+During the observation phase we keep track of all varied
+parameters and a range of outcome variables (see Table 1
+). On the agent level, we record the number of
+social ties ( t i ), the proportion of closed
+triads ( x i ), and the disease state (
+d i ). On the network level, we record the
+number of susceptible (| S |), infected (| I |),
+and recovered agents (| R |), the number of broken
+( t G − ) and created ties ( t
+G + ) , network clustering ( C G )
+, average path length ( L G ) , and
+homophily ( H G ) . Furthermore, we keep track
+of average degree ( D G ) , as it
+is known to be a significant factor for diffusion processes
+even for small variations.

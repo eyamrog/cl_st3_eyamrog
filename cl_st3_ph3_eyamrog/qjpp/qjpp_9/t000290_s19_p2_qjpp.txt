@@ -1,0 +1,7 @@
+The examination of static vowel positions using LMERMs approaches the
+data from two distinct viewpoints. The first compares vowel formants
+(F1 and F2) as they occur within each of the
+three target vowels according to various independent effects, including coda
+context. The second compares vowel formants as they occur within
+specific coda contexts according to a similar set of independent
+effects, including vowel.

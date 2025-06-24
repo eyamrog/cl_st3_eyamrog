@@ -1,0 +1,13 @@
+This work was funded by the UK Medical Research Council
+(grant no MR/K02700X/1) and Cancer Research UK (grant no C570/A16491
+and A29186). RWS was supported by a Nuffield Department of
+Population Health DPhil Scholarship from October, 2016, to September, 2019.
+IB received funding from Public Health England. The authors thank
+the women who have participated in the Million Women Study
+and the staff from the participating NHS breast screening centres.
+The Million Women Study investigators thank NHS Digital in England
+and NHS Central Register and Information Services Division in Scotland
+for the hospital admission data. This work has also used
+data from UK Biobank under Application Number 28946, and we
+express our thanks to the participants and those involved in
+building the resource.

@@ -1,0 +1,24 @@
+Tibiae To compare the robusticity pattern of the tibiae among
+the different groups or paleodemes used in this analysis, tibial
+diaphyseal strength should be assessed relative to the baseline loads
+placed upon it, with body mass being the main load
+that models bone shape during growth ( Ruff et al.,
+1993 ). Taking into consideration tibial sample size limitations for
+scaling to bone length and body mass, it is preferable
+(if possible) to carry out a standardization of J by
+the biomechanical length of the bone as a proxy for
+body size ( Ruff et al., 1993 ). As Boxgrove
+1 is missing both epiphyses , we performed a virtual
+reconstruction using Mimics to estimate its biomechanical length and, in
+turn, estimate the individual's stature. For this, the different specimens
+(SH and RMH) were assessed to identify the specimen whose
+mid-diaphysis external robusticity was closest to that of Boxgrove. This
+individual was SH Tib-XII. The anteroposterior (AP) mid-diaphysis in Boxgrove
+is free of distortion, with an AP diameter of 39
+mm ( Stringer et al., 1998 ). In comparison, the
+AP diameter of Tib-XII is 37.48 mm. Assuming the AP
+diameter vs. length proportions are similar in these two specimens,
+Tib-XII was scaled (enlarged) by 1.04 to estimate a probable
+articular length for the Boxgrove tibia. We then located and
+fixed the diaphyseal foramen and the midshaft in the Boxgrove
+specimen with that of the scaled Tib-XII tibia.

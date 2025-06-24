@@ -1,0 +1,8 @@
+For compartment analysis, hic-files were converted at 100kb bin size
+to the cool format using hic2cool (v0.8.2) ( https://github.com/4dn-dcic/hic2cool )
+and balanced using cooler (v0.8.5) ( Abdennur and Mirny, 2020
+1. Abdennur, N. ∙ Mirny, L.A. Cooler: scalable storage for
+Hi-C data and other genomically labeled arrays Bioinformatics. 2020; 36
+:311-316 Crossref Scopus (110) PubMed Google Scholar ). Afterwards, compartment
+analysis was performed using cooltools (v0.3.0) ( https://github.com/open2c/cooltools ) and
+using the GC content as reference track.

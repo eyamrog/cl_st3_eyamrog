@@ -1,0 +1,7 @@
+Processing of data, applied methods and codes are described in
+the respective section in the STAR Methods. The number of
+subjects, samples, replicates analyzed, and the statistical test performed are
+indicated in the figure legends or STAR methods. Statistical analysis
+for comparison between two groups were assessed with Mann Whitney
+U test and correlation assessed with spearman test with using
+GraphPad Prism.

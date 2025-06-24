@@ -1,0 +1,26 @@
+This systematic review and meta-analysis followed the Preferred Reporting Items
+for Systematic Reviews and Meta-Analyses guidelines for reporting. Comorbid disorders
+are usually not reported as primary findings in prevalence studies.
+Therefore, we developed a multi-stage search strategy, first aiming to
+identify all publications reporting the prevalence of serious mental illnesses
+and substance use disorders in prison settings. We searched 15
+online databases (ASSIA, CAB Abstracts, Criminal Justice Database, Embase, Global
+Health, Global Index Medicus, IBSS, MEDLINE, NCJRS, PAIS Index, PsycINFO,
+Russian Science Citation Index, Scielo, Social Services Abstracts, and Web
+of Science) and the grey literature (Open Grey and ProQuest
+Dissertations & Theses Global) for literature published between Jan 1,
+1980, and Sept 25, 2021. General and database-specific search terms
+can be found in the appendix (pp 2–5) . GB
+conducted the searches. We considered articles in all languages, and
+screened the reference lists of all identified papers and relevant
+systematic reviews. Two researchers (SDL and GB) independently screened abstracts
+and full texts. Where there was disagreement, a third reviewer
+(APM) was involved in the screening and helped to resolve
+the disagreement. Articles deemed as relevant but not available in
+languages understood by the reviewers were translated with Google Translate.
+We sought summary data. We gathered an initial pool of
+prevalence studies and screened full texts as to whether they
+reported the prevalence of dual disorders. If the prevalence of
+dual disorders was not reported, but the study fulfilled all
+other inclusion criteria, we contacted the authors by email and
+asked whether prevalence data could be provided.

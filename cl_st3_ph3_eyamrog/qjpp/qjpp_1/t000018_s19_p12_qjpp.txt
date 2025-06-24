@@ -1,0 +1,14 @@
+To assess whether changes in whole-tissue gene expression reflect changes
+in cellular numbers, we used flow cytometry to test whether
+neutrophil and fibroblast counts correlated with M4 and M5 tissue
+expression (see Extended Data Fig. 5c,e for gating strategy and
+classification of tissues by M4/M5 expression). The percentage of neutrophils
+was significantly increased (up to tenfold) in M4/M5-high tissues while
+the percentage of stromal cells remained unchanged (Fig. 3d ).
+Additionally, epithelial cells were significantly decreased in M4/M5-high tissues (Fig.
+3d ). Neutrophils accounted for up to 38% of total
+live cells in the M4/M5-intermediate and -high groups, whilst the
+percentage of MNPs was much lower (<5%) (Fig. 3d ).
+Furthermore, M4/M5 genes significantly enriched in neutrophils and stromal cells,
+but not in MNPs, demonstrated the highest predictive power for
+nonresponse to anti-TNF and corticosteroids (Fig. 3e ).

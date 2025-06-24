@@ -1,0 +1,11 @@
+Survival distributions were compared using the log-rank test. Response rates
+were compared using the χ test. A two-sided P value
+of less than 0.05 was considered significant. No adjustment was
+performed for multiple testing. Two subgroup analyses according to age
+(≤70 years and >70 years) and tumor bulk (≤5 cm
+and >5 cm) were pre-planned in the statistical analysis plan.
+Survival curves were generated using the Kaplan–Meier estimation method. Statistical
+analyses were performed using SAS software version 9.3 and R
+version 4.2.0. The MATCH macro for PSM and the MI
+and MIANALYZE procedures for multiple imputation were used with SAS.
+The E-value package was used with R.

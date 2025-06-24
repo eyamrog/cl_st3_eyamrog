@@ -1,0 +1,18 @@
+Daily step counts and intensity (defined using a steps per
+minute threshold that indicates slow walking) were positively correlated (ρ
+coefficient ranges from 0.48 to 0.87, P < 0.001). We
+observed a gradient of higher disease risk at the intersections
+of lower daily step counts and lower bout cadence quartiles
+compared with higher daily step counts and higher bout cadence
+quartiles (Extended Data Fig. 6 ). We saw similar trends
+when this relation was examined on a continuous basis using
+a probability density plot (Extended Data Fig. 7 ). When
+step intensity was defined using the moderate to vigorous intensity
+steps per minute threshold, similar findings were observed albeit with
+lower rates of incident disease (Extended Data Fig. 8 ).
+Daily step counts remained significantly associated with each condition (all
+chunk tests P < 0.05) after accounting for step intensity
+(Extended Data Fig. 9 and Supplementary Table 4 ). Specifically,
+the effect estimates, that is, HR, for step counts for
+diabetes, obesity, sleep apnea, GERD and MDD ranged from 0.64
+to 0.81 (Supplementary Table 4 ).

@@ -1,0 +1,24 @@
+The beak-sedge Rhynchospora pubera (Cyperaceae, sedges) has repeat-based holocentromeres (
+Marques et al., 2015 59. Marques, A. ∙ Ribeiro, T.
+∙ Neumann, P. ... Holocentromeres in Rhynchospora are associated with
+genome-wide centromere-specific repeat arrays interspersed among euchromatin Proc. Natl. Acad.
+Sci. USA. 2015; 112 :13633-13638 Crossref Scopus (57) PubMed Google
+Scholar ), as do other species from the same genus
+( Costa et al., 2021 14. Costa, L. ∙ Marques,
+A. ∙ Buddenhagen, C. ... Aiming off the target: recycling
+target capture sequencing reads for investigating repetitive DNA Ann. Bot.
+2021; 128 :835-848 Crossref Scopus (4) PubMed Google Scholar ;
+Ribeiro et al., 2017 81. Ribeiro, T. ∙ Marques, A.
+∙ Novák, P. ... Centromeric and non-centromeric satellite DNA organisation
+differs in holocentric Rhynchospora species Chromosoma. 2017; 126 :325-335 Crossref
+Scopus (28) PubMed Google Scholar ). R. pubera holocentromeres are
+associated with a single tandem-repeat family (the centromeric 172-bp unit
+Tyba repeat) and the centromeric retrotransposon of Rhynchospora ( CRRh
+), giving rise to thousands of small centromere units across
+the genome ( Marques et al., 2015 59. Marques, A.
+∙ Ribeiro, T. ∙ Neumann, P. ... Holocentromeres in Rhynchospora
+are associated with genome-wide centromere-specific repeat arrays interspersed among euchromatin
+Proc. Natl. Acad. Sci. USA. 2015; 112 :13633-13638 Crossref Scopus
+(57) PubMed Google Scholar ). The lack of a Rhynchospora
+reference genome has, however, hampered detailed studies about its intriguing
+centromere organization.

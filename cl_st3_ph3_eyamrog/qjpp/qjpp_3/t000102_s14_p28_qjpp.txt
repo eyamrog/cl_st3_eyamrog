@@ -1,0 +1,8 @@
+Imaris was used to track the replication foci in time
+after laser micro-irradiation to show the expansion of the chromatin
+after DNA-damage ( Figure S4 ). Replication foci were manually
+identified, and “Spots” were placed at their intensity maximum in
+each frame of the observation. Spots representing one replication focus
+over time were joined into a “Track” and the xy
+coordinates of the spots of a track were exported into
+a CSV, which was further processed in Microsoft Excel (v16.39).

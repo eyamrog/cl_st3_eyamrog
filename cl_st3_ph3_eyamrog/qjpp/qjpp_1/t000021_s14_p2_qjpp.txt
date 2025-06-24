@@ -1,0 +1,3 @@
+The Life Sciences Reporting Summary contains information on the sample
+preparation, antibodies, gating strategy and sort strategy used in this
+study.

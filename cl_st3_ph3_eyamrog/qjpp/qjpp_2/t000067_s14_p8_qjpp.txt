@@ -1,0 +1,6 @@
+We quantified the generation of reactive oxygen species and cellular
+bioenergetics of human kidney proximal tubular (HK-2) cells that were
+exposed to recombinant suPAR at a concentration of 10 ng
+per milliliter, with or without anti-uPAR antibody, using the MitoSOX
+(Invitrogen) and Seahorse Extracellular Flux Analyzer (Agilent), respectively. Details of
+the experiments are provided in the Supplementary Appendix .

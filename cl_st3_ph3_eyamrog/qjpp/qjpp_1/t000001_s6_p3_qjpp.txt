@@ -1,0 +1,23 @@
+While it is true that the relationship between SBP and
+IHD is well known, as established by previous meta-analyses ,
+the present findings contribute to the research and inform clinical
+practice and policy in a number of ways. Our results
+robustly confirm that IHD risk due to elevated SBP levels
+was high and evidence for the relationship strong. The statistical
+methods established by Zheng et al. resolve the longstanding reliance
+on assuming a log-linear relationship between SBP and IHD. Relaxing
+this assumption is particularly relevant to accurate estimation of the
+RR of SBP at its lowest and highest levels, which
+is where much of the scientific debate has focused. The
+ability afforded by our methodological framework to evaluate dose–response between
+exposure and outcome independent of any presumed statistical relationship—in addition
+to our approach that combined data from both RCTs and
+cohort studies to determine the shape of the risk function—supports
+our finding that there was no evidence of a J-shaped
+relationship between SBP and IHD at low SBP values. Additionally,
+the BPRF framework provides a standardized approach to quantify effect
+size and evidence strength, generating summary ROS and star-rating measures
+that simplify the communication and interpretation of the evidence. This
+will enable researchers, clinicians and policymakers to effectively evaluate and
+compare risks across other SBP-related outcomes as well as additional
+risk–outcome pairs.

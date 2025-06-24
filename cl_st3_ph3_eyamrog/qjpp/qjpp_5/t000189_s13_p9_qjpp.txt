@@ -1,0 +1,18 @@
+The exceptionalism of SARS-CoV-2 as an emerged human virus is,
+to a certain extent, based in its ordinariness. It is
+simply one of many pathogens that have spilled over from
+bats to humans, and repeatedly at that. It is a
+member of the most common emerging pathogen class: RNA viruses.
+Like other pathogens that have emerged before, SARS-CoV-2 is likely
+the by-product of habitat encroachment and animal use by humans.
+Like nearly 90% of human-infective RNA viruses, SARS-CoV-2 is zoonotic,
+with nonhuman animals serving as natural hosts ( Woolhouse et
+al. 2013 ). Moreover, other CoVs have swept the human
+world multiple times in the past: HCoV-NL63, HCoV-HKU1, HCoV-229E, and
+HCoV-OC43 are globally distributed and cause approximately 30% of annual
+common cold cases ( Cui et al. 2019 ). SARS-CoV-2
+is not special. Its advent has long been considered a
+kind of inevitability, which is why CoVs and bats have
+been the focus of zoonoses monitoring and preemptive drug development
+and testing for the past two decades ( Hu et
+al. 2017 , Sheahan et al. 2017 ).

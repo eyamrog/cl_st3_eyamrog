@@ -1,0 +1,11 @@
+Another striking observation is the abundance in SARS-CoV-2-reactive CD4 +
+T cells of CD4-CTLs that express high levels of transcripts
+encoding for multiple chemokines (XCL1, XCL2, CCL3, CCL4, and CCL5),
+particularly from some hospitalized COVID-19 patients. This suggests that the
+CD4-CTL responses in COVID-19 illness may be linked to pathogenesis,
+although further studies in animal models and large-scale association studies
+in COVID-19 patients are required to verify or refute this
+hypothesis. Notably, some hospitalized COVID-19 patients showed impaired T REG
+response to SARS-CoV-2, and such patients mounted a strong CD4-CTL
+response, raising another interesting association that warrants testing in larger
+studies.

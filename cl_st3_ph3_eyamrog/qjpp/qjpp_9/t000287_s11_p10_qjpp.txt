@@ -1,0 +1,27 @@
+The first explanation of a merger reversal is simply that
+the phonemes in question were never actually merged in the
+first place. Labov, Karen, and Miller (1991) describe “near mergers,”
+in which two phones are produced similarly, but measurably differently.
+In such cases, however, speakers perceive the two phones as
+merged. For example, in a minimal pair task, speakers would
+label a pair of lexical items involving the phones as
+pronounced the same, even if they make a distinction between
+them in informal conversation. Despite perceiving no difference, the speakers
+at some level of their linguistic knowledge must know the
+difference between the phones in order to produce the slight
+distinction. Labov (1994) suggests that near mergers can be separated;
+over time, speakers in a community may bring two phonemes
+quite close together before moving one or both in a
+different direction. He offers this explanation for the apparent reversal
+of the mate - meat merger in Early Modern English
+( Labov 1994 :36). Written evidence points to a loss
+of distinction, yet the vowels were later separated perfectly. If
+these vowels merely constituted a near merger, this would explain
+both the separability and the description of the vowels as
+identical in the written record. Somewhat similarly, Kochetov (2006 :104)
+notes that in a Northern Russian variety, /ʂ/ and /ʃ/
+were “incompletely” merged to /ʂ/ in that differences in manner
+and place of articulation were neutralized, but a length distinction
+was maintained. Although we cannot know that this situation constituted
+a near merger without perception data, the slight distinction between
+the two phones nevertheless enabled their subsequent separation.

@@ -1,0 +1,23 @@
+As shown in Table 6 , knowledge about coronavirus was
+found to be significantly correlated to the respondents’ age, education,
+and marital status, with older respondents having a lower knowledge
+index. The expected mean knowledge score was higher among educated
+and married respondents compared with the reference category, namely, no
+education and nonmarried respondents. These results indicated that being educated
+increased the knowledge index by 2 percent and being married
+increased it by 5 percent. Respondents who obtained information about
+the virus from various media sources had a significant knowledge
+index, increasing the index by 2.4 percent. The findings also
+showed that both farmers and those involved in business-related activities
+(including traders, the self-employed, small business owners, and daily laborers)
+had a positive and significant relationship with the knowledge index,
+increasing it by 8.7 and 5.3 percent, respectively, as compared
+with the reference category, namely, nonfarmers and those not involved
+in business-related activities, respectively. To capture the combined effects of
+job categorization and education level, an interaction term of education
+and sector was included in the regression (shown in column
+2). The interaction of these job categories with education provided
+a different picture. The results of the interaction term implied
+that farmers who are less educated had a lower level
+of knowledge about the coronavirus, which was also the case
+for those involved in business-related job categories.

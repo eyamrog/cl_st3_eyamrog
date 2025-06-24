@@ -1,0 +1,10 @@
+Our studies of heterozygous ALS mutant FUS knock-in mice show
+that a single copy of P517L or Δ14 mutant allele
+is sufficient to cause gliosis and NMJ denervation, followed by
+selective degeneration of the same MN subtypes that are preferentially
+involved in ALS-FUS. This pathology is not restricted to the
+lumbar spinal cord, as similar trends in denervation, MN degeneration
+and gliosis were observed in the diaphragm muscle and cervical
+spinal cord (Extended Data Fig. 1k–n ). Together, these observations
+show that the knock-in mice closely replicate ALS-FUS pathology, providing
+a model in which to study disease-relevant mechanisms of neurodegeneration.

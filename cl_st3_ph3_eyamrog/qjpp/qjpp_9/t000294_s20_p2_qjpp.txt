@@ -1,0 +1,13 @@
+The percentages of the three major structures of lexical bundles
+in each sub-corpus are presented in Figure 1 . This
+shows that vp -based bundles, which are considered to be
+characteristic of conversational spoken registers ( Biber et al .,
+2004 , 2021 ; and Chen and Baker, 2010 ,
+2016 ), comprise the majority in all three corpora. The
+proportion of these bundles, however, decreases as proficiency increases (Low:
+79.1 percent, Mid: 73.1 percent, High: 53.4 percent). Characteristic of
+academic written registers, phrasal bundles (i.e., np -based and pp
+-based bundles) amount to only 21 percent and 27 percent
+of the bundles in the Low and Mid corpora, respectively,
+but to over 45 percent of those in the High
+corpus.

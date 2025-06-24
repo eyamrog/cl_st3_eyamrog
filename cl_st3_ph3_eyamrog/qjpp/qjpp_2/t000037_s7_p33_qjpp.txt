@@ -1,0 +1,14 @@
+Individuals in the target population should have equal opportunity to
+receive a given public health intervention and a just distribution
+of benefits. As stated for beneficence, digital surveillance offers the
+opportunity to identify health problems in individuals who are not
+in contact with the medical system and thereby may increase
+opportunities for enhancing equity in who is included in surveillance
+data. However, as described above in biases, segments of the
+population still do not have access to the Internet or
+digital technology, leaving open the potential for loss of equity
+in digital surveillance. Considering the limitations in representativeness [and, potentially,
+heterogeneous predictive power ( 53 )] of most Internet data
+sources, it is unlikely that surveillance data and associated interventions
+will be justly distributed without taking explicit account of these
+biases.

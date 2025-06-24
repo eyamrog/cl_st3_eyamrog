@@ -1,0 +1,24 @@
+Because of the challenges in performing true experiments, many researchers
+have called for greater use of “natural experiments” ( 26
+). A number of efforts have been made to use
+natural experiments to gain insight into the health consequences of
+policies that target social determinants of health. Many focus on
+interventions on neighborhood or community features. Examples include the opening
+of new food stores ( 49 ), a new public
+transportation system ( 20 ), vacant lot greening ( 14
+), neighborhood revitalization initiatives ( 123 ), and interventions to
+improve social capital ( 57 ). Other studies have attempted
+to estimate the effects of policies that address broader elements
+of social and economic policy by capitalizing on heterogeneity across
+geographies or over time in specific policies. For example, Dahl
+& van der Wel ( 27 ) leveraged heterogeneity in
+social spending across 18 European countries to examine whether more
+social spending is associated with better health. Ludwig & Miller
+( 80 ) capitalized on the way in which the
+Head Start program was implemented in US counties over time
+to assess the program's impact on child health. Montez et
+al. ( 90 ) used heterogeneity in state policies to
+estimate effects on differential life expectancy trends by state. Systematic
+reviews across study designs have also been used to synthesize
+the impact of policies or interventions focused on the social
+determinants of health ( 121 ).

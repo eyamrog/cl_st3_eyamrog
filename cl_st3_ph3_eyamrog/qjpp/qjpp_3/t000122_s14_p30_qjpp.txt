@@ -1,0 +1,9 @@
+The facilities at the Galveston National Laboratory, University of Texas
+Medical Branch (UTMB) used in this work are also accredited
+by the AAALAC and adhere to principles specified in the
+eighth edition of the Guide for the Care and Use
+of Laboratory Animals, National Research Council.The animal protocols for testing
+of mAbs in mice and guinea pigs were approved by
+the UTMB Institutional Animal Care and Use Committee (IACUC) in
+compliance with the Animal Welfare Act and other applicable federal
+statutes and regulations relating to animals and experiments involving animals.

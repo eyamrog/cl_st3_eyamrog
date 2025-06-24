@@ -1,0 +1,9 @@
+At the level of 23 food groups, there is still
+important heterogeneity within food groups in product-level concentrations of sugar
+and saturated fat. For example, full-fat and low-fat versions of
+dairy products should be taxed differently, and it was necessary
+to allow for shifts in purchasing within the dairy food
+group. Therefore, we disaggregated foods and their price elasticities into
+a 340 by 340 food matrix, to align with disaggregated
+consumption data in the 2008–09 New Zealand National Nutrition Survey
+( appendix p 2 ).

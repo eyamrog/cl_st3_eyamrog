@@ -1,0 +1,12 @@
+An undergraduate research assistant transcribed the conversation section of the
+interviews, beginning ten minutes into the recording in order to
+ensure the collection of casual speech data and continuing for
+fifteen minutes. I transcribed the reading passage, word list, and
+minimal pair tasks. 5 The transcriptions and audio were then
+forced aligned using the FAVE program ( Rosenfelder et al.,
+2014 ). A customized script was used to extract F1
+values at 40 percent of the vowel in Praat (
+Boersma & Weenink 2017 ). Formants were Lobanov normalized (
+Lobanov 1971 ) and rescaled using the overall mean and
+overall standard deviations of the speaker set analyzed in Duncan
+(2018) . 6

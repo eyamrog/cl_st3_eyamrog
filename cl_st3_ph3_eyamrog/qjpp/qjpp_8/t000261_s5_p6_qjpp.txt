@@ -1,0 +1,10 @@
+The analysis by diagnosis does suggest some re-routing of patients.
+Approximately 51% of presentations at the Dublin EDs are Injury
+or Medical related, and while overall presentations are unchanged, the
+marginal probability of these presentations resulting from a GP referral
+has increased, suggesting more of these patients attended their GP
+prior to the ED following the introduction of the policy.
+While Digestive presentations have decreased at the Dublin hospitals, this
+may be explained by the implementation of the national rotavirus
+vaccine programme for all infants born on or after October
+1, 2016 ( Coveney et al., 2020 ).

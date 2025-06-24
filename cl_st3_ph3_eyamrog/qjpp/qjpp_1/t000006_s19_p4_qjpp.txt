@@ -1,0 +1,16 @@
+It has been suggested that time thresholds based on mathematical
+modeling of the kinetic of decay of RAS/EGFR mutant clones
+can be used to define an optimal timing of rechallenge
+treatment with anti-EGFR antibodies in patients with mCRC . In
+light of these findings, we calculated for each patient the
+screening time interval (STI), defined as the time intercurred between
+the dates of the last dose of previous anti-EGFR and
+that of the CHRONOS screening (Fig. 3 ). The median
+STI was 11.5 months. A specific time threshold differentiating patients
+with WT ctDNA from patients with mutated ctDNA was not
+present. Moreover, there was no correlation between length of STI
+and probability of response, further suggesting that ‘zero mutation ctDNA’
+status is the main predictive factor for anti-EGFR rechallenge efficacy.
+Overall, these observations suggest that a predefined time limit might
+be ineffectual for a clinical selection of cases to be
+rechallenged, whereas ctDNA measurement enables definition of potentially responding patients.

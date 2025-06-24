@@ -1,0 +1,11 @@
+To investigate the structural basis for the broad reactivity of
+1C3 and 1C11, we prepared a complex of EBOV GPΔmucin
+with 1C3 antigen-binding fragment (Fab) and 1C11 single-chain variable fragment
+(scFv) and determined the structure of the complex to 3.59-Å
+resolution using single-particle cryo-EM ( Figures 2 and S2 ;
+Table S2 ). We also determined the crystal structure of
+unbound 1C3 Fab to 2.15-Å resolution to aid in model
+building ( Table S3 ). Both variable and constant domains
+of the 1C3 Fab were visible in the crystal structure,
+but only its variable antigen-binding portions were well ordered in
+the cryo-EM reconstruction.

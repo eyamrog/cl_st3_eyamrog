@@ -1,0 +1,12 @@
+The system of equations (1) , (2) , (3) ,
+(4) capture the dynamics of COVID for given values of
+β , γ , δ and ε . However, as
+we demonstrate in the next section, both the speed of
+contagion of COVID-19 and its mortality rate will be significantly
+influenced by SDs . This means that β and δ
+can be understood as functions of different SDs that can
+be quantified and explicitly included in future analysis. While we
+acknowledge that the same could be true for γ ,
+which, as we have mentioned, in this framework captures the
+inverse of the period being infected and infectious, we treat
+it here as in the standard epidemiological modelling literature.

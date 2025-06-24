@@ -1,0 +1,18 @@
+In a follow-up study using a much larger participant pool
+( n =175), Siyanova-Chanturia and Spina (2020) investigated the development
+of N+Adj collocations in beginner, elementary and intermediate L2 learner
+(L1 Chinese) writing over a period of six months. In
+common with Siyanova-Chanturia (2015) , this study adopted a quantitative
+approach, looking at five complementary frequency and association measures. Unlike
+Siyanova-Chanturia (2015) , this study employed mixed-effects modelling – a
+more powerful statistical technique which has been shown to be
+more suited for the analysis of longitudinal corpus data than
+the more traditional tests (such as anova and t- test).
+The results of this study overwhelmingly showed that greater exposure
+to an L2 does not necessarily lead to more idiomatic
+and target-like output. In fact, time (beginning of the language
+course versus six months later) was found to negatively affect
+four of the five measures analysed, in that after six
+months, L2 learners across all proficiency levels were found to
+produce less frequent word combinations whose constituent words were not
+associated or mutually attracted.

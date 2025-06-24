@@ -1,0 +1,24 @@
+We were supported by the Dutch Cancer Society (grant no.
+KUN 2015-7970, to W.B., H.P. and G.L.); Netherlands Organization for
+Scientific Research (grant no. 016.186.152, to G.L.); Google LLC, Verily
+Life Sciences, Swedish Research Council (grant nos. 2019-01466 and 2020-00692,
+to M.E.); Swedish Cancer Society (CAN, grant no. 2018/741, to
+M.E.); Swedish eScience Research Center, EIT Health, Karolinska Institutet, Åke
+Wiberg Foundation and Prostatacancerförbundet (all to M.E.); Academy of Finland
+(grant nos. 341967 and 335976, to P.Ruusuvuori), Cancer Foundation Finland
+(project ‘Computational pathology for enhanced cancer grading and patient stratification’,
+to P.Ruusuvuori) and ERAPerMed (grant no. 334782, 2020-22, to P.Ruusuvuori).
+Google LLC approved the publication of the manuscript, and the
+remaining funders had no role in study design, data collection
+and analysis, decision to publish or preparation of the manuscript.
+We thank the MICCAI board challenge working group, the MICCAI
+2020 satellite event team and the MICCAI challenge reviewers for
+their support in the challenge workshop and review of the
+challenge design. We thank Kaggle for hosting the competition, providing
+compute resources and the competition prizes. We thank CSC—IT Center
+for Science, Finland, for providing computational resources. We thank E.
+Wulczyn, A. Um’rani, Y. Liu and D. Webster for their
+feedback on the manuscript and guidance of the project. We
+thank our collaborators at NMCSD, particularly N. Olson, for internal
+reuse of de-identified data, which contributed to the US external
+validation set.

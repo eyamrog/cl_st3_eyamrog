@@ -1,0 +1,7 @@
+Table 4 presents both raw token frequencies of the lexical
+bundles retrieved and sifted through. We also include type frequencies
+to give a sense of the range of bundles involved
+in each corpus. Table 4 . Type and token frequencies
+of lexical bundles in the two corpora. Empty Cell TRJPS
+PJPS Empty Cell No. of bundles (tokens) No. of bundles
+(types) TRJPS 44,849 1,326 PJPS 28,366 1,047

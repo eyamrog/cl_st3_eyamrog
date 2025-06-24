@@ -1,0 +1,6 @@
+To start with AmE, there were fifty-seven definite NPs, all
+of which were singular. They occurred in all four corpora
+across thirty-nine texts, but the total number of tokens is
+inflated by twelve occurrences of the skeptic in one text
+(see 11) and there were also four occurrences of the
+student .

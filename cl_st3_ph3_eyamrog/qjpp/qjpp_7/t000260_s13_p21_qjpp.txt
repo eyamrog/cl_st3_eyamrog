@@ -1,0 +1,5 @@
+The conditions state that that the higher the value for
+c 1 and c 2 the higher the infection rate
+and CFR. The opposite is true for c 3 ,
+which has a negative effect on both the infection rate
+and CFR.

@@ -1,0 +1,26 @@
+Some of the same residues are bound by 1C3 across
+the three GP protomers, whereas others differ. Residues 115, 117–120,
+124, and 172 of all three GP protomers are bound
+by 1C3 ( Figure 3 F). For example, residues 117–120
+on protomer A are bound by 1C3 CDRH2 and CDRH3,
+whereas the same residues on protomer B are bound by
+1C3 CDRL2 and framework region (FR) L3 and on protomer
+C by 1C3 FRL1. Residues K114, P116, A125, and P126
+are bound by 1C3 in two of the three GP
+protomers A and B. GP residues 125–126 are bound by
+residues 31–33 in CDRL1 in GP protomer A and by
+residue N35 in CDRL1 in GP protomer B. In protomer
+A alone, residues D127 and G128 are bound by CDRL1,
+and residues G143 and T144 are contacted by CDRH2. In
+protomer B alone, residue D150 is bound by CDRL1, and
+residue F151 is bound by FRL3. Interestingly, the buried surface
+on GP is contributed by 33.3% heavy chain and 66.7%
+light chain. The majority contribution by the light chain contact
+is unusual for a human antibody, and likely results from
+the longer, 11-residue CDRL1 that extends into the bottom of
+the GP “chalice” to interact with two GP protomers A
+and B in its path. The 1C3 light chain has
+86% identity with the IGKV 4-1 germline. CDR somatic mutations
+in L1 and L2 include Q27H, N37D, and Y38F. Framework
+changes include M4L, V13A, N22S, L39F, Y55S, D74V, S77N, S79G,
+and D86H.

@@ -1,0 +1,14 @@
+In analyses of individuals without missing data in the 1958
+and 1970 birth cohort studies, we ascertained whether the proportional
+hazards assumption had been violated by computing Schoenfeld residuals. With
+no strong evidence that this was the case, we computed
+hazard ratios with accompanying 95% CIs for care and total
+(or suicide) mortality separately for each study. Next, we pooled
+the results from the analyses of raw data alongside published
+study-specific estimates using a random-effects meta-analysis, an approach that incorporates
+the heterogeneity of effects in the computation of their aggregation.
+An I 2 statistic was computed to summarise the heterogeneity
+in estimates across studies. Lastly, we explored the magnitude of
+the care–mortality association according to different contexts, including sex, study
+quality, region, and complexity of covariate adjustment. All analyses were
+conducted using Stata, version 15.

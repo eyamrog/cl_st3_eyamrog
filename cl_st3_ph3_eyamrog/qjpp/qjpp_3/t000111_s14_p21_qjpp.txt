@@ -1,0 +1,22 @@
+A customized pipeline was used to extract the sequences and
+counts of barcodes from FASTQ files. Briefly, to identify the
+barcoding region, the R1 sequence was globally aligned to the
+A26 reference barcode. The parameters used for alignment are: +2
+for match score, −2 for mismatch score, −6 for gap
+opening penalty and −0.1 for gap extension penalty. Next, the
+adaptor sequences were trimmed off from the annotated sequence. Then,
+the sequences with alignment scores lower than 200 or with
+count less than 10 were removed from the subsequent analysis.
+Barcode sequence from each read was extract, which is 117
+bps starting from 58 bp before the predicted TSS of
+TLCV2 plasmid. Then the mutation events were categorized by TraceQC
+package ( https://github.com/LiuzLab/TraceQC ) into 4 attributes of barcodes: type
+of mutations, starting position, length of mutation, and the mutant
+sequence. The mutation events were normalized by the read count
+per million (RPM) approach and the normalized count was used
+to generate the feature matrixes for metastases in each animal.
+The Shannon entropy of mutation events were calculated using the
+formula: 𝐻 ⁡ ( 𝑋 ) = − ∑ 𝑛
+𝑖 = 1 𝑃 ⁡ ( 𝑥 𝑖 ) ⁢
+l o g 2 ⁡ 𝑃 ⁡ ( 𝑥 𝑖
+) .

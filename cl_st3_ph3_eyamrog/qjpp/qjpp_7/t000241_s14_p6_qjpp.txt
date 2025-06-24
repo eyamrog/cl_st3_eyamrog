@@ -1,0 +1,16 @@
+Following Arellano and Bover (1995) and Love and Zicchino (2006)
+, Helmert transformation, which involves forward mean-differencing of the variables,
+has been performed to remove any fixed effects that could
+be associated with error terms and which may lead to
+biasness in the empirical model (see also Asongu and De
+Moor 2017 ; Asongu and Nwachukwu 2016 ). As documented
+in Roodman (2009a) , the Helmert (forward-orthogonal) transformation approach requires
+that the mean of future observations is subtracted from variables
+instead of the previous observations being subtracted from the current
+observations. This, therefore, ensures that there are parallel or orthogonal
+conditions between forward-differenced variables and the lagged values ( Asongu
+and De Moor 2017 ; Roodman 2009a ). Such a
+transformation also helps to prevent data loss for all observations,
+except the last value for each cross-section. Moreover, because lagged
+observations do not enter into the formulae, they remain valid
+as instruments ( Roodman 2009b ). 3

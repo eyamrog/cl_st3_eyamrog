@@ -1,0 +1,12 @@
+To date, there is no empirical evidence that specific allelic
+variation associated with ILS can induce morphological hemiplasy in descendant
+non-sister lineages. Technical constraints precluded genetic manipulation experiments in marsupial
+species to validate this possible effect, but the overall evolutionary
+conservation of mammalian protein-coding genes allowed us to use mice
+to examine the morphological impact of alternative alleles at two
+focal ILS loci. Here, we reviewed the annotation of all
+ILS genes and identified the candidates associated with the skeleton
+anatomy that showed hemiplasy in these marsupial species. WFIKKN1 and
+PAPSS2 were among the top candidates showing significant ILS signals
+between the monito del monte and two diprotodontian marsupials; so,
+we focused our validations on these two genes.

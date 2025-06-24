@@ -1,0 +1,5 @@
+The study is structured as follows. Section 2 describes the
+data that were used and the methodology. Section 3 presents
+the results. The latter are discussed in Section 4 ,
+while Section 5 draws some conclusions and offers suggestions for
+future avenues of research.

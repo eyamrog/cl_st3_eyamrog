@@ -1,0 +1,6 @@
+E11.5 limb cells were isolated from C57BL/6 embryonic limbs through
+trypsinization, filtration (40 μm) and centrifugation. Cell suspensions were then
+plated on gelatine-coated plates at 37 o C in 5.0%
+CO2 in DMEM/F12 supplemented with 10% FCS, 4 mM L-Glutamine,
+1x penicillin/streptomycin, 250 ng/ml Recombinant Mouse Wnt-3a protein and 150
+ng/ml Recombinant Human/Mouse FGF-8b Isoform.

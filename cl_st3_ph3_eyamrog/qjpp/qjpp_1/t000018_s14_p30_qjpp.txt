@@ -1,0 +1,11 @@
+Single-cell gene-set enrichment scores were computed for WGCNA modules and
+cytokine stimulation signatures using the same strategy. For each gene
+in the gene set, we computed z - scores (mean
+centered and unit variance scaled) of log(CP10K) normalized expression across
+all cells. We then summed the z -scores of genes
+in the gene set to compute a single gene-set score
+for each cell. This procedure is summarized in the formula
+below, used to compute the score S G,i for gene
+set G and cell i using normalized expression y gi
+, gene mean μ , and gene standard deviation σ
+g :

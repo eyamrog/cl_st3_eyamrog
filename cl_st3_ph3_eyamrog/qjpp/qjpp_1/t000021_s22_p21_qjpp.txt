@@ -1,0 +1,22 @@
+Our single-cell approach also enabled us to identify cellular subsets
+present during hyperacute HIV infection in two individuals (P3 and
+P4) who maintained low viremia in chronic infection. In addition
+to polyfunctional monocytes identified in P3, we found a subset
+of cytotoxic, proliferating NK cells in P3 and P4. In
+other infection settings , NK cells have demonstrated antigenic memory,
+suggesting that these cells could be responding to some previously
+encountered antigen; however, while all participants tested negative for sexually
+transmitted infections pre-HIV-infection, we did not screen for other chronic
+infections or exposures. These proliferating NK cells may function alongside
+CTLs early in infection, mitigating CTL antigenic load and subsequent
+exhaustion . Although there are ethical and practical difficulties associated
+with collecting additional samples from untreated HIV infected persons, follow-up
+studies in nonhuman primates could determine the functional, actionable importance
+of early immune responses for long-term viral control. Future work
+in FRESH will seek to test the effects of early
+administered ART on longitudinal HIV response dynamics. Parallel efforts in
+human cohorts with other viral and bacterial infections, as well
+as inflammatory diseases and cancers, will enable assessment of the
+broad utility of the framework described herein, and begin to
+reveal the common and unique immune response motifs that inform
+human immunity for future modulation with drugs or treatments.

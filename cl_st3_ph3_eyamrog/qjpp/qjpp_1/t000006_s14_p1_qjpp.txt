@@ -1,0 +1,9 @@
+CHRONOS (EudraCT 2016-002597-12, NCT03227926 ) is an open-label, single-arm, multicenter,
+phase 2 trial designed to evaluate the efficacy of rechallenging
+with panitumumab a population of patients with RAS/BRAF WT mCRC
+selected on the basis of absence of RAS , BRAF
+and EGFR ECD resistance mutations in ctDNA at the actual
+moment of treatment initiation (Fig. 1 and Extended Data Fig.
+1 ). The primary endpoint was ORR by RECIST version
+1.1 with independent central review. Secondary endpoints were PFS, OS,
+safety and tolerability of panitumumab rechallenge.

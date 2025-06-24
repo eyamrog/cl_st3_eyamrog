@@ -1,0 +1,11 @@
+The decision to conduct a meta-analysis was made after doing
+the literature search to ensure that a sufficient number of
+studies were available that had recorded lifetime prevalence of TBI.
+Studies were excluded from the meta-analysis if they did not
+have prevalence data that could be extracted or obtained through
+corresponding authors, had a sample size smaller than 25, or
+if they were judged to be from the same study
+sample as another study included in the analysis by consensus
+of two study authors (JLS and WJP). For studies that
+were identifiably from the same study sample, we included the
+study with the largest sample size in the meta-analysis.

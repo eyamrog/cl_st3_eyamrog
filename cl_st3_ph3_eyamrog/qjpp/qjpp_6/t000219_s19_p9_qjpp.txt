@@ -1,0 +1,3 @@
+Compared with the previous section on raw data, the size-adjusted
+data give here information on shape without the influence of
+size.

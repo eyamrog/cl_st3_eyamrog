@@ -1,0 +1,12 @@
+Like aIC Fezf2 neurons, aIC NTS neurons showed excitatory or
+inhibitory response to sucrose and quinine that scaled up or
+down with the licking rates of the mice ( Figures
+S5 A–S5C). Moreover, the response amplitudes of many neurons showed
+positive or negative correlations with the licking rates during liquid
+consumption ( Figures S5 D and S5E) but not during
+baseline periods ( Figure S5 F). Interestingly, compared with aIC
+Fezf2 neurons, a much larger fraction of aIC NTS neurons
+showed excitatory response to sucrose (aIC NTS , 34.5%; aIC
+Fezf2 , 19.5%) or to both sucrose and quinine (aIC
+NTS , 14%; aIC Fezf2 , 8.4%) ( Figures S5
+G and S5H).

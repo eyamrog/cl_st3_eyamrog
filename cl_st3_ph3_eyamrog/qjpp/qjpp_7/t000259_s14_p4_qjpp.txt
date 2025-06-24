@@ -1,0 +1,7 @@
+Conjoint experiments circumvent this issue by (1) asking respondents to
+rate multiple treatments simultaneously (and/or in repeated trials), (2) randomly
+assigning levels within each attribute across treatments and individuals, and
+(3) estimating the effect of each attribute on an outcome
+variable of interest; assuming random assignment to all other level
+combinations, and accounting for correlated errors within respondents (e.g., standard
+error clustering or multilevel modeling).

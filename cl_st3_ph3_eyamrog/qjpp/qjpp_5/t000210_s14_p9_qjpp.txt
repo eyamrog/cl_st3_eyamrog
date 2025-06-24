@@ -1,0 +1,13 @@
+Data processing and statistical analyses were performed using R v.
+3.4.4 ( R Core Team, 2016 ). To investigate species
+and sex differences during ontogeny of HPA axis activity in
+young chimpanzees and bonobos, we fitted a linear mixed model
+( Baayen, 2008 ) with Gaussian error structure (‘age variation
+model’). The dependent variable was the SG-corrected cortisol concentration (ng/ml
+SG) of urine samples. We included as test predictors population
+(coded with three levels to differentiate between LuiKotale bonobos, Taï,
+and Budongo chimpanzees), sex, age, and their two- and three-way
+interactions. As we anticipated a weaning-related peak in cortisol levels
+for both species, we included the cubic function of age
+(and thus also the linear and quadratic functions) to effectively
+model cortisol levels across ontogeny.

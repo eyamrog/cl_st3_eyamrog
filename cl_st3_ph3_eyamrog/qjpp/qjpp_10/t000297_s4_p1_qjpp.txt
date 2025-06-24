@@ -1,0 +1,13 @@
+The first critical issue concerning lcr in Hong Kong is
+corpus design, specifically the selection of the target learners. The
+early reliance on language samples in the hkcse is misplaced,
+as highlighted by the corpus creators, Cheng and Warren (2007)
+, since it was comprised of professional communications with advanced
+L2 fluency. As such, any findings based on the hkcse
+may not be applicable to less advanced learners, such as
+secondary school students or primary school children. We believe that
+lcr researchers in Hong Kong should exercise caution when using
+the term ‘learner corpus’ in these situations: if researchers sample
+data from proficient speakers or writers, they should avoid using
+the term, or at least justify why the collected data
+merits that status.

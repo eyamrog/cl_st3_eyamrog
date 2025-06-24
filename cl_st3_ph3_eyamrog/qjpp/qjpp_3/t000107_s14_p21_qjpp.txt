@@ -1,0 +1,22 @@
+The sequencing data was de-multiplexed and trimmed to contain only
+the sgRNA sequence cassettes. The read count of each individual
+sgRNA was calculated with no mismatches and compared to the
+sequence of reference sgRNA as described previously ( Shi et
+al., 2015 76. Shi, J. ∙ Wang, E. ∙ Milazzo,
+J.P. ... Discovery of cancer drug targets by CRISPR-Cas9 screening
+of protein domains Nat. Biotechnol. 2015; 33 :661-667 Crossref Scopus
+(357) PubMed Google Scholar ). Data of each sample were
+normalized to the same read account. Waterfall plots ( Figure
+1 B): For each gene, mean of the log2 fold
+changes from multiple sgRNA was computed. Heatmap ( Figure 1
+C): For each gene, mean of the log10 fold changes
+from multiple sgRNA was computed. In the matrix of genes
+by conditions, quantile normalization was performed across conditions such that
+each condition has the same distribution of values. Genes were
+ordered by the mean value of each row. Histogram (
+Figure 1 D): For each condition, the background (gray bars
+and the histogram) was plotted for sgRNAs of all the
+genes. The 5% and 95% intervals were extracted by using
+the 5th percentile and 95th percentile of background values. The
+red bars show the log folds change for sgRNAs for
+one gene (or the control)

@@ -1,0 +1,15 @@
+This formulation of the typology of co-events enabled Talmy (2000
+:II, 117, 222-223) to establish a fundamental cross-linguistic distinction between
+satellite-framed and verb-framed languages based on how the various components
+of a motion event are realized in the surface expression.
+Very briefly, satellite-framed languages such as English or Russian characteristically
+encode manner or another co-event in the main verb and
+path in a satellite; that is, in adverbs such as
+by and away in (9) and (10), or in prepositional
+phrases such as to the party and past the graveyard
+in (11) and (12). By contrast, verb-framed languages such as
+Spanish, French, and Turkish characteristically express path in the verb
+by means of predicates containing a specification of the direction
+of motion, such as Spanish salir ‘to exit’ in (13).
+In these languages, the expression of manner or other co-events
+is thus left to an independent—usually adverbial or participial—constituent.

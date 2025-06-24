@@ -1,0 +1,21 @@
+The results of this brief examination are shown in Tables
+1 (for March 15) and 2 (for March 30). Most
+interestingly, the leadership variables shown here are highly insignificant on
+March 15 in explaining the strength of the lockdown; indeed,
+when including all leadership variables (columns 13 and 14), the
+level of the Stringency Index at this date apparently has
+no correlation with any specific leadership characteristics apart from the
+left-wing measure, which has a negative and significant (at the
+10 percent level) correlation with the strength of the lockdown.
+Instead, it appears that the biggest significant driver of the
+stringency of the lockdown globally was the number of deaths
+in a particular country to that point, perhaps suggesting how
+severe the pandemic was going to be in a particular
+country and how massive a response was envisioned. However, particularly
+interesting for our hypothesis is that it appears that institutional
+measures played far more of a role than leadership traits,
+with the constraints on the executive being correlated with higher
+stringency, perhaps in response to clamoring from the public and
+the legislative branch for action, and each increase in executive
+constraints appears to be correlated with an increase in the
+Stringency Index of approximately 3 points.

@@ -1,0 +1,12 @@
+Three-way variation in Englishes among need +TO, need +ING, and
+need +ED is confirmed by cluster analysis. Cluster analysis algorithms
+chunk observations into an analyst-specified number of groups in order
+to achieve the greatest possible similarity among observations within each
+group. Figure 5 shows an output of a K-means cluster
+analysis created with kmeans() in R ( R Core Team
+2020 ) using the default Hartigan-Wong algorithm ( Hartigan 1975
+; Hartigan & Wong 1979 ), which assigns observations to
+clusters so that the sum of squares between the observations
+and the center point of their assigned cluster is minimized.
+Open in Viewer Figure 5 . Cluster Analysis of need
+-passives in All Cities

@@ -1,0 +1,20 @@
+In order to keep the amount of data to be
+manually coded for additional predictors within manageable bounds, a total
+of fifty relevant hits per shell noun and variety were
+sampled from randomized sets of the shell noun followed by
+is . For trouble and word , the total numbers
+for some varieties did not amount to fifty; the total
+number of hits therefore is 3438 rather than the expected
+3600 (see the legend to Figure 1 for total raw
+frequency per variety). In sampling the material, great care was
+taken to exclude non-regional material, such as hits from the
+Tokyo Reporter in the original Singapore concordance. One general strategy
+in sampling the data was to give preference to regional
+news outlets (e.g., the Daily Post , a Laos-based Nigerian
+newspaper) rather than those that cater to a wider audience
+(e.g., The News Guru , which—while based in Laos—self-advertises as
+“Africa’s number one news portal”). The two types of online
+publication are generally distinguished by a domain name which is
+regional and one that ends in .com. This is not
+to say that there is no local news copy produced
+for an outlet such as Nirametrics.com .

@@ -1,0 +1,21 @@
+Mouse G4 ESCs (XY, 129S6/SvEvTac x C57BL/6Ncr F1 hybrid) were
+grown as described previously on a mitomycin-inactivated CD1 mouse embryonic
+fibroblast feeder monolayer on gelatinised dishes at 37 o C,
+7.5% CO 2 ( Andrey and Spielmann, 2017 10. Andrey,
+G. ∙ Spielmann, M. CRISPR/Cas9 genome editing in embryonic stem
+cells Methods Mol. Biol. 2017; 1468 :221-234 Crossref Scopus (11)
+PubMed Google Scholar ; George et al., 2007 51. George,
+S.H. ∙ Gertsenstein, M. ∙ Vintersten, K. ... Developmental and
+adult phenotyping directly from mutant embryonic stem cells Proc. Natl.
+Acad. Sci. USA. 2007; 104 :4455-4460 Crossref Scopus (142) PubMed
+Google Scholar ). CTCF-AID-GFP and Rad21-AID-GFP E14 ESCs were cultured
+feeder-free on gelatinised dishes at 37 o C, 7.5% CO
+2 . All ESCs were cultured in ESC medium containing
+knockout DMEM with 4,5 mg/ml glucose and sodium pyruvate supplemented
+with 15% FCS, 10 mM Glutamine, 1x penicillin/streptomycin, 1x non-essential
+amino acids, 1x nucleosides, 0.1 mM beta-Mercaptoethanol and 1000 U/ml
+LIF. Medium was changed every day while G4-cells were split
+every 2-3 days or were frozen at 1x 10 6
+cells/cryovial in ESC medium containing 20% FCS and 10% DMSO.
+ESCs and feeder cells were tested for Mycoplasma contamination using
+the MycoAlert detection kit and MycoAlert Assay Control Set.

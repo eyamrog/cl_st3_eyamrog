@@ -1,0 +1,15 @@
+Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)
+guidelines (Supplementary Tables 1 and 2 ), we identified 86
+RCTs from a previous meta-analysis and 2,368 RCTs published between
+February 2018 and April 2020. In addition, two studies previously
+used in the Global Burden of Disease study 2019 (ref.
+) to estimate the burden attributable to high SBP were
+identified. In total, we extracted data from 41 studies: one
+observational study , one pooled cohort that included 61 prospective
+studies and 39 RCTs investigating the effect of blood pressure-lowering
+drugs on SBP (Extended Data Fig. 1 ). The data
+included represent 1,486,007 unique participants and 12,628 IHD events. Studies
+were conducted across 66 countries (Extended Data Fig. 2 ).
+Table 2 summarizes additional characteristics of the studies included. The
+full citation list of studies included is available in Supplementary
+Table 3 .

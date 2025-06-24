@@ -1,0 +1,24 @@
+One concern about previous surveys of recombination in mitochondria using
+Sanger sequences (e.g., Piganeau et al., 2004 ; Tsaousis et
+al., 2005 ) is that these data may be affected
+by nuclear insertions of mitochondrial sequence (NUMTs). The very high
+coverage of our WGS data ( SOM Fig. S1 )
+suggests that the influence of NUMTs is almost certainly small
+in the new data analyzed here. We identified a convincing
+signature of four recombination events in two mitochondrial genomes from
+GenBank that were excluded from our analysis, but not in
+the other 222 genomes we included. For one of these
+four events (event 1), there is a lack of geographical
+proximity in extant ranges and diverged phylogenetic relationships of the
+putative parental sequences. In three others (events 2–3, 5) a
+major sequence was not identified in the data despite a
+relatively robust sample of extant variation in terms of interspecific
+and intraspecific variation for some macaque species. The characteristics thus
+cast doubt on a biological (as opposed to a technical)
+basis for the recombination signatures in these two GenBank sequences.
+In the 222 other genomes we analyzed, any signal of
+recombination that is present was insufficiently strong to be consistently
+detected by the methods we deployed. This could be because
+recombination is rare or absent or because demographic factors, such
+as rapid expansion of matrilines on Sulawesi, limited our ability
+to detect recombination.

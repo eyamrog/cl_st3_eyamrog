@@ -1,0 +1,12 @@
+For analysis by XRD, the sediment samples were first dried,
+then ground in an agate mortar and pestle, and mounted
+in standard steel sample holders. The instrument is a Bruker
+D8 ADVANCE ECO XRD scanner configured with linear detector SSD
+160 and a 2.2 KW Cu fine focus cathode tube
+operating at 40 kV and 25 mA, using Cu-Kα radiation
+(1.54060 Å). Each sample was measured using a monochromatic X-ray
+beam and scanned from 2.5° to 90° 2ϴ at a
+scanning step size of 0.02° (2ϴ). XRD measurements were carried
+out using DIFFRAC.SUITE software, and qualitative phase analysis was conducted
+using the DIFFRAC.EVA PDF-4+ database ( Gražulis et al., 2009
+, 2011 ).

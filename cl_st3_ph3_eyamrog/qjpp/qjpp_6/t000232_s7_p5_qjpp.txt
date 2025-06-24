@@ -1,0 +1,8 @@
+After reviewing the relevant literature, I provide a description of
+methods. Findings related to articulating the root cause of the
+problem; its consequences; and the results of process and social
+mapping are presented, along with a description of the automated
+electronic notification system (eNotification) that was developed. Evaluation results from
+a pilot study are provided. The article concludes by defining
+the value of IE principles for health systems and technology
+research.

@@ -1,0 +1,22 @@
+Using a series of novel antibodies that distinguish wild-type FUS
+from the mutant isoforms of the protein (Extended Data Fig.
+2a–g ), we observed diffuse cytoplasmic mislocalization of mutant, but
+not wild-type, FUS in P517L/WT and Δ14/WT animals, as well
+as strong nuclear staining for mutant FUS (Fig. 1f ).
+We next quantified the cytoplasmic versus nuclear distribution of wild-type
+and mutant FUS by subcellular fractionation and western blot analysis.
+Similar to the results of immunostaining experiments, we found that
+a minority (~26–45%) of wild-type FUS is cytoplasmic in the
+spinal cords of 1-year-old wild-type, P517L/WT and Δ14/WT animals (Fig.
+1g,h ). By contrast, most mutant FUS (~68–86%) is cytoplasmic
+in P517L/WT and Δ14/WT mutants (Fig. 1h ). Although mutant
+FUS does not appear to carry wild-type FUS into the
+cytoplasm, we asked if any of the RBPs known to
+interact directly or indirectly with FUS were also mislocalized. Indeed,
+several of these RBPs (including TDP-43, hnRNP H and hnRNP
+U in P517L/WT and hnRNP U in Δ14/WT) are observed
+at a significantly higher proportion in the cytoplasm of mutant
+animals compared to wild-type controls (Fig. 1g,h ). Taken together,
+these experiments show that mutant, but not wild-type, FUS is
+selectively mislocalized to the cytoplasm along with interacting RBPs in
+P517L/WT and Δ14/WT animals.

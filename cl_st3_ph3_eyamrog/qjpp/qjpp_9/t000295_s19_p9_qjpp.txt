@@ -1,0 +1,9 @@
+As shown in Figure 3 , the x -axis represents
+different levels of each predictor. The y-axis represents the omn
+’s predicted probability. It is indicated that omn is preferred
+for an abstract inanimate HeadNP as a subject in a
+matrix clause. It is also preferred as an object in
+a relative clause. For this native language type, the omn
+’s predicted probability is highest when the classifiers are obligatory.
+An increase in the rc ’s length also contributes to
+the omn ’s proportion.

@@ -1,0 +1,17 @@
+To analyze the synchronous relationships between variables, we conducted a
+network analysis. In Figures 2 and 3 , the task
+components that refer to one test are depicted in the
+same color. Network clusters are marked by the connections between
+these components, with thicker lines showing stronger connections. The analysis
+of the sample of N = 95 revealed three fundamental
+clusters. One is the PMSC-2 cluster , with the three
+subscales strongly linked to each other with the following weights:
+Locomotor and Control = .851, Locomotor and Active play =
+.894, Control and Active play = .879. The second is
+the Fitness cluster , with the anthropometric measures and the
+Shuttle test showing moderate links of the Shuttle test with
+both BMI (weight = .396) and WtHR (weight = .399),
+and a strong link between WtHR and BMI (weight =
+.902). Finally, the third fundamental cluster is the Fine Motor
+Control cluster , with moderate links between the different tablet
+and floppy parameters.

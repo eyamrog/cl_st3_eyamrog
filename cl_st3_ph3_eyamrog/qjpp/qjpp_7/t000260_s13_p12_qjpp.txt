@@ -1,0 +1,24 @@
+However, in contrast to high income countries, most states around
+the world do not have the capacity to provide similar
+levels of financial support. According to the OECD (2019), around
+70% of all employment in developing and emerging countries takes
+place in the informal sector, where labour is unregulated, intermittent,
+and poorly remunerated. There is substantial variation in informality across
+regions, ranging from 86% in Africa to around 68% in
+the Middle East, Asia and the Pacific , and 40%
+in the Americas (OECD, 2019). In these conditions, it is
+very difficult to implement effective physical distancing through longer periods
+of lockdown and social isolation because the majority of the
+population depends upon immediate daily wages for survival and lacks
+any savings. Indeed, as part of their COVID-19 strategy for
+developing countries, the International Labour Organization (ILO) has acknowledged that
+‘physical distancing measures’ are an ‘impossible choice for informal economy
+workers’ ( ILO, 2020 ). These problems are compounded by
+the fact that there will almost certainly be very large
+increases in the numbers of ‘working poor’ as a direct
+result of the pandemic – creating a mutually-reinforcing feedback cycle
+between the pandemic and deleterious conditions of employment ( Dimarco
+et al., 2020 ). All of these features of LMIC
+labour markets have an impact on β and δ and,
+as we demonstrate below, can be incorporated into epidemiological modelling
+of the virus.

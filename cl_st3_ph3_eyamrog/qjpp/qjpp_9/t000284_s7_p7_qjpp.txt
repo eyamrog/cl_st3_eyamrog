@@ -1,0 +1,6 @@
+Before describing our dataset and methods further, we use the
+remainder of this introduction to review previous literature on back
+vowel fronting ( section 2 ) and the low back
+merger in greater detail ( section 2.1 ), especially with
+respect to SAE and the relevant vowels’ formant trajectories (
+section 2.2 ).

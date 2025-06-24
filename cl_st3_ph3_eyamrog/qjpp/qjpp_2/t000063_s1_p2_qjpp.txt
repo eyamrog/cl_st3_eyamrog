@@ -1,0 +1,22 @@
+Methods: In this systematic review and meta-analysis, we searched 15
+electronic databases (ASSIA, CAB Abstracts, Criminal Justice Database, Embase, Global
+Health, Global Index Medicus, IBSS, MEDLINE, NCJRS, PAIS Index, PsycINFO,
+Russian Science Citation Index, Scielo, Social Services Abstracts, and Web
+of Science) and the grey literature (Open Grey and ProQuest
+Dissertations & Theses Global) for studies reporting the prevalence of
+serious mental illnesses and substance use disorders in prison populations
+published between Jan 1, 1980, and Sept 25, 2021, and
+contacted the authors of relevant studies. Empirical studies among unselected
+adult prison populations that applied representative sampling strategies and validated
+diagnostic instruments, and either reported the prevalence of dual disorders
+or had authors who could provide prevalence data in correspondence,
+were included. Two reviewers (GB and SDL) independently extracted data
+from the eligible studies; both current (up to 1 year)
+and lifetime prevalence were extracted, if available. We sought summary
+estimates. Our primary outcomes were comorbid non-affective psychosis with substance
+use disorders and comorbid major depression with substance use disorders.
+We conducted a random-effects meta-analysis, explored between-sample heterogeneity with meta-regression,
+and calculated odds ratios (ORs) to assess bidirectional relationships between
+mental and substance use disorders. Risk of bias was assessed
+by use of a standard tool. The study protocol was
+registered with PROSPERO, CRD42020207301.

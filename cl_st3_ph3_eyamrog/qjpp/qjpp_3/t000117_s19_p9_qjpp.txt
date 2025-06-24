@@ -1,0 +1,7 @@
+These results show that aIC Fezf2 neuron response is potently
+modulated by action vigor, homeostatic demand, and the values of
+expected outcomes. In particular, these neurons represent the anticipation of
+outcomes that meet the changing needs of animals, even if
+the outcome—such as the high-sodium—is expected to be unpleasant. Thus,
+aIC Fezf2 neurons integrate the learned, predictive signals with the
+information about homeostatic needs to represent anticipation and motivational vigor.

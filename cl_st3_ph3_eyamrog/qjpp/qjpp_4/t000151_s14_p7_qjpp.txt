@@ -1,0 +1,16 @@
+Participant age, the year the examination took place (2011 or
+2013), and when the hormone measurement was taken (three levels:
+morning, afternoon and evening) were all included as control variables.
+Time of day was included to account for diurnal variation
+in hormone levels (see Bremner et al., 1983 ). However,
+as T levels may fall dramatically even over the course
+of the morning (Brambilla et al., 2009 ), I also
+re-ran all testosterone models excluding participants who were tested in
+the morning. Year of examination was not included for the
+E analysis because data were available for only 1 year.
+Results of these covariates are not reported here as their
+effects on steroid hormones are well established and discussed in
+other studies and are not the focus of the present
+study. For the interested reader, they are given in Appendix
+S1, or can be obtained by running the provided R
+code.

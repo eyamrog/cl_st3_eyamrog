@@ -1,0 +1,4 @@
+AV indirect impacts are those impacts that occur after widespread
+implementation of AVs and that affect the larger community. These
+impacts could be less commonly associated with AVs but could
+have important health implications.

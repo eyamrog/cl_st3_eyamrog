@@ -1,0 +1,12 @@
+Overall, despite the size and scope of the literature, the
+evidence base for whether the type of care provider affects
+the health outcomes, health care use and costs, and overall
+well-being of individuals living in their homes is weak. What
+evidence there is suggests that the presence of informal care
+provides health benefits to the care recipient, especially within the
+mental health domain. It was also generally found that having
+informal care providers was associated with lower care costs of
+the care recipient. This is due in part to the
+endogeneity problem and to the primarily unpaid nature of informal
+care, but it does appear to be causally linked as
+well when studies addressed endogeneity head-on.

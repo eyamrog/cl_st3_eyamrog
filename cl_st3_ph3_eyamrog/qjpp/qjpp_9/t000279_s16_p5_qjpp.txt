@@ -1,0 +1,19 @@
+To investigate the usage patterns of little in relation to
+speakers’ role in the courtroom, their social class, and gender,
+we have taken advantage of the coding of these socio-pragmatic
+parameters in the OBC. As it is our aim to
+assess the variation across time and as a function of
+the socio-pragmatic parameters, we have applied a multiple regression model
+to the data, more specifically a negative binomial regression model
+( Hilbe 2011 ). The model incorporates simultaneously the four
+parameters, also known as predictors—time, role, class, and gender—allowing us
+to estimate the unique contribution of each predictor while holding
+the other predictors constant. This enables us to attribute differences
+in isolated comparisons more reliably, say, between roles, to the
+effect of roles themselves and not to the share of
+variation attributable to speakers’ social class and gender. For the
+analysis, we used R Studio ( R Core Team 2018
+) and applied Bayesian inference using Stan ( Carpenter et
+al. 2017 ) via the brms package ( Bürkner 2017
+). All figures and tables present frequencies normalized per 100,000
+words unless otherwise indicated.

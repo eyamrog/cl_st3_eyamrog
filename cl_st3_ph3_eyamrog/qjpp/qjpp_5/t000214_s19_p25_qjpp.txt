@@ -1,0 +1,5 @@
+Overall, we observed 5 matches for 17E2. We found five
+or more matches with simulated line ages 44/1000 times when
+using a 7-day window ( p = 0.044; Fig. 4
+) or 69/1000 times when using a 9-day window (
+p = 0.069; SOM Fig. S1 ).

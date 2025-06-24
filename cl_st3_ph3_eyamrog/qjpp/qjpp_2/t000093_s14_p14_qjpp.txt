@@ -1,0 +1,6 @@
+Cycloheximide (blocks polysome disassembly) was added to G3BP KO cells
+expressing indicated fluorescent fusion proteins at a final concentration of
+100 μg/mL. Following 30-min of incubation, arsenite was added (400
+μM final concentration). 1 h later, cells were assessed for
+formation of stress granules (GFP-G3BP rescue experiments) or activation cycles
+were performed (Corelets).

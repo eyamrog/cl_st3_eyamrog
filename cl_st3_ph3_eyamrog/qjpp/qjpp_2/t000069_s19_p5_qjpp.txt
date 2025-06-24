@@ -1,0 +1,8 @@
+A multiplexed analysis of inflammation-related gene expression examining 249 genes
+from the nCounter Inflammation Panel (NanoString Technologies) revealed similarities and
+differences between the specimens in the Covid-19 group and those
+in the influenza group. A total of 79 inflammation-related genes
+were differentially regulated only in specimens from patients with Covid-19,
+whereas 2 genes were differentially regulated only in specimens from
+patients with influenza; a shared expression pattern was found for
+7 genes (Fig. S1).

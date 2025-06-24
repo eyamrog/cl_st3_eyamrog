@@ -1,0 +1,18 @@
+Surprisingly, there is only a small body of literature on
+the topic of learning from models with different hand preferences,
+specifically when it comes to experimental evidence for the hypothesis
+that learning from a concordantly handed instructor is easier than
+from a discordantly handed one. In the study by Michel
+and Harkins (1985) , the efficiency of imitation was tested
+for three different knots, as demonstrated by either a left-
+or right-handed model. They found that concordance of handedness between
+model and imitator yielded a higher success rate in learning
+the knots. In an additional analysis of one knot specifically,
+they found a significant interaction between handedness of imitator and
+teacher on the time needed to learn the knot. Right-handers
+learned better from a right-handed demonstrator and slower from a
+left-handed demonstrator, and vice-versa for left-handers. However, a problem with
+this study might be that only one demonstrator was used
+per hand preference. Demonstrators could have differed in other aspects
+than being left- or right-handed, or they could have produced
+knots of identical chirality rather than mirrored knots.

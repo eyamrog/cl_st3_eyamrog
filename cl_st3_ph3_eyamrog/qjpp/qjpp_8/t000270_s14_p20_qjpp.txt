@@ -1,0 +1,6 @@
+Note that, although we choose plausible settings supported by empirical
+examples, we do not study a specific disease in a
+specific context but consider parameter variations that contribute to answering
+our specific research questions. Please refer to Nunner et al.
+(2021) for detailed elaborations on the model's theoretical foundations, its
+functional form, and additional sensitivity analyses.

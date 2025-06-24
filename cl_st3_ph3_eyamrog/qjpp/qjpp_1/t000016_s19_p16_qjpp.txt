@@ -1,0 +1,12 @@
+The algorithms scored significantly ( P < 0.001) higher in
+agreement with the uropathologists (0.876, 95% CI, 0.797–0.927; Fig. 3
+) than the international general pathologists did (0.765, 95% CI,
+0.645–0.852) on the 70 cases from the Dutch part of
+the internal validations set. The representative algorithm had higher sensitivity
+for tumor (98.2%, 95% CI of all algorithms 97.4–100.0) than
+the representative pathologist (96.5%, 95% CI of all pathologists 95.4–100.0)
+and higher specificity (100.0%, 95% CI of all algorithms 90.6–100.0,
+versus 92.3%, 95% CI of all pathologists 77.8–97.8). On average,
+the algorithms missed 1.0% of cancers, whereas the pathologists missed
+1.8%. Differences in grade assignments between the algorithms and pathologists
+are visualized in Fig. 5 .

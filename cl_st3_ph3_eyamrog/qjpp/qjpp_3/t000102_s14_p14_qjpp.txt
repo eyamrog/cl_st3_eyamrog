@@ -1,0 +1,11 @@
+T Plasmid DNA containing the 601-207bp x 12 template from
+E. coli was purified by alkaline lysis. Purified plasmid was
+digested with enzymes XbaI and HindIII to release the template
+sequence, while enzymes HaeII and DraI where used to digest
+the vector DNA into smaller sizes. The larger ∼2500bp template
+sequence was then separated from the digested vector fragments by
+gravity controlled size exclusion chromatography on a 115cm Sephacryl S-1000
+column. Fractions containing only the template sequence were combined and
+ethanol precipitated. Template DNA was suspended in Tris pH 8.0,
+10mM EDTA buffer to a final concentration of 1mg/mL prior
+to reconstitution.

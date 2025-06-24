@@ -1,0 +1,11 @@
+Heterogeneity between estimates was assessed by use of random-effects meta-regression
+across prespecified sample characteristics (ie, sex, sample size, mean age,
+year of data collection, non-response rate, type of recruitment, country
+income level, diagnostic classification, and previous imprisonment) and data source
+(published or unpublished). We did univariate meta-regression when at least
+ten samples were available, and adjusted p values for false
+discovery rate to reduce type I error. If two or
+more explanatory variables remained significant or close to the significance
+level (p adj ≤0·05) after adjustment for multiple comparisons and
+there were at least 20 estimates available, variables were retained
+for multivariate meta-regression.

@@ -1,0 +1,6 @@
+Tokens were manually analyzed making sure to exclude nouns (e.g.,
+need , May ), non-modal uses, and fixed expressions (e.g.,
+devil-may-care ). Tokens found in quoted material were included unless
+it was obvious from the context that the person cited
+was not Indian, such as Franklin D. Roosevelt or George
+Harrison.

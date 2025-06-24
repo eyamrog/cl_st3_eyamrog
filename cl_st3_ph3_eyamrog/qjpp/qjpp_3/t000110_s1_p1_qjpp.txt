@@ -1,0 +1,15 @@
+The 501Y.V2 variants of SARS-CoV-2 containing multiple mutations in spike
+are now dominant in South Africa and are rapidly spreading
+to other countries. Here, experiments with 18 pseudotyped viruses showed
+that the 501Y.V2 variants do not confer increased infectivity in
+multiple cell types except for murine ACE2-overexpressing cells, where a
+substantial increase in infectivity was observed. Notably, the susceptibility of
+the 501Y.V2 variants to 12 of 17 neutralizing monoclonal antibodies
+was substantially diminished, and the neutralization ability of the sera
+from convalescent patients and immunized mice was also reduced for
+these variants. The neutralization resistance was mainly caused by E484K
+and N501Y mutations in the receptor-binding domain of spike. The
+enhanced infectivity in murine ACE2-overexpressing cells suggests the possibility of
+spillover of the 501Y.V2 variants to mice. Moreover, the neutralization
+resistance we detected for the 501Y.V2 variants suggests the potential
+for compromised efficacy of monoclonal antibodies and vaccines.

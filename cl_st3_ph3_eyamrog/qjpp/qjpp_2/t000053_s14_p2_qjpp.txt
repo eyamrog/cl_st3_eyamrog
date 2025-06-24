@@ -1,0 +1,19 @@
+We included studies that evaluated at least one active case-finding
+intervention and contained data to permit a comparison of tuberculosis
+epidemiology between populations exposed and not exposed to active case-finding
+(or populations exposed to two different methods of active case-finding).
+Eligible study designs included randomised controlled trials, non-randomised parallel group
+studies with outcome measurement before and during the intervention period
+(referred to as controlled before-after studies), and studies that compared
+outcomes before and after the intervention period in the same
+population (referred to as before-after studies). Because the epidemiology of
+tuberculosis differs substantially between children and adults, we excluded studies
+that were done only among children (aged <15 years). Studies
+must have screened at least 1000 people for tuberculosis because
+the prevalence of tuberculosis disease will rarely exceed 1% in
+any given community. If tuberculosis screening was targeted at a
+subset of a population but effects were measured in the
+wider population, the target population must have comprised at least
+10% of the whole population. We excluded studies that were
+published before Jan 1, 1980, and studies not published in
+English.

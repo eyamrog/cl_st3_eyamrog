@@ -1,0 +1,7 @@
+This specification was programmed in the BUGS language and fitted
+with OpenBUGS using Markov Chain Monte Carlo (MCMC) techniques. A
+technical appendix provides details about the statistical modelling . Worthy
+to note here is that the used approach implies by
+construction that the QALY decrements for levels 2 to 4
+are monotonically increasing proportional to the γ d WOOP domain-specific
+level importance parameters.

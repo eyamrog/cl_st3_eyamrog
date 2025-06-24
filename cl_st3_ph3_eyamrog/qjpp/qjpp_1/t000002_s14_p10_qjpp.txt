@@ -1,0 +1,18 @@
+Proportional hazards assumption was examined using cox.zph R function in
+the survival R package. Proportional hazard assumptions were met for
+all models. All missing data for covariates were imputed using
+multiple imputation with predictive mean matching . The rms package
+was used to fit all Cox models and to compute
+HRs. The ‘anova’ function in the rms package was used
+to assess whether the predictors were significantly associated with the
+outcome as well as to evaluate significance of nonlinear effects
+for steps based on the model with the lowest AIC
+value. Specifically, we performed a Wald χ test (or ‘chunk
+test’) to jointly assess whether all the terms, including nonlinear
+terms in the restricted cubic spline are zero . If
+the test is nonsignificant, it indicates that the variable represented
+by the spline is not associated with the outcome or
+it does not have a nonlinear relationship with the outcome.
+The aregImpute function in the Hmisc R package was used
+to conduct multiple imputation and all the results were pooled
+across the five imputation datasets.

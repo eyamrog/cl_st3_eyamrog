@@ -1,0 +1,7 @@
+The work intensity and longitudinal poverty variables over time were
+used to fit two separate growth mixture models to identify
+latent classifications across children. These models were fitted in Latent
+Gold version 6.0 ( Vermunt and Magidson, 2016 ). The
+modal classes to which each child was predicted to belong
+were used as covariates for the main model of interest.
+More details can be found in the supplementary information.

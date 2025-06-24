@@ -1,0 +1,21 @@
+It is important to note that, shortly before this study
+was conducted, an untested Russian vaccine (Sputnik V) was approved
+for use in Russia. The announcement received substantial media attention
+in the US, much of which was negative ( Cohen,
+2021 ). Consequently, as will become apparent shortly (see Table
+1 ), I also investigate opinions about a hypothetical vaccine
+originating from Russia. Consistent with the evidence reviewed above, and
+in the context of strong public outcry about the vaccine,
+I hypothesize that Americans will be less likely to prefer
+a hypothetical Russian vaccine than one originating from the US,
+UK, or China ( H1b ). Table 1 . Conjoint
+experimental design summary. Attribute Level 1 Level 2 Level 3
+Level 4 Country of Origin United States United Kingdom China
+Russia Effectiveness 50% 70% 90% – Risk of Minor Side
+Effects ( e.g. , fever, chills) 1 in 2 1
+in 10 1 in 100 – Doses Required 1 2
+– – Vaccine Type mRNA Weakened virus – – Months
+Spent in Development 9 12 15 – Note. Summary of
+Conjoint Experimental Procedure. Note that respondents are shown three possible
+combinations of the attributes listed above, in two successive trials
+(six total ratings).

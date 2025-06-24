@@ -1,0 +1,13 @@
+To quantify the sgRNA abundance of reference and end time
+points, the sgRNA cassette was PCR amplified from genomic DNA
+using high-fidelity polymerase. The PCR product was end-repaired by T4
+DNA polymerase, DNA Polymerase I, Large (Klenow) Fragment, and T4
+polynucleotide kinase. Next, a 3′ A-overhang was then added to
+the ends of blunted DNA fragments with Klenow Fragment (3′-5′
+exo-). The DNA fragments were ligated to diversity-increased custom barcodes
+with Quick ligation kit. Illumina paired-end sequencing adaptors were attached
+to the barcoded ligated products through PCR reaction with high-fidelity
+polymerase. The final product was quantified by Bioanalyzer Agilent DNA
+1000 and pooled together in equal molar ratio and pair-end
+sequenced by using MiSeq (Illumina) with MiSeq Reagent Kit V3
+150-cycle (Illumina).

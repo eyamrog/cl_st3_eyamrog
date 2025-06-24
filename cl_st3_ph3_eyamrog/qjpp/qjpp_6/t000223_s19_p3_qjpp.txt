@@ -1,0 +1,23 @@
+Mochi is a stone-rich environment, and sediment samples were taken
+primarily to estimate the beta dose rate, which is derived
+mainly from the matrix between the calcareous lumps. This matrix
+was the material preferentially sampled for ICP analyses. Radioelement concentrations
+are reported in SOM Table S2 . Because these large
+clasts will be lower in radioactive concentrations than the finer
+matrix, the gamma dose rates could be overestimated for the
+samples with no dosimeters. Nevertheless, both methods of gamma dose
+rate estimation give indistinguishable values, except for sample X6746 (see
+SOM Fig. S8 ), for which the in situ measured
+gamma dose overestimates the ICP result by 30%. On the
+remaining portion of each sample (except for X6746 due to
+lack of material), U-series disequilibria were tested using a high-resolution
+low-background gamma spectrometer housed at the Risø Laboratory, Denmark. Because
+the 238 U activities were not precisely measured, the 226
+Ra/ 238 U ratio in some samples is poorly known
+( SOM Table S3 ). Nevertheless, the weighted average is
+0.96 ± 0.06 ( n = 10, mean ± se),
+and we concluded that there is no evidence for significant
+disequilibrium in these samples. We assume such a ratio did
+not change over time, and in situ measurements of the
+gamma dose rate contribution were used to calculate the total
+dose rate when possible.

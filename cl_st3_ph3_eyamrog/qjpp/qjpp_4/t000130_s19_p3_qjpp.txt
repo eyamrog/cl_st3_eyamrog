@@ -1,0 +1,14 @@
+We performed native mass spectrometry to assess the stoichiometry of
+the complex outside a crystal lattice. Wild type (WT) GPC3
+protein did not give clean signals using this method. We
+speculated that this may be due to a mixture of
+cleaved and uncleaved protein in our samples, which is only
+partially processed at the conserved furin-like convertase site in the
+C-lobe. To produce a more homogeneous sample for mass spectrometry,
+we introduced two-point mutations in the furin cleavage site (R355A,
+R358A). Mixed with rUnc5D IgIgTSP , we revealed masses corresponding
+to the octamer and its subfragments: 1:1 Unc5D-Gpc3 dimers (93
+kDa), 2:2 tetramers (185 kDa) and the full 4:4 octamer
+(370 kDa) ( Figure 2 A). Each peak was subjected
+to tandem mass spectrometry (MS/MS) to validate the peak components
+( Figures S1 F–S1H). These results support our structural conclusions.

@@ -1,0 +1,16 @@
+To determine if aIC Fezf2 neurons are required specifically for
+licking, or generally for reward-seeking actions, we designed a “run-for-reward”
+(RFR) task in which mice needed to run upon CS
+presentation to obtain water reward ( Stephenson-Jones et al., 2020
+70. Stephenson-Jones, M. ∙ Bravo-Rivera, C. ∙ Ahrens, S. ...
+Opposing Contributions of GABAergic and Glutamatergic Ventral Pallidal Neurons to
+Motivational Behaviors Neuron. 2020; 105 :921-933.e5 Full Text Full Text
+(PDF) Scopus (92) PubMed Google Scholar ) ( Figure 2
+O). Once mice learned the task, we optogenetically inhibited aIC
+Fezf2 neurons during the window between CS onset and US
+onset in randomly selected trials ( Figure 2 O). This
+manipulation markedly reduced running velocity, leading to reduced performance in
+this task ( Figures 2 P and 2Q). Again, laser
+illumination in the aIC had no effect on the mCherry
+mice ( Figure 2 Q). Thus, aIC Fezf2 neurons are
+essential for promoting running to obtain reward.

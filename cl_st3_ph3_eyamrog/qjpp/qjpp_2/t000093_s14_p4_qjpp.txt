@@ -1,0 +1,15 @@
+Unless indicated (e.g., pHR lentiviral vector, SFFV promoter), all lentiviral
+DNA plasmids were generated using the FM5 lentiviral vector (kind
+gift from Marc Diamond lab, UT Southwestern), which features the
+Ubiquitin C promoter. DNA fragments encoding our proteins of interest
+were amplified by PCR with Phusion® High-Fidelity DNA Polymerase (NEB).
+Oligonucleotides used for PCR were synthesized by IDT. In-Fusion HD
+cloning kit (Takara) was used to insert the PCR amplified
+fragments into the desired linearized vector, which featured standardized linkers
+and overlaps to allow cloning in high throughput. Plasmid inserts
+were confirmed by GENEWIZ Sanger sequencing, reading from both ends
+of the insert. For all sspB-mCherry-tagged DNA constructs, correct sequencing
+was confirmed a second time by an independent researcher. Stress
+granule (SG) rescue defects associated with the G3BP S38F mutant
+were confirmed using two different fully sequenced DNA constructs (FM5-mGFP-G3BP1
+S38F and pcDNA4 t/o-GFP-G3BP1 S38F) tested by two separate labs.

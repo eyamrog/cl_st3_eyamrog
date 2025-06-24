@@ -1,0 +1,15 @@
+MSE has been applied in countless settings, using various types
+of lists, to provide context and scope for populations of
+public health interest ( 10 , 48 , 67 ,
+104 , 110 , 144 ). For example, Hu et
+al. ( 67 ) implemented a two-sample MSE of men
+who have sex with men (MSM) in Mainland China using
+high-volume data from social networking sites. Simulating mobile phone positions
+covering the country, the authors recorded profile identifiers from Blued,
+a popular MSM social networking app, over two 2-week periods
+7 months apart, as two independent samples for the MSE
+study. Each sample included nearly 2.5 million profiles, with an
+overlap of 1.3 million profiles. They estimated 8,288,536 MSM in
+Mainland China. Subnational estimates by cities and provinces served as
+denominators to calculate the burden of HIV and sexually transmitted
+infections among MSM in different areas.

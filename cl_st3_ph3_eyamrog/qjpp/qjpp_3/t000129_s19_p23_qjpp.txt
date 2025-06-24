@@ -1,0 +1,11 @@
+Nevertheless, we note two intriguing observations. First, Zfp42 was only
+activated in Dnmt3b −/− limbs to 1/25 th of Fat1’s
+limb expression and to 1/150 th of its maximal potential
+activity in ESCs. As such, additional redundant silencing, for example,
+by DNMT3A or alterative repressive mechanisms, likely operate simultaneously. Second,
+ectopic Zfp42 activation was associated with a ∼50% reduction in
+Fat1 expression, suggesting the competing use of Fat1 enhancers impairs
+the latter’s regulation ( Figure 5 D). However, this cannot
+be explained by altered enhancer-promoter contacts or TAD structure as
+neither was observably affected in Dnmt3b −/− limb cHi-C (
+Figures S5 H and S5I).

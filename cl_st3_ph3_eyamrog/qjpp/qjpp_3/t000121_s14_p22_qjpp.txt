@@ -1,0 +1,5 @@
+Purified BG505-VLPs were mixed with 10nm gold beads (Aurion BSA
+Gold Tracer 10nm) at a ratio of 15:1 (v/v). The
+mixture was applied to C-Flat grids and plunge frozen using
+a Vitrobot Mark IV (FEI Co.) similar to the procedure
+used for hVLPs above.

@@ -1,0 +1,12 @@
+In the lungs from patients with Covid-19 and patients with
+influenza, similar mean (±SD) numbers of CD3-positive T cells were
+found within a 200-μm radius of precapillary and postcapillary vessel
+walls in 20 fields of examination per patient (26.2±13.1 for
+Covid-19 and 14.8±10.8 for influenza). With the same field size
+used for examination, CD4-positive T cells were more numerous in
+lungs from patients with Covid-19 than in lungs from patients
+with influenza (13.6±6.0 vs. 5.8±2.5, P=0.04), whereas CD8-positive T cells
+were less numerous (5.3±4.3 vs. 11.6±4.9, P=0.008). Neutrophils (CD15 positive)
+were significantly less numerous adjacent to the alveolar epithelial lining
+in the Covid-19 group than in the influenza group (0.4±0.5
+vs. 4.8±5.2, P=0.002).

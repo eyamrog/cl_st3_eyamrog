@@ -1,0 +1,5 @@
+Given equation (5) the first implication of our baseline SEC
+model is that the basic reproduction number will be (7)
+R 0 = β 0 + a 1 c 1
++ a 2 c 2 − a 3 c 3
+γ .

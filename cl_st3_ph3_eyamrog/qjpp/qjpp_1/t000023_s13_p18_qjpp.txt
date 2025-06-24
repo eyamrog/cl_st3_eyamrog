@@ -1,0 +1,15 @@
+A growing body of work in social epidemiology has leveraged
+experiments to identify intervention or policy effects. An often-cited example
+is the Moving to Opportunity trial. Originally designed to assess
+the impact of a housing voucher program on economic outcomes,
+it was extended to also examine health impacts of residential
+relocation to nonpoor neighborhoods ( 81 ). Another example is
+the Oportunidades trial, a randomized study of a conditional cash
+transfer program implemented in Mexico ( 42 ). Although these
+studies have shed light on the impact of the specific
+interventions tested, neither of them focused on broader policy strategies
+to address neighborhood or income differences in health. Such strategies
+would include things like investment in segregated or poor neighborhoods
+or the use of taxation to reduce poverty and income
+inequality. These kinds of policies are much more difficult if
+not impossible to study in randomized trials.

@@ -1,0 +1,12 @@
+Consistent with Carroll and Prentice, we use the health region
+as our spatial unit of analysis to reduce zero inflation
+in and dimension of the data ( Carroll and Prentice,
+2021 ; Day et al., 2019 ). Specifically, data at
+the U.S. county level results in 7601 (4.8% of weeks/counties)
+zero counts while data at the U.S. health region level
+results in 107 (0.6% of weeks/regions) zero counts. Our temporal
+unit for these data is weeks. While the data is
+released daily, reducing the temporal unit to weeks reduces the
+dimension of the model and limits the bias from data
+reporting errors and delays. The data presented here represent March
+23, 2020 to March 7, 2021.

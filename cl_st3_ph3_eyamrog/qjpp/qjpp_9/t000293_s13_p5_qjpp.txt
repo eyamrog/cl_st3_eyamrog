@@ -1,0 +1,14 @@
+The Neungyule Interlanguage Corpus of Korean Learners of English (
+nickle ) is a one million-word corpus compiled in 2009
+as part of the Neungyule-Longman English–Korean Dictionary project, which was
+jointly developed by Neungyule Education Inc. of Korea and Pearson
+Longman of the UK ( Yoon and Choi, 2015 :
+52–3). The corpus consists of essays in seven genres, and
+transcriptions of interviews and oral tests. The corpus data are
+a collection of the writings and speeches of first- and
+second-year intermediate-level college students. Various universities across Korea participated in
+this corpus compilation project with the help of the Korea
+Association of Teachers of English. Unfortunately, however, the corpus is
+not available for public use. Perhaps because of this limited
+availability, there is only one research article that used this
+corpus in the two journals examined here.

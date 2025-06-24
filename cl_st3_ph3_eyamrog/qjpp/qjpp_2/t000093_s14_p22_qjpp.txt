@@ -1,0 +1,16 @@
+For stress granule inhibition experiments ( Figure S1 G; Figure
+S3 B; etc.), WT U2OS cells stably expressing YBX1-mCherry (SG
+marker protein) were plated into 96-well plates at 25% confluency
+and transduced with 2-60 μL lentivirus of indicated mGFP-tagged protein
+(4-wells: 2, 6, 20, or 60 μL). Three days later,
+cells were washed, trypsinized, combined, and passaged at 1:8 dilution
+factor. Three days after this, confluent cells were passaged onto
+fibronectin-coated 96-well plates. Live cell confocal imaging was performed 2-days
+later (i.e., 8 days following lentivirus transduction) when cells were
+at 60%–80% confluency. Images were taken between 1-2 h after
+arsenite treatment. 3-4 independent experiments were performed for each condition
+on two separate days with numerous technical replicates (i.e., fields
+of view or “images”) per experiment. Concentrations of mGFP-tagged proteins
+were determined using FCS calibration curves, SG formation was assessed
+in a binary manner, and all data was coded then
+sent to a separate individual for quantitative analysis.

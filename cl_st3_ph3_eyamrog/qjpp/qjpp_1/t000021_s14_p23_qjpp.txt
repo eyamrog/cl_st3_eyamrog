@@ -1,0 +1,18 @@
+To directly sequence the CDR3s from proliferating T cells assayed
+by Seq-Well, we applied a recently published TCR pulldown method
+to WTA products from the 2-week, 3-week and 4-week timepoint
+samples from all four participants. Briefly, biotinylated capture probes from
+the TRBC region were annealed to melted WTA cDNA. Magnetic
+streptavidin beads were then used to pull down cDNA enriched
+for TRBC; this cDNA was subsequently amplified using KAPA HiFi
+Mastermix (Kapa Biosystems) and purified using 0.75× SeraPure beads to
+select for 0.8–1-kb sized DNA fragments. To select for sequences
+with full CDR3 regions, a pool of V-region primers was
+used to further amplify sequences of interest. Step-out PCR was
+used to add sequencing handles and the resulting libraries were
+sequenced on a NextSeq 550 using a 150-cycle NextSeq kit
+with 148 cycles for Read 1 (CDR3) and 20 cycles
+for Index 1 (BC + UMI). Sequences of the primers
+used are available in Tu et al. . CDR3 consensus
+sequences were aligned and determined as outlined previously. Across the
+entire dataset, we detected ~50% of TCR-β chain CDR3s.

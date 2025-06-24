@@ -1,0 +1,10 @@
+Overall, the data presented in Fig. 4 show cell-autonomous toxicity
+of mutant FUS—as conditional expression of the Δ14 allele selectively
+in MNs is sufficient for MN degeneration and gliosis. This
+toxicity is dose dependent. Expression of two mutant FUS alleles
+in MNs accelerates the onset of NMJ denervation, MN loss
+and gliosis, with MN-P517L/Δ14 mice showing a particularly early disease
+onset. The selective degeneration of the same subpopulation of ALS-vulnerable
+MNs in MN-P517L/Δ14 mutants as in P517L/WT and Δ14/WT animals
+support the conclusion that MN-P517L/Δ14 mice are a disease-relevant model
+of early-onset ALS.

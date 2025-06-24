@@ -1,0 +1,12 @@
+Methods: We analysed data from ten annual waves (2011–20) of
+the longitudinal Household, Income and Labour Dynamics in Australia (HILDA)
+Survey to identify changes in the mental health of respondents
+from the pre-COVID-19 period (2011–19) to the COVID-19 period (2020).
+Difference-in-differences models were used to compare these changes between respondents
+in the state of Victoria who were exposed to lockdown
+at the time of the 2020 interviews (treatment group) and
+respondents living elsewhere in Australia (who were living relatively free
+of restrictions; control group). The models included state, year (survey
+wave), and person-specific fixed effects. Mental health was assessed using
+the five-item Mental Health Inventory (MHI-5), which was included in
+the self-complete questionnaire administered during the survey.

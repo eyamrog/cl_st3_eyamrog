@@ -1,0 +1,18 @@
+In line with previous studies ( Leung et al., 2018
+), our results suggest that epidemics in static small-world networks
+are on average larger, thus longer, and have higher peaks
+compared to epidemics in adaptive networks. Furthermore, we see that
+the dynamics of disease transmission are heavily shaped by network
+properties. Take the effect of clustering on an epidemic, for
+example. While we confirm a negative effect of clustering on
+final size in both adaptive and static networks ( Badham
+and Stocker, 2010 , Keeling, 1999 , Miller, 2009 ),
+we observe opposing effects of clustering on duration in adaptive
+(−) and static (+) networks. In both cases, the disease
+needs to cross one of the few available bridges to
+reach another cluster. Consequently, only a few ties need to
+be cut to isolate a cluster, causing the disease to
+die out quickly in the adaptive networks. In the static
+networks, however, intrusion of a cluster is more likely, while
+spreading across one of the few bridges slows down disease
+spread.

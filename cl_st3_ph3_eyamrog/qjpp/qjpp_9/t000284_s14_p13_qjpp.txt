@@ -1,0 +1,26 @@
+These full models were fitted using the bam() function within
+the mgcv package in R ( Wood 2017b ). The
+output for these four models can be found in the
+Supplemental Materials (posted online). As the models are complex and
+lengthy, we analyze them chiefly through visualizations of predicted measurements,
+extracted from each model for each allophone, gender, and generation.
+Additionally, due to the challenges in directly interpreting GAMM summaries,
+the significance of each factor was tested via model comparison,
+following Renwick and Stanley (2020) . Corresponding to each vowel’s
+full GAMM, we built a series of models that were
+equivalent except that one predictor ( gender , generation ,
+or allophone ) was eliminated, or dropped, from the model.
+We also created a baseline model, in which gender ,
+generation , and allophone were not incorporated in a single
+interaction term with formant , but were each crossed separately
+with them, and treated as parametric predictors only. All model
+specifications (five per vowel) can be found in the Supplemental
+Materials (posted online). Using the compareML() command within the itsadug
+R package ( van Rij et al. 2017 ), we
+evaluated the effectiveness of the full model versus each impoverished/baseline
+model. For each of the four vowels (or vowel pairs)
+tested, we expect that this comparison will indicate a statistically
+significant advantage for the full model. Such an outcome justifies
+the increased complexity of that model, in this case indicating
+significance of the predictors gender , generation , or allophone
+, and justifying the use of smooth terms.

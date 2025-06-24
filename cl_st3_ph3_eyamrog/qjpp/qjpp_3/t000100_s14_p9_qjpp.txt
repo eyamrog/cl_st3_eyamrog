@@ -1,0 +1,7 @@
+The LIAISON SARS-CoV-2 S1/S2 IgG (DiaSorin S.p.A., Saluggia, Italy) was
+utilized as per the manufacturer’s instructions to obtain quantitative antibody
+results from plasma samples via an indirect chemiluminescence immunoassay (CLIA)
+in a United Kingdom Accreditation Service (UKAS) diagnostic laboratory at
+University Hospital Southampton. Sample results were interpreted as positive (≥
+15 AU/mL), Equivocal (≥ 12.0 and < 15.0 AU/mL) and
+negative (< 12 AU/mL).

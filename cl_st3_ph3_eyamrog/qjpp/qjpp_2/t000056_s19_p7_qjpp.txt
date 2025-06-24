@@ -1,0 +1,4 @@
+The results from our sensitivity analyses using multiple imputation for
+missing data were comparable to those in the main analysis,
+showing that excluding the “don't know” responses did not affect
+our findings ( appendix pp 37–39 ).

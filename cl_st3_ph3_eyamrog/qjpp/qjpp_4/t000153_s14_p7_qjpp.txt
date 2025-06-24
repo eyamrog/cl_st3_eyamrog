@@ -1,0 +1,22 @@
+The average 24-h TEE of each participant was calculated using
+a custom script developed in Python based on the Hiilloskorpi
+flex-heart rate formula. First, missing data were replaced using interpolation
+when the period of missing data was less than 20
+min (5.7% of all data); gaps in the data longer
+than 20 min were excluded from the analysis (9.7% of
+all data). Then, TEE was calculated for each 10 s
+epoch based on the participant's sex and mass using relationships
+derived for low activity levels (heart rate <90 bpm) and
+high activity levels (heart rate ≥90 bpm) (Hiilloskorpi et al.,
+2003 ; see Appendix S1 for equations for light and
+heavy activity). Subsequently, we derived a representative 24-h TEE profile
+for each participant by averaging the calculated TEE in corresponding
+10 s epochs across each day. We enforced a physiological
+lower bound for TEE replacing derived values below the estimated
+basal metabolic rate (BMR) with the BMR (Henry, 2005 ).
+We found that the Python code could more accurately identify
+and correct missing heart rate datapoints than by hand coding
+and could process each data file much faster (~1 min
+per file vs. ~3 h per file). A link to
+the Python script for download is provided in Appendix S1
+.

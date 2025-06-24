@@ -1,0 +1,13 @@
+Given the small number of English learner corpora in Korea,
+there is a strong need for the construction of systematically
+designed learner corpora that are available for the public. Such
+learner corpora have several advantages. First, they will allow researchers
+to have access to large databases of learners’ language use.
+Second, researchers can share the same corpus data instead of
+always compiling their own. Lastly, the findings of corpus analysis
+can easily be verified or replicated by other researchers. Not
+only is the number of learner corpora available quite small
+but the variety is still very limited. This situation is
+particularly serious with regard to spoken data. It is also
+important and necessary to collect various types of data, such
+as interactive conversation and data from diverse learner groups.

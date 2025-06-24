@@ -1,0 +1,9 @@
+where \(T_\tau - T_0\) is the difference in the total
+number of administered vaccines between the strategy τ and status
+quo; c T is the cost per dose delivered for
+vaccine procurement price plus vaccination delivery costs combined; \(H_{\tau ,a}
+- H_{0,a}\) is the difference in the total number of
+hospitalizations for age group a between the strategy τ and
+status quo; and \(c_{H,a}\) is the median COVID-19 hospitalization cost
+for age group a . Detailed values of these cost
+parameters are given in Supplementary Table 5 .

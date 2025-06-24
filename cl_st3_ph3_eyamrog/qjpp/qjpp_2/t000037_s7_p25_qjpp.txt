@@ -1,0 +1,15 @@
+The primary ethical challenge of public health is appropriately balancing
+risks and harms to individuals, while protecting and promoting population
+health ( 37 , 52 ). This challenge remains for
+digital surveillance as the primary ethical issue ( 28 ,
+51 , 84 ), but the nonhealth purpose of the
+data raises ethical concerns in a different light. To frame
+our discussion of ethics of digital surveillance, we focus on
+the following five principles: beneficence, nonmaleficence, respect for autonomy, equity,
+and efficiency. These principles have been previously used to frame
+ethical considerations in public health ( 64 ) and to
+examine the ethics of public health surveillance more generally (
+57 ). More broadly, consideration of these five principles can
+help public health researchers with decision making for public health
+concerns and the ethical concerns related to these decisions (e.g.,
+harm minimization or precautionary principle).

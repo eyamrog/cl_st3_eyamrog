@@ -1,0 +1,12 @@
+We calculated sensitivity and specificity on benign versus cancer-containing biopsies
+for all algorithms and individual general pathologists, based on the
+reference standard set by the uropathologists. To further understand how
+a representative pathologist and algorithm performed, we selected the pathologist
+and the algorithm with the median balanced accuracy (the average
+of sensitivity and specificity) as the representative pathologist and the
+representative algorithm, and reported the associated sensitivity and specificity. A
+representative pathologist or algorithm was used in favor of averaging
+across algorithms and pathologists for better estimates of performance. For
+the 95% CIs of the algorithms’ and pathologists’ performance metrics,
+we used bootstrapping across all algorithms or pathologists, with both
+the algorithm or pathologist and case as the resampling unit.

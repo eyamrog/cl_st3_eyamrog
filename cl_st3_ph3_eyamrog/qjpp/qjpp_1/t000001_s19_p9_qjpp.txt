@@ -1,0 +1,8 @@
+At SBP exposure values <107.5 mm Hg the available data
+were sparse and—even with extrapolation of the risk curve to
+SBP values 90–100 mm Hg and relaxing the monotonicity constraint—no
+evidence was observed of a J-shaped curve. We note that
+only IHD outcomes were included, so that risk due to
+non-IHD outcomes would not affect the risk curve. Below 107.5
+mm Hg, the risk of IHD was null with a
+mean RR of 1.03 (1.00–1.03).

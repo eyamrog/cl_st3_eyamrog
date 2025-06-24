@@ -1,0 +1,22 @@
+In the ACT3 study, Marks and colleagues evaluated an active
+case-finding intervention in Vietnam that involved 3 years of annual
+household tuberculosis screening using sputum Xpert MTB/Rif assays for all
+people aged 15 years or older, regardless of symptoms, in
+120 communities. A tuberculosis prevalence survey was done in the
+fourth year, with the denominator for the primary outcome being
+the total number of people who consented to be in
+the survey, regardless of sputum production (sputum obtained in 33·2%
+in the intervention group and 40·7% in the control group).
+In the active case-finding intervention group, the prevalence of tuberculosis
+(one sputum sample positive by Xpert) was 126 per 100
+000 people (53 people with tuberculosis disease) and 226 per
+100 000 (94 people with tuberculosis disease) in the control
+group (adjusted prevalence ratio of 0·56, 95% CI 0·40–0·78). A
+prespecified secondary outcome was prevalence of positive QuantiFERON tests among
+children born in 2012 (who would have been aged 1–2
+years when the intervention started in 2014), as a proxy
+of incidence of tuberculosis infection. Among children born in 2012,
+1409 children had QuantiFERON tests; 23 (3·3%) of 701 were
+positive among children in the intervention group and 18 (2·6%)
+of 705 were positive among children in the control group
+(prevalence ratio 1·29, 95% CI, 0·70–2·36; table 6 ).

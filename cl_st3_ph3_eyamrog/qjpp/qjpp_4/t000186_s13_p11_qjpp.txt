@@ -1,0 +1,4 @@
+In addition to interactions with hosts, microbes, parasites, viruses, and
+other infections interact with one another, both directly and indirectly.
+These interactions are best thought of in terms of ecology,
+with the host as the ecosystem.

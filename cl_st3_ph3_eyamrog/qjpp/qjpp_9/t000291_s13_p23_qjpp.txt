@@ -1,0 +1,8 @@
+Even words with the low Log Ratio scores, such as
+Miṣr / Egypt and ḥukūma / government , are used
+almost twice as frequently in relation to the reference corpus.
+Only ʿArabī / Arab and ʿamal / work are used
+with nearly the same frequency per million words in both
+corpora. In apic , therefore, we have a political discourse
+whose political vocabulary shares many items with the political discourse
+in gkis .

@@ -1,0 +1,15 @@
+As this table shows, the proportions of patients giving each
+rating are broadly similar, regardless of the length of time
+that patients have been receiving treatment at the point at
+which they provide feedback. In all cases, the proportion of
+patients consistently rises along with the rating, with the lowest
+rating of 0 being given by the fewest patients and
+the highest rating of 10 being given by the most
+across all categories. Moreover, across all categories, the jumps in
+the proportions of patients giving each score are very small
+from 0 through to 4, being less than 1% in
+each case. There is then a slightly sharper increase between
+those giving 4s and 5s across all categories, with a
+jump of over 1% between 4 and 5 in each
+category. However, the sharpest rises for each category come between
+the ratings of 7 through to 10, across the board.

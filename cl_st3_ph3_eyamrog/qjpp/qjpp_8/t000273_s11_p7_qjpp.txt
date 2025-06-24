@@ -1,0 +1,13 @@
+While the aforementioned linguistic studies of patient feedback focused on
+comments about English NHS services in general, in this article
+we adopt a narrower focus, working with a new dataset
+to examine linguistic choices made by patients in England receiving
+NHS treatment for cancer specifically. Compared to research on patient
+feedback in general, feedback on cancer care services is relatively
+under-studied. Studies focusing on feedback on cancer care in the
+UK have reported that patients give generally favourable evaluations, with
+variables including waiting times, the availability and frequency of contact
+with healthcare providers, interpersonal aspects of care, patient-centred care, continuity
+of care, and the physical environment in which care is
+provided (see, for example, Cunningham and Wells, 2017 ; Malin
+et al., 2006 ; Richard et al., 2010 ).

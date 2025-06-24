@@ -1,0 +1,19 @@
+To investigate the mechanism underlying this large change in expression,
+we compared the transcription in [ ESI + ] to
+loss of Set3C function (Set3CΔ; snt1 Δ, set3 Δ, and
+hos2 Δ). There was extensive overlap between all three Set3C
+deletion strains and [ ESI + ] ( Figure S3
+C), confirming that they are functionally linked. However, as has
+been seen for other prions ( Malovichko et al., 2019
+62. Malovichko, Y.V. ∙ Antonets, K.S. ∙ Maslova, A.R. ...
+RNA sequencing reveals specific transcriptomic signatures distinguishing effects of the
+[ SWI + ] prion and SWI1 deletion in yeast
+Saccharomyces cerevisiae Genes (Basel). 2019; 10 :212 Crossref Scopus (1)
+Google Scholar ), the majority of the transcriptional changes were
+not explained by deletion of constituent proteins. Indeed, the transcriptional
+changes in Set3CΔ were more modest than those in [
+ESI + ] cells, and 62, 204, and 360 transcripts
+were upregulated in snt1 Δ, set3 Δ, and hos2 Δ,
+respectively ( Figures 3 B–3D). Thus, changes in gene expression
+in [ ESI + ] cannot be explained by simple
+loss of Set3C repressive function.

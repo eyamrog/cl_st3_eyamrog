@@ -1,0 +1,23 @@
+The two dependent variables are ‘conduct’ and ‘emotional’ problems taken
+from the Strengths and Difficulties Questionnaire (SDQ) ( Goodman, 1997
+) scores collected at each wave beginning with wave four,
+when the children were on average 3.85 years old. Higher
+scores denote higher levels of conduct and emotional problems. In
+all waves, the SDQ questionnaires were self-completed by the child's
+main carer. Each subscale has five items (e.g., conduct: “Often
+has temper tantrums or hot tempers”; emotional: “Many worries, often
+seems worried”, etc.) with 3-point response scales (“Not true” =
+0, “Somewhat true” = 1, “Certainly true” = 2), which
+results in total scores ranging from 0 to 10. We
+conducted longitudinal measurement invariance testing for conduct and emotional problems.
+Most items in the conduct and emotional subscales display high
+standardised loadings (>0.7) and only one item in the first
+five waves with moderate standardised loading (0.4–0.69). There is also
+strong evidence of good fit to the data: Comparative Fit
+Index (CFI) of 0.967 and 0.978, respectively; Tucker-Lewis Index (TLI)
+of 0.963 and 0.975 and Root Mean Squared Error of
+Approximation (RMSEA) of 0.037 and 0.038. We also found strong
+evidence of measurement invariance. More details are found in the
+supplementary information. This is in line with previous investigations of
+the factorial structure of the SDQ ( Goodman et al.,
+2010 ).

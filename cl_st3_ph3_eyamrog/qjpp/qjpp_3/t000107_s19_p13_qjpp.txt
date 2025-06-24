@@ -1,0 +1,19 @@
+We next assigned each OCR to the nearest gene to
+estimate genes that could be regulated by these cis -regulatory
+elements. T EFF -associated genes, such as Ccl3 , Ccl5
+, Cd28 , Cx3cr1 , and Prdm1 , gained chromatin
+accessibility in the sgFli1 + group ( Figure 4 D),
+consistent with the RNA-seq data. In contrast, there was decreased
+chromatin accessibility near genes involved in T cell progenitor biology
+such as Tcf7 , Slamf6 , Id3 , and Cxcr5
+( Figure 4 D) in the sgFli1 + group. Moreover,
+the sgFli1 + C9P14 cells had altered accessibility in the
+Tox (and Tox2 ) locus, but these changes included both
+increased and decreased accessibility for different peaks ( Figure 4
+D). These changes in chromatin accessibility corresponded to changes in
+gene expression with ~1/3 of the genes that changed transcriptionally
+associated with a differentially accessible chromatin region (402 out of
+1,467) ( Figure 4 E). In general, increased accessibility correlated
+with increased transcription, although there was a clear subset of
+regions where decreased accessibility corresponded to increased transcription ( Figure
+4 F).

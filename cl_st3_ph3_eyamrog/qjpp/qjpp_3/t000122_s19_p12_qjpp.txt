@@ -1,0 +1,14 @@
+Antibodies were next tested for protection against BDBV using the
+replication-competent fully infectious chimeric virus EBOV/BDBV-GP with the envelope represented
+by BDBV GP and the rest of the proteins from
+EBOV ( Ilinykh et al., 2018 27. Ilinykh, P.A. ∙
+Graber, J. ∙ Kuzmina, N.A. ... Ebolavirus Chimerization for the
+Development of a Mouse Model for Screening of Bundibugyo-Specific Antibodies
+J. Infect. Dis. 2018; 218 :S418-S422 PubMed Google Scholar ).
+STAT-1 knockout mice were exposed to 1,000 PFU of EBOV/BDBV-GP
+via IP and treated 24 h later with 0.5 mg
+1C3, 0.5 mg 1C11, or the 1C3/1C11 cocktail (0.25 mg
+each; 0.5 mg total). All 1C3-treated animals died or were
+found moribund and were euthanized. 1C11 alone conferred 80% protection,
+and the 1C3/1C11 cocktail provided 100% protection from death (
+Figures 5 B and S6 ).

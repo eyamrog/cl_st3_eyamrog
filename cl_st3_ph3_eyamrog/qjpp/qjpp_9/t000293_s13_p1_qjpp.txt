@@ -1,0 +1,13 @@
+There are currently six L1 Korean L2 English learner corpora
+listed in the Learner Corpora Around the World webpage provided
+by the Centre for English Corpus Linguistics of the University
+of Louvain. 5 These corpora include: the SNU Korean-speaking English
+Learner Corpus ( skelc ), the Yonsei English Learner Corpus
+( yelc ), the Gachon Learner Corpus ( glc ),
+the Neungyule Interlanguage Corpus of Korean Learners of English (
+nickle ), the efl Teacher Corpus ( etc ) and
+the Korean English Learners’ Spoken Corpus ( kelsc ). In
+addition to these corpora, another learner corpus will be introduced:
+the ETS Corpus of Non-native Written English (also known as
+the TOEFL11 Corpus). Table 1 provides a list of L1
+Korean L2 English learner corpora.

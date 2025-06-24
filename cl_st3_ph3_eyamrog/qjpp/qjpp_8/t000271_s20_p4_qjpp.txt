@@ -1,0 +1,26 @@
+Table 5 presents the distribution of lexical bundles of different
+syntactic structures across the two corpora and Table 6 the
+functional distribution. Unlike Table 5 , which is based on
+tokens, Table 6 reports type frequencies. This is because we
+only assigned one function for each bundle type, although some
+bundles may have more than one function. Assigning the same
+function to all the instances of a single bundle would
+therefore have inflated certain functions. Table 5 . Structural distribution
+(Tokens) with standardised residuals ( R ). Empty Cell TRJPS
+PJPS ObservedCount % R ObservedCount % R NP 17,845 40
+1.34 10,995 39 -1.7 PP 9,708 22 -10.0 7,834 28
+12.59 VP 8,013 18 5.68 4,264 15 -7.1 Clausal 5,494
+12 1.7 3,272 12 -2.1 Other 3,789 8 4.07 2,001
+7 -5.1 TOTAL 44,849 100 28,366 100 df =4, X
+2 =396.658, p <0.001 Cramer's V=0.074 Table 6 . Functional
+distribution (Types) with standardised residuals ( R ). Empty Cell
+TRJPS PJPS Empty Cell ObservedCount % R ObservedCount % R
+R1 153 11 -4.3 235 22 4.88 R2 182 14
+0.03 143 14 0.0 R3 326 25 1.77 203 19
+-2.0 R4 80 6 1.73 38 4 -1.9 T1 85
+6 -1.9 102 10 2.15 T2 106 8 1.63 56
+5 -1.8 T3 47 4 -0.5 44 4 0.61 P1
+279 21 1.48 178 17 -1.7 P2 11 1 0.12
+8 1 -0.1 Indeterminate 57 4 0.38 40 4 -0.4
+TOTAL 1,326 100 1,047 100 df =9, X 2 =76.666,
+p <0.001 Cramer's V=0.180

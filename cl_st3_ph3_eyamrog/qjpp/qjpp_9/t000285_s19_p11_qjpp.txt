@@ -1,0 +1,10 @@
+In many other cases where tags do not agree with
+the anchor clause, there is often an available interpretation in
+which the tag has been appended to the underlying proposition
+rather than what was explicitly said. For example, the tag
+wasn’t it in (26) scopes over the bracketed portion of
+the utterance. The underlying proposition is given in quotation marks,
+and it is clear that wasn’t it would be canonically
+derived from that proposition, which highlights that non-paradigmatic tags do
+not occur randomly but are linguistically constrained (see Coupland 1988
+:36; Krug 1998 ).

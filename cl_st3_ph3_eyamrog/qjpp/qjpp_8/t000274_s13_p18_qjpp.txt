@@ -1,0 +1,14 @@
+The WiSP corpus is a 1-million-word collection of over 4600
+texts produced by 38 social workers within three UK local
+authorities from 2015 to 2017. The corpus was compiled as
+part of the WiSP 1 project. This project focuses on
+five local authorities (LAs) in the UK, exploring both the
+range of written texts produced and the writing practices of
+social workers. The WiSP project has an overarching ethnographic orientation
+(see Lillis, Leedham and Twiner, 2017, 2020 ), using multiple
+methods of data collection and analysis (e.g. 10 weeks observations,
+81 interviews, 29 social worker writing logs, institutional documentation) to
+explore how writing is situated within social workers’ daily working
+lives. While we are aware that ethical regulations for research
+vary across different countries, we hope that our description of
+the WiSP project is useful to all researchers.

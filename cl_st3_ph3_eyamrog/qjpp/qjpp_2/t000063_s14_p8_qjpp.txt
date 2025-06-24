@@ -1,0 +1,19 @@
+The prevalence of dual disorders was pooled with a random-effects
+meta-analysis, assuming heterogeneity between studies. To overcome challenges posed by
+proportions being close to, or at the margins of, 0
+and 1, we calculated individual sample estimates with score 95%
+CIs and stabilised variances with the Freeman–Tukey double arcsine transformation
+to approximate normal distribution. Random-effects models were fitted via the
+restricted maximum likelihood method to estimate heterogeneity variance, and the
+95% CIs of summary measures were calculated with the Knapp–Hartung
+variance estimator. Inconsistency was quantified with I 2 to describe
+the percentage of variation attributed to between-sample heterogeneity, with values
+higher than 75% indicating considerable heterogeneity. Assuming considerable between-sample heterogeneity,
+we provide ranges of estimates. Current prevalence and lifetime prevalence
+of dual disorders were separately pooled. If prevalence estimates of
+dual disorders based on non-affective psychosis and major depression were
+unavailable, we included estimates in the main analyses derived from
+all types of psychosis and affective disorders (broad disorder criteria).
+However, in a post-hoc sensitivity analysis, we excluded estimates for
+disorders that did not match the primary outcomes exactly (narrow
+disorder criteria).

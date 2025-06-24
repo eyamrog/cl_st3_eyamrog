@@ -1,0 +1,13 @@
+Because EZH2 was revealed to play a central role in
+loss of ER and gain of plasticity in ER +
+models in the accompanied study ( Bado et al., 2021
+6. Bado, I.L. ∙ Zhang, W. ∙ Hu, J. ...
+Impact of the bone microenvironment on phenotypic plasticity of ER+
+breast cancer cells Dev. Cell. 2021; 56 :1100-1117 Full Text
+Full Text (PDF) Scopus (59) PubMed Google Scholar ), we
+asked if it also mediates secondary metastasis. The frequency of
+ALDH1 + cells and the expression of mesenchymal and stemness
+markers in bone-entrained SCP21 cells were also significantly decreased upon
+treatment of an EZH2 inhibitor (EPZ) used in our accompanied
+study ( Figures S7 A–S7C), supporting EZH2 as an upstream
+regulator the observed phenotypic shift.

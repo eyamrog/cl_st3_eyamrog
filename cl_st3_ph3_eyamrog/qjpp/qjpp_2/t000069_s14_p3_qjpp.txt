@@ -1,0 +1,9 @@
+All comparisons of numeric variables (including those in the gene-expression
+analysis) were conducted with Student’s t-test familywise error rates due
+to multiplicity set at 0.05 with the use of the
+Benjamini–Hochberg method of controlling false discovery rates. Original P values
+are reported only for the tests that met the criteria
+for false discovery rates. All confidence intervals have been calculated
+on the basis of the t-distribution, as well. Additional details
+are provided in the Methods section of the Supplementary Appendix
+.

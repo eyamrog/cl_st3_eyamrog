@@ -1,0 +1,16 @@
+One important methodological debate of particular relevance to social epidemiology
+has centered around defining which causal questions can be answered
+in the context of the potential outcomes approach to causality.
+The increased interest in formalizing causal inference based on the
+potential outcomes approach has led to debate about which factors
+should be the focus of causal inquiry in social epidemiology,
+and some scholars have argued that causal inference should be
+focused on exposures that can be explicitly defined as “realistic”
+or “practicable” interventions ( 52 , 70 , 114 ).
+Specifying the causal factor of interest as an intervention has
+many benefits. By specifying the causal question in a very
+precise way, it improves understanding of the data needed, the
+best analytical approach, and the assumptions involved. An added benefit
+is that the answer to the causal question also directly
+addresses the impact of a hypothesized intervention that could be
+realized in the real world.

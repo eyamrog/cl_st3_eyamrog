@@ -1,0 +1,23 @@
+The five study sites are located in the Republic of
+Panama ( Fig. 1 ). The Pacific islands of Coiba
+(50,314 ha) and Jicaron (2002 ha), hereafter referred to as
+island sites, have previously been reported to lack mammalian predators.
+They are the biggest islands in Coiba National Park, an
+archipelago located off the southwest coast of Panama. The annual
+mean temperature is 25.9 °C, and the archipelago receives up
+to 3500 mm yr −1 of rainfall, which falls with
+marked seasonality. Less than 60 mm of rain falls during
+the 4 months of dry season that runs from mid-December
+to mid-April. The islands are covered by tropical rainforest (
+Cardiel et al., 1997 , Glynn et al., 1983 ).
+Coiba National Park is considered a biodiversity hotspot due to
+its high levels of endemism. Among others, the park has
+isolated populations of howler monkeys, agouti , and white-tailed deer
+( Méndez-Carvajal, 2012 ). Download: Download high-res image (1MB) Download:
+Download full-size image Figure 1 . Map of the Republic
+of Panama, showing the location mainland sites with predators (red)
+and the two islands without predators (blue). Map was produced
+in R ( R Core Team, 2017 ). Abbreviations: BCI
+= Barro Colorado Island. (For interpretation of the references to
+color in this figure legend, the reader is referred to
+the Web version of this article.)

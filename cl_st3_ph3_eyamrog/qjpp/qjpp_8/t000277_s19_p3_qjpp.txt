@@ -1,0 +1,16 @@
+In terms of frequency, both sets of corpora (the Brown
+family and the LOB family) follow the same pattern of
+combined pronoun use ( Figure 2 ). The occurrence of
+combined pronouns is extremely rare in the 1930s (5.21 pmw
+and 9.46 pmw for AmE and BrE respectively) and the
+1960s (7.84 pmw and 9.63 pmw). There is a large
+increase between the 1960s and the 1990s (59.78 pmw and
+49 pmw) which corresponds to a a seven-fold increase in
+AmE and a five-fold increase in BrE. Finally, and perhaps
+a little unexpectedly, there is a drop off at the
+final time point; AmE drops 5.36 hits pmw between the
+1990s and early 2000s and BrE drops, more drastically, 36.33
+hits pmw. The drop off is even more interesting when
+we take into account the fact that the gap between
+the 1990s corpora and the 2000s corpora is smaller than
+the gaps between the other time points.

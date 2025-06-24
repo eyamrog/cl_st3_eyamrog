@@ -1,0 +1,22 @@
+Another major breakthrough of lcr in Hong Kong has been
+spearheaded by Crosthwaite (2016) and Crosthwaite and Jiang (2017) ,
+who examined learners’ improvement over the course of their learning.
+These two papers reported a longitudinal study of Hong Kong
+university students’ English proficiency based on corpora of written assignments
+and examination answers. By comparing the assignment corpus with the
+examination corpus, Crosthwaite (2016) found several positive outcomes, including the
+use of fewer first-person pronouns and more nominalisations in students’
+academic essay writing. Crosthwaite and Jiang (2017) also reported substantial
+improvement in student writing at the discourse level – for
+example, using more hedge words and fewer boosters to avoid
+making unsubstantiated claims or sweeping statements. These two studies demonstrated
+how learner corpora can help to track students’ progress in
+language learning. In applying learner corpus techniques to a discipline-specific
+context, Hafner and Wang (2018) built a learner corpus of
+legal academic writing, and Wong (2018) compiled a separate one
+of students’ peer comments and self-reflections from an online news
+writing project. The former study revealed that senior-year law students
+used fewer boosters than their junior peers, showing a heightened
+awareness of conforming to disciplinary expectations. Likewise, the latter study
+found that students showed a clear understanding of news writing
+structure, layout and style, despite occasional grammatical mistakes.

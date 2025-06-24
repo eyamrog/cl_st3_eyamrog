@@ -1,0 +1,17 @@
+DamID was performed as described previously ( Robson and Schirmer,
+2016 121. Robson, M.I. ∙ Schirmer, E.C. The application of
+DamID to identify peripheral gene sequences in differentiated and primary
+cells Methods Mol. Biol. 2016; 1411 :359-386 Crossref Scopus (6)
+PubMed Google Scholar ). Briefly, lentiviruses encoding the Dam methylase
+alone (pLgw V5-EcoDam) or fused to lamin B1 (pLgw-EcoDam-V5-Lamin) were
+generated in 293FT cells. Here, ∼6 million 293FT cells were
+transfected with 2.8 μg pMD2.G, 4.6 μg psPAX2, and 7.5
+μg of pLgw V5-EcoDam or pLgw-EcoDam-V5-Lamin with 36 μl lipofectamine
+2000 in 3 ml Optimem. After 16 h, 293FT media
+was replaced. Virus-containing supernatants were subsequently aspirated after 48 h
+and 72 h. Viral supernatants were then cleared of cellular
+debris by 10 min centrifugation at 3,500 rpm and subsequent
+filtration through a 0.45 μm 2 low protein-binding PES syringe
+filter. Viral supernatants were finally purified using the Lent-X concentrator
+as per manufacturer's instructions and resuspended in Optimem. If not
+used immediately, aliquots were frozen at -80°C.

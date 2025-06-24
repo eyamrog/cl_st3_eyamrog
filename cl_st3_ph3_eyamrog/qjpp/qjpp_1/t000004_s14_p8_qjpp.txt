@@ -1,0 +1,5 @@
+Immediately after implantation, the subjects entered a 6-month recording phase,
+during which naturalistic in-lab assessments and ambulatory real-world assessments were
+performed to identify an electrophysiological biomarker for rDBS in the
+consecutive stimulation phase. From each hemisphere, activity was recorded from
+the ventral and dorsal NAc (see Supplementary Information for details).

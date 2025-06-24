@@ -1,0 +1,17 @@
+Negative tags, the variable of interest, consist of yes-no questions
+that feature a negatively-marked auxiliary (with n’t ) and a
+subject (personal pronoun or there ) which is attached to
+a clause ( Quirk, Greenbaum, Leech & Svartvik 1985 :810).
+In Standard English, the tag auxiliary agrees with the verb
+in the clause it is appended to, called the “anchor”
+or “anchor clause” ( Tottie & Hoffmann 2006 , 2009
+; Pichler 2013 ), in person, number, and gender. There
+is usually polarity reversal between the anchor and tag, such
+that negative tags are typically attached to affirmative statements. In
+this study, the variable is analyzed in terms of three
+categories of variants which I refer to as “full,” “reduced,”
+and “coalesced.” Full tag variants have canonical realizations, as shown
+in (1), (2), and (3). (1) That’s stupid, isn’t it
+? (NKOF3, Glasgow) 1 (2) It depends where you go
+though, doesn’t it ? (AA/613, Tyneside) (3) You’ve seen the
+logo, haven’t you ? (Paul, Salford)

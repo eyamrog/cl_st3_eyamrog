@@ -1,0 +1,26 @@
+The structure of the task in each session is similar
+to that of the reward-seeking task described above. In each
+trial of the task, a sound (CS, 1 s in
+duration) was presented, followed by a response window (1 s
+in duration). Licking during the response window led to distinct
+outcomes in different sessions. In each training session, water-restricted mice
+were trained to lick during the response window to obtain
+one of the following outcomes: water, 200 mM sucrose, 300
+mM NaCl, or 5 mM quinine. Mice obtained 8 μL
+of the respective solution in each hit trial. In the
+test session, mice were first presented with 30 trials to
+remind them of the specific outcome, then tested with photoactivation
+of aIC Fezf2 →NTS pathway in 20% of randomly selected
+trials. The photoactivation was applied in the time window between
+CS onset and US onset (λ = 473 nm; power,
+10 mW measured at the tip of optic fibers; 20
+Hz with a 10-ms pulse width). For the extinction session,
+previously well-trained mice received extinction training in which licking during
+the response window no longer resulted in any outcome. For
+the quenched condition, well-trained mice were given free access to
+water before the test and then tested in a session
+where water was the outcome. For the test with Ensure
+(Ensure Original Nutrition Powder, Abbott), mice were food restricted to
+85% of free-feeding body weight, and then tested in a
+session where Ensure was the outcome (10 μL (0.015 calories)
+on each hit).

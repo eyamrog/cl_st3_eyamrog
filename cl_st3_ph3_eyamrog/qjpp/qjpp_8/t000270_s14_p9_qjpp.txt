@@ -1,0 +1,6 @@
+Utility for an agent i is defined in the SWIDM
+as the trade-off between the social benefits ( B i
+), social maintenance costs ( C i ), and (potential)
+harm ( D i ) of infections based on the
+network connections held by i : (3) U i =
+B i − C i − D i .

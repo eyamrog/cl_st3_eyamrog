@@ -1,0 +1,7 @@
+Finally, to ascertain the reliability of our results, and following
+Melo et al. (2016) , we tested the repeatability of
+the raw data sets (e.g., C3 G. gorilla , C4
+P. troglodytes ) by bootstrapping each data set 10,000 times
+and comparing the original and the obtained covariances matrix using
+random skewers analysis (mean = 0.880, median = 0.881; SOM
+Table S9 ).

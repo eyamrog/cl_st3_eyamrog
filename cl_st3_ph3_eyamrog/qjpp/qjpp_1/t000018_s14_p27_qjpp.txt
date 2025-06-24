@@ -1,0 +1,19 @@
+We performed PCA analysis on the top 2,000 most variable
+genes, identified with the VST method implemented in the Seurat
+R package. For PCA, we z -scored each variable gene
+and computed the top 30 eigenvectors and singular values with
+the truncated SVD procedure, implemented in the RSpectra ( https://github.com/yixuan/RSpectra
+) R package. We defined PCA cell embeddings by scaling
+eigenvectors by their respective singular values. To account for potential
+batch effects in PCA embeddings, we modeled and removed the
+effect of the 10X library as identified using the Harmony
+algorithm. For Harmony , we set the cluster diversity penalty
+parameter θ to 0.5 and used default values for all
+other parameters. We evaluated the effect of library mixing before
+and after Harmony using the local inverse Simpson’s index (LISI),
+described in the Harmony manuscript . We evaluated the significance
+of change in LISI with a t -test, with degrees
+of freedom equal to the number of libraries minus 1.
+To visualize cells in two dimensions, we input the Harmonized
+PCs into the uniform manifold approximation and projection (UMAP) (arXiv:1802:03426
+[stat.ML]) algorithm.

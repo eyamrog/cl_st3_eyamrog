@@ -1,0 +1,6 @@
+Four strides per subject were analyzed for the humans (H)
+and chimpanzees (C). All 3-D moment and power data were
+normalized to 101 points over one full stride, facilitating comparisons
+of multiple strides. This also permitted the mean ± standard
+deviation (SD) of the moment and power curves to be
+determined per species.

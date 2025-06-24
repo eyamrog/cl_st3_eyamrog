@@ -1,0 +1,8 @@
+In this section, I present two ways that online discussions
+can be explored with a synergy of corpus analysis and
+interactional approach by using the CWB tool. The first analysis
+reveals the practice of concessions in online discussions by conducting
+a micro-analysis on a thread that contains keywords identified from
+a keyword analysis. The second analysis unravels in-depth discussions on
+a specific topic among users by extracting threads with the
+most mentions of specific terms.

@@ -1,0 +1,22 @@
+The question of whether pathogenic mutations cause a functional deficiency
+of FUS or result in a toxic gain of function
+is critical to determining a therapeutic approach to ALS-FUS, by
+either silencing or restoration of lost function. FUS plays a
+critical role in development, as shown by the perinatal lethality
+of the elimination of FUS in knockout mice (KO/KO) .
+However, in previous studies , we showed that postnatal FUS
+deficiency is insufficient to cause MN degeneration, and we concluded,
+based on indirect evidence, that the toxicity of mutant FUS
+was a consequence of a gain of function. Here, using
+the P517L and Δ14 mutant FUS knock-in alleles in combination
+with the wild-type and knockout FUS alleles, we took a
+genetic approach to assess the effect of these mutations on
+FUS function and the effect of gene dosage on the
+degenerative MN phenotype that we observed in vivo in these
+knock-in animals. In a series of experiments, we crossed mice
+carrying Fus wild-type, mutant knock-in (P517L or Δ14) and knockout
+alleles to generate homozygous, heterozygous and hemizygous animals for each
+Fus allele. These experiments show that P517L and Δ14 mutant
+proteins retain partial FUS function and incompletely rescue the FUS
+knockout phenotype (Fig. 2a,b , Extended Data Fig. 3a,b and
+Table 1 ).

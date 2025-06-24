@@ -1,0 +1,21 @@
+Equation (2) shows that the number of infected individuals in
+a given period is equal to the number that were
+infected the previous period plus the newly infected, minus a
+fraction of infected who have either recovered or become deceased:
+(2) I t + 1 = I t + β
+( S t + ε R t ) I t
+/ N − γ I t , where γ captures
+the fraction of infected individuals who, per time step change
+compartment and move to recovered or deceased, hence γ can
+be understood as the inverse infection period. Put differently, 1/
+γ captures the average period that individuals stay infected for
+some time before “moving” to the next compartment, thus, higher
+γ corresponds to a shorter infection period. The initial severity
+of the spread of the disease is given by R
+0 = β γ also known as the basic reproduction
+number . The basic reproduction number refers to the time
+before any measures are imposed; and gives the information of
+how many individuals are expected to be infected by a
+single infected person. After measures have been imposed, we refer
+to the effective reproduction number which we denote by R
+e .

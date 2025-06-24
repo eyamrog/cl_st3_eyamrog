@@ -1,0 +1,25 @@
+To generate escape mutants, GFP-expressing EbolaΔVP30 virus (∼200 PFU) was
+incubated with 2-fold dilutions of mAb starting at 10 μg/mL
+at 37°C for 1 h. Vero VP30 cells in 96-well
+plates were incubated with the virus-antibody mixture and monitored for
+10 days after infection. At this time, virus samples were
+harvested at the highest concentration of mAb (0.156 μg/mL) in
+which nearly all the cells were GFP positive (an indication
+of virus infection). Virus in these samples was passaged on
+Vero VP30 cells in presence of 0.625 μg/mL of mAb,
+four times the original antibody concentration. Cells were monitored again
+for virus infection by the visualization of GFP and harvested
+once nearly all the cells were GFP positive. Virus from
+this passage was diluted (10-fold) and incubated with a higher
+concentration of mAb (2.5 μg/mL) at 37°C for 1 h
+and then added to Vero VP30 cells previously seeded in
+12-well tissue culture plates. After incubation for 1 h, the
+cells were washed to remove unbound virus, and then overlaid
+with 1.25% methylcellulose medium (M0512, Sigma). Individual plaques (10-15) were
+picked 7-8 days after infection and amplified on Vero VP30
+cells to generate stock viruses. Up to 15 individual plaque-picked
+escape mutant viruses were isolated and the GP was sequenced
+( Halfmann et al., 2008 23. Halfmann, P. ∙ Kim,
+J.H. ∙ Ebihara, H. ... Generation of biologically contained Ebola
+viruses Proc. Natl. Acad. Sci. USA. 2008; 105 :1129-1133 Crossref
+Scopus (101) PubMed Google Scholar ).

@@ -1,0 +1,9 @@
+After the competition, teams were invited to join the PANDA
+consortium. Of all teams, 33 submitted a proposal to join
+the validation phase of the study. From these, the competition
+organizers selected 15 teams based on their algorithm’s performance on
+the internal validation set and method description (Supplementary Methods 6
+). Among the 10 highest ranking teams in the competition,
+8 submitted a proposal and were accepted to join the
+consortium. A further seven teams in the consortium all ranked
+within the competition’s top 30.

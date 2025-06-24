@@ -1,0 +1,7 @@
+Although vaccine development focuses on antibodies due to their ability
+to confer sterilizing immunity, T cells are important in mediating
+protection from severe disease and may be less affected by
+virus variants . The T cell data from this and
+similar studies could influence the development of future vaccine strategies,
+including how to improve vaccine-induced T cell immunity and protection
+from severe disease among vulnerable groups of immunocompromised patients.

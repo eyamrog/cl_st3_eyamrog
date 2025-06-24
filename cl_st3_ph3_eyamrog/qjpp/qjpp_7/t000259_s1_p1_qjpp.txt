@@ -1,0 +1,8 @@
+Objective: A vaccine for the novel coronavirus (COVID-19) could prove
+critical in establishing herd immunity . While past work has
+documented the prevalence and correlates of vaccine refusal , I
+assess how a less explored topic -- properties of vaccines
+themselves (e.g., national origin, efficacy, risk of side effects) --
+might influence vaccination intentions. This information can help public health
+officials preempt differential intentions to vaccinate, and inform health communication
+campaigns that encourage vaccine uptake.

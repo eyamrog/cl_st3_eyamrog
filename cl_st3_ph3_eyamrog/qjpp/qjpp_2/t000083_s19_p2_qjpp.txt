@@ -1,0 +1,22 @@
+Two serious adverse events that were deemed by the investigators
+to be unrelated to trial vaccination were reported. One event
+(acute renal failure caused by rhabdomyolysis associated with a fall)
+was reported 30 days after the mRNA-1273 booster, and the
+other (acute cholecystitis) occurred 24 days after the Ad26.COV2.S booster.
+No prespecified trial-halting rules were met, and no new-onset chronic
+medical conditions occurred through trial day 29. One related adverse
+event of special interest (severe vomiting that led to a
+medically attended visit the day after vaccination) occurred in group
+5 (Ad26.COV2.S booster). Participants with unsolicited adverse events of any
+grade that were deemed by investigators to be related to
+a trial vaccine were reported in 24 of 154 participants
+(16%) who received mRNA-1273, in 18 of 150 participants (12%)
+who received Ad26.COV2.S, and in 22 of 153 participants (14%)
+who received BNT162b2 (Tables S4, S5, and S6). Most adverse
+events were mild or moderate. Four participants had severe adverse
+events that were deemed by the investigators to be related
+to a trial vaccine: in 1 participant with vomiting who
+had received mRNA-1273 (group 1) and in 3 participants who
+had received Ad26.COV2.S (1 with vomiting and 1 with fatigue
+in group 5 and 1 with an abnormal feeling and
+insomnia in group 6).

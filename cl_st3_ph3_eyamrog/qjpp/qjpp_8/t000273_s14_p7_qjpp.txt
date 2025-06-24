@@ -1,0 +1,27 @@
+To answer Research Question (iii.) What types of language are
+characteristic of feedback provided by patients with differing treatment durations?
+, we carried out a keyword analysis by comparing comments
+from patients in the under 1 year category against those
+from patients who received treatment for 1 year or more
+(including those in the over 5 years category), and vice
+versa. Our decision to group patients in the over 1
+year and over 5 years categories together for this part
+of the analysis was motivated by the fact that we
+originally analysed these groups separately, obtaining keywords for them by
+comparing their respective sets of comments against the rest of
+the data. However, there was considerable overlap between these sets
+of keywords (47 of the top 50, ranked by log-likelihood
+( Dunning 1993 )). Therefore, we decided to group these
+categories together. This part of the analysis is thus based
+on two sets of keywords – one for patients with
+under 1 year of treatment and the other for patients
+with 1 year of treatment or more. The keywords analysed
+were obtained by comparing either set of comments against the
+other. We then ranked each set of keywords by log-likelihood
+score and qualitatively analysed the top 30 keywords in each
+list. This qualitative analysis was based on 100 randomly selected
+concordance lines of each keyword, and broadly aimed to identify
+what the uses of the keywords revealed in terms of
+not only the themes of the feedback but also the
+perspectives that patients adopted on those themes and the rhetorical
+strategies they used to provide evaluations.

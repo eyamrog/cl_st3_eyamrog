@@ -1,0 +1,4 @@
+We tested for collinearity issue between our predictor variables using
+the function VIF from the R package ‘car’ ( Fox
+et al., 2011 ). Collinearity was not an issue between
+these variables (all VIF < 1.22).

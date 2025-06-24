@@ -1,0 +1,22 @@
+To prepare mice for the optogenetic experiments, we first injected
+the targets in both hemispheres with viruses, and subsequently implanted
+optic fibers above the injection locations or axon terminal fields.
+A head-bar was also mounted for head restraint. Viruses were
+injected at a volume of ∼0.3 μl at each site,
+and were allowed ∼4 weeks for expression. Viral injection was
+performed at the following stereotaxic coordinates for the aIC: 1.6
+mm anterior to Bregma, 3.1 mm lateral from midline, 2.0
+mm ventral from cortical surface; NTS: 6.55 mm posterior to
+Bregma, 1.37 mm lateral from midline, 3.8 mm ventral from
+cortical surface. Coordinates for optic fiber implantation were as follows:
+aIC: 1.6 mm anterior to Bregma, 3.1 mm lateral from
+midline, 1.65 mm ventral from cortical surface; NTS: 6.55 mm
+posterior to Bregma, 1.5 mm lateral from midline, 3.6 mm
+ventral from cortical surface with a 3° angle; and PBN:
+5.3 mm posterior to Bregma, 1.9 mm lateral from midline,
+2.2 mm ventral from cortical surface with a 14.85° angle.
+The optic fibers (core diameter, 200 μm; length, 3 mm
+(for aIC and PBN) or 4.5 mm (for NTS); NA,
+0.22; Newdoon, Hangzhou, China; or Inper, Hangzhou, China) used for
+the photostimulation transmitted light with > 90% efficiency when tested
+before implantation.

@@ -1,0 +1,12 @@
+We recognise that community-based studies that set out to evaluate
+active case-finding interventions are expensive, logistically challenging, and require very
+large sample sizes and long follow-up periods, as well as
+careful analysis to minimise bias and allow valid inference to
+be drawn. Given these challenges, we strongly recommend that future
+evaluations of the impact of active case-finding on tuberculosis case
+notification rates (which provide an important source of evidence under
+programmatic conditions) are carefully designed to minimise selection and ascertainment
+bias, have prespecified protocols and analysis plans, and undertake appropriate
+statistical analysis to adjust for confounding and the effects of
+temporal trends with effect estimates and measures of uncertainty appropriately
+adjusted for clustering.

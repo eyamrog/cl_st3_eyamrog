@@ -1,0 +1,10 @@
+Vaccination is assumed to provide individual protection against four measures:
+susceptibility, onward transmission, symptom probability and hospitalization/death. These are based
+on efficacy characteristics similar to one or two doses of
+ChAdOx1-S/nCoV-19 (AstraZeneca) vaccine —this being one of the most widely
+distributed and well-studied COVID-19 vaccines to date . This is
+an approximation of the heterogeneous global picture , with some
+vaccines (such as Sinopharm) considered to provide lower protection and
+the widely deployed Johnson & Johnson vaccine requiring only a
+single dose . Specifically, before waning, we take vaccine efficacy
+against:

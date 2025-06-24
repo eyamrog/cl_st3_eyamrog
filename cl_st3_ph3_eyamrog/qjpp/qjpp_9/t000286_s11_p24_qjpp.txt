@@ -1,0 +1,6 @@
+This places research on need +ED, on need -passives more
+generally, and potentially on other low-frequency features in a paradox.
+Because they occur infrequently in natural-language corpora, these features may
+be examined through the elicitation of conscious judgments. However, (perhaps
+because they occur infrequently) conscious judgments of these features may
+be unreliable (see also Strelluf 2019 :321).

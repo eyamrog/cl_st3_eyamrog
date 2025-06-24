@@ -1,0 +1,15 @@
+Table 5 shows bundles including the bi-gram want to that
+occur in the Low and Mid corpora. These two proficiency
+groups show a strong preference for this bi-gram, which occurs
+in 18.3 percent of all the tokens of bundles in
+the Low corpus and 10.6 percent of those in the
+Mid corpus, while appearing only rarely in the High corpus.
+In particular, the two lower proficiency groups excessively produce a
+single bundle, so I want to (Low: 136 tokens, Mid:
+174 tokens), in line with their tendency to start a
+sentence with a co-ordinating conjunction. Note that the Low and
+Mid corpora also contain considerably more bundles with embedded I
+think that is preceded by a conjunction – so I
+think that , but I think it and but I
+think the (see Table 4 ), none of which were
+found in the High corpus.

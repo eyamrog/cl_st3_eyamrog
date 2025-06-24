@@ -1,0 +1,14 @@
+In order to statistically check such differences, Cohort 1 was
+split into two subgroups, one with measurements in the Granada
+camps, the other with the remainder camps in the same
+period. Using the Kolmogorov–Smirnov test, we first confirmed that dynamometric
+values from both populations are not normally distributed, in both
+sexes. We then applied Mann–Whitney's U test, as a function
+of age, ratifying that both in males and females there
+are significant differences in most age groups (with p <
+.001 in some and p < .05 in others). There
+are some exceptions for the highest and lowest ages where
+the number of data is scarce in the Granada group.
+Taking this into account, we chose to remove data taken
+in the Granada camps from Cohort 1 for all subsequent
+analyses.

@@ -1,0 +1,23 @@
+In group 2, the geometric mean titer of neutralizing antibody
+of 902 IU50 per milliliter after homologous boosting in mRNA-1273
+vaccine recipients was substantially higher than that achieved approximately 4
+weeks after completion of the primary two-dose mRNA-1273 vaccine series
+(geometric mean titer, 247 IU50 per milliliter) among participants in
+whom Covid-19 did not develop, a finding that indicates a
+robust anamnestic response after booster vaccination. Similar responses have been
+reported after homologous boosting with mRNA-1273, BNT162b2, and Ad26.COV2.S vaccines.
+Neutralizing activity against the delta and beta variants also increased
+substantially after mRNA booster vaccination, in line with previous reports.
+In many of these studies, participants did not have detectable
+neutralizing activity against these variants before boosting, but the majority
+had detectable responses after booster vaccination. The postbooster neutralizing activity
+against the delta variant was lower than that against the
+D614G mutation by a factor of approximately 3, a decrement
+that was similar regardless of the primary vaccine series. This
+magnitude of lower response is similar to the lower neutralizing
+activity against delta than against the D614G mutation that was
+observed after primary vaccination with mRNA-1273. Despite the lower titer
+against delta, all three vaccines were protective against hospitalization or
+death from infection with the delta variant. These data suggest
+that boosting can maintain or increase protection against variants of
+concern, as has been reported previously.

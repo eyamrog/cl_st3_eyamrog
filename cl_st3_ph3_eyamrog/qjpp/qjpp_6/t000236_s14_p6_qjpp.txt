@@ -1,0 +1,13 @@
+The data were analyzed using Statistical Package for Social Sciences
+(SPSS) version 20. The data were initially edited and missing
+data were rectified using descriptive and frequency statistics. Although Field
+(2017) posits that large sample size data are mostly normally
+distributed, the study, however, explored normality assumption using normal probability
+and residual scatter plots. Multicollinearity analysis was computed using tolerance
+values and variance inflation factor (VIF). None of the variables
+had tolerance values less than .10 nor VIF greater than
+10 ( Pallant 2016 ). Levene’s test for equality and
+homogeneity of variance showed no violation of equal variance assumption
+in t-test and analysis of variance (ANOVA), respectively. However, Welsh’s
+robust test for equality of means was resorted to when
+homogeneity of variance assumption was violated ( Pallant 2016 ).

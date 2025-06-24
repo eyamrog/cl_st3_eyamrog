@@ -1,0 +1,6 @@
+Methods: We report concentrations of CMV and EBV antibodies in
+dried blood spot samples collected from 157 EBV positive Shuar
+participants aged 15–86 years (60.5% female) to assess CMV infection
+rate. We used logistic and linear regression models to examine
+associations among CMV, EBV, and age, adjusting for sex, geographic
+region, and body mass index.

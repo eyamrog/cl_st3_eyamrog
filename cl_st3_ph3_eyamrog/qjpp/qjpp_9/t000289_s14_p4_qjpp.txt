@@ -1,0 +1,15 @@
+The other two corpora contain texts from The Times of
+India for the years 1939 and 1968. These corpora are
+not yet publicly available but may be accessed by contacting
+the author. The material comes from high-quality digitized microfilms and
+was processed with an Optical Character Recognition (OCR) software, ABBYY
+FineReader. Individual texts were manually extracted and proofread for OCR
+errors before they were included in the corpora. Special care
+was taken to exclude texts from news agencies. The text
+types and size of these materials match those of the
+SAVE subcorpus: approximately 120,000 words of local and national news
+and 60,000 of editorials. In 1939, India’s territory extended to
+what is today Pakistan and Bangladesh. Because of the need
+to match the other two corpora as closely as possible,
+texts that hail from present-day Pakistan and Bangladesh were excluded
+from the 1939 corpus.

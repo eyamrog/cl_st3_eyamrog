@@ -1,0 +1,13 @@
+Raw sequencing fastq files were processed using STAR ( Dobin
+et al., 2013 39. Dobin, A. ∙ Davis, C.A. ∙
+Schlesinger, F. ... STAR: ultrafast universal RNA-seq aligner Bioinformatics. 2013;
+29 :15-21 Crossref Scopus (17570) PubMed Google Scholar ) for
+mapping, SAMtools ( Li et al., 2009 82. Li, H.
+∙ Handsaker, B. ∙ Wysoker, A. ..., 1000 Genome Project
+Data Processing Subgroup The Sequence Alignment/Map format and SAMtools Bioinformatics.
+2009; 25 :2078-2079 Crossref Scopus (30053) PubMed Google Scholar )
+for filtering, sorting and removing duplicates, and deepTools ( Ramírez
+et al., 2016 112. Ramírez, F. ∙ Ryan, D.P. ∙
+Grüning, B. ... deepTools2: a next generation web server for
+deep-sequencing data analysis Nucleic Acids Res. 2016; 44 :W160-W165 Crossref
+PubMed Google Scholar ) for generating coverage tracks.

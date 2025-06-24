@@ -1,0 +1,4 @@
+(Potential) harm of infections is a combination of perceived probability
+to get infected ( p i ) and perceived severity
+of the disease ( s i ): (6) D i
+= p i ⋅ s i .

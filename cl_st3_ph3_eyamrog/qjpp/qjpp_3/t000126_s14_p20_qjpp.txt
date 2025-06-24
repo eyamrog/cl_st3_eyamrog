@@ -1,0 +1,16 @@
+Cells were washed in PBS and gently lysed by resuspension
+in a freshly prepared and chilled sucrose lysis buffer (320
+mM sucrose, 10 mM Tris pH 8.0, 3 mM CaCl
+2 , 2mM magnesium acetate, 0.1 mM EDTA, 0.5% NP-40,
+1% protease/phosphatase inhibitor cocktail). Cells were incubated in this buffer
+for 15 minutes on ice followed by centrifugation at 500
+g for 15 minutes at 4 o C to pellet
+isolated nuclei. Supernatant containing the cytosolic fraction was removed and
+the remaining nuclear pellet was mixed in a nuclei sonication
+buffer (500 mM NaCl, 50 mM Tris pH 8.0, 10%
+glycerol, 1% NP-40, 1% protease/phosphatase inhibitor cocktail) followed by incubation
+on ice for 5 minutes. Next, the nuclei were lysed
+in this buffer by sonication for 10 seconds. Insoluble debris
+from this lysate was removed by centrifugation at 21000 g
+for 20 minutes at 4 o C and remaining supernatant
+was taken as nuclear fraction protein.

@@ -1,0 +1,2 @@
+The ChIP-seq and RNA-seq datasets generated during this study are
+available at GEO: GSE139973 and GSE139974 .

@@ -1,0 +1,10 @@
+Two arbitrary transects were created in ArcGIS Pro v. 2.6.1
+(map projection: WGS 1984; Fig. 6 ): Transect A (south-north):
+Áridos (40°23′N, 3°43′W) to Hoxne (52°21′N, 1°12′E): geodesic length =
+1382 km and Transect B (east-west): Bilzingsleben (51°17′N, 11°4′E) to
+Saint-Colomban (47°35′N, 3°5′W): geodesic length = 1105 km. Download: Download
+high-res image (442KB) Download: Download full-size image Figure 6 .
+Paleoclimatic transect locations and sampling intervals (plotted against a 410
+ka paleocoastlines reconstruction; from Gamisch, 2019 ). Figure created in
+ArcGIS Pro v. 2.6.1 (map projection: WGS, 1984). A) Áridos–Hoxne
+transect, B) Bilzingsleben–Saint-Colomban transect.

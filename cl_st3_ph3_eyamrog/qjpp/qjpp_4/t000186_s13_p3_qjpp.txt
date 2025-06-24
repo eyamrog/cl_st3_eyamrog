@@ -1,0 +1,15 @@
+Different types of immune function can also be seen as
+trading off with one another. The immune system has two
+major components, innate immunity and adaptive immunity. Innate immunity is
+immunity governed by genetically encoded signals, which respond to cues
+of infection or injury that have remained constant throughout our
+evolutionary history. In contrast, adaptive immunity learns to respond to
+newly encountered cues of infection and retains a memory of
+those cues encountered during one's lifetime. Innate and adaptive immunity
+work in concert; e.g., innate responses are required to initiate
+adaptive responses. However, organisms still differ in relative allocations to
+innate and adaptive responses; innate responses are generally seen as
+acting faster but causing more somatic collateral damage, whereas adaptive
+responses act slower and require more long-term investment but cause
+less collateral damage ( Martin et al. 2008 , McDade
+et al. 2016 ).

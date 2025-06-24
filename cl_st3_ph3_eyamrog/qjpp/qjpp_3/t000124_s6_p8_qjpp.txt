@@ -1,0 +1,22 @@
+In Rhynchospora , homologous non-sister chromatids are linked by terminal
+chromatin threads during inverted meiosis ( Cabral et al., 2014
+5. Cabral, G. ∙ Marques, A. ∙ Schubert, V. ...
+Chiasmatic and achiasmatic inverted meiosis of plants with holocentric chromosomes
+Nat. Commun. 2014; 5 :5070 Crossref Scopus (54) PubMed Google
+Scholar ). EEFs may occur with high(er) frequency in scenarios
+where chromatids of nonhomologous chromosomes are erroneously connected via repeat-based
+chromatin threads. However, this notion does not exclude the possibility
+of EEFs occurring during interphase or mitosis. It is tempting
+to speculate that the repeat-rich regions observed at chromosome ends
+in R. breviuscula are involved in the formation of chromatin
+threads, which may act as substrates for ectopic recombination. Tyba
+repeats near these repeat-rich regions may be preferentially used as
+the site for recombination and may thus facilitate the occurrence
+of EEFs ( Figure 7 C). Alternatively, the recruitment of
+Tyba repeats as DNA templates to seal double-stranded breaks involved
+in EEFs may explain their pronounced association with EEFs (
+Vu et al., 2017 99. Vu, G.T.H. ∙ Cao, H.X.
+∙ Fauser, F. ... Endogenous sequence patterns predispose the repair
+modes of CRISPR/Cas9-induced DNA double-stranded breaks in Arabidopsis thaliana Plant
+J. 2017; 92 :57-67 Crossref Scopus (23) PubMed Google Scholar
+).

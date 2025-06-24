@@ -1,0 +1,19 @@
+Odds ratios for stunting and wasting in boys relative to
+girls by age are shown in Figure 3 and Table
+S3 , for all cases and for children of primigravidae
+only. Results support H 0 2, in showing that sons
+are at greater risk of stunting in the first year
+of life, but did not show that risk of wasting
+is consistently higher in sons. The odds of stunting in
+boys relative to girls started 21% higher in boys at
+0–2 months (adjusted OR [aOR] 1.209, 95% CI 1.089, 1.342)
+and increased to a 67% higher at 4 to 6
+months (aOR 1.667 [95% CI 1.321, 2.103]). Between 6 and
+12 months the higher odds for boys gradually fell such
+that they did not differ from girls between 12 and
+20 months. Wasting showed a less clear pattern but, analyzing
+all cases, boys had 12% lower odds at birth (aOR
+0.882 (95% CI 0.779, 0.999) and higher odds at 14
+to 16 months (aOR 1.324 (95% CI 1.021, 1.719). There
+was no difference in wasting between boys and girls at
+any other time point.

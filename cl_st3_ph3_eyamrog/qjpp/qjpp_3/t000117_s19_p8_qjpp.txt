@@ -1,0 +1,7 @@
+To determine if the same neurons are involved in processing
+changing homeostatic demands, we tracked individual neurons across thirsty (
+Figure 1 H) and sodium-deficiency ( Figure 1 P) states.
+Among the traceable neurons, a large fraction of those excited
+by sucrose solution when mice were thirsty (10 out of
+18) were also excited by high-sodium when the mice were
+under sodium-deficiency ( Figure S2 P).

@@ -1,0 +1,17 @@
+Remarkably, the photostimulation in the ChR2 mice caused an increase
+in licking rate following CS presentation in not only go
+trials, but also no-go trials ( Figures 3 H and
+3I). As a result, the CR rate was reduced; the
+hit rate was increased, although without reaching significance due to
+a ceiling effect (p = 0.09) ( Figure 3 J).
+Interestingly, before training in the task, the photostimulation did not
+induce any licking following either the go or the no-go
+tone, even though the mice were thirsty ( Figure 3
+K). Moreover, after these mice were well trained but quenched,
+the photostimulation also failed to promote licking in the task
+( Figure 3 L). The GFP mice were not affected
+by the laser ( Figure 3 J). These results suggest
+that aIC Fezf2 → NTS activity invigorates the learned, anticipatory
+licking response to obtain a homeostatic need; however, it does
+not override satiety signals or autonomously activate the motor program
+to generate licking.

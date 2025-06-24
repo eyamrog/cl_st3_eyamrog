@@ -1,0 +1,24 @@
+Still, it is difficult to decompose the individual contributions of
+musculoskeletal traits such as a mobile lower back, a short
+pelvis, and long lower limbs and short feet via joint-level
+analyses alone. Additional contributions from differences in upper body size
+and shape or neural control may also be relevant. Yet,
+this is a necessary step for linking the hominin fossil
+record to shifts in hominin walking capabilities. As such, future
+research should use the results herein to investigate the effects
+of isolated traits, both skeletal (e.g., ilia orientation, hallux adduction)
+and soft tissue (e.g., soleus muscle, Achilles tendon), on the
+mechanics of human walking (e.g., single-support, ‘push-off’, etc.) and across
+lower limb joints over a stride. Although studies of isolated
+traits in hominin evolution have historically been approached using either
+comparative morphology or, to a much lesser extent, experimentation in
+living taxa (e.g., Ross et al., 2002 ), there is
+an increasingly viable and important role for computer simulation and
+optimization methods to establish direct cause-and-effect relationships based on high-fidelity
+models of the neuromusculoskeletal systems (e.g., Falisse et al., 2019
+). This approach may be especially useful for testing the
+adaptive nature of trait combinations not present in living species
+or along a single lineage , such as hominins. High-quality,
+controlled experimental data, such as the force, moment, work, and
+power measurements of humans and bipedal chimpanzees herein, provide the
+experimental basis for these studies.

@@ -1,0 +1,8 @@
+Our tests for recombination suggest that these data do not
+appear to be substantially affected by recombination in mitochondrial DNA,
+which increases branch lengths and leads to exaggerated divergence times.
+However, there are several cautionary notes with respect to the
+divergence estimates in this study. Perhaps most importantly (and as
+illustrated by this study compared to previous ones), unsampled mitochondrial
+diversity from extant and prehistoric macaque populations on these islands
+could identify new variation that influences phylogeographic interpretations.

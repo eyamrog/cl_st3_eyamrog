@@ -1,0 +1,26 @@
+All participants imitated knots under both conditions (concordant and discordant
+demonstrator), and these conditions were randomized over the trials while
+the sequence of knots of varying levels of difficulty stayed
+the same. The participants were prompted to record cases in
+which they were familiar with the knot. As only one
+individual was familiar with one of the knots, we did
+not exclude any subjects based on this information. We analyzed
+the data with a generalized mixed modeling approach in IBM
+SPSS Statistics v. 22 (Armonk, New York). For the three
+variables (time per knot, attempts per knot, and success of
+imitation), respectively, we used a linear regression, a multinomial logistic
+regression , and a binomial logistic regression. For each of
+the three variables, subject identity was added as a random
+effect. Hand preference congruency and knot difficulty, and the interaction
+term of the two, were added as fixed factors in
+the model. In a stepwise backward regression approach, the interaction
+term was removed from the model if it was not
+significant; the main factors remained in the model regardless of
+their significance level. The difficulty of the knots was assessed
+by the success rate at which they were reproduced, resulting
+in the following ranking: granny knot (easy, 95% success rate),
+artillery loop (medium, 61% success rate), bowstring knot, and bowline
+(difficult, 38% and 35% success rate, respectively). Mean scores for
+the three dependent variables in the three difficulty categories are
+given in SOM Table S1 . Alpha was set at
+0.05.

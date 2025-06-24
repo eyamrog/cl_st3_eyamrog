@@ -1,0 +1,8 @@
+c-Myc agarose affinity gel (40 μl per liter of starting
+culture; Sigma-Aldrich A7470) was blocked prior to use, and then
+added to clarified lysates, which were incubated for 2 h
+with rotation at 4°C. Beads were collected by gentle centrifugation
+and washed four times with binding buffer, and then precipitates
+were eluted by boiling in loading dye and analyzed by
+SDS-PAGE/immunoblotting. Blots were probed with either anti-c-Myc (Abcam ab32) at
+1:1,000 dilutions.

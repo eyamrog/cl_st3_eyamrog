@@ -1,0 +1,15 @@
+Repetitive elements (REs) compose ∼50% of the human genome and
+are normally transcriptionally silenced, although the mechanism has remained elusive.
+Through an RNAi screen, we identified FBXO44 as an essential
+repressor of REs in cancer cells. FBXO44 bound H3K9me3-modified nucleosomes
+at the replication fork and recruited SUV39H1, CRL4, and Mi-2/NuRD
+to transcriptionally silence REs post-DNA replication. FBXO44/SUV39H1 inhibition reactivated REs,
+leading to DNA replication stress and stimulation of MAVS/STING antiviral
+pathways and interferon (IFN) signaling in cancer cells to promote
+decreased tumorigenicity, increased immunogenicity, and enhanced immunotherapy response. FBXO44 expression
+inversely correlated with replication stress, antiviral pathways, IFN signaling, and
+cytotoxic T cell infiltration in human cancers, while a FBXO44-immune
+gene signature correlated with improved immunotherapy response in cancer patients.
+FBXO44/SUV39H1 were dispensable in normal cells. Collectively, FBXO44/SUV39H1 are crucial
+repressors of RE transcription, and their inhibition selectively induces DNA
+replication stress and viral mimicry in cancer cells.

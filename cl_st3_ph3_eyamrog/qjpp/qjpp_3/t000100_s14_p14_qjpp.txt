@@ -1,0 +1,11 @@
+Briefly, single-cell RNA-sequencing library preparation was performed as per the
+manufacturer’s recommendations for the 10x Genomics 5' TAG v1.0 chemistry
+with immune profiling and cell surface protein technology. Both initial
+amplification of cDNA and library preparation were carried out with
+13 cycles of amplification; V(D)J and cell surface protein libraries
+were generated corresponding to each 5'' TAG gene expression library
+using 9 cycles and 8 cycles of amplification, respectively. Libraries
+were quantified and pooled according to equivalent molar concentrations and
+sequenced on Illumina NovaSeq6000 sequencing platform with the following read
+lengths: read 1 – 101 cycles; read 2 – 101
+cycles; and i7 index - 8 cycles.

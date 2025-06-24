@@ -1,0 +1,9 @@
+Pools of lyophilized peptides covering the immunodominant sequence of the
+spike glycoprotein and the complete sequence of the membrane glycoprotein
+of SARS-CoV-2 (15-mer sequences with 11 amino acids overlap) were
+obtained from Miltenyi Biotec ( Thieme et al., 2020 48.
+Thieme, C. ∙ Anft, M. ∙ Paniskaki, K. ... The
+Sars-Cov-2 T-Cell Immunity Is Directed against the Spike, Membrane, and
+Nucleocapsid Protein and Associated with Covid 19 Severity Ssrn. 2020;
+Crossref Google Scholar ) resuspended and stored according to the
+manufacturer’s instructions.

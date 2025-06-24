@@ -1,0 +1,18 @@
+It is important to emphasise that the concordances lines were
+checked to identify the function of a given bundle. Take
+we estimate the as an example. Taken out of context,
+it seems to be a P1 bundle. But estimate occurs
+quite frequently in the top-ranking journal articles. In most cases,
+it is more related to their research procedure (similar to
+hypothesizing or calculating) rather than the writer's attitude or evaluation;
+see Example (1). The same can be said of the
+bundle to estimate the in Example (2). This is why
+both bundles were treated as R3 bundles. 1) Representing this
+effect substantively , we estimate that , for a country
+receiving $20 million in aid from the EU, a $5
+million increase causes a 0.40 increase on the CIRI Human
+Empowerment Index, with a 95% CI of [0.01, 0.80] .
+(TRJPS105) 2) The respondents' expressions of their own positions on
+each roll-call vote allow us to estimate the average number
+of bills on which they take a liberal or conservative
+position .(TRJPS22)

@@ -1,0 +1,12 @@
+All specimens were analyzed using 3D digital surface visualizations extracted
+from computed tomography (CT) scans ( SOM Table S1 )
+using Avizo v. 7.1 (FEI Visualization Sciences Group, Berlin). MicroCT
+scans (isotropic voxel size: 0.06–0.27 mm) were obtained from the
+Department of Human Evolution at the Max Planck Institute for
+Evolutionary Anthropology (Leipzig, Germany) and downloaded from MorphoSource ( https://www.morphosource.org/
+). Medical CT scans (pixel size: 0.15–0.71 mm, slice interval:
+0.2–1.0 mm, slice thickness: 0.4–1.5 mm) were acquired from the
+Royal Museum of Central Africa (Tervuren, Belgium), Copes (2012) ,
+and the last author (F.S.). When creating the digital surfaces,
+the μCT data were downsampled to approximately the pixel sizes
+of the medical CT scans.

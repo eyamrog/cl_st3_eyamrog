@@ -1,0 +1,15 @@
+Finally, the negative tag tokens were coded for the three
+external factors: locality, gender, and age. Locality was, as before,
+coded as Tyneside, Glasgow, or Salford. Gender was coded as
+“men” versus “women.” Age was coded according to the two
+age groups of “younger” versus “older,” as described in section
+4.1 . The inclusion of gender and age allows for
+an investigation of whether differences in the frequencies of variant
+types might be indicative of linguistic change in progress. Age-related
+differences are analyzed using the “apparent time” construct ( Bailey,
+Wikle, Tillery & Sand 1991 ), under which the language
+of older speakers is considered to represent an older point
+in time (when those speakers first acquired their dialect) compared
+to younger speakers. By comparing the language use of different
+age groups, we can make inferences about linguistic change (or
+stability) over time.

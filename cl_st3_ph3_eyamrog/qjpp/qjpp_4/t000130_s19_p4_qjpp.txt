@@ -1,0 +1,27 @@
+The octameric arrangement of the complex involves three main interfaces,
+in which the highly sequence-conserved concave surface of GPC3 core
+contacts the three N-terminal domains of Unc5: Ig1, Ig2, and
+TSP1 ( Figure S1 I). SPR experiments show that both
+the Ig domains alone, or the TSP domains alone, are
+not sufficient for detectable binding to GPC3 ( Figures 2
+B–2E). This arrangement contrasts with that of Unc5-FLRT complexes, where
+a single interface forms between the FLRT leucine-rich repeat (LRR)
+domain and Unc5 Ig1 ( Jackson et al., 2016 49.
+Jackson, V.A. ∙ Mehmood, S. ∙ Chavent, M. ... Super-complexes
+of adhesion GPCRs and neural guidance receptors Nat. Commun. 2016;
+7 , 11184 Crossref Scopus (60) Google Scholar ; Seiradake
+et al., 2014 99. Seiradake, E. ∙ del Toro, D.
+∙ Nagel, D. ... FLRT Structure: Balancing Repulsion and Cell
+Adhesion in Cortical and Vascular Development Neuron. 2014; 84 :370-385
+Full Text Full Text (PDF) Scopus (73) PubMed Google Scholar
+). In agreement with our conclusions, the human isoform 1
+of Unc5A, which lacks TSP1 and therefore incudes only Ig1,
+Ig2, and TSP2 (hUnc5A iso1 ), is unable to bind
+GPC3 ( Figure S1 J). Unc5 sequence alignments show that
+conserved GPC3-binding residues are missing in this isoform ( Document
+S1 ). To better characterize the protein-protein binding interfaces, we
+performed 500 ns of molecular dynamics simulations of the hGPC3
+core -rUnc5D IgIgTSP complex. Averaged stable interactions at the main
+interfaces ( Figures 2 F–2H) are shown in Figures 2
+I and 2J. Equivalent data for each copy in the
+octamer is shown in Figures S2 A–S2C.

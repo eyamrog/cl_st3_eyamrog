@@ -1,0 +1,10 @@
+For protein biotinylation in HEK293 cells, protein constructs in pHLsec
+C-terminal Avi-tag were co transfected with a vector encoding BirA
+(biotin ligase). Cell culture medium was supplemented with 100mM biotin.
+Proteins were purified as previously, but in ice-cold conditions. For
+the nanobody-streptavidin complexes, streptavidin (Streptavidin-Alexa Fluor 594 conjugate, Thermo Fisher
+Scientific, or Streptavidin from Streptomyces avidinii , Sigma-Aldrich) was mixed
+with an excess of biotinylated nanobodies, incubated overnight at 4°C
+and subjected to size exclusion chromatography using Superdex 200 16/60
+(GE Healthcare) in 20 mM Tris-HCl (pH 7.5) and 200
+mM NaCl.

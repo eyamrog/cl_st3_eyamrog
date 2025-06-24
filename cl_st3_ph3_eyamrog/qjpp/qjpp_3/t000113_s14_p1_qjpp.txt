@@ -1,0 +1,8 @@
+REAGENT or RESOURCE SOURCE IDENTIFIER Experimental models: organisms/strains Non-human primate
+( macaca mulatta ) UC Davis N/A Software and algorithms
+MATLAB software used for all quantitative analysis N/A https://www.mathworks.com Offline
+Sorter used for spike sorting Plexon https://plexon.com Omniplex Plexon https://plexon.com
+Monkey Logic Toolbox for MATLAB NIMH https://monkeylogic.nimh.nih.gov/ 3D Slicer BNH
+https://www.slicer.org Eyelink 1000 frontend Eyelink https://www.sr-research.com/eyelink-1000-plus/ CubeHelix colormap algorithm Dave
+Green http://www.mrao.cam.ac.uk/∼dag/CUBEHELIX Other Plexon V-probes for neurophysiology Plexon https://plexon.com Open
+table in a new tab

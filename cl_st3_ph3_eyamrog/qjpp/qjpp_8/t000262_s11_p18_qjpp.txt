@@ -1,0 +1,13 @@
+We also consider two less subjective measures of overall physical
+and mental health. The first consists of a binary indicator
+of whether the respondent had any serious illness in the
+previous year . This measure aggregates responses to four questions
+asking if the respondent was “diagnosed with a serious illness”,
+“disabled by an illness or injury”, “hospitalized”, or had “another
+serious health issue” in the last year (1 if the
+respondent had no serious physical health issue, 0 otherwise). We
+also refer to this outcome as “no recent illness”. The
+second measure is a binary indicator of whether the respondent
+has ever been diagnosed with “ depression or another psychological
+problem ”, with 1 indicating no mental illness diagnosis (henceforth
+referred to as “no mental illness experience”).

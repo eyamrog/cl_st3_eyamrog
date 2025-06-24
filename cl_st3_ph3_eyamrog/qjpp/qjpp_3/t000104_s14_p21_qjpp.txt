@@ -1,0 +1,21 @@
+For direct western blotting, chromatin was extracted using a commercial
+kit (Abcam no. ab117152), sonicated in RIPA buffer, and dissolved
+in 4x SDS loading buffer. For chromatin fractionation experiments, cells
+were resuspended in buffer A (10 mM HEPES [pH 7.9],
+10 mM KCl, 1.5 mM MgCl 2 , 0.1% Triton
+X-100, 0.34 M sucrose, 10% glycerol, 1 mM DTT, 50
+mM NaF, 1 mM PMSF, 1 mM Na 3 VO
+4 , 1 μg/mL Aprotinin, 1 μg/mL Leupeptin, 1 μg/mL
+Pepstatin) and incubated on ice for 5 min, followed by
+centrifugation at 1,300 x g for 5 min. The cytoplasmic
+supernatant was then collected. The nuclei pellet was washed once
+in buffer A and lysed in buffer B (3 mM
+EDTA, 0.2 mM EGTA, 1 mM DTT, with protease/phosphatase inhibitors
+described above) on ice for 30 min. After centrifugation at
+12,000 x g for 20 min, the nucleoplasmic supernatant was
+collected. The insoluble chromatin pellet was then washed once with
+buffer B and centrifuged as described above. The chromatin pellet
+was then resuspended in RIPA buffer for 20 min at
+4°C and sonicated extensively to release chromatin-bound proteins. After centrifugation
+at 12,000 x g for 20 min, chromatin-associated proteins were
+collected for electrophoresis.

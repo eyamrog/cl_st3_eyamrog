@@ -1,0 +1,12 @@
+Finally, to gain a visual representation of the trait variance
+in males vs. females, we reran each model above using
+standard multiple linear regression using the lm() function in R,
+with the caveat that these models did not account for
+the country of data collection. Residuals generated from each model
+were then used to graphically represent the effects of accounting
+for morphometric variables on the variance in energy expenditure for
+males and females. Thus, for example, in the case of
+TEE, we plotted a histogram of TEE for each sex
+separately, then one of TEE accounting for height and fat-free
+body mass (set 1), and finally one of TEE accounting
+for height, fat-free mass, fat mass, and age (set 2).

@@ -1,0 +1,8 @@
+In line with the neutralizing antibody titers, both heterologous and
+homologous boosters induced significant increases in RBD-binding IgG levels at
+day 14 (Fig. 3 ). However, heterologous boosting elicited significantly
+higher RBD-binding IgG GMTs than homologous boosting in both group
+A (3,090.1; 95% CI = 2,636.1, 3,622.3) versus group C
+(941.8; 95% CI = 663.9, 1,336.1) and group B (369.0;
+95% CI = 304.2, 447.5) versus group D (154.1; 95%
+CI = 116.3, 204.3), with P < 0.0001.

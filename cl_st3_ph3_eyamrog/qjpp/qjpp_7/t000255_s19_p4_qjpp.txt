@@ -1,0 +1,22 @@
+The second model added perceived societal ageism at baseline (a
+continuous variable) as a predictor, showing a statistically significant negative
+association with subjective memory (Table 2 ; Model 2). As
+participants agreed to a greater extent that respect for older
+adults in society decreased during the pandemic, they were more
+likely to perceive their memory as worse at baseline, Estimate
+(SE) = −.027 (.013), p < .05. A higher perception
+of societal ageism was also related to a stronger linear
+decline in subjective memory, Estimate (SE) = −.006 (.001), p
+< .001 (Table 2 ). Even after the addition of
+sociodemographic, social, general health, and mental health covariates in the
+third model, adults who perceived that respect for older adults
+in society had declined during the pandemic experienced stronger declines
+in their subjective memory, Estimate (SE) = −.005 (.001), p
+< .01 (Table 2 ; Model 3, Figure 1 ).
+The association of perceived societal ageism with subjective memory at
+baseline became non-significant. Figure 1 shows the estimated trajectories of
+subjective memory for the two extreme responses for the measure
+of perceived societal ageism (“Strongly disagree” and “Strongly agree”). Less-extreme
+responses are not included to improve the clarity of the
+figure because they were intermediate to those shown on the
+figure.

@@ -1,0 +1,11 @@
+It is not uncommon that a lexical bundle has more
+than one function (e.g., Biber et al. 2004 ; Cortes
+2015 ). It would be very difficult, if not impossible,
+to assign a specific function to each one of the
+instances, given their sheer number. We therefore decided to follow
+previous studies such as Chen and Baker (2010) and Ädel
+and Erman (2012) in assigning one function (the main function
+as identified in the concordance) to each bundle type. Some
+clausal fragments and incomplete verb phrases without a clear function,
+such as that it is, has been the, and do
+not, were put under an additional category (‘indeterminate’).

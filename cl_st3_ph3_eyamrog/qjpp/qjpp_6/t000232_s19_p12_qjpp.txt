@@ -1,0 +1,9 @@
+The oversight committee treated each stop along the way as
+equally important, from the clerks to the Chief Medical Information
+Officer who was overseeing a multiyear project to redesign the
+IMIT infrastructure for the entire health authority. The chain was
+considered “complete” once the committee had identified all the potential
+actors who would be affected by the creation of a
+new notification system, and the mapping data were used a
+reference to ensure that the design of that system had
+no unintended consequences for any processing interchange along the way.

@@ -1,0 +1,19 @@
+A conditional inference trees model is based on binary recursive
+partitioning using the Ctree function in R language ( R
+Development Core Team, 2022 ), which involves the following procedure:
+First, it screens out the significant predictors. Thereafter, it divides
+the dataset into two subsets. This is according to the
+conditions of the predictor’s binary splits, which has the strongest
+significance, as in Figure 1 . If the predictor is
+binary or categorical, the conditions on splits will be specific
+levels thereof. If the predictor is quantitative, the conditions will
+be a range of values that are divided by the
+node. This procedure is repeated until no further significant variables
+can be determined. A conditional inference trees model has the
+advantage of visualising a complex interaction among the significant predictors.
+A random forest can be grown from many conditional trees,
+which are created by randomly sampling the data’s subsets on
+a large scale. Therefore, it is more likely to be
+valid and accurate than conditional inference trees. Random forests can
+rank the predictors according to their impact by their increasing
+order.

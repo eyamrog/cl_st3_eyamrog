@@ -1,0 +1,23 @@
+Finally, and to better understand the associations among all nine
+variables examined in this study, we have calculated the correlations
+among the nine predictors and the two predicted variables were
+calculated (Note: Table 2 ). Results indicated the following: (a)
+Individual, community and well-being significantly and negatively correlated with sense
+of danger and distress symptom: The higher the resilience, the
+lower level of distress. National resilience significantly and negatively correlated
+with distress symptoms, but not with sense of danger. (b)
+Age and family income significantly and negatively correlated with sense
+of danger and distress symptoms: The older the age and
+the higher the family income, the lower level of distress.
+And (c), gender and economic difficulties due the COVID-19 pandemic
+significantly and positively correlated with distress: Being a woman and
+having more economic difficulties, correlated with higher levels of distress
+symptoms and sense of danger. Table 2 . Correlations of
+psychological and demographic characteristics with a sense of danger and
+distress symptoms ( N = 1346). Variable Sense of danger
+Distress symptom 1. Individual resilience -.220*** -.398*** 2. Well-being -.255***
+-.5544*** 3. Community resilience -.117*** -.176*** 4. National resilience .018
+-.130*** 5. Age -.227*** -.248*** 6. Gender .192*** .130*** 7.
+Community size .117*** .069** 8. Economic difficulties .244*** .214*** 9.
+Family income -.158*** -.110*** ** p < .01, *** p
+< .001.

@@ -1,0 +1,18 @@
+It has often been assumed that ILS signatures should be
+represented by short sequences because of frequent recombination in a
+large ancestral population ( Scally et al., 2012 91. Scally,
+A. ∙ Dutheil, J.Y. ∙ Hillier, L.W. ... Insights into
+hominid evolution from the gorilla genome sequence Nature. 2012; 483
+:169-175 Crossref Scopus (449) PubMed Google Scholar ). It is,
+therefore, of particular interest that our results document that extant
+marsupials also maintained a substantial number of longer ILS regions
+in their genomes, suggesting that complex adaptive ancestral traits came
+under divergent and recombination-averse selection after speciation events were completed.
+A long continuous ILS fragment such as WFIKKN1 might, thus,
+have been favored by selection over sufficient evolutionary time to
+fix phenotypic hemiplasy in multiple marsupials. Whether such positive selection
+would have continued until the present day is unknown but,
+adaptive or not, phylogenetic reconstructions need to take ILS into
+account as a possible mechanism for explaining mismatches between genomic
+variation used to construct phylogenies and phenotypic variation mapped onto
+such trees.

@@ -1,0 +1,2 @@
+The results of the eight regression models are presented in
+Table 2 .

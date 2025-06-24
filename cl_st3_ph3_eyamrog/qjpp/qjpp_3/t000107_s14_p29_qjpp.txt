@@ -1,0 +1,5 @@
+Statistical significance was calculated with unpaired two-tailed Student’s t test
+or one-way ANOVA with Tukey’s multiple comparisons test by Prism
+7 (GraphPad Software). The number of mice used per experiment,
+number of experimental repeats and P values are indicated in
+the figure legends.

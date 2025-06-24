@@ -1,0 +1,16 @@
+In this study, I examine the linguistic context of keywords
+relating to the representation of women in the Arabic Political
+Internet Corpus ( apic ), a corpus of just over
+1 million words. The corpus was constructed by first identifying
+well-regarded political websites in Arabic that use a political vocabulary
+inspired by liberal and leftist politics. Whilst articles in it
+range over a fifteen-year period (roughly 2000 to 2017), most
+articles in apic fall between the years 2016 to 2018.
+I attempted to ensure that the contributions of each outlet
+to the total word-count of the corpus were more or
+less equal. This meant that, for example, only a small
+number of long publications by the Arab Reform Initiative (
+Mubādarat al-iṣlāḥ al-ʿArabī ) and Human Rights Watch Arabic are
+included in the corpus, whereas the short blog-length pieces published
+by Sasa Post required a larger number of articles to
+be uploaded.

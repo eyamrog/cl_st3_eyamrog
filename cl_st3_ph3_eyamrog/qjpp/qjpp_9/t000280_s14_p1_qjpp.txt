@@ -1,0 +1,6 @@
+The data for this study comes from the Late Modern
+English Medical Writing corpus (LMEMT, Taavitsainen et al. 2019 ).
+The corpus is divided into seven text categories, which enable
+the study of sub-register differences within medical writing. The categories,
+which are defined based on text-external factors ( Hiltunen &
+Taavitsainen 2019 ), are:

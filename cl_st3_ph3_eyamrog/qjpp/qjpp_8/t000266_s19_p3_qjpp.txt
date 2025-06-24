@@ -1,0 +1,15 @@
+The calculated domain importance coefficients (equation (3a) ) show that
+‘physical health’ and ‘mental health’, and to a lesser degree
+‘making ends meet’, were the most important well-being domains among
+the older people in our sample ( Table 2 ).
+Similarly, when summarising and plotting the terms used by respondents
+for describing well-being in their own words, physical and mental
+health were most frequently mentioned (see suppl. material, Figure A1
+). Table 2 . Domain importance on latent utility scale.
+Domain Mean Lower 95% CI Upper 95% CI SD Physical
+health −1.381 −1.482 −1.283 0.051 Mental health −1.507 −1.615 −1.401
+0.055 Social life −0.556 −0.606 −0.507 0.025 Receiving support −0.457
+−0.506 −0.409 0.025 Acceptance and resilience −0.543 −0.596 −0.493 0.026
+Feeling useful −0.426 −0.475 −0.380 0.025 Independence −0.718 −0.781 −0.657
+0.032 Making ends meet −1.136 −1.218 −1.054 0.042 Living situation
+−0.674 −0.735 −0.615 0.031 CI = Credible Interval.

@@ -1,0 +1,16 @@
+We modeled the two-dose vaccination, with d dose denoting the
+time interval between the first and second doses (Supplementary Table
+2 ). Let ω 1 and ω 2 denote the
+vaccine efficacy against infection for the first and second doses,
+respectively (Supplementary Table 1 ). The immunity will be acquired
+with a delay of \(d_{immunity}\) days after each dose. To
+reflect the vaccine efficacy against infection, the susceptibility of acquiring
+infection for vaccinated individuals is reduced by a factor ω
+1 after the first dose and by ω 1 after
+the second dose. To reflect the vaccine efficacy against symptomatic
+disease, the probability of developing COVID-19 symptoms after infection for
+vaccinated individuals is reduced by a factor \(\psi _1\) after
+the first dose and by \(\psi _2\) after the second
+dose. To reflect the effect of vaccine breakthrough, we assume
+that, if vaccinated individuals acquire infection, they have the same
+transmission rate as those who are unvaccinated.

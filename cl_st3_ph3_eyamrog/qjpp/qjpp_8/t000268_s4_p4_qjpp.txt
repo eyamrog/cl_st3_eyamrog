@@ -1,0 +1,11 @@
+The present study had several limitations. As has been noted,
+the findings may have been influenced by several biases derived
+from the measurement of suicide and uncertainty. In connection with
+this, the aggregate nature of the data did not allow
+us to analyse potential discrepancies between different socioeconomic groups. In
+addition, given the complex interplay between the very diverse factors
+that affect suicidal behaviour (some of which have not, for
+various reasons, been considered), additional potential biases may have arisen.
+Finally, future researchers might consider applying panel local projections to
+control for time-invariant factors and employing alternative techniques to model
+potential non-linear relationships between variables.

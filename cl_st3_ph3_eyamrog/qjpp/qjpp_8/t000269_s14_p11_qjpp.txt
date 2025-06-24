@@ -1,0 +1,6 @@
+The multivariate specification allows the variance-covariance matrix to be efficiently
+estimated in the presence of missing data as pointed out
+by Goldstein (2011) . This renders our model results unbiased
+under the Missing at Random (MAR) assumption. The full model
+in this paper preserves 98.15% of children from birth cohort
+1 who were still present in wave 4 of GUS.

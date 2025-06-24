@@ -1,0 +1,5 @@
+Figure 1 illustrates the infant age-CRP interaction (per Model 2).
+Lactoferrin for youngest tertile infants was higher if mothers had
+elevated CRP, but this was not the case for older
+infants. Results were similar when infant age was modeled as
+a continuous variable.

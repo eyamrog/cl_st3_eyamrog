@@ -1,0 +1,5 @@
+Finally, we repeated the activation when the mice were quenched,
+which failed to affect dopamine release in either go or
+no-go trials ( Figures 7 O–7Q). These results together indicate
+that aIC Fezf2 → NTS promotes dopamine release in the
+NAc but only when the outcome is homeostatically needed.

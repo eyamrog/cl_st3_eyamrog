@@ -1,0 +1,6 @@
+To test for spatial clustering of neurons with specific response
+properties at a relatively fine scale (tens of microns), we
+calculated pairwise distances between all neurons. We then examined the
+distribution of distances between neurons that were either similar or
+different in their response type(s) (i.e., excited by sucrose versus
+inhibited by sucrose).

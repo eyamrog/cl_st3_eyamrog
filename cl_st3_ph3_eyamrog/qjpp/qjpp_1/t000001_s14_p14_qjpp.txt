@@ -1,0 +1,21 @@
+To summarize BPRF in a single measure and to be
+able to compare the strength of the evidence across risk–outcome
+pairs of varying nature, we then generated a ROS from
+the average log(RR) of BPRF over the data-dense area of
+the observed exposure range, which we defined as the 15th–85th
+percentiles of SBP exposure. A higher positive ROS corresponds to
+a higher average effect size across the continuum of risk,
+and stronger evidence for the estimated relationship. To provide easy
+interpretation of ROS, and for comparative purposes, we categorized the
+ROS value using a star-rating system from one to five;
+negative ROSs yield a one-star ranking and indicate risks for
+which the mean relationship is statistically significant as conventionally assessed
+(based on uncertainty estimates exclusive of between-study heterogeneity), but is
+not significant based on our conservative analysis of the available
+evidence, suggesting there may be no true association between risk
+exposure and health outcome. Positive ROS ranges were divided as
+follows: two stars represent at least a 0–15% risk increase
+based on average SBP exposure, three stars indicate >15–50% increase
+in risk, four stars >50–85% increase and five stars >85%
+increase. Translated into ROS values, the five-star-rating ranges are <0.0,
+0.0–0.14, >0.14–0.41, >0.41–0.62 and >0.62.

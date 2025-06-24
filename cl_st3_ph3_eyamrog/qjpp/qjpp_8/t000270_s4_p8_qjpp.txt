@@ -1,0 +1,23 @@
+To improve the model, other health behaviors lowering infectivity (e.g.,
+handwashing, mask wearing) may be added. This would, most likely,
+also create an observable effect of health behavior homophily in
+static networks. Another approach to consider the effect of individual
+differences is to integrate a specific utility component expressing the
+preference to connect to others alike ( inbreeding homophily). This
+has been neglected in the current work to ensure a
+better control of fixed average degree, and thus the isolated
+study of network components of interest (clustering, average path length).
+Furthermore, although our results show the general effect of health
+behavior homophily on a generic disease, a model could be
+informative for a specific scenario by fitting parameters to empirical
+data (e.g., disease severity, infectivity, degree distribution, clustering, recovery times)
+and refining compartments. Additionally, such an approach would allow considering
+additional factors that may affect individual susceptibility, treatment, and recovery,
+such as age, socio-economic status, or capacities of regional healthcare
+services. Finally, while the theories our model is based on
+have empirical grounding, our theoretical findings need to be corroborated
+by empirical experiments. This could be done by creating an
+experimental game-like study, in which human subjects take the role
+of the agents in our simulations. Another option is to
+fit the model to a specific scenario and study how
+well estimations fit to ongoing observations.

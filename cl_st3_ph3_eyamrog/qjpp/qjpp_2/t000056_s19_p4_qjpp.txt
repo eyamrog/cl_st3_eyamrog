@@ -1,0 +1,19 @@
+Forest plots of the effectiveness of each information condition, compared
+with the control, moderated by age, gender, income, COVID-19 severity
+risk, region, and ethnicity, are shown in the appendix (pp
+24–32 ). In these subgroup analyses, a positive mean difference
+favours condition 1 (control), which can be interpreted as the
+hesitancy score being higher in the other information conditions. There
+are few indications of significant moderation, although this information must
+be interpreted with caution as sample sizes are sometimes small.
+However, individuals of Black ethnicity tended to have an opposite
+reaction to some of the information conditions (ie, they had
+lower hesitancy scores for the control condition) compared with other
+ethnicities, although this was only significant for condition 3 (collective
+benefit of not transmitting; mean difference 1·25, 95% CI 0·03
+to 2·47; p interaction =0·033). Condition 9 (collective and personal
+benefit) was the only other condition to show significant differences
+by ethnicity, with Asian individuals showing the greatest reduction in
+hesitancy (−1·28, –2·26 to –0·31; p interaction =0·038). Condition 5
+(personal benefit) also had a greater impact for men (−0·53,
+–0·91 to –0·14) than for women (p interaction =0·019).

@@ -1,0 +1,17 @@
+These findings are replicated when considering the north vowel individually.
+The same initial model, minus the interactions with vowel ,
+was run on north tokens, with a final model selected
+via stepdown process using the step function. Here, speaker age
+and preceding manner of articulation are again selected as significant
+effects, with frequency , following environment , preceding place of
+articulation , and function word eliminated by the stepdown process
+(see Table 3 ). Unlike the previous model, preceding voicing
+was also eliminated. Frequency was again eliminated when considered as
+a random slope. Open in Viewer Table 3 . Linear
+Mixed Effects Regression of F1 of N orth Vowel Estimate
+Std. Error df t value Pr(>|t|) Intercept ( ore )
+540.573 37.424 27.12 14.445 < ATB 0.0001 Age 1.9362 0.429
+15.48 4.519 0.0004 Preceding Manner—Stop -108.44 28.609 36 -3.79 0.0006
+Preceding Manner—Nasal -35.872 32.849 24.41 -1.092 0.2855 Preceding Manner—Fricative -59.995
+25.792 29.31 -2.326 0.0271 Preceding Manner—Approximant -51.906 33.162 44.59 -1.565
+0.1246

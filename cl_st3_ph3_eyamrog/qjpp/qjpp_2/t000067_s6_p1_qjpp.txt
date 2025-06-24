@@ -1,0 +1,11 @@
+This study showed that suPAR was associated with subsequent acute
+kidney injury in several cohorts (4769 patients who were exposed
+to intraarterial contrast material for coronary angiography, who underwent cardiac
+surgery, or who were critically ill). Concurrently, we obtained experimental
+evidence that suPAR may be directly involved in the pathogenesis
+of acute kidney injury by sensitizing kidney proximal tubules to
+injury through modulation of cellular bioenergetics and increased oxidative stress.
+Inhibiting suPAR with the use of a monoclonal antibody attenuated
+the effect of iohexol on kidney function in mice overexpressing
+suPAR and abrogated bioenergetic changes in HK-2 cells exposed to
+suPAR.

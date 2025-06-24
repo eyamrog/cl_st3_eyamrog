@@ -1,0 +1,10 @@
+Due to reasons of time and space, only the PENN
+and ARCHER collections (1150-1970) were used for this analysis. All
+tautological coordinated size -adjective patterns were retrieved from the corpora
+through the search string [*_ jj *_ conj *_ jj
+] (where conj stands for ‘any kind of conjunction’). For
+the sake of completeness, the structural adjective options noted for
+OE/ME (ambilateral adjective placement and and -adjective construction; see 4.1)
+were also included in the analysis, although the short-lived nature
+and low frequency of these options was a priori expected.
+8

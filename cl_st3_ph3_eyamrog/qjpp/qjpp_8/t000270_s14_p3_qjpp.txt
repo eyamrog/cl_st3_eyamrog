@@ -1,0 +1,5 @@
+The SWIDM was developed to investigate how (i) social mixing
+of heterogeneous risk perception (random, homophilous), (ii) variations in small-world
+network properties (clustering, path length), and (iii) the possibility of
+network changes (static, adaptive) affect the transmission of infectious diseases
+in social networks.

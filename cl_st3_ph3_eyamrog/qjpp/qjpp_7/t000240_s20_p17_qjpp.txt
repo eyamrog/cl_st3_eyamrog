@@ -1,0 +1,5 @@
+First, the correlates of knowledge, attitude, and risk/impact perception were
+assessed to substantiate findings from descriptive results. For dependent variables
+with count data, such as knowledge index and risk/impact perception,
+the Poisson regression model fitted well. For this, the overall
+equation to be estimated is given in Equation 1 :

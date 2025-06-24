@@ -1,0 +1,15 @@
+Our results represent an updated systematic synthesis and meta-analysis of
+the available causal evidence from RCTs and cohort studies examining
+the effect of SBP on IHD outcomes. Broadly, the results
+showed a significant and direct dose–response relationship between SBP levels
+and IHD risk across all SBP exposure values (100–200 mm
+Hg), without evidence for a J-shaped curve. Based on mean
+risk function, SBP values of 130 and 140 mm Hg
+were associated with 81 and 138% higher risk of IHD,
+respectively, relative to the risk at 100 mm Hg, while
+an SBP of 165 mm Hg was associated with 348%
+higher risk. Similarly, when between-study heterogeneity was accounted for, the
+conservative BPRF interpretation of the evidence suggested that SBP values
+of 130, 140 and 165 mm Hg increased the risk
+of IHD by at least 76.8, 129.3 and 305.5%, respectively
+(relative to risk at 100 mm Hg).

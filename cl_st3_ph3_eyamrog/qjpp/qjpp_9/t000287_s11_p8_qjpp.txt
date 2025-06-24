@@ -1,0 +1,15 @@
+Herzog’s Principle follows if we consider a language learner who
+interacts with some speakers who do merge a pair of
+phonemes and some speakers who do not. Particularly because mergers
+tend to occur among phoneme pairs that are not distinguished
+by many minimal pairs, especially in the same lexical category
+( Wedel, Jackson & Kaplan 2013 ), it is simpler
+for the learner to not posit a distinction, as they
+will be able to communicate effectively with both merged and
+unmerged speakers with minimal information loss. Garde’s Principle follows when
+we consider that a merger results in a complete loss
+of distinction between phonemes. In the absence of cues as
+to which lexical items are associated with which phoneme, a
+speaker attempting to separate two merged phonemes would have to
+select lexical items at random, which all but rules out
+successful reversal.

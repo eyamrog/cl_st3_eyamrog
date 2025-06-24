@@ -1,0 +1,10 @@
+Total RNA was isolated using the RNeasy Plus Mini Kit
+(QIAGEN no. 74134). cDNA was synthesized using qScript cDNA SuperMix
+(Quantabio no. 95048) following the manufacturer’s instructions. qPCR reactions were
+performed using SYBR Select Master Mix (Thermo Fisher Scientific no.
+4472908) and a Stratagene Mx3000P instrument (Agilent Technologies). Thermal cycling
+conditions included an initial denaturation step of 95°C for 10
+min and 40 cycles at 95°C for 15 s and
+60°C for 60 s. Analyses were carried out in triplicate
+for each data point. The qPCR primers used for gene
+expression analysis of human REs and genes included

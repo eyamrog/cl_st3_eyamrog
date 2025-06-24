@@ -1,0 +1,18 @@
+Virus titration was performed on serum samples collected from the
+guinea pigs in Vero E6 cells by plaque assay as
+described previously ( Ilinykh et al., 2018 27. Ilinykh, P.A.
+∙ Graber, J. ∙ Kuzmina, N.A. ... Ebolavirus Chimerization for
+the Development of a Mouse Model for Screening of Bundibugyo-Specific
+Antibodies J. Infect. Dis. 2018; 218 :S418-S422 PubMed Google Scholar
+). The duplicate 10-fold serial dilutions of sera were adsorbed
+to Vero E6 cell monolayers in 96-well plates for 1
+h, covered with 100 μL 0.45% methylcellulose (Sigma-Aldrich) overlay, and
+incubated at 37°C for 6 days. The overlay was removed,
+cell monolayers were fixed with formalin for 24 h, washed
+3 times with PBS, and blocked for 1 h with
+5% dry milk in PBS containing 0.1% TWEEN-20 (PBST). The
+plaques were immunostained with rabbit anti-GP primary antibody (IBT Bioservices)
+followed by goat anti-rabbit secondary antibody labeled with horseradish peroxidase
+(Southern Biotech). Both antibodies were diluted at 1:1,000 in 5%
+dry milk in PBST. Virus plaques were visualized by staining
+with the AEC substrate kit (Abcam).

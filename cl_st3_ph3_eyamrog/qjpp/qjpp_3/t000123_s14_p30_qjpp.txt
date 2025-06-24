@@ -1,0 +1,12 @@
+Species divergence time was estimated using the MCMCTree program in
+the PAML package v4.5 ( Yang, 1997 123. Yang, Z.
+PAML: a program package for phylogenetic analysis by maximum likelihood
+Comput. Appl. Biosci. 1997; 13 :555-556 PubMed Google Scholar )
+with the approximate likelihood calculation algorithm. Baseml in the PAML
+package was used to estimate alpha and the substitution rate
+before we used gHmatrix to produce an out.BV file containing
+the Hessian matrix. The MCMCTree was then used to estimate
+divergence times based on these parameters. We applied this pipeline
+to two sets of WGAs containing all six marsupials, and
+each with three types of alignments that supported the Dipr_Dasy
+tree, the Dipr_Micr tree and the Dasy_Micr tree, respectively.

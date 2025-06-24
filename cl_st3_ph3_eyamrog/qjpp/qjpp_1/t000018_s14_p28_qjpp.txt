@@ -1,0 +1,18 @@
+We performed joint clustering analysis on all scRNA-seq libraries using
+the cells’ harmonized PCA embeddings. With the 30-nearest-neighbor graph, we
+computed the unweighted shared nearest neighbor (SNN) graph and truncated
+SNN similarity values <1/15 to zero. We then performed Louvain
+clustering based on the R/C++ implementation from Seurat at resolution
+0.3, resulting in eight clusters. We identified upregulated marker genes
+in each cluster using pseudobulk differential expression with negative binomial
+regression, implemented in the DESeq2 R package. For pseudobulk analysis,
+we collapsed cells from the same donor and cluster into
+one pseudobulk sample, summing the UMI counts from each cell.
+We then performed differential expression analysis on these pseudobulk samples,
+with the design y ~ 1 + cluster . This
+design assigns each gene an intercept term (that is, mean
+expression), a multiplicative offset for each cluster. We addressed the
+degeneracy of the design matrix by assigning a Gaussian prior
+distribution to the cluster effects (DESeq2 parameter βPrior=TRUE). The full
+results for this differential expression analysis are reported in Supplementary
+Table 6 .

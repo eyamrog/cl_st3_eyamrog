@@ -1,0 +1,15 @@
+A major challenge in replicating and summarizing findings in social
+epidemiology has been the differences across studies in the definition
+and measurement of key social constructs. The large heterogeneity in
+definitional and measurement aspects is understandable, given the complexity of
+the factors that are being measured. Moreover, there are many
+reasons why epidemiologic findings may not fully replicate, including methodological
+issues (differences in confounder control, for example) as well as
+substantive reasons, including true heterogeneity in causal effects across samples
+as a result of different distributions of effect modifiers (
+74 ). Nevertheless, a greater focus on harmonization, replication, and
+evidence synthesis is a major need in the field. Systematic
+exploration of the robustness of results using quantitative bias analyses
+( 54 ) as well as greater attention to systematically
+exploring heterogeneity ( 52 ) will also help facilitate evidence
+synthesis.

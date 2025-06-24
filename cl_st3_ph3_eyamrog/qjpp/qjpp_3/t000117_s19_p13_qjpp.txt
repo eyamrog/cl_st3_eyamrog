@@ -1,0 +1,14 @@
+To further examine how the response of aIC Fezf2 neurons
+evolves during learning, we projected their population activity along the
+axes that optimally separated the anticipatory response in different trial
+types ( Figure S2 T). Robust predictive and ramping signals
+developed during training, such that the hit and CR trials
+became better separated at the late than early stage (
+Figure S2 T). Consistently, training increased the difference between CS
+ensemble representations in hit and CR trials ( Figures S2
+U and S2V). Furthermore, the CS population response can be
+used to decode go and no-go trials, with decoding accuracy
+dependent on learning ( Figures S2 W and S2X). These
+results suggest that learning induces robust anticipatory response in aIC
+Fezf2 population, which is specific for reward and can be
+used to instruct or invigorate reward-seeking behavior.

@@ -1,0 +1,12 @@
+We recorded the bulk activities of NTS Recipient neurons in
+these mice with fiber photometry, at different stages of training
+in the go/no-go task ( Figures S5 K–S5M). At the
+early stage of training, NTS Recipient neurons showed little response
+following CS presentations in either the go or no-go trials
+( Figures S5 N, S5O, and S5R). However, at the
+late stage, these neurons displayed ramping-up activities following CS presentations
+until sucrose was delivered in the go trials ( Figures
+S5 P–S5S). In contrast, such anticipatory response was absent in
+the no-go trials. Thus, the anticipation response of NTS Recipient
+neurons, which bears characteristics of that of aIC Fezf2 neurons,
+emerges during learning, paralleling the establishment of need-seeking behavior.

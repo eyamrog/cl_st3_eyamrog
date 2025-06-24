@@ -1,0 +1,7 @@
+We found no relationship between a leader male's number of
+follower males and his percentage of aggressive takeovers (total number
+of followers: r 2 < 0.001, F[1, 43] = 0.006,
+p = 0.940; maximum number of followers in an OMU
+at any given point during his tenure: r 2 <
+0.001, F[1, 43] = 0.001, p = 0.971; n =
+45 leader males; Table 1 ).

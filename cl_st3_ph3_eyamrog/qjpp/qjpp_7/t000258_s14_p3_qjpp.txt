@@ -1,0 +1,21 @@
+A binary exposure variable was created based on disability identified
+using the Washington Group on Disability Statistics (WG) short set
+disability measure for censuses and surveys ( Madans et al.,
+2011 ). The WG short questionnaire has already been used
+and validated in South Africa ( Eide et al., 2015
+; Schneider 2009 ). It is composed of six questions
+about difficulties (seeing, hearing , walking or climbing, remembering or
+concentrating, self-care such as washing all over or dressing and
+communicating for instance understanding or being understood by others) associated
+with a health problem. Response categories are: “no - no
+difficulty”; “yes - some difficulty”; “yes - a lot of
+difficulty”; “yes - cannot do at all”. Disability was reported
+by the head of household for all household members. Information
+was corroborated with the same questions asked directly to the
+person with disabilities or a caregiver in cases where difficulties
+in communication existed. Following the WG experts’ approach, we considered
+individuals as having a disability if they selected “yes -
+a lot of difficulty” or “yes - cannot do at
+all” on any of the six questions. Individuals who selected
+“no - no difficulty” or “yes - some difficulty” were
+considered non-disabled.

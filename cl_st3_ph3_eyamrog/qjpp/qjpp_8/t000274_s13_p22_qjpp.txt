@@ -1,0 +1,15 @@
+The resulting WiSP corpus includes a wide range of text
+types from mental health assessments to case notes relating to
+vulnerable children to emails between colleagues. 2 Corpus texts are
+particularly diverse in terms of length, varying from the very
+short (e.g. a 1-word email and 4-word casenote) to the
+very long (a 10,000-word court report). The corpus has differing
+numbers of texts by text category, social work domain and
+individual writer. Thus in some important ways there are limitations
+with the WiSP corpus from a corpus linguistics perspective in
+terms of representing the population of texts and controlling the
+wordcount (see 2.1, principles 1 and 3). However, the WiSP
+corpus remains the only corpus of social workers’ writing currently
+available, and one of few corpora representing both sensitive and
+hard-to-access texts in any field ( Leedham, Lillis and Twiner,
+2020 ).

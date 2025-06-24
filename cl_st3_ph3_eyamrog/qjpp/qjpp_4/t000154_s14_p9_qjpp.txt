@@ -1,0 +1,16 @@
+We separated pregnancy measures into seven 4-week gestational age categories
+between 12 and 40 weeks, and children and mothers' postpartum
+measures into ten 2-month age/time categories from 0 to 20
+months. We used intervals such as 12 to 15.9 weeks'
+gestation and 0 to 1.9 months postpartum but summarize these
+as 0–2 or 12–16 and so on in the text
+below. Anthropometric measures of 18 172 children (born of 18
+147 mothers) and of 14 024 mothers and 14 030
+pregnancies amounted to 25 946 child lengths, 25 531 weights,
+and 25 928 head circumferences. Mothers' measures amounted to 5550
+pregnant and 15 710 postpartum MUAC and 5519 pregnant and
+15 356 postpartum BMI measures. In terms of replicates per
+individual, 11 933 children had one measurement, 4546 had two,
+and 3386 had three measures. Similarly, 9937 women had one,
+3783 had two, 1061 had three, and 159 had four
+measures each.

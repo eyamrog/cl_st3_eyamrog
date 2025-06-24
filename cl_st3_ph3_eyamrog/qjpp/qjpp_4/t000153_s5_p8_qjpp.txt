@@ -1,0 +1,11 @@
+Notably, our data did show that sex moderated the change
+in TEE. Females demonstrated a modestly negative slope whereas males
+exhibited comparatively increasing TEE from the beginning to the end
+of course. In the pairwise-comparison following the significant interaction of
+sex and time point and adjusting for relevant covariates, we
+found that males, on average, expended significantly more energy (+1085.83
+kcal day −1 , ~13.10% increase) later in the course
+than they did early in the course. In contrast, females,
+on average, expended less energy, spending 361.07 kcal day −1
+less late in the course compared to earlier in the
+course, though this decline was not significant.

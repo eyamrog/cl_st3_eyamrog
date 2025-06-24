@@ -1,0 +1,5 @@
+This systematic review and meta-analysis was prospectively registered with the
+PROSPERO database (CRD42021254665). We followed the Meta-analysis of Observational Studies
+in Epidemiology (MOOSE) guidelines for the conduct of the review,
+and the Preferred Reporting Items for Systematic Reviews and Meta-analyses
+of Individual Participant Data (PRISMA-IPD) guidelines for preparing the manuscript.

@@ -1,0 +1,11 @@
+Developed by Singh and refined over time, ADI uses 17
+Census poverty, education, housing and employment indicators to measure a
+region's socioeconomic disadvantage and can be used to gain “improved
+insight into the sociobiological mechanisms that underlie health disparities ,
+which could, in turn, facilitate the development of improved therapeutics
+and interventions” ( Kind and Buckingham, 2018 ; Singh, 2003
+). Health systems and healthcare providers can use the ADI
+to target program delivery by geographic location based on the
+area of greatest disadvantage. Higher ADI values indicate higher levels
+of disadvantage in a region ( Kind et al., 2014
+; Singh, 2003 ).

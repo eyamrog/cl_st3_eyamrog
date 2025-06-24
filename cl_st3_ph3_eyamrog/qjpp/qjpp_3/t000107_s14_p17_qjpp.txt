@@ -1,0 +1,24 @@
+271 TFs that met the following criteria were selected 1)
+Among the top 50 differentially expressed across Doering et al.
+(2012) 18. Doering, T.A. ∙ Crawford, A. ∙ Angelosanto, J.M.
+... Network analysis reveals centrally connected genes and pathways involved
+in CD8 + T cell exhaustion versus memory Immunity. 2012;
+37 :1130-1144 Full Text Full Text (PDF) Scopus (261) PubMed
+Google Scholar and Philip et al. (2017) 62. Philip, M.
+∙ Fairchild, L. ∙ Sun, L. ... Chromatin states define
+tumour-specific T cell dysfunction and reprogramming Nature. 2017; 545 :452-456
+Crossref Scopus (245) PubMed Google Scholar , 2) Among the
+top 10 differentially open TF motifs across Naive, D8 Arm
+and D8 Cl13 in the previous described ( Sen et
+al., 2016 72. Sen, D.R. ∙ Kaminski, J. ∙ Barnitz,
+R.A. ... The epigenetic landscape of T cell exhaustion Science.
+2016; 354 :1165-1169 Crossref Scopus (335) PubMed Google Scholar ),
+3) Involved in the top immune-regulatory families, such as IRF
+and STAT proteins. 120 TFs were manually chosen to be
+included in the TF library with the following principles: 1)
+TFs with known functions in CD8 + T cells; 2)
+TF family members of those with related to immune functions,
+e.g., IRFs, STATs and Smads; 3) TF with the most
+significant differential RNA expression across published CD8 + T cell
+datasets; 4) TF with the highest motif enrichment in ATAC-seq
+data from previous CD8 + T cell datasets.

@@ -1,0 +1,14 @@
+To determine whether the anticipation signals in aIC Fezf2 or
+aIC NTS neurons are conveyed to the NTS, we monitored
+the activity of the NTS neurons receiving direct synaptic inputs
+from the aIC—termed NTS Recipient neurons. To target NTS Recipient
+neurons, we bilaterally injected the aIC of wild-type mice with
+an anterograde transsynaptic AAV1-Cre ( Zingg et al., 2017 86.
+Zingg, B. ∙ Chou, X.L. ∙ Zhang, Z.G. ... AAV-Mediated
+Anterograde Transsynaptic Tagging: Mapping Corticocollicular Input-Defined Neural Pathways for Defense
+Behaviors Neuron. 2017; 93 :33-47 Full Text Full Text (PDF)
+Scopus (460) PubMed Google Scholar ) and injected the NTS
+of the same animals with the Cre-dependent GCaMP6 AAV (
+Figures S5 I and S5J). Optical fibers were subsequently implanted
+into the NTS, above the infected NTS Recipient neurons (
+Figures S5 I and S5J).

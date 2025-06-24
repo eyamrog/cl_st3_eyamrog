@@ -1,0 +1,11 @@
+These procedures left a corpus of 41,668 instances of need
++TO, 9935 need +ING, and 3232 need +ED. A comparison
+of the final numbers of tweets containing each need -passive
+included after error-checking against the pool that was initially sampled
+shows the degree to which the effectiveness of tagging procedures
+differed across need -passives: 94 percent of need +TO tweets
+were retained versus 68 percent of need +ING versus 46
+percent of need +ED. I attribute these differences in the
+relative success of tagging need -passives to the role that
+frequency plays in training taggers and note this as an
+additional practical challenge to studying low-frequency features.

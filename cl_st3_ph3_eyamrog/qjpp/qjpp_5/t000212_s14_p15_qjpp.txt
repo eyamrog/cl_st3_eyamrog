@@ -1,0 +1,21 @@
+The dose rate is the sum of the contribution from
+the cosmic, the gamma, and the beta dose rates. The
+alpha dose rate was assumed negligible since the samples had
+been HF etched so that most of the outer layer
+of the grains irradiated by the alpha particles has been
+eroded before the equivalent dose measurements. The cosmic dose rate
+was calculated from the current burial depth of each sample,
+based on the equation of Prescott and Hutton (1994) .
+The gamma dose rate was measured with a field gamma
+spectrometer: the gamma probe was inserted 30 cm deep into
+the section at the location where each sample had been
+taken. The spectra were analyzed following the threshold technique (
+Mercier and Falguères, 2007 ). The beta dose rates were
+calculated from the internal radioactive content of each sample, applying
+the specific dose rate conversion factors of Guérin et al.
+(2011) and the attenuation factors of Guérin et al. (2012)
+. The internal radioactive content was measured on dried, finely
+crushed, and sealed samples using high-resolution gamma spectrometry . The
+gamma and beta dose rates must be corrected for moisture
+and carbonate content ( Nathan and Mauz, 2008 ). This
+is further discussed in section 4 .

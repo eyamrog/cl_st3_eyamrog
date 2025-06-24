@@ -1,0 +1,13 @@
+Equal amounts of MDA-MB-231 cells (5 × 10 6 )
+transfected with control or 2 different FBXO44 siRNAs were harvested
+and washed with cold PBS. Cytoplasmic fractions were extracted from
+the cells after the nuclear fraction was removed through centrifugation
+using the Nuclear Extract Kit (Active Motif no. 40010) according
+to manufacturer’s instructions. Cytoplasmic fraction (390 μL solution) was combined
+with 25 μL 5M NaCl, then treated with 8 μL
+RNase A/T1 Mix (Thermo Fisher Scientific no. EN0551) for 30
+min at 37°C prior to DNA extraction using the Gel
+Extraction Kit (QIAGEN no. 28704). The amount of indicated RE
+DNA in cytosol were determined using qPCR primers in “
+ChIP and ChIP-seq ” section and normalized based on gapdh
+level.

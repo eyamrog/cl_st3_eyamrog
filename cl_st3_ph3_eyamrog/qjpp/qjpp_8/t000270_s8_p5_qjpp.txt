@@ -1,0 +1,5 @@
+For almost 40 years, scientists use network theory to study
+the spread of infectious diseases (e.g., Klovdahl, 1985 , May
+and Anderson, 1987 ). A typical approach is to study
+how the structural properties of relationships (edges) between individuals (nodes)
+affect the spread of infectious diseases.

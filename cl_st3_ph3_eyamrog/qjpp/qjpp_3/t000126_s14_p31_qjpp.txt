@@ -1,0 +1,12 @@
+Primary human macrophages or bone marrow derived macrophages (1x 10
+6 ) plated in 12-wellplates were infected with live adherent
+invasive E. coli, C. rodentium, and S. typhimurium at a
+1:10 with spin infection for 10 mins and incubation for
+20 mins. Cells were washed three times with 1x PBS
+and provided medium containing 100 μg/mL gentamicin for 1 hour.
+Cells were washed again with 1x PBS and lysed with
+0.1% Triton x-100 in 1x PBS following 1, 2 or
+3 hours for E. coli, C. rodentium and S. typhimurium
+, respectively. Serially diluted cell lysates were plated on LB
+agar plates. Colony forming units (CFUs) were determined after 24
+hours of incubation at 37°C with 5% CO 2 .

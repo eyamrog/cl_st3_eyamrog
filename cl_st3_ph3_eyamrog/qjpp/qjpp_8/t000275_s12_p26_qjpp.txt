@@ -1,0 +1,10 @@
+This thread was first identified when I queried for all
+keywords in replies and used the command line group Last
+match thread_id to tabulate the frequency of keywords found in
+each thread. The thread was also one of the ten
+longest threads in the contract-4 course. It was selected based
+on the assumption that long threads are more likely to
+contain turn-taking by users who continue to reply to each
+other. Excerpt 1 Initiating post User m4–285 [F irst part
+of the post is omitted as it is not relevant
+for the current analysis ]

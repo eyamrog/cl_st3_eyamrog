@@ -1,0 +1,13 @@
+Our analysis only includes EA speakers. Because of the small
+number of AA speakers in the corpus, they are not
+included in the analysis here (for other work that explicitly
+includes AA speakers in LAGS/DASS, see Renwick & Olsen 2017
+; Renwick & Stanley 2020 ). Table 1 summarizes the
+characteristics of the EA sample with respect to the social
+factors we model, namely gender and generation, and Figure 1
+shows these speakers’ geographic locations, with shapes representing gender, and
+color representing generational cohort (see section 3.3 on how these
+are defined). Open in Viewer Table 1 . Number of
+DASS Speakers Analyzed by Gender and Generation Lost Generation G.I.
+Generation Silent/Boomer Generation Women 11 6 7 Men 8 11
+5

@@ -1,0 +1,15 @@
+The improved immunogenicity outcomes associated with heterologous boosting with Convidecia
+may result from memory responses targeted to the spike protein,
+rather than the whole virus, which mainly contains non-neutralizing viral
+epitopes. Heterologous boosting could also elicit strong T cell responses,
+which improve the breadth of immunity and overcome the limitations
+of the individual vaccine platforms . Relatively higher T cell-secreted
+IL-4 levels were noted in individuals after the booster, especially
+in individuals receiving a homologous CoronaVac booster as a third
+dose, which was not reported in a previous CoronaVac trial
+. T H 2 cytokines such as IL-4, IL-5 and
+IL-13 are generally regarded as important drivers of immunopathology. We
+note that we did not measure levels of any cytokines,
+including IL-4, in plasma or bronchoalveolar lavage samples. The increase
+in IL-4 levels may need to be further investigated in
+populations initially primed with inactivated vaccines after the third dose.

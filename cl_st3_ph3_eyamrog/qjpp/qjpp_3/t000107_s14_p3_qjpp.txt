@@ -1,0 +1,3 @@
+All plasmids are deposited to Addgene for public requests (Addgene
+numbers in the Key resources table ). Transcriptional factor libraries
+will be available upon requests to the corresponding authors.

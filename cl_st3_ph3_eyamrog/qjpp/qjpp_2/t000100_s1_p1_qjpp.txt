@@ -1,0 +1,15 @@
+The contribution of CD4 + T cells to protective or
+pathogenic immune responses to SARS-CoV-2 infection remains unknown. Here, we
+present single-cell transcriptomic analysis of >100,000 viral antigen-reactive CD4 +
+T cells from 40 COVID-19 patients. In hospitalized patients compared
+to non-hospitalized patients, we found increased proportions of cytotoxic follicular
+helper cells and cytotoxic T helper (T H ) cells
+(CD4-CTLs) responding to SARS-CoV-2 and reduced proportion of SARS-CoV-2-reactive regulatory
+T cells (T REG ). Importantly, in hospitalized COVID-19 patients,
+a strong cytotoxic T FH response was observed early in
+the illness, which correlated negatively with antibody levels to SARS-CoV-2
+spike protein. Polyfunctional T H 1 and T H 17
+cell subsets were underrepresented in the repertoire of SARS-CoV-2-reactive CD4
++ T cells compared to influenza-reactive CD4 + T cells.
+Together, our analyses provide insights into the gene expression patterns
+of SARS-CoV-2-reactive CD4 + T cells in distinct disease severities.

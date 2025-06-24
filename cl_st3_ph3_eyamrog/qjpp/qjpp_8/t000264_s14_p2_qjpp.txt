@@ -1,0 +1,12 @@
+Outcome data (dependent variables) were sourced from the Johns Hopkins
+University Center for Systems Science and Engineering ( Dong et
+al., 2020 ). Data for this study were geographically constrained
+to the United States. We examined three discrete, count outcomes:
+number of confirmed cases, number of new cases, and number
+of deaths. Since there could be differences in covariate relationships
+based on the region of the country considered, we made
+an estimation for the US as a whole and apportion
+the counts into the following regions as defined by the
+US Census Bureau ( Geography Division. U.S. Department of Commerce
+Economics and Statistics Administration. U.S. Census Bureau, 1984 ): South
+(S), West (W), Midwest (MW), and Northeast (NE).

@@ -1,0 +1,11 @@
+To determine whether inflammation-associated modules are relevant to treatment outcomes,
+we projected the modules onto whole-tissue gene expression data derived
+from prospective studies of response to anti-TNF, corticosteroid or anti-integrin
+therapy . At least 79% of the genes within each
+module could be identified in the three datasets, enabling accurate
+quantification within them (Extended Data Fig. 2c and Supplementary Table
+2 ). The expression of 15 modules was significantly (adjusted
+P < 0.05) higher or lower in nonresponders to anti-TNF
+before treatment (Supplementary Table 3 ). Seven and two modules,
+respectively, were significantly higher or lower in nonresponders to corticosteroid
+and anti-integrin therapy (Supplementary Table 3 ).

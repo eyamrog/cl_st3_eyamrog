@@ -1,0 +1,23 @@
+SCP21 or MCF7-SCP2 cells tagged with mRFP and luciferase gene
+were implanted to the mammary fat pads, hind limbs, or
+lungs of female nude mice through MFP, IIA or IIV
+injection, respectively. 6 weeks later, 4 mammary, 3 lung and
+4 bone entrained cells were recovered from SCP21 xenografts. For
+MCF7-SCP2 cells, two mammary tumors and one bone metastases were
+recovered. All the animals failed to develop lung metastases after
+receiving one million MCF7-SCP2 cells through tail vein injection, therefore
+lung-entrained MCF7-SCP2 cells were not examined in this study. mRFP+
+tumor cells were then sorted out from the single cell
+mixture prepared by the tumor dissociation kit (Miltenyi Biotec). For
+bone metastases, bone marrow was discarded, and the bone fragments
+were subjected to the collagenase digestion prior the tumor dissociation.
+The organ-entrained cells were then expanded under regular culture condition,
+and cryopreserved immediately after reaching confluency, and considered as P1
+SCPs. If not specified, cells were sub-cultured every 5 days
+and most experiments were performed with SCPs at passage 3.
+The in vitro treatment of EPZ011989 (1uM) was started with
+BoM-SCPs at passage 2 and lasted for 5 days. 1E5
+different organ entrained cells (randomly selected) at passage 3 and
+parental SCP21 cells were injected into the left ventricle (intra-cardiac
+injection) of nude mice. The animals were monitored by BLI
+imaging weekly.

@@ -1,0 +1,11 @@
+Interestingly, training markedly increased the number of neurons responsive to
+both CS SU and sucrose (excitation, p = 2.03 ×
+10 −10 , inhibition, p = 2.62 × 10 −5
+, χ 2 test) ( Figure 2 F). Consistent with
+this observation, population analysis revealed that training led to an
+increase in similarity between the response to CS SU and
+sucrose, quantified as a decrease in Mahalanobis distance between the
+ensemble representations of the two stimuli ( Figure 2 G).
+These results indicate that training fundamentally modifies the responsiveness of
+aIC Fezf2 neurons, such that the response to the reward
+cue becomes matched with that to the actual reward.

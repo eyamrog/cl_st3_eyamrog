@@ -1,0 +1,20 @@
+For high-income countries, there is overwhelming evidence that the risk
+of dying from COVID-19 if infected (the case fatality rate,
+CFR) is vastly higher for people at very old ages
+than for any other population group. For example, data from
+Italy show a CFR of 34.6% for people aged 80
+and over, compared to 0.9% for people aged 40 to
+49 (Signorelli & Odone, 2020 ). Limited access to COVID-19
+testing, especially in poorer countries, prevents robust data on age-specific
+infection rates and hence on CFR (Lloyd-Sherlock et al., 2020
+). Although it is likely that there will be some
+variation in the strength of this association due to other
+mediating effects, the available evidence indicates that it is broadly
+consistent (Laxminarayan et al., 2020 ). Whether variations in CFR
+translate into variations in numbers of deaths at different ages
+will be affected by any age differences in rates of
+infection. As discussed above, claims that older people have lower
+infection risk have sometimes been used to justify a lower
+vaccine priority. However, in the absence of robust data on
+infection rates by age in different settings, it should be
+assumed there is no differential.

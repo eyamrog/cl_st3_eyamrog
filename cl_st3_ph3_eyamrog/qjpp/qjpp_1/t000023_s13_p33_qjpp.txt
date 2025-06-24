@@ -1,0 +1,15 @@
+The availability of big data has also spurred interest in
+data discovery approaches such as environment-wide association studies ( 99
+) and machine learning approaches focused on pattern recognition and
+prediction as a complement to the hypothesis-testing approaches more common
+in social epidemiology ( 52 , 116 ). Although applications
+of machine learning and data discovery approaches in social epidemiology
+are rapidly emerging, they are, for the most part, exploratory
+( 66 , 100 , 108 , 116 ), and
+the utility of these approaches in generating new insights remains
+to be determined. In addition, important questions have emerged regarding
+how algorithm-driven approaches can perpetuate biases and stereotypes ( 106
+). Finding the balance between theory-based and hypothesis-driven approaches and
+emerging data-driven approaches spurred by increased data availability and computational
+power will be an important challenge and opportunity for social
+epidemiology in the future.

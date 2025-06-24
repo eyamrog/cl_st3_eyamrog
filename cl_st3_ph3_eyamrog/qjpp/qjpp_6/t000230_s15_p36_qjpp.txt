@@ -1,0 +1,6 @@
+American education researchers generally have access to school district administrative
+data that is combined with National Student Clearinghouse data, which
+is a centralized database that enables school districts to track
+students link their students through the U.S. postsecondary system. 14
+In contrast, we are almost entirely unable to link secondary
+and postsecondary education data in Ontario. 15

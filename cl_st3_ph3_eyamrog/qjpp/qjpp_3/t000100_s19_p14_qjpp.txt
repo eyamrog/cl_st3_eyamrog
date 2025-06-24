@@ -1,0 +1,25 @@
+The recovery of paired TCR sequences from individual single cells
+enabled us to link transcriptome data to clonotype information and
+evaluate the clonal relationship between different CD4 + T cell
+subsets as well as determine the nature of subsets that
+display greatest clonal expansion ( Tables S4 A and S4B).
+In SARS-CoV-2 infection, hospitalized patients were characterized by large clonal
+expansion of the virus-reactive CD4 + T cells (mean of
+55.8%); in contrast, in non-hospitalized patients, recovered TCRs were less
+clonally expanded (mean of 38.0%) ( Figure S4 D). Among
+SARS-CoV-2-reactive CD4 + T cells, CD4-CTL subsets (clusters 6 and
+9) displayed the greatest clonal expansion (> 75% of cells
+were clonally expanded), indicating preferential expansion and persistence of CD4-CTLs
+in some patients with COVID-19 illness ( Figure 4 E
+and Tables S4 A and S4B). Analysis of clonally expanded
+SARS-CoV-2-reactive CD4 + T cells from COVID-19 patients showed extensive
+sharing of TCRs between cells in clusters 6 and 9,
+as well as those in cluster 11 ( Figure 4
+F), which, notably, was enriched for the expression of XCL1
+and XCL2 transcripts and also for cytotoxicity-associated transcripts, albeit at
+lower levels compared to the established CD4-CTL clusters ( Figures
+4 D and S4 C and Table S2 F). Thus,
+cells in cluster 11 are likely to be an intermediate
+transition population, a hypothesis supported by single-cell trajectory analysis that
+showed potential temporal connection and transcriptional similarity between these subsets
+( Figure 4 G).

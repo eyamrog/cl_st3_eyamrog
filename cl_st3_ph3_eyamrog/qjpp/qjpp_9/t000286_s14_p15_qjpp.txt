@@ -1,0 +1,13 @@
+I deleted any tweet that was sent as identical or
+nearly identical text from a single handle (i.e., cases where
+a single author tweeted basically the same text more than
+once). I did not sample tweets that Twitter classified as
+retweets. However, in cases where more than one author tweeted
+very similar text as an original message from their own
+handle, I kept these in the dataset. I made this
+decision because an author’s re-broadcasting of a tweet creates ownership
+over the message that is not present in a retweet
+(e.g., it appears on Twitter as a message from their
+handle), and because it would have been possible for authors
+to edit a need -passive construction if they had objected
+to it.

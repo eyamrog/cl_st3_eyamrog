@@ -1,0 +1,12 @@
+As shown in Table 1 , the corpora consist of
+over 1.6 million running words, excluding reference lists and contents
+in tables and figures. Table 1 presents the word counts
+of the two corpora. Altogether, 1,541,882 words were subjected to
+the present investigation. The PJPS articles are in general shorter
+than those in the TRJPS corpus. Table 1 . Data
+used for the study Corpora Years No. of articles Running
+words Words used for this study Mean (in words) PJPS
+2011-2018 110 653,997 623,158 5,665 TRJPS 2001-2018 * 110 1,065,960
+918,724 8,352 ⁎ The TRJPS corpus covers a slightly longer
+time span than does the PJPS corpus as PJPS is
+a newer journal.

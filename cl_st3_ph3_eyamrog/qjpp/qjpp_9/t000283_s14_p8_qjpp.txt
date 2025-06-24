@@ -1,0 +1,10 @@
+We refrained from using a more fine-grained distinction of rhotic
+realizations because it would have made it difficult to achieve
+sufficient interrater reliability (as in Dickson & Hall-Lew 2017 ).
+Following this method, we achieved good interrater reliability of about
+89 percent between the first and the second rater for
+identification of /r/ variants. In case of disagreement between the
+two raters, a third rater, also phonetically trained, made the
+final decision. The auditory analysis was complemented with a visual
+spectrographic analysis using Praat ( Boersma & Weenink 2017 )
+for less clear tokens or when in doubt.

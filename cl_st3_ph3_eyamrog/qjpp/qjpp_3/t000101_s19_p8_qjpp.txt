@@ -1,0 +1,14 @@
+We first interrogated repair products in the absence of the
+maternal genome. The maternal genome was removed and discarded, and
+the EYS 2265fs mutant sperm was injected together with Cas9
+RNP targeting the mutation site ( Figure 2 A). At
+20 h after ICSI, embryos with a single paternal pronucleus
+were harvested for analysis ( Figure 2 B). Of eight
+androgenetic embryos from two different oocyte donors (five and three
+per donor), three contained a single small indel ( Figure
+2 C), indicating end joining repair within the first cell
+cycle, whereas two contained two different modified alleles, indicative of
+repair after the onset of DNA replication but prior to
+mitosis. Of the remaining three, one was unmodified and two
+failed to genotype at rs758109813 ( Figure 2 D; Table
+S1 ).

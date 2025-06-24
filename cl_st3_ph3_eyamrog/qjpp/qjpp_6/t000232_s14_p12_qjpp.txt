@@ -1,0 +1,15 @@
+While the focus of this manuscript is on assessing the
+utility of apply IE concepts to eHealth projects, the solution
+developed during the pilot was itself the subject of evaluation.
+A total of 50 FPs enrolled in a pilot study
+and received eNotifications for every patient admitted to acute care
+in one geographical region over a 4-month period. Postpilot, participants
+received an online survey asking them to rate their satisfaction
+with the system and its value to clinical practice; with
+a response rate of 46 percent. Physicians were then invited
+to participate in interviews to gather narrative data that illustrated
+changes to patient care. A private evaluation company was contracted
+to collect survey and interview data, which were provided in
+summary form so participants could not be identified. No individual
+patient information was collected, but aggregate data on the volume
+of notifications were provided by the health authority.

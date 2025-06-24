@@ -1,0 +1,14 @@
+For each leader male, we calculated the percentage of takeovers
+that were aggressive (total takeovers: n = 129; aggressive takeovers:
+n = 57, non-aggressive takeovers: n = 72). Aggressive takeovers
+include those in which the observer witnessed any instance of
+visual or physical aggression by the male directed toward the
+female and/or the leader male being challenged, as well as
+takeovers for which aggression between males or toward the female
+was suspected (e.g., observations of wounds following the takeover event).
+Non-aggressive takeovers include takeovers for which there was no indication
+that either visual or physical aggression was observed toward the
+female or among males, including those for which there was
+no indication by the observer of the presence or absence
+of aggression, based on the assumption that overt aggression would
+have been recorded if it had been observed.

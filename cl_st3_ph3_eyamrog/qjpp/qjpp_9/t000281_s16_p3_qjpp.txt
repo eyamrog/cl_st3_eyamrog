@@ -1,0 +1,13 @@
+Tables 1 and 2 summarize the results of the analysis
+across periods. Small caps indicate cluster types, e.g., big huge
+stands for the patterns big huge and huge big .
+Pattern-specific distributions of reversible clusters are given in smaller font
+below (PDE data excepted; see González-Díaz 2018 for an analysis
+and discussion of cluster reversibility in PDE). Normalized figures are
+provided in square brackets in the tables. In the case
+of the EEBO corpus, however, no such normalization could be
+carried out due to the data-thinning process noted in section
+3. 6 The EEBO tokens will therefore be considered a
+way of providing further qualitative information on the patterns and
+trends observed in the analysis of the other corpus data
+examined here (see Table 2 ).

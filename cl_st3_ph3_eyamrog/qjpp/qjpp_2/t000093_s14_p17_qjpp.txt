@@ -1,0 +1,17 @@
+For all data collected toward generation of phase diagrams, a
+standardized imaging protocol was adopted to avoid confounding effects related
+to alterations in microscopy settings. Identical imaging settings were used
+relative to fluorescence correlation spectroscopy (FCS)-based calibrations (fluorescence to absolute
+concentration) (see Quantification and Statistical Analysis ). Specifically, images were
+collected using 0.5 frames per second scan rate, 1024x1024 pixel
+frame (120x120 μm 2 ), and 1.75x Nyquist zoom (63x
+oil immersion lens). Laser powers (1% 488 and 100% 546),
+intensities, and gains were kept constant. All time lapses (activation
+periods) were 5-min in length and featured 6 s intervals
+between frame acquisitions. Following the last frame, laser intensity was
+dropped for 4-additional frames followed by acquisition of 4-final images
+at higher relative laser intensity. This protocol was selected to
+achieve wide dynamic range (i.e., to achieve sufficient resolution of
+lower concentration cells, which feature lower signal to noise, and
+to avoid pixel saturation in cases of exceptionally bright dense
+phases).

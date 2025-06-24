@@ -1,0 +1,18 @@
+Compartmental models have been the basis of a large part
+of COVID-19-related epidemiological research. In general, these models attempt to
+capture the combined interaction of a given viral epidemiology, the
+effects of relevant non-pharmaceutical interventions (NPIs), and the compliance of
+the public with these measures. They have guided much of
+the international policy response to COVID-19 (see McBryde et al.,
+2020 and Thomson, 2020 ) and have even garnered wider
+public media attention beyond epidemiological research circles. In this respect,
+the main NPIs under discussion have related to physical distancing
+between individuals. These types of policies aim to reduce the
+average number of contacts between individuals in close spatial proximity,
+which in turn, will lower on average the rate through
+which individuals get infected and hence the epidemic's effective reproduction
+number ( Paeng and Lee, 2017 ; Milner and Zhao,
+2008 ; for example see Funk et al., 2010 ;
+Manfredi and D'Onofrio, 2013 ; Verelst et al., 2016 ;
+Weston et al., 2018 ; Hauck, 2018 ; Di Guilmi
+et al., 2020 ).

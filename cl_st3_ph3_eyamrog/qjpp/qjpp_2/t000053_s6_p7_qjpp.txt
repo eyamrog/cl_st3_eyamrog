@@ -1,0 +1,13 @@
+This systematic review had several limitations. We included only manuscripts
+published in English. We reviewed the full text of 988
+published manuscripts drawn from more than 25 000 titles and
+abstracts, but we did not include unpublished data or grey
+literature. Publication bias is possible; we are aware of several
+active case-findings evaluations which are not published (eg, from TB
+REACH-funded projects). Studies generally did not distinguish between the number
+of people diagnosed with tuberculosis and the number started on
+tuberculosis treatment (ie, they did not account for pretreatment loss
+to follow-up). We did not assess individual-level effects of active
+case-finding, such as whether people with tuberculosis detected through active
+case-finding had less extensive or severe disease or better outcomes
+than those with tuberculosis detected through usual care-seeking.

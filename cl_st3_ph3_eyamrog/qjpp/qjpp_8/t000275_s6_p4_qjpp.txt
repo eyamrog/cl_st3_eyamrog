@@ -1,0 +1,20 @@
+Underlying these methodological considerations is the fact that users respond
+to each other in discussion threads. Only analyzing individual postings,
+without considering what it responds to or what comes after
+may decontextualize the postings, especially the replies, thus not providing
+a full insight into the language practices in online interactions.
+Nonetheless, this is not to say that concordance reading or
+corpus analysis are not suitable for investigating online discussions. Rather,
+the purpose of this article is to suggest a synergy
+of corpus analysis with an interactional approach, whether micro-analysis, digital
+CA or comparing keywords in different types of posts or
+posts contributed by different groups of users. Corpus analysis provides
+insight into language practices by analysing the big data available
+from online discussions while an interactional approach complements the findings
+of corpus analysis by delving deeper into users’ interactions. This
+is similar to the CLCA approach proposed by O'Keeffe &
+Walsh (2012) for face-to-face interactions. Additionally, this paper also shows
+that corpus tools can be used to extract threads or
+provide a point of entry to data when conducting turn-by-turn
+analysis of threads in online discussions which typically contain large
+amounts of data.

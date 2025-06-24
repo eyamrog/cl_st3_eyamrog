@@ -1,0 +1,19 @@
+The final stage analyzes vowel formant trajectories, uniting the positional
+and temporal data, using generalized additive mixed models (GAMMs; Hastie
+& Tibshirani 1990 ; Wood 2017 ). GAMMs compute “smooths”
+across different conditions, e.g., between different vowels in a unique
+coda context. Visual comparison of the degree of cross-smooth overlap
+provides an indication of where, when, and whether they represent
+significantly different conditions. It is thus possible to examine more
+precisely how the various trajectories are differentiated from each other
+in a way that single-variable analyses cannot. GAMMs were built
+following the general formula y ∼ s(x, k = 5,
+bs = “cs”) + s(random.effect, bs = “re”) where y
+represents a given formant, x represents a given phonological condition
+(vowel or coda type), and k (knots) relates to time-series
+(here, the five timepoints provided by FAVE), based on methodology
+described in Sóskuthy (2017) . Inclusion of speaker as a
+random effect was implemented in ggplot2 by modifying its smooth
+algorithm (which ordinarily does not permit their inclusion) via a
+custom R script ( Beare 2020 ), 5 following methods
+discussed in Tabain, Butcher, Breen, and Beare (2020) .

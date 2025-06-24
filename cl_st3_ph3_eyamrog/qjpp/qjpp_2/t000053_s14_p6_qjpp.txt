@@ -1,0 +1,16 @@
+To investigate the effects of active case-finding on tuberculosis case
+notification rates, if possible, we extracted or calculated person-years of
+follow-up and numbers of tuberculosis cases notified in each group.
+We used simple arithmetic to estimate person-years of follow-up if
+this was not directly reported. For randomised studies and before-after
+studies, case notification rate ratios (in intervention vs control populations
+or baseline vs endline populations) were calculated. For studies that
+had a non-randomised comparator and compared tuberculosis case notification rate
+trends over time in two groups (controlled before-after studies) we
+calculated the difference between case notification rate ratios in the
+groups with and without exposure to active case-finding. We additionally
+reported the authors' effect estimates (or measures of association) and
+CIs, if provided, and summarised any statistical adjustments for clustering
+and confounding. We did not calculate CIs from available grouped
+summary data because this would require adjustment for effects of
+clustering and confounders, neither of which were typically reported.

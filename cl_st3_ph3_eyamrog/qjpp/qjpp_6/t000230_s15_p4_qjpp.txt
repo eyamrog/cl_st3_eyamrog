@@ -1,0 +1,10 @@
+Canadian nationally representative data sources, particularly on issues of education,
+are extremely limited. Large-scale assessment studies such as PISA (Programme
+for International Student Assessment), TIMSS (Trends in International Mathematics and
+Science Study), and PIRLS (Progress in International Reading Literacy) are
+conducted in Canada and scores of other countries, but their
+shortcomings for research questions beyond blanket comparisons with other countries
+are extensive. I will focus on PISA because it is
+the most known international education assessment, undertaken every three years
+on 15-year-olds across around 90 OECD countries ( Organisation for
+Economic Co-operation and Development 2018 ).

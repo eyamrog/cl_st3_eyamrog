@@ -1,0 +1,11 @@
+Between 16 and 27 aliquots were measured for each sample
+to obtain an equivalent dose (D e ) distribution. The
+D e and their uncertainties were estimated by interpolating the
+sensitivity-corrected natural OSL signal onto the sensitivity-corrected regenerated growth curve,
+fitted using a single exponential function with the Analyst software
+v. 4.57 ( Duller, 2018 ). For all samples, the
+D e values are below the sample saturation limit (
+Murray and Wintle, 2003 ), suggesting that a reliable D
+e can be estimated for all the samples (see SOM
+Fig. S4 ). The D e distributions are reported for
+all samples in SOM Figure S5 .

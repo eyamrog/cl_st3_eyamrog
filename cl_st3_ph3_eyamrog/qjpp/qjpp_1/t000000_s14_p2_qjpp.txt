@@ -1,0 +1,14 @@
+Individuals within each country were classified as susceptible ( S
+), exposed ( E ), infectious and symptomatic ( I
+), infectious and asymptomatic ( A ) or recovered (
+R ). We used a set of ordinary differential equations
+to describe the flow of individuals between these compartments. Susceptible
+individuals were subjected to a force of infection proportional to
+I + τ A , where τ is an age-dependent
+discounting factor used to represent reduced transmission from asymptomatic individuals
+compared to symptomatic individuals; superscripts here denote 5-year age bands.
+The exposed class was further subdivided into three separate states,
+E 1 , E 2 and E 3 , meaning
+that, in a stochastic formulation, the distribution of the latent
+period would become an Erlang distribution, creating more realistic infection
+time scales.

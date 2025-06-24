@@ -1,0 +1,27 @@
+The distribution of synonymous substitutions per synonymous site (Ks) for
+coding sequences over the intragenomic syntenic blocks in R. pubera
+had a large peak indicative of recent and successive whole-genome
+duplication (WGD) events. An additional small peak was also observed,
+indicating an ancient WGD ( Figure S3 B). By filtering
+out the sequences showing the lowest Ks values, we determined
+that Block1 from Rp Chr1 shows higher sequence identity to
+Rp Chr4, which we renamed Block1A1 and Block1A2, respectively. Similarly,
+Block1 from Rp Chr2 showed higher sequence identity to Rp
+Chr5, which were thus named Block1B1 and Block1B2, respectively (
+Figures S3 B and S3C). We confirmed the relationships of
+the four Block1 copies by comparative phylogenetic analysis ( Figure
+S3 D). A similar analysis of Block2 copies was inconclusive
+( Figures S3 C and S3E). Using k-mer analysis, which
+provides information on genome size, ploidy, and genome structure through
+scrutiny of heterozygous k-mer pairs ( Ranallo-Benavidez et al., 2020
+78. Ranallo-Benavidez, T.R. ∙ Jaron, K.S. ∙ Schatz, M.C. GenomeScope
+2.0 and Smudgeplot for reference-free profiling of polyploid genomes Nat.
+Commun. 2020; 11 :1432 Crossref Scopus (166) PubMed Google Scholar
+), we detected a higher incidence of homozygous and duplicated
+k-mers, favoring an autopolyploidy genome model for R. pubera (
+Figures S3 F and S3G). Importantly, this analysis accurately determined
+the diploid heterozygous state of R. breviuscula and R. tenuis
+( Figure S4 ). Thus, R. pubera has an auto-octoploid
+genome shaped by two rounds of genome doubling explaining its
+large genome size. Post-polyploid genome shuffling events considerably reduced the
+chromosome number to n = 5.

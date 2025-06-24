@@ -1,0 +1,16 @@
+In this study, we explore macaque mitogenomics across Wallace's Line
+using 162 previously published mitochondrial genomes and those of 60
+additional specimens. These new samples include two specimens collected by
+Alfred R. Wallace (one each from Lombok and Flores), three
+recovered during archaeological excavations at Liang Bua (Flores), all Sulawesi
+macaque species except M. ochreata , and novel geographic representation
+of M. nemestrina and M. fascicularis . Our aim is
+to resolve two long-standing questions about macaque evolution and dispersal:
+(1) when did M. fascicularis reach the Lesser Sunda Islands,
+and was this dispersal natural or mediated by modern human
+behavior? and (2) what are the phylogenetic relationships among mitochondrial
+genomes of M. nemestrina and Sulawesi macaques, and are they
+congruent with inferences from nuclear DNA? To accomplish these goals,
+we also test an important assumption of the phylogenetic methods
+that we deploy ( Posada and Crandall, 2002 ), namely,
+that recombination does not occur among these mitochondrial genomes.

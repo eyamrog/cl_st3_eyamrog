@@ -1,0 +1,9 @@
+We start by examining bivariate distributions of social support and
+health outcomes by migration status. Negative binomial regression is then
+used to model social support as a function of migration
+status while controlling for sociodemographic characteristics and survey mode. Exponentiated
+coefficient estimates for migration groups in these models are interpreted
+as multiplicative change in predicted counts of social contacts: that
+is, the ratio between the predicted count in the category
+of interest (first- or second-generation migrants) and in the reference
+category (nonmigrants).

@@ -1,0 +1,13 @@
+Crude response rates and safety reports from clinical trials suggest
+higher efficacy and toxicity associated with the use of axi-cel
+compared to tisa-cel . However, these conclusions might be misleading
+due to large differences between study designs: (1) patients with
+primary mediastinal B cell lymphoma (PMBCL) were enrolled in ZUMA-1
+but not in JULIET; (2) the doses of fludarabine and
+cyclophosphamide as conditioning regimen were higher in ZUMA-1; and (3)
+bridging chemotherapy to control for disease progression during the CAR
+T manufacturing process was allowed in JULIET but not in
+ZUMA-1 (refs. ). The latter introduced a major bias precluding
+any possible direct comparison between studies because patients with more
+aggressive lymphomas cannot usually be spared from bridging therapy between
+leukapheresis and lymphodepletion.

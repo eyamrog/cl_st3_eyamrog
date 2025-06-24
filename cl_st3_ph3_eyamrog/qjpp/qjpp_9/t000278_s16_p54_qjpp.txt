@@ -1,0 +1,18 @@
+Properties (e) (“two categories of SVCs can be distinguished: asymmetrical
+and symmetrical”) and (f) (“there exists a hierarchy of serializability
+of verbs”) can be considered together. Symmetrical SVCs “consist of
+two or more verbs each chosen from a semantically and
+grammatically unrestricted class” ( Aikhenvald 2006 :3). Asymmetrical SVCs, by
+contrast, consist of “one verb from a relatively large, open,
+or unrestricted class, and another from a semantically or grammatically
+restricted (or closed) class” ( Aikhenvald 2006 :21). The verb
+from a closed class “provides a modificational specification: it is
+often a motion or posture verb expressing direction, or imparting
+a tense-aspect meaning to the whole construction” ( Aikhenvald 2006
+:21). In agreement with the hierarchy of serializability shown in
+(f), asymmetrical deictic SVCs, as in the Cantonese example quoted
+as (51), are the most frequent and widespread cross-linguistically (
+Aikhenvald 2006 :22, 48); in non-serializing languages or languages with
+limited serialization, serialization with deictic verbs of motion is the
+only type allowed ( Foley & Olson 1985 :48; Aikhenvald
+2006 :48).

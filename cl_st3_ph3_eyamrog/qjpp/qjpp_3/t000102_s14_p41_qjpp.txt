@@ -1,0 +1,13 @@
+16-bit images recorded at the spinning disc microscope were exported
+in Volocity to the OME-TIFF format and background subtracted in
+ImageJ by the average signal intensity in an empty area
++ the SD of the signal therein. Subsequently, the ImageJ
+function “Histogram” was used to determine the brightest pixel. The
+range of displayed intensities was adjusted in “Brightness & Contrast”
+by manually entering the intensity value of the brightest pixel
+as the upper limit and zero as the lowest limit.
+After converting the images to 8-bit and merging them in
+the RGB space, representative nuclei and regions of interest were
+assembled to figures in Photoshop. In order to avoid artifacts,
+the “nearest neighbor” algorithm was chosen to enlarge regions of
+interest.

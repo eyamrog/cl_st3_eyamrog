@@ -1,0 +1,10 @@
+Samples capturing both sexes, but not reporting data separately, were
+either assigned to the majority sex (≥90% of total) or
+considered as mixed (<90% of total), as per previous work.
+We created a dummy variable for samples with small (n≤200)
+and large (n>200) sample sizes. To account for differences in
+poorly resourced prison environments and in the access to treatment
+resources, we categorised the countries of data collection into high-income
+and low-income or middle-income countries on the basis of gross
+national income per capita at the time of data collection
+using World Bank Atlas methodology .

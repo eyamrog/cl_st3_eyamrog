@@ -1,0 +1,24 @@
+Raw sequencing reads were trimmed by Cutadapt ( Martin, 2011
+61. Martin, M. Cutadapt removes adapter sequences from high-throughput sequencing
+reads EMBnet.journal. 2011; 17 :10-12 Crossref Google Scholar ) to
+remove low-quality nucleotides (with quality score less than 30) and
+adapters. Trimmed ChIPed 150-bp single-end reads were mapped to the
+respective reference genome with bowtie2 ( Langmead and Salzberg, 2012
+49. Langmead, B. ∙ Salzberg, S.L. Fast gapped-read alignment with
+Bowtie 2 Nat. Methods. 2012; 9 :357-359 Crossref Scopus (24558)
+PubMed Google Scholar ) with default parameters, where all read
+duplicates were removed and only the single best matching read
+was kept on the final alignment BAM file. BAM files
+were converted into BIGWIG coverage tracks using the bamCompare tool
+from deeptools ( Ramírez et al., 2016 77. Ramírez, F.
+∙ Ryan, D.P. ∙ Grüning, B. ... deepTools2: a next
+generation web server for deep-sequencing data analysis Nucleic Acids Res.
+2016; 44 :W160-W165 Crossref Scopus (1768) PubMed Google Scholar ).
+The coverage was calculated as the number of reads per
+50-bp bin and normalized by reads per kilobase per million
+mapped reads (RPKM). Plots of detailed chromosome regions showing multiple
+tracks presented in Figures 4 and 6 were done with
+pyGenomeTracks ( Lopez-Delisle et al., 2021 52. Lopez-Delisle, L. ∙
+Rabbani, L. ∙ Wolff, J. ... pyGenomeTracks: reproducible plots for
+multivariate genomic datasets Bioinformatics. 2021; 37 :422-423 Crossref Scopus (49)
+PubMed Google Scholar ).

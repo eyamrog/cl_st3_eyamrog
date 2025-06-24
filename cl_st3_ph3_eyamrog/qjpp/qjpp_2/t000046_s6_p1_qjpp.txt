@@ -1,0 +1,20 @@
+All of the modelled scenarios achieved changes in their target
+foods and nutrients. Substitution effects that were potentially deleterious to
+health were not severe, as manifested by net improvements in
+disease incidence and HALYs gained across all scenarios. Most of
+the health impact of the tax policies was through changes
+in BMI; energy intake changes are more important than substitution
+effects between foods and therefore nutrient-specific effects (eg, polyunsaturated vs
+saturated fats). Marked changes in diabetes incidence rates occurred for
+all food tax scenarios. The tax on sugar (across all
+foods, not just sugary drinks) produced the greatest health gain,
+increasing the HALYs over the remaining lifespan of the population
+by 1·91% compared with BAU, or 581 HALYs per 1000
+people (95% UI 429–792). The saturated fat and salt taxes
+each achieved about two-thirds of this gain, and the fruit
+and vegetable subsidy nearly 40%. An 8% junk food tax
+replicating that which was implemented in Mexico achieved the least
+gain, at 127 HALYs per 1000 people (96–167), although this
+was proportionate to the policy only causing a 0·9% increase
+in food prices compared with the 3·4% increase of the
+other nutrient taxes.

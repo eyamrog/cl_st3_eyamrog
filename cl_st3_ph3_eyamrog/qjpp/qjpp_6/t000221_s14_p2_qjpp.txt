@@ -1,0 +1,14 @@
+The procedures used for marker data collection and 3-D joint
+kinematic measurements in humans and chimpanzees have been detailed in
+O'Neill et al. (2015) . In brief, marker positions were
+recorded using synchronized high-speed video cameras . Marker data for
+the humans were collected using an eleven-camera system recording at
+240 Hz (Qualisys, Inc.; Gothenburg), whereas chimpanzee data were collected
+using a four-camera system recording at 150 Hz (Xcitex, Inc.,
+Woburn). The calibrated video recording volume for the humans was
+created using a wand-based nonlinear transformation approach, whereas the recording
+volume for the chimpanzees was established using direct linear transformation
+and a custom-built calibration frame. Marker locations were digitized using
+Qualisys Track Manager software v. 2.7 (Qualisys, Inc.; Gothenburg) for
+the humans and ProAnalyst software v. 1.0 (Xcitex, Inc., Woburn)
+for the chimpanzees.

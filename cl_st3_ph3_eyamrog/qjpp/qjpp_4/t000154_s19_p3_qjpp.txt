@@ -1,0 +1,4 @@
+All sex differences below are reported as the coefficient for
+males, relative to females. Plots of analyses are presented in
+the main results section while descriptive data and regression outputs
+are tabulated in the Supporting Information.

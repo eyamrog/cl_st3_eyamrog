@@ -1,0 +1,19 @@
+Table 7 shows the results of the econometric estimation. The
+findings revealed that the average number of times hands are
+washed per day was positively and significantly associated with the
+attitude score, as depicted in column (1). The results indicated
+that having a favorable attitude to the pandemic increased the
+hand-washing count per day by almost 20 percent. The results
+also showed that the knowledge score and impact perception score
+were positively associated with the total number of preventive practices
+employed, both significant at a 1 percent level (column 2).
+Better knowledge and a favorable risk/impact perception in relation to
+the virus increased the sum of preventive practices employed by
+almost 10 percent. With regard to avoiding shaking hands, the
+knowledge score and impact perception score were found to stand
+out as significantly and positively associated, as shown by logit
+model results of column (3). The knowledge score, impact perception
+score, and attitude score were found to be significantly and
+positively correlated with the preventive measure of avoiding large gatherings/busy
+queues, significant at a 1 percent level, as shown in
+logit model results of column (4).

@@ -1,0 +1,11 @@
+After executing the above code, a plot (construction.ctree) was used
+to obtain the model’s statistical results. As shown in Figure
+1 , the model reflects the variables that have significant
+effects on the omn / imn alternation. These include: RCLength,
+HeadNPLength, HeadNPMatRole, and HeadNPRelRole. According to the conditional inference trees’
+results, the overall model has a good discriminatory power with
+a C-statistic of 0.74. Through the confusion matrix, the model
+classification accuracy was 81.4 percent. This is better than the
+baseline accuracy of 80.4 percent. Therefore, the conditional inference trees
+model can correctly classify 81.4 percent of the dataset’s omn
+/ imn alternations according to the variables’ characteristics.

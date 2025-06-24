@@ -1,0 +1,21 @@
+Our first analysis involved exploratory examination of the relationship between
+average step counts over an individual’s entire monitoring period and
+incident disease across all 1,711 phecodes. Figure 1a , b
+shows these data in a logistic regression model adjusted for
+age, sex and race set to an effect size (odds
+ratio (OR)) per 1,000 step increase. ORs <1 indicate that
+higher step counts were associated with lower risk of each
+condition. Incident chronic conditions with the largest effect sizes that
+met the adjusted statistical significance threshold across the human phenome
+after a minimum of 6 months of monitoring were obstructive
+sleep apnea ( n / N = 342/5,518, OR (95%
+confidence intervals (CI)) = 0.88 (0.84, 0.92)), obesity ( n
+/ N = 380/5,267, OR (95% CI) = 0.89 (0.86,
+0.93)), type 2 diabetes with neurological manifestations ( n /
+N = 37/5,976, OR (95% CI) = 0.69 (0.60, 0.79)),
+hypertension ( n / N = 498/4,897, OR (95% CI)
+= 0.92 (0.89, 0.95)), gastroesophageal reflux disease (GERD) ( n
+/ N = 451/5,091, OR (95% CI)= 0.92 (0.89, 0.95))
+and major depressive disorder (MDD) ( n / N =
+483/5,370, OR (95% CI) = 0.92 (0.89, 0.95)) (Fig. 1
+and Supplementary Table 2 ).

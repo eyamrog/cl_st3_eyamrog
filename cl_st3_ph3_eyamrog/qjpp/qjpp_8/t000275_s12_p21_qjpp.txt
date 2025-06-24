@@ -1,0 +1,14 @@
+The feature of matching based on a variable or unit
+of analysis during the query is essential for the various
+keyword analyses based on variables mentioned above. After the query,
+the feature of grouping can further show the distribution of
+word(s) across another variable, thus facilitating examination of the word(s)
+based on multiple variables. The tool does not require researchers
+to save comments separately based on different levels of a
+variable to make subcorpora for comparison, thus reducing the tedious
+menial tasks while encouraging exploration of data. However, the CWB
+does not offer statistical analysis such as log-likelihood ratio test
+for keyword analysis and mutual information for collocation analysis, as
+provided by other corpus tools. Therefore, the output of the
+frequency counts will have to be subjected to other programs,
+such as R for statistical analysis.

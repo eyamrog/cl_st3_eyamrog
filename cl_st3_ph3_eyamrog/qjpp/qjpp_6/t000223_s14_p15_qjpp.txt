@@ -1,0 +1,4 @@
+The cosmic-ray dose rates were estimated from the equations provided
+by Prescott and Hutton (1994) , taking into account the
+burial depth of each sample, the sediment density, and the
+configuration and location of the site (shielding, altitude, latitude).

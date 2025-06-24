@@ -1,0 +1,21 @@
+The resulting PANDA challenge was, to the best of our
+knowledge, the largest competition in pathology organized to date, in
+terms of both the number of participants and the size
+of the datasets, and the first study to analyze a
+variety of AI algorithms for computational pathology on this scale
+. The datasets included variability in biopsy sampling procedure, specimen
+preparation process and whole-slide scanning equipment, and had different and
+multinational sets of pathologists contributing to the reference standard of
+the validation sets. Our main finding was that AI algorithms
+obtained from a competition setup could successfully detect and grade
+tumors, reaching pathologist-level concordance with expert reference standards. We further
+compared the algorithms with previously published results (Supplementary Table 5
+and Extended Data Fig. 7 ) . The algorithms outperformed
+earlier works on subsets of the EU validation sets. On
+the US external validation set, the algorithms reached similar performance
+without any fine-tuning, demonstrating a successful generalization to an unseen
+independent validation set and beyond any current state of the
+art. Last, groups of international and US pathologists also reviewed
+subsets of the internal and external validation datasets. The algorithms
+had a concordance with the reference standard that was similar
+to or higher than that of these pathologists.

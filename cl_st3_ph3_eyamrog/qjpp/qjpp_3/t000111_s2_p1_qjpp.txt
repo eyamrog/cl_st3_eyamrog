@@ -1,0 +1,20 @@
+We would like to thank Zhang Laboratory members Dr. Lin
+Tian and Dr. Reza Kalhor for insightful discussion. Thanks also
+go to Epizyme (Cambridge, MA) for providing the EZH2 inhibitor
+EPZ-011989. We also acknowledge the Pathology Core of Lester and
+Sue Smith Breast Center, the Optical Imaging & Vital Microscopy
+(OiVM) core, the Genomic and RNA profiling core at Baylor
+College of Medicine, and Small Animal Imaging Facility (SAIF) core
+at Texas Children Hospital. X.H.-F.Z. is supported by US Department
+of Defense (DAMD W81XWH-16-1-0073 and DAMD W81XWH-20-1-0375), NCI (CA183878, CA227904,
+CA221946, and CA251950), the Breast Cancer Research Foundation, and McNair
+Foundation. S.S. is a recipient of CPRIT Training Grant (RP160283).
+S.T.C.W. and Jiasong Li are supported in part by NCI
+(U01CA252553), the John S. Dunn Research Foundation, and T.T. and
+W.F. Chao Center for BRAIN. C.C. is supported by the
+CPRIT Scholar Award (RR160009). This project was supported by the
+RNA In Situ Hybridization Core with a Shared Instrumentation grant
+from the NIH (1S10OD016167), the Cytometry and Cell Sorting Core
+with funding from the CPRIT Core Facility Support Award (CPRIT-RP180672),
+and the expert assistance of Dr. Cecilia Ljungberg and Joel
+M. Sederstrom at Baylor College of Medicine.

@@ -1,0 +1,20 @@
+In preparing the two corpora we found ( Carusi, 2008
+, Carusi and Jirotka, 2009 ) distinction between ‘thin’ and
+‘thick’ identity helpful: whereas the former refers to proper names
+or other details which may identify a particular individual (mapping
+on to ‘personal data’), the latter covers the ‘narratives that
+people use to make sense of their lives and circumstances’
+(p.41) and aligns with our definition of sensitive data. Key
+questions were: would a corpus user identify anyone from the
+remaining information? E.g. would it be possible to cross check
+date and reason for hospital admission against another dataset? Would
+details appear in an online search covering open access articles
+quoting the extract? A fundamental concern for us as researchers
+was that the research should not have a negative impact
+on any individual's life, that is, to act with integrity
+as ‘virtuous researchers’ (e.g. Iphofen et al., 2017 ). We
+could envisage hypothetical situations where, for example, a care-leaver accessed
+the archive and was disturbed to recognise an account of
+a critical period of their life, or perhaps a researcher
+recognised a case history of someone they knew (cf. Tilley
+and Woodthorpe, 2011 ).

@@ -1,0 +1,12 @@
+Western blot analysis of brainstem tissue from a treated and
+an untreated ALS-FUS patient compared to normal control tissue (Fig.
+5c and Extended Data Fig. 7b ) showed a considerable
+reduction of both total and P525L mutant FUS protein to
+nearly undetectable levels, showing that, as in the mouse, ION363
+can effectively silence FUS in humans. In addition, as we
+observed in the MN-P517L/Δ14 mutant mice, this ION363-induced downregulation of
+FUS also resulted in a decrease in the levels of
+sarkosyl-insoluble FUS and other RBPs, including TDP43, hnRNP A1, hnRNP
+U and UPF1 (Fig. 5d ), but no change in
+the total protein levels of these RBPs, suggesting their redistribution
+toward a more soluble state (Extended Data Fig. 7c ).

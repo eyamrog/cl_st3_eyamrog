@@ -1,0 +1,6 @@
+For the simultaneous optogenetic stimulation and photometry experiments, the mice
+received photostimulation in the NTS in the window between CS
+onset and US onset (3 s duration) in 33% of
+randomly selected trials, while we recorded DA2m fluorescence signals in
+NAc core using fiber photometry. The photostimulation parameters were 20-Hz
+pulse frequency, 10-ms pulse width, 5-mW power, 473-nm wavelength.

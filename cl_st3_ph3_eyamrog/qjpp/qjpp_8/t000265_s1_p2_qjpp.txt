@@ -1,0 +1,8 @@
+Methods: We use individual administrative records for 1,541,210 individuals between
+17 and 19 years of age, living in the Netherlands.
+We implement a difference-in-discontinuity design that exploits an increase in
+the deductible of about 180 euros, between 2009 and 2014,
+and the deductible exemption for those below 18 years old.
+Finally, we study subgroup effects by household income, level of
+mental health care expenditure and medication use for mental disorders
+.

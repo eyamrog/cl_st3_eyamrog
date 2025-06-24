@@ -1,0 +1,14 @@
+RWE studies are of utmost importance to assess if trial
+conclusions are reproducible in routine practice and if they can
+be applied to a more diverse patient population than the
+one strictly limited to pivotal trial enrollment criteria. Furthermore, RWE
+studies provide a critical basis from which to conduct cross-comparison
+analyses based on IPD. PSM and IPTW are increasingly used
+to address confounding by indication in RWE studies. The objectives
+of these statistical approaches are to balance out differences between
+patient groups that can be substantial and that preclude drawing
+firm conclusions when comparing outcome measurements. Subtle differences exist between
+the two methods that have been extensively reviewed elsewhere .
+In the present study, both techniques similarly concluded that axi-cel
+provides better disease control than tisa-cel in R/R DLBCL after
+two lines of previous therapy.

@@ -1,0 +1,8 @@
+Most of the studies in this category were cross-sectional in
+design, using regression models with varying degrees of sophistication in
+the methods. However, most did not account for the endogeneity
+risk; thus, confounding by health status and other factors is
+likely. A small proportion, just over 12% ( 24 ,
+64 , 70 , 92 ), used longitudinal data primarily
+to measure outcomes over a longer time period, not to
+address additional confounding.

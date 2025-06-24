@@ -1,0 +1,15 @@
+The aim of the present paper is twofold: namely, to
+investigate the degree to which different N-is focalizers have developed
+towards DMs, and to investigate potential patterns of regional variation
+in this ongoing process. It uses corpus evidence from a
+large online corpus of English newspapers and probabilistic modeling (
+section 3 ) to study variation in degree of syntactic
+integration for six shell nouns across eleven varieties of English.
+Section 4 presents the results of the probabilistic modeling. Beyond
+the statistically significant distributions, the corpus data provide intriguing evidence
+of low-frequency patterns that are suggestive of regional differences in
+constructionalization, explored in section 5 . The discussion ( section
+6 ) focuses, for the most part, on the question
+of variation across WEs, particularly the lack of clear patterns
+with respect to either region or variety type (e.g., by
+first or institutionalized second-language).

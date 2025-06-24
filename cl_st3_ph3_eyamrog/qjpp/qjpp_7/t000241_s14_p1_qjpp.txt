@@ -1,0 +1,17 @@
+In this study, the GMM strategy based on Roodman (
+2009a , 2009b ), which is an extension of the
+Arellano and Bover (1995) , has been used to examine
+the relationship between tourism, governance, and income inequality in the
+studied countries. As reported in previous studies, the GMM technique
+has numerous advantages (see Odhiambo 2020 ; Tchamyou 2019 ).
+The GMM approach limits the proliferation of instruments, thereby leading
+to robust estimates (see Asongu and Odhiambo 2020 ). Moreover,
+as reported in the attendant literature, the GMM approach is
+suitable when the number of cross-sections is significantly higher than
+the time periods (see also Asongu and Odhiambo 2020 ;
+Odhiambo 2020 ). In this study, the number of cross-sections
+is 31, 2 while the number of time periods is
+10, which makes the GMM approach the most suitable estimation
+technique. Following Odhiambo (2020) and Tchamyou et al. (2019) ,
+the GMM model used in the current study can be
+parameterized as follows:

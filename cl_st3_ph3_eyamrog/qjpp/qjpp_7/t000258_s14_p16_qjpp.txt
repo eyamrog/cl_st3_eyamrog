@@ -1,0 +1,13 @@
+We included gender, age, education level , marital status, employment
+status and welfare level as covariates for all estimated models.
+To check for robustness, we calculated the structural equation model
+introducing some different stratifications of the model according to different
+age groups (18–40 years old, 41–60 years old and above
+60), education levels (lower than secondary, secondary schooling and higher),
+welfare levels (poorest 20%, middle 60% and richest 20%) and
+for alternative specification of the mediator stigma (mild below 2,
+moderate 2 to 3 and severe above 3) and of
+the outcomes level of depression (not depressed score below 10
+and depressed score above 10) and self-esteem (low score 10–20,
+moderate 21–30 and high self-esteem 31–40). Our results were not
+altered.

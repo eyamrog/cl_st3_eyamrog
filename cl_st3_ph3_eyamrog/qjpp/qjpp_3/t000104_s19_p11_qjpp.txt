@@ -1,0 +1,12 @@
+To assess whether this epigenetic regulatory pathway could potentially be
+targeted for cancer treatment, we focused on SUV39H1 and its
+chemical inhibitor F5446 ( Lu et al., 2019 41. Lu,
+C. ∙ Yang, D. ∙ Klement, J.D. ... SUV39H1 Represses
+the Expression of Cytotoxic T-Lymphocyte Effector Genes to Promote Colon
+Tumor Immune Evasion Cancer Immunol. Res. 2019; 7 :414-427 Crossref
+Scopus (41) PubMed Google Scholar ). F5446 treatment reduced chromatin-associated
+H3K9me3 ( Figure S5 E) and activated the expression of
+various REs and IFN signaling in cancer cells ( Figures
+S5 F and S5G), similar to SUV39H1 KD ( Figure
+S4 B). F5446 treatment also reduced the survival of cancer
+cell lines and patient-derived glioblastoma cultures ( Figure 5 G).

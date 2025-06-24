@@ -1,0 +1,21 @@
+The long-term impacts of SARS-CoV-2 infection are tied to one
+of the four ways COVID-19 manifests as defined by the
+first reports of the illness: asymptomatic, mild (i.e., uncomplicated upper
+respiratory infection), mild pneumonia (adult pneumonia that does not require
+supplemental oxygen, though pediatric cases may need supplemental oxygen), and
+severe pneumonia (i.e., severe respiratory distress, sepsis) ( Guan et
+al. 2020 , Zhou et al. 2020 ) ( Figure
+3 ). In all cases, recovery can be steep. COVID-19
+that progresses to severity (i.e., sepsis) deeply injures the host.
+Most patients who recover from sepsis and severe COVID-19 suffer
+a cluster of injuries and dysfunctions known as postsepsis syndrome,
+including persistent fatigue, lung fibrosis, kidney damage, executive function difficulties,
+immunosuppression, and muscle wasting, such that dressing and basic routines
+are challenging ( Annane & Sharshar 2015 , Puchner et
+al. 2021 , Taquet et al. 2021 ). Older adults
+are not the only ones who struggle to recover. The
+5% of infected children who progress to severity face similar
+problems if they survive, including recovery from organ damage, muscle
+demyelination, brain swelling, and vascular injury ( Cheung et al.
+2020 , Feldstein et al. 2020 , Gulko et al.
+2020 , Sandoval et al. 2021 ).

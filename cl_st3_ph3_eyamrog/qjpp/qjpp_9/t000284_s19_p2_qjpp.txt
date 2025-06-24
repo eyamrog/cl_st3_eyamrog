@@ -1,0 +1,23 @@
+In the Supplemental Materials (posted online), we include model summaries
+for all models, as well as the output of all
+model comparisons. The full models’ output shows, in almost all
+cases, that F1 terms are not significantly different with respect
+to the reference level (F1 of boot , put ,
+boat , or lot from a woman of the G.I.
+Generation), while F2 terms are. Coefficient values are much higher
+for F2 than for F1, which is expected given the
+large differences between those formants’ typical Bark values. Since GAMMs
+can incorporate complex interaction terms and nonlinear effects, the results
+are best summarized as a visualization in the F1-F2 vowel
+space. Figure 4 provides such a visualization and illustrates several
+important findings uncovered by these GAMMs. Each panel of the
+figure represents speakers from one gender, and each arrow-tipped curve
+shows the predicted trajectory of one allophone as spoken by
+a particular generation. The arrow represents predicted formant measurements at
+80 percent of vowel duration, while the unadorned end of
+each line corresponds to 20 percent. By visually comparing trajectories
+of an individual allophone across generations, we see how its
+shape and position changed across time. Open in Viewer Figure
+4 . Predicted Formant Trajectories of Elsewhere Allophones, Based on
+GAMM Analysis of Back Vowels Spoken by European Americans in
+DASS

@@ -1,0 +1,12 @@
+Data for this study come from a demographically representative survey
+( N = 990) of US adults conducted on August
+24–25, 2020. Respondents were recruited via Lucid Theorem's online opt-in
+sampling service, which uses quota sampling to ensure representativeness on
+nationally representative benchmarks for respondents' age, gender, race, educational attainment,
+household income, four-category Census region, and political party (see: Callaghan
+et al., 2019 for an example of U.S. vaccine hesitancy
+research using this platform). Data from Lucid have been shown
+to closely mirror known demographic benchmarks, and replicate well-studied experimental
+findings ( Coppock and McClellan 2019 ). Please refer to
+Supplemental Table S1 for a comparison of data from this
+study to nationally representative demographic benchmarks.

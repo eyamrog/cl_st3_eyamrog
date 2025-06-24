@@ -1,0 +1,23 @@
+Lexical bundles refer to recurrent word combinations in written or
+spoken discourse, regardless of their structural and semantic unity (e.g.,
+it is important to, one of the, if you look
+at ) ( Biber et al. 1999 ). Many of
+them can be regarded as formulaic either in the sense
+of grammatical irregularity and/or semantic opacity (e.g., suffice it to
+say, shed light on) or simply because they are the
+normal ways of saying things in a given situation -
+judged by frequency of occurrence (e.g., is found to, it
+is possible that ) ( Wray 2008 ). The fact
+that they can be identified automatically in large samples of
+language and often have definable functions makes them particularly promising
+in studying formulaicity of texts ( Durrant 2017 : 166).
+By formulaicity, it means that language is replete with word
+strings that habitually appear together which seem to be treated
+as unanalysed entities ( Sinclair 1991 ). From a psycholinguistic
+point of view, retrieving such ready-made word strings, or chunks,
+whole from memory at the time of use, rather than
+generating novel expressions each time, help reduce processing and storage
+demands ( Miller 2011 ). At the same time, the
+prevalence of chunks in language can be accounted for by
+human beings’ desire to sound like others in a given
+community ( Wray 2002 , 2008).

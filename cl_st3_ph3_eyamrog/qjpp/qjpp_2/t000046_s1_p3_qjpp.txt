@@ -1,0 +1,9 @@
+Findings: Health gains (expressed in HALYs per 1000 people) ranged
+from 127 (95% uncertainty interval 96–167; undiscounted) for the 8%
+junk food tax and 212 (102–297) for the fruit and
+vegetable subsidy, up to 361 (275–474) for the saturated fat
+tax, 375 (272–508) for the salt tax, and 581 (429–792)
+for the sugar tax. Health expenditure savings across the remaining
+lifespan per capita (at a 3% discount rate) ranged from
+US$492 (334–694) for the junk food tax to $2164 (1472–3122)
+for the sugar tax.

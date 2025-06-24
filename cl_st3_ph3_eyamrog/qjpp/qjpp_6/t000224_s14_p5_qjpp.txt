@@ -1,0 +1,10 @@
+The Oscillayers outputs for each 10 kyr interval were derived
+from interpolated anomalies between the bioclim layers of the present
+and the Last Glacial Maximum (LGM), scaled relative to the
+Plio-Pleistocene global mean temperature curve ( Gamisch, 2019 ). The
+temperature curve was based on benthic stable oxygen isotope ratios
+( Hansen et al., 2013 ). The Oscillayers data set,
+therefore, offers a continuous rather than point-specific perspective on paleoclimatic
+variability in western Europe across MIS 13–11, although the underlying
+spatial patterns of each modeled period are driven by the
+scaled differences between the LGM and the present.

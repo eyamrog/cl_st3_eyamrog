@@ -1,0 +1,13 @@
+Reliable DiD estimation was possible because decisions about lockdown differed
+between states. The crucial modelling assumption was that individuals' mental
+health developed in the same way in treated and control
+states before lockdown and would have continued on similar trajectories
+in the absence of the lockdown. The attribution of the
+treatment effect to lockdown, rather than broader COVID-19 health effects,
+relied on the assumption that Victoria's lockdown came into effect
+before community transmission exposed Victorians to SARS-CoV-2 and related health
+problems. These assumptions were tested first by examining state differences
+in mental health trends before 2020, and second by examining
+differences in participants' reports of having received a COVID-19 diagnosis
+or reports of concern about their likelihood of serious COVID-19
+illness if infected.

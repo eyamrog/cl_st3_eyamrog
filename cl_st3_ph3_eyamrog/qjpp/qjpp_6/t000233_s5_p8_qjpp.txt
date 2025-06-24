@@ -1,0 +1,13 @@
+An example involves our pursuit of replication, and specifically, identifying
+our sampling frame as employed persons ages 25 to 64.
+This meant excluding workers over the age of 65 under
+the assumption they would be retired, despite Standing’s (2011) point
+that the youngest and oldest workers are most subject to
+precarious labor. Another practice we imported was the use of
+employed/unemployed as a binary, even though some persons who identify
+as unemployed still work in the informal sector; this practice
+simplifies rather complex labor market mechanisms. Thus, despite us individually
+wanting to help communities to the greatest extent possible, doing
+applied research in the academic context meant making methodological sacrifices
+like excluding older workers or adopting a binary understanding of
+employment.

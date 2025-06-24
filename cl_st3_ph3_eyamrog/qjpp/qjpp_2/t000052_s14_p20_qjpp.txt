@@ -1,0 +1,21 @@
+For the main intention-to-treat analysis, we estimated a marginal Poisson
+regression model via generalised estimating equations with an exchangeable correlation
+structure at the level of the unit of randomisation, using
+robust standard errors, and correcting for few clusters. The dependent
+variable was the number of household contacts who initiated tuberculosis
+preventive treatment per index patient with tuberculosis. When possible, we
+used an identity link and estimated the difference between the
+intervention and control arms in the change between evaluation and
+strengthening phases in intervention sites (in control sites the equivalent
+time period was considered as there were no defined study
+phases), in the number of household contacts starting tuberculosis preventive
+treatment per index patient (ie, a rate difference). Otherwise, we
+used a log link and included the log of the
+number of patients with tuberculosis as an offset, with other
+details listed here, and estimated rate differences. In prespecified secondary
+analyses, we assessed LMIC and Canadian sites separately and also
+investigated potential mechanisms of action of the intervention. Finally, we
+assessed the effect of the intervention separately in countries that
+treated household contacts of all ages, or countries that only
+treated children younger than 5 years. All statistical analyses were
+done using SAS version 9.4.

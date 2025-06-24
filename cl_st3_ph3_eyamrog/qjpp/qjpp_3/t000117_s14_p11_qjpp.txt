@@ -1,0 +1,8 @@
+For the in vivo opto-photometry experiment, Fezf2-CreER mice were injected
+with ∼0.3 μl AAV5-Ef1a-DIO-hChR2(H134R)-eYFP into the aIC and ∼0.3 μl
+AAV9-hSyn-DA2m into the NAc core (coordinates: 1.3 mm anterior to
+Bregma, 0.8 mm lateral from midline, 3.8 mm ventral from
+cortical surface). Optical fibers for photoactivation were implanted in the
+NTS at coordinates described above. Optical fibers for fiber photometry
+were implanted 0.2 mm above the injection site in the
+NAc.

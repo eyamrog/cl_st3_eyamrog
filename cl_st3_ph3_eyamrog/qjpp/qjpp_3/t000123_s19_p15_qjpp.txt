@@ -1,0 +1,16 @@
+To further validate whether the amino acids affected by ILS
+have morphological impact, we synthesized a modified gray short-tailed opossum
+PAPSS2 cDNA by replacing 4-aa sites affected by Dipr_Micr ILS
+with genotypes shared by monito del monte and tammar wallaby
+and then generated a mutant mice line with this modified
+cDNA ( Papss2 Mono-Micr/ Mono-Micr ) ( Figures S4 G
+and S4H). We observed that the tammar wallaby mutant line
+was significantly closer to the Papss2 Mono-Micr/ Mono-Micr mutant line
+than to the gray short-tailed opossum mutant line in CVA
+(paired t test, p value = 0.0029, Figure 5 E).
+Considering that the only difference between the Papss2 Mono-Micr/ Mono-Micr
+mutant line and the gray short-tailed opossum mutant line was
+the amino acid changes corresponding to the loci affected by
+Dipr_Micr ILS, this result confirms that introduction of these ILS
+amino acids results in humerus shapes similar to the inferred
+hemiplastic morphological differences in our sampled marsupials.

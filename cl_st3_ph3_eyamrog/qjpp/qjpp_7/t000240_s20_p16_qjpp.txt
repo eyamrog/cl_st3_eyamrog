@@ -1,0 +1,10 @@
+Further analysis of the above five factors using one-way analysis
+of variance (ANOVA; see Table A1 of the appendix )
+indicated that residence type was significantly associated with attitude and
+perception scores but not with knowledge score. The sex of
+the respondent was found to have a significant association (
+p < .05) with the knowledge and perception score. There
+was a significant mean difference according to the age and
+education of the respondents for both knowledge and attitude scores.
+The job category variable appeared to be significant across the
+three outcomes ( p < .001).

@@ -1,0 +1,19 @@
+Overall, the humans had smaller moments, work, and power at
+matched dimensional speed than at matched dimensionless speed. As such,
+the interspecific differences in dimensional positive mechanical work and power
+output were consistently larger, with the exception of the second
+double-support period positive work and power ( SOM Figs. S2–S8
+; SOM Tables S2–S5 ). In this case, the positive
+mechanical work and power output were more similar between species
+than at the relative-speed match ( SOM Fig S5 ).
+The human 3-D joint moments and powers had similar profiles
+at 1.08 ms −1 and 1.66 ms −1 . However,
+the magnitude of the interspecific difference in total mechanical work
+and power was much larger (H = 83.6% vs. C
+= 77.8%; SOM Fig. S7 ) than at matched dimensionless
+speeds, even without accounting for elastic power output. Indeed, the
+interspecific difference in total ‘muscle fiber’ work and power are
+larger still (H = 106.9% vs. C = 111.9%; SOM
+Fig S7 ). This reinforces the importance of careful, speed-controlled
+comparisons for testing the effects of musculoskeletal structure on locomotor
+capabilities.

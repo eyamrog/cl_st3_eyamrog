@@ -1,0 +1,5 @@
+The three types of variants—full, reduced, and coalesced—are used here
+to represent three stages in a gradual process of reduction,
+where coalesced variants are the most recent development relative to
+the others ( Krug 1998 ; Andersen 2001 ; Pichler
+2013 ).

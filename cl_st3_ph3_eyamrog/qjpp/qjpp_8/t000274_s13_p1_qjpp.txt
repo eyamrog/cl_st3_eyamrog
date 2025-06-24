@@ -1,0 +1,5 @@
+In this section we set out some conventional principles for
+building a corpus (2.1) before discussing the shortage of corpora
+comprising sensitive and hard-to-access texts (2.2). Using this framing we
+then describe the process of designing and building the WiSP
+corpus (2.3).

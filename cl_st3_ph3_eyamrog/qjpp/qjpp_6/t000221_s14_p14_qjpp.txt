@@ -1,0 +1,9 @@
+Owing to the small sample sizes for each species, omega-squared
+(ω 2 ) was also used to assess the effect
+size of the difference between chimpanzees and human comparisons outlined
+in hypotheses 1–3. Effect size descriptive thresholds were ω 2
+≤ 0.01 = ‘small,’ ω 2 ≤ 0.06 = ‘medium,’
+and ω 2 ≤ 0.14 = ‘large’ ( Field, 2013
+). Effect size calculations were implemented in R v. 4.0.2
+using the ‘effectsize’ package ( R Development Core Team, 2020
+).

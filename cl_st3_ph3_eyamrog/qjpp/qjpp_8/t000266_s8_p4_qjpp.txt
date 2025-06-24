@@ -1,0 +1,10 @@
+Utility tariffs for the WOOP are currently lacking, which clearly
+hampers its application in (economic) evaluations of health and social
+care services for older people ( Neumann et al., 2016
+). Therefore, the objective of this study is to estimate
+a Dutch WOOP utility tariff. The structure of this paper
+is as follows: the next paragraph specifies the methods, with
+an emphasis on the design of the choice experiment and
+the data collection; subsequently, the results are presented, including the
+WOOP utility tariff; finally, we discuss our findings and their
+implications.

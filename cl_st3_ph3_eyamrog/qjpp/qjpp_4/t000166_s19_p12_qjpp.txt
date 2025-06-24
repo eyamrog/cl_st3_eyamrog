@@ -1,0 +1,6 @@
+In particular, the following weights were observed: Floppy and Thumb
+= .589, Floppy and TPB = .547, Floppy and TPF
+= .368, Thumb and TPB = .522, Thumb and TPF
+= .510, TPB and TPF = .433. The centrality measures
+revealed Floppy to be the most central, although weakly, node
+of the network (see Table 6 ).

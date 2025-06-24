@@ -1,0 +1,16 @@
+In the external validation sets, the main algorithm error mode
+was overdiagnosing benign cases as ISUP GG 1. This is
+probably due to the data distribution shift between training data
+and external validation data , in combination with the study
+design of independent validation, where the teams did not have
+any access to the validation sets, potentially leading to suboptimal
+selection of operating thresholds based only on the tuning set.
+We observed this in the US external validation set (Fig.
+4 ), where the algorithms appear to be shifted toward
+higher sensitivity but lower specificity compared with the general pathologists.
+A potential solution to address the natural data distribution shift
+is to calibrate the models’ predictions using sampled data from
+the target sites. In addition, we showed high consistency between
+reference standards (Supplementary Table 9 ), adding additional proof that
+the performance drop was not caused by a difference in
+grading characteristics.

@@ -1,0 +1,11 @@
+Previous research on the link between hormones and handedness has
+produced mixed results. Here, I find evidence that neither adult
+serum testosterone nor estradiol are related to hand preference direction.
+In all cases, for both men and women, Bayesian 95%
+highest density intervals contained 0, and posterior medians indicated that
+any effects are likely very small if they exist at
+all. Some 95% HDIs were still moderately wide, (such as
+when testing the difference between mixed- and right-handers) which underscores
+the need for very large samples to obtain reliable effect
+estimates. Nonetheless, I failed to find associations despite a representative
+sample larger than all previous studies on the topic.

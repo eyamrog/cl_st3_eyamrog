@@ -1,0 +1,15 @@
+Exploration of concordance lines in Corpus 2 suggests that, while
+at face value a ‘neutral’ term, the decision to comment
+on a child, adult carer or adult service user being
+asleep is often a marked choice. While commenting on a
+young child sleeping is predominantly neutral or viewed positively as
+evidence of a strong, caring bond between adult and child,
+commenting on an adult sleeping is often evidence of inadequate
+care-giving or, for older adults, of deterioration in health. Corpus
+1 contains just four additional occurrences of asleep , all
+of which are classed as negative (14,15): 14) [SU1] fell
+asleep within lesson after lunch break and [PERSON1] question whether
+this was due to him smoking cannabis (Corpus 1, assessment
+report) 15) [CHILD] stated he started a paper round to
+get extra money for himself however [CHILD] would fall asleep
+at school. (Corpus 1, casenote)

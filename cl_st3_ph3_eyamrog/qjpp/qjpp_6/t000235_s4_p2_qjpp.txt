@@ -1,0 +1,23 @@
+Future studies should build on these results and attempt to
+investigate causal mechanisms. Testing why the theory of liking fails
+in this context seems like a highly relevant starting point.
+Given that previous findings were also rather mixed, it might
+be beneficial to modify or even abandon this theory, at
+least for practical advice since only little positive findings are
+available. Second, modeling the process of self-selection into treatment, based
+on interviewer characteristics, would be another highly desirable area of
+research to understand whether interviewer characteristics influence the chance for
+unit nonresponse. Another outcome to consider are patterns of missing
+data in future research to better understand which questions are
+considered especially sensitive and how this relates to matching. As
+shown in the limitations, current evidence is mixed and no
+clear answers are possible at the moment. Furthermore, it could
+be interesting to put a focus on country differences and
+analyze whether the patterns found are the same in all
+European countries or whether there are significant differences. It might
+be that macroinfluences, like economic prosperity, type of social welfare
+systems, degree of multiculturalism, or other psychosocial factors, impact how
+respondents and interviewers interact. These aspects seem central as matching
+between respondents and interviewers could be a relatively simple yet
+promising technique to improve data quality, which should be essential
+for any survey research.

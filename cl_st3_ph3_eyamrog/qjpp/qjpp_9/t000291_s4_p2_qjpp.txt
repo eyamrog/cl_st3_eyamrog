@@ -1,0 +1,17 @@
+In this paper, I undertook a large-scale analysis of the
+word woman */ nisāʾ * in contemporary English- and Arabic-language
+political discourses on the Internet. By combining discourse analysis with
+corpus linguistics methods, I used the quantitative strengths of the
+latter to address the weaknesses in the former. In spite
+of these efforts, the study has several limitations. The first
+involves using word sketches, which are best suited to the
+anlysis of large corpora ( Baker et al ., 2013a
+,b). In order to account for this shortcoming in the
+data, I have ensured that my results are not based
+on statistical measures alone. I have supplemented statistical analysis with
+extensive qualitative analysis. The second limitation is related to the
+size of the corpora. Token dispersion has affected the identification
+of salient word frequencies and collocations. However, problems of dispersion
+alone do not necessarily invalidate the quantitative and qualitative analyses
+I have carried out. These results should be taken, instead,
+as promoting further investigation into this important question.

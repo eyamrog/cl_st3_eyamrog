@@ -1,0 +1,11 @@
+We used AntConc ( Anthony 2008 ) to search for
+a character space followed by single or double quotes (avoiding
+possessive or contracted ‘s ) and checked to exclude quotations
+within form language. This method produced 634 hits in Corpus
+1 reports (244 files) and 510 hits in Corpus 2
+reports (227 files), indicating that usage is higher in Corpus
+1 to a statistically significant level (LL7.44,% DIFF 17.57). It
+is important to note that widespread use of direct quotes
+formed one consideration in the research team's decision to remove
+texts from Corpus 1 (3.4); this resulted in an additional
+17 assessment reports in Corpus 1.

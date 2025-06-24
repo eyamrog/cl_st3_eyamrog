@@ -1,0 +1,13 @@
+Looking more closely into the semantic features of the patterns,
+we found that the ‘emphatic’ just often derived its meaning
+from contexts that denoted a ‘stronger’ effect. In the pattern
+[‘emphatic’ just + adjective], adjectives used in this pattern tended
+to be greater in degree and intensity, such as high
+, little and perfect . While in another high-frequency pattern
+[‘emphatic’ just + verb (phrase)], the ‘emphatic’ just was commonly
+accompanied by negation. Instances of this are shown in Examples
+18 and 19. ( 18 ) [‘Emphatic’ just + adjective]
+The price was just too high for what they had
+in their paper. ( usarg ) ( 19 ) [‘Emphatic’
+just + negation + verb (phrase)] There are still many
+people who just can’t quit it. ( icnale )

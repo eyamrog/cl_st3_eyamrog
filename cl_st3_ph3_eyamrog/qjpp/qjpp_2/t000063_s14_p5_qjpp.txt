@@ -1,0 +1,11 @@
+Both current (up to 1 year) and lifetime prevalence were
+extracted, if available. Our primary outcomes were comorbid non-affective psychosis
+(International Classification of Diseases F20–29) with substance use disorders (alcohol
+use disorders [F10] and drug use disorders [F11–19, excluding F17]),
+and comorbid major depression (F32–33) with substance use disorders (alcohol
+use disorders and drug use disorders). If prevalence data on
+non-affective psychosis or major depression were not available, we extracted
+estimates based on all types of psychoses (F20–29, F31, F32.3,
+and F33.3) and on affective disorders (F30–39). As a post-hoc
+secondary outcome, we considered co-occurring axis I disorders (F20–59) and
+substance use disorders.

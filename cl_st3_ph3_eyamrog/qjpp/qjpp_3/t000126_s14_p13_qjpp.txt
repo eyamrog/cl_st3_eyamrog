@@ -1,0 +1,21 @@
+LBL reprogramming was performed as described by Kumar et al.
+(27375745). Briefly, 1x10 6 cells were nucleofected with four episomal
+reprogramming plasmids (pCE-hUL, pCE-hSK, pCE-hOCT3/4, and pCE-mp53DD) using the Amaxa®
+Human Monocyte Nucleofector® Kit (Lonza) according to the manufacturer’s protocol.
+After an 8-12 hours recovery period in complete media (RPMI1640-GlutaMAX™
+(Life Technologies) supplemented with 20% FBS (Sigma Aldrich) and 1%
+P/S (Wisent), the cells were transferred to Matrigel® (Corning) coated
+plates in TeSR™-E7™ (STEMCELL™ Technologies) reprogramming media. Cell were then
+cultivated for 13 to 15 days, and when hiPSC-like colonies
+started to appear, the growth media was changed to Stemflex
+(Gibco™). Colonies were tested for TRA-1-60 expression between days 20
+and 22, and four TRA-1-60 colonies were picked and expanded
+for each cell lines. Each hiPSC cell line was then
+further sub-cloned by sorting of single cells into single wells
+of Matrigel®-coated 96-well plates containing Stemflex media supplemented with 1X
+Revitacell (Gibco™) using a FACSAria Fusion (BD Biosciences) cell sorter.
+Media was changed every 3-4 days and the amount of
+Revitacell was reduced to 1/2X after 6 days. Each well
+was investigated for the emergence of colonies derived from single
+cells and 2 sub-clones of each cell line were selected,
+characterized, and expanded for further studies after 11-12 days.

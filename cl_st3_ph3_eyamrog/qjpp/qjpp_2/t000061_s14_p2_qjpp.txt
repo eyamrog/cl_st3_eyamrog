@@ -1,0 +1,13 @@
+The search strategy focused on four health outcomes hypothesised to
+be linked to exposure to early state care: total mortality,
+cardiovascular disease (including stroke and coronary heart disease), cancer (including
+specific malignancies), and suicide. We did a systematic search of
+the literature using the PubMed (MEDLINE) and Embase databases between
+their inception in 1966 and Jan 21, 2022. Without applying
+any restrictions, we used the terms “out-of-home care”, “out of
+home care”, “foster care”, “public care”, “looked-after-children”, and “looked after
+children” for the exposure; and “mortality”, “death”, “suicide”, “cardiovascular”, “stroke”,
+“heart disease”, and “cancer” for the outcomes. Additionally, we scrutinised
+the reference sections of retrieved publications for other reports. The
+literature search and article screening were independently done by GDB
+and PF. There were no substantial disagreements over inclusion.

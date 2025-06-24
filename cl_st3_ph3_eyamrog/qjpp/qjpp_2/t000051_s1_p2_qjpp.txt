@@ -1,0 +1,13 @@
+Methods: Million Women Study and UK Biobank participants without previous
+coronary heart disease or stroke who provided data in median
+year 2010 (IQR 2009–2011) on social contacts were included in
+this prospective analysis. Participants were followed up to median year
+2017 (2017–2017) by electronic linkage to national hospital and death
+records. Risk ratios (RRs) were calculated using Cox regression for
+first coronary heart disease and stroke event (overall, and separately
+for hospital admission as the first event and for death
+without an associated hospital admission as the first event) by
+three levels of social isolation (based on living alone, contact
+with family or friends, and group participation) adjusted for age,
+sex, study, region, deprivation, smoking, alcohol intake, body-mass index, physical
+activity, and self-rated health.

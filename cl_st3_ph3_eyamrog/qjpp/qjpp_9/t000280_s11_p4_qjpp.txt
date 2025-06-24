@@ -1,0 +1,12 @@
+In addition, Biber and Gray (2013) have argued that it
+is often necessary to look not only at registers but
+also at more specialized sub-registers to capture the parameters that
+determine variation in diachronic studies. Following this line of thinking,
+the present study incorporates into the research design different sub-registers
+of eighteenth century medical writing, which also reflect the increasing
+specialization of contemporaneous medical science and practice. Thus, the hypothesis
+empirically explored in this study is that since these individual
+sub-registers—operationalized as text categories in LMEMT, as described in section
+3—vary in their situational and contextual parameters, these differences are
+reflected in the frequencies and co-occurrence patterns and are thus
+observable in corpus data.

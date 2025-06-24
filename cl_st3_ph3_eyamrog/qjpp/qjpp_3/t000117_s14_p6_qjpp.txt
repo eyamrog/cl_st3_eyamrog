@@ -1,0 +1,14 @@
+The following adeno-associated viruses (AAVs) were produced by the University
+of North Carolina vector core facility (Chapel Hill, North Carolina,
+USA): AAV5-Ef1a-DIO-hChR2(H134R)-eYFP, AAV9-CAG-Flex-GFP. The AAV1-Syn-Flex-GCaMP6f-WPRE-SV40, AAV1-hSyn-SIO-stGtACR2-FusionRed and AAV-Ef1a-mCherry-IRES-Cre (retrograde) (
+Fenno et al., 2014 19. Fenno, L.E. ∙ Mattis, J.
+∙ Ramakrishnan, C. ... Targeting cells with single vectors using
+multiple-feature Boolean logic Nat. Methods. 2014; 11 :763-772 Crossref Scopus
+(366) PubMed Google Scholar ) were produced by Addgene (Watertown,
+MA, USA). The AAV1-hSyn-Cre-WPRE-hGh (anterograde trans -synaptic) was packaged by
+UPenn Vector Core (Philadelphia, PA, USA). The AAV9-hSyn-DA2m was packaged
+by Vigene Biosciences (Rockville, MD, USA). The following viruses, which
+are components of the rabies viral tracing system, were produced
+by HHMI Janelia Research Campus: AAV2/9-CAG-Flex-mKate-T2A-TVA, AAV2/9-CAG-Flex-mKate-T2A-N2c-G, Rbv-CVS-N2c-ΔG-GFP (the modified
+rabies virus). All viral vectors were aliquoted and stored at
+−80°C until use.

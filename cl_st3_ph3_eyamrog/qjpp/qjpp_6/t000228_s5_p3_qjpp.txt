@@ -1,0 +1,20 @@
+Origin and taphonomy of plant sedaDNA and pollen Pollen and
+sedaDNA records are differentially affected by source productivity and taphonomic
+processes of dispersal, transfer, and deposition ( Niemeyer et al.,
+2017 ; Alsos et al., 2018 ; Giguet-Covex et al.,
+2019 ), and both proxies signify different records. SedaDNA is
+generally considered of local origin ( Jørgensen et al., 2012
+; Alsos et al., 2018 ), whereas pollen (especially from
+wind-pollinated plants, such as many trees and grasses) may originate
+from a wide area as it is distributed regionally through
+the air ( Birks and Bjune, 2010 ; Parducci et
+al., 2018 ). Moreover, plant DNA in sediments can originate
+from most plant parts, but is unlikely to source from
+pollen due to the robustness of the pollen grain wall
+and the low amount of DNA it contains ( Parducci
+et al., 2017 ; Sjögren et al., 2017 ; Clarke
+et al., 2020 ). Furthermore, the primers used in this
+study are unsuitable for analyzing DNA in pollen grains as
+they target chloroplast DNA , which is especially low or
+absent in pollen ( Zhang et al., 2003 ; Ellis
+et al., 2008 ).

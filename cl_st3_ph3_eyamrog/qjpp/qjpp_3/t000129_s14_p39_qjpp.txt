@@ -1,0 +1,13 @@
+Raw reads from DamID-seq experiments were mapped to the mouse
+mm10 reference genome using the alignment tool BWA-MEM (v.0.7.12) (
+Li and Durbin, 2009 80. Li, H. ∙ Durbin, R.
+Fast and accurate short read alignment with Burrows-Wheeler transform Bioinformatics.
+2009; 25 :1754-1760 Crossref Scopus (25404) PubMed Google Scholar ).
+The counts of mapped reads overlapping a DpnII (GATC) restriction
+fragment side were normalized by reads per kilobase, divided by
+the length of the fragment, per million mapped reads (RPKM).
+Based on these normalized counts the log 2 fold change
+between the Dam–Lamin B1 transduced samples and the respective Dam-only-encoding
+samples was calculated. Finally, LADs were called within 20 kb
+bins using HMMt which quantifies DamID signal using a modified
+Baum-Welch algorithm with t emissions ( https://github.com/gui11aume/HMMt ).

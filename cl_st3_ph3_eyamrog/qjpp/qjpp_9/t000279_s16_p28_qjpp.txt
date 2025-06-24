@@ -1,0 +1,13 @@
+To supplement the monotonic, slightly curved, linear trend across time
+in Figure 5 (and the panels in the Appendix ),
+we indicate by gray point estimates in the time panes
+the curious non-linear pattern that emerges when breaking down our
+data into the five subperiods of our study, see Figure
+2 . The non-linearity for the full regression data, Figure
+5 , and downtoner little ( Appendix Figure A ),
+thus reflects the general pattern seen for downtoners in Figure
+2 as a dip in the third subperiod, whereas the
+dip is not in evidence for duratives ( Appendix Figure
+B ). When modelling the rates by year, our data
+nonetheless suggests an equally steady diachronic decrease for both downtoner
+and durative little .

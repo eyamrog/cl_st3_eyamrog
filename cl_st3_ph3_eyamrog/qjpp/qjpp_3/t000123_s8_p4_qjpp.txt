@@ -1,0 +1,9 @@
+Here, we present a draft genome of D. gliroides and
+detailed phylogenomic comparisons with five other marsupial species. Our analyses
+confirm that exceptionally high frequencies of ILS must have contributed
+to the controversy over the early geographic speciation among ancestral
+marsupials. After identifying a series of genes with strong signatures
+of ILS, we used transgenic techniques to demonstrate that ILS
+can induce morphological similarity across non-sister lineages. Our results underline
+the likely pervasiveness of ILS and the urgency of quantifying
+its general impact on phylogenetic reconstruction and trait evolution.

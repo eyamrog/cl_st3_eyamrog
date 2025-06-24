@@ -1,0 +1,6 @@
+We analyzed the sections using an Olympus BX51 microscope with
+polarized light and neutral density filters mounted with a Q-Imaging
+Micropublisher v. 3.3 RTV (Q-Imaging, Surry) and used Improvision Openlab
+v. 5.0.2 image analysis software (Improvision, Berkeley). We transferred micrographs
+to Adobe Photoshop CS5 to create high resolution montages, using
+these to mark accentuated lines.

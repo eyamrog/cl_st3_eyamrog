@@ -1,0 +1,24 @@
+Going forward, guideline organizations need to come together to reach
+consensus on recommendations for the use of HbA 1C and
+on standard definitions for prediabetes. Not everyone with prediabetes will
+develop diabetes; some 5-year risk estimates range from as low
+as 7% to as high as 50%. The variability in
+risk estimates is directly related to heterogeneity in definitions. In
+some settings, glucose testing may be preferred over HbA 1C
+for prediabetes screening, especially if HbA 1C testing is too
+costly or not available. Point-of-care assays for HbA 1C are
+not widely recommended for the diagnosis of diabetes because there
+are concerns regarding proficiency testing and some assays do not
+meet existing quality criteria. However, certain point-of-care assays are certified
+by the National Glycohemoglobin Standardization Program and demonstrate excellent comparability
+to traditional laboratory assays ( 60 ). Thus, rapid point-of-care
+tests may provide an opportunity for broader HbA 1C -based
+screening and identification of prediabetes and diabetes in some populations,
+especially in settings where obtaining traditional fasting venous samples might
+not be feasible. There is also compelling evidence for a
+role for glycated albumin and fructosamine as useful complementary or
+alternative tests when HbA 1C testing is problematic or when
+glucose and HbA 1C test results conflict ( 82 ,
+98 , 100 ). To date, however, no clinical organizations
+have provided guidance on how these tests might be used
+in practice.

@@ -1,0 +1,10 @@
+However, the most important trait for the purposes of this
+examination is the “Leader” variable in Equation 1 , a
+vector of specific heuristics—proxied by various personality attributes —which might
+determine how a particular political leader would act in a
+given situation. As the difficulties with quantifying the personality or
+decision rules of a large group of leaders are legion,
+I take a page from Hartwell (2013) and use the
+background of a leader as a way to classify the
+likelihood of use of a specific heuristic. This vector thus
+includes:

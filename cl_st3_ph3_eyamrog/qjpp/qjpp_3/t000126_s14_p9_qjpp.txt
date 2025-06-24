@@ -1,0 +1,12 @@
+Immortalized Cas9 overexpressing bone marrow-derived mouse macrophages were a kind
+gift from Dr. Kate Fitzgerald (University of Massachusetts Medical School).
+Mouse guide RNA sequences against SP140 were designed using Broad
+Institute’s sgRNA design algorithm ( https://portals.broadinstitute.org/gpp/public/analysis-tools/sgrna-design ). Guide 1 (TGTTGGGGAACATATGACAC)
+and Guide 2 (AAGGAAAAATTCAAACAAGG) sequences were cloned into lentiGuide-puro plasmid
+(Addgene, #52963), transformed in Stbl3 bacteria (Invitrogen, C7373-03), and subsequently
+purified with Qiagen Miniprep Kit. LentiGuide-Puro empty vector (control) or
+SP140 gRNA cloned plasmids were then co-transfected into HEK293T cells
+with the packaging plasmids pVSVg (AddGene 8454) and psPAX2 (AddGene
+12260) for generation of lentivirus particles. Cas9 immortalized macrophages were
+transduced with lentivirus particles and 48 hours later treated with
+puromycin. Single cell clones were subsequently picked and grown.

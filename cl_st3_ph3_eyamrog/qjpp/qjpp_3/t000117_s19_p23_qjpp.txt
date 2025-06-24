@@ -1,0 +1,19 @@
+To determine if aIC Fezf2 → NTS is only involved
+in licking, we trained mice to perform the RFR task
+described above ( Figure 2 O), and optogenetically activated their
+aIC Fezf2 → NTS during the anticipation window ( Figures
+3 M–3P). This manipulation markedly increased the velocity of anticipatory
+running and led to improved performance ( Figures 3 M
+and 3N). However, the same manipulation did not promote running
+before these mice were trained in the task ( Figure
+3 O); it also failed to promote anticipatory running after
+the same mice were fully trained but quenched ( Figure
+3 P). Laser illumination in the NTS had no effect
+on the GFP mice ( Figure 3 N). Thus, the
+results in the RFR and go/no-go tasks together demonstrate that
+aIC Fezf2 → NTS activity is capable of promoting different
+forms of volitional actions, on the condition that such actions
+have been learned and the outcome is homeostatically needed. In
+other words, aIC Fezf2 → NTS activity invigorates “need seeking,”
+but does not override homeostasis or automatically lead to action
+generation.

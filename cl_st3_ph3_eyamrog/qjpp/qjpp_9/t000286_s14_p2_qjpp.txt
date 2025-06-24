@@ -1,0 +1,18 @@
+I used the twitteR package ( Gentry 2015 ) for
+R ( R Core Team 2020 ) to sample tweets
+that contained a form of the word need . 5
+I sampled tweets daily between July 5 and September 4,
+2018 from twenty US cities, seventeen UK cities, and thirteen
+other cities in countries with large English-speaking populations. I use
+the label “world” as a shorthand for cities in the
+sample that are not in the United States or United
+Kingdom, rather than in the more thoughtful sense of scholarship
+of World Englishes (cf. works collected in Kachru, Kachru &
+Nelson 2006 ). Varieties included under this world label in
+the present study include, in the terminology of Kachru’s “Three
+Circles Model” (e.g., Kachru 1985 ), “Inner Circle” varieties of
+Canada, Ireland, and Oceania, where English is codified as a
+first language for most speakers, as well as “Outer Circle”
+varieties of Africa, Asia, and South America, where English is
+an “institutionalized additional language” ( Kachru 2005 :14). The full
+list of sampled cities appears in Appendix 1 .

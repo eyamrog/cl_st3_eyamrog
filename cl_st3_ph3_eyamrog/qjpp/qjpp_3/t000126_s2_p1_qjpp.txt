@@ -1,0 +1,20 @@
+Figure schematics were created using Biorender.com. We thank the Taplin
+Mass Spectrometry Facility of Harvard Medical School, the Massachusetts General
+Hospital (MGH) Next Gen Sequencing core, the Broad Institute of
+Harvard and MIT Genomics Platform, the MGH Histopathology Research Core,
+the Harvard Stem Cell Institute CRM Flow Cytometry Core Facility,
+and the Microscopy Core of the Program in Membrane Biology
+(PMB) at MGH. We also sincerely thank Stuti Mehta for
+initiating Mass Spectrometry experiments, Russell Vance (University of California, Berkeley)
+for Sp140 −/− mice, Kate Fitzgerald (University of Massachusetts Medical
+School) for immortalized Cas9 transgenic bone marrow-derived mouse macrophages, Maya
+Kitaoka (Massachusetts General Hospital) for assistance with cloning, and the
+clinical coordinators and patients enrolled in the Prospective Registry in
+IBD study at Massachusetts General Hospital (PRISM). We thank Ramnik
+Xavier and Raul Mostoslavsky for constructive comments. This study was
+supported by Canadian Institutes of Health Research (CIHR) postdoctoral fellowship
+(H.A.), NIH F31DK127518 (I.F.), Tier 1 Canada Research Chair (#230625),
+and the Canada Foundation for Innovation (#202695, 218944, and 20415,
+J.D.R.), NIH R01AI155662 (R.M.A.), the Kenneth Rainin Foundation Innovator and
+Synergy Awards (K.L.J.), NIH R01DK119996 (K.L.J.), and K.L.J. is a
+John Lawrence MGH Research Scholar, 2020–2025.

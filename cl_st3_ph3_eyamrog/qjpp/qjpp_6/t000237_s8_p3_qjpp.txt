@@ -1,0 +1,9 @@
+To provide a deeper understanding of the role of social
+aspects in the formulation of COVID-19 reports in the early
+stages of the pandemic, this paper extends the correlation-based calculations
+of Kurbucz et al. (2021) by using the authors’ data
+set and regression models with regional dummy interactions. The main
+findings not only reflect the importance of foreign travel restrictions
+and airport controls but also show that in Europe and
+Africa, more corrupt countries reported significantly fewer cases and deaths
+than countries in other regions.

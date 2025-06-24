@@ -1,0 +1,10 @@
+The MAE-ToBI system is phonetically underspecified by design and therefore
+does not include some phonetic features, which have been found
+to differ between varieties in studies that have combined both
+MAE-ToBI and phonetic methods. Of particular interest for the current
+study is peak delay, which is the interval between the
+onset of the stressed vowel in the syllable containing the
+pitch accent and the maximum F 0 in that same
+vowel. Figure 1 shows a spectrogram labeled using the MAE-ToBI
+conventions, providing examples of the relevant pitch accents in Tier
+3 and peak delay intervals in Tier 4.

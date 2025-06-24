@@ -1,0 +1,20 @@
+Jurkat cell lines expressing EBOV GP K115N, G118E, T144A, T144M,
+G224D, I527N, I532M, or D632N were previously described ( Davis
+et al., 2019 11. Davis, C.W. ∙ Jackson, K.J.L. ∙
+McElroy, A.K. ... Longitudinal Analysis of the Human B Cell
+Response to Ebola Virus Infection Cell. 2019; 177 :1566-1582.e17 Full
+Text Full Text (PDF) Scopus (114) PubMed Google Scholar ).
+Binding of the promising mAbs to these cell lines was
+measured by flow cytometry (for geometric mean channel fluorescence [GMCF]).
+Binding was normalized to the level of GP expression on
+each cell line using a reference non-neutralizing antibody specific for
+the mucin-like domain (MLD), 2.1.6F2 ( Davis et al., 2019
+11. Davis, C.W. ∙ Jackson, K.J.L. ∙ McElroy, A.K. ...
+Longitudinal Analysis of the Human B Cell Response to Ebola
+Virus Infection Cell. 2019; 177 :1566-1582.e17 Full Text Full Text
+(PDF) Scopus (114) PubMed Google Scholar ). Binding of the
+promising mAbs to each variant cell line was expressed as
+a percentage of the binding to wild-type EBOV GP by
+this formula: 100% ∗ [(novel mAb binding to variant cell
+line)/(2.1.6F2 binding to variant cell line)] / [(novel mAb binding
+to wild-type Jurkat-GP cells)/(2.1.6F2 binding to wild-type JurkatGP cells)].

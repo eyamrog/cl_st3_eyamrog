@@ -1,0 +1,22 @@
+The types of dependent measures included both binary responses (yes/no)
+as well as reasoning data. There were seven dependent measures
+for this task for the three assessments (attribution of intention,
+perceived friendship, parental expectations about friendship): 1) Attribution of intention
+, adolescents explained what happened in the picture (“What do
+you think happened in this picture?”; coded as negative, neutral/positive,
+see Table 1 ); 2) Perceived friendship between the two
+story protagonists (“Do you think the two characters are friends?”;
+coded as no = 0, yes = 1); 3) Reasoning
+about perceived friendship (“Why are/aren't they friends?”; coded as shared
+interests, moral concerns, or social hierarchies, see Table 1 );
+4) Judgments about high-SES parental expectations (“Do you think the
+parents of this [experimenter points to the high-SES girl/boy] want
+the two children to be friends?”; no = 0, yes
+= 1); 5) Judgments about low-SES parental expectations (“Do you
+think the parents of this [experimenter points to the low-SES
+girl/boy] want the two children to be friends?”; no =
+0, yes = 1); 6 & 7) Reasoning for high-
+and low-SES parental expectations (“Why do you think that his/her
+parents want/do not want them to be friends?”; coded as
+moral concerns, social mobility, social hierarchies, or reputation, see Table
+1 ).

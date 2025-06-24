@@ -1,0 +1,7 @@
+Network clustering is defined as the average of all agents’
+local clustering coefficients , while average path length consists of
+the average of all shortest paths between all pairs of
+agents in the network ( Watts and Strogatz, 1998 ).
+Following the concept of quantifying degree-based assortative mixing by Newman
+(2002) , we quantify homophily with the Pearson correlation coefficient
+of risk perception between all pairs of tied agents.

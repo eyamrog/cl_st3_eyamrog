@@ -1,0 +1,21 @@
+In macaques, interspecies hybridization in combination with incomplete lineage sorting
+frequently contributes to discordant phylogenetic affinities between mitochondrial and nuclear
+genomes ( Evans et al., 2001 ; Melnick and Hoelzer,
+1992 ; Stevison and Kohn, 2009 ; Tosi and Coke,
+2007 ; Tosi et al., 2002 , 2003 ). For
+example, partial mitochondrial DNA sequences support a closer relationship between
+M. nemestrina from Borneo and macaque species from Sulawesi than
+between M. nemestrina from Borneo and Sumatra ( Evans et
+al., 2010 ). However, reduced representation genome sequences of nuclear
+DNA strongly support monophyly of M. nemestrina with respect to
+Sulawesi macaques ( Evans et al., 2017 ). These nuclear
+data also strongly support reciprocal monophyly of Sulawesi macaques from
+the northern peninsula with respect to those from the rest
+of Sulawesi ( Evans et al., 2017 ), but strong
+support for this relationship has not been recovered from partial
+mitochondrial DNA sequences ( Evans et al., 1999 , 2010
+; Tosi et al., 2003 ). Thus, it also remains
+an open question whether full mitochondrial genome sequences from M.
+nemestrina and Sulawesi macaques, including a diversity of intraspecific variation
+and increased geographic sampling, would provide results more consistent with
+those of nuclear DNA.

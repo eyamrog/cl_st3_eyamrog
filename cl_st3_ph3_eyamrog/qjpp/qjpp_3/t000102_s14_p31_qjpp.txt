@@ -1,0 +1,2 @@
+VRML2 ( ∗ .wrl) files exported from Imaris and imported
+into Blender were ray-traced using the cycles render engine.

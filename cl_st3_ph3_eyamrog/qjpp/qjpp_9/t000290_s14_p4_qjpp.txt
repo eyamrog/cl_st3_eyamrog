@@ -1,0 +1,10 @@
+Two formant normalization methods were utilized. For statistical comparisons, the
+normalized values in Hertz provided by FAVE were adopted, as
+this scale is familiar and therefore readily interpretable (with the
+caveat that different normalization methods may produce different results from
+those obtained here). For data visualization, the z-score or Lobanov
+method ( Lobanov 1971 ) was used, 4 wherein raw
+formant values in Hz are transformed as a proportion of
+their aggregated range across all vowels on a per-speaker basis;
+z-scaled formant data arguably produces a superior visual representation of
+cross-formant dynamicity and relative proportions in the vowel space.

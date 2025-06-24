@@ -1,0 +1,12 @@
+Tables 12 - 15 show the position of -ly manner
+adverbs relative to the VV ing sequence. In order to
+obtain sufficient results, I searched the complete EEBO BYU and
+BNC BYU, as well as decades 1970s-2000s in COHA (Corpus
+of Historical American English; Davies 2010- ). Three different search
+strings were employed, which allowed the extraction of all sequences
+consisting of either V Adv V ing OBL, VV ing
+Adv OBL, or Adv VV ing OBL, respectively. - ly
+adverbs were also searched in CLMET3.0 by means of WordSmith
+Tools 6.0 ( Scott 2012 ), within a context window
+of two words to the right (i.e., *ing 0L 2R;
+see Table 15 ). Examples follow in (46)-(50).

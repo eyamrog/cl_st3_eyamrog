@@ -1,0 +1,11 @@
+Total positive and negative mechanical work for the complete stride
+( W + tot , W - tot ) were
+calculated as the sum of the positive or negative work
+for the first double-support period ( W + ds1 ;
+W - ds1 ), single-support period ( W + ss
+; W - ss ), second double-support period ( W
++ ds2 ; W - ds2 ), and limb swing
+( W + sw ; W - sw ). The
+positive and negative work terms were subsequently divided by the
+stride time to determine the average power output ( P
++ i ; P - i ).

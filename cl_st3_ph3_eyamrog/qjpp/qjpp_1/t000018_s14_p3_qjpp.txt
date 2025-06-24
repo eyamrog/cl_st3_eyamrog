@@ -1,0 +1,14 @@
+After removal of external muscle and adipose layers, and removal
+of bulk epithelial cells by repeated washes in PBS containing
+antibiotics (penicillin/streptomycin, amphotericin B, gentamicin, ciprofloxacin) and 5 mM EDTA
+(Sigma-Aldrich), tissue from surgical resections was minced using surgical scissors.
+In the case of endoscopic biopsies, the epithelial wash was
+omitted. Minced tissue was subjected to multiple rounds of digestion
+in RPMI 1640 medium containing 5% fetal bovine serum (FBS),
+5 mM HEPES, antibiotics as above and 1 mg ml
+Collagenase A and DNase I (all Sigma-Aldrich). After 30 min,
+digestion supernatant containing cells was removed, filtered through a cell
+strainer, spun down and resuspended in 10 ml of PBS
+containing 5% bovine serum albumin (BSA) and 5 mM EDTA.
+Remaining tissue was then topped up with fresh digestion medium
+until no more cells were liberated.

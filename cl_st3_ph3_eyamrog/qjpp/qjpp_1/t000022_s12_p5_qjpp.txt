@@ -1,0 +1,15 @@
+Data absenteeism has been linked to inaccurate algorithms, such as
+when limited diversity among individuals included in machine learning–based risk
+models results in model preferences that unfairly characterize what is
+normal, deviates from normal, or is excluded altogether ( 9
+, 24 , 30 , 109 , 115 ). Big
+data critiques also refer to uneven power structures embedded in
+the data's origins (referred to as the positionality of data
+and their creators), resulting in calls for the democratization of
+data and data augmentation ( 37 ). Theory can play
+a role in how one approaches big data and equity
+( 39 ), not only as a socioecological theory to
+help understand different layers of information but also as theories
+presenting a perspective on the following questions: What shapes inequities,
+and for whom? Who is in the position of power
+in data structure, development, and analysis?

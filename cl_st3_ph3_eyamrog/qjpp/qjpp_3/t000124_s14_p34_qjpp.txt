@@ -1,0 +1,21 @@
+Ab initio annotation was initially done using Augustus ( Hoff
+and Stanke, 2019 40. Hoff, K.J. ∙ Stanke, M. Predicting
+genes in single genomes with AUGUSTUS Curr. Protoc. Bioinformatics. 2019;
+65 :e57 Crossref Scopus (103) PubMed Google Scholar ) (version
+3.3.3). GeneMark ( Ter-Hovhannisyan et al., 2008 96. Ter-Hovhannisyan, V.
+∙ Lomsadze, A. ∙ Chernoff, Y.O. ... Gene prediction in
+novel fungal genomes using an ab initio algorithm with unsupervised
+training Genome Res. 2008; 18 :1979-1990 Crossref Scopus (531) PubMed
+Google Scholar ) (version 4.35) was additionally employed to further
+improve structural gene annotation. To avoid potential over-prediction, we generated
+guiding hints using the above described RNAseq, protein, and IsoSeq
+datasets as described by Hoff and Stanke (2019) 40. Hoff,
+K.J. ∙ Stanke, M. Predicting genes in single genomes with
+AUGUSTUS Curr. Protoc. Bioinformatics. 2019; 65 :e57 Crossref Scopus (103)
+PubMed Google Scholar . A specific Augustus model for Rhynchospora
+was built by generating a set of gene models with
+full support from RNAseq and IsoSeq. Augustus was trained and
+optimized using the steps detailed by Hoff and Stanke (2019)
+40. Hoff, K.J. ∙ Stanke, M. Predicting genes in single
+genomes with AUGUSTUS Curr. Protoc. Bioinformatics. 2019; 65 :e57 Crossref
+Scopus (103) PubMed Google Scholar .

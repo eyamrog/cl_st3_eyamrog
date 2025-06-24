@@ -1,0 +1,18 @@
+The aIC Fezf2 → NTS circuit exhibited several distinctive features.
+First, aIC Fezf2 → NTS function strictly depended upon homeostatic
+needs. This circuit does not mediate the conventional reward-seeking function,
+which typically drives positive reinforcement and overconsumption ( Berridge et
+al., 2009 4. Berridge, K.C. ∙ Robinson, T.E. ∙ Aldridge,
+J.W. Dissecting components of reward: ‘liking’, ‘wanting’, and learning Curr.
+Opin. Pharmacol. 2009; 9 :65-73 Crossref Scopus (1284) PubMed Google
+Scholar ). Rather, it carries out a “need-seeking” function that
+is engaged only when a goal is homeostatically needed. Second,
+the response of a large fraction of aIC Fezf2 or
+aIC NTS neurons did not represent sweet or bitter taste.
+Third, aIC Fezf2 → NTS only invigorated learned actions, but
+did not influence movement per se. Fourth, a stable set
+of aIC Fezf2 neurons participated in processing changing homeostatic needs.
+Our results altogether suggest that the aIC Fezf2 → NTS
+circuit constitutes a common neural substrate that integrates learned, predictive
+signals with the information about fluctuating homeostatic needs to encode
+and regulate the motivational vigor of need-seeking behaviors.

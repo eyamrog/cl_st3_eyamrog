@@ -1,0 +1,26 @@
+With respect to bone robusticity, the Boxgrove tibia is shown
+to be the most robust among all the comparative samples,
+at all section levels ( Fig. 10 ). In the
+original article ( Trinkaus et al., 1999 ), the authors
+calculated Z-scores relative to EMH for the comparison of the
+50% LJ relative to the 35% LJ, and established that
+Boxgrove fits better with the Neanderthal tibial model than with
+UP modern humans, although the difference in shape was not
+significant. To validate this former analysis, the LJ values relative
+to biomechanical length were compared using an RMA analysis in
+which the reference line was that calculated for anatomically modern
+humans (i.e., RMH and UP specimens). Results show that Boxgrove
+plots above the regression line of anatomically modern humans, similarly
+to Neanderthal and the SH samples. Download: Download high-res image
+(792KB) Download: Download full-size image Figure 10 . Tibia Ln
+J on Ln biomechanical tibial length. 20% section (A), 35%
+section (B), 50% section (C), 65% section (D), 80% section
+(E) Boxgrove 1 (NHMUK PA EM 3566: Boxgrove PR pink
+circle, Boxgrove 2D pink square, Boxgrove 3D pink triangle); Recent
+modern humans (RMH; light green diamonds); Early and Middle Upper
+Paleolithic (UP; gray squares); Neanderthals (blue triangles); Broken Hill (NHMUK
+PA EM 691; white triangle); Sima de los Huesos (SH;
+Tib-I, Tib-III, Tib-IV, Tib-VI, Tib-XI, Tib-XII, and AT-848; red dots).
+(For interpretation of the references to color in this figure
+legend, the reader is referred to the Web version of
+this article.)

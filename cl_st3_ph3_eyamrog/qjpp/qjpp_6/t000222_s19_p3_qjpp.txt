@@ -1,0 +1,4 @@
+Size differences between taxa, based on their respective natural logarithm
+of centroid size, are largest at the genus level and
+smallest between subspecies ( SOM Tables S3 and S7 )
+and will be discussed in more detail in sections 3.3–3.5.

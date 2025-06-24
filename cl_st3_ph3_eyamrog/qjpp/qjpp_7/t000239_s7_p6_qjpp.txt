@@ -1,0 +1,14 @@
+The innovation of this paper is to test this assertion—namely,
+that institutions have their limits and thus reliance on heuristics
+can drive policymaking—through two specific analyses. First, I use a
+case study on the pandemic responses of a municipal-level (mayoral)
+leader in the United States; with no institutional memory or
+mechanisms to rely on, the shape of policies in response
+were related to the pre-existing psychological traits of leaders, again
+colored by their own backgrounds. This hypothesis is confirmed in
+the second analysis, a brief econometric exercise examining new data
+regarding the responses taken during the pandemic (and in particular
+the economic lockdown) which shows that institutional mechanisms were quite
+important as an explanator for policies at the beginning of
+the pandemic, while even only 2 weeks into the lockdown,
+leader attributes had asserted themselves and were dominating.

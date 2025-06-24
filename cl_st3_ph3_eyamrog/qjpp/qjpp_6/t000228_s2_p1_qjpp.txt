@@ -1,0 +1,9 @@
+The excavation and research programs at Aghitu were funded by
+The Gfoeller Renaissance Foundation (USA), the Armenian National Academy of
+Sciences , and the Heidelberg Academy of Sciences and Humanities
+. Further financial support was provided by the Faculty of
+Mathematical and Natural Sciences, University of Oslo . We thank
+the Norwegian Sequencing Centre for their advice and DNA sequencing.
+DNA analyses were performed on the Saga computer cluster, owned
+by the University of Oslo and Uninett/Sigma2, and operated by
+the Department of Research Computing at USIT, University of Oslo.

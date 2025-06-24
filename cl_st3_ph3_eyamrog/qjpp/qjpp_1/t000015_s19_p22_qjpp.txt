@@ -1,0 +1,22 @@
+The model of disease that we propose for ALS-FUS based
+on our animal studies predicts that the decrease in FUS
+protein levels—and associated decrease in detergent insolubility of FUS and
+related RBPs—caused by ION363 would mitigate the MN phenotype in
+the FUS mutant mice. To test this prediction, we injected
+newborn (P1) MN-P517L/Δ14 and wild-type mice with a single ICV
+dose of 20 μg of ION363 or the NTC ASO
+and quantified MN loss in all experimental animals at 4
+and 6 months of age. At 4 months, the NTC-injected
+MN-P517L/Δ14 mice lost an average of 12% of all lumbar
+MNs (consistent with untreated MN-P517L/Δ14 mice; Fig. 3f ), but
+no MN loss was observed in ION363-treated MN-P517L/Δ14 mice (Fig.
+4f ). Similarly, injections of ION363, but not NTC, completely
+prevented muscle denervation and microgliosis, both of which precede MN
+loss, in the MN-P517L/Δ14 mutants at 4 months (Fig. 4g,h
+). At 6 months of age, when ION363 concentration decreases
+and FUS levels normalize (Extended Data Fig. 6d ), muscle
+denervation and microgliosis increased in ION363-treated MN-P517L/Δ14 mice to levels
+intermediate between those of NTC-injected MN-P517L/Δ14 and wild-type mice, suggesting
+the delayed onset of the disease pathology in this model.
+Nevertheless, no MN degeneration was observed in ION363-treated MN-P517L/Δ14 mice
+at 6 months after treatment (Fig. 4f ).

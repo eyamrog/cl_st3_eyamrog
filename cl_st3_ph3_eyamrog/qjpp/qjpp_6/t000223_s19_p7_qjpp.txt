@@ -1,0 +1,18 @@
+The age results are reported in Table 5 (see also
+SOM Figs. S11–S14 ). Optical stimulated luminescence quartz and pIRIR
+290 feldspar ages generally increase with burial depth as expected.
+One noticeable exception is sample X6746, for which the quartz
+age appears much older than for the samples localized stratigraphically
+above and below. While the D e of this sample
+is consistent with the stratigraphy , its dose rate is
+much lower than those above and below. We remarked in
+Section 3.2 that the in situ gamma dose overestimated the
+ICP-based result by 30%, which suggests that the beta dose
+rate we determined on a portion of this sediment is
+probably incorrect (perhaps due to an analytical problem or a
+lack of representativity of the sample used for the ICP
+analyses). If we calculate the average dose rates based on
+the samples located directly above and below this sample, the
+corrected quartz age becomes 48.7 ± 2.9 ka, and the
+corrected feldspar age 45.7 ± 5.0 ka, results which are
+much more consistent with the stratigraphy.

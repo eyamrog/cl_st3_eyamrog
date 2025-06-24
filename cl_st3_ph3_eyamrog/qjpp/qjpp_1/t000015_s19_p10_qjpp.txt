@@ -1,0 +1,14 @@
+To test the functional significance of this increased insolubility of
+FUS and other RBPs, we looked in the mutant animals
+for evidence of aberrant splicing of their target pre-mRNAs, similar
+to that which we described previously in brain and spinal
+cord tissue from C9orf72-positive and gene-negative patients with ALS/FTD .
+As in those cases, RBP insolubility in the Δ14/WT and
+P517L/WT animals was also associated with alteration in splicing. For
+example, analysis of two targets of hnRNP H showed decreased
+inclusion of ATXN2 exon 24 and increased inclusion of hnRNPDL
+exon 8—consistent with decreased hnRNP H activity—in Δ14/WT and P517L/WT
+animals compared to wild-type controls (Fig. 2g ). P517L/WT showed
+a greater magnitude of detergent insolubility and splicing alterations compared
+to Δ14/WT animals (Fig. 2d,g and Extended Data Fig. 4d
+), once again suggesting increased toxicity of P517L over Δ14.

@@ -1,0 +1,4 @@
+In addition to the original cHi-C maps, custom reference genomes
+were derived from mm10 for the ΔD1+2 deletion line. cHi-C
+and Hi-C maps were displayed as linear-scaled heatmaps in which
+very high values were truncated to improve the visualization.

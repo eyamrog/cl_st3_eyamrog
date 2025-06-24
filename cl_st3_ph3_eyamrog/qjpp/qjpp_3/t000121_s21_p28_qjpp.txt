@@ -1,0 +1,14 @@
+Our analyses of non-AT2-treated VLPs, produced in the presence of
+the HIV protease inhibitor darunavir and displaying truncated as well
+as full-length Env, showed that AT-2 treatment did not affect
+direct Env interactions with the underlying Gag lattice in the
+immature VLPs. In the mature hVLPs, the processed Gag core
+is not in direct contact with surface Env; however, we
+cannot rule out an indirect effect of AT-2 on nucleocapsid
+and the core. Lastly, a minor population of unprocessed Env
+(gp160 trimers) may exist, particularly on the VLPs bearing full-length
+Env, which cannot be distinguished from mature Env (gp120/gp41 heterotrimers)
+at the current resolution of our data. Despite the caveats
+above, in the range of immature particle examples we have
+examined, Env-MA-Gag interactions remain notably consistent, thus underscoring a persistent
+coupling between these key structural components of HIV.

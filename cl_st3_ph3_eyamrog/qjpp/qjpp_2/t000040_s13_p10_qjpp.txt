@@ -1,0 +1,17 @@
+Nonexhaust emissions. Air pollution from motor vehicles is not limited
+to exhaust emissions. Other sources include brake and tire wear,
+road surface wear, and resuspension of road dust. Together these
+may exceed tailpipe emissions, at least with regard to particulate
+matter ( 3 ). Moreover, brake and tire wear particles
+may have higher oxidative potential than other traffic-related sources, which
+could translate to worse health impacts ( 3 ). Electric
+vehicles also have been suggested to emit more nonexhaust emissions
+because they weigh more than nonelectric vehicles ( 76 ).
+If AV use increases VMTs, even with a shift to
+electric vehicles, nonexhaust emissions will be an issue for air
+quality. Potential strategies to reduce these emissions include source minimization
+by improving the wear properties of materials, reducing the wear
+potential of traffic (e.g., studded tires), and minimizing dust suspension
+to air by removing dust from road surfaces (road cleaning),
+immobilizing dust (binding dust to road surfaces), and adjusting traffic
+(less traffic, lower speeds, lighter weight vehicles) ( 3 ).

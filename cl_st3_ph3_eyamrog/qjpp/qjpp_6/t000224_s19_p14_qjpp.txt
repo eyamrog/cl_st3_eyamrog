@@ -1,0 +1,4 @@
+In summary, statistical comparisons of the transect data for MAT
+(Bio1), maximum temperature (Bio5), minimum temperature (Bio6), and annual precipitation
+(Bio12) for the 490 ka and 410 ka intervals suggest
+no significant differences.

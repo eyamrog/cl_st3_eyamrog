@@ -1,0 +1,13 @@
+ACE2 is an integral membrane protein that appears to be
+the host-cell receptor for SARS-CoV-2. Our data showed significantly greater
+numbers of ACE2-positive cells in the lungs from patients with
+Covid-19 and from patients with influenza than in those from
+uninfected controls. We found greater numbers of ACE2-positive endothelial cells
+and significant changes in endothelial morphology, a finding consistent with
+a central role of endothelial cells in the vascular phase
+of Covid-19. Endothelial cells in the specimens from patients with
+Covid-19 showed disruption of intercellular junctions, cell swelling, and a
+loss of contact with the basal membrane. The presence of
+SARS-CoV-2 virus within the endothelial cells, a finding consistent with
+other studies, suggests that direct viral effects as well as
+perivascular inflammation may contribute to the endothelial injury.

@@ -1,0 +1,14 @@
+Costing data were collected in local currency and then inflated
+using local inflation indices to 2017. These calculations were then
+exchanged to Canadian currency using either direct exchange rates (for
+tradable items) or purchasing power parity exchange (for salary and
+non-tradable items). The total cost of the intervention in each
+country was calculated by combining the implementation costs and the
+additional LTBI-associated health system costs in each country. Incremental cost-effectiveness
+ratios (defined as the health system costs per additional contact
+initiating treatment) were used to assess the cost-effectiveness of the
+intervention versus the current standard of care for LTBI. We
+also estimated a range for the incremental cost-effectiveness ratios using
+the lower and upper limit of the 95% CI around
+the estimate of effect. More details on the methods used
+for costing are provided in the appendix (pp 26–45 ).

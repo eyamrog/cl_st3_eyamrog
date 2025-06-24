@@ -1,0 +1,12 @@
+Second, few survey data sets have both comprehensive SEP indicators
+and health measures. Few panel surveys that document longitudinal dynamics
+of SEP (e.g., the Survey of Income and Program Participation)
+collect information on respondents’ health. Population health surveys that examine
+self-reported health outcomes use SEP measures that are fuzzy. In
+other words, despite the consensus that SEP is complex and
+multifactorial, most health studies that consider SEP use a single
+socioeconomic variable measured at a single period or level and
+include variables that explain why some measures were selected over
+others ( 19 ). Wealth is an underutilized yet important
+indicator of SEP, and therefore future health studies should measure
+wealth ( 94 ).

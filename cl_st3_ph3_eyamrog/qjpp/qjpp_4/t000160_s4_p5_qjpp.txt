@@ -1,0 +1,24 @@
+The concerns that we raise here mirror recent calls for
+critical self-appraisal across the social sciences more generally. As one
+important example, a recent special issue in this journal (Cullin
+et al., 2021 ) scrutinized traditional normative assumptions in human
+biology. In the Pearl Memorial Lecture that inaugurated the special
+issue, Wiley ( 2021 ) outlines how cultural assumptions of
+normality intersect with and reinforce statistical norms, and vice versa.
+Described as “ethno-biocentrism” (Wiley, 2021 ), Wiley points to a
+number of research habits that reinforce the slippage between statistical
+and cultural normality (including reinforcing whiteness as the norm): the
+adoption of “normal ranges” of biomarkers derived from research in
+high income populations of predominantly European ancestry; and how a
+trait's frequency influences views about its acceptability and value. The
+well-cited article within our review that explored population-level differences in
+epigenetic aging (Horvath et al., 2016b ) used a multi-tissue
+epigenetic clock derived from samples of primarily European descent and
+groups of varied ancestries were then compared to one another
+against this normative center. This type of practice runs the
+risk of ascribing the notion of abnormality to marginalized communities
+(Graves Jr, 2021 ; Mansfield, 2012 ; Mansfield & Guthman,
+2015 ). With many outcomes portrayed as biologically fixed and
+the majority of studies exploring negative causes, we worry that
+DOHaD and epigenetic science may inadvertently contribute to the reification
+of racial typologies as essential and internally homogenous.

@@ -1,0 +1,12 @@
+The sample studied in this work comprises the cranium and
+the seven cervical vertebrae of 160 adult individuals of the
+family Hominidae, totaling 160 crania and 1071 cervical vertebrae: 43
+Homo sapiens , 46 Pan troglodytes , 12 Pan paniscus
+, 45 Gorilla gorilla , 8 Gorilla beringei graueri ,
+3 Gorilla beringei , and 3 Pongo pygmaeus ( Supplementary
+Online Material [SOM] Table S1 ). The surface of each
+anatomical element was scanned in two views, cranial and caudal,
+using a Go!SCAN 20 (with a resolution of 0.1 mm
+for the vertebrae and 0.4 mm for the crania) and
+later virtually assembled into a single three-dimensional (3D) object using
+VXelements software v. 6.3 (Creaform Inc., Lévis).

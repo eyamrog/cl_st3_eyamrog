@@ -1,0 +1,18 @@
+A fundamental goal of neuroscience is to understand how the
+brain constructs internal representations of the world to flexibly guide
+behavior. In the Euclidean world, hippocampal place cells form one
+component of such a representation. However, whether the problem at
+hand is navigating to the coffee shop or navigating your
+social network when you arrive, cognitive maps, spatial, sensory, and
+conceptual alike, appear to share a common computational substrate for
+the systematic organization of structural information ( Behrens et al.,
+2018 10. Behrens, T.E.J. ∙ Muller, T.H. ∙ Whittington, J.C.R.
+... What Is a Cognitive Map? Organizing Knowledge for Flexible
+Behavior Neuron. 2018; 100 :490-509 Full Text Full Text (PDF)
+Scopus (465) PubMed Google Scholar ). Here, we present findings
+that single neurons in the primate hippocampus construct a map
+for an abstract cognitive variable through place-like representations. Specifically, the
+map identifies the relative value of three choice options. Value
+place neurons exhibited four canonical properties of their Euclidean counterparts:
+consistency across experiences, multidimensional tuning, directional selectivity, and remapping in
+novel contexts.

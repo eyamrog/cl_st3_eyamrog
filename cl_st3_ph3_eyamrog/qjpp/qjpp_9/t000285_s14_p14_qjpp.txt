@@ -1,0 +1,19 @@
+To code for paradigmaticity, it was necessary to see whether
+each tag token was the same as—or could have derived
+from (through reduction/fusion)—the Standard English tag that would be expected
+to occur, on the basis of the anchor clause. Where
+there were ambiguities, the paradigmaticity of the token was coded
+as “indiscernible.” Sentences containing certain constructions, like the semi-modals have
+got and have ( got ) to , can take
+either don ’ t or haven ’ t tags (e.g.,
+you have to walk there , don’t you / haven’t
+you ?), which reflects a difference in the status of
+have as either a main verb or auxiliary that distinguishes
+certain varieties of English, e.g., British and American English (
+Tottie & Hoffmann 2006 :291). In the current data, stative
+possessive have got and modal have got to occurred with
+have tags, while modal have to occurred with do tags.
+These were therefore coded as paradigmatic, aside from a few
+exceptions which featured another verb entirely (neither have nor do
+) and therefore were coded as semi- or non-paradigmatic as
+appropriate.

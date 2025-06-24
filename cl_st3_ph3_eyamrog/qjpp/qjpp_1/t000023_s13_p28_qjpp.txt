@@ -1,0 +1,14 @@
+The broad understanding of social patterning and social causation that
+is at the core of social epidemiologic inquiry (and that
+is critical to effective actions to improve health) will require
+integrating many different types of evidence: rigorous quantitative causal inference
+from observational studies and natural experiments, true experimental studies, systems
+modeling, and real-life evaluations of interventions and policies under varying
+conditions (encompassing what is referred to as implementation science), including
+assessing the equity implications of policies ( 79 , 122
+). The use of experiments and policy evaluation is important
+not only to identify effective actions but also to improve
+our fundamental understanding of the systems that drive health and
+health inequities ( 31 ). Additional methodological approaches, which often
+receive less attention in the discussion of epidemiologic methods, include
+surveillance and descriptive methods and qualitative comparative analyses.

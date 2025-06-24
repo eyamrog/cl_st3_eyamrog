@@ -1,0 +1,9 @@
+Many corpora today are larger than ever before with multi-billion-word
+collections of texts readily compiled from webscraping publicly-available internet sites
+(e.g. the Oxford English Corpus) or through accessing large databases
+(e.g. corpora based on Lexis Nexis). Building corpora from large,
+readily-available sources of textual data means that the issue of
+access to such data is unproblematic, and decisions in corpus
+compilation entail questions such as how big should the sample
+be? what sampling frame should be applied? what tagging is
+needed?

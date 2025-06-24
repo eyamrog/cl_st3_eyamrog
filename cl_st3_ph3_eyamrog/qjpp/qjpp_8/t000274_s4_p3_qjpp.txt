@@ -1,0 +1,15 @@
+The initial challenge in compiling the WiSP corpus was to
+gain access to LAs and to negotiate the involvement of
+administrators and social workers in each site to fulfil the
+institutional requirement of removing all personal data before texts could
+be made available to researchers. A further challenge was developing
+an anonymisation coding scheme to ensure that important contextual detail
+was maintained whilst protecting identities of individuals. The final challenge
+was to meet the expectations of participating social workers –
+as well as to ensure we were upholding ethical integrity
+as researchers – in ensuring jigsaw identification was unlikely; this
+went beyond the institutional requirement to remove personal data. In
+order to meet these expectations and due to our reaching
+a deeper understanding as to what might be at stake
+for people mentioned in the texts, a second corpus was
+created.

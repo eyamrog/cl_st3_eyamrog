@@ -1,0 +1,10 @@
+We used two methods to infer the phylogeny of the
+six species: 1) coalescence-based method, ASTRAL-III v5.6.2 ( Zhang et
+al., 2018 124. Zhang, C. ∙ Rabiee, M. ∙ Sayyari,
+E. ... ASTRAL-III: polynomial time species tree reconstruction from partially
+resolved gene trees BMC Bioinformatics. 2018; 19 :153 Crossref Scopus
+(583) PubMed Google Scholar ), and 2) concatenation-based method, Randomized
+Axelerated Maximum Likelihood RAxML, (v8.2.9) ( Stamatakis, 2006 100. Stamatakis,
+A. RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa
+and mixed models Bioinformatics. 2006; 22 :2688-2690 Crossref Scopus (12703)
+PubMed Google Scholar ).

@@ -1,0 +1,4 @@
+As part of our secondary analysis, we also investigated whether
+the effect of information provision on COVID-19 vaccine hesitancy was
+moderated by age, gender, ethnicity, income, region, or level of
+COVID-19 health risk.

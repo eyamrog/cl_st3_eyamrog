@@ -1,0 +1,9 @@
+To compare the stride-to-stride, intraspecific, and interspecific variation of the
+ground reaction forces of our human and chimpanzee samples, the
+adjusted coefficient of multiple correlation (CMC) was used ( Kadaba
+et al., 1989 ; r 2 a ). The CMC
+represents the correlation of the ground reaction force among strides
+for each individual (i.e., stride-to-stride variation) or among the individuals
+(i.e., intraspecific variation). The balanced human and chimpanzee data sets
+permit a direct, interspecific comparison of CMCs computed using the
+species means.

@@ -1,0 +1,26 @@
+FBXO44 inhibition induced IFN signaling, enhanced cancer cell immunogenicity, and
+increased intratumoral infiltration of CD8 + T cells; phenotypes associated
+with a favorable response to immune checkpoint blockade (ICB) therapy
+( Jones et al., 2019 28. Jones, P.A. ∙ Ohtani,
+H. ∙ Chakravarthy, A. ... Epigenetic therapy in immune-oncology Nat.
+Rev. Cancer. 2019; 19 :151-161 Crossref Scopus (345) PubMed Google
+Scholar ; Keenan et al., 2019 31. Keenan, T.E. ∙
+Burke, K.P. ∙ Van Allen, E.M. Genomic correlates of response
+to immune checkpoint blockade Nat. Med. 2019; 25 :389-402 Crossref
+Scopus (324) PubMed Google Scholar ). To investigate whether targeting
+tumor cell-intrinsic FBXO44/SUV39H1 could overcome resistance to anti-PD-1 therapy, we
+treated immunocompetent mice bearing 4T1 cell-derived control, FBXO44 KD, or
+SUV39H1 KD mammary tumors with either anti-PD-1 or isotype immunoglobulin
+G (IgG) control antibodies ( Figure 6 F). As expected,
+4T1 control tumors were refractory to anti-PD-1 treatment ( Bertrand
+et al., 2017 7. Bertrand, F. ∙ Montfort, A. ∙
+Marcheteau, E. ... TNF alpha blockade overcomes resistance to anti-PD-1
+in experimental melanoma Nat. Commun. 2017; 8 :2256 Crossref Scopus
+(271) PubMed Google Scholar ), whereas FBXO44/SUV39H1 KD tumors displayed
+enhanced sensitivity. Mice bearing FBXO44/SUV39H1 KD tumors treated with anti-PD-1
+therapy exhibited increased survival compared to control mice ( Figure
+6 G). Co-targeting of MAVS+STING rescued the enhanced antitumor response
+to anti-PD-1 therapy and increased survival induced by FBXO44 KD
+( Figures S6 K and S6L). Thus, targeting tumor cell-intrinsic
+FBXO44/SUV39H1 enhanced immunogenicity and ICB therapy response in a MAVS/STING-dependent
+manner, in addition to anti-proliferative and anti-tumorigenic effects.

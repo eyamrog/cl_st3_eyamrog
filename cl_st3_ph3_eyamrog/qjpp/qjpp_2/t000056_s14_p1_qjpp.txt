@@ -1,0 +1,8 @@
+This study was a single-blind, parallel-group, randomised controlled trial, with
+planned mediation and moderation tests. The intervention and data collection
+were carried out online. Participants completed an item for stratification
+by vaccine hesitancy level, provided sociodemographic information, read the vaccine
+information in their randomly allotted condition, and then completed measures
+of COVID-19 vaccine hesitancy and COVID-19 complacency and confidence beliefs.
+The study received ethical approval from the University of Oxford
+Central University Research Ethics Committee (reference R74001/RE001).

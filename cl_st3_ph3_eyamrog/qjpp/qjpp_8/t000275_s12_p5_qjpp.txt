@@ -1,0 +1,22 @@
+Furthermore, because postings from the same threads are saved into
+different subcorpora during the keyword analysis comparing different types of
+postings, concordance reading might be limited to the specific postings
+rather than the whole threads, unless researchers relate the postings
+back to the threads. At times, even if the whole
+threads are maintained, the corpus tools might not allow encoding
+of their structure or extension of concordance lines to the
+defined larger context, such as the threads or the postings
+before and after the particular postings investigated. Yet, researchers can
+better understand the language practices adopted in each posting by
+taking into account the context, i.e., the thread where a
+particular posting occurs. Threads are where explicit user-user interactions and
+dialog occurs; that is, where users respond to each other,
+therefore it might be best to examine the threads to
+understand online language-in-action ( Ksiazek and Lessard, 2016 ). With
+respect to keywords in replies, concordance readings that are limited
+to the replies are decontextualized in the sense that replies
+are always in response to postings posted before them and
+may trigger other replies posted after. Therefore, the communicative functions
+of the keywords within a reply might be better interpreted
+in light of the whole thread, and preferably with an
+interactional approach.

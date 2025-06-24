@@ -1,0 +1,13 @@
+Cells were tested for potential DNA-damage caused by incorporation fluorescent
+nucleotides by fixing C3H/10T1/2 cells 12.5h and 24h after replication
+labeling and doing immunofluorescence labeling with a monoclonal primary antibody
+against γ-H2AX as a marker for DNA damage ( Figure
+S5 ). As secondary antibody a goat-anti-mouse Alexa 488 antibody
+was chosen. Chromatin was stained with Hoechst (which served as
+a mask) and a large area was scanned using the
+“Navigator” module in LAS X on a Leica SP8 confocal
+microscope. Areas that included 387 nuclei (12.5h) and 537 (24h)
+respectively were recorded using a 25x water objective (see Figure
+S5 ). The integrated intensity of the Alexa 488 and
+TAMRA signal was determined for each nucleus in Imaris and
+the values were plotted using Prism.

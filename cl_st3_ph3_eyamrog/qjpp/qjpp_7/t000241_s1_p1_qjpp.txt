@@ -1,0 +1,19 @@
+This study examines the relationship between tourism development, governance, and
+income inequality in 31 sub-Saharan African (SSA) countries. In the
+main, the study aims at examining whether tourism inflows ameliorate
+or exacerbate income inequality in the studied countries. The study
+also aims to examine whether institutional governance modulates the impact
+of tourism development on income inequality. For robustness, four proxies
+of governance indicators have been used, namely, the rule of
+law, voice and accountability, political stability, and government effectiveness, thereby
+leading to four separate specifications with four interaction variables. The
+Generalized Method of Moments (GMM), which accounts for endogeneity, has
+been used to examine this linkage. Contrary to some of
+the previous studies, the results of our study show that
+an increase in tourist arrivals leads to a decrease in
+income inequality in the studied SSA countries. The results also
+show that the favorable negative impact of tourism on income
+inequality could switch to an unfavorable positive impact if the
+following levels of governance are exceeded: 1.6842, 3.1429, and 0.7436
+for voice and accountability, political stability, and government effectiveness, respectively.
+Policy implications are discussed.

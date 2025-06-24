@@ -1,0 +1,14 @@
+We estimated the timing of terrestrial activity for populations living
+on the two islands and the three mainland sites by
+extracting the time stamps from the image metadata ( Monteza-Moreno
+et al., 2020 ). Then, we compared these patterns with
+those of the activity patterns of ocelots ( L. pardalis
+), an important predator of capuchin monkeys at the mainland
+study sites ( Moreno and Giacalone, 2006 , Moreno et
+al., 2006 ). We used the Ridout and Linkie (2009)
+method to estimate a coefficient of overlap (Δ, ranging from
+0 to 1), comparing the area underlying the density curves
+between ocelots and the two populations of capuchins, with 95%
+confidence intervals obtained from a smoothed bootstrap with 10,000 resamples,
+as implemented in the overlap package in R ( Ridout
+and Linkie, 2009 ).

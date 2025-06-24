@@ -1,0 +1,24 @@
+Beyond simple gene regulation, Set3C functions in silencing antisense and
+alternative transcripts ( Kim et al., 2012 50. Kim, T.
+∙ Xu, Z. ∙ Clauder-Münster, S. ... Set3 HDAC mediates
+effects of overlapping noncoding transcription on gene induction kinetics Cell.
+2012; 150 :1158-1169 Full Text Full Text (PDF) Scopus (116)
+PubMed Google Scholar ), as well as repressing meiotic transcripts
+( Pijnappel et al., 2001 73. Pijnappel, W.W. ∙ Schaft,
+D. ∙ Roguev, A. ... The S. cerevisiae SET3 complex
+includes two histone deacetylases, Hos2 and Hst1, and is a
+meiotic-specific repressor of the sporulation gene program Genes Dev. 2001;
+15 :2991-3004 Crossref Scopus (0) PubMed Google Scholar ). We
+also investigated whether [ ESI + ] influenced these functions.
+Indeed, we observed RNAPII and H4ac at the transcription end
+site (TES) of upregulated ORFs ( Figures S3 D and
+S3E) or apparently alternative TSSs ( Figures 3 E and
+S3 F) in [ ESI + ] cells. [ ESI
++ ] upregulated genes were likewise enriched for factors involved
+in meiosis (e.g., IME1 and SPO11 ; p < 10
+−29 , Fisher’s exact test). These gene expression changes had
+a clear functional consequence: [ ESI + ] cells sporulated
+more efficiently than genetically identical naive cells ( Figure S3
+G). Together with our other genomic observations, these data establish
+that transcriptional upregulation in [ ESI + ] cells is
+linked to gene activation by Snt1 and Set3C.

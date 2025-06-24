@@ -1,0 +1,20 @@
+We next evaluated the ability of the combination of 1C3
+and 1C11 to protect against disease in nonhuman primate (NHP)
+models of EVD and Sudan virus disease (SVD). The combination
+was first tested in the SUDV (Gulu variant) model in
+cynomolgus macaques. On Day 4 and Day 7 post-exposure, a
+dose of 50 mg/kg (25 mg/kg of each antibody) was
+administered intravenously. All three treated NHPs survived ( Figure 6
+A) and had minor clinical signs during the expected peak
+of disease. SUDV titers ranged from 2–3.81 log 10 per
+mL of serum on Day 4 and just prior to
+administration of the first dose. However, none of these NHPs
+had detectable virus on Day 7 and prior to treatment
+with the second dose of mAb combination. In contrast, 8.33
+and 7.78 log 10 of SUDV were detected terminally in
+the sera of the untreated control NHPs on Day 7
+and Day 8, respectively. Complete clearance of SUDV viremia was
+achieved in treated NHPs by Day 14 as determined by
+the absence of any detectable SUDV genome as measured by
+real-time reverse transcription polymerase chain reaction (RT-qPCR) in sera (
+Figure 6 C).

@@ -1,0 +1,8 @@
+No significant differences in plant richness between individual AHs were
+found for either sedaDNA or pollen. Grouping AHs together provided
+more statistical power and revealed a significant decrease in sedaDNA-based
+plant richness from the AH VII-VI set to AH V-IV
+(Mann–Whitney U = 3, p = 0.021), followed by a
+significant increase toward AH III (Mann–Whitney U = 7.5, p
+= 0.021; see SOM Table S7 ). This same grouping
+did not result in significant differences in pollen-based plant richness.

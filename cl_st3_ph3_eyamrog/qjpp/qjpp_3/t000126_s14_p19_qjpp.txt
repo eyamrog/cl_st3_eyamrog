@@ -1,0 +1,11 @@
+HEK293T cells were transfected with FLAG-Empty Vector (FLAG-EV) and FLAG-SP140
+plasmids using Lipofectamine 2000 (Invitrogen) for 48 hours. Lysates were
+incubated with FLAG M2 (Sigma, F3165) antibody and immunoprecipitated protein
+was run on a 4-12% Tris-Bis. Gel and stained with
+Silver Stain (Thermo Fisher) and gel sections were cut and
+sent for in-gel digestion, micro-capillary LC/MS/MS, analysis, protein database searching
+and data analysis at the Taplin Mass Spectrometry Facility (Harvard
+Medical School). Mass Spec of lymphoblastoid cells (LBLs) carrying SP140
+wildtype or SP140 loss-of-function variants (homozygous for rs7423615, Coriell Institute
+of Medical Research) was performed on endogenous SP140 immunoprecipitated from
+1mg of nuclear lysates with SP140 antibody (Sigma).

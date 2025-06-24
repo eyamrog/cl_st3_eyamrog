@@ -1,0 +1,8 @@
+The 2019 IDF estimates do not include data on IFG
+or HbA 1C and thus underestimate the extent of prediabetes
+as compared with estimates that combine all glycemic measures. Relying
+on IGT only, as done by IDF, leaves out an
+important fraction of individuals with prediabetes states defined by other
+tests ( 101 ). Nonetheless, estimates of prediabetes prevalence are
+not available for many countries, and global data on prediabetes
+rely on statistical extrapolations and substantial assumptions, with corresponding uncertainty.

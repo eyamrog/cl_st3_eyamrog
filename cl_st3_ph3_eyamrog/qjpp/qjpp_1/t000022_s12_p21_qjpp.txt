@@ -1,0 +1,21 @@
+The use of algorithms to detect patterns in claims data
+presents numerous challenges. First, many patterns detected are correlational and
+are limited in their ability to explain why certain patterns
+are uncovered ( 133 , 145 ). Moreover, the validity
+of methods and algorithm transparency need to be addressed. One
+of the main biases in algorithms is omitted variable bias,
+which arises from having limited information about other potentially relevant
+factors that influence the outcome ( 145 ). The lack
+of information applies in particular to data points that measure
+the structural and social determinants of health. For example, in
+a study on prediction of type 2 diabetes, having limited
+information about the patient's diet or access to healthy and
+nutritious food creates omitted variable bias. Another challenge is data
+absenteeism. As a result of US states not expanding Medicaid,
+entire swaths of populations were missing within claims records. Given
+the various challenges of using AI to analyze big (claims)
+data, a reorientation toward ensuring that veracity and virtuosity are
+evaluated is paramount. Attention to biases including measurement error, sampling
+bias, and ascertainment bias can mitigate equity risks from claims
+data ( 75 ). Equally important, such methods may best
+be viewed as hypothesis generating, rather than hypothesis testing.

@@ -1,0 +1,12 @@
+Since the FANTOM data contained the resulting gene x sample
+count matrix was then normalized as per ( Alam et
+al., 2020 3. Alam, T. ∙ Agrawal, S. ∙ Severin,
+J. ... Comparative transcriptomics of primary cells in vertebrates Genome
+Res. 2020; 30 :951-961 Crossref Scopus (5) PubMed Google Scholar
+) – normalized counts-per-million for each sample. As many of
+the sample in the FANTOM CAGE data were highly correlated
+(due e.g. to being replicates or adjacent time points), we
+performed hierarchical clustering on the 829 remaining datasets, and then
+merged libraries with a pearson correlation of 0.95 or greater,
+resulting in a final 349 metasamples. Co-expression between two genes
+was then defined as pearson correlation across these 349 metasamples.

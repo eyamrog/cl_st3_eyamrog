@@ -1,0 +1,11 @@
+To examine the role of Fli1 in supporting the epigenetic
+landscape of CD8 + T cells, we performed ATAC-seq on
+sgFli1 + and sgCtrl + C9P14 cells on day 9
+p.i. with Cl13. Compared to sgCtrl + C9P14 cells, the
+sgFli1 + group had considerable changes in chromatin accessibility (
+Figure 4 A). Over 5,000 open chromatin regions (OCRs) differed
+between the control and Fli1- perturbed groups with approximately equal
+numbers of peaks gained or lost ( Figures 4 B–4D).
+Most of these changes were located in intronic or intergenic
+regions consistent with cis -regulatory or enhancer elements ( Figure
+4 C).

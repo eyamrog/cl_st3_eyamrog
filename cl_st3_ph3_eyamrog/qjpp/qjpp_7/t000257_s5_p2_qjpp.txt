@@ -1,0 +1,20 @@
+Our current findings showed similarities to resilience research due to
+security threats ( Eshel et al., 2020 ) and/or natural
+disasters ( Cutter et al., 2008 ). However, these findings
+also specify differences form former research, indicating a possible uniqueness
+of resilience due to health crises, such as the COVID-19.
+For example, individual resilience and well-being are much better predictors
+of coping with the threat in the current study, compared
+with national and community resilience, which were more predictive in
+former studies. Most importantly, community and national resilience did not
+add to the prediction of a sense of danger and
+distress symptoms in the current study. A possible explanation for
+this finding may be that the threat of the COVID-19
+is first and foremost a health threat to the individual,
+and as such, dealing with it is more personal and
+much less social or national. Support for this account can
+be found in the fact that both community and national
+resilience were found to be negatively correlated with the predictor
+variables, but when added to the path analysis equation (along
+with individual resilience and well-being) they hardly changed their prediction.
+This explanation needs further research support.

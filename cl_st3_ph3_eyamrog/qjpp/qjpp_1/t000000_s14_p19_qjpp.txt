@@ -1,0 +1,4 @@
+40+ threshold: Similar to the two-dose threshold scenario except that
+vaccine sharing begins in each country after a two-dose vaccination
+is completed for all individuals 40 years of age and
+older.

@@ -1,0 +1,20 @@
+Next, we characterized FBXO44’s molecular interactions with SUV39H1, CRL4 RBBP4/7
+, and Mi-2/NuRD. CoIP experiments showed that endogenous SUV39H1 interacted
+with CRL4 components, CUL4B and DDB1, and these interactions were
+FBXO44-dependent ( Figure 2 F). However, FBXO44 KD did not
+affect CRL4 complex assembly ( Figure 2 G). Interaction of
+FBXO44 and SUV39H1 depended on Mi-2/NuRD components GATAD2A+B, although interaction
+between FBXO44 and GATAD2B was SUV39H1-independent ( Figures 2 H
+and 2I). FBXO44 consists of an N-terminal F-box domain and
+C-terminal F-box-associated domain (FBA), which presumably binds substrates. ChIP experiments
+showed that expression of an siRNA-resistant cDNA encoding F-box deleted
+FBXO44 (ΔF-FBXO44) that did not interact with CUL1 but appropriately
+localized in cells ( Figures S2 D and S2E), could
+not compensate for FBXO44 in mediating H3K9me3 modifications at REs
+in FBXO44 KD cells ( Figure 2 J). CoIP experiments
+revealed that ΔF-FBXO44 interacted with histone H3.1, CUL4B/DDB1, and RBBP4/7,
+but not GATAD2B or SUV39H1 ( Figures S2 F–S2J). Together,
+these data suggest that FBXO44 functions as an adaptor protein,
+with its FBA domain mediating interactions with chromatin and CRL4
+RBBP4/7 and N-terminal F-box-containing region required for interaction with SUV39H1
+and Mi-2/NuRD.

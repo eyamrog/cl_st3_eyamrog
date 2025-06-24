@@ -1,0 +1,15 @@
+K-means clustering requires normalized data, so I scaled the need
+-passive proportions in Appendix 1 around a mean of 0
+and standard deviation of 1 using R’s built-in scale() function.
+The factoextra package ( Kassambara & Mundt 2020 ) in
+R provides three functions for estimating the optimal number of
+groups to enter in a cluster analysis (“elbow method” [e.g.,
+Thorndike 1953 ], “average silhouette” [e.g., Rousseeuw 1987 ], and
+“gap statistic” [e.g., Tibshirani, Walther & Hastie 2001 ]). All
+three functions converged on three groups as optimal, so Figure
+5 shows a K-means cluster analysis based on three groups,
+and visualized with fviz_cluster() from factoextra. Since there are three
+need -passive variables, the function creates a two-dimensional plot by
+performing a principal component analysis and then plotting according to
+the first two principal components. In Figure 5 , need
++ING corresponds to the x-axis and need +ED the y-axis.

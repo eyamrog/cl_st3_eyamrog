@@ -1,0 +1,26 @@
+Our use of data from Australia provides a more compelling
+context for a quasi-experimental approach estimating the mental health effects
+of lockdowns. First, Australia's federal system means lockdown decisions were
+made independently by the government of each state or territory.
+Second, Australia's national strategy of so-called aggressive suppression involved the
+early application of strict lockdown restrictions when community transmission was
+observed. As a consequence, the nexus between the introduction of
+lockdowns and very high community rates of COVID-19 cases was
+weaker in Australia than in most other countries. The third
+reason is the geographical specificity of the lockdown. After a
+nationwide lockdown during the initial wave of COVID-19 (in March
+and April, 2020), restrictions were eased and COVID-19 was largely
+controlled through international border closures and quarantine. However, community transmission
+of COVID-19 was detected in the state of Victoria in
+July, 2020, following quarantine breaches. At this time, a series
+of lockdown measures, including business closures, stay-at-home orders, remote schooling,
+and evening curfews, were introduced exclusively in Victoria. The lockdown
+successfully suppressed community transmission and, after peaking with 725 cases
+on Aug 5, 2020, new daily case numbers in Victoria
+gradually declined and lockdown restrictions were lifted in late October,
+2020. Fourth, the opportunity to apply quasi-experimental methods is often
+dependent on coincidence: the timing of a routine data collection
+aligning with an exogenous event. Our study reflects this coincidence
+of timing, with the planned annual fieldwork for the 20th
+wave of Australia's major household panel survey commencing just as
+the state of Victoria entered this second lockdown.

@@ -1,0 +1,15 @@
+Disease surveillance systems are a cornerstone of public health tracking
+and prevention. This review addresses the use, promise, perils, and
+ethics of social media– and Internet-based data collection for public
+health surveillance. Our review highlights untapped opportunities for integrating digital
+surveillance in public health and current applications that could be
+improved through better integration, validation, and clarity on rules surrounding
+ethical considerations. Promising developments include hybrid systems that couple traditional
+surveillance data with data from search queries, social media posts,
+and crowdsourcing. In the future, it will be important to
+identify opportunities for public and private partnerships, train public health
+experts in data science, reduce biases related to digital data
+(gathered from Internet use, wearable devices, etc.), and address privacy.
+We are on the precipice of an unprecedented opportunity to
+track, predict, and prevent global disease burdens in the population
+using digital data.

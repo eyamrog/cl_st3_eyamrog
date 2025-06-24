@@ -1,0 +1,26 @@
+To characterize the outcomes of a Cas9-induced DSB and the
+developmental potential of edited zygotes, we allowed them to develop
+to the cleavage or blastocyst stage for biopsy, genotyping, stem
+cell derivation, and karyotyping ( Figure 3 A). Of 18
+oocytes injected with sperm and Cas9 RNP at the MII
+stage, 10 developed to the blastocyst stage (56%), which is
+within the normal frequency ( Fogarty et al., 2017 13.
+Fogarty, N.M.E. ∙ McCarthy, A. ∙ Snijders, K.E. ... Genome
+editing reveals a role for OCT4 in human embryogenesis Nature.
+2017; 550 :67-73 Crossref Scopus (274) PubMed Google Scholar ;
+Ma et al., 2017 26. Ma, H. ∙ Marti-Gutierrez, N.
+∙ Park, S.W. ... Correction of a pathogenic gene mutation
+in human embryos Nature. 2017; 548 :413-419 Crossref Scopus (1)
+PubMed Google Scholar ). At the cleavage stage, we biopsied
+individual blastomeres from 4 embryos, and at the blastocyst stage,
+we performed trophectoderm (TE) biopsies consisting of 5–10 cells from
+3 embryos ( Figure 3 B). At the cleavage stage
+(n = 4 embryos), 2 embryos only had the maternal
+EYS wt allele and flanking maternal SNPs, and 2 had
+indels on the paternal allele ( Table S1 ). At
+the blastocyst stage (n = 3 embryos), 2 showed only
+the maternal EYS wt allele ( Table S1 ), which
+was confirmed by on-target NGS and allelic discrimination qPCR, and
+one showed an indel ( Tables S2 and S5 ).
+Therefore, of 7 embryos, 4 (57%) had only a detectable
+EYS wt allele ( Figure 3 B).

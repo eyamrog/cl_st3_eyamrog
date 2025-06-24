@@ -1,0 +1,15 @@
+Results: Of the 458 participants who were enrolled in the
+trial, 154 received mRNA-1273, 150 received Ad26.COV2.S, and 153 received
+BNT162b2 as booster vaccines; 1 participant did not receive the
+assigned vaccine. Reactogenicity was similar to that reported for the
+primary series. More than half the recipients reported having injection-site
+pain, malaise, headache, or myalgia. For all combinations, antibody neutralizing
+titers against a SARS-CoV-2 D614G pseudovirus increased by a factor
+of 4 to 73, and binding titers increased by a
+factor of 5 to 55. Homologous boosters increased neutralizing antibody
+titers by a factor of 4 to 20, whereas heterologous
+boosters increased titers by a factor of 6 to 73.
+Spike-specific T-cell responses increased in all but the homologous Ad26.COV2.S-boosted
+subgroup. CD8+ T-cell levels were more durable in the Ad26.COV2.S-primed
+recipients, and heterologous boosting with the Ad26.COV2.S vaccine substantially increased
+spike-specific CD8+ T cells in the mRNA vaccine recipients.

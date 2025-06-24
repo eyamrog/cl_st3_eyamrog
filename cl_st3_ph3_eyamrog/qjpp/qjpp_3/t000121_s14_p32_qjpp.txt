@@ -1,0 +1,24 @@
+Frozen stocks of ADA.CM.v4 VLP containing approximately 0.5mg/mL envelope protein
+or purified BG505.SOSIP diluted to the same concentration were buffer-exchanged
+into HEPES-buffered saline (HBS, 10mM HEPES-KOH, pH 7.4, 150mM NaCl)
+using Zeba Spin columns with a 7kDa MWCO (ThermoFisher Scientific).
+10μL of VLP solution was diluted with 90μL of deuterated
+HBS (HEPES Buffer Saline, pH 7.4) for the indicated labeling
+time. The reaction was quenched and lysed by addition of
+an equal volume of 0.2% formic acid, 4M guanidine hydrochloride,
+0.2M TCEP (tris(2-carboxyethyl)phosphine), 0.2% DDM (n-Dodecyl-B-D-maltoside), followed by 30 s
+incubation on ice. 20μL of a 300mg/mL solution of ZrO
+2 beads (HybridSPE-Phospholipid) ( Adhikary et al., 2017 1. Adhikary,
+S. ∙ Deredge, D.J. ∙ Nagarajan, A. ... Conformational dynamics
+of a neurotransmitter:sodium symporter in a lipid bilayer Proc. Natl.
+Acad. Sci. USA. 2017; 114 :E1786-E1795 Crossref Scopus (66) PubMed
+Google Scholar ) in 0.1% formic acid was then added
+to the solution, followed by vortexing for 30seconds on ice.
+The bead/protein mixture was then moved to a 0.22μm cellulose
+acetate centrifuge filter tube (Spin-X, Corning) and spun for 30
+s at 13,000xG, 0°C. The flow-through was transferred to a
+thin-wall PCR tube and frozen in liquid nitrogen. Samples were
+thawed on ice and passed over a custom packed pepsin
+column (2.1 × 50 mm) kept at 15°C with a
+flow of 0.1% trifluoroacetic acid (TFA), 2% acetonitrile (ACN) at
+200 μL/min for 5 min.

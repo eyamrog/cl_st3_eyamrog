@@ -1,0 +1,21 @@
+The phecode definitions used to map the diseases that were
+used as an outcome for Cox model analyses can be
+found in Supplementary Table 1 . Steps per day (averaged
+monthly) was examined as a repeated measure and time-varying variable
+to account for fluctuations in activity over an individual’s monitoring
+period. Only daily steps data before incident diagnoses were used
+in the Cox models. The time components for Cox models
+were chosen in terms of months. We also performed similar
+Cox model analyses restricted to individuals who were at high
+risk of incident obesity by virtue of a baseline BMI
+of 25–29.9 kg m . To examine whether the relationship
+between steps per day with the hazard of incident outcomes
+was linear or nonlinear, restricted cubic spline functions using 3,
+4 and 5 knots of steps was fitted with separate
+Cox models. The model with lowest Akaike information criterion (AIC)
+value was chosen to then interpret the relation of steps
+per day with risk of developing a condition. Months for
+which participants had fewer than 15 days of observations were
+excluded from Cox models. We also examined the percent months
+and days that were excluded based on this additional criterion
+implemented in the Cox models.

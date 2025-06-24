@@ -1,0 +1,16 @@
+Aminoallyl-dUTP-XX-Atto488, Aminoallyl-dUTP-XX-Atto594 and Aminoallyl-dUTP-Cy3 (each 1 mM) were purchased from
+Jena Bioscience (Germany). TAMRA-dUTP (∼1 mM) was made by incubating
+TAMRA-succinimidyl ester with aminoallyl-dUTP in a bicarbonate buffer. 10 μl
+of 20 mM 10 μl aminoallyl-dUTP, 10 μl H 2
+O, 10 μl of 0.2M bicarbonate buffer and 20 μl
+of 10 mM of TAMRA-succinimidyl ester (total reaction volume 50
+μl) were mixed in an Eppendorf tube and incubated for
+3-4 hours at 30°C. To stop the reaction 2 μl
+of 2 M glycine (pH 8.0) were used. 4 μl
+of 1 M Tris-HCL (pH 7.8) were added to stabilize
+the nucleotides. In order to generate a concentration of 1
+mM 200 μl H 2 O were added (described in
+detail in Müller et al., 2007 38. Müller, S. ∙
+Neusser, M. ∙ Köhler, D. ... Preparation of Complex DNA
+Probe Sets for 3D FISH with up to Six Different
+Fluorochromes CSH Protoc. 2007; 2007 pdb.prot4730 Google Scholar ).

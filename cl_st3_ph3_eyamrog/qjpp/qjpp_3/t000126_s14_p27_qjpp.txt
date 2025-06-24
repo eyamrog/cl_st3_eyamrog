@@ -1,0 +1,22 @@
+Ten million naïve or LPS-stimulated (0.1mg/mL for 4 hours) human
+peripheral blood-derived macrophages were cross-linked and processed using truChIP kit
+(Covaris Inc), as described in detail before( Mehta et al.,
+2017 49. Mehta, S. ∙ Cronkite, D.A. ∙ Basavappa, M.
+... Maintenance of macrophage transcriptional programs and intestinal homeostasis by
+epigenetic reader SP140 Sci. Immunol. 2017; 2 :eaag3160 Crossref Scopus
+(41) PubMed Google Scholar ). Input fraction was saved (10%),
+and the remaining sheared chromatin was used for ChIP with
+γH2AX antibody (Abcam) or an immunoglobulin G isotype control (Abcam)
+in immunoprecipitation buffer (0.1% Triton X-100, 0.1 M Tris-HCl pH
+8, 0.5 mM EDTA, and 0.15 M NaCl in 1Å∼
+Covaris D3 buffer) at 4°C, rotating overnight, followed by incubation
+with Dynabeads Protein G (Life Technologies) for 4 hours. The
+chromatin-bead-antibody complexes were then washed sequentially with three wash buffers
+of increasing salt concentrations and TE buffer. Chromatin was eluted
+using 1% SDS in Tris-EDTA. Cross-linking was reversed by incubation
+with ribonuclease A (Roche) for 1 hour at 37°C, followed
+by an overnight incubation at 65°C with Proteinase K (Roche).
+DNA was purified with the QIAquick PCR Purification Kit (Qiagen).
+DNA was used for ChIP qPCR using primers in Key
+Resources Table . ChIP data across different donors was normalized
+to γH2AX ChIP of control sample of each donor.

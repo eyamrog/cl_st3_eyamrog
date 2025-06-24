@@ -1,0 +1,7 @@
+As mentioned above, British Columbia has extensive administrative data that
+documents students from kindergarten to postsecondary, and now even into
+the labor force. As Vancouver and Toronto are both major
+cities in Canada, it seemed obvious to compare student outcomes
+in Toronto with Vancouver. The BC administrative data had information
+on all students in British Columbia and it could easily
+be analyzed at the subsample level of Metro-Vancouver.

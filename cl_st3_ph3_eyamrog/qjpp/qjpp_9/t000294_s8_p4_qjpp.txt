@@ -1,0 +1,15 @@
+The learner corpus used in this study, the Sogang English
+Learner Corpus of Argumentative Essays ( selcae ), consists of
+essays written by incoming freshman students at Sogang University in
+Seoul, Korea, from 2009 to 2012. Before the start of
+a new academic year, all freshman students were required to
+take a placement test for their two-semester mandatory general English
+courses. The placement test consisted of an oral interview and
+a written essay exam, for the latter of which they
+were given fifty minutes to write an argumentative essay in
+response to one of eight randomly assigned writing prompts (see
+Appendix A for the prompts). The writing samples were evaluated
+by a commercial service, the Educational Testing Service ( ets
+), which uses an evaluation tool (i.e., et s’s Criterion®
+Online Writing Evaluation) to produce a holistic essay score from
+one to six.

@@ -1,0 +1,6 @@
+The Results section in the TRJPS articles contains more research-related
+terminology (e.g., the dependent variable, standard errors in parentheses, robust
+standard errors, the co-efficient on, in the model ) and
+evaluative expressions (e.g., consistent with the, support for the, and
+statistically significant ). Again, no section-specific bundles were found in
+the PJPS counterpart.

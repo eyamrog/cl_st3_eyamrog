@@ -1,0 +1,13 @@
+HIV-1 Env mediates viral entry into host cells and is
+the sole target for neutralizing antibodies. However, Env structure and
+organization in its native virion context has eluded detailed characterization.
+Here, we used cryo-electron tomography to analyze Env in mature
+and immature HIV-1 particles. Immature particles showed distinct Env positioning
+relative to the underlying Gag lattice, providing insights into long-standing
+questions about Env incorporation. A 9.1-Å sub-tomogram-averaged reconstruction of virion-bound
+Env in conjunction with structural mass spectrometry revealed unexpected features,
+including a variable central core of the gp41 subunit, heterogeneous
+glycosylation between protomers, and a flexible stalk that allows Env
+tilting and variable exposure of neutralizing epitopes. Together, our results
+provide an integrative understanding of HIV assembly and structural variation
+in Env antigen presentation.

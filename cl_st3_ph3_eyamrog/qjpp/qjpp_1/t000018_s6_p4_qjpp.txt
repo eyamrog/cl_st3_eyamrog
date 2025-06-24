@@ -1,0 +1,8 @@
+We also observed an expansion of ACKR1 endothelial cells alongside
+activated fibroblasts in M4/M5-high tissues/deep ulcers. Module M2 also strongly
+correlated with endothelial cells in our in silico predictions, and
+was the third strongest association with therapy nonresponse. Since endothelial
+cells did not express high levels of genes coding for
+neutrophil-chemoattractant CXCLs, we can speculate that inflammatory fibroblasts produce these
+chemokines, which are then presented by ACKR1 endothelial cells to
+circulating neutrophils to initiate extravasation .

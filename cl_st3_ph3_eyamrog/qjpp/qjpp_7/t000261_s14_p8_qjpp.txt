@@ -1,0 +1,16 @@
+One of the most common problems with DiD estimates is
+the failure of the common trend assumption. This assumption is
+untestable, as the counterfactual is not observed. However, by examining
+pre-intervention trends using a number of methods, we assessed if
+this assumption was reasonable. Firstly, each model was estimated using
+data for the two pre-policy periods only, with year two
+(2014/15) treated as a placebo post-treatment period. A significant effect
+between year one and year two would suggest that the
+pre-treatment time trend for both groups was not comparable (Test
+1). Secondly, a fully flexible difference-in-difference model proposed by Mora
+and Reggio (2012) was used to test for common pre-treatment
+dynamics (Test 2) ( Mora and Reggio, 2012 ; Mora,
+2015 ). Furthermore, a DiD model was estimated for each
+of the two pre-treatment periods allowing the consistency of estimated
+results to be assessed. Finally, the trend in outcomes over
+time for both cohorts were assessed graphically.

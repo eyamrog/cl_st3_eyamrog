@@ -1,0 +1,14 @@
+Methods: For this single-blind, parallel-group, randomised controlled trial, we aimed
+to recruit 15 000 adults in the UK, who were
+quota sampled to be representative. Participants were randomly assigned equally
+across ten information conditions stratified by level of vaccine acceptance
+(willing, doubtful, or strongly hesitant). The control information condition comprised
+the safety and effectiveness statement taken from the UK National
+Health Service website; the remaining conditions addressed collective benefit, personal
+benefit, seriousness of the pandemic, and safety concerns. After online
+provision of vaccination information, participants completed the Oxford COVID-19 Vaccine
+Hesitancy Scale (outcome measure; score range 7–35) and the Oxford
+Vaccine Confidence and Complacency Scale (mediation measure). The primary outcome
+was willingness to be vaccinated. Participants were analysed in the
+groups they were allocated. p values were adjusted for multiple
+comparisons. The study was registered with ISRCTN, ISRCTN37254291.

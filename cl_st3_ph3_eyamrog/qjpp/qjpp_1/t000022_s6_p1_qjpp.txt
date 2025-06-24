@@ -1,0 +1,6 @@
+Our review examines important equity and justice considerations in the
+conceptualization and application of big data methods. For users of
+big data, it is paramount to challenge our assumptions and
+develop new or improved frameworks to ensure equitable big data
+research practices. Williams et al. ( 145 , p. 100)
+state:

@@ -1,0 +1,18 @@
+Fastq files were processed with the Juicer pipeline v1.5.6 (
+Durand et al., 2016 41. Durand, N.C. ∙ Shamim, M.S.
+∙ Machol, I. ... Juicer provides a one-click system for
+analyzing loop-resolution Hi-C experiments Cell Syst. 2016; 3 :95-98 Full
+Text Full Text (PDF) PubMed Google Scholar ) (CPU version)
+using bwa v0.7.17 ( Li and Durbin, 2010 81. Li,
+H. ∙ Durbin, R. Fast and accurate long-read alignment with
+Burrows-Wheeler transform Bioinformatics. 2010; 26 :589-595 Crossref Scopus (6718) PubMed
+Google Scholar ) for mapping short reads to the reference
+genomes mm10 (mouse), hg19 (human), galGal6 (chicken), monDom5 (opossum), susScr11.1
+(pig), and AmexG_v6.0-DD (axolotl), respectively. Replicates were merged after the
+mapping, filtering and deduplication steps of the Juicer pipeline. Juicer
+tools v1.7.5 ( Durand et al., 2016 41. Durand, N.C.
+∙ Shamim, M.S. ∙ Machol, I. ... Juicer provides a
+one-click system for analyzing loop-resolution Hi-C experiments Cell Syst. 2016;
+3 :95-98 Full Text Full Text (PDF) PubMed Google Scholar
+) were used to generate binned and KR normalized Hi-C
+maps from read pairs with MAPQ≥30.

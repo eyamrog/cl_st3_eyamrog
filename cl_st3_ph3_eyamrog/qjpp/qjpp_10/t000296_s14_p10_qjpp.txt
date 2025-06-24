@@ -1,0 +1,15 @@
+Unusual collocations were further divided into ones affected by the
+L1 influence of tsukuru ( make in Japanese). L1 influence
+analysis was conducted on the ‘concordance’ function of AntPconc version
+1.2.1 ( Anthony, 2017 ), which displays English and Japanese
+on the same screen. As references for tsukuru + noun
+collocations, this study consulted Japanese dictionaries. In addition, the following
+criteria were set to predict L1 influence as precisely as
+possible. If the unusual collocations met at least one of
+the following criteria, they were regarded as L1 influence outcomes.
+• Learners used tsukuru in a corresponding sentence in the
+kubec Japanese data. For example, ‘In other words, my part-time
+job makes my lifestyle!’ • Learners used verbs that are
+semantically similar to tsukuru , such as 形成 ( keisei
+) and 作成 ( sakusei ). For example, ‘Many people
+believe that part-time job helps make self-organization for job hunting’.

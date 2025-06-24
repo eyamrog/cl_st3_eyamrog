@@ -1,0 +1,6 @@
+We fitted unadjusted and adjusted multilevel mixed-effects linear and logistic
+regression models for continuous and binary outcomes respectively. In both
+adjusted and unadjusted models, a random effect term was included
+in the intercept to account for clustering due to the
+study design. Nutritional status or maternal diet were the dependent
+variables, and child sex was the independent variable.

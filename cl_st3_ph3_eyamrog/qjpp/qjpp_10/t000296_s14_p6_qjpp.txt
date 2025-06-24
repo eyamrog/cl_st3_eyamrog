@@ -1,0 +1,3 @@
+Since this study requires as much usage as possible for
+comparison, it extracted all the make + noun collocation data
+from the ens groups.

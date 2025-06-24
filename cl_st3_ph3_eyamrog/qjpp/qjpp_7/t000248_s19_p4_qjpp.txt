@@ -1,0 +1,25 @@
+Finally, we explored a conditional variant of Hypothesis 1. We
+tentatively expected that higher minority presence might afford more compatible
+dual identities through mitigating the effect of minority experiences of
+school discrimination. Accordingly, we tested the three-way interaction of ethnic
+identification with minority presence and minority experiences of school discrimination
+as contextual moderators. A significant three-way cross-level interaction (“full model”
+in Table 2 ) indicated that minority presence and minority
+experiences of school discrimination jointly moderated the individual-level association between
+ethnic and national identification. First, we zoom in on the
+classes with fewer minority peers (–1 SD = 23%). There,
+ethnic and national identification were less compatible when minority peers
+in class experienced more school discrimination (+1 SD = some
+of the time) (Figure 2 ). More precisely, in classes
+with fewer minority peers and high levels of school discrimination,
+minority youth who were more strongly ethnically identified were also
+less nationally identified (i.e., negative association), p < .001. In
+contrast, when minority peers in class experienced less school discrimination
+(–1 SD = never), minority youth's ethnic and national identification
+were dissociated – in line with identity compatibility, p =
+.394. Together, the results at lower levels of minority presence
+partially support Hypothesis 1 that ethnic and national identification are
+less compatible when minorities experience more school discrimination. Furthermore, national
+identification was weaker in classes with higher (vs. lower) minority
+experiences of discrimination only for highly ethnically identified adolescents (+1
+SD = very strongly), p = .054.

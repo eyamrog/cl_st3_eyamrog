@@ -1,0 +1,3 @@
+RQ2: Given the adopted solution of creating a separate corpus
+for archiving, how do the differences between the two versions
+of the WiSP corpus affect findings?

@@ -1,0 +1,12 @@
+After the meaning annotation was completed, the concordance lines were
+scrutinised to analyse the lexico-grammatical patterns in which different meanings
+of just were used. We annotated the syntactic structures of
+the modified constituent and formed lexico-grammatical patterns accordingly. For example,
+‘this is just another show promoting violence’ was summarised into
+the pattern [X + be + ‘ depreciatory ’ just
++ noun (phrase)]. We then examined the function of just
+in the pattern by identifying the semantic relation between the
+‘referent’ point and the focussed element modified by just .
+Semantic features that co-occurred with the use of just were
+also discussed to provide a clearer picture of the environment
+in which the meaning of just was elicited.

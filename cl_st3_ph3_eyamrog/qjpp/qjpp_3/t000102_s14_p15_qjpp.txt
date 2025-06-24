@@ -1,0 +1,15 @@
+Nucleosomal arrays were reconstituted from the 601-207 bp x 12
+DNA and purified histone octamers using a salt dialysis protocol.
+Unlabeled and fluorescently labeled histone octamers were combined at a
+ratio of 1:20 labeled to unlabeled octamer prior to reconstitution.
+Purified template DNA and histone octamers were mixed in TE
+buffer (10mM Tris pH 7.8, 1mM EDTA) containing 2M NaCl
+at a final DNA concentration of 0.3 mg/ml. The mixture
+was then dialyzed successively for 4 h against TE buffer
+containing 1.0M, 0.75M and 2.5 mM NaCl. The final dialysis
+step was against 10mM Tris pH 7.8, 0.25mM EDTA, 2.5mM
+NaCl, 0.1mM PMSF (TEN) buffer for 4 h. Only nucleosomal
+arrays that sedimented at 27-29S and contained 11-12 histone octamers/DNA
+template were used in subsequent experiments. Sedimentation coefficients were obtained
+using a Beckman XL-I analytical ultracentrifuge. Sedimentation velocity data were
+edited and analyzed with the UltraScan III program.

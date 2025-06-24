@@ -1,0 +1,19 @@
+To generate the free-energy plots shown in Figure 7 ,
+we calculated Δ ⁢ 𝐹 ⁡ ( { 𝜑 𝑖
+} , { 𝜇 ( c o e x )
+𝑖 } ) 𝑘 ⁢ 𝑇 = 𝐹 ⁡ (
+{ 𝜑 𝑖 } ) 𝑘 ⁢ 𝑇 − ∑
+𝑖 ( 𝜇 ( c o e x ) 𝑖
+𝑘 ⁢ 𝑇 ) ⁢ 𝜑 𝑖 , at the
+coexistence chemical potential vector { 𝜇 ( c o e
+x ) 𝑖 } . We then plotted Δ ⁢
+𝐹 / 𝑘 ⁢ 𝑇 along a linear path through
+concentration space, { Δ ⁢ 𝜑 𝑖 } , between
+each pair of coexisting phases. In Figures 7 C and
+7D, where there is no stable 𝛼 phase, we calculated
+the free energy along a linear path to the location
+of the 𝛼 phase in panel A. The compositions reported
+on the free-energy plots are the volume fractions of the
+components present in each phase, normalized by the total colloid
+volume fraction in that phase and rounded to the nearest
+5%.

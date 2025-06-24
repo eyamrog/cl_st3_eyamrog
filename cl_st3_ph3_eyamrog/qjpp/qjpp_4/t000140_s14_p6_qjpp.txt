@@ -1,0 +1,11 @@
+A Fisher's exact test was used to assess whether being
+above the sample median for absolute fat percentage, fat mass
+index, and fat free mass index was associated with being
+post-adrenarcheal. Overfat was defined as >85th percentile of sex- and
+age-specific reference curves for body fat derived from British children;
+no equivalent exists for Maya (McCarthy, Cole, Fry, Jebb, &
+Prentice, 2006 ). Finally, we assessed birth weight and association
+with adrenarcheal status using the sample median as well as
+WHO definition of low birth weight (≤2.5 kg). Statistical analyses
+used Excel version 16.29.1, and SPSS version 24. Significance was
+P < .05. Means are shown with standard deviations (SD).

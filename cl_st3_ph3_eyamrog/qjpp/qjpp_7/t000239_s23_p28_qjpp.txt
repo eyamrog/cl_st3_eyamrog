@@ -1,0 +1,14 @@
+For the right-hand side control variables, they can be plausibly
+thought to determine why the lockdown was the way it
+was in that particular country. Most important would seem to
+be the actual extent of impact that COVID-19 had had
+on a country by March 15 (or March 30) and
+the prospect of how the shape of the curve was
+beginning to look; to account for this, I use both
+the number of confirmed cases of coronavirus and the number
+of deaths attributed to the virus as of March 15
+or March 30. The information contained in these variables may
+not only capture the extent of COVID’s effect on that
+particular country, but also may capture additional institutional and cultural
+attributes which could be determining both popular and political responses
+( Huynh 2020 ; van Bavel et al. 2020 ).

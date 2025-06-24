@@ -1,0 +1,19 @@
+The single-support period of bipedal chimpanzees is characterized by a
+larger internal (i.e., medial) rotation moment than in human walking.
+This supports the inference of Stern and Susman (1981 :164)
+that for chimpanzees, “… the problem posed during the single-support
+phase of bipedality is to prevent collapse into lateral rotation
+at the stance side hip.” Our results confirm and extend
+this inference, indicating that there is also a substantial hip
+adduction moment in bipedal chimpanzee walking, which reaches a similar
+magnitude to the internal rotation moment near the end of
+the single-support period. Taken together, the moment data herein confirm
+that the distinction between the 3-D mechanics of the single-support
+period in bipedal chimpanzee and human walking is a reliance
+on ‘rotation-based’ or ‘rotation-adduction-based’ hip mechanics in chimpanzees and ‘abduction-based’
+hip mechanics in humans for ‘maintaining lateral balance.’ How individual
+hindlimb muscle-tendon units contribute to balancing these moments in bipedal
+chimpanzees requires additional quantitative analyses, since an individual muscle-tendon unit
+will, in general, have non-zero moment arms about all three
+hip joint axes that can change in magnitude and sign
+during movement (e.g., O'Neill et al., 2013 ).

@@ -1,0 +1,7 @@
+Age is recognized to play an important role in the
+dynamics of the SARS-CoV-2 epidemic, strongly influencing both the outcome
+after infection and the characteristic social mixing behavior that facilitates
+transmission. These age-based heterogeneities were captured by stratifying the modeled
+populations into 5-year age groups using country-level data on age
+demographics , each with their own parameters for susceptibility, the
+occurrence of symptoms and the risk of severe disease.

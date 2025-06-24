@@ -1,0 +1,16 @@
+Our data-driven, meta-regression approach allowed us not only to compute
+the mean risk function across different study designs and SBP
+exposure ranges by relaxing conventional log-linear assumptions, controlling for bias
+and explicitly handling differences in exposure ranges across studies—but also
+to generate BPRF, which quantifies and accounts for between-study heterogeneity.
+The BPRF provides (1) a rigorous approach to estimate the
+magnitude of the relationship between SBP and IHD, (2) a
+conservative interpretation of the available evidence and (3) a quantitative
+evaluation of evidence strength. The mean BPRF averaged across the
+data-dense range of SBP exposure between 107.5 and 165 mm
+Hg indicated that—even based on a highly conservative interpretation of
+the evidence—IHD risk increased on average by 101.36% over this
+range relative to an SBP of 100 mm Hg. The
+BPRF yielded a ROS of 0.70 and a five-star rating,
+indicative of a significant and robust dose–response association between SBP
+and IHD, supported by strong evidence.

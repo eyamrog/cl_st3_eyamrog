@@ -1,0 +1,11 @@
+Despite the evolution of organizations and institutions to work with
+complex technologies, deal with infrastructure failures, and attempt to minimize
+risks and the occurrence of “accidents” ( Roe and Schulman
+2016 ), “black swan” events such as COVID-19 do occur
+( Boin and Lodge 2016 ) and can even serve
+to threaten the existing institutional order ( Cortell and Peterson
+1999 ). Bereft of memory or guidance, and with any
+institutional capabilities highly dispersed across decision units, institutions themselves had
+to rely on their leaders, who, without any guidance from
+personal experience, were only able to draw on their own
+specific heuristics.

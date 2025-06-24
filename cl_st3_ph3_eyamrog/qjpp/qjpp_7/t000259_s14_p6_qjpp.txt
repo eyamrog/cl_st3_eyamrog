@@ -1,0 +1,6 @@
+In this case, I designed a conjoint experiment that works
+by first presenting respondents with three different vaccine candidates, and
+then asks them to assess how likely they would be
+to receive each one. Vaccine candidates vary along six dimensions
+(attributes), corresponding to the hypotheses and research questions outlined above
+(see: column 1 in Table 1 ).

@@ -1,0 +1,12 @@
+To perform DamID, ESCs and cultured E11.5 limb cells were
+transduced with DamID lentiviruses and harvested 72 or 48 h
+later, respectively. Specifically, 1,5x10 5 ESCs were plated feeder-free onto
+gelatinized 6 well 1 h prior to transduction with DamID
+lentiviruses. Transduction was then performed overnight after which virus-containing media
+was removed and cells were plated with feeders in 6
+cm plates. After 48 h, contaminating feeders were removed by
+further feeder-depletion and pure ESCs were isolated by centrifugation. By
+contrast, isolated E11.5 limb bud cells were directly plated and
+transduced after 1 h. Virus-containing media was removed 24 h
+later after which cells were isolated after an additional 48
+h.

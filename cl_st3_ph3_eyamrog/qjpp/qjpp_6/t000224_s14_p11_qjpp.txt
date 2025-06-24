@@ -1,0 +1,20 @@
+Across the six specific 10 kyr time intervals falling within
+MIS 13–11 ( Table 5 ), maximum, minimum, range, and
+transect range values were generated for each of the 19
+bioclim variables, for both transects (values were sampled at 10%
+intervals). Range values are the difference between the minimum and
+maximum values along the entire transect. Transect range values are
+the difference between the two values at either end of
+the transect (i.e., the values at Áridos and Hoxne for
+transect A, and the values at Bilzingsleben and Saint-Colomban for
+transect B). Values for bioclim variables Bio1 (MAT), Bio5 (maximum
+temperature of the warmest month), Bio6 (minimum temperature of the
+coldest month), and Bio12 (annual precipitation) are listed in Table
+6 , Table 7 , Table 8 , Table 9
+. Values for the remaining bioclim variables are listed in
+SOM Tables S2–S16 . Statistical comparisons were conducted on climate
+transect data for the 490 ka and 410 ka intervals,
+as these represent peak conditions in MIS 13 and 11
+and therefore offered a ‘like-with-like’ comparison. Statistical comparisons were made
+using the nonparametric Mann–Whitney U test because of the impact
+of small sample sizes on data distributions.

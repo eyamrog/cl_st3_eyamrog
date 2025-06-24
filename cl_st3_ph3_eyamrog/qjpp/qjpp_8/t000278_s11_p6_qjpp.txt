@@ -1,0 +1,14 @@
+Motion events can differ in terms of their degree of
+structural complexity: they can be simple, as in (7), which
+indicates only one dimension of the motion (in this case,
+information on the path, i.e., down ), or they can
+be macro-events (i.e., complex) as in (8)-(10). A macro-event represents
+as unitary by means of “a single clause” an event
+that “under a more analytic conceptualization would be understood as
+complex and represented by a multiclause syntactic structure” ( Talmy
+2000 :II, 215-216). A consequence of such unitary conceptualization is
+that macro-events encode or “conflate” ( Talmy 1972 :257) an
+additional co-event or support relation of motion. The co-event is
+very often “manner,” with other possible co-events, according to Talmy’s
+categorization (2000:II, 28, 42-47, 137, 220-221), being “precursion,” “enablement,” “reverse
+enablement,” “cause,” “concomitance,” “concurrent result,” and “subsequence.”

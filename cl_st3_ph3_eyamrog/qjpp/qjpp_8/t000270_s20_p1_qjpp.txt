@@ -1,0 +1,9 @@
+In the following, we discuss the results of our simulations
+starting with a comparison of epidemics in adaptive and static
+networks. Thereafter, we discuss how health behavior homophily affects epidemics
+in adaptive and small-world networks and conclude with how these
+dynamics differ in static networks. Additional analyses can be found
+in Online appendix B – Additional analyses , where we
+show, among others, that the effect of degree on final
+size is negligible ( Effect of degree on final size
+) and can therefore be omitted for further analyses.

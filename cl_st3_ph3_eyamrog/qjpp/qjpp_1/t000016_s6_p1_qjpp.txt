@@ -1,0 +1,11 @@
+AI has shown promise for diagnosis and grading of prostate
+cancer, but these results have been restricted to siloed studies
+with limited proof for generalization across diverse multinational cohorts, representing
+one of the central barriers to implementation of AI algorithms
+in clinical practice. The objective of the present study was
+to overcome these critical issues. First, we aimed to facilitate
+community-driven development of AI algorithms for cancer detection and grading
+on prostate biopsies. Second, we sought to transcend isolated assessment
+of the diagnostic performance of individual AI solutions by focusing
+on reproducibility and fully blinded validation of a diverse group
+of algorithms on intercontinental and multinational cohorts.

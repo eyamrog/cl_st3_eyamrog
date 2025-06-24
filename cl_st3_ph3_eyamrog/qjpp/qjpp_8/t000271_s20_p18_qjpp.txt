@@ -1,0 +1,12 @@
+The most frequent lexical bundles across the main sections of
+the research article (Abstract, Introduction, Background, Methods, Results and Discussion,
+Conclusion) can be found in Appendixes I - VI .
+As the sections are fairly small after division and differ
+greatly from each other in size, the following observations were
+made based on those lists rather than statistical comparison across
+the sections and the corpora, which would require much more
+data. Nevertheless, the lists of most frequent bundles identified in
+the individual sections did point to some differences between the
+two corpora in terms of in-text variation that are worth
+further exploration in future research. In what follows, we summarise
+our observations.

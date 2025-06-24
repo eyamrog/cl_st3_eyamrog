@@ -1,0 +1,27 @@
+CRISPR was subsequently performed as described previously ( Kraft et
+al., 2015 71. Kraft, K. ∙ Geuer, S. ∙ Will,
+A.J. ... Deletions, inversions, duplications: engineering of structural variants using
+CRISPR/Cas in mice Cell Rep. 2015; 10 :833-839 Full Text
+Full Text (PDF) Scopus (135) PubMed Google Scholar ). Briefly,
+300,000 G4 ESCs ( George et al., 2007 51. George,
+S.H. ∙ Gertsenstein, M. ∙ Vintersten, K. ... Developmental and
+adult phenotyping directly from mutant embryonic stem cells Proc. Natl.
+Acad. Sci. USA. 2007; 104 :4455-4460 Crossref Scopus (142) PubMed
+Google Scholar ) were seeded on CD1 feeders 16 h
+prior to transfection. For structural variants, ESCs were transfected with
+4 μg of both sgRNAs targeting each breakpoint using FuGENE
+HD according to manufacturer’s instructions. For site-specific knockins, ESCs were
+transfected with 8 μg of the sgRNA and 4 μg
+of the homology construct. After 24 h, transfected cells were
+transferred onto puromycin-resistant DR4 feeders and treated with puromycin for
+48 h. ESCs were grown for a further 4-6 days
+after which colonies were picked and transferred to CD1 feeders
+in 96-well plates. Plates were subsequently split into triplicates after
+2-3 days, two for freezing and one for DNA harvesting.
+Following lysis and genotyping, selected clones were expanded from frozen
+plates after which genotypes were reconfirmed. Potential structural variant and
+knockin ESC clones were first identified by PCR-detection of unique
+deletion breakpoints or site-specific insertion breakpoints, respectively. Desired homozygous or
+heterozygous copy number were then determined by qPCR. All cell
+lines and corresponding genotyping primers can be found in Tables
+S1 and S2 .

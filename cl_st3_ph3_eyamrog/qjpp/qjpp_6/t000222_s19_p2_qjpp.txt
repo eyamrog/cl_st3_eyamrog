@@ -1,0 +1,21 @@
+Procrustes distances within hominine taxa indicate that the maxillary shape
+of Homo and Gorilla is more variable than that of
+Pan , and at the species level, there is a
+statistically significant reduction in shape variation from H. sapiens to
+G. gorilla to G. beringei to P. troglodytes to P.
+paniscus ( Fig. 2 A; SOM Tables S5 and S6
+). At the subspecies level, G orilla g orilla diehli
+is less variable in shape than G orilla g orilla
+gorilla , Gorilla b eringei graueri is less variable than
+G orilla b eringei beringei , and P. t. verus
+is less variable than P an t roglodytes troglodytes and
+Pan troglodytes schweinfurthii . Notably, G. b. beringei is more
+variable in shape than the species G. beringei overall, a
+pattern not seen for the other taxa. Download: Download high-res
+image (391KB) Download: Download full-size image Figure 2 . Variation
+within (A) and between (B) hominine genera (orange), species (white),
+and subspecies (blue). Comparisons are ordered from smallest to largest
+average Procrustes distance (black diamonds), highlighting that the degree of
+shape variation varies between taxa. (For interpretation of the references
+to color in this figure legend, the reader is referred
+to the Web version of this article).

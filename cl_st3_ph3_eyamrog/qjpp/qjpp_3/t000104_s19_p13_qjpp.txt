@@ -1,0 +1,9 @@
+FBXO44 KD decreased metastatic seeding of cancer cells to the
+lung, brain, and bone in immunodeficient mice ( Figures S6
+A–S6C). FBXO44 KD also decreased orthotopic mammary tumor growth (
+Figures S6 D–S6F). Co-targeting of MAVS+STING only partially rescued the
+decreased tumor growth induced by FBXO44 KD, consistent with in
+vitro data showing it could not fully rescue the anti-proliferation
+effect of FBXO44 KD cells ( Figure 5 E). Thus,
+FBXO44/SUV39H1 inhibition decreases cell-autonomous tumor growth in mice only partially
+dependent on MAVS/STING signaling.

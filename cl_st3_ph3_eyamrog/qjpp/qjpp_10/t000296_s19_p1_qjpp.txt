@@ -1,0 +1,11 @@
+To answer RQ1, we calculated the proportion of L1 influence
+on each proficiency level and performed a chi-square test with
+R version 4.0.3 ( R Core Team, 2020 ). Table
+3 summarises the proportions of L1 influence on learners’ make
++ noun collocations. A2 and B1 learners closely share proportions
+of L1 influence, with only a 1.4 percent difference. B2
+learners produced the least unusual collocations caused by L1 influence
+(15.6 percent). However, the result did not show any statistically
+significant differences in the frequency of L1 influence among the
+learners. This result suggests that L1 influence persists during the
+developmental process of learners’ collocational knowledge.

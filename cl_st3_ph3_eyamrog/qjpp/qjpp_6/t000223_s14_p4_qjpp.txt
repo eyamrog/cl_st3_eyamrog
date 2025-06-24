@@ -1,0 +1,5 @@
+The radiocarbon ages were calibrated using IntCal20 ( Reimer et
+al., 2020 ) and Marine20 ( Heaton et al., 2020
+). The shell determinations were additionally corrected for the local
+Mediterranean reservoir effect (ΔR = 58 ± 85 14 C
+years; Reimer and McCormac, 2002 ).

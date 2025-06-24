@@ -1,0 +1,11 @@
+The primary outcomes were identified using any incident billing code
+in EHR. We excluded any new diagnoses coded during the
+first 6 months of monitoring, assuming that such conditions were
+likely prevalent but not yet recognized clinically. The EHR data
+from different participating sites were mapped and harmonized using the
+Observational Medical Outcomes Partnership common data model . We used
+the ICD to phecode map developed by Zheng et al.
+to map the EHR data to create phecodes (Supplementary Tables
+1 and 2 ). We mapped ICD9CM and ICD10CM ‘source’
+codes found in the AoURP Curated Data Repository to phecodes,
+which were used as outcomes.

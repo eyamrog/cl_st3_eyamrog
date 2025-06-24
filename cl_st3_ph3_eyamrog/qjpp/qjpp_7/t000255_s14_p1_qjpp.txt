@@ -1,0 +1,23 @@
+Data were from the COVID-19 Coping Study, a longitudinal mixed-methods
+study of middle-aged and older adults’ mental health and well-being
+during the COVID-19 pandemic in the United States (Kobayashi et
+al., 2021 ). Eligible participants were adults aged ≥55 years
+who resided in the United States, including Puerto Rico, and
+who were able to access and complete the online survey
+in English. Participants were recruited through an online, multi-frame sampling
+strategy; full details on study design and recruitment are published
+elsewhere (Kobayashi et al., 2021 ). The study was conducted
+online to ensure it was in line with institutional limitations
+on in-person research due to the COVID-19 pandemic, and to
+reach as many people as possible who had Internet access.
+The current study utilized data from nine waves of measurement
+spanning 10 months, from April 2, 2020 to January 4,
+2021. Data were collected once a month, with the baseline
+survey designed to take approximately 17 minutes and the subsequent
+monthly follow-up surveys designed to take approximately 10 minutes. A
+total of 4453 participants were recruited into the longitudinal sample,
+of which 4444 had valid subjective memory data at baseline
+and they comprise our analytic sample. A total of 1340
+participants provided valid data at all monthly follow-ups, with participants
+completing an average of 5.5 measurement time points of subjective
+memory data for a total of 27,148 observations.

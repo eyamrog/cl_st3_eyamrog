@@ -1,0 +1,18 @@
+According to the theory of liking, data quality might be
+improved in face-to-face survey settings when there is a high
+degree of similarity between respondents and interviewers, for example, with
+regard to gender or age. Using two rounds of European
+Social Survey data from 25 countries including more than 70,000
+respondents, this concept is tested for the dependent variables amount
+of item nonresponse, reluctance to answer, and the probability that
+a third adult person is interfering with the interview. The
+match between respondents and interviewers is operationalized using the variables
+age and gender and their statistical interactions to analyze how
+this relates to the outcomes. While previous studies can be
+corroborated, overall effect sizes are small. In general, item nonresponse
+is lower when a male interviewer is conducting the interview.
+For reluctance, there are no matching effects at all. Regarding
+the presence of other adults, only female respondents profit from
+a gender match, while age is without any effect. The
+results indicate that future surveys should weigh the costs and
+benefits of sociodemographic matching as advantages are probably small.

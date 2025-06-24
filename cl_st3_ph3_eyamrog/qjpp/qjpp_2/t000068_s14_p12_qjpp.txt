@@ -1,0 +1,14 @@
+The results for the primary outcome were based on a
+modified intention-to-treat population that excluded patients who withdrew from the
+trial or were lost to follow-up. A sensitivity analysis was
+performed with the use of multiple imputation to account for
+missing data, including data for the patients who were lost
+to follow-up or withdrew from the trial. Additional analyses were
+performed in the per-protocol and as-treated populations; definitions of all
+the analysis populations are provided in the Supplementary Appendix .
+The 95% confidence intervals presented in this article have not
+been adjusted for multiple comparisons, and therefore inferences drawn from
+these intervals may not be reproducible. In a post hoc
+analysis, the upper boundary of the one-sided 97.5% confidence interval,
+which corresponds to a one-sided type I error of 0.025
+for the primary analysis results, was also calculated.

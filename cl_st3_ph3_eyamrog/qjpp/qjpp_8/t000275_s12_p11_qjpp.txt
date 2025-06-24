@@ -1,0 +1,16 @@
+These previous studies show that both micro-analysis and digital CA
+of online discussion are useful in revealing discourse practices among
+users in their interactions. Therefore, conducting either analysis on top
+of corpus analysis might reveal further the interactional functions of
+the keywords found. In short, to effectively conduct a corpus
+analysis of online discussions with an interactional approach, a corpus
+tool or procedure that allows exploration of various aspects of
+online interactions, including different variables (e.g., topics of discussions, role
+of internet users, types of postings) and units of analysis
+(e.g., subforums, threads, individual postings, words) is needed. In the
+following, I show how I utilized CWB to compile and
+explore a 12-million-word corpus of threaded online discussions. I elaborate
+on how the tool can be used to facilitate a
+synergy of corpus analysis and interactional approach in addition to
+what has been proposed by O'Keeffe & Walsh's (2012) CLCA
+approach.

@@ -1,0 +1,15 @@
+One potential explanation for the trends shown in Figure 2
+is that combined pronoun use merely followed wider trends in
+the rise and fall of third-person pronoun use. To this
+end, Figure 3 shows the normalized frequencies of all masculine
+and feminine pronouns in the corpora. The data shows that
+masculine pronouns were always more frequent than feminine pronouns. Thus,
+in line with Baker’s (2010) findings about pronoun use in
+the LOB family (noted in section 3), it seems that
+men are referred to more than women in all of
+these corpora (see also Konnelly, this issue, for a detailed
+analysis of man and woman in a recent American corpus).
+There is convergence post-1960s, but the gap between male and
+female pronouns is still large; for the 2000s there is
+a difference of 4895.84 hits pmw in BrE and 4802.86
+hits pmw in AmE.

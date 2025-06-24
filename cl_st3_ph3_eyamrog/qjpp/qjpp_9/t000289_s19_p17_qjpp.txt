@@ -1,0 +1,19 @@
+There are 581 verbs across all three corpora in direct
+quotation, of which 513 are modals and sixty-eight are semi-modals.
+Most ( N = 508) are found in news reports.
+Table 9 compares the frequency of modals and semi-modals across
+all corpora, with and without direct quotations. The tendencies for
+semi-modals are similar in both cases. For the modal category,
+however, the effect of quoted material is relevant: the significant
+7.1 percent increase is no longer discernible, resulting in a
+non-significant 0.9 percent decrease. This shows that an increasing number
+of direct quotations affects modals overall. Open in Viewer Table
+9 . Modals and semi-modals in Three Indian English Newspaper
+Corpora (Raw Frequencies), with and without Quoted Material 1939 1968
+% change 1939-1968 2000s % change 1968-2000s % change 1939-2000s
+Modals full corpus 2313 2369 +2.4 2478 +4.6 +7.1* without
+quotations 2217 2233 +0.7 2197 -1.6 -0.9 Semi-modals full corpus
+317 366 +15.5 412 +12.6 +30.0*** without quotations 302 353
++16.9* 372 +5.4 +23.2** Note: Significance levels: * = p
+< 0.05, ** = p < 0.01, *** = p
+< 0.001.

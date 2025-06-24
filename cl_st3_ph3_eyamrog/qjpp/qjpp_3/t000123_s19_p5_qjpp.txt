@@ -1,0 +1,22 @@
+We further applied a tree-based method, quantifying introgression via branch
+lengths (QuIBL) ( Edelman et al., 2019 23. Edelman, N.B.
+∙ Frandsen, P.B. ∙ Miyagi, M. ... Genomic architecture and
+introgression shape a butterfly radiation Science. 2019; 366 :594-599 Crossref
+Scopus (137) PubMed Google Scholar ), to evaluate whether ILS
+is the prime explanation of the mismatch between the species
+tree and the gene trees across the marsupial species. QuIBL
+distinguishes between ILS and introgression based on the distribution of
+internal branch lengths for a given three-taxon subtree (triplet). For
+the internal branch of Microbiotheria and two Australian groups, the
+Bayesian information criterion (BIC) test indicated that the phylogenetic discordances
+were caused by ILS only ( Figures S2 B–S2E). This
+conclusion was also supported by the four-taxon D-statistic test (
+Green et al., 2010 31. Green, R.E. ∙ Krause, J.
+∙ Briggs, A.W. ... A draft sequence of the Neandertal
+genome Science. 2010; 328 :710-722 Crossref Scopus (2302) PubMed Google
+Scholar ). By running this test on each 5-kb window,
+we verified that up to 95% of windows had a
+statistically equal number of ABBA and BABA sites, a symmetry
+that corroborates the conclusion that the observed discordances across entire
+genomes are more likely to have been produced by ILS
+than by post-speciation gene flow.

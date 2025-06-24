@@ -1,0 +1,4 @@
+In conclusion, we identified two patients with acquired autoimmune PTH
+resistance caused by PTH1R-blocking autoantibodies. These autoantibodies, which prevent PTH
+from binding to its receptor, were primarily directed at the
+extracellular domain, a region required for PTH binding.

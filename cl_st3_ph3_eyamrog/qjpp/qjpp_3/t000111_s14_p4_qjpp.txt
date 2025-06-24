@@ -1,0 +1,7 @@
+The raw data of mRNA sequencing, WES sequencing and barcode
+sequencing are available in NIH Gene Expression Omnibus with the
+accession number GEO: GSE160773 , GSE161181 and GSE161145 . The
+reference series GEO: GSE161146 links all the datasets. The TraceQC
+package can be found at https://github.com/LiuzLab/TraceQC . The code for
+the NMF analysis of barcodes can be found at https://github.com/LiuzLab/CRISPR_bone_metastasis-manuscript
+.

@@ -1,0 +1,4 @@
+Volumes of nuclei and chromocenters in changing osmotic environments (
+Figure S6 ) were determined by using the “Surface” tool
+in Imaris. The volumes of the nuclei/chromocenters were normalized by
+setting the initial volume to 100 and plotted in Prism.

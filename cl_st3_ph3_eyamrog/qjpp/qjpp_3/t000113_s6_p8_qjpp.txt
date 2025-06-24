@@ -1,0 +1,10 @@
+A related possibility is that the correlations observed in A′
+might reflect the formation of still higher-order schema, for example,
+perhaps reflecting the co-occurrence of A and B in the
+same experimental session, or that could flexibly switch between A
+and B. This would allow the formation of schemas at
+different levels in a hierarchy of abstraction, which could aid
+performance on a task, say, that alternated between blocks ABA′
+and CDC′ on different days. Although speculative, such ideas could
+be tested in rodents, where chronic recordings across days are
+more feasible.

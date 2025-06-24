@@ -1,0 +1,4 @@
+5x10 6 MLKL-Cyto and MLKL-Nuc MEFs were cultured in 60
+mm cell culture dishes in 1.5 mL DMEM/10% FBS per
+dish. Following exposure to oligomerizer, supernatants were collected and subjected
+to ELISA per the manufacturer’s instructions.

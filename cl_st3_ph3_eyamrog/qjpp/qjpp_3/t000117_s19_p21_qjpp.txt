@@ -1,0 +1,10 @@
+We then probed aIC Fezf2 → NTS function with optogenetics.
+To this end, we bilaterally infected aIC Fezf2 neurons with
+an AAV expressing the light-gated cation channel ChR2, or GFP,
+and implanted optical fibers in the NTS above the axons
+originating from the infected neurons ( Figures 3 E and
+3F). These mice underwent training in the go/no-go task (
+Figure 3 G). At the late stage of training, we
+delivered blue light pulses into the NTS during the window
+between CS onset and US onset in randomly selected trials
+( Figures 3 E–3H).

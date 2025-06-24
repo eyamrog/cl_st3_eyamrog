@@ -1,0 +1,25 @@
+In the two studies combined, during a mean follow-up period
+of 7 years (SD 2), 42 402 first coronary heart
+disease events and 19 999 first stroke events occurred. In
+the Million Women Study, 23 219 first coronary heart disease
+events and 13 516 first stroke events occurred during a
+mean of 6 years (SD 2) of follow-up, and in
+UK Biobank, 19 183 first coronary heart disease events and
+6483 first stroke events occurred during a mean duration of
+8 years (1) of follow-up. Overall weak, if any, study-specific
+associations were found between social isolation and first coronary heart
+disease event or first stroke event ( appendix p 5
+). However, when results were subdivided by type of first
+event (hospital admission or death with no associated hospital admission),
+social isolation was strongly associated with death as the first
+event ( figure 1 ). For deaths from coronary heart
+disease as the first event, the risk for the most
+isolated group was higher than for the least isolated group
+in both studies (RR 1·91 [95% CI 1·58–2·31] in the
+Million Women Study; 1·78 [1·47–2·15] in UK Biobank); and similarly,
+risks in the most isolated group were higher in both
+studies for deaths from stroke as the first event (1·99
+[1·46–2·71] in the Million Women Study; 1·90 [1·23–2·95] in UK
+Biobank; figure 1 ). By contrast, any association between social
+isolation and hospital admission as first event was weak (
+figure 1 ).

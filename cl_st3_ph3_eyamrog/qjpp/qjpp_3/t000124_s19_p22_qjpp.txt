@@ -1,0 +1,26 @@
+TEs can influence chromosomal rearrangements ( Lonnig and Saedler, 2002
+51. Lonnig, W.E. ∙ Saedler, H. Chromosome rearrangements and transposable
+elements Annu. Rev. Genet. 2002; 36 :389-410 Crossref Scopus (104)
+PubMed Google Scholar ). To assess their possible role in
+the EEFs observed in Rhynchospora genomes, we looked for enrichment
+of specific repeats at the ends of Rb s and
+near the junctions of EEFs in R. pubera and R.
+tenuis . We detected a high density of TEs in
+almost all subtelomeric regions of Rb s. These repeat-rich regions
+varied from 500 kb to 3 Mb in size, were
+mainly enriched for an LTR Ty3/Gypsy element of the Athila
+clade, were poorly enriched for genes, and lacked Tyba repeats
+( Figures 5 A, 5B, and S1 D). Notably, the
+R. breviuscula subtelomeric repeat-rich regions were largely missing at the
+junctions of fused chromosomes in both R. pubera and R.
+tenuis ( Figures 5 D and S6 ). Remarkably, we
+detected Tyba repeats exactly at the EEF junctions in 10
+out of the 15 EEFs of R. pubera , while
+we observed a small 45S rDNA remnant array (with only
+five 18S-5.8S-26S units) in one EEF ( Figures 5 C,
+5D, and S6 A–S6G). In R. tenuis , we also
+identified a Tyba repeat array in one out of three
+EEF junctions ( Rb 3/ Rb 4 junction on Rt
+Chr2), while an interstitial telomeric site (536 bp) was detected
+at the Rb 5/ Rb 1 junction ( Figures 5
+C and S6 H).

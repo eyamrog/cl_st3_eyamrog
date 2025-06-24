@@ -1,0 +1,20 @@
+We processed and annotated the photosequences from the archipelago islands
+and BCI with a custom-made image processing and archiving system
+called Agouti ( Kays et al., 2011 ). To mitigate
+issues of temporal autocorrelation in the data, this software groups
+the photos that result from a camera trigger into a
+single event. If there are continuous triggers that generate a
+sequence of more than 10 photos, the software combines the
+photos from all of these triggers into a single sequence.
+The software will only assign a photo to the next
+event if the time between subsequent photos is >2 min.
+Data from GP and SNP were processed and annotated with
+the program DeskTEAM ( Baru et al., 2012 ). We
+then used spreadsheet operations to format the resulting sequences consistently
+with the Agouti software output ( Monteza-Moreno et al., 2020
+). Animal identifications were based on Reid (2009) . For
+both capuchins and predators, we calculated detection rates, a measure
+of relative abundance, as the number of detections per 30
+trap days per unit detection distance (mo −1 m −1
+). For each visit of capuchins to the ground, we
+recorded the time, the party size, and the duration.

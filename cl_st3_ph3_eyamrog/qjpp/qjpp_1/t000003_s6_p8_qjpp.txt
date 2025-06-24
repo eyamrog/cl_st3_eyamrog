@@ -1,0 +1,15 @@
+Furthermore, two RWE studies, partly addressing the same question using
+adjustment instead of matching, were recently reported . In the
+first one, 356 patients treated with CAR T in Germany
+were considered (173 treated with axi-cel and 183 treated with
+tisa-cel). After adjusting for six parameters in a Cox model,
+PFS was significantly longer after axi-cel infusion than after tisa-cel
+infusion. No significant difference was observed for OS. In the
+second one, 68 patients from the United States treated with
+axi-cel were compared to 31 patients treated with tisa-cel, showing
+higher response rate after axi-cel infusion. With 809 patients analyzed,
+a comprehensive matching approach encompassing most of known confounding factors,
+multiple sensitivity analyses and a sufficient follow-up showing, to our
+knowledge for the first time, an OS advantage associated with
+axi-cel compared to tisa-cel, our study is one of the
+most mature to date.

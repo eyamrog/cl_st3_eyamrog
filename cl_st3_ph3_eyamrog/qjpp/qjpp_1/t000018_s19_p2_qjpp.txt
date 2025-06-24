@@ -1,0 +1,19 @@
+To identify sets of genes reflective of distinct biological processes,
+we applied weighted gene correlation network analysis (WGCNA) to cluster
+coexpressed genes across all tissue samples. This identified 38 modules
+of highly coexpressed genes (M1–M38) (Supplementary Table 1 ). We
+correlated the expression (module eigengene) of these modules with sample
+characteristics, clinical phenotypes and histologic (microscopic) inflammation (Nancy index );
+28 modules were significantly associated with at least one of
+these measures (Fig. 1a ). Modules were found to have
+dichotomous associations with traits: about half had significant positive correlations
+with histologic inflammation while the remainder had significant negative associations
+(Fig. 1a ). Age appeared to have associations similar to
+inflammation, but this was an artifact of the older nature
+of the non-IBD samples used as controls. In a paired
+analysis of only inflamed and uninflamed IBD tissue samples from
+the same patients ( n = 7), the difference in
+expression of a module between tissue pairs remained highly correlated
+with the module’s association with histologic inflammation (Nancy index) (
+R = 0.8, P < 0.001; Extended Data Fig. 2a
+), confirming that these modules reflected inflammatory processes.

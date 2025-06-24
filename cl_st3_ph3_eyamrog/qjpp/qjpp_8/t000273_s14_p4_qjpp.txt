@@ -1,0 +1,12 @@
+We should note at this point that our corpus of
+written comments is imbalanced in terms of the extent to
+which different demographic groups are represented within it. For example,
+87.09% of the comments in our corpus were provided by
+patients who self-reported being White English/Welsh/Scottish/Northern Irish. Regarding sexuality, people
+who identified as being from LGBTQ+ backgrounds make up just
+1% of the respondents who provided a comment, while people
+who speak English as an additional language contributed 3.5% of
+the comments in our data. For this study, we have
+gathered all available feedback in order to achieve as comprehensive
+coverage of patients as possible, though it is important to
+bear this skew in mind.

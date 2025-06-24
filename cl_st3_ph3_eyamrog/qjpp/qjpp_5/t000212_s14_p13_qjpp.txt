@@ -1,0 +1,13 @@
+Measurements were performed with a Risoe TL/DA 20 reader (
+Bøtter-Jensen et al., 2003 ), with single-grain green stimulation (10
+mW Nd:YVO 4 diode-pumped laser at 532 nm) and detection
+in the UV wavelength range (280–380 nm obtained with 7.5
+mm of Hoya U340 filters in front of a Q9235
+photomultiplier tube). A calibrated beta source delivering 0.11 Gy/s was
+attached to the reader. The luminescence data were analyzed using
+Analyst v. 4.57 ( Duller, 2015 ). Growth curves were
+fitted with a single saturating exponential [Lx/Tx = a (1
+− exp((−(D + b)/D 0 )))], where Lx is the
+signal for the regenerative dose D, Tx is the signal
+for the following test dose, a, b, and D 0
+are the fitting parameters.

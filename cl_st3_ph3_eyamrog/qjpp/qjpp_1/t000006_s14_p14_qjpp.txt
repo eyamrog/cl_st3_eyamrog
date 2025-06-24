@@ -1,0 +1,7 @@
+All libraries were sequenced on NextSeq 500 sequencer (Illumina), and
+150-bp paired-end READS were generated. The READS were processed using
+the described bioinformatic pipeline, which can be divided into five
+steps: (1) READS pre-processing; (2) tag parsing and initial alignment;
+(3) single-strand consensus sequence (SSCS) assembly; (4) duplex consensus sequencing
+(DCS) assembly; and (5) mutational calling. Points 2–4 were performed
+with the following customizations.

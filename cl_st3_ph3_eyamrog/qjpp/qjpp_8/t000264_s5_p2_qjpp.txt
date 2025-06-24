@@ -1,0 +1,14 @@
+The mobility models offer two interesting findings: 1) reduced COVID-19
+with increased residential presence early in the pandemic, and 2)
+increased COVID-19 with increased residential presence later in the pandemic,
+particularly around the holiday season. Whereas these relationships appear contradictory
+on the surface, we contend they vary because of the
+type of residential presence during these different times. The first
+observation likely reflects the effects of stay at home orders
+and supports the idea of using social distancing to reduce
+the incidence of COVID-19 ( Carroll and Prentice, 2021 ).
+The second observation demonstrates an inverse relationship between residential presence
+and COVID-19 incidence, and notably occurs during the holiday season.
+The timing suggests families may be gathering in residences, which
+increases the likelihood of transmission and justifies the importance of
+social distancing for limiting the spread of COVID-19.

@@ -1,0 +1,6 @@
+In order to implement our annotation scheme, we had to
+overcome a number of important hurdles, which can be broadly
+classified into three categories: ( 1 ) identifying the beginning
+and ending of the actual debate; ( 2 ) identifying
+the beginning and ending of an utterance; and ( 3
+) identifying the mp that speaks in each utterance.

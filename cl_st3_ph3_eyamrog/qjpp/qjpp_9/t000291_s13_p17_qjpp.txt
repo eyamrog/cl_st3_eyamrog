@@ -1,0 +1,9 @@
+Gkis is being constructed as part of a larger, multiple-language
+project drawing on the methods developed in corpus-based translation studies.
+It aims to trace the role that translation has played
+in the evolution of key scientific and political concepts from
+the pre-modern into the modern period. The texts in the
+Internet corpus are drawn mainly from left-leaning political and scientific
+English-language websites. The sources of the texts suggest that gkis
+contains political discourse that is committed to global political and
+environmental activism from a leftist perspective (see Table 1 ).

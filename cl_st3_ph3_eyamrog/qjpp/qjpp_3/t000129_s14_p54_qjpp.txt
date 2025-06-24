@@ -1,0 +1,16 @@
+DMRs were called using metilene (version 0.2-8; parameters: -m 10
+-d 0.2 -c 1 -f 1) ( Jühling et al.,
+2016 64. Jühling, F. ∙ Kretzmer, H. ∙ Bernhart, S.H.
+... metilene: fast and sensitive calling of differentially methylated regions
+from bisulfite sequencing data Genome Res. 2016; 26 :256-262 Crossref
+Scopus (0) PubMed Google Scholar ) using two replicates per
+condition and filtered for a Q-value < 0.05. DMRs were
+assigned to overlap a promoter if 20% of the DMR
+or 20% of the promoter overlapped using bedtools ‘intersect’ (
+Quinlan and Hall, 2010 111. Quinlan, A.R. ∙ Hall, I.M.
+BEDTools: a flexible suite of utilities for comparing genomic features
+Bioinformatics. 2010; 26 :841-842 Crossref Scopus (11075) PubMed Google Scholar
+). Genes on the X, Y or M chromosome were
+not considered for the analysis as these chromosomes were omitted
+from the methylation analysis. Promoters with and without DMRs were
+then subsequently assigned to the TAD with the maximum overlap.

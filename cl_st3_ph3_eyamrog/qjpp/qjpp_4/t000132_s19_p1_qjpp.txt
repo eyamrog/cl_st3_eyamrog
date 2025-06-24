@@ -1,0 +1,23 @@
+To test whether MUC2 binds copper, the isolated D1 assembly
+was prepared, incubated with an equimolar amount of CuSO 4
+, and crystallized ( Table S1 ). The X-ray crystal
+structure revealed a Cu 2+ binding site located at the
+interface of multiple subdomains near the protein surface ( Figures
+2 A and S1 A). Though histidines are also prevalent
+in zinc binding sites ( Ireland and Martin, 2019 15.
+Ireland, S.M. ∙ Martin, A.C.R. ZincBind-- the database of zinc
+binding sites Database 2019. 2019; baz006 Crossref Scopus (45) Google
+Scholar ), no evidence of zinc was seen in D1
+crystals grown in the presence of ZnCl 2 (data not
+shown). Microscale thermophoresis (MST) metal binding assays in solution supported
+a preference for Cu 2+ over a variety of nutrient
+and non-nutrient metals ( Figure S1 B), and Zn 2+
+was a poor competitor for Cu 2+ binding ( Figure
+S1 C). MST could not provide an absolute measure of
+Cu 2+ affinity in this case because the dissociation constant
+was substantially below the protein concentration required for the measurements.
+Isothermal titration calorimetry (ITC) confirmed tight Cu 2+ binding by
+D1, and measurements with glycine as a competitor yielded logK
+D values in the range of −12 or −13 depending
+on solution conditions ( Figure S1 D and Table S2
+).

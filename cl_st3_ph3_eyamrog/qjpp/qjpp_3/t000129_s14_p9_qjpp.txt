@@ -1,0 +1,27 @@
+SgRNAs were designed at desired structural variant breakpoints or knockin
+sites using the Benchling design tool ( https://www.benchling.com/ ). Complementary
+sgRNA oligos were subsequently annealed, phosphorylated, and cloned into the
+BbsI site of dephosphorylated pX459 pSpCas9(BB)-2A-Puro vector (Addgene; #62988). For
+insertion of lacZ sensors, asymmetric homology arms surrounding insertion sites
+were first synthesised with a multiple cloning site that bisected,
+and so inactivated, the sgRNA. Once homology arms were cloned
+into a vector, the lacZ sensor insert harbouring the β-globin
+minimal promoter and polyA terminator were subsequently inserted by restriction
+digest ( Symmons et al., 2014 133. Symmons, O. ∙
+Uslu, V.V. ∙ Tsujimura, T. ... Functional and topological characteristics
+of mammalian regulatory domains Genome Res. 2014; 24 :390-400 Crossref
+Scopus (262) PubMed Google Scholar ). For testing alternative promoters,
+the β-globin promoter was substituted for synthesized or PCR-amplified Zfp42,
+Triml1/2 , or Fat1 promoters through restriction cloning. In all
+cases, core promoters incorporate at least 250 bp upstream and
+50 bp downstream of the major endogenous TSS-defined in FANTOM5
+CAGE transcriptomes ( Figure 5 C; key resources table ).
+The bidirectional Triml1/2 promoter was inserted to enable lacZ transcription
+from the Triml2 orientation. For enhancer lacZ reporter experiments, the
+mouse Fat1- enh sequence was PCR-amplified and inserted into a
+phosphoglycerate kinase (PGK) promoter targeting vector containing FRT sites for
+insertion into C2 ESCs. A list of sgRNAs, corresponding homology
+constructs and resulting mutant ESCs can be found in Table
+S1 . Cloned enhancer and promoter sequences can be found
+in the key resources table . All plasmids are available
+on Addgene.

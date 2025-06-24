@@ -1,0 +1,26 @@
+To identify value space encoding, we used information theoretic measures,
+analogous to those that have typically been used to define
+spatial place neurons in rats ( Skaggs et al., 1993
+67. Skaggs, W.E. ∙ McNaughton, B.L. ∙ Gothard, K.M. An
+information-theoretic approach to deciphering the hippocampal code Morgan-Kauffman, Hanson, S.J.
+∙ Cowan, J.D. ∙ Giles, C.L. (Editors) in: Advances in
+Neural Information Processing Systems. 1993; 1030-1037 Google Scholar ). Thus,
+the information content of the value space neuron, I ,
+in bits per second, is calculated as: 𝐼 = ∑
+𝑥 𝜆 ⁡ ( 𝑥 ) ⁢ 𝑙 ⁢ 𝑜
+⁢ 𝑔 2 ⁢ 𝜆 ⁡ ( 𝑥 ) 𝜆
+⁢ 𝑝 ⁡ ( 𝑥 ) where x is the
+value bin, λ is the neuron’s mean firing rate, λ(x)
+is the mean firing rate in value bin x ,
+and p ( x ) is the probability of being
+in bin x over all trials. We then normalized by
+λ to express I in units of bits per spike,
+a measure of how much value information is conveyed at
+any location in value space by the neuron. For each
+neuron, we also calculated a null distribution, by shuffling firing
+rates 1000 times to preserve overall firing rates but remove
+correlations with task events. Neurons were considered to have significant
+value place encoding when three criteria were met: a peak
+binned firing rate above 1 Hz, I greater than two
+standard deviations (95%) above the null distribution, and I >
+0.2.

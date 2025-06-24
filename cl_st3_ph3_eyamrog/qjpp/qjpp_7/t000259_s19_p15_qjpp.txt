@@ -1,0 +1,15 @@
+The results again suggest a strong degree of consonance between
+the results presented in Fig. 2 and the results that
+include a series of demographic controls ( Table 2 ,
+Column 2). Additionally, I find that some evidence of demographic
+differences in Americans’ intentions to vaccinate. Higher income (β =
+0.17) and college-educated (β = 0.10) respondents tend to rate
+vaccine candidates significantly more favorably ( p < 0.05, in
+both cases). Women (β = −0.03) and individuals older than
+44 (β = −0.12 for the 45–65 age range ;
+β = −0.09 for the 65 and older age range)
+are significantly less likely to do so (again, p <
+0.05 in both cases). Collectively, these results suggest that while
+there are systematic demographic differences in how respondents rate vaccine
+candidates, these results do not alter the results presented in
+Fig. 2 .

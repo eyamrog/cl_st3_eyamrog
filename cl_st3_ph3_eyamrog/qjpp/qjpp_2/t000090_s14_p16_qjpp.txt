@@ -1,0 +1,18 @@
+Pan-acetyl H3 (H3ac), pan-acetyl H4 (H4ac), and RNA Pol II
+ChIPs were performed using antibody-coupled Protein G Dynabeads (antibodies used,
+respectively: Upstate 06-599, Upstate 06-866, and Active Motif 39097). After
+precipitation overnight in FA buffer containing 0.1% SDS and 275
+mM NaCl, H3ac and H4ac precipitations were washed once with
+FA buffer containing 0.1% SDS and 500 mM NaCl, once
+with buffer containing 0.1% SDS and 750 mM NaCl, once
+with wash buffer (10 mM Tris-HCl, pH 8.0, 0.25 M
+LiCl, 1 mM EDTA, 0.5% NP-40, 0.5% sodium deoxycholate), and
+once with TE before being eluted in TE with 1%
+SDS at 65°C. Snt1-myc, Rap1-myc, and Hos2-myc precipitations were all
+performed with c-Myc affinity agarose (Sigma-Aldrich A7470) blocked with 2%
+BSA. After precipitation overnight in FA buffer with 0.1% SDS
+and 275 mM NaCl, all were washed once with FA
+buffer with 0.1% SDS and 275 mM NaCl, once with
+the same buffer but with 500 mM NaCl, one with
+wash buffer, and once with TE before being eluted in
+TE with 1% SDS at 65°C.

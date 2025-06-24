@@ -1,0 +1,9 @@
+SARS-CoV-2 spike-specific Th1 (interferon-γ, interleukin-2, or both) CD4+ T cells
+were detected in 69% of participants at baseline, with higher
+response rates and amounts among the mRNA-primed participants ( Figure
+3 ). At day 15, an increase in the spike-specific
+Th1 responses occurred after boosting in all groups except those
+receiving the homologous Ad26.COV2.S regimen. Spike-specific Th2 (interleukin-4, interleukin-5, or
+interleukin-13) CD4+ T cells were infrequent (and at low levels)
+or absent in most subgroups. Th1-type CD4+ T-cell responses were
+predominant before and after homologous or heterologous boosting.

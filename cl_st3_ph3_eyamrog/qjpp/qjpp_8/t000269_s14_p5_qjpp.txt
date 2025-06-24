@@ -1,0 +1,7 @@
+Material deprivation : is defined as the proportion of people
+living in households who cannot afford at least 3 items
+of the 9-indicator index of material deprivation, as used comparably
+in data collected by the OECD , European Union and
+EU-SILC. We use a continuous, standardised index, with higher levels
+of material deprivation corresponding to positive values ( Treanor, 2014
+).

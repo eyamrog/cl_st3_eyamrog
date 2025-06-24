@@ -1,0 +1,10 @@
+As performance measures for imitation, we analyzed whether and how
+quickly a knot was learned by analyzing the following three
+parameters: 1) Time per knot(seconds): the time that it took
+to complete a knot, by adding up the number of
+seconds for each of the three attempts until the knot
+was correct; 2) Attempts per knot: the number of attempts
+(1, 2, or 3) it took to successfully imitate a
+knot (when all three attempts failed, a score of 4
+was given); and 3) Successful imitation: whether a knot could
+be successfully replicated at all.

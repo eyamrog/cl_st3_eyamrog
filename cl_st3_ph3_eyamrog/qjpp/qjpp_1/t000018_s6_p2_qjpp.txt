@@ -1,0 +1,16 @@
+Our results highlight neutrophils as a major component of the
+M4/M5 signature associated with nonresponse to several different therapies in
+IBD. Previous analyses of tissue-level gene expression had linked neutrophils
+with therapy nonresponse in IBD . We have extended those
+findings by mapping these signatures to intestinal neutrophils isolated from
+distinct tissue niches within lesions of inflamed intestine. It is
+also notable that a dominant neutrophil contribution to the biology
+of inflammation and anti-TNF therapy resistance in IBD is absent
+from previous scRNA-seq studies where these cells were not analyzed
+. It is not known whether neutrophil accumulation is a
+cause or a consequence of the damage at sites of
+tissue ulceration. However, there is evidence that neutrophils can contribute
+to chronic inflammation through production of extracellular traps and the
+liberation of reactive-oxygen species . We found that neutrophils are
+also the major source of OSM expression, a cytokine functionally
+associated with nonresponse to anti-TNF therapy in IBD .

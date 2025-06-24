@@ -1,0 +1,27 @@
+The analysis of patterns of integration is crucial for the
+reconstruction and understanding of how morphological changes occur in a
+taxonomic group throughout evolution. These patterns are relatively constant; however,
+both patterns and the magnitudes of integration may vary across
+species. These differences may indicate morphological diversification, in some cases
+related to functional adaptations to the biomechanics of organisms. In
+this study, we analyze patterns of integration between two functional
+and developmental structures, the cranium and the cervical spine in
+hominids, and we quantify the amount of divergence of each
+anatomical element through phylogeny. We applied these methods to three-dimensional
+data from 168 adult hominid individuals, summing a total of
+more than 1000 cervical vertebrae . We found the atlas
+(C1) and axis (C2) display the lowest covariation with the
+cranium in hominids ( Homo sapiens , Pan troglodytes ,
+Pan paniscus , Gorilla gorilla , Gorilla beringei , Pongo
+pygmaeus ). H. sapiens show a relatively different pattern of
+craniocervical correlation compared with chimpanzees and gorillas, especially in variables
+implicated in maintaining the balance of the head. Finally, the
+atlas and axis show lower magnitude of shape change during
+evolution than the rest of the cervical vertebrae, especially those
+located in the middle of the subaxial cervical spine. Overall,
+results suggest that differences in the pattern of craniocervical correlation
+between humans and gorillas and chimpanzees could reflect the postural
+differences between these groups. Also, the stronger craniocervical integration and
+larger magnitude of shape change during evolution shown by the
+middle cervical vertebrae suggests that they have been selected to
+play an active role in maintaining head balance.

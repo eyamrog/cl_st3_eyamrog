@@ -1,0 +1,13 @@
+We next enforced Fli1 expression in WT LCMV-specific P14 cells
+using an RV-based overexpression (OE) system ( Kurachi et al.,
+2017 39. Kurachi, M. ∙ Kurachi, J. ∙ Chen, Z.
+... Optimized retroviral transduction of mouse T cells for in
+vivo assessment of gene function Nat. Protoc. 2017; 12 :1980-1998
+Crossref Scopus (12) PubMed Google Scholar ). An ~5-fold reduction
+in responding Fli1-OE-RV transduced P14 cells was observed on day
+8 and day 16 p.i. compared to the empty vector
+control ( Figure 2 C). Furthermore, enforced Fli1 expression diverted
+the responding P14 cells toward T MP differentiation ( Figures
+2 D and 2E). Together, these data reveal a role
+for Fli1 in restraining T EFF differentiation and promoting T
+MP development during acute infection.

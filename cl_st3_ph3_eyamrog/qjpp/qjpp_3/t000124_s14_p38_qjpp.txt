@@ -1,0 +1,13 @@
+Proteins were further classified into two confidence classes: high and
+low. Hits with subject coverage (for protein references) or query
+coverage (transposon database) above 80% were considered significant and protein
+sequences were classified as high-confidence using the following criteria: protein
+sequence was complete and had a subject and query coverage
+above the threshold in the UniMag database or no BLAST
+hit in UniMag but in UniPoa and not PTREP; a
+low-confidence protein sequence was incomplete and had a hit in
+the UniMag or UniPoa database but not in PTREP. Alternatively,
+it had no hit in UniMag, UniPoa, or PTREP, but
+the protein sequence was complete. In a second refinement step,
+low-confidence proteins with an AHRD-score of 3 ∗ were promoted
+to high-confidence.

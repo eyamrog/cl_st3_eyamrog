@@ -1,0 +1,15 @@
+The hVLP-Env structure displays distinguishable density features for N-linked glycans
+that decorate the ectodomain surface. In contrast to most available
+structures where density near to glycosylation sites often covers only
+the core n-acetylglucosamine (GlcNAc) sugars, in our unliganded hVLP-Env structure,
+extended density for glycan moieties is observed across the protein.
+Resolved density for multiple canonical glycan positions in gp120 and
+gp41 subunits extends beyond the range of current structural models,
+revealing the extent of the “glycan shield” ( Figure 6
+A) ( Wei et al., 2003 93. Wei, X. ∙
+Decker, J.M. ∙ Wang, S. ... Antibody neutralization and escape
+by HIV-1 Nature. 2003; 422 :307-312 Crossref Scopus (2072) PubMed
+Google Scholar ). Glycans surrounding several key bnAb epitopes can
+be identified in the unliganded Env map, which reveal their
+orientations in the natural, antibody-naive state so as to occlude
+underlying epitopes.

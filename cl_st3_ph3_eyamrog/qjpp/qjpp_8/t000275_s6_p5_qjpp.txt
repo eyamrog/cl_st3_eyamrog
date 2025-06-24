@@ -1,0 +1,14 @@
+Beside the MOOC online discussions investigated in this paper, online
+interactions, including Facebook comments, Twitter replies, and various online communities
+such as Quora and Reddit, could also be examined by
+drawing on both corpus linguistics and interactional approach. By combining
+these two approaches, public opinions and debates online could be
+better understood via the big data analysis and in-depth analysis
+of users’ interactions. This way, we could gain further insights
+into users’ interactions online, including disagreement, information exchange, propagation of
+misinformation. This is especially crucial in the current society where
+online space is also where people perform their social life.
+Other than online communications, this combination of approaches could also
+be applied to other interactional data, such as transcript of
+face-to-face conversations, while CWB tool can be used for big
+data requiring annotation of hierarchical structures.

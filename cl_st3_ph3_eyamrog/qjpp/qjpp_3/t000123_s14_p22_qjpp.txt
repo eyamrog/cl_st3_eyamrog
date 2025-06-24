@@ -1,0 +1,13 @@
+We converted each matrix of presence/absence characters into a set
+of incompletely resolved “gene trees” with each gene tree representing
+a single retroelement character and executed ASTRAL-III v5.6.2 ( Zhang
+et al., 2018 124. Zhang, C. ∙ Rabiee, M. ∙
+Sayyari, E. ... ASTRAL-III: polynomial time species tree reconstruction from
+partially resolved gene trees BMC Bioinformatics. 2018; 19 :153 Crossref
+Scopus (583) PubMed Google Scholar ) in “exact” mode (-x)
+given these incompletely resolved “gene trees” as input, as a
+previous study suggested ( Springer et al., 2020 97. Springer,
+M.S. ∙ Molloy, E.K. ∙ Sloan, D.B. ... ILS-aware analysis
+of low-homoplasy retroelement insertions: inference of species trees and introgression
+using quartets J. Hered. 2020; 111 :147-168 Crossref Scopus (9)
+PubMed Google Scholar ).

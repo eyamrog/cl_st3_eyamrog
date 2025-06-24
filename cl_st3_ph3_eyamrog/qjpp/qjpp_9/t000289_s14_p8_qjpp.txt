@@ -1,0 +1,9 @@
+With the help of AntConc ( Anthony 2019 ), all
+possible forms of these verbs and constructions were considered, including
+inflections (e.g., past forms), clitics (e.g., ’ll , n’t ,
+’d ), forms resulting from coalescence (e.g., gotta , wanna
+), and negation ( not ) between semi-modal elements. For
+the semi-modals, all contiguous tokens were retrieved, as well as
+non-contiguous ones that are split by one element, generally an
+adverb, as in (3). Such instances account for forty-one of
+the 1095 semi-modals analyzed.

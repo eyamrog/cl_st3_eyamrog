@@ -1,0 +1,5 @@
+Rationale: Previous research suggests that Americans should be more likely
+to intend to vaccinate if presented with a US-made vaccine
+that carries a low risk of minor side effects ,
+is highly effective, is administered in just one dose, and
+has spent significant time in development.

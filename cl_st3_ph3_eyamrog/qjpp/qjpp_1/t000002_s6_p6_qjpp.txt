@@ -1,0 +1,13 @@
+Despite these limitations, the sources of data for our study
+are unique and offer an example of the potential clinical
+value of linking wearables data to the EHR. Published activity
+studies almost exclusively used research-grade actigraphs to measure steps and/or
+activity counts. In contrast, our data derive from commercially available
+devices. Although some fidelity is lost between research-grade and commercial
+devices, data from the latter are highly generalizable to a
+large portion of the public who own such devices. Activity
+data in this study date to the creation of a
+Fitbit account by the user. Therefore, the risk of an
+observer effect in this cohort is negligible because much of
+the activity data was collected before the participant consented to
+All of Us .

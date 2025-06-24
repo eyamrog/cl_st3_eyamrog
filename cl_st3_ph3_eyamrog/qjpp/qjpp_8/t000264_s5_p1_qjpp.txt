@@ -1,0 +1,14 @@
+This manuscript examines an array of options for representing mobility,
+community vulnerability, and the combination of those factors for modeling
+the COVID-19 pandemic. A comparison of these metrics suggests that
+mobility measures supersede community vulnerability measures in this setting. Varying
+patterns emerge: whereas some of the observed patterns suggest less
+mobility with less COVID-19 presence early in the pandemic, others
+indicate less mobility with more COVID-19 presence, particularly around the
+holiday season. As one might expect, we did not see
+clear trends in the vulnerability measures. Underlying vulnerability is not
+typically subject to rapid change and hence would not fluctuate
+as much as mobility. PVI combines vulnerability and mobility information
+and thus achieves the best fit for modeling of the
+pandemic. However, estimates associated with the mobility measures appear more
+informative, which could indicate overfitting in the PVI model.

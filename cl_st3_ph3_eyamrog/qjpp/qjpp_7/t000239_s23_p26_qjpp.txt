@@ -1,0 +1,18 @@
+There are few models in the literature crafted from a
+psychological, political, or even economic standpoint on what drive the
+particulars of an economic lockdown in response to a pandemic.
+However, there is a small literature in political science and
+public health which examines the drivers of either health policy
+or health efficiency (e.g., Correa and Namkoong 1992 ), acknowledging
+the prominent role for politics in driving various health outcomes
+( Muntaner et al. 2011 ; Patterson and Veenstra 2016
+) or in fashioning crisis management and responses ( Haeffele
+and Storr 2020 ). Based on this work, we could
+conjecture that the stringency of a lockdown in response to
+COVID-19 was a response to the number of cases a
+country or region saw, how able it was to absorb
+possible economic effects (i.e., the cost/benefit analysis of undertaking a
+more severe lockdown), its institutional attributes, and, as shown above,
+the possible use of heuristics by its leaders related to
+their personality and/or background. Expressed as an equation, this simple
+model would be:

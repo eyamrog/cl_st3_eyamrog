@@ -1,0 +1,9 @@
+We determined urinary cortisol levels via liquid chromatography-tandem mass spectrometry
+using Hauser et al.'s. (2008) method. We corrected cortisol levels
+using cortisol d4 as the internal standard. For each sample,
+we measured specific gravity (SG) using a refractometer (TEC, Ober-Ramstadt,
+Germany). SG values were used to correct cortisol measurements for
+variation in water content in the urine using the formula
+outlined by Miller et al. (2004) : SG corrected cortisol
+= raw hormone concentration × ( SG population mean −
+1.0 ) ( SG sample − 1.0 )

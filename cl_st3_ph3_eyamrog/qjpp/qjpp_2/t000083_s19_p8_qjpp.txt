@@ -1,0 +1,9 @@
+In general, prebooster serum neutralization levels were lower against the
+delta and beta variants than those against the D614G mutation
+and were below the limit of detection in many participants
+(Tables S67 through S72 and S79 through S84). All but
+2 participants who had received Ad26.COV2.S as both the primary
+and booster vaccine had measurable neutralizing antibody against the delta
+variant after booster vaccination; similar findings were observed when ID
+80 neutralization levels were assessed (Tables S73 through S78 and
+S85 through S90).

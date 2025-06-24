@@ -1,0 +1,8 @@
+In addition to cancer cells that are manually extracted from
+various organs, we examined naturally occurred circulating tumor cells (CTCs)
+emitted from bone lesions versus mammary tumors. Not surprisingly, bone
+lesions generated a higher number of CTCs, probably due to
+the more permeable vascular structures or survival advantage conferred by
+the bone. However, on top of the higher number, CTCs
+from bone lesions also express higher quantity of CD44 and
+ALDH1 ( Figures 6 L and 6M), suggesting increased stemness.

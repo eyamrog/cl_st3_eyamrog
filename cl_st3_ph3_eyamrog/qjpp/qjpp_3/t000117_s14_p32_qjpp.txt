@@ -1,0 +1,17 @@
+To determine whether a neuron was significantly (p < 0.05)
+excited or suppressed by a stimulus, and thus can be
+classified as being “responsive” to the stimulus, we used the
+Wilcoxon signed-rank test to compare the mean ΔF values in
+a period immediately after stimulus onset (the durations of which
+are indicated in figure legends) with those in the 4
+s baseline period in all the trials imaged. For further
+analyses, such as the population analyses, we used z-scores to
+represent the dynamic activities in each neuron. To obtain the
+temporal z-scores for a neuron, we first obtained the mean
+activity trace for the neuron by averaging the fluorescence signals
+(ΔF) at each time point across all trials, and then
+computed the z-scores as (F(t) – F mean )/F SD
+, where F(t) is the ΔF value at time t,
+F mean , and F SD are the mean and
+standard deviation, respectively, of the ΔF values over a 4
+s baseline period.

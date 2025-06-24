@@ -1,0 +1,11 @@
+The first stage of analysis examines static positional differences between
+vowel tokens. For this, FAVE-normalized mid-point F1 and F2 values
+were evaluated using linear regressions. Linear mixed effects regression models
+(LMERMs) were built using the lme4 package ( Bates, Mächler,
+Bolker & Walker 2015 ). Dependent variables included (FAVE-normalized) mean
+F1 and F2 and duration . Independent variables included linguistic
+factors of coda (four levels: velars /k/, /ɡ/, /ŋ/, and
+other) and vowel (three levels: /e/, /ɛ/, /æ/), social factors
+of gender (two levels: woman, man), ethnicity (three levels: Mennonite,
+European, Filipino), and age (two levels: older, younger); random intercepts
+for speaker and word were also included.

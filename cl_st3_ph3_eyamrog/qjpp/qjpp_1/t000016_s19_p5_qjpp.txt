@@ -1,0 +1,12 @@
+The study design of the PANDA challenge was preregistered and
+consisted of a competition and a validation phase. The competition
+was open to participants from 21 April until 23 July
+2020 and was hosted on the Kaggle platform (Supplementary Methods
+5 ). During the competition phase, 1,010 teams, consisting of
+1,290 developers from 65 countries, participated and submitted at least
+one algorithm (Fig. 1 ). Throughout the competition, teams could
+request evaluations of their algorithm on the tuning set (Supplementary
+Methods 2 ). The algorithms were then simultaneously blindly validated
+on the internal validation set (Fig. 2 ). All teams
+combined submitted 34,262 versions of their algorithms, resulting in a
+total of 32,137,756 predictions made by the algorithms.

@@ -1,0 +1,11 @@
+The difference between the two 2000s corpora is perhaps more
+puzzling. There is evidence that BrE might be more inclined
+towards singular they (as shown in Paterson 2014 ) but
+no comparable study has been done for AmE. This would
+be a huge undertaking, as just the subsections of BE06
+that I analyzed in 2014 contained thousands of tokens of
+they each of which had to be manually coded to
+determine whether or not they was singular or plural. Perhaps
+future work in corpus linguistics and the development of antecedent
+taggers could speed up the process of finding tokens of
+epicene pronouns in large bodies of text.

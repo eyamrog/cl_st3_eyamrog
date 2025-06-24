@@ -1,0 +1,11 @@
+For qRT-PCR analysis, total RNA was extracted from cells using
+the Nucleospin RNAII kit (Macherey-Nagel). One μg of total RNA
+was reverse-transcribed using the iScript cDNA Synthesis Kit (BioRad). qRT-PCR
+was performed using the LightCycler480 SYBRGreen I Master1 kit (Roche
+Life Science) and the CFX Connect Real-Time PCR Detection System
+(BioRad). The following list of primers was used in the
+study: Human HPRT: Fwd: for TGACACTGGCAAAACAATGCA/Rev: GGTCCTTTTCACCAGCAAGCT; Human UNC5A: PrimerPCR
+SYBR Green Assay; qHsaCID0013056 Human UNC5B: PrimerPCR SYBR Green Assay;
+qHsaCID0021074 Human UNC5C: PrimerPCR SYBR Green Assay; qHsaCID0016268 Human UNC5D:
+PrimerPCR SYBR Green Assay; qHsaCED0045738 Human GPC3: PrimerPCR SYBR Green
+Assay; qHsaCID0016381

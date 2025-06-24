@@ -1,0 +1,8 @@
+Last, we examined the incremental value of adding suPAR to
+the NCDR Simplified Integer Risk Score in predicting the risk
+of acute kidney injury after coronary angiography. The AUC for
+the NCDR risk score was 0.579 (95% CI, 0.560 to
+0.597). The addition of suPAR to the NCDR score modestly
+improved the AUC to 0.628 (95% CI, 0.610 to 0.647),
+with a change in the AUC of 0.050 (95% CI,
+0.013 to 0.087).

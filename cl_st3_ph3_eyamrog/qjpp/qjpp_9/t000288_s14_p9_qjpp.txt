@@ -1,0 +1,6 @@
+The definition of the variable context used to select the
+target of fifty tokens per shell noun excludes instances with
+a determiner other than the definite article, such as (11).
+Also not relevant to the present study are uses where
+be is not a copula, as in (12); here it
+is an auxiliary forming a present progressive.

@@ -1,0 +1,7 @@
+Finally, we conduct an additional series of sensitivity analyses to
+further verify the robustness of our results. We use alternative
+bandwidths for age, perform a placebo difference-in-discontinuity at age 16,
+use non-linear models, include postcode-year fixed effects to allow for
+geographical patterns changing over the study years, and exclude all
+controls. All analyses are performed using STATA (StataCorp, 2017) and
+STROBE guidelines for reporting observational studies are followed.

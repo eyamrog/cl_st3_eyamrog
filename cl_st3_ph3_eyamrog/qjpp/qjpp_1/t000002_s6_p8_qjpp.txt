@@ -1,0 +1,14 @@
+In summary, using the data from AoURP, higher daily step
+counts were associated with reduced risk of several common, chronic
+diseases, including diabetes, hypertension, GERD, MDD, obesity and sleep apnea.
+This association between step counts over time and incident chronic
+diseases was consistent even after adjusting for potential covariates, including
+baseline steps per day and step intensity. Step intensity was
+also significantly associated with these incident diseases, although the relationships
+were less consistent than with step counts. These findings provide
+a new, robust source of evidence in support of the
+physical activity guidelines to prevent the risk of developing chronic
+diseases. If validated, these results may offer an evidence-base for
+refining activity recommendations based on an individual’s risk profile. This
+study also provides an example of the potential clinical value
+of linking data from commercially available wearables to the EHR.

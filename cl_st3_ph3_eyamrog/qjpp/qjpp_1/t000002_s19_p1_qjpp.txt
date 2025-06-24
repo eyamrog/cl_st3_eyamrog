@@ -1,0 +1,20 @@
+Of the 329,070 AoURP participants at the time of our
+analysis, 214,206 participants had consented to share EHR data. Of
+those sharing EHR data, 6,042 participants linked their own Fitbit
+device, had valid Fitbit data over at least 6 months
+of total monitoring and were aged at least 18 years
+at any time during the monitoring period (Extended Data Fig.
+1 ). Only 0.02% and 0.44% of total days were
+excluded given they had fewer than 100 steps and <6
+months of monitoring, respectively. Participants had a median age of
+56.7 years (interquartile range (IQR) 41.5–67.6) and median body mass
+index (BMI) of 28.1 kg m (IQR 24.3–32.9) at baseline
+(Table 1 ). Nearly 73%, 84% and 71% were female,
+white and with a college degree, respectively. The median daily
+step counts were 7,731 (IQR 5,867–9,827) steps per day over
+Fitbit monitoring duration of 4.0 years (IQR 2.2–5.6), representing 5,991,662
+person-days of monitoring and nearly 50.6 billion total steps. Participants
+with Fitbit and EHR data were more likely to be
+white, female and to have a lower burden of medical
+comorbidities compared with those sharing EHR data alone (Table 1
+).

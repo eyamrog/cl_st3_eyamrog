@@ -1,0 +1,6 @@
+Given each transmission and vaccination scenario, we simulated 100 random
+realizations for each candidate vaccination strategy (including the status quo),
+with costs including the vaccination cost and hospital admission cost
+due to the COVID-19 and YLLs averted considering mortality due
+to COVID-19. For each realization, we determined the YLL averted
+for each strategy \(\tau\) as follows:

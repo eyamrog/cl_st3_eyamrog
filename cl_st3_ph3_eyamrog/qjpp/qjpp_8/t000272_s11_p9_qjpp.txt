@@ -1,0 +1,9 @@
+Corpus-assisted discourse analysis has been widely used in language policy
+and political discourse, as it allows for the analysis of
+large data sets through both quantitative and qualitative techniques (
+Flowerdew, 2008 ; Partington, 2003 , 2008 ). Discourse analysis
+(DA) allows for a closer qualitative examination of the salient
+patterns revealed by corpus analysis (CA), while CA provides a
+quantitative textual analysis of specific grammatical features observed through DA
+( Baker, 2006 ; Friginal and Hardy, 2020 ; Orpin,
+2005 ; Stubbs, 1996 ).

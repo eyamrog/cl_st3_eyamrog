@@ -1,0 +1,8 @@
+To assess the level of SARS-CoV-2 S1/S2-specific B cells, cells
+were prepared in staining buffer (PBS with 2% FBS and
+2 mM EDTA), FcγR blocked (clone 2.4G2, BD Biosciences), stained
+with indicated primary antibodies and biotinylated S1/S2 proteins (Sino Biological)
+for 30 min at 4°C; washed, and subsequently stained with
+streptavidin-BV421. Patients 10, 24 and 49 were analyzed on a
+different day with a lower intensity violet laser and required
+different gating.

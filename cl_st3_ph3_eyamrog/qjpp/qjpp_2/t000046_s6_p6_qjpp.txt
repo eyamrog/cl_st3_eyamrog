@@ -1,0 +1,27 @@
+Modelling health impacts is a balance of data requirements, data
+availability, and model parsimony, with validity assessable at two levels:
+uncertainty about the model structure and about the input parameters.
+Concerning our model structure, first of all, it did not
+include the impact of food reformulation. When a tax or
+subsidy is imposed, new incentive structures are created that the
+food industry is likely to respond to. For example, when
+the UK introduced a tiered levy on sugary soft drinks,
+the industry (as the policy intended) reformulated drinks to contain
+lower levels of sugar and introduced lower sugar products. One
+estimate is that two-thirds of the total health gain from
+sugary drinks tax is via the reformulation pathway. Would this
+apply to food taxes and subsidies that are broader than
+just the specific category of drinks? The answer is almost
+certainly yes, but the change would probably not be as
+marked as with drinks, which are easily reformulated. A second
+aspect of our model is that it included key risk
+factors (eg, salt, BMI, fruits and vegetables), but future models
+could extend the range to include nuts and legumes, processed
+and red meat, and fibre. Third, and relatedly, one could
+include additional causal links in the model, such as directly
+from sugar to diabetes, given the evidence that some of
+the effect of sugar is through mechanisms other than bodyweight.
+Fourth, our modelling explicitly allowed for substitution effects between foods,
+but not, for example, how physical activity or other risk
+factors impacting on the same diseases might change with a
+change in energy intake.

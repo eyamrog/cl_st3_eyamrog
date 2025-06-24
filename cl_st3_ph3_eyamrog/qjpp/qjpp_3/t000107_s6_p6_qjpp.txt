@@ -1,0 +1,10 @@
+Thus, the OpTICS platform provides a highly robust in vivo
+platform to screen genes involved in regulating CD8 + T
+cell differentiation as it relates to tumor immunotherapy. This highly
+focused and optimized platform allows for a 20- to 100-fold
+enrichment of sgRNA detection and considerable resolution for gain-of-function screening.
+In addition to the role of Fli1 revealed here, many
+other potential targets for exploration exist from this screen. Moreover,
+using OpTICS to extend from this TF focused biology to
+other areas of cellular biology should provide a robust platform
+for future discovery.

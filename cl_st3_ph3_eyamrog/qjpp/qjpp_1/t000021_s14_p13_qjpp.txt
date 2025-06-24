@@ -1,0 +1,10 @@
+While a similar approach is possible using bulk RNA-seq data,
+here, we are powered to identify temporally similar modules active
+in distinct subsets of cells both within and across time
+and we can use each cell of a specific type
+as a well-controlled, independent biological replicate to identify, from a
+single sample, essential response features and their putative upstream drivers.
+Compared to a directed approach, this discovery-based identification of temporally
+variant modules enables unbiased selection of coordinated genes and pathways
+and immediately reveals differences in response dynamics among cell types,
+states and participants.

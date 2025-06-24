@@ -1,0 +1,9 @@
+Post hoc landmark analyses set at 30 days for the
+primary outcome and the principal secondary outcome are shown in
+Table S16. Time-to-event curves with landmark analysis that were analyzed
+according to the Kaplan–Meier method are shown in Figures S4
+through S7. Between 0 and 30 days, the primary outcome
+occurred in 10.7% of the patients in the zotarolimus-eluting stent
+group and in 9.6% of those in the polymer-free drug-coated
+stent group. Between 31 days and 1 year, the comparable
+percentages were 6.9% and 8.2%, respectively.

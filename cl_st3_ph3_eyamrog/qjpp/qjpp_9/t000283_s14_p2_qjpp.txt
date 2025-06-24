@@ -1,0 +1,20 @@
+In our analyses we include material from five spoken genres:
+four categories of scripted speech, including broadcast news (“bnew”), broadcast
+talks (“btal”; e.g., scripted speeches given in the Scottish parliament
+by invited speakers), legal presentations (“leg”; e.g., legal sentencing) and
+non-broadcast talks (“nbtal”; e.g., scripted speeches given at university such
+as inaugural lectures on any topic), as well as unscripted
+speeches (“unsp”; e.g., conference presentations in any field). If the
+general design of ICE is to lean intentionally towards the
+standard end of language use by including only highly educated
+speakers (e.g., comments in Greenbaum 1996 :177), these genres could
+be said to be particularly formal and most likely to
+evoke the use of the standard variety of Scottish English,
+as compared to face-to-face conversations or telephone calls, for example.
+All speakers in this study are users of SSE, including
+university lecturers, journalists, lawyers, university students, and ministers. It should
+be noted that, although they are considered to be middle-class
+speakers due to their current occupations, their original social class
+is largely unknown. This of course has consequences for the
+generalizability of our data, as we will discuss in the
+final section.

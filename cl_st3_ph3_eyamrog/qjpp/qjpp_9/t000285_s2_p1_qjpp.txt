@@ -1,0 +1,9 @@
+The paper is developed from a chapter of my doctoral
+thesis ( Childs 2017b ). I am grateful to Karen
+Corrigan, Anders Holmberg, and Heike Pichler for their valuable feedback
+as my doctoral supervisors, as well as Geoff Poole and
+David Britain as my examiners. I would also like to
+thank Jane Stuart-Smith, Heike Pichler, and the DECTE team for
+allowing me to use their corpora in this study. I
+am also grateful to the journal editors and two anonymous
+reviewers for their comments.

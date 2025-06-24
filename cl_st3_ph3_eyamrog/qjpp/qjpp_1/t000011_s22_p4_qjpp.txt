@@ -1,0 +1,23 @@
+Given global vaccine shortages, dose fractionation of vaccines has been
+proposed as a potential strategy to accelerate the accrual of
+population immunity through vaccination . Assuming that vaccines approved in
+India face a shortfall in the total number of full
+doses available, we evaluated the economics of potential costs and
+benefits of dose fractionation of COVID-19 vaccines. Studies of COVID-19
+mRNA vaccines indicate that fractional doses could still provide a
+robust immune response against COVID-19 (ref. ). For the mRNA-1273
+vaccine, two doses of 25 µg elicited about half the
+geometric mean PRNT 80 titers (which is a measure widely
+used to evaluate the neutralizing antibody responses against viruses) at
+14 days compared to two doses of the standard dose
+(100 μg) . Recent modeling studies suggest that dose-sparing strategies
+can reduce the disease burden of COVID-19 as compared to
+the full-dose strategy . Moreover, fractional-dose strategies have been used
+successfully in the past to address vaccine shortages for inactivated
+poliovirus vaccines and meningococcal conjugate vaccines in outbreak events .
+Based on lengthy experience with 17DD yellow fever, knowledge of
+the effect of fractional doses and durable responses with this
+vaccine, one-fifth of the standard dose of the 17DD yellow
+fever vaccine was used in Angola and the Democratic Republic
+of Congo to accelerate vaccine rollout during their 2016 outbreaks
+.

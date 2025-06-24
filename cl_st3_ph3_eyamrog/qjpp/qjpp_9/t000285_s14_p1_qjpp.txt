@@ -1,0 +1,22 @@
+The present study uses data from three corpora which represent
+varieties of English spoken in Glasgow (Scotland), Tyneside (Northeast England),
+and Salford (Greater Manchester) in the UK. All three places
+are urban centers where the variety spoken has relatively low
+prestige within the UK ( Coupland & Bishop 2007 ).
+Table 1 gives details of the corpora: the Glasgow Sounds
+of the City corpus ( Stuart-Smith & Timmins 2011-2014 ),
+the Diachronic Electronic Corpus of Tyneside English (DECTE; Corrigan, Buchstaller,
+Mearns & Moisl 2010-2012 ), and the Research on Salford
+English corpus (RoSE; Pichler 2011-2012 ). These corpora contain recordings
+of pairs of speakers (with or without an interviewer) in
+conversation for a minimum of twenty-five minutes, but often longer.
+Open in Viewer Table 1 . The Three Corpora Recording
+Set-up Demographic Recording Years Ages Social Class Glasgow Sounds of
+the City Same-gender pairs, no interviewer Born, raised, and living
+in the Maryhill area ( Stuart-Smith, Timmins & Tweedie 2007
+:230) 1997, 2003 13-15 40-60 Working class Tyneside DECTE Same-gender
+pairs, with interviewer Born, raised, and living in Newcastle upon
+Tyne, Gateshead, or North Tyneside 2007-2011 18-25 43-78 Working class
+Salford RoSE Same-gender pairs, sometimes with interviewer Born, raised, and
+living in the metropolitan area of Salford, Greater Manchester 3
+2011-2012 17-27 38-63 Working class

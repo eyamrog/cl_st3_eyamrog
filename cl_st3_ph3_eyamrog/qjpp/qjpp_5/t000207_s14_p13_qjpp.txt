@@ -1,0 +1,16 @@
+Informative Gaussian priors for the site effects regularized the party
+size estimates ( Gelman et al., 2008 ) for GP
+and SNP, preventing numerically unstable standard errors that could result
+from a likelihood method. Camera-specific detection distance was again treated
+as an offset in the model; predictions were generated for
+the mean party size per meter detection distance. We used
+Gaussian priors with mean zero and standard deviation five for
+site effects (on the log-link scale), and a Gaussian prior
+with mean one and standard deviation 10 −4 for ln
+(detection distance). We used inverse-gamma priors with shape and scale
+both equal to 10 −3 for camera site and residual
+variances. We generated 55,000 MCMC iterations, discarding the initial 5000
+for a burn-in and thinning at a rate of 50
+iterations, to obtain 1000 posterior parameter samples for inference. We
+examined trace plots of model parameters to check that mixing
+was adequate.

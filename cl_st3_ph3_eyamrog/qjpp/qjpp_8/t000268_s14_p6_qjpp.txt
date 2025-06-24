@@ -1,0 +1,19 @@
+To construct the GEPU, the authors re-normalised each national EPU
+index to a mean of 100 from the first year
+to 2015 and, imputed missing values for certain countries using
+a regression-based method. This, yielded a balanced panel of monthly
+EPU index values for the 21 countries from January 1997
+onwards. Finally, they computed the GEPU index value for each
+month as the GDP-weighted average of the 21 national EPU
+index values, using GDP data from the International Monetary Fund's
+World Economic Outlook Database. In the present study, we used
+the version of the GEPU based on GDP adjusted by
+purchasing power parity (PPP). An additional advantage of the GEPU
+index is that it allows for a comparative analysis between
+the different countries. Given the main aim of the present
+study, the anticipatory nature of the GEPU makes it a
+suitable indicator. All GEPU data is available for free at
+http://www.policyuncertainty.com/index.html . Fig. 1 shows the annual evolution of the
+GEPU during the sample period and its frequency distribution. Download:
+Download high-res image (435KB) Download: Download full-size image Fig. 1
+. Global EPU – Time-series plot and histogram.

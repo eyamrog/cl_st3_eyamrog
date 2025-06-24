@@ -1,0 +1,18 @@
+It is notable that residue 484 has mutated into a
+variety of different amino acids under pressure of SARS-CoV-2 convalescent
+sera ( Liu et al., 2020 22. Liu, Z. ∙
+VanBlargan, L.A. ∙ Rothlauf, P.W. ... Landscape analysis of escape
+variants identifies SARS-CoV-2 spike mutations that attenuate monoclonal and serum
+antibody neutralization bioRxiv. 2020; Published online January 15, 2021 Crossref
+Scopus (0) Google Scholar ) (e.g., E484A, E484G, E448D, and
+E484K), and mutation at this site can cause immune resistance
+to different convalescent sera ( Liu et al., 2020 22.
+Liu, Z. ∙ VanBlargan, L.A. ∙ Rothlauf, P.W. ... Landscape
+analysis of escape variants identifies SARS-CoV-2 spike mutations that attenuate
+monoclonal and serum antibody neutralization bioRxiv. 2020; Published online January
+15, 2021 Crossref Scopus (0) Google Scholar ). This variability
+indicates that 484E is located at a “dominant epitope region”
+of the S protein. All variants of 501Y.V2 harbor the
+E484K mutation, further supporting that this mutation can at least
+partially explain the observed decreased susceptibility to neutralization by convalescent
+sera.

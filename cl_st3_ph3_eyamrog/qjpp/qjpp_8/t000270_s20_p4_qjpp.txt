@@ -1,0 +1,13 @@
+The number of network changes helps to understand the complex
+dynamics in adaptive networks. That is, all independent variables have
+similar effects on final size and the number of network
+changes ( Fig. 2 , column 4). It follows that
+the further the disease spreads in the network, the more
+agents reposition themselves to avoid or delay infections. If we,
+however, control for all independent variables ( Table 2 ),
+the number of network changes increases, although final size decreases
+as network clustering increases. That is because infections inside densely
+connected clusters require agents to dissolve comparatively many ties to
+distance themselves from the disease. Due to the low number
+of ties bridging any two clusters, however, it is less
+likely that the disease spreads through the entire network.

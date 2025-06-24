@@ -1,0 +1,7 @@
+The Rb 3/ Rb 4 EEF, which forms Block2 in
+the R. pubera genome, was likely maintained as a duplicated
+fused chromosome after the first WGD, which might have allowed
+a longer period of tetrasomic inheritance. This hypothesis might explain
+the fact that the sequences of the four copies from
+Block2 cannot be distinguished from each other, in contrast to
+Block1.

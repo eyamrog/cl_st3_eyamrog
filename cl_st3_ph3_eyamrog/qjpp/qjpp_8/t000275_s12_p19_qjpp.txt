@@ -1,0 +1,20 @@
+As shown in Table 4 , the data provided did
+not include information regarding the types of the comments, i.e.,
+initiating posts, independent posts, replies, and whether they were contributed
+by facilitators. Based on the id, parent_id, author_id and timestamp,
+I was able to categorize the comments into the three
+types of comments, i.e., initiating posts, independent posts, and the
+replies, and arrange them within the threads according to the
+time of posting. This categorization was automatized by programming software
+such as R. The calculation of the length of the
+thread was also achieved by R. Only the identification of
+facilitators required some manual work. I visited each MOOC on
+the platform and checked the introductory page where facilitators were
+introduced, and browsed through the discussion space in the first
+week of the courses to gather their comments. I then
+mapped them back to the data file to identify their
+id accordingly, which is then used in R to create
+a variable to annotate whether a comment is contributed by
+a learner or facilitator, and whether a thread involves facilitators.
+Lastly, I used R to export the data into XML
+( Fig. 2 presented earlier).

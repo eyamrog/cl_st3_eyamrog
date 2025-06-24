@@ -1,0 +1,9 @@
+Recent years have seen great advances in the approximation of
+economic uncertainty. Nevertheless, the question of what exactly is meant
+by the term, and how it can be measured, are
+still the subject of debate ( Dibiasi and Iselin, 2021
+; Glas, 2020 ). Kozeniauskas et al. (2018) differentiated three
+types of uncertainty: micro uncertainty (a cross-sectional variance in firm-level
+outcomes); macro uncertainty (aggregate shocks); and higher-order uncertainty (disagreement). Castelnuovo
+(2019) has provided an overview of recent developments in this
+area.

@@ -1,0 +1,9 @@
+In sensitivity analyses for the economic analyses, several alternative scenarios
+were considered. These included a simplified version of the intervention
+(where only strengthening activities were included), an extended time horizon
+with longer benefit of the intervention (where in-service training and
+intervention were assumed to continue for a total of 24
+months after introduction of the intervention), and, in settings where
+only children younger than 5 years are now treated, adopting
+a policy of providing tuberculosis preventive treatment to household contacts
+of all ages instead.

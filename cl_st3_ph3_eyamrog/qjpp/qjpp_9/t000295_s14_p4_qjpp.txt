@@ -1,0 +1,6 @@
+In this study, we used the conditional inference trees and
+random forest models to explore the multiple interactions among the
+significant predictors, and their relative importance. As alternatives to multiple
+regression, conditional inference trees and random forests are non-parametric tree-structure
+models, which can address complex interactions, non-linearity, and correlated predictors
+( Paquot and Gries, 2020 : 611).

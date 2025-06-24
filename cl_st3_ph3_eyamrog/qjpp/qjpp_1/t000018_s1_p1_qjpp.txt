@@ -1,0 +1,15 @@
+Current inflammatory bowel disease (IBD) therapies are ineffective in a
+high proportion of patients. Combining bulk and single-cell transcriptomics, quantitative
+histopathology and in situ localization across three cohorts of patients
+with IBD (total n = 376), we identify coexpressed gene
+modules within the heterogeneous tissular inflammatory response in IBD that
+map to distinct histopathological and cellular features (pathotypes). One of
+these pathotypes is defined by high neutrophil infiltration, activation of
+fibroblasts and vascular remodeling at sites of deep ulceration. Activated
+fibroblasts in the ulcer bed display neutrophil-chemoattractant properties that are
+IL-1R, but not TNF, dependent. Pathotype-associated neutrophil and fibroblast signatures
+are increased in nonresponders to several therapies across four independent
+cohorts (total n = 343). The identification of distinct, localized,
+tissular pathotypes will aid precision targeting of current therapeutics and
+provides a biological rationale for IL-1 signaling blockade in ulcerating
+disease.

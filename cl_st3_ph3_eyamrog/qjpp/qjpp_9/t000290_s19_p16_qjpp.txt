@@ -1,0 +1,17 @@
+In Figure 7 , the trajectories for both F1 and
+F2 of /æ/ show clear distinctions in all four coda
+conditions, with the voiced velar codas /ɡ/ and /ŋ/ having
+the greatest degree of overlap. Interestingly, the formant trajectories of
+/æ/ before the voiceless velar /k/ are further from the
+voiced velar contexts than for other codas. /ɛ/ exhibits the
+least degree of overall cross-coda context difference. For F2, its
+trajectories before /ɡ/ and /ŋ/ are fully overlapped and clearly
+diverge from the other conditions, and the respective F1 trajectories
+are overlapped for most of the vowel duration as well;
+the pre-/k/ context once again exhibits a distinctive trajectory for
+both formants. For /e/, the pre-/ɡ/ trajectories of both F1
+and F2 depart from both /k/ and other codas for
+nearly the entire duration (with some overlap towards vowel offset).
+In contrast, the formant trajectories of /e/ before /k/ and
+other are fully overlapped for at least the first half
+of the vowel.

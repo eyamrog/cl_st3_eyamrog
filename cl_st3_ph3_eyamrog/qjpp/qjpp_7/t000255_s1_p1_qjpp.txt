@@ -1,0 +1,17 @@
+The cognitive health of older adults since the COVID-19 pandemic
+onset is unclear, as is the potential impact of pandemic-associated
+societal ageism on perceived cognition. We investigated associations between perceptions
+of societal ageism and changes in subjective memory over a
+10-month period during the COVID-19 pandemic. We collected longitudinal data
+from monthly online questionnaires in the nationwide COVID-19 Coping Study
+of US adults aged ≥55 from April 2020 to January
+2021 (N = 4444). We analyzed the data using multivariable
+longitudinal multilevel models. We identified an overall decline in subjective
+memory, especially in the initial months of the pandemic. Adults
+who perceived that societal respect for older adults decreased during
+the pandemic experienced more rapid declines in their subjective memory.
+These findings suggest that aging adults perceived a decline in
+their memory, especially during the initial months of the COVID-19
+pandemic. Societal interventions to combat ageism may help improve subjective
+memory and could decrease risk for cognitive decline among middle-aged
+and older adults.

@@ -1,0 +1,8 @@
+To retrogradely label PBN- and NTS-projecting neurons in the IC
+of the same mice, we unilaterally injected ∼0.2 μl CTB-555
+solution (0.1% in PBS) into the PBN (coordinates: 5.3 mm
+posterior to Bregma, 1.9 mm lateral from midline, 2.63 mm
+ventral from cortical surface with a 14.85° angle) and ∼0.2
+μl CTB-647 solution (0.1% in PBS) into the NTS in
+C57BL/6J mice. Mice were sacrificed 5 days after the injection
+to allow retrograde labeling of projection neurons.

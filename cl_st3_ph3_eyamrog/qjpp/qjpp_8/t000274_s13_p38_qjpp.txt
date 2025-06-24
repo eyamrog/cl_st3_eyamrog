@@ -1,0 +1,20 @@
+As discussed in 3.2 the first stage of anonymisation in
+compiling the WiSP corpora was to replace direct identifiers such
+as personal names as well as spatial and temporal identifiers
+such as location and significant dates (e.g. of a court
+hearing). However, based on discussion with participating social workers and
+on our growing familiarisation with the data, we felt this
+was insufficient protection for individuals. For example a chronology covering
+a critical incident involving hospitalisation and police intervention was fully
+described stated with details of dates and drug doses. Coding
+in building Corpus 2 was thus extended to cover indirect
+identifiers such as drug names. Additionally, all dates were encoded
+as [DATE] since these form clear anchoring points which could
+be used to triangulate with databases containing court reports, police
+reports, hospital admissions or with social media. Each text was
+manually checked for any remaining personal identifiers. We also uploaded
+the corpus to the semantic tagging tool WMatrix ( Rayson
+2009 ) and checked the semantic domain of ‘people’ for
+omitted names. This detailed coding process was only possible due
+to the relatively small size of the corpus (1 million
+words). 3 2) Delink texts

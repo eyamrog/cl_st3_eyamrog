@@ -1,0 +1,17 @@
+The 501Y.V2 variants showed no obvious changes in infectivity SARS-CoV-2-susceptible
+cell lines. However, RBD mutations led to significantly higher viral
+infection in HEK293T cells expressing the murine ortholog of ACE2.
+Simultaneous mutation of three amino acids in the RBD of
+the 501Y.V2 variants decreased sensitivity to neutralization by SARS-CoV-2 convalescent
+sera and RBD-immunized sera, while mutations outside of the RBD
+had minimal effects on viral infectivity and antigenicity. Moreover, our
+data support that the predominant 501Y.V2 variants may compromise the
+therapeutic efficacy of existing monoclonal antibodies or convalescence sera, or
+even cause a decrease in the protective efficacy of existing
+vaccines. Therefore, studies on SARS-CoV-2 reinfection should also be conducted
+to evaluate whether the immune response established by an early
+viral infection can prevent reinfection by the newer mutant variants.
+It also remains unclear whether the variants induce strong immune
+responses. Close monitoring and functional genetic analysis of these prevalent
+variants could be informative for guiding prevention and control measures
+for the SARS-CoV-2 pandemic.

@@ -1,0 +1,13 @@
+Next, we asked whether these Snt1 aggregates could convert naive
+yeast to [ ESI + ]. We prepared naive cells
+for transformation by spheroplasting and then introduced either Snt1 aggregates
+or bovine serum albumin (BSA) as a control ( Figure
+1 H). Co-transformation with a LEU2 carrier plasmid identified the
+small number of cells that uptook extracellular material. We plated
+transformations to single colonies on selective medium and passaged colonies
+for >100 generations to dilute the original Snt1 aggregates. We
+then tested whether these colonies acquired [ ESI + ]-associated
+zinc resistance. Many did (9 of 48, or ~19% from
+Snt1 aggregate transformations; feature 8) ( Figure 1 I). No
+such behavior emerged in control colonies that were transformed with
+BSA ( Figure 1 I).

@@ -1,0 +1,20 @@
+Analyzing the time needed per knot revealed a significant effect
+of hand preference congruency, but not for the interaction of
+hand preference congruency and knot difficulty (full model, Table 1
+). The interaction term was removed in the final model,
+and hand preference congruency was revealed as a significant main
+factor (final model, Table 1 ). Table 1 . Results
+of analyses of three measurements of imitation performance, including all
+factors (Full model) and only the main factors (Final model).
+Performance Factor F df p -value Full model Time per
+knot (s) hand preference congruency 9.906 530 0.002 knot difficulty
+149.919 530 <0.001 hand preference congruency∗knot difficulty 0.923 530 0.398
+Attempts per knot hand preference congruency 2.160 527 0.142 knot
+difficulty 63.899 527 <0.001 hand preference congruency∗knot difficulty 2.006 527
+0.136 Success of imitation hand preference congruency 0.156 530 0.693
+knot difficulty 41.325 530 <0.001 hand preference congruency∗knot difficulty 0.905
+530 0.405 Final model Time per knot (s) hand preference
+congruency 12.351 532 <0.001 knot difficulty 150.038 532 <0.001 Attempts
+per knot hand preference congruency 5.468 529 0.020 knot difficulty
+63.448 529 <0.001 Success of imitation hand preference congruency 4.905
+532 0.027 knot difficulty 43.355 532 <0.001

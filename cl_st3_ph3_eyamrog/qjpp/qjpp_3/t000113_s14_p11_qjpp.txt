@@ -1,0 +1,17 @@
+We measured the directionality of value place fields in two
+ways. First, for each field, we determined its center of
+mass, CoM , along the trajectory as: 𝐶 ⁢ 𝑜
+⁢ 𝑀 = ∑ 𝑖 𝐹 ⁢ 𝑅 𝑖 ⁢
+𝑥 𝑖 ∑ 𝑖 𝐹 ⁢ 𝑅 𝑖 where FR
+denotes the firing rate, x is the position, and i
+defines the extent of the field. We determined the skewness
+of the field, S , by generating an index of
+the mean firing rates to either side of the CoM
+: 𝑆 = 𝐹 ⁢ 𝑅 𝐶 ⁢ 𝑂 ⁢
+𝑀 , 𝑙 ⁢ 𝑒 ⁢ 𝑓 ⁢ 𝑡 −
+𝐹 ⁢ 𝑅 𝐶 ⁢ 𝑂 ⁢ 𝑀 , 𝑟
+⁢ 𝑖 ⁢ 𝑔 ⁢ ℎ ⁢ 𝑡 𝐹 ⁢
+𝑅 𝐶 ⁢ 𝑂 ⁢ 𝑀 , 𝑙 ⁢ 𝑒
+⁢ 𝑓 ⁢ 𝑡 + 𝐹 ⁢ 𝑅 𝐶 ⁢
+𝑂 ⁢ 𝑀 , 𝑟 ⁢ 𝑖 ⁢ 𝑔 ⁢
+ℎ ⁢ 𝑡

@@ -1,0 +1,20 @@
+Recombinant protein expression and purification were performed as described (
+Aricescu et al., 2006 4. Aricescu, A.R. ∙ Lu, W.
+∙ Jones, E.Y. A time- and cost-efficient system for high-level
+protein production in mammalian cells Acta Crystallogr D Biol Crystallogr.
+2006; 62 :1243-1250 Crossref Scopus (537) PubMed Google Scholar ;
+Seiradake et al., 2015 100. Seiradake, E. ∙ Zhao, Y.
+∙ Lu, W. ... Production of cell surface and secreted
+glycoproteins in mammalian cells Methods Mol. Biol. 2015; 1261 :115-127
+Crossref Scopus (12) PubMed Google Scholar ). Briefly, adherent HEK293T
+or GnTI-deficient HEK293S cells were transiently transfected with the relevant
+plasmids using polyethylenimine (PEI) and grown for 5–10 days. Cell
+culture media were filtered to remove dead cells and buffer-exchanged
+to phosphate buffer saline (PBS) containing also 250 mM NaCl
+and 20 mM Tris (pH 7.5). Conditioned media were passed
+through HisTrap HP columns (GE Healthcare), washed with buffer supplemented
+with 40 mM imidazole and bound proteins were eluted using
+20 mM Tris pH 7.5, 300 mM NaCl and 500
+mM imidazole. The eluate was then subjected to size exclusion
+chromatography using Superdex 200 16/60 (GE Healthcare) in 10 mM
+Tris-HCl (pH 7.5) and 200 mM NaCl.

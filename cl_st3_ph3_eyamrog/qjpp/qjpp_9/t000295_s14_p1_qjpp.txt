@@ -1,0 +1,15 @@
+The data were extracted from the Global Corpus of Learner
+Chinese ( Cui and Zhang, 2011 ). This is a
+Chinese learner corpus composed of data that originates from spoken,
+written, and video collections of learners from various native language
+backgrounds. We first retrieved the sentences containing the rc marker
+‘DE’. Thereafter, we manually screened out the examples with rc
+s and DPs. In accordance with Li (2013) , this
+study’s rc should meet the following standards: it must contain:
+( 1 ) the signalling word ‘DE’, ( 2 )
+a gap, 3 and ( 3 ) a verb phrase.
+The following cases were excluded: adjective phrases (e.g., a happy
+holiday ), the structure of a location (e.g., people at
+home/school) and subject-predicate sentences (e.g., students with very good grades).
+Eight hundred lines of concordance were selected from the corpus
+after manual filtering.

@@ -1,0 +1,25 @@
+A CONSORT diagram was created to describe how many participants
+as well as Fitbit data, including percent days, were excluded
+based on the criteria used to create the analytical dataset.
+Descriptive statistics for participant’s demographic and clinical characteristics were presented
+by median and IQR for continuous variables and frequency for
+categorical variables. Mann–Whitney U and chi-squared tests for continuous and
+categorical variables, respectively, were used to compare these clinical characteristics
+for the participants that were excluded versus included in the
+analytical dataset for this study. We used logistic regression and
+Cox proportional hazard models to examine associations between step counts
+and incident disease. We first conducted multiple logistic regression models
+adjusted for age, sex and stated race, to examine the
+association between average steps per day over an individual’s entire
+monitoring period and all available phecodes. ORs and 95% CIs
+were reported per 1,000 step count increase. These analyses were
+exploratory in nature and allowed a data-driven approach to identify
+the diseases with a statistically significant relation with steps per
+day in a manner that was unconstrained by prior knowledge.
+The remainder of our analyses focused on disease associations by
+logistic regression that met a Bonferroni adjusted significance threshold and
+have a plausible biological link to physical activity. These conditions
+were then examined in separate continuous time-dependent Cox proportional hazard
+models with adjustment for relevant covariates. Participants were censored at
+their last medical encounter, which was defined as latest measurement,
+laboratory data, procedure or condition code.

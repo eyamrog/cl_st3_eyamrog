@@ -1,0 +1,14 @@
+Categorical data are reported as percentages (counts divided by the
+number of patients who could be evaluated) and were compared
+with the use of Fisher’s exact test. Continuous data are
+reported as means with standard deviations and were tested with
+the use of two-sample Student’s t-tests; rates are based on
+all the patients who underwent randomization and had data that
+could be evaluated. For prespecified subgroup analyses, the interaction term
+between treatment groups and subgroups was evaluated with the use
+of logistic regression. Cumulative-incidence curves with Kaplan–Meier estimates were generated.
+Post hoc landmark analyses were performed with the use of
+cutoffs at 30 days, which corresponded to the planned date
+of discontinuation of dual antiplatelet therapy. All the statistical analyses
+were performed with the use of SAS software, version 9.4
+or higher (SAS Institute).

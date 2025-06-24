@@ -1,0 +1,11 @@
+The expression of motion events across languages has been a
+topic of lively debate since the publication, over forty years
+ago, of Talmy’s influential work (1972, 2000) on the classification
+of the world’s languages into “satellite-framed” and “verb-framed.” A motion
+event, according to Talmy (2000 :II, 25-26), consists of four
+components: a) a figure moving with respect to another entity,
+b) the reference entity, or ground, with respect to which
+the figure moves, c) the path followed by the figure
+with respect to the ground, and d) the motion itself.
+Thus, in (7), the rock functions as the figure, the
+hill as the ground, down expresses path, and moved motion.

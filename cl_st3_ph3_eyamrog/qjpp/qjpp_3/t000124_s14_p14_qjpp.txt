@@ -1,0 +1,7 @@
+We used Smudgeplot ( Ranallo-Benavidez et al., 2020 78. Ranallo-Benavidez,
+T.R. ∙ Jaron, K.S. ∙ Schatz, M.C. GenomeScope 2.0 and
+Smudgeplot for reference-free profiling of polyploid genomes Nat. Commun. 2020;
+11 :1432 Crossref Scopus (166) PubMed Google Scholar ) to
+visualize and estimate the ploidy and structure of the sequenced
+genomes. This tool can infer ploidy directly from the k-mers
+present in sequencing reads by analyzing heterozygous k-mer pairs.

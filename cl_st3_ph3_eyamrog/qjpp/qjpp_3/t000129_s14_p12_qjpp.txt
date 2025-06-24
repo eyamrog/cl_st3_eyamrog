@@ -1,0 +1,18 @@
+Available CTCF-AID-GFP and Rad21-AID-GFP E14 ESCs were treated with 500
+μM auxin for 48 h and between 1-6 h, respectively
+( Liu et al., 2021 83. Liu, N.Q. ∙ Maresca,
+M. ∙ van den Brand, T. ... WAPL maintains a
+cohesin loading cycle to preserve cell-type-specific distal gene regulation Nat.
+Genet. 2021; 53 :100-109 Crossref Scopus (36) PubMed Google Scholar
+; Nora et al., 2017 100. Nora, E.P. ∙ Goloborodko,
+A. ∙ Valton, A.L. ... Targeted degradation of CTCF decouples
+local insulation of chromosome domains from genomic compartmentalization Cell. 2017;
+169 :930-944.e22 Full Text Full Text (PDF) Scopus (761) PubMed
+Google Scholar ). Successful depletion was confirmed through lost GFP
+signal by FACS. For CTCF-AID-GFP ESCs, bulk cell populations were
+plated on coverslips for FISH or directly fixed for cHi-C.
+For cHi-C on Rad21-AID-GFP ESCs, auxin-treated G1 cells were isolated
+by FACS following fixation and lysis for cHi-C and subsequent
+DAPI staining. For FISH on Rad21-AID-GFP ESCs, depleted cells were
+plated on coverslips following 2 h auxin-treatment where only modest
+changes to cell-cycle had occurred.

@@ -1,0 +1,15 @@
+These findings have numerous implications for research, including most notably
+that latently observed community vulnerability is not as important for
+understanding differences in COVID-19 transmission and health outcomes as human
+behavior . Future research should follow the lessons learned here
+and incorporate variables that capture both vulnerability and behavior, as
+well as potentially other mitigating factors. For example, modeling the
+next phase of the pandemic will likely require incorporating vaccination
+information in addition to the measures explored here in order
+to understand disease spread. Perhaps PVI can be updated or
+amended to include vaccine information, building on the measure's current
+inclusion of infection rates ( Marvel et al., 2021 ).
+We suspect that as more individuals are inoculated, mobility and
+social distancing will play a less important role. However, this
+assumption does not account for the relative risks imposed by
+COVID-19 variants or nonvaccinated individuals.

@@ -1,0 +1,26 @@
+In the factor analysis, six components with eigenvalues greater than
+1·0 were retained. Of the total variance, the obesity factor
+(factor 1) accounted for 16·2%, the blood pressure factor (factor
+2) for 13·6%, the staple food factor (factor 3) for
+9·5%, the non-staple food factor (factor 4) for 8·8%, the
+smoking and alcohol use factor (factor 5) for 7·9%, and
+the metabolic and physical activities factor (factor 6) for 7·4%
+( table 2 ). After varimax orthogonal rotation, the first
+component, the obesity factor, had factor pattern loadings exceeding 0·9
+for BMI and waist circumference. The second component, the blood
+pressure factor, had factor pattern loadings of nearly 0·9 for
+systolic blood pressure and diastolic blood pressure. The third component
+was termed staple food factor because it mainly included intake
+of whole grains (with loadings of 0·8) and beans (0·7).
+The fourth component was termed non-staple food factor because it
+mainly included intake of fruit (0·6), vegetables (0·8), and red
+meat (0·6). The fifth component was termed smoking and alcohol
+use factor because of its high loadings on these two
+risk factors (0·8 for both). The last component was termed
+metabolic and physical activities factor with its high loadings on
+blood glucose (0·6), blood lipid (0·7), and physical activity (0·5).
+In the separate analyses for male and female individuals, we
+found the same six components and similar factor patterns. The
+findings did not change in the sensitivity analyses that were
+done using data without missing imputations ( appendix 2 pp
+9–15 ).

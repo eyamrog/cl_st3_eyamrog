@@ -1,0 +1,9 @@
+The outcome variable party size is the maximum number of
+individuals captured in any single photo sequence (i.e., for each
+detection event separately). Unlike the likelihood-based model for terrestrial detection
+rates, a Bayesian model was necessary for party size, to
+accommodate the small numbers of observations at GP and SNP.
+We used a zero-truncated Poisson mixed model, fitted by a
+Bayesian method implemented in the R package MCMCglmm (Markov Chain
+Monte Carlo glmm; Hadfield, 2010 ), to compare party sizes
+across sites.

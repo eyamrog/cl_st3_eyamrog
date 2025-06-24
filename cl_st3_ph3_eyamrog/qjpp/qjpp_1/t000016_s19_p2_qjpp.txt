@@ -1,0 +1,11 @@
+Cases for development, tuning and internal validation originated from Radboud
+University Medical Center, Nijmegen, the Netherlands and Karolinska Institutet, Stockholm,
+Sweden (Extended Data Fig. 1 and Supplementary Methods 1 ,
+2 and 3 ). The external validation data consisted of
+a US and an EU set. The US set contained
+741 cases and was obtained from two independent medical laboratories
+and a tertiary teaching hospital. The EU external validation set
+contained 330 cases and was obtained from the Karolinska University
+Hospital, Stockholm, Sweden. The histological preparation and scanning of the
+external validation samples were performed by different laboratories to those
+responsible for the development, tuning and internal validation data.

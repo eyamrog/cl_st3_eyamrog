@@ -1,0 +1,10 @@
+The average walking speeds of humans and chimpanzees were 1.66
+± 0.06 and 1.09 ± 0.10 m s −1 ,
+respectively. These correspond to similar dimensionless velocities ( v’ ;
+H = 0.56 ± 0.01, C = 0.56 ± 0.06)
+and Fr numbers (H = 0.31 ± 0.02, C =
+0.31 ± 0.06) ( Table 1 ). These speeds are
+close to—but a bit faster than—the preferred overground speeds for
+human walking, and well below the expected walk-run transition speed
+for terrestrial mammals (i.e., v’ = 0.7; Fr = 0.5;
+Alexander, 1989 ; Kram et al., 1997 ).

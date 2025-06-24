@@ -1,0 +1,4 @@
+Pathway enrichment analysis for groups of genes associated with cell
+types was carried out with the enrichGO function from the
+clusterProfiler package in R . ‘Cellular component’ Gene Ontology annotation
+terms were used as pathways.

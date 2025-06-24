@@ -1,0 +1,20 @@
+The tagging process resulted in a corpus of 44,290 tweets
+tagged as need +TO, 14,496 need +ING, and 6984 need
++ED. I manually checked these 65,770 tweets for tagging errors.
+Routine errors included nominal need being tagged as a verb
+as in (10)-(12), modifiers after need being tagged as verbs
+as in (13)-(15), and other instances of text after need
+being tagged as a verb due to misspellings and unconventional
+formatting as in (16) and (17) or not appearing in
+TwitIE’s dictionary (18). (10) People have unique needs to be
+met after every disaster. (New Delhi; tagged as need +TO)
+(11) I shall address my voters needs including transport. (Liverpool;
+tagged as need +ING) (12) Boy with special needs killed.
+(Pittsburgh; tagged as need +ED) (13) This needs to be
+required reading for parents. (Phoenix; tagged as need +TO) (14)
+He doesn’t need running shoes. (Phoenix; tagged as need +ING)
+(15) I need sprinkled donut. (Minneapolis; tagged as need +ED)
+(16) He need to be STRAAAAAAAAAAAAIT with his level of
+interest. (Boston; tagged as need +TO (17) I need atleast
+two. (London; tagged as need +ED) (18) What you need
+melatonin for? (Columbus; tagged as need +ING)

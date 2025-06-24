@@ -1,0 +1,7 @@
+We evaluated publication and reporting bias based on visual inspection
+of the funnel plot, which shows the degree to which
+the mean effect size is correlated with s.d., and on
+statistical testing of this relationship using the classic Egger’s regression
+strategy applied to the residuals of the model (Fig. 1
+). Our approach did not find any indication of publication
+or reporting bias in the studies included in our meta-analyses.

@@ -1,0 +1,13 @@
+R code that downloads the data from the CDC website,
+then cleans and analyzes it, is available on the Open
+Science Framework ( t.ly/pg6V ). The distributions of both testosterone
+and estradiol were strongly non-normal. The data were transformed to
+bring both skew and kurtosis as close to 0 as
+possible. The distributions of male T and E were both
+best corrected by a square root transform. The female distributions
+were best made normal by a natural log transform. As
+such, each sex was analyzed separately, and model outputs are
+not easily comparable. All further references to T and E
+refer to their transformed values. T and E were also
+both standardized for all analyses, so effects of predictors are
+in standard deviation units.

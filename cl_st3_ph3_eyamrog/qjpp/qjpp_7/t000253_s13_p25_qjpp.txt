@@ -1,0 +1,25 @@
+Data on COVID-19 vaccination cover for specific age groups are
+not publicly available for many countries, preventing systematic comparisons. This
+is part of a wider lack of disaggregated data on
+COVID-19 cases and mortality for older people (Lloyd-Sherlock et al.,
+2020 ). With reference to the countries included in Table
+1 , there are large variations in overall levels of
+coverage and also in the ratio of coverage between older
+people and younger adults. In Brazil, two doses had been
+provided to 86.0% of people aged 70 or more, compared
+to 20.8% for people aged between 60 and 64 and
+lower levels for younger ages (Vidale, 2021 ). In South
+Africa, the difference between older and younger ages has been
+much smaller: by October 31, 2021 54.7% of people aged
+60 or more had fully been vaccinated, compared to 48.8%
+for people aged 50–59(Department of Health of South Africa, 2021b
+). The same applies in India, where, by 27 h
+October 2021, 47% of people aged 60 or more had
+been fully vaccinated, compared to 28% of those aged 18
+to 59 (Ministry of Health and Family Welfare of India,
+2021 ). In Bulgaria, people at the oldest ages were
+less likely to be vaccinated than other age groups. By
+October 26, 2021, 21.0% of people aged 80 or more
+had been fully vaccinated, compared to 31% of people aged
+between 60 and 69 and 19.7% of those aged 25
+to 49 (Our World in Data, 2022 ).

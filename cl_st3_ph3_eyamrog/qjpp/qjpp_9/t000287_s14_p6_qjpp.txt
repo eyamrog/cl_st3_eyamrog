@@ -1,0 +1,10 @@
+As discussed in section 2.2 , potential outcomes related to
+merger reversal may include frequency-driven separation (see Nycz 2013 )
+or orthographically guided separation (see Kochetov 2006 ). Tokens were
+additionally coded to test for these outcomes. Frequency was coded
+using data from SUBTLEX-US ( Brysbaert & New 2009 ),
+a corpus of subtitles from American TV and film designed
+for obtaining naturalistic word frequencies. Frequencies were Zipf-scaled by taking
+the base-10 logarithm of the word’s frequency per billion words.
+For both the start and north vowels, spelling was coded
+as <ar> or <or>. 7

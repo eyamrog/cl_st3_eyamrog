@@ -1,0 +1,10 @@
+In contrast, corpora built from sensitive, hard-to-access texts necessitate questions
+such as: what texts are available to us? how should
+we anonymise the texts? will any individual be harmed through
+the creation of this corpus? Due to the difficulties in
+assembling and preparing texts, such corpora are ‘small’ in corpus
+terms, but are valuable in enabling insights into occluded texts
+and genres ( Swales 2004 ). Extensive and critical consideration
+is required at all stages of designing and building such
+a corpus. Section 2.2 explores the nature of and consequently
+the lack of such corpora.

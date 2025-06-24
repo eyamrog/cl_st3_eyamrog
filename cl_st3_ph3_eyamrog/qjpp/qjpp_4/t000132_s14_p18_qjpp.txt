@@ -1,0 +1,11 @@
+Caco-2 cells were passaged in DMEM containing 10% fetal bovine
+serum (FBS), Pen-Strep, and L-glutamine. For copper starvation, medium was
+supplemented with 500 μM BCS for 9 days. During passaging
+under copper starvation conditions, cells were plated in parallel in
+6 cm dishes. To initiate recovery, cells were washed once
+with PBS, and additives for testing were supplied in serum-free
+medium. After a further 3 days, cells were harvested by
+trypsinization and pelleted. Cell lysates were separated by SDS-PAGE and
+analyzed for COX1 levels by western blot (Anti-MTCO1 #ab14705). Bands
+were quantified using ImageJ software and normalized to the untreated
+sample for each biological experimental replicate.

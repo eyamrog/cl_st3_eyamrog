@@ -1,0 +1,6 @@
+This research was supported by ESRC Grant number LIA7835. We
+would like to thank Andrew Hardie for his technical assistance
+in preparing the corpus for analysis. We would also like
+to thank Clare Enston and Peter Williamson from NHS England
+& NHS Improvement for their support over the course of
+this project.

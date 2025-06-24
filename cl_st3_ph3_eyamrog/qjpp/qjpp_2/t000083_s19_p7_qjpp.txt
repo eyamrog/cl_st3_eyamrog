@@ -1,0 +1,14 @@
+The kinetics of postbooster neutralizing antibody responses were similar to
+those observed for binding antibody responses. On day 15, postbooster
+neutralization titers ranged from 676 to 902 IU50 per milliliter
+for participants boosted with mRNA-1273, 31 to 382 IU50 per
+milliliter for those boosted with Ad26.COV2.S, and 344 to 694
+IU50 per milliliter for those boosted with BNT162b2. The factor
+increases in the geometric mean neutralization titers were greatest for
+Ad26.COV2.S-primed recipients, followed by recipients of primary BNT162b2 and mRNA-1273.
+In general, postbooster titers were highest in recipients of primary
+mRNA-1273, followed by primary BNT162b2 and Ad26.COV2.S, regardless of the
+booster vaccine administered. Recipients of an mRNA booster had a
+neutralization response that was higher by a factor of 4
+than those who were boosted with Ad26.COV.S (Tables S55 through
+S60).

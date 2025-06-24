@@ -1,0 +1,8 @@
+2 × 10 5 T cells were sorted using FACS
+machine and the pellets were frozen down. Protein from these
+samples was extracted and denatured by boiling at 95°C in
+2X working loading sample buffer (1M Tris-HCl, 10% SDS, Glycerol,
+10% Bromophenol blue). Lysate was run on a 10% SDS-PAGE
+gel and then transferred to a nitrocellulose membrane. Primary Fli1
+(1:200) and GAPDH (1:1000) antibodies were staining over night, followed
+1:5000 secondary antibody staining on the next day.

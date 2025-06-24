@@ -1,0 +1,11 @@
+Results of this analysis indicated significant, positive, and moderately strong
+correlations between the Oscillayers temperature values and the site-specific temperature
+estimates ( SOM Table S1 ) when using the midpoint
+values of T max and T min , and significant
+though slightly weaker positive correlations when using the highest T
+max and the lowest T min values. In light of
+these correlation results, the Oscillayers data were used with caution
+to model climatic transects across MIS 13–11 (Question 4) and
+to explore the proportions of western European landscapes with tolerated
+or preferred temperatures (as defined by occupied sites) in MIS
+11 and 13 (Question 5).

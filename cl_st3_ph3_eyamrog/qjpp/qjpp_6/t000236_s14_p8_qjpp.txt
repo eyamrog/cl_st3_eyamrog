@@ -1,0 +1,17 @@
+To examine the factors that influence respondents’ response strategies to
+COVID-19, a hierarchical multiple regression was computed. This analysis was
+appropriate as it enabled the study to control for the
+effect of certain independent variables on response strategies of respondents
+( Field 2017 ; Pallant 2016 ). For instance, age,
+gender and other demographic variables have been reported in previous
+studies to influence response strategies. Hence, they were controlled for
+to understand how threat and coping appraisal influence response to
+COVID-19. This was necessary as the PMT argues that responding
+to a pandemic, such as COVID-19, is largely dependent on
+threats and coping appraisal. Hence, it was essential to control
+for the effect of demographic variables. The unique contribution (relative
+importance) of each variable in the model was determined using
+partial/part correlation coefficients ( Pallant 2016 ). The coefficients were
+squared to know their unique contributions to the R 2
+value. The results of the squared coefficients were also converted
+into percentages.

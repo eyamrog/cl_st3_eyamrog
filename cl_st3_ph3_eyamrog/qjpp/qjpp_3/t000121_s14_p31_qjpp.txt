@@ -1,0 +1,5 @@
+TZM-bl target cells were plated in 96-well plates (100 μl
+at 1 × 10 5 /mL), and 24 h later
+an equal volume of hVLPs were overlaid on the cells.
+After a 72 h incubation, cells were imaged using a
+Evos FL light microscope (Life Technologies) and 20x objective.

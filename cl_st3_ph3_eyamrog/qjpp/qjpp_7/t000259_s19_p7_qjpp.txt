@@ -1,0 +1,9 @@
+The results also offer support for H2. On average, respondents
+are more likely than not (41%) to refuse a vaccine
+with 50% effectiveness (the minimum to be considered for public
+use in the US). Compared to a minimally-effective vaccine, Americans
+are significantly more likely to intend to receive a vaccine
+with 70% effectiveness (47%; β = 0.06, p < 0.05),
+and more likely than not to intend to receive a
+vaccine with 90% effectiveness (52%; β = 0.10, p <
+0.05).

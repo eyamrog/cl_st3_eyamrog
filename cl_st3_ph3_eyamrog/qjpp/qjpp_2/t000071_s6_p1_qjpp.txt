@@ -1,0 +1,5 @@
+In this randomized, double-blind, placebo-controlled trial, we investigated the efficacy
+of hydroxychloroquine as Covid-19 postexposure prophylaxis. In this trial, high
+doses of hydroxychloroquine did not prevent illness compatible with Covid-19
+when initiated within 4 days after a high-risk or moderate-risk
+exposure.

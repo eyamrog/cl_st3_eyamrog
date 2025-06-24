@@ -1,0 +1,16 @@
+In this article, I illustrated the use of CWB tool
+to explore a large corpus of online discussions and discussed
+how it could be used to facilitate a synergy of
+corpus analysis and interactional approach to provide insights into users’
+interactions. CWB is stable for large corpora, thus suitable for
+storing and querying textual data of online discussions which usually
+contain thousands of comments. More importantly, CWB allows for annotations
+of variables and units of analysis regarding users’ interactions in
+the online discussions. This in turns allows for comparisons between
+subcorpora (keyword analysis) defined based on different variables (e.g., topics
+of discussions, role of internet users, types of postings) and
+concordance reading that could be expanded from lines to different
+units of analysis. Additionally, grouping search results at the level
+of threads facilitates extraction of threads containing many mentions of
+search terms that are of interest to researchers intending to
+conduct digital CA or micro-analysis.

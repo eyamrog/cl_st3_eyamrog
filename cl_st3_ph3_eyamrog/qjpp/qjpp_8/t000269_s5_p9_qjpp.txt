@@ -1,0 +1,9 @@
+This study used a latent variable approach to derive the
+main covariates of interest. This approach confers an element of
+uncertainty, which can be seen as a limitation; however, it
+yielded satisfactory, robust results. Further, it allows a parsimonious way
+to address the complexity of change over time. Another limitation
+is that all measures of children's wellbeing are parent-reported, which
+can carry measurement error due to over- or under-reporting. Future
+waves of GUS incorporate children's self-reported wellbeing measures, which can
+help alleviate this issue.

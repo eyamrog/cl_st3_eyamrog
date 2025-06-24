@@ -1,0 +1,9 @@
+There was a main effect of gender on the WtHR
+(girls showed a higher WtHR than boys, Q 1,200 =
+4.74, p = .029, partial η 2 = .024), and
+a significant two-way interaction ( Q 1,198 = 8.17, p
+= .004, partial η 2 = .037); post-hoc analysis revealed
+no significant difference between boys and girls in the first
+grade, whereas boys showed higher WtHR values ( Mdn =
+0.48) than girls ( Mdn = 0.45) in the second
+grade ( p Tukey = .005, Cohen's d = 0.699).

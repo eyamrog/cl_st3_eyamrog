@@ -1,0 +1,17 @@
+SARS-CoV-2-specific IgG antibodies towards the receptor binding domain of SARS-CoV-2
+spike protein were quantified using an enzyme-linked immunosorbent assay (ELISA)
+according to the manufacturer’s instructions (SARS-CoV-2-QuantiVac, Euroimmun). Antibody binding units
+(BAU ml ) <25.6 were scored negative, ≥25.6 and <35.2
+were scored intermediate and ≥35.2 were scored positive. SARS-CoV-2-specific IgGs
+towards the N protein were quantified using ELISA according to
+the manufacturer´s instructions (Anti-SARS-CoV-2-NCP-ELISA, Euroimmun). Antibody levels are calculated as
+ratios defined as the extinction of the patient sample divided
+by the extinction of a calibrator serum. Ratios ≥1.1 were
+scored positive. A neutralization assay based on antibody-mediated inhibition of
+soluble ACE2 binding to the plate-bound S1 receptor binding domain
+was used at a single serum dilution according to the
+manufacturer’s instructions (SARS-CoV-2-NeutraLISA, Euroimmun). Surrogate neutralizing capacity was calculated as
+percentage of inhibition (IH) by 1 minus the ratio of
+the extinction of the respective sample and the extinction of
+the blank value. IH < 20% was scored negative, IH
+≥ 20 to <35 intermediate and IH ≥ 35% positive.

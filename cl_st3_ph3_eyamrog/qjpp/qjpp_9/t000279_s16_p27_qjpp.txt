@@ -1,0 +1,18 @@
+The leftmost pane in Figure 5 echoes the finding in
+Figure 1 of a general diachronic decline in the usage
+rate of little as a downtoner or durative across the
+period of our study. 15 The average model-based rate drops
+by more than half from the early eighteenth to the
+turn of the twentieth century, namely from approximately 27.5 to
+11 per 100,000 words. In contrast to previous graphs, the
+regression analysis here models time as a simple continuous predictor
+by year, instead of by subperiod, which yields a clearly
+declining, slightly curved, linear trend. The general diachronic decline applies
+to all speakers irrespective of role, class, and gender, the
+details of whom will be explored in the ensuing subsections.
+The decline of durative little ( Appendix Figure B )
+is actually more pronounced than that of downtoner little (
+Appendix Figure A ), shown by the fact that the
+estimated usage rate of duratives in 1720 drops by half
+already before 1800, whereas that of the downtoner only halves
+by 1900.

@@ -1,0 +1,27 @@
+While the two patterns involving multiple adjectives (ANCA and ANA)
+are indeed similar on the count of denoting individual-level properties,
+examples (20) and (21) show that both adjectives used in
+either case operate on rather different levels of description. In
+(20), in Bech’s (2017 :14) words, the two adjectives “separately
+describe the noun,” while in (21) “one adjective has scope
+over the other,” meaning that the reference is to “powerful
+heathen men,” not to “men who are heathen and powerful.”
+Bech (2017) notices that the type in (21), where the
+adjectives are hierarchically ordered, is attested in the AAN pattern,
+which is, on the other hand, “dispreferred for noun phrases
+with two descriptive adjectives,” and these, in turn, would likely
+require a conjunction ( Bech 2017 :16). While the author
+focuses on the AAN pattern and herself admits that other
+types of adjectival modification would need to be examined, her
+intuitions seem to be somewhat borne out by (20) and
+(21). The asyndetic (though split) pattern of (21) appears to
+mostly involve a hierarchical structure, while the and -type of
+(20) is used predominantly to house two independent adjectives, which
+is unsurprising given what the semantics of and implies. Table
+4 illustrates the difference in the distribution of these two
+types of description across the two patterns analyzed (only those
+instances are compared where the second adjective of a pair
+is individual-level, given a possible ambiguity involving ANA; see a
+discussion of 53 and 54 in section 5). The difference
+between these two patterns is statistically significant (chi-square = 41.516,
+p < .00001).

@@ -1,0 +1,16 @@
+LS174T cells (6 x 10 6 ) were seeded on
+a 10-cm tissue culture plate in serum-free medium. Supernatant was
+collected after 4 days in culture. Supernatant was centrifuged at
+500xg for 10 min and concentrated by a factor of
+10 using a 30 kDa cut-off centrifugal concentrator. SDS-PAGE was
+performed using a volume of 20 μL per lane. For
+western blotting of mucus extractions from mice, 1 cm segments
+of duodenum, intestine, and colon were incubated each in 300
+μL of 8 M urea in PBS supplemented with a
+protease inhibitor cocktail for 1 h at room temperature. Liquid
+was collected from the samples using a pipette and centrifuged
+at 17,000xg for 10 min. SDS-PAGE was performed using 35
+μL of the supernatant per lane. Western blot analysis was
+performed using a rabbit polyclonal antibody raised against the recombinant
+human MUC2 D1 assembly and used at 8 μg/mL final
+concentration.

@@ -1,0 +1,21 @@
+Findings: From Jan 19 to Feb 5, 2021, 15 014
+adults were recruited. Vaccine hesitancy had reduced from 26·9% the
+previous year to 16·9%, so recruitment was extended to Feb
+18 to recruit 3841 additional vaccine-hesitant adults. 12 463 (66·1%)
+participants were classified as willing, 2932 (15·6%) as doubtful, and
+3460 (18·4%) as strongly hesitant (ie, report that they will
+avoid being vaccinated for as long as possible or will
+never get vaccinated). Information conditions did not alter COVID-19 vaccine
+hesitancy in those willing or doubtful (adjusted p values >0·70).
+In those strongly hesitant, COVID-19 vaccine hesitancy was reduced, in
+comparison to the control condition, by personal benefit information (mean
+difference –1·49, 95% CI –2·16 to –0·82; adjusted p=0·0015), directly
+addressing safety concerns about speed of development (−0·91, –1·58 to
+–0·23; adjusted p=0·0261), and a combination of all information (−0·86,
+–1·53 to –0·18; adjusted p=0·0313). In those strongly hesitant, provision
+of personal benefit information reduced hesitancy to a greater extent
+than provision of information on the collective benefit of not
+personally getting ill (−0·97, 95% CI –1·64 to –0·30; adjusted
+p=0·0165) or the collective benefit of not transmitting the virus
+(−1·01, –1·68 to –0·35; adjusted p=0·0150). Ethnicity and gender were
+found to moderate information condition outcomes.

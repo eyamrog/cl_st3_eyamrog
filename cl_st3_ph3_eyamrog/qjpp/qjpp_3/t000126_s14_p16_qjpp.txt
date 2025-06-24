@@ -1,0 +1,13 @@
+The production of CD14+ monocytes was confirmed through FACS analysis.
+Briefly, a minimum of 50,000 cells were harvested from the
+supernatant of monocyte differentiation cultures and washed in cold sorting
+buffer. Cells were blocked by incubating 20 μL of FcR
+Blocking Reagent (MACS Miltenyi Biotec) for 10 min at 4°C
+prior to antibody staining. The antibody used was the BV421
+Anti-Human CD14 (Clone M5E2) (BD Biosciences). Cells were incubated with
+the antibody 30 min at 4°C and then washed twice
+with cold sorting buffer. Cells were filtered using 70μM Pre-Separation
+Filters (MACS Miltenyi Biotec). Control was made with the appropriated
+isotype control and viability was assessed by 7-AAD staining solution
+(BD Biosciences). CD14+ staining was measured on a FACS Aria
+Fusion and analyzed using FlowJo™ software.

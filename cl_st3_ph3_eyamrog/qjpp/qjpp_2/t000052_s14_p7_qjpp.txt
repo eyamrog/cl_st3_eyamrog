@@ -1,0 +1,13 @@
+For collection of data on the primary study outcome, at
+each intervention and control health facility, the number of identified
+household contacts of newly diagnosed index patients with tuberculosis and
+the number of household contacts initiating tuberculosis preventive treatment during
+the first 6 months of the first study phase and
+the last 6 months of the final study phase was
+abstracted from routine clinic records by research staff. Summary data
+at the health facility level were collected from all index
+patients with tuberculosis diagnosed at the health facility during those
+6-month periods. Although data sources varied in different health facilities
+(eg, electronic medical record or paper charts), the procedures followed
+to measure study outcomes remained the same at each facility
+throughout the study.

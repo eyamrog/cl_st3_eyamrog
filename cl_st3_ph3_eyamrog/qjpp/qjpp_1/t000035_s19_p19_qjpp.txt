@@ -1,0 +1,18 @@
+Barnay & Juin ( 9 ) used cross-sectional data from
+the 2008 French Disability and Health Survey to estimate the
+health production function of older persons aged 65 and above
+who reported difficulties performing at least one ADL or IADL
+without help. Informal care was the predominant mode of care
+delivery in France, although formal care was still more prevalent
+there than in the United States in 2016 ( 110
+). Informal care was measured as an indicator variable, while
+the formal care measure was the hours of care received.
+The authors used instrumental variables techniques to estimate the effect
+of the mode of care on two measures of depression.
+To instrument for informal care, they used child characteristics; to
+instrument for formal care, they used geographic variation in the
+proportion of individuals aged 75 and above who receive the
+personal autonomy allowance, a needs-based national program that covers part
+of the long-term-care expenses for individuals aged 60 and above
+who are documented by a clinician to need help with
+ADLs.

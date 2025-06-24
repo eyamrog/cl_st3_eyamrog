@@ -1,0 +1,19 @@
+ZBP1 contains two Zα domains. These domains selectively bind left-handed
+double-helical “Z-form” RNA structures in vitro ( Brown et al.,
+2000; Placido et al., 2007 4. Brown, 2nd, B.A. ∙
+Lowenhaupt, K. ∙ Wilbert, C.M. ... The zalpha domain of
+the editing enzyme dsRNA adenosine deaminase binds left-handed Z-RNA as
+well as Z-DNA Proc. Natl. Acad. Sci. USA. 2000; 97
+:13532-13536 Crossref Scopus (107) PubMed Google Scholar 32. Placido, D.
+∙ Brown, 2nd, B.A. ∙ Lowenhaupt, K. ... A left-handed
+RNA double helix bound by the Z alpha domain of
+the RNA-editing enzyme ADAR1 Structure. 2007; 15 :395-404 Full Text
+Full Text (PDF) Scopus (127) PubMed Google Scholar ), but
+whether Z-RNAs are produced during virus infections and serve as
+activating ligands for ZBP1 is unknown. Here, we show that
+orthomyxoviruses (IAV and IBV) produce Z-RNAs, and these Z-RNAs activate
+ZBP1 in infected nuclei. Once activated, ZBP1 stimulates RIPK3, which
+phosphorylates and activates MLKL in the nucleus. MLKL then triggers
+disruption of the nuclear envelope and promotes leakage of cellular
+DNA into the cytosol. Activated MLKL also traffics to the
+plasma membrane to mediate cell death by necroptosis.

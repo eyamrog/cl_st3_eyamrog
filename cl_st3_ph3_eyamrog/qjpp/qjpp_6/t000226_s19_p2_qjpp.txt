@@ -1,0 +1,12 @@
+Variance in BEE and AEE within each sex was lower
+than in TEE, especially for BEE ( Table 1 ;
+Fig. 1 B, C). Nonetheless, GMV in these traits was
+still sizeable. Overall, BEE and AEE were, respectively, 1.30 and
+1.95 times more variable in males than females ( Table
+1 ). Moreover, similarly to TEE, the fold-difference in variance
+slightly increased when including covariates ( Table 1 ; Figs.
+1 B, C and 2 D–I). In each of these
+cases, the 95% CIs around the variance estimates for males
+and females do not overlap, clarifying the strong evidence that
+male variance is greater than female variance in BEE and
+AEE.

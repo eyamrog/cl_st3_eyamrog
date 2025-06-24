@@ -1,0 +1,23 @@
+Tissue specimens were either fixed for 48 h in 4%
+neutral-buffered formalin (Sigma) and embedded in paraffin (FFPE) for chromogenic
+stainings, or fixed for 24 h in 2% paraformaldehyde in
+phosphate buffer containing l -lysine and sodium periodate and frozen
+in OCT (Sigma) after soaking in 30% sucrose for 48
+h (OCT) for fluorescent staining. Freshly cut, dewaxed and rehydrated
+FFPE sections (5 µm) were subjected to heat-induced antigen retrieval
+by boiling in Target Retrieval Solution (Dako, pH 6.0, for
+all stainings except neutrophil elastase) for 15 min (microwave). This
+was followed by 15 min of blocking in Bloxall solution
+(Vector Labs), 60 min of blocking in 5% BSA/TBST with
+5% serum of secondary antibody species (Sigma) and 15 min
+of blocking in avidin followed by biotin solution (Vector Labs).
+All steps were performed at ambient temperature. Tissue sections were
+incubated with primary antibodies in 5% BSA/TBST overnight (>16 h)
+at 4 °C. Following incubation, biotinylated or HRP-conjugated secondary antibodies
+were applied for 2 h (room temperature) in 5% BSA/TBST.
+For biotinylated secondary antibodies, AB complex (Vector Labs) was incubated
+for a further 1 h in TBST (room temperature). Chromogenic
+stains were developed by the application of DAB HRP substrate
+solution (Vector Labs) and counterstained for 5 min in hematoxylin
+solution (Sigma). Slides were then dehydrated and mounted in DPX
+(Sigma) mounting medium.

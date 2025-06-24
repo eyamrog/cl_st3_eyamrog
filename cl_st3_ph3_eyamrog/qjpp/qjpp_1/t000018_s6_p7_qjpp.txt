@@ -1,0 +1,14 @@
+Patients with UC or CD whose tissues show a high
+M4/M5 signature and ulceration express high amounts of IL1B but
+not NR3C1 , ITGA4 or TNF , suggesting they may
+benefit from blocking of IL-1R rather than TNF to target
+the neutrophil-attractant program in fibroblasts. Indeed, TNF can promote mucosal
+healing and therefore may be deleterious in patients with deep
+ulceration. Genetic defects in the IL-1 pathway have been linked
+to anti-TNF nonresponse , and the principle of ameliorating acute
+intestinal inflammation by blockade of IL-1 signaling has been demonstrated
+in preclinical models . In case studies of Mendelian disease-like
+IBD with IL-10 deficiency, the blockade of IL-1 signaling can
+successfully treat intestinal inflammation . Surprisingly, large-scale studies of IL-1
+blockade in polygenic IBD patient cohorts are lacking although trials
+in acute severe ulcerative colitis are ongoing .

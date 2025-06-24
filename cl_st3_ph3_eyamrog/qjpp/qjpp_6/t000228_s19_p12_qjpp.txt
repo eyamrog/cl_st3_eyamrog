@@ -1,0 +1,12 @@
+Useful plant data The potential use of the detected plant
+taxa was determined for the plants identified to genus and
+species level, reducing the sedaDNA data set to 21 taxa,
+and the pollen data set to 25 pollen types. With
+the focus on Armenian species, most of these plants were
+considered useful in at least one, and many of them
+in multiple use categories (i.e., bulk food, flavoring, medicinal, dye,
+repellent, other), including 16 of the taxa identified with sedaDNA,
+and 20 of the taxa identified with pollen analysis. Those
+considered not useful are as follows: Alopecurus myosuroides , Lappula
+sp. (stickseed), Alyssum sp. (alyssum), Sterigmostemum sp., and Hedysarum sp.
+(sweetvetch; Table 1 ).

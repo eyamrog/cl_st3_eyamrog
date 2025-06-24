@@ -1,0 +1,7 @@
+The filtered sequence data were corrected for the amount of
+input material ( SOM Table S3 ). Polymerase chain reaction
+replicates were merged while calculating the total read counts for
+each sample as well as the number of positive replicates.
+The total read counts per sample were subsequently log-transformed to
+correct for the exponential increase in read counts during PCR
+amplification.

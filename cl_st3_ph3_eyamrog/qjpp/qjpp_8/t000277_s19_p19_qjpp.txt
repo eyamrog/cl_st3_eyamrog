@@ -1,0 +1,20 @@
+For BrE, the fifty-one definite NPs spanned all corpora, were
+singular, and occurred in thirty texts. One text (FLOB_J33) accounted
+for ten tokens, but they did not all refer to
+the same antecedent (antecedents included the claimant , the new
+player , and the native speaker ). Indefinite NPs referred
+to a range of antecedents including a child, a student
+, and a young person . Quantified NPs also occurred
+with student and spanned all corpora. The negative NPs did
+not occur in BLOB, but included no child and no
+student . As such, the initial analysis of antecedents highlighted
+that a number of combined pronouns referred to children and
+youth ( child , adolescent , student ) across a
+range of texts and corpora. There were very few indefinite
+pronouns in BrE and they only occurred in two corpora
+(LOB and BE06). The small number of indefinite pronouns is
+somewhat surprising, given that they are a common way of
+signifying generic reference. One explanation comes from my earlier analysis
+of singular they and generic he in subsets of the
+BE06 corpus, which found that indefinite pronouns showed a clear
+preference for singular they ( Paterson 2014 :59).

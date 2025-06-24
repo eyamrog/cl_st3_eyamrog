@@ -1,0 +1,27 @@
+Furthermore, our results suggest that health behavior homophily in adaptive
+networks may cause the epidemic to end earlier than compared
+to randomly mixed networks. That is, not only the properties
+of individual actors but also their composition in heterogeneous networks
+affect disease spread. Consider, for example, a risk averse ego
+connected to an infectious alter. The preference to avoid the
+infectious alter lowers not only the probability to get infected
+for the ego but also the probability for all of
+its susceptible connections. Consequently, even the connections that are less
+risk averse benefit from the ego's decision to isolate from
+infectious alters. Additionally, our results suggest that the combination of
+network and actor properties shape disease spread in combination. That
+is, on the one hand, a cluster composed of mostly
+risk averse agents increases the chance for actors bridging two
+clusters to isolate the entire cluster from infectious alters. On
+the other hand, a cluster containing only a few risk
+averse agents increases the chance for actors bridging two clusters
+to maintain ties to infected alters from outside the cluster.
+This in turn increases the probability for the disease to
+spread into the cluster. Consequently, the overall large impact of
+homophilous clusters on epidemic size results from a comparably large
+chance of entire clusters being isolated from the disease. In
+contrast to multiple clusters, isolation from infections in networks consisting
+of a single large cluster requires more ties to be
+cut and therefore such networks show a higher likelihood for
+the disease to spread to any part of the network
+(see also Watts and Strogatz, 1998 ).

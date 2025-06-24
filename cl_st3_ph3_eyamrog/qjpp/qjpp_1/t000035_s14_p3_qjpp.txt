@@ -1,0 +1,10 @@
+Using PICOTS (Patient Population, Intervention, Comparator, Outcome, Timing, Setting) (
+3 , 42 , 57 ) and STROBE (STrengthening the
+Reporting of OBservational studies in Epidemiology) ( 117 ) as
+guidelines, we developed a data extraction tool to begin the
+analysis. Our tool included fields for study design, population criteria,
+study population size, comparator variables, outcomes, results, limitations, and risk
+of bias. All authors participated in data extraction, and all
+extracted data were cross-checked by other authors. Any disagreements on
+the extracted data were discussed until the team reached a
+consensus.

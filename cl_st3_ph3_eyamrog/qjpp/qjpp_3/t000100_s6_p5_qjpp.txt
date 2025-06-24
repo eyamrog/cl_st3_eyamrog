@@ -1,0 +1,14 @@
+Because the negative association between cytotoxic T FH cell responses
+and anti-spike antibody levels was not observed in non-hospitalized patients,
+the potential role of cytotoxic T FH cells in antibody
+responses cannot be generalized. Furthermore, the higher proportions of cytotoxic
+T FH cells in hospitalized patients may merely reflect higher
+viral titers and IFN production. Longitudinal studies are required to
+clarify the association between aberrant cytotoxic T FH responses and
+their impact on modulating the magnitude and duration of protective
+antibody responses to SARS-CoV-2. The role of CD4-CTLs in protective
+or pathogenic immune responses to SARS-CoV-2 needs to be clarified
+in pre-clinical models. Future studies in COVID-19 patients should also
+examine the relationships between the subsets of SARS-CoV-2-reactive CD4 +
+T cells in the blood and those observed in the
+mucosal tissues where control of SARS-CoV-2 infection is critical.

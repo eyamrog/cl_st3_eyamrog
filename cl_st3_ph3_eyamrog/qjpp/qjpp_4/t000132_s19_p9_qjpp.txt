@@ -1,0 +1,16 @@
+Based on this finding, we hypothesized that MUC2 might protect
+intestinal cells from toxic copper concentrations. E-cadherin labeling of Caco-2
+human colorectal adenocarcinoma cells, which do not express significant MUC2
+( van Klinken et al., 1996 43. van Klinken, B.J.W.
+∙ Oussoren, E. ∙ Weenink, J.J. ... The human intestinal
+cell lines Caco-2 and LS174T as models to study cell-type
+specific mucin expression Glycoconj. J. 1996; 13 :757-768 Crossref Scopus
+(96) PubMed Google Scholar ), was used to report on
+the integrity of cell-cell contact sites and the health of
+the monolayer. Addition of 250 μM Cu 2+ in serum-free
+medium resulted in dramatic loss of the organized networks of
+E-cadherin seen in control cultures ( Figure 4 D). Supplying
+250 μM MUC2 D1 together with 250 μM Cu 2+
+almost completely reversed this phenomenon, but a D1 mutant with
+perturbed copper binding sites, H324A/M326V, was unable to protect (
+Figure 4 D).

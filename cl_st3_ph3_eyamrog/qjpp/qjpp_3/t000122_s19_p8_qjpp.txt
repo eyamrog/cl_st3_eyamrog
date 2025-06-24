@@ -1,0 +1,17 @@
+We performed mutagenesis of the antibody CDRs to determine which
+amino-acid residues were key for 1C3 interaction. Based on contacts
+observed in the cryo-EM structure, eight amino-acid residue changes in
+the CDRs and four changes in FRs were introduced and
+evaluated for binding to GP ( Figure 4 A). Only
+one of the single amino-acid residue changes, however—W111 A A
+in CDRH3—substantially affects binding to GP. The side-chain nitrogen of
+W111 A forms a hydrogen bond with the backbone carbonyl
+of D117 on GP1, though the majority of the W111
+A side chain is packed into a hydrophobic pocket of
+the antibody itself. Thus, the W111 A change may alter
+the conformation of CDRH3, as well as removing the hydrogen
+bond. The observation that the majority of the single amino-acid
+residue changes do not affect binding suggests the involvement of
+multiple CDRs in the interaction; total binding energy could be
+distributed more diffusely across each of the three different CDR–GP1
+binding interfaces.

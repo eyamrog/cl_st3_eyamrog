@@ -1,0 +1,11 @@
+This study divides the corpus data into three sub-corpora according
+to the ets holistic scores. The Low corpus comprises essays
+that received scores of one and two; the Mid corpus,
+three and four; and the High corpus, five and six.
+As Table 1 shows, while the High corpus contains considerably
+fewer essays than do the Low and Mid corpora, the
+average length of its essays are much longer than those
+of the Low and Mid corpora. The argumentative essay samples
+collected to build the learner corpus were written by 6,047
+students. The average length of the essays is 248.9 words,
+and the entire corpus contains about 1.5 million words.

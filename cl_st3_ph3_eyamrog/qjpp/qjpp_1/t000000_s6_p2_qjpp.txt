@@ -1,0 +1,16 @@
+We show that a more equitable approach to global vaccine
+distribution over the course of 2021 would have reduced the
+level of global mortality associated with COVID-19 disease. Our conclusions
+are based on simulations fitted to historical infection and mortality
+estimates and from varying the distribution of vaccination between countries
+while maintaining total vaccine supply. Similar studies have previously been
+run by Wagner et al. , who used a simple
+two-country conceptual model, and Watson et al. , who followed
+a similar approach to estimate the impact on global mortality
+had overall vaccine supply varied. Any historical deviation in vaccine
+distribution would likely precipitate a range of consequences, including changes
+in other policy areas, social behavior, overall vaccine uptake, patterns
+of viral spread and variant evolution. Although such compounding factors
+are difficult to predict, the simulation results presented here include
+potential changes to policy (or behavior) and account for the
+consequences for variant accretion, increasing the robustness of our findings.

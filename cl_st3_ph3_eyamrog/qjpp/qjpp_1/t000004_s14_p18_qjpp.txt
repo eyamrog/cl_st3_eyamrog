@@ -1,0 +1,24 @@
+All spectral analyses were computed at each channel. Data underwent
+morlet wavelet time frequency transformation and then the power was
+averaged within the canonical frequencies: delta (2–4 Hz), theta (4–8
+Hz), alpha (8–12 Hz), beta (13–30 Hz), gamma (31–50 Hz)
+and high-gamma (50–90 Hz) frequency bands. In some cases, we
+analyzed low-frequency power combining delta–theta (2–8 Hz). Average estimates of
+bandpower were derived by taking the mean power across the
+frequencies within each predefined canonical frequency band with the s.e.m.
+reported. Ambulatory: data epoch was extracted in the pre-magnet swipe
+time (1–2 min) before undergoing above spectral analysis. Multi-item buffet:
+data epochs were extracted 2 s before the time-locked bite
+within each task condition—standard eating and LOC eating. Bites were
+defined as the moment food entered the subject’s mouth, as
+defined by visual inspection of synchronized eye tracking (Pupil Lab
+Pupil Core Eye-tracker ( https://pupil-labs.com/products/core )) and video captured during
+the task. The 2-s windows were chosen based on our
+previous pre-clinical mouse work looking at the same window with
+mice approaching the high-fat food and examining time-locked eye tracking
+and video per bite examining time lingering on food in
+hand/spoon or food coming to mouth. LFP data were captured
+using the neurostimulator’s magnet feature for storing which was wireless
+controlled by the research team in an adjacent room with
+a field of view on the subject behind a one-way
+mirror window.

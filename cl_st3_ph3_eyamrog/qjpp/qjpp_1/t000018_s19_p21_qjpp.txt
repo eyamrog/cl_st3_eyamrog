@@ -1,0 +1,10 @@
+We used an ex vivo assay of conditioned medium (CM)
+generated from patients with IBD to confirm that IL-1 signaling
+could induce the inflammatory fibroblast phenotype (Fig. 6a ). We
+blocked IL-1 signaling with the IL-1 receptor (IL-1R) antagonist anakinra
+(Kineret) or TNF signaling with the anti-TNF agent adalimumab (Humira)
+in CM. Strikingly, only IL-1R, but not TNF, blockade was
+able to reduce fibroblast activation in this assay (Fig. 6a
+). This demonstrates that soluble mediators derived from gut-resident cell
+populations of inflamed IBD tissue activate the neutrophil-attracting fibroblast program
+in an IL-1R- but not TNF-dependent manner.

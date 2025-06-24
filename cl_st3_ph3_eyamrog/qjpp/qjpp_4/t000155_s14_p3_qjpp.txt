@@ -1,0 +1,20 @@
+Body structure was defined by body mass components and bone
+structural parameters. Fat mass (kg), skeletal muscle mass (kg), bone
+mineral content (BMC, kg) and visceral fat area (VFA, cm
+2 ) were estimated by body impedance analysis (InBody 720
+device). The bone structural parameters were measured by ultrasound osteometer
+(DTU-one Osteometer). The osteometer measured the broadband ultrasound attenuation (BUA,
+dB/MHz), and speed of sound (SOS, m/s), which quantify the
+ultrasound parameters estimates of the structural and mechanical characteristics of
+the calcaneus bone (SOS correlates with the microarchitecture indices of
+the bone, BUA: associates with the biomechanical parameters of the
+bone). The measurements were performed on the non-dominant calcaneus. Bone
+mass (kg) was estimated by the Drinkwater and Ross (
+1980 ) anthropometric four-component model. The relative mass components (%)
+were determined by expressing the absolute mass components as the
+percentage of total body mass. Body structural aging was estimated
+by evaluating the body structural parameters in comparison with the
+Hungarian national references (altogether n = 2500 women aged between
+30 and 70 years were used to construct the national
+references between 2010 and 2019; Zsakai et al., 2017 ;
+Feher et al., 2020 ).

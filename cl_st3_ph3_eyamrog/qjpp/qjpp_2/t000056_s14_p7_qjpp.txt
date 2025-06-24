@@ -1,0 +1,21 @@
+After reading the text associated with their assigned information condition,
+participants completed a measure of COVID-19 vaccine hesitancy (outcome measure)
+and a measure of COVID-19 complacency and confidence beliefs (mediation
+measure). The outcome measure was the seven-item Oxford COVID-19 Vaccine
+Hesitancy Scale, in which item-specific response options, coded from 1
+to 5, are used. A “don't know” option is also
+provided, which is excluded from scoring. Scores can range between
+7 and 35, with higher scores indicating higher COVID-19 vaccine
+hesitancy. The scale was developed in consultation with members of
+the general public, including representatives of ethnic minority groups. 14
+items were initially developed and completed by the OCEANS-II representative
+sample of 5114 UK adults. Exploratory and confirmatory factor analysis
+(CFA) was conducted to derive the seven-item scale. The seven-item
+scale produced an excellent CFA model fit on the OCEANS-II
+sample (full-information maximum likelihood χ 2 (14, n=2548) = 93·370,
+p<0·0001; root mean square error of approximation 0·047; standardised root
+mean residual 0·01; comparative fit index 0·993; Tucker-Lewis index 0·989).
+Convergent validity was shown against the Vaccine Hesitancy Scale, Vaccination
+Knowledge Scale, and Vaccine Conspiracy Beliefs Scale. The Cronbach's α
+for the Oxford COVID-19 Vaccine Hesitancy Scale in the current
+study was 0·98 (n=16 445), indicating high internal consistency.

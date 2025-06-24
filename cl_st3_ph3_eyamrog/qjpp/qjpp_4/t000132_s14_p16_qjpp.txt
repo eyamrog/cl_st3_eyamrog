@@ -1,0 +1,7 @@
+Absorbance was recorded in 1-cm quartz cuvettes on a nanophotometer
+np80 (Implen) spectrophotometer. Cu 2+ stock solution was prepared by
+dissolving copper sulfate in ultrapure water. Freshly prepared L-ascorbic acid
+(Sigma A0278) was added at a final concentration of 120
+μM to buffered 8-μM or 4-μM Cu 2+ -protein solutions,
+as indicated in the figure for each experiment. Buffer was
+50 mM MOPS, pH 7.0, 100 mM NaCl.

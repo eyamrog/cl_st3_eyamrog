@@ -1,0 +1,8 @@
+The analysis follows a corpus-pragmatic approach, which integrates “vertical” reading
+associated with concordances and frequency data, and “horizontal” reading associated
+with qualitative pragmatic analysis of individual examples in context (
+Rühlemann & Aijmer 2015 ). Vertical reading captures the main
+trends in the material and allows generalizations to be made,
+while horizontal reading enables the investigation into how individual surface
+forms are linked to specific contextual configurations and textual meaning
+expressed in medical texts from this period.

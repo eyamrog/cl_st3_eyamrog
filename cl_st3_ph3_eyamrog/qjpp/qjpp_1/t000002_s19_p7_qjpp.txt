@@ -1,0 +1,15 @@
+A trajectory analysis in which steps were plotted at discreet
+time periods before disease diagnosis showed lower baseline step counts
+and a prediagnosis plateau (particularly for hypertension and depression) among
+those with incidence disease (Extended Data Fig. 4 ). Based
+on the findings of Models 4 and 5 shown in
+Table 2 , accounting for baseline daily steps averaged over
+the first 3 or 6 months in the separate Cox
+models, in addition to a priori covariates, did not change
+the relation between daily steps over time with incident conditions.
+We performed a falsification analysis to examine the association between
+step counts and incident diagnoses with no expected relationship to
+step counts. As expected, we found no association between daily
+step counts and risk of carpal tunnel syndrome ( n
+/ N = 131/5,269) or actinic keratosis ( n /
+N = 167/5,242 incident diagnoses) (Extended Data Fig. 5 ).

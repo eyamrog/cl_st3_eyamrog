@@ -1,0 +1,25 @@
+Self-efficacy is the belief that an individual actor is capable
+of attaining certain goals while collective efficacy refers to group
+members’ belief in the group's capabilities to reach desired goals
+(Bandura, 1997 ). Based on Bandura's ( 1997 ) self-efficacy
+theory, we propose an actor → behavior → goal link.
+Although Bandura focused on behavioral self-efficacy (individual actor → behavior)
+and distinguished it from outcome expectancy (behavior → goal), he
+described collective efficacy as rather goal oriented (group actor →
+goal). In the special case of environmental protection, goals are
+focal. Therefore, some studies in environmental psychology have also considered
+goal-oriented self-efficacy (actor → goal), sometimes termed as perceived effectiveness
+(Ginn & Lickel, 2020), political efficacy (Van Stekelenburg, Klandersmans, &
+Akkerman, 2016 ), or response efficacy (we refrain from this
+term because it is unclear who/what responds to whom/what in
+the environmental domain; Roser-Renouf, Maibach, Leiserowitz, & Zhao, 2014 ).
+Here, we use the term goal efficacy beliefs to describe
+this goal-focused type of perceived efficacy. Extending Hanss and Böhm's
+( 2010 ) notion that indirect efficacy goals such as
+“encouraging others to act environmentally friendly” can promote environmental intentions,
+we distinguish two goal categories: direct and indirect (see Homburg
+& Stolberg, 2006 ). Direct goal efficacy focuses on achieving
+a goal itself (e.g., strengthening animal rights); indirect goal efficacy
+explicitly involves an intermediate goal that serves a larger goal
+(e.g., convincing classmates to engage in animal rights action; see
+Table 1 ).

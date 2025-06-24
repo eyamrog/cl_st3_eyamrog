@@ -1,0 +1,10 @@
+Having identified the most preferred vaccine characteristics from the conjoint
+setup, I next turn to each of the specific hypotheses
+outlined earlier. First, Fig. 2 presents strong support for H1a.
+On average, respondents report that they are more likely than
+not (58%) to intend to receive a US based vaccine.
+Vaccination intentions drop to 52% for a vaccine produced in
+the UK (β = −0.06), and just 37% for a
+vaccine produced in China (β = −0.21); both of which
+are statistically significant decreases ( p < 0.05 in both
+cases).

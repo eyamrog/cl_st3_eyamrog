@@ -1,0 +1,11 @@
+Our American colleagues, however, had race data—a standard demographic feature
+in U.S. data sets. The standard way of measuring race
+in these data, however, consisted of just five categories: white,
+black, Asian, Hispanic, and Other. In comparison, the TDSB census
+collected race data by self-reports from students. As a result,
+there were dozens of racial identities reported—far more than the
+six categories that were provided by the U.S. data sources.
+Because race is a key correlate of education-related outcomes in
+the research that I do, compromises had to be made
+to “collapse” the multicategorized race variable in Toronto to the
+categories provided in the U.S. data.

@@ -1,0 +1,26 @@
+Participants were asked to play a movie file on the
+computer. In this movie, a text explained the task (reproducing
+a knot after a video instruction), the nature of the
+video instruction, and the steps they had to take according
+to the protocol of the experiment (as described below). Following
+the text instructions, participants viewed a video clip showing two
+hands in the first-person view tying a specific knot in
+a rope, first in slow-motion and then repeated twice at
+real-time speed. After each video, the screen went to black
+with the instruction to pause the movie (see Supplementary Online
+Material [SOM] S1 and SOM Fig. S1 for detailed text
+and example). As instructed, the participants were required to start
+a stopwatch, reproduce the knot they had seen in the
+movie, stop the stopwatch when finished, and record the time
+on paper. The knot was then presented to a trained
+assistant, who evaluated the knot for its correctness. If a
+knot had been tied incorrectly, students were allowed two more
+attempts. Each attempt, including the first one, had to be
+completed within 90 seconds; attempts longer than 90 seconds were
+scored as failed. Three failed attempts indicated failure to reproduce
+the knot and was recorded as such. Four different types
+of knots had to be reproduced in total. The variables
+thus recorded were (1) the number of attempts needed to
+reproduce a knot, either correctly or incorrectly; (2) the duration
+it took to successfully reproduce a knot; and (3) whether
+the knot could be reproduced successfully at all.

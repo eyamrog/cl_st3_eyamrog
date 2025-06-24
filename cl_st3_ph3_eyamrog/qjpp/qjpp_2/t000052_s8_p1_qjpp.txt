@@ -1,0 +1,7 @@
+Tuberculosis is responsible for an ongoing global public health crisis,
+causing 1·5 million deaths in 2018. Modelling studies estimate that
+24% of the world's population is infected with Mycobacterium tuberculosis
+and thus might be at risk of developing the disease,
+especially soon after infection. Important reductions in global tuberculosis rates
+will require very substantial increases in the number of people
+treated for latent tuberculosis infection (LTBI).

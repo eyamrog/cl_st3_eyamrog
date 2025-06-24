@@ -1,0 +1,7 @@
+For duration of terrestrial events, the contrast between island and
+mainland sites, adjusted for party size and behavior, is −0.2,
+with an SE of 0.4. A 95% credibility interval for
+the contrast is then (−1.0, 0.6). The null value zero
+is contained in the interval, so the hypothesis that average
+durations of terrestrial events are the same in island and
+mainland sites—party size and behavior held equal—is not rejected.

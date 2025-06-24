@@ -1,0 +1,20 @@
+ChIP-seq was performed using the iDeal ChIP-seq kit for histones
+with several modifications. Briefly, ESCs were fixed in 1% paraformaldehyde
+(PFA)/10% FCS/PBS for 10 min with rotation at room temperature.
+Fixation was stopped by glycine after which cells were pelleted
+by centrifugation (8 min, 250 x g, 4°C). Cells were
+lysed in Lysis buffer (50 mM Tris, pH 7.5; 150
+mM NaCl; 5 mM EDTA; 0.5% NP-40; 1.15% Triton X-100;
+protease inhibitors) for 10 min on ice. Nuclei were resuspended
+in sonication buffer (10 mM Tris–HCl, pH 8.0; 100 mM
+NaCl; 1 mM EDTA; 0.5 mM EGTA; 0,1% Na-deoxycholate; 0.5%
+N-lauroylsarcosine; protease inhibitors). Chromatin was sheared using a Bioruptor until
+reaching a fragment size of 200–500 base pairs. Afterwards, samples
+were processed with the iDeal ChIP-seq kit according to the
+manufacturer’s instructions. For each Histone ChIP 5 μg chromatin was
+used in combination with antibodies against H3K4me1 (1 μg) H3K4me3
+(1 μg), H3K27ac (1 μg) and H3K27me3 (1 μg). Libraries
+were prepared for sequencing using the KAPA HyperPrep kit and
+their quality confirmed by Bioanalyzer analysis. ChIP-seq libraries were finally
+sequenced at 100 bp paired-end reads with all samples analyzed
+in biological duplicates.

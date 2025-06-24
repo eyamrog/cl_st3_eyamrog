@@ -1,0 +1,14 @@
+We divided the corpus texts into five periods of approximately
+forty years each to trace developments over time. The corpus
+is coded for speakers’ gender, social class (in the HISCLASS
+higher- and lower-class system), 7 and role in the courtroom
+(whether a victim, witness, defendant, lawyer, or judge). 8 Table
+2 presents a summary of the word counts of the
+corpus. Men’s voices dominate in the courtroom, with men producing
+nearly twenty million of the 24.4 million words, whereas women’s
+voices are represented by approximately four million words. Among the
+speaker roles, witnesses are the main informants, followed by victims
+and defendants, while the professionals, lawyers and judges, contributed slightly
+less. Judges are only poorly represented as of the 1840s
+onward, and the same holds for lawyers in the last
+subperiod.

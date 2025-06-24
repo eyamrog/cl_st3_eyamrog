@@ -1,0 +1,25 @@
+Data were collected as part of the large-scale Children of
+Immigrants Longitudinal Survey in secondary schools Flanders-Belgium (Phalet et al.,
+2018 ). In Flanders, students attend secondary school from the
+age of 12 to 18. The Flemish secondary school system
+assigns students to educational tracks with academic tracks preparing for
+higher education and vocational tracks preparing for entry into skilled
+labor. Immigrant-origin minority students are overrepresented in vocational tracks (Baysu
+et al., 2018 ). Secondary schools were sampled using a
+stratified random sampling design to represent a broad range of
+moderately (>10% minority students) to highly ethnically diverse schools (>60%).
+1 This sampling design was modeled on the CILS4EU project,
+which consists of similar comparative surveys in Germany, Sweden, the
+Netherlands, and the United Kingdom (CILS4EU, 2016 ). After obtaining
+ethical clearance from the school principal and parental and teacher
+consent, all eligible students in randomly selected classrooms ( n
+= 229) across 55 schools participated in the survey during
+class hours. 2 The survey was introduced as a questionnaire
+about the social relations and schooling experiences of European youth.
+For the current study, we selected subsamples of Turkish and
+Moroccan minority students ( N = 944) based on their
+self-reported country of birth (Turkey or Morocco) or parentage (one
+or both parents born in Turkey or Morocco). The sample
+included 49.5% boys, 52% Turkish-origin participants, and 40% second generation
+participants. Their ages ranged from 12 to 18 ( M
+= 15.06, SD = 1.17).

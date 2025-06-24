@@ -1,0 +1,6 @@
+The dose unweighted averages are reported in Table 5 with
+the weighted means calculated using the CDM and ADM models.
+The three models give statistically indistinguishable results. The OD values
+are less than 10%, except for sample X6747 which has
+an OD of 24%, reflected in the standard error on
+its D e .

@@ -1,0 +1,23 @@
+Property (a) is the most controversial, since the requirement for
+each verb to be an “independent verb” ( Haspelmath 2016
+:303) has been variously interpreted. According to Aikhenvald (2006 :5),
+each verb must have the ability “to function on its
+own,” and must not be “a dependent or a nominalized
+form” ( Aikhenvald 2006 :5; see also Cleary-Kemp 2015 :102,
+152). Haspelmath (2016 :303), for his part, explains that the
+independent-verb criterion is intended to exclude auxiliaries, which are “not
+able to occur on their own without another verb,” except
+in an elliptical utterance. Therefore, a sequence such as will
+go “is not a serial verb construction in English” (
+Haspelmath 2016 :303), but imperative sequences such as “ Go
+get the milk” and “ Come eat with me” “count
+as an SVC” ( Haspelmath 2016 :298; cf. Pullum 1990
+) since both verbs can occur in isolation. Yet a
+third interpretation of the independent-verb criterion is represented by Shibatani
+(2009 :262). He draws attention to the fact that in
+Formosan languages “only one verb in the series has the
+potential of displaying the full range of formal finiteness features”;
+the others are severely restricted in contrast to autonomous verbs,
+for instance by their inability to choose focus marking or
+host a pronominal clitic. They may, however, show some finiteness
+features such as tense marking and verb agreement.

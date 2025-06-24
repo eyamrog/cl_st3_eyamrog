@@ -1,0 +1,4 @@
+Methods: I administered a conjoint experiment (N = 5940 trials)
+in a demographically representative survey (N = 990) of US
+adults to assess how variation in vaccine properties influence self-reported
+public vaccination intentions.

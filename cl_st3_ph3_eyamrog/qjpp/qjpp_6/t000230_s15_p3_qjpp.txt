@@ -1,0 +1,14 @@
+Data can be made available by various sources, including provincial
+and federal governments, international organizations, and individual researchers. There are
+also many kinds of data that are useful for the
+study of education data and they are generally divisible into
+two different kinds of types: cross-sectional, or those that collect
+data at one point in time, or cohort studies, which
+are longitudinal and collect data from the same individuals at
+more than one time. There are advantages to both approaches,
+with the former being cheaper and often resulting in large
+one-time studies of several thousands of individuals. Longitudinal studies, however,
+are necessary to demonstrate causality, or to establish how factors
+can impact on outcomes over the life course. Gathering data
+from individuals at multiple points in time, however, is a
+time-consuming and costly process.

@@ -1,0 +1,20 @@
+We examined the activity of single neurons recorded from the
+anterior portion of the primate hippocampus (CA3 and CA1) (
+Figure S1 ) during the performance of this task. Many
+neurons fired bursts of action potentials sporadically over the course
+of the session. We examined whether this sparse activity encoded
+task relevant information. We focused on the fixation epoch of
+the task because our previous results showed that hippocampal activity
+during the fixation epoch is critical to task performance (
+Knudsen and Wallis, 2020 34. Knudsen, E.B. ∙ Wallis, J.D.
+Closed-loop theta stimulation in the orbitofrontal cortex prevents reward-based learning
+Neuron. 2020; 106 :537-547.e4 Full Text Full Text (PDF) Scopus
+(48) PubMed Google Scholar ), and the interpretation of this
+activity is more straightforward because it is not contaminated by
+which pictures were presented or the animal’s choice. Many neurons
+appeared to fire at specific places within value space, which
+we putatively characterized as value place fields ( Figure 1
+C). Although the remainder of our analyses focuses on the
+fixation epoch, we observed similar value place fields during the
+choice epoch, and their location was highly correlated across the
+two epochs ( Figure S2 ).

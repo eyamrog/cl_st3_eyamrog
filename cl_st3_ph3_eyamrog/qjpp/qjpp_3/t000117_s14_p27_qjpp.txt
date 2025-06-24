@@ -1,0 +1,7 @@
+Water deprived mice were trained to lick a spout to
+obtain a sucrose solution (200 mM). Each lick triggered the
+delivery of 0.3 μL of the solution. It took mice
+4-7 days to achieve stable licking, the criterion of which
+was 10-min of continuous licking without any gap longer than
+10 s. The mice were subsequently tested in the optogenetic
+manipulation experiments.

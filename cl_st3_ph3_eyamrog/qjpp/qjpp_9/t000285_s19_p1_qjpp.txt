@@ -1,0 +1,8 @@
+Having outlined the coding of internal and external factors, this
+section turns to the quantitative analysis, firstly presenting distributional results
+which provide insight into the four mechanisms of grammaticalization and
+their relevance to negative tag variation: erosion ( section 5.1
+), decategorialization ( section 5.2 ), and desemanticization and extension
+( section 5.3 ). The relative impact of factors on
+the variation will be examined in mixed-effects logistic regression models
+in section 5.5 .

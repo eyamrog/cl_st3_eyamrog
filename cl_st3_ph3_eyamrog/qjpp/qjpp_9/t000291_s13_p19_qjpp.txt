@@ -1,0 +1,15 @@
+Words such as rights , citizenship , democracy , workers
+and just are used in gkis with much greater frequency
+per million words than in enTenTen13. In addition, the bic
+scores for these words are very high, 8 strongly suggesting
+that their frequent use is not arbitrary, but is motivated,
+rather, by the political alignment of the texts included in
+gkis , and possibly reflects a political narrative constructed by
+outlets. Such a narrative pits ‘right-wing’ and ‘neoliberal’ antagonists against
+‘left-wing’ protagonists, who are associated with the working class. Gkis
+'s political narrative from the keywords identified above, or, we
+might say, what gkis is about, involves left-leaning protagonists who
+struggle to overcome class-based economic inequalities, discrimination and state power
+by demanding justice, the articulation of which is in terms
+of human rights that are guaranteed by citizenship in a
+nation-state.

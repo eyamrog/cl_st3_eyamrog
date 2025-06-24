@@ -1,0 +1,15 @@
+The costs and YLLs averted are all scaled using the
+Indian population of 1,366 million individuals. Our estimation examines a
+wide range of possible disease transmissibility and vaccine efficacy. Given
+each set of disease transmissibility and vaccine efficacy, (1) we
+first simulated 100 stochastic realizations for each candidate vaccination strategy
+(including the status quo); then (2), with each realization, we
+used the above formulas to calculate the expected gain in
+the NMB for each candidate strategy τ as compared to
+the status quo strategy; after which (3), we identified the
+winning strategy as the strategy τ giving the highest gain
+in the NMB. We then calculated the proportion that each
+strategy τ is selected as the winning strategy across all
+100 simulation realizations. Finally, we chose the optimal strategy as
+the one having the highest chance to serve as the
+winning strategy.

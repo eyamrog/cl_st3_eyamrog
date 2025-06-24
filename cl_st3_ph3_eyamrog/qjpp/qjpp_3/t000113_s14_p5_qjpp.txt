@@ -1,0 +1,12 @@
+The relative values of each of three pictures changed over
+the course of a session. Furthermore, these changes were designed
+to map a trajectory through a three-axis ‘value space’ defined
+by the relationships between the values of the three pictures.
+For example, the point (0.8, 0.4, 0.3) would correspond to
+the first picture ( V 1 ) having a value
+of 0.8 (i.e., rewarded 80% of the time it was
+selected), V 2 a value of 0.4, and V 3
+a value of 0.3. We designed three trajectories to test
+various hypotheses: a circle, a helix, and a looping track
+defined by two orthogonal lemniscates. The different trajectory configurations were
+randomly interleaved across recording.

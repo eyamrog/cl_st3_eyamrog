@@ -1,0 +1,6 @@
+Subgroup and sensitivity analyses were conducted to clarify whether the
+results were consistent across study characteristics (for example, sex, duration
+of follow-up, geographic location, study quality, study outcome definition and
+adjustment for confounding factors), and to ensure that they were
+not driven by large studies, extreme results or SBP exposure
+range.

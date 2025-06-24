@@ -1,0 +1,9 @@
+The effects presented in Fig. 2 are robust to several
+alternate estimation strategies. First, while the models presented earlier account
+for the possibility of non-random variance across participants by clustering
+standard errors at the respondent level, some may prefer to
+estimate these adjustments hierarchically. Consequently, I re-estimated the results presented
+in Fig. 2 via a mixed-effects linear model with respondent-level
+random effects. The results are summarized in Column 2 in
+Table 2 (which includes the results presented visually in Fig.
+2 , for reference, in Column 1).

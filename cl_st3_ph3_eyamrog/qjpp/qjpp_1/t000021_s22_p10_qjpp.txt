@@ -1,0 +1,19 @@
+Notably, MMgp consisted of responses sustained throughout acute infection, but
+implicated different cell types in each participant. For example, in
+P2, MMgp consisted of monocyte, B cell, plasmablast, CTL and
+proliferating T cell GMs (Fig. 3a ). Unlike MMsp (ISGs),
+these GMs spanned several distinct gene expression programs, such as
+antigen presentation (monocytes and B cells), interleukin (IL)-6 and IL-8
+production (plasmablasts) and granzyme B production (CTLs; Fig. 3b,c and
+Supplementary Table 7 ). As these overlap in time, they
+may represent cell subsets responding to common stimuli and/or one
+another. Looking for known relationships between genes within and across
+cell types, we generated a network model describing potential axes
+of cell–cell signaling, both direct (via receptor–ligand) and indirect (signaling
+via chemokines and cytokines), in P2 (Fig. 3d and Methods
+). Expression of IL-8 and IL-6 in B cells and
+plasmablasts may attract monocytes presenting antigen to prime CD4 T
+cells, potentially leading to IL-17 production and BCL2 upregulation, known
+to restrict CTL-mediated killing of infected cells . Together, this
+suggests the IL-6–IL-8–IL-17 signaling axis as a potential target for
+future HIV treatment.

@@ -1,0 +1,21 @@
+Paired-end reads were aligned to mm10 reference genome using Bowtie2
+v2.3.4.1 with options suggested by Skene and Henikoff ( Skene
+et al., 2018 81. Skene, P.J. ∙ Henikoff, J.G. ∙
+Henikoff, S. Targeted in situ genome-wide profiling with high efficiency
+for low cell numbers Nat. Protoc. 2018; 13 :1006-1019 Crossref
+Scopus (119) PubMed Google Scholar ). Picard tools v1.96 was
+used to remove presumed PCR duplicates using the MarkDuplicates command.
+Bam files containing uniquely mapped reads were created using Samtools
+v1.1. For downstream analysis, biological replicates (3 per condition) were
+merged at this step. Bedtools v2.28.0 was used to generate
+fragment BED files with size 40bp-500bp. Blacklist regions, random chromosomes,
+and mitochondria were removed. Filtered BED files were used for
+downstream analysis. Read per million (RPM) normalized bigwig files were
+created using bedGraphToBigWig (UCSC) and were used to visualize binding
+signals. Peaks were called using MACS v2.1 using the broadPeak
+setting with p value cutoff of 1e-8, -f BEDPE and
+IgG as controls. Genes proximal to peaks were annotated against
+the mm10 genome using annotatePeaks.pl from HOMER v4. Fli1 binding
+motifs were identified using findMotifsGenome.pl from HOMER v4. Venn diagram
+of comparison with ATAC-Seq peaks was plotted using Bioconductor package
+ChIPpeakAnno. Heatmap was generated using Bioconductor package ComplexHeatmap.

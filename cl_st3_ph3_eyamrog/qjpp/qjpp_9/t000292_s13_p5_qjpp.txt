@@ -1,0 +1,4 @@
+The above steps were written as Python functions and co-ordinated
+using Luigi, 6 a Python module to build pipelines of
+batch jobs. The end result of the pipeline is an
+xml file, whose format is described next.

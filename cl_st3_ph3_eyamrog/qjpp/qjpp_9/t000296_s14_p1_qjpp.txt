@@ -1,0 +1,17 @@
+To collect spontaneous make + noun collocations and to observe
+how L1 influences Japanese efl learners at different proficiency levels,
+this study used a learner essay corpus, the Kansai University
+Bilingual Essay Corpus (hereafter kubec ), which was developed as
+part of the Bilingual Essay Corpus Project at Kansai University,
+Japan ( Yamanishi et al ., 2013 ). It is
+a unique corpus in that it has both learners’ L1
+(Japanese) and English written essay data, making it possible to
+analyse Japanese learners’ use of English by contrasting English and
+Japanese data. For example, researchers can infer the potential influence
+of learners’ L1 based on their errors or awkward use
+of collocations such as do a part-time job . In
+this example, if do is found in a corresponding Japanese
+essay as a direct translation of the Japanese verb suru
+(‘do’), the collocation is probably due to L1 influence. This
+study selected kubec to investigate L1 influence on make +
+noun collocations by Japanese efl learners.

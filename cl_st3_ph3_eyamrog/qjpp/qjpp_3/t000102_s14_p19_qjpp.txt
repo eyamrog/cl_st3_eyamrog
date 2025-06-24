@@ -1,0 +1,16 @@
+Chromatin condensates were formed by first preparing the buffer solutions
+containing either Tris-Cl pH 7.8 or Tris-(OAc) pH 7.5 and
+the designated salts, 5% [w/v] glycerol, 0.1 μg/mL BSA, or
+5 mM DTT. Arrays were then added to the solution
+to a final nucleosome concentration of 10 nM, rapidly mixed,
+and incubated for 20 min at 23°C. The samples where
+then added to MatTek glass bottom 35 mm Petri dishes
+with a 14 mm Microwell No. 1.5 cover glass and
+spun at 1,000 g for 3 minutes. Chromatin condensates were
+imaged and subject to photobleaching using an Olympus IX81 spinning
+disk confocal microscope, a 100x/1.40 numerical aperture objective, and a
+Photometrics Cascade II camera. Time lapse images were collected every
+10 s. Imaging software Slidebook6 (3I, Denver, CO) was used
+for image capture and analysis. Representative images in Figure 1
+were obtained from zoomed in crops of the unfiltered time
+lapse videos.

@@ -1,0 +1,9 @@
+The difference between Corpus 1 and Corpus 2 is relatively
+slight at just 38 additional texts in the former (
+Table 1 ), comprising approximately ten per cent of the
+wordcount of Corpus 1. 4 Most omitted texts are assessment
+reports (19) and casenotes (17) as these are generally longer,
+averaging 2–3000 words, and more detailed than emails, letters and
+memos (the remaining 2 are chronologies). Table 1 . Comparison
+of the two WiSP corpora. Corpus 1 Corpus 2 Tokens
+No. texts Tokens No. texts 1003,096 4608 966,238 4570

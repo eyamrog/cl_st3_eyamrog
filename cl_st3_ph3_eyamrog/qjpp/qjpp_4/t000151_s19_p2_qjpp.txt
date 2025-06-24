@@ -1,0 +1,6 @@
+In men, neither left-handers (posterior median = 0.002, 95% HDI
+= −0.13 to 0.15) nor mixed-handers (median = 0.09, 95%
+HDI = −0.11 to 0.28) showed E levels significantly different
+from right-handers. Similarly, in women, non-right-handers did not show E
+levels significantly different from right-handers (median = −0.01, 95% HDI
+= −0.22 to 0.18).

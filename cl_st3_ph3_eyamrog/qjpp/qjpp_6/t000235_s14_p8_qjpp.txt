@@ -1,0 +1,9 @@
+To investigate which items are the most sensitive and have
+the highest amount of invalid responses (counting “Refusal,” “Don’t know,”
+and “No answer” as item nonresponse), the percentage of missing
+values is computed. The top three in the ESS are
+“Total household net income” with 18-percent missing values, “Placement on
+left right scale” with 12-percent missing values, and “Father: highest
+level of education” with 9-percent missing values.” This demonstrates that
+in the ESS, some question about finances, political orientation, or
+social background can be regarded as especially sensitive.

@@ -1,0 +1,9 @@
+Much of the appeal of big data comes from its
+high volume attribute, which carries the aspiration of statistical flexibility
+to support complex analyses and protect against type I and
+II errors. High volume, referring to the number of participants,
+may lead to an aspiration of generalizability, in which identified
+statistical associations are broadly applicable to other populations. However, a
+high volume of participants cannot replace the representativeness of participants,
+and no quantity of data can confer generalizability if representativeness
+is lacking ( 72 ).

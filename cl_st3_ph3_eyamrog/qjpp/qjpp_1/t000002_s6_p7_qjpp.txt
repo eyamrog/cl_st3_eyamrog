@@ -1,0 +1,25 @@
+These findings may have important clinical and public health implications.
+We were unable to identify any published studies that investigated
+the association of physical activity data from a wearable device
+to health outcomes, defined using an individual’s EHR. Therefore, this
+study provides important new evidence that integration of these data
+sources is feasible and may provide valuable and actionable information
+for clinicians. Clinicians could monitor activity trends and provide evidence-based
+anticipatory guidance for activity tailored to an individual’s clinical characteristics
+and risk profile. For example, our data suggest that an
+individual with a BMI of 28 kg m (can lower
+their risk of obesity 64% (95% CI 51, 80) by
+increasing steps from approximately 6,000 steps to 11,000 steps per
+day (Fig. 3 ). Although validation of these results is
+important, such data provide a necessary first step toward the
+development of personalized activity prescriptions. Further, wearables can also be
+used as an adjunct tool to encourage patients to engage
+in physical activity by allowing them to set, measure and
+track goals . Finally, self-reported physical activity or exercise interventions
+may have potential beneficial effects to lower the incidence of
+depression and lower the severity of obstructive sleep apnea and
+associated comorbidities . Therefore, these results provide support for the
+need for further research to examine the effect of real-world,
+unstructured physical activity to prevent or mitigate the effects of
+such conditions, including some previously unidentified activity-disease associations (for example,
+GERD).

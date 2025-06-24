@@ -1,0 +1,20 @@
+We performed a control analysis to ensure that value space
+activity was not confounded by a temporal periodicity equivalent to
+the approximate time taken to complete one pass through the
+value space. We were able to unconfound this from position
+within the value space due to variability in length of
+drift periods. To test for temporal periodicity, we correlated the
+serial order of trial firing rates for each trajectory, truncating
+whichever pass was longer. In addition, because space and time
+were not collinear (mean ± s.e.m. variance inflation factor; V:
+1.6 ± 0.02; T: 1.6 ± 0.1), we fit hippocampal
+firing rates with space and time as independent circular predictors
+in a generalized linear model: 𝐹 ⁢ 𝑅 = 𝛽
+0 + 𝛽 1 ⁢ 𝑠 ⁡ 𝑖 ⁢ 𝑛
+⁡ ( 𝑉 ) + 𝛽 2 ⁢ 𝑐 ⁢
+𝑜 ⁢ 𝑠 ⁡ ( 𝑉 ) + 𝛽 3
+⁢ 𝑠 ⁡ 𝑖 ⁢ 𝑛 ⁡ ( 𝑡 )
++ 𝛽 4 ⁢ 𝑐 ⁢ 𝑜 ⁢ 𝑠 ⁡
+( 𝑡 ) where V is the spatial position and
+t is the time elapsed from the start of the
+session.

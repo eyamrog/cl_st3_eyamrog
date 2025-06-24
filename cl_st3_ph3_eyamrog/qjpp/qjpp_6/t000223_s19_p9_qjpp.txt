@@ -1,0 +1,17 @@
+The absence of fading correction on the pIRIR 290 D
+e 's may explain the underestimation of the pIRIR results.
+If we consider a low hypothetical anomalous fading rate of
+1.0 ± 0.5%/decade, the corrected pIRIR ages will appear older
+by 5% (see fading corrected ages in SOM Fig. S14
+). Wrong estimation of the feldspar internal dose rate could
+also explain this apparent age underestimation. Here we assumed that
+the signal was dominated by grains containing 12.5 ± 0.5%
+of potassium. Some recent studies suggest that a value of
+10 ± 2% might be more appropriate in some cases
+( Smedley et al., 2015 ). The latter would give
+older ages by 8% (on average) and therefore would be
+more consistent with the quartz OSL results. However, the feldspar
+ages seem overall more coherent with the age determinations given
+by the independent dating method that is radiocarbon. Given all
+these aspects, it is extremely difficult to determine the most
+robust set of results.

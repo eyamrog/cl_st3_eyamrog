@@ -1,0 +1,18 @@
+Results for peak delay interval length were determined by running
+separate GLMER models for delay by topic, with speaker as
+random effect. H* and L+H* pitch accents were considered separately,
+due to the fact that L+H*s will generally be longer,
+since the nature of the L+H* is that it has
+two targets. Nuclear and non-nuclear pitch accents were also considered
+separately, due to the fact that nuclear pitch accents also
+tend to be longer ( Holliday 2016 ), though the
+same pattern was observed for both types here. Results for
+the H* pitch accents again indicate no significant difference by
+topic ( p = .74). However, results for L+H* show
+that the intervals in the police topic are significantly shorter
+than in the difference or what are you topics (
+p = .02). This is particularly notable given that AAL
+intervals are posited to be longer than MUSE intervals (
+McLarty 2018 ). Figure 4 reports the results of this
+model, and Figure 5 shows the distribution of peak delay
+length in L+H* pitch accents by speaker and topic.

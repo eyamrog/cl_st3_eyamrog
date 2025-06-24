@@ -1,0 +1,3 @@
+Negation of be is also not possible in focalizer constructions
+because the noun in these contexts has referential meaning, as
+illustrated in (13).

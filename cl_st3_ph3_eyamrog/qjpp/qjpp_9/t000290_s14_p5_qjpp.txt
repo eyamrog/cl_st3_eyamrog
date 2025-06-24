@@ -1,0 +1,20 @@
+Some phonetic and language-internal motivations for prevelar raising have been
+proposed. The ANAE notes that the likelihood of merger of
+the bag and bagel classes may be enhanced by their
+low functional load in prevelar position, with very few contrasting
+words and no minimal pairs between them ( Labov, Ash
+& Boberg 2006 :181). Another motivation concerns coarticulation effects (
+Baker, Mielke & Archangeli 2008 ; Purnell 2008 ; Mielke,
+Carignan & Thomas 2017 ). The traditionally low, front tongue
+position of /æ/ conflicts with the velar articulation of /ɡ/,
+motivating a more compatible articulation for /æ/, with raising being
+one way to achieve such compatibility; the laryngeal voicing gesture
+increases this incompatibility, which is why voiceless /k/ does not
+produce the same effect on /æ/. While the present study
+does not include an articulatory component and so cannot speak
+directly to coarticulation effects, their postulation has implications for how
+data analysis should be conducted. To wit, productions of /æ/,
+/ɛ/, and /e/ before the three velar segments /ɡ/, /ŋ/,
+and /k/ warrant separate investigation, to see how the observed
+patterns either conform to or depart from those found elsewhere,
+along with comparisons to non-prevelar contexts.

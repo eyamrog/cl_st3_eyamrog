@@ -1,0 +1,15 @@
+If aIC Fezf2 neurons act to invigorate behaviors, then their
+anticipatory activities are expected to occur earlier than, correlate with,
+and be required for motivated behaviors. To test these predictions,
+we first examined the relationship between neuronal and behavioral response
+in the reward-seeking task or the go/no-go task, during the
+time window when thirsty or sodium-depleted mice were anticipating sucrose
+or NaCl solution, respectively ( Figures 1 L, 1P, and
+2 A). Indeed, timing analysis revealed that most CS-excited neurons
+responded earlier than licking onset ( Figures S3 A, S3B,
+S3E, S3F, S3I, and S3J). Furthermore, trial-by-trial analysis showed that
+the response amplitudes of major aIC Fezf2 populations correlated with
+licking rates ( Figures S3 C, S3D, S3G, S3H, S3K,
+and S3L). These results are consistent with the notion that
+aIC Fezf2 neurons may provide signals that motivate or invigorate
+reward-seeking actions.

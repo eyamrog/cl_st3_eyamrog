@@ -1,0 +1,16 @@
+Improving effector activity of antigen-specific T cells is a major
+goal in cancer immunotherapy. Despite the identification of several effector
+T cell (T EFF )-driving transcription factors (TFs), the transcriptional
+coordination of T EFF biology remains poorly understood. We developed
+an in vivo T cell CRISPR screening platform and identified
+a key mechanism restraining T EFF biology through the ETS
+family TF, Fli1. Genetic deletion of Fli1 enhanced T EFF
+responses without compromising memory or exhaustion precursors. Fli1 restrained T
+EFF lineage differentiation by binding to cis -regulatory elements of
+effector-associated genes. Loss of Fli1 increased chromatin accessibility at ETS:RUNX
+motifs, allowing more efficient Runx3-driven T EFF biology. CD8 +
+T cells lacking Fli1 provided substantially better protection against multiple
+infections and tumors. These data indicate that Fli1 safeguards the
+developing CD8 + T cell transcriptional landscape from excessive ETS:RUNX-driven
+T EFF cell differentiation. Moreover, genetic deletion of Fli1 improves
+T EFF differentiation and protective immunity in infections and cancer.

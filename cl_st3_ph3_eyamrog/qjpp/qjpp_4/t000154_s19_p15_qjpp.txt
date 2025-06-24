@@ -1,0 +1,18 @@
+Figure 7 plots the adjusted coefficients for boys' relative to
+girls' neonatal weight and length, and third-trimester energy intakes for
+mothers of boys relative to mothers of girls, from multilevel
+mixed-effects regression models fitted separately for each study arm. Data
+are provided in Table S9 . The difference in length
+of boys versus girls was in the range of 0.40
+to 0.51 cm in the control, PLA only and PLA
+plus cash arms, and was 0.62 (95% CI 0.40, 0.84)
+cm in the PLA plus food arm. The greater weight
+of boys relative to girls was possibly enhanced in the
+food arm (131.9 g, 95% CI 85.9, 177.9) compared to
+the other arms, where the sex difference ranged from 58
+to 82 g. This provides weak evidence to support H
+0 6 that increased food intake in pregnancy is associated
+with larger sex differences in infant body size. However, in
+the small sample available, mothers' energy intakes in pregnancy generally
+did not differ between boys and girls in any of
+the study arms.

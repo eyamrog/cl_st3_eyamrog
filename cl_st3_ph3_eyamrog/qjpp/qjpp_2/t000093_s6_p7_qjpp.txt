@@ -1,0 +1,20 @@
+Our results illustrate that, rather than a binary classification scheme
+for a given multiphase (e.g., SG versus PB), a spectrum
+of condensates, each with their own biomolecular composition, is the
+inevitable consequence of distinct cellular states. Future studies will integrate
+new experimental findings regarding the caps, nodes, and bridges that
+define the network connectivity within a given set of condensates,
+together with theoretical approaches that consider more complex networks of
+particle-based interactions. In addition to having major implications for substrate
+processing and organismal development, these efforts will be important for
+understanding how condensates are manipulated by pathogens to ensure their
+survival ( McInerney, 2015 62. McInerney, G.M. FGDF motif regulation
+of stress granule formation DNA Cell Biol. 2015; 34 :557-560
+Crossref Scopus (5) PubMed Google Scholar ) or pathologies to
+drive cell death ( Freibaum and Taylor, 2017 30. Freibaum,
+B.D. ∙ Taylor, J.P. The Role of Dipeptide Repeats in
+C9ORF72-Related ALS-FTD Front. Mol. Neurosci. 2017; 10 :35 Crossref Scopus
+(76) PubMed Google Scholar ). We envision that such network-based
+approaches based on soft matter physics will inform the identification
+of nodes most amenable to therapeutic targeting, and thus inspire
+new treatment strategies for devastating human diseases.

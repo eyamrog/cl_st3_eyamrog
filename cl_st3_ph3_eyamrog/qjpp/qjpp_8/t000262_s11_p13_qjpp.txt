@@ -1,0 +1,22 @@
+We use cross-sectional data from the first wave of the
+UCNets survey ( Fischer, 2018 ), which was conducted in
+2015–2016 with 1159 respondents selected among young adults (21-to-30 years
+old) and late middle-age adults (50-to-70 years old). Stratified random
+address-based sampling (ABS) was adopted to select all the older
+adults and a half of the young adults, with the
+other half of the young cohort being recruited via Facebook
+advertisements . We conducted analyses separately for the two age
+cohorts and focus on the older adult cohort (N =
+674) in the main article, while the results for the
+young cohort (N = 485) are provided in the Supplementary
+Materials. In addition to the already discussed substantive reasons, two
+methodological reasons justify our focus on the older adult cohort:
+first, self-rated health – one of the three health measures
+we adopt – is known to be more effective and
+reliable for older populations as a comprehensive health index (
+Jylhä, 2009 ); second, the UCNets older adult sample is
+a full probability sample recruited via standard ABS methods, while
+half of the young sample (the part recruited via Facebook
+advertisements) is non-probability. Thus, we believe our results for the
+older cohort to be generally more reliable than those for
+the young adults in the data.

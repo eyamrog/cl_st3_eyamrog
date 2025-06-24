@@ -1,0 +1,13 @@
+Finally, we describe how the trajectories themselves change in apparent
+time. A finding among all five vowels is that while
+their relative positions change across generations, there is remarkable consistency
+in the shapes of the curves across apparent time. For
+example, boot exhibits a consistent diphthongal pattern, with the offset
+backer and higher than the onset. Each generation has slight
+differences, but the general underlying shape is similar. This is
+especially true when comparing the three generations within each gender:
+men’s boot trajectories are all more dynamic than women’s are.
+The same tendency can be found among all five vowels
+where the trajectory length and shape remain approximately the same
+across time, suggesting that changes in these vowels are primarily
+shifts in position.

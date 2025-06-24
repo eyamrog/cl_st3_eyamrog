@@ -1,0 +1,21 @@
+Specifically, I find no evidence of moderated treatment effects by
+respondents’ household income levels or gender. However, I do note
+some evidence of moderated treatment effects by age category. Both
+individuals aged 44–65 and individuals aged 65 and older are
+significantly less likely to want to receive a vaccine originating
+from China (β = −0.20, p < 0.05 and β
+= −0.36, p < 0.05, respectively), Russia (β = −0.19,
+p < 0.05 and β = −0.32, p < 0.05,
+respectively), and the UK (β = −0.09, p < 0.05
+and β = −0.11, p < 0.05, respectively), relative to
+the United States. I also find that individuals aged 65
+and older are significantly more likely to prefer vaccines with
+90% effectiveness or greater (β = 0.07, p < 0.05),
+and less likely to prefer vaccines with a 1 in
+2 risk of experiencing minor side effects (β = −0.07,
+p < 0.05), while individuals aged 44–65 are significantly less
+likely to prefer vaccines that contained a weakened virus as
+an antigen (β = −0.05, p < 0.05). Finally, I
+find that college educated individuals are somewhat more likely to
+prefer a vaccine made in the UK to one made
+in the US (β = 0.05, p < 0.05).

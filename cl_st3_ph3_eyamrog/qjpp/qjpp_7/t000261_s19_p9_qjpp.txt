@@ -1,0 +1,17 @@
+However, the common trend assumption for the estimated effect of
+the policy on the marginal probability of a visit being
+GP referred is not supported for all hospitals. Inspection of
+the monthly and annual pre-policy trends (Appendix: Figure A4 )
+reveals that referral rates for under sixes trended below the
+older cohort in 2013/14 and above the older cohort in
+2014/15 for the sample as a whole and for R1
+in particular. The null hypothesis that the pre-policy yearly trends
+in the treatment and controls were the same is rejected
+for R1, D1 and the overall sample. Furthermore, effects are
+sensitive to the choice of pre-treatment period as a baseline
+(Appendix: Table A5 ). Therefore, estimates for these hospitals are
+not entirely attributable to the effect of the policy. There
+was no statistically significant effect between the two years pre-policy
+(placebo) for the remaining two Dublin hospitals and R2, and
+inspection of monthly and annual trends suggest that a common
+trend is a reasonable assumption.

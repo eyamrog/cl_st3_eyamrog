@@ -1,0 +1,8 @@
+Full versions of the works were obtained through the University
+of Pennsylvania’s open online resources (Fiennes) and The Internet Archive
+(Mandeville) and made into .txt versions. 9 MonoconcPro 2.2 was
+used to make wordlists of both works, from which all
+size- adjectives were retrieved. Concordances for those size -adjectives (with
+all their spelling variants) were created and examples where two
+co-occurred, syndetically or asyndetically, were selected. 10 Table 7 summarizes
+the results of the analysis.

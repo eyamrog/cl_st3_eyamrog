@@ -1,0 +1,18 @@
+That is, agents transform actual probability to get infected π
+i (Equation (1) ) into a subjective version of the
+same, depending on their disease state: (7) p i =
+{ π i 2 − r , if i is
+susceptible , 1 , if i is infected , 0
+, if i is recovered . Furthermore, agents transform actual
+severity of the disease ( σ ) into a subjective
+version of the same, depending on their disease state: (8)
+s i = { σ r , if i is
+susceptible , σ , if i is infected , 0
+, if i is recovered . Consequently, agents with risk
+perception values ( r ) below 1 underestimate, while agents
+with risk perception values above 1 overestimate the probability of
+infections and disease severity. We can therefore control the severity
+( σ ) and infectivity ( γ , operationalized as
+transmission probability per contact and time step) of the disease,
+as well as the agents' perception of these parameters (
+r ).

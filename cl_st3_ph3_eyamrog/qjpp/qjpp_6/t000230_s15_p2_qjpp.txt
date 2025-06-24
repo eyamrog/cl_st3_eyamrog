@@ -1,0 +1,6 @@
+While there are several sources of education data in Canada,
+their quality pale in comparison to those available in other
+countries. For researchers such as myself who have had the
+experience of working in data-rich countries (the United Kingdom and
+the United States, for example), being restricted by data quality
+and access is tremendously frustrating.

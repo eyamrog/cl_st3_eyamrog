@@ -1,0 +1,10 @@
+Sphericity is defined using the standard formula: 𝑠 ⁢ 𝑝
+⁢ ℎ ⁢ 𝑒 ⁢ 𝑟 ⁢ 𝑖 ⁢ 𝑐
+⁢ 𝑖 ⁢ 𝑡 ⁢ 𝑦 = ( 𝜋 1
+/ 3 ⁢ ( 6 ⁢ 𝑉 ) 2 /
+3 ) / 𝐴 , where 𝐴 and 𝑉 are
+area and volume of the object respectively. Area and volume
+are estimated from the coordinates of the polymer beads belonging
+to the region under consideration by means of a 3D
+convex hull approximation, computed with the Python package scipy.spatial. Sphericity
+measurements can be viewed in Figures S4 E and S4H.

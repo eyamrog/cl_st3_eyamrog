@@ -1,0 +1,9 @@
+Matching was performed considering a 1:1 ratio without replacement and
+with optimal matching applying a caliper width of the propensity
+score set at 0.1. Basically, a patient treated with tisa-cel
+was selected and then matched with a patient treated with
+axi-cel given the constraint that the difference between the logit
+(that is, the logarithm of the odds of the logistic
+regression that models the probability of receiving tisa-cel or axi-cel)
+was less than a pre-specified maximum (that is, the caliper
+distance).

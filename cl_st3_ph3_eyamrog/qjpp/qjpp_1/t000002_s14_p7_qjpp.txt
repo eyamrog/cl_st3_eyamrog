@@ -1,0 +1,19 @@
+To investigate the strength of association between step counts and
+risk of developing chronic disease, HRs and 95% CIs were
+computed by comparing 75th and 25th percentiles of daily step
+counts. We also conducted a falsification analysis to show that
+daily step counts did not associate diseases with no plausible
+relationship with activity; in this case, we tested carpal tunnel
+syndrome and actinic keratosis. All Cox models were adjusted for
+a priori covariates: age, sex (male, female), race (Black or
+African American, white, other), coronary artery disease (CAD) (yes, no),
+cancer (yes, no), BMI, systolic blood pressure, education level (no
+college, some college, college degree), all time smoking (<100 cigarettes,
+≥100 cigarettes) and alcohol use (alcohol participant, not an alcohol
+participant). All covariates except BMI, systolic blood pressure, CAD and
+cancer were assessed at enrollment visit via participant surveys. Baseline
+BMI and systolic blood pressure was extracted using EHR data.
+CAD and cancer were ascertained using ICD9CM/ICD10CM or Current Procedural
+Terminology (CPT4) codes as well as ICD9CM/ICD10CM codes, respectively. These
+codes to define CAD and cancer are shown in Supplementary
+Table 1 .

@@ -1,0 +1,2 @@
+Finally, 650 tweets were excluded because I could not interpret
+them.

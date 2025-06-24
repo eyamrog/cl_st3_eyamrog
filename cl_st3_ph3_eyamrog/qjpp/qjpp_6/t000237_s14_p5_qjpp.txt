@@ -1,0 +1,3 @@
+To understand the role of the identified socioeconomic topics in
+the formation of official COVID-19 reports, we employed the following
+regression models:

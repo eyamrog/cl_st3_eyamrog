@@ -1,0 +1,8 @@
+DNA extraction and amplification DNA was extracted from 25 samples
+and three negative controls at the dedicated ancient DNA laboratory,
+Department of Biosciences, University of Oslo. We extracted DNA from
+90 to 190 mg of sediment using the sediment extraction
+protocol as described by Rohland et al. (2018) with silica
+spin columns and binding buffer D. We increased the elution
+buffer volume to 100 μL. See Supplementary Online Materials (SOM)
+S1 for further details.

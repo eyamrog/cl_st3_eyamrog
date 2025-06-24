@@ -1,0 +1,27 @@
+To clarify the extent of ILS in the marsupial genomes
+at the site level, we used a coalescent inference model,
+CoalHMM, to identify ILS regions on 1.4 Gb realigned WGAs,
+which contained the gray short-tailed opossum, monito del monte, at
+least one diprotodontian species, and at least one dasyuromorphian species
+( Hobolth et al., 2007 37. Hobolth, A. ∙ Christensen,
+O.F. ∙ Mailund, T. ... Genomic relationships and speciation times
+of human, chimpanzee, and gorilla inferred from a coalescent hidden
+Markov model PLoS Genet. 2007; 3 :e7 Crossref Scopus (221)
+PubMed Google Scholar , 2011 38. Hobolth, A. ∙ Dutheil,
+J.Y. ∙ Hawks, J. ... Incomplete lineage sorting patterns among
+human, chimpanzee, and orangutan suggest recent orangutan speciation and widespread
+selection Genome Res. 2011; 21 :349-356 Crossref Scopus (141) PubMed
+Google Scholar ). Here, we allowed the aligned blocks where
+some species were absent, because the input alignments in CoalHMM
+analysis consisted of data for four species. Thus, for example,
+an aligned block containing the gray short-tailed opossum, monito del
+monte, tammar wallaby (a diprotodontian species) and brown antechinus (a
+dasyuromorphian species) is valid for the CoalHMM analysis. As we
+focused on the ILS occurring in the speciation of monito
+del monte, Diprotodontia and Dasyuromorphia, we had four combinations: Combination
+1 (Macr_Ante): M. domestica - D. gliroides - A. stuartii
+- M. eugenii. Combination 2 (Macr_Sarc): M. domestica - D.
+gliroides - S. harrisii - M. eugenii. Combination 3 (Phas_Ante):
+M. domestica - D. gliroides - A. stuartii - P.
+cinereus. Combination 4 (Phas_Sarc): M. domestica - D. gliroides -
+S. harrisii - P. cinereus.

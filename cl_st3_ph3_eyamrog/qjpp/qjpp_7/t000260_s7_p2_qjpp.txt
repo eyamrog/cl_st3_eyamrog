@@ -1,0 +1,16 @@
+Models using this framework have been extended in different directions
+by dividing the population into additional compartments, adding stochasticity in
+the different transition probabilities and/or using an agent-based framework. For
+example, Prem et al. (2020) study the effects of physical
+distancing measures in Wuhan, China using an age-structured susceptible-exposed-infected-removed (SEIR)
+model that includes the addition of an “exposed” compartment and
+the division of the population into 16 age categories. Kucharski
+et al. (2020) use a stochastic SEIR model to study
+the contagion dynamics in Wuhan and the transmission potential outside
+Wuhan. Klôh et al. (2020) use an agent-based model to
+assess interventions in Rio de Janeiro, Brazil and Chang et
+al. (2021) introduce mobility networks to an SEIR model and
+analyse the contagion dynamics across social groups. In all cases
+of mathematical epidemiological models, the key focus remains the transition
+probabilities between different compartments, which are then used to analyse
+the contagion dynamics of a particular epidemic.

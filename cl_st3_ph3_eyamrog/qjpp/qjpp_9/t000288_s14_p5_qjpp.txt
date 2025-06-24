@@ -1,0 +1,17 @@
+As indicated above, only the variants with a present tense
+is were retrieved. Instances with a past tense copula are
+attested, but they are a lot less frequent than the
+default option with a present tense form of be .
+For example, for the thing is/was in the US part
+of NOW, with an overt article, the ratio of present
+to past was 2961:260 (retrieval date: June 25, 2018) (see
+also Tárnyiková 2018 :212). Variants with article omission and a
+past tense copula are even rarer; in the US part
+of NOW, thing was was attested just eighteen times, nine
+with premodification and nine without premodification (retrieval date: June 26,
+2018). Similarly, NOW yields evidence of the variant with a
+double copula (as in 9 and 10), but since these
+were rare (at just over 100 instances in a corpus
+of almost 10 billion words) and not a variant for
+all WEs included in the study, they were excluded from
+the concordances as well. 3

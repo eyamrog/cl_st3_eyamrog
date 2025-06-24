@@ -1,0 +1,16 @@
+To answer these questions, we created the so-called Small-Worlds Infectious
+Disease Model ( SWIDM ), a specific model case of
+the Networking during Infectious Diseases Model ( NIDM ; Nunner
+et al., 2021 ). The SWIDM is a network formation
+model that considers 1. Subjective risk perception regarding infectious diseases,
+2. The propensity of forming closed triads, and 3. The
+likelihood of forming ties between individuals similar in risk perception.
+That is, autonomous agents form, maintain, or break social ties
+based on the trade-off between the benefits and costs of
+social relations , and potential harm of infections. Agent-based simulations
+of epidemics enabled us to consider a wide range of
+infectious diseases (mild vs. severe, low vs. high infectivity), health
+behaviors (low risk taking vs. high risk taking), homophily (low
+vs. high chance of ties between agents similar in risk
+perception), and small-world networks (fixed average degree, low vs. high
+clustering, short vs. long average path length).

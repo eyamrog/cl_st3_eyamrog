@@ -1,0 +1,13 @@
+The benefits, as well as the complexity, of integrating various
+research approach, in this case corpus linguistics and interactional approach,
+also call for better integration of various research software for
+future development. Similar to other corpus tools, CWB does not
+have any functions for researchers to note down their analysis.
+In contrast, various qualitative data analysis software such as Nvivo
+has such functions while having only rudimentary corpus analysis features.
+In the current analysis, I have employed CWB for corpus
+queries, then based on the results, used R to export
+threads in text files to be imported to Nvivo so
+that I could note down my analysis on relevant part
+of the threads. Streamlining the query and analysis process would
+further improve researchers’ workflow and encourage exploration of a corpus.

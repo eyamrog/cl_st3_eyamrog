@@ -1,0 +1,14 @@
+In this essay, I discuss the challenges faced by Canadian
+researchers in trying to undertake research, particularly in the area
+of education. I begin by focusing on the issue of
+data availability (with focus on the lack of race data
+in Canada) and the extreme limitations that these issues place
+on the potential for research on important Canadian education issues
+and then discuss what I regard as hypervigilant data access
+protocols for Canadian data sets. I then turn to practical
+issues that arise when comparing education data across cities and
+countries and the process of “harmonizing” the data. I address
+the compromises that must be made when attempting to make
+data comparable across different sites. I conclude by discussing how
+the larger context in which education occurs must be considered
+when understanding observed comparative differences between educational outcomes.

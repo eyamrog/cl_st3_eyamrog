@@ -1,0 +1,10 @@
+We filtered for potentially empty droplets and damaged cells by
+excluding droplets with <500 unique genes and libraries with >20%
+of reads assigned to mitochondrial genes. We pooled the resulting
+high-quality cells from each 10X library into a single cell
+by gene UMI matrix. We normalized for read depth with
+the standard log(CP10K) normalization procedure for gene g and cell
+i , where log CP10K gi = normalized log counts-per-10,000
+for gene g and cell i , h = index
+for gene h , and Σ h UMI hi =
+total number ofcounts observed for cell i :

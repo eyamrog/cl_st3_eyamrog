@@ -1,0 +1,19 @@
+EEBO BYU lacks codification for text type and so cannot
+be used to examine the effect of this variable. By
+contrast, both CLMET3.0 and the BNC are organized into different
+text categories, enabling me to check whether the growth in
+frequency of VV ing OBL applies to all of them
+or rather correlates with one or more. As motion clauses
+in general are known to occur often in fiction and
+narrative (e.g., Slobin 2004 ), I compare the category Fiction_prose
+(15,644,928 words) in the BNC to the corresponding text category,
+Narrative Fiction, in subperiods 1 (4,642,670 words) and 3 (6,311,301
+words) of CLMET3.0. The results are displayed in Tables 10
+and 11 . When compared with the data in Tables
+4 and 5 , they confirm that the frequency of
+the VV ing OBL construction in LModE is considerably higher
+when Fiction is considered separately than when all six text
+types represented in CLMET3.0 are considered together. In this respect,
+therefore, the construction once more has affinities with the be
+progressive: by the second half of the nineteenth century, progressives
+were most frequent in Fiction ( Kranich 2010 :101-102).

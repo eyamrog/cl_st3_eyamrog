@@ -1,0 +1,11 @@
+Moreover, as with conditions of employment, poor housing conditions present
+severe obstacles for populations attempting to physically distance or undertake
+quarantine or self-isolation (UN Habitat, 2020). Overcrowded and informal housing
+typically consists of multiple families sharing single dwellings, and intergenerational
+family units that can bring vulnerable populations into close contact
+with potential sources of infection. Shared and substandard infrastructures including
+water, sewage and sanitation, present further potential vectors of infection,
+a potential that is exacerbated due to high population density
+and the poor quality of this infrastructure. As a result,
+conditions of housing can directly impact both the infection rate
+( β ) and the CFR ( δ ) .

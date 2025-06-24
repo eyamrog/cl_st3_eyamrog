@@ -1,0 +1,19 @@
+The stochastic persistence of ancestral genetic polymorphisms can by chance
+cause two phylogenetically distant species to inherit the same ancestral
+genotypes, and, if the alleles encode specific morphological traits, this
+can lead to discordance between species trees and morphological trees.
+Previous studies have shown that the monito del monte and
+the diprotodontian marsupials share a range of similar morphological characters
+in several anatomical systems, including the skeleton ( Horovitz and
+Sánchez-Villagra, 2003 40. Horovitz, I. ∙ Sánchez-Villagra, M.R. A morphological
+analysis of marsupial mammal higher-level phylogenetic relationships Cladistics. 2003; 19
+:181-212 Crossref Scopus (111) Google Scholar ), the reproductive organs
+( Frankham and Temple-Smith, 2012 26. Frankham, G.J. ∙ Temple-Smith,
+P.D. Absence of mammary development in male Dromiciops gliroides :
+another link to the Australian marsupial fauna J. Mammal. 2012;
+93 :572-578 Crossref Scopus (3) Google Scholar ), and the
+brain ( Gurovich and Ashwell, 2020 32. Gurovich, Y. ∙
+Ashwell, K.W. Brain and behavior of Dromiciops gliroides J. Mamm.
+Evol. 2020; 27 :177-197 Crossref Scopus (2) Google Scholar ),
+for which some Australian marsupial groups are remarkably different—in many
+cases mismatches with the true phylogenetic relationships.

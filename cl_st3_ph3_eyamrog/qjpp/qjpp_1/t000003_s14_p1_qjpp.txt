@@ -1,0 +1,16 @@
+All patients treated in France with axi-cel or tisa-cel from
+December 2019 to October 2021 and retrospectively included in the
+DESCAR-T registry sponsored by the LYSARC were considered. Data export
+from the registry was set on 18 October 2021. All
+patients with DLBCL for whom a CAR T therapy with
+tisa-cel or axi-cel was ordered in the setting of the
+European Medicines Agency approval label (that is, after at least
+two prior lines of treatment) were considered. Patients could be
+treated (1) under French Temporary Authorization for Use (ATU); (2)
+under post-ATU authorization; or (3) under Market Authorization covered by
+the French health insurance system in an approved center. All
+patients received a non-opposition notice letter before enrollment, according to
+French laws. The protocol was approved by national ethics committees
+and the data protection agency, and the study was undertaken
+in accordance with the Declaration of Helsinki. DESCAR-T is registered
+under the ClinicalTrials.gov identifier NCT04328298 .

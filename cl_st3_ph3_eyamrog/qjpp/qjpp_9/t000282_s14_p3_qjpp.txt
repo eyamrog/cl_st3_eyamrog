@@ -1,0 +1,17 @@
+MAE-ToBI contains two types of pitch movements: pitch accents, which
+are movements that occur on some stressed syllables, and edge
+tones, which occur at phrase boundaries. For the purposes of
+the current study, it is important to note that the
+most common pitch accent in MAE-ToBI is posited to be
+the simple rise (H*), with some American English speakers also
+employing a fall-rise (L+H*) ( Pierrehumbert & Hirschberg 1990 ;
+Clopper & Smiljanic 2011 ). The H* pitch accent frequently
+appears as a rise in F 0 that arrives at
+a target tone higher than the preceding F 0 ,
+while the L+H* appears as a low target F 0
+followed by a rise in F 0 leading to a
+high target. Table 1 illustrates some of the relevant differences
+between Black and white speakers that have been observed in
+earlier studies of AAL and MUSE intonation, including Jun and
+Foreman (1996) , Thomas and Reaser (2004) , Holliday (2016)
+, and McLarty (2018) .

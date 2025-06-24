@@ -1,0 +1,16 @@
+Several ebolaviruses cause outbreaks of severe disease. Vaccines and monoclonal
+antibody cocktails are available to treat Ebola virus (EBOV) infections,
+but not Sudan virus (SUDV) or other ebolaviruses. Current cocktails
+contain antibodies that cross-react with the secreted soluble glycoprotein (sGP)
+that absorbs virus-neutralizing antibodies. By sorting memory B cells from
+EBOV infection survivors, we isolated two broadly reactive anti-GP monoclonal
+antibodies, 1C3 and 1C11, that potently neutralize, protect rodents from
+disease, and lack sGP cross-reactivity. Both antibodies recognize quaternary epitopes
+in trimeric ebolavirus GP. 1C11 bridges adjacent protomers via the
+fusion loop. 1C3 has a tripartite epitope in the center
+of the trimer apex. One 1C3 antigen-binding fragment anchors simultaneously
+to the three receptor-binding sites in the GP trimer, and
+separate 1C3 paratope regions interact differently with identical residues on
+the three protomers. A cocktail of both antibodies completely protected
+nonhuman primates from EBOV and SUDV infections, indicating their potential
+clinical value.

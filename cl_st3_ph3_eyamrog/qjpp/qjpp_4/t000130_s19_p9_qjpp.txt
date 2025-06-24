@@ -1,0 +1,16 @@
+To generate additional tools for the functional characterization of the
+interaction, we characterized two llama-derived heavy-chain antibody-derived nanobodies, which bind
+to murine and human GPC3 core ( Figures 4 A–4C).
+Pull-down data suggests that one nanobody enhances complex formation between
+GPC3 and Unc5B (Nano glue ), while another inhibits it
+(Nano break ) ( Figure 4 D). We confirmed these
+results for Unc5A–D using SPR experiments ( Figures 4 E,
+4F, and S4 A–S4F). The pull down and SPR results
+also show that Nano break has an overall weaker affinity
+compared to Nano glue . Consistent with the protein-binding studies,
+cell-cell aggregation assays showed that the addition of nanobody Nano
+break , and not Nano glue , inhibits Unc5D-GPC3 mediated
+cell-cell adhesion ( Figures 4 G and 4H). Of note,
+we did not observe enhanced aggregation with Nano glue in
+this assay, which may be due to the strong aggregation
+phenotype observed, also in absence of the nanobody.

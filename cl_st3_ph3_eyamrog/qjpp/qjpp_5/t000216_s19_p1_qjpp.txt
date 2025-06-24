@@ -1,0 +1,9 @@
+In our intraobserver error analysis, the mean Procrustes distances between
+iterations of the same individual were much smaller than those
+between different individuals, and the 95% confidence intervals (CIs) of
+their means did not overlap. The mean Procrustes distance between
+iterations of the same individual was 0.026 (95% CI: 0.023–0.029)
+and 0.036 (95% CI: 0.024–0.048); between different individuals, the mean
+Procrustes distance was 0.105 (95% CI: 0.101–0.109). We judged this
+to mean that levels of intraobserver error in our data
+were within acceptable limits.

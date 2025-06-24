@@ -1,0 +1,8 @@
+The representative algorithm identified cases with tumor in the external
+validation sets, with sensitivities of 98.6% (95% CI of all
+algorithms, 97.6–99.3) and 97.7% (95% CI of all algorithms, 96.2–99.2)
+for the US and EU sets, respectively. In comparison to
+the internal validation set, the algorithms misclassified more benign cases
+as malignant, resulting in specificities of 75.2% (95% CI of
+all algorithms, 66.8–80.0) and 84.3% (95% CI of all algorithms,
+70.5–87.9) for the representative algorithm.

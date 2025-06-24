@@ -1,0 +1,15 @@
+For cell lines, 50 μg/mL of GPC3 core protein was
+mixed with Alexa 568-conjugated anti-hIgG antibody (Thermo Fisher Scientific) in
+PBS. Protein was injected into matrices (90 μm width) (17,546,017)
+and placed on 60 mm dishes, resulting in red fluorescent
+stripes. After 30 min incubation at 37°C, dishes were washed
+with PBS and matrices removed. Dishes were coated with 50
+μg/mL GPC3 coreUG protein mixed with 120 μg/mL anti-hFc (Jackson)
+for 30 min at 37°C and washed with PBS. HeLa,
+SY5Y or N2A cells were cultured on the stripes in
+2% FBS medium, with 50 μg/mL Strep-Nano break or Strep-Nano
+glue , or without nanobody (control). After 16 h cells
+were fixed with 4% PFA in PBS for 20 min
+at room temperature and nuclei were counterstained with DAPI before
+mounting and imaging. The number of DAPI positive pixels on
+red or black stripes was quantified.

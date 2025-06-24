@@ -1,0 +1,21 @@
+We next searched for the mechanism(s) that equip the ancient
+conserved TAD with such structural flexibility in ESCs. The current
+prevailing model is that TADs are formed by cohesin progressively
+extruding chromatin loops until blocked at CTCF boundaries ( Fudenberg
+et al., 2016 48. Fudenberg, G. ∙ Imakaev, M. ∙
+Lu, C. ... Formation of chromosomal domains by loop extrusion
+Cell Rep. 2016; 15 :2038-2049 Full Text Full Text (PDF)
+PubMed Google Scholar ; Sanborn et al., 2015 124. Sanborn,
+A.L. ∙ Rao, S.S. ∙ Huang, S.C. ... Chromatin extrusion
+explains key features of loop and domain formation in wild-type
+and engineered genomes Proc. Natl. Acad. Sci. USA. 2015; 112
+:E6456-E6465 Crossref Scopus (894) PubMed Google Scholar ). As previously
+reported, binding sites for CTCF and the cohesin subunit Rad21
+are enriched within Zfp42R specifically in ESCs ( Figures 2
+B and S3 A; Bonev et al., 2017 25. Bonev,
+B. ∙ Cohen, N.M. ∙ Szabo, Q. ... Multiscale 3D
+genome rewiring during mouse neural development Cell. 2017; 171 :557-572.e24
+Full Text Full Text (PDF) Scopus (568) PubMed Google Scholar
+). From this, we speculated that ESC-specific CTCF binding in
+Zfp42R blocks cohesin extrusion inside the center of the TAD,
+thereby driving locus restructuring.

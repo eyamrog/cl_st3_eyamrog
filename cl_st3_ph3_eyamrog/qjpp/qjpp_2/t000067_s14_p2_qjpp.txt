@@ -1,0 +1,9 @@
+EmCAB and CASABLANCA are prospective observational cohorts consisting of adult
+patients (≥18 years of age) undergoing coronary angiography for suspected
+ischemic heart disease. EmCAB enrolled patients at three Emory Healthcare
+sites in Atlanta between 2003 and 2015, and CASABLANCA enrolled
+patients at Massachusetts General Hospital in Boston between 2008 and
+2011. EmCAB excluded patients with congenital heart disease, severe anemia,
+a recent blood transfusion, myocarditis, or a history of active
+inflammatory disease or cancer. The only exclusion criterion in CASABLANCA
+was an unwillingness to participate.

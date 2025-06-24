@@ -1,0 +1,16 @@
+Bulk RNA sequencing data were analyzed using the bulk processing
+aspect of pipeline_scrnaseq.py ( https://github.com/sansomlab/scseq ). Data quality was assessed
+using pipeline_readqc.py ( https://github.com/cgat-developers/cgat-flow ). Sequenced reads were aligned to
+the human genome GRCh38 with Hisat2 (v.2.1.0) using a reference
+index built from the GRCm38 release of the mouse genome
+and known splice sites extracted from Ensembl v.91 annotations (using
+the hisat2_extract_splice_sites.py tool). A two-pass mapping strategy was used to
+discover new splice sites (with these additional parameters: –dta and–score-min
+L,0.0,−0.2). Mapped reads were counted using featureCounts (Subread v.1.6.3; Ensembl
+v.91 annotations; with default parameters) . Salmon v.0.9.1 was used
+to calculate transcripts per million (TPM) values using a quasi-index
+(built with Ensembl v.91 annotations and k = 31) and
+gc bias correction (parameter ‘—gcBias’). For heatmap visualization of gene
+expression levels, z -scores of TPM values and Manhattan distances
+were calculated within the heatmap2 package in R. Differential expression
+analyses were performed using DESeq2 (v.1.26.0) .

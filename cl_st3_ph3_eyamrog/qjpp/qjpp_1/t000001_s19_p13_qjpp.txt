@@ -1,0 +1,6 @@
+Defined for harmful exposures as the 5th quantile of the
+risk curve closest to log(RR) = 0 or RR =
+1 (that is, the null), BPRF represents a conservative estimate
+of the potential harmful effects of increased SBP on IHD
+based on the available evidence , and is shown as
+a red curve in Fig. 1a,b .

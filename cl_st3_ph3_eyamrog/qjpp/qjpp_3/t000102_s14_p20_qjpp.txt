@@ -1,0 +1,8 @@
+For fixation, cells were washed once with 1x PBS pH
+7.2 and then fixed in 1 x PBS pH 7.2
+with 4% paraformaldehyde for 10 minutes. For electron microscopy, cells
+were fixed in a 2% glutaraldehyde and 4% paraformaldehyde fixative
+in PBS pH 7.2. For fixing cells with hypercondensed chromatin
+cells were incubated in a 560 mOsm PBS solution and
+then fixed at 560 mOsm in a fixative containing 2%
+glutaraldehyde and 4% paraformaldehyde.

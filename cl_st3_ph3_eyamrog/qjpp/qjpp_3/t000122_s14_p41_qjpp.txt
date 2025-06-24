@@ -1,0 +1,10 @@
+All animals were given physical examinations, and blood was collected
+at the time of virus exposure and at 4, 7,
+10, 14, 21, 28, and 35 days after virus exposure.
+Animals were monitored daily and scored for disease progression with
+an internal filovirus endpoint scoring sheet approved by the UTMB
+IACUC. The scoring changes measured from baseline included posture and
+activity level, attitude and behavior, food intake, respiration, and disease
+manifestations, such as visible rash, hemorrhage, or ecchymosis. A score
+of ≥9 indicated that an animal met the criteria for
+euthanasia.

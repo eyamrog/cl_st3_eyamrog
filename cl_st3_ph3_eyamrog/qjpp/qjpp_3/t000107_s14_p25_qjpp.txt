@@ -1,0 +1,15 @@
+Raw ATACseq FASTQ files from paired-end sequencing were processed using
+the script available at the following repository ( https://github.com/wherrylab/jogiles_ATAC ).
+Samples were aligned to the GRCm38/mm10 reference genome using Bowtie2.
+We used samtools to remove unmapped, unpaired, mitochondrial reads. ENCODE
+blacklist regions were also removed ( https://sites.google.com/site/anshulkundaje/projects/blacklists ). PCR duplicates
+were removed using Picard. Peak calling was performed using MACS
+v2 (FDR q-value 0.01). For each experiment, we combined peaks
+of all samples to create a union peak list and
+merged overlapping peaks with BedTools merge . The number of
+reads in each peak was determined using BedTools coverage. Differentially
+accessible regions were identified following DESeq2 normalization using an FDR
+cut-off < 0.05 unless otherwise indicated. Motif enrichment was calculated
+using HOMER (default parameters) on peaks differentially accessible across sgCtrl
+group and sgFli1 group. Transcription binding site prediction analysis was
+performed using known motif discovery strategy.

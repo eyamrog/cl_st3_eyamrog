@@ -1,0 +1,7 @@
+Despite the high frequency of [X + be + just
+like + Y] in the younger Taiwanese efl learner corpus,
+not all instances were used appropriately. Some instances turned out
+to be a confusion between ‘just like’ and ‘such as;.
+One of these questionable uses is given in Example 17.
+( 17 ) ? I like Italy’s food , just
+like pizza . ( lttc-elc )

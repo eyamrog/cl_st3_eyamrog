@@ -1,0 +1,27 @@
+During development, enhancers with diverse activities drive extraordinarily complex transcription
+at target genes in time and space ( Long et
+al., 2016 86. Long, H.K. ∙ Prescott, S.L. ∙ Wysocka,
+J. Ever-changing landscapes: transcriptional enhancers in development and evolution Cell.
+2016; 167 :1170-1187 Full Text Full Text (PDF) Scopus (416)
+PubMed Google Scholar ). Such enhancers can activate target genes
+often lying hundreds of kilobases away by physically contacting promoters
+in three-dimensional space via chromatin folding ( Bonev and Cavalli,
+2016 24. Bonev, B. ∙ Cavalli, G. Organization and function
+of the 3D genome Nat. Rev. Genet. 2016; 17 :772
+Crossref Scopus (2) PubMed Google Scholar ; Furlong and Levine,
+2018 50. Furlong, E.E.M. ∙ Levine, M. Developmental enhancers and
+chromosome topology Science. 2018; 361 :1341-1345 Crossref Scopus (225) PubMed
+Google Scholar ). This collectively allows many developmental loci to
+be regulated by complex modular ensembles of enhancers distributed within
+large gene regulatory landscapes ( Robson et al., 2019 120.
+Robson, M.I. ∙ Ringel, A.R. ∙ Mundlos, S. Regulatory landscaping:
+how enhancer-promoter communication is sculpted in 3D Mol. Cell. 2019;
+74 :1110-1122 Full Text Full Text (PDF) Scopus (77) PubMed
+Google Scholar ). Modifying such regulatory landscapes and their transcriptional
+outputs is viewed as central for acquiring novel phenotypic traits
+in evolution ( Wittkopp and Kalay, 2011 144. Wittkopp, P.J.
+∙ Kalay, G. Cis -regulatory elements: molecular mechanisms and evolutionary
+processes underlying divergence Nat. Rev. Genet. 2011; 13 :59-69 Crossref
+Scopus (583) PubMed Google Scholar ). However, what mechanisms allow
+regulatory landscapes to be modified to incorporate novel activities without
+compromising their existing functions remains largely unknown.

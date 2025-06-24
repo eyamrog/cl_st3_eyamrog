@@ -1,0 +1,10 @@
+Although the literature contains numerous publications on how diffusion processes
+are shaped by small-world properties and homophily individually ( Badham
+and Stocker, 2010 ; d’Andrea et al., 2022 ; Keeling,
+1999 ; Kitchovitch and Lì, 2010 ; Koku and Felsher,
+2020 ; Miller, 2009 ; Watts and Strogatz, 1998 ),
+it is still unknown how the diffusion of infectious diseases
+is shaped by their combination. We therefore asked: What are
+the effects of health behavior homophily on epidemics in adaptive
+small-world networks? and How do epidemics differ between adaptive and
+static networks?

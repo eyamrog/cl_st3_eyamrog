@@ -1,0 +1,14 @@
+174 932 observations from 25 520 individuals were obtained from
+the HILDA Survey from 2011 to 2020 ( appendix p
+3 ). After exclusion of observations with missing outcome data
+(18 480 observations), observations from people no longer part of
+the in-scope population (1643 observations), and observations from respondents without
+data from 2020 and one or more previous occasions (3226
+observations), the final analysis sample comprised 151 583 observations from
+20 839 individuals. The treatment group, comprising Victoria residents with
+available SCQ responses from around the time of the lockdown
+in 2020, represented 3568 (93·8%) of the 3804 Victorians interviewed
+in wave 20, and provided 37 578 observations (34 010
+in the pre-COVID-19 period and 3568 in the COVID-19 period).
+The remaining 114 005 observations (from 17 271 individuals) formed
+the control group.

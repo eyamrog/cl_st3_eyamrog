@@ -1,0 +1,7 @@
+To facilitate comparability, reproducibility, and understanding of our model we
+are guided by the updated version of the ODD protocol
+(“Overview”, “Design concepts”, “Details”) of individual- and agent-based models (
+Grimm et al., 2010 ). Here, we offer mostly top-level
+descriptions of the model components relevant for this paper. In
+Online appendix A – Additional model definitions , we offer
+more detailed and formal model definitions.

@@ -1,0 +1,24 @@
+The interest in the exploitation of corpora in the study
+of Korean L2 learners’ use of English has risen dramatically
+over the past two decades, leading to the compilation of
+learner corpora and to numerous empirical investigations into Korean learners’
+use of English. This paper will give an overview of
+the compilation and characteristics of English learner corpora in Korea
+and will also provide an analysis of the recent trends
+in learner corpus research. It was not until the mid-2000s
+that Korean academics started to compile English learner corpora, such
+as the snu Korean-speaking English Learner Corpus ( skelc ),
+the Yonsei English Learner Corpus ( yelc ), the Gachon
+Learner Corpus ( glc ), the Neungyule Interlanguage Corpus of
+Korean Learners of English ( nickle ), the efl Teacher
+Corpus ( etc ), the Korean English Learners’ Spoken Corpus
+( kelsc ) and the ets Corpus of Non-native Written
+English (TOEFL11). There have also been a growing number of
+learner corpus-based studies that used the existing learner corpora as
+well as self-compiled corpus data. All the learner corpus-based research
+articles published in two Korean academic journals ( English Teaching
+and Korean Journal of Applied Linguistics ) will be reviewed
+and analysed in terms of research topics and areas, data
+types, analysis methods and corpus compilation practices. Finally, this paper
+will suggest some future directions for learner corpus compilation and
+research in Korea.

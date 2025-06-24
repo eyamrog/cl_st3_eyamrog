@@ -1,0 +1,24 @@
+We analyzed 717 hippocampal neurons (V: 365, T: 352) for
+place activity (see STAR Methods ). Consistent with the other
+trajectories, approximately half of the recorded neurons had a place
+field on at least one section of the trajectory (
+Figure 4 B) (V: 169/365 or 46%; T: 209/352 or
+59%). We correlated place activity along the overlapping portions of
+the lemniscate, which comprised ∼25% of the total trajectory (indicated
+by the box in Figure 4 A). When subjects passed
+through the center of space in the same direction, 36%
+of place neurons were significantly positively correlated ( Figure 4
+C) (V: 40/138 or 29%; T: 63/152 or 41%). However,
+when subjects passed through space in opposite directions, there were
+significantly fewer positively correlated neurons (V: 12/137 or 9%, T:
+11/149 or 7%; V: χ 2 = 14; T: χ
+2 = 47, both p < 0.001). Additionally, some neurons
+had significant negative correlations. These neurons were active on opposite
+ends of the trajectory ( Figure 4 B, bottom middle
+example). These neurons were not particularly prevalent. There were approximately
+three times as many neurons with positive correlations (V: 52,
+T: 74) compared to those with negative correlations (V: 18,
+T: 20). It is conceivable that these neurons may have
+encoded additional structure, such as discriminating the outer or inner
+portions of the trajectory, but additional experiments with other trajectories
+would be needed to confirm this.

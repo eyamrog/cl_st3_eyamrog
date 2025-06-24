@@ -1,0 +1,15 @@
+To reconstruct the environment at Dmanisi, we have applied the
+method of habitat weighting (e.g., Blain et al., 2008 ,
+2014 ; Piñero et al., 2016 ), distributing each rodent
+taxon in the habitat(s) where it is possible to find
+them at present (for extant species) or where they are
+assumed to have lived in the past (for extinct species).
+The habitats were divided into five types: open land in
+which dry and wet meadows are distinguished, woodland and woodland-margin
+areas, surrounding water areas and rocky areas. Each species was
+given a maximum possible score of 1.00, which was broken
+down according to the habitat preference of that species, so
+that if an animal occurred in more than one habitat
+type, its score was proportional to its habitat preference. To
+implement the habitat weightings method, it was necessary to calculate
+the proportions of each taxon in the assemblage.

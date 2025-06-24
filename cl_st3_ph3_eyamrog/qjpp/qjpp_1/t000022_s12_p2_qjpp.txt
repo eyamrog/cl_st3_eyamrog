@@ -1,0 +1,26 @@
+The potential to address health equity through big data research
+rests largely on the inclusiveness and accuracy of data for
+all types of individuals and communities (veracity and variety). Although
+numerous national population-based surveys in the USA and other countries
+have engaged methods to include more diverse samples, declining survey
+participation rates over time have contributed to challenges in using
+these national surveys for equity-focused research ( 8 ). Widespread
+concerns have emerged about how little attention to inclusion and
+representation exists in big data formation, such that persons who
+identify as racial/ethnic or gender minorities, are from resource-poor settings
+with limited cyberinfrastructures to capture data, and are from environments
+for which providing personal data can result in discrimination and
+underrepresentation often are not included ( 30 ). One of
+the most important challenges associated with gaps in data for
+vulnerable populations can be thought of as data absenteeism (
+84 ), whereby some groups are absent from data. Paramount
+to any scientific endeavor is the need to understand both
+how data were collected (or generated) and the gap between
+the study population (study participant data) and the target population.
+Barring a true census in which everyone is included, people
+will be missed; it is incumbent on the scientist to
+assess whether certain types of people or communities are systematically
+missed or misrepresented. Equity in who benefits from scientific knowledge
+and resource allocation fundamentally cannot be achieved if groups are
+not represented in the scientific studies that generate the knowledge
+that informs the distribution of resources.

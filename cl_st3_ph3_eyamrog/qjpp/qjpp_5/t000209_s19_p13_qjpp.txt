@@ -1,0 +1,12 @@
+Four recombination regions that were not flagged by RDP as
+possibly being caused by an evolutionary process other than recombination
+were all within two GenBank genomes that we excluded from
+phylogenetic analysis. One of these genomes was KP072068.1 , which
+is annotated as a M. nigra genome, but phylogenetically positioned
+within a clade containing M. mulatta genomes based on preliminary
+analyses (not shown). One putatively recombined region in KP072068.1 was
+1203 base pairs long and was identified by seven of
+nine tests. Visual inspection supports the inference of recombination based
+on high similarity with the minor parental sequences. Another region
+of KP072068.1 was identified by six tests, but recombination was
+not strongly evident based on visual inspection.

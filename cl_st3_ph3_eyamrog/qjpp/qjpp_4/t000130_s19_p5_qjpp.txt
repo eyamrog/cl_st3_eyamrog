@@ -1,0 +1,24 @@
+Interface 1 is located at the C lobe of GPC3
+and interfaces with the Ig1 and Ig2 domains of Unc5D,
+burying a surface of ∼690 Å 2 (mGPC3 complex) or
+∼640 Å 2 (hGPC3 complex). Charge complementarity of the interface
+is provided by hGPC3 (R120, E143, E147, D151, D160, D165)
+and rUnc5D (R118, E122, D123, R156, K157) ( Figures 2
+I, 2J, and S2 A). The largest interface, 2, is
+formed between the Unc5D TSP1/Ig2 domains and the M lobe
+of GPC3, burying ∼1440 Å 2 (mGPC3 complex) or ∼1330
+Å 2 (hGPC3 complex) of protein surface. Hydrophobic residues line
+both sides: rUnc5D I170, A281, P282, L283, F288, and hGPC3
+L157, L235. Hydrophobic interactions are complemented by hydrogen bonding and
+charged interactions, such as hGPC3 E238, which interacts with the
+backbone of rUnc5D A281 ( Figures 2 I, 2J, and
+S2 B). Interface 3 involves the N lobe of GPC3
+and contains many charged and hydrogen-bonding interactions ( Figures 2
+I, 2J, and S2 C). The interacting surfaces are contributed
+by distinct patches on Unc5D, located on Ig1 and Ig2.
+The buried surface is ∼390 Å 2 (mGPC3 complex) or
+∼360 Å 2 (hGPC3 complex). Within the octameric arrangement, the
+antiparallel Unc5D chains also form interactions between themselves, especially at
+the Ig2 domains: the buried surface amounts to ∼900 Å
+2 and ∼840 Å 2 for the major antiparallel packing
+interactions within the Unc5 bundle.

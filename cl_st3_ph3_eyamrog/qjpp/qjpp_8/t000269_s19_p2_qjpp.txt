@@ -1,0 +1,11 @@
+There is much to note in the descriptive statistics in
+Table 1 . The first is that the overall mean
+for conduct problems is 1.98 in wave 4 (mean age
+= 3.85 years old) and decreases steadily to 1.32 in
+wave 9 (mean age = 12.56 years old). This suggest
+that conduct problems naturally attenuate over time as the child
+grows older. The variability in conduct problems over the same
+period remains roughly stable with a standard deviation ranging from
+1.44 (wave 4) to 1.56 (wave 7). This suggests that
+the range of conduct problems in children are fairly similar
+across the different age groups.

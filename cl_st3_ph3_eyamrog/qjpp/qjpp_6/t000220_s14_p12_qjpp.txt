@@ -1,0 +1,2 @@
+We conducted all statistical analyses in R and considered the
+outcomes significant at the alpha level of 0.05.

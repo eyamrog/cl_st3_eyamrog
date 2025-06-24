@@ -1,0 +1,7 @@
+EBOV GPΔmucin was expressed in Drosophila S2 cells using a
+single plasmid encoding a C-terminally Strep-tagged construct. EBOV GPΔmucin was
+purified using a pre-packed StrepTrap HP column (Cytiva Life Sciences),
+followed by cleavage of the Strep-tag at an enterokinase cleavage
+site, using EKMax (Thermo Fisher Scientific). The tagless protein was
+further purified using a Superose 6 Increase 10/300 GL SEC
+column (Cytiva Life Sciences).

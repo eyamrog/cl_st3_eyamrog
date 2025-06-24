@@ -1,0 +1,17 @@
+3D-SIM imaging was carried out with a DeltaVision OMX V4
+microscope equipped with an ×100/1.4 numerical aperture (NA) Plan Super
+Apochromat oil immersion objective (Olympus) and electron-multiplying charge-coupled device (Evolve
+512B; Photometrics) camera for a pixel size of 80 nm.
+Diode lasers at 405, 488, 561 and 647 nm were
+used with the standard corresponding emission filters. Z -stacks (
+z -step of 125 nm) were acquired using 5 phases
+and 3 angles per image plane. Raw images were reconstructed
+using SoftWorx v.6.5 (GE Healthcare Systems) using channel-specific optical transfer
+functions (pixel size of reconstructed images = 40 nm). TetraSpeck
+beads (200 nm) (T7280, Thermo Fisher Scientific) were used to
+calibrate alignment parameters between the different channels. The quality of
+reconstructed images was assessed using the SIMcheck plugin of ImageJ
+v.1.52i ( Ball et al., 2015 13. Ball, G. ∙
+Demmerle, J. ∙ Kaufmann, R. ... SIMcheck: a toolbox for
+successful super-resolution structured illumination microscopy Sci. Rep. 2015; 5 :15915
+Crossref Scopus (178) PubMed Google Scholar ).

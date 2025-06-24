@@ -1,0 +1,23 @@
+Vero (CCL-81), Vero E6 (CRL-1586) and Jurkat (clone E6-1) cells
+were obtained from ATCC. Vero cells were cultured in high-glucose
+Dulbecco’s modified Eagle’s medium containing L-glutamine (DMEM, Invitrogen, Carlsbad, CA,
+USA) supplemented with 10% fetal bovine serum (FBS, Omega Scientific,
+Tarzana, CA, USA) and 1% penicillin-streptomycin solution. Cells were maintained
+at 37°C in a humidified atmosphere with 5% CO 2
+. Vero E6 cells (green monkey kidney epithelial) were maintained
+at 5% CO 2 at 37°C either in Eagle’s minimal
+essential medium supplemented with L-glutamine, penicillin/streptomycin, non-essential amino acids and
+10% FBS, or in Dulbecco’s Modified Eagle Medium supplemented with
+glucose, L-glutamine, sodium pyruvate and 10% heat-inactivated, sterile-filtered FBS. Jurkat
+E6-1 cells (human acute T cell leukemia; male) were maintained
+in 5% CO 2 at 37°C in RPMI-1640 medium supplemented
+with 100 U/mL penicillin/streptomycin and 2 mM L-glutamine (GIBCO), and
+10% heat-inactivated FBS (Hyclone). Drosophila S2, ExpiCHO-S and Expi293F cell
+lines were obtained from Thermo Fisher Scientific. Drosophila S2 cells
+were cultured in Schneider’s Drosophlia medium at 27°C in stationary
+flasks. Stable cell lines were adapted to serum-free conditions and
+maintained with shaking at 27°C. ExpiCHO-S cells were cultured in
+ExpiCHO expression medium and maintained at 37°C in a humidified
+atmosphere with 8% CO 2 . Expi293F cells (human embryonic
+kidney epithelial; female) were maintained on orbital shakers at 8%
+CO 2 at 37°C in Expi293 medium (GIBCO).

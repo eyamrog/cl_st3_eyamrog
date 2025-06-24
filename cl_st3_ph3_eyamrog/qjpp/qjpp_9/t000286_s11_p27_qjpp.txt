@@ -1,0 +1,18 @@
+These questions become more pointed under Edelstein’s (2014) syntactic analysis
+of the AEP as a syntactically unique structure, as this
+would require language users to maintain an idiosyncratic derivational operation
+just for a small set of matrix verbs to use
+for an apparently rare discursive requirement. High-frequency features would seem
+to be better suited to such idiosyncratic syntax than low-frequency
+features. High frequency has been extensively documented as a force
+for maintaining irregular morphosyntactic features (e.g., Bybee & Thompson 1997
+; Corbett, Hippisley, Brown & Marriott 2001 ) and for
+driving grammaticalization (e.g., Bybee 2007 :269-357) (see Bybee & Hopper
+2001 for discussion). Intuitively, Edelstein’s (2014) proposed syntax for the
+AEP would require that the construction either occur frequently enough
+to be subject to Bybee and Thompson’s (1997) “Conserving Effect”
+to maintain it in grammars, or frequently enough that matrix
+verb + AspP constructions might be reanalyzed as a particular
+type of constituent. There’s not an obvious mechanism for the
+maintenance or emergence of a novel syntax for a low-frequency
+feature in these models.

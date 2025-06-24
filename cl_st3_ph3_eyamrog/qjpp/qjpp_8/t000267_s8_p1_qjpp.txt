@@ -1,0 +1,26 @@
+The randomised controlled clinical trial (RCT) is claimed to be
+the ‘gold standard’ for evaluating the effectiveness of health interventions
+( Mowat et al., 2018 ; Timmermans and Berg, 2010
+). An RCT is generally “a trial where subjects are
+randomly assigned to one of two groups: one (the experimental
+group) receiving the intervention that is being tested, and the
+other (the comparison group or control) receiving an alternative (conventional)
+treatment” ( Kendall, 2003 , pg. 164). Critical research on
+RCTs has often focused on practices of design and evidence-making
+within trials and on the role of trials in forming
+the field of evidence-based medicine in high-income countries ( Deaton
+and Cartwright, 2018 ; May et al., 2003 ; Rhodes
+and Lancaster, 2019 ; Will and Moreira, 2016 ). Common
+criticisms from the social sciences have included epistemological challenges underpinning
+“evidence hierarchies”, limited relevance of average treatment effects for individual
+decision-making, the role of theory to inform the proper interpretation
+of RCTs, and issues concerning causal inference and external validity
+of RCT findings ( Cohn et al., 2013 ; Horwitz
+and Singer, 2018 ). Taking a realist evaluation approach has
+been suggested as a possible solution to some of these
+limitations ( Bonell et al., 2012 ). However, much less
+attention has been paid to the ways that RCT investigators
+understand and enact within trials the evaluation of technical and
+organisational processes through which trial outcomes are produced. Equally, we
+know little about the conduct of trials in the complex
+contexts of humanitarian settings, despite their unique characteristics.

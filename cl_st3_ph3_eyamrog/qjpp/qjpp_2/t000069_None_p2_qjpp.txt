@@ -1,0 +1,5 @@
+Background: Progressive respiratory failure is the primary cause of death
+in the coronavirus disease 2019 (Covid-19) pandemic. Despite widespread interest
+in the pathophysiology of the disease, relatively little is known
+about the associated morphologic and molecular changes in the peripheral
+lung of patients who die from Covid-19.

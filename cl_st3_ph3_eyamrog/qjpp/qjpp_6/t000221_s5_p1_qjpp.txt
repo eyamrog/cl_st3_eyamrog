@@ -1,0 +1,21 @@
+Our results are broadly consistent with previous descriptions of the
+3-D ground force components in bipedal chimpanzee walking ( Kimura
+et al., 1977 ; Pontzer et al., 2009 ). As
+expected, all three animals exhibited monophasic vertical force patterns, with
+small magnitude anterior-posterior force peaks compared to a human walking
+step at similar dimensionless speeds, especially in the second double-support
+period (i.e., push-off). The species difference in peak vertical force
+magnitude (H = 1.27, C = 1.13; Fig. 2 )
+supports the inference that facultative bipeds walk with lower peak
+vertical force ( Schmitt, 2003 ), albeit by a small
+amount at matched dimensionless speeds. However, this difference is not
+present at matched dimensional speeds ( SOM Fig. S2 ).
+Overall, the ground reaction forces in bipedal chimpanzees appear quite
+similar to the 3-D forces of ‘highly trained’ bipedal macaques
+( Kimura et al., 1977 ; Ogihara et al., 2007
+), as well as some other facultative bipeds ( Kimura,
+1977 ). A qualitative comparison of our chimpanzee data set
+to similar data from ‘highly-trained’ bipedal macaques ( Ogihara et
+al., 2007 ) suggests that bipedal chimpanzees and macaques are
+much more similar to each other than either are to
+humans.

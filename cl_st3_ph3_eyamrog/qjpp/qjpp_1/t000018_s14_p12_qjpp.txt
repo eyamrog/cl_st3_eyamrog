@@ -1,0 +1,27 @@
+To reduce dimensionality within the dataset, an unbiased approach was
+used to collapse genes with similar expression patterns in the
+discovery RNA-seq dataset. Normalized (TPM) counts were considered for all
+genes across all samples, including both inflamed and noninflamed tissues
+from patients with IBD and samples from the CRC controls.
+These were filtered to remove genes with zero counts in
+over half of the samples, and log transformed following the
+addition of a pseudocount. Transformed counts were then used to
+define modules of correlated genes using WGCNA in R .
+In brief, this process calculates pairwise Pearson correlation estimates between
+all genes; these are then raised to the power of
+a soft threshold, in this case raising correlation coefficients to
+the power of 9, which magnifies the differences between large
+and small correlations. Finally, the network of these amplified correlations
+(where each gene is a node and each edge is
+a correlation) is used to generate a topological overlap matrix
+(TOM). This represents the similarity of expression patterns between a
+given pair of genes in the dataset, similar to the
+correlation matrix but taking into account their shared correlation with
+other genes. Finally, hierarchical clustering of the TOM is used
+to assign genes into modules based on their coexpression pattern.
+The pickSoftThreshold function was used to identify nine as an
+appropriate soft threshold. The blockwiseModules function was then used with
+this threshold to automatically carry out the aforementioned process and
+assign genes to modules. Parameters for the function were as
+follows: minimum module size of 30 genes, mergeCutHeight of 0.1,
+reassignThreshold of 0 and use of a signed network.

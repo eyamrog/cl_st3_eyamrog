@@ -1,0 +1,14 @@
+AI competitions have been an effective approach to crowd source
+the development of performant algorithms . Despite their effectiveness in
+facilitating innovation, competitions still tend to suffer from a set
+of limitations. Validation of the resulting algorithms has typically not
+been performed independently of the algorithm developers. In a competitive
+setup, the incentive for conscious or subconscious introduction of positive
+bias by the developers is arguably further increased, and a
+lack of independent validation also means that the technical reproducibility
+of the proposed solutions is not verified. Moreover, competitions have
+typically not been followed up by validation of the algorithms
+on additional international cohorts, casting doubt on whether the resulting
+solutions possess the generalization capability to truly answer the underlying
+clinical problem, as opposed to being fine-tuned for a particular
+competition design and dataset .

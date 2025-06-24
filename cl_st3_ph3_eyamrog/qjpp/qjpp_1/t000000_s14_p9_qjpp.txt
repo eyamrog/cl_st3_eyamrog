@@ -1,0 +1,13 @@
+By considering the global proportion of each variant (as averaged
+across countries for which such data are available from the
+GISAID database , assuming wild-type has R 0 ≈ 2.2,
+Alpha variant has R 0 ≈ 4, Delta has R
+0 ≈ 6 and Omicron has R 0 ≈ 12),
+we may visualize the trend of increasing R 0 (Fig.
+4b ) and the associated level of infection up to
+that time. The relationship between total historic infections (blue) and
+the average basic reproductive number (red) is then used to
+realize the impact of varying infection levels on variant emergence
+in the simulations—relating a given level of historic infection to
+an average basic reproductive ratio due to the emergence of
+new variants (Fig. 4c ).

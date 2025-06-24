@@ -1,0 +1,12 @@
+Search results were imported into Covidence, a systematic review management
+software program, through which two authors reviewed all titles and
+abstracts for inclusion or exclusion on the basis of our
+research questions. A third author evaluated all conflicts and made
+final decisions for inclusion. Of all the studies identified through
+title and abstract review, 129 articles were identified for a
+full text review. The entire authorship team collaborated in conducting
+the full text review, and each excluded study was confirmed
+for exclusion by a minimum of two authors. Reasons for
+exclusion included wrong outcomes, wrong comparators, not original research, wrong
+patient population, and duplicate research. Ultimately, 65 studies were identified
+for inclusion in our analysis.

@@ -1,0 +1,23 @@
+The quality of life component in equation (1) was defined
+as follows: Step 1. (3a) q u a l i
+t y i j t = β i 1 +
+∑ d = 1 9 β i ( d +
+1 ) * W O O P d o m
+a i n i j t d in which β
+i denotes a respondent-specific parameter vector that captures the importance
+of the nine WOOP domains ( i . e .
+β i ( 2 − 10 ) ) relative to
+each other and to perfect well-being (i.e., excellent levels in
+all domains, captured by the β i 1 intercept), and.
+Step 2. (3b) W O O P d o m
+a i n i j t d = ∑ l
+= 1 5 γ d l ∗ X i j
+t d l . in which γ d denotes a
+WOOP domain-specific parameter vector that measures the relative importance of
+levels 2, 3 and 4 relative to levels 1 and
+5 of each WOOP domain, subject to the constraints that
+γ d 1 ≡ 0 and γ d 5 ≡
+1 for identification, and where X i j t d
+denotes a dummy-coded vector that equals 1 for the level
+at which each WOOP domain was presented to the respondent
+in the specific choice task, and 0 otherwise.

@@ -1,0 +1,24 @@
+Primary outcome was PFS according to local investigator. Secondary outcomes
+were OS, best ORR and CRR, DOR and safety. Response
+was assessed according to the Lugano 2014 criteria, based on
+fluoro-deoxyglucose positron emission tomography (FDG-PET) at the approximate following timepoints:
+1 month, 3 months, 6 months and 12 months after
+CAR T infusion . Best response rate was considered. For
+all survival endpoints, survival was calculated from the date of
+CAR T infusion unless otherwise specified (that is, survival from
+CAR T order). PFS was defined from the date of
+CAR T infusion to the date of first documented relapse,
+progressive disease, date of last follow-up or death from any
+cause, whichever came first. OS was defined from the date
+of CAR T infusion or CAR T order to the
+date of death from any cause or the date of
+last follow-up. DOR was defined from the date of first
+response (partial or complete) to the date of first documented
+relapse, date of last follow-up or death from any cause,
+whichever came first. Hematological toxicity was graded according to the
+National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE,
+version 5.0). Hematological toxicity was reported in patients without initiation
+of a new treatment for progression or relapse after CAR
+T infusion. CRS and ICANS were graded according to the
+consensus criteria from the American Society for Transplantation and Cellular
+Therapy (ASTCT) .

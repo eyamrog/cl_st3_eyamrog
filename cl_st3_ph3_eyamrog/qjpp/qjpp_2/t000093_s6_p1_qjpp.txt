@@ -1,0 +1,22 @@
+Cells feature a rich diversity of membraneless condensates, each of
+which embodies numerous components and coexists with distinct liquid-like compartments
+(“multiphases”) ( Banani et al., 2017; Mao et al., 2011;
+Nizami et al., 2010; Shin and Brangwynne, 2017 3. Banani,
+S.F. ∙ Lee, H.O. ∙ Hyman, A.A. ... Biomolecular condensates:
+organizers of cellular biochemistry Nat. Rev. Mol. Cell Biol. 2017;
+18 :285-298 Crossref Scopus (834) PubMed Google Scholar 59. Mao,
+Y.S. ∙ Zhang, B. ∙ Spector, D.L. Biogenesis and function
+of nuclear bodies Trends Genet. 2011; 27 :295-306 Full Text
+Full Text (PDF) Scopus (352) PubMed Google Scholar 69. Nizami,
+Z. ∙ Deryusheva, S. ∙ Gall, J.G. The Cajal body
+and histone locus body Cold Spring Harb. Perspect. Biol. 2010;
+2 :a000653 Crossref Scopus (136) PubMed Google Scholar 89. Shin,
+Y. ∙ Brangwynne, C.P. Liquid phase condensation in cell physiology
+and disease Science. 2017; 357 Crossref Scopus (559) PubMed Google
+Scholar ). This spatiotemporally dynamic intracellular emulsion reflects the self-assembly
+output from complex networks of biomolecular interactions. What mechanism might
+account for multiphase patterning and how is molecular specificity of
+each condensate encoded? In this work, we have combined biochemical
+and quantitative intracellular reconstitution approaches with concepts from patchy colloids
+to introduce a biophysical framework whereby competing RNA-protein networks control
+multiphase condensation ( Figure 7 ).

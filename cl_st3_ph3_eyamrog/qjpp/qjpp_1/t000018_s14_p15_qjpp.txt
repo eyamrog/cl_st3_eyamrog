@@ -1,0 +1,6 @@
+Cell type composition scores were estimated for each resection sample
+using the xCellAnalysis function from the xCell package . Correlations
+between module eigengenes and the derived cell type scores were
+visualized for all cell types scored in >25% of samples,
+and used to infer the cell types represented by modules
+within the whole-tissue data (discovery cohort).

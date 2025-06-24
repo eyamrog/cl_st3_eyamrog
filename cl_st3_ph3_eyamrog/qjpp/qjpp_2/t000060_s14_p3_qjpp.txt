@@ -1,0 +1,12 @@
+The analysis used data from the ten waves spanning the
+period from 2011 to 2020 ( appendix p 3 ).
+Observations with missing information on the outcome variable (mainly due
+to non-return of the SCQ) and from those no longer
+part of the in-scope population (moved to a very remote
+region or non-private dwelling) were excluded. The sample was also
+limited to respondents who provided data during 2020 and on
+at least one previous occasion. An analysis of selected respondent
+characteristics revealed only minor differences between this analytical sample and
+the larger sample ( appendix p 6 ). Furthermore, these
+differences were largely eliminated after the application of the appropriate
+population weight.

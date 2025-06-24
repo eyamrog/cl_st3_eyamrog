@@ -1,0 +1,19 @@
+IPTW was used as another statistical approach to allow for
+outcome comparison between patients treated with axi-cel and patients treated
+with tisa-cel. In the IPTW method, the weight for each
+patient is calculated by inverting the probability of receiving the
+treatment the patient actually receives. PSM and IPTW rely on
+different statistical matching approaches, provide different information and should be
+interpreted differently. The first one (PSM) allows for assessing average
+treatment effect for the treated (ATT), whereas the other (IPTW
+with the weighting technique used here) provides estimation of the
+average treatment effect (ATE). The first gives the average effect
+of treatment on those patients who ultimately received one CAR
+T versus the other, whereas the second provides the average
+effect of theoretically moving the entire population from receiving one
+CAR T to the other. For IPTW, the exact same
+covariates as for PSM were used for the logistic regression
+model to calculate the propensity of receiving one of the
+CAR T products versus the other. Methodology underlying propensity-score-based matched
+comparisons and differences with adjustment approaches have been reviewed elsewhere
+.

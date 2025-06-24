@@ -1,0 +1,21 @@
+CUT&RUN DNA library was prepared as previously descried ( Liu
+et al., 2018 46. Liu, N. ∙ Hargreaves, V.V. ∙
+Zhu, Q. ... Direct Promoter Repression by BCL11A Controls the
+Fetal to Adult Hemoglobin Switch Cell. 2018; 173 :430-442.e17 Full
+Text Full Text (PDF) Scopus (106) PubMed Google Scholar )
+with slight modifications. Briefly, all DNA precipitated from pA-MN digestion
+was used for library preparation using NEBNext Ultra II DNA
+Library Prep Kit (NEB). The adaptor was diluted to 1:25
+for adaptor ligation. DNA was barcoded and amplified for 14
+PCR cycle, and DNA library was cleaned up by AMPure
+XP beads ( Liu et al., 2018 46. Liu, N.
+∙ Hargreaves, V.V. ∙ Zhu, Q. ... Direct Promoter Repression
+by BCL11A Controls the Fetal to Adult Hemoglobin Switch Cell.
+2018; 173 :430-442.e17 Full Text Full Text (PDF) Scopus (106)
+PubMed Google Scholar ). The library quality was checked with
+Qubit and bioanalyzer, and the quantity of the library was
+determined by qPCR using NEBNext Library Quant Kit for Illumina
+(NEB) according to manufacture’s instruction. Eighteen barcoded libraries were pooled
+at equal molarity and sequenced in the NextSeq 550 platform
+with NextSeq 500/550 High Output Kit (75 cycles) v2.5 kit.
+Paired-end sequencing was carried out (42:6:0:42).

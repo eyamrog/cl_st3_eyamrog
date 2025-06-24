@@ -1,0 +1,15 @@
+A whole-genome alignment (WGA) between R. pubera , R. tenuis
+, R. breviuscula , J. effusus , and C. littledalei
+was generated using the Cactus pipeline (Version 1.0) ( Paten
+et al., 2011 74. Paten, B. ∙ Earl, D. ∙
+Nguyen, N. ... Cactus: algorithms for genome multiple sequence alignment
+Genome Res. 2011; 21 :1512-1528 Crossref Scopus (138) PubMed Google
+Scholar ). Prior to the alignment step, all nucleotide sequences
+were 20-kmer-softmasked to reduce complexity and facilitate construction of the
+WGA using the tallymer subtools from the genome tools package
+(Version 1.6.1) ( Kurtz et al., 2008 48. Kurtz, S.
+∙ Narechania, A. ∙ Stein, J.C. ... A new method
+to compute K-mer frequencies and its application to annotate large
+repetitive plant genomes BMC Genomics. 2008; 9 :517 Crossref Scopus
+(186) PubMed Google Scholar ). The Cactus pipeline was run
+stepwise with the default settings described at https://github.com/ComparativeGenomicsToolkit/cactus#running-step-by-step .

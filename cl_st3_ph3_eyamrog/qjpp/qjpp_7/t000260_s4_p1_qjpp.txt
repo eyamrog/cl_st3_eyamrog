@@ -1,0 +1,4 @@
+We have shown how three SDs potentially impact the transmission
+dynamics and severity of COVID-19 across different countries and indicated
+how these conditions could be integrated into standard SIR-type modelling
+of the disease.

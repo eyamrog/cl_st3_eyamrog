@@ -1,0 +1,8 @@
+For studies that reported effects of active case-finding on tuberculosis
+prevalence we extracted the size of intervention population, number of
+people screened for tuberculosis during active case-finding, method of tuberculosis
+screening, number of people in the prevalence survey or surveys,
+definition of a tuberculosis case, and numbers of people with
+tuberculosis disease. We reported summary measures of the effect of
+active case-finding on tuberculosis prevalence and uncertainty intervals as reported
+within the studies.

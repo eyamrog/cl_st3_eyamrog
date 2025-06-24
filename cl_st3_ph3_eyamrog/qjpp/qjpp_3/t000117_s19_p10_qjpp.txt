@@ -1,0 +1,10 @@
+To further investigate how aIC Fezf2 neurons acquire anticipatory signals
+and participate in establishing motivated actions, we sought to image
+the activity of these neurons during learning in a “go/no-go”
+task ( Figure 2 A). In the “go” trials of
+this task, a sound (CS SU ) indicated that sucrose
+would be delivered, but only if mice licked the spout
+during a decision window (“hit”). In the “no-go” trials, another
+sound (CS QU ) announced that quinine would be delivered,
+but mice could avoid it by withholding licking in the
+decision window (“correct rejection” [CR]) ( Figure 2 A).

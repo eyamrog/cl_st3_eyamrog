@@ -1,0 +1,22 @@
+The repeat-based holocentromeres of the Rhynchospora species analyzed here are
+almost exclusively composed of Tyba repeats. We cannot conclude from
+the available data whether the accumulation of such repeats triggered
+the transition to holocentricity or whether CENH3 spreading preceded and/or
+also facilitated the subsequent expansion of holocentromeric repeats. However, we
+did demonstrate that a portion of Tyba arrays in R.
+pubera emerged in the genome as a result of the
+amplification of TCR1 -type Helitron s and that most (98.7%)
+full-length TCR1 elements possessing Tyba are associated with CENH3-bound chromatin.
+This either indicates that centromere units are at least partially
+determined genetically by the nucleotide sequence of Tyba or that
+TCR1 transposition involves the transfer of epigenetic centromere marks, e.g.,
+CENH3, which remain associated with the new copy of the
+element. The presence of tandem repeats within Helitron s is
+common in both plants and animals ( Thomas and Pritham,
+2015 97. Thomas, J. ∙ Pritham, E.J. Helitrons, the eukaryotic
+rolling-circle transposable elements Microbiol. Spectr. 2015; 3 Crossref Scopus (50)
+PubMed Google Scholar ), but TCR1 is unique because it
+possesses a centromeric satellite. The lack of Tyba repeats in
+TCR1 -related elements in R. breviuscula and R. tenuis suggests
+that Tyba was captured by TCR1 after the ancestors of
+R. pubera and the two other Rhynchospora species diverged.

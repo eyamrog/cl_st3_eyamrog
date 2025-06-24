@@ -1,0 +1,22 @@
+Cellular immunity is critical for controlling intracellular pathogens, but individual
+cellular dynamics and cell–cell cooperativity in evolving human immune responses
+remain poorly understood. Single-cell RNA-sequencing (scRNA-seq) represents a powerful tool
+for dissecting complex multicellular behaviors in health and disease and
+nominating testable therapeutic targets . Its application to longitudinal samples
+could afford an opportunity to uncover cellular factors associated with
+the evolution of disease progression without potentially confounding inter-individual variability
+. Here, we present an experimental and computational methodology that
+uses scRNA-seq to characterize dynamic cellular programs and their molecular
+drivers, and apply it to HIV infection. By performing scRNA-seq
+on peripheral blood mononuclear cells from four untreated individuals before
+and longitudinally during acute infection , we were powered within
+each to discover gene response modules that vary by time
+and cell subset. Beyond previously unappreciated individual- and cell-type-specific interferon-stimulated
+gene upregulation, we describe temporally aligned gene expression responses obscured
+in bulk analyses, including those involved in proinflammatory T cell
+differentiation, prolonged monocyte major histocompatibility complex II upregulation and persistent
+natural killer (NK) cell cytolytic killing. We further identify response
+features arising in the first weeks of infection, for example
+proliferating natural killer cells, which potentially may associate with future
+viral control. Overall, our approach provides a unified framework for
+characterizing multiple dynamic cellular responses and their coordination.

@@ -1,0 +1,7 @@
+We next quantified the presence of neutrophils, stromal cells and
+MNPs in situ in resected inflamed tissue from patients with
+IBD (Fig. 3f ). Again, inflamed IBD tissues with high
+expression of M4 and M5 (see Extended Data Fig. 5f
+for classification) demonstrated a higher percentage of neutrophil elastase (NE)-
+and calprotectin (S100A8/A9)-positive cells, but not PDPN-positive stromal cells or
+CD68 MNPs (Fig. 3g ).

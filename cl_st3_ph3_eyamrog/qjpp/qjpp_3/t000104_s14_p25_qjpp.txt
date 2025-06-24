@@ -1,0 +1,12 @@
+For migration assays, 4 × 10 4 MDA-MB-231 cells in
+40 μl of medium containing 0.5% FBS were plated into
+the upper chambers of 24-well inserts with 8 μm pores
+(Trevigen no. 3484-024-01). Bottom wells contained 360 μL of medium
+supplemented with 10% PBS. After 24 hr, cells were fixed
+with cold methanol for 20 min. Non-migrating cells that remained
+in the upper chamber were gently removed using a cotton
+swab and cells that migrated to the bottom chambers were
+stained with 1% crystal violet. Invasion assays were performed using
+well inserts pre-coated with basement membrane (medium density). For both
+experiments, cells that migrated to the bottom chambers were quantified
+by imaging 4 randomly selected fields.

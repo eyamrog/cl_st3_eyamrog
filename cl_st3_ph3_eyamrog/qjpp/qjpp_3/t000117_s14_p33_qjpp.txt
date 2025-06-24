@@ -1,0 +1,20 @@
+To assess the temporal relationship between the onset of behavioral
+licking response and the onset of neuronal response, for each
+neuron, we calculated the z-scored neuronal activity at each time
+point and averaged the values across all trials; for the
+licking response, we calculated the licking rate at each time
+point (bin = 50 ms) and averaged the values across
+all trials. Next, we applied the change-point analysis ( Gallistel
+et al., 2004 23. Gallistel, C.R. ∙ Fairhurst, S. ∙
+Balsam, P. The learning curve: implications of a quantitative analysis
+Proc. Natl. Acad. Sci. USA. 2004; 101 :13124-13131 Crossref Scopus
+(410) PubMed Google Scholar ; Paton et al., 2006 54.
+Paton, J.J. ∙ Belova, M.A. ∙ Morrison, S.E. ... The
+primate amygdala represents the positive and negative value of visual
+stimuli during learning Nature. 2006; 439 :865-870 Crossref Scopus (725)
+PubMed Google Scholar ) on these data to determine the
+time point at which the neuronal or behavioral response significantly
+changed (i.e., the change-point) following the presentation of CS. We
+repeated this for all neurons showing excitatory responses and calculated
+the difference between behavioral and neuronal change-points as the response
+delay for each neuron.

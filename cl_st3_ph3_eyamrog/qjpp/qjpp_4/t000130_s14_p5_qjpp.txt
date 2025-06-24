@@ -1,0 +1,14 @@
+HeLa, N2A, SY5Y and SY5Y:GFP ( Delloye-Bourgeois et al., 2017
+29. Delloye-Bourgeois, C. ∙ Bertin, L. ∙ Thoinet, K. ...
+Microenvironment-Driven Shift of Cohesion/Detachment Balance within Tumors Induces a Switch
+toward Metastasis in Neuroblastoma Cancer Cell. 2017; 32 :427-443.e8 e8
+Full Text Full Text (PDF) Scopus (45) PubMed Google Scholar
+) NB cell lines were cultured in Dulbecco’s Modified Eagle
+Medium (DMEM) GlutaMAX (Life Technologies). Media were each supplemented with
+10% Fetal Bovine Serum (FBS), 25 U/mL Penicillin Streptomycin (Gibco),
+2.5 μg/mL Amphotericin B (Sigma-Aldrich). K562 suspension cells were cultured
+in RPMI-1640 media supplemented with 10% FBS and 5% L-Glutamine.
+HEK293T and HEK293S cells were cultures in DMEM (Life Technologies)
+supplemented with 10% FBS, 5% L-Glutamine and 5% Non-Essential Amino
+Acids. Cell lines were maintained in sterile conditions in a
+37°C, 5% CO2-incubator.

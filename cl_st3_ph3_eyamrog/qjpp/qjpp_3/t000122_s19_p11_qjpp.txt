@@ -1,0 +1,16 @@
+The broad specificity and neutralization capacity of 1C3 and 1C11,
+coupled with their asymmetric binding footprints and likely mechanisms of
+complementary interaction, suggested that they could together serve as an
+effective therapeutic against EBOV and SUDV. We first evaluated the
+protective efficacy of these antibodies individually in the laboratory mouse
+model of EVD. Mice were treated with 1C3 or 1C11
+24 h prior to exposure via the intraperitoneal (IP) route
+with 100 plaque-forming units (PFU) of mouse-adapted EBOV. We chose
+pre-treatment in the mouse model to confirm that the mAbs
+had in vivo protective efficacy before moving to more stringent
+post-infection treatment regimens in larger animal models. A human IgG1
+antibody (specific for influenza A virus) was used as a
+control. In mice, 1C3 and 1C11 provided 90%–100% protection from
+death when administered at a dose of 25 μg or
+higher, as compared to 10% survival in animals given no
+treatment or given a control ( Figure 5 A).

@@ -1,0 +1,12 @@
+The pan-cancer gene expression and patient annotation datasets of TCGA
+were retrieved from the Genomic Data Commons (GDC) of the
+National Cancer Institute ( https://gdc.cancer.gov/ ) ( Thorsson et al.,
+2018 63. Thorsson, V. ∙ Gibbs, D.L. ∙ Brown, S.D.
+... The Immune Landscape of Cancer Immunity. 2018; 48 :812-830
+Full Text Full Text (PDF) Scopus (3361) PubMed Google Scholar
+). Sample-wise gene set activities of different pathways were calculated
+in GSVA using the “ssGSEA” method, and signature scores of
+different types of immune cells were calculated in GSVA using
+the “z-score” method. Spearman correlation and multiple testing corrections were
+done in R 3.5. GSEA analysis was performed using the
+GSEA v3.0 desktop application.

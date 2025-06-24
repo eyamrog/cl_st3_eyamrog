@@ -1,0 +1,14 @@
+The second exception to the aforementioned prediction is that maxillary
+shape is more distinct between Gorilla subspecies than between Pan
+species ( Fig. 2 B), illustrating that the degree of
+subspecific and interspecific differentiation varies even between closely related taxa
+( Albrecht and Miller, 1993 ). This result matches the
+pattern shown by the supraorbital morphology ( White et al.,
+2020 ), but other craniodental research found Gorilla subspecies to
+be more similar than Pan species ( Groves, 1967 ,
+1970b ; Shea and Coolidge, 1988 ; Guy et al.,
+2003 ; Taylor and Groves, 2003 ; Pilbrow, 2007 ).
+Such contrasting results may reflect differences in morphology assessed and
+methods used. For example, here and in the study by
+White et al. (2020) , variation was quantified on the
+basis of Procrustes distances, but Mahalanobis distances were used elsewhere.

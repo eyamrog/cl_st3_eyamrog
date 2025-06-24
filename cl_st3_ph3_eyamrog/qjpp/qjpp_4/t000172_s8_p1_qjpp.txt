@@ -1,0 +1,17 @@
+Cytomegalovirus (CMV) infection persists throughout an individual's lifetime in a
+subclinical (i.e., latent) state, but immunosenescence can lead to periods
+of CMV reactivation, which in turn can accelerate immunosenescent processes
+and potentially drive a variety of downstream diseases of aging
+(e.g., cardiovascular disease, rheumatoid arthritis) (Aiello et al., 2017 ).
+Evidence suggests that the effect of CMV on immunosenescence may
+be compounded by co-infection with other herpesviruses, because co-infection is
+associated with greater cellular aging (Dowd et al., 2017 ).
+Co-infection with Epstein-Barr virus (EBV) is of particular interest because
+it is associated with higher inflammation (Bennett et al., 2012
+), which is a key component of immunosenescence (Franceschi et
+al., 2000 ). Although chronic inflammation is a widespread health
+concern in high-income settings, it is not universal across human
+populations (McDade et al., 2012 ). Therefore, studying age-related patterns
+of CMV and EBV antibodies in populations with low inflammation
+will further understanding of immunosenescence and local immune-related chronic disease
+risk.

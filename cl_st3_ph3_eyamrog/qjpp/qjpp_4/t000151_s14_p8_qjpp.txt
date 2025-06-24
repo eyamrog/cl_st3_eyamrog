@@ -1,0 +1,16 @@
+All predictors were modeled with priors defined by Cauchy distributions
+with a width of 2.5 (the default used by Rstanarm
+). A Cauchy distribution was used as its 'heavy tails'
+make it relatively robust to outliers, which are common in
+hormonal data (Pollet & van der Meij, 2017 ). A
+width of 2.5 represents no strong expectations about the direction
+and size of the effect, often referred to as 'weakly
+informative priors' (Lemoine, 2019 ). The large amount of data
+is highly likely to overwhelm all but the strongest priors
+(Kruschke, 2013 ). Indeed, reducing the prior distribution width by
+two orders of magnitude to 0.025 (reflecting massively increased expectation
+that the effect is near 0) did not change results
+noticeably. I report the median of the posterior distribution (similar
+in practice to a regression beta coefficient) and 95% highest
+density intervals (HDI), which represent the interval that we can
+be 95% certain contains the population coefficient, given the data.

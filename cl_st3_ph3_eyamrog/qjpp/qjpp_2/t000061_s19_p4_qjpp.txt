@@ -1,0 +1,12 @@
+An association between early-life care and adult mortality that was
+significant at conventional levels persisted across all population subgroups (
+figure 3 ). Although mortality rates were similarly elevated by
+sex, region, and exposure ascertainment, there were more marked differentials
+for high-quality studies (3·13 [2·35–4·18]) than for low-quality studies (1·76
+[1·36–2·27]), and for those with short-term follow-up (3·07 [2·11–4·48]) than
+for those with long-term follow-up (1·62 [1·17–2·25]). The greatest differential
+in effect estimate—and the only null result—was apparent for studies
+that sampled war-era evacuees (1·06 [0·99–1·14]) compared with those that
+did not (2·69 [2·06–3·51]). This finding also explains the lack
+of a care–death association in study members born in 1933–52,
+which is entirely comprised of these two evacuee-based studies.

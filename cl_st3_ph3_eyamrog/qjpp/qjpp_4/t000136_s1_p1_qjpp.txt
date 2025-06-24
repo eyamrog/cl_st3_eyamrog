@@ -1,0 +1,8 @@
+Objectives: Plasticity in the growth of body segments between populations
+has been researched in relation to migration, temporal change and
+high-altitude studies. We study the within population variation in body
+segments, thus controlling for some of the environmental and genetic
+differences that could be at play in between populations studies.
+We test a version of the thrifty phenotype hypothesis, where
+the growth of head-trunk and hand are prioritized due to
+their functional significance over height and leg growth.

@@ -1,0 +1,13 @@
+Using this standardized protocol, each 5-min acquisition was able to
+add (on average) 10-data points (i.e., cells) to a phase
+diagram. Thus, an average phase diagram reported in this study
+required collection of 20-30 fields or ~2-3 h of data
+acquisition time. Typically, an individual phase diagram was compiled from
+data collected over the course of 3-5 experiments (i.e., different
+lentivirus transductions on different days). However, certain phase diagrams featured
+data from significantly more experiments (e.g., G3BP1ΔNTF2 Corelets, a condition
+used as a positive control for effects of drug treatments
+throughout studies, which ensured reliability of data). Throughout the duration
+of the study, there was no indication of systematic changes
+with respect to drug response, drug efficacy, measurement of fluorescence
+intensities, or phase diagram threshold shifts.

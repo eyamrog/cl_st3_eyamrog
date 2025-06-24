@@ -1,0 +1,14 @@
+We previously identified and characterized individual anti-EBOV mAbs that emerged
+in human survivors of the 2013–2016 EVD outbreak within the
+first year post-infection ( Davis et al., 2019 11. Davis,
+C.W. ∙ Jackson, K.J.L. ∙ McElroy, A.K. ... Longitudinal Analysis
+of the Human B Cell Response to Ebola Virus Infection
+Cell. 2019; 177 :1566-1582.e17 Full Text Full Text (PDF) Scopus
+(114) PubMed Google Scholar ). For this study, we examined
+later samples from the same patient cohort. We identified two
+mAbs, 1C3 and 1C11, that asymmetrically recognize the EBOV GP
+trimer, potently neutralize diverse ebolaviruses, individually protected laboratory mice and
+domesticated guinea pigs, and together protected cynomolgus macaques from SUDV
+infection and rhesus monkeys from EBOV infection. Using cryogenic electron
+microscopy (cryo-EM), we explain the structural basis for the broad
+reactivity of these antibodies.

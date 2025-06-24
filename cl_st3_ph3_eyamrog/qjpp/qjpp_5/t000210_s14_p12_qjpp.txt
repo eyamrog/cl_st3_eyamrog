@@ -1,0 +1,15 @@
+We fit a linear mixed-effect model with the dependent variable
+of SG-corrected cortisol concentration of urine samples and a main
+predictor of the weaning category with four levels (early ontogeny,
+year before sibling birth, year after sibling birth, and late
+ontogeny) in interaction with species and sex. As age is
+correlated with the weaning stage, we did not include age
+as a predictor in this model. However, the rest of
+the model was the same in structure as our first
+model, therefore including collection time and seasonal variation control variables.
+Again, we included random effects of individual identity, community and
+mother identity, and a maximal random slope structure. This resulted
+in random slopes of collection time and seasonality variables included
+within individual identity, within community, and within mother identity; random
+slopes of the weaning category within individual and mother identity;
+and random slopes of sex within mother identity.

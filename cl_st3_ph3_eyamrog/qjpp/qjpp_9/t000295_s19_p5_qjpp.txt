@@ -1,0 +1,5 @@
+A random forest model was also generated with the following
+code: rf<cforest(Construction∼HeadNPAnimacy+HeadNPLength+HeadNPMatRole+HeadNPRelRole+RCLength+NLType+CHProficiency,data=construction,controls =cforest_unbiased (ntree=1000, mtry = 3)). a<-varimp (rf,conditional=TRUE) dotchart
+(sort(a),main= ‘conditional importance of variables’) After executing the code above,
+the variables’ conditional importance could be visualised in Figure 2
+.

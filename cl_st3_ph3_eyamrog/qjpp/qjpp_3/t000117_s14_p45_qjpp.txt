@@ -1,0 +1,13 @@
+Statistical analyses were performed using MATLAB or a commercial software
+(GraphPad Prism; GraphPad Software, CA). The statistical test used for
+each comparison is indicated when used. Analysis of variance (ANOVA)
+was used to check for main effects and interactions in
+experiments with repeated-measures and more than one factor. When main
+effects or interactions were significant, we did the planned comparisons
+according to experimental design (for example, comparing laser on and
+off conditions). All comparisons were two tailed. Threshold for significance
+was placed at ∗ p < 0.05, ∗∗ p <
+0.01, ∗∗∗ p < 0.001 and ∗∗∗∗ p < 0.0001.
+The box-and-whisker plots indicate median, first and third quartiles, and
+min and max values. All data are shown as mean
+± standard error of the mean (SEM) unless stated otherwise.

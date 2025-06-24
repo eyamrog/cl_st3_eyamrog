@@ -1,0 +1,20 @@
+Because PT neurons are specified by the master transcription factor
+forebrain expressed zinc finger 2 (Fezf2) ( Harris and Shepherd,
+2015 29. Harris, K.D. ∙ Shepherd, G.M. The neocortical circuit:
+themes and variations Nat. Neurosci. 2015; 18 :170-181 Crossref Scopus
+(661) PubMed Google Scholar ; Lodato et al., 2014 43.
+Lodato, S. ∙ Molyneaux, B.J. ∙ Zuccaro, E. ... Gene
+co-regulation by Fezf2 selects neurotransmitter identity and connectivity of corticospinal
+neurons Nat. Neurosci. 2014; 17 :1046-1054 Crossref Scopus (90) PubMed
+Google Scholar ), we used a Fezf2 - CreER knockin
+mouse driver—that expresses the inducible Cre recombinase (CreER) under the
+control of endogenous Fezf2 promoter—to target PT neurons in the
+aIC. We injected the aIC of Fezf2 - CreER mice
+with an adeno-associated virus (AAV) expressing GFP in a Cre-dependent
+manner ( Figure S1 A), followed by tamoxifen induction. We
+observed dense axon fibers originating from the labeled aIC PT
+neurons—hereafter referred to as aIC Fezf2 neurons—in brainstem areas (including
+the NTS and parabrachial nucleus [PBN]) and the thalamus (
+Figures S1 B–S1F). There were also moderate to sparse fibers
+in forebrain areas, including the striatum, parasubthalamic nucleus, amygdala, and
+posterior IC ( Figures S1 G–S1K).

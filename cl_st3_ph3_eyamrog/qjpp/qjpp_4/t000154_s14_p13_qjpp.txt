@@ -1,0 +1,18 @@
+Since we expected that the nutritional deficit in boys compared
+to girls would be larger when the mother is undernourished,
+we conducted sensitivity analyses by maternal nutritional status, for anthropometric
+z -scores (LAZ, WLZ, and HCAZ) at 0 to 8
+days. We limited these analyses to the first 8 days
+of life since the nutritional status of the newborn is
+almost entirely attributable to the nutrients gained in utero at
+this time, whereas nutritional status at older ages is also
+influenced by other factors. We fitted separate models for children
+of (a) all mothers and of mothers who were (b)
+short stature (<145 cm), (c) ≥145 cm height, (d) underweight
+(<18.5 kg/m 2 ), and (e) not underweight ( ≥18.5
+kg/m 2 BMI). To test for differential effects of sex
+by maternal nutritional status, we also fitted models for LAZ,
+WLZ, and HCAZ using all available cases from 0 to
+8 days with interaction terms [child sex * maternal underweight
+(BMI <18.5 kg/m 2 )] or [child sex * short
+stature (height <145 cm)].

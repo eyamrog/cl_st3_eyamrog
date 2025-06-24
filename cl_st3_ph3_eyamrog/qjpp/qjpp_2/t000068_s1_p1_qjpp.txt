@@ -1,0 +1,6 @@
+Background: Polymer-free drug-coated stents provide superior clinical outcomes to bare-metal
+stents in patients at high bleeding risk who undergo percutaneous
+coronary intervention (PCI) and are treated with 1 month of
+dual antiplatelet therapy. Data on the use of polymer-based drug-eluting
+stents, as compared with polymer-free drug-coated stents, in such patients
+are limited.

@@ -1,0 +1,12 @@
+Many learner corpora are generally small, especially in the case
+of self-compiled corpora, comprising only tens of thousands of words.
+A number of limitations are inherent in these corpora. One
+of the reasons why in many studies the size of
+learner data is rather small is that the data is
+collected by individual researchers from classrooms, exams or assignments. There
+can also be various different factors (i.e., corpus design, size
+and proficiency level) involved in data collection, which requires an
+enormous amount of time and effort on the part of
+the researcher. Therefore, in the matter of corpus building, we
+have to move from self-compilation to more systematic and large-scale
+construction.

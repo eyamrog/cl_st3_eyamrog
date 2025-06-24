@@ -1,0 +1,8 @@
+Complementing these public health and institutional indicators are a vector
+of macroeconomic and country specific indicators plausibly correlated with the
+stringency of the lockdown, a complete list of which is
+given in Appendix A . Given that much of the
+data used here is available solely on an annual basis,
+the macroeconomic/country variables show values current as of the last
+available annual datapoint, either 2019 or 2018 (or in a
+very few instances, 2017).

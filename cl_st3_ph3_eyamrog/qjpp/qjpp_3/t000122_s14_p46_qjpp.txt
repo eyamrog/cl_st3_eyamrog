@@ -1,0 +1,15 @@
+In ebolavirus glycoprotein variant ELISA, EC 50 values were calculated
+using Prism 9.0 (GraphPad) after using sigmoidal dose-response nonlinear regression
+analysis. Neutralization half-maximal inhibitory concentration (IC 50 ) titers for
+neutralization assay using recombinant vesicular stomatitis virus (rVSV) were calculated
+using non-linear regression [inhibitor] versus normalized response curve fit using
+Prism 9.0 (GraphPad). In mouse studies, survival curves were estimated
+using the Kaplan-Meier method. In mouse BDBV challenge studies, each
+group was compared with PBS control (Mantel-Cox test) and one-way
+analysis of variance (ANOVA) with Dunnett correction was used for
+multiple comparisons between each group and PBS mock control. In
+guinea pig studies, statistical analyses and generation of graphs were
+performed using Prism 6.05 (GraphPad). Guinea pig survival data were
+analyzed by log-rank (Mantel-Cox) test. One-way analysis of variance (ANOVA)
+was used for statistical analysis of viremia levels. In NHP
+studies, survival curves were estimated using the Kaplan-Meier method.

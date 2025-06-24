@@ -1,0 +1,10 @@
+In line with the conceptual framework of time-preference corrected QALY
+tariffs (see Jonker et al., 2018a ), the utility derived
+by individual i for well-being state j in choice task
+t was defined as the product of the quality of
+life of the well-being state and the net present value
+(NPV) of the number of years lived in that well-being
+state, or: (1) U i j t = q u
+a l i t y i j t ∗ N
+P V ( y e a r s ) i
+j t + ε i j t

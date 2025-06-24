@@ -1,0 +1,19 @@
+There were two co-primary endpoints. The occurrence of adverse reactions
+within 28 d after boosting was evaluated as the primary
+endpoint for safety, while the GMT of neutralizing antibodies against
+live SARS-CoV-2 virus at 14 d after boosting was the
+primary immunogenic endpoint. Incidence of solicited adverse reactions within 14
+d, unsolicited adverse reactions within 28 d after boosting and
+serious adverse events reported during the 6-month study period were
+evaluated as secondary endpoints. Solicited adverse events were recorded by
+using a structured checklist in the participant diary card, while
+unsolicited adverse events were collected spontaneously ( Methods ). Receptor-binding
+domain (RBD)- and nucleocapsid (N)-specific immunoglobulin G (IgG) antibody responses
+at days 14 and 28 and T cell-secreted cytokines at
+day 14 after boosting were also evaluated as secondary endpoints.
+Neutralizing antibody titers against the Delta variant B.1.617.2 (live virus)
+and levels of IgG isotypes were measured as exploratory endpoints.
+The analysis of vaccine-induced antibody lineage development and B cell
+and T cell repertoires after vaccination are planned in the
+study protocol but are not completed yet. Here we report
+all collected data up to day 28 after vaccination.

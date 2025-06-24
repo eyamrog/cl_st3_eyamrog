@@ -1,0 +1,8 @@
+The fact that all three measurements of imitation performance (time
+to make a knot, attempts needed, and the correctness of
+the end result) are significantly better for matching handedness between
+model and imitator confirms our hypothesis and successfully replicates the
+results from the original experiment ( Michel and Harkins, 1985
+). As in their study, participants in the discordant condition
+were less often successful in the imitation and needed more
+time to learn a knot.

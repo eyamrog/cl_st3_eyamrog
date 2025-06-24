@@ -1,0 +1,25 @@
+Healthy human Peripheral Blood Mononuclear Cells (PBMCs) were isolated from
+20-30 mL of blood buffy coats from human volunteers (Blood
+Components Lab, Massachusetts General Hospital). All patient blood samples were
+collected under Institutional Review Board (IRB)-approved protocol by Massachusetts General
+Hospital (MGH) from patients that were enrolled in the “Prospective
+Registry in IBD Study at Massachusetts General Hospital (PRISM, IRB#
+FWA00003136) and genotyped by CD-risk SP140 SNPs rs28445040 and rs6716753
+Study research coordinators obtained consent and medical history and data
+was confirmed by review of the electronic medical record. Patient
+metadata is provided in Table S2 . Briefly, mononuclear cells
+were isolated by density gradient centrifugation of PBS-diluted buffy coat/blood
+(1:2) over Ficoll-Paque Plus (GE Healthcare). The PBMC layer was
+carefully removed and washed 3 times with PBS. In order
+to differentiate into macrophages, PBMCs were re-suspended in X-VIVO medium
+(Lonza) containing 1% penicillin/streptomycin (Gibco) and incubated at 37 o
+C, 5% CO 2 for 1h to adhere to the
+tissue culture dish. After 1h, adherent cells were washed 3
+times with PBS and differentiated in complete X-VIVO medium containing
+100 ng/mL human M-CSF (Peprotech) for 7 days at 37
+o C, 5% CO 2 . On day 4, cultures
+were supplemented with one volume of complete X-VIVO medium containing
+100 ng/mL human M-CSF. 1 million PBMCs or mature macrophages
+were plated and pretreated with DMSO, topotecan (100nM) or etoposide
+(25μM) for 1 hour prior to 0.1mg/mL LPS treatment for
+4 hours.

@@ -1,0 +1,7 @@
+We also examined whether inhibiting aIC Fezf2 neurons could influence
+valence processing, general body movements, or consumption. We found that,
+in a real-time place preference or aversion (RTPP/A) test, inhibition
+of aIC Fezf2 neurons did not cause preference or aversion;
+neither did it affect animals’ movement ( Figures S4 A–S4E).
+In addition, inhibiting aIC Fezf2 neurons did not affect ad
+libitum sucrose consumption ( Figures S4 F and S4G).

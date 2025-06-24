@@ -1,0 +1,13 @@
+This study analyzed formant trajectories from five back vowels in
+Southern American English, a speech variety with characteristically diphthongal vowels.
+Our data came from Linguistic Atlas interviews conducted as early
+as 1970 with generally older, rural individuals from across the
+American South, offering a unique look into an earlier stage
+of SAE. Though various methods of analyzing formant trajectories have
+been employed in previous studies, we modeled the trajectories directly
+by fitting the data with generalized additive mixed-effects models (or
+GAMMs). The results confirm the presence of back vowel fronting
+in the region, as well as the lack of the
+low back merger, and shed light on the relative timing
+of these changes. Though the vowels’ positions change in apparent
+time, there is relatively little change in their trajectory shapes.

@@ -1,0 +1,10 @@
+More particularly, the implemented modelling approach has the advantage that
+it reduces the number of respondent-specific parameters, allows for correlated
+preferences between the WOOP domains, and produces readily available estimates
+of the relative importance of the WOOP domains, while ensuring
+a logically consistent utility tariff. The modelling approach used here
+was more structured than the one used by Jonker et
+al. (2018a) , but a more parsimonious model structure was
+crucial considering the large descriptive system of the WOOP and
+the limited number of respondents relative to the number of
+utility decrements.

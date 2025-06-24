@@ -1,0 +1,21 @@
+aniPOND was performed as described ( Leung et al., 2013
+37. Leung, K.H.T. ∙ Abou El Hassan, M. ∙ Bremner,
+R. A rapid and efficient method to purify proteins at
+replication forks under native conditions Biotechniques. 2013; 55 :204-206 Crossref
+Scopus (51) PubMed Google Scholar ), with modifications. Briefly, MDA-MB-231
+cells (∼8.5 × 10 7 ) were cultured in medium
+containing 10 μM EdU for 30 min and then harvested
+or chased with medium containing 10 μM thymidine for 60
+min and harvested. Nuclei were isolated by addition of nuclear
+extraction buffer. Biotin-azide click reactions were performed on a rotator
+for 1 hr at 4°C, and 50 μL of streptavidin
+beads (Cell Signaling Technology no. 3419) were used for streptavidin
+capture for each sample. Beads were washed 3 × 10
+min and boiled in 1x SDS gel loading buffer prior
+to electrophoresis. For aniPOND analysis of FBXO44 binding to H3K9me3-modified
+nucleosomes, MDA-MB-231-Flag-FBXO44 cells (∼1.7 × 10 8 ) were incubated
+with 10 μM EdU for 30 min, harvested, subjected to
+biotin-azide click reactions, and chromatin sonicated prior to IP with
+IgG or anti-Flag antibody (Sigma-Aldrich no. F3165). Chromatin was eluted
+3x with Flag peptide solution (150 ng/μL) and subjected to
+affinity purification with streptavidin beads.

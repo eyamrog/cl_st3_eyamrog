@@ -1,0 +1,12 @@
+The rapid growth in the availability of large and often
+linked data sets ranging from administrative to genomic data and
+including high-dimensional social data of various types also creates opportunities
+for research in social epidemiology. Examples of this type of
+data include geographically referenced electronic health records, cell phone data
+on mobility, and policy or other contextual data. The use
+of these data sets can enhance the description of social
+patterning and thus yield new insights into how the social
+world affects health. It may also improve observational studies of
+social etiology by facilitating the identification of instrumental variables (
+52 ). Longitudinal big data may also create opportunities for
+the analysis of natural experiments.

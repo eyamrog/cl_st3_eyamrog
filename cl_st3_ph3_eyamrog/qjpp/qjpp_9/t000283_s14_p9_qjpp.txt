@@ -1,0 +1,7 @@
+For the statistical analysis, Bayesian linear (Gaussian) mixed-effects regression models
+with speaker and word as random intercepts were used (for
+further information about this type of analysis, see, e.g., Jackman
+2009 ; Kruschke 2015 ; McElreath 2016 ). Models were
+fitted using the R-package {brms} ( Bürkner 2019 ), which
+in turn uses the software Stan ( Stan Development Team
+2018 ). Table 3 lists all variables that were used.

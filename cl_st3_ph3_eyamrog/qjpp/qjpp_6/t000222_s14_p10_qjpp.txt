@@ -1,0 +1,25 @@
+For both the allometrically and isometrically adjusted shapes, we calculated
+the shape variation within each taxon as the distances between
+all possible specimen pairs from that taxon and then examined
+statistical significance using two-tailed Student's t-tests. The shape differences between
+two compared taxa were also determined for the allometrically and
+isometrically adjusted sets. To assess if the two sets differ
+significantly from each other in the degree of shape difference
+between taxa, we used the following procedure. First, we calculated
+the mean shape coordinates for each taxon. We then computed
+the components of the vector pointing from the mean shape
+of one taxon to the mean shape of the other
+taxon (mean shape vector), and from each specimen in one
+taxon to each specimen in the other taxon (specimen-pairs vectors),
+by subtracting the coordinates of one from the other. The
+dot products between each specimen-pair vector and the mean shape
+vector were then obtained by multiplying the corresponding components of
+each vector and taking their sum. Each dot product was
+subsequently divided by the magnitude of the mean shape vector,
+which is computed as the square root of the sum
+of squares of each component of that vector. This geometrical
+manipulation projects the specimen distances onto the mean shape axis,
+and statistical significance of mean shape distances after isometric and
+allometric adjustment can be assessed using pairwise t-tests. Mean shapes
+were then visualized to examine the effect of size on
+maxillary shape.

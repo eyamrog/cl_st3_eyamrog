@@ -1,0 +1,22 @@
+That five definitions of prediabetes are currently in clinical use
+presents a challenge in the field ( Table 1 ).
+Prevalence will vary widely depending on which definition is used
+and whether definitions are examined individually or combined ( 110
+). The various tests identify different people and have only
+moderate overlap, meaning that some people will be classified as
+having prediabetes by one definition but not by another. For
+example, among a sample of adults identified as having IGT,
+individuals in this group who also met criteria for having
+prediabetes defined by ADA-IFG, WHO-IFG, or HbA 1C of 5.7–6.4%
+were 58.2%, 23.4%, and 32.3%, respectively ( 50 ). Categories
+of HbA 1C used to define prediabetes (ADA 5.7–6.4% and
+IEC 5.5–6.4%) were chosen for their high specificity ( 20
+, 67 , 70 , 75 ) and will classify
+fewer individuals as having prediabetes and disproportionately capture those with
+higher fasting and 2-h glucose. An additional difficulty in estimating
+a population's prediabetes burden is that it is a biochemically
+defined condition. In populations without systematic surveys with probability sampling
+that includes blood draws and laboratory measurements of glucose or
+HbA 1C , it is challenging to accurately estimate the
+burden of prediabetes because most cases in the population are
+undiagnosed ( 65 ).

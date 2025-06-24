@@ -1,0 +1,10 @@
+The Cre-Reported Altered States of Heterochromatin (CRASH) assay was conducted
+essentially as described by Dodson and Rine ( Dodson and
+Rine, 2015 22. Dodson, A.E. ∙ Rine, J. Heritable capture
+of heterochromatin dynamics in Saccharomyces cerevisiae eLife. 2015; 4 :e05007
+Crossref Scopus (35) PubMed Google Scholar ). Naive and [
+ESI + ] CRASH haploids were grown in medium lacking
+tryptophan and supplemented with G418 (200 mg/L). The OD 600
+of each culture was measured, and ~20 cells of each
+strain were spread onto thin SD-Trp, 1% agar plates. Each
+plate was imaged with a Leica M205 FA.

@@ -1,0 +1,7 @@
+Changes in body mass and BMI values between 2000 and
+2018 were described by a parabola. The regression equations for
+body mass and BMI clearly indicate that both parameters decreased
+between 2000 and 2006 and increased between 2006 and 2018.
+Changes in body height had a linear character, and a
+gradual increase in this parameter produced a significant positive secular
+trend (Figure 1 ).

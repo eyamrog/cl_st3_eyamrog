@@ -1,0 +1,12 @@
+Using the bias covariate selection algorithm developed by Zheng et
+al. , we found no systematic bias covariates that had
+a significant effect on RR function. With respect to publication
+or reporting bias, visual inspection of the symmetry of a
+customized funnel plot (Fig. 1c ) does suggest potential risk
+of such bias among the studies included. This finding was
+supported by the statistically significant results of an Egger’s regression
+test with a P value of <0.05. It is likely
+that the use of pooled mean effect sizes resulted in
+the suggestion of bias in the funnel plot. Regardless, the
+magnitude of any such bias is small enough that it
+is unlikely to affect our main findings.

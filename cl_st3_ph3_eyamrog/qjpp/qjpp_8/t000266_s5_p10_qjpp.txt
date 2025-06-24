@@ -1,0 +1,22 @@
+Second, and more importantly, people above 65 years of age,
+who are part of online survey panels, and perhaps especially
+those above 75 years, likely will not be fully representative
+of this age group in terms of functioning, living situation,
+digital skills, and cognitive ability. Unfortunately, we did not collect
+data about these characteristics, but we could use EQ-VAS values
+as an indicator. When we compare age-stratified EQ-VAS values in
+our sample with data from a previous large-scale study among
+community dwelling Dutch elderly (suppl. Materials, Table A3 ), we
+find that individuals in our sample have a lower level
+of health ( Mangen et al., 2017 ). This might
+hint towards capturing a wider range of respondents than just
+community dwelling individuals, but this cannot be confirmed. At the
+same time, it is very likely that people in poor
+health and well-being states are underrepresented in our study. For
+instance, another study found that among residents of nursing homes
+in the Netherlands, the mean EQ-5D VAS score was 64.8
+(SD 21.7) ( Nijsten et al., 2019 ), which is
+clearly lower than in our sample. The underrepresentation of individuals
+in poorer states, including those in nursing homes may explain
+the high levels of well-being in most domains of the
+WOOP observed in our sample.

@@ -1,0 +1,20 @@
+To map the downstream targets that may mediate the function
+of NTS Recipient neurons, we labeled these neurons with GFP
+( Figures S6 A and S6B). Notably, we found dense
+GFP-labeled axon fibers in dopamine areas including the retrorubral field
+(RRF)—that is populated by the A8 dopaminergic neuron group (
+Figure S6 C) ( Fu et al., 2012 22. Fu,
+Y. ∙ Yuan, Y. ∙ Halliday, G. ... A cytoarchitectonic
+and chemoarchitectonic analysis of the dopamine cell groups in the
+substantia nigra, ventral tegmental area, and retrorubral field in the
+mouse Brain Struct. Funct. 2012; 217 :591-612 Crossref Scopus (120)
+PubMed Google Scholar )—and the visual tegmental relay zone (VTRZ),
+a brain region located next to the ventral tegmental area
+(VTA) ( Figure S6 D). In both areas, the axon
+fibers were in close proximity to dopamine neurons ( Figures
+S6 C and S6D). Axon fibers were also observed in
+the thalamus ( Figure S6 E) and PBN ( Figure
+S6 F). Thus, NTS Recipient neurons can potentially influence dopamine
+neuron function through their direct projections to the RRF or
+VTRZ or through an indirect pathway via the PBN (
+Figure S6 G).

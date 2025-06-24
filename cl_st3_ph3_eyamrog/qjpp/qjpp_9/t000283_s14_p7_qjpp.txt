@@ -1,0 +1,12 @@
+For the thirty speakers in dataset C (see Table 1
+), an auditory analysis was carried out to determine the
+realization of the /r/ variant (if present) in all /ɪr/,
+/ɛr/, and /ʌr/ words. Two phonetically trained raters assessed whether
+/r/ was realized as a tap/trill ([ɾ r]), an approximant
+([ɹ V ɹ ]), or whether no constriction was perceived
+(coded as Ø). These three categories were employed in order
+to capture variation along a continuum ranging from the “traditional”
+Scottish tap/trill realization via the modern standard realization as an
+approximant to a vocalized, unconstricted variant (following Schützler 2013 ,
+2015 :59). Unlike /r/-vocalization in working-class speech, the latter is
+interpreted as possibly due to anglicization in middle-class speech.

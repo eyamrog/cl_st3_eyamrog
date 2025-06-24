@@ -1,0 +1,10 @@
+Cells were grown to 60%–70% confluency prior to labeling. In
+order to bulk label cells with fluorescently labeled dUTPs for
+chromatin fractionation (see above), cells were treated with a wash
+buffer consisting of 20mM HEPES pH 7.5, 138mM, KCl, 4mM
+MgCl 2 and 3mM EGTA. After removing the wash buffer,
+a permeabilization buffer (wash buffer plus 0.04 μg/ml saponin) was
+added to the cells for 60 s. After carefully removing
+the permeabilization buffer, the wash buffer containing fluorescently labeled dUTP
+(50:1) was added carefully to the cells for 10 min.
+Subsequently the cells were incubated overnight in fresh DMEM.

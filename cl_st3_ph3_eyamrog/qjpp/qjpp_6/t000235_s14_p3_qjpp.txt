@@ -1,0 +1,19 @@
+There are two central constructs of interest: gender and age
+match between respondent and interviewer. To operationalize this, three variables
+will be used: the gender of the respondent ( Female
+), indicating whether a respondent is female (1) or male
+(0). When the gender of respondent and interviewer is identical,
+the variable GenderMatch takes the value 1, 0 otherwise. Finally,
+the age difference between respondent and interviewer is recoded into
+a new variable ( AgeMatch ) with three categories: interviewer
+younger than respondent (0), age difference within five years (1),
+and interviewer older than respondent (2). Clearly, the cutoff point
+of five years for a “match” is arbitrary. This form
+of operationalization is adopted as it is already applied in
+another similar study ( Vercruyssen et al. 2017 :4), which
+maximizes comparability. Also, a continuous variable would be harder to
+interpret with less concrete statements about their effects. 1 By
+further including all relevant interactions between these three variables, it
+is possible to model a quite complex degree of matching.
+Table 1 (page 6) shows descriptive statistics for the overall
+match between respondents and interviewers by gender of respondent.

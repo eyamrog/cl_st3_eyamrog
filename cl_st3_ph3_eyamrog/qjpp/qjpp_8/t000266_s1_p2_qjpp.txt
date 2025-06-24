@@ -1,0 +1,7 @@
+Methods: A discrete choice experiment (DCE) with duration approach was
+set up and fielded among 2,012 individuals from the Netherlands
+aged 65 years and above. Matched pairwise choice tasks, colour-coding
+and level overlap were used to reduce the cognitive burden
+of the DCE. The choice tasks were created using a
+Bayesian heterogeneous D-efficient design. The estimation procedure accommodated for nonlinear
+time preferences via an exponential discounting function.

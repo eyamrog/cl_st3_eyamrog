@@ -1,0 +1,6 @@
+The lack of evidence for interhomolog recombination suggests other explanations
+are likely for the presence of maternal only sequences at
+the mutation site. The loss of the paternal allele in
+embryos, together with a lack of their representation in ESC
+lines with only the EYS wt allele, led us to
+investigate whether chromosomal changes accounted for the loss.

@@ -1,0 +1,22 @@
+Search engine companies make frequent changes to query algorithms without
+notifying the public. An almost automatic result of these changes
+is that predictive models degrade in accuracy over time. Therefore,
+relying on these sets of data over time can lead
+to a bias, referred to as “concept drift” ( 109
+). Forecasting is especially challenging: Across multiple infectious diseases, prediction
+accuracy degrades rapidly with forecast horizon, typically extending reasonably to
+only 2–4 weeks ( 104 ). Models with excellent nowcasting
+skill can have zero forecasting value ( 77 ) because
+digital data may indicate only public awareness and coincide with
+outbreak peaks ( 80 ). However, even with nowcasting, degradation
+is cumulative. Priedhorsky et al. ( 77 ) found that
+an influenza model trained on Wikipedia traffic showed “staleness” after
+four months, meaning models were no longer effective and needed
+to be retrained. This problem was largely unaided by adding
+more data over a longer period. Such staleness does not
+just cause noisy predictions but can create erroneous spikes (
+77 ). Furthermore, a website can be deactivated at any
+time or change owners and, therefore, the persistence of data
+is not guaranteed. The concerns related to disappearing or changing
+data on websites, and algorithm changes, make the process of
+replication of digital surveillance highly tenuous.

@@ -1,0 +1,11 @@
+To calculate gene-expression correlations, we downloaded FANTOM stage 5’ CAGE
+TPM data ( https://fantom.gsc.riken.jp/5/data/ ). We discarded samples annotated as
+belonging to ‘reference’ ‘whole body’ or similar samples, and also
+excluded testis and related tissues from the analysis. We also
+removed all libraries with fewer than 1 million reads, and
+all peaks with less than 32 reads across all samples.
+Overlapping each peak with the Gencode M23 annotation, we assigned
+peaks to genes if they overlapped a Gencode exon for
+that gene, or were less than 200bp upstream of a
+TSS. Peaks not overlapping a gene were discarded, and the
+counts for all of a gene’s peaks were summed.

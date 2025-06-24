@@ -1,0 +1,15 @@
+Given the increasing relevance of health and social care services
+for older people, and the fact that these services usually
+aim to improve well-being rather than health (alone), adequate instruments
+for measuring the well-being of older people are required. The
+WOOP was recently developed for this purpose. To be useful
+as outcome measure in economic evaluations, such a measure ideally
+is accompanied by utility tariffs. Hence, in this study we
+present the results of a discrete choice experiment fielded among
+2,012 individuals in the Netherlands aged 65 years and above
+to obtain preference-based utility tariffs for the WOOP. The resulting
+tariffs enable transformation of well-being states described with the WOOP
+into a utility score anchored on perfect well-being (1) and
+dead (0), and hence the use of the WOOP as
+outcome measure in cost-utility analyses of interventions in health and
+social care aimed at older people.

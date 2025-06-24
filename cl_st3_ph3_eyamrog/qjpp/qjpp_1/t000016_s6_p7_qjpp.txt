@@ -1,0 +1,7 @@
+This study has limitations. First, for the validation phase we
+were limited to including 15 teams from the pool of
+1,010. To ensure transparent selection of teams and minimizing potential
+bias in the external validation, we disclosed the selection criteria
+and process beforehand to all participating teams, included both score
+and algorithm descriptions as criteria, and performed the selection before
+running the analyses (Supplementary Methods 6 ).

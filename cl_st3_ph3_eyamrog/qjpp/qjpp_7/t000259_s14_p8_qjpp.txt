@@ -1,0 +1,15 @@
+This setup implies that there are 432 different vaccine combinations
+that respondents could potentially be asked to rate (in conventional
+experimental parlance, a 4 × 3 × 3 × 3
+× 2 × 2 design). Because I obtain six attribute
+ratings per individual (see above), in a sample of 990
+US adults (see: Data), which implies that every level of
+most attributes will be rated at least 1980 times on
+average; with the exception that each level of the country
+attribute will be rated 1485 times on average, whereas the
+dosage and antigen attributes will be rated 2970 times on
+average. It further implies that every possible combination of attributes
+and levels will be rated at least 13 times (on
+average). As such, I have a sufficiently large sample to
+detect even small attribute-level effects, and can be reasonably assured
+that every possible combination will be rated.

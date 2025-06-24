@@ -1,0 +1,7 @@
+Control siRNA (siRNA scr) (siRNA Universal Negative Control #1 SIC001)
+and human GPC3 siRNA (NM_004484; SASI_Hs01_00205845) were purchased from Sigma-Aldrich
+and used at a concentration of 50 nM pCAGIG vectors
+encoding for nanobodies or Unc5D IgIgTSP constructs were used at
+a concentration of 2 μg/mL. For siRNA and plasmids transfection,
+cells were transfected with JetPrime according to the manufacturer’s guidelines
+(PolyPlus).

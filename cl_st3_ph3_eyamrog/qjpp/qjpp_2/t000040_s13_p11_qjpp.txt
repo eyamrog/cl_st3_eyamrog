@@ -1,0 +1,24 @@
+Another important aspect of AVs is the impact on road
+traffic noise. Road traffic noise has been associated with multiple
+health outcomes, including sleep disturbance, annoyance, cardiovascular disease, and hypertension
+( 6 , 10 , 14 , 32 , 50
+, 61 ). In Europe, for instance, environmental noise causes
+an estimated 10,000 premature deaths per year ( 9 ,
+88 ). AVs using internal combustion engines could continue to
+contribute to road traffic noise. As in the case of
+air pollution, if AV use results in increased VMTs, then
+noise exposure would increase commensurately ( 73 ). In contrast,
+electrification of the vehicle fleet would reduce noise exposure [although
+at speeds above 50 km per hour, electric and hybrid
+cars are not quieter than conventional cars ( 82 )].
+A Dutch study projected that a fully electric car fleet
+would reduce average urban noise levels by 3–4 dB and
+reduce annoyance effects by more than 30% ( 82 ).
+At low speeds, electric cars may also pose a safety
+risk, owing to the lack of noise, especially for pedestrians
+with visual impairments who rely on auditory cues ( 9
+, 15 ). In some countries such as the United
+States and Japan, regulators are considering requiring manufacturers of hybrid
+and electric cars to install an artificial warning sound (
+21 ). This intervention, if implemented for electric AVs, would
+lead to road safety improvements.

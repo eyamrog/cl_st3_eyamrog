@@ -1,0 +1,13 @@
+We decided to focus on RCTs of MHPSS interventions for
+various reasons. Firstly, humanitarian settings are characterised by multiple unique
+characteristics which have important implications for implementation research such as
+the complexity, turbulence, and socio-political instability inherent to these environments;
+lack of resources; and the multiple stressors that populations exposed
+to humanitarian crises experience ( Mistry et al., 2021 ;
+Perera et al., 2020 ). Secondly, MHPSS interventions are increasingly
+becoming the norm in humanitarian response ( Jones and Ventevogel,
+2021 ), meaning that interrogating research surrounding their implementation constitutes
+an important priority for the humanitarian research community. Finally, we
+decided to focus on RCTs as they represent a common
+study design used within the MHPSS field to test intervention
+effectiveness ( Elrha, 2021 ).

@@ -1,0 +1,6 @@
+In this paper, the role of social aspects in the
+formation of country reports related to COVID-19 was examined. To
+this end, a linked database of countries’ COVID-19 reports and
+five composite variables (which compress the information content of 162
+preliminary selected socioeconomic indicators) was analyzed by using regression models
+with regional dummy interactions.

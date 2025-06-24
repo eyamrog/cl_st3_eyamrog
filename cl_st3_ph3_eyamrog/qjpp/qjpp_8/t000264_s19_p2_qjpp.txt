@@ -1,0 +1,24 @@
+Table 1 displays the goodness of fit measures for the
+six models, three outcomes, and five areas considered. Details of
+these measures were described in the Model Comparison Tools section.
+Consistent with accepted practice, goodness of fit statistics smaller by
+at least 3 units represent a statistically significant improvement in
+model fit. In reading the table, it is important to
+note that only measures within outcomes are comparable; thus, only
+row-wise comparisons are appropriate. The table shows that PVI and
+the mobility measures are the best or second best fitting
+for all models with PVI as the clear winner for
+8 of the 15 models (3 outcomes x 5 areas
+covered). The following is a list of the models that
+are either the best or second best fitting, presented in
+descending order from highest to lowest (with counts provided in
+parentheses): PVI (n = 9), residential mobility (n = 8),
+work mobility (n = 6), ADI (n = 4), and
+SVI (n = 3). Surprisingly, CCVI – a metric specifically
+developed for describing community vulnerability related to COVID-19 – does
+not lead to the best fit in any setting, even
+among the other vulnerability measures. Table 1 . Goodness of
+fit measures for the six models across, three outcomes, and
+five areas considered. The darker grey shading indicates the best
+fitting model and the lighter grey shading indicates the second
+best fitting model.

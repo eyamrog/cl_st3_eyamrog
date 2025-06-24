@@ -1,0 +1,11 @@
+Screening of titles and abstracts of all records returned by
+the search strategy, screening of full texts eligible for inclusion,
+and the risk of bias assessment for included studies were
+independently conducted by two study authors (JLS and JMS). Inter-rater
+reliability for both the title and abstract and full text
+screening was calculated using Cohen's κ. Risk of bias for
+individual studies was assessed using the US National Heart, Lung,
+and Blood Institute's Quality Assessment Tool for Observational Cohort and
+Cross-Sectional Studies. Discrepancies were resolved through discussion between study authors
+to reach a consensus, or with a third study author
+(WJP) if necessary.

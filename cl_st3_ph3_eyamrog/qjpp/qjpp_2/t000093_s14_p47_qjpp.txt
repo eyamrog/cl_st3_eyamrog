@@ -1,0 +1,22 @@
+We adapted the SAFT formalism ( Chapman et al., 1989
+17. Chapman, W.G. ∙ Gubbins, K.E. ∙ Jackson, G. ...
+Saft: Equation-of-State Solution Model for Associating Fluids Fluid Phase Equilib.
+1989; 52 :31-38 Crossref Google Scholar ) to model a
+mixture of colloidal particles with associative interactions, in which each
+binding site can engage in at most one bond at
+a time. A colloid in this model refers either to
+a protein monomer or complex, or to a substrate monomer.
+Denoting the number of binding sites of type 𝐴 on
+a colloid of type 𝑖 by 𝑓 𝑖 ⁢ 𝐴
+, we used a prescribed PPI network to specify which
+binding site pairs ( 𝑖 ⁢ 𝐴 , 𝑗 ⁢
+𝐵 ) are allowed to interact. Our SAFT-based approach requires
+two key approximations ( Jacobs et al., 2014 42. Jacobs,
+W.M. ∙ Oxtoby, D.W. ∙ Frenkel, D. Phase separation in
+solutions with specific and nonspecific interactions J. Chem. Phys. 2014;
+140 :204109 Crossref Scopus (17) PubMed Google Scholar ): First,
+we used a mixture of colloids with no attractive interactions
+as the reference state, which means that spatial correlations due
+to associative interactions are not taken into account. Second, the
+functional form of the free energy assumes that correlations among
+binding site availabilities can be ignored.

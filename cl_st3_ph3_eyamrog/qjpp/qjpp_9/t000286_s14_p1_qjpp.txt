@@ -1,0 +1,7 @@
+Strelluf (2019 , 2020) demonstrated the usefulness of Twitter for
+building production-based corpora of low-frequency features. Because users post so
+much speech-like text to Twitter, rare features occur in sufficient
+numbers to allow quantitative analysis (see also Eisenstein, O’Connor, Smith
+& Xing 2012 ; Jones 2015 ; Pavalanathan & Eisenstein
+2015 ; Squires 2016a , b ; Eisenstein 2017 ;
+Grieve, Nini & Guo 2018 ).

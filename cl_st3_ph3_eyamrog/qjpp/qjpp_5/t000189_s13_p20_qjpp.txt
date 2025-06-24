@@ -1,0 +1,18 @@
+Each of these tactics is ancient, is mandatory for SARS-CoV-2
+replication, and has proven difficult to directly target in drug
+design. However, all CoVs use Spike protein to bind to
+a host receptor on the cell surface to initiate cellular
+entry. For SARS-CoV and SARS-CoV-2 that receptor is ACE2 (
+Simmons et al. 2004 ; reviewed in Heald-Sargent & Gallagher
+2012 , Yong et al. 2021 ) ( Figure 4
+). Blocking virus–host membrane fusion is perhaps the most readily
+achieved mitigation procedure. Vaccination, which generates lymphocytes and antibodies that
+block and eliminate virus via detection of Spike protein, and
+behaviors (e.g., masking, distancing, handwashing) limit the number of available
+viruses in a host to infect cells. Blocking fusion is
+also critical to mitigation, because once the viral envelope has
+fused to a host cell membrane, a patient has only
+limited, partially effective therapeutic options for restricting COVID-19 infection. This
+is why the World Health Organization ( WHO 2022 )
+has recommended governments normalize COVID-19 mitigation efforts and focus on
+surveillance and behaviors aimed at preventing infection.

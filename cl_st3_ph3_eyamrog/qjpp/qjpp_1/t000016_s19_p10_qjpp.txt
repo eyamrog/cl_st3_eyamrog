@@ -1,0 +1,6 @@
+A third key feature shared by all teams of the
+PANDA consortium was the use of ensembles consisting of diverse
+models, featuring, for example, different data preprocessing approaches or different
+neural network architectures. Despite the relative diversity in these algorithmic
+details, by averaging the predictions of the models constituting the
+ensembles, most teams achieved comparable overall performance.

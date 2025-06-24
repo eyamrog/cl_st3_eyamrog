@@ -1,0 +1,16 @@
+Finally, we investigate whether any differences in maxillary shape between
+hominine species are related to differences in size (aim 6).
+Allometric scaling adds to biological shape variation. Hence, we predict
+that adjusting for intrageneric or intraspecific static allometry will reduce
+shape variation of individual taxa ( Mitteroecker et al., 2013
+), resulting in less overlap between these taxa. When comparing
+two taxa that differ in size, it seems plausible that
+size-related shape variation will generally add to their overall shape
+differences. Adjusting for this allometric component is thus predicted to
+reduce the shape differences, as has been observed interspecifically for
+Pan ( Shea et al., 1993 ; Taylor and Groves,
+2003 ). However, in comparisons of Gorilla taxa, the effect
+of size adjustment was found to be more ambiguous, either
+increasing or reducing differences ( Taylor and Groves, 2003 )
+or having no impact ( Stumpf et al., 2003 ;
+Pilbrow, 2010 ).

@@ -1,0 +1,5 @@
+Motion compensation of whole nuclei was corrected using the plug-in
+“Stack-Reg” ( Thévenaz et al., 1998 62. Thévenaz, P. ∙
+Ruttimann, U.E. ∙ Unser, M. A pyramid approach to subpixel
+registration based on intensity IEEE Trans. Image Process. 1998; 7
+:27-41 Crossref Scopus (2210) PubMed Google Scholar ).

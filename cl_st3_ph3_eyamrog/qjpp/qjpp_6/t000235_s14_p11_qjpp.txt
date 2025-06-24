@@ -1,0 +1,27 @@
+The models are built as following: The baseline model (“Empty”)
+does not include any explanatory variables, only the dependent variable
+and the multilevel structure. The second model (“Main”) includes gender
+of respondent, the age match variable, the gender match variable,
+and all pairwise interactions. The final model (“Full”) adds all
+control variables. Based on theoretical considerations, we decided to add
+the following controls to account for the fact that respondent-interviewer
+matching might not be absolutely at random: the educational level
+of the respondent (International Standard Classification of Education [ISCED]), average
+regional household income, age of respondent, age squared, number of
+household members, whether any children live in the household, the
+marital status of the respondent, and a fixed-effect for the
+survey round (ESS 8 or 9). Another advantage of adding
+these variables is that predicted outcomes are more realistic and
+also account for country differences with respect to age structure
+or average educational attainment ( Colsher and Wallace 1989 ;
+De Leeuw, Hox, and Huisman 2003 ). All calculations are
+done in Stata 16.1 (commands menbreg, mixed , and melogit
+) using 10 integration points. 3 The covariance structure for
+all three models is set to “unstructured,” meaning that all
+variances and covariances for all levels will be estimated distinctly,
+which seems most appropriate for the data available as no
+artificial constraints are introduced. Intraclass correlation coefficients (ICC) were computed
+for all models where this is possible after the estimation
+to explain the partition of variance. The regression equation for
+the second model (“Main”) for the binary logistic model is
+as follows:

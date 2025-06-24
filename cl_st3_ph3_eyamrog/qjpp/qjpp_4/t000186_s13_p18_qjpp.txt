@@ -1,0 +1,19 @@
+Contrary to elements proposed in some early versions of the
+hygiene hypothesis, exposure to infectious crowd diseases is unlikely to
+improve health overall. Some evidence indicates that latent herpesvirus infections
+such as Epstein-Barr virus and cytomegalovirus can reduce the risk
+of allergy and atopy. However, these and other viral infections
+may increase susceptibility to other infections such as HIV and
+have been associated with increases in inflammatory and autoimmune disorders
+( Parker et al. 2021 ), including systemic lupus erythematosus
+and atherosclerosis ( White et al. 2012 ). In the
+long term, infectious diseases, particularly those that are intracellular, such
+as viral infections, can cause negative health outcomes through increases
+in thymic output, turnover in naïve T cells, and eventual
+accumulation of senescent T cells, which are cells that lose
+responsiveness after undergoing too many cycles of replication ( Nikolich-Žugich
+2008 , Permar et al. 2003 , Sansoni et al.
+2008 ). Depletions such as these may have little effect
+early in life but cumulatively accelerate immunosenescence and susceptibility to
+infection late in life ( Effros 2005 , Pawelec &
+Derhovanessian 2011 , Targonski et al. 2007 ).

@@ -1,0 +1,24 @@
+The current studies demonstrate a major beneficial effect of loss
+of Fli1 on protective immunity in multiple settings of infection
+and cancer. The absence of Fli1 consistently improved protective immunity
+across models. Of particular relevance for immunotherapy, deleting Fli1 improved
+control of both tumor progression and chronic LCMV infection where
+the induction of exhaustion typically limits immunity. It will be
+interesting to determine in future studies whether this beneficial effect
+on tumor immunity is due to increased T cell numbers,
+the de-repression of T EFF differentiation by loss of Fli1,
+enhanced transcription of specific effector gene programs, or a combination
+of these effects. It is also possible that enhanced Runx3
+activity fosters more efficient tissue residency, a change that would
+be consistent with improved immunity in the influenza virus model.
+Finally, given the ability to apply CRISPR-mediated genetic manipulations in
+cellular therapy settings ( Stadtmauer et al., 2020 82. Stadtmauer,
+E.A. ∙ Fraietta, J.A. ∙ Davis, M.M. ... CRISPR-engineered T
+cells in patients with refractory cancer Science. 2020; 367 :eaba7365
+Crossref Scopus (185) PubMed Google Scholar ; Xu et al.,
+2019 100. Xu, L. ∙ Wang, J. ∙ Liu, Y.
+... CRISPR-Edited Stem Cells in a Patient with HIV and
+Acute Lymphocytic Leukemia N. Engl. J. Med. 2019; 381 :1240-1247
+Crossref Scopus (105) PubMed Google Scholar ), it might be
+possible to envision clinical benefits with CAR T cells by
+targeting Fli1 or related pathways.

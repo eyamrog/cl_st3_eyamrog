@@ -1,0 +1,19 @@
+We previously found that transient overexpression of SNT1 , a
+subunit of the Set3C histone deacetylase complex, created a zinc-resistance
+trait stable over many hundreds of mitotic divisions (feature 1),
+but could be eliminated by transient chaperone inhibition (feature 2)
+( Chakrabortee et al., 2016a 15. Chakrabortee, S. ∙ Byers,
+J.S. ∙ Jones, S. ... Intrinsically disordered proteins drive emergence
+and inheritance of biological traits Cell. 2016; 167 :369-381 Full
+Text Full Text (PDF) Scopus (78) PubMed Google Scholar ).
+Still, this phenotype (known as [ ESI + ]) differed
+somewhat from archetypal fungal prions. Snt1 does not harbor Q/N-rich
+domains often found in amyloid prions ( Figure S1 A).
+Consistent with this, propagation of the state depended on heat
+shock protein 90 (Hsp90) ( Chakrabortee et al., 2016a 15.
+Chakrabortee, S. ∙ Byers, J.S. ∙ Jones, S. ... Intrinsically
+disordered proteins drive emergence and inheritance of biological traits Cell.
+2016; 167 :369-381 Full Text Full Text (PDF) Scopus (78)
+PubMed Google Scholar ), rather than Hsp70 or Hsp104, and
+Snt1 did not form visible amyloid fibers ( Figure S1
+B).

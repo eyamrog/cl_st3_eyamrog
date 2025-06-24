@@ -1,0 +1,15 @@
+On day 14, we assessed how well the masking of
+the trial interventions was maintained. Of the 344 participants in
+the hydroxychloroquine group who completed the day 14 survey question,
+160 (46.5%) correctly identified that they received hydroxychloroquine, 151 (43.9%)
+were unsure, and 33 (10%) believed that they received placebo.
+Of the 353 participants in the control group who completed
+the day 14 survey question, 126 (35.7%) correctly identified that
+they received placebo, 168 (47.6%) were unsure, and 59 (16.7%)
+believed that they received hydroxychloroquine. Participants who reported any side
+effect (regardless of trial group) at day 5 were 3.7
+times as likely to believe that they received hydroxychloroquine as
+participants who did not report side effects (122 of 179
+participants [68.2%] reporting side effects and 94 of 504 participants
+[18.7%] not reporting side effects; P<0.001). In the absence of
+side effects, blinding was well maintained.

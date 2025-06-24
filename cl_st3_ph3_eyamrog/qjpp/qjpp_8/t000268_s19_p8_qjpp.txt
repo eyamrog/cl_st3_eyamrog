@@ -1,0 +1,13 @@
+When estimating the models for the different groups of countries
+according to their income level, we obtain similar results to
+those obtained by region. First, there is a difference in
+the coefficient sign of the uncertainty indicator: it is negative
+when it enters the model contemporaneously and positive when it
+is introduced with a one-period lag. Second, there is a
+difference in magnitude, the effect of the uncertainty shock lagged
+one period being always greater. The largest impacts are obtained
+for low-income countries. Again, these results support the idea that
+the bulk of the impact of a global uncertainty shock
+is not necessarily reflected immediately in the suicide rate. This
+indicates that there is a significant but complex relationship between
+both variables and that this can evolve over time.

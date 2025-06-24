@@ -1,0 +1,14 @@
+Recent research has begun to address this previous lack of
+linguistic focus. For example, Baker et al. (2019) and Brookes
+and Baker (2017) analysed 29 million words of written patient
+feedback on NHS services in England. With the help of
+corpus linguistic methods, these studies were able to account for
+a larger and more representative set of patient comments than
+previous studies had, while the analyses moved beyond simply describing
+the content of the comments to consider the linguistic choices,
+and attendant discourses and rhetorical strategies, that patients drew upon
+in order to represent and evaluate their healthcare experiences. These
+studies provided detailed understanding of the language that patients use
+in their feedback, including how this language is shaped by
+social and technological factors (see also: ( Baker and Brookes,
+2021 ; Brookes and McEnery, 2017 , 2020 ).

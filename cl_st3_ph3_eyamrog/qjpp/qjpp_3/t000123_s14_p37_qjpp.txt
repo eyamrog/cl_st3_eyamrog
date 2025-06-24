@@ -1,0 +1,12 @@
+These outputs showed that up to 95% windows with equal
+ABBA and BABA sites, which indicated that two genealogies discordant
+with the species tree, ABBA and BABA, were more likely
+produced by ILS across almost the entire whole genome. On
+closer examination of the supposed windows of gene flow, we
+found that such windows had the fewer identical sites shared
+between Micr and Dasy than other windows, but had the
+similar identical sites shared between Micr and Dipr as other
+windows. Rather than gene flow between species Micr and Dipr,
+there is another possibility for this scenario: the faster substitution
+rate in Dasy the longer branch length in Figure 1
+had cleaned the identical sites between Micr and Dasy.

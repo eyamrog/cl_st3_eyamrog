@@ -1,0 +1,17 @@
+There are some attested merger reversals, though, in which the
+phones in question appear to truly have been merged. This
+could mean that these instances are still near mergers and
+that researchers have simply not found the distinguishing phonetic cue.
+However, it could also mean that there was indeed a
+complete merger, and that there is some non-phonological factor which
+speakers rely on as a cue to determine which lexical
+items fall into which class. One such cue may be
+orthography. If the phones that merged in production and perception
+historically have different spellings, literate speakers could perhaps rely on
+this difference to separate them. For example, in the Russian
+example described by Kochetov (2006) , separation of /ʂ/ into
+/ʂ/ and /ʃ/, while enabled by the length distinction, is
+eased by /ʂ/ corresponding to <ɰ> and /ʃ/ corresponding to
+<ш>. One could imagine that a clear correspondence such as
+this could enable literate speakers to learn to separate phones
+even in the absence of a phonological cue.

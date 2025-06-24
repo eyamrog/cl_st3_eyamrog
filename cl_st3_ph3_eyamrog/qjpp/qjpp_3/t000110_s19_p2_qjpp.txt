@@ -1,0 +1,17 @@
+We first investigated the potential infection-related effects of these mutations
+in assays with three cell lines known to be susceptible
+to SARS-CoV-2 pseudotyped virus infection ( Li et al., 2020
+21. Li, Q. ∙ Wu, J. ∙ Nie, J. ...
+The Impact of Mutations in SARS-CoV-2 Spike on Viral Infectivity
+and Antigenicity Cell. 2020; 182 :1284-1294.e9 Full Text Full Text
+(PDF) Scopus (1084) PubMed Google Scholar ): Huh-7, Vero, and
+LLC-MK2. Compared to the reference 614G variant, no significant increase
+in infectivity was observed in these cell lines for any
+of the pseudotyped viruses with 501Y.V2-related mutations ( Figure 2
+A). We next characterized the infectivity of these pseudotyped viruses
+for cells expressing receptors from a diverse group of mammal
+species. Specifically, we used HEK293T cells transfected with individual plasmids
+containing the ACE2 genes from 14 species (all with FLAG-tags).
+ACE2 expression was monitored using flow cytometry: the percentage of
+ACE2-positive cells fell in a range of 37.1%–59.8% among these
+14 cells ( Figure S1 ).

@@ -1,0 +1,19 @@
+As further confirmation of these results, we examined viral escape
+from 1C3 and 1C11 using a biologically contained EBOV replication
+system (ΔVP30 EBOV) ( Halfmann et al., 2008 23. Halfmann,
+P. ∙ Kim, J.H. ∙ Ebihara, H. ... Generation of
+biologically contained Ebola viruses Proc. Natl. Acad. Sci. USA. 2008;
+105 :1129-1133 Crossref Scopus (101) PubMed Google Scholar ). We
+found that culture of virus in the presence of subneutralizing
+amounts of 1C3 leads to escape mutants with substitutions at
+positions 117, 119, or 128 ( Figure 4 D). Similarly,
+when we sorted Jurkat cells expressing a library of mutant
+EBOV GP proteins for mutants that lost binding to 1C3
+but maintained high expression, the cell lines we obtained all
+had point mutations at position 118 (G118R). Importantly, when we
+selected for 1C11 escape mutations, these localized to a separate
+area of GP (residues in or near the furin cleavage
+site at positions 497–501; Figure 4 D). As expected, escape
+mutants for one antibody are fully neutralized by the other,
+suggesting that a cocktail of 1C3 and 1C11 would provide
+coverage for viral escape.

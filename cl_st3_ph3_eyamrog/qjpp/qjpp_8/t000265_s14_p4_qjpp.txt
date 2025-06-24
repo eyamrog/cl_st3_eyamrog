@@ -1,0 +1,15 @@
+From this model, β represents the RDD estimate of turning
+18 in the low deductible period and δ is the
+coefficient of interest which equals the deviation between the RDD
+estimate for the low and high deductible periods. This comparison
+allows disentangling the impact of changes in the deductible from
+other potential disruptions at age 18. Such discontinuities might be
+related to changes in the individual life that influence youth
+mental health care consumption, such as leaving parents' house or
+getting a job; or can be the consequence of the
+transition from CAMHS to AMHS, where a considerable proportion of
+patients is no longer followed-up ( Gerritsen et al., 2019
+). Contrary to a standard RDD, a difference-in-discontinuity approach allows
+for discontinuous changes in confounding factors at the threshold, under
+the assumption that other discontinuities at 18 and any manipulation
+of the running variable are time-invariant for the study period.

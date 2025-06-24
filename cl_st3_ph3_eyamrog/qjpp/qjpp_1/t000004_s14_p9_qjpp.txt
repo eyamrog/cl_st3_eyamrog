@@ -1,0 +1,18 @@
+During the end of the recording phase of the study
+and after optimization of signal detection, both subjects underwent a
+day of monopolar survey testing of all the electrode contacts
+to screen for any acute stimulation effects. One week after
+this survey testing, each subject was randomized in a single-blind
+fashion to receive a week of active or sham rDBS
+unilaterally to assess initial tolerability and optimize stimulation parameters. One
+subject was randomized to active stimulation and the other sham
+stimulation. For subject 1, stimulation was administered at 3 mA
+unilateral for a week, off for a week, 5 mA
+unilateral for 4 weeks. The subject was unblinded after these
+4 weeks and transitioned to open-label stimulation. For subject 2,
+stimulation was administered at 0.5 mA unilateral for a week,
+off for a week, 1 mA bilateral (split between two
+leads) for 4 weeks. The subject randomized to sham stimulation
+underwent a week of active stimulation testing before transitioning into
+the open-label phase. Stimulation was well tolerated throughout this protocol
+with no adverse effects.

@@ -1,0 +1,8 @@
+For sorting RV + cells optimized sorting in the transfer
+experiments, the BD Aria Sorter was set at 37°C and
+100-micron nozzle, with a flow rate lower than 3.0. 3
+X 10 6 Cells are concentrated in 300ul 10% complete
+RPMI with 100 U/mL recombinant human IL-2 during sorting. 37°C
+pre-warmed collection tubes with 10% complete RPMI (100 U/ml IL-2)
+are used. Sorted cells are washed by 37°C warm pure
+RPMI before transferring into recipients.

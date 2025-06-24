@@ -1,0 +1,5 @@
+To analyze the trial-by-trial correlation between licking and neuronal responses,
+we first calculated the mean licking rate and the mean
+activity (z-scored) of each neuron during a specified time window
+(i.e., CS, US or baseline period) in each trial. We
+subsequently calculated the Pearson correlation coefficient between these two measures.

@@ -1,0 +1,14 @@
+Tweets associated with a geographical area in Twitter data are
+not assuredly representative of that area in the way that
+dialectologists traditionally require. Twitter’s public search interface samples tweets based
+on the physical location of the device that tweeted the
+message, and also samples on the basis of locations that
+users enter in their profiles. As such, an unknowable number
+of tweets will be associated with locations where an author
+did not acquire language as a child. Nevertheless, a working
+assumption is that datasets built from Twitter are so large
+that good data will suppress noise. Researchers have demonstrated that
+geographically associated tweets can generate robust dialect maps (e.g., Eisenstein,
+O’Connor, Smith & Xing 2012 ; Jones 2015 ; Pavalanathan
+& Eisenstein 2015 ). I therefore report locations for tweets
+but acknowledge the inherent noisiness of the data.

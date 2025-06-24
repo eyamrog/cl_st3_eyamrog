@@ -1,0 +1,18 @@
+Physical activity can be quantified and tracked by wearables that
+are used widely by the public. Prior studies consistently show
+that taking fewer steps per day is associated with higher
+risk of all-cause mortality and cardiovascular disease. These studies raise
+public awareness of the importance of engaging in physical activity,
+but study design limitations also leave important questions unanswered. First,
+prior studies assessed physical activity either by self-reported questionnaires or
+by having participants wear a research-grade device for a brief
+monitoring period (most often 7 days) . As a result,
+activity may be under- or over-reported. Moreover, no information is
+reported about activity levels between the baseline period and when
+outcomes are assessed at follow-up, often many years later. Second,
+prior studies have focused on a relatively targeted set of
+outcomes limited to mortality, diabetes and cardiovascular disease. Little is
+known about the impact of activity over time on developing
+chronic diseases across the full human phenome, which represents the
+sum of human traits and conditions resulting from genetic and
+behavioral variation in a population .

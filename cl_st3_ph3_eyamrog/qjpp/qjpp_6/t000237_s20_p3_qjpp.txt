@@ -1,0 +1,20 @@
+In accordance with Cepaluni et al. (2020) , the former
+effect is even more pronounced in terms of the reported
+death toll and cases per capita (see Models 2–4 and
+6–8). The impact of regulation and transparency on the reported
+death toll is significant and highly positive for both Europe
+and Africa, although these coefficients decrease with the extension of
+the time window. In terms of reported case numbers, while
+the effect of regulation and transparency is most noticeable in
+Europe and Africa, it is significant regardless of region. 8
+By considering the indicators compressed by the regulation and transparency
+variable, 9 these findings suggest that in these regions, more
+corrupt countries reported significantly fewer cases and deaths than countries
+in other regions. It is also worth mentioning that the
+development of infrastructure typically has a positive impact on the
+reported number of cases and deaths. In line with Kurbucz
+et al. (2021) , this may be partly explained by
+the fact that poor health infrastructure makes testing difficult; however,
+in cases of the Americas, this (benchmarked) effect appears weak,
+and in most cases, it has the opposite sign (see
+Models 3–4 and 7–8).

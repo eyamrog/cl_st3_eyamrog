@@ -1,0 +1,23 @@
+For instance, the invisibility of need +ED to conscious evaluation
+noted in Murray, Frazer, and Simon (1996) and Labov, Ash,
+and Boberg (2006 :293-296) may be less surprising if need
++ED and need +ING are derived from the same underlying
+syntactic operation. A language user whose need -passive grammar assigns
+a gerund-participle might use that derivation to process (or rescue)
+an utterance that differs only in containing a past participle.
+There is unintended support for this suggestion in psycholinguistic studies
+by Kaschak and Glenberg (2004) and Kaschak (2006) , which
+showed that English speakers who were unfamiliar with need +ED
+could be exposed to it, and then rapidly and accurately
+generalize it to other matrix verbs. It is possible that
+participants’ rapid and accurate acquisition of need +ED did not
+reflect a general cognitive ability, but rather a specific fact
+that the syntax for need +ED was already part of
+their grammar as need +ING, so participants only had to
+learn to substitute a different participle form. If this explanation
+is correct, speech communities like Newcastle that use both need
++ING and need +ED (or speakers who use both forms)
+are unsurprising. Rather than one grammar “blocking” the other, as
+Murray and Simon (1999 :158) speculated, it would be relatively
+straightforward for a mental grammar to allow both participle forms
+to mark passive morphology.

@@ -1,0 +1,8 @@
+In the Cox models, 15.4–16.0% of months (that is, 4.7–4.9%
+of days) were excluded due to fewer than 15 valid
+days of data. Figure 2a shows the relationship between step
+counts and adjusted hazard ratio (HR) for an incident diagnosis
+of each condition referenced to the median daily average steps
+for the entire cohort. The median values ranged from 8,160
+to 8,290 steps per day across the different analytical cohorts
+created to investigate each incident diagnosis.

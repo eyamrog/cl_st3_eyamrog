@@ -1,0 +1,8 @@
+RNA from brain or spinal cord samples was isolated with
+TRIzol reagent (Invitrogen); its concentration was measured using NanoDrop 2000
+(Thermo Fisher Scientific); and cDNA was generated with SuperScript IV
+reverse transcriptase (Invitrogen) according to the manufacturer’s protocol. GoTaq G2
+Hot Start Master Mix (Promega) and PowerUp SYBR Green Master
+Mix (Thermo Fisher Scientific) were used to set up PCR
+or qPCR reactions, respectively. All primers used in this study
+are listed in Supplementary Table 1 .

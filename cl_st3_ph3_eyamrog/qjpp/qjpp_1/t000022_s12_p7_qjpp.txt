@@ -1,0 +1,21 @@
+Social computational big data includes data from technology companies such
+as Google, Facebook, and Twitter ( 135 ) that are
+collected and stored from application programming interfaces (APIs) and contain
+data restrictions ( 122 ). Moment-by-moment oscillations in behavior that
+are shown on these online platforms leave digital footprints, which
+can be aggregated to uncover emerging population trends across a
+wide range of health topics ( 55 , 57 ,
+58 , 66 , 70 , 71 , 82 ,
+83 , 108 , 111 , 112 , 117 –
+119 , 123 , 132 , 135 , 147 ).
+Social computational big data is frequently validated against gold standard
+metrics, such as governmental sources, to corroborate its use for
+predicting real-world activities ( 11 , 56 , 57 ,
+63 , 64 , 87 , 124 , 125 ,
+141 ). However, ethical challenges exist. This section examines the
+sixth V, virtuosity, in the context of using social computational
+big data, with a focus on ( a ) data
+access and availability, ( b ) inclusion and representativeness, (
+c ) advantages, ( d ) methods of analyses, and
+( e ) future goals for the field as related
+to equity.

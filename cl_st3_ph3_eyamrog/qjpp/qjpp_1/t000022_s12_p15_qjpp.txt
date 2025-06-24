@@ -1,0 +1,21 @@
+The definitions of fairness seem intuitive, to an extent. For
+instance, it is natural to think that if one is
+expected to build a fair model, protected variables should not
+be used to decrease or increase the probability of certain
+predictions (anticlassification). Equally, if the final model does not have
+the same accuracy across all groups defined by the protected
+variables, then one might think that the model is not
+fair toward that group (classification parity). Finally, it is logical
+to assume that if a model, on average, represents the
+true underlying risk of the specific group, then this model
+is fair (calibration). More importantly, given that a formal definition
+of fairness is agreed upon, algorithms can be designed to
+satisfy it ( 3 ). For instance, a recent method
+constructs decision rules that ensure true-positive rates and false-positive rates
+are equal among prespecified groups ( 49 ). Equally, techniques
+that use pre- and postprocessing of the input variables and
+regularization to lead to parsimonious models have been devised to
+guarantee parity across different demographic variables ( 44 , 149
+). Unfortunately, no notion of fairness comes for free without
+affecting model performance for some or all groups ( 96
+).

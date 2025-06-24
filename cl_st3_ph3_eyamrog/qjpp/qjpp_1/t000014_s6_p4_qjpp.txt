@@ -1,0 +1,10 @@
+A longer interval between the prime and the booster is
+usually associated with higher levels of neutralizing antibodies, as the
+affinity maturation of memory B cells induced by vaccination could
+take months . However, the waning of virus-specific antibodies and
+low levels of neutralizing antibodies against SARS-CoV-2 in vaccinated individuals
+at 3 months after the two-dose CoronaVac regimen are potentially
+worrisome. Based on our data, we would recommend the administration
+of a single dose of Convidecia to individuals who have
+completed the primary series of the two-dose CoronaVac regimen 3
+months ago.

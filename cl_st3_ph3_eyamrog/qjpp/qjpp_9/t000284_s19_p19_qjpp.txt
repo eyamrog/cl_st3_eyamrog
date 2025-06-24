@@ -1,0 +1,13 @@
+It is tempting to think that this stability in formant
+curves is an artifact of modeling, and that a more
+flexible statistical model is required. However, recall that in the
+model specification, each combination of gender, generation, vowel, and formant
+was fit independently; the best fit formant curves were not
+constrained by a particular location in the F1-F2 space nor
+were they forced to conform to a particular shape by
+gender or vowel. In other words, the predicted values for
+the Lost Generation women’s boat were not tethered to any
+other generation, gender, or allophone, and the same holds for
+all other levels of the four-way interaction term. Thus, the
+similarities among formant trajectories predicted for each vowel are not
+due to any bias or constraints in the model.

@@ -1,0 +1,3 @@
+The BAC probe corresponding to the Fat1 gene was labeled
+with the Alexa Fluor 555 using the FISH Tag DNA
+Kit.

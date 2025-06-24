@@ -1,0 +1,10 @@
+Stata 15 was used to conduct the PSM analyses (
+Stuart et al., 2009 ). In order to assess the
+robustness and validity of our model results, we conducted sensitivity
+analysis in which we modified the stratification of the main
+socioeconomic characteristics: education in three categories (no schooling, lower than
+secondary, secondary schooling and higher), welfare index in three categories
+(20% poorest, 60% middle, 20% richest). We also tested whether
+our results were sensitive to an alternative specification of the
+outcome variable, where stigma, depression and self-esteem were dummy instead
+of continuous variables.

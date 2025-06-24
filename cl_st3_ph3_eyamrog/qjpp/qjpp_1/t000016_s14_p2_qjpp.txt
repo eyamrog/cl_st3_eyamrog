@@ -1,0 +1,9 @@
+By the competition closing date, each team picked two algorithms
+of their choice for their final submission, and the higher
+scoring of the two determined the team’s final ranking. The
+final evaluation was performed on an internal validation dataset of
+545 biopsies, collected from the same sites as the development
+and tuning sets and fully blinded to the participating teams.
+Moreover, to obtain an independent internal validation set, all samples
+from a given patient were used for either development or
+validation.

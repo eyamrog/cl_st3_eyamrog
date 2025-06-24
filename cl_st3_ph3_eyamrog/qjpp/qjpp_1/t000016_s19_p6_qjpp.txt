@@ -1,0 +1,6 @@
+The first team to achieve an agreement with the uropathologists
+of >0.90 (quadratically weighted Cohen’s κ) on the internal validation
+set already occurred within the first 10 days of the
+competition (Fig. 2 ). In the 33rd day of the
+competition, the median performance of all teams exceeded a score
+of 0.85.

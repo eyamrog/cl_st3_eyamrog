@@ -1,0 +1,17 @@
+This study was powered to detect a change in hesitancy
+level for each of the three stratifying levels of hesitancy
+level (willing, doubtful, and strongly hesitant). From OCEANS-II, we estimated
+that 71·7% of the general population are willing to be
+vaccinated, with a mean score on the Oxford COVID-19 Hesitancy
+Scale of 10·8 (SD 3·5); 16·6% are doubtful, with a
+mean score of 24·2 (5·8); and 11·7% are strongly hesitant,
+with a mean score of 30·6 (3·5). A sample size
+of 96 would be able to detect a three-point change
+in the doubtful group, and a sample size of 254
+a three-point change in the strongly hesitant group, at 90%
+power and a type 1 error at 0·5% (two-sided). For
+the willing groups, a sample size of 822 would be
+able to detect a one-point change. This gives a total
+sample size of 1172 required for each condition. We intended
+to recruit 15 000 participants to enable adjustment for multiple
+comparisons in the analysis.

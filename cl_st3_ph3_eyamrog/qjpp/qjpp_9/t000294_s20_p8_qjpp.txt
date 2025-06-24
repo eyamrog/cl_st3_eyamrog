@@ -1,0 +1,13 @@
+One bundle appeared in the Low and High corpora, but
+not in the Mid corpus: there are three reasons .
+Its use, however, greatly differed between the Low and High
+corpora despite the identical writing topics. In the Low corpus,
+the most frequent uses of the bundle occur as a
+full sentence (i.e., There are three reasons ) or are
+preceded by a sub-ordinating conjunction to form an incomplete sentence,
+as in Example 1. In all occurrences in the High
+corpus, this bundle is followed by a post-modifier such as
+a wh -relative clause or that -clause, as in Example
+2. (1) Because there are three reasons. (Low) (2) There
+are three reasons why my hometown’s cultural events should be
+changed. (High)

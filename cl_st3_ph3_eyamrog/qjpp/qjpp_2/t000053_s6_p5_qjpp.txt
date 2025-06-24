@@ -1,0 +1,14 @@
+The effects of active case-finding for tuberculosis are likely to
+be highly context-dependent, varying with tuberculosis prevalence, built environment, access
+to health care, and social norms, among other factors. There
+are many possible reasons why ZAMSTAR and ACT3, which were
+done nearly 10 years apart and in different continents, showed
+differing results. ZAMSTAR used a less intensive case-finding approach with
+the aim of enabling community members to identify tuberculosis symptoms
+themselves and improving access to sputum diagnostics for tuberculosis. By
+contrast, ACT3 used more intensive screening, involving enumeration of community
+members and door-to-door tracing of all community members to request
+sputum, regardless of symptoms. Whether the reduction in tuberculosis prevalence
+in ACT3 (which was not seen in ZAMSTAR) was due
+to the more intensive nature of screening in ACT3 or
+due to other context-specific factors is not known.

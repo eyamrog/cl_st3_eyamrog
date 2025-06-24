@@ -1,0 +1,7 @@
+Figure 3 presents estimated mean transformed F1 and F2 values
+for the different gender and age groups, based on dataset
+B: women are shown in the top panel (using 50
+percent and 90 percent uncertainty intervals) and men are shown
+in the bottom panel. For the respective older groups, estimates
+are based on the assumption of sixty-year-old speakers; for younger
+groups, speakers are assumed to be twenty years old.

@@ -1,0 +1,16 @@
+The antibodies were further tested against EBOV in the domesticated
+guinea pig model of EVD, which is considered a stringent
+model of EVD. Animals were exposed IP with 10,000 PFU
+of guinea-pig-adapted (GPA) EBOV (GPA-EBOV) and then treated IP with
+1C3, 1C11, or a combination of the two mAbs (1C3
++ 1C11; 1:1 ratio) on Day 1 or Day 3
+post-exposure. Neither mAb individually resulted in sufficient protection, but the
+combination of both antibodies administered on Day 3 protected 4
+out of 5 animals (80%) against death. Further, the administration
+of the combination resulted in absence of viremia by Day
+6, whereas animals given individual mAbs or no treatment had
+peak viremia on Day 6 ( Figure 5 B). Administration
+of the cocktail at Day 1 was substantially less protective
+than treatment at Day 3, suggesting that having high mAb
+concentrations during the late stages of infection may be key
+to protection in this model.

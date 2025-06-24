@@ -1,0 +1,14 @@
+Parameters for national control measures and death rates were determined
+as maximum likelihood estimates, using data estimates for the total
+number of all new infections and deaths (together with levels
+of uncertainty) as proposed by the Institute for Health Metrics
+and Evaluation (IHME) . Due to inconsistencies and under-reporting of
+COVID-19 metrics in many countries, rather than relying on official
+reports, their estimates are made based on excess mortality statistics,
+comparing death rates in each country during the pandemic to
+historical data, tracking past trends and seasonality. Other similar excess
+mortality estimates have been made elsewhere with reasonable consistency; for
+instance, Karlinsky et al. estimated 160,000 deaths in South Africa
+by 27 June 2021 (60,000 reported) compared to the IHME
+estimate of 156,373 deaths (with a high and low estimate
+range of 90,221 to 258,352).

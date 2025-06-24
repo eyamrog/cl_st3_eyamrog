@@ -1,0 +1,23 @@
+Linear mixed effects regression ( Bates et al. 2014 )
+corroborates this initial inspection. A mixed effects model was initially
+run in which following environment , preceding manner of articulation
+, preceding place of articulation , preceding voicing , vowel
+, word frequency , function word , and speaker age
+were fixed effects, and speaker and lexical item were random
+effects. Interactions between vowel and the other fixed effects were
+also considered as possible fixed effects in the initial model.
+We may only expect frequency effects to occur when a
+vowel is changing. As such, I also tested a model
+in which word frequency was a random slope by speaker
+, as opposed to a fixed main effect. Because there
+are relatively few exceptional <ar> north items and <or> start
+items, testing for an orthographic effect in the conversation data
+was not possible. A final model was selected via stepdown
+process using the step function in R ( R Core
+Team 2017 ); the final model eliminated word frequency (whether
+as fixed effect or random slope), following environment , preceding
+place of articulation , and function word , both as
+main effects and their interactions with vowel , as factors.
+Preceding voicing was kept only as a main effect, and
+preceding manner of articulation was kept both as a main
+effect and interaction with vowel .

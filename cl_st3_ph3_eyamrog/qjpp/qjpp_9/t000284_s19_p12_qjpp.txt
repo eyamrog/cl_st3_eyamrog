@@ -1,0 +1,23 @@
+While Figure 4 allows easy intergenerational comparisons, its two panels
+obscure the relative placements of allophones within each generation. This
+alternative view is provided in Figure 5 , which plots
+predicted vowel trajectories for each gender and generation separately. Unlike
+Figures 4 and 6 , which plot women and men
+with gender-specific scales to highlight the details of vowel trajectories
+within each group, all sub-plots of Figure 5 are deliberately
+plotted on the same scale to highlight the difference in
+relative positions of back-vowel systems across genders and generations. The
+placements of front vowels fleece and trap , based on
+averages from a single formant measurement point, are provided for
+reference. Figure 5 provides trajectories for both allophones in this
+study, showing that toot and boot were distinct for all
+groups, with the postcoronal allophone placed slightly higher in the
+vowel space than other realizations. The postcoronal allophone took is
+more fronted than the elsewhere allophone put , which is
+an expected consequence of coarticulation; those two allophones of foot
+converge upon the same location in F1/F2 space. Open in
+Viewer Figure 5 . Predicted Formant Trajectories, Based on GAMM
+Analysis of Back Vowels Spoken by European Americans in DASS
+Open in Viewer Figure 6 . Predicted Formant Trajectories of
+Postcoronal Allophones, Based on GAMM Analysis of Back Vowels Spoken
+by European Americans in DASS

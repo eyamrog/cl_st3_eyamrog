@@ -1,0 +1,18 @@
+The concept of beneficence is the principle that public health
+surveillance should improve the health of the target population (
+64 ). While digital surveillance has the potential to improve
+infectious disease surveillance systems, part of this principle is clearly
+defining the target population of the surveillance system. As such,
+careful consideration should be directed at identifying who is and
+who is not captured by digital surveillance systems. Identification of
+blind spots is necessary to ensure that public health surveillance
+works toward improving the health of the target population it
+purports. Digital surveillance is promising because members of the target
+population who do not come into contact with more traditional
+medical-based surveillance systems can be captured. In addition, these systems
+can capture events that may be missed by traditional surveillance.
+One example is foodborne illness, where only a fraction of
+cases are captured by traditional surveillance ( 69 ). Under
+this view, the additional coverage of digital surveillance, while still
+a biased sample, can improve the overall coverage of the
+target population relative to traditional epidemiologic surveillance approaches alone.

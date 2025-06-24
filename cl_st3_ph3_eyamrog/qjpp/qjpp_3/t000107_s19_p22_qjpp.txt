@@ -1,0 +1,13 @@
+Loss of Fli1 conferred a similar advantage following LM GP33
+infection. Although both sgCtrl + and sgFli1 + C9P14 cells
+improved survival following a high dose LM GP33 challenge (
+Figure 6 E), sgFli1 + C9P14 cells resulted in substantially
+better control of bacterial replication compared to the sgCtrl +
+C9P14 cells at day 7 p.i. ( Figure 6 F).
+Consistent with the influenza virus model, this improved protective immunity
+was associated with greater numerical expansion of sgFli1 + C9P14
+cells compared to the sgCtrl + group ( Figure S6
+E). Thus, deficiency in Fli1 confers a substantial benefit on
+T EFF cell expansion and protective immunity during chronic Cl13
+infection, respiratory influenza virus infection, and systemic infection with an
+intracellular bacterium.

@@ -1,0 +1,10 @@
+We modeled the spike protein based on the Protein Data
+Bank coordinate set 6VXX, showing the first step of the
+S protein trimer activation with one RBD domain in the
+up position, bound to the hACE2 receptor ( Walls et
+al., 2020 38. Walls, A.C. ∙ Park, Y.J. ∙ Tortorici,
+M.A. ... Structure, Function, and Antigenicity of the SARS-CoV-2 Spike
+Glycoprotein Cell. 2020; 181 :281-292.e6 Full Text Full Text (PDF)
+Scopus (5950) PubMed Google Scholar ). We used the Pymol
+program (The PyMOL Molecular Graphics System, Version 2.2.0, Schrödinger, LLC.)
+for visualization.

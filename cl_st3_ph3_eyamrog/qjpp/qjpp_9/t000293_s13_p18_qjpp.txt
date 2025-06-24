@@ -1,0 +1,17 @@
+On the other hand, error analysis is also a common
+method used in learner corpus research. Error analysis usually does
+not make comparisons between native and non-native data; instead it
+focusses on errors in learners’ language. Typically, researchers select an
+error-prone linguistic item, retrieve all instances of the misuse of
+the item, and analyse them. Three articles in et and
+three articles in kjal conducted an error analysis, and most
+of them focussed on the lexico-grammatical errors in the text.
+This kind of analysis, however, is often limited to those
+items which researchers consider to be typical of specific learners.
+A more systematic means of error analysis is to devise
+a standardised system of error tags and to tag all
+the errors in a learner corpus. This process is very
+time-consuming and labour-intensive, but the advantages of a fully error-tagged
+corpus are huge ( Granger, 2002 : 14). Alongside these
+two methods, most articles tend to employ descriptive and statistical
+analysis methods.

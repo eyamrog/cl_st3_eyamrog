@@ -1,0 +1,17 @@
+On day 0, C9P14 cells were isolated from the spleens
+and lymph nodes of CD45.2 + C9P14 mice and processed
+to standard T cell activation protocol using anti-CD3/CD28 and IL-2;
+on the same day, naive CD45.1 + recipient mice were
+infected by LCMV. On D1 p.i., activated C9P14 cells were
+transduced by RV-sgRNA library and incubated for 6 hours before
+washing out the RV supernatant. 18-24 hours later, the transduced
+sgRNA + Cas9 + cells were sorted. Then, 10% of
+the sgRNA + Cas9 + T cells were frozen down
+as a D2 baseline (T0 time point) control prior to
+any selection, while 90% of the cells are transfer to
+the infected recipients (maximum 1X10 5 cells/recipient). On the T1
+time point (D8 in the graph), sgRNA + Cas9 +
+CD45.2 + T cells were sorted out from multiple organs
+of the recipients. For the test screening, both male and
+female donor/recipient mice were used; for the 120-TF library screening,
+male mice were used.

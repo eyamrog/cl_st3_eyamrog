@@ -1,0 +1,21 @@
+Various corpus tools are freely available for researchers to interrogate
+their corpus, including Antconc ( Anthony, 2017 ), Wordsmith (
+Scott, 2020 ), LancsBox ( Brezina et al., 2020 ).
+With these tools, researchers can easily upload their texts, and
+within seconds they can start conducting keyword analysis, collocation analysis
+and concordance reading. However, such tools may not be suitable
+for handling large corpora of more than 1 million words.
+More importantly, these tools might be cumbersome for compiling and
+analysing data which can be explored based on various variables
+and units of analysis. One such data is online discussions
+which consist of multiple conversation threads participated in by many
+users and are organized under numerous topics in a single
+forum or site. Various research questions can be asked at
+the different levels of online discussions to provide insights into
+users’ language practices and their interactions with each other. However,
+previous corpus analysis typically treated all comments in an online
+discussion as the same without any differentiation, for example differentiation
+between replies and new posts, posts that receive replies vs.
+those that do not, or posts that are contributed by
+different groups of users ( Drasovean and Tagg, 2015 ;
+Sotillo and Wang-Gempp, 2016 ).

@@ -1,0 +1,21 @@
+To evaluate whether the mAb pair can neutralize the virus
+synergistically, we next performed in vitro neutralization assays with 1C3
+and 1C11 cocktails using recombinant vesicular stomatitis virus (rVSV) pseudovirus.
+mAb synergy in the combined cocktail was quantified with CompuSyn
+software to estimate the combination index (CI), a measurement that
+evaluates the effect of a drug combination versus drugs individually
+( Chou, 2010 6. Chou, T.-C. Drug combination studies and
+their synergy quantification using the Chou-Talalay method Cancer Res. 2010;
+70 :440-446 Crossref Scopus (4313) PubMed Google Scholar ). CI
+values were calculated for each tested concentration of the cocktail,
+and CI values < 1 were considered as evidence of
+synergy (CI = 1 – additive effect; CI > 1
+– antagonism). The dose reduction index (DRI) was also calculated,
+indicating the fold-reduction in effective dose for individual mAbs in
+the cocktail. In one of three independent experiments to analyze
+synergy between 1C3 and 1C11 in the neutralization of rVSV/EBOV
+GP, at 50% effect level (Fa = 0.5), CI =
+0.63 indicating synergism. The IC 50 of 1C3 and 1C11
+in combination, was lower than the IC 50 of each
+mAb alone, with dose reduction of 2.64-fold for 1C3 and
+3.93-fold for 1C11 ( Table S1 ).

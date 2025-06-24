@@ -1,0 +1,8 @@
+Bivariate effects are analyzed visually using scatter plots with independent
+variables on the x-axis and dependent variables on the y-axis.
+Due to the large number of simulations, we sort the
+independent variables and bin them into 100 points on the
+x-axis, thus, showing the mean of 80 , 305 100
+≈ 803 simulations per point. Standard errors and 95% confidence
+intervals are omitted, as they hardly exceed the size of
+the dots in every plot.

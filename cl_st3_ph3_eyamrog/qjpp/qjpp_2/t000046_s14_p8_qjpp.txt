@@ -1,0 +1,8 @@
+Disease-specific excess expenditure was assigned to the prevalent disease cases
+in each annual cycle of the model, and a background
+health expenditure was assigned to all alive simulants. Health expenditure
+was tallied up under both BAU and intervention scenarios, with
+the difference between BAU and intervention being that ascribed to
+the tax or subsidy policy. Calibration and validation of the
+epidemiological aspects of the PMSLT is described in a technical
+report.

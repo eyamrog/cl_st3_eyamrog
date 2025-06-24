@@ -1,0 +1,26 @@
+The CMCs were smaller between strides than between individuals for
+both humans and bipedal chimpanzees ( Table 2 ). This
+indicates that there is more variation among humans and chimpanzees
+in ground reaction forces than there is within a given
+individual from one stride to the next. Among individuals, the
+mediolateral force was the most variable both in chimpanzees (r
+2 a = 0.847 ± 0.012) and humans (r 2
+a = 0.916 ± 0.038). Directly comparing the CMC values
+of human and chimpanzee samples indicates that, on average, chimpanzees
+are more variable in their ground reaction force stride-to-stride than
+humans at matched dimensionless speeds (H = r 2 a
+= 0.985, C = r 2 a = 0.922). Table
+2 . Adjusted coefficient of multiple correlation (CMC) of ground
+reaction forces (F y , F x , and F
+z ). Empty Cell F y, vert F x, ant-post
+F z, med-lat Humans a 0.994 ± 0.003 0.996 ±
+0.001 0.965 ± 0.017 Among humans b 0.958 ± 0.018
+0.972 ± 0.007 0.916 ± 0.038 Chimpanzees a 0.972 ±
+0.021 0.911 ± 0.054 0.884 ± 0.074 Among chimpanzees b
+0.962 ± 0.016 0.883 ± 0.031 0.847 ± 0.012 Human
+data are matched to the chimpanzee data in dimensionless (i.e.,
+relative-speed match) form (mean ± SD). CMC mean ± SD
+for 4 trials per subject, 3 subjects. The y, x,
+and z components of the ground reaction forces are vertical
+(vert), anterior-posterior (ant-post), and medial-lateral (med-lat), respectively. a Correlations between
+strides within subjects. b Correlations between subjects.

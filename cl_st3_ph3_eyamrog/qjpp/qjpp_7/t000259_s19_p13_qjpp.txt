@@ -1,0 +1,8 @@
+The results are highly similar across estimation strategies, with just
+one exception. Whereas a 1 in 10 chance of experiencing
+minor side effects was negative and failed to attain statistical
+significance (β = −0.02, p > 0.10) in Fig. 2
+, an effect of the same size (β = −0.02)
+did attain conventional levels of two-tailed significance in the random-effects
+model ( p < 0.05). The two sets of results
+were otherwise substantively and statistically consistent.

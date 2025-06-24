@@ -1,0 +1,9 @@
+Hypertonic treatment was applied to cells by adding medium that
+was mixed with a 10x PBS solution in the ration
+1:10 in order to reach a concentration of 560 mOsm.
+Hypotonic treatment was applied by adding deionized, distilled water to
+the medium (1:1). See Albiez et al. (2006) 1. Albiez,
+H. ∙ Cremer, M. ∙ Tiberi, C. ... Chromatin domains
+and the interchromatin compartment form structurally defined and functionally interacting
+nuclear networks Chromosome Res. 2006; 14 :707-733 Crossref Scopus (217)
+PubMed Google Scholar for details.

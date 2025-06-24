@@ -1,0 +1,17 @@
+Linear regression analysis was used to determine the association between
+AdjBW and either min of MVPA or SED per day.
+Several covariates were considered for inclusion in the regression models,
+including: sex, age, lean body mass, body fat percentage, aerobic
+fitness level, (accelerometer) wake wear time (the amount of time
+the accelerometer was worn while the participant was awake), and
+maternal smoking. The model for MVPA included sex, age, body
+fat percentage, VO 2max , accelerometer wear time, and the
+interaction term for AdjBW with age. The model for SED
+included sex, age, body fat percentage, VO 2max , accelerometer
+wear time, and the interaction term for AdjBW with sex.
+Interactions between AdjBW and all covariates were tested. Due to
+interaction between AdjBW and age, a separate analysis was performed
+by splitting the participants into two groups, as equally as
+possible: participants 18–21 years old ( N = 42) and
+participants 22–40 years old ( N = 33). Significance was
+set at p ≤ .05 for main effects.

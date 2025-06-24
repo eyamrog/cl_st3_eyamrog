@@ -1,0 +1,14 @@
+Collocation patterns with regard to women in apic confirm the
+regional rather than ‘global’ scope of the politically salient identities
+that woman assume. Table 7 shows the strongest collocations for
+the frame { nisāʾ * ( women *) + [
+adj ]}. Owing to the fact that Arabic has a
+‘rich’ and productive inflectional morphology ( Mohammed, 2012 : 112),
+I group all inflected variants under the same lemma. Furthermore,
+as the singular form of woman in Arabic, marʾa ,
+is from a different root than its Arabic plural form,
+nisāʾ , the singular and plural are not, strictly speaking,
+inflected variants of a single lemma. Association measures for Arabic
+collocations are therefore calculated with lemmatic frequency and the operational
+assumption that nisāʾ is, in effect, an ‘inflected’ form of
+marʾa .

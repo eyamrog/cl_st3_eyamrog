@@ -1,0 +1,20 @@
+Genotypes of F0 knock-in mice were verified by long overlapped
+PCR. We extracted genomic DNA from mouse tails and performed
+PCR tests. Two pairs of primers were designed to bind
+to flanking regions of the mouse sequence outside the homology
+arms and to the target KI sequence for PAPSS2 knock-in
+mice lines ( Figure S5 D). The primers for the
+candidate F0 knock-in mice were as follows: Primer I -
+5’ homology arm forward: 5’ CTCTGTTCATTCCTATTACTGGCTCT 3’; Primer II -
+5’ homology arm reverse: 5’ CAACCCACATCTTCCACCTTCT 3’; Primer III -
+3’ homology arm forward: 5’ AGAGGTGGTAATGGCAAAGACAA 3’; Primer IV -
+3’ homology arm reverse: 5’ ATAAAGAGCCCAAACATAAAGGAAG 3’. As shown in
+Figure S5 D, we expected a PCR fragment length of
+7.5 kb for the 5’ homology arm and a PCR
+fragment length of 5.2 kb for the 3’ homology arm
+of the F0 knock-in mice, compared with a 9.7kb PCR
+fragment at 5’ homology arm and a 9.5kb PCR fragment
+at 3’ homology arm for the WT mice. F0 mice
+for these four lines were selected for further experiments based
+on the match between the size of their PCR bands
+and these expectations.

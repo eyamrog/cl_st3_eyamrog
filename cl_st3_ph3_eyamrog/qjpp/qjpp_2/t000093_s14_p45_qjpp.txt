@@ -1,0 +1,17 @@
+For each experiment, the concentration of the protein of interest
+was determined for each cell, and the presence (or absence)
+of stress granules was categorized. The threshold concentration of inhibition
+(or rescue) was defined as the concentration of protein of
+interest at which cells had a 50 percent chance of
+having stress granules. Specifically, the probability density was calculated by
+binning the concentration distribution using a square root number rule.
+Within each bin, the probability of having stress granules was
+calculated as the number of cells with stress granules over
+the total number of cells in that bin. This results
+in a monotonic function; its value at a probability of
+0.5 was then interpolated to determine the threshold concentration of
+inhibition or rescue. This was repeated for each replicate and
+standard error of the mean between replicates was used to
+determine error bars. The bin size was used as the
+error if it was greater than that calculated for the
+SEM or in experiments with a single replicate.

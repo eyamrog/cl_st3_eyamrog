@@ -1,0 +1,27 @@
+Water restricted mice were placed in a chamber equipped with
+a water port. Mice were first trained to poke into
+the port for water reward on a “fixed ratio 1”
+(FR1) schedule for 2 days, during which every nose-poke leads
+to a reward (5 μl of water). Following the FR1
+training, the schedule was changed to FR4 for 2 days,
+which required the mice to poke the port 4 times
+with a maximal inter-poke-interval of 2 minutes in order to
+receive the reward. Next, the schedule was changed to FR10
+for 1 day. Finally, mice were tested with a progressive
+ratio (PR) schedule in which the number of nose-pokes required
+to obtain one reward followed a geometric progression according to
+a function: 𝑁 𝑗 = 2 0 ⁢ 𝑒 𝑗
+/ 2 0 − 2 0 where j is the
+trial number. The function was modified on the basis of
+previous studies ( Hodos, 1961 31. Hodos, W. Progressive ratio
+as a measure of reward strength Science. 1961; 134 :943-944
+Crossref Scopus (881) PubMed Google Scholar ; Richardson and Roberts,
+1996 60. Richardson, N.R. ∙ Roberts, D.C. Progressive ratio schedules
+in drug self-administration studies in rats: a method to evaluate
+reinforcing efficacy J. Neurosci. Methods. 1996; 66 :1-11 Crossref Scopus
+(1092) PubMed Google Scholar ). Before the PR schedule, mice
+were tested in an FR10 session. For the optogenetic activation
+during PR, mice received 10 Hz photostimulation (10-ms pulses; 4
+s laser on periods with 2 s laser off intervals;
+power, 10 mW; λ = 473 nm) during the entire
+PR session (60 min).

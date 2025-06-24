@@ -1,0 +1,8 @@
+Parkinson (2011) also drew on the esl science writing corpus
+described above and compared the lexico-grammatical features used to discuss
+the important research meanings of cause, purpose, conditional meaning and
+proof. The corpus was limited to the Discussion sections of
+esl physics reports (177,000 words) which were compared with a
+204,000-word corpus of Discussion sections from physics research articles, which
+is an appropriate comparison in that laboratory reports share the
+imrd (Introduction, Methods, Results, Discussion) structure of research articles.

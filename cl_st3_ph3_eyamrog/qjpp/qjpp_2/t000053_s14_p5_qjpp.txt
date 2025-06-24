@@ -1,0 +1,9 @@
+Outcomes were comparisons between intervention and control groups of tuberculosis
+case notification rates per 100 000 population, prevalence of pulmonary
+tuberculosis disease (measured during a population prevalence survey following the
+active case-finding intervention period), and incidence or prevalence of tuberculosis
+infection in children (measured by tuberculin skin test or interferon
+γ assay surveys). For tuberculosis case notification rates, we used
+the number of people who started tuberculosis treatment as the
+numerator; however, if studies reported only numbers diagnosed with tuberculosis,
+we included this as a proxy for case notifications.

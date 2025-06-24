@@ -1,0 +1,3 @@
+SureSelect design: The cHi-C SureSelect library was designed over the
+genomic interval (mm10, chr8: 39022300-48000000) using the SureDesign tool from
+Agilent.

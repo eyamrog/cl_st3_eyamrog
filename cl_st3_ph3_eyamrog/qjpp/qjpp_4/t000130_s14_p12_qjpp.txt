@@ -1,0 +1,21 @@
+Proteins that were expressed in GnTI-deficient HEK293S cells were used
+for crystallisation trials. Crystals were grown by the vapor diffusion
+method at 18°C by mixing the protein solution and crystallization
+solution in a 1:1 ratio. Purified hGPC3 core was concentrated
+to 5.3 mg/mL, and crystals were obtained using crystallization solution
+1 (20% ethylene glycol, 10% w/v PEG 8000, 0.1 M
+Tris/BICINE (pH 8.5) and 0.02 M of amino acids (L-Na-glutamate,
+alanine, glycine, lysine-HCl, and serine)). Crystals of mGPC3 core were
+obtained by concentrating the protein to 9.9 mg/mL in the
+presence of 100 mM NDSB256 and using crystallization solution 2
+(0.2 M ammonium nitrate and 20% w/v PEG3350). Crystals of
+the complex hGPC3 core and rUnc5D IgIgTSP were obtained by
+mixing the two proteins in a 1:1 M ratio and
+concentrating them to 5.8 mg/mL. The protein solution was then
+mixed with crystallisation solution 1. Crystals of the mGPC3 488
+and rUnc5D IgIgTSP complex were obtained by mixing the two
+proteins in a 1:1 M ratio, concentrating to 7.1 mg/mL
+and mixing with 15% w/v PEG 3000, 20% v/v 1,
+2, 4-butanetrol, 1% w/v NDSB 256, 0.1 M Gly-Gly/AMPD (pH
+8.5) and 0.2 M of amino acids (DL-arginine HCl, DL-threonine,
+DL-histidine HCl H 2 O, DL-5-hydroxylysine HCl, trans -4-hydroxyl-L-proline).

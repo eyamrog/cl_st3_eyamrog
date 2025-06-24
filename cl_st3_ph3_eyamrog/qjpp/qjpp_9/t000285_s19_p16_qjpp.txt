@@ -1,0 +1,20 @@
+The final distributional analyses examine how negative tag variation patterns
+between speakers of different genders and ages. All three localities
+show a significant effect of gender on the variation (Glasgow:
+χ 2 = 9.995, d.f. = 2, p < 0.01;
+Tyneside: χ 2 = 34.007, d.f. = 2, p <
+0.001; Salford: χ 2 = 18.915, d.f. = 2, p
+< 0.001), with remarkably consistent trends across the localities, as
+shown in Figure 3 : women tend to use more
+full and reduced variants, while men use coalesced forms to
+a greater extent than women. The only exception is with
+respect to reduced variants in Tyneside, where these particular variants
+are low frequency overall with little difference between the genders.
+When the tag innit is separated out from other coalesced
+variants, it comprises a higher proportion of tags for men
+versus women in all three localities. The social trends from
+these localities align with previous accounts of men leading in
+the use of innit in other varieties of British English
+( Andersen 2001 ; Torgersen, Gabrielatos, Hoffmann & Fox 2011
+; Pichler 2013 ). Open in Viewer Figure 3 .
+Distribution of Negative Tag Variants According to Speaker Gender

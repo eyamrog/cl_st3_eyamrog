@@ -1,0 +1,12 @@
+We used individual participant data from two sources in the
+UK: the 1958 birth cohort study (also known as the
+National Child Development Study) and the 1970 birth cohort study.
+Described in detail elsewhere, these are well established, ongoing, closed,
+geographically representative, prospective birth cohort studies, in which the investigators
+sampled all livebirths occurring during a single week in 1958
+(17 634 babies) and 1970 (17 287) in the contiguous
+countries of the UK. Data collection was approved by the
+National Health Service Research Ethics Committee for the 1958 study,
+and the London Central Research Ethics Committee for the 1970
+study. With the present data being anonymised, permissions for analyses
+were not required.

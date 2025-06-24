@@ -1,0 +1,16 @@
+Although we concentrated on vaccine sharing to increase equity in
+the proportion of the adult population of each country that
+has been vaccinated, due to the considerably increased vulnerability seen
+with age, vaccine sharing that accounts for age demographics may
+present an effective alternative redistribution strategy. High-income countries typically have
+older populations than low-income countries, and, as such, age-biased vaccine
+sharing strategies will typically see less substantial vaccine redistribution, with
+wealthy countries reserving an increased number of doses. In the
+full sharing, unchanged behavior scenario, we see that age-biased redistribution
+results in small increases in mortality in high-income countries (a
+16% mortality increase down from 22% relative to the current
+scenario, based on actual vaccine distribution to date) compensated by
+reduced reductions in low-income countries (a 30% reduction down from
+39% relative to the current scenario), when compared to non-age-biased
+sharing (Extended Data Figs. 5 and 6 and Supplementary Tables
+7 and 8 ).

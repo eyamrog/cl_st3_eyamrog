@@ -1,0 +1,11 @@
+All images were analyzed using a combination of manual image
+segmentation (ImageJ), custom semi-automated workflows in ImageJ, and automated analysis
+in MATLAB 2018b. In all experiments, regions of interest were
+selected in ImageJ and average cytoplasmic intensities were calculated using
+the aforementioned FCS calibration curves. The presence of stress granules
+was, in cases other than the cycling experiments, determined by
+manual scoring based upon co-localization with a protein marker of
+stress granules that features diffuse distribution in the cytoplasm in
+the absence of stress (and further, is diffuse in the
+cytoplasm of stressed G3BP KO cells without ectopic expression of
+a protein that rescues stress granule defects).

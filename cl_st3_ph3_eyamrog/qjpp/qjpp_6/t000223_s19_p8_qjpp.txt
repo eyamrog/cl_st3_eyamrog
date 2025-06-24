@@ -1,0 +1,15 @@
+Quartz and feldspar ages are consistent at 2 sigma through
+the sequence. However, it is noticeable that in the lower
+part of the sequence ( Fig. 4 ), the quartz
+ages are systematically older than the K-feldspar pIRIR 290 ages
+by ∼10–30% ( n = 6). Given the very different
+bleaching rates (perhaps by a factor of ∼100; refer to
+the study by Murray et al., 2012 ) of the
+fast component in quartz and the pIRIR 290 signals in
+feldspar, this is strong evidence that the quartz signals were
+fully bleached at the time of deposition. Download: Download high-res
+image (205KB) Download: Download full-size image Figure 4 . Quartz
+OSL (circle) and K-feldspar pIRIR 290 (square) age results (+/−
+1 sigma) in stratigraphic order, using the Average Dose Model
+(see SOM Figs. S11–S14 for other models). Empty symbols indicate
+the dose rate corrected ages for sample X6746.

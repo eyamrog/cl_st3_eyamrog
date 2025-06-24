@@ -1,0 +1,26 @@
+Of the twenty-two lcr papers which either studied written or
+spoken English (but not both), eighteen analysed written corpora, while
+only four analysed spoken, reflecting a preference in Hong Kong
+lcr for written data. One might speculate that this trend
+is due to the difficulties involved in the construction of
+spoken corpora. While written corpora are typically compiled from essays
+and letters (discussed further below), compiling a spoken corpus typically
+requires more time and manpower. For example, Fung and Carter’s
+(2007) corpus of learner group discussions involved recording the sessions,
+transcribing the audio, and annotating the transcripts. This degree of
+effort and resources required in the compilation of spoken corpora
+made it unviable, particularly in the early stages of lcr
+in Hong Kong. Such difficulties are reflected in the under-availability
+of spoken corpora worldwide ( Granger, 2004 ). It should
+be noted, though, that such difficulties should have been greatly
+reduced after two decades, particularly with the use of sophisticated
+speech recognition and annotation tools, which can be used to
+automatically transcribe recorded speech in seconds, and annotate the corpus
+with enhanced tag sets. Although quality control still necessitates some
+manual labour, various corpus tools have, in recent years, helped
+to reduce error rate to a tolerable range. Despite these
+additions to performance and also the virtue of spoken corpora
+in better reflecting learners’ spontaneous and unrepaired language production (
+Myles, 2015 ), Hong Kong lcr has largely ignored the
+use of spoken corpora and is thus predominantly skewed towards
+written forms. 4

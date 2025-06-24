@@ -1,0 +1,27 @@
+Briefly, the SBS polymer model simulates a chromatin filament as
+a string with 𝑁 beads, possessing potential binding sites for
+specific interacting molecules (binders). The binder concentration 𝑐 and bead-binder
+interaction energies 𝐸 𝑖 ⁢ 𝑛 ⁢ 𝑡 control the
+system’s state through a coil-globule transition occurring when they are
+above a threshold ( Barbieri et al., 2012 15. Barbieri,
+M. ∙ Chotalia, M. ∙ Fraser, J. ... Complexity of
+chromatin folding is captured by the strings and binders switch
+model Proc. Natl. Acad. Sci. USA. 2012; 109 :16173-16178 Crossref
+Scopus (0) PubMed Google Scholar ; Chiariello et al., 2016
+31. Chiariello, A.M. ∙ Annunziatella, C. ∙ Bianco, S. ...
+Polymer physics of chromosome large-scale 3D organisation Sci. Rep. 2016;
+6 :29775 Crossref Scopus (94) PubMed Google Scholar ). The
+type and location of binding sites specific for different regions
+of the Zfp42/Fat1 locus were inferred from ESC or E11.5
+limb cHi-C data using PRISMR (mm10 chr8: 40300000 - 46200000;
+20 Kb resolution) ( Bianco et al., 2018 22. Bianco,
+S. ∙ Lupiáñez, D.G. ∙ Chiariello, A.M. ... Polymer physics
+predicts the effects of structural variants on chromatin architecture Nat.
+Genet. 2018; 50 :662-667 Crossref Scopus (100) PubMed Google Scholar
+). This machine-learning based algorithm returns the minimal arrangement of
+binding sites to fit the input. As output, the best
+polymer modelling the Fat1/Zfp42 locus was generated with 13 distinct
+types of binding sites in each condition. From these polymers,
+we obtain a set of 3D structures representing chromatin conformations
+in ESC and E11.5 limb through standard Molecular Dynamics simulations
+(see below).

@@ -1,0 +1,9 @@
+When harmonizing data between Toronto and Chicago ( Robson et
+al. 2019 ), we were limited in the demographic variables
+that they could provide for analysis, but had tremendous envy
+on the detailed nature of the university and college enrollment
+information they had access to. Because all their data were
+of the administrative variety, they did not have many indicators
+of demographic factors that would typically be reported in our
+Toronto schools census (e.g. family size, parental education, country of
+origin—variables that are typically measured through self-report questionnaires).

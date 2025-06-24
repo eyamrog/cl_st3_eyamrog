@@ -1,0 +1,22 @@
+The outcome variable in all models is the formant value
+Z, which is a z-score calculated as described in the
+previous section. In the fixed part of Model A, the
+variables category and formant necessarily interact not only with each
+other but also with the two socio-stylistic predictors, gender and
+genre : prediction only makes sense if it can be
+applied to a specific vowel and a specific formant. gender
+and genre are specified as not interacting with each other,
+because we have little reason to expect that the effect
+of our five genres will differ systematically between genders. In
+Model B, the additional predictor age interacts with gender ,
+so that it is possible, for instance, to assess the
+special roles played by young women and men, rather than
+young speakers in general—a perspective taken in many classic sociolinguistic
+studies. In both models, the predictor spelling only interacts with
+the predictor F2 : an interaction with category would entail
+perfect collinearities (e.g., <ur> spellings must always belong in the
+category /ʌr/), and we have no reason to expect that
+a speaker’s age or gender should have an effect on
+the impact of this factor; we thus treat spelling as
+a truly language-internal factor. In Model C, full interactions for
+all four fixed predictors are specified.

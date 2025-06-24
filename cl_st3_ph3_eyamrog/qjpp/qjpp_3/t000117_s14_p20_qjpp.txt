@@ -1,0 +1,12 @@
+This task was designed to train mice to actively run
+on a wheel to pursue reward. Mice were first habituated
+to running on a wheel under head-restraint for 2-4 days
+(one session per day, each lasting 30∼45 min). Mice were
+subsequently subjected to training in which they were presented with
+a 1 s 3-kHz tone followed by a 1 s
+response window. If mice ran above a threshold speed (8
+cm/s) during the response window, they would receive 8 μL
+of water delivered through a spout. Such trials were counted
+as “hit” trials. Otherwise mice would receive nothing. Mice were
+trained one session per day. The inter-trial interval was randomly
+variable between 10 to 16 s.

@@ -1,0 +1,6 @@
+To examine the relationship between aggression and infanticide, and the
+potential effects of infanticide on reproductive output, we used a
+Fisher's exact test to examine the relationship between takeover mechanism
+(aggressive vs. non-aggressive) and the fate of the infant following
+the takeover (i.e., if the infant lived vs. died/disappeared within
+6 months after the takeover).

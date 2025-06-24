@@ -1,0 +1,20 @@
+For the first step of the analysis, all the make
++ noun collocations in kubec were extracted using the concordance
+function of the software AntConc version 3.5.7 ( Anthony, 2018
+). Since this study focusses on semantic aspects of collocations,
+nouns with similar meanings such as class schedule and time
+schedule were counted as the same noun, schedule . For
+the same reason, a pronoun what , which clearly indicated
+the following nouns, was counted as a noun collocation with
+make . For instance, the sentence ‘I could eat what
+I made including deep fried chickens’ shows the writer used
+what to denote fried chickens , a type of noun
+(food) that collocates semantically with make . Spelling or inflection
+errors were corrected as well, and plural and singular nouns
+were lemmatised. For example, friends and friend were counted as
+friend . All inflectional forms were counted as make ,
+which is based on Nation’s ( 2013 ) idea of
+lemma counting; that is, make + noun collocations included make
+, makes , making and made . Table 2 the
+numbers of make + noun collocations in kubec learners and
+icnale ens data used in this study.

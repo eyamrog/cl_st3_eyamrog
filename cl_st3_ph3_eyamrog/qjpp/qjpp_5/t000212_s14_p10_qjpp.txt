@@ -1,0 +1,7 @@
+Non-diagnostic morphotypes were also identified and counted. Apart from this
+general approach, we applied the calculation of the D/P index
+to evaluate the tree cover density ( Alexandre et al.,
+1997 ). The calculation is the ratio of spheroid ornate
+phytoliths (dicotyledons) versus total GSSCP (Poaceae). Values higher than 1
+suggest a forest vegetation while values lower than 1 indicate
+an open environment.

@@ -1,0 +1,11 @@
+To test this model econometrically, I have put together a
+database of 135 countries for a cross-sectional regression on the
+two days, with the estimator used for Equation 1 a
+standard ordinary least squares regression with standard errors clustered on
+the country variable; given the large number of plausible covariates,
+a stepwise general-to-specific (GETS) method in the manner of Hendry
+(1995) is used to narrow down the specification to only
+significant variables other than those variables of interest. Given the
+patchy availability of some institutional data, this yields in reality
+a number of observations between 103 and 119 for the
+regressions shown below.

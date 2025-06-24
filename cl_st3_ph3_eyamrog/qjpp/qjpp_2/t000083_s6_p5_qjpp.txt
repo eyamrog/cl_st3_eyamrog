@@ -1,0 +1,13 @@
+Vaccine-elicited spike-specific CD4+ and CD8+ T-cell responses may contribute to
+the durability of the antibody response and prevention of severe
+disease in cases of breakthrough infection. Our findings indicate that
+the three primary Covid-19 vaccines induced a predominantly Th1 CD4+
+T-cell response that persisted in the majority of recipients for
+up to 6 months, which is similar to the kinetics
+seen in SARS-CoV-2 natural infection. By contrast, CD8+ T cells
+were more durable in recipients of the primary Ad26.COV2.S vaccine,
+and heterologous boosting with the Ad26.COV2.S vaccine substantially increased spike-specific
+CD8+ T cells in the recipients of primary mRNA vaccines.
+Thus, the heterologous boost immunization strategy provides an immune response
+that may prove to be beneficial for durable prevention and
+control of Covid-19.

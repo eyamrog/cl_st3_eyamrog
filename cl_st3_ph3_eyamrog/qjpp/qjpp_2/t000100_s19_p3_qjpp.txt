@@ -1,0 +1,20 @@
+Analysis of the single-cell transcriptomes of all viral-reactive CD4 +
+T cells from all subjects revealed 13 CD4 + T
+cell subsets that clustered distinctly, reflecting their unique transcriptional profiles
+( Figures 2 A–2D and Table S2 F). Strikingly, a
+number of clusters were dominated by cells reactive to particular
+viruses ( Figures 2 B and S2 C). For example,
+the vast majority of cells in clusters 1 and 10
+were FLU-reactive (>65%), whereas cells in clusters 0, 5, 6,
+7, and 12 mainly consisted of SARS-CoV-2-reactive CD4 + T
+cells (>70%) from COVID-19 patients ( Figures 2 B and
+S2 C). Conversely, cells in clusters 2, 3, 4, 8,
+and 9 were not preferentially enriched for reactivity to any
+given virus ( Figures 2 B and S2 C). These
+findings suggest that distinct viral infections generate CD4 + T
+cell subsets with distinct transcriptional programs, although the timing of
+survey (acute illness versus past infection) will also contribute to
+their cellular states. Our data highlight substantial heterogeneity in the
+nature of CD4 + T cells generated in response to
+different viral infections on the one hand and shared features
+on the other.

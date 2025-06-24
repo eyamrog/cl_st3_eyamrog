@@ -1,0 +1,22 @@
+Single-cell sequencing showed that inflammatory fibroblasts in M4/M5-high tissue from
+patients with IBD represented the cell population demonstrating the strongest
+IL-1 response signature (Fig. 6b ; see Supplementary Table 9
+for IL-1 gene expression response), suggesting that activation of this
+pathway may be associated with the poor therapy response observed
+in those patients. In support, inflammatory fibroblasts and ABCA8 fibroblasts
+demonstrated the highest fold increase of IL-1 receptor gene expression
+( IL1R1 ) in patients with M4/M5-high IBD (Extended Data
+Fig. 8d ). By contrast, the expression of genes encoding
+TNF receptors ( TNFR1 and TNFR2 ) did not demonstrate
+this trend (Extended Data Fig. 8d ). Consistent with the
+predominant role of IL-1 in these patients, module M5 was
+enriched in inflammasome genes (Extended Data Fig. 8e ). Additionally,
+immunohistochemical staining revealed that IL-1β is localized to the ulcer
+bed and granulation tissue (Fig. 6c , top), but not
+to noninflamed tissue or that where lymphoid aggregates predominate (Fig.
+6d , top). Areas of intense IL-1β labeling also demonstrated
+intense staining of FAP (Fig. 6c,d , middle), suggesting that
+IL-1R signaling in the ulcer bed drives the inflammatory fibroblast
+program characterized by FAP expression. Areas of IL-1β and FAP
+labeling also demonstrated infiltrates of NE neutrophils (Fig. 6c,d ,
+bottom).

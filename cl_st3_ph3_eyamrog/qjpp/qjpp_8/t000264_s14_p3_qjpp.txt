@@ -1,0 +1,13 @@
+Reports aimed at describing community movement for the benefit of
+public health officials were made available by Google early in
+the pandemic and have been maintained since that time (
+Google LLC, n.d. ). Google makes these mobility metrics publicly
+available and categorizes mobility by type or purpose of movement:
+grocery and pharmacy, parks, transit stations, retail and recreation, residential,
+and workplaces. Mobility is calculated as the percent daily change
+in relation to a baseline median mobility established using January
+3, 2020 to February 6, 2020 as the pre-pandemic baseline.
+Only users who opted into Location History on their Google
+Account are captured in this measure. Positive values indicate more
+category-specific mobility compared to the baseline and negative values indicate
+less category-specific mobility compared to the baseline.

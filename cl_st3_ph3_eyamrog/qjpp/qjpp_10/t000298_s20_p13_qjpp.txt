@@ -1,0 +1,16 @@
+When interacting with negation in the context, the ‘restrictive’ just
+highlighted the fact that the focussed constituent was simply part
+of a more extensive propositional idea. In Example 12a, for
+instance, the co-occurrence of the ‘restrictive’ just and not extended
+the scope of the ‘statistics’ by saying that it was
+not limited to looking at ‘those who binge drink’. Similarly,
+in Example 12b, the benefits of having a part-time job
+were described as something more inclusive than the modified verb
+phrase (‘help your parents to pay your fee’), which helped
+justify the author’s positive attitude towards college students taking a
+part-time job. ( 12a ) They include statistics on all
+sides and do not just look at those who binge
+drink. ( usarg ) ( 12b ) Sum of all
+these reasons, having a part-time job can not just help
+your parents to pay your fee, but also teach you
+a lot. ( icnale )

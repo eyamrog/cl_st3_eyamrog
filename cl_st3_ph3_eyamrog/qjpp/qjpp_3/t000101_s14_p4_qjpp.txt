@@ -1,0 +1,5 @@
+SNP array data are available at Gene Expression Omnibus (GEO)
+under accession number GSE148488 . Gamete donors provided consent for
+genetic analysis and public data sharing. This study did not
+generate code. Genomic Prediction provides preimplantation embryo sample analysis service
+using gSUITE software.

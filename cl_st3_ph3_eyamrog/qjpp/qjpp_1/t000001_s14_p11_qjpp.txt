@@ -1,0 +1,11 @@
+To capture between-study heterogeneity—that is, disparities across the estimates obtained
+from the input sources for the meta-analysis—we entered the mean
+risk–outcome function and selected bias covariates obtained from our previous
+steps into a linear mixed-effects model that scaled the RR
+yielded by each study using study-specific random slopes. We estimated
+the variance of between-study random effects using the Fisher information
+matrix, which is robust to both data sparsity and the
+presence of within-study correlation. We report our main estimates of
+mean RR using uncertainty intervals that include the effect of
+between-study heterogeneity, from which we derived BPRF and associated ROS
+and star rating.

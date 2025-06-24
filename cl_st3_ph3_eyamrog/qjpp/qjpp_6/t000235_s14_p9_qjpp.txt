@@ -1,0 +1,10 @@
+In summary, listed outcomes are chosen because they might be
+the best indicators in the data to measure survey quality.
+The number of missing items corresponds to survey quality as
+missing items lower the power of any analysis. Reluctance seems
+appropriate to measure the atmosphere of the interview situation, which
+might not only affect interview quality but also the propensity
+to participate in follow-up studies. Including a variable that measures
+inference by third adults seems relevant, given the fact that
+presence of third persons can influence data quality negatively (
+Mneimneh et al. 2015 ).

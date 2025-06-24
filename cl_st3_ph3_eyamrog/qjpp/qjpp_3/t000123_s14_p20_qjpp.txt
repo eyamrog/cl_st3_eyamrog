@@ -1,0 +1,22 @@
+In this analysis, we focused on three major groups of
+retroelements: short interspersed nuclear elements (SINEs), long interspersed nuclear elements
+(LINEs), and long-terminal repeats (LTRs). Since the retroelement insertions are
+considered to be powerful markers for resolving phylogenetic relationships, we
+first constructed a presence/absence matrix of retroelement insertions across all
+six species. To achieve this, we ran all-vs-all LASTZ pairwise
+alignment for all six marsupials. According to this genomic synteny,
+we then generated the presence/absence matrix based in each pair
+of species on the following criteria: 1) For a TE
+in the reference species, if only the two flanking sequences
+of this TE (upstream and downstream 2kb) in the query
+species can be aligned, and there is no corresponding TE
+in the middle, this TE element is missing in that
+query species (character state “0”). 2) For a TE in
+the reference species, if the two flanking sequences in the
+query species can be aligned, and there are also orthologous
+TE pairs (length of the shorter/length of the longer TE
+> 50%) in the middle, this element exists in that
+query species (character state “1”). 3) If a TE in
+the reference species does not fall into either of these
+above categories, the corresponding status of this element in the
+query species is marked as “?”.

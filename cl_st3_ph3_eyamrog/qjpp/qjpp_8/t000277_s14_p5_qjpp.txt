@@ -1,0 +1,10 @@
+This suggests that the co-occurrence of two pronouns in a
+contrastive ( him or her ) or binomial ( him
+and her ) construction are very likely to be combined
+pronouns. The alternative, where each pronoun corresponds to a different
+referent, is rare. Additionally, it is worth noting that there
+are no instances where combined pronouns were used as part
+of a meta-discussion about pronoun reference. Finally, two further queries—(she|her|hers|herself)
+and (he|him|his|himself)—extracted all case forms of she and he to
+facilitate comparison between the combined pronouns and third-person singular pronouns
+more generally (see section 5.1).

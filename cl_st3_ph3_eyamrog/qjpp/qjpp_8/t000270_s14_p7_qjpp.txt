@@ -1,0 +1,20 @@
+Following the update of the population's epidemiological state, social network
+dynamics are computed. That is, for each agent i in
+random order a set J consisting of a fixed proportion
+( φ ) of agents from the entire population (
+N ) is selected. To realize the concept of focused
+interaction in an agent's social vicinity ( Feld, 1981 ),
+J is composed of neighbors at distance 1 and distance
+2, as well as agents randomly selected from the entire
+network. Furthermore, to account for homophily, each single agent j
+is selected either to be the most similar agent regarding
+risk perception ( r ) or an agent selected without
+regard to risk perception. More formally, we draw a random
+number u from the uniform distribution U ( 0,1 )
+and compare this to the homogeneity parameter ω such that:
+(2) j = k , with k { such that
+| r i − r k | = min ∀
+k ′ ∈ N * | r i − r
+k ′ | , if u ≤ ω is a
+randomly selected element of N * , i f u
+> ω

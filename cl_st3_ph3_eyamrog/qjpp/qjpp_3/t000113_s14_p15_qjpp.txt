@@ -1,0 +1,3 @@
+All statistical tests are described in the main text or
+the corresponding figure legends. Error bars indicate standard error of
+the mean (s.e.m.) unless otherwise specified. All comparisons were two-sided.

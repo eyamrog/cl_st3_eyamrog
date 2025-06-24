@@ -1,0 +1,15 @@
+The rarity of extended would may be affected by the
+large amount of backshift in the corpora, which makes extended
+would indistinguishable from its use as the preterite of will
+(hence the comparatively high amount of indeterminate tokens). Another factor
+influencing the frequency of extended would is, once more, the
+amount of direct quotes present in the corpora. Of the
+thirty-two instances found in the three corpora, thirteen are in
+direct quotes. Of those, eleven are to be found in
+the SAVE mini corpus, which contains the most recent texts.
+The apparent increase of extended would might simply be due
+to changes in journalistic style, which, as we have seen,
+appears to rely more on direct quotes in the twenty-first
+century than in 1939. Ignoring the quoted material, frequencies of
+extended would fall to four (1939), seven (1968) and eight
+(2000s). None of these differences is significant.

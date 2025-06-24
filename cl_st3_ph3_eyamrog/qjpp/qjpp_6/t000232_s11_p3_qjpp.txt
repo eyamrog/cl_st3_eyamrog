@@ -1,0 +1,16 @@
+Communication technologies are often proposed to solve poor patient transitions
+( Graetz et al. 2014 ). These are part of
+a suite of digital health technologies referred to as eHealth
+( Boogerd et al. 2015 ). eHealth is not simply
+an electronic way of doing things that were once done
+with paper. It fundamentally changes the way in which tasks
+are carried out ( Green, Harvey, and Knox 2005 ).
+Zamora et al.’s (2012) extended example of prescription orders illustrates
+this very well. On paper, a physician may identify medication
+doses in the measurements they prefer. An order may be
+combined with a note about allergies on the same piece
+of paper. A nurse who receives the order may add
+their own instructions to the pharmacist, to assist with interpretation.
+Paper allows information to be clustered together; recognizes the contributions
+of multiple clinicians who can be separated through different handwriting;
+and allows for individual quirks.

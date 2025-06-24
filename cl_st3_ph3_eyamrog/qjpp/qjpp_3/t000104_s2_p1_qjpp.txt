@@ -1,0 +1,13 @@
+The authors thank Peter Adams (Sanford Burnham Prebys Medical Discovery
+Institute [SBP], USA) for critically reading the manuscript, Kebin Liu
+(Augusta University, USA) for F5446, BioLegend (San Diego, CA, USA)
+for help with ELISA assays, and Sumit Chanda and Ani
+Deshpande labs (SBP, USA) for reagents and helpful comments. Buddy
+Charboro, Alexey Eroshkin, and Andrew Hodges provided technical support. SBP’s
+Animal Facility, Bioinformatics, Cell Imaging, Tumor Analysis, and Flow Cytometry
+Shared Resources are supported by an NCI Cancer Center support
+grant (P30 CA030199). This study was funded by grants from
+the DoD BCRP (W81XWH-15-1-0383) and CBCRP (21IB-0113). J.N.R. is funded
+by NIH (NS103434, CA238662, and CA197718). O.S. is funded by
+grants from the Swedish Childhood Cancer Foundation, Swedish Cancer Society,
+and Radiumhemmets Research Fund. J.W. is funded by NIH (GM089778).

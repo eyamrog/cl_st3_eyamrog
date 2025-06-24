@@ -1,0 +1,17 @@
+Methodologically, this example shows that integrating corpus analysis with micro-analysis
+goes one step further than keyword analysis to provide insights
+into users’ language practices through which they co-construct their interactions.
+Importantly, it shows how different keywords are combined to realize
+a language practice, how the same language practices are employed
+repeatedly within one thread, and how the language practices impact
+users’ interactions as their discussion evolves, in this case as
+two users with opposing views come to an agreement. This
+observation would not be possible if each keyword was only
+analysed independently and if only restricted context is examined during
+concordance reading. The micro-analysis enriches the findings of the keyword
+analysis as it further illustrates the language practices realized by
+the keywords and their role in users’ interactions. The combination
+of corpus analysis and micro-analysis is made easy with the
+CWB tool that allows the extending of concordance lines and
+the grouping of findings based on the unit of analysis
+and variable (e.g., replies) at the thread level.

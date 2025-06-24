@@ -1,0 +1,24 @@
+During the first two decades of lcr in Hong Kong,
+manual annotation with a moderate amount of computer assistance using
+tools was common ( Milton and Tsang, 1993 ; Flowerdew,
+1998 ; Hyland, 2004 ; and Fan, 2009 ). Among
+the tools, Wordsmith has been quite popular among researchers for
+its user-friendly interface, and its compatibility with other software such
+as Wmatrix ( Qian and Pan, 2019 ), which has
+online compatibility for keyword analysis ( Wong, 2018 ), and
+uam , which facilitates the use of user-specified tagsets (
+Crosthwaite and Jiang, 2017 ). The use of Computerized Language
+Analysis ( clan ) is also becoming popular because clan
+files are compatible with the Child Language Data Exchange System
+convention (see Lee et al . [2021]). The variety of
+corpus tools that have been employed demonstrates that lcr in
+Hong Kong is keeping up with international trends. The last
+decade demonstrates the use of more automated software such as
+multi-dimensional analysis tagger (e.g., Crosthwaite [2016]) and L2 syntactic complexity
+analyser (e.g., Lee et al . [2021]) to directly extract
+linguistic features from corpora. The application of more comprehensive and
+sophisticated indicators has seen a shift from focussing on isolated
+and cherry-picked features to more systematic analysis of linguistic trends
+in learners’ L2 production. These indicators can be divided into
+three categories based on their linguistic levels: lexis, syntax and
+discourse.

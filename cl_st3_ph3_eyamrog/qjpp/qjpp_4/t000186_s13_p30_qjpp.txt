@@ -1,0 +1,26 @@
+Allergy and asthma are the quintessential examples of mistargeted immunity,
+as these are immune responses against benign substances. Allergy and
+asthma are linked to hygiene primarily through effects on Th2
+responses, which in the presence of infections are likely preoccupied
+by actual parasites, moderated via Treg activity, or both (
+Maizels 2005 , Yazdanbakhsh et al. 2002 ). Food allergies
+may follow a similar pathway, though in some cases food
+allergens are similar or identical to antigens in macroparasites (for
+example, tropomyosin, the dominant allergic antigen in shellfish, is conserved
+across many invertebrates) ( Lopata et al. 2016 , Tyagi
+et al. 2015 ). Thus, the fact that certain immune
+responses react to these stimuli in the absence of their
+intended target makes sense. Autoimmune reactions also involve immune reactions
+against inappropriate antigens. These are usually kept in check through
+the mechanisms of central and peripheral tolerance, but peripheral tolerance
+may require maintenance of a state of partial desensitization through
+chronic stimulation of innate immune signaling pathways ( Bach 2018
+). Peripheral tolerance is also important in pregnancy ( Burt
+2013 , Jiang et al. 2014 , Saito et al.
+2007 ) because a mother must tolerate an antigenically distinct
+fetus. Disruptions of fetal tolerance are implicated in difficulty conceiving,
+fetal loss, and preeclampsia ( La Rocca et al. 2014
+, Redman et al. 1999 ), which may explain why
+infection with certain helminth species has been associated with increased
+odds of conception ( Blackwell 2016 , Blackwell et al.
+2015 ).

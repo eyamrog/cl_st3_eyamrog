@@ -1,0 +1,20 @@
+The results of the influence of respondents’ demographics on COVID-19
+threats and coping strategies are reported in Table 5 .
+There was a significant difference in the severity of COVID-19
+impact for females ( M = 57.6, SD = 8.1)
+and males, M = 56.1, SD = 8.6; t (649)
+= 2.3, p = .021. Intuitively, females were more likely
+to experience severe impact of COVID-19 than males. Similarly, significant
+difference existed for the coping strategies of females ( M
+= 56.4, SD = 8.6) and males, M = 54.5,
+SD = 9.8; t (649) = 2.7, p = .007.
+There was also a significant difference in the efficacy of
+coping strategies of males and females ( M = 55.4,
+SD = 9.6) and males, M = 52.6, SD =
+10.6; t (649) = 3.45, p = .001. Similar differences
+were found between females and males and the impact of
+COVID-19, as females ( M = 58.0, SD = 10.0)
+were more likely to be impacted than males, M =
+56.7, SD = 8.5; t (649) = 2.31, p =
+.050. However, the magnitude of the mean differences observed was
+very small.

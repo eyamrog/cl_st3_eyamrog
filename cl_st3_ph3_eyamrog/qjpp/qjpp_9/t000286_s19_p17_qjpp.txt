@@ -1,0 +1,6 @@
+This section applies syntactic tests from Tenny (1998) and Edelstein
+(2014) to tweets. In the case of need +ED, these
+tests check whether productions in Twitter align with Tenny’s (1998)
+and Edelstein’s (2014) (primarily) judgment-based data. In the case of
+need +ING, the tests check whether need +ING follows a
+similar set of syntactic constraints to need +ED.

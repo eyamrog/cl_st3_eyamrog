@@ -1,0 +1,14 @@
+In addition to the models presented in this paper, we
+also explored models without time-varying coefficients as well as an
+alternative mobility measure. The goodness of fit measures for the
+models without time-varying coefficients were higher suggesting worse fit without
+this added flexibility. This finding underscores the necessity for allowing
+for a fluctuating relationship between our metrics, particularly the mobility
+metrics, and COVID-19. We also explored an alternative metric of
+mobility, specifically the mobility metric produced by Descartes Labs (
+Warren and Skillman, 2020 ). This measure showed some similarity
+in trends over time to the Google work mobility measure.
+However, there was evidence missing were not random, and indeed
+no data were available for the entire study period in
+certain health regions. Therefore, Google mobility data were deemed superior
+for use in this analysis.

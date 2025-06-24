@@ -1,0 +1,14 @@
+Table 2 shows the number of combined pronouns in each
+corpus. The results have been normalized to number of occurrences
+per million words (pmw) to account for the fact that
+the corpora were very slightly different in their overall word
+count. For example, B-Brown comprises 1,152,310 words, while BE06 comprises
+1,147,097 words. The raw number of combined pronouns in each
+corpus is provided in parentheses. The table shows that combined
+pronouns are relatively rare in the corpora overall. In the
+earlier corpora, there was also a slight tendency for multiple
+tokens to occur in the same text. F06 in B-Brown,
+for example, accounts for three of the six tokens in
+the corpus, which suggests that combined pronouns were even rarer
+at the earlier time points as they clustered in a
+small number of texts.

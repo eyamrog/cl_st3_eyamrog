@@ -1,0 +1,26 @@
+The present study identified NAc low-frequency oscillatory power as a
+signal associated with LOC craving, and then implemented this biomarker
+to guide rDBS delivery in two subjects with BED and
+severe obesity. In the recording phase, in-lab assessments implicated NAc
+low-frequency signaling during naturalistic LOC eating. The generalizability of this
+signal to real-world settings was then corroborated by our finding
+that low-frequency oscillatory power was increased during real-world LOC eating
+events compared with non-LOC events. In the stimulation phase, 6
+months of bilateral NAc rDBS triggered by low-frequency power was
+found to improve LOC eating, as well as reduce body
+weight and BMI. Optimization of stimulation parameters is still ongoing
+in both subjects, and four additional subjects are expected to
+be implanted after a supplement approval to our investigational device
+exemption. The present study was a safety and feasibility assessment
+and LOC was the primary endpoint. As such, we did
+not control for changes in lifestyle or diet. However, we
+used single-blind subjects during stimulation to rule out stimulation-induced side
+effects and placebo effects. Moreover, subjects 1 and 2 both
+reported making healthier choices around food and having interest in
+being more physically active, although neither patient enrolled in any
+regular exercise or diet program during this 6-month follow-up. Therefore,
+we have found that, by ameliorating LOC through NAc stimulation,
+we’ve helped patients with severe obesity lose weight without providing
+them instruction or guidance on a dietary plan. This supports
+the stimulation-induced restoration of control in these subjects being the
+underlying mechanism of BMI improvement.

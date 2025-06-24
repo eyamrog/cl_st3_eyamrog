@@ -1,0 +1,21 @@
+One pattern that does emerge is a propensity for semi-/non-paradigmatic
+contexts in Glasgow to feature be tags (16 out of
+18 cases featured be forms). Most notably, int is used
+12.9 percent of the time in semi-paradigmatic environments (8 out
+of 62 tokens) in place of aren ’ t (
+N = 7) and haven ’ t ( N =
+1). This could reflect the potential derivation of int from
+aren ’ t (see section 4 ) but also demonstrates
+leveling of the present-tense be paradigm in negative tag formation,
+as these examples show lack of agreement between a non-third
+person singular subject/verb in the anchor clause and a third
+person singular verb in the tag. Weren’t and werenit are
+also found in tags attached to third person singular anchor
+clauses in both the Glasgow and the Tyneside data, mirroring
+a widespread tendency in English for negative tags to promote
+non-standard were usage ( Tagliamonte 1998 ; Cheshire & Fox
+2009 ; Moore 2010 ). Tags that are semi-/non-paradigmatic constitute
+only 5.5 percent of the total dataset (55/1009), so they
+are excluded from further analysis, as are the tags with
+ambiguous paradigmaticity that were excluded earlier (4.2 percent, 43/1009). Subsequent
+analyses will be based on the remaining 911 tokens.

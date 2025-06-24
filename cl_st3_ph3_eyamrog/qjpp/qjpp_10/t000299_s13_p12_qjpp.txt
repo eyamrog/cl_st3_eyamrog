@@ -1,0 +1,16 @@
+Continuing with L2 learners of Italian and employing the same
+longitudinal corpus as in Siyanova-Chanturia and Spina (2020) , Omidian
+et al . (2021) sought to shed further light on
+the development of L2 phraseological knowledge by looking at v+n
+combinations. Similar to the two studies discussed above, a quantitative
+approach was adopted, with three frequency and association measures being
+considered. The authors employed linear mixed-effects models because they not
+only offer statistical advantages over traditional regression models ( anova
+), but they also allow the researcher to identify individual
+variation among learners and essays. The results showed that time
+was a significant predictor of only one of the three
+measures, while the significant effect of proficiency was present across
+the board. Similar to Siyanova-Chanturia and Spina (2019) , these
+findings suggest that L2 phraseological development is a highly complex,
+multi-faceted process, wherein greater exposure to the target L2 does
+not automatically lead to more target-like and idiomatic phraseological output.

@@ -1,0 +1,11 @@
+To determine whether the associations with nonresponse are uniform across
+the genes in modules M4 and M5 or are driven
+by a small number of them, we compared the contribution
+of genes by ranking their individual power to predict nonresponse
+to anti-TNF and corticosteroid therapies. Again, the majority of genes
+from modules M4 and M5 were among the top predictors
+of nonresponse to both anti-TNF and corticosteroid therapy relative to
+genes in other modules (Fig. 1e,f and Supplementary Table 4
+). Thus, M4 and M5 reflect a coordinated shift in
+the expression of all their constituent genes in relation to
+therapy nonresponse across multiple IBD medications.

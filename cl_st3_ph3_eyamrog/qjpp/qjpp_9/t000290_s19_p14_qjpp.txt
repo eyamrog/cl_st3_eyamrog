@@ -1,0 +1,8 @@
+The GAMMs analyses of FAVE vowel formant (F1 and F2)
+trajectory data build upon the preceding results, incorporating both the
+spatial and temporal qualities of the vowels. Visualizations of the
+GAMMs for vowel formants across coda contexts are shown in
+Figure 6 , and within coda contexts in Figure 7
+. Open in Viewer Figure 6 . Vowel Formant Trajectories
+Within Coda Contexts Open in Viewer Figure 7 . Vowel
+Formant Trajectories Across Coda Contexts

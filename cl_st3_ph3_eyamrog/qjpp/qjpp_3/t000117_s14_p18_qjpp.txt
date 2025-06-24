@@ -1,0 +1,23 @@
+To assess how sodium deficiency affects behavioral and neural activity,
+we induced a sodium-depletion state in the mice, and used
+a high concentration (500 mM) of NaCl solution instead of
+the sucrose solution as the US in the reward-seeking task.
+To induce the sodium-depletion state, furosemide (Sigma, catalog number F4381)
+was administered to mice via intraperitoneal injection (50 mg /kg
+of body weight), as previously described ( Lee et al.,
+2019 39. Lee, S. ∙ Augustine, V. ∙ Zhao, Y.
+... Chemosensory modulation of neural circuits for sodium appetite Nature.
+2019; 568 :93-97 Crossref Scopus (47) PubMed Google Scholar ;
+Tindell et al., 2009 76. Tindell, A.J. ∙ Smith, K.S.
+∙ Berridge, K.C. ... Dynamic computation of incentive salience: “wanting”
+what was never “liked” J. Neurosci. 2009; 29 :12220-12228 Crossref
+Scopus (106) PubMed Google Scholar ). The mice were subsequently
+placed on a sodium-deficient diet (Bio-serv, catalog number F7730) and
+had free access to distilled water. These mice were trained
+to lick for the NaCl solution in the reward-seeking task.
+We conducted one session of imaging on these mice performing
+the task. Each mouse acquired 5 μl of the NaCl
+solution in every hit trial. After this experiment, the mice
+were allowed to recover for at least 4 days on
+a normal diet. We conducted a second session of imaging
+on these mice after the recovery.

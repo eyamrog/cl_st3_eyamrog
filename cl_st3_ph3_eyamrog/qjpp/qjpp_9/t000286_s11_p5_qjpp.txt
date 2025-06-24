@@ -1,0 +1,15 @@
+Edelstein (2014) agreed that the AEP and “standard embedded passive”
+(i.e., need +TO) are syntactically distinct forms. Her analysis hinged
+on the distinction between raising constructions and object control predicates
+in the argument structure of matrix verbs and non-finite clauses.
+3 The verbs want and like are normally control predicates,
+where the matrix verb assigns a thematic role to the
+grammatical subject of the matrix clause. However, Edelstein (2014) found
+evidence in acceptability judgments that when want and like appear
+as the matrix verb in the AEP, they are raising
+constructions, where the verb in the passive complement assigns the
+thematic role to the grammatical subject in the matrix clause.
+The change in argument structure for matrix verbs when they
+appear in the AEP versus when they appear in the
+standard embedded passive provides compelling evidence that the AEP is
+derivationally distinct from the standard embedded passive.

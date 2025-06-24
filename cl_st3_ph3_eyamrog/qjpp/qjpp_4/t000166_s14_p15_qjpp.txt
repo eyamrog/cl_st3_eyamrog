@@ -1,0 +1,3 @@
+We evaluated the fit measures for different models, concluding that
+the best model was the one shown in Figure 1
+.

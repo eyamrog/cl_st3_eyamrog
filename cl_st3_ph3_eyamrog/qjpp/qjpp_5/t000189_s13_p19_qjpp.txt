@@ -1,0 +1,17 @@
+The challenge in controlling SARS-CoV-2 once someone is infected stems
+in part from the fact that CoVs are perhaps 10,000
+years old but maintain many RNA virus adaptations that reach
+back perhaps billions of years ( Koonin et al. 2015
+, Woo et al. 2012 ). SARS-CoV-2 is a formidable
+manipulator of host immunity, and its ability to evade host
+defenses is due at least in part to an ancient
+RNA virus strategy of frequent genomic recombination. The process is
+a driving force in the genomic variation of CoVs and
+contributes to changes in tissue tropism, the rise of new
+strains, and the ability to spill into new hosts (
+Fehr & Perlman 2015 , Lau et al. 2015 ).
+Like all positive-strand RNA viruses, CoV genomes escape host immune
+detection by mimicking host RNA and manipulating host organelles into
+immune factor barriers (reviewed in Chen & Guo 2016 ,
+Knoops et al. 2008 , Romero-Brey & Bartenschlager 2014 )
+(see Figure 4 ).

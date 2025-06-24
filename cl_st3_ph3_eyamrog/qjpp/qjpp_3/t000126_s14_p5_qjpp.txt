@@ -1,0 +1,6 @@
+All mice were housed in specific pathogen-free conditions according to
+the National Institutes ofHealth (NIH), and all animal experiments were
+conducted under protocols approved by the MGH Institutional Animal Care
+and Use Committee (IACUC), and in compliance with appropriate ethical
+regulations. For all experiments, age-matched (8-10 week) female mice Sp140
+knockout or wildtype controls were used.

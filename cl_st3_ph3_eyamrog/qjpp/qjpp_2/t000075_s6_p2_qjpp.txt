@@ -1,0 +1,19 @@
+Efficacy after a single ide-cel infusion was encouraging, with a
+median response duration of 10.7 months, progression-free survival of 8.8
+months, and overall survival of 19.4 months across treated patients.
+The median response duration and progression-free survival were numerically longer
+at the 450×10 dose (11.3 months and 12.1 months, respectively).
+Increased depth of response was also associated with improved response
+durability; patients with a complete or stringent complete response had
+a longer median response duration at 19.0 months. Median CAR+
+T-cell expansion increased at higher target doses and was associated
+with longer progression-free survival. Ide-cel showed durable persistence in blood,
+with 36% of patients who could be evaluated having detectable
+CAR+ T cells at 12 months. The presence of these
+cells did not guard against recurrence; it is unclear whether
+the myeloma cells became resistant to the CAR T cells
+or the T cells became functionally compromised in some way.
+These efficacy results compare favorably with results in similarly heavily
+pretreated patients with relapsed or refractory myeloma treated with two
+recently approved regimens, selinexor plus dexamethasone and belantamab mafodotin (median
+progression-free survival, 3.7 months and 2.9 months, respectively).

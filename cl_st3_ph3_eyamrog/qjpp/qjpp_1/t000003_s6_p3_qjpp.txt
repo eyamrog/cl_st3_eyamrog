@@ -1,0 +1,9 @@
+After stringent matching to control for slightly more aggressive disease
+features in the patient population treated with tisa-cel (more frequent
+stage IV disease, older age and poorer performance status), ORR,
+CRR, PFS and OS were all significantly higher or longer
+after axi-cel infusion than after tisa-cel infusion. All sensitivity analyses,
+by considering time from CAR T order instead of time
+from infusion, by performing complete case analysis, by adjusting for
+residual imbalance in aaIPI or by using multiple imputation, led
+to the same exact conclusions.

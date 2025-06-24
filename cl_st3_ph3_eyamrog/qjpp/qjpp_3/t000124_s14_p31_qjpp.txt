@@ -1,0 +1,6 @@
+To identify ancient WGD events, we performed Synonymous (Ks) substitutions
+analysis on the fully annotated genomes with the SynMap2 (
+Haug-Baltzell et al., 2017 36. Haug-Baltzell, A. ∙ Stephens, S.A.
+∙ Davey, S. ... SynMap2 and SynMap3D: web-based whole-genome synteny
+browsers Bioinformatics. 2017; 33 :2197-2198 Crossref Scopus (63) PubMed Google
+Scholar ) available at CoGe webportal ( https://genomevolution.org/coge/SynMap.pl ).

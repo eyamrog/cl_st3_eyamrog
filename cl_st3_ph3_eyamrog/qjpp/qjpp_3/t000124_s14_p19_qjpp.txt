@@ -1,0 +1,5 @@
+Preliminary assemblies were evaluated for contiguity and completeness with BUSCO
+( Seppey et al., 2019 87. Seppey, M. ∙ Manni,
+M. ∙ Zdobnov, E.M. BUSCO: assessing genome assembly and annotation
+completeness Methods Mol. Biol. 2019; 1962 :227-245 Crossref Scopus (703)
+PubMed Google Scholar ).

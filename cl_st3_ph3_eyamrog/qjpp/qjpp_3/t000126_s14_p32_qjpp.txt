@@ -1,0 +1,27 @@
+All mice were housed in specific pathogen-free conditions according to
+the National Institutes ofHealth (NIH), and all animal experiments were
+conducted under protocols approved by the MGH Institutional Animal Care
+and Use Committee (IACUC), and in compliance with appropriate ethical
+regulations. For all experiments, age-matched mice Sp140 knockout or wildtype
+controls were randomized and allocated to experimental group, with 6-12
+mice per group. No statistical method was used to determine
+sample size. Mice were administered 2.5% Dextran Sodium Sulfate Salt
+(DSS, MW = 36,000-50,000 Da; MP Biomedicals) in drinking water
+ad libitum for 7 days (freshly prepared every other day),
+followed by regular drinking water for 5 days. For macrophage
+transfer experiments, 7 day mature bone marrow derived macrophages were
+injected (1x10 6 , i.v.) one day before DSS administration
+and Day 4 post DSS. For topoisomerase inhibition experiments, mice
+were administered DMSO (control), topotecan (Sigma) or etoposide (Sigma) by
+intraperitoneal injection (i.p. 1mg/kg) starting on day 1 and administered
+every other day until mice were sacrificed on day 12.
+Colon length was measured and Day 9 fecal samples were
+homogenized in PBS, spun down and supernatants were collected and
+assayed for Lipocalin-2 by ELISA, according to manufacturer’s instructions (R&D).
+For cytokine measurements, day 12 colon tissue (excised approximately 1
+cm) was washed in PBS and then placed in a
+24 well plate containing 1mL of RPMI medium with 1%
+penicillin/streptomycin and incubated at 37°C with 5% CO2 for 24
+hours. Supernatants were collected and centrifuged for 10 min at
+4°C and IL-6 and TNF levels were assessed by ELISA,
+according to manufacturer’s instructions (R&D).

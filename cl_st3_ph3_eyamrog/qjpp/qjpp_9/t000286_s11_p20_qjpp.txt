@@ -1,0 +1,15 @@
+The low frequency of need -passives presents a fundamental challenge
+to quantitative approaches to the study of language variation and
+change. Labov (2006 :32) set out the principle for linguistic
+variables that “the most useful items are those that are
+high in frequency, have a certain immunity from conscious suppression,
+are integral units of larger structures, and may be easily
+quantified on a linear scale.” While variationist methodologies have expanded
+and diversified tremendously since Labov‘s foundational work in the 1960s,
+gathering a large sample of a variable and quantifying its
+occurrence or non-occurrence remains at the heart of Labovian sociolinguistics.
+The preference for structurally obligatory, high-frequency features is especially reflected
+in the central position of phonetic and phonological variables in
+variationist sociolinguistics but is also reflected in the variables that
+have been selected for morphosyntactic (e.g., Tagliamonte 2011 :206-241) and
+discourse-pragmatic (e.g, Pichler 2016 ) analyses.

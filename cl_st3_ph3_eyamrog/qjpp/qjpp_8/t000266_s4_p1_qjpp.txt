@@ -1,0 +1,6 @@
+By generating utility weights, the WOOP can now be used
+in economic evaluations of health and social care services targeted
+at older people, first of all in the Netherlands. Furthermore,
+the methodological approach used in this study may be helpful
+for future studies valuing newly developed measures with similarly large
+descriptive systems.

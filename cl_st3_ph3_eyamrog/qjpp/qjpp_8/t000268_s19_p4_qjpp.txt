@@ -1,0 +1,15 @@
+At the regional level, we find similarities in the results
+obtained across regions. On the one hand, the coefficient associated
+with contemporary global uncertainty takes in all cases lower values
+than for the index lagged one period. The coefficients associated
+with the GEPU index, both contemporary and with a one-period
+lag, are found to be significant in the Middle East
+and North Africa (column 5) and in sub-Saharan Africa (column
+6). In sub-Saharan Africa, the coefficient for lagged economic uncertainty
+takes the highest value, suggesting that an increase of one
+unit in the index is associated with an increase in
+the mean suicide rate of 0.099 in the subsequent year.
+On the other hand, as was the case globally, in
+all regions except Europe and Central Asia, the lagged effect
+of the GEPU index is positive while the contemporary one
+is negative.

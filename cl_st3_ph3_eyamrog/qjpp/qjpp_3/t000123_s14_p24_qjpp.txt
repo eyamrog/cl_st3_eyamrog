@@ -1,0 +1,9 @@
+Considering that the assembly procedure could result in a small
+number of Ns in some LASTZ synteny blocks, we found
+61 informative markers with Ns in both upstream and downstream
+in the tammar wallaby and/or monito del monte genomes. By
+excluding these TEs in the analyses, the above conclusion was
+not affected. The monito del monte is still placed outside
+the Australasian group, while polytomy remains rejected (p value =
+1.1477e-14), and hybridization is not accepted either (p value =
+1).

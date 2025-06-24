@@ -1,0 +1,8 @@
+Lastly, our structural analyses of Env in immature viral particles
+show that Env is situated directly over 2-fold symmetric contacts
+of the Gag lattice, providing structural evidence of a direct
+physical Env-Gag interaction, helping to inform models for virion particle
+assembly and Env incorporation. Taken together, our results advance understanding
+of HIV-1 Env in the context of virion assembly, maturation,
+and conformational sampling, revealing insights that are generally unavailable through
+structural studies on recombinant proteins alone.

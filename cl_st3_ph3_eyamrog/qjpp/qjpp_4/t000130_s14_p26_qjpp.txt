@@ -1,0 +1,27 @@
+Single Cell RNASeq of human neuroblastoma tumor samples were exploited
+from Dong et al. (2020) 30. Dong, R. ∙ Yang,
+R. ∙ Zhan, Y. ... Single-Cell Characterization of Malignant Phenotypes
+and Developmental Trajectories of Adrenal Neuroblastoma Cancer Cell. 2020; 38
+:716-733.e6 Full Text Full Text (PDF) Scopus (72) PubMed Google
+Scholar ; GEO ID: GSE137804 ) public dataset. Raw sequencing
+data were processed following the partially published method details, explaining
+the different UMAP obtained in the present study. The R
+package Seurat (v4.0.1) was used to calculate the quality control
+metrics. To filter out low quality cells, we kept all
+cells with at least 200 detected genes and less than
+10% of mitochondrial genes. Doublet cells were removed with the
+R package DoubletFinder (v2.0.3). To merge all samples without biasing
+the analysis with batch effects, while preserving the biological variation,
+we applied Seurat integration and re-computed a clustering based on
+the corrected matrix. Single RNAseq data for cortex samples were
+obtained from the published NCBI Gene Expression Omnibus with accession
+numbers GSE65000 ( Florio et al., 2015 34. Florio, M.
+∙ Albert, M. ∙ Taverna, E. ... Human-specific gene ARHGAP11B
+promotes basal progenitor amplification and neocortex expansion Science. 2015; 347
+:1465-1470 Crossref Scopus (378) PubMed Google Scholar )and GSE153164 (
+di Bella et al., 2021 8. di Bella, D.J. ∙
+Habibi, E. ∙ Stickels, R.R. ... Molecular logic of cellular
+diversification in the mouse cerebral cortex Nature. 2021; 595 :554-559
+Crossref Scopus (75) PubMed Google Scholar ). We used the
+same UMAP coordinates and metadata information with the cluster categorization
+provided by the authors.

@@ -1,0 +1,12 @@
+Pilot testing included technical testing to ensure the messages were
+delivered correctly and on time, and “real-world” testing of admissions,
+deaths, and discharges during the study period. A total of
+943 notifications were sent during the 4 months. At the
+end of the pilot, FPs rated the value of the
+system: 96 percent agreed/strongly agreed that eNotification was an asset
+to their practice; 72 percent reported they scheduled or canceled
+an appointment as a result of the notification; 68 percent
+found that they were better prepared to discuss a patient’s
+care with them or their families; and 83 percent thought
+that the notification enabled them to provide better care. Complete
+results are presented in Table 1 .

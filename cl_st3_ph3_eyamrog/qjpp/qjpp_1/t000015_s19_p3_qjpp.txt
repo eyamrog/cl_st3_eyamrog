@@ -1,0 +1,16 @@
+Because denervation of fast-fatigable (FF) motor units in skeletal muscle
+precedes the spinal MN loss in patients with ALS and
+in SOD1, TDP-43 and FUS mouse models of ALS ,
+we next looked for evidence of denervation in the tibialis
+anterior (TA) muscle, which is innervated predominantly by FF MNs.
+At 1 year of age, we found that approximately 5%
+and 8% of the TA neuromuscular junctions (NMJs) were at
+least partially denervated in P517L/WT and Δ14/WT mutant mice, respectively,
+compared to 0.8% denervation observed in the wild-type mice (Fig.
+1d and Extended Data Fig. 1d,e ). By 1.5 years,
+TA denervation increased to 11% and 10% in P517L/WT and
+Δ14/WT mutants, respectively, and persisted at a similar level at
+2 years of age (Fig. 1d ). In contrast, the
+soleus muscle, innervated mostly by slow MNs that are relatively
+spared in patients with ALS and animal models, remained innervated
+in all 2-year-old animals (Fig. 1d ).

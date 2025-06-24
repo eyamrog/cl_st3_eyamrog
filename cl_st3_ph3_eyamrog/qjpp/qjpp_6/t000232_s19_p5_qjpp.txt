@@ -1,0 +1,16 @@
+Discharge notification was different because there was a legal mandate
+for discharge summaries to be sent to FPs. This work
+was done by a centralized unit called Health Records. There
+is no legal mandate for immediate discharge notification, and there
+are many steps that introduce potential delays in the transmission
+of discharge summaries. First, the discharging physician often dictated the
+summary as or just after the patient was physically leaving
+the hospital; that is, the work did not commence until
+the patient was already transitioning. Second, the dictation went into
+a queue until a staff member became available to transcribe
+it. Third, the transcribed summary was sent in another queue
+to Health Records to be distributed, and fourth, staff at
+Health Records had to physically place the summary into an
+envelope with the FP’s office address on it. Finally, a
+courier had to pick the envelope up and deliver it
+to the FP. 5

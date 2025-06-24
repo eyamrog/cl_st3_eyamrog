@@ -1,0 +1,18 @@
+Economic uncertainty is a driver of the business cycle. Its
+leading properties make it a key advanced indicator to assess
+the impact of socioeconomic factors on suicide for prevention purposes.
+This paper evaluates the effect of economic uncertainty on suicide
+rates worldwide. Uncertainty is gauged by a global economic policy
+uncertainty index. Suicide rates from 183 countries between 2000 and
+2019 are matched to annual economic uncertainty, controlling for unemployment
+and economic growth in a fixed-effects panel model. Overall, the
+analysis suggests that increases in lagged economic uncertainty, as well
+as in unemployment and economic growth, may lead to an
+increased risk of suicide. When replicating the experiment for different
+regions of the world, the greatest impact of an increase
+in economic uncertainty can be found in Africa and the
+Middle East. Given the anticipatory nature of economic uncertainty regarding
+the evolution of economies, and its relationship with suicide rates,
+the results highlight the usefulness of uncertainty indicators as tools
+for the early detection of periods of increased suicide risk
+and the design of suicide prevention strategies .

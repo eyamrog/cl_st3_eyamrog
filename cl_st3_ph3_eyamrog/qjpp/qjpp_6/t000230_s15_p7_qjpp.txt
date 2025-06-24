@@ -1,0 +1,24 @@
+While public-release data files of PISA are possible to examine,
+they suppress or exclude “sensitive” variables. 1 It is unclear
+if Canada collects race data in their PISA survey, like
+other countries such as the United States ( National Centre
+for Education Statistics 2020 ) or the United Kingdom (
+Department for Education 2019 ). While the findings on low-income
+and immigrant students are reported, glossing over this important factor
+associated with educational attainment and achievement in Canada severely compromises
+our understanding (and recognition) of systemic racism in the Canadian
+education system and suggests race does not matter, when an
+increasing body of evidence is strongly indicating that it does.
+While Canadian PISA data results often celebrate that the children
+of immigrants are outstanding performers ( Cardoza 2018 ), “immigrant
+status” as an indicator does nothing to examine the systemic
+racism experienced by Canadian-born Black and Indigenous People of Color.
+This point has been further highlighted by Jones (2014 :25)
+who argued that because Canada does not have national education
+data . . . it [is] impossible to provide the
+sort of nuanced analysis that is needed in order to
+actually understand who is being left behind in terms of
+access, . . . Observers of Canadian higher education recognize
+that equity is a problem, but the lack of data
+on, for example, race, disability, or sexual orientation is a
+significant barrier to advancing the conversation.

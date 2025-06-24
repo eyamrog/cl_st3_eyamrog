@@ -1,0 +1,17 @@
+Sensitive data includes but goes beyond the legal definition of
+‘personal data’. Personal data comprises direct and indirect identifiers, with
+the former referring to ‘attributes or combinations of attributes that
+are structurally unique for all persons in your data’ (
+Elliot et al., 2020 :48) such as an individual's name
+or NHS number ( UK Government 2018 ). Examples of
+indirect identifiers include a combination of age, birthplace and marital
+status, meaning that someone may be identified through a combination
+of rare variables. Personal information may be considered sensitive where
+there is a risk of damage to the individual if
+the information is misused or mishandled. Whilst there is general
+agreement that information on health or criminal convictions always comprises
+sensitive data, Simitis (1999:5, cited in Elliot et al., 2016
+), suggests that any item of personal data can be
+sensitive ‘depending on the purpose or the circumstances of the
+processing’. For example, natal sex may be sensitive data where
+someone has transitioned ( Staples et al., 2018 ).

@@ -1,0 +1,18 @@
+The stable HEK293T cell line expressing high levels of HIV
+Env, ADA.CM.v4, was described previously ( Stano et al., 2017
+81. Stano, A. ∙ Leaman, D.P. ∙ Kim, A.S. ...
+Dense Array of Spikes on HIV-1 Virion Particles J. Virol.
+2017; 91 :e00415-17 Crossref Scopus (45) PubMed Google Scholar ).
+Cells were grown in DMEM supplemented with 10% heat-inactivated fetal
+bovine serum (FBS; ThermoFisher Scientific), 20 mM L-glutamine, 100 U/mL
+penicillin, 100 μg/mL streptomycin, and 2.5 μg/mL puromycin (all media
+additives from ThermoFisher Scientific) and incubated at 37þC with 5%
+CO 2 . A stable cell line expressing Env BG505
+was generated using a similar method, namely by transduction of
+HEK293T cells using a lentiviral vector (pLentiIII.BG505.755 ∗ ) containing
+the Env gene BG505 with a stop codon at position
+756. Transduced cells were subjected to two rounds of sorting
+by FACS using fluorescently labeled quaternary neutralizing antibody PGT145 and
+non-neutralizing CD4BS antibody b6, then gating cells for PGT145 high
+b6 low . The gender of the HEK293T cell line
+is female.

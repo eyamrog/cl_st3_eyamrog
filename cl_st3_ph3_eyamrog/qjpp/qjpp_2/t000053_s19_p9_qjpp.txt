@@ -1,0 +1,19 @@
+The ZAMSTAR study was a cluster-randomised trial in 24 communities
+in Zambia and South Africa. The active case-finding intervention (referred
+to as enhanced case-finding) included community mobilisation, education about tuberculosis
+in schools, fast-track sputum collection points in health-care facilities, and
+mobile community sputum collection points. Tuberculosis diagnosis in the active
+case-finding intervention was based on smear microscopy. In a post-intervention
+survey, the overall prevalence of culture-positive tuberculosis among those with
+valid sputum samples (with 90% survey participation, 73% sputum collection,
+and approximately two-thirds with an evaluable sputum sample) was 1277
+per 100 000 people in areas without active case-finding (505
+people with tuberculosis disease) and 1485 in areas with active
+case-finding (389 people with tuberculosis disease, adjusted mean tuberculosis prevalence
+ratio of 1·09, 95% CI 0·86–1·40). Among schoolchildren serially tested
+with tuberculin skin test before and after the intervention period,
+positivity among children who had been tuberculin skin test negative
+at baseline was 1·41 per 100 person-years in active case-finding
+clusters (391 children with incident tuberculosis infection) and 1·05 in
+non-active case-finding clusters (342 children with incident tuberculosis infection, adjusted
+rate ratio 1·36, 95% CI 0·59–3·14).

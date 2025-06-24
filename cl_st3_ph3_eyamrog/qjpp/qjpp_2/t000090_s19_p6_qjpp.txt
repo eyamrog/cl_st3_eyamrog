@@ -1,0 +1,25 @@
+We next investigated whether these protein transformants had other defining
+features of [ ESI + ]. First, we repeated Snt1
+aggregate transformations in an snt1 Δ recipient strain. We observed
+no zinc resistance, suggesting that constant presence of Snt1 is
+needed for propagation of [ ESI + ] (feature 5)
+( Figure S1 G). Second, we asked whether the zinc
+resistance of wild-type Snt1 aggregate transformants could be eliminated by
+transient Hsp90 inhibition; it can in [ ESI + ]
+type strains ( Chakrabortee et al., 2016a 15. Chakrabortee, S.
+∙ Byers, J.S. ∙ Jones, S. ... Intrinsically disordered proteins
+drive emergence and inheritance of biological traits Cell. 2016; 167
+:369-381 Full Text Full Text (PDF) Scopus (78) PubMed Google
+Scholar ). We passaged zinc-resistant protein transformants on media containing
+a low dose of radicicol, a selective inhibitor of Hsp90
+( Jarosz and Lindquist, 2010 43. Jarosz, D.F. ∙ Lindquist,
+S. Hsp90 and environmental stress transform the adaptive value of
+natural genetic variation Science. 2010; 330 :1820-1824 Crossref Scopus (213)
+PubMed Google Scholar ). We then restored Hsp90 function by
+passaging these cells in rich medium without the drug. This
+regimen eliminated zinc resistance of Snt1 protein transformants ( Figure
+1 J), just as it did in [ ESI +
+] cells. Our observations establish that [ ESI + ]
+fulfills all defining features of prion proteins: it is both
+proteinaceous and infectious—a mitotically and meiotically heritable epigenetic state linked
+to an altered, self-templating conformation of Snt1.

@@ -1,0 +1,19 @@
+RNase protection assay was performed as described previously ( Roulois
+et al., 2015 50. Roulois, D. ∙ Loo Yau, H.
+∙ Singhania, R. ... DNA-Demethylating Agents Target Colorectal Cancer Cells
+by Inducing Viral Mimicry by Endogenous Transcripts Cell. 2015; 162
+:961-973 Full Text Full Text (PDF) Scopus (976) PubMed Google
+Scholar ) with modifications. Total RNA from MDA-MB-231 cells (2
+× 10 6 ) transfected with control or 2 different
+FBXO44 siRNAs was isolated using the RNeasy Plus Mini Kit
+(QIAGEN no. 74134) and 4 μg of total RNA dissolved
+in 49.5 μL RNase protection buffer (10 mM Tris-HCl [pH
+7.5], 350 mM NaCl). Then 0.5 μL RNase A (10
+mg/ml, Sigma-Aldrich no. R6513) was added and the mixture incubated
+for 30 min at 37°C. dH 2 O was added
+to the control sample. dsRNA was isolated and denatured at
+95°C for 5 min. Reverse transcription was carried out using
+qScript cDNA SuperMix (Quantabio no. 95048) and qPCR reactions performed
+using primers listed in the “qPCR analyses” section. dsRNA enrichment
+for selected REs was calculated by (RE/GAPDH) RNase A /
+(RE/GAPDH) control .

@@ -1,0 +1,19 @@
+Unlike corpus analysis which exploits big data, digital CA is
+a micro-level analysis that examines a thread in depth. For
+example, Stommel & Koole (2010) conducted digital CA on a
+thread of a forum in which a new member interacts
+with other members. They showed that mismatch of turn-taking between
+new members and veteran members may result in new members
+not being welcomed. This happens when the new member engages
+in problem telling in their opening post (e.g., “I had
+to tell someone”, p. 366) but does not acknowledge the
+advice given by veteran members who treat the opening post
+as advice seeking. This micro-level analysis provides insights into the
+implications of a particular language practice on the interactions between
+new and veteran members. This is a perspective different from
+McDonald & Woodward-Kron's ( 2016 ) corpus analysis that only
+shows the differences in language choices adopted by new and
+veteran members. This micro-level analysis highlights the importance of examining
+the whole thread of online discussions on top of the
+corpus analysis, that is expanding the concordance lines to the
+threads.

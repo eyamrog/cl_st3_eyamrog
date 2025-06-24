@@ -1,0 +1,16 @@
+One interactional approach to online discussions is digital CA ,
+a methodology developed by Giles et al. (2014) who adapted
+the principles of (spoken) conversation analysis (CA) to examine online
+data. Essentially, this approach analyses a conversation turn-by-turn to understand
+social interactions ( Sacks et al., 1974 ). A conversation
+can be seen as a sequence of actions or conversational
+moves, such that each turn can be considered as an
+immediate response to the preceding turn, and at the same
+time be designed to elicit response in the next turn.
+Thus, CA analyses the language practice in each turn in
+relation to the adjacent turn. In digital CA, the post
+and replies within a thread can be loosely operationalized as
+corresponding to the turn-taking in spoken conversation, although users do
+not need to compete for conversational floor, thus turn-taking within
+a thread can interleave with multiple conversations and a turn
+can be one-to-many ( Herring, 1999 ; König, 2019).

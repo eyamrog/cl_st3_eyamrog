@@ -1,0 +1,13 @@
+We would like to note the initial independent development of
+nucleosomal array studies by T.O.T. We thank Dr. Armin Gamper
+for providing JQ1 and Dr. Xuejun Sun and the Cell
+Imaging Facility for microscopy support. We also thank Darin McDonald
+and Kristal Missiaen for technical support and Thomas Cremer for
+discussions and support. A.S., D.A.U., H.S., and M.J.H. would like
+to dedicate their contribution to this work to the memory
+of Darin McDonald, who died suddenly during the completion of
+the study. This work was supported by grants from the
+National Science Foundation (MCB-1814012 to J.C.H.), the Canadian Institutes of
+Health Research (CIHR PS 162153 to M.J.H.), and the Cancer
+Research Society (CRSDI 368 2018 OG 23446 to D.A.U. and
+M.J.H.).

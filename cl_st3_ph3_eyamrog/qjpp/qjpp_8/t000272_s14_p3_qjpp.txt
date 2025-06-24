@@ -1,0 +1,18 @@
+After establishing the backdrop, the study focused on California opioid
+policies. The frequency analyses performed in this study tracked the
+behavior of modality and its correlation to the worsening opioid
+crisis. Modal frequencies were generated using MAXQDA, while statistical analyses
+were performed in SPSS (Version 26). The corpus was divided
+into a subcorpora of original policies and another of amendments
+to avoid conflating frequencies. In addition, the changes in all
+preceding and ensuing versions of amendments were carefully compared to
+account for newly added, deleted, and changed modals ( Section
+5 ). The patterns of restrictive and permissive modal usage
+that emerged from the frequency analysis helped guide the direction
+of the remaining study. Analysis of Variance (ANOVA) and Regression
+Analysis were conducted with the frequency of permissive and restrictive
+modals as dependent variables and “time” and “fatality rates” as
+predictors representing the worsening crisis. Mahalanobis distance was used to
+detect outliers because, unlike the typical Euclidean distance, it accounts
+for variables with different units when analyzing correlation ( Divjak
+et al., 2014 ).

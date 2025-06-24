@@ -1,0 +1,20 @@
+This study has examined patient feedback on NHS cancer care
+in England, comparing written comments from patients who have been
+categorised according to the length of time from their first
+treatment. For this, we grouped the patient feedback into three
+categories reflecting treatment duration: under 1 year, 1-5 years, and
+over 5 years. First, we explored the satisfaction rates of
+each of these groups by comparing what proportion of each
+group gave each of the satisfaction scores between 0 and
+10 in their feedback. Patients in each group gave ratings
+in approximately the same proportions, with around 86% of patients
+who provided comments giving scores of at least 8, regardless
+of the amount of time they have been receiving treatment.
+While the highest rating of 10 was the most popular
+score for patients at all treatment stages, those who have
+received treatment for less than 1 year were the most
+enthusiastic, being around 4% more likely to give this highest
+score than the other groups. This suggests, then, that patient
+satisfaction rates are very high overall and have remained relatively
+stable for patients across the duration of their treatment, at
+least during the period under study (2015-2018).

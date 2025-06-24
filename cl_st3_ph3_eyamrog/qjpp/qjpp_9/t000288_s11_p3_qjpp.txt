@@ -1,0 +1,22 @@
+Hundt (2022) uses qualitative evidence from the Oxford English Dictionary
+and Early English Books online to establish the pathway of
+development for N-is focalizer for a set of five shell
+nouns, tracing the development from full main clause with overt
+subordination to a DM at the left periphery. The study
+shows that constructionalization started with truth is around the middle
+of the sixteenth century, with other shell nouns (such as
+fact , thing , and problem ) occurring much later.
+The data show that constructionalization involves the loss of the
+subordinator, the addition of a premodifier, and the possibility to
+omit the definite article (in this order). On this rationale,
+the most constructionalized variants would be those without an article
+or that , and (in writing) with comma-separation, as illustrated
+in (5). Once the constructional template is established, novel shell
+nouns can enter the construction (e.g., problem is , a
+recent innovation from the 1940s), allowing the full range of
+variability from the very beginning ( Hundt 2022 ). Hundt’s
+(2022) data for the nineteenth and twentieth centuries show that
+punctuation becomes the most important predictor in written data for
+bare complementation across time (i.e., it marks a further step
+along the development towards the left periphery), whereas article omission
+remains a rare (but salient) characteristic of N-is focalizers.

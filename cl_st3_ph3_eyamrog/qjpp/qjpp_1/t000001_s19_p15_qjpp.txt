@@ -1,0 +1,4 @@
+Risk–outcome scores, star ratings, risk curves with all data points,
+trimmed data points and conventional and conservative uncertainty intervals and
+an interpretation of the findings are available for all risk–outcome
+pairs at http://vizhub.healthdata.org/burden-of-proof/ .

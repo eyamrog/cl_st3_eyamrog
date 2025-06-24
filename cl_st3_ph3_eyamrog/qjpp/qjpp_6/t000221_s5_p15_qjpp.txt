@@ -1,0 +1,15 @@
+Elastic work and power from the hip likely contribute to
+both the second double-support period and the first half of
+limb swing in human walking. Given the sinusoidal shape of
+the positive power burst at the hip that peaks at
+the stance-swing transition ( Fig. 4 A), we can estimate
+that about half of the hip elastic work and power
+is output for limb swing, which would further increase the
+human-chimpanzee limb swing differential. In contrast, in the second double-support
+period of bipedal chimpanzee walking, the hip is insufficiently extended
+(i.e., 25° of hip flexion, on average; O'Neill et al.,
+2015 ) to strain the associated elastic tissues and permit
+a positive elastic power contribution to the first half of
+limb swing. This suggests a distinct contribution of human hip
+mechanics during the single- and second double-support periods to reducing
+limb swing work and power, independent of limb-mass distribution.

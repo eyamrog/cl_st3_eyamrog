@@ -1,0 +1,10 @@
+From these results, pairwise differences between cohorts were analyzed and
+Mann–Whitney's U test was again applied between Cohorts 2 and
+3, always as a function of age and height. This
+confirmed that in males there are only significant differences between
+hand grip values from both cohorts in two out of
+the 14 body height categories and age groups ( p
+< .05 in both cases). In females, however, no significant
+differences are evident for any height category and the only
+exception is for the 11 years old group ( p
+< .05).

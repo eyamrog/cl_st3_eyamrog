@@ -1,0 +1,6 @@
+Tables 4 - 6 present the data obtained for come,
+go , and run on the basis of CLMET3.0, subperiods
+1 (1710-1780) and 3 (1850-1920), and of the text category
+Fiction_prose in the BNC BYU; the reasons for singling out
+this specific text category for the analysis in the BNC
+are expounded in section 7.2.3.

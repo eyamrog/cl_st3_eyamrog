@@ -1,0 +1,26 @@
+Zfp42 ( Rex1 ) is a well-studied pluripotency transcription factor
+that emerged from a retroposition duplication of Yin Yang 1
+( Yy1 ) in eutherian mammals ( Kim et al.,
+2007 67. Kim, J.D. ∙ Faulk, C. ∙ Kim, J.
+Retroposition and evolution of the DNA-binding motifs of YY1, YY2
+and REX1 Nucleic Acids Res. 2007; 35 :3442-3452 Crossref Scopus
+(88) PubMed Google Scholar ; Masui et al., 2008 93.
+Masui, S. ∙ Ohtsuka, S. ∙ Yagi, R. ... Rex1/Zfp42
+is dispensable for pluripotency in mouse ES cells BMC Dev.
+Biol. 2008; 8 :45 Crossref Scopus (88) PubMed Google Scholar
+). Capture Hi-C (cHi-C) in mouse E11.5 embryonic limbs revealed
+Zfp42 locates in a ∼3.5 Mb CTCF-delimited TAD that contains
+eight genes ( Figure 1 A). Specifically, Zfp42 is positioned
+within the TAD’s central 293-kb region ( Zfp42R ) together
+with two additional eutherian-specific genes Triml1 and Triml2 that are
+controlled by a bidirectional promoter ( Figure S2 D). Directly
+adjacent to Zfp42R lie Adam26a , 26 b , and
+34 (Adam region [ AdamR ]) which also arose from
+retroposition but specifically in rodents ( Long et al., 2012
+87. Long, J. ∙ Li, M. ∙ Ren, Q. ...
+Phylogenetic and molecular evolution of the ADAM (A disintegrin and
+metalloprotease) gene family from Xenopus tropicalis, to Mus musculus, Rattus
+norvegicus, and Homo sapiens Gene. 2012; 507 :36-43 Crossref Scopus
+(0) PubMed Google Scholar ). By contrast, Fat1 and Mtnr1a
+are conserved across all vertebrates and position near the TAD’s
+telomeric boundary.

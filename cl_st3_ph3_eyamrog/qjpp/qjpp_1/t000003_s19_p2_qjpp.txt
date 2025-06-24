@@ -1,0 +1,14 @@
+Sixty patients out of 809 with a CAR T product
+order progressed or died between leukapheresis and lymphodepletion, and 20
+did not proceed to lymphodepletion after physician decision or for
+other reasons (Fig. 1 ). Of these 80 patients with
+a CAR T product order who did not proceed until
+an infusion ( n = 38 for tisa-cel and n
+= 42 for axi-cel), OS was expectedly very poor and
+similar according to CAR T product (axi-cel or tisa-cel) (
+P = 0.48; Extended Data Fig. 1 ). Finally, 729
+patients proceeded to lymphodepletion and CAR T infusion. Characteristics of
+this patient subpopulation are presented in Table 1 . Median
+OS from infusion was 19.0 months (95% CI, 15.2–not reached),
+and median progression-free survival (PFS) was 5.6 months (95% CI,
+4.1–7.5 months) (Fig. 2a,b ).

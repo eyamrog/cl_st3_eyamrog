@@ -1,0 +1,8 @@
+Owing to sexual dimorphism in our sample (described in more
+detail in the following paragraphs), we used least squares linear
+regression to account for the effects of sex on admixture
+and shape. Because sex ratios varied with Chinese ancestry percentages,
+it was necessary to adjust both variables to control for
+the effect of sex entirely. The sex-adjusted residuals were used
+in all subsequent analyses of the relationship between shape and
+admixture.

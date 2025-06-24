@@ -1,0 +1,8 @@
+We can also not be certain that introducing a new
+registry for tuberculosis preventive treatment did not introduce bias due
+to improved reporting at study sites. However, the more stringent
+definition that we used to define household contacts in intervention
+facilities might have reduced the number of household contacts identified,
+making the direction of the effect, if any, uncertain. Finally,
+our cost-effectiveness analysis did not include health system costs incurred
+during LTBI treatment.

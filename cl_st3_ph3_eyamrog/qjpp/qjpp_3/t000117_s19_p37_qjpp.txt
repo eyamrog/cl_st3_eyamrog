@@ -1,0 +1,10 @@
+We trained these mice to perform the go/no-go task while
+recording dopamine release in the NAc with photometry. In randomly
+selected trials, we moderately photostimulated aIC Fezf2 → NTS during
+the anticipation period ( Figures 7 C and 7D). In
+the absence of the stimulation (“no laser”), dopamine release increased
+and decreased following CS in go and no-go trials, respectively
+( Figures 7 E–7I). Interestingly, the stimulation (“laser”) further enhanced
+the increase in dopamine release in go trials, and prevented
+the decrease in dopamine release in no-go trials ( Figures
+7 E, 7G, and 7I).

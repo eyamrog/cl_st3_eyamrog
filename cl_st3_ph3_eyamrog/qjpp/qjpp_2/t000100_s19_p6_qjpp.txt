@@ -1,0 +1,24 @@
+Clusters that were evenly distributed across all viral-specific CD4 +
+T cells include clusters 3 and 4. Cluster 3 displayed
+a transcriptional profile consistent with enrichment of interferon (IFN)-response genes
+( IFIT3 , IFI44L , ISG15 , MX2 , OAS1
+), and cluster 4 was enriched for CCR7 , IL7R
+, and TCF7 transcripts, likely representing central memory CD4 +
+T cell subset ( Figures 2 B–2F and S2 C–S2E
+and Table S2 F). Cluster 12, which expressed high levels
+of transcripts linked to cell cycle genes MKI67 and CDK1
+, also contained a large proportion of SARS-CoV-2-reactive CD4 +
+T cells ( Figures 2 B–2D), indicative of actively proliferating
+cells responsive to SARS-CoV-2 antigens. Cluster 6, also dominated by
+SARS-CoV-2-reactive CD4 + T cells, was characterized by high levels
+of PRF1 , GZMB , GZMH , GNLY, and NKG7
+transcripts, which encode for molecules linked to cytotoxicity ( Patil
+et al., 2018 33. Patil, V.S. ∙ Madrigal, A. ∙
+Schmiedel, B.J. ... Precursors of Human Cd4(+) Cytotoxic T Lymphocytes
+Identified by Single-Cell Transcriptome Analysis Sci Immunol. 2018; 3 :Eaan8664
+Crossref Scopus (170) PubMed Google Scholar ) ( Figures 2
+B–2F and S2 C–S2E and Table S2 F). Gene set
+enrichment analysis (GSEA) showed significant positive enrichment of signature genes
+for cytotoxicity in clusters 6 and 9 ( Figure S2
+G and Table S2 H), confirming these clusters represent cytotoxic
+CD4 + T cells (CD4-CTLs).

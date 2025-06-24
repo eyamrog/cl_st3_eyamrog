@@ -1,0 +1,17 @@
+After finishing this first rating task, I asked respondents to
+complete the procedure a second time; thus, in total, each
+respondent provides six ratings of all six attributes. Most of
+these attributes can take on three possible values (again, informed
+by the above discussion), except for the number of doses
+required to achieve effectiveness (which takes on only two values),
+antigen type (which takes on only two values), and the
+country of origin (which takes on four values). I assigned
+levels randomly both across attributes and respondents. Fig. 1 provides
+an image of the screen respondents saw while completing this
+survey, including a hypothetical rating task to which they could
+have been assigned. Download: Download high-res image (663KB) Download: Download
+full-size image Fig. 1 . Illustration of the conjoint experiment's
+rating task. Note. The above image reflects a potential rating
+task that respondents could have been assigned while taking this
+survey. This image is a printed version of a survey
+preview screen, using Qualtrics survey software.

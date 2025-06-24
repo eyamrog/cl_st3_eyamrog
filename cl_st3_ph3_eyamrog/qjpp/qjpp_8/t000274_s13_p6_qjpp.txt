@@ -1,0 +1,8 @@
+The ideal for corpus compilation is to map out the
+‘textual universe’ and then construct an a priori sampling frame
+with each cell populated with equal wordcounts and numbers of
+texts ( McEnery and Hardie, 2012 ). In addition, restricting
+texts from individual writers ensures idiosyncratic uses of language do
+not dominate findings. 4) Any removal of information from the
+corpus should be limited, as this results in loss of
+data and authenticity

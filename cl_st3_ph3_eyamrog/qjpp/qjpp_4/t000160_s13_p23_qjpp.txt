@@ -1,0 +1,27 @@
+Before considering the specific role of DOHaD and the related
+field of epigenetics in debates about race and health, it
+is worth considering some of the practices that are common
+in these fields in general. Most human studies of the
+long-term development or epigenetic effects of early experience have used
+observational designs in which there is extensive potential for confounding
+because key exposures and influences on health, such as environmental
+stressors, diet, or activity levels, tend to cluster as a
+result of influences like socioeconomic status, ethnicity, class, or gender
+(Hernan, 2018 ). Some of the most highly cited and
+discussed attempts to work around these limitations have harnessed natural
+or quasi-experimental designs, such as by evaluating the impacts of
+maternal exposure during pregnancy to “exogenous” stressors like a war-imposed
+famine, terrorist attack, global pandemic, or earthquake (LaPlante et al.,
+2008 ; Roseboom et al., 2006 ; Torche, 2011 ).
+Because this work approximates a randomized exposure, it achieves a
+stronger basis for causal inference, but it does so at
+the expense of studying severe shocks and stressors. This focuses
+attention on the effects of unusual or dramatic exposures that
+are not generally targets for policy or intervention. They are
+also less capable of addressing any beneficial effects of enrichment
+or favorable exposures that may be less amenable to study
+as an exogenous shock. These issues also apply to experimental
+animal model studies in the DOHaD field, which often impose
+relatively extreme prenatal nutritional stress on species with far less
+maternal capacity for fetal nutritional buffering than humans (Kuzawa &
+Thayer, 2013 ; Thayer et al., 2020 ).

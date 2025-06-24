@@ -1,0 +1,13 @@
+Finally, to further probe the possibility of heterogeneous treatment effects,
+I estimated four additional models where I interact each vaccine
+attribute with all demographic factors that exhibited a statistically significant
+effect on the vaccine rating outcomes in Table 2 ,
+Column 3. The models are presented in the Supplementary Materials
+in Table S2 . There, I find little evidence of
+heterogeneous treatment effects. Of the 66 interactions tested across four
+models – stratified (i.e., estimated in separate models, to avoid
+overfitting concerns) by respondents' household income, age, educational attainment, and
+gender – I find little consistent evidence of moderated treatment
+effects. Just 10 of the 66 tests produced statistically significant
+effects (15% of tests conducted); the majority of which reflect
+differences attributable to respondents’ age.

@@ -1,0 +1,15 @@
+In this study, we set out to investigate what lexical
+bundles can inform us of disciplinary writing in two distinct
+journals in the field of political science (one predatory, one
+top-ranking). To recapitulate, we can say that, first of all,
+the articles in both corpora are formulaic to a great
+extent, but there are some differences in the types of
+bundles used. We acknowledge that the quantitative comparisons between the
+two corpora may have been affected by a range of
+factors such as the different sizes of the corpora involved.
+In order to be comparable with previous research, we opted
+for the conventional way of using the log-likelihood and Chi-square
+tests for analysing frequencies. However, as Bestgen (2020) suggests, there
+are issues with comparing lexical bundles across corpora of different
+sizes and more research is needed before we can obtain
+an accurate picture.

@@ -1,0 +1,17 @@
+The random forest model classification accuracy was 81.3 percent. This
+was higher than the baseline classification accuracy of 77.3 by
+4 percent. The C statistic was 0.88. The classification accuracy’s
+calculation and interpretation method of the random forest model are
+consistent with that of the conditional inference trees model. The
+random forest model is composed of many conditional inference trees,
+which are randomly generated. Therefore, the specific values may be
+slightly different each time. However, the overall factor ranking remains
+the same. The predictors’ ranking instead of their absolute values
+of importance, is most important. It is generally recognised that
+a bottom predictor’s absolute minimum value is a cut-off point
+between important and unimportant predictors. These are separated by the
+red line in Figure 2 . It is indicated that
+HeadNPRelRole is the most important variable in predicting omn /
+imn alternation. Thereafter, the predictors are HeadNPMatRole, RCLength, NLType, and
+HeadNPAnimacy in decreasing order of importance. CHProfiency and HeadNPLength are
+unimportant and will not be analysed further.

@@ -1,0 +1,8 @@
+Three-dimensional kinematics and ground force data were processed using generic
+musculoskeletal models of the pelvis and lower/hind limbs of an
+adult human ( Delp et al., 1990 ) and an
+adult chimpanzee ( O'Neill et al., 2013 ) scaled to
+the size of each subject using anatomical segment markers (
+O'Neill et al., 2015 ). All models included skeletal geometry
+of the pelvis and lower/hind limbs relevant to determining 3-D
+mechanics of the hip, knee , and ankle (talocrural) joints.

@@ -1,0 +1,16 @@
+In the reward-seeking task in which the size of reward
+was variable, the anticipatory response—either excitatory or inhibitory—of many aIC
+NTS neurons in big-reward trials was larger than that in
+small-reward trials ( Figures 5 C–5G). Furthermore, the anticipatory neuronal
+response preceded and correlated with mice’s licking action ( Figures
+5 H–5K). Notably, compared with aIC Fezf2 neurons imaged in
+the same task ( Figure S3 D), a much greater
+fraction of aIC NTS neurons showed such correlative responses (aIC
+NTS , 79.2%; aIC Fezf2 , 36%) ( Figure 5
+L). In addition, although the anticipatory response of either aIC
+Fezf2 or aIC NTS could be used to classify between
+small- and big-reward trials, aIC NTS was better in decoding
+performance ( Figure 5 M). These results together indicate that
+the aIC NTS subpopulation is more enriched with the anticipation
+or vigor signals than the larger aIC Fezf2 population and
+thus may convey these signals to the NTS.

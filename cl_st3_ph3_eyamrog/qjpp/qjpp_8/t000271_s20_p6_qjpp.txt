@@ -1,0 +1,13 @@
+In terms of functional distribution, as Table 6 shows, the
+significant difference between the two corpora ( p < 0.001)
+is contributed mainly by the categories of time/place/personal references (R1)
+and transition signals (T1), which stand out in the PJPS
+corpus, with the cells’ observed frequencies being greater than expected
+frequencies. The top-ranking counterpart, by contrast, features bundles of two
+other research-oriented categories: research procedure or terminology (R3) and explanation
+or reasoning (R4), as well as structuring signals (T2) and
+stance markers (P1). These categories, together with the main structural
+forms that stand out in comparison as summarised above, will
+be discussed in more detail in the next section in
+association with the most frequent lexical bundles occurring in the
+data.

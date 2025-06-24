@@ -1,0 +1,13 @@
+Regardless of how step intensity was defined, that is, slow
+walking or moderate to vigorous activity, it was associated with
+lower risk of chronic diseases (all chunk tests P <
+0.05, Supplementary Table 5 and Extended Data Fig. 10 ).
+The HR for step intensity for incident diabetes, hypertension, GERD,
+MDD, obesity and sleep apnea ranged from 0.43 to 0.88
+(Supplementary Table 5 ). Step intensity (defined as slow walking)
+also remained significantly associated with obesity, sleep apnea, MDD, GERD
+and hypertension after adjusting for step count (all chunk tests
+P < 0.05). When defined using a moderate to vigorous
+intensity, bout cadence remained significantly associated with obesity, sleep apnea
+and GERD (all chunk tests P < 0.05; Supplementary Table
+5 ).

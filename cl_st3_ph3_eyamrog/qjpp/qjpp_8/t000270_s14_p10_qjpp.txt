@@ -1,0 +1,6 @@
+Social benefits are defined as the weighted sum of the
+benefits for ties (left summand) and the benefits for the
+proportion of closed triads (right summand): (4) B i =
+b 1 ⋅ t i + b 2 ⋅ 1
+− 2 ⋅ x i − α max α ,
+1 − α ,

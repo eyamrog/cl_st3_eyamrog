@@ -1,0 +1,9 @@
+Handedness was measured with a single item question that had
+three options: “Are you 1) Right-handed, 2) Left-handed, or 3)
+Do you use both hands equally?”. This is a measure
+of hand preference direction and does not include data on
+strength of preference , except in so far as someone
+who uses both equally has a preference strength of roughly
+0. It also does not tell us about relative hand
+skill , which is also the subject of much research
+in laterality (e.g., Crow et al., 1998 ).

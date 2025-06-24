@@ -1,0 +1,11 @@
+Finally, we also interrogated CD44 expression in a single-cell RNA
+sequencing (RNA-seq) dataset of CTCs derived from breast cancer patients.
+When patients were divided into two groups—those carrying bone metastasis
+versus those carrying other metastases, significantly higher expression of CD44
+was observed in the former ( Figure 6 N) (
+Aceto et al., 2018 1. Aceto, N. ∙ Bardia, A.
+∙ Wittner, B.S. ... AR expression in breast cancer CTCs
+associates with bone metastases Mol. Cancer Res. 2018; 16 :720-727
+Crossref Scopus (59) PubMed Google Scholar ), providing clinical support
+for our hypothesis that the bone microenvironment promotes tumor cell
+stemness and plasticity, and thereby invigorate further metastasis.

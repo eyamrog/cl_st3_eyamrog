@@ -1,0 +1,10 @@
+The All of Us Research Program (AoURP) is an initiative
+that is accumulating multiple streams of health-related information (for example,
+electronic health records (EHRs), genomics, physical measures, participant surveys and
+wearables such as Fitbit) in 1,000,000 or more Americans and
+includes a focus on populations usually under-represented in biomedical research
+to date . The rich EHR data within AoURP can
+be used to identify the incidence of chronic conditions across
+the human phenome . Thus, the AoURP dataset provides a
+unique opportunity to directly examine the effects of physical activity
+over time on health outcomes using wearables and clinical data.

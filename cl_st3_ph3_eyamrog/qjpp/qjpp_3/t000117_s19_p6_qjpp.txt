@@ -1,0 +1,16 @@
+Second, the mice were kept thirsty and learned that the
+CS predicted a small drop (3 μL) of sucrose in
+one block, but the same CS predicted a large drop
+(12 μL) of sucrose in another block of trials (
+Figure 1 L, M). We imaged the activity of aIC
+Fezf2 neurons across the two blocks ( Figures S2 K–S2M),
+which presumably engaged with different levels of motivation. In both
+blocks, many neurons showed either excitatory or inhibitory response to
+the CS, but the response in the large-reward block was
+much larger than that in the small-reward block ( Figures
+1 N, 1O, S2 K, and S2L). However, the CS-evoked
+licking was comparable in the two blocks, although the US-evoked
+licking in the large-reward block was more vigorous ( Figures
+1 M and S2 M). These results suggest that aIC
+Fezf2 neuron response reflects alterations in motivation levels preceding the
+occurrence of apparent motor changes.

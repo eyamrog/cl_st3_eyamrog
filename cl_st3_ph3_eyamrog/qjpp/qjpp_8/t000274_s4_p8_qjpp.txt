@@ -1,0 +1,11 @@
+The second set of questions relates to the decisions to
+make a slightly modified version available for secondary analysis, referred
+to throughout as Corpus 2. The common funding requirement to
+make corpora available raises fundamental ethical concerns about data usage:
+whilst additional checks with participants can be facilitated by the
+immediate research team, no such checks are possible once the
+data is abstracted from context, thus leading to the decision
+in the case of WiSP to build two slightly different
+corpora. The existence of two versions is unusual in corpus
+linguistics but we think is valid for the ethical reasons
+discussed in 3.3.

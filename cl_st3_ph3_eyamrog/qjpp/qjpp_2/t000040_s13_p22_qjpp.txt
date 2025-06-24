@@ -1,0 +1,10 @@
+SAV fleets could have positive impacts on urban land use.
+Urban parking space may be reduced as much as 90%
+if AVs are implemented in ridesharing mode ( 73 ).
+Moreover, AVs could also permit the relocation of public space
+from automobile infrastructure to other activities, such as green and
+blue spaces that support physical activity and social interaction (
+52 , 83 ). However, modeling results on parking space
+related to AVs are very sensitive to model assumptions, which
+are still very uncertain (e.g., the perception of time in
+AVs or operational costs) ( 73 ).

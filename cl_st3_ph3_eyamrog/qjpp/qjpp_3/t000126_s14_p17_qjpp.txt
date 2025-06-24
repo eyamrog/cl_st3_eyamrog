@@ -1,0 +1,26 @@
+The differentiation of harvested monocytes into M1 macrophages was performed
+as described by Yanagimachi, M. D. et al. (23573196). Briefly,
+300,000 CD14+ monocytes were plated in a 24-well plate and
+cultured for 7 days in RPMI1640-GlutaMAX™ (Life Technologies) supplemented with
+10% FBS and M-CSF (100ng/ml). Differentiated M0 macrophages were visualized
+using H&E staining. For this purpose, 100,000 CD14+ monocytes were
+plated in Cell Imaging Coverglass (Eppendorf). On Day 7, cells
+were fixed and stained with the Hema 3™ Manual Staining
+System and Stat Pack, following manufacturer’s instructions. Subsequent polarization of
+macrophages was achieved via the addition of IFNγ (20 ng/ml)
+to the media for 24h followed by 4h of LPS
+(Lippopolysaccharide from Escherichia coli O111:B4, Sigma Aldrich, 100ng/ml) treatment to
+activate the M1 macrophages. The differentiation of CD14+ monocytes into
+M1 macrophages was confirmed through FACS analysis. Briefly, a minimum
+of 100,000 M1 macrophages were harvested using Stempro Accutase (Thermo
+Fisher Scientific) for 10 min at 37°C and washed in
+cold sorting buffer. Cells were blocked by incubating 20 μL
+of FcR Blocking Reagent (MACS Miltenyi Biotec) for 10 min
+at 4°C prior to antibody staining. The antibody used was
+the BUV737 Anti-Human HLA-DR (Clone G46-6) (BD Biosciences). Cells were
+incubated with the antibody 30 min at 4°C and then
+washed twice with cold sorting buffer. Cells were filtered using
+70μM Pre-Separation Filters (MACS Miltenyi Biotec). Control was made with
+the appropriated isotype control and viability was assessed by 7-AAD
+staining solution (BD Biosciences). HLA-DR+ staining was measured on a
+FACS Aria Fusion and analyzed using FlowJo™ software.

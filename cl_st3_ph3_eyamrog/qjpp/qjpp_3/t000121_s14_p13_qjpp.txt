@@ -1,0 +1,17 @@
+For the non-AT-2 treated immature ADA.CM.v4 hVLPs and immature full-length
+ADA.CM pseudovirus, frozen grids were imaged on a 300 kV
+Titan Krios equipped with a Gatan K3 direct electron detector
+and a GIF energy filter with a slit width of
+20 eV. Tilt series were collected from −60° to +60°
+with a step size of 3° using SerialEM ( Mastronarde,
+2005 55. Mastronarde, D.N. Automated electron microscope tomography using robust
+prediction of specimen movements J. Struct. Biol. 2005; 152 :36-51
+Crossref Scopus (3221) PubMed Google Scholar ). A dose-symmetric tilt
+scheme was applied between −48° and +48°, and the remaining
+angles were collected with a bidirectional approach. Images were collected
+in super-resolution mode at a nominal magnification of 64,000X, corresponding
+to a pixel size of 0.6932 Å/pixel. The total cumulative
+dose was 94 e-/Å2. For the non-AT-2 treated immature full-length
+ADA.CM VLPs, a total of 39 usable tilt-series were collected.
+For the non-AT-2 treated immature ADA.CM.v4 hVLPs, 52 usable tilt-series
+were collected.

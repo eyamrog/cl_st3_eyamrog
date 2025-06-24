@@ -1,0 +1,5 @@
+This section presents the integration analyses between the cranium and
+the cervical vertebrae based on linear variables at the intraspecific
+level. For this purpose, only the three species with larger
+sample sizes ( H. sapiens , P. troglodytes , and
+G. gorilla ) were assessed.

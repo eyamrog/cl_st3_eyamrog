@@ -1,0 +1,9 @@
+Examining F2 shows a different pattern altogether. Figure 7 shows
+a loess regression of force , north , and start
+by age. As seen, there is considerable variance in this.
+It appears that north and force overlap in large part
+and have not changed in apparent time. Start , on
+the other hand, appears to have fronted over time, and
+has been clearly distinct from the other two vowels for
+some time. Open in Viewer Figure 7 . Change in
+F2 of Non-high Back Pre-rhotic System in St. Louis

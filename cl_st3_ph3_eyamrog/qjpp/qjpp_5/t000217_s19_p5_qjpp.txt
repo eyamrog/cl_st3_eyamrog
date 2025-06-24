@@ -1,0 +1,6 @@
+Despite the fact that the interaction term was removed from
+all models because it was not significant, Figure 1 indicates
+that knots of higher difficulty (medium and difficult ones) produced
+a pronounced difference in medians where the concordant handedness between
+the model and the student led to less time needed
+to reproduce a knot.

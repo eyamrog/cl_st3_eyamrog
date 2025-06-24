@@ -1,0 +1,18 @@
+Work intensity: is a household measure which uses the employment
+status of both partners for couple families and just one
+for lone parent families. It is a variable that ranges
+between 0 and 1. For a couple family, the range
+is: 1 = both partners in full-time work; 0.75 =
+one full-time and one part-time partner; 0.5 = one full-time
+or two part-time partners; and 0.25 = one part-time partner,
+one partner not in paid work. For a lone parent
+the range is: 1 = lone parent working full-time; 0.5
+= lone parent working part-time; and 0 = lone parent
+not working. This means that a full-time working lone parent
+has the same weighting as a full-time working couple. To
+measure work intensity over time we used employment and family
+status over waves 1–9 of GUS to define latent classes,
+similar to our LCA for longitudinal poverty. Changes in work
+intensity across time are captured into five types of trajectories:
+persistently high intensity; persistently low intensity; persistent medium intensity; decreasing
+intensity and increasing intensity.

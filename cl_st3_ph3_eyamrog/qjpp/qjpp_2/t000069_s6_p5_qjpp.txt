@@ -1,0 +1,8 @@
+We report the presence of pulmonary intussusceptive angiogenesis and other
+pulmonary vascular features in the lungs of seven patients who
+died from Covid-19. Additional work is needed to relate our
+findings to the clinical course in these patients. To aid
+others in their research, our full data set is available
+on the Vivli platform ( https://vivli.org/ ) and can be
+requested with the use of the following digital object identifier:
+https://doi.org/10.25934/00005576 .

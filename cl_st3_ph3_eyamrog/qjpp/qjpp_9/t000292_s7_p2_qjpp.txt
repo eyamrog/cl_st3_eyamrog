@@ -1,0 +1,17 @@
+The increasing digitisation of parliamentary documents and development of computational
+methods opens exciting possibilities for the fast and unbiased study
+of political data. Using Natural Language Processing ( nlp )
+and other Machine Learning tools on political texts is conceptually
+simple and has yielded some very interesting results ( Hopkins
+and King, 2010 ). Therefore, starting from a text, it
+is possible to computationally identify differences between discourses by analysing
+individual words (by simply counting or ranking), sequences of words
+and even sentence structure. Several tools have been developed to
+automatically analyse complex and large political texts, which increasingly include
+not only party manifestos but also parliamentary addresses, debates and
+commentary ( Laver et al ., 2003 ; Grimmer, 2013
+; Slapin and Proksch, 2014 ; Lauderdale and Herzog, 2016
+; and Lapponi et al ., 2018 ). These techniques
+have proven themselves, mainly focussing on two-party systems, such as
+the US Senate or Congress, but also on more complex
+systems.

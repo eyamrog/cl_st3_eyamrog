@@ -1,0 +1,18 @@
+Here, we present and apply a novel scRNA-seq-based framework to
+a unique longitudinal study of human infection in order to
+characterize conserved immune response dynamics, as well as cell subsets
+and gene programs with potential therapeutic and preventative applications. By
+analyzing hundreds of cells per timepoint and cell type, we
+were powered to identify significant changes in abundant cellular phenotypes
+over time in each participant; however, we could not account
+for all potential sources of cellular heterogeneity or their impact
+on infection outcome. Nevertheless, we discovered interrelated temporal GM expression
+patterns in distinct cell types and nominated mechanisms by which
+multiple components of the immune system may respond collectively—sometimes with
+different gene programs—to HIV infection. By identifying upstream drivers that
+may induce our MMs, we hypothesized when and how various
+cytokines, chemokines and transcription factors might orchestrate immune responses during
+infection. Together, our work affords a unique reference dataset for
+studying the earliest moments of HIV infection after detection and
+suggests potentially new roles for monocytes, NK cells and CD4
+T cells in acute infection.

@@ -1,0 +1,13 @@
+Booster vaccines enhance waning immunity and expand the breadth of
+immunity against SARS-CoV-2 variants of concern. Since levels of binding
+and neutralizing antibodies correlate with vaccine efficacy for both messenger
+RNA (mRNA) and adenovirus-vectored vaccines, the measurement of these levels
+can be useful in predicting efficacy after boosting. Homologous boosters
+of the 30-μg BNT162b2 and 50-μg mRNA-1273 vaccines were found
+to increase neutralizing antibody titers against wild-type SARS-CoV-2 virus (WA1)
+by a factor of 5.5 and 3.8, respectively, and against
+the delta variant by a factor of 5 and 2.1,
+respectively. Data from Israel suggest that a third dose of
+the BNT162b2 vaccine was highly effective in preventing infection, severe
+disease, hospitalization, or death. These findings contributed to a recommendation
+for booster vaccination for the general U.S. population.

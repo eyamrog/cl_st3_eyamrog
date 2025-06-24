@@ -1,0 +1,4 @@
+All LFP data analyses were performed in R2014b (Mathworks Inc.)
+using customized scripts built on the FieldTrip Toolbox (Donders Institute
+for Brain, Cognition and Behaviour, Radboud University, the Netherlands; see
+http://fieldtriptoolbox.org ).

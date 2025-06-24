@@ -1,0 +1,16 @@
+Most threads have fewer than five replies ( n =
+29,354), although there are threads containing more than 20 replies
+( n = 41), as shown in Fig. 1 .
+There is no threaded structure among replies underneath a post,
+and the replies are ordered by the time of posting.
+The interface of the online discussions is shown in Fig.
+2 . Download: Download high-res image (742KB) Download: Download full-size
+image Fig. 1 . Number of threads of different lengths
+across the 12 MOOCs. Each tile indicates a set of
+threads of a particular length. The shading of the tiles
+indicates the number of threads that correspond with that particular
+length in a particular MOOC. The length of threads starts
+from 2 as the shortest thread contain one initiating post
+and one reply. Download: Download high-res image (950KB) Download: Download
+full-size image Fig. 2 . The commenting space below each
+learning page of a MOOC.

@@ -1,0 +1,11 @@
+The primary outcome variable in this study is a measure
+of whether or not respondents intend to receive each of
+the vaccine candidates (labeled A-C in the first rating task,
+and D-F in the second) to which they were randomly
+assigned (more on this procedure below). I asked respondents, in
+a matrix grid placed directly below the conjoint experiment to
+“Please tell us how likely you would be to choose
+to receive any of the following vaccines.” Respondents could then
+indicate their intentions on a ten-point numeric scale with verbal
+labels at 1 “not likely at all” and 10 “very
+likely.”

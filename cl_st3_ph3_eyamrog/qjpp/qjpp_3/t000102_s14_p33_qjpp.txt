@@ -1,0 +1,2 @@
+Data acquired at the spinning disc confocal microscope were exported
+as ome.tiff for further processing in FIJI or Imaris.

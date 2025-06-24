@@ -1,0 +1,22 @@
+Anti-RBD IgG antibody responses were predominantly associated with IgG1 levels
+after the booster in all heterologous or homologous vaccine groups
+(Extended Data Fig. 2 ). Increased IgG3 levels were found
+in participants receiving Convidecia (groups A and C) but not
+in those receiving CoronaVac (groups B and D). Low levels
+of IgG2 or IgG4 after the booster were observed across
+the treatment groups. At day 14, the mean IgG1/IgG4 ratios
+were 42.4 (95% CI = 35.6, 50.6) and 6.1 (95%
+CI = 5.2, 7.1) for group A and group B.
+The mean IgG1/IgG4 ratios were 24.4 (95% CI = 17.7,
+33.6) and 3.8 (95% CI = 3.1, 4.6) for group
+C and group D at the same time point. Participants
+in all groups had similar levels of N-specific binding antibodies
+at baseline, but only participants who received CoronaVac exhibited increases
+in both RBD-specific IgG and N-specific IgG levels (Fig. 3
+). There was no increase in N-specific IgG levels in
+Convidecia recipients after the booster. RBD-binding antibody levels positively correlated
+with neutralizing antibody titers in all groups, with correlation coefficients
+ranging from 0.61 to 0.8 (Extended Data Fig. 3 ).
+We conclude that heterologous boosting with Convidecia elicited significantly higher
+RBD-specific IgG levels (but not N-specific IgG levels) than did
+homologous boosting with CoronaVac.

@@ -1,0 +1,9 @@
+Each hiPSC sub-clonal line was then tested for the absence
+of genomic integration of the four plasmids used for LBL-hiPSC
+reprogramming via a PCR amplification of plasmid DNA using HotStarTaq
+Plus DNA Polymerase (Qiagen). The hiPSC lines were also tested
+for the expression of pluripotency markers NANOG, SOX2 and POU5F1
+by RT-qPCR amplification. Finally, the capacity of each of these
+sub-clonal hiPSC lines to differentiate into the three germ layers
+was assessed using the Human Pluripotent Stem Cell Functional Identification
+Kit (R&D Systems) following manufacturer’s instructions.

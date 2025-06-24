@@ -1,0 +1,11 @@
+ACE2 expressing cells from different species were prepared as follows:
+taking the T75 flask as an example, HEK293T cells were
+transfected with 30 μg of ACE2 plasmid using Lipofectamine 2000
+(Invitrogen) transfection reagent to obtain ACE2 overexpressing cells. The culture
+medium was the same as that used for the HEK293T
+cells. After 24 h culture in a 5% CO 2
+environment at 37°C, the cell surface expression of the FLAG-tagged
+ACE2 orthologs was assessed by flow cytometry: 1x10 6 cells/tube
+were stained with 1 μg/ml PE labeled anti-Flag antibody (Biolegend).
+The fluorescent signal was examined using a BD FACS CantoTM
+II Flow Cytometer.

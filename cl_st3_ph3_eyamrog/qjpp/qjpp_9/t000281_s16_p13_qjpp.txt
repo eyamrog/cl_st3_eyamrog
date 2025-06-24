@@ -1,0 +1,5 @@
+The quantitative growth of size -adjective clusters appears to be
+halted in LModE, with a noticeable drop (from 11.1 to
+1.8 tokens per million words) in their overall frequency with
+respect to the EModE data. Qualitatively, however, some new (large)
+size -combinations are attested, as illustrated in (9).

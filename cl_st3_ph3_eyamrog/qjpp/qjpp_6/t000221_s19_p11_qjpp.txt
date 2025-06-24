@@ -1,0 +1,27 @@
+Humans generated less dimensionless positive mechanical work ( W +
+ds1 : F 1,18 = 21.38, p = 0.0099; ω
+2 = 0.77) and power ( P + ds1 :
+F 1,18 = 12.67, p = 0.0236; ω 2 =
+0.66) than chimpanzees during the first double-support. The same was
+true for the single-support period positive mechanical work ( W
++ ss : F 1,18 = 27.58, p = 0.0063;
+ω 2 = 0.82) and power ( P + ss
+: F 1,18 = 13.51, p = 0.0213; ω 2
+= 0.68). In the second double-support period, humans generated much
+more positive mechanical work ( W + ds2 : F
+1,18 = 38.15, p = 0.0035; ω 2 = 0.86)
+and power than chimpanzees ( P + ds2 : F
+1,18 = 76.51, p = 0.0009 ω 2 = 0.93;
+Fig. 5 ). In all cases, the effect sizes were
+‘large.’ This provides partial support for our first hypothesis. Download:
+Download high-res image (189KB) Download: Download full-size image Figure 5
+. The stance phase positive joint work (A) and power
+(B) output in the first double-support (DS1), single-support (SS), and
+second double-support (DS2) periods of a walking stride for humans
+(black) and chimpanzees (red; mean ± SD). The relative contributions
+of the ankle elastic work and power (‘ankle elastic’) and
+muscle fiber work and power (‘muscle fiber’) to the total
+limb work and power output in the human DS2 period
+is shown. (For interpretation of the references to color in
+this figure legend, the reader is referred to the Web
+version of this article.)

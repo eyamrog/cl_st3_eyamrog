@@ -1,0 +1,12 @@
+The sampling frame for a telephone survey could be from
+three sources: sampling from an existing nationally representative survey with
+the telephone numbers of respondents, sampling from a list of
+valid telephone numbers from the telecommunications company, or random digital
+dialing ( Himelein et al. 2020 ). Of these three
+alternatives, the most viable and immediately accessible option for rapid
+assessment was provided by the first option, with a sample
+of respondents taken from a nationally representative survey that had
+already been conducted and included the respondents’ registered telephone numbers.
+To reduce the selection bias, all efforts were made to
+strictly use random drawing of respondents from the available list,
+repeated trial/call to increase participation rate with properly replacement plans.

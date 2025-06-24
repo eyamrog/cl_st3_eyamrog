@@ -1,0 +1,12 @@
+Adverse events were graded according to National Cancer Institute Common
+Terminology Criteria for Adverse Events (NCI CTCAE), version 4.03. Cytokine
+release syndrome was graded according to published criteria (Table S2).
+Neurotoxic effects were identified by investigators as defined events and
+graded according to the NCI CTCAE on the basis of
+the highest individual symptom grade. Tumor response and disease progression
+were assessed according to IMWG criteria. MRD negativity was evaluated
+in bone marrow aspirates by next-generation sequencing (clonoSEQ, Adaptive Biotechnologies)
+with a minimum cutoff of 10 nucleated cells. Exploratory end
+points included levels of cytokines and soluble BCMA (sBCMA) as
+well as tumor BCMA expression. Additional information is provided in
+the Methods section in the Supplementary Appendix .

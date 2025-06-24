@@ -1,0 +1,13 @@
+On the basis of the results in the LEADERS FREE
+trial, we assumed that 9.4% of the patients in each
+group would have a primary-outcome event. A noninferiority margin of
+4.1 percentage points was chosen, which represented 44% of the
+expected percentage of patients with an event. We calculated that
+a sample of 900 patients in each group would provide
+the trial with more than 90% power to show noninferiority
+on the basis of the Farrington–Manning test at a one-sided
+type I error of 0.05. Under an assumption that 10%
+of the patients would be lost to follow-up, a total
+sample of 2000 patients was deemed to be sufficient to
+evaluate the primary outcome. If noninferiority regarding the primary outcome
+was established, a conditional test for superiority would be performed.

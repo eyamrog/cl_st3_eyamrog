@@ -1,0 +1,17 @@
+The results of the ANOVA test also showed significant differences
+in the level of education of participants and their knowledge
+of COVID-19, F (3, 647) = 6.02, p = .000,
+efficacy of coping strategies, F (3, 647) = 3.77, p
+= .011, and the cost of coping strategies, F (3,
+647) = 10.98, p = .000. The significant difference in
+the knowledge of COVID-19, according to the post hoc test,
+was found between participants with basic ( M = 34.9,
+SD = 6.1) and tertiary ( M = 30.9, SD
+= 7.5) educational qualification. In the case of the cost
+of responding to COVID-19, the post hoc results showed significant
+differences between participants with basic ( M = 50.2, SD
+= 13.0), secondary ( M = 42.2, SD = 12.6)
+and tertiary ( M = 40.0, SD = 12.7) education
+qualification. However, the post hoc results showed no significant difference
+between level of education and efficacy of coping strategies to
+COVID-19.

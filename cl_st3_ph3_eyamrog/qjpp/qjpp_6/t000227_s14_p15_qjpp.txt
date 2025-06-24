@@ -1,0 +1,19 @@
+For cross-sectional analyses, sections at 20%, 35%, 50%, 65%, and
+80% of tibial biomechanical length levels were chosen following Ruff
+and Hayes (1983) and Trinkaus and Ruff (2012) . The
+analyses were performed using Moment-Macro ( https://www.hopkinsmedicine.org/fae/mmacro.html ) in ImageJ
+v. 1.53k ( Abràmoff et al., 2004 ). Because the
+proximal and distal fragments that constitute Boxgrove 1 did not
+fit perfectly, with a narrower section in the refitted proximal
+portion compared to the distal portion, the four largest pieces
+of the proximal fragment were virtually separated before analysis to
+allow a reconstruction of the proximal shaft and obtain new
+results for the 65% and 80% cross-sections ( Fig. 3
+). Three different cross-sectional reconstruction approaches were tested to establish
+the most plausible one: 1) Boxgrove 1 physically reconstructed (PR)
+without virtual reconstruction; 2) two-dimensional reconstruction (2DR) of cross-section images
+fixing the edges; and 3) three-dimensional virtual reconstruction (3DR) of
+the Boxgrove 1 tibia following tibia distal diaphysis shape. Download:
+Download high-res image (452KB) Download: Download full-size image Figure 3
+. Boxgrove 1 (NHMUK PA EM 3566) reconstruction with anterior,
+medial, posterior, and lateral views.

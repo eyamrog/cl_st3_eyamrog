@@ -1,0 +1,21 @@
+This paper investigates the sociophonetics of back vowels in Southern
+US English, focusing on the relative phonetic placements and vowel-inherent
+dynamics of phonemes represented by the words goose , foot
+, goat , thought , and lot . 1 In
+Standard American English, these words’ stressed vowels are typically transcribed
+as /u ʊ oʊ/, plus /ɔ ɑ/ (respectively) when the
+low back vowels are unmerged. Southern US English can diverge
+considerably from these qualities, as described in more detail in
+section 2 and in Thomas (2004) . Our data come
+from the Digital Archive of Southern Speech (DASS; Kretzschmar et
+al. 2013 ), a collection of Linguistic Atlas interviews from
+eight southern states. DASS’ forty-eight European American speakers (twenty-four women)
+were born between 1886 and 1956, and contribute 290 hours
+of audio, whose extent and time depth allow us to
+test for sound patterns characteristic of Southern speech. The preservation
+of these recordings is significant because audio samples from talkers
+born in the nineteenth century are rare. Though interviews took
+place between 1970 and 1983, this corpus has only recently
+been transcribed ( Kretzschmar et al. 2019 ), providing a
+fresh look at Southern US English in the early and
+mid-twentieth century.

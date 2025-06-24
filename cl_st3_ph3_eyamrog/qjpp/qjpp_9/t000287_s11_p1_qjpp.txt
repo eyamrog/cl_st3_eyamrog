@@ -1,0 +1,16 @@
+The set of lexical items corresponding to the start and
+north vowel classes largely correspond with orthography. The start class
+usually has <ar>, while north usually is spelled <or>. However,
+there are exceptions to this pattern. In many American English
+varieties, including that of St. Louis, ( to ) morrow
+, borrow , sorrow , and sorry are in the
+start class, while lexical items with /w/ preceding <ar>, such
+as quarter , war , and wharf , are in
+the north class. There is some cross-dialectal variation as to
+the complete distribution of lexical items across the classes. Some
+English varieties, like New York City English, place <or> items
+in open syllables in the start class (h[ɔ]rse, but h[ɑ]rrible;
+see Newman 2014 ). Because the start - north merger
+in St. Louis appears to pre-date widespread audio recording, it
+is unclear which distribution of lexical items operated prior to
+the attested neutralization of the vowels.

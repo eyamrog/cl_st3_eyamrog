@@ -1,0 +1,9 @@
+Fractional dosing of vaccines in the context of global vaccine
+shortages has a great potential to mitigate the healthcare and
+economic burdens. Our cost-effectiveness analysis provides an indication of potential
+benefits for the population vaccinated with fractional doses in India.
+We provide a data-driven modeling approach to tailoring fractional-dosing strategies
+to local epidemiological conditions, using the ChAdOx1 vaccine as an
+example. Compared to the alternatives of either full-dose vaccination or
+no vaccination, fractional doses of ChAdOx1 vaccines would be an
+economically optimal vaccination strategy.

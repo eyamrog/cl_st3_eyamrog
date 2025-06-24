@@ -1,0 +1,4 @@
+where Y i is the dependent variable capturing the attitude
+scale, X i is a vector of the respondents’ demographic
+and socioeconomic characteristics, and ε ε i is the error
+term.

@@ -1,0 +1,11 @@
+Macrophages were fixed as single cell suspensions in 4% formaldehyde.
+Fixed cells were then permeabilized in 0.25% Triton X-100 and
+blocked in 1% BSA/0.05% Tween-20 in PBS. Cells were then
+incubated with 1:500 γH2AX antibody (Abcam), followed by washing and
+collection in FACS buffer (1% FBS in PBS) for flow
+cytometry. Annexin V and propidium iodide for cell death analysis
+was performed according to manufacturer’s instructions (Alexa Fluor® 488 annexin
+V/Dead Cell Apoptosis Kit, Thermofisher). Cell cycle analysis was performed
+with ethanol fixed cells and stained in PBS with 50μg/mL
+Propidium Iodide and 100μg/mL RNase A. All flow cytometry data
+was collected on LSRII (BD) and analyzed with FlowJo (TreeStar).

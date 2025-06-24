@@ -1,0 +1,26 @@
+As IAV replicates in the nucleus, we next examined whether
+activation of necroptosis was initiated in the nucleus. IAV-infected MEFs
+displayed a distinct pMLKL signal starting at ∼6 h p.i.;
+this signal was first observed in the nucleus, before becoming
+evident in the cytoplasm and at the plasma membranes of
+infected cells between 9–12 h p.i. ( Figure 1 D,
+quantified in 1 E). In contrast, the tumor necrosis factor
+alpha (TNF-α)-initiated pMLKL signal was first detected in the cytoplasm
+and only later in the nucleus, as previously reported (
+Weber et al., 2018; Yoon et al., 2016 48. Weber,
+K. ∙ Roelandt, R. ∙ Bruggeman, I. ... Nuclear RIPK3
+and MLKL contribute to cytosolic necrosome formation and necroptosis Commun.
+Biol. 2018; 1 :6 Crossref Scopus (109) PubMed Google Scholar
+52. Yoon, S. ∙ Bogdanov, K. ∙ Kovalenko, A. ...
+Necroptosis is preceded by nuclear translocation of the signaling proteins
+that induce it Cell Death Differ. 2016; 23 :253-260 Crossref
+Scopus (120) PubMed Google Scholar ) ( Figures 1 F
+and S1 C). Staining IAV-infected HT-29 FLAG-ZBP1 cells for pMLKL
+showed a readily observable nuclear signal staining by 4 h
+p.i., followed by cytoplasmic dispersal and plasma membrane localization by
+8 h p.i. ( Figure 1 G, quantified in 1
+H). In these cells, TNF-α-activated pMLKL was primarily cytoplasmic, detectable
+within 2 h post-treatment, and seen at the plasma membrane
+by 4 h ( Figures 1 I and S1 D).
+These results indicate that IAV-activated ZBP1-RIPK3 necroptosis signaling, unlike canonical
+TNF-α-induced necroptosis, is initiated in the nucleus.

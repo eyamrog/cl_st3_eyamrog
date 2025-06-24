@@ -1,0 +1,14 @@
+The study design of the PANDA challenge was preregistered .
+We retrospectively obtained and de-identified digitized prostate biopsies with associated
+diagnosis from pathology reports from Radboud University Medical Center, Nijmegen,
+the Netherlands and Karolinska Institutet, Stockholm, Sweden (Extended Data Fig.
+1 and Supplementary Methods 1 , 2 and 3 ).
+At the start of the competition, participating teams gained access
+to this EU development set of 10,616 biopsies from 2,113
+patients for training of the AI algorithms (Table 1 and
+Supplementary Methods 4 ). During the course of the competition,
+the teams could upload their algorithms to the Kaggle platform
+(Supplementary Methods 5 ) and receive performance estimates on a
+tuning set of 393 biopsies. Processing time was limited to
+6 h and the maximum graphics processing unit (GPU) memory
+available was 16 GB.

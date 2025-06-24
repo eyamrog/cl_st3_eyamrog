@@ -1,0 +1,5 @@
+Second, it may be the case that people are willing
+to receive multiple vaccines with different properties; i.e., that they
+deem several potential candidates to be acceptable. This is a
+possibility we might miss if looking only at respondents’ choice
+of one vaccine over another.

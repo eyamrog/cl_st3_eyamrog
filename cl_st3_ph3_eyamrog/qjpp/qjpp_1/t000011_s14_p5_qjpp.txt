@@ -1,0 +1,21 @@
+We considered each Indian community consisting of 10,000 households with
+47,568 individuals. In each Indian community, individuals are connected via
+a static contact network. We considered five age groups: 0–5,
+6–17, 18–49, 50–64 and >65 years. The size of each
+household was sampled using the empirical distribution with mean as
+4.76 and standard deviation as 1.74, according to the 2011
+Census Data in India . Members within each household are
+fully connected (that is, each individual can contact other members
+in the same household). Following Du et. al. , we
+randomly connected individuals from different households according to the data
+of age-specific contact rates in India . To determine the
+number of contacts between an individual of age group a
+i and another individual of age group a j ,
+we drew a random number using a Poisson distribution with
+rate as the mean number of contacts between age groups
+a i and a j . In our model, each
+Indian community captured the characteristics of the household structure and
+contact patterns in India, so we obtained the economic evaluation
+results for the whole of India by scaling those obtained
+from a single community with 47,568 individuals to the 1,366
+million Indian population.

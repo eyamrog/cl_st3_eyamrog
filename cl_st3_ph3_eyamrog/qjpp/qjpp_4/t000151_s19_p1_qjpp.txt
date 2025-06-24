@@ -1,0 +1,13 @@
+Figure 1 shows violin plots of transformed hormone values for
+different levels of handedness. Separate plots are given for men
+and women and for both T and E. In men,
+neither left-handers (posterior median = 0.07, 95% HDI = −0.03
+to 0.17), nor mixed-handers (median = 0.07, 95% HDI =
+−0.07 to 0.20) showed T levels significantly different from right-handers
+as all credibility intervals contained 0. Similarly, in women, neither
+left-handers (median = 0.01, 95% HDI = −0.13 to 0.17)
+nor mixed-handers (median = −0.01, 95% HDI = −0.26 to
+0.32) showed T levels significantly different from right-handers. Excluding those
+whose testosterone was measured in the morning (2350 men and
+1170 women excluded), did not change the results qualitatively (95%
+HDIs still contained 0).

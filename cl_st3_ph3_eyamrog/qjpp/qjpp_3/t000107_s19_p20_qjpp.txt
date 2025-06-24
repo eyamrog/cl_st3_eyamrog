@@ -1,0 +1,17 @@
+During Cl13 infection, adoptive transfer of sgCtrl + C9P14 cells
+conferred a moderate degree of viral control compared to the
+no transfer condition (NT) ( Figure 6 B) as expected
+( Blattman et al., 2009 8. Blattman, J.N. ∙ Wherry,
+E.J. ∙ Ha, S.-J. ... Impact of epitope escape on
+PD-1 expression and CD8 T-cell exhaustion during chronic infection J.
+Virol. 2009; 83 :4386-4394 Crossref Scopus (101) PubMed Google Scholar
+). However, sgFli1 + C9P14 provided substantially improved control of
+viral replication compared to sgCtrl + C9P14 cells at ~2
+weeks p.i. ( Figure 6 B), demonstrating a benefit due
+to loss of Fli1 even in chronic viral infection where
+induction of exhaustion is a major barrier to effective protective
+immunity. Notably, in some experiments, sgFli1 + C9P14, but not
+sgCtrl + C9P14-recipient mice, experienced severe disease and had to
+be euthanized between D7–D13 p.i., ( Figure S6 A), suggesting
+that Fli1 may safeguard from excessive T EFF -like differentiation
+and limit T cell-mediated immunopathology.

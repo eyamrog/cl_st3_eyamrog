@@ -1,0 +1,8 @@
+Figure 6 shows how these predictors interact and in which
+direction they impact the choice between bare proposition and that
+-clause. Somers2 for the ctree returns slightly lower values at
+0.524 (prediction accuracy) and C = 0.762, which still provide
+a good model fit. The following comments are limited to
+those instances where p < 0.001. Open in Viewer Figure
+6 . ctree Analysis Showing Factor Interaction for Syntactic Integration
+in N-is Focalizers in NOW

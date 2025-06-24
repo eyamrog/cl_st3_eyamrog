@@ -1,0 +1,7 @@
+This study can be improved by increasing the number of
+concordances. This can be implemented by combining other Chinese interlanguage
+corpora. More factors can also be considered. Due to the
+corpus’ limitations, this study did not contain the influence of
+discourse. It is recommended that follow-up research study discourse-related predictors
+such as discourse salience of Head np , discourse functions
+of relative clauses to make the results more elaborate.

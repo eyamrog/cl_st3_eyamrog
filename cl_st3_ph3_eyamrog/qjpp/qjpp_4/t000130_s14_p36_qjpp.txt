@@ -1,0 +1,14 @@
+To knockdown GPC3 by shRNA in vivo , we used
+the best out of 3 different tested target regions embedded
+in the in the pCAG-miR30 vector, with the following sequence:
+GCCGAAGAAGGGAACTGATTC. This shRNA was validated in HEK293T cells, by co-transfection
+with GPC3 followed by western blotting. pCAGGS-mCherry ( Gurtan et
+al., 2012 39. Gurtan, A.M. ∙ Lu, V. ∙ Bhutkar,
+A. ... In vivo structure-function analysis of human Dicer reveals
+directional processing of precursor miRNAs RNA. 2012; 18 :1116-1122 Crossref
+Scopus (0) PubMed Google Scholar ) was used to visualise
+electroporated cells. Secreted versions of Unc5D extracellular domains (Unc5DIgIgTSP and
+Unc5DIgIgTSPGU) as well as the nanobodies (Nanoglue and Nanobreak) were
+cloned into the pCAGIG vector. The expression of all constructs
+was validated by expression in HEK293T cells and analyzed on
+western blots.

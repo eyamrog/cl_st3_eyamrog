@@ -1,0 +1,13 @@
+Both geometric morphometric (GM) and traditional morphometric (TM) methods were
+used to analyze covariation between the cranium and the cervical
+vertebrae in Hominidae. GM methods were used to perform the
+analyses at the interspecific level, and TM methods were used
+at the intraspecific level. Before performing the analyses, landmarks that
+could not be captured due to damage in the bone
+were, if possible, estimated using bilateral symmetry and otherwise calculated
+using partial least squares (PLS; Bookstein et al., 1990 ;
+Rohlf and Corti, 2000 ). Overall, less than 2% of
+the total landmarks were estimated. All statistical analyses were performed
+in R v. 4.0.2 ( R Core Team, 2020 ),
+and, more specifically, for GMs using the package ‘geomorph’ v.
+3.2.1 ( Adams et al., 2020 ).

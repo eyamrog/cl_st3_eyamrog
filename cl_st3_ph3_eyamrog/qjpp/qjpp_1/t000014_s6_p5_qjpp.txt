@@ -1,0 +1,17 @@
+Our study provides evidence supporting the safety and immunogenicity of
+a heterologous COVID-19 vaccine regimen with an inactivated vaccine and
+an AD5 vector-based vaccine. To date, at least four studies
+evaluating heterologous prime–boost regimens have been reported. rAd26 and rAd5
+vector-based heterologous prime–boost COVID-19 vaccine regimens induced a robust immune
+response and had 91.6% efficacy against symptomatic disease . Two
+heterologous prime–boost vaccination studies with ChAdOx1 nCoV-19 and BNT162b2 elicited
+higher IgG concentrations than that of a licensed homologous schedule
+(ChAd/ChAd) . Heterologous prime–boost vaccination with ChAdOx1 nCoV-19 and mRNA-1273
+led to an increase in titers of serum neutralizing antibodies
+against the wild-type and the B.1.351 variant of SARS-CoV-2, in
+contrast to a homologous ChAdOx1 nCoV-19 booster . One of
+these studies reported higher reactogenicity with the heterologous prime–boost vaccination
+regimen . Evidence from these studies and results of this
+trial suggest that heterologous prime–boost regimens are more immunogenic than
+homologous prime–boost regimens, but they may in some instances be
+more reactogenic.

@@ -1,0 +1,23 @@
+Our study design and analytic approach differed from prior studies
+in important ways that make our results new and clinically
+relevant. First, prior studies assessed step counts over a single,
+short (usually 7 days) monitoring period with activity data between
+the baseline monitoring period and outcomes assessment, often many years
+later. Short monitoring periods are prone to an observer effect
+and may not accurately reflect true short- and long-term activity
+behavior . In contrast, our models accounted for changes in
+steps over the entirety of an individual’s monitoring period (median
+of 4 years) rather than a brief snapshot. Second, prior
+studies have focused on a narrow set of outcomes (for
+example, mortality, diabetes and cardiovascular disease) ascertained at a single
+timepoint remote from the initial monitoring period. Our study used
+a hypothesis-generating phenome-wide association study approach, examining the association between
+step counts and the human phenome. In this manner, several
+new associations emerged including GERD, sleep apnea and MDD, which
+would likely go unidentified if disease phenotypes were selected a
+priori. Lastly, our analysis permitted incident disease to emerge at
+any point during clinical care rather than a prespecified follow-up
+time as performed in most cohort studies. One may speculate
+that this approach is more accurate with respect to the
+timing of incident disease and refines the temporal association between
+longitudinal activity and incident disease.

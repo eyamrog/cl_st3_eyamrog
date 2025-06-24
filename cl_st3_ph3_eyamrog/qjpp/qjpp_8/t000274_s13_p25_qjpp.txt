@@ -1,0 +1,8 @@
+Initially, coders replaced direct identifiers such as names and locations,
+choosing to either manually replace words with codes, or use
+the ‘find and replace’ feature in MS Word. The latter
+was occasionally problematic as, for example, replacing all instances of
+the name ‘Reg’ with [PERSON] also changed ‘regarding’ to ‘[PERSON5]arding’,
+and similarly ‘Aila’ changed ‘available’ to ‘av[PERSON2]ble’. In each case,
+this rendered the individual service user's name recoverable from the
+text.

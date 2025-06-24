@@ -1,0 +1,14 @@
+In terms of data analysis, Hong Kong lcr is no
+longer limited to the early obsession with frequency counts. More
+recent research has used statistical testing to determine whether the
+observed differences are statistically meaningful. This has improved the scientific
+rigor of lcr in Hong Kong. Nevertheless, on the one
+hand, Hong Kong lcr exhibits both descriptive and inferential statistics,
+such as testing significance with log-likelihood (e.g., Crosthwaite and Jiang
+[2017] and Qian and Pan [2019] ), chi-square test (
+Yan, 2019 ), anova tests ( El-Dakhs, 2020 ); on
+the other hand, analytical techniques, such as multi-factorial modelling and
+multi-variate exploratory tools which have already gained currency in international
+lcr ( Gries, 2015 ), were not found in the
+current review. Therefore, Hong Kong lcr is still lagging behind
+the development of international lcr in terms of data analysis.

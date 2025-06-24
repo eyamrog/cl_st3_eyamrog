@@ -1,0 +1,8 @@
+Next, we analyzed patterns of correlation between the cranium and
+the cervical vertebrae in the three species by quantifying the
+correlation between pairs of variables. To do so, we calculated
+the Pearson correlation coefficient and significance between all the cranial
+variables, on the one side, and all the variables of
+each vertebra, on the other side, using the ‘cor.test’ function
+of the R package ‘stats’ v. 4.0.2 ( R Core
+Team, 2020 ).

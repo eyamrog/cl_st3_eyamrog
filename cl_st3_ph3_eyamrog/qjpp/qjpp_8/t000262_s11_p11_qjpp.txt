@@ -1,0 +1,18 @@
+This study analyzes data from the UC Berkeley Social Networks
+survey (UCNets), which collected extremely detailed information on personal networks
+and health in a representative sample of residents in the
+San Francisco Bay (SFB) Area, California ( Fischer, 2018 ).
+Using multiple measures of health and social networks, we investigate
+to what extent older adults in different migrant generations differ
+in terms of physical and mental health , social support,
+and the relationship between support and health. The SFB Area
+population is particularly diverse in terms of migration status and
+ethnicity. About a third (32%) of SFB residents are first-generation
+migrants; 56% are White, 30% Asian and 6% African American,
+with 29% also identifying as Hispanic ( Census Bureau, 2019
+). This is a rather young and well-educated, urban population:
+20% of the SFB residents are under 18 years old,
+66% are between 19 and 64 years old, and 14%
+are 65 and above; half of the residents over 25
+years old have at least Bachelor's degrees, while 88% have
+at least high school diplomas.

@@ -1,0 +1,19 @@
+Chick embryos of interest were harvested and fixed in 4%
+paraformaldehyde (PFA). Embryos were embedded in 7.5% gelatin and 15%
+sucrose in PBS to perform 20 μm transverse cryosections. Permeabilization
+and saturation of sections were performed in PBS with 3%
+BSA and 0.5% Triton. The following primary antibodies were applied
+to sections: anti-HNK1 mouse IgM (1/50, 3H5, DSHB), anti-GFP rabbit
+IgG (1/500, Thermo Fisher Scientific), anti-mitochondria mouse IgG (1/500, Millipore)
+and the following secondary antibodies: Alexa 647 anti-mouse IgM (1/500,
+Thermo Fisher Scientific); Alexa 488 anti-rabbit IgG (1/500, Thermo Fisher
+Scientific), Alexa 555 anti-mouse IgG (1/500, Thermo Fisher Scientific) and.
+Nuclei were stained with Hoechst (Thermo Fisher Scientific). Slices were
+imaged with a confocal microscope (Olympus, FV1000, X81) using a
+10× objective. The position of isolated cells and tumor masses
+was pointed on a reference image for each slice in
+which tumor cells could be detected, using Fiji ( Schindelin
+et al., 2012 94. Schindelin, J. ∙ Arganda-Carreras, I. ∙
+Frise, E. ... Fiji: an open-source platform for biological-image analysis
+Nat. Methods. 2012; 9 :676-682 2012 Crossref Scopus (30895) PubMed
+Google Scholar ).

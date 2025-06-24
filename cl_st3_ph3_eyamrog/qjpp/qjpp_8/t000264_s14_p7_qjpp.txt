@@ -1,0 +1,15 @@
+The next composite metric – SVI – captures social vulnerability,
+which refers to the resilience of communities when confronted by
+external stresses on human health, stresses such as natural or
+human-caused disasters, or disease outbreaks. Reducing social vulnerability can decrease
+both human suffering and economic loss. The Centers for Disease
+Control and Prevention's (CDC) Social Vulnerability Index uses 15 U.S.
+Census variables at the tract level to help local officials
+identify communities that may need support in preparing for hazards;
+or recovering from disaster ( Agency for Toxic Substances and
+Disease Registry, 2018 ). SVI integrates measures representing socioeconomic status,
+household composition and disability, minority status and language, and housing
+type and transportation ( Agency for Toxic Substances and Disease
+Registry, 2018 ). The Geospatial Research, Analysis, and Services Program
+(GRASP) created and maintains the CDC's Social Vulnerability Index. Higher
+scores indicate more vulnerability.

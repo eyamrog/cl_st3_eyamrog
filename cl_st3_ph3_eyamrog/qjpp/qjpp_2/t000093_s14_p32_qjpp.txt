@@ -1,0 +1,8 @@
+A clonal cell line was made constitutively expressing mCherry-G3BP1 by
+transfection of mCherry-G3BP1-C1 into the G3BP1/2 (G3BP) KO cells containing
+the Tet repressor, selected using G418 (500 μg/mL), and cloned.
+This line was used to make double-positive cells expressing Tet-inducible
+GFP-tagged proteins (G3BP1 WT, G3BP1 S38F, G3BP1 F33W, and UBAP2L
+WT) in pcDNA4 t/o vector (Invitrogen), selected using zeocin (Invitrogen,
+250 μg/mL). These cell lines were used for immunoprecipitation experiments
+in Figure 2 and Figure 6 .

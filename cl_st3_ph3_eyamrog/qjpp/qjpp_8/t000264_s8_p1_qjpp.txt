@@ -1,0 +1,24 @@
+The global pandemic engulfing our globe is taxing hospitals and
+out-patient clinics, dominating headlines, and occupying a pervasive place in
+everyday life. As such, the coronavirus 2019 (COVID-19) and its
+effects are appropriately the focus of much scholarly attention. The
+already prodigious research output is broad and deep with researchers
+in fields ranging from epidemiology to public administration to economics
+investigating a range of research questions. Among the studies we
+surveyed, authors were concerned with the risk factors for contracting
+and dying of COVID-19 ( Fan et al., 2020 ;
+Guha et al., 2020 ), disease prevalence over time and
+across various regions ( Carroll and Prentice, 2021 ), mitigation
+strategies for disease control ( Lyu and Wehby, 2020 ),
+financial and employment impacts of the pandemic ( Moen et
+al., 2020 ), social isolation and its effect on mental
+health ( Douglas et al., 2020 ; Substance Abuse and
+Mental Health Services Administration, 2020 ), and community philanthropy and
+cross-sector collaborative response ( Finchum-Mason et al., 2020 ). A
+comprehensive review of these disparate bodies of literature is beyond
+the scope of this manuscript; nonetheless, we note the breadth
+of these evolving literatures to set the stage for challenging
+a common methodological practice that persists across them – namely,
+employing a variety of measures as proxies for socio-demographic characteristics
+to explain COVID-19's spread ( Campbell et al., 2021 ;
+Daras et al., 2021 ).

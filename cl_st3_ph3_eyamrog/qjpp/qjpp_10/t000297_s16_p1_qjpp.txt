@@ -1,0 +1,20 @@
+Throughout the decades of lcr in Hong Kong, corpus size
+has varied to a large extent, ranging from merely a
+thousand words (e.g., Fan [2009] ) to 14.7 million words
+(e.g., Li and MacGregor [2010]). Contrary to the general inclination,
+lcr in Hong Kong does not use only large-scale corpora.
+Studies making use of the Hong Kong Corpus of Spoken
+English ( hkcse ) varied in corpus size from 88,077
+words ( Yeung, 2009 ) to 920,000 words ( Cheng
+and Warren, 2007 ) to 2 million words ( Seto,
+2009 ), depending on the sub-sections of the corpus they
+used and any data they added to the existing corpus.
+Although corpus size can be as small as 1,327 words
+( Fan, 2009 ), the usual corpus size in Hong
+Kong lcr ranges between 10,000 and 100,000 words. Researchers have
+rarely constructed corpora of over one-million words, but tend to
+resort to readily available corpora such as the hkust-lc, when
+larger language samples are required. Clearly, lcr in Hong Kong
+has attached more emphasis to representativeness of the content rather
+than corpus size, even though both are considered to be
+crucial criteria in corpus research.

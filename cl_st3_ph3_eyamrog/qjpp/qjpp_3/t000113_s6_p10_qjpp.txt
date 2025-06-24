@@ -1,0 +1,18 @@
+Our data show that when subjects traversed a predefined trajectory
+through an abstract value space, hippocampal neurons displayed many canonical
+features of spatial place neuron activity. There are number of
+limitations to our results. First, unlike physical space, which rodents
+actively explore, the traversal through value space was passive in
+our task. Future work will need to consider the activity
+of hippocampal value place neurons when subjects are actively navigating
+abstract spaces. Second, results in rodents have shown qualitatively different
+types of remapping dependent on the extent of contextual changes
+( Leutgeb et al., 2005 36. Leutgeb, S. ∙ Leutgeb,
+J.K. ∙ Barnes, C.A. ... Independent codes for spatial and
+episodic memory in hippocampal neuronal ensembles Science. 2005; 309 :619-623
+Crossref Scopus (617) PubMed Google Scholar ). We will likewise
+need to see how different manipulations of contextual changes affect
+remapping in the value space. Finally, rodent studies have described
+clear functional differences along the hippocampal axis. It will be
+important to examine whether value place fields show analogous functional
+organization.

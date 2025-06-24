@@ -1,0 +1,14 @@
+Girls with DHEA-S levels <400 pg/mL (clinical cutoff) (Havelock, Auchus,
+& Rainey, 2004 ; Houghton et al., 2014 ) were
+classified as pre-adrenarcheal. Associations between anthropometrics and body composition were
+analyzed using Mann-Whitney U . Age- and sex-specific z-scores for
+body composition were coded as binary variables: girls above the
+sample median of z-scores for weight, height, and BMI-for-age were
+scored as 1, while girls equivalent or below the sample
+median were coded as 0. Fisher's exact test analyzed associations
+between being above the adrenarcheal cutoff of 400 pg/mL (“post-adrenarcheal”),
+and above the sample median z-scores for body composition variables.
+We also tested for associations between adrenarcheal status and 5th
+percentile of z-scores for height-for-age (short stature/stunting), 5th percentile weight-for-age
+(under-weight), as well as 5th, 85th, 95th percentiles of BMI-for-age
+(wasting, overweight, and obesity, respectively) (CDC, 2013 ).

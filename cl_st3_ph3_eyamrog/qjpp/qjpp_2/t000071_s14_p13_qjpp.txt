@@ -1,0 +1,13 @@
+We assessed the incidence of Covid-19 disease by day 14
+with Fisher’s exact test. Secondary outcomes with respect to percentage
+of patients were also compared with Fisher’s exact test. Among
+participants in whom incident illness compatible with Covid-19 developed, we
+summarized the symptom severity score at day 14 with the
+median and interquartile range and assessed the distributions with a
+Kruskal–Wallis test. We conducted all analyses with SAS software, version
+9.4 (SAS Institute), according to the intention-to-treat principle, with two-sided
+type I error with an alpha of 0.05. For participants
+with missing outcome data, we conducted a sensitivity analysis with
+their outcomes excluded or included as an event. Subgroups that
+were specified a priori included type of contact (household vs.
+health care), days from exposure to enrollment, age, and sex.

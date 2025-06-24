@@ -1,0 +1,22 @@
+Using Praat, the F1 and F2 values of all target
+vowels were extracted automatically in Bark ( Traunmüller 1990 ),
+averaging across a section of the vowel that extended from
+20-70 percent of its total duration. Based on Sönning and
+Schützler (2018) , we then applied an adapted form of
+Lobanov’s (1971) z-score normalization procedure. Based on the raw data,
+we first determined the midpoint of the acoustic vowel space
+for each speaker by calculating median values of F1 and
+F2 for each of the eight normalizer categories for that
+speaker, and by calculating their mean, again separately for each
+formant. Next, the respective mean was subtracted from each individual
+vowel measurement, creating values centered around zero. For all vowels,
+these negative and positive values of F1 and F2—effectively deviations
+(in Bark) from the midpoint of the space—were then divided
+by the standard deviation of the sixteen centered median values
+of normalizers for the respective speaker across both F1 and
+F2. While the original Lobanov normalization procedure measures formants in
+Hz and divides centered values by a standard deviation of
+normalizers that is different for F1 and F2, using a
+single standard deviation in both dimensions preserves relative positions and
+distances between vowels and thus respects the psychoacoustic scaling introduced
+by the Bark-scale.

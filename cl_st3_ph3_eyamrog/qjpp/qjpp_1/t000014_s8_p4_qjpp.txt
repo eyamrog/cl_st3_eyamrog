@@ -1,0 +1,12 @@
+Heterologous schedules incorporating COVID-19 vaccines across different platforms may promote
+antibody affinity maturation and influence the breadth of vaccine-elicited neutralizing
+antibodies by including different antigens, types of vectors, delivery routes,
+doses and/or adjuvants at different times . The combination of
+heterologous prime–boost schedules with inactivated vaccines and adenovirus-based vaccines such
+as AD5-nCOV, ChAdOx1 nCoV-19 or Ad26.COV2.S could also potentially enhance
+the feasibility of vaccine distribution, particularly for some low- or
+middle-resource countries with limited or unpredictable CoronaVac supplies to allow
+for three doses per individual. Here we report the safety
+and immunogenicity of initial vaccination with one or two doses
+of CoronaVac followed by heterologous boosting with Convidecia in Chinese
+adults in a prospective phase 4 trial ( NCT04892459 ).

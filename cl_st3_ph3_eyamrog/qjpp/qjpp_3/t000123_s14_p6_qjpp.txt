@@ -1,0 +1,5 @@
+The goal of this experiment was to knock-in the gray
+short-tailed opossum PAPSS2 cDNA, the modified gray short-tailed opossum PAPSS2
+cDNA, the tammar wallaby PAPSS2 Cdna (manual inspection), and the
+Tasmanian devil PAPSS2 cDNA (all with protein sequence only) at
+the start codon position in the mouse ortholog, respectively.

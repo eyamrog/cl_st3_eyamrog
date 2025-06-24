@@ -1,0 +1,22 @@
+We have not yet discussed the postcoronal allophones, toot ,
+took , and toe , outside of Figure 5 ;
+Figure 6 highlights these allophones, and for reference, the corresponding
+trajectories ( boot , foot , and boat ) from
+Figure 4 are shown as thinner, transparent lines with open
+arrow heads. While we attempted to account for most allophonic
+behavior through the random effect for word , previous segment
+, and following segment , we felt it prudent to
+include postcoronal allophones in each model because of their potentially
+large expected differences (postcoronal allophones of back vowels tend to
+be fronter than non-postcoronal allophones). We did this by placing
+them in the large GAMM interaction term to test for
+change and variation between allophones. For example, as mentioned in
+section 2.1 , Strelluf (2018) finds that the postcoronal versus
+elsewhere allophones of goose and goat exhibit different patterns across
+time and are evaluated differently by Kansas Citians, suggesting that
+there is potential for sociolinguistic differences between these pairs of
+allophones in regions with BVF. A model that collapses these
+allophones into a single category would obscure potential systematic differences.
+The results of model comparison ( Table 3 ) confirm
+that allophones are significantly different for all the non-low back
+vowels.

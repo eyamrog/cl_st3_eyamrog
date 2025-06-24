@@ -1,0 +1,23 @@
+Participants in both studies were registered with the NHS. Each
+individual's unique NHS number (or equivalent) and date of birth
+were used to link to routinely collected NHS data on
+hospital admissions, deaths, and emigrations. Electronic linkage was done by
+NHS Digital in England, NHS Central Register Scotland, and Information
+Services Division Scotland, and Secure Anonymised Information Linkage Wales. Hospital
+diagnoses for each admission were coded using the International Classification
+of Diseases, 10th revision (ICD-10). The main outcomes were first
+coronary heart disease event (ICD-10 codes I20–I25) and first stroke
+event (I60–I69). We subdivided first events into hospital admission as
+the first event or death with no associated hospital admission
+as the first event. First events for participants who died
+on the first day of their hospital admission were classified
+as death as the first event. We calculated person-years from
+the date participants answered the social contact questions to date
+of first event, death, cessation of NHS registration, or cessation
+of follow-up, whichever occurred first. In the Million Women Study,
+participants were followed up until Jan 1, 2018. In UK
+Biobank, participants in Wales were followed up until March 1,
+2016, participants in Scotland were followed up until Nov 1,
+2016, and participants in England were followed up until Jan
+1, 2018. The median end of follow-up for both studies
+combined was 2017 (IQR 2017–2017).

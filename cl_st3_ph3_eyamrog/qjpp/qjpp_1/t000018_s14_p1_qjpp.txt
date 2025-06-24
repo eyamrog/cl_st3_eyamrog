@@ -1,0 +1,19 @@
+Due to the nature of the study, no statistical method
+was used to predetermine sample size and experiments were not
+randomized; n = 15 samples of bulk sequencing from surgical
+resections were excluded based on failed quality control (low number
+of reads, outlier on PCA) (see GSE166928 for flags and
+https://github.com/microbialman/IBDTherapyResponsePaper ). Given the sample nature, technical replication of experiments
+involving human patient sample material was not carried out because
+collection of substantially more tissue could not be ethically supported.
+Patient data were analyzed at the cohort level, using all
+patients/samples/datapoints, to derive statistics. For experiments with cell lines, replicates
+are presented and experiments shown only if the experiment was
+successfully repeated on at least one other occasion. Randomization was
+not relevant to the clinical findings because this was an
+observational study. Cell culture wells were randomly allocated to experimental
+groups. All human samples and cell line treatment groups were
+blinded to the researchers before data collection, by giving them
+a unique ID number. Pathologists were blinded for scoring of
+histopathologic slides. The type of statistical test and experimental group
+sizes are given in the figure legends.

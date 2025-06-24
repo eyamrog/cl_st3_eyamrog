@@ -1,0 +1,6 @@
+Figure 2 clearly shows that something has changed post-1960s. There
+is also evidence of slight varietal difference—although both AmE and
+BrE follow the same pattern, the American corpora, which start
+with lower normalized frequencies, overtake their British counterparts and are
+more consistent from the 1990s to the 2000s, although there
+is still a small drop off.

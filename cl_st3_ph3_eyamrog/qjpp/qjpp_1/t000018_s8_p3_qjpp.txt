@@ -1,0 +1,8 @@
+Here, we explored how individual signatures of tissue inflammation associate
+with nonresponse to specific medical treatments. Transcriptomic changes linked to
+therapy nonresponse were found to reflect changes in cellular composition
+and activation state associated with distinct histological features. These molecular,
+cellular and histologic definitions of disease provide a basis for
+rational targeting of existing medications, and an alternative avenue to
+target inflammation in nonresponsive patients displaying ulceration with fibroblast and
+neutrophil remodeling.

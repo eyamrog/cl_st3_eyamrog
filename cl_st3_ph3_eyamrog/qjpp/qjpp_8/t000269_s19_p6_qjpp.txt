@@ -1,0 +1,9 @@
+All the trends over time observed in Table 1 ,
+Table 2 are unadjusted and univariate, meaning that differences between
+groups and time points may be due to natural change
+over time, random error and/or the effect of another covariate,
+control variable or even the correlation with the other outcome.
+It is therefore important to tackle this complexity with a
+sufficiently sophisticated model. In the next section, we present the
+results for the bivariate growth curve models for both conduct
+and emotional outcomes.

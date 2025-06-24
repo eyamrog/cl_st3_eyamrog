@@ -1,0 +1,11 @@
+In addition to coefficient estimates, we calculate the predicted probability
+of specific health outcomes as a function of migration status
+and social support. In line with recent recommendations about significance
+testing ( Wasserstein et al., 2019 ), to assess significance
+we favor confidence intervals and predicted probabilities over conventional p-value
+thresholds for coefficient estimates. In particular, we use Discrete Changes
+at the Mean (DCM) in predicted probabilities ( Long and
+Mustillo, 2019 ) to evaluate predictor effects between different migration
+status groups, because group comparisons based on logistic regression coefficients
+or odds ratios may be misleading in case of unobserved
+heterogeneity between groups ( Allison, 1999 ).

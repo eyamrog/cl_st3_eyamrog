@@ -1,0 +1,9 @@
+Mediation analyses were carried out using structural equation modelling. The
+factor scores of the Oxford COVID-19 Vaccine Hesitancy Scale were
+the response variable with randomised group as the exposure and
+a higher-order latent variable (beliefs) derived from the four subscales
+of the Oxford Vaccine Confidence and Complacency Scale as the
+mediator variable. Age, gender, ethnicity, income, region, and level of
+COVID-19 health risk were included in the model as controls.
+We employed the Monte Carlo method for a formal inferential
+test of the effects in the mediation model.

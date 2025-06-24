@@ -1,0 +1,17 @@
+Fig. 1 displays the Google residential median mobility by week
+for the entire U.S.; images for these measures by Census
+region are available in the Supplemental Materials . Additional GIFs
+and images of the mobility and composite measures are available
+in the Supplemental Materials. The mobility measures suggest more residential
+and less work mobility than the baseline at the beginning
+of the pandemic, with a gradual trend towards baseline over
+time. The South and Northeast health regions appear to return
+to baseline sooner than the other health regions. The vulnerability
+measures all show the South region are at higher risk
+of disease spread and adverse health outcomes. As one would
+expect, PVI suggests lower vulnerability towards the beginning of the
+pandemic and generally rises over time. However, parts of the
+Midwest, Northeast, and Alaska remain low, while the West region
+shows the greatest range in outcomes. Download: Download high-res image
+(143KB) Download: Download full-size image Fig. 1 . Median Google
+residential mobility over time for the entire United States.

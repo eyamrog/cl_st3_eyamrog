@@ -1,0 +1,5 @@
+Trade-offs are relevant for understanding the hygiene and old friends
+hypotheses because factors such as pathogen exposure affect these trade-offs,
+and in turn ecoimmunological allocations affect health and disease outcomes.
+I return to these topics with specific examples later in
+this review.

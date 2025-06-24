@@ -1,0 +1,12 @@
+Finally, an additional set of bundles that stands out in
+the TRJPS corpus, represented by in this article and in
+the first , is associated with text-structuring signals (T2). As
+Examples (17) and (18) illustrate, the authors contributing to the
+top-ranking journal seemed to be fond of using such locational
+metatext, providing navigation signals in their communication with the reader.
+17) In this article we have undertaken the first comprehensive
+cross-national study of variations in personal vote-earning attributes (PVEA). (TRJPS42)
+18) Turning to state enforcement of the CWA, again of
+primary interest are the coefficients on the strategic interaction terms,
+which are presented in the first row of Table 3
+. (TRJPS56)

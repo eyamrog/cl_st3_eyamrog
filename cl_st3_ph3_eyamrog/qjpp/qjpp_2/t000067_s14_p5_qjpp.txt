@@ -1,0 +1,14 @@
+Measurements of serum creatinine at enrollment and all subsequent values
+obtained during the index hospitalization were obtained from electronic medical
+records. The estimated glomerular filtration rate (eGFR) was calculated with
+the use of the Chronic Kidney Disease Epidemiology Collaboration equation.
+Acute kidney injury was defined according to the Kidney Disease:
+Improving Global Outcomes (KDIGO) Work Group criteria as an absolute
+increase in the creatinine level of at least 0.3 mg
+per deciliter (30 μmol per liter) within the first 48
+hours after the procedure or ICU admission, a relative increase
+of at least 50% in the creatinine level within the
+first 7 days after the procedure or ICU admission, or
+use of dialysis. The creatinine measurement obtained immediately before the
+procedure or on admission to the ICU was used as
+the baseline value for all analyses.

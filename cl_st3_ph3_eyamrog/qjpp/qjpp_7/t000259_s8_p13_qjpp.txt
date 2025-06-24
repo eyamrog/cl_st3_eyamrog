@@ -1,0 +1,12 @@
+Moreover, it is possible that a vaccine for COVID-19 will
+need to be administered in multiple doses to achieve full
+effectiveness. For example, early clinical trial data suggest that Moderna's
+mRNA vaccine candidate must be administered in two doses to
+stimulate a strong immune response ( Jackson et al., 2020
+). Past research on other multi-dose vaccines suggests that Americans
+are less likely to pursue vaccination -- and may have
+more difficulty doing so -- when multiple doses are required
+to achieve full effectiveness (e.g., Nelson et al., 2009 ).
+As a result, I hypothesize that Americans will be less
+likely to prefer vaccines that require just one dose to
+achieve its projected effectiveness ( H5 ).

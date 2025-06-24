@@ -1,0 +1,11 @@
+A major challenge of estimating the long-term effects of food
+taxes and subsidies is allowing for substitution. For example, an
+increase in the price of foods that are high in
+sugar might only lead people to purchase more processed foods
+(that are high in sodium, saturated fat, or both) with
+no net health gain. Some natural experiment evaluations of real-world
+interventions examine substitution effects (eg, substituting sugary drinks for water
+in Mexico ), but most do not. Alternatively, one can
+use estimated price elasticities, including cross-price elasticities that capture the
+substitution and complementary effects of a change in price of
+one food on the purchasing of another food.

@@ -1,0 +1,19 @@
+An inverse kinematics algorithm was used to determine the 3-D
+coordinates of the scaled model of each subject of each
+species over the full gait cycle ( O'Neill et al.,
+2015 ). This was done through a least-squares minimization of
+the discrepancy between the experimentally determined marker positions and the
+corresponding marker positions on the scaled model, subject to constraints
+enforced by the anatomical models of the joints ( Lu
+and O'Connor, 1999 ; Delp et al., 2007 ). The
+3-D kinematics and force data were combined with the scaled
+musculoskeletal model of each subject and used to calculate the
+net joint moments and mechanical power associated with the joint
+moments. Inverse dynamics combines rigid-segment linear and rotational motion, ground
+reaction forces, and limb segment inertial parameters to calculate net
+forces and moments at each joint. Detailed limb segment inertial
+parameters are provided for the adult human and adult chimpanzee
+models in the supplemental materials ( SOM Table S1 ).
+These generic parameters were scaled to the size of each
+subject based on subject-specific measurements of body mass and segment
+lengths.

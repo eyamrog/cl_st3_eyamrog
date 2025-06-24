@@ -1,0 +1,21 @@
+Ground reaction forces were collected using floor-mounted force platforms set
+into the runway flush to its surface, within the calibrated
+video recording volume. Two force platforms (AMTI, Watertown) sampling at
+2400 Hz were used to record individual limb forces from
+humans, whereas an array of four force platforms (AMTI, Watertown)
+sampling at 1500 Hz was used to collect individual limb
+forces in chimpanzees throughout a bipedal walking stride. Marker data
+and force platform data were collected using a manual trigger
+that started and stopped video and force platform recording simultaneously.
+The x -, y -, and z -force data were
+low pass filtered with a cut-off frequency set to 60
+Hz, whereas the marker data were filtered at 4–6 Hz.
+The force data were then downsampled to 240 or 150
+Hz to match the synchronous video data for each species
+using MATLAB v. R2015 (The Mathworks, Inc., Natick). The x
+-, y -, and z -data from each force platform
+were transformed into the marker global coordinate system using markers
+positioned on the corner of each platform during the calibration
+of the video recording volume, before the start of an
+experiment. This permitted spatial transformations between the global coordinate system
+and the local force plate coordinate systems.

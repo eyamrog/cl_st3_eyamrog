@@ -1,0 +1,8 @@
+For NGS analysis as shown in Figures 1 C and
+1D, 2000–5,000 sorted cells were harvested for genome amplification using
+identical methods as used for embryo blastomeres. Whole genome amplification
+was performed using REPLI-g (QIAGEN). PCR was then performed using
+primers flanking EYS 2265fs and rs66502009 and products were analyzed
+for gene editing using AmpliconEZ service of Genewiz. Read frequency
+analysis was used to quantify molecularly distinct edits. Paternal and
+maternal alleles were distinguished based on EYS 2265fs and rs66502009.

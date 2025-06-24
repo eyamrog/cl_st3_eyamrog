@@ -1,0 +1,17 @@
+Development requires the establishment of discrete cell states. In this
+arena, the idea of bi-stability—two states separated by cooperativity and
+hysteresis—has proved a powerful concept ( Xiong and Ferrell, 2003
+108. Xiong, W. ∙ Ferrell, Jr., J.E. A positive-feedback-based bistable
+‘memory module’ that governs a cell fate decision Nature. 2003;
+426 :460-465 Crossref Scopus (528) PubMed Google Scholar ). Bi-stability
+is an all-or-nothing response, where once a threshold of activity
+is achieved, rapid and complete conversion to an alternate state
+occurs. The autonomous feedback inherent to prion-based conformational switching furnishes
+a robust means for achieving this behavior ( Harvey et
+al., 2018 35. Harvey, Z.H. ∙ Chen, Y. ∙ Jarosz,
+D.F. Protein-based inheritance: epigenetics beyond the chromosome Mol. Cell. 2018;
+69 :195-202 Full Text Full Text (PDF) Scopus (34) PubMed
+Google Scholar ). Given the pervasive role of phosphorylation within
+disordered sequences in signaling and the link between Snt1 and
+Cdk1, our results hint that prion-based conformational conversion could be
+far more integral to normal biology than previously appreciated.

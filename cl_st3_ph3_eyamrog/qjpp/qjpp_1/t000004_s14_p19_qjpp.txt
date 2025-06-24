@@ -1,0 +1,9 @@
+Statistical analysis (Minitab Data and Statistical Toolbox) was performed using
+two-sided Student’s t -test to compare bandpower means during clinical
+tasks. One-way analysis of variance (ANOVA) followed by Student’s t-
+test was performed comparing mean power during ambulatory recordings under
+three conditions (control, craving, hunger). The χ test was performed
+on the rDBS detection count for each subject. A statistical
+significance criterion of α = 0.05 was used for all
+tests. Results are shown as a mean ± s.e.m. unless
+otherwise noted.

@@ -1,0 +1,24 @@
+Genome-wide signatures of ILS and hybridization can be distinguished because
+coalescence times for regions under ILS should be older than
+the speciation events, whereas hybridization occurs after speciation is completed
+( Figure S2 A). To test the ILS and hybridization
+models, we partitioned the genomic sequences into three paired-topology categories
+(Dipr_Dasy, Dasy_Micr, and Dipr_Micr) and reconstructed phylogenetic trees using concatenated
+genome sequences for each category. We assumed that the Dipr_Dasy
+genomic sequences that generated the species tree were less affected
+by ILS or hybridization, so we expected that estimated divergence
+time (t) between Diprotodontia and Dasyuromorphia would approximately reflect the
+time of speciation. Likewise, the estimated divergence time between monito
+del monte and Diprotodontia or Dasyuromorphia from the other two
+categories of genomic data should correspond to a longer expected
+coalescence time under ILS (t i ) or to a
+shorter expected divergence time under hybridization (t h ). Our
+divergence time estimates with MCMCTree ( Yang, 1997 123. Yang,
+Z. PAML: a program package for phylogenetic analysis by maximum
+likelihood Comput. Appl. Biosci. 1997; 13 :555-556 PubMed Google Scholar
+) for these three alignments produced longer divergence times between
+monito del monte and either Dasyuromorphia (Dasy_Micr tree) or Diprotodontia
+(Dipr_Micr tree) compared with the ones obtained from the Dipr_Dasy
+tree ( Figure S2 A). This strongly suggests that ILS,
+and not hybridization, has been the main cause of the
+pervasive signatures of incongruence across the marsupial genomes.

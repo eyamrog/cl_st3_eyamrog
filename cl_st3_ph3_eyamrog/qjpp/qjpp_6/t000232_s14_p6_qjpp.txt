@@ -1,0 +1,11 @@
+A typical strategy in IE is to follow a document
+as it moves across locations to determine other standpoints to
+examine, but I did not have a document to follow.
+My strategy was instead to follow a chain of potential
+responsibility, in line with methods employed in past ethnographic research
+on health work practices (e.g. see S. Bishop and Waring
+2016 ). For instance, identifying the need for an electronic
+solution necessitated engaging the Privacy Office, because a Privacy Impact
+Assessment is a procedural step in IMIT projects. This in
+turn led to Medical Affairs since part of their role
+in credentialing physicians is assigning role-based access to patient information.

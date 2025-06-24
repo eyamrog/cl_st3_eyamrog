@@ -1,0 +1,14 @@
+Participants wore an activPAL (AP) (PAL Technologies Ltd, Glasgow, UK)
+on the left thigh and an ActiGraph GT3X+, (AG) (ActiGraph
+LLC, Fort Walton Beach, FL) on the left hip for
+a continuous 7-day period, including while asleep, only removing the
+devices when coming into direct contact with water (i.e., bathing
+or swimming). AP is a uni-axial monitor containing an inclinometer
+to determine limb position. Sampling rate was 20 Hz, and
+data were downloaded in 15-s epochs (activPAL3™ software version 7.2.32).
+The AG device is a triaxial accelerometer, generating activity counts
+for each axis and a vector magnitude representing the combination
+of all three axes. In the current study, the data
+were collected at a frequency of 80 Hz. Details regarding
+the AG device have been published elsewhere (Barreira et al.,
+2018 ).

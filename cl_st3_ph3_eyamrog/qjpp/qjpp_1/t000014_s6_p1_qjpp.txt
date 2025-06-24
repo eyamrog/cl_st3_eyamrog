@@ -1,0 +1,24 @@
+In our study, the heterologous prime–boost regimen with one dose
+of Convidecia administered at an interval of 3–6 months after
+two doses of CoronaVac was safe and highly immunogenic in
+healthy adults aged 18–59 years. The neutralizing antibody GMT at
+day 14 after the heterologous booster was 197.4 in group
+A, which is equivalent to 616.9 IU ml (95% CI
+= 524.1, 726.3 IU ml ) using the World Health
+Organization (WHO) international standard ( Methods ) . This is
+comparable to 676.1 IU ml (95% CI = 517.5, 883.3
+IU ml ) in participants primed with Janssen Ad26.COV2-S and
+then given a booster of Moderna mRNA-1273 and to 677.9
+IU ml (95% CI = 559.4, 821.3 IU ml )
+in participants primed with Moderna mRNA-1273 and then given a
+booster of Pfizer BNT162b2, as reported in a previous heterologous
+booster study . Heterologous immunization in group A elicited 5.9-fold
+(GMT, 197.4 versus 33.6) and 6.8-fold (GMT, 53.8 versus 7.9)
+higher levels of neutralizing antibodies to wild-type SARS-CoV-2 and the
+Delta variant than did homologous immunization in group B. Based
+on these data, a heterologous prime–boost vaccination with Convidecia after
+priming with CoronaVac could potentially offer additional protection against SARS-CoV-2
+as compared to a third dose of CoronaVac. However, levels
+of baseline neutralizing antibodies against SARS-CoV-2 were slightly higher in
+group A than those in group B, which may have
+biased neutralizing antibody levels after the booster dose.

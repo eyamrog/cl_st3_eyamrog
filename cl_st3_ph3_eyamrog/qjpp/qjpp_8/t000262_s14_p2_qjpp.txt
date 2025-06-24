@@ -1,0 +1,12 @@
+In the second part of the analysis, we estimate models
+for health outcomes as a function of migration status and
+social support, controlling for sociodemographics and survey mode. We use
+standard logistic models for the binary health outcomes (No recent
+illness and No mental illness experience) and ordered logit models
+for self-rated health. For a generic explanatory variable x i
+, the exponentiated ordered logit coefficient is interpreted as the
+usual odds ratio, or the multiplicative change in the odds
+of being in a better health category when x i
+increases by one unit. The proportional odds assumption of all
+ordered logit models is realistic for our data based on
+standard Brant tests (results not shown).

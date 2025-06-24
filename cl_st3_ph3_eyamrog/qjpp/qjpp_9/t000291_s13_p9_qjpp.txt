@@ -1,0 +1,18 @@
+After uploading the articles to Sketch Engine ( Kilgarriff et
+al ., 2004 ), the texts were automatically indexed and
+pos -tagging was applied. Using word sketches, I focussed mainly
+on noun modifiers and conjunctions ( Arts et al .,
+2014 ; and Kilgarriff et al ., 2014 ). Unlike
+other studies of this kind (e.g., Baker et al .,
+2013a ,b; and Al-Hejin, 2015 ) the corpus data were
+not captured using a keyword or a constellation of keywords
+relating to women from a newspaper or Internet archive (
+Baker, 2006 : 31–2). In other words, interest in the
+political representation of women as such did not inspire the
+construction of apic . I sought, rather, to build a
+corpus that would enable me to explore the lexical properties
+of liberal and left-leaning Arabic political discourses on the Internet
+in an open-ended way. An initial examination of word frequencies,
+however, suggested that the political representation of women was a
+crucial factor in the subset of online Arabic political discourse
+in apic .

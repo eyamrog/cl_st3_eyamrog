@@ -1,0 +1,14 @@
+In the case of CLMET3.0, the combination of V with
+V ing was searched by means of WordSmith Tools 6.0
+( Scott 2012 ) within a context window of one
+word to the right (i.e., *ing 0L 1R). Total hits
+recorded for the search string in question came to 1344,
+of which 558 had to be discarded, as they corresponded
+to purpose clauses (e.g., come looking for him ) and
+various other constructions not relevant to the study; this is
+based, therefore, on 786 tokens of the construction. In the
+case of the BNC, the search strings were the same
+employed for EEBO, as detailed in section 7.1, namely COME
+_v?g*, GO _v?g*, and RUN _v?g*. Total hits recorded came
+to 1501; after manual sorting, 872 of these were found
+to be instances of the VV ing OBL construction.

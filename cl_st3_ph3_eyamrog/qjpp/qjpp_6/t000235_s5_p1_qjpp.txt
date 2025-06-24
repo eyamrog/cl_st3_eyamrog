@@ -1,0 +1,19 @@
+The present study adds to the literature on the effects
+of sociodemographic matching between survey respondents and interviewers. The first
+outcome to be considered is the amount of item nonresponse
+in a face-to-face interview. Multilevel negative binomial regressions demonstrate that
+some pairings actually increase the amount of missing items and
+females have, on average, more missing items than men. This
+indicates that women in general tend to refuse more questions
+than men, independently of the characteristics of the interviewer. Second,
+a gender match increases the number of refused items for
+women, while the opposite is the case for men. This
+corroborates the findings of Vercruyssen et al. (2017 :9), who
+use the same data set but restrict it to the
+Belgian subsample. By using information about all countries, it can
+be demonstrated that the effect is stable and generalizable to
+a much wider population. The empirical results do not support
+the theory of liking, as a gender match does not
+always improve results. Considering age matching, effects are very small.
+To sum up, Hypothesis 1 is rejected for female respondents,
+while it seems correct for male respondents.

@@ -1,0 +1,5 @@
+To investigate the methylome space in R. pubera and J.
+effusus , the relatively non-destructive NEBNext® Enzymatic Methyl-seq Kit was
+employed to prepare an Illumina-compatible library, followed by paired-end sequencing
+(2 x 150 bp) on a HiSeq 3000 (Illumina) device.
+For each library, 10 Gb of reads were generated.

@@ -1,0 +1,11 @@
+It is generally accepted that not only the characteristics of
+the respondent such as age or level of education affect
+aspects of data quality like item nonresponse ( Groves 2009
+; Tourangeau, Rips, and Rasinski 2000 ) but also the
+characteristics of the interviewer have an important influence ( Brunton-Smith,
+Sturgis, and Leckie 2017 ; Davis et al. 2010 ).
+The current research deals with the statistical interaction of these
+two aspects, that is, how the (dis)similarity between respondents and
+interviewers, also called sociodemographic match, affects data quality. In this
+context, data quality is given when responses are “true,” unbiased,
+and complete.

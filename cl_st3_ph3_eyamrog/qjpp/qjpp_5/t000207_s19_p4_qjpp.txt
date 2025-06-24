@@ -1,0 +1,17 @@
+We investigated differences in terrestrial detection rates between island and
+mainland sites more formally by testing a contrast between site
+effects. Under the null hypothesis that detection rates are the
+same in island and mainland sites, the average rate among
+Jicaron and Coiba would equal the average rate among BCI,
+GP, and SNP, and the difference in averages would equal
+zero. The site effects shown in Table 3 are estimates
+of detection rates on the log scale; their averages are
+(1.8 + 0.1)/2 = 0.95 (Jicaron and Coiba) and (−3.9
+–4.9 –5.6)/3 = −4.8 (BCI, GP, and SNP), and the
+difference in averages—the contrast to be tested—is 5.75. The standard
+error for the contrast, calculated using a variance/covariance matrix produced
+by glmmADMB ( Skaug et al., 2014 ), is 0.4,
+and subsequently, a 95% confidence interval for the contrast is
+(5.0, 6.6). This interval does not contain the null value
+zero, so the hypothesis that detection rates are the same
+in island and mainland sites can be rejected.

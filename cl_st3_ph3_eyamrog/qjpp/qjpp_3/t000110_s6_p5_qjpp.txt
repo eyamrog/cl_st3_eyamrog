@@ -1,0 +1,21 @@
+Interestingly, our data from assays with convalescent sera indicate that
+the K417N mutation actually increases viral sensitivity to neutralization. Consider
+that in the closed conformation of the S protein, K417
+forms hydrogen bonds with the main chain of N370 in
+the neighboring S protomer ( Figure 5 D), resulting in
+stabilization; the closed conformation structure does not readily bind to
+ACE2 ( Walls et al., 2020 38. Walls, A.C. ∙
+Park, Y.J. ∙ Tortorici, M.A. ... Structure, Function, and Antigenicity
+of the SARS-CoV-2 Spike Glycoprotein Cell. 2020; 181 :281-292.e6 Full
+Text Full Text (PDF) Scopus (5950) PubMed Google Scholar )
+and presents a reduced overall area accessible to antibodies. The
+K417N mutation increases the probability of conversion to the open
+conformation, thus enhancing the S protein’s binding capacity for ACE2
+and increasing viral infectivity. This closed-to-open change in the S
+protein’s conformation is also more likely to expose epitopes to
+neutralizing antibodies, which would increase the likelihood of virus neutralization
+by sera containing polyclonal antibodies. Because both the E484 and
+N501 residues are fully exposed, it is reasonable to speculate
+that mutations to these sites may weaken antibody binding (
+Figure 5 D), potentially thereby reducing the sensitivity of the
+virus to neutralizing antibodies.

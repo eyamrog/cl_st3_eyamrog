@@ -1,0 +1,16 @@
+Edelstein (2014 :265) noted that her account “puts the matrix
+verb [of the AEP] in a more local relationship with
+the participle than occurs when additional structure is present,” as
+in the standard embedded passive. This local relationship accounts for
+several syntactic characteristics of the AEP. In particular, both Tenny
+(1998) and Edelstein (2014) analyzed that the participle complement to
+the AEP is always verbal, while the complement to standard
+embedded passives may be either verbal or adjectival. Edelstein (2014
+:265) argued that “it follows that the AspP, which determines
+this categorization, should be directly selected by the matrix verb,
+with no intervening structure.” The derivation in Figure 1 also
+explains why respondents to Edelstein’s (2014) survey of grammatical acceptability
+judgments rejected AEP constructions where negation intervened between a matrix
+verb and passive complement; unlike the TP in Figure 2
+, the AspP in the AEP does not allow a
+projection for negation.

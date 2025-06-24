@@ -1,0 +1,23 @@
+As mentioned above, administrative data exist de facto in all
+jurisdictions. Access to it does not. In Ontario, the Toronto
+District School Board (TDSB) has been the outlier in providing
+longitudinal data for the study of transitions from high school
+to postsecondary. Most—if not all—of this work was undertaken by
+now-retired Research Coordinator by the name of Robert S. Brown
+who had a deep interest in data infrastructure. This paired
+with the board’s student census (a self-completion questionnaire), 6 which
+occurs approximately every five years, has led to a wealth
+of data, when connected to the administrative data files and
+postsecondary application data. The TDSB is not the only board
+in the province to collect such data—but they are the
+only board to allow access to these data to approve
+outside researchers. The reasons for the “why” of the lack
+of data infrastructure in Ontario are unclear, but from an
+equity perspective Gallagher-Mackay (2017) found that the collection of data
+on students, particularly around equity-seeking groups, was essential to ensure
+that Ontario Human Rights around access and student success were
+being met, yet individuals in positions of power fail to
+champion such ideas, or incorrectly believe that asking students questions
+is “illegal,” or that linking student information by way of
+the Ontario Education Number is also in violation of the
+law (it is not).

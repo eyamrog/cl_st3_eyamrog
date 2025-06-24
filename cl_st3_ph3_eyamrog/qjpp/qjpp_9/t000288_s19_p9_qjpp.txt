@@ -1,0 +1,12 @@
+Figure 6 illustrates that N-is focalizers are particularly likely to
+occur without a that complementizer if they are separated off
+by punctuation (node 17). What is difficult to see from
+the ctree is the detailed interaction of punctuation and variety
+with syntactic integration. A look at the raw frequencies shows
+that of the few focalizers that are both separated by
+a punctuation mark and followed by that , most are
+from Ghana (8 of 16), with two instances each from
+Nigeria and Kenya; the remaining four come from Canada, India,
+New Zealand, and the Philippines. In other words, there may
+be a small tendency for the African Englishes in the
+dataset to combine punctuation with complementizer that .

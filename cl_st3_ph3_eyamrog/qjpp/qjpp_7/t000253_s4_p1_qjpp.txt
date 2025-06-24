@@ -1,0 +1,23 @@
+This paper applies a relatively simple approach to establish whether
+specific health policies can be considered as discriminating against older
+people. Few other studies take a comparable approach to combining
+epidemiological metrics and ethical frameworks to assess fairness in health
+policy (Ebrahim et al., 2020 ). Somewhat counter-intuitively, the paper
+suggests that the exclusion of older people from early COVID-19
+trials was not discriminatory, based on what policy-makers knew at
+the time. This is because the additional length of time
+needed to complete trials and provide vax to older people
+and others would have generated more YLLs than a more
+expedited trial process. We also suggest that a limited degree
+of age-based rationing of acute COVID-19 care may have been
+justifiable in some circumstances, although the practice of some hospitals
+appears to have exceeded these limits. We show that giving
+a relatively low priority to people at the oldest ages
+in COVID-19 vaccination programmes has been highly discriminatory. This is
+far from an abstract issue, given the large differences between
+the four case study countries. Brazil's high prioritization of older
+people and relative success in putting this into practice shows
+what the other case study countries might have been able
+to achieve. All the case study countries have had access
+to sufficient vaccine to cover their older population and other
+key risk groups (Lloyd-Sherlock, 2021 ).

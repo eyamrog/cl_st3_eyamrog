@@ -1,0 +1,7 @@
+In the US external validation set, tumor identification was confirmed
+by immunohistochemistry, supporting the finding that the algorithms missed fewer
+cancers than the pathologists. This higher sensitivity shows promise for
+reducing pathologist workload by automated identification and exclusion of most
+benign biopsies from review. Analysis of an ensemble constructed from
+the algorithms suggests that combining existing algorithms could improve specificity
+(Supplementary Table 4 ).

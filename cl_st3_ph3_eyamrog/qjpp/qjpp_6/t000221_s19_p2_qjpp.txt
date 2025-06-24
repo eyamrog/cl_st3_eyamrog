@@ -1,0 +1,5 @@
+Here, we describe the 3-D ground reaction forces, and lower/hind
+limb joint moment and power profiles of humans and bipedal
+chimpanzees walking over a full stride at matched dimensionless speeds.
+The limb-joint work and power in stance, swing, and over
+a full stride were determined to test hypotheses 1–3.

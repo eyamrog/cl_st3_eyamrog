@@ -1,0 +1,13 @@
+In this study, SpCas9 sgRNA was expressed using pSL21-VEX or
+pSL21-mCherry (U6-sgRNA-EFS-VEX or U6-sgRNA-EFS-mCherry, will be available through Addgene). To
+generate the pSL21-VEX or pSL21-mCherry, U6-sgRNA expression cassette was PCR
+cloned from LRG2.1 into a retroviral vector MSCV-Neo, followed by
+swapping the Neo selection marker with a VEX or mCherry
+fluorescence reporter. sgRNAs were cloned by annealing two DNA oligos
+and T4 DNA ligation into a Bbs1- digested pSL21-VEX or
+pSL21-mCherry vector. To improve U6 promoter transcription efficiency, an additional
+5′ G nucleotide was added to all sgRNA oligo designs
+that did not already start with a 5′ G. Runx1
+and Runx3 constructs are built on the MIGR or MSCV-mCherry
+constructs, empty MIGR or MSCV-mCherry are used as the controls
+for these vectors.

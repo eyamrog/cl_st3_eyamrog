@@ -1,0 +1,9 @@
+We used DiscoVista v1.0 to calculate phylogenetic discordance using the
+Dipr_Dasy tree as the species tree and 5,685,945 loci trees
+inferred from 984 Mb realigned WGAs of all six marsupial
+species (window size = 100bp) ( Sayyari et al., 2018
+90. Sayyari, E. ∙ Whitfield, J.B. ∙ Mirarab, S. DiscoVista:
+interpretable visualizations of gene tree discordance Mol. Phylogenet. Evol. 2018;
+122 :110-115 Crossref Scopus (39) PubMed Google Scholar ). We
+focused on the discordance occurring at the most recent common
+ancestor (MRCA) of the monito del monte, Diprotodontia and Dasyuromorphia.

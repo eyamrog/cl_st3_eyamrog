@@ -1,0 +1,16 @@
+Raw sequencing fastq files were processed using cutadapt ( Martin,
+2011 91. Martin, M. Cutadapt removes adapter sequences from high-throughput
+sequencing reads EMBnet. j. 2011; 17 :3 Crossref Google Scholar
+) for adapter trimming, Bowtie2 { Langmead, 2012 76. Langmead,
+B. ∙ Salzberg, S.L. Fast gapped-read alignment with Bowtie 2
+Nat. Methods. 2012; 9 :357-359 Crossref Scopus (24558) PubMed Google
+Scholar #2898) for mapping, SAMtools ( Li et al., 2009
+82. Li, H. ∙ Handsaker, B. ∙ Wysoker, A. ...,
+1000 Genome Project Data Processing Subgroup The Sequence Alignment/Map format
+and SAMtools Bioinformatics. 2009; 25 :2078-2079 Crossref Scopus (30053) PubMed
+Google Scholar ) for filtering, sorting and removing duplicates, and
+deepTools ( Ramírez et al., 2016 112. Ramírez, F. ∙
+Ryan, D.P. ∙ Grüning, B. ... deepTools2: a next generation
+web server for deep-sequencing data analysis Nucleic Acids Res. 2016;
+44 :W160-W165 Crossref PubMed Google Scholar ) for generating coverage
+tracks.

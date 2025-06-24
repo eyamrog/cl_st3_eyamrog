@@ -1,0 +1,20 @@
+In (16), which is an entry from the Anglo-Saxon chronicle
+for 916, we learn that an abbot by the name
+of Egbert was slain. This is the first and only
+mention of this man and his death, and it is
+therefore unclear if he was killed for no apparent reason,
+having done nothing wrong, in which case his innocence would
+be interpreted as a temporary state, or if the adjective
+simply refers to his ways as a devout man of
+God, in which case it denotes an enduring feature of
+character. In (17), the person, a young man whose corpse
+is carried by his mother, is described with an adjective
+which is generally difficult to classify: on the one hand,
+dead obviously refers to an enduring quality, but, on the
+other, it could be argued that it describes a state
+(even if irreversible) which the experiencer goes into under particular
+circumstances. Given a relatively small number of postnominal adjectives in
+the corpus sample, I decided to try to resolve these
+and similar ambiguities and assign particular semantic labels to all
+the adjectives/participles extracted. Example (16) was classified as individual-level, while
+(17) as stage-level, by analogy with e.g., seoc ‘sick.’

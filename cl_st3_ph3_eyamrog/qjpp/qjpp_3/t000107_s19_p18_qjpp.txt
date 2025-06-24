@@ -1,0 +1,27 @@
+In contrast to the effect of Runx1, enforced expression of
+Runx3 alone (in the sgCtrl + group), modestly increased the
+magnitude of the CD8 + T cell response but robustly
+skewed the GFP + VEX + mCherry + C9P14 population
+toward a CD39 + Ly108 − T EFF -like population
+( Figures 5 A and 5E–5G). These effects were more
+dramatic in the absence of Fli1 with greater numerical amplification
+and even further skewing toward CD39 + Ly108 − T
+EFF -like cells in the sgFli1+Runx3-OE enforced expression group (
+Figures 5 E–5G). Whereas the sgFli1+Runx3-OE group had lower frequency
+of the T EX precursor population, the absolute number of
+this population remained unchanged compared to control ( Figures 5
+E, 5G, and S5 I). Taken together, these data support
+a model where loss of Fli1 reveals ETS:RUNX motifs that
+can be used by Runx1 and/or Runx3. However, whereas Runx3
+drives a more T EFF -like population, an effect amplified
+in the absence of Fli1 , Runx1 appears to antagonize
+T EFF generation, in agreement with the opposing functions of
+Runx1 and Runx3 ( Cruz-Guilloty et al., 2009 17. Cruz-Guilloty,
+F. ∙ Pipkin, M.E. ∙ Djuretic, I.M. ... Runx3 and
+T-box proteins cooperate to establish the transcriptional program of effector
+CTLs J. Exp. Med. 2009; 206 :51-59 Crossref Scopus (284)
+PubMed Google Scholar ). Thus, Fli1 restrains the T EFF
+promoting activity of Runx3 function by restricting genome access and
+protecting ETS:RUNX binding sites. These data reveal Fli1, Runx3, and
+perhaps Runx1 as key regulators of the fate choice between
+T EFF and T EX early after initial activation.

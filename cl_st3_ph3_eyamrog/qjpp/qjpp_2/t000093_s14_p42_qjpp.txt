@@ -1,0 +1,4 @@
+Individual regions of interest, which remained in the field of
+view throughout the time course, were manually selected. Standard deviations
+were calculated from the measured mCherry intensity and were normalized
+by the standard deviation at the first frame taken.

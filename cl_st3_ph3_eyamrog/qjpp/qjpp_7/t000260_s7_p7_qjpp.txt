@@ -1,0 +1,15 @@
+In this paper we address this gap, proposing a framework
+within the broad field of social epidemiology ( Berkman and
+Kawachi 2000 ). We analyse how three SDs - conditions
+of employment, conditions of housing, and access and quality of
+health infrastructures - might affect the different transition rates between
+the various compartments in compartmental epidemic models. Our starting point
+is a version of the Susceptible Infected Recovered Deceased (SIRD)
+model, which we extend to allow the aforementioned SDs to
+influence the transition probabilities from Susceptible to Infected and from
+Infected to Deceased respectively. We have chosen this model as
+it is the simplest framework which includes the relevant compartments
+for the three SDs mentioned. However, we should note that
+our analysis could be easily extended to models which include
+more compartments and other characteristics, for example, different age cohorts
+as in Prem et al. (2020) .

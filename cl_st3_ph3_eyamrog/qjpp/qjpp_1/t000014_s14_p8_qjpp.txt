@@ -1,0 +1,16 @@
+The primary endpoint for the safety objective was the occurrence
+of adverse reactions within 28 d after vaccination. The primary
+endpoint for immunogenicity was the GMTs of neutralizing antibodies against
+live SARS-CoV-2 virus at 14 d after booster vaccination. Live
+viral neutralizing antibody titers against the wild-type strain and the
+Delta variant B.1.617.2 in serum were determined by using a
+cytopathic effect-based microneutralization assay with the wild-type SARS-CoV-2 viral isolate
+BetaCoV/Jiangsu/JS02/2020 (GISAID EPI_ISL_411952) and a Delta variant, hCoV-19/China/JS07/2021 (GISAID EPI_ISL_4515846),
+in Vero E6 cells (National Collection of Authenticated Cell Cultures,
+National Academy of Science, China). Serum dilutions were then mixed
+with the same volume of viral solution to achieve a
+final concentration of 100 TCID 50 per well. The reported
+titer was the reciprocal of the highest sample dilution that
+protected at least 50% of cells from cytopathic effects. Serum
+dilution for the microneutralization assay started from 1:4, and seropositivity
+was defined as titer ≥1:4.

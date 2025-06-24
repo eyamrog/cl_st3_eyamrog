@@ -1,0 +1,5 @@
+For the comparison at matched dimensional speeds (i.e., absolute-speed match),
+the average human walking speed was 1.08 ± 0.02 m
+s −1 . This corresponds to a v’ of 0.36
+± 0.01 and Fr of 0.13 ± 0.02 ( SOM
+Table S2 ), which are slower than the relative-speed match.

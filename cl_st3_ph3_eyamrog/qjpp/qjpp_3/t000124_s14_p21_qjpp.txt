@@ -1,0 +1,14 @@
+Dovetail Omni-C reads were first mapped using BWA ( Li
+and Durbin, 2009 50. Li, H. ∙ Durbin, R. Fast
+and accurate short read alignment with Burrows-Wheeler transform Bioinformatics. 2009;
+25 :1754-1760 Crossref Scopus (25404) PubMed Google Scholar ) following
+the hic-pipeline available at https://github.com/esrice/hic-pipeline . Hi-C scaffolding was performed
+using SALSA2 ( Ghurye et al., 2019 27. Ghurye, J.
+∙ Rhie, A. ∙ Walenz, B.P. ... Integrating Hi-C links
+with assembly graphs for chromosome-scale assembly PLoS Comput. Biol. 2019;
+15 :e1007273 Crossref Scopus (110) PubMed Google Scholar ), available
+at https://github.com/marbl/SALSA , with default parameters. After testing several minimum
+mapping quality values of bam alignments, final scaffolding was performed
+with MAPQ10. Several rounds of assembly correction guided by Hi-C
+contact maps and manual curation of scaffolds were performed to
+obtain the pseudomolecules.

@@ -1,0 +1,14 @@
+After tagging, I extracted all tweets where need was followed
+immediately by a word tagged as a past participle, gerund-participle,
+or to be and a past participle, or where any
+of these constructions occurred with an intervening adverb or negative
+particle. Constructions with intervening adverbs or negation were not included
+in the dataset reported in Strelluf (2020) . In both
+studies I used aggressive filters to drop tweets from the
+datasets where formatting oddities or problematic characters created the potential
+for errors to be read into R, with the effect
+that many tweets that were included in the dataset for
+Strelluf (2020) were dropped from the new dataset. As such,
+while Strelluf (2020) and the present study pull from the
+same initial pool of tweets, the studies do not contain
+all the same tweets.

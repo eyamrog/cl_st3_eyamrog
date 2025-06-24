@@ -1,0 +1,15 @@
+All selected algorithms made use of deep learning-based methods .
+Many of the solutions demonstrated the feasibility of end-to-end training
+using case-level information only , that is, using the International
+Society of Urological Pathology (ISUP) GG of a specimen as
+the target label for an entire WSI. Most leading teams,
+including the winner of the competition, adopted an approach in
+which a sample of smaller images, or patches, is first
+extracted from the WSI. The patches are then fed to
+a convolutional neural network, the resulting feature responses are concatenated
+and the final classification layers of the network are applied
+to these features. This allows training a single model end-to-end
+in a computationally efficient fashion to directly predict the ISUP
+GG of a WSI. Such weakly supervised approaches do not
+require detailed pixel-level annotations as often used in fully supervised
+training.

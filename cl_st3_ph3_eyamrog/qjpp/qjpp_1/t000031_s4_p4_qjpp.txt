@@ -1,0 +1,6 @@
+When implementing screening programs, inherent trade-offs exist between using more
+sensitive versus more specific criteria for prediabetes. For example, fasting
+glucose-based definitions—particularly ADA-IFG—will identify many more people, but this population
+will be lower risk than individuals identified by other clinical
+definitions. Cost-effectiveness studies of different detection strategies are also needed
+to inform the trade-offs between broader versus narrower prediabetes definitions.

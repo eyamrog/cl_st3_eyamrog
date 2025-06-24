@@ -1,0 +1,16 @@
+The comparison of body structure parameters of Roma women living
+in low socioeconomic status to the national references as well
+as to non-Roma women belonging to the control group was
+conducted with Mann–Whitney test, Chi 2 test and Fisher exact
+test to compare the homogeneity of discrete variables by socioeconomic
+status. To determine the body structural aging the body structural
+indicators were compared to the national references in two age-groups
+(aged between 35 and 50 years; and aged between 50
+and 65 years) by one-sample Wilcoxon signed rank test. Due
+to the small sample size, exact p-values were used to
+determine the significance level. Exact p -values were determined using
+R software. The relationship between the rate of X chromosome
+loss and the hypothesized predictors was assessed by linear regression
+analyses. The statistical analyses were carried out by using SPSS
+v. 25. Hypotheses were tested at the 5% level of
+random error.

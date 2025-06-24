@@ -1,0 +1,12 @@
+We report the interim findings from this open-label clinical trial
+examining the safety, reactogenicity, and immunogenicity of SARS-CoV-2 booster vaccines
+in healthy adults who had previously received an EUA vaccine
+series. All booster vaccines were immunogenic in the participants regardless
+of which primary EUA regimen they had received, and the
+results were broadly in agreement with recent results from the
+United Kingdom. The factor increases from prebooster levels in both
+binding and neutralizing antibody titers were similar or greater after
+heterologous boosting than after homologous boosting. Reactogenicity was similar to
+that described in previous evaluations of mRNA-1273, Ad26.COV2.S, and BNT162b2
+vaccines and did not differ between heterologous and homologous boosters.
+No safety concerns were identified.

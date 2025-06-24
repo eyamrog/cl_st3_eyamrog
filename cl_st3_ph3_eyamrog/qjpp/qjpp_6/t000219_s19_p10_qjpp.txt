@@ -1,0 +1,17 @@
+The results of the PLS analysis from size-adjusted databases are
+presented in Table 4 and Figure 5 . In comparison
+with those results obtained from raw data sets, except for
+the atlas, all the cervical vertebrae obtained lower covariation values
+with the cranium. Gorillas displayed significant r PLS values in
+all the covariation analyses (i.e., cranium with C1–C7) and chimpanzees
+in C3 and C4 vertebrae, and humans did not show
+significant results in any craniocervical covariation analyses ( Table 4
+). In consequence, compared with the results obtained from the
+raw data set, this results in a reduction in the
+differences in the values of covariation among vertebrae. Also, pairwise
+comparisons revealed that once the size factor is removed, differences
+between vertebrae and species are also reduced ( SOM Tables
+S15–16 ). Finally, these results partially support the hypothesis that
+removing the effect of size would result in a reduction
+of the magnitude of integration. Conversely to the rest of
+the vertebrae, the atlas increased its values.

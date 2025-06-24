@@ -1,0 +1,27 @@
+In order, to identify the underlying sequences at the fusion
+regions, we loaded annotation features for genes, TEs, Tyba ,
+rDNA and telomeric repeats on SyMAP aligments. This allowed us
+to detect the sequence types in the putative translocated regions.
+In R. pubera , we counted 15 potential EEF regions,
+of which 11 regions had a Tyba array right in
+the middle between two ancestral syntenic chromosomes of R. breviuscula
+. Further inspection and characterization of such regions were done
+by checking the genome coordinates and annotation features with Geneious
+( Kearse et al., 2012 43. Kearse, M. ∙ Moir,
+R. ∙ Wilson, A. ... Geneious Basic: an integrated and
+extendable desktop software platform for the organization and analysis of
+sequence data Bioinformatics. 2012; 28 :1647-1649 Crossref Scopus (12028) PubMed
+Google Scholar ), which revealed a remnant rDNA cluster involved
+in the EEF of two ancestral Rb 3 in the
+Rp Chr3. The other three regions did not show any
+specific sequence ( Figures 5 C and S6 A–S6G). Similar
+strategy was used to identify the underlying sequences within the
+three fusion events in R. tenuis chromosomes. In this species,
+we found a Tyba repeat underlying the fusion region between
+Rb 3/ Rb 4 in Rt Chr2 and a telomeric
+repeat between Rb 1/ Rb 5 in Rt Chr1, while
+the third fusion between had no specific sequence ( Figures
+5 C and S6 H). Common to most fusion events
+we found that the very ends of R. breviuscula chromosomes,
+which are enriched for TEs are mostly missing in the
+fused chromosomes ( Figures 5 D and S6 ).

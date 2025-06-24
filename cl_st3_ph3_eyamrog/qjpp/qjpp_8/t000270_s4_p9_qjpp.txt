@@ -1,0 +1,15 @@
+In conclusion, our model suggests that a combination of high
+network clustering and high health behavior homophily can mitigate the
+spread of infectious diseases. That is, adaptive agents can cause
+an epidemic to die out quickly by severing only a
+few bridging ties. The more risk averse a cluster is
+on average, the more likely bridging ties are severed, and
+the more likely it is that the entire cluster is
+isolated from the disease. Although clusters slow down disease spread
+in static networks, infections can still reach any part of
+the network, as agents are rendered incapable of reacting to
+their risk perceptions. Neglect of these fundamentally different dynamics may,
+therefore, lead to inaccurate estimations when applied to a specific
+case. Considering the adaptive dynamics, however, can support the design
+of non-pharmaceutical interventions such as targeted information campaigns using proxies
+for risk perception.

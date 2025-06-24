@@ -1,0 +1,17 @@
+There was a markedly lower TEE variance in males from
+non-Western countries compared to Western countries but no difference in
+females, resulting in a reduced but still considerable GMV in
+non-Western compared to Western countries ( Fig. 4 ). Download:
+Download high-res image (92KB) Download: Download full-size image Figure 4
+. Male (circles) and female (triangles) variance for total energy
+expenditure disaggregated into Western countries and non-Western countries. Values shown
+are the posterior modes with 95% highest posterior density credible
+intervals (CIs) for the sex-specific residual variance estimates extracted from
+models that included height, fat-free mass, fat mass, age, and
+sex-specific nonlinear age and body composition effects, and country as
+a random factor. Numbers shown by the symbols are the
+sample sizes for each category. Variance in total energy expenditure
+among males is much higher in Western than non-Western countries,
+whereas the variance among females is similar in Western and
+non-Western countries; thus, the magnitude of greater male variability is
+decreased in non-Western countries.

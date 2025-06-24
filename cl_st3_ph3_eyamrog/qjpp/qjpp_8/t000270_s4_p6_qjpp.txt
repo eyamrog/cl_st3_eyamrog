@@ -1,0 +1,16 @@
+Our study compares to earlier work in a few ways.
+Take Watts and Strogatz (1998) , for example, who investigated
+the effects of clustering and path length on disease spread
+in static networks. Our findings also indicate that epidemic size
+decreases and epidemic duration increases with increasing values for clustering
+and average path length in static networks. In adaptive networks,
+however, we cannot confirm the effect of average path length
+on final size (when controlled for all other independent variables).
+As described earlier, this is a result of only a
+few bridges needing to be cut, thus causing the disease
+to die out quickly. Just as suggested by ( Kitchovitch
+and Lì, 2010 ), we observe that populations with on
+average less risk taking agents produce epidemics with smaller final
+size, shorter duration, and lower peak size. However, we considered
+homogeneous degree distributions, while Kitchovitch and Lì (2010) used scale-free
+networks.

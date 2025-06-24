@@ -1,0 +1,16 @@
+To obtain the average number of Tyba arrays for each
+Rhynchospora genome, we first removed spurious low-quality Tyba monomer annotations
+with less than 500 bp and merged with bedtools (
+Quinlan and Hall, 2010 76. Quinlan, A.R. ∙ Hall, I.M.
+BEDTools: a flexible suite of utilities for comparing genomic features
+Bioinformatics. 2010; 26 :841-842 Crossref Scopus (11075) PubMed Google Scholar
+) all adjacent Tyba monomers situated at a maximum distance
+of 50 kb into individual annotations to eliminate the gaps
+that arise because of fragmented Tyba arrays. Length and distance
+between Tyba arrays were then calculated using bedtools. Bar plots
+of the average distance and unit length used to compare
+the Tyba arrays among the three Rhynchospora species were made
+in RStudio using ggplot2 ( Wickham, 2016 100. Wickham, H.
+ggplot2 : elegant graphics for data analysis Use R! Imprint
+Springer International Publishing, 2016 Google Scholar ) library available at
+https://github.com/tidyverse/ggplot2 .

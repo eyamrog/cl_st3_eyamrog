@@ -1,0 +1,16 @@
+ESI was performed using a JEOL 2100F transmission electron microscope
+with a LaB6 filament operating at 200 kV. A Tridiem
+GIF post column spectrometer (Gatan) was used to record the
+elemental maps of phosphorus and nitrogen. Phosphorus maps were created
+by recording post-edge images at 175 eV electron energy loss
+with a slit-width of 20 eV and a pre-edge image
+at 120 eV electron energy loss with a slit-width of
+20 eV. Phosphorous maps were created by normalizing the background
+signal in void regions of the post-edge images to the
+background signal in pre-edge images and then subtracting the pictures.
+Nitrogen maps were processed by dividing post-edge images (recorded at
+447 eV electron energy loss with a slit-width of 35
+eV) by pre-edge images (recorded at 358 eV with a
+slit-width of 35 eV). Noise in the elemental maps was
+decreased by using a median filter with the radius 1
+in FiJI/ImageJ.

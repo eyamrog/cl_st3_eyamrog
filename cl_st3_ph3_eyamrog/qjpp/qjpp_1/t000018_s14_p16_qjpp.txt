@@ -1,0 +1,22 @@
+Publicly available RNA-seq ( GSE57945 , GSE109142 ) or microarray
+data ( GSE16879 , GSE12251 , GSE100833 ) were downloaded
+from the NCBI gene expression omnibus. These were pre-existing enumerated
+gene counts in the case of the RNA-seq datasets and
+raw array data in the case of the microarray sets.
+The latter were processed and normalized to gene counts using
+the rma function from the affy package , summing values
+for probes associated with the same gene symbol. Across all
+datasets, gene symbol annotations were used to map genes to
+the module assignments generated from the discovery resection tissue dataset,
+eliminating those not observed in the replication dataset under consideration.
+The percentage of genes missing from the original module definitions
+was recorded, but was generally low across all datasets. Mapped
+module assignments were then used to generate eigengenes from the
+replication expression datasets using the moduleEigengenes function. Correlations between clinical
+metadata and eigengenes in replication datasets was performed using Pearson
+correlations as for the discovery dataset. In the case of
+the pediatric cohort data ( GSE57945 ), Mann–Whitney U -tests
+were used to compare modules between patients scored as ulcerated
+or not in metadata, and hierarchical clustering was used to
+group patients based on M4, M5 and M6 expression as
+for the discovery cohort.

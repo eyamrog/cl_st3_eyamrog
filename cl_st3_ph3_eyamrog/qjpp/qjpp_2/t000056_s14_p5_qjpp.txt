@@ -1,0 +1,14 @@
+After agreeing to take part, participants answered a single question
+to determine their level of vaccine hesitancy: “If the vaccine
+was available at my GP surgery I would: (1) get
+it as soon as possible, (2) get it when I
+have time, (3) delay getting it, (4) avoid getting it
+for as long as possible, (5) never get it, (6)
+don't know.” As in OCEANS-II, the level of vaccine hesitancy
+was defined as willing (answer 1 or 2), doubtful (answer
+3 or 6), or strongly hesitant (answer 4 or 5).
+This question was found in OCEANS-II to have the highest
+load (0·95) on the COVID-19 vaccine hesitancy latent factor but
+for that precise reason was not included in the primary
+outcome measure. That is, the stratifying question was designed not
+to be repeated in the principal outcome variable.

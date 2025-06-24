@@ -1,0 +1,12 @@
+To measure whether respondents had problems answering questions or were
+unwilling and reluctant to answer, an item from the interviewer
+questionnaire can be used. Interviewers had to rate on a
+five-point scale the degree of reluctance a respondent displayed during
+the interview, measuring how often respondents were reluctant to answer.
+The variable is scaled as following: “very often” (5), “often
+(4), “now and then” (3), “almost never” (2), and “never”
+(1). It should be admitted that this variable has some
+amount of inherent measurement error, which is quite unavoidable in
+the social sciences, but the multilevel design described below should
+be able to account for some amount of the variation
+caused by the inherent (psychological) differences between interviewers.

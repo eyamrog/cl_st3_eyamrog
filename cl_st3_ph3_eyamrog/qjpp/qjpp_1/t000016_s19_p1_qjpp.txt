@@ -1,0 +1,8 @@
+In total, 12,625 whole-slide images (WSIs) of prostate biopsies were
+retrospectively collected from 6 different sites for algorithm development, tuning
+and independent validation (Table 1 , Extended Data Fig. 1
+and Supplementary Tables 7 and 8 ). Of these, 10,616
+biopsies were available for model development (the development set), 393
+for performance evaluation during the competition phase (the tuning set),
+545 as the internal validation set in the postcompetition phase
+and 1,071 for external validation.

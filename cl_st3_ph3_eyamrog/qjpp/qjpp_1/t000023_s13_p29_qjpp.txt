@@ -1,0 +1,12 @@
+Epidemiology has a long history of using surveillance not only
+to identify health problems in need of immediate action but
+also to provide insight into potential causes. From historical examples
+such as the work on the etiology of pellagra by
+Goldberger to recent work describing and inferring the drivers of
+the opioid epidemic in the United States ( 112 ),
+rigorous descriptive analyses have provided valuable insights relevant to understanding
+and to policy. The availability and access to more and
+more georeferenced and linked data on health and social circumstances
+provide unique opportunities for social epidemiology to refine its descriptions
+of the social patterning of health and its evolution over
+time.

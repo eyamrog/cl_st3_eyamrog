@@ -1,0 +1,23 @@
+The genome size of 1C=1.6 Gb for the R. pubera
+accession sequenced here has been previously measured ( Marques et
+al., 2015 59. Marques, A. ∙ Ribeiro, T. ∙ Neumann,
+P. ... Holocentromeres in Rhynchospora are associated with genome-wide centromere-specific
+repeat arrays interspersed among euchromatin Proc. Natl. Acad. Sci. USA.
+2015; 112 :13633-13638 Crossref Scopus (57) PubMed Google Scholar ).
+Thus, genome size estimations by flow cytometry were performed for
+the accessions of R. breviuscula and R. tenuis as well
+as for Juncus effusus var. spiralis . For that, roughly
+0.5 cm 2 of young leaf tissue was chopped with
+a sharp razorblade in a Petri dish together with appropriate
+amounts of leaf tissue of the internal reference standard Raphanus
+sativus cv. Voran (2C=1.11 pg; Genebank Gatersleben, accession number: RA
+34) using the ‘CyStain PI Absolute P’ nuclei extraction and
+staining kit (Sysmex-Partec). The resulting nuclei suspension was filtered through
+a 50-μm filter (CellTrics, Sysmex-Partec) and measured on a CyFlow
+Space flow cytometer (Sysmex-Partec). The absolute DNA content (pg/2C) was
+calculated based on the values of the G1 peak means
+and the corresponding genome size (Mb/1C) according to Dolezel et
+al. (2003) 17. Dolezel, J. ∙ Bartos, J. ∙ Voglmayr,
+H. ... Nuclear DNA content and genome size of trout
+and human Cytometry A. 2003; 51 :127-128 Crossref PubMed Google
+Scholar .

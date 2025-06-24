@@ -1,0 +1,11 @@
+The reference standard for the Dutch part of the training
+set was determined based on the pathology reports from routine
+clinical practice. For the Swedish part of the training set,
+the reference standard was set by one uropathologist (L.E.) following
+routine clinical workflow. The reference standard for the Dutch part
+of the internal validation set was determined through consensus of
+three uropathologists (C.H.v.d.K., R.V. and H.v.B.) from two institutions with
+18–28 years of clinical experience after residency (mean of 22
+years). For the Swedish subset, four uropathologists (L.E., B.D., H.S.
+and T.T.) from four institutions, all with >25 years of
+clinical experience after residency, set the reference standard.

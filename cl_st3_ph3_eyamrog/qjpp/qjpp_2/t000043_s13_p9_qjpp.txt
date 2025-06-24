@@ -1,0 +1,12 @@
+In an attempt to control the possible negative effects of
+narrow networks, the Centers for Medicare and Medicaid Services (CMS)
+required all managed-care organizations to implement time and distance specialty
+access standards in 2018. Time standards require appointments with professionals
+to be scheduled within a specific time frame, while distance
+standards establish a maximum distance or time an enrollee must
+commute to receive specialty care. A recent evaluation of state-specific
+regulations concluded that this policy alone is unlikely to lead
+to specialty access improvements. The authors note that efforts to
+continuously monitor or evaluate plan networks are further hindered because
+not all states mandatorily require, or even request, HMOs to
+disclose network data ( 36 ).

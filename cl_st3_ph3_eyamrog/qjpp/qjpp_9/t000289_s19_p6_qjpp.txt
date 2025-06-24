@@ -1,0 +1,10 @@
+With the exception of be to , semi-modals have non-finite
+forms, which enables them to be used alongside core modals,
+as in (8). In the IndE corpora, the most frequent
+semi-modals, namely have to , need to , be able
+to , and want to , often occur following a
+core modal: for example, in 1939, fifteen of the forty-one
+instances of be able to co-occur with a modal, as
+do fifty-three of the 165 instances of have to in
+1968. Such a pattern indicates that while we treat modals
+and semi-modals as semantic equivalents, they are not mutually exclusive.

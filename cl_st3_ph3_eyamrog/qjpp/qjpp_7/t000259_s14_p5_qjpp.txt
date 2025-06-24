@@ -1,0 +1,9 @@
+Although one limitation of conjoint experiments is that we often
+cannot estimate the effect of any one possible treatment --
+i.e., specific combinations of levels across attributes -- the approach
+has been shown to produce valid treatment effect estimates at
+the attribute level ( Hainmueller et al., 2014 ). In
+this case, we can determine which types of vaccines are
+the most effective at influencing uptake, even if we cannot
+say with certainty which particular combination of attributes is the
+most effective.

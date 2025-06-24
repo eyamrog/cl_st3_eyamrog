@@ -1,0 +1,9 @@
+Figure 4 presents differences in vowel realization across the four
+genres broadcast talks (btal), non-broadcast talks (nbtal), legal presentations (leg),
+and unscripted speeches (unsp), again showing 50 percent and 90
+percent uncertainty intervals. The text category broadcast news (bnew) was
+not plotted since data are rather sparse and included no
+tokens from women (see dataset B in Table 1 ).
+As discussed above, predictors that are not in focus are
+constrained to take their “normal” values ( age , gender
+, spelling ).

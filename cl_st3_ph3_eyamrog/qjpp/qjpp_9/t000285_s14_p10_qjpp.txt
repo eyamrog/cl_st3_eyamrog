@@ -1,0 +1,4 @@
+Any tags where the phonetic realization was unclear were excluded
+from the analysis ( N = 45), leaving a sample
+of 196 tags in Glasgow, 271 in Tyneside, and 567
+in Salford.

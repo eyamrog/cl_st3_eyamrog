@@ -1,0 +1,20 @@
+The analysis also examined how the size of the estimated
+treatment effect varied with selected personal and household characteristics. DiD
+models were stratified by the following characteristics: gender, age (15–19,
+20–29, 30–54, 55–69, and ≥70 years), family structure (couple aged
+<65 years without children aged <15 years, couple aged 65
+years with children aged <15 years, single parent with children
+aged <15 years, single person aged <65 years, couple aged
+≥65 years [including at least one partner aged ≥65 years],
+single person aged ≥65 years, and older dependent child [aged
+15–24 years]), dwelling type (separate [detached] house; semi-detached house, terraced
+house, or townhouse; flat or apartment; and other housing types),
+country of birth (Australia, foreign mainly English-speaking country, and other
+foreign country), region of residence (major city, inner regional, and
+outer regional or remote), presence of a long-term health condition,
+poor mental health (MHI-5 score <52) in 2019, and equivalised
+household disposable income quintile (measured over the financial year preceding
+the lockdown). An analysis by race or ethnicity was not
+possible because data on these characteristics were not collected in
+the survey. Statistical tests of the equality of coefficients for
+the levels of each characteristic were also done.

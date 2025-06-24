@@ -1,0 +1,9 @@
+In Schmid’s (2000) terminology, attraction refers to the degree to
+which the intensifier attracts a specific adjective, and it is
+calculated by dividing the frequency of the adjective modified by
+the amplifier by the total frequency of the amplifier +
+adjective pattern. The reliance value, in contrast, represents to what
+extent the occurrence of the adjective depends on a particular
+intensifier, and it is obtained by dividing the frequency of
+the adjective modified by a specific amplifier by the aggregate
+frequency of the adjective in the corpus.

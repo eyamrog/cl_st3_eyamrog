@@ -1,0 +1,22 @@
+In English, a relative clause ( rc ) follows the
+head noun phrase ( np ). Conversely, the rc in
+Chinese precedes the head np directly before it or is
+separated by a determiner phrase ( dp ). This is
+uncommon in the subject-verb-object order language and results in two
+types of constructions. For Chinese as foreign language ( cfl
+) learners, this construction alternation is complex to acquire and
+is dependent on many factors. This study aims to explore
+the underlying factors influencing cfl learners’ outer modifier nominal (
+omn )/inner modifier nominal ( imn ) alternation and whether
+they have multiple interactions. A multifactorial exploration of the significant
+predictors of the omn / imn alternation in Chinese interlanguage
+data, taken from the International Chinese Interlanguage Corpus, was conducted.
+Conditional inference trees and random forests were used to analyse
+the data. The predictors studied consist of head np animacy
+(HeadNPAnimacy), head np length (HeadNPLength), grammatical roles of head np
+s in matrix clauses (HeadNPMatRole), grammatical roles of head np
+s in rc s (HeadNPRelRole), length of rc s (RCLength),
+types of native languages (NLType), and learners’ Chinese proficiency (CHProficiency).
+Examinations of omn / imn alternation show predictors’ significant effects
+in descending order of their effect size: HeadNPRelRole, HeadNPMatRole, RCLength,
+NLType, and HeadNPAnimacy.

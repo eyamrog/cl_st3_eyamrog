@@ -1,0 +1,17 @@
+Suicide, like uncertainty, is the result of a complex interaction
+of a range of factors. The ultimate goal of the
+present study is to advance the research aimed at suicide
+prevention by evaluating the extent to which economic uncertainty can
+be used as an advanced indicator of increased suicide risk.
+The contribution of the study is threefold. First, as Fountoulakis
+et al. (2014a , b ) noted, most research on
+suicide is based on samples from developed countries. The present
+study covers 183 countries, using the suicide mortality rates published
+by the WHO. Second, rather than focusing on a cross-sectional
+analysis, the study takes into account the temporal dimension of
+the annual suicide rates for the period 2000–2019. With this
+aim in mind, we use a fixed-effects panel model to
+examine the relationship between economic uncertainty and suicide risk, controlling
+for unemployment and economic growth, and replicating the analysis for
+different regions. Third, the study is the first to assess
+the effect of global economic uncertainty on suicide rates worldwide.

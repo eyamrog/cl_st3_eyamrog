@@ -1,0 +1,24 @@
+Regarding the input parameters, dietary intake was sourced from the
+most recent national nutrition survey, which had a weighted response
+rate of 61%, similar to those achieved in population nutrition
+surveys in Australia, the UK, and Ireland. Rate ratios associating
+risk factors to disease rates came from the GBD 2013
+and are of comparatively high quality. Nevertheless, determining the associations
+of individual dietary components with disease rates is notoriously difficult;
+for example, measurement error and residual confounding across many, if
+not all of the separate studies included in meta-analyses will
+be present. Although we used uncertainty intervals about the inputs,
+this difficulty is a source of uncertainty beyond confidence intervals.
+For many risk factors, there is uncertainty about the threshold
+above or below which health harm occurs. However, we explicitly
+allowed for this by including uncertainty about the theoretical minimum
+risk exposure level in the probabilistic uncertainty analyses. A second
+concern with input parameters is the obvious uncertainty about future
+disease rates. We partially addressed this by extending past trends
+out to 2026, and then allowing no further change. Third,
+there is inevitable uncertainty about price elasticities and the extent
+to which they can predict future changes in purchasing. The
+price elasticities matrix that we used was generated from a
+New Zealand prior, with a Bayesian amalgamation with experimental data
+that was deliberately designed for assessing food tax and subsidy
+effects.

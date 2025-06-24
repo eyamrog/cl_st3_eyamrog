@@ -1,0 +1,25 @@
+We found just one study of the effects of informal
+care in the presence of formal care that we rated
+as having a low risk of bias. Coe et al.
+( 33 ) used instrumental variables methods to address the
+endogeneity of receipt of family-provided care, using secondary data from
+three states (New Jersey, Florida, and Arkansas) that took part
+in Medicaid's original Cash and Counseling Demonstration program with a
+randomized design. Although the purpose of the original experiment was
+to evaluate the program, randomization to the treatment was also
+predictive of receiving care from family members, induced by payment,
+in addition to formal services. Therefore, Coe et al. were
+able to use randomization to treatment as an instrument for
+receipt of family care. Multiple robustness checks were conducted to
+support the validity of the approach. They found that individuals
+with family involved in home-based care had better health outcomes.
+Specifically, care recipients with family involved were less likely to
+have several adverse health outcomes, such as infections, bedsores, or
+shortness of breath. They also found positive effects of receiving
+family care on reducing health care use, such as emergency
+room use and hospital care. These results combined suggest that
+the lower utilization could be due to better health outcomes.
+Although the study design was strong, the study suffered from
+other limitations, such as relatively old data (from the early
+1990s) and a sample drawn from just three states in
+the United States.

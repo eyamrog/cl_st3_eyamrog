@@ -1,0 +1,24 @@
+For the present investigation, we used the annotated version of
+the corpus and its concomitant concordancer. Our searches for little
+(including all spelling variants provided by the OED and all
+grammatical tags provided in the OBC) yielded 18,684 hits. In
+our screening for adverb uses, we excluded adjectival little irrespective
+of tag, 9 and typical uses indicating quantity, size, and
+age, as in, e.g., “She said but little ,” where
+little acts as an object indicating quantity; the latter were
+usually adjectival or nominal. We also excluded 256 cases where
+little modifies a bit ( of ), functioning within that
+downtoner (cf. Claridge & Kytö 2014a ). Finally, we set
+aside 222 instances of adjectival little functioning in composite predicates
+as they notionally modify the verb phrase and could be
+of interest for a later study. Two such cases are
+have very little doubt and took a little walk .
+Regarding non-degree uses (see Table 1 ), we have specifically
+included durative uses of little as we found semantic overlap
+to be pronounced between degree and this non-degree category (see
+1-2 and 3-4). The adverbs indicating duration are fairly abstract
+and subjective, similar to degree modifiers, and denote extensible qualities
+(see the degree-duration blends mentioned in section 2). Both degree
+and non-degree uses of little downtone the meaning and the
+force of the message. Our data contained no instances of
+adverb little with purely frequentative meaning.

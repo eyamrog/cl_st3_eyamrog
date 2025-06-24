@@ -1,0 +1,19 @@
+In this study, we have analyzed the structure of HIV
+particles displaying functional, membrane-bound Env. The ADA.CM Env trimers used
+are highly stable in a membrane environment, although they notably
+do not form well-ordered gp140 trimers in solution using the
+typically employed “SOSIP” mutations ( Leaman and Zwick, 2013 44.
+Leaman, D.P. ∙ Zwick, M.B. Increased functional stability and homogeneity
+of viral envelope spikes through directed evolution PLoS Pathog. 2013;
+9 :e1003184 Crossref Scopus (44) PubMed Google Scholar ). This
+is true for the majority of Env sequences, which require
+extensive stabilizing modifications in order to encourage formation of stable
+ectodomain trimers ( Rawi et al., 2020 71. Rawi, R.
+∙ Rutten, L. ∙ Lai, Y.T. ... Automated Design by
+Structure-Based Stabilization and Consensus Repair to Achieve Prefusion-Closed Envelope Trimers
+in a Wide Variety of HIV Strains Cell Rep. 2020;
+33 :108432 Full Text Full Text (PDF) Scopus (26) PubMed
+Google Scholar ). Thus, the structural details discussed here may
+reflect features of Env strains that are not compatible with
+SOSIP modifications and thus have been resistant to structural characterization
+so far.

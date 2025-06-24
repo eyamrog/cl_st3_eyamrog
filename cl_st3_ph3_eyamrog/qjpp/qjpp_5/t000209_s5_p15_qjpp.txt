@@ -1,0 +1,14 @@
+We identified one female M. tonkeana specimen (PF511) that carried
+a mitochondrial genome that is almost identical to that carried
+by M. hecki specimens . PF511 was previously incorrectly classified
+as M. hecki based on partial mitochondrial DNA sequences (
+Evans et al., 2003a ), but a reassessment of photos
+and consideration of whole-genome sequences indicates that the genetic ancestry
+of this individual is mostly M. tonkeana (data not shown).
+In this case, incomplete lineage sorting is an unlikely explanation
+for this observation because pairwise divergence between other M. tonkeana
+and M. hecki mitochondrial genomes is ∼20 times higher (
+Fig. 2 ). A more plausible explanation is that this
+specimen has recent mixed ancestry stemming from hybridization between these
+two species, followed by several generations of backcrossing with M.
+tonkeana individuals.

@@ -1,0 +1,7 @@
+The resultant module definitions were quantified using the eigengene approach
+within WGCNA. An eigengene is a quantitative representation of the
+expression of a module as a whole, and is derived
+from the first component of a principle components analysis restricted
+to the expression data of only genes in the module.
+Eigengenes for the modules defined in the resection data were
+calculated using the moduleEigengenes function.

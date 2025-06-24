@@ -1,0 +1,10 @@
+Gleason grading of biopsies yields important prognostic information for prostate
+cancer patients and is a key element for treatment planning
+. Pathologists characterize tumors into different Gleason growth patterns based
+on the histological architecture of the tumor tissue. Based on
+the distribution of Gleason patterns, biopsy specimens are categorized into
+one of five groups, commonly referred to as International Society
+of Urological Pathology (ISUP) grade groups, ISUP grade, Gleason grade
+groups or simply grade groups (GGs) . This assessment is
+inherently subjective with considerable inter- and intrapathologist variability , leading
+to both undergrading and overgrading of prostate cancer .

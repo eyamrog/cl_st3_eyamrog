@@ -1,0 +1,22 @@
+Legacy audio corpora such as DASS allow researchers to test
+hypotheses about linguistic change with a greater time depth than
+is typically available from sociolinguistic fieldwork. Using a large new
+dataset, we have provided an analysis of back vowels’ formant
+dynamics in DASS, uncovering phonetic detail about their shape and
+change in apparent time. The vowels in goose and goat
+both front over generational time, and the high back vowel
+is more advanced in this process, confirming its relatively earlier
+actuation. Phonological context, specifically the presence of a pre-vocalic coronal
+consonant, conditions fronting to some extent. The foot vowel is
+relatively more stable but does undergo mild backing in these
+materials. We have also shown clear distinctions between the low
+back vowels, suggesting that the merger of lot and thought
+was not common when these speakers were acquiring language. All
+five vowels we study are shown to vary across time,
+progressing toward late twentieth-century descriptions that are more familiar. Our
+findings provide phonetic validation of existing results and support analyses
+from smaller datasets, with a larger corpus of forty-eight speakers
+and 290 hours of audio. This work relies on an
+automated workflow and complements, but does not supplant, careful exploration
+by ear and eye with a goal of detailed phonetic
+transcription or individual speaker analysis.

@@ -1,0 +1,14 @@
+This manuscript offers an important first step in understanding how
+human behavior and community vulnerability relate to COVID-19. The relationships
+uncovered here suggest notable results with respect to social distancing
+and community presence of COVID-19 and serve as a basis
+upon which future research can expand. Community vulnerability is widely
+viewed as an important aspect to consider when modeling disparities
+in health outcomes including COVID-19. Although COVID-19 does disproportionately impact
+vulnerable populations, human behavior as measured by community mobility is
+equally influential in understanding disease spread. Indeed, we show that
+measures of vulnerability that include mobility are most effective for
+modeling COVID-19. We encourage researchers to build upon these findings
+by modeling various additional measures of human behavior that may
+improve our understanding of how these factors affect the spread
+of COVID-19 and resulting health disparities .

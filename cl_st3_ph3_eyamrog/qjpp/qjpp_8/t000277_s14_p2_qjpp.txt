@@ -1,0 +1,18 @@
+This paper follows in a long line of research using
+corpora to investigate epicene pronoun use (e.g., Pauwels 2001 ;
+Laitinen 2007 ; Paterson 2011 , 2014 ; Stormbom 2018
+; Loureiro-Porto, this issue; see also Curzan 2014 for corpus
+data on generic/gender-specific job titles in AmE). It uses two
+sets of corpora—the Brown family of AmE and the LOB
+family of BrE ( Table 1 )—which are well established
+reference corpora suitable for analyzing “ongoing grammatical change in the
+twentieth century” ( Hundt & Leech 2012 :187). The sampling
+frames for all the corpora are consistent (see Baker 2009
+for more details), making them useful resources for comparing features
+of language across time and across varieties. They correspond to
+four time periods (the 1930s, 1960s, 1990s, and the 2000s)
+and the texts within them cover a range of different
+genres, from press reportage and religious texts to multiple sub-genres
+of fiction (romance, science fiction, detective fiction, etc.). As such,
+they represent a snapshot of written language at each collection
+point.

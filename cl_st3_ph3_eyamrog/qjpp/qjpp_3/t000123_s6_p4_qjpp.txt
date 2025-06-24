@@ -1,0 +1,26 @@
+Our study only includes six marsupial species, which is sparse
+compared with the high species diversity in this mammalian group.
+A larger set of marsupial species genomes would enable more
+detailed reconstruction of the rapid radiation of this lineage and
+more precise analysis of the evolutionary consequences of genomic regions
+affected by ILS for descendant species. Additionally, given the fragmented
+nature of genome assemblies based on short-reads, our current analyses
+might have missed many long TEs that could further enhance
+ILS signal detection. This might be overcome by producing more
+complete genome assemblies based on long-read sequencing technology ( Rhie
+et al., 2021 86. Rhie, A. ∙ McCarthy, S.A. ∙
+Fedrigo, O. ... Towards complete and error-free genome assemblies of
+all vertebrate species Nature. 2021; 592 :737-746 Crossref Scopus (124)
+PubMed Google Scholar ; Zhou et al., 2021 126. Zhou,
+Y. ∙ Shearwin-Whyatt, L. ∙ Li, J. ... Platypus and
+echidna genomes reveal mammalian biology and evolution Nature. 2021; 592
+:756-762 Crossref Scopus (20) PubMed Google Scholar ). Furthermore, our
+functional verifications of phenotypic ILS effects using an indirect transgenic
+mice approach have constrained us to focus on skeletal traits
+that are relatively conserved in mammals. Focused development of a
+marsupial animal model will be needed to allow more direct
+validations ( Kiyonari et al., 2021 47. Kiyonari, H. ∙
+Kaneko, M. ∙ Abe, T. ... Targeted gene disruption in
+a marsupial, Monodelphis domestica , by CRISPR/Cas9 genome editing Curr.
+Biol. 2021; 31 :3956-3963.e4 Full Text Full Text (PDF) PubMed
+Google Scholar ).

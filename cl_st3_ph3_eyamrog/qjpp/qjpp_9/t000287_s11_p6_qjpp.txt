@@ -1,0 +1,6 @@
+This section outlines why merger reversal is unexpected and discusses
+three possible explanations for why such reversals occur: that the
+phones constitute a near merger in production, that speakers have
+non-phonological knowledge of phones, and that contact effects reintroduce the
+distinction. One or more of these likely explains why start
+and north were able to separate in St. Louis.

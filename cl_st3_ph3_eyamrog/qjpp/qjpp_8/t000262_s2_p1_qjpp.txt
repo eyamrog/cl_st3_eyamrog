@@ -1,0 +1,6 @@
+We are very grateful to Claude Fischer and Leora Lawton
+for conducting the UCNets survey study, providing us with early
+versions of the data, and offering important comments on our
+initial results. We also thank organizers and participants of the
+2018 UC Berkeley UCNets Conference and Workshop for discussion and
+feedback in the first steps of this work.

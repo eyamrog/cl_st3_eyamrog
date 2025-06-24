@@ -1,0 +1,14 @@
+The need +ING sample was complicated by the fact that
+nouns can end in -ing . Tweets tagged as need
++ING were only retained if I could felicitously rephrase them
+as need +TO, and I regularly checked my intuitions by
+confirming that the past participle form of the verb also
+occurred as a passive complement in either the need +TO
+or need +ED datasets. A small subset of complements— counseling
+, financing , funding , and healing —occurred relatively frequently
+in the need +ING dataset and, while they occurred as
+passive verbal complements to need +TO, almost never occurred as
+complements in the need +ED dataset. On the possibility that
+these were not comparable to need +ED, I excluded all
+tweets in the corpus of need +ING tweets with these
+four complements.

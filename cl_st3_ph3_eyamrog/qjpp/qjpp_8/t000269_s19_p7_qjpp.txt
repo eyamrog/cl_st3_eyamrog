@@ -1,0 +1,8 @@
+Variation across outcomes and levels . We fitted an unconditional
+means model to assess the weight of the contribution of
+each level to the total variation in conduct problems and
+emotional symptoms. This model is only used to decompose the
+total variance into variance within the same children at any
+point in time (level 1) and between different children across
+all time points (level 2), as well as ascertaining the
+correlation between the two outcomes at each level.

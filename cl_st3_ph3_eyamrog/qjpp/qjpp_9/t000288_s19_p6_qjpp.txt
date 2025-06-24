@@ -1,0 +1,7 @@
+The outcome of the random forest analysis for syntactic integration
+(i.e., that -clause versus bare) is given in Figure 5
+. Testing for model accuracy with Somers2 Dxy returns a
+prediction accuracy of 0.677 (above the 0.5 threshold) and a
+C-index value of 0.838, i.e., a good model fit. Open
+in Viewer Figure 5 . Variable Importance Predicting Syntactic Integration
+in N-is Focalizers in NOW

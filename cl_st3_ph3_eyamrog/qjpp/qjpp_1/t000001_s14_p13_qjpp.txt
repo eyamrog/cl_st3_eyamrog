@@ -1,0 +1,14 @@
+We used the evidence score framework established in GBD 2020
+to systematically estimate the risk function representing the relationship between
+SPB and IHD, and to quantify the strength of evidence
+for the estimated relationship. Using uncertainty estimates computed to include
+between-study heterogeneity we derived BPRF, defined in this case (for
+harmful risks) as the 5th quantile risk curve (closest to
+an RR of 1 representing the null). For the relationship
+between SBP and IHD, BPRF represents the estimated level of
+elevated IHD risk based on a conservative interpretation of the
+available evidence—that is, the minimum estimate of the potential harmful
+effects of increased SBP on IHD. We acknowledge that the
+quantile depends closely on the risk factor range and therefore
+we defined this range based on RCTs and cohort exposure
+data.

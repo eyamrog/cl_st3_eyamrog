@@ -1,0 +1,20 @@
+The primary outcome, the Oxford COVID-19 Vaccine Hesitancy score, was
+analysed using a linear regression model. The linear regression model
+included the Oxford COVID-19 Vaccine Hesitancy Scale score as the
+response variable with the randomised group (conditions 2, 3, 4,
+5, 6, 7, 8, 9, and 10 vs condition 1
+[control]). An interaction between baseline vaccine hesitancy (willing, doubtful, or
+strongly hesitant) and condition was fitted in the regression model
+to determine the effect of conditions in each hesitancy category.
+Predefined subgroup analyses were done on the Oxford COVID-19 Vaccine
+Hesitancy Scale to ascertain if effectiveness of specific information conditions
+varied by individual characteristics (age, gender, ethnicity, income, region, and
+level of COVID-19 health risk). Subgroup analyses were conducted by
+inclusion of an interaction term of baseline subgroup by randomised
+group in separate regression models. Each of the regression models
+included the interaction term, adjusting for age, gender, ethnicity, income,
+region, level of COVID-19 health risk, and vaccine hesitancy level
+at baseline. p values and 95% CIs for the model
+coefficients were obtained by bootstrapping. To ensure a familywise error
+rate at 5%, p values were adjusted using the false
+discovery rate method.

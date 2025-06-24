@@ -1,0 +1,6 @@
+The author gratefully acknowledges help with the initial extraction of
+the data set provided by Carlos Hartmann. The audience at
+the ISLE 5 conference in London, where an initial draft
+was presented, the anonymous reviewers, and the editors of the
+journal provided very helpful and constructive criticism, which greatly improved
+the original paper.

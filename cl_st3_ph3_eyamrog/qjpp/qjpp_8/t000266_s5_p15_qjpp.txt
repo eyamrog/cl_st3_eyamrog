@@ -1,0 +1,27 @@
+Decision makers and analysts need to be aware that using
+an outcome measure like the WOOP, which focuses on broader
+outcomes than health and is conceptually targeted at a specific
+age group, makes it difficult to compare the results of
+evaluation studies with those using other outcome measures. Hence, the
+comprehensiveness and relevance of the WOOP in the specific context
+of health and social care for older people comes at
+the price of reducing the comparability of findings with those
+from economic evaluations in other populations or focused on health
+as outcome. Furthermore, for economic evaluations using the WOOP to
+be truly informative for decision-making about whether or not to
+implement particular health and social care services, a threshold value
+representing the monetary value of a well-being adjusted life year
+(WALY) is required. Considering that the scope of benefits is
+broader, it is likely to be higher than that the
+threshold for a QALY. While different methods may be used
+to estimate such a threshold value ( Himmler et al.,
+2020b ; Kinghorn and Afentou, 2021 ; Ryen and Svensson,
+2015 ) an important conceptual question will be whether this
+valuation should be done within the target population, as the
+beneficiaries of health and social care interventions, or within the
+general public, as the payer of such interventions in a
+collective system (like in the Netherlands). A last noteworthy aspect
+of the use of broader outcome measures in general is
+that by extending the scope of the benefit dimension, one
+needs to consider also extending the cost dimension beyond health
+care to stay within a consistent framework.

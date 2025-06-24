@@ -1,0 +1,10 @@
+An alternative taxonomy is that of Binge and Boshoff (2020)
+, who grouped the different approaches to proxy economic uncertainty
+into five categories: disagreement among professional forecasters; responses from business
+and consumer surveys; econometrically-constructed measures; those based on financial data;
+and text-based proxies. Survey-based measures of economic uncertainty are usually
+obtained through different dispersion metrics computed from forecast surveys. Recent
+studies that have taken advantage of this type of information
+include Altig et al. (2020) and Jo and Sekkel (2019)
+for the US and Rich and Tracy (2021) and Rossi
+and Sekhposyan (2017) for the Eurozone .

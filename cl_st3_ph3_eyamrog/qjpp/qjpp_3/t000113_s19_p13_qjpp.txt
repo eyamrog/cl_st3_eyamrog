@@ -1,0 +1,5 @@
+In summary, value place fields were not static: novel pictures
+induced a remapping that was retained even when the original
+pictures were restored. These changes could reflect the process by
+which subjects generalize across picture sets to exploit acquired knowledge
+of the underlying trajectories.

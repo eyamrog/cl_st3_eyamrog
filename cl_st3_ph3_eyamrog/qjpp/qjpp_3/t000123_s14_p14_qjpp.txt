@@ -1,0 +1,21 @@
+We generated whole genome alignments (WGAs) using the LASTZ +
+MULTIZ pipeline ( Blanchette et al., 2004 11. Blanchette, M.
+∙ Kent, W.J. ∙ Riemer, C. ... Aligning multiple genomic
+sequences with the threaded blockset aligner Genome Res. 2004; 14
+:708-715 Crossref Scopus (962) PubMed Google Scholar ; Harris, 2007
+34. Harris, R.S. Improved Pairwise Alignment Of Genomic DNA The
+Pennsylvania State University, 2007 Google Scholar ) ( http://www.bx.psu.edu/miller_lab/ )
+across the marsupial species with the gray short-tailed opossum as
+reference. We first carried out pairwise WGAs between genomes of
+the gray short-tailed opossum and five other marsupial species using
+the LASTZ v1.03.34 program with parameters: “--step=19 --hspthresh=2200 --gappedthresh=10000 --ydrop=3400
+--inner=2000 --seed=12of19 --format=axt --scores=HoxD55”, Chain/Net package with parameters of “--minScore=5000”
+for the axtChain program and default parameters for other programs.
+To prevent the use of multiple hits from the WGAs,
+we used the reciprocal best matches and filtered out other
+multiple hits. Using the MULTIZ v11.2 program, we initially obtained
+∼2.77 Gb WGAs. To meet the objectives of the subsequent
+analyses, only blocks longer than 100bp and containing the gray
+short-tailed opossum, monito del monte, at least one diprotodontian species,
+and at least one dasyuromorphian species were retained. These filtering
+steps removed about 1.14 Gb from the initial alignment.

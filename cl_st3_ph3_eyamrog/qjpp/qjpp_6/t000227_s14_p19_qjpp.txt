@@ -1,0 +1,24 @@
+The polar second moment of area (J) provides both an
+indication of resistance to torsion and a general reflection of
+overall rigidity. As indicated earlier, J should be standardized by
+an estimate of body mass. Given the scarcity of tibial
+MP fossil remains and the absence of associated pelvic or
+femur remains with which to calculate body mass, it is
+preferable to use biomechanical tibial length, which we obtained from
+the virtual reconstruction as explained earlier. With those data, we
+performed a reduced major axis (RMA) regression of the natural
+logarithm of J vs. biomechanical tibial length, using RMH and
+UP specimens for the comparison. We chose to use RMA
+because our aim is to summarize the relationship between two
+variables rather than to generate a predictive model. Logarithm transformation
+of J and biomechanical tibial length was performed to minimize
+regression bias ( Ruff, 1995 ). In addition, stature was
+calculated using the Sjøvold (1990) formula, as used by Carretero
+et al. (2012) for SH and Neanderthal populations. The formula
+used in this article for the tibial material was as
+follows: Stature = 3.29 × TL + 47.34 ± 4.15
+where, TL is the total length from the top of
+the lateral proximal condyle to the tip of the distal
+malleolus (proximal spines are not included), as defined by Martin
+and Saller (1957) in which TL is referred to as
+M1.

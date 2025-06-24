@@ -1,0 +1,15 @@
+The representation in Figure 1 employs notation that is characteristic
+of the CxG model, which pairs a semantic side (“Sem”)
+with a formal side (“Syn”); the semantic side specifies an
+overall event meaning (‘move in a [certain] manner along a
+path’). The formal side specifies a particular configuration of constituents:
+a V belonging to a very restricted set of possible
+motion verbs (according to Goldberg, only come, go, run ,
+and take off ‘to go off’ can occur in the
+V slot), a V ing form providing some specification of
+the kind of motion, and an oblique complement coding a
+dynamic path. The brackets enclosing the oblique constituent in Figure
+1 are presumably intended to imply that the oblique can
+be latent, rather than expressed overtly, as is indeed the
+case occasionally both today and in earlier English, shown in
+(6).

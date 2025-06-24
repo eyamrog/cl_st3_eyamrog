@@ -1,0 +1,8 @@
+The standard deviations of the natural logarithm of centroid size
+obtained for the hominine taxa indicate that maxillary size is
+significantly more variable in Gorilla and Pan than in Homo
+( SOM Tables S3 and S4 ). At the species
+level, G. gorilla and G. beringei are more variable in
+size than H. sapiens , P. troglodytes , and P.
+paniscus . Size variation does not differ significantly between the
+species and subspecies of Pan or Gorilla .

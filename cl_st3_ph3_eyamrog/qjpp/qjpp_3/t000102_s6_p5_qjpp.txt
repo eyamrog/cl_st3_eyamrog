@@ -1,0 +1,23 @@
+Our experiments show that high concentrations of reduced BSA and
+acetate anions are required to produce chromatin condensates that are
+liquid on the mesoscale in vitro . For this to
+occur, we envision that tail-DNA interactions must persist but become
+very weak so that they are fluctuating rather than stable.
+Upon reduction, BSA forms a molten globule state characterized by
+increased surface hydrophobicity ( Lee and Hirose, 1992 29. Lee,
+J.Y. ∙ Hirose, M. Partially folded state of the disulfide-reduced
+form of human serum albumin as an intermediate for reversible
+denaturation J. Biol. Chem. 1992; 267 :14753-14758 Abstract Full Text
+(PDF) PubMed Google Scholar ). It is possible that, in
+addition to electrostatic contacts with DNA phosphates, the tails make
+hydrophobic contacts with DNA bases that are disrupted by reduced
+BSA. High concentrations of acetate anions presumably weaken the electrostatic
+interactions by competing for tail binding to DNA phosphates. Collectively,
+these two effects may cause tail-DNA interactions to be dynamic,
+resulting in a liquid chromatin state. If there are in
+vivo conditions that can mimic the in vitro effects of
+reduced BSA and acetate anions, any given specific region of
+chromatin in the nucleus could be converted to a liquid
+state, although it is clear from our in vivo experiments
+that such conditions do not exist in bulk throughout the
+nucleus.

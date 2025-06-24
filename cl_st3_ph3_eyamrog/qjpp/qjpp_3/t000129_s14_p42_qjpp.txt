@@ -1,0 +1,13 @@
+Enhancers were predicted using a series of established tools for
+ATAC-seq peak prediction and enhancer / promoter prediction. First, Genrich
+(not published, https://github.com/jsh58/Genrich/ ) was used to predict ATAC-seq peaks.
+We filtered for those that overlap a enhancer predicted by
+CRUP ( Ramisch et al., 2019 113. Ramisch, A. ∙
+Heinrich, V. ∙ Glaser, L.V. ... CRUP: a comprehensive framework
+to predict condition-specific regulatory units Genome Biol. 2019; 20 :227
+Crossref Scopus (8) PubMed Google Scholar ) and do not
+overlap an annotated TSS (UCSC) or a promoter predicted by
+eHMM ( Zehnder et al., 2019 152. Zehnder, T. ∙
+Benner, P. ∙ Vingron, M. Predicting enhancers in mammalian genomes
+using supervised hidden Markov models BMC Bioinformatics. 2019; 20 :157
+Crossref Scopus (4) PubMed Google Scholar ).

@@ -1,0 +1,11 @@
+The impact of AVs on climate change will depend on
+several factors: the impact on VMTs (with more VMTs, ceteris
+paribus , requiring more energy), the energy usage per vehicle,
+and the source of energy used. If AV use increases
+overall VMTs, then the overall transportation energy demand would increase.
+An increase in traveler population could increase empty miles driven,
+as well as travel demand, and may shift travel from
+other modes to AVs ( 79 ). On the other
+hand, AV use could reduce energy consumption through reductions in
+parking hunting, ridesharing, eco-driving, congestion mitigation, collision avoidance, and vehicle/power
+resizing ( 79 ).

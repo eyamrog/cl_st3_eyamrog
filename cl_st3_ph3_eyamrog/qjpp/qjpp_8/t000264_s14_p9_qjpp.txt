@@ -1,0 +1,9 @@
+The final composite metric – PVI – is the most
+comprehensive measure. Developed by researchers in cooperation with the National
+Institute of Environmental Health Sciences, this index and associated online
+dashboard was created to give key stakeholders dynamic county-level information
+that facilitate monitoring disease trajectories, identifying local vulnerability, forecasting key
+outcomes, and guiding decision making ( Marvel et al., 2021
+). Like CCVI, PVI builds on SVI and adds to
+that index measures that capture testing rates, social distancing, and
+disease spread.

@@ -1,0 +1,20 @@
+The almost orthogonal relation of M4/M5/ulceration with M6/lymphoid aggregates suggested
+that these may represent distinct underlying inflammatory processes dominant in
+a given patient’s tissue. To investigate this, we grouped patients
+by unsupervised clustering on module M4/M5/M6 expression to determine the
+relative proportion of patients belonging to these groups. This yielded
+four groups: M4/M5 high expression (21.7% of patients), M6 high
+expression, M5-only high expression and M4/M5/M6 low expression (each 26.1%
+of patients) (Fig. 2d ). The M4/M5-high group displayed significantly
+increased expression of IL1B compared to the remainder of the
+patients (Fig. 2e , red). However, neither ITGA4 / ITGB7
+(encoding integrin subunits targeted by anti-integrin therapy), N3RC1 (targeted by
+corticosteroids) nor TNF (targeted by anti-TNF) expression was increased in
+the tissue of these patients (Fig. 2e ). By contrast,
+high expression of module M6 was linked to increased expression
+of ITGA4 and N3RC1 , as well as CCL19, CCL21
+and CXCL13 but not TNF (Fig. 2e , blue). Patients
+high in M5 expression only did not demonstrate significant changes
+in cytokine/therapeutic target signatures (Fig. 2e , orange). Therefore patient
+responses to specific treatments might be determined by the nature
+of the inflammatory pathology in the tissue.

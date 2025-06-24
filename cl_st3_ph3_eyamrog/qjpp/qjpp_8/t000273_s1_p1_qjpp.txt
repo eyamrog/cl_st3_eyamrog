@@ -1,0 +1,25 @@
+This study examines the relationship between the length of time
+since a patient received their first treatment for cancer and
+the feedback they give on that treatment. The analysis is
+based on a corpus of 214,340 written patient comments (14,403,694
+words) relating to National Health Service (NHS) cancer care in
+England between 2015 and 2018. Patients are grouped according to
+treatment duration and compared in terms of the feedback ratings
+they gave, the themes of their positive and negative comments,
+and the keywords that characterise the language they use to
+provide qualitative evaluations of their experiences. We find that patient
+satisfaction rates remain relatively stable across the treatment duration groups,
+with patients generally indicating high levels of satisfaction. Patients focus
+on a small number of core themes in their feedback,
+regardless of treatment duration, though there are differences in the
+extent to which certain themes are focused on by each
+group. Our analysis of keywords reveals differences in the focus
+of the comments, as well as in the types of
+rhetorical strategies that patients (particularly those receiving treatment for longer
+periods) use, not only to frame but also to legitimise
+their feedback. The implications of the findings are discussed with
+respect to healthcare provision and feedback monitoring. We also discuss
+the value of combining a focus on content with form
+when working with non-linguist stakeholders, and reflect on the opportunities
+and challenges of convincing stakeholders of the value of using
+(corpus) linguistic methods to approach seemingly non-linguistic questions.

@@ -1,0 +1,10 @@
+Matching plasma cytokine levels were determined in duplicate using a
+multiplexed magnetic bead assay (catalog no. LHC6003M, Life Technologies) in
+accordance with the manufacturer’s instructions. Briefly, a mixture of beads
+that were coated with anticytokine antibodies were prewashed and then
+incubated with the plasma samples. They were then co-incubated with
+a mixture of biotinylated detector antibodies followed by R-phycoerythrin (R-PE)-conjugated
+streptavidin. A magnetic separator was used to wash the beads
+between incubations. Fluorescence intensity was determined on a Bio-Plex 200
+system. Concentrations of the cytokines in the samples were determined
+by interpolating on sigmoid four-parameter logistic regression standard curves.

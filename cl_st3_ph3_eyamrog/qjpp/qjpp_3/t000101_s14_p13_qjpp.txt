@@ -1,0 +1,4 @@
+A TaqMan assay (C_397916532_10) was used to obtain allelic discrimination
+results for the EYS mutation (rs758109813; NG_023443.2:g.1713111del) using a QuantStudio
+3 instrument and following the manufacturer’s recommendations (ThermoFisher). See Table
+S5 for results.

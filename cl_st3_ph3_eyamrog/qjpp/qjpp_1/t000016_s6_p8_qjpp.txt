@@ -1,0 +1,22 @@
+Second, algorithm validation was restricted to the assessment of individual
+biopsies whereas, in clinical practice, pathologists examine multiple biopsies per
+patient. Future studies can focus on patient-level evaluation of tissue
+samples, taking multiple cores and sections into account for the
+final diagnosis. Third, this study focused on grading acinar adenocarcinoma
+of the prostate, and algorithm responses to other variants and
+subtypes of cancer, precancerous lesions or nonprostatic tissue were not
+specifically assessed. Although cases with potential pitfalls were not excluded,
+it is of interest to further examine algorithm performance on
+such cases (for example, benign mimickers, severe inflammation, high-grade prostatic
+intraepithelial neoplasia, partial atrophy) and to investigate which patterns consistently
+result in classification errors. Although not quantitatively assessed, an analysis
+of cases with frequent miscalls showed that these cases often
+contained patterns such as cutting artifacts, and different inflammatory and
+other biological processes—all common occurrences within pathology—that could have resulted
+in the algorithms’ miscalls. A comprehensive understanding of potential error
+modes is especially important when these algorithms leave controlled research
+settings and are used in clinical settings. Therefore, future research
+should more extensively assess what common tissue patterns in pathology
+routinely affect algorithm performance, whether they are the same patterns
+that are notoriously difficult for pathologists and how we can
+build safeguards to prevent such errors.

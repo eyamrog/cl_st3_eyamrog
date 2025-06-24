@@ -1,0 +1,3 @@
+Data acquired at the spinning disc confocal microscope were exported
+from Volocity as ome.tiff for further processing in FiJI or
+Imaris.

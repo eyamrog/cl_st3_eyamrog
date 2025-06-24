@@ -1,0 +1,12 @@
+The mediation measure was the 14-item Oxford Vaccine Confidence and
+Complacency Scale, which has four subscale scores (collective importance, efficacy,
+side-effects, and speed of development). Item-specific response options, coded from
+1 to 5, are used. A “don't know” option is
+also provided, which is excluded from scoring. Scores range from
+14 to 60, with higher scores indicating more negative attitudes
+towards COVID-19 vaccination. The Cronbach's α in the current study
+was 0·88 (n=14 661) for collective importance, 0·85 (n=15 407)
+for speed of development, 0·71 (n=14 105) for efficacy, and
+0·78 (n=15 080) for side-effects. The Cronbach's α for all
+the scale items was 0·94 (n=10 584), indicating high internal
+consistency.

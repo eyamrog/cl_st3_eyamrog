@@ -1,0 +1,23 @@
+In addition to search queries, social media–based digital surveillance data
+have become a vital part of efforts to monitor disease
+trends, with Twitter being a highly used platform. This high
+usage is facilitated by Twitter's relatively open data policy, allowing
+public access to a 1% random sample of raw tweets
+( https://developer.twitter.com/en/docs/tweets/sample-realtime/overview ). For this reason, Twitter has become a
+“model organism” for digital research data ( 98 ). Six
+of nine teams in the first season of FluSight used
+Twitter alone or in addition to other digital sources (
+3 ). The most typical use of Twitter data involves
+content identification, through either keyword search or natural-language processing, to
+identify tweets related to health conditions such as the flu.
+Epidemic levels are then modeled as a function of tweet
+frequencies ( 81 ). However, an additional benefit of Twitter
+data is the availability of geolocated tweets, which can be
+used to model disease spread as a function of human
+geographic movement, potentially offering greater accuracy ( 80 ). While
+Twitter is by far the most frequently used platform in
+digital surveillance, many others have been used as well. For
+example, Facebook “like” patterns correlate strongly with a wide range
+of health conditions and behaviors ( 43 ), and Instagram
+timelines have been used to identify adverse drug reactions (
+26 ).

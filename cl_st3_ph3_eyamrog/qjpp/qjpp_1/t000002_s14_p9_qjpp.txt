@@ -1,0 +1,19 @@
+To examine the relation between steps per day and step
+intensity (bout cadence), the Spearman correlation coefficient was computed. Additionally,
+we descriptively examined the gradient of disease risk by plotting
+the intersections of daily step counts and bout cadence quartiles.
+We also used the probability density plot to examine the
+association between daily step counts and bout cadence on a
+continuous spectrum for participants who developed versus those who did
+not develop the conditions, which were examined in Cox models.
+We conducted similar Cox analyses to investigate whether the association
+of steps per day with the risk of developing chronic
+conditions stayed consistent after accounting for step intensity and potential
+covariates. Similarly, we used a Cox model adjusted for a
+priori covariates to examine the strength of association between step
+intensity and outcomes. Lastly, we repeated these analyses, using step
+intensity, which referred to steps per minute computed by averaging
+the steps over the time when a participant engaged in
+≥2 consecutive minutes at ≥100 steps per minute, a threshold
+used to determine time spent in moderate to vigorous activity
+, across all the valid days.

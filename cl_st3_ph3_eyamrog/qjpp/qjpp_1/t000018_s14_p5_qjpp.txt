@@ -1,0 +1,11 @@
+Single-cell suspensions obtained from tissue digests were blocked in PBS
+5% BSA containing human anti-Fc block (Miltenyi), except when CD16
+was in the panel, stained for FACS analysis or sorting
+with Fixable Viability Dye eFluor 780 (eBioscience, 1:1,000), DAPI (Invitrogen,
+1:50,000) and antibodies (all from Biolegend, except anti-Pdpn: clone NZ-1.3
+from eBioscience and anti-FAP:sheep from Biotechne) in PBS with 5%
+BSA and 5 mM EDTA for 20 min on ice.
+After washing in the same buffer, cells were either analyzed
+(LSRII or Fortessa X20) or sorted (Aria III, 100-µm nozzle).
+All antibodies used for FACS analysis and sorting can be
+found in Supplementary Table 10 .

@@ -1,0 +1,6 @@
+Tokens that were ambiguous, unfinished, in false starts, or used
+in reported speech were also excluded from the sample, as
+were tags that were used after a long pause after
+the anchor ( N = 13) since these appear to
+be afterthoughts ( Andersen 2001 :136) or might represent full
+interrogatives rather than tags.

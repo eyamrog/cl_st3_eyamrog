@@ -1,0 +1,8 @@
+We use box-and-whisker plots to compare dependent variables between adaptive
+and static networks. Box-and-whisker show the median, interquartile range (
+IQR : [ Q 1 , Q 3 ]), minimum
+(at most Q 1 − 1.5 ⋅ IQR ), maximum
+(at most Q 3 + 1.5 ⋅ IQR ), and
+outliers. We use Kendall rank correlation coefficients to describe the
+relationship between non-normally distributed variables (i.e., final size - duration,
+final size - peak size).

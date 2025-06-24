@@ -1,0 +1,27 @@
+REAGENT or RESOURCE SOURCE IDENTIFIER Antibodies anti MTCO1 Abcam Cat
+# Ab14705 anti E-cadherin Abcam Cat # Ab231303 Goat anti
+mouse-HRP Jackson ImmunoResearch Cat # 115-035-062 Goat anti mouse-Alexa Fluor
+488 Abcam Cat # Ab150113 rabbit anti MUC2 D1 polyclonal
+produced for this study RRID:AB_2924251 Chemicals, peptides, and recombinant proteins
+kifunensine Cayman Chemicals Cat # 10,009,437 EndoH New England Biolabs
+Cat # P0702S L-ascorbic acid Sigma Cat # A0278 Quercitin
+Sigma Cat # Q4951 pcDNA3.1-MUC2 D1 this study Addgene ID
+181812 pcDNA3.1-MUC2 D1 with cleavable His tag this study Addgene
+ID 181813 pcDNA3.1-MUC2 D1D2D′ with cleavable His tag this study
+Addgene ID 187993 pcDNA3.1-MUC2 D1D2D′D3 with cleavable His tag this
+study Addgene ID 187994 pcDNA3.1-Muc5b D1 (murine) with cleavable His
+tag this study Addgene ID 181814 Tobacco Etch Virus Protease
+produced in house N/A Deposited Data MUC2 D1 with bound
+Cu 2+ PDB PDB:7PRL Experimental models: Cell lines Caco-2 Laboratory
+of Prof. Benjamin Geiger ATCC HTB-37 Software and algorithms Pymol
+DeLano (2002) 9. DeLano, W.L. Pymol: An open-source molecular graphics
+tool CCP4 Newsletter on Protein Crystallography. 2002; 40 :82-92 Google
+Scholar https://pymol.org/2/ Coot Elmsley et al. (2010) 12. Emsley, P.
+∙ Lohkamp, B. ∙ Scott, W.G. ... Features and development
+of Coot Acta Crystallogr. D. 2010; 66 :486-501 Crossref Scopus
+(20200) PubMed Google Scholar https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/ Phenix Adams et al. (2010)
+2. Adams, P.D. ∙ Afonine, P.V. ∙ Bunkóczi, G. ...
+PHENIX: a comprehensive Python-based system for macromolecular structure solution Acta
+Crystallogr. D. 2010; 66 :213-221 Crossref Scopus (18485) PubMed Google
+Scholar https://www.phenix-online.org / EXAFSPAK George GN. https://www-ssrl.slac.stanford.edu/exafspak.html EXCURVE Tomic S.
+https://software.pan-data.eu/software/85/dl-excurv-formerly-excurve Open table in a new tab

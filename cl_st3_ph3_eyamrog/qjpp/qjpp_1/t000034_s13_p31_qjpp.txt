@@ -1,0 +1,5 @@
+First, future research should measure dimensions and characteristics of cash-transfer
+programs (e.g., duration, conditionality) to inform program design and implementation
+and thereby to improve health. These measures may be available
+in administrative and experimental data. Population-based health surveys provided little
+accurate information on program participation or benefits received.

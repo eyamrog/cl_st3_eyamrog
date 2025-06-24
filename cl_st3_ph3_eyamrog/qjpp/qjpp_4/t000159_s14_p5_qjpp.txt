@@ -1,0 +1,15 @@
+Weight (kilograms, kg) and body fat were measured using the
+Tanita SC-240 digital scale (Tanita Corporation, Arlington Heights, IL). Maximal
+aerobic fitness level (VO 2max ) was measured on a
+treadmill using open-circuit spirometry (Parvo-medics TrueOne 2400, Sandy, UT). Participants
+began walking at 3.5 miles per hour (mph), 0% incline.
+After 2 min (min), speed increased to 5.5 mph. Speed
+increased by 1.0 mph every 2 min until maximum speed
+(7.5 mph for women; 8.5 mph for men). Incline then
+increased by 2.5% every 2 min. The test ended when
+the participant reached volitional fatigue. At least two of the
+following criteria had to be met for a valid VO
+2max test: respiratory exchange ratio ≥ 1.1, heart rate ≥
+85% of age-predicted maximum heart rate, plateau in VO 2
+(defined as change of no more than 150 mL/min VO
+2 with increasing work).

@@ -1,0 +1,13 @@
+As this table indicates, the majority of the comments in
+our corpus represent the experiences and perspectives of patients who
+have received under one year of treatment (128,804 comments), with
+this group providing over twice as many comments as patients
+who received between 1 and 5 years of treatment (59,577
+comments). Meanwhile, we have the smallest amount of data for
+patients who received over 5 years of treatment at the
+time they gave feedback (16,390 comments). Despite these differences, the
+length of time a patient spends in treatment does not
+appear to strongly influence the length of the feedback they
+provide, which reduced slightly the longer patients received treatment, but
+only by an average of a couple of words between
+each category.

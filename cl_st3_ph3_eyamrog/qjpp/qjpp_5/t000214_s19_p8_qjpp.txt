@@ -1,0 +1,15 @@
+Overall, we observed 10 matches for PB using a 7-day
+match window. This exceeded the maximum number of matches observed
+by chance in the simulation (9; Fig. 4 ), corresponding
+to a one-tailed p -value of <0.001. When repeating the
+simulation using a 9-day window, we obtained 10 or more
+matches only 1/1000 times ( p = 0.001; SOM Fig.
+S1 ). Download: Download high-res image (201KB) Download: Download full-size
+image Figure 4 . Number of matches between events and
+accentuated lines in the three mandrills for simulated vs. observed
+line formation ages. The distributions show the results of 1000
+simulations, while the vertical red lines mark the observed number
+of matches in each animal, when using a 7-day matching
+window. (For interpretation of the references to color in this
+figure legend, the reader is referred to the Web version
+of this article.)

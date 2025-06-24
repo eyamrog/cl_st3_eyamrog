@@ -1,0 +1,14 @@
+In English, relative clauses ( rc ) follow head noun
+phrases ( np ) to restrict and modify them. In
+contrast, rc s in Chinese precede head np s due
+to a lack of relative pronouns. They are connected by
+‘DE’ as the signalling word. Therefore, noun modifiers in Chinese
+precede head np s and rc s and other modifiers
+have word order variation, which differ in various contexts. Determiner
+phrases ( dp ) studied in this paper are composed
+of structures including ‘demonstrative + classifier’, ‘numeral + classifier’ and
+other quantifiers. Examples are zhè gè (‘this’), jǐ zhāng (‘several’)
+and yī xiē (‘some’). dp s can be used as
+the modifiers of head np s, and can indicate the
+referent and the quantity. Examples are: zhè fēng xìn (‘this
+letter’) and zhè běn shū (‘this book’).

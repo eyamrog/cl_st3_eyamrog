@@ -1,0 +1,11 @@
+R statistical software furnished much of the means for data
+processing and analysis in the work presented here. Specifically, the
+R packages rgdal, INLA, and fillmap were necessary for spatial
+data processing, statistical modeling , and spatial plotting respectively (
+Bivand et al., 2019 ; Blangiardo et al., 2013 ;
+Carroll, 2016 ; Carroll et al., 2015 ; Martins et
+al., 2013 ; R Core Team, 2015 ; Rue et
+al., 2009 ; Schrödle and Held, 2011 , 2010 ;
+Ugarte et al., 2014 ). Code for the data extraction
+and manipulation, statistical models, and other applications of this work
+are available at this GitHub repository .

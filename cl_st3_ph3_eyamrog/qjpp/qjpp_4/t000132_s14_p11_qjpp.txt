@@ -1,0 +1,17 @@
+To compare thermal stabilization upon Cu binding by WT MUC2
+segments and mutants, as well as by Muc5b, DSF was
+performed using a Prometheus NT.48 (NanoTemper) instrument. Proteins were used
+at a concentration of 5, 7.5, or 12 μM, as
+indicated in the figure legends. All metals were supplied at
+a 1:1 M ratio to protein. When present, ascorbic acid
+was added at a 20:1 M ratio to protein. Buffer
+was either 50 mM 2-(N-morpholino)ethanesulfonic acid (MES) buffer, pH 5.7,
+100 mM NaCl, 0.05% Tween 20 or 50 mM MOPS
+buffer, pH 7.0, 100 mM NaCl, 0.05% Tween 20. Metals
+were supplied as: Cu, copper sulfate; Zn, zinc chloride; Ca,
+calcium chloride; Co, cobalt chloride; Ni, nickel sulfate; Fe, iron
+sulfate; Mn, manganese chloride; Hg, mercury chloride; Cd, cadmium acetate,
+Pb, lead chloride; As, sodium arsenite. Samples were heated from
+25°C to 95°C at 1°C/min. Tryptophan and tyrosine fluorescence was
+monitored by recording the 350/330 nm emission ratio after excitation
+at 280 nm.

@@ -1,0 +1,22 @@
+Finally, we perform regression analyses to study model behavior in
+a multivariate manner. We realize that significance tests do not
+have the conventional interpretation because we do not have a
+usual sample. Tests should be interpreted more descriptively and are
+used to find the best fitting models given the sample
+of model parameters drawn (cf. Buskens and Yamaguchi, 1999 ;
+Buskens and Snijders, 2016 ). We use models to linearly
+approximate the logit of final size by combinations of the
+independent variables, since final size describes the percentage of a
+binary response (infected/not infected) ( Long, 1997 ). We use
+linear models for duration, peak size, and number of network
+changes. We first create models for each dependent variable and
+the main effects for all standardized independent variables. Second, we
+create interaction effects starting from all possible interactions. We then
+remove all effects that are not significant at p <
+0.001 or do not contribute to reduce unexplained variance at
+R 2 ≥ 0.001. For highly collinear parameters (e.g., clustering
+and path length) we select parameters to minimize collinearity ,
+while maximizing R 2 . We use an inductive approach
+rather than testing theoretically informed interaction effects to get a
+more complete picture of the model behavior and not to
+miss potentially counterintuitive interactions.

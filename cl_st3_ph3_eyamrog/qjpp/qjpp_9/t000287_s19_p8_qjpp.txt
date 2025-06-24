@@ -1,0 +1,24 @@
+Given that we can see from Pillai scores alone that
+the start and north vowels separated, the next issue to
+consider is which vowel(s) changed in which way(s) in order
+to do so. I begin by considering the three non-high
+back pre-rhotic vowels within the informal conversation data. Figure 6
+shows a loess regression of F1 of each vowel by
+speaker age. As seen, the start vowel had reached a
+similar height to that of north before the oldest speaker
+included in the sample was born, and it did not
+appear to change much over the following century. The force
+vowel is similar, showing raising in the early twentieth century
+before remaining roughly stable over the remainder of the century.
+It is unclear whether the early raising reflects an actual
+change or oversensitivity to limited data. In any case, the
+north vowel stands in contrast to both start and force
+. This vowel began the twentieth century overlapping with start
+in F1 (indicated by the non-separation of error bars) and
+raised in the mid-twentieth century to approach force . Visual
+inspection thus indicates that the reversal of the start -
+north merger, and movement toward a potential merger of north
+and force , was due at least in part to
+raising of the north vowel. Open in Viewer Figure 6
+. Change in F1 of Non-high Back Pre-rhotic System in
+St. Louis

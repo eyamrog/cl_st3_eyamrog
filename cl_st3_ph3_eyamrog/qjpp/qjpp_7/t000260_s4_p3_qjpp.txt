@@ -1,0 +1,8 @@
+First, using available data regarding relevant SDs and also the
+data regarding the contagion dynamics of COVID-19 across countries, it
+is possible to more closely quantify the effects of the
+various SDs. This would contribute towards: (i) having a better
+understanding of the importance of SDs with regards to infections
+and deaths (ii) estimating the economic benefits of improving relevant
+SDs and (iii) running policy simulations using the SEC model
+to analyse the health effects of different policies.

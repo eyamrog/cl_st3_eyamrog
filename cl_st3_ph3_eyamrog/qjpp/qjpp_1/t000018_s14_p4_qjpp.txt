@@ -1,0 +1,11 @@
+Primary stromal cell lines were expanded by plating the single-cell
+suspension of tissue digests onto plastic cell culture vessels and
+expanding the adherent fraction in RPMI 1640 (with 20% fetal
+calf serum (FCS), antibiotics, 5 mM HEPES) (Sigma). Primary cell
+lines were used for assays between passage numbers 7 and
+15. For the production of conditioned medium, sorted cell populations
+were plated at 1,000,000 cells ml in cell culture dishes
+with RPMI 1640 containing 5% FCS (Life Technologies), antibiotics and
+5 mM HEPES for 16 h. Next, supernatants were aspirated,
+spun down to remove cells and frozen at −80 °C
+until further use.

@@ -1,0 +1,15 @@
+To assess tibial cross-sectional shape and thickness and, in turn,
+evaluate tibial robusticity and rigidity, a set of cross-sectional parameters
+was measured on the specimens: total subperiosteal area (TA); cortical
+subperiosteal area (CA, a measure of resistance to axial loads,
+Ruff et al., 1993 ); maximum (Imax), and minimum (Imin)
+second moments of area (to assess bending rigidity in the
+reference planes); polar second moment of area (J, an indication
+of resistance to torsion and a general reflection of overall
+rigidity); and section moduli at bone midshaft (to measure the
+bending and torsional strength; where Zp represents the cross-sectional torsional
+strength). Because of the difficulties in orienting incomplete specimens with
+confidence, only TA and CA, Imax, Imin, and J, were
+considered for the analysis of Boxgrove 1. Cortical area relative
+to TA (%CA) was used as a proxy for diaphyseal
+robusticity. Diaphyseal shape was examined using Imax and Imin.

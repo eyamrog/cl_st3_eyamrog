@@ -1,0 +1,22 @@
+For combined single-cell RNA-seq and TCR-seq assays (10x Genomics), a
+maximum of 60,000 virus-reactive memory CD4 + T cells from
+up to 8 donors were pooled by sorting into low
+retention 1.5 mL collection tubes, containing 500 μl of a
+1:1 solution of PBS:FBS supplemented with recombinant RNase inhibitor (1:100,
+Takara). For healthy donors, when possible, equal numbers of cells
+were isolated from each donor and pooled before 10x Genomics
+single-cell RNA-seq experiments. For analysis of FLU-reactive CD4 + T
+cell responses, we sequenced paired pre- and post-vaccination samples from
+4 donors and supplemented this with 2 non-paired samples for
+both pre- and post-vaccination. Samples from both pre- and post-vaccination
+were pooled for analysis of FLU-reactive CD4 + T cells.
+Following sorting, ice-cold PBS was added to make up to
+a volume of 1400 μl. Cells were then centrifuged for
+5 min (600 g at 4 °C) and the supernatant
+was carefully removed leaving 5 to 10 μl. 25 μl
+of resuspension buffer (0.22 μm filtered ice-cold PBS supplemented with
+ultra-pure bovine serum albumin; 0.04%, Sigma-Aldrich) was added to the
+tube and the pellet was gently but thoroughly resuspended. Following
+careful mixing, 33 μl of the cell suspension was transferred
+to a PCR-tube for processing as per the manufacturer’s instructions
+(10x Genomics).

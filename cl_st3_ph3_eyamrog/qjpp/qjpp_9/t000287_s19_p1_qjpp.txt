@@ -1,0 +1,12 @@
+Understanding the implementation of the start - north reversal in
+St. Louis involves three elements. The first consideration is whether
+the overlap in the vowels constituted a complete merger or
+not: is there any way to distinguish the vowels even
+among speakers with a large amount of overlap? The second
+and third considerations both concern potential effects of dialect contact.
+The second consideration is to identify the phonetic path of
+the reversal: in tracing this path, were there frequency and/or
+orthographic effects on production? The third consideration is to determine
+to what extent, if any, the reversal appears to be
+socially motivated. I now explore each of these points in
+turn.

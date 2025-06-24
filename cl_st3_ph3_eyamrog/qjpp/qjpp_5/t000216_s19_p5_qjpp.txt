@@ -1,0 +1,15 @@
+The relationship between regression scores and admixture displayed in Figure
+4 appears to approach a linear or additive relationship, meaning
+that change in shape and increasing Chinese ancestry is relatively
+proportional. This is supported by model comparison, which shows that
+a three-knot B spline model does not fit the data
+significantly better than a simple linear model of shape and
+Chinese ancestry % (adjusted for sex; Table 4 ). Table
+4 . Model comparison (analysis of variance) of three-knot B
+spline and simple additive models for the relationship between shape
+and admixture in the complete sample ( n = 138
+, sex held constant for both variables). Model Residual df
+df RSS SS r 2 F p Additive 135 2+
+0.508 0.000 B spline 130 5 0.489 0.120 0.307 1.038
+0.388 Total 137 0.635 The B-spline model is not a
+significantly better fit than the smaller additive model.

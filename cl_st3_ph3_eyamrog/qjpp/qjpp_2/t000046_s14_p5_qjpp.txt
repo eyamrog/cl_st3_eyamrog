@@ -1,0 +1,8 @@
+We used the 2008–09 New Zealand Nutrition Survey (acquired from
+the University of Otago's Life in New Zealand Research Group
+who conducted the survey) to inform our specification of the
+business-as-usual (BAU) diet, by sex, age, and ethnicity (Māori and
+non-Māori) for 340 food categories. Percentage changes in purchasing were
+assumed to be the same as percentage changes in food
+consumption. BMI change was derived from the change in energy
+intake.

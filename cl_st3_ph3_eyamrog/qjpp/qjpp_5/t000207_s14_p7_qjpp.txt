@@ -1,0 +1,14 @@
+The data were from an observational study rather than from
+a controlled experiment and were collected at a comparatively small
+number of spatially clustered sites. Therefore, we adopted an analytical
+approach that emphasized graphical display of the observations and model-based
+estimation. We propose that site-level effects are of intrinsic interest
+and are worthwhile targets of inference because they capture the
+local environment of capuchins and their predators. Site effects, adjusted
+for camera-specific variation and sampling effort when appropriate, were thus
+the focus of our models. These effects can be interpreted
+subsequently in light of the presence or absence of terrestrial
+predators across our five study sites. We also took a
+more formal approach, averaging effects across sites within the two
+conditions (presence or absence of terrestrial predators) and testing for
+differences at this higher level of organization.

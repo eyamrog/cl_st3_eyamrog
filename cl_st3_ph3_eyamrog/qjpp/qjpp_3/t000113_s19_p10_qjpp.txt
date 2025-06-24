@@ -1,0 +1,23 @@
+A common feature of hippocampal place fields is that they
+are not static, but rather can flexibly remap in response
+to perturbations of the environment. For example, hippocampal neurons can
+completely shift their preferred firing location in response to changes
+in one or more features associated with space, or when
+the location of reward within an environment changes ( Anderson
+and Jeffery, 2003 2. Anderson, M.I. ∙ Jeffery, K.J. Heterogeneous
+modulation of place cell firing by changes in context J.
+Neurosci. 2003; 23 :8827-8835 Crossref PubMed Google Scholar ; Fyhn
+et al., 2007 22. Fyhn, M. ∙ Hafting, T. ∙
+Treves, A. ... Hippocampal remapping and grid realignment in entorhinal
+cortex Nature. 2007; 446 :190-194 Crossref Scopus (518) PubMed Google
+Scholar ). These changes reverse when the original context is
+restored. We tested if these place cell properties occurred in
+abstract value space by introducing a contextual shift in an
+A-B-A′ block structure using the circular path ( Figure 5
+A). The two A blocks (A and A′) shared a
+common set of pictures, and the B block used a
+novel set of pictures while the underlying trajectory through value
+space was preserved. We hypothesized that the introduction of novel
+pictures in the B block would require a relearning of
+stimulus-outcome associations, and hence, would result in a remapping of
+value place fields.

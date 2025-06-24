@@ -1,0 +1,17 @@
+Variants were produced via site-directed mutagenesis, using a plasmid encoding
+mucin-deleted EBOV GP, and transfected into Drosophila S2 cells (Thermo
+Fisher Scientific). Strep-tag purified, mucin-deleted EBOV GP variants were diluted
+in 0.1 M carbonate–bicarbonate buffer at a concentration of 4
+μg/mL. High-binding 96-well ELISA plates (VWR) were coated with this
+solution and incubated at ambient temperature for 1 h, followed
+by blocking with 3% bovine serum albumin (BSA) (Sigma Aldrich)
+diluted in phosphate-buffered saline (PBS) overnight. Serial dilutions of mAbs
+were applied to the wells and incubated at ambient temperature
+for 1 h. The antibodies were detected using a goat
+anti-human IgG Fc-conjugated secondary antibody diluted 1:5,000 (Thermo Fisher Scientific)
+and 1-Step Ultra TMB substrate (Thermo Fisher Scientific). Color development
+was monitored and quenched with 1 M sulfuric acid (Thermo
+Fisher Scientific). Absorbance was measured at 450 nm using a
+Tecan plate reader (Spark 10M Multimode Plate Reader). EC 50
+values were calculated using Prism 9.0 after using sigmoidal dose-response
+nonlinear regression analysis.

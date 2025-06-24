@@ -1,0 +1,11 @@
+The results from the second GLM (see Table 2 ,
+Model 2) showed that perceived friendship did not significantly vary
+as a function of students’ grade or student-SES. In order
+to examine whether adolescents differed in their reasoning depending on
+their grade and SES, we calculated a MLM (see Table
+3 , Model 1). The results indicated that there were
+no grade-related differences in students’ social reasoning for perceived friendship,
+disconfirming H2b. The reasoning provided differed depending on SES, with
+high-SES participants being more likely to reference social hierarchies over
+similarity than low-SES participants. However, as there was no difference
+for friendship beliefs (i.e., yes/no), H2c was only partially supported.

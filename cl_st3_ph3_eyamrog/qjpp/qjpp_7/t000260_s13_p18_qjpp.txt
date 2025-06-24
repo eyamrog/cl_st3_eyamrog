@@ -1,0 +1,9 @@
+Integrating employment conditions into a compartmental epidemiological model can show
+that higher levels of employment insecurity, informality, and poverty will
+directly impact the efficacy of physical distancing measures. Below, we
+formally express the effects of each of the SDs to
+β and δ through assumptions A1- A6. Then we assume
+functional forms for the infection rate β and the CFR
+δ which satisfy the relevant assumptions from A1-A6. Using the
+specific functional forms, we are able to incorporate the SDs
+into the SIRD model of section 3 .

@@ -1,0 +1,7 @@
+We performed differential expression to associate genes with inflammation status
+within each single-cell cluster. We used DESeq2 on the pseudobulk
+samples described above, this time analyzing each cluster separately with
+the design y ~ 1 + InflamStatus . We treated
+InflamStatus as a random effect (DESeq2 parameter βPrior=TRUE) and recovered
+a mean multiplicative offset for each of the three inflammatory
+status categories.

@@ -1,0 +1,10 @@
+Regarding the exclusion restrictions, years are treated as strictly exogenous
+in this study. This means that they are expected to
+influence the outcome variable exclusively (see also Asongu and Odhiambo
+2019c ). Consequently, the study uses the Difference in Hansen
+Test (DHT) to test the validity of the exclusion restriction
+(see Asongu and Nwachukwu 2016 ). In accordance with this
+test, the alternative hypothesis must be rejected in order for
+the instruments to explain the dependent variable exclusively via suspected
+endogenous variables (see Odhiambo 2020 ; Tchamyou 2020 ; Tchamyou
+and Asongu 2017 ).

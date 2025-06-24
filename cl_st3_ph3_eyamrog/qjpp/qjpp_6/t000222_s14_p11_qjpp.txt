@@ -1,0 +1,11 @@
+All data were measured by the first author (H.H.). Intraobserver
+error was assessed through three repeated measurements of one random
+specimen per species ( H. sapiens : ULAC 769, P.
+troglodytes : SMF 361, P. paniscus : RMCA RG 29065,
+G. gorilla : AMNH A-99/9687, G. beringei : RMCA RG
+10051), with a measurement interval ranging from three months to
+more than one year. Procrustes distances between repeated measurements were
+considerably smaller than the smallest Procrustes distance between all possible
+specimen pairs of the same species ( SOM Table S2
+). Based on these results, we concluded that intraobserver error
+does not meaningfully affect our results.

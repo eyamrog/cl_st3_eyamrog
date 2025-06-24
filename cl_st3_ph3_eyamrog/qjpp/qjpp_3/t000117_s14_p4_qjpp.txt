@@ -1,0 +1,10 @@
+The Fezf2-CreER knock-in ( Matho et al., 2021 48. Matho,
+K.S. ∙ Huilgol, D. ∙ Galbavy, W. ... Genetic dissection
+of the glutamatergic neuron system in cerebral cortex Nature. 2021;
+598 :182-187 Crossref Scopus (62) PubMed Google Scholar ) and
+H2B-GFP ( Rosa26-stop flox -H2B-GFP ) reporter ( He et
+al., 2012 30. He, M. ∙ Liu, Y. ∙ Wang,
+X. ... Cell-type-based analysis of microRNA profiles in the mouse
+brain Neuron. 2012; 73 :35-48 Full Text Full Text (PDF)
+Scopus (203) PubMed Google Scholar ) mouse lines were generated
+by Z. Josh Huang’s lab at CSHL.

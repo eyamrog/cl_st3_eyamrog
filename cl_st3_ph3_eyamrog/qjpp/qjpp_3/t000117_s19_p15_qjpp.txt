@@ -1,0 +1,19 @@
+Next, to determine the causal relationship between aIC Fezf2 neurons
+and motivational actions, we sought to specifically inhibit these neurons
+during anticipation with optogenetics ( Figures 2 H–2Q). For this
+purpose, we expressed a light-sensitive neuronal inhibitor GtACR2 ( Govorunova
+et al., 2015 26. Govorunova, E.G. ∙ Sineshchekov, O.A. ∙
+Janz, R. ... NEUROSCIENCE. Natural light-gated anion channels: A family
+of microbial rhodopsins for advanced optogenetics Science. 2015; 349 :647-650
+Crossref Scopus (464) PubMed Google Scholar ; Mahn et al.,
+2018 46. Mahn, M. ∙ Gibor, L. ∙ Patil, P.
+... High-efficiency optogenetic silencing with soma-targeted anion-conducting channelrhodopsins Nat. Commun.
+2018; 9 :4125 Crossref Scopus (133) PubMed Google Scholar ),
+or mCherry (as a control), selectively in aIC Fezf2 neurons
+and implanted optical fibers above the infected areas for light
+delivery ( Figures 2 H and 2I). These mice were
+subsequently trained in the go/no-go task ( Figure 2 A).
+At the late stage of training, we delivered blue light
+into the aIC during the time window between CS onset
+and US onset, in randomly selected trials ( Figures 2
+J–2L).

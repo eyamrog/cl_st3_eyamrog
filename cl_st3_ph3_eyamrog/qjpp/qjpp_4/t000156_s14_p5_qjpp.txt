@@ -1,0 +1,8 @@
+For the historical series, we calculated means, medians, standard deviations,
+percentile distributions, and significance for dynamometric measurements of both hands,
+in correlation with age and with height categories. To verify
+any possible differences in dynamometric values among the three cohorts
+as well as from the contrast with contemporary series, previous
+Kolmogorov–Smirnov normality tests were run, and later the Kruskal–Wallis test
+for k independent samples or Mann–Whitney U test for just
+two samples. Statistical analyses were performed using SPSS 24.0.

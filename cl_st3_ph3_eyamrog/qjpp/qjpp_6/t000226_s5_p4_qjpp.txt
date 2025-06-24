@@ -1,0 +1,12 @@
+Even though activity is eliminated from the BEE measurements, GMV
+in activity might still have an indirect role to play
+in generating GMV in BEE due to training effects. For
+example, regular exercise is known to increase heart size, mitochondrial
+count, and blood volume ( McArdle et al., 2015 ),
+decrease levels of certain hormones and cytokines ( Node et
+al., 2010 ; Silverman and Deuster, 2014 ; Pontzer, 2018
+), and improve mitochondrial oxidative capacity ( Cardinale et al.,
+2018 ). One possibility, then, is that males have evolved
+to exhibit considerably more interindividual variation in AEE than have
+females, and that this drives greater variability in both BEE
+and TEE.

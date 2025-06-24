@@ -1,0 +1,18 @@
+To determine whether the maternal genome can provide a repair
+template for the paternal genome, we performed ICSI with Cas9
+RNP in nucleated oocytes ( Figure 2 E). We first
+controlled for accuracy of genotyping in zygotes with both alleles
+by amplifying single cells from embryos (n = 3) and
+single ESCs (n = 4) containing both genomes without exposure
+to Cas9. All cells showed heterozygosity at the mutation site
+and at rs66502009, demonstrating that both alleles were reliably detected
+( Table S1 ). We next analyzed 2PN zygotes 20
+h after fertilization/Cas9 RNP injection. Of three zygotes, two showed
+only maternal alleles at the mutation site as well as
+at flanking SNPs within a ∼22 kb window on either
+side ( Figure 2 F), whereas one showed an edited
+paternal allele ( Figure 2 G; Table S1 ). To
+account for the possibility of allele dropout in Sanger sequencing,
+on-target NGS showed no significant reads of either the paternal
+mutation or the flanking paternal SNP at rs66502009 ( Table
+S2 ).

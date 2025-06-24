@@ -1,0 +1,13 @@
+Results of the regression analysis are shown in Table 2
+. The association between min of MVPA/day and AdjBW was
+not strong ( p = .09). VO 2max was the
+largest predictor of time spent in MVPA/day, followed by age.
+Among the “younger” age group (18–21 years old, N =
+42), time spent in MVPA/day significantly increased by 7.0 min
+for each unit increase in AdjBW ( p = .02),
+which represented 15.3% of the variation in MVPA. Among the
+“older” group (22–40 years old, N = 33), time spent
+in MVPA/day significantly decreased by 10.8 min for each unit
+increase in AdjBW ( p = .02), explaining 18.7% of
+the variation in MVPA. Full results of this separate regression
+analysis are available in Tables S1 and S2 , respectively.

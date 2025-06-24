@@ -1,0 +1,15 @@
+The intensity of male aggression around the time of a
+takeover was scored on five levels: 0 = none; 1
+= visual threats only (stare threats, eyebrow raises); 2 =
+minor aggression (chasing, grabbing); 3 = moderate aggression (hitting, pushing);
+4 = severe aggression (neckbiting, biting on the back, holding
+in a possession grip). We calculated two aggression intensity scores
+for each leader male combining data from all his takeovers:
+average aggression intensity toward the female and average aggression intensity
+toward other males. The average aggression intensity score for aggression
+toward other males was calculated as the sum of toward-male
+aggression intensities divided by the total number of takeovers for
+which toward-male aggression data were available. Similarly, the average aggression
+intensity score for aggression toward females was calculated as the
+sum of toward-female aggression intensities divided by the total number
+of takeovers for which toward-female aggression data were available.

@@ -1,0 +1,14 @@
+To facilitate comparisons between sedaDNA and pollen diversity and relate
+these to plant-use information, we reduced the sedaDNA data set
+from MOTUs to species and genera, summing the different MOTUs
+of the same species or genus together. This reduced data
+set was used to determine the taxonomic richness and the
+inverse Simpson index using Hill numbers (q = 0 and
+q = 2) with the hill_taxa function of the ‘HillR’
+package v. 0.5.1 ( Li, 2018 ). We used the
+nonparametric Mann–Whitney–Wilcoxon test to identify differences in plant diversity among
+archaeological horizons, available under the function wilcox_test from the ‘rstatix’
+package v. 0.7.0 ( Kassambara, 2021 ) with standard settings,
+including a Holm correction of p -values ( Holm, 1979
+). We applied a significance level of α = 0.05
+for all statistical tests.

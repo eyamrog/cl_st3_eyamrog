@@ -1,0 +1,11 @@
+We principally demonstrated that compared to lungs, bones are more
+capable of promoting secondary metastasis. However, further studies will be
+required to determine whether other organs, such as liver and
+lymph nodes, might also exert similar effects on metastatic spread.
+We postulate that two factors may regulate an organ’s capacity
+to promote secondary metastases. First, the initial wave of organotropic
+metastasis will pose a selection of metastatic seeds that arrive
+and survive in a specific organ. Second, the subsequent interactions
+with resident cells will induce adaptive epigenetic changes on top
+of the genetic selection, which together dictate whether the metastatic
+journey may extend to other organs.

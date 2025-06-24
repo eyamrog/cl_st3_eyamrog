@@ -1,0 +1,19 @@
+We aimed to lower the entry barrier to medical AI
+development by providing access to a large, curated dataset, typically
+attainable only through large research consortia, and by organizing this
+competition to facilitate joint development with experience sharing among the
+teams. The results show that the publication of such datasets
+can lead to rapid development of high-performing AI algorithms. Dissemination
+and fast iteration of new ideas resulted in the first
+team achieving pathologist-level performance in the first 10 days of
+the challenge (Fig. 2 ). These results show the important
+role data play in the development of medical AI algorithms,
+given the short lead-time of top-performing solutions by various teams.
+At the same time, often raised criticisms of medical AI
+challenges are the lack of detailed reporting, and limited interpretation
+and reproducibility of results . Typically algorithms are evaluated only
+on internal competition data and by participants themselves, which introduces
+a risk of overfitting and reduced likelihood of reproducibility. We
+addressed these limitations in our challenge design by using preregistration,
+blinded evaluation, full reproduction of algorithm results, independent validation of
+algorithms on external data and comparison with pathologists.

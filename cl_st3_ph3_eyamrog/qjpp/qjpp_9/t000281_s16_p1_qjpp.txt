@@ -1,0 +1,14 @@
+The present study is corpus-based. 2 The PENN collection (PCME2
+[ 1150-1500], PPCMBE [ 1500-1720], and PPCMBE [ 1700-1911]), the
+ARCHER corpus (1700-1970), and the British National Corpus (BNC) (1960s-1990s)
+were used as the main data sources for the analysis.
+ARCHER includes American English texts; for this paper, however, only
+British English data were considered. Other collections and individual works
+(e.g., the Early English Books Online [ EEBO] corpus, 3
+Mandeville’s travels and Celia Fiennes’ travelogue:) were also consulted to
+confirm the robustness of the observed patterns. Middle English was
+taken as the starting point for the analysis, as previous
+sources have consistently noted that complex premodifying strings (i.e., strings
+with two or more adjectives; e.g., “a big black car”)
+do not appear in English until this period ( Fischer
+2006 ; Fischer & Van der Wurff 2006 ).

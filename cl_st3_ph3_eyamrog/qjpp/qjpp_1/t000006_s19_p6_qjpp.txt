@@ -1,0 +1,11 @@
+Although tissue was available in all but one of the
+enrolled patients, plasma collected (before panitumumab rechallenge within the CHRONOS
+trial) was sometimes limited, as it was used primarily for
+the screening ddPCR assays required to enroll patients in the
+trial. In most cases (18/27), there was sufficient ctDNA left
+to also perform high-sensitivity NGS panel analysis on plasma before
+rechallenge. Interestingly, this analysis revealed, in a subset of the
+patients, the presence of MAP2K1 , PTEN , SMAD4 and
+PIK3CA mutations previously associated with resistance to EGFR blockade and
+that were not captured by the ddPCR assay (Supplementary Table
+2 ).

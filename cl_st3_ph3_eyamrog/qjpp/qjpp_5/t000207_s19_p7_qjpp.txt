@@ -1,0 +1,9 @@
+The model estimates ( Fig. 3 B) echo the empirical
+record of party size, with means slightly higher for Coiba
+and Jicaron than for GP and BCI. The credibility interval
+for SNP (having only 5 detection events) is wide compared
+with the other sites, and so, this site effect should
+be interpreted with caution. Across all sites, most observations consisted
+of one or two individuals. Thus, there is little evidence
+that mean party size varies with the presence or absence
+of predators.

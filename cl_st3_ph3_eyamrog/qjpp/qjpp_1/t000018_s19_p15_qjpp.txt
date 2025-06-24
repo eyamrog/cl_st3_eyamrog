@@ -1,0 +1,25 @@
+Since we did not observe a change in stromal cell
+numbers in M4/M5-high tissues (Fig. 3d,g ), we hypothesized that
+the detected stromal signatures could have arisen from altered activation
+states (including the upregulation of PDPN). We applied scRNA-seq to
+EPCAM CD45 intestinal stromal cells from endoscopic biopsies of inflamed
+tissue from patients with UC ( n = 7) and
+tissue from healthy donors ( n = 4) (see Extended
+Data Fig. 6 for patient cohort details), and compared tissues
+with low, intermediate and high M4/M5 expression (Fig. 4a,b and
+Extended Data Fig. 7a ). As expected, tissues from all
+healthy donors were M4/M5 low, as well as the tissue
+from one patient with IBD who had a low histologic
+inflammation score (Nancy score = 1). We integrated all single-cell
+datasets, accounting for interpatient and technical batch effects , and
+identified six stromal clusters. These were assigned to endothelial cells
+( ACKR1 CD34 ), pericytes ( NOTCH3 MCAM ), myofibroblasts
+( MYH11 ACTG2 ) and three clusters of fibroblasts: PDGFRA
+PDPN SOX6 (PDGFRA ) fibroblasts, PDGFRA PDPN ABCA8 (ABCA8 )
+fibroblasts and CD90 PDPN PDGFRA ABCA8 FAP ‘inflammatory’ fibroblasts, based
+on the top differentially expressed markers and previously described annotations
+(Fig. 4c and Supplementary Table 6 ). PDPN was expressed
+by myofibroblasts and all three fibroblast clusters, with the highest
+expression found in inflammatory fibroblasts. THY1 (CD90) was highly expressed
+in pericytes and inflammatory fibroblasts, but at lower levels in
+ABCA8 fibroblasts (Fig. 4c ).
