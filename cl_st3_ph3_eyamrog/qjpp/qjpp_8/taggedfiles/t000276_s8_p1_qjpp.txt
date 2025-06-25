@@ -1,0 +1,23 @@
+The ^ati++++=The
+present ^jj+atrb+++=present
+article ^nn++++=article
+looks ^nns++++=looks
+at ^rb++++=at
+different ^jj+atrb+++=different
+patterns ^nns++++=patterns
+of ^in++++=of
+adjectival ^jj+atrb+++=adjectival
+postmodification ^nn+nom+++=postmodification
+in ^in++++=in
+Old ^jj++++=Old
+English ^jj++++=English
+ ^zz++++=(OE),
+Oe ^np++++=EXTRAWORD
+	 ^zz++++=EXTRAWORD
+ ^zz++++=EXTRAWORD
+As ^in++++=as
+Illustrated ^nn++++=illustrated
+In ^in++++=in
+ ^zz++++=(1)-(3).
+) ^np++++=EXTRAWORD
+(3). ^nn++++=EXTRAWORD

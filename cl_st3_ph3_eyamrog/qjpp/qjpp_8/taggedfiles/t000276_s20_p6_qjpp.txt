@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Table ^nn++++=Table
+2 ^zz++++=2
+presents ^vbz++++=presents
+the ^ati++++=the
+semantic ^jj+atrb+++=semantic
+properties ^nns++++=properties
+of ^in++++=of
+the ^ati++++=the
+postnominal ^jj+atrb+++=postnominal
+adjectives ^nns++++=adjectives
+in ^in++++=in
+the ^ati++++=the
+three ^cd++++=three
+patterns ^nns++++=patterns
+investigated ^vwbn+++xvbn+=investigated.
+. ^zz++++=EXTRAWORD

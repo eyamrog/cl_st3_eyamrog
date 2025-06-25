@@ -1,0 +1,17 @@
+11 ^cd++++=11)
+) ^zz++++=EXTRAWORD
+Follow ^vb+vprv+++=Follow-up
+- ^zz++++=EXTRAWORD
+up ^rp++++=EXTRAWORD
+care ^vb++++=care
+to ^to+vcmp+++=to
+check ^vbi+vprv+++=check
+if ^cs+cnd+++=if
+the ^ati++++=the
+cancer ^nn++++=cancer
+has ^vbz+hvz+aux++=has
+returned ^vprf+++xvbn+=returned
+have ^vb+hv+aux++=have
+been ^vprf+ben+vrb+xvbn+=been
+excellent ^jj+pred+++=excellent.
+. ^zz++++=EXTRAWORD

@@ -1,0 +1,17 @@
+All ^abn++++=All
+analyses ^nns++++=analyses
+were ^vbd+bed+aux++=were
+done ^vpsv++agls+xvbnx+=done
+with ^in++++=with
+Sas ^np+++??+=SAS
+9.4 ^cd++++=9.4,
+, ^zz++++=EXTRAWORD
+and ^cc+cls+++=and
+the ^ati++++=the
+maps ^nns++++=maps
+were ^vbd+bed+aux++=were
+constructed ^vpsv++agls+xvbn+=constructed
+with ^in++++=with
+r ^zz++++=R
+3.4.1 ^cd++++=3.4.1.
+. ^zz++++=EXTRAWORD

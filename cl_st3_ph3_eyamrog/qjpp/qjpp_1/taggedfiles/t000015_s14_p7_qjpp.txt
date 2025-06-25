@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+All ^abn++++=All
+primer ^nn++++=primer
+sequences ^nns+nom+++=sequences
+used ^vwbn+++xvbn+=used
+for ^in++++=for
+genotyping ^nn++++=genotyping
+are ^vb+ber+aux++=are
+listed ^vwbn+++xvbn+=listed
+in ^in++++=in
+supplementary ^jj+atrb+++=Supplementary
+table ^nn++++=Table
+1 ^zz++++=1
+. ^zz++++=.

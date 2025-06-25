@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+I ^pp1a+pp1+++=I
+thank ^vb++++=thank
+Robert ^np++++=Robert
+Ralston ^np+++??+=Ralston
+and ^cc++++=and
+Jason ^np+++??+=Jason
+Reifler ^np+++??+=Reifler
+For ^in++++=for
+Their ^pp$+pp3+++=their
+Feedback ^nn++++=feedback
+And ^cc++++=and
+Support ^nn++++=support
+On ^in++++=on
+This ^dt+dem+++=this
+Project ^nn++++=project.
+ ^zz++++=EXTRAWORD

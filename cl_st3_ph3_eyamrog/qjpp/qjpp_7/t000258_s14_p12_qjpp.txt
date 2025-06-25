@@ -14,8 +14,5 @@ the average treatment effect conditional on the covariates (Xi =
 x) for the whole sample will be E[ Y i
 ( 1 ) − Y i ( 0 ) |
 X i = x ] while the specific average treatment
-effect of the treated (ATT) will be defined as E[{[
-Y i ( 1 ) | X i = x
-, T = 1 ] –[ Y i ( 0
-) | X i = x , T = 0
-]}| T = 1] ( Imbens 2004 , 2015 ).
+effect of the treated (ATT) will be defined as 
+A ( Imbens 2004 , 2015 ).

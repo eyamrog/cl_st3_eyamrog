@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Finally ^rb+cnj+++=Finally,
+, ^zz++++=EXTRAWORD
+650 ^cd++++=650
+tweets ^nns+++??+=tweets
+were ^vbd+bed+aux++=were
+excluded ^vpsv++agls+xvbn+=excluded
+because ^cs+cos+++=because
+i ^pp1a+pp1+++=I
+could ^md+pos+++=could
+not ^xnot++not++=not
+interpret ^vb++++=interpret
+them ^pp3o+pp3+++=them.
+. ^zz++++=EXTRAWORD
