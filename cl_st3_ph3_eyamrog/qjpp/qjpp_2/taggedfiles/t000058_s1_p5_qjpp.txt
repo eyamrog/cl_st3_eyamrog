@@ -1,0 +1,25 @@
+Funding ^np+++??+=Funding:
+: ^zz++++=EXTRAWORD
+Wellcome ^np+++??+=Wellcome
+Trust ^nn++++=Trust,
+, ^zz++++=EXTRAWORD
+Imperial ^jj+atrb+++=Imperial
+College ^npl++++=College
+London ^np++++=London,
+, ^zz++++=EXTRAWORD
+Medical ^jj+atrb+++=Medical
+Research ^nn++++=Research
+Council ^nn++++=Council,
+, ^zz++++=EXTRAWORD
+Health ^nn++++=Health
+Data ^nns++++=Data
+Research ^nn++++=Research
+Uk ^np++++=UK,
+ ^zz++++=EXTRAWORD
+And ^cc+cls+++=and
+National ^jj+atrb+++=National
+Institutes ^nns++++=Institutes
+Of ^in++++=of
+Health ^nn++++=Health
+Research ^nn++++=Research.
+ ^zz++++=EXTRAWORD

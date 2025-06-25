@@ -1,0 +1,17 @@
+Automated ^np+++??+=Automated
+and ^cc++++=and
+manual ^jj+atrb+++=manual
+extraction ^nn+nom+++=extraction
+was ^vbd+bedz+aux++=was
+performed ^vpsv++agls+xvbnx+=performed
+according ^in+cmpx+++=according
+to ^in++++=to
+methods ^nns++++=methods
+described ^vbd+++xvbn+=described
+under ^in++++=under
+general ^npt++++=General
+mcarmen ^vprf+++xvbn+=mCARMEN
+procedures ^nns++++=procedures-Extraction
+- ^zz++++=EXTRAWORD
+extraction ^nn+nom+++=EXTRAWORD
+. ^zz++++=.

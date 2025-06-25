@@ -1,0 +1,61 @@
+The ^ati++++=The
+following ^nvbg+++xvbg+=following
+are ^vb+ber+vrb++=are
+the ^ati++++=the
+institutional ^jj+atrb+++=institutional
+abbreviations ^nns++++=abbreviations:
+: ^zz++++=EXTRAWORD
+Zt ^np+++??+=ZT
+= ^zz++++==
+Zhaotong ^np+++??+=Zhaotong;
+; ^zz++++=EXTRAWORD
+Fsl ^np+++??+=FSL
+= ^zz++++==
+Facult ^np+++??+=Facult
+des ^&fw++++=des
+Sciences ^nns++++=Sciences,
+, ^zz++++=EXTRAWORD
+Universit ^np+++??+=Universit
+de ^&fw++++=de
+Lyon ^np+++??+=Lyon,
+, ^zz++++=EXTRAWORD
+France ^np++++=France;
+; ^zz++++=EXTRAWORD
+Mnhn ^np+++??+=MNHN
+= ^zz++++==
+Institut ^np+++??+=Institut
+de ^&fw++++=de
+Paleontologie ^np+++??+=Paleontologie,
+, ^zz++++=EXTRAWORD
+Mus ^np+++??+=Mus
+um ^uh++++=um
+National ^jj+atrb+++=National
+d ^zz++++=d'Histoire
+'histoire ^nn+++??+=EXTRAWORD
+Naturelle ^np+++??+=Naturelle,
+, ^zz++++=EXTRAWORD
+Paris ^np++++=Paris,
+, ^zz++++=EXTRAWORD
+France ^np++++=France;
+; ^zz++++=EXTRAWORD
+and ^cc+cls+++=and
+Nhm ^np+++??+=NHM-UK
+- ^zz++++=EXTRAWORD
+uk ^np++++=EXTRAWORD
+M ^zz++++=M
+= ^zz++++==
+Palaeontology ^np+++??+=Palaeontology
+Department ^nn++++=Department,
+, ^zz++++=EXTRAWORD
+Natural ^jj+atrb+++=Natural
+History ^nn++++=History
+Museum ^nn++++=Museum,
+ ^zz++++=EXTRAWORD
+London ^np++++=London,
+ ^zz++++=EXTRAWORD
+Uk ^np++++=UK,
+ ^zz++++=EXTRAWORD
+Formerly ^rb+tm+++=formerly
+Bm(nh ^np++++=BM(NH).
+	 ^zz++++=EXTRAWORD
+ ^zz++++=EXTRAWORD

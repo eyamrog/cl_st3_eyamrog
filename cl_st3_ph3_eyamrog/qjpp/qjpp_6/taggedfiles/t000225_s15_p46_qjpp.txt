@@ -1,0 +1,17 @@
+Holotype ^np+++??+=Holotype
+Fragmentary ^jj+atrb+++=Fragmentary
+left ^nn+++xvbn+=left
+mandibular ^jj+atrb+++=mandibular
+branch ^nn++++=branch
+with ^in++++=with
+M ^zz++++=M
+1 ^zz++++=1
+stored ^vpsv++agls+xvbn+=stored
+at ^rb++++=at
+the ^ati++++=the
+museo ^np++++=Museo
+de ^&fw++++=de
+paleontologia ^np++++=Paleontologia
+di ^&fw++++=di
+firenze ^np++++=Firenze.
+. ^zz++++=EXTRAWORD

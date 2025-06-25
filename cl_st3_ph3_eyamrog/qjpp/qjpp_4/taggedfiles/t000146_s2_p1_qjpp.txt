@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+The ^ati++++=The
+authors ^nns++++=authors
+would ^md+prd+++=would
+like ^vb++++=like
+to ^to+vcmp+++=to
+thank ^vbi++++=thank
+all ^abn++++=all
+students ^nns++++=students
+who ^whp+rel+subj++=who
+volunteered ^vbd+++xvbn+=volunteered
+for ^in++++=for
+the ^ati++++=the
+study ^nn++++=study.
+. ^zz++++=EXTRAWORD

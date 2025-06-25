@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Sedimentation ^np+++??+=Sedimentation
+coefficients ^nns++++=coefficients
+were ^vbd+bed+aux++=were
+derived ^vpsv++agls+xvbnx+=derived
+from ^in++++=from
+sedimentation ^nn++++=sedimentation
+velocity ^nn++++=velocity
+data ^nns++++=data
+using ^vbg+++xvbg+=using
+the ^ati++++=the
+van ^&fw++++=van
+holde ^np++++=Holde/Weischet
+analysis ^nn++++=analysis
+module ^nn++++=module

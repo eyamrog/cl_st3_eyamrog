@@ -1,0 +1,24 @@
+Funding ^np+++??+=Funding:
+: ^zz++++=EXTRAWORD
+Economic ^jj+atrb+++=Economic
+and ^cc+phrs+++=and
+Social ^jj+atrb+++=Social
+Research ^nn++++=Research
+Council ^nn++++=Council,
+, ^zz++++=EXTRAWORD
+Agencia ^np+++??+=Agencia
+Nacional ^np+++??+=Nacional
+de ^&fw++++=de
+Investigaci ^np+++??+=Investigaci
+n ^zz++++=n
+y ^zz++++=y
+Desarrollo ^np+++??+=Desarrollo
+ ^zz++++=(Chile),
+Chile ^np++++=EXTRAWORD
+	 ^zz++++=EXTRAWORD
+ ^zz++++=EXTRAWORD
+And ^cc+cls+++=and
+The ^ati++++=the
+Wellcome ^np++++=Wellcome
+Trust ^nn++++=Trust.
+ ^zz++++=EXTRAWORD

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Funding ^np+++??+=Funding:
+: ^zz++++=EXTRAWORD
+Chinese ^jj+atrb+++=Chinese
+Central ^jj+atrb+++=Central
+Government ^nn++++=Government,
+, ^zz++++=EXTRAWORD
+national ^jj+atrb+++=National
+key ^jjb+atrb+++=Key
+research ^nn++++=Research
+and ^cc++++=and
+development ^nn++++=Development
+program ^np++++=Program
+of ^in++++=of
+china ^np++++=China.
+. ^zz++++=EXTRAWORD

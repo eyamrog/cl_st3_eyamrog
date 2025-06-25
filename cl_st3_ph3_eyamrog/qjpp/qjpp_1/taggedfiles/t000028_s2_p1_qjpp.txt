@@ -1,0 +1,21 @@
+The ^ati++++=The
+author ^nn++++=author
+acknowledges ^vbz++++=acknowledges
+the ^ati++++=the
+support ^nn++++=support
+of ^in++++=of
+colleagues ^nns++++=colleagues
+at ^in++++=at
+the ^ati++++=the
+Cuny ^np+++??+=CUNY
+Urban ^jj+atrb+++=Urban
+Food ^nn++++=Food
+Policy ^nn++++=Policy
+Institute ^nn++++=Institute,
+ ^zz++++=EXTRAWORD
+Especially ^rb++++=especially
+Distinguished ^jj+atrb+++=Distinguished
+Professor ^npt++++=Professor
+Nicholas ^np++++=Nicholas
+Freudenberg ^np++++=Freudenberg.
+ ^zz++++=EXTRAWORD

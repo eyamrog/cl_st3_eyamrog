@@ -1,0 +1,17 @@
+A ^at++++=A
+second ^od++++=second
+negative ^jj+atrb+++=negative
+instance ^nn+nom+++=instance
+describes ^vbz++++=describes
+a ^at++++=a
+child ^nn++++=child
+napping ^vwbg+++xvbg+=napping
+for ^in++++=for
+a ^at++++=a
+long ^jj+atrb+++=long
+time ^nn++++=time
+during ^in++++=during
+an ^at++++=an
+unannounced ^jj+atrb+++=unannounced
+visit ^nn++++=visit.
+. ^zz++++=EXTRAWORD

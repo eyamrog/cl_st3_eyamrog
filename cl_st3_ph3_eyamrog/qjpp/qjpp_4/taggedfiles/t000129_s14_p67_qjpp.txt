@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+See ^vb+vprv+++=See
+Table ^nn++++=Table
+S5 ^np+++??+=S5
+for ^in++++=for
+a ^at++++=a
+summary ^nn+nom+++=summary
+of ^in++++=of
+statistical ^jj+atrb+++=statistical
+measurements ^nns+nom+++=measurements
+from ^in++++=from
+fish ^nn++++=FISH
+analyses ^nns++++=analyses.
+. ^zz++++=EXTRAWORD

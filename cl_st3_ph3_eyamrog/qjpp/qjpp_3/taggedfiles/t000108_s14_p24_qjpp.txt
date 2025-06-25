@@ -1,0 +1,17 @@
+Library ^nn++++=Library
+pools ^nns++++=pools
+were ^vbd+bed+aux++=were
+paired ^vpsv++agls+xvbnx+=paired-end
+- ^zz++++=EXTRAWORD
+end ^nn++++=EXTRAWORD
+sequenced ^nn+++??+=sequenced
+at ^rb++++=at
+2x150 ^cd++++=2x150
+base ^nn++++=base
+pair ^nn++++=pair
+on ^in++++=on
+an ^at++++=an
+illumina ^np++++=Illumina
+nextseq500 ^np++++=NextSeq500
+platform ^nn++++=platform.
+. ^zz++++=EXTRAWORD

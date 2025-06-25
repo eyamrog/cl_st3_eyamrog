@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+A ^at++++=A
+sampling ^nn++++=sampling
+protocol ^nn++++=protocol
+video ^nn++++=video
+overview ^nn++++=overview
+is ^vbz+bez+aux++=is
+included ^vbd+++xvbn+=included
+in ^in++++=in
+the ^ati++++=the
+supplemental ^np++++=Supplemental
+information ^nn++++=information
+. ^zz++++=.

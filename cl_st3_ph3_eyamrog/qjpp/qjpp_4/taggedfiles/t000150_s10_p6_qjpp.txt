@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Table ^nn++++=Table
+1 ^zz++++=1
+lists ^nns++++=lists
+the ^ati++++=the
+strengths ^nns++++=strengths
+and ^cc++++=and
+weaknesses ^nns+nom+++=weaknesses
+of ^in++++=of
+the ^ati++++=the
+methods ^nns++++=methods
+outlined ^vwbn+++xvbn+=outlined
+below ^rb++++=below.
+. ^zz++++=EXTRAWORD
