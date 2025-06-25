@@ -1,0 +1,6 @@
+Second, vasopressin is the hormone most responsible for water conservation.
+Vasopressin can be measured through plasma as well as serum
+samples. Concentrations below 2.0 pg/mL represent a baseline hydrated state
+(ie, the brain is not attempting to conserve water), while
+concentrations above 2.0 indicate dehydration because the brain is acting
+to conserve water.

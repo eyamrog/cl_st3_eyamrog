@@ -1,0 +1,9 @@
+Highly variable genes identified within the datasets were clustered using
+non-negative matrix factorisation (NMF) algorithm ( Moran et al., 2018
+55. Moran, I. ∙ Nguyen, A. ∙ Khoo, W.H. ...
+Memory B cells are reactivated in subcapsular proliferative foci of
+lymph nodes Nat. Commun. 2018; 9 :3372 Crossref Scopus (71)
+PubMed Google Scholar ) using NMF package in R (
+Gaujoux and Seoighe, 2010 25. Gaujoux, R. ∙ Seoighe, C.
+A flexible R package for nonnegative matrix factorization BMC Bioinformatics.
+2010; 11 :367 Crossref Scopus (863) PubMed Google Scholar ).

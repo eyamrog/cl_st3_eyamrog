@@ -1,9 +1,0 @@
-Given concerted and cell-type-specific IFN responses during hyperacute HIV infection,
-we next explored whether other modules exhibited shared expression dynamics.
-We applied fuzzy c-means clustering to the median module scores
-at each timepoint across all cell types on a participant-by-participant
-basis, generating clusters of modules which we refer to as
-meta-modules (MMs) ( Methods ). MMs represent gene programming across
-distinct cell types with coordinated temporal dynamics—here, synchronized responses to
-infection—enabling us to link cellularly discrete but contemporaneous behaviors to
-both common and unique propagators.

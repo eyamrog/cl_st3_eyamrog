@@ -1,7 +1,0 @@
-Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the global,
-rapidly emerging virus causing coronavirus disease 2019 (Covid-19). The current
-public health strategies to mitigate transmission are rapid identification of
-cases, isolation, contact tracing, and self-quarantine of those exposed. Once
-a person is exposed, observation and quarantine during a 14-day
-incubation period is the standard of care. To date, no
-medication has been shown to prevent SARS-CoV-2 transmission.

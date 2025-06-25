@@ -1,0 +1,17 @@
+A. P. asked participants to count their number of friends
+“who live elsewhere, whom they see only once in a
+while”; to indicate whether they and these friends “help each
+other” or “do favors for each other” (ie, engage in
+reciprocity); and to describe the nature of the help or
+favors. Participants named between zero and eight people as friends
+living elsewhere. These friends lived at distances ranging from five
+km to thousands of km away. However, as only 11
+participants had more than three connections—including just three participants with
+five connections and one participant each with six, seven, or
+eight connections—we bin those participants into the category of three
+or more so that the thresholds estimated during the model-fitting
+process (Section 2.4.1 ) are not based on single or
+very few observations. The 11 participants with more than three
+long-distance connections were predominantly males (n = 9), had visited
+more places, and were more extraverted than other participants (see
+Section 2.2.4 for more details on these variables).

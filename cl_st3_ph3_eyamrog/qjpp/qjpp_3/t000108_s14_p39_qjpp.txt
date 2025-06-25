@@ -1,0 +1,5 @@
+Statistical analysis was performed using Prism software (GraphPad) or in
+R. All data are presented as box-and-whisker plots with the
+mean with the whiskers representing ± 1.5 times of inter-quartile
+range. We used Mann-Whitney test or one-way ANOVA with Tukey’s
+correction for multiple comparisons.

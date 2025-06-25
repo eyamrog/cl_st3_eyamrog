@@ -1,0 +1,26 @@
+Between 1998 and 2020, we identified 459,542 individuals age ≥18
+years with an incident diagnosis of a site-specific cancer of
+interest. Patient characteristics are presented in Supplementary Table 1 .
+We analyzed cumulative burden of five psychiatric disorders (depression, anxiety
+disorders, schizophrenia, bipolar disorders and personality disorders) following cancer diagnosis
+and compared results across 26 cancer diagnostic groups. Cumulative burden
+was the highest for depression, followed by anxiety disorders (Fig.
+1a and Supplementary Table 2 ). At age 60 years,
+for example, cumulative burdens per 100 individuals for depression ranked
+from highest to lowest by cancer type were as follows:
+testis, 98.05 (95% CI is used throughout, 83.08–113.02); cervix, 78.74
+(73.61–83.87); Hodgkin lymphoma, 69.87 (61.05–78.69); spinal cord and nervous system,
+60.37 (33.8–86.94); thyroid, 52.69 (40.74–64.64); bone, 39.17 (38.06–40.28); breast, 34.35
+(33.77–34.93); melanoma, 25.98 (25.02–26.94); oropharynx, 24 (21.40–26.60); ovary, 21.92 (19.96–23.88);
+small intestine, 18.08 (17.47–18.69); kidney and renal pelvis, 16.24 (13.51–18.97);
+uterus, 14.44 (13.36–15.52); non-Hodgkin lymphoma, 13.93 (12.64–15.22); leukemia, 13.84 (12.03–15.65);
+brain, 11.93 (10.8–13.06); multiple myeloma, 8.5 (6.4–10.6); colon and rectum,
+5.7 (5.35–6.05); bladder, 4.28 (4.19–4.37); esophagus, 3.98 (3.66-4.30); stomach, 3.2
+(2.69–3.71); lung and bronchus, 3.11 (2.58–3.64); gallbladder and biliary tract,
+3.04 (2.47–3.61); liver and intrahepatic bile duct, 2.75 (2.47–3.03); pancreas,
+2.42 (1.94–2.90); and prostate, 2.4 (2.15–2.65) (Fig. 1a and Supplementary
+Table 2 ). Patients with testicular cancer had the highest
+burden across all psychiatric disorders; cumulative burdens at age 60
+years were as follows: depression, 98.05 per 100 individuals (83.08–113.02);
+anxiety, 83.54 (78.03–89.05); schizophrenia, 8.24 (4.72–11.76); personality disorders, 5.42 (0.20–10.64);
+and bipolar disorders, 2.50 (1.59–3.41).

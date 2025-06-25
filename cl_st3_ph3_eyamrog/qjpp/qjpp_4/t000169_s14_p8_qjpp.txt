@@ -1,0 +1,8 @@
+Outside temperature (°C) was estimated by the interviewer at the
+time of blood collection. The estimate was entered into the
+CAPI. During Wave 6 pretest, we double checked these estimates
+by using long-term temperature trackers and found no substantive deviations
+(Börsch-Supan et al., 2020 ). Since high temperatures were particularly
+prevalent in Israel, we added long-term temperature trackers (WarmMark Long
+Run indicator 31°C up to 168 h) to all DBS
+collected there.

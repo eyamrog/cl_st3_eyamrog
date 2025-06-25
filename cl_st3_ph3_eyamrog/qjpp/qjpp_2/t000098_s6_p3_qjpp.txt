@@ -1,0 +1,18 @@
+When cAMP levels are increased (for example, by receptor stimulation),
+the binding sites become progressively saturated, free cAMP increases, and
+diffusion occurs first from one binding site to the next
+and, ultimately, when the binding sites become saturated, by free
+diffusion ( Figure 7 A, right panel). Buffering of the
+initial cAMP wave ensures that free cAMP levels are kept
+in a range that then permits individual PDEs to create
+and “defend” a nanometer-sized space around them with an even
+lower concentration of cAMP, allowing effectors such as PKA to
+be “protected” from external cAMP-mediated stimuli within these nanometer-size domains.
+Under these conditions, our data indicate that PDE catalytic rates
+are sufficient to metabolize the few free cAMP molecules that
+are present in these small volumes; when the ambient cAMP
+concentrations increase, the low cAMP domains become smaller. The downstream
+consequence of these nanometer-size regions of low cAMP is that
+PKA (and, presumably, other cAMP effectors) remain insensitive to cAMP
+signals until cAMP is increased to levels that are sufficient
+to progressively fill these regions ( Figure 7 A).

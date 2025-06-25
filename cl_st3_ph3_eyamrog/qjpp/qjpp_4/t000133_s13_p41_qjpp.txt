@@ -1,0 +1,5 @@
+In low-resource settings, pool kits and color wheels are very
+low-cost methods that can be used to determine free chlorine
+levels in drinking water. However, these methods suffer from lack
+of calibration and standardization. As a result, they generally offer
+unreliable quantitative results (Center for Disease Control (CDC), 2014 ).

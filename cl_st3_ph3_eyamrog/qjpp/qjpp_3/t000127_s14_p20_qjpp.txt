@@ -1,0 +1,8 @@
+The samples (RGI3/RGFR1 LRR -SERK1 LRR -RGF1 mixture and PEPR1
+LRR -BAK1 LRR -Pep1 mixture) were incubated on ice for
+1 h; then assayed by gel filtration (Hiload 200, GE
+Healthcare) in three pH buffers (10 mM citric acid, pH
+4.0, 100 mM NaCl; 10 mM Bis-Tris, pH 6.0,100 mM
+NaCl; and 10 mM Tris, pH 8.0, 100 mM NaCl).
+The peak fractions were used for SDS-PAGE followed by Coomassie
+blue staining.

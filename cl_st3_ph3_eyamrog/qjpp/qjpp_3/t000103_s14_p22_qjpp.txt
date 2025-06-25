@@ -1,0 +1,18 @@
+Vero cells were plated at 2.5 × 10 6 cells/96-well
+plate in DMEM/5% FBS/10 mM HEPES at 150 μL/well. Cells
+were incubated at 37°C in 5% CO 2 overnight. Purified
+mAb was diluted to 20 μg/mL (final concentration 10 μg/mL)
+in DMEM/2% FBS/10 mM HEPES. Serial three-fold dilutions of the
+mAb were performed. mAb-only dilutions were separated to serve as
+a negative control. SINV/EEEV was diluted to ~100 focus-forming units
+(ffu)/well in DMEM/2% FBS/10 mM HEPES and added to the
+mAb serial dilutions. The mAb:virus mixture was incubated at 37°C
+in 5% CO 2 for 1 hour. Vero cells plated
+approximately 24 hours prior were washed 2x with 1x D-PBS.
+The mAb:virus mixture then was added at 100 μL/well to
+the cells and incubated at 37°C in 5% CO 2
+for 1.5 hours. A 2% methylcellulose:2x DMEM/4% FBS/20 mM HEPES
+overlay then was added to the cells at 100 μL/well.
+Cells were incubated at 37°C in 5% CO 2 for
+18 hours. Plates were fixed and immunostained as described for
+the focus forming assay.

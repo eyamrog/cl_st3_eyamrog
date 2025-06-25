@@ -1,0 +1,13 @@
+Prior to acquisition, cells were washed twice with water before
+final re-suspension in water. Cells were pooled from all samples,
+enumerated, filtered and diluted to a final concentration of 0.6
+× 10 6 cells/mL. Mass-tag barcoding was used so that
+all samples could be acquired simultaneously. EQ Four Element Calibration
+Beads (Fluidigm) were added to the pooled samples at a
+final concentration of 1% prior to acquisition. Samples were acquired
+on a CyTOF2 (Fluidigm) equipped with a Super Sampler fluidic
+system (Victorian Airship & Scientific Apparatus LLC) at an event
+rate of < 500 events per second. After mass cytometry
+acquisition, data were exported in flow-cytometry (FCS) format, normalized and
+events with parameters having zero values were randomized using a
+uniform distribution of values between minus-one and zero.

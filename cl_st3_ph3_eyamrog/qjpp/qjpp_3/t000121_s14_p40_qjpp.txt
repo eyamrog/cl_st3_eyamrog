@@ -1,5 +1,0 @@
-For peptide identification, un-deuterated peptides were collected from the LC
-system, dried by speed-vac, and resuspended in 5% acetonitrile, 0.1%
-formic acid for re-injection on an Orbitrap Fusion for MS/MS
-using EThcD fragmentation. Data was analyzed using Byonic (Protein Metrics)
-and manually compared to undeuterated sample data.

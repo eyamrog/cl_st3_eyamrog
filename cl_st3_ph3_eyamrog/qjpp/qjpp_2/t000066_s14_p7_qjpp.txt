@@ -1,0 +1,20 @@
+The data-cutoff date was May 8, 2018. All the efficacy
+analyses were conducted in the intention-to-treat population. Patients who did
+not have transfusion independence for 8 weeks or longer by
+week 24 were considered not to have had a response
+with regard to the primary end point. The percentages of
+patients with a response regarding the primary and key secondary
+end points were compared with the use of a Cochran–Mantel–Haenszel
+test at a two-sided significance level of 0.05 and with
+randomization factors as strata: average baseline transfusion burden (≥6 units
+per 8 weeks vs. <6 units per 8 weeks) and
+baseline IPSS-R category (very low or low risk vs. intermediate
+risk). A sequential gatekeeping approach was used for the primary
+and key secondary end points, which were tested sequentially in
+the prespecified order (stated above). The duration of transfusion independence
+of 8 weeks or longer was estimated with the use
+of Kaplan–Meier analysis of the longest period of response at
+any dose. Safety analyses were conducted in the safety population
+(all the patients who received ≥1 dose of luspatercept or
+placebo). (Additional statistical methods are presented in the Supplementary Methods
+section in the Supplementary Appendix .)

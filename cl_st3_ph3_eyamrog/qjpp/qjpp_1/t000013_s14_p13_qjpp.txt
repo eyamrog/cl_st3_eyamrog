@@ -1,0 +1,21 @@
+The oligonucleotide primers and crRNA guides were designed to detect
+the conserved regions of the following respiratory viruses: SARS-CoV-2, HCoV-229E,
+HCoV-HKU1, HCoV-NL63, HCoV-OC43, FLUAV, FLUBV, HMPV, HRSV, HPIV-1, 2, 3,
+4, adenovirus, HEV-A, B, C, D, SARS-CoV, Middle East respiratory
+syndrome (MERS)-CoV and HRV. More specifically, complete genomes for all
+viruses on the panel were downloaded from the National Center
+for Biotechnology Information (NCBI) and aligned using MAFFT . For
+viral species with fewer than 1,000 sequences, the MAFFT ‘FFT-NS-ix1000’
+algorithm was used. For viral species with >1,000 sequences, the
+MAFFT ‘FFT-NS-1’ algorithm was used. These aligned sequences were then
+fed into ADAPT for crRNA design with high coverage using
+the ‘minimize guides’ objective (>90% of sequences detected). Once highly
+conserved regions of the viral genome were selected with ADAPT
+for optimal guide design, primers were manually designed to amplify
+a 100–250 base pair (bp) target region with the crRNA
+predicted to bind in the middle of the fragment. ADAPT’s
+constraints on primer specificity were relaxed; in some cases, multiple
+primers were needed to encompass the full genomic diversity of
+a particular virus species. For optimal amplification, the primers were
+split into two pools. These primer pools and crRNA sequences
+are listed in Supplementary Table 4 .

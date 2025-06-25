@@ -1,0 +1,13 @@
+The methods described above measure the state of the immune
+system at the time a blood sample is taken. However,
+interpretation of such measures is sometimes difficult. Does a high
+value indicate an immune system more prepared to face an
+infection? Or does it represent the consequence of an infection
+that evaded initial immune defenses and triggered a more widespread
+response? In some cases, the difference between baseline immune levels
+and activated responses can be identified, but in others they
+cannot. For this reason, it is sometimes informative to measure
+immune responses to experimental stimuli. In humans, in vivo tests
+are occasionally possible, usually in the case of vaccination campaigns
+in which response to a vaccine is measured. However, generally
+in vitro stimulations provide more flexibility and are more feasible.

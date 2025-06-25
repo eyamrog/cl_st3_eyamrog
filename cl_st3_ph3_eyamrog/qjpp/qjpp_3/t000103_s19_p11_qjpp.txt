@@ -1,0 +1,20 @@
+We characterized the structural basis for EEEV-33 recognition of SINV/EEEV
+using single particle cryo-EM and determined a 3D structure of
+the complex at ~7.2 Å resolution ( Figures 4 C–4G
+and S7 ). Analyses above showed that EEEV-33 recognizes domain
+A of the EEEV E2 glycoprotein ( Figure 3 ).
+Additionally, the observation that EEEV-33 preferentially recognizes virion particles over
+E2 glycoprotein suggests that a quaternary interaction between the variable
+domain of the Fab and E2 protomers in the trimer
+facilitates binding ( Figures 2 and S1 ). Thus, EEEV-33
+may recognize a critical epitope within domain A of the
+E2 trimer for neutralization of SINV/EEEV. The structural analysis showed
+that three Fab molecules bound per E2 trimer in a
+radial orientation. Each E2 protomer was bound to one Fab
+molecule. The constant domains of each Fab within the trimer
+appear to clash sterically with one another, such that occupancy
+might be reduced for the bulkier IgG form of EEEV-33
+( Figures 4 E and 4F). Additionally, the protomers within
+the E2 trimer do not move upon EEEV-33 Fab binding,
+when compared to the apo form of E2 ( Figure
+S4 ).

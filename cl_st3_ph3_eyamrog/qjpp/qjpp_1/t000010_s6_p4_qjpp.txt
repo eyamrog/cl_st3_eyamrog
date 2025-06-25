@@ -1,0 +1,13 @@
+All individual trials had a balanced distribution of cardiovascular risk
+factors between pooled tirzepatide and control groups. However, this was
+not the case when participants were pooled from all trials.
+In SURPASS-4 (that is, participants with high cardiovascular risk), there
+was a higher ratio of participants in the control arm
+who had cardiovascular risk factors due to the 1:1 randomization
+scheme between the tirzepatide and insulin glargine groups. Therefore, these
+meta-analyses were based on pre-specified estimates adjusted for different randomization
+ratios between pooled tirzepatide versus pooled control in different trial-level
+cardiovascular risk strata. Without adjustment, the control group would be
+enriched with high-cardiovascular-risk participants, subject to more MACE, and would
+thus bias the results toward a lower HR in favor
+of tirzepatide.

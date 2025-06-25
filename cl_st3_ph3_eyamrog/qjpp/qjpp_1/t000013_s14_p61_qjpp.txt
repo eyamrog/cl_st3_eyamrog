@@ -1,0 +1,7 @@
+Cas13 crRNAs from the RVP were utilized. Cas12 crRNAs were
+manually designed in the same region of the viral genome
+as the Cas13 crRNAs to reduce the need for additional
+primer design while maintaining the protospacer adjacent motif requirements of
+Cas12. Only one additional primer was designed to properly amplify
+all targets on the RVP. All crRNAs and primers are
+listed in Supplementary Table 4 .

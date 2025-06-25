@@ -1,0 +1,19 @@
+For the baseline projections, we obtained tabulated data from the
+Australian Institute of Health and Welfare (AIHW) and the World
+Health Organization's Mortality Database on the numbers of new cancer
+cases (1982–2017) and deaths (1955–2019) in Australia for all cancers
+combined and for 21 individual cancer types ( appendix pp
+7–9 ) by sex, age, and year. Other tabulated data
+used in this study include the amount of cigarette smoking
+exposure (1945–2019), participation rates in the breast cancer screening programme
+(1996–2019), and prostate-specific antigen (PSA) testing rates (1994–2020; appendix pp
+9–11 ). Although PSA testing is not considered to be
+a suitable population-level screening test, the PSA testing rate is
+a strong predictor for the prostate cancer incidence rate and
+was therefore included in the projection model. Australian population data
+and projections (1955–2044) were obtained from the Australian Bureau of
+Statistics. These data predict an increasing population size (from 24·6
+million in 2017 to 35·0 million by 2044), and an
+ageing population (eg, percentage of the Australian population aged 65
+years and older is estimated to increase from 15·4% in
+2017 to 18·3% in 2044).

@@ -1,0 +1,23 @@
+Leveraging the higher throughput enabled by the HCSRA, we investigated
+further into the characteristics of the four highest-affinity helixCAM pairs.
+First, we investigated whether the aggregative effect can be adjusted
+by changing helixCAM expression levels. Affinity across a range of
+doxycycline induction concentrations was tested ( Figures 4 E and
+S15 ), revealing that helixCAM cell pairs could be tuned
+to form aggregates of varying sizes solely by controlling helixCAM
+expression. These findings suggest that helixCAM-induced affinity could be easily
+calibrated for individual applications through controlling helixCAM expression with small-molecule
+inducers. Next, the kinetics of helixCAM protein expression and cell
+aggregation were measured by HCSRA across 72 h, with each
+time point cultured on a separate plate to avoid disturbance
+( Figure S16 ). The time course experiment revealed that
+aggregates start to form around 8 h post-induction, with aggregate
+sizes plateauing between 36 to 48 h post-induction, a time
+window that aligned with previously reported expression kinetics of the
+Tet-On protein expression system ( Campbell et al., 2012 9.
+Campbell, L.J. ∙ Willoughby, J.J. ∙ Jensen, A.M. Two Types
+of Tet-On Transgenic Lines for Doxycycline-Inducible Gene Expression in Zebrafish
+Rod Photoreceptors and a Gateway-Based Tet-On Toolkit’, PLOS ONE Public
+Library of Science. 2012; 7 :e51270 Crossref Google Scholar ).
+Accordingly, helixCAM cells pre-induced with doxycycline for 48 h was
+used for subsequent experiments demonstrating various applications of helixCAM.

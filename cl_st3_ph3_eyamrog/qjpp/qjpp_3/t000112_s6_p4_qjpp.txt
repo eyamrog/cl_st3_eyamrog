@@ -1,0 +1,10 @@
+The fraction of predicted viral sequences that belonged to previously
+unobserved taxa was particularly high in our study (94.1%); however,
+taxonomic associations of these viruses to observed microbial hosts and
+associations with novel CRISPR sequences suggest these results are not
+spurious. The discovery of more taxa not in reference databases
+may help to reduce the large fraction of DNA that
+cannot currently be classified. Our data do not support the
+presence of any viruses in the core microbiome. However, this
+cannot be excluded and should be thoroughly addressed in the
+future with more in-depth sequencing, sampling/extraction techniques, or long-read technologies.

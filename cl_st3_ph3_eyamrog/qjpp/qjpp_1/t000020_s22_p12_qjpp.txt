@@ -1,0 +1,7 @@
+The 23andMe dataset includes self-reported data for thousands of phenotypes
+across a diverse range of categories. We performed a phenome-wide
+association study comparing LRRK2 pLoF carriers to noncarriers for 366
+health-related traits and found no significant association between any individual
+phenotype and carrier status (Fig. 3b ). In particular, we
+found no significant associations with any lung, liver or kidney
+phenotypes (Supplementary Tables 5 and 8 ).

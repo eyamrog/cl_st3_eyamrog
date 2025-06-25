@@ -1,0 +1,24 @@
+The next stage of the screen used the yeast SynAg
+assay. Haploid MATa and MATɑ strains expressing the SynAg cassette
+were picked from fresh colonies into 3mL of YPD and
+grown in a drum rotator for 24 h. 2.5μL of
+MATa and 5μL MATɑ saturated cultures were added to a
+fresh 3mL of YPD and grown for 24 h. For
+optimization of the SynAg system, cells were diluted 1:200 in
+1X PBS for assay through flow cytometry (Miltenyi MACSQuant VYB)
+of the expression of mCherry and mTurquoise. For screening CC
+candidates, diploid selection was done through complementary lysine and leucine
+auxotrophic markers, then enriched for an additional 24 h before
+genomic DNA preparation and NGS. We noticed that the original
+aga1p/aga2p yeast display system ( Boder and Wittrup, 1997 6.
+Boder, E.T. ∙ Wittrup, K.D. Yeast surface display for screening
+combinatorial polypeptide libraries’, Nature Biotechnology Nature Publishing Group. 1997; 15
+:553-557 Crossref Scopus (1408) Google Scholar ) led to low
+surface presentation of the CCs, which we attributed to protein
+degradation. By inserting a SUMO-tag ( Kuo et al., 2014
+36. Kuo, D. ∙ Nie, M. ∙ Courey, A.J. SUMO
+as a Solubility Tag and in Vivo Cleavage of SUMO
+Fusion Proteins with Ulp1 2014 71-80 Crossref Scopus (34) Google
+Scholar ) between the coiled-coil and the ga2p domain, the
+membrane protein was stabilized, which increased surface presentation ( Figure
+S11 ) and led to successful yeast mating events.

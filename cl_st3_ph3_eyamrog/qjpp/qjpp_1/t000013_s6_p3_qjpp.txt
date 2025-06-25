@@ -1,0 +1,9 @@
+We also adapted mCARMEN for dual Cas12 and Cas13 detection
+by capitalizing on the differing protein kinetics. A few groups
+have studied Cas12 and Cas13 reaction kinetics to inform assay
+quantification but the range of quantifiable concentrations has been limited
+due to reaction saturation. We expanded the quantifiable concentration range
+to 5–6 orders of magnitude, which is similar to RT–qPCR.
+These mCARMEN applications have the potential to provide a more
+holistic diagnosis to the patient but validation on patient samples
+is needed.

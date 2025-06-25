@@ -1,0 +1,13 @@
+We used Z17, Z18, P9, and AP10 as template CCs
+to create four distinct libraries. Each CC template was either
+elongated or truncated to five heptad repeats, and we combinatorially
+mutated three residues per repeat to one of two amino
+acids, leading to a library size of 2 15 ,
+or 32,768 members, for each template. Libraries were screened against
+themselves and all other libraries, resulting in 10 paired libraries,
+and approximately 10 billion possible interactions. To effectively screen these
+interactions, we employed a two-stage approach: first, a tripartite split-GFP
+complementation assay was performed in E. coli to select for
+CCs candidates exhibiting strong binding. This primary screen was followed
+by a yeast mating assay to evaluate CC pairs for
+their ability to induce eukaryotic cell aggregation.

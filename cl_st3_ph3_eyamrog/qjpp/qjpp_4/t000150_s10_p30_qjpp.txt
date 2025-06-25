@@ -1,0 +1,16 @@
+PDRs are useful tools for capturing detailed information about sedentary
+behavior that took place on the previous day. Using a
+format similar to the 24-hour Physical Activity Recall (Calabro et
+al., 2009 ), PDRs use semi-structured interviews to ask each
+participant about their activities on the previous day in a
+chronological format. For example, the participant is asked, starting from
+when they woke up, about what they did on the
+previous morning. Any activities that lasted at least 5 minutes
+are recorded (with their duration); this process continues until the
+entire day's activities have been recalled. Time spent in activities
+that took place while sitting, reclining, or lying down are
+then summed to estimate total sedentary time on the previous
+day. Total sedentary time measured by PDR has been shown
+to be strongly correlated ( ρ > .75) with activPAL-measured
+sedentary time, although PDR provided a slight overestimate (Gomersall et
+al., 2015 ; Matthews et al., 2013 ).

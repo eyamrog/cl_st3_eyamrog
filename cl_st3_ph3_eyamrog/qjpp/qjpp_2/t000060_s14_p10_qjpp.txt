@@ -1,5 +1,0 @@
-We conducted sensitivity analyses on the DiD model using alternative
-treatment periods and sample restrictions and allowing for state-specific year
-fixed effects. Results from these analyses (along with other supporting
-material, including a description of the statistical model) are reported
-in the appendix.

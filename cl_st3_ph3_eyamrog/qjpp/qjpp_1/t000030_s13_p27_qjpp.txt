@@ -1,0 +1,26 @@
+Forecasting performance of predictive models can vary by location (
+65 ). It would be informative to disentangle the reasons
+for these regional differences by exploring reporting artifacts or heterogeneities
+in transmission dynamics along with the various possible drivers, including
+demographic and environmental differences and social mixing patterns in these
+regions. Because no two successive influenza seasons are identical, it
+can be important to include in the models some key
+biological and epidemiological features, such as population immunity, antigenic changes
+in the virus, and vaccine coverage. Improved prediction approaches could
+even open up the possibility of forecasting influenza dynamics in
+the tropics. In general, statistical models seem to have better
+performance for short-term forecasting, whereas mechanistic models can be more
+flexible and tend to allow more accurate longer-term forecasts (
+65 , 84 ). So far, prediction models have been
+based mostly on ILI or ILI+ proxies of influenza activity
+( 72 ). Prediction accuracy can vary depending on which
+proxy measure is used, and neither of them may be
+a gold standard reflection of the underlying incidence of influenza
+virus infections in the community. These proxies can suffer reporting
+biases, biases due to health care–seeking behavior, missing data, and
+the contribution of other respiratory virus infections ( 84 ).
+Another general issue is the typical 1–2-week lag in influenza
+surveillance data, such that forecasting models are even required to
+estimate levels of influenza activity today (known as nowcasting) (
+63 , 82 ). There remain many opportunities to improve
+influenza prediction and forecasting models.

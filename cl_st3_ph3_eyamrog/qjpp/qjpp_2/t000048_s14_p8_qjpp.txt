@@ -1,9 +1,0 @@
-The proportion of participants missing data was 14·9% for MET,
-3·8% for the number of cigarettes smoked, and less than
-2% for all other risk factors ( appendix 2 p
-8 ). We applied a multiple imputation method based on
-Markov Chain Monte Carlo by PROC multiple imputation procedure to
-impute the missing values, and the average of ten imputations
-was used to do the factor analysis ( appendix 2
-p 7 ). We repeated the factor analysis among participants
-without any missing value as a sensitive analysis.

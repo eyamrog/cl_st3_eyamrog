@@ -1,0 +1,14 @@
+From these MAGs, we identified 838,532 CRISPR arrays, of which
+3,245 could be annotated for specific CRISPR systems. The annotated
+CRISPR arrays were mostly type 1-E and 1-F, but a
+number of type II and III systems were identified as
+well ( Figures 5 E and 5F), and some arrays
+had unclear (ambiguous) type assignment. Critically, when we aligned spacers
+to both our viral MAGs and all viral sequences in
+RefSeq, the spacers in our identified CRISPR arrays closely matched
+our predicted MAG-derived viruses. Moreover, while the total fraction of
+spacers that could be mapped to our virus-containing MAGS and
+RefSeq was similar (32.2% to our data versus 36.8% for
+RefSeq), the mapping rate to our viral MAGs dramatically exceeded
+the mapping rate to RefSeq ( Figure 5 C), which
+provides additional evidence supporting the veracity of urban viruses.

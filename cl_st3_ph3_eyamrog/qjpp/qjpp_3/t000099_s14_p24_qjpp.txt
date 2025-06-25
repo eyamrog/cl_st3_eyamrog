@@ -1,0 +1,14 @@
+Total RNA was prepared with the RNA Extraction RNeasy Plus
+Mini-kit (QIAGEN) and RNA was reverse-transcribed with the High-Capacity cDNA
+Reverse Transcription kit (Applied Biosystems; Carlsbad, CA) according to the
+manufacturer’s protocol. Real-time quantitative PCR (SYBR-green, Applied Biosystems) assays were
+performed with an Applied Biosystems 7900HT Fast Real-Time PCR System
+sequencer detector. Expression was normalized to the expression of the
+36b4 housekeeping gene. Primer sequences are as follow: 36b4 :
+F 5′-ACTGGTCTAGGACCCGAGAAG-, R 5′- TCCCACCTTGTCTCCAGTCT-; Ptgs2 : F 5′ -TGAGCAACTATTCCAAACCAGC-,
+R 5′- GCACGTAGTCTTCGATCACTATC-; Nr4a1 : F 5′- TTGAGTTCGGCAAGCCTACC-, R 5′-
+GTGTACCCGTCCATGAAGGTG-; Il1b : F 5′-AGTGAGGAGAATGACCTGTTC-, R 5′-CGAGATGCTGCTGTGAGATT-; Tnfaip3 : F
+5′-GAACAGCGATCAGGCCAGG-, R 5′-GGACAGTTGGGTGTCTCACATT-; Cebpe : F 5 -’GCAGCCACTTGAGTTCT CAGG-, R
+5′-GATGTAGGCGGAGAGGTCGAT-; Ltf : F 5′-TGAGGCCCTTGGACTCTGT-, R 5′-ACCCACTTTTCTCATCTCGTTC-; Ifitm3: 5′-TTCTGCTGCCTGGGCTTCATAG-, R
+5′-ACCAAGGTGCTGATGTTCAGGC-; Cr2: F 5′-TTGCTGCCAAAGTATTCTTTTGC-, R 5′-TGGAGGTTTCTAAGCAGGTGATA-; Cd74 F 5′-AGATGCGGATGGCTACTCC-, R
+5′-TCATGTTGCCGCCGTACTTGGTAAC-.

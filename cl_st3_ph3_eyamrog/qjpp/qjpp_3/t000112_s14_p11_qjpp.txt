@@ -1,0 +1,11 @@
+To obtain a comprehensive picture of microbial communities within a
+sample, it is essential to choose a sampling method which
+absorbs and preserves biological materials during sampling, transport and storage
+until DNA extraction. The effectiveness of a swab may be
+influenced by a number of factors, most importantly the material
+of the swab tip which can affect the rate at
+which bacteria are collected during the sampling process. Furthermore, the
+design of the transport tube as well as the DNA
+preserving liquids can affect the integrity of the material during
+transport. Finally, the amount of background contamination identified for different
+products should be taken into account.

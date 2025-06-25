@@ -1,8 +1,0 @@
-Peptic digest products were collected from the HDX chromatography system,
-dried by speed-vacuum, and resuspended in aqueous buffer for nanoscale
-liquid chromatography (nanoLC-MS) using a 90-min linear gradient from 2%–40%
-acetonitrile. Products were analyzed on an Orbitrap Fusion mass spectrometer
-(ThermoFisher Scientific) using a high-energy collisional dissociation (HCD) product-dependent electron-transfer/high-energy
-collision dissociation (EThcD) method with a targeted mass list method
-with a targeted mass list using HexNAc, HexHexNAc, and Hex2HexNAc
-m/z (204, 366, and 528 respectively) to trigger EThcD.

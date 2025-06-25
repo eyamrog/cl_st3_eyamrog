@@ -1,0 +1,17 @@
+Together, these results suggest that blood collected via finger-prick should
+produce usable yields for RNAseq in humans. We plan to
+validate this procedure in the near future, but prior to
+that we recommend verifying RNA yields before using this protocol.
+An example finger-prick collection protocol, modified from the protocols used
+for mice and birds, might read as follows: (1) Aliquot
+PAXgene reagent into smaller tubes at a ratio of 2.76
+reagent/blood (e.g., 138 μl PAXgene/50 μl blood); (2) Pierce the
+fingertip with a sterile lancet and collect blood into a
+finger-prick blood collection tube; (3) pipette 50 μl of blood
+from the collection tube into the PAXgene aliquot; (4) store
+at room temperature for at least 2 h (no longer
+than 72 hrs), then freeze. PAXgene aliquots may be frozen
+at −20C, −80C, or placed in liquid nitrogen. PAXgene-preserved samples
+are also stable across at least three freeze–thaws, making them
+ideal for easy transport. Extraction and analysis should follow standard
+protocols.

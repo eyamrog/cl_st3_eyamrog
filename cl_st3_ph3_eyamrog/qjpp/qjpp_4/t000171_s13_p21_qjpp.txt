@@ -1,0 +1,14 @@
+Apart from white blood cell differentials, the only analyte directly
+relevant to immune function that can now be measured by
+a point-of-care device is CRP, using the NycoCard Reader II
+(Abbott). However, it has a measuring range of only 8
+to 200 mg/L, making it functional for detecting acute infections
+(typical CRP >10 mg/L) but ineffective for detecting lower-level variation
+in CRP, which is often of interest for assessing cardiometabolic
+risk, recent infection, or testing theories from eco-immunology and developmental
+origins of health and disease. It is also not currently
+available in the United States. A number of other point-of-care
+devices are available for clinical settings, some of which measure
+high sensitivity CRP (hs-CRP), but they are generally much larger.
+Given that CRP can be cheaply and easily measured in
+DBSs (see next section) we generally prefer this approach.

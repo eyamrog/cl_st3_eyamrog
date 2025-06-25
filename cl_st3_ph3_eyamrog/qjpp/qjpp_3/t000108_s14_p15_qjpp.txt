@@ -1,0 +1,8 @@
+Bones were scanned with a μCT scanner (Model 1172, Skyscan)
+at 50kV, 200mA with a 0.5mm aluminum filter using a
+pixel size of 4.3 μm. Images were acquired every 0.4þ
+through 180þ and analyzed with NRecon and CTAn software (Skyscan).
+3D models were generated using the Drishti-2 tool ( Limaye,
+2012 47. Limaye, A. Drishti: a volume exploration and presentation
+tool Proceedings of SPIE Optical Engineering + Applications (SPIE). 2012;
+8506 Crossref Scopus (385) Google Scholar ).

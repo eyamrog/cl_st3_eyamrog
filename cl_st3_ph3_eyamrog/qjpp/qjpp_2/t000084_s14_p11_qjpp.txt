@@ -1,0 +1,13 @@
+We performed a comparison of rates of angina in the
+last 4 weeks of follow-up as the dependent variable using
+a logistic generalized-estimating-equation model that took into account interactions between
+groups and prespecified subgroups. For the SF-12v2 and EQ-5D measures,
+we used linear mixed-effects models with a random intercept for
+the trial center as the sole random effect. For these
+analyses, the covariates were trial group, age, sex, angina type
+at baseline, time from baseline to follow-up, and (on the
+SF-12v2 and EQ-5D measures) the baseline of the dependent variable.
+We performed multiple imputation of missing patient-reported outcome data using
+the R package Multivariate Imputation by Chained Equations (MICE) algorithm,
+predictive-mean-matching imputation for missing data on metric variables, and logistic
+regression imputation for missing binary data.

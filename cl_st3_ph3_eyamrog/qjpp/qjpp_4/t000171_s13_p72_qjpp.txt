@@ -1,0 +1,11 @@
+Many papers studying immune function do not report or control
+for time of blood collection. However, many components of the
+immune system vary diurnally, with many being lower in the
+morning and higher in the afternoon, opposite the diurnal rhythm
+of cortisol (Ackermann et al., 2012 ; Labrecque & Cermakian,
+2015 ; Petrovsky & Harrison, 1998 ). Diurnal regulation of
+immunity may be relevant for many research questions (e.g., Garcia,
+Blackwell, et al., 2020 ), but even when it is
+not the focus, time of sample collection is an important
+variable that should be captured and accounted for in study
+designs.

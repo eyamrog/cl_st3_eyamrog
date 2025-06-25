@@ -1,0 +1,11 @@
+Fluorescein-labeled compounds of different molecular weight (fluorescein isothiocyanate-dextran of 20,
+70kDa, and 250 kDa) were dissolved in water, and the
+pH was set to pH = 9 by addition of
+NaOH. To pre-activate FDA into fluorescein, ester bonds in FDA
+were broken by incubation at 37°C for 30 minutes at
+pH 9. Concentrations were determined by absorbance spectroscopy in a
+ThermoFisher Evolution300 spectrophotometer. Measurements were performed at a final compound
+concentration of 100 nM. Approximately 40 μL of solution were
+inserted into an imaging chamber formed by a #1.5 coverslip
+immobilized onto a glass slide by melting two parallel stripes
+of Parafilm (Bemis Company, Neenah, USA).

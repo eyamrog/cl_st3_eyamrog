@@ -1,0 +1,16 @@
+Cells relay a plethora of extracellular signals to specific cellular
+responses by using only a few second messengers, such as
+cAMP. To explain signaling specificity, cAMP-degrading phosphodiesterases (PDEs) have been
+suggested to confine cAMP to distinct cellular compartments. However, measured
+rates of fast cAMP diffusion and slow PDE activity render
+cAMP compartmentalization essentially impossible. Using fluorescence spectroscopy, we show that,
+contrary to earlier data, cAMP at physiological concentrations is predominantly
+bound to cAMP binding sites and, thus, immobile. Binding and
+unbinding results in largely reduced cAMP dynamics, which we term
+“buffered diffusion.” With a large fraction of cAMP being buffered,
+PDEs can create nanometer-size domains of low cAMP concentrations. Using
+FRET-cAMP nanorulers, we directly map cAMP gradients at the nanoscale
+around PDE molecules and the areas of resulting downstream activation
+of cAMP-dependent protein kinase (PKA). Our study reveals that spatiotemporal
+cAMP signaling is under precise control of nanometer-size domains shaped
+by PDEs that gate activation of downstream effectors.

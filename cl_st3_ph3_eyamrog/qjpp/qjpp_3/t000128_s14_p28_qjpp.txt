@@ -1,0 +1,5 @@
+Widefield fluorescent microscopy of E. coli helixCAM aggregates was conducted
+using a Nikon Eclipse Ti2 microscope at 60× magnification or
+on the Zeiss Axio Observer Z1 at 63× magnification. Images
+were taken in the GFP and mCherry channels. Samples were
+wet-mounted onto a #1.5 coverslip without prior fixation.

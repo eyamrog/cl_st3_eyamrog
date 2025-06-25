@@ -1,0 +1,5 @@
+The below described studies with LRRK2 pLoF carriers had available
+phenotype data. For each study, all available records were manually
+reviewed to identify any reports of health problems, which were
+categorized into the following classes: lung, liver, kidney, cardiovascular, nervous
+system, immune and cancer.

@@ -1,0 +1,24 @@
+We thank the McDonnell Genome Institute at Washington University for
+sequencing, Ali Ellebedy, Aaron Schmitz, Daved Fremont, and Chris Nelson
+for advising in the generation of the recombinant antibody, David
+Holtzman for supporting antibody purification, and Erica Lantelme and the
+Flow Cytometry Core at Washington University for sorting. We also
+thank Wandy Beatty, director of the Molecular Microbiology Imaging Facility
+at Washington University, for valuable technical support. M. Colonna was
+supported by the National Institutes of Health (RF1AG05148501 and R21AG059176).
+M.M. is a recipient of the Cancer Research Institute-Lloyd J.
+Old Memorial Fellowship in Tumor Immunology. W.V. is supported by
+AIRC IG23179. R.F. was supported by grants from the National
+Institutes of Health (R01 AR066551 and R01 CA235096). M.M.G. was
+supported by a Parker Institute for Cancer Immunotherapy Bridge Scholar
+Award and a CPRIT Scholar in Cancer Research Grant (RR190017).
+R.D.S. was supported by grants from the National Cancer Institute
+of the National Institutes of Health (RO1CA190700), the Parker Institute
+for Cancer Immunotherapy, the Cancer Research Institute, Janssen Pharmaceutical Company
+of Johnson and Johnson, the Prostate Cancer Foundation, and a
+Stand Up to Cancer-Lustgarten Foundation Pancreatic Cancer Foundation Convergence Dream
+Team translational research grant. Stand Up to Cancer is a
+program of the Entertainment Industry Foundation administered by the American
+Association for Cancer Research. E.R.U. received support from the National
+Institute of Diabetes and Digestive and Kidney Diseases of the
+National Institutes of Health (AI114551 and DK058177).

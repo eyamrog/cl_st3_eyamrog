@@ -1,11 +1,12 @@
-One limitation of Study 2 is that it was conducted
-over 15 years ago when attitudes towards sexual minorities in
-the US were more hostile ( Flores, 2019 ). However,
-while absolute levels of discrimination and comfort with openness may
-have improved since these data were collected – and so
-mean levels of these factors may have changed – the
-process by which openness influences discrimination and mental health are
-likely be stable. By confirming results from Study 1, this
-pre-registered study lends support to the stability of this process
-even as social conditions improve– though still far from equitable
-( Meyer, 2016 ).
+Unlike previous researchers who have found that gender moderates the
+health-risks of greater (vs. less) openness ( Pachankis et al.,
+2015 ), we did not find a difference between cis-female
+and cis-male participants. However, it is possible that among bisexual
+and queer individuals, the relationship between openness, perceived discrimination and
+subjective wellbeing is not as robust as it is for
+gay and lesbian individuals. Finally, some of the items in
+our measure of perceived discrimination focus on communities of color
+(vs. the broader LGBTQ + community), and it will be
+important to see if the pattern holds for a more
+general (vs. community specific) measure of perceived discrimination in Study
+2.

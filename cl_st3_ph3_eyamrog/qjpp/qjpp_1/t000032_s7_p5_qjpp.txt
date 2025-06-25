@@ -1,0 +1,4 @@
+An article about computational science in a scientific publication is
+not the scholarship itself, it is merely advertising of the
+scholarship. The actual scholarship is the complete software development environment
+and the complete set of instructions which generated the figures.

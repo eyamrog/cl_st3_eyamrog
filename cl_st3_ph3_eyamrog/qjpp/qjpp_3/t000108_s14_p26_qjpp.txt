@@ -1,0 +1,10 @@
+Noise reduction, highly variable genes determination and differential gene expression
+(DGE) analyses were performed using BASiCS package ( Vallejos et
+al., 2015 71. Vallejos, C.A. ∙ Marioni, J.C. ∙ Richardson,
+S. BASiCS: Bayesian Analysis of Single-Cell Sequencing Data PLoS Comput.
+Biol. 2015; 11 :e1004333 Crossref Scopus (191) PubMed Google Scholar
+; Vallejos et al., 2016 72. Vallejos, C.A. ∙ Richardson,
+S. ∙ Marioni, J.C. Beyond comparisons of means: understanding changes
+in gene expression at the single-cell level Genome Biol. 2016;
+17 :70 Crossref Scopus (73) PubMed Google Scholar ) in
+R.

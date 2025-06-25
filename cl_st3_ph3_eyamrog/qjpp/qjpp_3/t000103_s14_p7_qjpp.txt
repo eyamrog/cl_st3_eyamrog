@@ -1,0 +1,25 @@
+BHK-21 (hamster, male origin; ATCC) and Vero (monkey, female origin;
+ATCC) cells were maintained in DMEM (GIBCO) and 10% heat-inactivated
+FBS (Thermo Fisher Scientific) at 37°C in a humidified atmosphere
+of 5% CO 2 . HMAA 2.5 cells (mouse-human, gender
+information not available; kindly provided by Lisa Cavacini) are a
+non-secreting myeloma cell line and were maintained in ClonaCell™-HY Medium
+A (Stem Cell Technologies) at 37°C in a humidified atmosphere
+of 7% CO 2 as previously described ( Yu et
+al., 2008a 99. Yu, X. ∙ McGraw, P.A. ∙ House,
+F.S. ... An optimized electrofusion-based protocol for generating virus-specific human
+monoclonal antibodies J. Immunol. Methods. 2008; 336 :142-151 Crossref Scopus
+(89) PubMed Google Scholar , 2008b 100. Yu, X. ∙
+Tsibane, T. ∙ McGraw, P.A. ... Neutralizing antibodies derived from
+the B cells of 1918 influenza pandemic survivors Nature. 2008;
+455 :532-536 Crossref Scopus (283) PubMed Google Scholar ). B95.8
+(monkey, gender information not available; ATCC) cells were cultured in
+Medium A for collection of supernatants containing Epstein-Barr virus (EBV).
+Expi293F (human, female origin; Thermo Fisher Scientific) cells were maintained
+in Expi293 expression medium (GIBCO) or Freestyle F17 medium (GIBCO)
+supplemented with 4 mM L-glutamine (GIBCO) and 0.1% pluronic F-68
+(GIBCO) at 125 rpm 37°C in a humidified atmosphere of
+8% CO 2 . Expi293F cells were authenticated by the
+ATCC cell line authentication service using Short Tandem Repeat (STR)
+analysis. Cells were checked routinely for mycoplasma detection using a
+universal mycoplasma detection kit (ATCC).

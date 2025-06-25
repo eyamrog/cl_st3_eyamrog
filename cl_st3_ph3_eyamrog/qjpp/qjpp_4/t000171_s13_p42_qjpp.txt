@@ -1,0 +1,19 @@
+Krawiec et al. ( 2009 ) developed a protocol for
+isolation of RNA from small samples of blood, to be
+used with mice who cannot spare 2.5 ml. Although not
+yet validated with human blood, for mice 50 μl of
+blood yielded 2300 ng of RNA, more than sufficient for
+sequencing. ADB also successfully collected and extracted RNA from great-tailed
+grackles, with yields from 50 μl blood averaging 3152 ng
+of RNA. While birds have nucleated red blood cells, mice
+and humans have roughly similar white blood cell counts, suggesting
+results for humans may be similar to mice. While reported
+RNA yields from PAXgene documents suggest possible yields as low
+as 60 ng from 50 μl blood, other references suggest
+typical RNA levels for humans are actually higher than this,
+with a mean of 15 μg/ml (range 7–23 μg/ml) (Chomczynski
+et al., 2016 ), which would yield 750 ng from
+50 μl. Lower yields in some PAXgene protocols may in
+fact be due to a ceiling effect from the RNA
+spin columns used, with higher recovery possible for lower volumes
+of blood (Krawiec et al., 2009 ).

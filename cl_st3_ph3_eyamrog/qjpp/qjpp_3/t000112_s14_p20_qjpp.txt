@@ -1,0 +1,18 @@
+Metadata from individual cities was collected from a standardized form
+and set of data fields. The principal fields collected were
+the location of sampling, the material of the object being
+sampled, the type of object being sampled, the elevation above
+or below sea level, and the station or line where
+the sample was collected. However, several cities were unable to
+use the provided software application for various reasons, and instead
+submitted their metadata as separate spreadsheets that could be added
+to the data repository. Additionally, certain metadata features, such as
+those related to sequencing and quality control, were added after
+initial sample collection. To collate various metadata sources, we built
+a publicly available repository on Pangea ( https://pngb.io/metasub-2021 ) which
+assembled a large master spreadsheet with consistent sample universally unique
+identifiers (UUID). After assembling the originally collected data attributes we
+added normalized attributes based on the original metadata to account
+for surface material, control status, and features of individual cities.
+A full description of ontologies used is provided as part
+of the collating program.

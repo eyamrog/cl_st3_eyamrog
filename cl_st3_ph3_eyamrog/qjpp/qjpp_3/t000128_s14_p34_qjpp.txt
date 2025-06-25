@@ -1,0 +1,11 @@
+CC pairs were then assigned a pair score which evaluates
+their frequency of on-target interactions against the frequency of off-target
+interactions and tuned with a weight factor W. Top 30
+hits using a W of 0, 0.01, and 0.1, along
+with the highest frequency CC candidates, were selected for a
+total of 102 candidate pairs. From the yeast SynAg screen,
+fused barcodes representing the two interacting CCs were mapped. CC
+pairs were then evaluated for enrichment (a function of frequency)
+and orthogonality (the percentage of on-target interactions divided by all
+observed interactions), and two pairs (four CCs) with the highest
+enrichment and orthogonality were selected for characterization in human cells.

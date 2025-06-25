@@ -1,0 +1,13 @@
+Prior studies have shown that numerous AMR genes can be
+carried on a single plasmid, and ecological competition may cause
+multiple taxa in the same sample to develop antimicrobial resistance,
+but little is known in urban environments. To examine these
+phenomena, we identified clusters of AMR genes that co-occurred in
+the same samples ( Figure 4 D). We measured the
+Jaccard distance between all pairs of AMR genes found in
+at least 1% of samples and performed agglomerative clustering on
+the resulting distance matrix. We identified three large clusters of
+genes and numerous smaller clusters. Of note, these clusters often
+consist of genes from multiple classes of resistance, and the
+large clusters contain far more genes than are typically found
+on plasmids.

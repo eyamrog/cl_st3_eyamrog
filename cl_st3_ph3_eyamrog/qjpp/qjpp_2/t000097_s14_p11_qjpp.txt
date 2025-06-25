@@ -1,0 +1,23 @@
+Single cell suspensions were prepared from tumors upon sacrifice. Tumors
+were minced and digested with Collagenase IV (Sigma) for 30
+min at 37°C. Cells were filtered through 70-μm strainers, washed
+with PBS and stained for flow cytometry. The following antibodies
+were used: CD45-BV605 or –AlexaFluor700 (clone 30-F11), CD11b-PerCPCy5.5 or –PECy7
+or –APC or -BV421 (clone M1/70), I-A/I-E-BV650 (clone M5/114.15.2), Ly6C-BV421
+or –APC or –PerCPCy5.5 or –PE (clone HK1.4), Ly6G –AlexaFluor700
+or –APC (clone 1A8); CD64 –APC or –BV605 (clone X54-5/7.1),
+B220-BUV395 or –PerCPCy5.5 (clone RA3-6B2); CD206 –PeCy7 (clone C068C2); iNOS/Nos2
+–PE (clone CXNFT); CD9-PE (clone MZ3); CD63-PerCPcy5.5 (clone NVG-2); PD-L2-PECF594
+(clone TY25); TCRβ-PE (clone H57-597); CD8-BV785 (clone 53-6.7); CD4-PECF594 (clone
+RM4-5); PD-1-FITC (clone J43); FOXP3-APC (clone MF-14); CD19-PacificBlue (clone 6D5);
+NK1.1-BV650 (clone PK136); Lag3-PECy7 (clone C9B7W); TCRγδ-FITC (clone eBioGL3); IFNγ-PE
+(clone XMG1.2); TNFα-FITC (clone MP6-XT22). TREM2 reporter cell line was
+stained with anti-TREM2 antibodies produced in our lab (clone 178).
+Anti-rat IgG-PE and anti-mouse IgG-PE (Southern Biotech) were used as
+secondary antibodies. Cells were incubated with Fc block prior to
+staining. Cell viability was determined by Aqua LIVE/Dead-405 nm staining
+(Invitrogen), negative cells were considered viable. Foxp3/Transcription Factor Staining Buffer
+Set (eBioscience) was used for intracellular staining. Cells were analyzed
+on BD X20 or BD FACSymphony (BD Bioscience). Aria II
+(BD Bioscience) was used for sorting. Data were analyzed with
+FlowJo software (Treestar).

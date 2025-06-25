@@ -1,0 +1,15 @@
+ORR was defined as the proportion of patients with a
+confirmed best response of CR, CRh, PR or clinical improvement
+by mIWG-MRT-ECNM consensus criteria. Time to CR/CRh/PR was defined as
+the time from the start of treatment to the time
+a CR/CRh/PR by mIWG-MRT-ECNM was first met. DOR was defined
+as the time from first documented response to the date
+of first documented progressive disease/loss of response or death due
+to any cause, whichever occurred first. OS was defined as
+the time from the start of treatment to the date
+of death. PFS was defined as the time from the
+start of treatment to the date of first documented progressive
+disease or death due to any cause, whichever occurred first.
+Progressive disease was defined per mIWG-MRT-ECNM criteria as worsening of
+≥1 baseline C-finding confirmed for at least 4 weeks, or
+progression to acute myeloid leukemia.

@@ -1,0 +1,19 @@
+Throughout the process of selecting a device and devising the
+wear protocol, it is essential to consider practicalities of wear
+for the participant. One of these considerations is how discreet
+the device is; if it is bulky or conspicuous, participants
+may take it off in some situations (see Pollard &
+Guell, 2012 ). The activPAL is generally inconspicuous on the
+thigh (particularly the newer activPAL3 micro and activPAL4 models), the
+wrist-worn GENEActiv and Axivity resemble sport watches, and the Actigraph
+is comparatively large and is colored brightly red so may
+be less appealing to participants. Another issue is that, in
+continuous wear protocols in which the device is attached with
+adhesive to the skin (eg, with the activPAL), participants can
+develop skin irritation (Edwardson et al., 2017 ; Wagnild et
+al., 2019 ). This can be mitigated by forewarning participants
+that this may occur and helping them to pre-empt it
+by moving the device to the same spot on the
+other leg (with extra adhesive provided). Lastly, as with many
+electronic devices, attention must be paid to power requirements, waterproofing,
+and the potential for damage during data-collection processes.

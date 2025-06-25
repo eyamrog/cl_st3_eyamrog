@@ -1,0 +1,4 @@
+No imputation was performed for missing data elements. Where the
+date of onset of an AE was missing, event onset
+was assumed to be the date of treatment to conservatively
+report the event as treatment emergent.

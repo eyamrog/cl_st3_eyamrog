@@ -1,0 +1,8 @@
+An osmometer can range between $4000 and $20000. (eg, the
+Osmo1 Osmometer is $14000). The analysis takes on average 3
+minutes per sample including time to clean the chamber in
+between samples. The other advantage of osmometers is that they
+are able to analyze multiple specimen types for hydration markers
+(ie, plasma/serum, urine, saliva). However, osmometers require an electrical outlet
+for power and need a stable, room temperature environment, and
+flat surface to be placed upon.

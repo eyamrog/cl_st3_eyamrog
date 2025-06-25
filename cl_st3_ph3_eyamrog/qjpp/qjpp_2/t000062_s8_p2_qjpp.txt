@@ -1,0 +1,17 @@
+The challenges of modelling future patterns in cancer incidence and
+mortality have been further complicated by the COVID-19 pandemic. Although
+the direct impacts and outcomes of the pandemic remain to
+be determined, several changes in health-care delivery occurred as a
+result of efforts to control COVID-19 outbreaks. The most apparent
+effects include the severe delays in cancer detection, diagnosis, and
+treatment, which have been reported in a number of countries.
+For example, in Australia, non-urgent elective surgery was temporarily suspended,
+and there was a reduction in cancer diagnostic and surgical
+procedures related to colorectal and other cancers during March to
+May, 2020. Colonoscopies and sigmoidoscopies decreased by 55% from March
+to April, 2020, and numbers of colorectal surgeries in May
+2020 were 16% lower than those recorded for March 2020.
+The paucity of data on health-care disruptions has resulted in
+early exploratory modelling of hypothetical scenarios for treatment delays, although
+none of the existing studies examined the potential long-term impact
+of treatment delays on cancer mortality in Australia.

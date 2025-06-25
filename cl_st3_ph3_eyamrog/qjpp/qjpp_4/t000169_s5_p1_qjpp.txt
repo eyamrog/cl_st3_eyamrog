@@ -1,0 +1,12 @@
+We developed a new algorithm (AMoSS, Automated Measurement of Spot
+Size) that enables us to calculate the exact spot size
+of each DBS in an automated way for large sets
+of DBS images. Using the results of this automated spot-size
+measurement, we found that spot size has a significant non-linear
+relationship with all markers. Some markers, however, are more sensitive
+to spot size than others. Further, our model comparisons show
+that more variance of the raw marker values can be
+explained using the exact measured spot sizes provided by AMoSS
+and included in the model as splines. CRP is the
+only marker for which we do not find significant differences
+between Model 1 and both Models 2 and 3.

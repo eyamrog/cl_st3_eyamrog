@@ -1,0 +1,13 @@
+Overall, analyses with previously frozen cells produce equivalent results to
+those with fresh cells (Figure 2 ). However, there are
+some notable exceptions. First, freezing lyses granulocytes more than lymphocytes,
+and may alter the lymphocyte percentage in samples. Thus, measuring
+white blood cell differentials at the time of collection with
+a point of care device (see above) can be very
+useful if absolute differential counts are desired. Major lymphocyte subsets
+(i.e., CD4 T cells, CD8 T cells, natural killer cells,
+and B cells) can be measured accurately in frozen cells.
+However, some minor subsets, such as the percent naïve and
+senescent were altered with freezing. Additionally, some antibody-fluorochrome combinations performed
+poorly with previously frozen cells. We recommend testing these on
+frozen control samples before analyzing precious field samples.

@@ -1,0 +1,12 @@
+TREM2 reporter cell lines expressing GFP upon TREM2 engagement were
+produced in our laboratory and previously described ( Wang et
+al., 2015 55. Wang, Y. ∙ Cella, M. ∙ Mallinson,
+K. ... TREM2 lipid sensing sustains the microglial response in
+an Alzheimer’s disease model Cell. 2015; 160 :1061-1071 Full Text
+Full Text (PDF) Scopus (1145) PubMed Google Scholar ). HDLs
+(100μg/mL; SIGMA) were immobilized on plates. Reporter cells were added
+and cultured overnight in the presence of antibodies (20μg/mL) in
+complete medium. Native (rat IgG2a) and recombinant Fc mutated (mouse
+IgG2a) anti-murine TREM2 antibodies (clone 178) were used. Recombinant Fc
+mutated (mouse IgG2a) anti-human ILT1 antibody (clone 135.5) was used
+as a control.

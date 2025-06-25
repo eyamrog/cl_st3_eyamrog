@@ -1,0 +1,19 @@
+We reasoned that the size of such low-cAMP nanodomains might
+be determined by the type of PDE. Although the PDE4
+family studied above comprises high-affinity (low-micromolar) but low-turnover (1–5 cAMP/s)
+enzymes, the PDE2 family represents the fastest enzymes with regard
+to cAMP degradation ( Bender and Beavo, 2006 6. Bender,
+A.T. ∙ Beavo, J.A. Cyclic nucleotide phosphodiesterases: molecular regulation to
+clinical use Pharmacol. Rev. 2006; 58 :488-520 Crossref Scopus (1526)
+PubMed Google Scholar ). Therefore, we fused a truncated version
+of PDE2A3, PDE2cat, comprising only its catalytic domain (amino acids
+[aa] 578–941), to Epac1-camps, generating Epac1-camps-PDE2cat. In line with the
+findings obtained with PDE4, tethered PDE2cat activity blunted the cAMP-FRET
+response to isoproterenol in relation to Epac1-camps alone ( Figure
+4 A versus 4 C). Only upon specific inhibition of
+PDE2 with BAY 60-7550 did Epac1-camps-PDE2cat detect an isoproterenol-mediated cAMP
+increase ( Figure 4 C). Stoichiometric expression of Epac1-camps and
+PDE2cat individually still led to a robust FRET signal upon
+isoproterenol stimulation ( Figure 4 B). These data confirm that
+the tethered PDE2 activity generates a low-cAMP nanodomain in its
+immediate vicinity ( Figure 4 E).

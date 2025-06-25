@@ -1,0 +1,12 @@
+Further work will be required to bring mCARMEN fully to
+the clinic, such as obtaining FDA approval, integrating RVP and
+VIP into a single panel, decreasing the amount of manual
+labor and easing Fluidigm equipment constraints. Nonetheless, we have taken
+substantial steps to streamline the assay workflow while enhancing sensitivity
+without sacrificing specificity. By combining high-throughput, multiplexed pathogen testing with
+variant tracking, the mCARMEN platform is highly scalable and amenable
+to clinical laboratory settings for the detection of respiratory pathogens
+and variants. This technology also has the potential to test
+for other types of infectious diseases and can be used
+on other sample types to achieve even more comprehensive diagnostic
+and surveillance capabilities.

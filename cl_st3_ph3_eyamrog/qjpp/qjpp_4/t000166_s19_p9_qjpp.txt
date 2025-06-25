@@ -1,8 +1,0 @@
-There was a difference between boys and girls by sex
-in the BMI (gender × age comparison: Q 1,199 =
-6.49, p = .011, partial η 2 = .035); post-hoc
-analysis revealed no significant difference in the first grade, but
-a tendency for girls to show lower BMI values (
-Mdn = 16.5 kg/m 2 ) than boys ( Mdn
-= 18.0 kg/m 2 ) in the second grade (
-p Tukey = .082, Cohen's d = 0.496).

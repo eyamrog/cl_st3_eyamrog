@@ -1,0 +1,17 @@
+These figures, variable by region, are testament to the exponential
+growth in the mobile market; the sheer scale and rapidity
+of adoption have been quite extraordinary, demonstrating the potential for
+scale-up of population-level mHealth ( 9 ). In the decade
+since the WHO Report on mHealth (in 2011), the scope
+of operation and reach has magnified considerably ( 79 ).
+Countries in the Asia-Pacific region, for example, were previously unable
+to access the 3G networks necessary for many mHealth applications
+( 20 ). Coverage has now shifted to most regions
+having over 90% access to a network signal, 53% having
+access to the Internet in their homes ( 20 ,
+48 ). This growth in mobile connectivity (and its subsequent
+capitalization), scrutinized via forecasting algorithms, was predictable ( 18 ).
+Contingent on access to handsets, cabling, and telecommunications infrastructure, and
+on increasing digital literacy skills, mobile was an almost certain
+win for the mobile telecommunications industry ( 37 , 74
+).

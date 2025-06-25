@@ -1,0 +1,6 @@
+As in Study 1, we separately looked at effects of
+(a) self-efficacy and collective efficacy, and (b) direct and indirect
+goal efficacy. Our large sample size allowed us to compare
+effect sizes by contrasting an unrestricted regression model to a
+parallel regression model (with similar regression coefficients for both constructs,
+see Figure 3 ).

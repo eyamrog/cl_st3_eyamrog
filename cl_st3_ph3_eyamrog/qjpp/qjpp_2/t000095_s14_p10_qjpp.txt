@@ -1,0 +1,22 @@
+Mouse organs were homogenized in RNALater, and viral RNA was
+isolated using the QIAamp ® 96 Virus QIAcube ® HT
+kit (QIAGEN). Two microliters of RNA were used as a
+template for the amplification of selected genes by real-time quantitative
+PCR using HiSxript ® II One step qRT-PCR SYBR® Green
+Kit (Vazyme). Average values from duplicates of each gene were
+used to calculate the viral genomic copies. The primers based
+on the SARS-CoV-2 S gene were designed as: RBD-qF1: 5′-
+CAATGGTTTAACAGGCACAGG-3′; RBD-qR1: 5′- CTCAAGTGTCTGTGGATCACG-3′. The PCR system was as follows:
+the 10 μL qPCR reaction mix contained 5 μL 2
+× One Step SYBR Green mix, 1.9 μL nuclease free
+water, 0.5 μL One Step SYBR Green Enzyme mix, 0.2
+μL 50 × ROX Reference Dye 1, 0.2 μL of
+each primer (10 μM) and 2 μL template RNA. Amplification
+was performed as follows: 50°C for 3 min, 95°C for
+30 s followed by 40 cycles consisting of 95°C for
+10 s and 60°C for 30 s, and a default
+melting curve step in an Step-One Plus Real-time PCR machine
+(ABI) ( Zhou et al., 2020 35. Zhou, P. ∙
+Yang, X.L. ∙ Wang, X.G. ... A pneumonia outbreak associated
+with a new coronavirus of probable bat origin Nature. 2020;
+579 :270-273 Crossref Scopus (14925) PubMed Google Scholar ).

@@ -1,0 +1,15 @@
+Confocal imaging of K562 cell aggregates and HEK293 cell targeting
+was done with a Nikon Eclipse Ti2 microscope coupled with
+a Yokogawa W1 Spinning Disc. In the case of K562
+cell aggregates, aggregates were allowed to settle, media was removed,
+then cells were gently resuspended in melted low melting point
+agarose (ThermoFisher 16,520,050) dissolved into culture media and pre-equilibrated to
+37°C, then gently dropped onto the glass coverslip of a
+24-well glass-bottom plate (Mattek P24G-1.5-10-F). The agarose was allowed to
+solidify at room temperature for 15 min, followed by confocal
+imaging. 3D reconstruction for 2-color images was done in ImageJ
+( Schneider et al., 2012 56. Schneider, C. ∙ Rasband,
+W. ∙ Eliceiri, K. NIH Image to ImageJ: 25 years
+of image analysis Nature Methods. 2012; Crossref Scopus (43973) PubMed
+Google Scholar ). 3D reconstructions for 3 + color imaging
+and slice view were created in Nikon Elements.

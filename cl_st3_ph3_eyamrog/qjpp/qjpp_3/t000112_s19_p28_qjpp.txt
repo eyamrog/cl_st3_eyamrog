@@ -1,0 +1,15 @@
+Next, we attempted to identify possible bacterial and eukaryotic hosts
+for our predicted viral MAGs. For the 686 species with
+similar sequences in IMG/VR, we projected known host information onto
+2,064 MetaSUB viral MAGs. Additionally, we used CRISPR-Cas spacer matches
+in the Integrated Microbial Genomes and Microbiomes (IMG/M) system to
+assign possible hosts to a further 1,915 predicted viral species.
+Finally, we used a database of 20 million metagenome-derived CRISPR
+spacers to provide further rough taxonomic assignments. Our predicted viral
+hosts aligned with our taxonomic profiles; 41% of species in
+the core microbiome (see a core urban microbiome centers global
+diversity ) had predicted viral-host interactions. Many of our viral
+MAGs were found in multiple locations ( Figure 5 D).
+Many viruses were found in South America, North America, and
+Africa, and viral MAGs in Japan often corresponded to those
+in Europe and North America.

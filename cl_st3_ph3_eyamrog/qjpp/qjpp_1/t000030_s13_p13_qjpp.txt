@@ -1,0 +1,7 @@
+Influenza is an acute contagious infection of the airways and
+lungs caused by an influenza virus infection. Influenza transmission dynamics
+are characterized by several epidemiological parameters estimated from available surveillance
+data. These dynamics include the incubation period, infectious period, serial
+interval, generation time, exponential growth rate, and reproduction number, among
+others. Reliable information on these parameters is important for influenza
+prediction and forecasting studies, as discussed below.

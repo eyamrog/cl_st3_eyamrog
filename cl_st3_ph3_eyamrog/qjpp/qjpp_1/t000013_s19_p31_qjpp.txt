@@ -1,0 +1,8 @@
+Focusing on the results for the individual mutations themselves, we
+found only one mutation, E484K, had more than five specimens
+that differed in their results between NGS and VIP (Fig.
+5e ). The 7 E484K discrepancies are attributed to the
+cross-reactive signals between E484K and T478K; thus, new crRNA designs
+are likely needed to optimally differentiate these signals (Supplementary Figs.
+6b and 7b,c ). Altogether, we found that VIP had
+97.7% concordance to NGS at allelic discrimination.

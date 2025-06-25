@@ -1,0 +1,11 @@
+During the first 9 months of virus circulation, we noted
+that 61% of substitutions were non-synonymous, which is generally what
+we could expect under lack of both positive and purifying
+selection and in line with reports suggesting incomplete purifying selection
+during the early stages of SARS-CoV-2 spread . During this
+time, we observed a relatively uniform distribution of substitutions across
+most of the genome, with some enrichment in ORF3a, ORF7a,
+ORF8 and N. This enrichment was previously reported and may
+be due to more relaxed purifying selection in these regions
+or higher mutation rates ; adaptive evolution at these regions
+also cannot be ruled out.

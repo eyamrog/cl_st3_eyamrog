@@ -1,0 +1,17 @@
+The two main drawbacks to using wearable cameras are ethical/privacy
+considerations and researcher burden. Some ethical issues are mitigated by
+giving wearers the power to stop recording at any time
+and to delete, at the end of the wear period,
+any photographs that they wish the researchers not to see
+(Kelly et al., 2013 ). However, other ethical issues are
+more complex, such as how to obtain consent from third
+parties captured in the images (particularly those who live with
+the participant) and what the research team should do in
+the event that illegal behavior is captured (Kelly et al.,
+2013 ). In terms of researcher burden, the volume of
+images generated from wearable cameras is substantial—for example, 364 000-500
+000 images can be generated from a sample of 40-50
+participants providing 3-4 days of data (Kelly et al., 2013
+; Kerr et al., 2013 ), which the researcher must
+then annotate using a coding framework that suits the particular
+research question.

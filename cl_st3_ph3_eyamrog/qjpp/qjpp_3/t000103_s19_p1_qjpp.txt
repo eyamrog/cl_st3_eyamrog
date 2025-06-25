@@ -1,0 +1,20 @@
+We isolated a panel of 48 human anti-EEEV mAbs from
+the B cells of a peripheral blood sample of a
+donor who had a prior documented, naturally acquired EEEV infection.
+To down-select mAbs from this panel, we focused on those
+that could efficiently neutralize Sindbis virus (SINV)/EEEV, a chimeric virus
+for use in BSL2 conditions containing the nonstructural proteins of
+SINV and the structural proteins of EEEV strain FL93-939 (
+Kim et al., 2019 49. Kim, A.S. ∙ Austin, S.K.
+∙ Gardner, C.L. ... Protective antibodies against Eastern equine encephalitis
+virus bind to epitopes in domains A and B of
+the E2 glycoprotein Nat. Microbiol. 2019; 4 :187-197 Crossref Scopus
+(11) PubMed Google Scholar ). Twelve mAbs exhibited neutralizing activity
+against SINV/EEEV ( Figures 1 A and 1D). All mAbs
+isolated were of the immunoglobulin G1 (IgG1) subclass except for
+EEEV-143, which was an IgA1 ( Figure 1 D). Of
+these, seven exhibited potent neutralization activity (here defined as half-maximal
+inhibitory concentration [IC 50 ] <20 pM; <6 ng/mL) and
+five exhibited moderate neutralization activity (here defined as mAbs with
+20 pM–4 nM [6 ng/mL–1.2 μg/mL] IC 50 values) against
+SINV/EEEV.

@@ -1,0 +1,8 @@
+CRISPR-Cas types were assigned to arrays based on detected cas
+genes within a 10 kilobases vicinity. Cases where CRISPRCasFinder associated
+several cas genes of contradicting CRISPR-Cas types with the same
+CRISPR array were regarded as unclear annotation. This procedure yielded
+838,532 predicted CRISPR arrays (with additional CRISPR arrays predicted with
+default parameters for PILER-CR), of which, 3,245 CRISPR arrays had
+unambiguous annotation, resulting in 43,656 unique spacers queried against genomic
+databases using BLASTN.

@@ -1,0 +1,16 @@
+Quantification of all viral seed stock and genomic RNA received
+from ATCC and BEI Resources was performed using the Power
+SYBR Green RNA-to-C T 1-Step Kit (Thermo Fisher Scientific). Reactions
+were run in triplicate with 1 μl RNA input in
+10-μl reactions. A primer mix at 500 nM was used
+and all primer sequences used are listed in Supplementary Table
+4 . The following thermal cycling conditions were used: (1)
+reverse transcription at 48 °C for 30 min; (2) enzyme
+activation at 95 °C for 10 min; (3) 40 cycles
+at 95 °C for 15 s and 60 °C for
+1 min; and (4) melt curve of 95 °C for
+15 s, 60 °C for 15 s and 95 °C
+for 15 s. Standard curves were made with spike-in of
+RNA template to make a tenfold serial dilution from 10
+to 10 copies μl . This was run on the
+QuantStudio 6 Flex Real-Time PCR System.

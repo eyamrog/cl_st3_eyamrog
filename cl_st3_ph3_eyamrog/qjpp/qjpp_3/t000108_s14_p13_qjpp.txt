@@ -1,0 +1,20 @@
+Primary mouse bone marrow macrophages were cultured directly on glass-bottom
+culture dishes (35mm Petri dish, 10mm microwell with no. 0
+cover glass) (MatTek Corporation, Ashland, MA, USA) under osteoclastogenic conditions
+(100ng/mL RANKL and 25ng/mL M-CSF) for a period of 4
+to 7 days. Prior to imaging, osteoclasts were incubated with
+wheat germ agglutinin, Alexa Fluor® 488 conjugate (Invitrogen, Carlsbad, CA,
+USA) or OsteoSense 680EX Fluorescent Imaging Agent (PerkinElmer Inc., Waltham,
+MA, USA), and Hoechst 33258 (bis-benzimide) (Molecular Probes Eugene, OR,
+USA) according to manufacturers’ instructions. Osteoclasts were imaged using the
+NIKON A1Si confocal microscope equipped with 20x (dry) and 60x
+(oil) immersion lenses (Nikon, Melville, NY, USA) under controlled atmospheric
+conditions (37°C and 5% CO 2 /air) in a Tokai
+Hit Stage Top incubator (INUG2E-TIZ, Fujinomiya-shi, Shizuoka-ken, Japan). Frames were
+captured every 2 or 10 min for 2 h or
+overnight using NIS-C Elements software (Nikon). Cell surface areas and
+cumulative cell trajectories were analyzed using FIJI and the MtrackJ
+plug-in ( Meijering et al., 2012 53. Meijering, E. ∙
+Dzyubachyk, O. ∙ Smal, I. Methods for cell and particle
+tracking Methods Enzymol. 2012; 504 :183-200 Crossref Scopus (1089) PubMed
+Google Scholar ).

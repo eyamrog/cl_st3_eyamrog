@@ -1,0 +1,4 @@
+Conclusions: We recommend that researchers use the method(s) that suit
+the research question; inclinometers are recommended for the measurement of
+total sedentary time, while self-report methods are recommended for measuring
+time spent in particular contexts of sedentary behavior.

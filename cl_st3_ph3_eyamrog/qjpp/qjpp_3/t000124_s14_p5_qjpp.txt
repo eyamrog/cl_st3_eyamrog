@@ -1,4 +1,0 @@
-High-molecular-weight DNA was isolated from 1.5 g of material with
-a NucleoBond HMW DNA kit (Macherey Nagel). Quality was assessed
-with a FEMTO-pulse device (Agilent), and quantity was measured with
-a Quantus fluorometer (Promega).

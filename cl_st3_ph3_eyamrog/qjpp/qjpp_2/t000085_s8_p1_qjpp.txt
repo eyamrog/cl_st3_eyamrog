@@ -1,0 +1,18 @@
+Colorectal cancer remains common worldwide. The current standard care for
+nonmetastatic colon cancer is surgery, with histopathological staging informing the
+use of up to 6 months of adjuvant chemotherapy. Although
+the benefit of adjuvant chemotherapy has been unequivocally established for
+patients with stage III colon cancer, its usefulness for patients
+with stage II disease continues to be debated. Surgery alone
+can cure more than 80% of patients with stage II
+colon cancer, and no clear overall survival benefit has been
+observed in trials of adjuvant therapy. Therefore, guidelines currently recommend
+that adjuvant chemotherapy be considered for patients who have stage
+II colon cancer with high-risk clinicopathological features, who may be
+more likely to benefit from adjuvant treatment. However, the current
+definitions of “high risk” are inadequate, since many patients who
+have cancer with high-risk features do not have disease recurrence,
+whereas some with disease that is deemed low-risk do. Furthermore,
+the survival benefit conferred by adjuvant chemotherapy remains modest (<5%)
+even when patients with high-risk disease are selectively treated, and
+therefore many patients are exposed to unnecessary chemotherapy.

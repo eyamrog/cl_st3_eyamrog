@@ -1,0 +1,16 @@
+Next, we performed a rarefaction analysis on the set of
+all resistance genes in the dataset, which we call the
+“panresistome” ( Figure S5 D). Similar to the rate of
+detected species, the panresistome also shows an open slope with
+an expected rate of discovery of 1 new AMR gene
+per 10 samples. Given that AMR gene databases are rapidly
+expanding, and that no AMR genes were found in some
+samples, it is likely that future analyses will identify many
+more resistance genes in these data. Additionally, AMR genes showed
+a “neighborhood” effect within samples that are geographically proximal, analogous
+to the effect was seen for taxonomic composition ( Figure
+S5 C). Excluding samples where no AMR genes were detected,
+the Jaccard distance between sets of AMR genes increases with
+distance for pairs of samples in the same city. As
+with taxonomic composition, the overall effect is weak and noisy
+but nonetheless significant.

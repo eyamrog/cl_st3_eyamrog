@@ -1,0 +1,6 @@
+Measures related to immunosenescence may also be useful for comparing
+individuals and making life history inferences. Naïve cell counts and
+sjTREC may be useful in this regard, as well as
+counts of senescent T cells (Franceschi et al., 2000 ).
+Methylation assays have been used to develop a so-called “epigenetic
+clock” related to immune aging (Horvath et al., 2016 ).

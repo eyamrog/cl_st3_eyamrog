@@ -1,0 +1,5 @@
+In our analyses, we excluded the first day (24 h)
+of data to account for training effects; thus, our analyses
+were conducted on approximately 144 h of continuous data. All
+methods employed during this study were approved by the Institutional
+Review Board at the University of North Carolina-Wilmington (UNCW).

@@ -1,0 +1,5 @@
+To determine the osteomorph upregulated genes, DGE analysis was performed
+by comparing LYSM + CSF1R + ZOL + populations from
+the marrow fraction to the combined single-positive (LYSM + CSF1R
+neg and LYSM neg CSF1R + ) populations from the
+bone and marrow fraction.

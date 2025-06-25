@@ -1,0 +1,11 @@
+To visualize how signaling by cAMP is patterned, we aimed
+to develop and use new technologies that allow analysis of
+cAMP diffusion and possible cAMP gradients at the nanometer scale.
+To assess intracellular cAMP diffusion under physiological conditions, we set
+out to directly measure cAMP dynamics in intact cells. We
+designed the cell-permeable fluorogenic cAMP analog 8-(2-(5(6)-carboxyfluoresceindiacetate)-aminoethylthio)adenosine-3′,5′-cyclic monophosphate (8-FDA-cAMP), which
+becomes fluorescent when hydrolyzed to the corresponding fluorescein compound 8-F-cAMP
+by intracellular esterases ( Figure 1 A). A detailed characterization
+of this compound is given in Methods S1 , including
+optical properties, equivalence to cAMP in binding to and activation
+of PKA, as well as resistance to degradation by PDEs.

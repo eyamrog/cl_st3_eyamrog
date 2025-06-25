@@ -1,0 +1,8 @@
+Primary ORR analysis was based on RAC-adjudicated responses in the
+response-evaluable population. ORR was estimated using frequency, percentage and two-sided
+95% CIs based on the exact binomial distribution (Clopper–Pearson). Statistical
+testing on binomial proportion against a null of 28% was
+performed using one-sided α = 0.025. Wald test P value
+was presented. CR + CRh + PR rate was summarized
+similarly as ORR. Statistical testing on binomial proportion against a
+null of 17% was performed using one-sided α = 0.025.

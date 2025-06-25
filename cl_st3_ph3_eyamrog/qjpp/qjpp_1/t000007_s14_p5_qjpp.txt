@@ -1,0 +1,21 @@
+When re-analyzing the sequence data, we relied on the mutation
+frequencies reported in each publication, notably because raw data were
+unavailable in most of the papers. Although the methods used
+for mapping and base-calling somewhat differed among the different papers
+(Supplementary Table 7 ), in line with the above, we
+focused on mutations with a frequency higher than 80%, which
+was not present in the first timepoint sequenced. This led
+to a conservative approach that is likely less affected by
+the differences in the various publications’ bioinformatics approaches. When analyzing
+viral polymorphisms across time (Fig. 3 ), we also present
+mutations at lower frequencies, as reported by each individual publication,
+for illustrative purposes. All relevant clinical data were collected and
+are summarized in Table 1 and Supplementary Tables 2 and
+3 . Ct values for RT–qPCR tests were also extracted
+from all publications (Supplementary Table 6 ). A test was
+considered borderline if the Ct ranged from 34 to 37;
+a test was considered negative if it was reported as
+such or was equal to 38 or higher. In one
+study , raw VL measurements were presented in terms of
+number of copies per milliliter of sample, and a negative
+result was reported when zero copies were detected.

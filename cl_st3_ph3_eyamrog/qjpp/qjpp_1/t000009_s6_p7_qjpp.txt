@@ -1,0 +1,25 @@
+In terms of strengths, first, this is the most comprehensive
+study examining psychiatric disorders across 26 adult cancers, excess mortality
+due to mental illness, risk of self-harm and risk of
+suicide and other causes of deaths using a single population-based
+cohort. The use of population-based data means that our findings
+are generalizable. Second, given that we have used linked health
+records from primary care practices and hospitals, a particular strength
+is the ascertainment of psychiatric and self-harm events in ambulatory
+and inpatient settings. Unlike in studies based on inpatient hospital
+records , our results are less likely to be affected
+by biases due to underhospitalization or underdiagnosis of psychiatric disorders.
+We were able to capture mild cases managed in community
+primary care. Third, we relied on clinically recorded diagnoses of
+psychiatric disorders and self-harm episodes, which means that as opposed
+to self-reported events, our study is free of reporting biases.
+Fourth, we were able to examine the effects of cancer
+treatment type and chemotherapy type on subsequent psychiatric events as
+detailed information on cancer treatment is available from the cancer
+registry. Fifth, linkage to the national death registry enabled the
+analyses on cause-specific mortality with complete case ascertainment. Sixth, our
+study uses the mean cumulative count (MCC) method to estimate
+the total burden of psychiatric and self-harm episodes over time.
+All other studies used the cumulative incidence method, which only
+considers the first event, thereby underestimating the total burden of
+recurring mental illness and self-harm.

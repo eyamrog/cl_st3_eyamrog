@@ -1,0 +1,18 @@
+Before adopting or revising any household water insecurity scale, it
+is important to note three major unresolved points to be
+considered alongside the goals of the research. First, there are
+important trade-offs to make between the validity of locally-adapted scales
+vs the comparability of cross-site scales like Young and colleagues'
+HWISE scale. The second challenge is the question of dimensionality;
+there is no consensus on whether uni-dimensional or multi-dimensional scales
+better capture household water insecurity in ways relevant to modeling
+with human biological (or other) data. Recent literature points to
+the need for more subscale development so as to differentiate
+water quality and quantity, thus, suggesting the rising need for
+capturing water phenomena multidimensionally (Jepson, Wutich, et al., 2017 ;
+Subbaraman et al., 2015 ). Third, there is no current
+agreement on recall periods nor the appropriate recall intervals for
+scalar questioning on experiences of water insecurity. Recall periods vary
+across scales from 1 week to 12 months (by comparison,
+food insecurity scales tend to apply a more standard 2-
+to 4-week window).

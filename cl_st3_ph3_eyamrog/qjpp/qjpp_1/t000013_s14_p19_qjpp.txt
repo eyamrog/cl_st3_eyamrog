@@ -1,0 +1,9 @@
+For color coding, unless specified otherwise, amplified samples were diluted
+1:10 into nuclease-free water supplemented with 13.2 mM MgCl 2
+before color coding to achieve a final concentration of 6
+mM after droplet merging. Detection mixes were not diluted. Color-coded
+stocks (2 µl) were arrayed in 96-well plates. (For detailed
+information on the construction of color codes, see ‘Color code
+design, construction and characterization’.) Each amplified sample or detection mix
+(18 µl) was added to a distinct color code and
+mixed by pipetting.

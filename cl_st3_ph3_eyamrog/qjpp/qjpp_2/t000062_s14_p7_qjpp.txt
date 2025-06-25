@@ -1,0 +1,26 @@
+This outcome consists of two separate components: additional colorectal deaths
+due to delayed treatment for patients who would not have
+died from colorectal cancer with timely treatment, and colorectal deaths
+occurring earlier than expected due to delayed treatment for patients
+who would have died from colorectal cancer by 2044 even
+with timely treatment. Due to the scarcity of available real-time
+Australian data on the average duration of treatment delays experienced
+by patients and the proportion of patients who would have
+had delayed treatment during the COVID-19 pandemic, we explicitly modelled
+a number of hypothetical scenarios based on the combination of
+three parameters: (1) duration of health-care system disruption (3, 6,
+and 12 month disruptions to the health-care system), (2) average
+duration of the treatment delay experienced by patients at the
+population level (4, 8, 12, 16, and 26 weeks delay),
+and (3) the assumption that 100% of patients would have
+had delayed treatment but after the delay eventually all would
+receive treatment as planned. Some potential parameter choices were informed
+by the available data, as described in the appendix (pp
+50–51) . The death rate for each treatment delay scenario
+was calculated using the proportion of patients having delayed treatment
+and the corresponding relative risk of death due to the
+specific delay duration, with relative risks calculated using the formula
+proposed by Hanna and colleagues ( appendix pp 51–52 ).
+We defined the UI as the estimated excess colorectal cancer
+deaths based on the confidence intervals of the relative risks
+of death due to treatment delay.

@@ -1,0 +1,8 @@
+For a subset of studies within gnomAD, phenotype data are
+available from study or national biobank questionnaires or from linked
+electronic health records ( Methods ). We manually reviewed these
+records for all 60 of the 255 gnomAD LRRK2 pLoF
+carriers with available data and recorded any phenotypes affecting the
+lung, liver, kidney, cardiovascular system, nervous system, immunity and cancer
+(Supplementary Table 7 ). We found no over-representation of any
+phenotype or phenotype category in LRRK2 pLoF carriers.

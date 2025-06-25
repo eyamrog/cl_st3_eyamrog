@@ -1,0 +1,5 @@
+Background: In the diagnosis of obstructive coronary artery disease (CAD),
+computed tomography (CT) is an accurate, noninvasive alternative to invasive
+coronary angiography (ICA). However, the comparative effectiveness of CT and
+ICA in the management of CAD to reduce the frequency
+of major adverse cardiovascular events is uncertain.

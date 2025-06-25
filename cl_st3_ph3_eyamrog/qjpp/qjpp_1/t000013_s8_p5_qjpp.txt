@@ -1,0 +1,8 @@
+To fulfill the public health need for a clinically relevant
+surveillance technology that detects multiple viruses and variants quickly, we
+developed mCARMEN. mCARMEN builds on CARMEN v.1 and uses commercially
+available Fluidigm microfluidics and instrumentation. To our knowledge, mCARMEN is
+the only diagnostic method that combines surveillance capabilities into a
+single technology platform with the ability to test hundreds of
+samples in a day for multiple respiratory viruses and variants,
+while also being able to quantify viral genomic copies.

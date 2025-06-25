@@ -1,0 +1,13 @@
+There are a substantial number of subjective (self-reported) methods for
+measuring sedentary behavior, including self-report questionnaires, previous-day recalls (PDR), diaries,
+and ecological momentary assessments (EMAs; Table 1 ). Due to
+the flexibility around what kind of questions can be asked,
+subjective techniques can theoretically capture the purpose, environment, posture, social
+context, associated behavior, status, time, and type of sedentary behavior
+(Rivière, Aubert, Omorou, Ainsworth, & Vuillemin, 2018 ). While objective
+measurements are typically validated against direct observation, subjective measures are
+often compared against objective ones. The types of subjective measures
+currently available to researchers are discussed below and, where applicable,
+their validity is discussed in relation to the activPAL, considered
+here as the gold-standard for the measurement of free-living sedentary
+time.

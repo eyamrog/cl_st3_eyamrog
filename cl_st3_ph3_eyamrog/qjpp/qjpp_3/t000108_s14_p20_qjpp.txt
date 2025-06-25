@@ -1,0 +1,10 @@
+Bone marrow chimeric mice were injected with 3 doses of
+AF647-Zol (BioVinc, Pasadena, CA, USA) over 7 days prior to
+analysis. Mice were sacrificed, long bones were harvested and soft
+tissue was removed. Cells in the bone marrow were flushed
+from the long bones with PBS. Cells adherent to the
+bone were isolated from the remaining marrow-depleted bone fraction through
+two rounds of enzymatic digestion with collagenase A (2mg/mL) and
+dispase (2mg/mL) for 15 min at 37°C. Red blood cell
+lysis was performed using ammonium chloride prior to isolation of
+individual cells for flow cytometric analysis and FACS sorting.

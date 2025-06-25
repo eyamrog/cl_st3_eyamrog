@@ -1,8 +1,0 @@
-Second, the slope determined in Figure 3 B, which quantifies
-stoichiometry between USP10 and G3BP required to differentiate cells that
-form stress granules from those that are unable to, is
-remarkably close to 1 (~0.98). A slope of 1 is
-predicted for such a competitive inhibitor (“cap”) expressed at concentrations
-far greater than its K d and is further confirmed
-by nearly equivalent slopes for other strong inhibitors (“caps” e.g.,
-USP10 NIM and CAPRIN1 NIM).

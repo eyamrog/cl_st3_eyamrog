@@ -1,0 +1,14 @@
+All serum samples were heat-inactivated by incubation at 56°C for
+30 min before use. Mouse plasma (24 μL) was serially
+two-fold diluted from 1:10 to 1:1280, then an equal volume
+of virus solution with 100 TCID 50 virus was added
+and incubated at 37°C for 30 min in a 5%
+CO 2 incubator. Diluted negative sera were mixed with an
+equal volume of virus solution and were used as a
+negative control. After incubation, 50 μL mixtures were inoculated onto
+monolayer Vero E6 cells in a 96-well plate for 1
+h. After removing the supernatant, the plate was washed twice
+with DMEM, cells were incubated with DMEM supplemented with 2%
+FBS for three days. Each serum concentration was duplicated. Cells
+were observed for CPE, and neutralising titers were recorded as
+the final serum dilution that could neutralise all inoculated wells.

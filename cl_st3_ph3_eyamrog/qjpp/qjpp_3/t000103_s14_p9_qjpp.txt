@@ -1,0 +1,16 @@
+Recombinant EEEV E1 ectodomain (strain FL93-939; amino acids Y1-S409) with
+the osteonectin leader sequence and a C-terminal 6x his-tag was
+codon-optimized, synthesized and cloned into the mammalian expression vector pcDNA3.1(+).
+Recombinant EEEV (strain FL93-939) structural protein genes (capsid-E3-E2-6K-1) were codon-optimized,
+synthesized and cloned into the mammalian expression vector pcDNA3.1(+) for
+expression of the WT EEEV structural proteins. Using the WT
+EEEV structural protein vector, residues D1-L267 of EEEV E2 structural
+protein were mutated to alanine or alanine residues to serine
+for expression of the EEEV E2 mutants for alanine-scanning mutagenesis
+library analyses. Recombinant human anti-EEEV variable genes were synthesized and
+cloned into a pTwist CMV Betaglobin WPRE Neo mammalian expression
+vector that was customized to contain isotype-specific constant regions (IgG1,
+IgA1, or Fab) (Twist Bioscience Inc.). Additionally, for expression of
+polymeric IgA1, the mouse J chain sequence (Uniprot: P01592 )
+was synthesized a pTwist CMV Betaglobin WPRE Neo mammalian expression
+vector (Twist).

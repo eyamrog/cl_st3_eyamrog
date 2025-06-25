@@ -1,0 +1,18 @@
+Blood is the optimal tissue in which to measures systemic
+immunity, since blood distributes white blood cells, cytokines, and other
+factors throughout the body. However, if blood is unavailable, what,
+if any, immunological measures are available? The short answer is:
+it is difficult to measure systemic immunity in other fluids.
+The long answer is that while many things can be
+measured, care must be taken in interpretation. This is because
+markers in urine or feces are much more indicative of
+localized bladder or renal (in the case of urine) or
+gut (in the case of feces) infections than systemic immune
+allocations. Higham et al. ( 2015 ) compared serum measures
+with several fecal and urinary measures. They found that while
+serum and urinary neopterin were correlated (r = 0.664), fecal
+concentrations were not correlated with serum. Serum CRP was not
+correlated with urinary or fecal CRP levels, but there was
+a short-term rise in fecal and urinary CRP following a
+surgery. Serum and urinary haptoglobin were also not correlated, and
+haptoglobin could not be measured in feces.

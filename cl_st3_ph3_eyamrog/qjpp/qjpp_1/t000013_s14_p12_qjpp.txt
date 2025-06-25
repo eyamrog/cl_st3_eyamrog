@@ -1,0 +1,14 @@
+We plotted reference-normalized, background-subtracted fluorescence for guide-target pairs. For a
+guide-target pair (at a given time point, t, and target
+concentration), we first computed the reference-normalized value as (median(P t
+− P 0 ) / (R t − R 0
+)) where P t is the guide signal (FAM) at
+the time point, P 0 is its background measurement before
+the reaction, R t is the reference signal (ROX) at
+the time point, R 0 is its background measurement and
+the median is taken across replicates. We performed the same
+calculation for the NTC of the guide, providing a background
+fluorescence value for the guide at t. (When there were
+multiple technical replicates of such controls, we took the mean
+value across them.) The reference-normalized, background-subtracted fluorescence for a guide-target
+pair is the difference between these two values.

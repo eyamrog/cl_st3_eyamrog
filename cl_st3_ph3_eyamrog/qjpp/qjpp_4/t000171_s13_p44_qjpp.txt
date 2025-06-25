@@ -1,0 +1,18 @@
+Multiple authors have successfully sequenced RNA from DBS (McDade, Ross,
+et al., 2016 ; Reust et al., 2018 ). In
+these studies, relative transcript reads derived from DBS were highly
+correlated with PAXgene derived values and yielded largely similar associations
+with predictors, though with some discrepancies. Most of these discrepancies
+may be due to the small amount of RNA recovered
+from DBS. For example, McDade, Ross, et al. ( 2016
+) did not quantify RNA yields since these were expected
+to be too low for accurate quantification. The authors note
+that due to the increased noise from a small RNA
+sample, a sample size ~5% greater than in PAXgene studies
+might be required to maintain statistical power. These studies require
+a large number of blood spots, in the range of
+two to four complete blood spots (McDade, Ross, et al.,
+2016 ) or 8 × 3 mm 2 punches (Reust
+et al., 2018 ). Overall, DBS are likely to be
+simpler to store and transport, but small liquid aliquots with
+PAXgene are likely to yield better results.

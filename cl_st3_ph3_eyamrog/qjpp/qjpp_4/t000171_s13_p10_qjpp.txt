@@ -1,0 +1,12 @@
+Leukocyte counts are also likely to represent energy investments, since
+these cells are costly to manufacture and operate (Straub et
+al., 2010 ). However, some cell types may be costlier
+than others, particularly those involved in adaptive immunity, due to
+the need to maintain a wide repertoire of cells and
+antibodies with different receptors. For example, Garcia, Blackwell, et al.
+( 2020 ) found that T cells and B cells
+were negatively associated with child height-for-age. Naïve subsets of adaptive
+cell types, or markers of thymic output like sjTREC may
+further be interpreted as investment into future immune defense, since
+these represent the production of new cell lines in preparation
+for new infections.

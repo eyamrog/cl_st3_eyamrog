@@ -1,0 +1,20 @@
+To account for different randomization ratios for pooled tirzepatide versus
+comparator between trials, adjusted estimates of means, standard deviations, event
+rates and percentages were obtained by weighting with inverse probability
+of randomization for treatment within stratum . Cumulative incidence on
+time to first event was estimated using the adjusted Kaplan–Meier
+estimator weighting with inverse probability of randomization for treatment within
+stratum . A stratified Cox proportional hazards regression model stratified
+by trial-level cardiovascular risk was also used for each subgroup
+analysis. The model contained treatment, the subgroup variable and the
+treatment-by-subgroup interaction term as fixed effects and trial-level cardiovascular risk
+stratification. All tests of interactions between treatment and subgroup were
+conducted at a two-sided alpha level of 0.10. Analyses of
+the following subgroups were pre-specified: sex, age (<65 years and
+≥65 years) and baseline HbA1c (≤8.5% and >8.5%). Analyses of
+other subgroups were planned post hoc, including race (White or
+Non-White), country (US or non-US) and baseline SGLT-2i use (yes
+or no). The analyses included all randomized participants receiving at
+least one treatment dose (modified intent-to-treat (mITT) population), and all
+analyses were conducted using individual participant data in accordance with
+the intention-to-treat principle.

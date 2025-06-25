@@ -1,0 +1,5 @@
+Results: We review immune measures that can be obtained from
+point-of-care devices or from immunoassays of dried blood spots (DBSs),
+field methods for flow cytometry, the use of RNA or
+DNA sequencing and quantification, and the application of immune activation
+assays under field conditions.

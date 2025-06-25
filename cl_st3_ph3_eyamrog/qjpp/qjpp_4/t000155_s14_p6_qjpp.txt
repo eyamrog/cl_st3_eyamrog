@@ -1,5 +1,0 @@
-Level of physical activity was estimated by collecting data on
-the regularity, intensity and duration of physical activity of women.
-Subjects were divided into active (physical activity reached 2.5 or
-more hours per week) and inactive (less than 2.5-hour activity
-a week; WHO, 2010 ) subgroups in the present analysis.

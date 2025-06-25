@@ -1,0 +1,10 @@
+Diaries allow participants to record their daily activities, including sedentary
+behaviors, in a prospective manner. For example, the Bouchard activity
+record typically uses a pen-and-paper approach and asks participants to
+record their daily activities in 15-minute intervals spanning the entire
+24-hour day. From this, by summing the 15-minute blocks in
+which a sedentary behavior was recorded, total sedentary time can
+be estimated. The Bouchard activity record has been shown to
+have a very strong correlation with activPAL-measured sedentary time (
+r = .87, P < .05) (Hart, Ainsworth, & Tudor-Locke,
+2011 ).

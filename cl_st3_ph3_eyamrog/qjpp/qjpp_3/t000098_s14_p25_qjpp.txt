@@ -1,0 +1,21 @@
+Transfected HEK293 cells on a 10 cm plate (corresponding to
+approximately 1-1.5x10 7 cells) were washed twice with ice-cold Dulbecco’s
+Phosphate Buffered Saline (Sigma-Aldrich) and harvested in 300 μL lysis
+buffer (10 mM Tris-HCl, 10 mM MgCl 2 , pH
+7.4) containing 1 mM PMSF and protease inhibitors (20 μg/mL
+trypsin inhibitor from soybean and 60 μg/mL benzamidine). Cells were
+lysed by homogenization (two rounds of 10 s each using
+an T8 Ultra-Turrax® homogenizer (IKA, Staufen, Germany)). Nuclei and cell
+debris were spun down by centrifugation (1000xg, 5 min, 4°C).
+To obtain the cytosolic fraction, the supernatant was centrifuged again
+(100.000xg, 30 min, 4°C). The resultant supernatants were transferred to
+a quartz cuvette and adjusted with 10 mM Tris-HCl, 10
+mM MgCl 2 (pH 7.4) to comparable sensor densities (assessed
+by direct YFP excitation). Fluorescence emission spectra were recorded with
+a LS50B spectrometer (PerkinElmer Life Sciences, Waltham, MA, USA) at
+436 nm excitation, and emission was measured between 460 and
+550 nm after adding increasing concentrations of cAMP. 480/525 nm
+FRET emission ratios were calculated at different cAMP concentrations and
+fitted with a three-parameter logistic function and normalized to the
+lower (absence of cAMP; set 0%) and upper plateau (saturating
+concentrations of cAMP, set 100%) of the concentration-effect curves.

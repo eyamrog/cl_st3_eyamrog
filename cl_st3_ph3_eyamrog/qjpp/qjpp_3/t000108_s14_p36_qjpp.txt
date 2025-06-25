@@ -1,0 +1,27 @@
+MAGMA analysis was performed on a sample of 378,484 unrelated
+white European subjects (54% female, plink1.9 / 2 ( Chang
+et al., 2015 14. Chang, C.C. ∙ Chow, C.C. ∙
+Tellier, L.C. ... Second-generation PLINK: rising to the challenge of
+larger and richer datasets Gigascience. 2015; 4 :7 Crossref Scopus
+(6020) PubMed Google Scholar ) pairwise kinship co-efficient < 0.044)
+from the UK Biobank Study (UKB) ( Bycroft et al.,
+2018 13. Bycroft, C. ∙ Freeman, C. ∙ Petkova, D.
+... The UK Biobank resource with deep phenotyping and genomic
+data Nature. 2018; 562 :203-209 Crossref Scopus (3686) PubMed Google
+Scholar ) that had valid eBMD measures and high-quality genome-wide
+HRC and 1000G/UK10K imputed data from the January 2018 release
+[(i.e., ∼17M genetic variants with an information quality score >
+0.9, minor allele frequency > 0.05%, minor allele count >
+1, genotyping hard call rate > 0.95, and weak evidence
+of deviation from Hardy-Weinberg equilibrium (p > 1x10 −6 )].
+Details of how eBMD was defined and criteria for including
+individuals in the study are detailed in the original publications
+( Kemp et al., 2017 40. Kemp, J.P. ∙ Morris,
+J.A. ∙ Medina-Gomez, C. ... Identification of 153 new loci
+associated with heel bone mineral density and functional involvement of
+GPC6 in osteoporosis Nat. Genet. 2017; 49 :1468-1475 Crossref Scopus
+(308) PubMed Google Scholar ; Morris et al., 2019 56.
+Morris, J.A. ∙ Kemp, J.P. ∙ Youlten, S.E. ..., 23andMe
+Research Team An atlas of genetic influences on osteoporosis in
+humans and mice Nat. Genet. 2019; 51 :258-266 Crossref Scopus
+(457) PubMed Google Scholar ).

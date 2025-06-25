@@ -1,0 +1,16 @@
+The published article includes all datasets generated or analyzed during
+this study. For some data analysis we used a custom
+code/algorithm implemented in IGOR Pro, as previously published ( Di
+Rienzo and Annibale, 2016 14. Di Rienzo, C. ∙ Annibale,
+P. Visualizing the molecular mode of motion from a correlative
+analysis of localization microscopy datasets Opt. Lett. 2016; 41 :4503-4506
+Crossref Scopus (6) PubMed Google Scholar ; Serfling et al.,
+2019 40. Serfling, R. ∙ Seidel, L. ∙ Bock, A.
+... Quantitative Single-Residue Bioorthogonal Labeling of G Protein-Coupled Receptors in
+Live Cells ACS Chem. Biol. 2019; 14 :1141-1149 Crossref Scopus
+(29) PubMed Google Scholar ; Bathe-Peters et al., 2020 5.
+Bathe-Peters, M. ∙ Gmach, P. ∙ Annibale, P. ... Linescan
+microscopy data to extract diffusion coefficient of a fluorescent species
+using a commercial confocal microscope Data Brief. 2020; 29 :105063
+Crossref Scopus (7) PubMed Google Scholar ), which is available
+from the authors upon request.

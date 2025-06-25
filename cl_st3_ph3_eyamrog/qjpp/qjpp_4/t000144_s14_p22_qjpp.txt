@@ -1,0 +1,8 @@
+Included in these five sequential models are a random effect
+for community of residence and fixed effects for all control
+variables (Section 2.2.4 ). We use a random effect for
+community such that we can pool our estimates at the
+community level; this is more appropriate than pooling data across
+both communities when estimating parameters, as these two communities differ
+in important ways (Section 2.1 ). We use weakly informative
+priors for all variables ( Supporting Information 3.2 ).

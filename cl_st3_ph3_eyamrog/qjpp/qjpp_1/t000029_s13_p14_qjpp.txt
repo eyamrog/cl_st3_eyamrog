@@ -1,0 +1,20 @@
+Whittaker and colleagues ( 75 ), in a review of
+mCessation interventions, described mHealth as increasingly useful in the provision
+of health information and delivery of health care globally, predicting
+a continued upward trend in the future application of mobile
+phone–based support. The authors note that the evidence, while reassuring
+for interventions delivered in HICs, was less apparent for LMICs.
+Although the potential value added by mHealth in low-resource settings
+is considerable, particularly with respect to reminders for medication adherence
+and messages for behavior change, the evidence of impact in
+LMICs to date relies on hypothesized benefits of scaled-up delivery.
+A deeper understanding of the process of adaptation, implementation, evaluation,
+and ethical considerations is emerging ( 45 , 53 ).
+mHealth initiatives delivered within settings where there are fewer resources
+face a myriad of additional challenges, notably technical capacity; short-term,
+donor-driven funding; and lack of local investment. If not addressed
+from the concept development phase, these challenges can undermine the
+potential benefits. In LMICs where health systems are under-resourced and
+beholden to unsustainable financing mechanisms, equity of access to mHealth
+must be considered as part of a complex system (
+24 , 71 ).

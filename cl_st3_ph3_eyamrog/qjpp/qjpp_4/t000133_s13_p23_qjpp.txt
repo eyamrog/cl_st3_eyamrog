@@ -1,0 +1,6 @@
+Full methods on measuring vasopressin and copeptin can be found
+in Morgenthaler et al. ( 2006 ). In sum, copeptin
+is a more useful and practical biomarker to measure vasopressin
+for human biology research than directly measuring vasopressin. Nonetheless, copeptin
+and vasopressin are more reflective of changes in water intake
+than plasma osmolality (Enhörning et al., 2019 ).

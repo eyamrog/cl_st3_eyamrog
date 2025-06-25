@@ -1,0 +1,15 @@
+In the case of Potti et al., we now know
+that requiring reproducibility or even just code sharing would not
+have made much difference. Reporting done by The Cancer Letter
+showed definitively that the investigators were aware of numerous statistical
+and coding errors with the analysis but did not think
+that the problems were serious ( 19 ). Rather, they
+were considered “differences of opinion.” The notion that requiring reproducibility
+can lead to improved data analyses relies on the critical
+assumption that the investigators are able to recognize what is
+an error in the first place. If they do recognize
+the error and hide it, then that is fraud. If
+they do not recognize the error and publish the paper
+anyway, then that is at best careless. However, in both
+cases, forcing the data and code to be published would
+not have made any difference.

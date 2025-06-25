@@ -1,8 +1,0 @@
-Using medical and mental health data from Kaiser, the researchers
-found a high correlation between multiple ACEs and long-term medical
-and behavioral disorders that occurred over a person's lifetime. In
-the original study by Felitti et al. ( 23 ),
-64% of participants (primarily middle income and above) reported one
-ACE and 22% reported three or more. As the number
-of ACEs increased, the likelihood of individuals developing various health
-conditions also increased substantially, indicating a graded dose response.

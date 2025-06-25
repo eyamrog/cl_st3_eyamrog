@@ -1,0 +1,21 @@
+mHealth, unlike other areas of health system–level intervention, namely policy
+and regulatory measures, relies on the private sector in terms
+of the information and communications technology infrastructure. Some of the
+earliest PPPs in health responded to the market void left
+by governments who were unable to deliver on the fundamentals
+of care, let alone consumer-driven health commodities or services (
+92 ). The PPP has been a foundation of the
+mHealth model, although it is often not always explicitly acknowledged
+( 30 , 92 ). A review of PPPs in
+the context of strengthening primary health care recognizes the value
+of the partnership model, particularly in mHealth, where the government,
+the funders, telecommunications providers, and the local end users are
+key stakeholders ( 92 ). The voluntary nature of PPPs
+is also distinctive; there is no moral or legal obligation
+by the private-sector investor to focus on health outcomes. Private
+investment in health, especially in LMICs, has been a slow
+burner, albeit with considerable potential, in market terms. Scale (large),
+human capital (young, growing populations), relatively weak regulations, and, for
+many emerging economies, a growing middle class provide a sound
+foundation for mHealth PPPs to be both trialed and scaled
+up.

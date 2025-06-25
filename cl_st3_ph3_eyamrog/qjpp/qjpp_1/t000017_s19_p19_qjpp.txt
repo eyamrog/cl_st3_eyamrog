@@ -1,0 +1,12 @@
+The AdvSM-symptom assessment form (AdvSM-SAF) patient diary evaluated symptoms across
+two domains—gastrointestinal and skin. Patients provided information about the severity
+of abdominal pain, nausea, vomiting, diarrhea, spots, itching, flushing and
+fatigue, and the frequency of vomiting and diarrhea. Reductions from
+baseline were seen in both the gastrointestinal and skin domains.
+Treatment with avapritinib also yielded consistent reductions in the patient-reported
+AdvSM-SAF total symptom score (TSS), which encompassed gastrointestinal and skin
+symptoms and fatigue. The mean TSS at baseline was 19.1
+points ( n = 40). Statistically significant improvements in symptoms
+occurred rapidly and were sustained through C11 (mean change from
+baseline of −10.9 points, P = 0.002, n = 20;
+Fig. 2e ).

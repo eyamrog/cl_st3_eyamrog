@@ -1,0 +1,6 @@
+In conclusion, DBSs seem to be reliable for the measurement
+of higher concentration, higher stability cytokines such as IL-6, IL-10,
+and TNF-α. However, caution may be needed when measuring other
+cytokines in DBS, particularly those with lower concentrations or shorter
+half-lives. An alternative may be to measure cytokine related gene
+(mRNA) expression (see below).

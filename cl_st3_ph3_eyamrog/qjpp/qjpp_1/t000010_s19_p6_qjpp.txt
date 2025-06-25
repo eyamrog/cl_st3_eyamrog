@@ -1,0 +1,8 @@
+Time to first occurrence of confirmed MACE-4 for trials including
+tirzepatide versus insulin glargine, insulin degludec and placebo combined demonstrated
+an HR of 0.73 (95% CI, 0.51–1.05) ( P =
+0.089) (Fig. 3a and Extended Data Fig. 1 ). Time
+to first occurrence of confirmed MACE-4 for SURPASS-4 only (tirzepatide
+versus insulin glargine in a high-cardiovascular-risk population) demonstrated an HR
+of 0.74 (95% CI, 0.51–1.08) ( P = 0.123) (Extended
+Data Fig. 1 ).

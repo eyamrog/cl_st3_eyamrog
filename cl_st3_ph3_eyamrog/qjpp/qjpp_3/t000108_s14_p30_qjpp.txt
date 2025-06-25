@@ -1,0 +1,21 @@
+Following removal of soft tissue digital X-ray images were recorded
+at a 10 μM resolution using a Faxitron MX20 operating
+at 26kV (Qados, Cross Technologies plc, Sandhurst, Berkshire, UK). All
+lower limb and caudal vertebrae 6 and 7 were imaged
+with 1mm diameter steel, aluminum and polyester standards. Bone lengths
+and relative bone mineral content (BMC) were determined as previously
+described ( Bassett et al., 2012 7. Bassett, J.H. ∙
+Gogakos, A. ∙ White, J.K. ..., Sanger Mouse Genetics Project
+Rapid-throughput skeletal phenotyping of 100 knockout mice identifies 9 new
+genes that determine bone strength PLoS Genet. 2012; 8 :e1002858
+Crossref Scopus (62) PubMed Google Scholar ). Briefly, lengths were
+determined using ImageJ calibrated with an X-ray image of a
+digital micrometre. To determine relative BMC, 2368x2340 16-bit DICOM images
+were converted to 8-bit Tiff images in ImageJ. This process
+used the modal gray level of the polyester standard to
+define gray level zero and the modal gray level of
+the steel standard to define gray level 255 in the
+final Tiff image. Increasing gradations of mineralization density were represented
+in 16 equal intervals by applying a pseudocolor lookup table.
+For each sample the median gray level (0-255) of the
+femur and caudal vertebrae 6 and 7 was determined.

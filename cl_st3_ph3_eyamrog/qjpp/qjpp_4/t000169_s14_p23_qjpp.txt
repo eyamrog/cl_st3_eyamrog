@@ -1,0 +1,25 @@
+In order to test the explanatory power of spot-size measurement
+and emphasize the advantage provided by AMoSS, we ran different
+regression models for each marker. They differ by the measure
+of spot size. In Model 1, we used the continuous
+measure calculated by AMoSS. To accommodate a non-linear relationship between
+the biomarker levels and the area, the continuous area measure
+entered the regression by a set of cubic splines (Burden
+et al., 1997 ). Following Harrell's (Harrell Jr., 2001 )
+suggestions, we used five knots placed at the 0.05, 0.275,
+0.5, 0.725, and 0.95 quantiles. For Model 2, we built
+a dichotomized measure that distinguishes between smaller and larger spots.
+Following the approach of the HRS, where 1 cm in
+diameter is used as a threshold (Crimmins et al., 2020
+), we use the corresponding spot area (0.785 cm 2
+) as a threshold. This results in a share of
+larger spots of 41% for A markers and 19% for
+B markers, respectively. While dichotomization in the studies cited by
+Crimmins et al. ( 2020 ) is based on eyesight,
+we based the dichotomization of our spot sizes on the
+continuous measures calculated by AMoSS. As a robustness check, we
+also tested eight different threshold values roughly corresponding to the
+diameter values listed in the first column of Table 5
+. Finally, Model 3 does not include any spot size
+information and serves as baseline comparison to assess the role
+of spot size in explaining marker values.

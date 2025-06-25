@@ -1,0 +1,12 @@
+For subsets identification, FSC files were analyzed with version 1.10.4
+of the “cytofkit” R package. Briefly, manual gating of CD11b
++ Ly6G + neutrophils, F4/80 + CD11b + , SiglecF
++ CD11C + and CX3CR1 + MHC-II + Ly6C -
+macrophages, CD115 + CD11b + monocytes, B220 + B cells
+and CD49d + NK1.1 + NK cells from two independent
+replicates was performed using Flowjo software (Flowjo, LLC). Gated populations
+were merged, exported and analyzed with Phenograph (Cytofkit R package)
+with the following settings: merge: ceil, transformation: cytofAsinh, cluster: RPhenograph,
+visualization: t-SNE. 2-dimensional t-SNE maps were visualized and colored according
+to their cluster ID, the expression of lineage markers, or
+their corresponding tissue of origin.

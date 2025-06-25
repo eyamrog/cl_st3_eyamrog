@@ -1,0 +1,19 @@
+For the EEEV VLP:EEEV-143 Fab complex, EEEV VLP at concentration
+of 0.2 mg/mL was mixed with EEEV-143 Fab in a
+molar ratio of 720:1 (Fab:VLP) and incubated on ice for
+1 hour. Then, 2.2 μL of either EEEV VLP or
+EEEV VLP/EEEV-143 Fab was applied 2x to a 300 mesh
+Lacey grid that was glow discharged for 25 s at
+25 mA. The grid was blotted for 2 s before
+being plunged into liquid ethane using a FEI Vitrobot Mark4
+(Thermo Fisher Scientific) at 8°C and 100% humidity. The grids
+were imaged in Titan Krios (Thermo Fisher Scientific) operated at
+300 keV equipped with Falcon 3EC Direct Electron Detector (Thermo
+Fisher Scientific) using counting mode. Movies collected at a nominal
+magnification of 96,000x, pixel size of 0.8608 A/pix for the
+EEEV VLP and at 75,000x, pixel size of 1.11 A/pix
+for the EEEV VLP:EEEV-143 Fab complex. Both dataset were in
+a defocus range of 0.8 to 2.8 μm. Grids were
+exposed at 1e−/Å 2 /frame over 30 frames resulting in
+a total dose of ~30 e−/Å 2 (see also Table
+S1 ).

@@ -1,0 +1,10 @@
+For the heatmap showing the magnitude of difference/similarity of each
+cluster, we averaged gene expression across all clusters within all
+the conditions in the TREM2 knockout experiment. To form the
+signature of the anti-TREM2 treatment experiment, we determined differential expression
+for each cluster versus all to find the most differentially
+expressed genes and, for each cluster, we used the 25
+most differentially expressed genes to form the signature. Then, we
+used averaged expression of these 25 genes to form a
+heatmap comparing clusters from the anti-TREM2 experiment with clusters from
+the TREM2 knockout experiment.

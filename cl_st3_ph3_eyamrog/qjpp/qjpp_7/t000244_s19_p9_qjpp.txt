@@ -1,0 +1,9 @@
+In a model specifically for NGO members, we added a
+latent factor for participatory efficacy and incorporated collective efficacy concerning
+activists’ NGO either into already existing latent factors or as
+separate scales. Both a latent factor model, χ 2 /
+df = 2.35, CFI = .949, SRMR = .038, AIC
+= 22,411, and a scale model, χ 2 / df
+= 2.23, CFI = .949, SRMR = .039, AIC =
+22,418, showed a good fit that did not differ significantly,
+χ 2 diff (6) = 5.49, p = .483.

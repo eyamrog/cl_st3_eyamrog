@@ -1,6 +1,0 @@
-GraphPad Prism 8 was used for plotting and statistical analysis;
-the values were expressed as means ± SEM. One-way ANOVA
-and Holm-Sidak’s multiple comparison tests were used to analyze differences
-between groups. A p value of less than 0.05 was
-considered to be significant. ∗ p < 0.05, ∗∗ p
-< 0.01, ∗∗∗ p < 0.005, ∗∗∗∗ p < 0.001.

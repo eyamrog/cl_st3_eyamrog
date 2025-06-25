@@ -1,0 +1,12 @@
+The median time from enrollment to the assigned intervention was
+3 days in the CT group and 12 days in
+the ICA group (hazard ratio, 1.54; 95% confidence interval [CI],
+1.44 to 1.65), which reflected typical wait times for elective
+testing ( Table 2 and Fig. S2). The characteristics of
+the CT and ICA procedures were as specified in guidelines
+(Tables S4 and S5); the percentage of patients who had
+findings of obstructive CAD was 25.7% in each group. In
+the CT group, 404 patients underwent ICA during their initial
+treatment and were considered for the calculation of diagnostic yield;
+293 patients (72.5%) were found to have obstructive CAD on
+ICA (Table S6).

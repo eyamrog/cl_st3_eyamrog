@@ -1,0 +1,16 @@
+For researchers new to RNAseq, the learning curve for bioinformatic
+processing can be steep but may be worthwhile depending on
+your approach to a research question. There are a number
+of resources that describe workflows, pipelines, and workflow managers, including
+https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/rna-seq-tutorial-with-reference-genome/ and https://rnaseq.uoregon.edu/ . The Biostar Handbook is also an
+invaluable guide to bioinformatics that is updated multiple times a
+year and has topic-specific ( https://www.biostarhandbook.com/ ). The learning curve
+can also be buffered by teaming up with other researchers
+that are experts in the use of a particular method(s),
+as they can guide you through parts of the process
+and direct you to relevant resources. It is also possible
+to have a majority of these steps done “behind the
+scenes” (e.g., among the services offered by a Core Lab),
+though we suggest familiarizing yourself with the overall process in
+order to better understand the data you are working with,
+including its limitations.

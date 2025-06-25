@@ -1,0 +1,24 @@
+Fisher’s exact test of independence was used in conjunction with
+ISDS Nosology and Classification of Skeletal Disorders database ( Mortier
+et al., 2019 57. Mortier, G.R. ∙ Cohn, D.H. ∙
+Cormier-Daire, V. ... Nosology and classification of genetic skeletal disorders:
+2019 revision Am. J. Med. Genet. A. 2019; 179 :2393-2419
+Crossref Scopus (407) PubMed Google Scholar ) to investigate whether
+human orthologs of osteomorph defining genes were enriched for genes
+that cause monogenic skeletal disorders. The following parameters were used:
+(A) Successes in sample - the number of differentially expressed
+mouse genes that defined osteomorphs and that map to unique
+human orthologs that cause one or more skeletal disorders (either
+total or within each individual nosology-defined skeletal disorder groups). (B)
+Sample size - the number of differentially expressed mouse genes
+that defined osteomorphs within the population of genes for which
+gene expression was observed in any cell type, and that
+map to unique human orthologs. (C) Successes in population -
+the number of mouse genes for which expression was observed
+in any cell type, and that map to unique human
+orthologs that cause one or more skeletal disorders (either total
+or within each individual nosology-defined skeletal disorder groups). (D) Population
+- the number of mouse genes that are expressed in
+any cell type and that map to unique human orthologs.
+Estimates of enrichment were obtained using the online Hypergeometric p
+value calculator ( https://systems.crump.ucla.edu/hypergeometric ).

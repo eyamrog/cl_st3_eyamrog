@@ -1,0 +1,18 @@
+We analyzed the metabolic functions in each of our samples
+by processing non-human reads with HUMAnN2 ( Franzosa et al.,
+2018 21. Franzosa, E.A. ∙ McIver, L.J. ∙ Rahnavard, G.
+... Species-level functional profiling of metagenomes and metatranscriptomes Nat. Methods.
+2018; 15 :962-968 Crossref Scopus (913) PubMed Google Scholar ).
+We aligned all reads to UniRef90 ( Suzek et al.,
+2015 78. Suzek, B.E. ∙ Wang, Y. ∙ Huang, H.
+..., UniProt Consortium UniRef clusters: a comprehensive and scalable alternative
+for improving sequence similarity searches Bioinformatics. 2015; 31 :926-932 Crossref
+Scopus (903) PubMed Google Scholar ) using DIAMOND (v0.8.36, (
+Buchfink et al., 2015 12. Buchfink, B. ∙ Xie, C.
+∙ Huson, D.H. Fast and sensitive protein alignment using DIAMOND
+Nat. Methods. 2015; 12 :59-60 Crossref Scopus (6677) PubMed Google
+Scholar )) and used HUMAnN2 to produce estimate of pathway
+abundance and completeness. We filtered all pathways that were less
+than 50% covered in a given sample but otherwise took
+the reported pathway abundance as is after relative abundance normalization
+(using HUMAnN2’s attached script).

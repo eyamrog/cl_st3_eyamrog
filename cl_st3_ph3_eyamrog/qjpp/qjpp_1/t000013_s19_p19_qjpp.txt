@@ -1,0 +1,8 @@
+Finally, the FDA recommends testing a minimum of 30 known-positive
+clinical specimens for each pathogen in an assay, as well
+as 30 negative specimens. Where positive specimens are not available,
+the FDA allows the creation of contrived samples by spiking
+viral genomic material at clinically relevant concentrations into a negative
+specimen. Each virus evaluated must have a minimum of 95%
+agreement performance, both positive percentage agreement (PPA) and negative percentage
+agreement (NPA), to clinically approved comparator assays.

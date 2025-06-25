@@ -1,0 +1,5 @@
+The CDC 2019-nCoV EUA recommends a Ct cutoff of <40
+for RNase P and/or SARS-CoV-2. Eight specimens failed quality control
+metrics and were therefore removed from further analysis. Five specimens
+were previously positive and three were negative by prior RT–PCR
+testing done by the Broad Genomics Platform.

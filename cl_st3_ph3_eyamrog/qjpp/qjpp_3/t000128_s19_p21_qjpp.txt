@@ -1,0 +1,13 @@
+Though the experiments above focus on helixCAMs’ capabilities to bind
+cells to one another, the affinity and specificity of helixCAMs
+could also be leveraged to pattern multiple cell types onto
+a surface, enabling purification of cells from a mixed population
+or patterning of microfluidic devices. To test helixCAM’s capacity to
+pattern cells, we expressed and purified both His-tagged CC peptides
+as well as His-tagged GFP-CC fusion proteins for CCs sg30,
+sg61, sg83, and sg88, and confirmed the quality of the
+purified protein species with LC-MS ( Figure S20 ). The
+protein solutions were applied to nickel-coated plates to create the
+CC-coated surface, followed by the addition of helixCAM-expressing cells for
+patterning. After removing unbound cells, the remaining cells were then
+imaged and quantified ( Figure 7 A).

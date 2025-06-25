@@ -1,0 +1,7 @@
+We found clear correlations between k -mer based Jaccard distance
+(MASH) and taxonomic Jaccard distance ( Figure S2 A). We
+also compared alpha diversity metrics ( Figure S2 B): Shannon
+entropy of k -mers, and Shannon entropy of taxonomic profiles.
+As with pairwise distances these metrics were correlated though noise
+was present. This noise may reflect sub-species taxonomic variation in
+our samples.

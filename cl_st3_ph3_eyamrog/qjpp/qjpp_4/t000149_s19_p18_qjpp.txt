@@ -1,0 +1,7 @@
+For labor >24 h, the main model demonstrated no significant
+predictors (Table 6 ), however when maternal BMI was added,
+the highest BMI category was associated with an increased risk
+(OR 1.40, 95%CI 1.01, 1.94; Table S 9 ). When
+neonatal size was additionally added, each additional cm of head
+girth was associated with an increased risk (OR 1.37, 95%CI
+1.06, 1.78; Table S 10 ).

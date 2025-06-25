@@ -1,0 +1,13 @@
+To generate Epac1-camps-IRES2-PDE4A1, the IRES2 sequence was PCR amplified with
+the indicated primers (#16: 5′-GACGAGCTGTACAAGTGAGGATCC GCCCCTCTCCCTCCCCCCCCCCTA -3′, #17: 5′-GCAGAAGAAATCCACCAAGGGCAT TGTGGCCATATTATCATCGTGTTT
+-3′) and inserted in frame in between Epac1-camps and PDE4A1
+in the construct Epac1-camps-PDE4A1 which was linearized with the following
+primers (#18: 5′-AAACACGATGATAATATGGCCACA ATGCCCTTGGTGGATTTCTTCTGC -3′, #19: 5′-TAGGGGGGGGGGAGGGAGAGGGGC GGATCCTCACTTGTACAGCTCGTC -3′. Epac1-camps-IRES-PDE2cat
+was generated following exactly the same strategy using the following
+primers (IRES2:#20: 5′-GACGAGCTGTACAAGTGAGGATCCAGGCGCGCC GCCCCTCTCCCTCCCCCCCCCCTA -3′,#21: 5′-AAGTTTGGTATACTCATCGTCGGACAT TGTGGCCATATTATCATCGTGTTT -3′; and linearization
+of Epac1-camps-PDE2A3: #22: 5′-AAACACGATGATAATATGGCCACAATG TCCGACGATGAGTATACCAAACTT-3′ , #23: 5′-TAGGGGGGGGGGAGGGAGAGGGGC GGCGCGCCTGGATCCTCACTTGTACAGCTCGTC-3′ ).
+For assembly of the PCR products the Gibson Assembly® Master
+Mix (New England Biolabs GmbH, Frankfurt, Germany) was used according
+to the manufacturer’s instructions. All constructs derived by Gibson cloning
+were transformed and amplified in NEB® 5-alpha Competent E.coli (New
+England Biolabs GmbH, Frankfurt, Germany).

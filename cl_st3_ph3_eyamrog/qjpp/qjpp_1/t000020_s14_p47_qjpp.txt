@@ -1,0 +1,20 @@
+We identified 157,230 variants in the engineered cell line that
+were not found in the control cell line as candidate
+variants. For the guide RNA (gRNA) used, we defined potential
+off-target regions as those with a <4-bp mismatch against the
+full 20-bp gRNA sequence (334 regions) and/or a <2-bp mismatch
+against the seed (PAM proximal) 12 bp of the gRNA
+sequence (5,780 regions), each followed by the NGG PAM. We
+looked for any candidate variant that fell into the potential
+off-target region, resulting in detection of only one variant (chr8-65084564-A-AT)
+that fell onto a region with one mismatch against the
+seed 12 bp of gRNA sequence (chr8:65084560-65084575). No variants with
+a <4-bp mismatch against the full 20-bp gRNA sequence or
+perfect match at the seed region were detected. Because a
+mismatch at the seed region decreases the likelihood of off-target
+variants and also because the single variant we detected is
+a known variant (rs1161563412) observed in the population without apparent
+phenotypic association, we concluded that no major off-target effect exists
+at the level of violating the main steps of our
+research. All the analysis for the detection of potential off-targets
+were conducted using pybedtools and CRISPRdirect software.

@@ -1,0 +1,8 @@
+The proportion of participants who were missing MACE assessments at
+the end of each trial was similar to contemporary glycemic
+trials and slightly higher than single CVOTs with MACE as
+the primary endpoints (3–4% at the maximum ). The missing
+assessments due to adverse events were balanced among pooled treatment
+groups; therefore, missing MACE assessments were considered missing at random,
+and the potential biases introduced due to missing data for
+the cardiovascular endpoint were likely minimal.

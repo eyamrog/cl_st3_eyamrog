@@ -1,6 +1,0 @@
-We defined individuals with high risk of cardiovascular disease as
-those with a predicted 10-year risk of cardiovascular disease greater
-than 20%, according to the 2019 cardiovascular disease risk charts
-for east Asia by WHO ( appendix 2 p 25
-), or those with previous myocardial infarction, percutaneous coronary intervention,
-coronary artery bypass grafting, or stroke.

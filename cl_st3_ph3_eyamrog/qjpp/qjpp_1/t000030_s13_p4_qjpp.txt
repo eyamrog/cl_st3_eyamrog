@@ -1,0 +1,24 @@
+The classic approach to syndromic influenza surveillance is sentinel outpatient
+surveillance. In this approach, a network of outpatient clinics (“sentinels”)
+provide information at a specified frequency, typically weekly, on the
+number of patients they have attended with influenza-like illnesses (ILI)
+( 6 , 31 , 61 , 67 , 75
+). A typical definition of an ILI is recent-onset fever
+plus cough. Examples of this approach include the US Outpatient
+Influenza-like Illness Surveillance Network (ILINet) ( 20 ) and the
+European Surveillance System (TESSy) at the European Centre for Disease
+Prevention and Control (ECDC) ( 31 ). The catchment populations
+of the sentinel clinics are the preferred denominator for these
+data so that the illness rates provide information on incidence
+rates of medically attended influenza in the population. An alternative
+denominator in locations with unclear catchment populations would be total
+consultations. In either case, rates of ILI in the community
+indicate the start and end of influenza seasons, and comparisons
+between years can indicate which seasons are more intense than
+others. As an alternative approach to tracking levels of influenza
+in the underlying community, similar data can be captured from
+hospitals that have admitted patients with influenza ( 40 ,
+79 ). More recently, other approaches to syndromic surveillance include
+processing electronic medical records or telenursing calls for relevant diagnostic
+codes ( 15 , 20 , 39 , 46 ,
+51 , 53 , 98 ).

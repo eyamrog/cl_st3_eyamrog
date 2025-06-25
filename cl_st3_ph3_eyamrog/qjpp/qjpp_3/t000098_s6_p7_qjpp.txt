@@ -1,0 +1,11 @@
+Our data with PDE2 demonstrate that longer-range effects of PDEs
+could also be possible for cAMP and PKA signals. The
+mechanisms of these longer-range effects need to be explored further,
+but we would like to note the possibility of a
+larger effective radius (possibly because of the fact that, in
+these experiments, we used only isolated catalytic domains of PDE2
+unlikely to remain immobile in intact cells because of lack
+of targeting domains) or of more complex arrangements. However, the
+excellent agreement of the data from intact cells and cytosolic
+preparations suggests that these observations are indeed a property of
+our PDE2 constructs.

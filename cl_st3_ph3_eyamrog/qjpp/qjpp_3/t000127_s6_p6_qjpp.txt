@@ -1,0 +1,16 @@
+We focused on understanding how PTI-triggered extracellular alkalization is sensed
+by RGF1 and Peps peptide-receptor complexes in the root meristem
+zone. Additional studies into extracellular pH sensing by RGF-RGFR and
+Pep-PEPR in other tissues and even other receptor-like kinase-mediated pH-sensing
+processes will be a critical next step in further delineating
+the mechanisms of plant extracellular pH perception. In addition, we
+show that not only PTI-triggered alkalization but also altering medium
+pH was sufficient to change RGF1 and Peps signaling response.
+Thus, future studies of abiotic stress-triggered extracellular alkalization and plant-microbe
+interaction-induced extracellular pH changes could be performed to verify our
+findings. Another limitation of the study is the measurement of
+absolute pH values in the apoplast. Although HPTS has been
+used as a powerful pH indicator to track the relative
+change of extracellular pH, the absolute pH values in the
+apoplast cannot be directly read from HPTS fluorescence. Thus, further
+technological advances are needed for accurately measuring extracellular pH.

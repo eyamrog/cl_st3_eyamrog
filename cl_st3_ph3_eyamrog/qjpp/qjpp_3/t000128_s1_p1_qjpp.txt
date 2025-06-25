@@ -1,0 +1,15 @@
+Interactions between cells are indispensable for signaling and creating structure.
+The ability to direct precise cell-cell interactions would be powerful
+for engineering tissues, understanding signaling pathways, and directing immune cell
+targeting. In humans, intercellular interactions are mediated by cell adhesion
+molecules (CAMs). However, endogenous CAMs are natively expressed by many
+cells and tend to have cross-reactivity, making them unsuitable for
+programming specific interactions. Here, we showcase “helixCAM,” a platform for
+engineering synthetic CAMs by presenting coiled-coil peptides on the cell
+surface. helixCAMs were able to create specific cell-cell interactions and
+direct patterned aggregate formation in bacteria and human cells. Based
+on coiled-coil interaction principles, we built a set of rationally
+designed helixCAM libraries, which led to the discovery of additional
+high-performance helixCAM pairs. We applied this helixCAM toolkit for various
+multicellular engineering applications, such as spherical layering, adherent cell targeting,
+and surface patterning.

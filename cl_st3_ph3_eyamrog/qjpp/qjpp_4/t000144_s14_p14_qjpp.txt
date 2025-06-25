@@ -1,0 +1,22 @@
+We estimated participants' precipitation exposures using a combination of their
+migration histories and the SPI data. With shapefiles delimiting the
+boundaries of each department in Bolivia and in neighboring countries
+(Hijmans, n.d. ), we matched the grid of SPI values
+to departments. As A. P. did not ask about locations
+visited within each department, we averaged the SPI by month
+for each department (eg, averaged the SPI values for all
+grid cells within the La Paz Department for January 2012).
+For each month of their life, participants were then assigned
+a departmental SPI value based on the department in which
+they were living. Recall that participants were asked only how
+long they had spent in each department and the ages
+during which they were there (Section 2.2.1 ), such that
+we can only draw inferences about stays in a department
+lasting a year or longer. As participants also provided only
+their birth year rather than birth date, for simplicity we
+treat all participants as born on January 1 of their
+birth year; if they reported spending a year in a
+particular department (eg, Santa Cruz Department) at a given age
+(eg, 21, when they were born in 1985), we assign
+them the department SPI values for that entire year (eg,
+the average SPI in Santa Cruz for January-December 2006).

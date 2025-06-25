@@ -1,0 +1,10 @@
+Similar to widely used multiplexed approaches, such as BioFire ,
+the original design of CARMEN did not provide a quantitative
+assessment of viral genome copies present in a sample. Establishing
+the total viral quantity in a patient is important for
+assessing the stage of infection, transmission risk and most effective
+treatment plan . The criterion standard assay for sample quantification,
+RT–qPCR, leverages the standard curve—serial dilutions of a given target
+at a known concentration—as a means of using Ct values
+to approximate viral quantity . We wanted to determine if
+a similar approach could be applied to mCARMEN.

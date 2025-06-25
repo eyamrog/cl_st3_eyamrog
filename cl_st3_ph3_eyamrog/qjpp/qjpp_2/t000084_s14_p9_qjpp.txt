@@ -1,0 +1,7 @@
+Analyses were performed in a modified intention-to-treat population that included
+all the patients who had fulfilled the eligibility criteria, had
+undergone randomization, and had not withdrawn or been excluded before
+undergoing CT or ICA. Continuous variables are reported as means
+and standard deviations for normally distributed data and as medians
+and interquartile ranges for other continuous data; categorical variables are
+reported as numbers and percentages.

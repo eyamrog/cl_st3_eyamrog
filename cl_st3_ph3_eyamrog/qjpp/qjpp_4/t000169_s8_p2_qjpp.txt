@@ -1,0 +1,13 @@
+Blood biomarkers are measured conventionally in serum or plasma obtained
+from venous blood samples (VBS). For large-scale international surveys, however,
+taking VBS is often prohibitively expensive and administratively difficult since
+ethical and data protection requirements vary greatly across countries. Hence,
+such surveys rely increasingly on minimally invasive microsampling methods. The
+collection of dried blood spots (DBS) is the most well-known
+among them (Brindle et al., 2010 ; Crimmins et al.,
+2014 ; McDade, 2014 ; McDade et al., 2007 ;
+Weir, 2008 ). In its Wave 6 in 2015, SHARE
+collected analyzable DBS samples with up to five blood spots
+from each of the about 24 000 respondents in 12
+SHARE countries at their place of residence in order to
+complement self-reported with objective health data.

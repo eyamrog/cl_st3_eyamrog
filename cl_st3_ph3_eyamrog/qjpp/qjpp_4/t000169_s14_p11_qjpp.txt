@@ -1,0 +1,12 @@
+The SHARE DBS samples (Börsch-Supan, 2021 ) have been analyzed
+for 17 biomarkers. Seven routine blood biomarkers: high-density lipoprotein (HDL),
+total hemoglobin (tHb), glycated hemoglobin (HbA1c), total cholesterol (TC), triglycerides
+(TG), C-reactive protein (CRP), and Cystatin C (CysC) were analyzed
+at the Department of Laboratory Medicine, University of Washington, Seattle,
+USA. Ten proteins: the cyto-, chemo-, and neurokines IL-8, IL12/23,
+IL-16, IL-18, MCP1, and BDNF; the growth factors EGF and
+VEGF; and the apolipoproteins ApoE4 and Clusterin (APOJ) were assayed
+at the Statens Serum Institut, Copenhagen, Denmark. This paper focuses
+on the first seven markers. Laboratory assays were performed according
+to published techniques as described previously in Börsch-Supan et al.
+( 2021 ).

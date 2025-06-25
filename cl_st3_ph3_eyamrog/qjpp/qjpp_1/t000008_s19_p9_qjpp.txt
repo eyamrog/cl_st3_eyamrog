@@ -1,0 +1,4 @@
+Initial immunohistochemistry (IHC) followed by epifluorescence microscopy to detect hFVIII-SQ
+protein expression and distribution in hepatocytes was unsuccessful presumably due
+to high background levels from recombinant hFVIII (rhFVIII) administered before
+biopsy to minimize bleeding risk.

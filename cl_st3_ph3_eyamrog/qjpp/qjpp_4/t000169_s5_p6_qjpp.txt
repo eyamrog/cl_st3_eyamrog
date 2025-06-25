@@ -1,0 +1,19 @@
+Despite these improvements, our methods cannot eliminate yet other uncertainties
+linked to spot size: Paper properties, which are beyond user
+control, can cause changes of spot size and punch volume.
+Inhomogeneity in the paper may influence the lateral spreading and
+cause uneven distribution of the blood or irregularities in thickness
+change the assumed blood volume in the punch (Mei et
+al., 2001 ; Hall et al., 2015 ; Moat et
+al., 2020 ; Ren et al., 2010 ). Lateral spreading
+is also influenced by the viscosity of the blood determined
+through the proportion of blood cells in a sample, the
+hematocrit, which is a donor characteristic. As mentioned earlier, when
+collecting drops of blood on filter paper, the hematocrit cannot
+be measured. Denniff and Spooner ( 2010 ) evaluate the
+relationship between hematocrit and DBS area; the bias is within
+acceptable limits (<10%) for normal adult hematocrit values (36%–50%), when
+comparing the area to blood samples of 45% hematocrit. Li
+(Li & Lee, 2014 ) consider the impact of hematocrit
+as negligible when measured quality-control sample concentrations vary within ±15%
+of the normal values.

@@ -1,0 +1,15 @@
+Software is often a product of research activity, particularly when
+new methodology is developed. In those cases, it is important
+that the software is carefully considered and designed well for
+its intended users. However, it should not be considered a
+requirement of reproducible research that software be a product of
+research. For software that is developed for distribution, there is
+increasing guidance for how such software should be distributed. Software
+package development has become easier for programming languages such as
+R, which have robust developer and user communities ( 41
+), and numerous tools have been developed to make incorporating
+code into packages more straightforward for nonprofessional programmers ( 53
+). In addition, the concept of testing and test-based development
+has been a useful framework for setting expectations on how
+software should perform and identifying errors or bugs ( 51
+).

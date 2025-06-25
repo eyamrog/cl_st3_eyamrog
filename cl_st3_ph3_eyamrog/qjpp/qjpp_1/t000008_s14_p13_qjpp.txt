@@ -1,0 +1,22 @@
+Quantities of vector genome forms in samples were measured with
+ddPCR, which captures individual DNA molecules in thousands of water–oil
+emulsion droplets before PCR-mediated amplification within each droplet and discrete
+measurement of endpoint fluorescence of individual droplets. Each droplet is
+counted as negative or positive by fluorescence, and Poisson statistics
+are applied to the fraction of positive droplets to estimate
+the copy number of target DNA molecules per sample. In
+this analysis, a variant of ddPCR called drop-phase ddPCR was
+performed to detect and quantify the levels of paired target
+sequences together on a single DNA molecule to measure the
+contiguity of the DNA molecule, using two different fluorescent tags
+(FAM and HEX; Supplementary Fig. 4a ). The number of
+double-positive droplets was then calculated and the total copy number
+of molecules with both target sequences was estimated using the
+software QuantaSoft v1.7.4.0917 (Bio-Rad), which includes an algorithm that accounts
+for the probability that some double-positive droplets may occur due
+to chance. ddPCR of the endogenous gene adaptor-related protein complex
+3, beta 1 subunit ( AP3B1 ) was also performed
+to provide a normalization reference for calculating vector copy numbers
+for each diploid genome from the concentration of droplets containing
+Hex fluorophores. For all molecular analyses involving ddPCR, at least
+three technical replicates were used per sample, per condition.

@@ -1,0 +1,19 @@
+Domain-based questionnaires are often used to estimate total sedentary time
+by summing up time spent in specific sedentary behavior contexts.
+For example, the Sedentary Behaviour Questionnaire (SBQ; [Rosenberg et al.,
+2010 ]) asks about time spent in nine sedentary behavior
+contexts (watching TV, playing computer/video games, sitting while listening to
+music, sitting and talking on the phone, doing office work
+or paperwork, reading, playing a musical instrument, doing arts and
+crafts, and driving/riding in a car, bus, or train) on
+both a typical week and weekend day. The responses across
+these behaviors are then summed to estimate daily or weekly
+total sedentary time. Composite measures of sedentary time tend to
+produce more accurate estimates of total sedentary time than single-item
+recalls (Prince et al., 2020 ), perhaps because it is
+easier for participants to recall time spent performing specific activities
+rather than total time spent sitting (Healy et al., 2011
+). Despite this, multi-item questionnaires still tend to underestimate total
+sedentary time (Prince et al., 2020 ) and only weakly
+correlate with objective measures of sedentary time ( r =
+.37 [95%CI 0.30, 0.43]) (Bakker et al., 2020 ).

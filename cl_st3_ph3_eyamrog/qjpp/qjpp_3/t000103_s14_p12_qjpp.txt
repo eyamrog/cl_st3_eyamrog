@@ -1,0 +1,10 @@
+E1 was produced in Expi293F cells using the ExpiFectamine 293
+transfection kit (GIBCO). Briefly, 1 μg/mL of pcDNA3.1(+)-EEEV E1 ectodomain
+was diluted in Opti-MEM medium (GIBCO) with ExpiFectamine 293 reagent
+for 15 to 20 minutes at room temperature before addition
+to Expi293F cells. Cells were incubated at 37°C in 8%
+CO 2 and supernatant was harvested by centrifugation and subsequent
+filtering through a 0.45-μm pore size filter (Nalgene) 2 to
+6 days after transfection. Cell supernatant was purified through a
+HisTrap excel column (GE Healthcare) according to the manufacturer’s protocol
+on an ÄKTA pure 25M chromatography system.

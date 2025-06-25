@@ -1,6 +1,0 @@
-The fluorescence to concentration calibration curves displayed in Figure S1
-C were used for all experiments that quantitatively assess the
-concentrations of mCherry- and mGFP-tagged fusion proteins in WT and
-G3BP KO U2OS cells. Such FCS calibration curves yielded several
-findings that support the precision of such estimates. These are
-detailed below.

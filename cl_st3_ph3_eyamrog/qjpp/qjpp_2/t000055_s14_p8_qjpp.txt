@@ -1,0 +1,13 @@
+We defined possible reinfection as the presence of two reported
+positive tests separated by more than 90 days with a
+period of reporting no symptoms for more than 7 days
+before the second positive test. We calculated the proportion of
+possible reinfections among individuals who reported their first positive test
+before Oct 1, 2020. To assess whether the risk of
+reinfection was stronger in the presence of the B.1.1.7 variant,
+we did ecological studies in every region, examining the Spearman
+correlation between the proportion of infections with the B.1.1.7 variant
+and the number of reinfections over time, and between the
+proportion of positive tests reported through the app and the
+number of reinfections. We compared these two correlations in each
+region with use of the Mann-Whitney U test.

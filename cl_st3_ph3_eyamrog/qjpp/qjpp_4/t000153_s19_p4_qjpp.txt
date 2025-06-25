@@ -1,7 +1,0 @@
-In our models for %MVPA, individuals spent 26.6% ± 11.4%
-of time in moderate to vigorous physical activity early in
-the course and 24.8% ± 9.6% late in the course
-(see Figure 3 ). When adjusting for relevant covariates, there
-was no significant change in %MVPA from earlier in the
-course to later in the course and sex did not
-moderate any differences in %MVPA (all p > .7).

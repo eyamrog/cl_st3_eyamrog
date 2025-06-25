@@ -1,0 +1,15 @@
+We used two computational methods to reveal putative host-virus connections
+( Paez-Espino et al., 2016a 63. Paez-Espino, D. ∙ Eloe-Fadrosh,
+E.A. ∙ Pavlopoulos, G.A. ... Uncovering Earth’s virome Nature. 2016;
+536 :425-430 Crossref Scopus (676) PubMed Google Scholar ). (1)
+For the 686 vOTUs that clustered with viral sequences from
+the IMG/VR system, we projected the known host information to
+all the members of the group (total of 2,064 MetaSUB
+UViGs). (2) We used bacterial/archaeal CRISPR-Cas spacer matches (from the
+IMG/M 1.1 million isolate spacer database) to the UViGs (allowing
+only for 1 SNP over the whole spacer length) to
+assigned a host to 1,915 MetaSUB vOTUs. Additionally, we also
+used a database of over 20 million CRISPR-Cas spacers identified
+from metagenomic contigs from the IMG/M system with taxonomy assigned.
+Since some of these spacers may derive from short contigs
+these results should be interpreted with caution.

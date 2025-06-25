@@ -1,0 +1,10 @@
+To achieve such goals, Western scientific tradition often dichotomizes otherwise
+continuous phenotypic variability into normal versus abnormal. This approach is
+historically rooted in Descartes' ( 1637 ) influential conceptualization of
+the body as a well-tuned machine, necessarily invariant in the
+form and coordination of its components. Variants not meeting the
+criteria for “normal” are classified as pathologies requiring medical intervention.
+Such criteria for hormones and other biomarkers typically involve the
+designation of upper and/or lower thresholds outside of which the
+biomarker is considered abnormal (see Vitzthum, 2020 ; Wiley, 2021
+for further discussion).

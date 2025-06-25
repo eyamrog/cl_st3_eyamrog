@@ -1,2 +1,0 @@
-Data on chronic illnesses (type, age at diagnosis, length and
-duration of the illnesses) were also collected.

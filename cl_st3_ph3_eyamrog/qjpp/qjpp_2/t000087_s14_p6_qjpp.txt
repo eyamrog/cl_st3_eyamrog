@@ -1,0 +1,9 @@
+The primary end point was event-free survival, which was defined
+as the time until disease progression occurred, relapse occurred, a
+second malignant neoplasm developed, or the patient died. Key secondary
+end points included interim response (response as determined on interim
+PET after two cycles of chemotherapy) and use of involved-site
+radiation therapy. Prespecified second end points also included clinician-reported chemotherapy-induced
+peripheral neuropathy. The end point of overall survival, which was
+defined as the time from randomization to death from any
+cause, was exploratory. Events were reported by the trial investigators.

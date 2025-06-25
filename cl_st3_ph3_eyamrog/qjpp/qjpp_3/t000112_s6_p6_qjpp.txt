@@ -1,0 +1,10 @@
+The coronavirus disease 2019 crisis has thrown the need for
+broad microbial surveillance into sharp relief. Microbial genetic mapping of
+urban environments will give public health officials tools to assess
+risk, map outbreaks, and genetically characterize problematic species. This study
+identifies a large number of viruses in the environment as
+well as antimicrobial resistance genes in bacteria, but they are
+only DNA based. Future shotgun RNA studies (metatranscriptomics) and targeted
+RNA viral studies that build on top of this infrastructure
+represent an important starting point for tracking and potentially mitigating
+future epidemics.

@@ -1,0 +1,16 @@
+The notion of reproducibility as a binary or perhaps multilevel
+“state” of a data analysis is a useful characterization in
+part because it is one of a few qualities of
+a data analysis that can be immediately verified. Unlike with
+replication, we do not need to wait for future studies
+to be conducted in order to determine the reproducibility of
+an analysis. However, this notion suggests that reproducibility's usefulness is
+limited. What do we ultimately learn from merely reproducing the
+results of an analysis? For example, it may be possible
+to execute code on a data set without ever looking
+at the code or the data. In that case, the
+original goal of reproducibility—to learn about the details of an
+investigation—has been thwarted. We have simply learned that the code
+produces what the authors claim the code produces. In general,
+executing a process and seeing that process produce the results
+exactly as they were expected produce very little new information.

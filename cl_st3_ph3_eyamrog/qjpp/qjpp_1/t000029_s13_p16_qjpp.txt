@@ -1,0 +1,19 @@
+Ethical considerations are often slower to emerge beneath the veneer
+of optimism and determinism surrounding technologies in health ( 63
+). Gómez-Ramírez and colleagues ( 19 ) argue in favor
+of actions, not just considerations, that promote ethical, equity, and
+social justice implications for mHealth. Kellerman ( 27 ) penned
+a brief for The Atlantic on the 2013 mHealth Summit
+in Washington, DC. Remembering this was a time of boisterous
+enthusiasm for mHealth, she wrote, “With any luck, these apps,
+and the host of other personalized digital technologies out there,
+will let consumers handle as many health problems as they
+can, safely, on their own, freeing overburdened physicians to devote
+their time to matters that really do require FDA regulation”
+( 27 ). In the context of private-sector investment in
+mHealth, with both established ventures in the digital health space,
+such as Babylon and 1mg, alongside new start-ups, concerns about
+accountability, quality, and safety are reasonable. The most obvious and
+well-described risks relate to the safety and confidentiality of sharing
+data or personal health information via mobile devices ( 19
+).

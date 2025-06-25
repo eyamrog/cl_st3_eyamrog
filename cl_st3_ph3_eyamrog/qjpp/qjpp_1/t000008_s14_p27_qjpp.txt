@@ -1,0 +1,11 @@
+Animal study methods relating to data for cross-species comparison presented
+in Supplementary Figs. 2 , 7 and 8 are described
+in full elsewhere . Briefly, in separate experiments, Rag2 FVIII
+double knockout mice received a single intravenous bolus tail injection
+of AAV5-hFVIII-SQ, and male cynomolgus monkeys that screened negative for
+total antibodies and neutralizing factors against AAV5 were dosed into
+the saphenous vein. Liver samples were taken and snap frozen
+at necropsy at post-dose times as reported in the results.
+For histopathology and ISH analysis, FFPE liver sections were collected
+and prepared by standard methods. ISH analysis to detect hepatocyte
+nuclei positive for hFVIII-SQ DNA was performed as described above.

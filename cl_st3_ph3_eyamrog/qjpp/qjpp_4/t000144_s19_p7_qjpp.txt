@@ -1,0 +1,9 @@
+Data were imputed for the extraversion scale for one participant.
+To assess the robustness of our model fits to their
+inclusion, we re-ran the five main models with this participant
+excluded. Their exclusion did not affect model fits, with the
+exception that the CIs for departments or countries visited in
+the (P1) drought model and for being male in the
+(P1) excess precipitation model shifted to include an OR of
+1; the participant's exclusion did not affect estimates for extraversion,
+the variable for which we imputed their data.

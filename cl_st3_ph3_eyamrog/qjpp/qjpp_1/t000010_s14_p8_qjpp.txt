@@ -1,0 +1,9 @@
+A stratified Cox proportional hazards model was used with treatment
+(pooled tirzepatide groups and pooled comparator groups) as a fixed
+effect and stratified trial-level cardiovascular risk (SURPASS-4 and all other
+trials). This approach preserves the clustering of individual participant data
+when estimating parameters within strata and assumes (1) homogeneity of
+tirzepatide relative treatment effect on MACE regardless of patients’ baseline
+cardiovascular risk level; (2) homogeneity of tirzepatide treatment effect regardless
+of the comparator in each trial; and (3) proportional hazards
+of tirzepatide relative to comparator over time.

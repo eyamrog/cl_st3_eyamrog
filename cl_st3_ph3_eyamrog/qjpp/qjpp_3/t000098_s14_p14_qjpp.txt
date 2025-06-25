@@ -1,0 +1,4 @@
+All sequences were validated by automated sequencing of each construct
+by Eurofins (Luxembourg, Luxembourg) or LGC (Teddington, UK). Confocal images
+of HEK293 cells expressing all FRET-based constructs are compiled in
+Figure S5 .

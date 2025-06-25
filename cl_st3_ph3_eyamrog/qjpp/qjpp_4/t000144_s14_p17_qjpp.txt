@@ -1,0 +1,6 @@
+(P2) To estimate a participant's experience of positive temporal autocorrelation
+in downsides (both drought and excess precipitation), we calculated the
+length of the intervals during which a participant was not
+experiencing either a drought or excess precipitation. We then took
+the average length of these intervals, producing a single measure
+of average latency between events of drought and excess precipitation.

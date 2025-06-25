@@ -1,0 +1,14 @@
+Using this method, we tested five orders of magnitude of
+protein concentrations and an untreated condition for all eight CC
+fusions. Results from four replicates were normalized by channel to
+control for variability due to image segmentation, and the median
+and SD reported in Figure 7 B for CC-His coating
+and Figure 7 C for CC-GFP-His (raw counts can be
+found in Figure S21 ). For all conditions but sg30-His,
+the CC-coated surface led to helixCAM cell binding, and the
+number of cells bound strongly correlated with the concentration of
+protein coating applied. Notably, at the same coating concentration, CC-GFP-His-coated
+wells bound markedly more cells than CC-His-coated wells (p value
+= 5.51 × 10 −10 , ANOVA), and, at higher
+concentrations, led to cells covering the entirety of the plate
+surface.

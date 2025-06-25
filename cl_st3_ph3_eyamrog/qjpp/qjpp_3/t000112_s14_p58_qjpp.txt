@@ -1,0 +1,22 @@
+We followed the protocol described by Paez-Espino et al. (2017)
+64. Paez-Espino, D. ∙ Pavlopoulos, G.A. ∙ Ivanova, N.N. ...
+Nontargeted virus sequence discovery pipeline and virus clustering for metagenomic
+data Nat. Protoc. 2017; 12 :1673-1682 Crossref Scopus (88) PubMed
+Google Scholar . Briefly, we used an expanded and curated
+set of viral protein families (VPFs) as bait in combination
+with recommended filtering steps to identify 16,584 UViGs directly from
+all MetaSUB metagenomic assemblies greater than 5kb. Then, the UViGs
+were clustered with the content of the IMG/VR system (a
+total of over 730k viral sequences including isolate viruses, prophages,
+and UViGs from all kind of habitats). The clustering step
+relied on a sequence-based classification framework (based on 95% sequence
+identity across 85% of the shortest sequence length) followed by
+the markov clustering (mcl). This approach yielded 2,009 viral clusters
+(ranging from 2-611 members) and 9,605 singletons (or viral clusters
+of 1 member), sequences that failed to cluster with any
+sequence from the dataset or the references from IMG/VR, resulting
+in a total of 11,614 vOTUs. We define viral species
+from vOTUs as sequences sharing at least 95% identity over
+85% of their length. Out of this total MetaSUB viral
+diversity, only 686 vOTUs clustered with any known viral sequence
+in IMG/VR.

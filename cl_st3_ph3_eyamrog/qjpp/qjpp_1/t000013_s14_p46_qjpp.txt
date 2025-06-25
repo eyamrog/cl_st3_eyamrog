@@ -1,0 +1,9 @@
+A confirmation of the LOD for each assay was determined
+by testing 20 replicates of RNA purified using the extraction
+method described in the ‘RVP panel’. The approximate LOD was
+identified by extraction, amplification and detection of twofold serial dilutions
+of the input sample, quantified viral isolates and genomic RNA
+or IVT RNA. These concentrations ranged from 20 to 0.5
+copies μl , depending on the virus. The LOD was
+determined as the lowest concentration where ≥95% (19 out of
+20) of the replicates were positive.

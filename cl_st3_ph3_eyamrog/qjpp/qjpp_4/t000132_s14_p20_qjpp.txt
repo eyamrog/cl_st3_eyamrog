@@ -1,5 +1,0 @@
-Errors for biochemical and cell biological experiments are reported as
-SD, and the number of measurements for each experiment is
-indicted in the figure legends. Statistical validation performed on the
-deposited atomic coordinate model was done using Phenix and is
-reported in Table S1 .

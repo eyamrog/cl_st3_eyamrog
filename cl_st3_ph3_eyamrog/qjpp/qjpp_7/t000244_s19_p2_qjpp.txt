@@ -1,14 +1,4 @@
-To replicate our assumption that both efficacy actors and efficacy
-goals can be distinguished, we first performed a CFA on
-efficacy items that were answered by all participants. Supporting H1,
-a model in which self-efficacy, collective efficacy, direct goal efficacy,
-and indirect goal efficacy represented distinct latent factors provided a
-better fit to the data, χ 2 / df =
-5.17, CFI = .973, SRMR = .030, AIC = 34,835
-(see Figure 2 ), than a model structured according to
-scales, χ 2 / df = 4.87, CFI = .968,
-SRMR = .031, AIC = 34,882, χ 2 diff (8)
-= 31.53, p < .001, or a one-factor solution, χ
-2 / df = 36.87, CFI = .658, SRMR =
-.135, AIC = 37,603, χ 2 diff (14) = 1469.50,
-p < .001.
+Contrary to our expectations, there were no significant effects of
+the manipulations on either goal efficacy beliefs or PEB (intentions),
+all p s > .30. For individual tests and values,
+please see Supporting Information A3.

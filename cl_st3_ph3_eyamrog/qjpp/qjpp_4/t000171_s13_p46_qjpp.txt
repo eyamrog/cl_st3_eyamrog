@@ -1,0 +1,11 @@
+Due to the high volume of RNA in red blood
+cells, globin-based reads can consequently comprise a large proportion (>80%)
+of sequencing reads. Thus, when preparing whole blood for 3′
+RNA sequencing, it may be advisable to include a globin
+depletion step in the protocol. However, globin reads can also
+be removed from analyses after sequencing, and depletion may introduce
+biases to other reads (Harrington et al., 2020 ). Consequently,
+there are costs and benefits to globin depletion with the
+primary benefit being a reduction in sequencing depth and expense,
+and the cost being an increase in protocol complexity and
+read bias. Globin reads may also sometimes be of interest.

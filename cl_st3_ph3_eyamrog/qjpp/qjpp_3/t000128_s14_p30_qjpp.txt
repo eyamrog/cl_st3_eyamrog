@@ -1,0 +1,5 @@
+Widefield imaging of CC-patterned helixCAM K562 cells was done at
+4X on a Nikon Eclipse Ti2 microscope. The objective was
+oriented to the center of the well, and a 2×2
+tile was captured and stitched with Nikon Elements, capturing the
+entire 96-well well surface.

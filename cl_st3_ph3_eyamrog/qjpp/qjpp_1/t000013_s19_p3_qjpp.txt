@@ -1,0 +1,16 @@
+We compared the performance of mCARMEN to CARMEN v.1 for
+detecting synthetic DNA fragments recapitulating the 21 viral targets and
+found that mCARMEN had the same (13 viruses) or better
+(8 viruses) analytical sensitivity compared with CARMEN v.1 (Fig. 1b,c
+and Extended Data Fig. 1b ). Both mCARMEN and CARMEN
+v.1 had 100% analytical specificity but mCARMEN was 100% sensitive
+to 10 copies μl and 98.4% sensitive to 10 copies
+μl while CARMEN v.1 was only 86% and 77.8% sensitive,
+respectively. Moreover, the mCARMEN reaction rate was accelerated compared with
+CARMEN v.1, resulting in faster initial detection and signal saturation
+of targets (Fig. 1d and Extended Data Fig. 1c ).
+This is likely due to the higher temperature at reaction
+initiation for mCARMEN (37 °C) than for CARMEN v.1 (25
+°C) and the extensive sample detection assay mixing that occurs
+in the mCARMEN IFC, rather than merged droplets mixing by
+diffusion in CARMEN v.1.

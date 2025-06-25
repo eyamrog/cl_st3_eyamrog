@@ -1,0 +1,7 @@
+The most common microbiological water quality indicators are total coliforms,
+fecal coliforms, and E. coli (Bain et al., 2012 ).
+These three indicators, along with others such as heterotrophic bacteria
+and Pseudomonas counts, are often used as a proxy for
+water treatment efficiency and risk of more virulent organisms. The
+simplest tests indicate presence or absence of one or more
+indicators.

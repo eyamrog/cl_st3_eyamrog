@@ -1,0 +1,10 @@
+Typical RNA-seq blood collection protocols, such as the PAXgene Blood
+RNA extraction system (Qiagen, Inc) call for the collection of
+2.5 ml venous blood into PAXgene vacutainers. PAXgene documents report
+that 2.5 ml blood yields ≥3 μg RNA for ≥95%
+of samples (mean ~ 8 μg) (PreAnalytiX., 2020 ). However,
+RNA sequencing requires only 50 to 100 ng RNA for
+evaluation of transcripts, and only 500 to 1000 ng for
+de novo transcriptome assembly, suggesting that 2.5 ml produces roughly
+60× the minimum RNA yield needed for 3′ sequencing and
+that less blood could be collected.

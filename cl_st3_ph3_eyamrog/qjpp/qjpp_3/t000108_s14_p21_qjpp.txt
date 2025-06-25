@@ -1,0 +1,7 @@
+Expression of osteomorph markers were assessed on viable bone marrow
+cells by multicolor flow cytometry (FACSymphony; BD Biosciences, North Ryde,
+Australia). Cells collected from the bone and marrow fractions were
+incubated in (1:200) Fc-block for 10mins and subsequently stained for
+30mins on ice in the dark with the indicated antibodies.
+Cells were washed in FACS buffer (2% FCS in PBS)
+and stained with DAPI before analysis.

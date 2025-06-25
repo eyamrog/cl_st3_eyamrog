@@ -1,0 +1,14 @@
+Longitudinal sequencing of some cases of chronic infection has uncovered
+striking mutational patterns of evolution and revealed that the rate
+of evolution is much higher than that observed along transmission
+chains of acutely infected individuals (for example, refs. ). Indeed,
+several recent reports found that the intra-host variation during acute
+infections is quite limited . Moreover, the transmission bottleneck size
+was inferred to be quite low in these studies, as
+evidenced by little to no shared genetic diversity in transmission
+pairs. Overall, this suggests that adaptive evolution may be limited
+during acute infections and that most of the diversity observed
+during SARS-CoV-2 circulation in the human population is due to
+neutral mutations fixed during the small transmission bottleneck. The low
+genetic diversity observed in acute infections contrasts with the high
+genetic diversity observed in the rare cases of chronic infections.

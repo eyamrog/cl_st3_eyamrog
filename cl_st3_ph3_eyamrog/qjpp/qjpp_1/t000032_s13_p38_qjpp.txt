@@ -1,0 +1,11 @@
+The primary purpose of sharing code is to communicate what
+was done to transform the data into scientific results. Today,
+almost all actions relevant to the science will have been
+carried out on the computer, so we must have a
+precise way to document those actions. Computer code, via any
+number of programming and data analytic languages, is the most
+precise way to do that. The sharing of code generally
+represents less of a technical burden than the sharing of
+data. Code tends to be much smaller in size than
+most data sets and can easily be served by code-sharing
+services such as GitHub, BitBucket, SourceForge, or GitLab.

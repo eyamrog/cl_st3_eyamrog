@@ -1,0 +1,15 @@
+In a now-retracted 2006 study by Potti et al. (
+40 ), the investigators claimed to have identified genomic signatures
+using microarrays that could predict whether an individual responded well
+to chemotherapy. The analysis was conducted using data from publicly
+available cell lines, and so the data were in a
+sense available. However, subsequent attempts to reproduce the findings failed
+and reproducibility was achieved only when errors were deliberately inserted
+into the analysis code ( 2 , 11 ). Baggerly,
+Coombes, and Wang meticulously reconstructed the error-prone analysis and laid
+out all the details in both text and code. Ironically,
+they were ultimately able to reproduce the analysis of Potti
+et al. ( 40 ) after significant reverse engineering and
+forensic investigation. In fact, we might never have learned what
+mistakes were made if Baggerly and his colleagues were not
+able to reproduce the analysis.

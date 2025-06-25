@@ -1,9 +1,0 @@
-Freestyle 293F cells at a density of 1 × 10
-6 /mL were co-transfected using 4.0 kDa PEI MAX (Polysciences)
-with equal amounts of heavy and light chain plasmids and
-pAdVAntage protein expression enhancing vector (Promega), using 0.5 μg of
-plasmid per 1 mL of culture. Five days post-transfection the
-supernatant was harvested, and antibodies were purified using Protein A
-Sepharose 4B (ThermoFisher Scientific) and eluted using 0.2 M Citric
-Acid, pH 2.5. Protein was buffer exchanged into PBS and
-stored at 4þC.

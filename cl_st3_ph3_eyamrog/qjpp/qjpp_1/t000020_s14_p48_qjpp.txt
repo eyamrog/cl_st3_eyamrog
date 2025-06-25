@@ -1,0 +1,13 @@
+Cell pellets were snap-frozen in liquid nitrogen and stored at
+−80 °C. Cells were Dounce-homogenized in ice-cold radioimmunoprecipitation assay buffer
+(89901; Thermo Fisher Scientific) containing protease inhibitors (Halt Protease Inhibitor,
+Thermo Fisher Scientific). Homogenates were rotated at 4 °C for
+30 min, followed by centrifugation at 15,000 g for 20
+min at 4 °C. Equal amounts of protein (50 µg)
+were electrophoresed on 4–20% SDS–PAGE (Bio-Rad) and transferred to nitrocellulose
+membranes. The following antibodies were used for immunoblotting: LRRK2 (75-253,
+UC Davis/National Institutes of Health NeuroMab Facility), anti-actinin (A7811, Sigma),
+GAPDH (sc-25778, Santa Cruz), anti-rabbit IgG HRP (7074, Cell Signaling)
+and anti-mouse IgG HRP (7076, Cell Signaling). Immunoblots were developed
+using enhanced chemiluminescence (SuperSignal West Pico Chemiluminescent Substrate, Thermo Fisher
+Scientific) on an Amersham Imager 600.

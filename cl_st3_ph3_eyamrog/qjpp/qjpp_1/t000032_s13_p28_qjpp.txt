@@ -1,0 +1,14 @@
+What role can reproducible research play in improving the quality
+of data analyses across all fields? The answer can be
+found in part with the experience of the HEI reanalysis
+of the Six Cities Study and the ACS air pollution
+study. Because the HEI-sponsored studies were reanalyses, one could expect
+that the results would be confirmed to some reasonable degree.
+If there was a significant deviation from the published results,
+then we would have to dig into the original analysis
+to discover why. Because the results were largely reproduced, one
+could argue that little was learned. However, additional analyses were
+done and sensitivity analyses were conducted. As a result, we
+learned much about the data analysis process. The reanalysis thus
+produced valuable knowledge about how to analyze air pollution and
+health data.

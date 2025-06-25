@@ -1,0 +1,12 @@
+helixCAM interactions in E. coli were tested as follows. A
+single colony was picked into 3mL of LB + carbenicillin,
+and grown overnight. 150 μL of culture was diluted into
+30mL LB + carbenicillin and grown for 75 min. 120
+μL of 100 mM IPTG was added to induce (0.4
+mM final concentration) and the culture was grown for an
+additional 3 h. 2mL from two separate cultures, each expressing
+a distinct helixCAM, were mixed, and after 4 h, a
+pipette is placed a quarter of the depth into the
+culture, and 100uL of cells are taken. This was either
+measured as an OD600 or plated onto a #1.5 glass
+coverslip for imaging.

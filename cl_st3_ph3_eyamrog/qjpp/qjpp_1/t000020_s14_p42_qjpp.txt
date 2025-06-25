@@ -1,0 +1,13 @@
+All pluripotent stem cells were approved by Harvard ESCRO protocol
+E00052 and E00067. Human ESCs (hESCs) were obtained from WiCell
+Research Institute (WA01, H1) under a material transfer agreement. Cell
+lines were authenticated by visual inspection of cell morphology with
+bright-field microscopy, staining with anti-Oct4 antibody to determine maintenance of
+pluripotency (Santa Cruz, sc-5279, data not shown), sent to WiCell
+Research Institute after 6 months of passaging or after isogenic
+cell line generation for karyotyping and in some cases PCA
+of RNA-seq data to confirm clustering with other pluripotent stem
+cell lines. Pluripotent stem cells were plated onto hESC-qualified Matrigel
+(VWR, BD354277)-coated six-well plates, mTeSR1 medium was changed daily (StemCell
+Technologies, 85850) and cells were passaged every 5–7 d with
+0.5 mM EDTA.

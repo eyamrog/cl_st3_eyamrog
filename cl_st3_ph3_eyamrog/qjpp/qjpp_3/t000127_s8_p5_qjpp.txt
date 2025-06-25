@@ -1,0 +1,14 @@
+In this study, we report that the extracellular pH can
+be sensed by peptide receptors in the RAM. Using molecular,
+biochemical, and genetic analyses, we found that the extracellular acidic
+pH environment in the RAM is altered by the immunity-triggered
+extracellular alkalinization. The extracellular pH change can be sensed by
+RGF1 and Pep1 receptor complexes. The alkalinization attenuates the relatively
+acidic pH-dependent RGF1-RGFR interaction to inhibit RGF1 signaling and the
+proliferation of RAM. The alkalinization enhances the relatively alkaline pH-dependent
+Pep1-PEPR interaction to promote immune response. The key pH-sensing residues
+in RGF1 and PEPR1 are identified as sulfotyrosine and Glu/Asp,
+respectively. Swapping the extracellular domains of RGI1/RGFR4 and PEPR1 can
+switch the pH dependency of RAM development. Thus, our findings
+uncover how plants sense extracellular pH signals in the RAM
+to fine-tune growth and immunity.

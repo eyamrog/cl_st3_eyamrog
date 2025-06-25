@@ -1,0 +1,19 @@
+Bacterial killing assays involve in vitro introduction of microbes to
+blood, plasma, or saliva in a dish or well. Microbes
+such as Candida albicans , Escherichia coli , and Staphylococcus
+aureus can be obtained as lyophilized pellets and reconstituted as
+needed. Liebl and Martin II ( 2009 ) report on
+a procedure designed for small birds that uses only 1.5
+μl of plasma or blood. The sample is diluted in
+medium and mixed with the microbe solution, then incubated for
+30 min to 1 h at a temperature optimal for
+the particular microbe used. The microbes are then diluted in
+nutrient medium and incubated for an additional 12 h. The
+bacterial concentration is then measured with a small Nanodrop Spectrophotometer
+(Thermo Scientific). As an alternate measurement, bacteria can also be
+spread on plates and the colonies counted (Millet et al.,
+2007 ). Since bacterial killing largely depends on the action
+of whole cells which are likely to be lysed or
+stressed by freezing it is unlikely to produce useful results
+from frozen blood, though we are not aware of protocols
+that have directly evaluated this.

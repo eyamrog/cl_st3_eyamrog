@@ -1,0 +1,6 @@
+As discussed earlier, one feature (cycle length) of this idealized
+version of the cycle has been extensively studied and shown
+to be far more variable than is widely appreciated. Nonetheless,
+the myths regarding cycle length persist and these myths, in
+fact, underpin a substantial amount of research in many fields
+including biomedicine and evolutionary sciences.

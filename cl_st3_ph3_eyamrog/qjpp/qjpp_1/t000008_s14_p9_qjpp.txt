@@ -1,0 +1,19 @@
+Molecular methods are explained in detail below. In summary, quantitative
+measurement of hFVIII-SQ vector genome forms was performed by treating
+isolated liver DNA with various DNA digestion enzymes followed by
+ddPCR assays using different custom-generated primers/probe sets: the ITR fusion
+assay measures 5′ to 3′ ITR recombination (that is, H–T);
+the R1–R11-linked assay measures full-length hFVIII-SQ genomes capable of giving
+rise to stable hFVIII-SQ transcript (although there is a possibility
+that some genomes might contain the R1 and R11 amplicon
+target regions via H–T ITR fusion, but may be missing
+the central portion of the transgene); the R2–R10 assay measures
+linked genomes slightly more distal to ITRs; and the SQ
+assay measures overall vector genomes (full length and fragments; Supplementary
+Fig. 4 ). PS-DNase digests linear DNA, including genomic DNA,
+while leaving circular genomes intact. KpnI, a DNA restriction enzyme
+that cuts within hFVIII-SQ vector genome at nucleotide positions 2,207
+and 3,596, separates out vector genome units within the concatemeric
+forms. The separated vector genome units can be captured within
+individual droplets, enabling quantification of genome units within concatemeric vector
+genomes.

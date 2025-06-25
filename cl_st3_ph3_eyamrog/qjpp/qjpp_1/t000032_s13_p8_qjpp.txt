@@ -1,0 +1,8 @@
+The concept of reproducible research was developed to achieve arguably
+modest goals. Its original aims focused on providing an approach
+to better communicate the details of computationally intensive research to
+one's collaborators, colleagues, students, and oneself. But two key developments
+over the past 30 years have changed the context around
+which reproducible research lives. Although the definition of reproducibility has
+not changed much since the 1990s, almost everything else about
+scientific research has.

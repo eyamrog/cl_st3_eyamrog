@@ -1,0 +1,17 @@
+This study concludes the installation of monitoring mechanisms by establishing
+a new algorithm that precisely measures the blood-covered area of
+a spot for each DBS in an automated way. For
+this approach, we took advantage of the fact that all
+SHARE DBS samples selected for analyses were photographed during the
+punching process. This unique approach allows for spot-size measurement of
+large amounts of DBS after collection. Previously published studies measured
+the applied blood volume by weighing a punched disc or
+used radio-isotopic methods (De Vries et al., 2013 ; Hewawasam
+et al., 2018 ). Others estimated the diameter of the
+entire spot with (electronic) calipers, photographic blood-area determination (Denniff &
+Spooner, 2010 ; Hall et al., 2015 ; Moat et
+al., 2020 ; Peck et al., 2009 ; Vu et
+al., 2011 ), or divided the spots into different size
+categories (Crimmins et al., 2020 ). Neither of these methods
+is suitable for the spot-size determination of huge amounts of
+field-collected DBS in large surveys like SHARE.

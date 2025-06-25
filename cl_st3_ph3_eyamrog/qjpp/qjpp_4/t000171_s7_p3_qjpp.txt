@@ -1,0 +1,15 @@
+Here we evaluate current state-of-the-art methods for measuring immune function
+in “non-clinical” or field settings using blood collected from a
+minimally invasive finger prick. First, we provide a brief introduction
+to the components of immune function which might be measured,
+and discuss the theoretical and scientific contexts in which these
+measures might be useful. Next, we briefly discuss point-of-care devices
+which give immediate results in the field, and then focus
+the remaining bulk of this review on methods for collection
+and preservation of finger-prick blood samples and their subsequent quantification
+for immune measures including immunoassays of dried blood spots (DBSs),
+flow cytometry, RNA sequencing, DNA quantification and sequencing, and direct,
+experimental measures of immune response. After reviewing these, we also
+briefly discuss prospects for measuring immune function in other biospecimens
+such as urine, saliva, and feces and discuss further considerations
+for sample collection and analysis.

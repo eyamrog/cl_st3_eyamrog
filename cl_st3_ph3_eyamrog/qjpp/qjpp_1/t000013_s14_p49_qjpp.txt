@@ -1,0 +1,23 @@
+Complete genomes for all viruses were downloaded from the NCBI
+on 2 April 2021 and aligned using MAFFT. For viral
+species with fewer than 1,000 sequences, FFT-NS-ix1000 was used. For
+viral species with >1,000 sequences, FFT-NS-1 was used for the
+MAFFT alignment. The primer and crRNA sequences were then mapped
+to the aligned viral sequences using a consensus alignment to
+determine percentage identity (homology). The average homology was taken across
+the panel sequences and the total number of sequences were
+evaluated. The text in bold represents on-target primers/crRNA to the
+intended viral sequences. Not all sequence combinations were evaluated because
+whole-genome homology between many viruses is less than 80%. All
+primer and crRNA sequences do not have >80% homology to
+other unintended viral or bacterial sequences, making the panel highly
+specific to particular viruses of interest. More specifically, no in
+silico cross-reactivity >80% homology between any primers and crRNA sequences
+on the RVP was observed for the following common respiratory
+flora and other viral pathogens: SARS-CoV-1, HCoV-MERS, adenovirus, enterovirus, rhinovirus,
+Chlamydia pneumoniae , Haemophilus influenzae , Legionella pneumophila , Mycobacterium
+tuberculosis , Streptococcus pneumoniae , Streptococcus pyogenes , Bordetella pertussis
+, Mycoplasma pneumoniae , Pneumocystis jirovecii , Candida albicans ,
+Pseudomonas aeruginosa , Staphylococcus epidermis and Streptococcus salivarius . The
+results of the in silico analysis are summarized in Supplementary
+Table 9 .

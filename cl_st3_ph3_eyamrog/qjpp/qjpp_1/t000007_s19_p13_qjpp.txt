@@ -1,0 +1,26 @@
+Next, we went on to examine patterns of variation over
+time across the different patients. In many of the case
+reports, the authors noted the emergence and disappearance (and sometimes
+re-emergence) of particular substitutions (Fig. 3 ). For example, in
+patient B reported by Perez-Lago et al. , the mutation
+S:A1078V is present at a low frequency on day 81,
+rises to fixation on day 100 and then drops and
+disappears from day 107 onwards (Fig. 3 ). When re-analyzing
+the data, we noted that this pattern of dynamic polymorphisms
+across time was observed in most patients (Supplementary Table 2
+). From an evolutionary point of view, it is quite
+unlikely for one or more substitutions to disappear from a
+given population, and, because we observe this at very different
+loci across all patients, we consider that it is not
+likely that all of this pattern is due to recurrent
+sequencing problems or due to biases of the viral polymerase.
+We and others have previously noted sequencing errors that occur
+predominantly when VL is low, when errors that occur during
+reverse transcription or early PCR cycles are carried over to
+higher frequencies . However, this phenomenon most often leads to
+errors in intra-host variants segregating at relatively low frequency and
+is less common at the consensus sequence level, which is
+defined here as mutations present at a frequency of 80%
+or higher. We, thus, conclude that the existence of dynamic
+polymorphisms likely reflects subpopulations of the virus that co-exist in
+a patient’s body, as further discussed below.

@@ -1,0 +1,22 @@
+In order to assess the influence of field conditions on
+biomarker values, SHARE conducted a post-field validation experiment with a
+non-SHARE donor sample, simulating the identified fieldwork conditions in the
+laboratory, creating a data set with 3420 different outcomes. (Börsch-Supan
+et al., 2021 ). The results of the laboratory experiment
+showed that the environmental factors, as well as sampling differences,
+influence the quality of the DBS and the therein-measured biomarker
+levels, although not all analytes suffer in the same way
+from these conditions. Moreover, we found that donor characteristics had
+no discernable influence on the relationship between environmental factors and
+biomarker values. These results are in accordance with the findings
+of the Health and Retirement Study (HRS; e.g., Crimmins et
+al., 2020 ) and other studies (Edelbroek et al., 2009
+; Freeman et al., 2018 ; Lim, 2018 ). A
+major finding of these experiments was the importance of spot
+size. Börsch-Supan et al. ( 2021 ) then used the
+validation results to generate formulae which convert the DBS values
+into venous blood values for a given set of fieldwork
+conditions (e.g., temperature, humidity protection, spot size). For these formulae
+to be applied to the survey-collected DBS, information on the
+fieldwork conditions must be provided. SHARE had installed various monitoring
+mechanisms to this effect (Börsch-Supan et al., 2020 ).

@@ -1,4 +1,0 @@
-The SARS-CoV-2 spike (GenBank: MN908947) expression plasmid was optimized for
-mammalian codon usage and was inserted into the eukaryotic expression
-vector pcDNA3.1 using the BamHI and Xho I sites to
-obtain the plasmid pcDNA3.1-SARS-CoV-2-spike (pcDNA3.1.S2).

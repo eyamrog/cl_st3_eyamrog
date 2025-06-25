@@ -1,0 +1,19 @@
+For the measurement of spot size, we used images that
+have been taken from each spot immediately before punching the
+small discs for laboratory analysis (semi-automated robot punching system Panthera
+Puncher 9, Perkin Elmer, Waltham, MA, USA. The camera is
+an integrated part of the puncher and is located adjacent
+to the punch head. It takes photos from above at
+an almost perpendicular angle; the deviation from a perfectly right
+angle is so small that it can be safely ignored.
+We did not control for the angle. Punching—and hence photographing—is
+performed from the rear side of the filter card as
+this reveals the fully soaked area of a spot. As
+some samples needed to be punched from several spots, several
+images for one sample may exist. This amounted to almost
+64 000 images for around 24 000 DBS samples. We
+used the images to establish the algorithm that precisely measures
+the pixels of the blood-covered area of the spots and
+counts the number of punches on the spot that are
+virtually marked in color (green) by the camera of the
+punching machine (see Figure 1 ).

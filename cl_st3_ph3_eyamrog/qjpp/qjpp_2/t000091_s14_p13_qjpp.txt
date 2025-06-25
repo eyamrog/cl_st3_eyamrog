@@ -1,8 +1,0 @@
-FAM-labeled RNAs (1 μM) and antibodies (10 μM) were incubated
-in EMSA binding buffer (10 mM Tris-HCl pH 7.0, 100
-mM NaCl, 5 mM dithiothreitol, 10 μg/mL BSA, and 10%
-(v/v) glycerol) for 1 hr at room temperature. Samples were
-then separated by non-denaturing 4% polyacrylamide gel electrophoresis in 1xTBE
-(Tris/borate/EDTA) buffer containing 20 mM NaCl at 80 V and
-4°C for 2 hr. The gel was imaged on a
-phosphorimager (LAS-3000, Fujifilm).

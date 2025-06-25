@@ -1,6 +1,0 @@
-Data and methods: In this comparative study, we included the
-largest nationwide and population-based studies in the fields of public
-health, nutrition and economics for Switzerland, as well as data
-of the medical examination during conscription for the Swiss Armed
-Forces, which contained information on BMI and, if possible, waist-to-height-ratio
-(WHtR) and waist-to-hip-ratio (WHR).

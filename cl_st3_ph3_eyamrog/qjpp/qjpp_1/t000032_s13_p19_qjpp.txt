@@ -1,0 +1,15 @@
+The Potti study is a pathological example of a reproducible
+analysis (after much forensic investigation) being profoundly incorrect. However, it
+is worth asking what role reproducibility might have played in
+this case? If Potti et al. had released the code
+and data that were clearly linked together, perhaps as a
+research compendium ( 17 ), then the errors could have
+been found more quickly. However, given the sheer number and
+complexity of the problems, it still likely would have taken
+some time to understand them all. Coombes et al. (
+11 ) published their letter only a year after the
+initial publication, so the timeline might have been advanced by
+a few months. However, a key fact would remain: The
+flawed analysis was already completed. Furthermore, once the truth was
+ultimately revealed to the authors, it took years of further
+investigation by many others before the original paper was retracted.

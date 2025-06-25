@@ -1,0 +1,12 @@
+Given this strong signal from each city, we performed a
+principal component analysis (PCA) on our taxonomic data, normalized by
+the proportion of identified principal components (PCs) that were associated
+with a metadata covariate (positive or negative). We hypothesized that
+some principle covariates, such as climate, continent, and surface material,
+might be prominent factors driving the taxonomic composition of a
+given sample. We found that the two most prominent absolute
+PCs associated strongly with the city climate (representing 28.0% and
+15.7% of the variance of the original data, respectively), while
+the continent and surface material associated less strongly ( Figure
+2 B); the same trend held for the variation of
+AMR genes ( Figures S3 E–S3G) as well.

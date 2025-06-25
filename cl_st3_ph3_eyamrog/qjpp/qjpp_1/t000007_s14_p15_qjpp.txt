@@ -1,0 +1,11 @@
+To account for the unique structure of these data and
+to avoid data leakage, we trained a random forest classifier
+with 500 trees, using ‘leave one patient out’ cross-validation: each
+split contained all timepoints of n − 1 patients as
+a train set, and the test set contained the remaining
+timepoints of the patient excluded from the train. Accuracy metrics,
+such as accuracy, precision, recall and F1 score, were calculated
+by weighting each metric score in each split by the
+number of observations in the test set, thus giving less
+weight to models tested on patients with a small number
+of timepoints.

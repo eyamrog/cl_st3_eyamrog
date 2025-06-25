@@ -1,0 +1,7 @@
+Previous studies have reported that microbial species whose relative abundance
+is negatively correlated with DNA concentration may be contaminants. We
+observed a number of species that were negatively correlated with
+DNA concentration but this distribution followed the same shape as
+a null distribution of uniformly randomly generated relative abundances leading
+us to conclude that negative correlation may simply be a
+statistical artifact.

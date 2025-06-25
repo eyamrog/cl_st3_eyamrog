@@ -1,0 +1,11 @@
+For whole transcript sequencing an enrichment step is commonly added
+after RNA isolation and purification to remove ribosomal RNA repeats
+which would otherwise swamp the sequencing and be uninformative for
+many purposes. Some protocols also enrich for RNAs with poly-adenine
+tails, which helps to eliminate immature RNAs which may contain
+introns that have not yet been spliced out. These steps
+are not necessary for 3′ sequencing, as 3′ sequencing only
+targets the poly-adenine tails at the 3′ ends of mature
+mRNAs. After enrichment the RNA is converted to complementary double-stranded
+DNA (cDNA) via a reverse transcriptase enzyme and prepared for
+sequencing.

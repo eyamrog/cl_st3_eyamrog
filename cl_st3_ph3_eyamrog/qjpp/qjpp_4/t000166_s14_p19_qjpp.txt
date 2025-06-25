@@ -1,8 +1,0 @@
-The links between graphonomic outcomes, other fine motor skills, fitness,
-and anthropometric status, as well as perceived competence, were addressed
-with network models, using correlations as estimators. Further network analyses
-were conducted with TPB , TPF , Shuttle , Floppy
-, Thumb , BMI and WtHR , splitting by age
-and gender. PMSC-2 parameters were excluded from the split networks
-because of the smaller sample sizes of the subgroups. For
-the details of network analysis, refer to the figure legends.

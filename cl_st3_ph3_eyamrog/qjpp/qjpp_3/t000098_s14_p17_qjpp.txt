@@ -1,0 +1,14 @@
+Linescans were acquired in a Leica SP8 confocal microscope (Leica
+Microsystems, Wetzlar, Germany), with a resonant scan head allowing 12
+kHz line rate. Excitation was achieved using a white light
+laser, at the wavelengths of 488 nm. Excitation power was
+set to 10% of the maximal laser output (0.3 mW
+at 488 nm), and 2∙10 6 lines were collected within
+the sample, with a length of 256 pixels and a
+pixel size of 50 nm. A 40x 1.4 NA objective
+was used. Detection was performed in photon counting mode using
+Leica hybrid detectors. For 8-FDA-cAMP linescan experiments cells were plated
+on 25 mm (#1.5) coverslips and loaded for 30 minutes
+with 100 nM 8-FDA-cAMP at 37°C. Cells were then washed
+three times in Hank’s Balanced Salt Solution (HBSS) (Thermofisher) and
+imaged in HBSS.

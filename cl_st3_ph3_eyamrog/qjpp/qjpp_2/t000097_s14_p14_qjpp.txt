@@ -1,0 +1,17 @@
+Tumor masses were resected and fixed in 4% PFA at
+4°C overnight. Fixed specimens were then dehydrated in 30% sucrose
+solution and cut into 50um-thick sections at the cryostat. Staining
+on free-floating sections was performed. Cryosections were blocked 4 h
+in 5% BSA solution and stained for 48 h at
+4°C with rabbit anti-Iba1 (Cell Signaling Technology clone E404W, dilution
+1:500) and rat anti-CD206-Alexafluor488 (Biolegend clone C068C2, dilution 1:200). Secondary
+staining was performed at room temperature for 2 h with
+fluorochrome-conjugated antibody (Life Technology Goat anti-rabbit Alexa-647, dilution 1:1000) and
+DAPI (Sigma, dilution 1:4000). Sections were then mounted on Superfrost
+glass slides (Fisher Scientific) and embedded in ProLong Diamond anti-fade
+mounting media (Thermofisher). Confocal imaging was carried out using a
+Zeiss LSM880 airyscan confocal microscope, with a 40X/1.4 oil-immersion objective.
+Each image was acquired in z stack/tile-scan mode to cover
+an area of 1mm 2 , and 10um of thickness.
+Percentage of staining covered area was calculated in ImageJ, after
+automated background thresholding.

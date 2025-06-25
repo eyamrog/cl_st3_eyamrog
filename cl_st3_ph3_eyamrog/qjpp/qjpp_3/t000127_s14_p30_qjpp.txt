@@ -1,0 +1,11 @@
+To construct the chimeric receptor RGI1/RGFR4pro:PEPR1 LRR -RGI1/RGFR4 TM+KD -HA,
+native promoter of RGI1/RGFR4 (∼2 kb) was amplified using the
+primers pQG110-Pst I-RGI1pro-F and RGI1pro-PEPR1-R from Arabidopsis Col-0 genomic DNA,
+LRR domain of PEPR1 and transmembrane domain and kinase domain
+of RGI1/RGFR4 with epitope HA tag were amplified from Arabidopsis
+Col-0 cDNA using the primers RGI1pro-PEPR1-F and PEPR1LRR-RGI1TM-R, PEPR1LRR-RGI1TM-F and
+PEPR1LRR-RGI1TM-F, respectively. Then these three fragments were combined using the
+primers pQG110-Pst I-RGI1pro-F and pQG110-RGI1-HA-Sal I-R, and inserted into Pst
+I and Sal I sites of vector pQG110 by Gibson
+cloning. Of note, the sequence 5’ggcgtagtcaggcacgtcgtaaggata3’ in primer SERK1dK-HA-Kpn I-R
+and pQG110-RGI1-HA-Sal I-R encodes the HA tag.

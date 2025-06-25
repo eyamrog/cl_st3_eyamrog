@@ -1,0 +1,6 @@
+Single cell suspensions were prepared from tumors upon sacrifice and
+leukocytes were enriched with a Percoll™ (GE Healthcare) gradient. Obtained
+cells were cultured in complete RPMI with or without PMA
+(10 −7 M, Sigma)-Ionomycin (500ng/mL, Sigma) and Protein Transport Inhibitor
+Cocktail (eBioscience, 500X) for 4 h. Cells were collected and
+stained for flow cytometry analysis.

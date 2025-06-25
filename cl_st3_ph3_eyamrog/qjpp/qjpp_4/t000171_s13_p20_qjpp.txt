@@ -1,0 +1,22 @@
+The HemoCue WBC System (Hemocue AB) provides only total white
+blood cell (WBC) counts. It offers some advantages over the
+QBC as it is smaller in size, has battery-powered capacity,
+and requires less blood (10 μl vs. 70–111 μl). In
+controlled conditions the HemoCue WBC works well and provides high
+correlations with reference methods (Osei-Bimpong et al., 2009 ). However,
+in our experience with this system in the field we
+found that it often fails when temperature and humidity are
+high. We learned a few hacks that did not affect
+the read reliability—like keeping the HemoCue WBC in a cooler
+with ice packs between tests—however these are less than ideal
+and data loss can still occur with higher than acceptable
+frequency. The HemoCue WBC system costs around $2000, while test
+cuvettes cost around $3.25 per sample. The same company also
+offers the HemoCue WBC Diff, which provides a 5-part differential
+(neutrophils, lymphocytes, monocytes, eosinophils, and basophils). It is not currently
+available in the United States, and we have not had
+an opportunity to test it. Some anthropologists have successfully used
+this device in the field (Page et al., 2016 ).
+However, other reports in the literature suggest it may be
+somewhat inaccurate with finger prick samples (Karawajczyk et al., 2017
+).

@@ -1,0 +1,19 @@
+The HHA is an assay utilized by field biologists to
+measure complement and natural antibody activity via the ability of
+plasma to lyse or agglutinate foreign red blood cells. Natural
+antibodies are antibodies produced without previous exposure to an antigen
+and which are genetically encoded rather than requiring gene rearrangement
+to produce, while the complement system consists of a number
+of small molecules that bind to invaders and trigger further
+responses to clear infections. The HHA assay is similar to
+the hemolytic complement assay (HCA) developed in the 1960s to
+measure complement activity in humans and aid in diagnosing complement
+related disorders (Kirschfink & Mollnes, 2003 ; Mayer, 1961 ;
+Morgan, 2000 ; Rapp & Borsos, 1970 ). However, it
+is simpler to perform in the field with small volumes
+and results that are read by eye or with a
+scanner or camera, rather than a spectrophotometer. The HCA assay
+uses antibody-sensitized sheep erythrocytes to evaluate the classical complement pathway
+and rabbit erythrocytes to assesses the alternative complement pathway; the
+HHA does not distinguish lysis by pathway, however it does
+assess agglutination which requires natural antibodies.

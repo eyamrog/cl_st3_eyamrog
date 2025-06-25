@@ -1,0 +1,13 @@
+Many immunological values vary with age, sex, and reproductive status.
+Age-related patterns are apparent in many measures due to development
+and late-life senescence (e.g., Blackwell et al., 2011 , 2016
+; McDade, 2005b ). Studies should evaluate whether it is
+appropriate to use age-standardized z-scores or to otherwise control for
+age. Note, however, that many age-related changes are not strictly
+linear, so linear terms in regression models may not be
+sufficient. Differences by sex and reproductive status (e.g., menstrual cycle,
+pregnancy) are also apparent (Aghaeepour et al., 2017 ; Hové
+et al., 2020 ; Klein & Flanagan, 2016 ; Natri
+et al., 2019 ; Wander et al., 2008 ) and
+so studies should take these into account as part of
+study design and analysis.

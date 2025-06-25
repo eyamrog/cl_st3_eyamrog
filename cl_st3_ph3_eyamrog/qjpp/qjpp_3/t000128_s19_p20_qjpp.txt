@@ -1,0 +1,17 @@
+Adherent cells, such as HEK293s, express various adhesion proteins that
+mediate strong interactions with the plate surface and with each
+other. To examine whether the strength of helixCAM interactions was
+capable of competing with endogenous adherence, pairs of HEK293 helixCAM
+cell lines were co-cultured and examined for preferential interactions by
+wide-field microscopy ( Figure 6 C). Although the two cell
+types in uninduced controls were evenly distributed and displayed normal
+cell morphology, induced cells were much more locally concentrated, left
+larger areas of the well empty, and formed elongated bundles
+( Figure 6 D). Within each bundle, it was possible
+to identify the cell bodies through alternating fluorescence, and rather
+than the rotund morphology found in the uninduced conditions, the
+induced cells appear stretched, with some cell bodies spanning over
+100 μm (uninduced cell lengths were closer to 30 μm).
+The notable change in morphology from HEK293 helixCAM cells indicates
+that helixCAM interactions can compete with endogenous interactions to influence
+adherent cells’ migration and morphology.

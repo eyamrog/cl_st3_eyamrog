@@ -1,0 +1,12 @@
+Finally, multivariable logistic regression models were fitted to investigate independent
+associations of the exposures (maternal age, pregnancy number, height, and
+BMI) with the two primary outcomes, taking into account potential
+confounders (namely, education, wealth, and offspring sex). Similar models were
+developed for the secondary outcomes in the subsample. Due to
+the large amount of missing data on maternal BMI in
+late pregnancy, we did not implement a multiple imputation procedure,
+and initial models included only maternal height. Additional models tested
+the effect of adding in maternal BMI for a complete-case
+scenario. We also tested whether the trial arm was a
+significant covariate in these models, adjusting for the cluster as
+a random effect.

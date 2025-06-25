@@ -1,0 +1,12 @@
+RNA-seq data can be analyzed in several ways, for example,
+to infer broad patterns of immune investment, to infer the
+representation of different leukocyte proportions, or to infer cytokine or
+antibody production (Table 1 ). Cell proportions can be inferred
+through RNA transcripts for canonical cell type markers, for example,
+CD14 for monocytes, CD3D and CD3E for T-cells, CD4 for
+helper t-cells, CD8A for cytotoxic t-cells, CD19 for B cells,
+CD16 (FCGR3A) for neutrophils and monocytes, and CD56 (NCAM1) for
+natural killer cells. They can also be inferred through transcript
+origin analysis which uses full profiles of gene expression in
+multiple tissues (e.g., Cole et al., 2011 ; Palmer et
+al., 2006 ; Su et al., 2004 ).

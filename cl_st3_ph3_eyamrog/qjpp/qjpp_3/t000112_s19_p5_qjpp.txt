@@ -1,0 +1,20 @@
+Since humans are a major part of the urban environment,
+the DNA in our samples could be expected to resemble
+commensal human microbiomes. To investigate this, we compared non-human DNA
+fragments from our samples to 50 randomly selected samples from
+five commensal microbiome sites (stool, skin, airway, gastrointestinal tract, urogenital
+tract; 10 samples of each type) in the Human Microbiome
+Project (HMP) ( Consortium et al., 2012 16. Consortium, T.H.M.P.
+∙ Human, T. ∙ Project, M. ..., Human Microbiome Project
+Consortium Structure, function and diversity of the healthy human microbiome
+Nature. 2012; 486 :207-214 Crossref Scopus (6330) PubMed Google Scholar
+). We used MASH to perform a k-mer-based comparison of
+our samples versus the selected HMP samples, which showed a
+roughly uniform dissimilarity between MetaSUB samples and those from different
+human body sites ( Figures 1 E and S1 A).
+Samples taken from surfaces that were likely to have been
+touched more often by human skin, such as doorknobs, buttons,
+railings, and touchscreens, were indeed more similar to the human
+skin microbiomes than surfaces like bollards, windows, and the floor.
+For example, doorknobs were significantly more similar to skin than
+windows (t test, p < 2e-16).

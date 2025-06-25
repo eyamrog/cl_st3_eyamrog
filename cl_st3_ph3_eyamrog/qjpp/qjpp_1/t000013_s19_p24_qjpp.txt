@@ -1,0 +1,15 @@
+To make mCARMEN quantitative, we took advantage of the existence
+of multiple CRISPR–Cas proteins with differing reaction kinetics and enzymatic
+activities as well as the three fluorescent channels detected by
+the Fluidigm Biomark (Fig. 4a ). We incorporated DNA-targeting CRISPR–Cas12
+into the Cas13 reaction and used protein-specific reporters in different
+fluorescent channels, HEX and FAM, respectively to maximize our multiplexing
+capabilities. To capture reaction kinetics, images of the IFC chip
+were taken every 5 min for 3 h to generate
+sigmoidal curves from the fluorescent signals over time. When considering
+enzymatic activities, Cas13 has enhanced sensitivity compared to Cas12 since
+the process of in vitro transcribing the double-stranded DNA (dsDNA)
+sample input for Cas13 detection results in an increased starting
+concentration. Thus, we used Cas12 to capture the kinetic curves
+of higher copy material on the standard curve and Cas13
+to capture lower copy material.

@@ -1,0 +1,12 @@
+Some assembled genomes showed regional specificity, while others were globally
+distributed. Overall, the taxonomic composition of identifiable genomes roughly matched
+the composition of the core urban microbiome (see a core
+urban microbiome centers global diversity ), with the number of
+identified bacterial MAGs somewhat related to read depth (number of
+reads correlated with the number of OTUs in sample with
+R = 0.4, p < 2 e 16 Pearson’s correlation),
+indicating additional sampling and sequencing will continue to discover more
+MAGs that do not match known reference genomes. Bacterial MAGs
+were roughly evenly distributed geographically, with the notable exception of
+Offa, Nigeria, which had dramatically more bacterial species than other
+cities that did not match references.

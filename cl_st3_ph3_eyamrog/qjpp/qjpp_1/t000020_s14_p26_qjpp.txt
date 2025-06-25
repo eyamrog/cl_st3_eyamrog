@@ -1,0 +1,15 @@
+The list of all codings within the field ‘20002 Non-cancer
+illness code, self-reported’, were taken from the UK Biobank showcase
+( http://biobank.ctsu.ox.ac.uk/crystal/coding.cgi?id=6 ). All selectable codings were given a primary
+grouping pertaining to the main system relating to that disease.
+In rare instances where more than one grouping could be
+assigned, the second was included as a secondary grouping. Diseases
+with an autoimmune basis were given a secondary grouping to
+reflect a similar underlying mechanism. Due to the opposing effects
+of some respiratory diseases, where appropriate, phenotypes in this category
+were given a secondary grouping of airway, interstitial or pleural.
+Any codings reflecting symptoms, trauma/injury, benign cancer, mental health phenotypes
+or diseases arising as a result of infection were excluded.
+All phenotype codings and assigned groupings are listed in Supplementary
+Table 10 . Any coding within the field ‘20001 Cancer
+code, self-reported’ was assigned a grouping of ‘cancer’.

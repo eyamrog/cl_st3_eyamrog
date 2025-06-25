@@ -1,0 +1,3 @@
+The selected biomarkers included cycle length, follicular and luteal phase
+lengths, progesterone concentration during its luteal peak, and late luteal
+duration (biomarkers are defined under Methods below).

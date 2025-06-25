@@ -1,0 +1,20 @@
+Using data collected through community reporting of symptoms and tests
+via the COVID Symptom Study app, we did an ecological
+study to investigate whether the appearance of the B.1.1.7 variant,
+first detected in a sample from England in September, 2020,
+was associated with differences in symptoms, disease duration, admission to
+hospital, asymptomatic infection, risk of reinfection, and transmissibility for users
+reporting a positive test result between Sept 28 and Dec
+27, 2020. We did not find associations between the proportion
+of infections with the B.1.1.7 variant and the type of
+symptoms reported by our app users. We also did not
+find evidence for any change associated with the B.1.1.7 variant
+in the total number of symptoms reported by individuals, nor
+in the proportion of individuals with a long disease duration,
+defined as recording symptoms for more than 28 days without
+a break of more than 7 days. The proportion of
+users with asymptomatic disease did not significantly change as the
+B.1.1.7 variant increased in prevalence, in agreement with other studies
+on the subject. We also found no changes in admissions
+to hospital; however, other reports have shown that the B.1.1.7
+variant increases rates of admission to hospital.

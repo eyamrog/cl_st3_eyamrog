@@ -1,0 +1,12 @@
+Since RANKL regulates osteoclast recycling, we sought to quantify the
+effect of sRANKL, OPG:Fc, and OPG:W on the number, morphology,
+and network connections between double-labeled cells that have taken up
+bisphosphonate ( Figures 5 A–5D). OPG:Fc treatment induced the loss
+of large aspherical cells >10,000 μm 3 and a shift
+in the distribution of the cell volume and sphericity, such
+that overall cells were smaller and more rounded ( Figures
+5 A and 5B). Network analysis showed that these cells
+did not form the extensive interconnected networks of cells >1,000
+μm in length seen in steady-state conditions and in sRANKL-treated
+mice ( Figures 5 C and 5D). This suggests that
+OPG:Fc inhibits RANKL-dependent fusion, resulting in the accumulation of osteomorphs.

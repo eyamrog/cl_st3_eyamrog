@@ -1,0 +1,20 @@
+Zoe Global provided in-kind support for all aspects of building,
+running, and supporting the app and service to all users
+worldwide. COG-UK is supported by funding from the Medical Research
+Council (MRC) part of UK Research & Innovation (UKRI), the
+UK National Institute for Health Research (NIHR), and Genome Research
+(operating as the Wellcome Sanger Institute). Financial support for this
+study was provided by the NIHR-funded Biomedical Research Centre based
+at Guy's and St Thomas' NHS Foundation Trust. Investigators also
+received financial support from the Wellcome Trust (212904/Z/18/Z, WT203148/Z/16/Z), the
+MRC and British Heart Foundation (MR/M016560/1), Alzheimer's Society, EU, NIHR,
+Chronic Disease Research Foundation, and the NIHR-funded BioResource, Clinical Research
+Facility, and Biomedical Research Centre based at Guy's and St
+Thomas' NHS Foundation Trust in partnership with Kings College London,
+the UKRI London Medical Imaging & Artificial Intelligence Centre for
+Value-Based Healthcare, the Wellcome Flagship Programme (WT213038/Z/18/Z), and the Department
+of Health and Social Care. ATC was supported in this
+work funded through a Stuart and Suzanne Steele Massachusetts General
+Hospital Research Scholar Award. The Massachusetts Consortium on Pathogen Readiness
+and Mark and Lisa Schwartz supported funded investigators at Massachusetts
+General Hospital (DAD, LHN, and ATC).

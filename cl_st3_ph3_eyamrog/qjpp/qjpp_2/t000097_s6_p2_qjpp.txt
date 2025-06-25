@@ -1,0 +1,25 @@
+Analyses of the TCGA database suggested that anti-TREM2 treatment may
+be particularly promising in CRC and TNBC, because TREM2 expression
+inversely correlated with overall survival and relapse in these cancer
+patients. Beyond these correlations, our extensive pathology study of human
+tumors suggests that TREM2 may be a particularly attractive therapeutic
+target, as it was highly expressed in the vast majority
+of over 200 cases of primary and metastatic tumors that
+we examined by IHC, while it was poorly expressed in
+normal tissues. Therefore, TREM2 targeting may be widely applicable. We
+have previously shown that TREM2 is induced in human monocytes
+and mouse bone marrow cells upon exposure to GM-CSF and
+CSF-1 ( Bouchon et al., 2001 6. Bouchon, A. ∙
+Hernández-Munain, C. ∙ Cella, M. ... A DAP12-mediated pathway regulates
+expression of CC chemokine receptor 7 and maturation of human
+dendritic cells J. Exp. Med. 2001; 194 :1111-1122 Crossref Scopus
+(385) PubMed Google Scholar ; Turnbull et al., 2006 49.
+Turnbull, I.R. ∙ Gilfillan, S. ∙ Cella, M. ... Cutting
+edge: TREM-2 attenuates macrophage activation J. Immunol. 2006; 177 :3520-3524
+Crossref Scopus (527) PubMed Google Scholar ). Thus, we speculate
+that the high level of TREM2 expression in tumors reflects
+the production of these cytokines by several cell types in
+the tumor microenvironment, such as fibroblasts and myeloid cells. It
+is possible that the efficacy of anti-CSF-1 treatment previously observed
+in tumor models is partly due to the reduced expression
+of TREM2.

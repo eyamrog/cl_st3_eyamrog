@@ -1,0 +1,21 @@
+To identify the antigen specificity of the neutralizing human anti-EEEV
+mAbs, we assessed binding to SINV/EEEV particles and EEEV E2
+or E1 glycoproteins ( Figures 2 and S1 ). The
+ratio of virus/protein half-maximal effective binding concentration (EC 50 )
+values for binding was determined ( Figure 2 B) to
+identify differences in reactivity of mAbs recognizing virion particle-specific epitopes
+versus those more accessible in recombinant glycoprotein. Preferential binding to
+virion-specific epitopes suggests that some mAbs recognize quaternary epitopes on
+the virion or require bivalent binding with specific geometric orientation.
+A majority of the mAbs bound strongly to either E2
+antigen (isolated protein or SINV/EEEV particles) by ELISA (<100 pM
+[<30 ng/mL] EC 50 values), with a virus/protein EC 50
+ratio of ~1. EEEV-33 bound weakly to recombinant E2 glycoprotein
+compared to SINV/EEEV particles (<4 nM versus 11 pM [<1.2
+μg/mL versus 3.3 ng/mL] EC 50 values), indicated by a
+virus/protein EC 50 ratio of 0.003 ( Figure 2 B).
+A few mAbs bound E2 protein better than SINV/EEEV particles,
+such as EEEV-147 (virus/protein EC 50 ratio = 4.4), indicating
+that these mAbs may recognize an epitope that is less
+accessible on the virion surface under the conditions tested. Binding
+to EEEV or CHIKV E1 glycoproteins was not detected.

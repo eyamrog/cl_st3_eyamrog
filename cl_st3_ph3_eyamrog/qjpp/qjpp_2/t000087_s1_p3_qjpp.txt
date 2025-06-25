@@ -1,0 +1,13 @@
+Results: Of 600 patients who were enrolled across 153 institutions,
+587 were eligible. At a median follow-up of 42.1 months
+(range, 0.1 to 80.9), the 3-year event-free survival was 92.1%
+(95% confidence interval [CI], 88.4 to 94.7) in the brentuximab
+vedotin group, as compared with 82.5% (95% CI, 77.4 to
+86.5) in the standard-care group (hazard ratio for event or
+death, 0.41; 95% CI, 0.25 to 0.67; P<0.001). The percentage
+of patients who received involved-site radiation therapy did not differ
+substantially between the brentuximab vedotin group and the standard-care group
+(53.4% and 56.8%, respectively). Toxic effects were similar in the
+two groups. Overall survival at 3 years was 99.3% (95%
+CI, 97.3 to 99.8) in the brentuximab vedotin group and
+98.5% (95% CI, 96.0 to 99.4) in the standard-care group.

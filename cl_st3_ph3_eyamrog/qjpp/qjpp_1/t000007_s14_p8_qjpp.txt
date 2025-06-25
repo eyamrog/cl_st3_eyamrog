@@ -1,0 +1,10 @@
+Supplementary Table 2 lists information (clinical and mutational, across all
+timepoints) per patient, whereas Supplementary Table 3 lists information per
+timepoint sequenced for each patient. When two samples from the
+same timepoint were available from different niches, we presented only
+the nasopharyngeal one, because our focus is primarily on this
+niche (with the exception of Fig. 3 ). Counts and
+information of substitutions per patient are listed in Supplementary Table
+2 for both the S region and the rest of
+the genome. Transient substitutions (that re-appeared at a certain timepoint)
+were counted only once.

@@ -1,0 +1,24 @@
+To determine if an ancestral or derived sequence was present,
+the signals between respective ancestral and mutation crRNA pairs had
+to be evaluated and compared (Supplementary Table 4 ). First,
+background-subtracted reporter fluorescence was normalized to the background-subtracted passive reference
+dye (ROX) fluorescence for each assay in the IFC. Next,
+the ancestral:mutation and mutation:ancestral ratios were calculated for each 5-min
+interval time point across 180 min. For each crRNA pair,
+the ratio reaching a crRNA pair-specific threshold at the earliest
+time point was selected. If the ancestral:mutation ratio was selected,
+then the sequence present was determined to be ancestral. If
+the mutation:ancestral ratio was selected, then the sequence present was
+determined to contain the mutation targeted by the mutation crRNA
+within the SARS-CoV-2 spike gene. crRNA pair-specific thresholds were determined
+based on ancestral and variant control samples, also referred to
+as seed stock samples, tested in parallel with the unknown
+samples. For a given crRNA pair, the threshold was set
+to the lowest value with the maximum combined sensitivity and
+specificity when applied to the seed stock samples. For crRNA
+to detect an SNP at the same position, the second
+lowest threshold with the maximum combined sensitivity and specificity was
+chosen if possible, without compromising the maximum combined sensitivity and
+specificity. For crRNA pairs targeting mutations not represented in the
+variant control samples, a default crRNA pair threshold of 1.5
+was set.

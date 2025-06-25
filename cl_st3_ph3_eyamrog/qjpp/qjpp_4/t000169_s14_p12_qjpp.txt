@@ -1,0 +1,4 @@
+The DBS samples were analyzed in two randomly drawn batches:
+The first batch contained about 8000 observations, analyzed in 2018;
+the second batch with almost 16 000 observations was analyzed
+in 2020/21.

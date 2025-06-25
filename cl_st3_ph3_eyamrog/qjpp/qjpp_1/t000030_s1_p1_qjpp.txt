@@ -1,0 +1,11 @@
+Influenza is a common respiratory infection that causes considerable morbidity
+and mortality worldwide each year. In recent years, along with
+the improvement in computational resources, there have been a number
+of important developments in the science of influenza surveillance and
+forecasting. Influenza surveillance systems have been improved by synthesizing multiple
+sources of information. Influenza forecasting has developed into an active
+field, with annual challenges in the United States that have
+stimulated improved methodologies. Work continues on the optimal approaches to
+assimilating surveillance data and information on relevant driving factors to
+improve estimates of the current situation (nowcasting) and to forecast
+future dynamics.

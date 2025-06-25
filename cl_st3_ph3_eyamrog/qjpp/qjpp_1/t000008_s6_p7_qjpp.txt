@@ -1,0 +1,25 @@
+Unexpectedly, plasma FVIII activity was negatively associated with hFVIII-SQ RNA
+expression in the three responders. This may imply inefficient protein
+translation, folding, posttranslational modification and/or secretion, and the endogenous capacity
+of cells to fold and secrete protein may be a
+factor. B-domain-deleted FVIII transgenes produce FVIII-SQ protein that is inefficiently
+folded and secreted from the ER ; FVIII-SQ without codon
+optimization has also been shown to be inefficiently folded in
+the ER . It is possible that human hepatocytes, which
+do not normally express FVIII, might be reaching capacity to
+fold and secrete hFVIII-SQ protein. It is reasonable to speculate
+that individuals who have a greater intrinsic ability to ‘process’
+FVIII protein would be more successful at secreting FVIII into
+the circulation. Indeed, endogenous liver GRP78 levels appear to correlate
+with circulating hFVIII-SQ protein levels in mice , as well
+as in the three participants with detectable plasma FVIII activity
+in our study. With a limited set of naïve human
+liver samples, a wide range of hepatic GRP78 expression was
+observed. Thus, intrinsic levels of hepatic GRP78 may contribute to
+the observed interindividual variability. Intraindividual variation of FVIII activity over
+time may also be driven in part by adaptive signaling
+processes in response to changes in unfolded protein or other
+cellular stresses and differential expression of genes involved in protein
+translation and unfolded protein-binding/chaperones pathways (Supplementary Fig. 6 ). Larger
+sample sets and mechanistic studies are needed before conclusions can
+be made.

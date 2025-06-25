@@ -1,0 +1,16 @@
+For stage one of the CC library screen, a tripartite
+split-GFP method was used. Colonies were picked from strains containing
+each paired library combination and grown in 3mL LB +
+Carbenicillin (50 ng/μL) overnight. The culture was diluted 1:100 in
+100μL of LB carbenicillin and grown in shaking culture in
+a BioTek Synergy H1 plate at 567 cycles per minute
+and 37°C for 1h. Next, the cells were induced at
+1:1000 with IPTG (Teknova I3431) and grown for 45 min.
+Cells were then diluted 1:100 into PBS (ThermoFisher 10,010,023) and
+sorted on a BioRad S3e Cell Sorter. From each library,
+cells were sorted into for the top 0.5% GFP intensity,
+and the sorted cells were grown to a high density
+and sorted again, selecting for the top 2% of GFP
+intensity. Plasmids were miniprepped from the resulting population and sequenced
+through NGS. 102 coiled-coil candidates demonstrating the highest affinity and
+orthogonality were selected for the next stage of the screen.

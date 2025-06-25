@@ -1,0 +1,12 @@
+For each phenotype, we computed the theoretical OR we were
+powered to detect (given in Supplementary Tables 5 and 8
+) as follows: let m be the proportion of individuals
+used in the association study of that phenotype who are
+LRRK2 pLoF carriers and let n 0 and n 1
+be the number of controls and cases, respectively. For each
+OR in the interval (1, 10) at steps of 0.02,
+we computed the power of the Cochran–Armitage trend test to
+detect an association between a variant with minor allele frequency
+m and OR at α = 0.05, with n 0
+controls and n 1 cases . We reported the smallest
+OR such that the power was ≥0.8.

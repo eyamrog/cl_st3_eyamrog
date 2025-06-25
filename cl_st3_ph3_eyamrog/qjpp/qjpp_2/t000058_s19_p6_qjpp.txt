@@ -1,0 +1,23 @@
+Similar to life expectancy, there were large inequalities in the
+probability of surviving from birth to 80 years, which ranged
+from 42% to 87% in women and 27% to 85%
+in men across MSOAs in 2019. These large survival inequalities
+were present at every stage of the life-course including childhood
+and early adolescence (0–15 years), young adulthood (15–30 years), working
+ages (30–70 years), and older ages (70–80 years; appendix pp
+15–16 ). Specifically, the probability of dying at different stages
+of the life-course in the 99th percentile of MSOAs was
+between 2·6 and 3·1 times that of the first percentile
+for female and male sexes in 2019. From 2002 to
+2019, the relative inequality across MSOAs (ie, ratio of the
+99th to the first percentile) in the probabilities of dying
+increased at every stage of the life course; the absolute
+inequality (ie, difference between the 99th and first percentiles) decreased
+slightly in all combinations except for working age women (30–70
+years). Within childhood and adolescence, there were particularly large inequalities
+in infant mortality (0 to <12 months), with a ratio
+of the 99th to the first percentile of MSOAs being
+3·2 for female and male sexes in 2019. Infant mortality
+increased from 2014 to 2019 in 1378 (20·3%) MSOAs for
+girls and 888 (13·0%) for boys, many of which experienced
+a decline in life expectancy.

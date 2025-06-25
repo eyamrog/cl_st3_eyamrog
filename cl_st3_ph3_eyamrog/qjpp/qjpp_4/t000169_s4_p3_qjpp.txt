@@ -1,0 +1,11 @@
+The new spot-size information improves the accuracy of conversion formulae
+that translate blood-marker values analyzed from SHARE DBS into standard
+blood equivalents. This increases the quality of marker values gained
+from field-collected DBS and makes the data more reliable and
+user-friendly. Therefore, the data dissemination of DBS biomarkers should include
+a measure of spot size if one suspects that fieldwork
+conditions were less than optimal. For large-scale surveys, taking images
+from the DBS during the punching process is a feasible
+method to conduct spot-size measurement. Refinements of the image analyses—such
+as the location of punches within the spot—can improve conversion
+formulae even further.

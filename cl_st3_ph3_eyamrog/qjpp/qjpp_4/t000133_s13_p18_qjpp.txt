@@ -1,0 +1,12 @@
+Osmolality is determined by freezing point depression osmometry, calculated as
+milliosmoles per kilogram (mOsm/kg) on an osmometer. The normal range
+of a euhydrated or well-hydrated state is serum osmolality between
+285 and 295 mOsm/kg. Values of 295 mOsm/kg indicate impending
+dehydration. Values above 300 mOsm/kg are used as a cutoff
+for dehydration. Values below 285 mOsm/kg may reflect overhydration or
+hyponatremia, which can be similarly dangerous and should be examined
+for serum sodium levels to further examine electrolyte imbalances (Cheuvront
+et al., 2010 ). However, the correlation between Sosm and
+urinary biomarkers of hydration are not very strong ( r
+= ~.2). Without an osmometer in the lab, generally the
+cost is ~$25 per sample.

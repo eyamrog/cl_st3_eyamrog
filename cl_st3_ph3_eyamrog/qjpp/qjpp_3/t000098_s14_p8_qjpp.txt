@@ -1,0 +1,5 @@
+The designed fluorogenic cAMP analog 8-(2-(5(6)-carboxyfluoresceindiacetate)-aminoethylthio)adenosine-3′,5′-cyclic monophosphate (abbreviation: 8-FDA-cAMP )
+was custom-synthesized by Biolog Life Science Institute, Bremen, Germany (details
+in Methods S1 ). The identity and purity of 8-FDA-cAMP
+were assessed with mass spectrometry and HPLC, respectively, by Biolog
+Life Science Institute, Bremen, Germany (details in Methods S1 ).

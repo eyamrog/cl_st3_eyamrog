@@ -1,0 +1,11 @@
+Current data for trends in mortality and longevity in the
+UK are restricted to medium-sized areas such as local authority
+districts (median population approximately 140 000), or to aggregations of
+communities based on socioeconomic measures such as deciles of deprivation.
+High-resolution data are limited to snapshots in time by aggregating
+data from 5 years to obtain stable estimates, and do
+not present information on trends. The absence of consistent, high-resolution
+trend data limits our ability to target policies and interventions
+for addressing health inequalities, and to measure the effects of
+such policies including the so-called levelling up policies , which
+aim to address geographical inequalities in the UK.

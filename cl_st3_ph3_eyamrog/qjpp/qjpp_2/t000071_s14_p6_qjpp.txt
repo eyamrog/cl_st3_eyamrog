@@ -1,6 +1,0 @@
-Randomization occurred at research pharmacies in Minneapolis and Montreal. The
-trial statisticians generated a permuted-block randomization sequence using variably sized
-blocks of 2, 4, or 8, with stratification according to
-country. A research pharmacist sequentially assigned participants. The assignments were
-concealed from investigators and participants; only pharmacies had access to
-the randomization sequence.

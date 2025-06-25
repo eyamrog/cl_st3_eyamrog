@@ -1,0 +1,17 @@
+Finally, we compared the gene signatures of the eight macrophage
+clusters identified within MCA tumors with those reported for the
+intratumoral macrophage compartment in a non-immunogenic MCA tumor related to
+ours, which, although on a 129 background, was treated with
+immune-checkpoint therapy (ICT) ( Gubin et al., 2018 17. Gubin,
+M.M. ∙ Esaulova, E. ∙ Ward, J.P. ... High-Dimensional Analysis
+Delineates Myeloid and Lymphoid Compartment Remodeling during Successful Immune-Checkpoint Cancer
+Therapy Cell. 2018; 175 :1443 Full Text Full Text (PDF)
+Scopus (37) PubMed Google Scholar ). Mrc1 and CX 3
+CR1 cluster reductions observed in Trem2 –/– mice were consistent
+with similar reductions induced by ICT. In contrast, Nos2 +
+and Rsad2 + macrophages were only increased in ICT-treated but
+not in Trem2 –/– mice ( Figure 3 ). We
+conclude that TREM2 deficiency drives a complex remodeling of macrophage
+infiltrate that promotes enrichment and activation of T cells and
+NK cells. Such reshaping resembles, only in part, that which
+was previously observed following ICT.

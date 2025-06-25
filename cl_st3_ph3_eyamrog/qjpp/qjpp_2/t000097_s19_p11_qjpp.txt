@@ -1,0 +1,17 @@
+We then tested the recombinant anti-TREM2 in vivo in the
+MCA/1956 model with or without anti-PD-1. As control, we used
+an Fc mutated recombinant mAb specific for human ILT1, a
+receptor not encoded in mice. Administration of anti-TREM2 was initiated
+at day 2 after tumor injection and was repeated every
+5 days until the end of the experiment. Anti-PD-1 was
+given following the suboptimal scheme described above ( Figure 4
+A). Treatment with anti-TREM2 alone afforded significant but incomplete control
+of tumor growth ( Figures 5 A and 5B). However,
+the combination of anti-TREM2 and suboptimal anti-PD-1 conferred complete tumor
+control in all mice tested ( Figures 5 A and
+5B). We conclude that anti-TREM2 mAb 178 has anti-tumor activity
+and augments anti-PD-1 checkpoint blockade. Interestingly, tumor growth was more
+attenuated in anti-TREM2-treated mice than in Trem2 –/– mice (
+Figure 5 C). Yet, treatment of Trem2 –/– mice with
+the anti-TREM2 mAb did not further attenuate tumor growth, demonstrating
+that anti-TREM2 treatment has no off-target effects.

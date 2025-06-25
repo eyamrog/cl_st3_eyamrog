@@ -1,0 +1,11 @@
+Conclusions: Stable protein products, such as immunoglobulins and C-reactive protein
+are reliably measured in DBSs. Because less stable proteins, such
+as cytokines, may be problematic to measure even in fresh
+blood, mRNA from stabilized blood may provide a cleaner measure
+of cytokine and broader immune-related gene expression. Gene methylation assays
+or mRNA sequencing also allow for the quantification of many
+other parameters, including the inference of leukocyte subsets, though with
+less accuracy than with flow cytometry. Combining these techniques provides
+an improvement over single-marker studies, allowing for a more nuanced
+understanding of how social and ecological variables are linked to
+immune measures and disease risk in diverse populations and settings.

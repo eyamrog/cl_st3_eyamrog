@@ -1,0 +1,6 @@
+We generated 31-mer profiles for raw reads using Jellyfish. All
+k -mers that occurred at least twice in a given
+sample were retained. We also generated MASH sketches from the
+non-human reads of each sample with 10 million unique minimizers
+per sketch. We calculated the Shannon’s entropy of k -mers
+by sampling 31-mers from a uniform 10,000 reads per sample.

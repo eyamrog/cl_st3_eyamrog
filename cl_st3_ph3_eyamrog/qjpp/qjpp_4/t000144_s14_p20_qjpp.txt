@@ -1,0 +1,21 @@
+We constructed five separate models to investigate the relationship between
+a participant's number of long-distance relationships and their chronic, positively
+autocorrelated, and patterned exposure to droughts and excess precipitation. There
+are three reasons we constructed five separate models instead of
+one. First, (P1-3) all capture the nature of a participant's
+exposure to variability in precipitation and are thus not independent.
+For example, because the average length of intervals between downsides
+(P2) is not independent of the average duration of drought
+or of excess precipitation events (P1)—as the former goes up,
+the latter two will go down—these predictors should not be
+included in the same model. Second, we model drought and
+excess precipitation separately because the two affect participants differently and
+thus may differentially impact the formation of long-distance relationships (Section
+1.3 ). Third, dry or wet months, or intervals of
+drought or excess precipitation, are mutually exclusive: a participant cannot
+experience a drought and excess precipitation at the same time.
+Given that drought and excess precipitation are not independent and
+may have different effects on long-distance relationship formation, we model
+drought and excess precipitation separately in (P1) and (P3); as
+(P2) refers to intervals free of both drought and excess
+precipitation, only one model is needed.

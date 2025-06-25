@@ -1,0 +1,26 @@
+The structural basis of neutralization for EEEV-143 was determined using
+single particle cryo-EM of SINV/EEEV bound to EEEV-143 Fab molecules.
+The resulting ~8.3 Å structure showed that three Fabs also
+bound to each protomer in the E2 trimer. Fab constant
+domain contacts were observed around the 2-fold axis and ~11
+Å distance between Fabs bound to the q3 and i3
+spikes across the 3-fold axis. These contacts suggest that EEEV-143
+forms inter-spike cross-links between adjacent E2 trimers as an IgG
+or IgA. This inter-E2 trimer cross-linking could stabilize or sterically
+hinder the trimer to inhibit viral entry or fusion. Again,
+the binding of three EEEV-143 Fab molecules to each E2
+trimer is unusual when compared to studies of neutralizing antibodies
+generated in mice, where steric clashes between Fab molecules that
+target domain B of the E2 glycoprotein in a tangential
+orientation limited the capacity for complete occupancy of the E2
+trimer. However, the neutralization potency of EEEV-143 as Fab molecules
+is consistent with our structural analysis. We suggest that steric
+clashes still will occur in the context of EEEV-143 expressed
+as a polymeric IgA molecule (dimeric IgA complex with joining
+[J] chain) as suggested by the reduction in the detected
+binding strength of this molecule compared to recombinant IgG1 or
+Fab molecules. Optimal in vitro neutralization of SINV/EEEV occurs as
+a polymeric IgA compared to Fab molecule, because there is
+>200-fold reduction in neutralization potency. Thus, the inter-spike cross-linking observed
+for EEEV-143 may require a bivalent (IgG) or tetravalent (IgA)
+antibody interaction for optimal neutralization of SINV/EEEV.

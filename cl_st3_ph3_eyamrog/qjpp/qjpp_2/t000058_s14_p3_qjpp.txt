@@ -1,0 +1,11 @@
+We used data for the following measures of socioeconomic deprivation
+from the English Indices of Deprivation: income deprivation (referred to
+as poverty hereafter; the proportion of MSOA population claiming income-related
+benefits due to being out of work or having low
+earnings); employment deprivation (referred to as unemployment hereafter; the proportion
+of the relevant population of the MSOA involuntarily excluded from
+the labour market due to unemployment, sickness or disability, or
+caring responsibilities); and education, skills and training deprivation (referred to
+as low education hereafter; lack of attainment and skills, including
+education attainment levels, school attendance, and language proficiency indicators), in
+the MSOA population.

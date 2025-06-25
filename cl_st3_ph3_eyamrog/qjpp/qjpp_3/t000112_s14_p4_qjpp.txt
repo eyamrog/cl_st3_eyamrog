@@ -1,0 +1,13 @@
+To make our study fully reproducible, we released an open-source
+version-controlled pipeline called the MetaSUB Core Analysis Pipeline (CAP) (
+Danko and Mason, 2020 19. Danko, D.C. ∙ Mason, C.
+The MetaSUB microbiome core analysis pipeline enables large scale metagenomic
+analysis arXiv. 2020; arXiv:2009.12338 Google Scholar ). This pipeline includes
+all steps from extracting data from raw sequence FASTQ files
+to producing refined results like taxonomic and functional profiles. Every
+tool in the CAP is open source with a permissive
+license. The CAP is available as a docker container for
+easier installation in some instances, and all databases used in
+the CAP are available for public download. The CAP is
+versioned and includes all necessary databases, allowing researchers to replicate
+results and figures.

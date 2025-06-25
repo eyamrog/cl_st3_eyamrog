@@ -1,0 +1,16 @@
+Although mHealth in HICs is becoming increasingly mainstream, evidence of
+scaled-up, sustained initiatives in LMICs is not as well established.
+This discrepancy is a likely product of a tendency still
+toward investment in pilots that fail to reach scale (and
+are not published) without sustained resourcing owing to a lack
+of longer-term funding arrangements ( 13 , 31 ). From
+the analyses undertaken to date, mHealth in LMICs has been
+focused largely on two areas: the use of mHealth to
+support health workers in health service delivery and the use
+of mHealth to deliver health information directly to consumers and
+to support behavior change in disease management interventions. However, this
+is about to change. Large, underserved, and consumer-savvy middle classes
+in the emerging economies combined with the gaping vacuum in
+consumer choice for health care during the global severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2)/COVID-19 pandemic has only fueled growth
+in mHealth in LMICs ( 66 ).

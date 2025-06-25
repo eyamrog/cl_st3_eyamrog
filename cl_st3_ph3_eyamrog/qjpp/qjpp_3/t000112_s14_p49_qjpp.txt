@@ -1,0 +1,17 @@
+We generated profiles of antimicrobial resistance genes using MegaRes (v1.0.1,
+Lakin et al. (2017) 40. Lakin, S.M. ∙ Dean, C.
+∙ Noyes, N.R. ... MEGARes: an antimicrobial resistance database for
+high throughput sequencing Nucleic Acids Res. 2017; 45 :D574-D580 Crossref
+Scopus (229) PubMed Google Scholar ). To generate profiles from
+MegaRes, we mapped non-human reads to the MegaRes database using
+Bowtie2 (v2.3.0, very-sensitive presets, Langmead and Salzberg (2013) 41. Langmead,
+B. ∙ Salzberg, S.L. Fast gapped-read alignment with Bowtie 2
+Nat. Methods. 2013; 9 :357-359 Crossref Scopus (32362) Google Scholar
+). Subsequently, alignments were analyzed using ResistomeAnalyzer (commit 15a52dd https://github.com/cdeanj/resistomeanalyzer
+) and normalized by total reads per sample and gene
+length to give RPKMs. MegaRes includes an ontology grouping resistance
+genes into gene classes, AMR mechanisms, and gene groups. AMR
+detection remains a difficult problem and we note that detection
+of a homologous sequence to a known AMR gene does
+not necessarily imply an equivalent resistance in our samples. Currently,
+the gold standard for detecting AMR is via culturing.

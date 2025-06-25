@@ -1,0 +1,13 @@
+The above measures are the three largest contributors to the
+Index of Multiple Deprivation, excluding a domain on health that
+also uses mortality data. We used data for these measures
+for 2004, as data for 2002 were not available, and
+2019 to analyse how estimated (posterior) life expectancy in 2002
+and 2019 was associated with socioeconomic deprivation at the beginning
+and end of the analysis period. We used the rank
+of each socioeconomic measure in each year (with values from
+one to 6791) because their absolute values are not comparable
+in different years. We did not stratify by ethnicity because
+data are only available for the 2011 census year. We
+used classification of MSOAs into rural or urban from the
+Office for National Statistics.

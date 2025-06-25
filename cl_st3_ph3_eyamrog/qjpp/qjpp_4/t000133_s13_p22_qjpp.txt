@@ -1,0 +1,10 @@
+To address this, many researchers are measuring the peptide copeptin,
+which is a precursor to vasopressin and is highly correlated
+( r = .78) with vasopressin (Morgenthaler, Struck, Jochberger, &
+Dünser, 2008 ). Copeptin is seen as a vasopressin surrogate.
+It can also be measured using an ELISA kit (which
+can range from $400 to $900 for a single 96
+well plate) in serum and plasma samples as small as
+50 μL. The analyte is stable for up to 7
+days at room temperature, with the most stability seen in
+EDTA plasma samples (Morgenthaler et al., 2006 ).

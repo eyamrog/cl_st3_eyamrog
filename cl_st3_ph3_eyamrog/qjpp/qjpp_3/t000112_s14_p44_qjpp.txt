@@ -1,0 +1,16 @@
+To determine relative abundance of taxa (where applicable) in each
+profile we sub-sampled each sample to 100,000 classified reads, computed
+the proportion of reads assigned to each taxon, and took
+the distribution of values from all samples. This was the
+minimum number of reads sufficient to maintain taxonomic richness (
+Figure S2 D). We chose sub-sampling (sometimes referred to as
+rarefaction in the literature) based on the study by Weiss
+et al. (2017) 87. Weiss, S. ∙ Xu, Z.Z. ∙
+Peddada, S. ... Normalization and microbial differential abundance strategies depend
+upon data characteristics Microbiome. 2017; 5 :27 Crossref Scopus (1174)
+PubMed Google Scholar , showing that sub-sampling effectively estimates relative
+abundance. Note that we use the term prevalence to describe
+the fraction of samples where a given taxon is found
+at any abundance and we use the term relative abundance
+to describe the fraction of DNA in a sample from
+a given taxon.

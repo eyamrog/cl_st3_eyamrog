@@ -1,0 +1,15 @@
+In addition to new entrants such as 1mg and Babyl,
+mHealth platforms from Google (Android) and Apple (iOS) will likely
+become an important part of the mHealth landscape in LMICs
+over time. The Apple Watch and HealthKit developer platform has
+gradually increased user numbers over the last few years and
+now includes a wide range of health and fitness tools.
+The Apple Health app uses the Fast Health Interoperability Resources
+(FHIR) application programming interface to allow Apple users to view
+their electronic health record (EHR) information. Google has also been
+working to develop FHIR-compatible apps and has recently announced the
+Android FHIR software development kit (SDK) that enables software developers
+to use the FHIR standard to develop mHealth apps (
+https://github.com/google/android-fhir ). As more LMIC health care organizations adopt standards-based
+EHR systems, the use case for mHealth apps that integrate
+EHR data with self-monitoring features is strengthened ( 45 ).

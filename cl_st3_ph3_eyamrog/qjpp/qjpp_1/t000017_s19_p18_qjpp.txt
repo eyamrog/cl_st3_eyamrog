@@ -1,0 +1,19 @@
+Steady-state mean plasma avapritinib concentration–time profiles are shown in Extended
+Data Fig. 1 . Steady state was reached by day
+(D) 15. Steady-state plasma concentrations at doses of ≥200 mg
+QD exceeded the biochemical IC 90 of 189 ng ml
+for inhibition of KIT D816V, as measured by immunoblot in
+a xenograft model , at most time points. Following single
+oral doses of 30 to 400 mg, the time to
+maximum plasma concentration (T max ) ranged from 2 to
+4 h. After single and repeat dosing of avapritinib, systemic
+exposure increased in a dose-dependent manner. The long mean plasma
+elimination half-life of avapritinib (range, 19.8 to 38.3 h) suggests
+that prolonged in vivo inhibition of KIT D816V, likely contributes
+to observed clinical activity, and supports QD dosing. The steady-state
+(cycle (C) 1, D15) geometric mean (percentage coefficient of variation;
+n ), maximum plasma concentration (C max ) and area
+under the plasma concentration–time curve (AUC 0-τ ) in patients
+at 200 mg QD was 433 ng ml (62.2%; n
+= 18) and 7,340 h ng ml (54.2%; n =
+16), respectively.

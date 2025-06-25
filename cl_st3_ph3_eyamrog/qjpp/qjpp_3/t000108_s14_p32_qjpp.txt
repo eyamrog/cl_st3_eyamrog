@@ -1,0 +1,20 @@
+Biomechanical testing was undertaken using an Instron 5543 load frame
+(Instron Limited, High Wycombe, UK). Femur strength and toughness (yield
+load, maximum load, fracture load, stiffness, % energy dissipated prior
+to fracture) were derived from destructive three-point bend testing using
+a 50-N load cell and custom mounts with rounded supports.
+Femurs were positioned horizontally with their anterior surface upward between
+two mounting points with a span of 8mm. Load was
+applied vertically to the mid-shaft with a constant rate of
+displacement of 0.03mm/second until fracture. The biomechanical properties of caudal
+vertebrae 6 and 7 (yield load, maximum load and stiffness)
+were derived from compression testing using a 500-N load cell
+and two custom anvils. Individual vertebrae were bonded in vertical
+alignment to the lower custom anvil using cyanoacrylate glue and
+load was applied vertically at a constant rate of displacement
+of 0.03 mm/s until approximately 1mm of displacement had occurred
+( Bassett et al., 2012 7. Bassett, J.H. ∙ Gogakos,
+A. ∙ White, J.K. ..., Sanger Mouse Genetics Project Rapid-throughput
+skeletal phenotyping of 100 knockout mice identifies 9 new genes
+that determine bone strength PLoS Genet. 2012; 8 :e1002858 Crossref
+Scopus (62) PubMed Google Scholar ).

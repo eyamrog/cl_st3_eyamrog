@@ -1,0 +1,18 @@
+DLW requires isotopic analyses for the determination of both energy
+expenditure and water throughput. This is because both rely on
+the rate of isotope depletion in the body as the
+enriched water is flushed from the body (Raman et al.,
+2004 ; Schoeller et al., 1986 ). First, the subject
+provides a urine sample. Once they return with the urine
+sample, they drink a dose (120 mL, or 4 oz)
+of DLW enriched with safe, nonradioactive oxygen and hydrogen isotopes
+(deuterium and oxygen-18; IAEA, 2009 ). The dose amount should
+be tailored to the subject's body weight following IAEA (
+2009 ) recommendations of 1.08 g of DLW per kg
+of body mass. Then, four urine samples are collected over
+14 days. While the isotopic composition in the urine samples
+are stable, they should not be subjected to extreme heat.
+It is recommended they be refrigerated or frozen after collection
+as they are transported to the mass spectrometer for analysis.
+Finally, the urine samples are then analyzed on a mass
+spectrometer.

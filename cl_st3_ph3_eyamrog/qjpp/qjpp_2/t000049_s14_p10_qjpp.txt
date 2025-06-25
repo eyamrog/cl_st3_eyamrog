@@ -1,0 +1,7 @@
+Participant characteristics by sex and birth cohort were described separately
+for ELSA and Whitehall II, as well as in the
+pooled database. Differences between sexes in categorical variables were assessed
+using Pearson's χ 2 test and in continuous variables using
+the t test. The χ 2 trend test was used
+to assess birth cohort differences in participant characteristics separately in
+men and women.

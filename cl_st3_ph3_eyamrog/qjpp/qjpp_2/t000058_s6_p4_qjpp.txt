@@ -1,0 +1,14 @@
+Our life expectancy estimates in specific years are similar to
+the snapshots presented by the Office for National Statistics and
+Public Health England, with correlation coefficients of 0·92–0·95 and mean
+differences of −0·004 to 0·19 years. However, these reports could
+not analyse trends because data were aggregated over 5 years
+(2009–13, 2013–17, or 2015–19). In terms of trends, national studies
+have recorded a slowdown in mortality improvement since 2010, and
+those that grouped small-area units into deciles of deprivation have
+detected a decline in female life expectancy in the one
+or two most deprived deciles. By analysing trends at the
+MSOA level, we could identify the communities in which longevity
+is declining and show that the decline, which began around
+2010 in women in some MSOAs, has spread and accelerated
+since 2014.

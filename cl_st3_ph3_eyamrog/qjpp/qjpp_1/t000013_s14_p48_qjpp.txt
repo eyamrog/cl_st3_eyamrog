@@ -1,0 +1,9 @@
+Additionally, the SARS-CoV-2 crRNA and primer sequences were tested by
+NCBI BLAST+ against the nonredundant/nucleotide databases (updated 31 March 2021,
+n = 68,965,867 sequences analyzed) and the Betacoronavirus database (updated
+1 April 2021, n = 140,760). The search parameters were
+adjusted to blastn-short for short input sequences. The match and
+mismatch scores were 1 and −3, respectively. The penalty to
+create and extend a gap in an alignment was 5
+and 2, respectively. The BLAST results confirmed only perfect matches
+to SARS-CoV-2.

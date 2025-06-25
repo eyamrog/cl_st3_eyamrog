@@ -1,0 +1,20 @@
+To validate these predicted functional pathways, we used a model
+of neutrophil depletion mediated by conditional expression of the diphtheria
+toxin (DT) receptor under the human MRP8 promoter ( Passegué
+et al., 2004 53. Passegué, E. ∙ Wagner, E.F. ∙
+Weissman, I.L. JunB deficiency leads to a myeloproliferative disorder arising
+from hematopoietic stem cells Cell. 2004; 119 :431-443 Full Text
+Full Text (PDF) Scopus (342) PubMed Google Scholar ) and
+induced by DT treatment ( MRP8 CRE ; Rosa26 iDTR
+; Figure S5 B). Repeated DT injection for up to
+1 week profoundly reduced neutrophil counts in BM, blood, and
+spleen, but did not deplete any other leukocyte populations in
+the steady state or cause infection ( Figures S5 C
+and S5D). Importantly, however, depletion of neutrophils after sub-lethal irradiation
+caused strong impairment in the recovery of most hematopoietic lineages,
+including eosinophils, monocytes, B and T lymphocytes, NK cells, and
+macrophages as detected in the blood, BM, or spleen (
+Figure S5 D). This correlated with exacerbated spleen atrophy (
+Figure S5 E) and loss of lymphoid areas in the
+marrow and spleen after irradiation ( Figure S5 F), altogether
+suggesting that neutrophils support hematopoietic recovery following genotoxic injury.

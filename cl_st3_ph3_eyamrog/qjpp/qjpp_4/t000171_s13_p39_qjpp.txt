@@ -1,0 +1,12 @@
+Functional genomics also uses RNA-seq data to study gene and
+protein expression and function on a global (genome- or system-wide)
+scale. Research by Cole ( 2019 ), focusing on individuals
+exposed to chronic psychosocial threats has led to the identification
+of a pattern of gene expression that associates with such
+experiences. This pattern, referred to as the CTRA, involves upregulation
+of pro-inflammatory responses and downregulation of type I interferon antiviral
+response genes and antibody synthesis genes (Table 1 ). Differences
+in patterns of gene expression across these markers has been
+increasingly used to investigate the biological effects of psychosocial stress
+(Dieckmann et al., 2020 ; Levine et al., 2017 ;
+Powell et al., 2013 ).

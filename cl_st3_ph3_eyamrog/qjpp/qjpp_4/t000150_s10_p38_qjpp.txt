@@ -1,0 +1,20 @@
+Objective and subjective methods can also be used together to
+“calibrate” subjective methods to improve their validity. For example, several
+validation studies (Coenen, Mathiassen, van der Beek, & Hallman, 2020
+; Hallman, Mathiassen, van der Beek, Jackson, & Coenen, 2019
+; Metcalf et al., 2018 ; Welk, Beyler, Kim, &
+Matthews, 2017 ) have asked participants to wear an accelerometer
+for a period of time and then, at the end
+of the wear period, complete a questionnaire or past-day recall
+referring to sedentary behaviors during that period. A range of
+statistical methods (based on linear regression) were then used to
+correct the biases in subjective measurement against accelerometry, resulting in
+a calibrated version of the questionnaire with lower measurement error.
+These calibrated values can then be used to correct subsequent
+(repeated) subjective measurements in same population without requiring additional accelerometry
+measurements. However, use of these techniques requires significant statistical expertise.
+Interestingly, Metcalf et al. ( 2018 ) have demonstrated the
+possibility of calibrating subjective measures (from the Global Physical Activity
+Questionnaire) in one sample and applying the calibrated values to
+an independent sample. This creates possibilities for improving the validity
+of subjective measurements in the future.

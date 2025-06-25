@@ -1,0 +1,14 @@
+For each cycle, serial hormone concentrations were aligned on the
+first day of the subsequent cycle (=reverse-day 0 ) and
+cycle days were numbered in reverse order (−1, −2, −3
+…) until the cycle's first day of menstrual bleeding. Hormone
+indices (H, referring to salivary progesterone (P4) in the Bolivian
+sample and urinary pregnanediol glucuronide (PdG) in the German sample)
+were defined as (∫ of H from day x to
+day y )/(day y − day x ), where x
+to y is any span of days and H at
+any time is defined by linear interpolation of the observed
+H measurements. For these analyses, the defined index for luteal
+phase H was mean-peak-H (x = day of peak luteal
+H − 2.5, y = day of peak luteal H
++ 2.5) (Vitzthum, 2021 ; Vitzthum et al., 2004 ).

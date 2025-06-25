@@ -1,0 +1,22 @@
+Anti-penta his (HIS1K) biosensor tips (FortéBio) on an Octet Red96
+or HTX biolayer interferometry instrument (FortéBio) were soaked for 10
+minutes in 1x kinetics buffer (FortéBio), followed by a baseline
+signal measurement for 60 s. Recombinant EEEV E2 glycoprotein (5
+μg/mL; IBT BioServices) was immobilized onto the biosensor tips for
+60 s. After a wash step in 1x kinetics buffer
+for 30 to 60 s, the first antibody (50 μg/mL)
+was incubated with the antigen-containing biosensor for 600 s. After
+a wash step in 1x kinetics buffer for 30 to
+60 s, the biosensor tips then were immersed into the
+second antibody (50 μg/mL) for 180 s. Comparison between the
+maximal signal of each antibody compared to a buffer-only control
+was used to determine the percent binding of each antibody.
+A reduction in maximum signal to < 33% of un-competed
+signal was considered full competition of binding for the second
+antibody in the presence of the first antibody. A reduction
+in maximum signal to between 33 to 67% of un-competed
+was considered intermediate competition of binding for the second antibody
+in the presence of the first antibody. Percent binding of
+the maximum signal > 67% was considered absence of competition
+of binding for the second antibody in the presence of
+the first antibody.

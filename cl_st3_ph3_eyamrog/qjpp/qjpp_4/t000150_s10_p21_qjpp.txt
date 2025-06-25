@@ -1,0 +1,15 @@
+Other devices use multiple accelerometers at various attachment points. For
+example, the Intelligent Device for Energy Expenditure and Physical Activity
+(IDEEA) has five sensors taped to the soles of both
+feet, on both thighs, and on the chest, that connect
+to a central processing unit clipped at the waist. A
+neural network integrates the data from all of the sensors
+to classify the body's position into one of 32 validated
+postures (Zhang, Werner, Sun, Pi-Sunyer, & Boozer, 2003 ). The
+IDEEA has demonstrated high validity for the measurement of sedentary
+time and the ability to distinguish between seated and standing
+postures in both laboratory and free-living settings (Hart, McClain, &
+Tudor-Locke, 2011 ; Jiang & Larson, 2013 ; Zhang et
+al., 2003 ), but the multiple wired sensors may be
+unmanageable for participants over multiple days (Welk, McClain, Eisenmann, &
+Wickel, 2007 ).

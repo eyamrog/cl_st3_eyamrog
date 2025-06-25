@@ -1,3 +1,0 @@
-The Dunn’s test was used to compare pairwise distributions of
-values of interest between Tyba arrays and CENH3 domains size
-and spacing.

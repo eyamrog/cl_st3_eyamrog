@@ -1,0 +1,7 @@
+The numbers of root meristematic cells were obtained by counting
+the cortex cells from the cell proximal to the QC
+to rapid elongated cell. The cell length of root mature
+cells was obtained by measuring the length of epidermal cells
+in differentiation zone using ImageJ software (NIH). The fluorescence intensity
+was measured using ImageJ software (NIH). The experiments were repeated
+at least three times with similar results.

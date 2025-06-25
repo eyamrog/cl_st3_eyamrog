@@ -1,0 +1,10 @@
+Syringe, actuation fluid, pressure fluid (Fluidigm) and 4 μl of
+assay or sample mixture were loaded into their respective locations
+on a microfluidic IFC (depending on the experiment, either gene
+expression or genotyping IFCs were used in either a 96.96
+or 192.24 format) and were run according to the manufacturer’s
+instructions. The IFC was loaded onto the IFC Controller RX
+or Juno (Fluidigm) where the ‘Load Mix’ script was run.
+After proper IFC loading, images over either a 1- or
+3-h period were collected using a custom protocol on Fluidigm’s
+EP1 or Biomark HD.

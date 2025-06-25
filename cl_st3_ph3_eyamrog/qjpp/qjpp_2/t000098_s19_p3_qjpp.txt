@@ -1,0 +1,12 @@
+To analyze cAMP dynamics in intact cells, we used this
+technology in HEK293 cells loaded with low concentrations (<100 nM)
+of 8-FDA-cAMP ( Figure S2 ). These experiments revealed that,
+at low cAMP levels, virtually all cAMP displays a pattern
+reflecting a bound (i.e., largely immobile) state of cAMP (
+Figures 1 D and S2 D). This can be appreciated
+qualitatively by the long-time tail of the STICS function (
+Figures 1 C, 1D, and S3 ). This observation is
+striking because several studies have uniformly reported that cAMP diffuses
+very quickly in cells ( Table S1 ). In stark
+contrast, our data suggest that, at basal concentrations, cAMP dynamics
+are severely constrained in cells.

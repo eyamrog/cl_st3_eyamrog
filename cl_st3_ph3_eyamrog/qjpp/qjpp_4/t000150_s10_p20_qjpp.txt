@@ -1,0 +1,17 @@
+There are some devices that use multiple sensors to classify
+physical behaviors, including sedentary time. The benefit of these devices
+could be the potential to capture all aspects of the
+sedentary behavior definition, including energy expenditure of specific behaviors while
+seated. For example, some seated behaviors such as intense video
+gaming have been found to be expending energy in excess
+of 1.5 METs (Mansoubi et al., 2015 ) which do
+not technically fit within the definition of sedentary behavior. Multi-sensor
+devices can be combinations of accelerometers and physiological sensors; for
+example, devices such as the SenseWear armband measure acceleration, heat
+flux, galvanic skin response, skin temperature, and ambient temperature to
+estimate energy expenditure using proprietary algorithms. As such, sedentary time
+is classified as time spent with energy expenditure below 1.5
+METs. The SenseWear is not able to detect posture, and,
+as a result, tends to classify both standing and sitting
+as sedentary (where METs are <1.5), resulting in significant overestimations
+of sedentary time (Myers et al., 2017 ).

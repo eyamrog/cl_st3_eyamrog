@@ -1,0 +1,26 @@
+Next, we tested whether it would be possible to simultaneously
+bind two distinct helixCAM cell populations to the plate in
+a specified spatial pattern. To test this, we pre-patterned each
+well with two distinct CC-GFP-His proteins, either in a “G”
+shape on the left or a “C” shape on the
+right, added a mixture of the two corresponding K562 helixCAM
+cells, then removed unbound cells ( Figure 7 E). With
+four CC options, there are four compatible 2-CC combinations: sg30
++ sg83, sg30 + sg88, sg61 + sg83, and sg61
++ sg8. Combinations between complementary CCs, such as sg30 +
+sg61, are not compatible for this purpose, as the corresponding
+helixCAM cells would form aggregates in suspension. Figure 7 E
+shows the pre- and post-washed CC-GFP-His-patterned, helixCAM cell-coated plates. The
+pre-wash images exhibit uniform distribution of the two helixCAM cell
+types across the well surface. After washing, dense helixCAM cells
+can be found localized to the corresponding “G” and “C”
+CC-patterned regions, whereas untreated regions are almost entirely free of
+cells. Image-based quantitative comparisons of cell localization demonstrated a clear
+enrichment of cell localization to their intended region over other
+regions of the well ( Figure S22 ). The same
+experiment, using dots instead of letters as patterns, replicates this
+result ( Figure S23 ). The strong and programmable binding
+of helixCAM cells to CC-patterned surfaces demonstrates its potential as
+a method for highly specific cellular pull-down and patterning, with
+the number of simultaneous cell types patterned determined by the
+number of orthogonal CC-pairs available.

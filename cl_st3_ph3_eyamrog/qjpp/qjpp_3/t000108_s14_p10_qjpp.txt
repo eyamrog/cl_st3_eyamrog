@@ -1,0 +1,9 @@
+Recombinant GST-RANKL158–316 (sRANKL) was produced using a bacterial construct provided
+by Dr. F. Patrick Ross (Washington University School of Medicine,
+St. Louis, MO). For in vivo experiments, sRANKL was administered
+at a dose of 1mg/kg i.p daily for 3 days
+or 2mg/kg i.p once. OPG:Fc (Amgen Inc) was administered at
+a dose of 10mg/kg i.p. twice weekly for 2 weeks
+or as a single treatment. Control mice received saline. Clodronate
+was administered at a dose of 30mg/kg i.p up to
+3 times a week.

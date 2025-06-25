@@ -1,0 +1,9 @@
+The effect of spot size is highly significant for all
+analytes and shows non-linear relationships. For HDL and tHb, we
+see that larger areas are monotonously associated with a higher
+biomarker level. Towards the ends of the larger area values,
+the confidence intervals get wider due to the lower number
+of observations in this area. This is true for all
+markers but to a different extent. The relationship between spot
+size and analyte value is reversed for HbA1c; we see
+a significant and monotonous negative association.

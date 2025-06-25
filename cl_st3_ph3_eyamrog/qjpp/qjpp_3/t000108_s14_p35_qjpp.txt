@@ -1,0 +1,10 @@
+Unique mouse ENSEMBL – human ENSEMBL orthologs of all protein-coding
+genes were mapped using BiomaRt in R (Ensembl release 75
+- February 2014). MAGMA competitive gene-set analysis ( de Leeuw
+et al., 2015 19. de Leeuw, C.A. ∙ Mooij, J.M.
+∙ Heskes, T. ... MAGMA: generalized gene-set analysis of GWAS
+data PLoS Comput. Biol. 2015; 11 :e1004219 Crossref Scopus (1560)
+PubMed Google Scholar ) was used to investigate whether human
+orthologs of osteomorph defining genes were on average more strongly
+associated with quantitative ultrasound derived heel eBMD, than all other
+protein coding genes in the human genome.

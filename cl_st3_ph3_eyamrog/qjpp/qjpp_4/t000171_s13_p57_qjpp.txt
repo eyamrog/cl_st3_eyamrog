@@ -1,0 +1,11 @@
+Quantitative PCR (qPCR) is used to quantify sjTREC DNA, as
+well as levels of a housekeeping gene for normalization. To
+quantify sjTREC in DBS, DNA is first extracted with a
+kit such as the QIAamp 96 DNA Blood Kit or
+Gentra Puregene Tissue Kit (Qiagen); Qiagen also provides an adapted
+protocol specifically for DBS. Extracted DNA samples are analyzed for
+quantity and quality with a spectrometer (e.g., NanoDrop, Thermo Scientific.).
+qPCR is then performed on an instrument such as the
+Bio-Rad CFX96 (Bio-Rad Laboratories) using appropriate dyes and primers for
+sjTREC and any normalization genes (see Lang et al., 2011
+for primer sequences).

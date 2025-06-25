@@ -1,0 +1,26 @@
+Gene-based tests of association were conducted in MAGMA (v1.08) (
+de Leeuw et al., 2016 20. de Leeuw, C.A. ∙
+Neale, B.M. ∙ Heskes, T. ... The statistical properties of
+gene-set analysis Nat. Rev. Genet. 2016; 17 :353-364 Crossref Scopus
+(158) PubMed Google Scholar ) using imputed individual level genotype
+data for the analyses involving eBMD. Analyses involving eBMD were
+further adjusted for age, sex, genotyping array, and ancestry informative
+principal components 1 – 20. Gene-based tests of association encompassed
+a multi-model approach in which the association results from different
+gene analysis models were combined to produce an aggregate p
+value corresponding to the strength of evidence of association between
+each protein coding gene (+2kb upstream/1kb downstream) and eBMD. The
+three association models included: a principal components regression model, a
+SNP-wise mean χ2 model [ i.e . test statistic derived
+as the sum of −log(SNP p value) for all SNPs
+that intersect the gene region of interest], and SNP-wise top
+χ2 model [(test statistic derived as the sum of −log(SNP
+p value) for top SNP in the region of interest)].
+The aggregate approach was chosen as it yields a more
+even distribution of statistical power and sensitivity over a wider
+range of different genetic architectures. Importantly, due to incomplete genotyping
+coverage (i.e., no genetic variants were present in some genes),
+and gene level associations could only be estimated for 520
+/ 549 mappable osteomorph orthologs and 11,500 / 12,278 mappable
+orthologs with background expression and 16,754 / 18,184 of all
+mappable mouse – human orthologs.

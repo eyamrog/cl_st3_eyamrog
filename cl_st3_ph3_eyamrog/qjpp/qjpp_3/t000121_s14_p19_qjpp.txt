@@ -1,8 +1,0 @@
-The initial sub-volumes used for generation of the asymmetric map
-were the same as that used for the C3 symmetrized
-map described above. Refinement strategies were also nearly identical between
-the two structures except the asymmetric map was generated with
-C1 symmetry. However, the refinement and processing steps were carried
-out completely independent of each other. The number of sub-volumes
-in the final C1 hVLP-Env structure was 29074 with a
-global resolution of 10.67 Å at 0.143 FSC cut-off.

@@ -1,0 +1,11 @@
+Since taxa could be used to classify a sample’s city
+of origin, we next examined if AMR genes exhibited the
+same stratification. A random forest model was trained (as above)
+to predict city classification based on the mapped antimicrobial resistance
+genes. While this model achieved 37.6% accuracy on held out
+test data ( Figure S4 B), showing that it is
+better than random chance (7.0%), the AMR profile was much
+less accurate than the taxonomic predictor (88.0%). Since AMR genes
+are more likely to be mobile, this is not surprising
+and likely indicates that they represent weaker (but possible) city-specific
+signatures.

@@ -1,0 +1,25 @@
+A neutralizing CHIKV mAb similar to EEEV-143, designated CHK-265, was
+characterized previously ( Fox et al., 2015 26. Fox, J.M.
+∙ Long, F. ∙ Edeling, M.A. ... Broadly Neutralizing Alphavirus
+Antibodies Bind an Epitope on E2 and Inhibit Entry and
+Egress Cell. 2015; 163 :1095-1107 Full Text Full Text (PDF)
+Scopus (84) PubMed Google Scholar ) CHK-265 is a broadly
+neutralizing and protective arthritogenic alphavirus mAb that inhibits viral entry
+and egress from cells. The ~16 Å cryo-EM reconstruction of
+CHIKV 181/25 particles in complex with CHKV-265 Fab molecules displays
+binding of three Fab molecules to each trimeric spike (q3
+and i3). Inter-spike cross-linking was observed between two E2 protomers
+through recognition of domain B residues on one protomer and
+contacts domain A residues on an adjacent protomer. This binding
+leads to movement of domain B further over the E1
+fusion loop and repositioning of domain A upon binding. CHK-265
+Fab constant domain contacts were observed across the 2-fold axis
+further supporting the cross-liking mechanism of virus particles by CHK-265
+as an IgG molecule. In contrast, EEEV-143 recognizes residues within
+domain B on one protomer and does not appear to
+induce conformational changes upon binding. Similarly, the constant domain Fab
+contacts observed for EEEV-143 around the 2-fold axis suggests that
+EEEV-143 may form inter-spike cross-links as an IgG or IgA
+molecule. The reduction in neutralization of EEEV-143 as a Fab
+molecule suggests that this mechanism is important for optimal neutralization
+of EEEV-143 at this site.

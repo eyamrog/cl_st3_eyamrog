@@ -1,0 +1,13 @@
+To examine these samples for large genetic elements, we created
+metagenome-assembled genomes (MAGs) with metaSPAdes to look for viral, bacterial,
+and archaeal genomes and for CRISPR arrays (see assembly methods).
+These MAGs comprised 1,304 total high-quality genomes, of which 748
+did not match any known reference genome within 95% ANI.
+1,302 of the genomes were classified as bacteria and 2
+as archaea. Bacterial genomes came predominantly from four phyla: the
+Proteobacteria, Actinobacteria, Firmicutes, and Bacteroidota. Bacterial genomes that did not
+match any reference were evenly spread across these phyla (
+Figure 5 A), and assembled bacterial genomes were often identified
+in multiple samples. Several of the most prevalent bacterial genomes
+were species with no known reference genome with >95% average
+nucleotide identity ( Figure 5 B).

@@ -1,0 +1,25 @@
+Among patients with cancer, 5,683 individuals were identified as having
+an incident self-harm episode (self-harm event after cancer diagnosis) (Extended
+Data Fig. 2 ). We observed that across cancer types,
+a previous diagnosis of psychiatric disorder prior to self-harm was
+at least twice as prevalent than a subsequent diagnosis of
+psychiatric disorder (Fig. 2 ). Prevalence ratio was the highest
+in patients with brain tumors (5.36; CI, 4.57–6.14), followed by
+prostate cancer (4.30; CI, 4.08–4.52), Hodgkin lymphoma (4.17; CI, 2.98–5.37),
+testicular cancer (3.96; CI, 2.87–5.04) and melanoma (3.84; CI, 3.44–4.24).
+By contrast, patients with lung cancer had the lowest prevalence
+ratio (2.05; CI, 1.90–2.20) (Fig. 2a ). Younger individuals were
+more likely to be diagnosed with mental illness before the
+first self-harm episode than older individuals. For example, individuals aged
+18–34 years were 4.3 times (CI, 3.69–5.06) more likely to
+be diagnosed with a psychiatric disorder prior to self-harm than
+individuals aged 51–65 years (2.66; CI, 2.54–2.77) (Fig. 2b ).
+Patients from the most deprived regions had a lower prevalence
+ratio (2.46; CI, 2.32–2.60) than those from the least deprived
+regions (3.68; CI, 3.52–3.84), suggesting that socioeconomic deprivation had an
+impact on previous help-seeking behavior before self-harm (Fig. 2c ).
+Similarly, patients with a high number of preexisting conditions were
+less likely to be diagnosed with a psychiatric disorder before
+self-harm. The prevalence ratio for individuals with 0 noncancer comorbidities
+was 3.24 (CI, 3.17–3.31) versus 2.19 (CI, 1.92–2.46) in individuals
+with four or more comorbidities (Fig. 2d ).

@@ -1,0 +1,18 @@
+Although determining LRS or untangling proximate mechanisms can be formidable,
+these are more productive approaches than comparing diverse populations to
+the statistical distribution of a phenotype in some designated population,
+particularly if chosen for reasons of familiarity and/or the accidents
+of history. Taking the tack that each population has its
+own normal (i.e., distribution) and then, as before, binning continuous
+variation into categories based on arbitrary thresholds carries the limitations
+noted previously for this approach and does not necessarily address
+the questions of interest. The prevalence of pathology and the
+tradeoffs among functions likely do differ across populations. Assuming that
+the statistical mean and an arbitrarily selected distribution about the
+mean is “normal” may fail to recognize these patterns and
+processes. Recognizing normal by investigating LRS and/or proximate mechanisms is
+also better aligned with the push for evidence based medicine
+in the health fields and for discarding “just so stories”
+in the evolutionary sciences in favor of testable hypotheses (Bateson
+& Laland, 2013 ; Tinbergen, 1963 ; Vitzthum, 2020 ;
+Williams, 1966 ) .

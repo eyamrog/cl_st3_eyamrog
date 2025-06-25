@@ -1,0 +1,11 @@
+CRISPR-based diagnostics offer an alternative approach to detecting multiple viruses
+and variants . The CRISPR effector proteins Cas12 (refs. )
+or Cas13 (refs. ) activate upon CRISPR RNA (crRNA) target
+binding, which unleashes their collateral cleavage activity on a fluorescent
+reporter for detection of viral nucleic acids . The crRNA
+target binding events are highly specific and altered by the
+presence of sequence variation. Maximally active crRNA design has been
+accelerated by machine learning and other computational methods . Nonetheless,
+most CRISPR diagnostics detect one to three targets per sample
+, which is not sufficient for differential diagnosis via comprehensive
+microbe or variant identification.

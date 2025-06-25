@@ -1,0 +1,25 @@
+Recombinant EEEV E2 glycoprotein (E3E2) (strain V105; IBT BioServices), EEEV
+E1 ectodomain (strain FL93-939), or CHIKV E1 protein (Meridian Life
+Science) was diluted to 0.5, 2, or 2 μg/mL, respectively,
+in 1x D-PBS to coat 384-well ELISA plates at 25
+μL/well and incubated at 4°C overnight. A protein screening ELISA
+was performed as previously described above. However, instead of hybridoma
+supernatant, purified mAb was diluted to 10 μg/mL in blocking
+solution (1% non-fat dry milk, 1% goat serum) and added
+at 25 μL/well for 2 hours at room temperature. Additionally,
+plates were incubated at room temperature in the dark for
+2 hours and then read at an optical density of
+405 nm with a BioTek™ plate reader. For recombinant anti-EEEV
+mAbs and Fab molecules, a suspension of secondary antibodies (goat
+anti-human kappa-HRP (Southern Biotech) and goat anti-human lambda-HRP (Southern Biotech))
+at a 1:4,000 dilution in 1% blocking solution (1% non-fat
+dry milk, 1% goat serum) was added at 25 μL/well
+for 1 hour at room temperature. 1-Step Ultra TMB-ELISA substrate
+solution (Thermo Fisher Scientific) was added at 25 μL/well following
+plate washing 4x with D-PBS-T. The reaction was stopped after
+10 minutes at room temperature by addition of 25 μL/well
+of 1N HCl (Fisher Scientific). The plates then were read
+at an optical density of 450 nm with a BioTek™
+plate reader. EC 50 values were determined after log transformation
+of concentration values and non-linear regression analysis using sigmoidal dose-response
+(variable slope) using GraphPad Prism software version 8.

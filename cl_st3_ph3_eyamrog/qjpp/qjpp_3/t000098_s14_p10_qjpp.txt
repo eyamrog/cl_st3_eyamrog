@@ -1,0 +1,8 @@
+The cDNA encoding PDE2A (NM_002599) was purchased from OriGene, Rockville,
+MD, USA. The AKAR4 plasmid ( Depry et al., 2011
+13. Depry, C. ∙ Allen, M.D. ∙ Zhang, J. Visualization
+of PKA activity in plasma membrane microdomains Mol. Biosyst. 2011;
+7 :52-58 Crossref Scopus (155) PubMed Google Scholar )was a
+kind gift of Dr. Jin Zhang (UC San Diego, USA)
+and a plasmid encoding the IRES2 sequence was kindly provided
+by Dr. Gary Lewin (MDC Berlin, Germany).

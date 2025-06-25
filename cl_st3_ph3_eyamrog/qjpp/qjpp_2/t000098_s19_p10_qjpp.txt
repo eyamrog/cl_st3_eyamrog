@@ -1,0 +1,6 @@
+Strikingly, upon spatial separation of Epac1-camps and PDE4A1 by 10
+nm (Epac1-camps-SAH10-PDE4A1), isoproterenol stimulation induced a FRET response of almost
+the same amplitude as that seen with stoichiometric overexpression of
+both proteins individually ( Figures 3 F and 3G). As
+expected, inhibition of PDE4 activity in all constructs eliminated cAMP
+gradients ( Figure 3 H).

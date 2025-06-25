@@ -1,0 +1,15 @@
+When applying multivariate data analysis, a missing value in one
+variable eliminates the entire observation. Thus, when the proportion of
+missing values is high, imputation is necessary to obtain representative
+results that are not biased by missing data (López, 2004
+). As the information presented missing values in some of
+the variables used (6% in maternal education, 1% in maternal
+country of birth and 38% in job qualification), the data
+set was imputed following a fully conditional specification (FCS) approach
+in order not to lose 40% of the cases in
+the analysis. For a data set with an arbitrary missing
+data pattern, FCS methods can be used to impute missing
+values for all variables, assuming the existence of a joint
+distribution for these variables when no convenient and realistic joint
+distribution can be specified (Van Buuren, 2007 ). The imputation
+procedure was performed using the statistical software package SAS 9.4.

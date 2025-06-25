@@ -1,0 +1,21 @@
+To compute the fate mappings of CD11b + Ly6G +
+tdTomato + neutrophils in BM and tissues of iLy6Gtd Tom
+mice displayed in Figure 1 B, nonlinear regressions of decaying
+exponential functions 1 0 0 ⁢ 𝑒 − ( 𝑡
+− 2 ) / 𝜏 B M and 1 0
+0 ⁢ 𝑒 − ( 𝑡 − 3 ) /
+𝜏 𝑖 were performed using the MATLAB™ (R2019b) Statistics and
+Machine Learning toolbox command fitnlm . The datasets that were
+fitted corresponded to 2-7 days for BM and 3-7 days
+for blood and the other tissues, respectively. Mean lifetimes 𝜏
+B M and 𝜏 𝑖 were estimated together with their
+respective confidence intervals (confidence levels at 95%) and p values.
+From these, the half-lifetimes 𝑡 ( B M ) 1
+/ 2 in BM and 𝑡 ( 𝑖 ) 1
+/ 2 in other tissues, as well as the confidence
+intervals, were found using the relations 𝑡 ( B M
+) 1 / 2 = l o g ⁡ (
+2 ) ⁢ 𝜏 B M and 𝑡 ( 𝑖
+) 1 / 2 = l o g ⁡ (
+2 ) ⁢ 𝜏 𝑖 . The values are displayed
+in Figure 1 B and Fig.S1E.

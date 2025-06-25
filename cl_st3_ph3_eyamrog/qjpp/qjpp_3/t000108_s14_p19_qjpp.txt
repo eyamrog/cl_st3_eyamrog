@@ -1,0 +1,27 @@
+LYSM + CSF1R + double-labeled cells were FACS sorted from
+the bone marrow chimeric mice and incubated in vitro in
+glass bottom 16mm diameter wells at ∼4 × 10 4
+cells per well containing unlabelled primary osteoclasts and stimulated to
+form osteoclasts with 100ng/mL sRANKL and 25ng/mL M-CSF in αMEM
+medium containing 10% FBS (with Glutamax and HEPES). Microscopy was
+performed at x20 on a Leica DMI 6000 SP8 microscope.
+Sorted LYSM + CSF1R + cells were also plated onto
+established explant calvaria from 3- to 4-day-old Balb/C mice in
+24-well plate wells with αMEM media. To enhance recycling osteoclast
+growth on calvaria, primary osteoclasts from C57BL/6J were differentiated on
+the calvaria cultures for 3-4 days with RANKL and M-CSF
+as above. 18,000 or 40,000 recycling cells were plated in
+80 μL neat FCS onto each calvarium and left to
+attach at 37þC for 4 h before adding 0.5ml αMEM
+with 200ng/mL RANKL and 25ng/mL M-CSF in αMEM media. Cells
+were incubated for 6 days with media change at day
+3 before staining with Hoechst (1:20,000 in PBS) and OsteoSense
+680 (1:10,000 in PBS) and imaged in 10mm culture plates
+in PBS. Fluorescent images were acquired with a LBF 760
+and BSMP 760 to enable detection of far-red signals. Non-descanned
+detectors were SP 485 (blue second harmonic), BP 500-550 (GFP),
+BP 565-610 (tdTomato) and BP 640-710 (Alexa Fluor 680). 425
+× 425 × 150 μm imaging volumes were acquired with
+a W Plan-Apochromat 20 × /1.0 DIC (UV)Vis-IR water immersion
+objective at a resolution of 0.83 μm/pixel. Optical sections were
+acquired at 2 μm z-step intervals.

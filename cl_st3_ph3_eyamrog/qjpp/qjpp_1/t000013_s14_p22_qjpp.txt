@@ -1,0 +1,4 @@
+We followed the methods under ‘General CARMEN Procedures-Detection-Fluidigm detection’ with
+the following modifications: 42.5 nM LwaCas13 and 212.5 nM crRNA
+in each assay mix reaction and 500 nM RNaseAlert v2
+in each sample mix reaction.

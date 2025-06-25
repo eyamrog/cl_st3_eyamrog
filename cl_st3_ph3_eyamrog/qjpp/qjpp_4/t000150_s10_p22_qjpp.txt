@@ -1,0 +1,17 @@
+In addition to multi-sensor devices, one could simply combine objective
+methods to address the shortcomings of each approach. For example,
+the SenseWear armband (which can determine energy expenditure but not
+posture) and the activPAL (which can determine posture but not
+energy expenditure) have been used simultaneously to create an integrated
+measure of sedentary time that accounts for both posture and
+energy expenditure (Myers et al., 2018 ). Similarly, wearable cameras
+and Actigraph accelerometers have been used in conjunction to assess
+the context and intensity of daily physical activity (Kerr et
+al., 2013 ). While such approaches may improve the measurement
+of sedentary time, it is unclear whether the additional information
+justifies the participant and researcher burden of using multiple monitors.
+The use of multiple monitors also comes with added costs
+to the research team in terms of the devices, consumables
+for attachment (eg, adhesives), and data processing considerations. It is
+therefore worth considering carefully the trade-off between (often slight) increases
+in measurement precision and increases in research and participant burden.

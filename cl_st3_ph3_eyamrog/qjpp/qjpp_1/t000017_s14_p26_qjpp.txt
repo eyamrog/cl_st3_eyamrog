@@ -1,0 +1,13 @@
+The total number of patients enrolled in part 1 was
+dependent on the observed safety profile, which determined the number
+of patients per dose cohort, as well as the number
+of dose escalations required to identify the MTD and RP2D.
+It was expected that approximately 25 patients who met the
+criteria for the dose-determining population (described below) would be enrolled
+in part 1. In part 2, to adequately assess the
+safety of avapritinib, approximately 45 patients were planned for enrollment
+in cohort 1 at a starting dose of 300 mg
+QD, and approximately 10 patients were planned to be enrolled
+in cohort 2 at a starting dose of 200 mg
+QD. With 55 patients, there is approximately 94% probability of
+observing an AE that occurs at a frequency of ≥5%.

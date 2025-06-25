@@ -1,0 +1,15 @@
+An ideal diagnostic method would have surveillance capabilities to process
+hundreds of patient samples simultaneously, detect multiple viruses, differentiate between
+viral variants and quantify viral load ; yet no such
+test currently exists. As it stands, there is a trade-off
+between clinically approved high-throughput diagnostics and multiplexed methods in the
+number of patient samples and/or pathogens tested simultaneously . For
+example, quantitative PCR with reverse transcription (RT–qPCR) is high-throughput by
+testing at least 88 samples but for 1–3 analytes at
+a time; multiplexed techniques such as Cepheid Xpert Xpress can
+detect 4 respiratory viruses in up to 16 samples per
+run and BioFire can detect 22 respiratory pathogens in 1
+sample simultaneously . Only a few clinical diagnostic methods comprehensively
+detect SARS-CoV-2 variant mutations , which is why this has
+largely been achieved through next-generation sequencing (NGS) , though it
+is time-consuming, expensive and requires bioinformatic expertise to interpret .

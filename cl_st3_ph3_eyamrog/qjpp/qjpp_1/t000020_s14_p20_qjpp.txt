@@ -1,0 +1,6 @@
+In addition, 266 individuals in the full genotyped cohort of
+488,288 samples who were carriers of the G2019S risk allele
+were identified. One individual who was a carrier for both
+a LRRK2 pLoF variant and G2019S was excluded from all
+analyses. Carriers of G2019S were not included in the ‘noncarrier’
+cohort in any of the analyses.

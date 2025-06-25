@@ -1,0 +1,9 @@
+We did ecological studies to assess the symptoms, disease course,
+rates of reinfection, and transmissibility associated with increasing proportions of
+infections with the B.1.1.7 variant in the UK population. We
+used data from the COVID Symptom Study, a longitudinal dataset
+providing symptom reports and test results from a population of
+more than 4 million adults living in the UK, in
+combination with surveillance data from the COVID-19 Genomics UK (COG-UK)
+Consortium and a spike-gene target failure (SGTF) correlate in community
+testing data.

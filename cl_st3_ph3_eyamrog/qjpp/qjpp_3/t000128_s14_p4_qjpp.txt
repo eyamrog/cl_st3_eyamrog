@@ -1,0 +1,7 @@
+Standard cloning strains DH5a and DH10B were used for most
+cloning and DNA preparation purposes. For bacterial adhesion assays, the
+T7 Express Competent E. coli cells were used (NEB C2566).
+Libraries were transformed using E. cloni 10G Supreme Electrocompetent Bacterial
+Cells (Lucigen 60,107-1). CC-His proteins were expressed in BL21(DE3) cells
+(Novagen 69,450). All cultures were grown in LB Miller media
+at 37°C.

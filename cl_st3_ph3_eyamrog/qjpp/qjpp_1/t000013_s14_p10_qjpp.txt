@@ -1,0 +1,9 @@
+The sample mix contained 25.2 U RNase Inhibitor (New England
+Biolabs), 1× ROX reference dye (Invitrogen), 1× gene expression sample
+loading reagent (Fluidigm), 1 mM ATP, 1 mM GTP, 1
+mM UTP, 1 mM CTP, 9 mM MgCl 2 in
+a nuclease assay buffer (40 mM Tris-HCl, pH 7.5, 1
+mM dithiothreitol). Either a 500-nM quenched synthetic fluorescent RNA reporter
+(FAM/rUrUrUrUrUrUrU/3IABkFQ/ or VIC/rTrTrArTrTrArTrT/3IABkFQ/; Integrated DNA Technologies) or RNaseAlert v2 (Invitrogen)
+was used for a total volume of 12.6 μl. See
+below for details on each mCARMEN panel.

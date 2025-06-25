@@ -1,0 +1,5 @@
+Background: High-resolution data for how mortality and longevity have changed
+in England, UK are scarce. We aimed to estimate trends
+from 2002 to 2019 in life expectancy and probabilities of
+death at different ages for all 6791 middle-layer super output
+areas (MSOAs) in England.

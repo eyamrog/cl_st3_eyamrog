@@ -1,0 +1,18 @@
+In this study, we report mCARMEN, a high-throughput, multiplexed and
+microfluidic diagnostic and surveillance platform with panels for respiratory viruses
+and SARS-CoV-2 variants that can be parallelized to test 300–550
+patient specimens in an 8-h working day. To make mCARMEN
+a clinically relevant technology, we built on CARMEN v.1 (ref.
+) by streamlining the workflow and incorporating commercially available Fluidigm
+instrumentation. We validated mCARMEN on 2,881 patient specimens to detect
+9–21 human respiratory viruses (RVP) or SARS-CoV-2 variant mutations (VIP)
+with high concordance to comparator assays that passed the FDA’s
+performance criteria for all but 1 virus. Notably, when testing
+previously positive clinical specimens, we found that a substantial proportion
+were not positive by concurrent testing but were positive by
+mCARMEN. This suggests sample degradation issues—a known problem when detecting
+RNA viruses in clinical specimens —that mCARMEN is more robust
+at handling than RT–qPCR or NGS. Although we cannot rule
+out false positives, we did not detect SARS-CoV-2 in specimens
+before the pandemic and we had 100% concordance with true
+virus-negative specimens.

@@ -1,0 +1,27 @@
+The results of our baseline statistical projections suggest that the
+mortality rates for all cancers combined for both males and
+females in Australia will continue to decline over the period
+of 2020–44. The overall incidence rate for all cancers combined
+for males is projected to continuously decline over the period
+of 2020–44, and for females the projected incidence rate is
+relatively stable. The overall numbers of new cancer cases and
+deaths are predicted to continue to increase substantially over the
+period of 2020–44, which is largely a result of the
+ageing population and increasing population size. As these baseline projections
+are made under the assumption that recent trends will continue
+and do not consider any of the possible effects of
+the COVID-19 pandemic on future cancer rates, we also explored
+how treatment delays might affect future outcomes for colorectal cancer
+patients, as an example. We illustrated that a 6-month health-care
+system disruption with a 16-week delay to cancer treatment is
+estimated to result in 460 additional cancer deaths and 437
+deaths occurring earlier than expected during 2020–44. Given that the
+number of excess colorectal cancer deaths due to delayed treatment
+strongly depends on the duration of system disruptions and the
+resulting delays experienced by individual patients, the negative effect of
+treatment delays in more serious pandemic situations would be even
+worse. Also, due to the non-linear relationship between duration of
+treatment delay and cancer outcome, even if a 12-month treatment
+delay is experienced by only a small proportion of colorectal
+cancer patients this could still result in a substantial number
+of excess colorectal cancer deaths.

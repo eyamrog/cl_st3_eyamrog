@@ -1,0 +1,7 @@
+Protein concentration was determined using a BCA (ThermoFisher 23,225) and
+constructs were analyzed via LC-MS ( Figure S20 ). The
+liquid chromatography was done using an Agilent 1260 Infinity II
+system on a PLRP-S column (Agilent PL1912-1500) over an acetonitrile
+gradient of 5–95% connected directly to an Agilent 6530 QTOF.
+Predicted molecular weights were determined using ExPasy ProtParam without the
+N-terminal Methionine.

@@ -1,0 +1,13 @@
+At the time of Omicron emergence, mCARMEN VIP could already
+uniquely differentiate it from the other SARS-CoV-2 variants by specifically
+detecting nine Omicron-tagging mutations among our variant panel (Fig. 6a
+). The unique combination of these Spike gene mutations allows
+for the specificity required to make the proper variant lineage
+call. In particular, just the combination of S477N and N501Y
+covers 98.6% of Omicron sequences in GISAID and is 99.9%
+specific to Omicron (Extended Data Fig. 10a ). We rapidly
+applied VIP to 430 specimens collected at Harvard University CLIA
+Laboratory (HUCL) from 6 to 16 December and found that
+the rate of Omicron increased from 15% to 80% in
+10 d, overtaking the previously predominant variant, Delta (Fig. 6b
+and Extended Data Fig. 10b ).

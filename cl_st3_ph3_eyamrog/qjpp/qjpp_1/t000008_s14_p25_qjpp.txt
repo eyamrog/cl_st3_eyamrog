@@ -1,0 +1,3 @@
+For histology (IHC and ISH), RNA-seq and associated statistical analyses,
+each experiment was performed once only due to limited quantities
+of tissues and RNA.

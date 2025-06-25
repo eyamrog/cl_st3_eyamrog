@@ -1,0 +1,9 @@
+Our third null hypothesis is that cycle length is an
+equally poor predictor of mid-luteal progesterone concentration in both study
+populations. As previously discussed, cycle length itself does not have
+an inherent biological significance. Identical cycle lengths can result from
+a wide combination of follicular and luteal phase lengths. By
+inference, it is likely that identical cycle lengths are associated
+with marked variation in reproductive physiology including progesterone concentrations (i.e.,
+the covariance is poor). This pattern is expected to be
+comparable across populations.

@@ -1,0 +1,11 @@
+The 49,960 exome-sequenced individuals from the UK Biobank were restricted
+to a subset of 46,062 unrelated individuals of European ancestry.
+Relatedness was determined using KING kinship coefficient estimates from the
+genotype relatedness file with a cutoff of 0.0884 to include
+pairs of individuals with greater than third-degree relatedness. European ancestry
+was determined by projecting individuals onto the 1000 Genomes Project
+phase 3 (ref. ) principal-component analysis (PCA) coordinate space, followed
+by Aberrant R package clustering to retain only those individuals
+falling within the 1000 Genomes Project EUR PC1 and PC2
+limits ( λ = 4.5). We further removed individuals who
+self-reported as non-European ethnicity.

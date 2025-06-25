@@ -1,9 +1,0 @@
-Furthermore, the HUD PIT count misses families who are unseen,
-namely, those who live doubled-up, those who couch surf, or
-those who live in motels, hotels, or campgrounds ( 48
-). While PIT sporadically counts those living in motels or
-hotels, they are included only if considered to be shelter
-residents with no access to other spaces and the shelter
-or a government agency is paying the cost or if
-they live in an area where emergency shelters are unavailable
-( 21 ).

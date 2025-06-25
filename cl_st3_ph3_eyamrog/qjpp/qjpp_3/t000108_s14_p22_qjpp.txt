@@ -1,0 +1,15 @@
+Individual single-positive (LYSM + CSF1R neg ZOL neg or LYSM
+neg CSF1R + ZOL neg ) and triple-positive cells (LYSM
++ CSF1R + ZOL + ) were FACS sorted from
+the marrow and bone surface of mixed irradiation bone marrow
+chimeras as above into 384-well plates containing 3μl of deposition
+buffer (0.9% Superase-In RNase Inhibitor (20 U/μl); 0.9% RNasin® Plus
+RNase Inhibitor 40 U/μl; Nuclease-free water; 0.05% 10x GeneAmp PCR
+buffer without MgCl). cDNA was generated and amplified for 22
+cycles using the SMART-Seq v4 Ultra Low Input RNA Kit
+for Sequencing (Takara Bio) and steps were performed according to
+manufacturer’s protocol at half reaction volumes ( Khoo et al.,
+2019 41. Khoo, W.H. ∙ Ledergor, G. ∙ Weiner, A.
+... A niche-dependent myeloid transcriptome signature defines dormant myeloma cells
+Blood. 2019; 134 :30-43 Crossref Scopus (96) PubMed Google Scholar
+).

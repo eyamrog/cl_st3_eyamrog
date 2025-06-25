@@ -1,0 +1,6 @@
+Nevertheless, one hope is that reproducibility can lead to higher-quality
+data analyses. The logic infers that requiring all analyses to
+provide data and code would put investigators on notice that
+their work would be scrutinized. However, one high-profile example suggests
+that enforcing reproducibility is unlikely to result in better data
+analyses.

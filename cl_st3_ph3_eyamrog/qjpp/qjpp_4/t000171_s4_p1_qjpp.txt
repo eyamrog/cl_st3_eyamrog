@@ -1,0 +1,21 @@
+Many studies have relied on single measures of immunity to
+draw broad conclusions about the regulation of immune function and
+how immune function trades-off with other life history demands. However,
+immunity is multifaceted and single measures are unlikely to accurately
+capture the full range and plasticity of human immune function.
+Luckily, the repertoire of methods for the minimally invasive measurement
+of immune function is rapidly expanding. These measures differ in
+the aspects of immunity they measure, as well as in
+the inferences that can be made based on them (Figure
+3 ). They also differ in cost and complexity, which
+are summarized in Table 3 . Traditional measures, such as
+ELISAs for DBSs remain the simplest and cheapest to implement.
+These measures are accurate and easy to implement but are
+limited in scope since they typically measure only one analyte
+at a time. Multiplex immunoassays overcome this limitation, but usually
+with a cost to sensitivity, which may be particularly detrimental
+to measures of low-concentration analytes such as cytokines. Point-of-care devices
+are often the most convenient because they require no sample
+transport. However, sensitive point-of-care devices are only available for a
+few measures, though many more will likely become available in
+the relatively near future.

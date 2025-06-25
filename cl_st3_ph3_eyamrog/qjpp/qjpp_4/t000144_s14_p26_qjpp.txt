@@ -1,0 +1,7 @@
+A. P. forgot to ask one participant about their extraversion.
+We imputed values for this participant using predictive mean matching
+implemented with the mice package (Van Buuren & Groothuis-Oudshoorn, 2011
+) and used these imputed data to fit all models
+described above. As a robustness check, we excluded this participant
+and refit each model. Their exclusion did affect model estimates
+in some cases, as we report in Section 3.5 .

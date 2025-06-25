@@ -1,0 +1,16 @@
+4 or 6-12 week-old male and female mice were sacrificed
+with CO 2 and perfused with a saline solution in
+order to collect the tissues into a 2% PFA solution.
+After 24 h in fixation solution at 4°C, samples were
+cryopreserved with a sucrose gradient. For immunofluorescence staining, tissues were
+frozen in OCT Compound (Tissue Tek) using dry ice, cut
+in 12mm sections in a cryostat (Leica CM1850), block with
+5% of Normal Goat Serum (Vector) for 1 h at
+RT. To characterize the lung endothelium, tissues were stained with
+rabbit anti-ERG (Abcam) overnight followed by incubation with secondary goat-anti
+rabbit Alexa 546 antibody and DAPI. To identify neutrophil distribution,
+tissues were stained with anti-CD31 antibody (Abcam), followed by incubation
+with secondary goat-anti rabbit Alexa 488 or 647 antibody and
+DAPI. Endogenous tomato or GFP signal from Ly6G Ly6g CRE
+; Rosa26 tdTomato or Lyz2 GFP mice was used to
+identify partner deriver or transferred neutrophils.

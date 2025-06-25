@@ -1,0 +1,20 @@
+Ly6G CreERT2 mice were generated at the Transgenesis and Pluripotent
+Cell Technology Units of CNIC. Briefly, a creERT2 fusion gene
+(a Cre recombinase fused to a human estrogen receptor ligand
+binding domain) followed by an SV40 polyadenylation signal, and a
+FRT-flanked neomycin resistance (neo) cassette was inserted into the exon
+2 of the Ly6G gene by homologous recombination in ES
+cells ( Ly6G CreERT2 ). Flp-mediated recombination removed the FRT-flanked
+neo cassette and knock-in mice were then backcrossed onto a
+C57BL/6 background for 8 generations to eliminate off-target effects. Finally,
+to generate an inducible reporter to track neutrophils, Ly6G CREERT2
+mice were crossed with Rosa26 Tdtomato mice ( Madisen et
+al., 2010 44. Madisen, L. ∙ Zwingman, T.A. ∙ Sunkin,
+S.M. ... A robust and high-throughput Cre reporting and characterization
+system for the whole mouse brain Nat Neurosci. 2010; 13
+:133-140 Crossref Scopus (4610) PubMed Google Scholar ), resulting in
+the iLy6G tdTom mice used in our experiments. For colony
+genotyping, we used the following primer sequences: 5′-ACTAACCAGCTTCGACTTCCAAGG RV (Wt),
+5′-TTGGGACGGTCGCTTTGGTAG- and 5′-GGAACCTTCAGCTTCGACCAATCA (Tg). Wild type band size: 315b.p. and
+transgenic band size: 648bp. Alternatively, the Cre-ERT2 insertion was confirmed
+by flow cytometry as shown in Figure S1 .

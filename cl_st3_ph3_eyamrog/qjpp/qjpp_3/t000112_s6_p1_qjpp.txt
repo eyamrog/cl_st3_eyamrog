@@ -1,0 +1,17 @@
+MetaSUB is a global network of scientists and clinicians developing
+knowledge of urban microbiomes by studying mass transit systems, the
+built environment, and hospitals. We collected and sequenced 4,728 samples
+from 60 cities worldwide ( Table 1 ; Table S1
+), constituting the first large-scale metagenomic study of the urban
+metagenome. We conclude that there is a consistent urban microbiome
+core ( Figures 1 and 2 ), which is supplemented
+by geographic variation ( Figure 2 ) and microbial signatures
+based on the specific attributes of a city ( Figure
+3 ). Our data also show that taxa remain to
+be discovered in these and future data ( Figure 5
+), environmental factors (e.g., climate) significantly affect the microbial variation,
+and sequences associated with AMR genes are globally widespread but
+not necessarily abundant ( Figure 4 ). In addition to
+these results, we present several ways to access and analyze
+our data including interactive web-based visualizations, search tools over raw
+sequence data, and high-level interfaces to computationally access results.

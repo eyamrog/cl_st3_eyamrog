@@ -1,0 +1,15 @@
+We next analyzed the immune infiltrate 14 days after tumor
+injection to define T cell responses. Trem2 –/– mice showed
+a trend in the increase of intratumoral αβ T cells,
+which was significant in anti-PD-1 treated mice ( Figure 4
+F). CD8 + T cells were increased in Trem2 –/–
+mice with or without anti-PD-1, as were PD-1 + CD8
+T cells, corroborating our initial results (see Figure 1 C).
+PD-1 + CD4 T cells were only increased in Trem2
+–/– mice treated with anti-PD-1 ( Figure 4 F). Treg,
+B, NK, and Lag3 + T cell proportions did not
+change in the absence of TREM2 (data not shown). Altogether,
+these results demonstrate that TREM2 deficiency augments the efficacy of
+ICT in two transplantable tumor models responsive to anti-PD-1. Enhancement
+of ICT was associated with augmented T cell infiltration and
+activation, at least in the MCA model.

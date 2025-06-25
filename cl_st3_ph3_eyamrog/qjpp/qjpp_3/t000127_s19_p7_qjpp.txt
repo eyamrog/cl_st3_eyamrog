@@ -1,0 +1,9 @@
+We also examined the pH dependency of the RGF1-RGI1/RGFR4 interaction
+in Nicotiana benthamiana . We transiently co-expressed KD-truncated and GFP-tagged
+RGI1/RGFR4 ▵KD and HA-tagged SERK1 ▵KD in leaves of N.
+benthamiana and analyzed their interaction at different pH levels using
+co-immunoprecipitation (coIP). Consistently, RGF1 induced a strong interaction between RGI1/RGFR4
+▵KD -GFP and SERK1 ▵KD -HA at pH 5.0; however,
+this interaction progressively decreased when the pH increased to 6.0,
+7.0, and 8.0 ( Figure 4 B). Altogether, these results
+demonstrate the acidic pH-dependent manner of the RGF1-receptor complex formation.

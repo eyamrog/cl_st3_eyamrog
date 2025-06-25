@@ -1,0 +1,9 @@
+Background: Long-term projections of cancer incidence and mortality estimate the
+future burden of cancer in a population, and can be
+of great use in informing the planning of health services
+and the management of resources. We aimed to estimate incidence
+and mortality rates and numbers of new cases and deaths
+up until 2044 for all cancers combined and for 21
+individual cancer types in Australia. We also illustrate the potential
+effect of treatment delays due to the COVID-19 pandemic on
+future colorectal cancer mortality rates.

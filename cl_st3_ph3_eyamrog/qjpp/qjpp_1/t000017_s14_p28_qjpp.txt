@@ -1,0 +1,3 @@
+OS, PFS and DOR were determined by Kaplan–Meier estimates, and
+95% CIs were estimated using Greenwood’s formula . Comparisons between
+two Kaplan–Meier functions was performed using a log-rank test.

@@ -1,0 +1,22 @@
+Findings: Projections indicate that in the absence of the COVID-19
+pandemic effects, the age-standardised incidence rate for all cancers combined
+for males would decline over 2020–44, and for females the
+incidence rate would be relatively stable in Australia. The mortality
+rates for all cancers combined for both males and females
+are expected to continuously decline during 2020–44. The total number
+of new cases are projected to increase by 47·4% (95%
+uncertainty interval [UI] 35·2–61·3) for males, from 380 306 in
+2015–19 to 560 744 (95% UI 514 244–613 356) in
+2040–44, and by 54·4% (95% UI 40·2–70·5) for females, from
+313 263 in 2015–19 to 483 527 (95% UI 439
+069–534 090) in 2040–44. The number of cancer deaths are
+projected to increase by 36·4% (95% UI 15·3–63·9) for males,
+from 132 440 in 2015–19 to 180 663 (95% UI
+152 719–217 126) in 2040–44, and by 36·6% (95% UI
+15·8–64·1) for females, from 102 103 in 2015–19 to 139
+482 (95% UI 118 186–167 527) in 2040–44, due to
+population ageing and growth. The example COVID-19 pandemic scenario of
+a 6-month health-care system disruption with 16-week treatment delays for
+colorectal cancer patients could result in 460 (95% UI 338–595)
+additional deaths and 437 (95% UI 314–570) deaths occurring earlier
+than expected in 2020–44.

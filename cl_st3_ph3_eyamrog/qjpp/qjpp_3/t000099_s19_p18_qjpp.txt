@@ -1,0 +1,27 @@
+We next assessed the contribution of neutrophils to pulmonary vascularization
+in the inducible neutropenia mouse model. We did not find
+vascular anomalies in the lungs of adult mice after 7
+days of neutrophil depletion, either by histology ( Figure S5
+I) or when assessing endothelial proliferation ( Figure 5 E).
+We considered, however, alternative contexts that demand enhanced angiogenesis, such
+as organismal growth at young age, or after genotoxic injury
+induced by irradiation. In these contexts, depletion of neutrophils resulted
+in complete loss of proliferative capacity of endothelial cells (
+Figure 5 E). We found a similar pro-angiogenic effect in
+the intestine of young mice ( Figure 5 F), but
+not in the spleen or BM ( Figure S5 J),
+as predicted by the pathway analysis. Finally, because the distribution
+of neutrophils in the adult intestine has been shown to
+be largely restricted to areas around isolated lymphoid follicles (ILFs;
+Figure S5 K; Casanova-Acebes et al., 2018 13. Casanova-Acebes, M.
+∙ Nicolás-Ávila, J.A. ∙ Li, J.L. ... Neutrophils instruct homeostatic
+and pathological states in naive tissues J Exp Med. 2018;
+215 :2778-2795 Crossref Scopus (200) PubMed Google Scholar ), we
+examined whether vascularization of these particular regions of the gut
+might be affected by neutropenia. Indeed, while the general architecture
+of the gut was not affected by neutrophil depletion (
+Figure S5 L), we found significant loss of vessels inside
+the ILFs, but not in the surrounding submucosal area (
+Figure 5 G). Altogether, these results indicated that neutrophils support
+homeostatic and stress-induced angiogenesis in tissues (lung and intestine) that
+instruct this particular transcriptional program.

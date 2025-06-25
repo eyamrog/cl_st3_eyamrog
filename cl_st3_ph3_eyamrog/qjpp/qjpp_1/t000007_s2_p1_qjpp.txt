@@ -1,0 +1,10 @@
+We would like to thank S. Fleishon, N. Zuckerman, T.
+Hagai, D. Burstein and N. Harel for critical reading and
+discussions. This study was supported by a European Research Council
+starting grant 852223 (RNAVirFitness) to A.S. and by an Israeli
+Science Foundation grant (3963/19) to A.S. This study was also
+supported, in part, by a fellowship to S.H. and D.M.
+from the Edmond J. Safra Center for Bioinformatics at Tel
+Aviv University. The funders had no role in study design,
+data collection and analysis, decision to publish or preparation of
+the manuscript.

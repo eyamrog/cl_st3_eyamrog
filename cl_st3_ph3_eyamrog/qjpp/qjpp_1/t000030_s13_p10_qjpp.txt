@@ -1,0 +1,17 @@
+While the ILI+ proxy can provide a reasonable representation of
+the shape of the epidemic curve for an influenza epidemic,
+the area under this curve would differ from the infection
+attack rate in the population by an unknown constant of
+proportionality, sometimes referred to as the reporting rate. The absolute
+rate of influenza virus infections in a population is challenging
+to estimate from these data streams because of ( a
+) the uncertainties about the age- and strain-specific likelihoods of
+consulting a physician upon contracting an influenza virus infection, (
+b ) the sensitivity of the laboratory testing of respiratory
+specimens, and ( c ) the lack of patient age
+recording for influenza-positive specimens in many countries, including the United
+States ( 60 ). One possible solution would be to
+integrate information from serological surveillance with data on ILI consultations
+and virological testing of respiratory specimens to allow complete estimation
+of influenza infection rates (both symptomatic and asymptomatic) during epidemics
+( 7 , 17 , 58 ).

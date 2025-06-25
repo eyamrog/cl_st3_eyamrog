@@ -1,0 +1,11 @@
+We applied VIP and the analysis pipeline to identify the
+variant lineage in 101 known SARS-CoV-2-positive patient specimens: 24 Alpha,
+23 Beta, 24 Gamma, 6 Delta and 24 Epsilon. Of
+the 101 specimens with NGS results, all but 3 (97%)
+specimens (1 Beta and 2 Gammas) were given the correct
+variant lineage identification (Fig. 5c,d , Supplementary Fig. 7a and
+Supplementary Table 5 ). The Beta specimen had signal for
+a Beta-specific SNP, K417N, but also had signal for Δ156/57,
+a Delta-specific SNP. The Gamma specimens had no unique signals
+and shared signals for mutations overlapping with the Beta lineage
+resulting in a ‘variant not identified’ call.

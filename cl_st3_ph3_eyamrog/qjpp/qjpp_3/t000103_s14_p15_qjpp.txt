@@ -1,0 +1,23 @@
+Recombinant EEEV E2 glycoprotein (E3E2) (strain V105; IBT Bioservices) was
+diluted to 0.5 μg/mL in 1x D-PBS to coat 384-well
+ELISA plates (Thermo Fisher Scientific) at 25 μL/well and incubated
+at 4°C overnight. The plates were washed 3x with D-PBS-T
+(1x D-PBS + 0.05% Tween 20 [Cell Signaling Technology]) and
+blocked for 1 hour at room temperature with 25 μL/well
+blocking solution (2% non-fat dry milk (Bio-Rad), 2% goat serum
+(GIBCO) in D-PBS-T). After blocking, the plates then were washed
+3x with D-PBS-T and a volume of 10 to 25
+μL/well of supernatant from each well containing EBV-transformed B cells
+or hybridoma cell lines was added. Plates were incubated for
+2 hours at room temperature or overnight at 4°C. Plates
+then were washed 3x with D-PBS-T and a suspension of
+secondary antibodies (goat anti-human IgG-AP (Meridian Life Science) and goat
+anti-human IgA-AP [Southern Biotech]) at a 1:4,000 dilution in 1%
+blocking solution (1% non-fat dry milk, 1% goat serum) was
+added at 25 μL/well for 1 hour at room temperature.
+Alkaline phosphatase substrate solution (phosphatase substrate tablets (Sigma-Aldrich) in AP
+substrate buffer (1M Tris aminomethane and 30 mM MgCl 2
+) was added at 25 μL/well following plate washing 4x
+with D-PBS-T. Plates were incubated at room temperature in the
+dark for 1-2 hours and then read at an optical
+density of 405 nm with a plate reader.

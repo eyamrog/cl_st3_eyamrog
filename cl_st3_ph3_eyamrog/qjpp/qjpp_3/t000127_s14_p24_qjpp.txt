@@ -1,0 +1,17 @@
+Calculation of binding free energy using the MM-PB/SA method: The
+molecular mechanics–Poisson–Boltzmann/surface area (MM-PB/SA) method was employed to calculate the
+binding free energies for the complexes between RGFR1 and RGF1
+in protonated and deprotonated conditions. The solvation free energy is
+the sum of polar (ΔGPB) and nonpolar (ΔGNP) parts. ΔGPB
+was calculated by solving Poisson–Boltzmann equation with interior and exterior
+dielectric constants of 2 and 80, respectively, with a salt
+concentration of 0.2 M. ΔGNP was determined on the basis
+of solvent accessible surface area (SASA): ΔGNP = 0.0378×ΔSASA −
+0.5692 + ΔG dispersion , where SASA was the solvent
+accessible surface area and ΔG dispersion was the dispersion term(
+Tan et al., 2007 79. Tan, C. ∙ Tan, Y.H.
+∙ Luo, R. Implicit nonpolar solvent models J. Phys. Chem.
+B. 2007; 111 :12263-12274 Crossref Scopus (199) PubMed Google Scholar
+). The solvent probe radius used in the calculation of
+SASA was set at 1.4 Å. These calculations were performed
+using MMPBSA.py module in AmberTools 18.

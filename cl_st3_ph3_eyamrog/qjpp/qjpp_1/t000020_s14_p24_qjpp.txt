@@ -1,0 +1,7 @@
+ACR was calculated by dividing the urine microalbumin value (field
+code 30500; mg l ) by the urine creatinine value
+(field code 30510; μmol l ) multiplied by a factor
+of 0.0001131222. Estimated glomerular filtration rate was calculated using the
+CKD Epidemiology Collaboration (CKD-EPI) creatinine equation . Normal range values
+for both ACR and estimated glomerular filtration rate were taken
+from the National Kidney Foundation website ( https://www.kidney.org/kidneydisease/ ).

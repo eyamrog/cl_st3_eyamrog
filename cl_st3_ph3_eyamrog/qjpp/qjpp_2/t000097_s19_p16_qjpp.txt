@@ -1,0 +1,27 @@
+Given that previous analysis of ICT-treated MCA tumors showed an
+increase of Nos2 - and Rsad2 -expressing macrophages and a
+reduction of Mrc1- and CX 3 CR1-expressing macrophages ( Figure
+3 ) ( Gubin et al., 2018 17. Gubin, M.M.
+∙ Esaulova, E. ∙ Ward, J.P. ... High-Dimensional Analysis Delineates
+Myeloid and Lymphoid Compartment Remodeling during Successful Immune-Checkpoint Cancer Therapy
+Cell. 2018; 175 :1443 Full Text Full Text (PDF) Scopus
+(37) PubMed Google Scholar ), we examined the expression of
+the same genes in anti-TREM2-treated tumors ( Figure S4 C).
+Nos2 + cells were expanded and Mrc1 + cells were
+reduced in anti-TREM2 and anti-TREM2 plus anti-PD-1-treated MCA, in line
+with ICT-treated tumors. In contrast, Rsad2 + Macs were only
+increased following ICT and anti-TREM2 plus anti-PD-1, but not after
+anti-TREM2 treatment alone ( Figure S4 C). We further compared
+the gene signatures of macrophage clusters identified in Trem2 +/+
+and Trem2 –/– tumor-bearing mice with those found in mice
+treated with blocking antibodies ( Figure S4 D). Results are
+represented in a heatmap showing the magnitude of difference or
+similarity of each cluster in the two experiments. CX 3
+CR1 Macs_g, which declined in the absence of TREM2, overlapped
+with Mrc1 Macs_t, which comparably declined in anti-TREM2-treated mice, as
+well as with CX 3 CR1 Macs_t. Similarly, Nos2 Macs_g
+overlapped with the Nos2 Macs1_t and Nos2 Macs2_t clusters in
+anti-TREM2-treated mice. Finally, cycling Macs_g corresponded to cycling Macs_t, which
+were diminished in mice treated with combined anti-TREM2 and anti-PD-1.
+Altogether, TREM2 deficiency, and anti-TREM2 and anti-ICT treatments, induced some
+consistent changes in tumor-associated macrophages.

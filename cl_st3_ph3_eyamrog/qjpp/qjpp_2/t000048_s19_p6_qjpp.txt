@@ -1,9 +1,0 @@
-Analyses looking at annual average ambient temperature, altitude, and per
-capita GDP also showed differences between regions ( figure 3
-; appendix 2 p 21 ). Higher per capita GDP
-was associated with lower risk in non-staple food factor in
-urban areas and higher risk in metabolic and physical activities
-factor in rural areas (p<0·05 for both). Notably, the correlation
-between per capita GDP and the smoking and alcohol use
-factor differed significantly between rural and urban regions (p=0·042; figure
-3 ).

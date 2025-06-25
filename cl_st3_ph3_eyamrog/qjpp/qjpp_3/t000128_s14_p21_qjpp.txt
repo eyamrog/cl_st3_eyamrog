@@ -1,0 +1,21 @@
+To express His-tagged CCs, E. coli cells (BL21 DE3) were
+grown in Terrific Broth (TB) overnight at 25°C with 200
+μg/mL ampicillin and glucose to 0.5% until they reached an
+OD of ∼0.5. They were then induced with 1mM Isopropyl
+ß-D-1-thiogalactopyranoside (IPTG) and grown overnight at 16°C. The cultures were
+harvested via centrifugation at 6000xg for 15 min at 4°C,
+pellets resuspended in 20mM Tris, 500mM NaCl, 20mM Imidazole, 500μM
+PMSF at a pH of 8.0, then lysed via sonication.
+The resulting lysate was then spun at 30,000xg at 4°C
+for 90 min to remove insoluble proteins and cell debris.
+The supernatant was passed through a 0.45μm filter then run
+on a HisTrap HP 1mL column (Cytiva 17-5247-01) and fractions
+were collected using an Akta Pure FPLC. The fractions were
+run on an SDS-PAGE gel (BioRad 4,569,033) and stained via
+Coomassie (BioRad 1,610,786) to select fractions with significant protein. Pooled
+fractions were then dialyzed using Slide-a-Lyzer mini dialysis cassettes with
+a 3.5k MWCO (Thermo Fischer, Cat#88403) into 50mM Tris, 100mM
+NaCl, pH 7.6. Some contaminating proteins precipitated during dialysis so
+the solutions were clarified by spinning at 15,000xg for 15
+min at 4°C. Yields ranged from 6-25 mg of protein
+per liter of culture.

@@ -1,0 +1,11 @@
+Nucleic acid amplification was performed via PCR using Q5 Hot
+Start High-Fidelity DNA Polymerase (New England Biolabs) using primer pools
+(with 150 nM of each primer) in 20-μl reactions. Amplified
+samples were added directly into the detection reaction or stored
+at −20 °C until use. The following thermal cycling conditions
+were used: (1) initial denaturation at 98 °C for 2
+min; (2) 45 cycles at 98 °C for 15 s,
+50 °C for 30 s and 72 °C for 30
+s; and (3) final extension at 72 °C for 2
+min. Each target was amplified with its corresponding primer pool
+as listed under ‘oligonucleotides used in this study’.

@@ -1,0 +1,18 @@
+Longitudinal data were prospectively collected through the COVID Symptom Study
+app, developed by Zoe Global with input from King's College
+London (London, UK), Massachusetts General Hospital (Boston, MA, USA), and
+Lund and Uppsala Universities (Sweden). The app guides users through
+a set of enrolment questions, establishing baseline demographic and health
+information. Users are asked to record each day whether they
+feel physically normal and, if not, to log any symptoms.
+After a user reports any symptoms, they are asked “Where
+are you right now?”, with the options “At home”, “At
+hospital with suspected COVID-19 symptoms”, or “Back from hospital”. Users
+are also asked to maintain a record of any COVID-19
+tests and their date, type, and result in the app.
+Users are able to record the same data on behalf
+of others, such as family members, to increase data coverage
+among those unlikely to use mobile apps, such as older
+adults. We included users living in the UK who had
+logged responses through the app at least once in the
+period between Sept 28 and Dec 27, 2020.

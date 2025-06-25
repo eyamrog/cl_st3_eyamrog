@@ -1,0 +1,15 @@
+A murine mAb (EEEV-66; MSD and ASK) ( Kim et
+al., 2019 49. Kim, A.S. ∙ Austin, S.K. ∙ Gardner,
+C.L. ... Protective antibodies against Eastern equine encephalitis virus bind
+to epitopes in domains A and B of the E2
+glycoprotein Nat. Microbiol. 2019; 4 :187-197 Crossref Scopus (11) PubMed
+Google Scholar ) was diluted to 0.5 μg/mL in 1x
+D-PBS to coat 384-well ELISA plates at 25 μL/well and
+incubated at 4°C overnight. The remainder of the ELISA protocol
+follows as described above for the protein ELISA. However, after
+blocking, clarified SINV/EEEV supernatant diluted 1:10 in 1x D-PBS (approximately
+1 × 10 6 to 1 × 10 7 FFU/mL
+as determined through a focus forming assay with BHK-21 cells)
+at 25 μL/well was added. After incubation for 1-2 hours
+at room temperature, the plates were washed 6x with D-PBS-T
+(the first 2-3 washes were conducted under BSL-2 conditions).

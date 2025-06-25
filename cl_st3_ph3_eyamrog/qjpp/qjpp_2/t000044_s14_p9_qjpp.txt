@@ -1,8 +1,0 @@
-Heterogeneity between studies was quantified with the I 2 statistic.
-For studies that did not report age of the sample,
-and for which these data could not be obtained from
-the corresponding author (n=2), we imputed the weighted mean age
-of participants from all other studies that were included in
-the analysis. We conducted sensitivity analyses using the leave-one-out method.
-We evaluated small-study effects visually with a funnel plot and
-statistically with Egger's test.

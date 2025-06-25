@@ -1,0 +1,10 @@
+In the subsample with available data, neonatal anthropometry was compared
+across groups of maternal age and the number of previous
+pregnancies. Each component of neonatal size was also converted into
+approximate tertiles, using the following cut-offs: birth length (cm) <47,
+47–48.99, 49+; birth weight (kg) <2.6, 2.6–2.99, 3+; birth head
+circumference (cm) <32.5, 32.5–33.9, 34+. Chi-squared tests were used to
+assess differences in the frequency of adverse birth outcomes in
+association with different categories of birth size, however, this analysis
+was not undertaken for cesarean section as the sample size
+for anthropometry among those receiving this procedure was very low.

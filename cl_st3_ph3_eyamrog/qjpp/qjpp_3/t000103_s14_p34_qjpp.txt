@@ -1,0 +1,11 @@
+Mice were inoculated with EEEV strain FL93-939 by aerosol, as
+previously described ( Trobaugh et al., 2019 94. Trobaugh, D.W.
+∙ Sun, C. ∙ Dunn, M.D. ... Rational design of
+a live-attenuated eastern equine encephalitis virus vaccine through informed mutation
+of virulence determinants PLoS Pathog. 2019; 15 :e1007584 Crossref Scopus
+(3) PubMed Google Scholar ). Briefly, mice were challenged with
+~10 LD 50 (~2,500 PFU) of 20% sucrose-purified WT EEEV
+FL93-nLuc TaV using the AeroMP exposure system (Biaera Technologies, Hagerstown,
+MD) inside a class III biological safety cabinet and either
+an Aeroneb nebulizer (Aerogen) or 3-jet Collison nebulizer (CH Technologies).
+All mice were monitored twice daily for morbidity and mortality.

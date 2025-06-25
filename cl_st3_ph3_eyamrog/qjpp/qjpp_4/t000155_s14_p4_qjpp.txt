@@ -1,5 +1,0 @@
-Data on socioeconomic status, the level of habitual physical activity,
-the level of general and reproductive health status (existence of
-chronic illnesses, gynecological illnesses, general health status, number of pregnancies,
-menarcheal age, age at menopause) were collected by questionnaires (validated
-for the Hungarian population) through personal interviews.

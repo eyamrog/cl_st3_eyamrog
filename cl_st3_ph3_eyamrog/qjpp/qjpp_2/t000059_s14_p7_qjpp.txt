@@ -1,0 +1,7 @@
+In GBD 2019, DALYs were calculated as the sum of
+YLDs and YLLs for each cause by sex, age group,
+year, and province. One lost year of health was equivalent
+to one DALY. The gap between the current health status
+and full health situation (ie, the entire population living to
+an advanced age without disease and disability) was reflected by
+the sum of all DALYs across the population.

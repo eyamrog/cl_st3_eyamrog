@@ -1,0 +1,14 @@
+Analysis of 520 human orthologs of genes that define osteomorphs
+in the ISDS Nosology and Classification of Skeletal Disorders database
+( Mortier et al., 2019 57. Mortier, G.R. ∙ Cohn,
+D.H. ∙ Cormier-Daire, V. ... Nosology and classification of genetic
+skeletal disorders: 2019 revision Am. J. Med. Genet. A. 2019;
+179 :2393-2419 Crossref Scopus (407) PubMed Google Scholar ) showed
+that 22 osteomorph genes cause monogenic skeletal dysplasia (1.5-fold enrichment,
+p = 0.03) ( Table S3 ). Osteomorph genes were
+not uniformly involved but enriched in specific groups including the
+“Osteopetrosis and related disorders group” (5.2-fold enrichment, p = 0.02),
+“Lysosomal storage diseases with skeletal involvement group” (5.3-fold, p =
+2 × 10 −3 ), and the “Osteolysis group” (10-fold,
+p = 3 × 10 −3 ) ( Table S3
+).

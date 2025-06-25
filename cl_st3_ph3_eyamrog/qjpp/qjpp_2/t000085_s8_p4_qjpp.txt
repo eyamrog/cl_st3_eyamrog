@@ -1,0 +1,9 @@
+The Circulating Tumour DNA Analysis Informing Adjuvant Chemotherapy in Stage
+II Colon Cancer (DYNAMIC) trial was a randomized trial designed
+to investigate whether a ctDNA-guided approach as compared with a
+standard approach in stage II colon cancer could reduce the
+use of adjuvant treatment without compromising the risk of recurrence.
+We further examined outcomes among ctDNA-positive patients who received adjuvant
+chemotherapy, to assess the benefit of treating this high-risk group
+of patients, as well as outcomes among ctDNA-negative patients whose
+disease was managed by surveillance alone.

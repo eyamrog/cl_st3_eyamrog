@@ -1,0 +1,17 @@
+The entire 400 μ l volume of Zymo Shield, along
+with the Isohelix swab head, were transferred into a new
+tube containing a 0.6mL dry volume of 0.5mm and 0.1mm
+lysis matrix (BashingBead Lysis Tubes, Zymo Research, Cat.: S6012-50), as
+well as an additional volume of 600 μ l of
+Zymo Shield. Mechanical lysis using bead beating was performed on
+18 samples at a time using a Vortex-Genie 2 adaptor
+at maximum power for 40 min. A 400 μ l
+volume of the resulting lysate in each tube was transferred
+into a separate well of a deep-well storage plate (Nunc
+96-Well Polypropylene DeepWell Storage Plate, Thermo Scientific, Cat.: 278743). High-throughput
+DNA extraction was carried out on an automated liquid handling
+platform (Microlab STAR Liquid Handling System, Hamilton, Cat.: Microlab STAR)
+using the ZymoBIOMICS 96 MagBead DNA Kit (Zymo Research, Cat.:
+D4308) on the Hamilton Star according to the manufacturer’s instructions.
+Purified samples were eluted into 50 μ l ZymoBIOMICS DNase/RNase
+Free Water.

@@ -1,0 +1,13 @@
+While urine osmolality is the most precise urinary hydration marker,
+it is highly correlated with Usg. For example, using data
+from the Water, Health and Nutrition Lab at Pennsylvania State
+University, we compared paired samples analyzed for Uosm and Usg
+and found a correlation of R = .977, P <
+.0001 (Figure 1 ). Moreover, if a researcher wants to
+transport urine samples on ice to measure them for additional
+biomarkers back in a lab, Usg is highly stable. We
+measured Usg 30 minutes after sample collection, froze samples within
+2 hours of sample collection for up to 6 months,
+then thawed and retested Usg. Results for 121 paired samples
+were nearly identical (Pearson's R = .985, P < .0001,
+data not shown).

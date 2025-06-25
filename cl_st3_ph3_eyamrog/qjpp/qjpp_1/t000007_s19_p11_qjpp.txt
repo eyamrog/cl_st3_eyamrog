@@ -1,0 +1,20 @@
+We noted that many patients (four of the six patients
+sequenced herein and several others in the total set of
+27 patients) displayed an intriguing cycling pattern of VL (reflected
+by cycle threshold (Ct) values), with very high Ct values
+reaching negative or borderline-negative results at one or more stages
+of the infection, followed by rebound of the virus (Fig.
+2b ). In the four above-mentioned patients, this rebound was
+accompanied by clinical evidence of disease, which is highly suggestive
+of active viral replication. Several different hypotheses could explain this
+pattern. First, the virus may have cleared and been followed
+by re-infection with another variant. Because this pattern can be
+ruled out using sequencing, such cases were excluded from our
+analysis ( Methods ). Second, the virus may cycle between
+different niches, such as upper and lower airways. Its re-emergence
+in the upper airways (nasopharynx) may be due to selective
+forces or genetic drift. When considering selective forces, viral rebound
+may occur due to the near clearance of the virus,
+driven either by ABT or by the endogenous immune system,
+and followed by the emergence of a more fit variant
+with antibody evasion properties.

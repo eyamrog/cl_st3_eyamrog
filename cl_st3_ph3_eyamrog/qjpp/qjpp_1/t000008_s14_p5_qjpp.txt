@@ -1,0 +1,5 @@
+Normal liver samples from healthy donors were sourced from the
+following commercial providers of de-identified human biospecimens. Each provider confirmed
+that tissues had been collected with informed consent for their
+use for research purposes: AMSBIO, BioIVT, Cureline, Discovery Life Sciences,
+Dx Biosamples, iSpecimen and US Biolab.

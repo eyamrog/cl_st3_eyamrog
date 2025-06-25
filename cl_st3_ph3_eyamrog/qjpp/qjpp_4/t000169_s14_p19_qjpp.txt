@@ -1,0 +1,10 @@
+AMoSS is programmed in R (R Core Team, 2020 ),
+using “EBImage” (Pau et al., 2010 ) for image manipulation.
+The procedure that was applied to AMoSS is described in
+detail in Figure 1 . All functions used within the
+algorithm are automatically executed on the data. AMoSS needs the
+path to the folder with the stored images of the
+spots to use as input. The output is a dataset
+with the image ID, the size of the spots, and
+the number of punches, both for each spot and for
+the sample.

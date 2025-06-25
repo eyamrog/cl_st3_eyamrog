@@ -1,0 +1,27 @@
+Across various cohorts of patients with nonmetastatic colon cancer and
+resected colorectal liver metastases, the percentage of patients with disease
+recurrence among those who had detectable ctDNA and did not
+receive adjuvant therapy has consistently been in excess of 80%.
+The time to recurrence in these studies was also short;
+all untreated ctDNA-positive patients in our previous study of stage
+II colon cancer had disease recurrence within 2 years. In
+this context, the percentage of patients with recurrence within 3
+years among the treated ctDNA-positive patients in the current trial
+(14%) is encouraging, notwithstanding the longer median time to chemotherapy
+commencement in the ctDNA-guided group of 11.9 weeks, as compared
+with the guidelines-recommended time of 8 weeks or less after
+surgery. However, more mature data are needed to rule out
+the possibility that the treatment of ctDNA-positive patients with chemotherapy
+may have delayed rather than prevented recurrence in some instances.
+It is conceivable that earlier initiation of chemotherapy for ctDNA-positive
+patients could lead to even more favorable outcomes. Because the
+turnaround time from the time a blood specimen is obtained
+to the time a ctDNA result is available is approximately
+2 weeks, it would be useful for future studies to
+consider analyzing blood specimens at week 4 and week 7
+after surgery (or later) sequentially instead of concurrently, with a
+positive week 4 ctDNA result triggering the start of adjuvant
+chemotherapy within the time frame recommended in guidelines. In addition,
+serial ctDNA analysis for patients who are ctDNA-negative after surgery
+may reduce the risk of undertreatment because of an initially
+false negative ctDNA result.

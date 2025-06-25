@@ -1,0 +1,5 @@
+The magnitude of bias due to selective data collection following
+delivery was assessed by comparing maternal characteristics for those with
+delivery data against those lacking such data. Data summaries (frequencies
+and percentages) were provided for all exposure and outcome groups,
+as well as potential confounding variables.

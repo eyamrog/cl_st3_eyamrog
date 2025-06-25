@@ -1,0 +1,12 @@
+The TaqPath 1-Step Multiplex Master Mix Kit was used to
+amplify nucleic acid according to the manufacturer’s instructions, using custom
+primer pools in 20-μl reactions. Primer pools of 150, 300
+and 500 nM and annealing temperatures of 58 and 60
+°C were all tested and compared to determine optimal conditions.
+The following thermal cycling conditions were used: (1) uracil-DNA glycosylase
+passive reference incubation at 25 °C for 2 min; (2)
+reverse transcription incubation at 50 °C for 15 min; (3)
+enzyme activation at 95 °C for 2 min; and (4)
+40 cycles at 95 °C for 3 s and 60
+°C for 30 s. Amplified samples were directly added into
+the detection reaction or stored at −20 °C until use.

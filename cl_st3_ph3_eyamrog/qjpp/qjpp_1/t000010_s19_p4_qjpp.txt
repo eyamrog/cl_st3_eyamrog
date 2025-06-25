@@ -1,0 +1,16 @@
+Results from time-to-event analysis of composite MACE-4 and individual components
+for the composite outcome included 142 participants with at least
+one MACE-4 (47 participants with cardiovascular deaths, 60 participants with
+myocardial infarction (MI) events, 30 participants with stroke events and
+14 participants with hospitalized unstable angina (HUA)) and are presented
+in Fig. 1 . Tirzepatide treatment was not associated with
+increased risk of the MACE-4 outcome (HR of 0.80 (95%
+CI, 0.57–1.11)) (Fig. 2 and Extended Data Fig. 1 ),
+cardiovascular death (HR = 0.90 (95% CI, 0.50–1.61)), MI (HR
+= 0.76 (95% CI, 0.45–1.28)), stroke (HR = 0.81 (95%
+CI, 0.39–1.68)) and HUA (HR = 0.46 (95% CI, 0.15–1.41)).
+The rate of MACE-4 was markedly different among the individual
+trials in line with the differing cardiovascular risk profiles of
+trial participants. The highest rate was observed in SURPASS-4, 3.52
+per 100 patient-years, with lower rates observed in the other
+trials, 0.26–1.13 per 100 patient-years (Supplementary Table 4 ).

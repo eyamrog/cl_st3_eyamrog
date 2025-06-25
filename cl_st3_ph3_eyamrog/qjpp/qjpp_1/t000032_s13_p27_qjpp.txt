@@ -1,0 +1,18 @@
+Recent work has focused on the quality and variability of
+data analyses published in various fields of study ( 23
+, 24 , 33 , 34 ), with some researchers
+claiming the existence of a “replication crisis" due to the
+wide variation among studies examining the same hypotheses ( 45
+). The causes of this variation among studies are myriad,
+but one large category includes various aspects of the data
+analysis. Because of the increasing complexity of data analyses, many
+choices and decisions must be made by analysts in the
+process of obtaining a result. With these increasing complexities, we
+also increase the risk of human error and bias in
+data analysis. These choices and decisions often have an unknown
+impact on the final estimates produced and therefore may or
+may not be recorded by the investigators ( 48 ).
+These “research degrees of freedom” allow investigators to unknowingly, or
+perhaps knowingly, steer data analyses in directions that may support
+specific hypotheses rather than represent all the evidence in the
+data ( 47 ).

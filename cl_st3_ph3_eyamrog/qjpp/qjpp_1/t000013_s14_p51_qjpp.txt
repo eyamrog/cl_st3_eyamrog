@@ -1,0 +1,15 @@
+All patient specimens from the MGH Clinical Microbiology Laboratory were
+initially reported to be positive for HCoV-HKU1, HCoV-NL63 and HMPV
+via BioFire FilmArray Respiratory Panel (RP2) (Biofire Diagnostics) or positive
+for SARS-CoV-2, FLUAV (H3), FLUBV and HRSV via Xpert Xpress
+SARS-CoV-2/Flu/RSV (Cepheid). SARS-CoV-2 was aliquoted as follows: 220 μl for
+testing using the RVP panel and 220 μl for testing
+using the TaqPath COVID-19 Combo Kit; remaining specimens were stored
+at −80 °C. All negative specimens were aliquoted as follows:
+220 μl for RVP panel testing, 220 μl for TaqPath
+COVID-19 Combo Kit testing and 400 μl for BioFire FilmArray
+Respiratory Panel (RP2) testing; remaining specimen was stored at −80
+°C. All other specimens were aliquoted as follows: 220 μl
+for RVP panel testing and 400 μl for BioFire FilmArray
+Respiratory Panel (RP2) testing; remaining specimen was stored at −80
+°C.

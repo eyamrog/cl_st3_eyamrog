@@ -1,0 +1,6 @@
+To cross-validate the scRNA-seq data, we performed FACS analysis of
+a number of osteomorph upregulated genes that encode cell-surface proteins
+( Figure S3 ). This confirmed that AXL, CD11b, CCR3,
+VCAM1, CD74, and CADM1 are expressed at higher levels on
+the surface of osteomorphs than macrophages. These markers may therefore
+be useful to identify osteomorphs in non-chimeric mice and humans.

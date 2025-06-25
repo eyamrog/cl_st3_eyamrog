@@ -1,0 +1,18 @@
+Since taxonomic profiles from North America and Europe were distinct
+from those collected in East Asia (with smaller clusters for
+other regions), we next examined variation as function of functional
+classification, climate, surface type, and year of sampling. Subclusters identified
+by UMAP of taxonomic profiles roughly corresponded to climate but
+not surface type ( Figures S3 A and S3B). Similar
+to taxonomy, dimensionality reduction of functional metabolic profiles showed a
+geospatial difference between regions ( Figure S3 C), indicating stratification
+of the metagenomes at both the functional and genus/species levels.
+These findings confirm and extend earlier analyses performed on a
+fraction of the MetaSUB data, which were run as a
+part of CAMDA Challenges ( camda.info ). To gauge the
+impact of time, we also compared variation in matched sites
+from cities with two consecutive years of sampling on the
+summer solstice (June 21). While taxonomic change within a city
+between 2016 and 2017 was usually less than the difference
+between cities ( Figure S3 D), this may become a
+more important factor over longer time periods.

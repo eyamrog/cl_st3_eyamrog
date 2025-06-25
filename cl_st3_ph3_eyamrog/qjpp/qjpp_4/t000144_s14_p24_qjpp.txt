@@ -1,0 +1,14 @@
+As discussed in Section 2.2.2 , it is possible that
+the effects we predicted in (P1-3) are specific to long-distance
+relationships based on reciprocity, not just recognition of friendship. Further,
+when considering whether same-community relationships are also predicted by chronic,
+positively autocorrelated, and/or patterned exposure to drought or excess precipitation,
+it is possible that any effect is specific to same-community
+relationships forged with non-consanguineal kin, not to relationships with both
+kin and nonkin individuals (Section 2.2.3 ). We modeled the
+effects of (P1-3) on each of these two outcomes as
+robustness checks, using a sequential model (described in Section 2.4.1
+) to model reciprocity-based, long-distance relationships, and a logistic model
+(described in Section 2.4.2 ) to model same-community relationships with
+non-consanguineal kin. All other model parameters and priors remained the
+same.

@@ -1,0 +1,13 @@
+Signaling by means of the SMAD2–SMAD3 pathway is constitutively increased
+in the bone marrow cells of patients with myelodysplastic syndromes
+and in disease models with ineffective erythropoiesis, including β-thalassemia. SMAD2
+and SMAD3 signaling exerts an inhibitory effect on red-cell maturation.
+Luspatercept is a recombinant fusion protein that binds select transforming
+growth factor β superfamily ligands to decrease SMAD2 and SMAD3
+signaling, thereby enabling erythroid maturation by means of late-stage erythroblast
+differentiation. In mouse models of myelodysplastic syndromes and β-thalassemia, luspatercept
+decreased SMAD2 and SMAD3 signaling, reduced erythroid hyperplasia, enhanced erythroid
+maturation, and increased hemoglobin levels. Luspatercept consists of a modified
+extracellular domain of the human activin receptor type IIB linked
+to the human IgG1 Fc domain, which eliminates activin A
+binding to minimize nonhematologic effects.

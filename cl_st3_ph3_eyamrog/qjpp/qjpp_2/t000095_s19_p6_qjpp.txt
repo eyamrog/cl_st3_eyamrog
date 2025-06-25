@@ -1,0 +1,14 @@
+We next evaluated whether this hACE2 mouse model can be
+used as a platform for testing the performance of therapeutics
+against SARS-CoV-2 infection. We designed an experiment to test whether
+mice surviving SARS-CoV-2 infection developed resistance to reinfection ( Figure
+4 A). Six mice were infected using identical viral doses
+via the same route of infection at the same time
+with the infection group. Upon infection, three mice died 6
+DPI. All the deceased mice were male, with total mortality
+of 50% (3/6). In general, there were two infection outcomes,
+those that lost more than 20% body weight from 4
+or 5 DPI and died eventually, or those that lost
+less than 10% of body weight and survived ( Figures
+4 B and 4C). Similarly, all deceased mice generated noticeable
+neurological symptoms before death.

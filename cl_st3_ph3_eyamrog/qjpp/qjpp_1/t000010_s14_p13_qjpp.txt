@@ -1,0 +1,14 @@
+Within each stratum (SURPASS-4 only and all other trials), baseline
+cardiovascular risk factors were well balanced among the pooled treatment
+groups (Supplementary Tables 6 and 7 ), although patients’ background
+of cardiovascular risk was different between strata (for example, 86.9%
+of participants for SURPASS-4 only and 10.6% of participants for
+all other trials had history of cardiovascular disease). Thus, the
+crude estimates of percentage were different (for example, 28.9% of
+participants in pooled tirzepatide and 47.2% of participants in pooled
+comparator had history of cardiovascular disease) (Supplementary Table 8 ).
+After adjustment, the estimates were balanced among the pooled treatment
+groups (for example, 35.1% of participants in pooled tirzepatide and
+34.4% of participants in pooled comparator had history of cardiovascular
+disease) (Supplementary Table 8 ). Adjusted estimates are the adequate
+values for comparing distribution among the pooled treatment groups.

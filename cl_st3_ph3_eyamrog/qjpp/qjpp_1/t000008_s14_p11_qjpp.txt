@@ -1,0 +1,22 @@
+An additional set of samples was digested with PS-DNase (Lucigen)
+to hydrolyze all linear forms of DNA and isolate circular
+DNA. It is important to note that the use of
+PS-DNase to eliminate linear genomes results in an underestimation of
+the amount of circular genomes because: (1) the DNA extraction
+process is likely to shear/linearize large concatemeric circular episomes, rendering
+them sensitive to PS-DNase digestion (the extent to which this
+occurs is unclear); and (2) PS-DNase has been shown to
+degrade 25–35% of circular plasmid DNA . Thus, the DNA
+measurements after PS-DNase treatment should be regarded as minimum numbers.
+The PS-DNase treatment nevertheless results in a very strong enrichment
+of circular species, with >99% degradation of genomic DNA targets
+(Supplementary Table 2 ), while most circular vector genomes survive.
+Before droplet generation, 200 ng of total DNA was incubated
+for 16 h at 37 °C with 50 units per
+µg of PS-DNase in 33 mM Tris-acetate (pH 7.5), 66
+mM potassium acetate, 10 mM magnesium acetate, 0.5 mM dithiothreitol
+and 1 mM adenosine triphosphate. PS-DNase was then inactivated with
+a 20-min incubation at 80 °C, and samples were diluted
+to 2 ng µl in 10 mM Tris-Cl (pH 8.5)
+and 0.05% Pluronic F-68. For the ddPCR reactions, 5 µl
+of dilute sample was used.

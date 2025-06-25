@@ -1,5 +1,0 @@
-QIAmp MinElute ccfDNA Mini Kit (QIAGEN) was used for cfDNA
-extraction from plasma samples following the manufacturer’s protocol. Quantity and
-quality of cfDNA were evaluated by the Qubit dsDNA HS
-Assay Kit (Thermo Fisher Scientific) and 2100 Bioanalyzer with a
-High-Sensitivity DNA Assay Kit (Agilent Technologies), respectively.

@@ -1,0 +1,10 @@
+Next, we sought to examine the orthogonality of these interactions
+when all three pairs are present in a single culture.
+To this end, the six cell lines were seeded together
+at identical concentrations and helixCAM expression was induced for 48
+h. Microscopic images of the resulting multicellular assemblies showed clear
+binding preferences between complementary helixCAM cells ( Figure 2 C,
+uninduced image in Figure S7 ). Individual aggregates composed primarily
+of pairs of complementary helixCAM cells, and, although larger aggregates
+were composed of more cell types, indicating some promiscuous binding,
+distinct sub-clusters were still evident.

@@ -1,0 +1,13 @@
+The affinity of the dual helixCAM-expressing “layer” lines to the
+previously made single helixCAM-expressing lines, as well as pairwise to
+each other, was tested by HCSRA ( Figure S18 )
+and confirmed to have the intended affinities. All five cell
+types were first induced to express helixCAM for 48 h.
+Core sg30 mCherry cells were then incubated with sg61 +
+sg88 eBFP2 cells in a 1:8 ratio for 12 h,
+followed by addition of subsequent layers of cells at a
+1:2 ratio (total prior cells:new cells), each followed by a
+12 h incubation ( Figure 5 A). The dense cell
+mixture was then allowed to settle briefly, and the supernatant
+was removed along with unbound cells. The precipitated cellular aggregates
+were then imaged using widefield and confocal microscopy.

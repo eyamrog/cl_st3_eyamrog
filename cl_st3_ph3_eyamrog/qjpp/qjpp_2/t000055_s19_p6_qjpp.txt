@@ -1,0 +1,22 @@
+When assessing the incidence and R t for pre-existing variants
+and the B.1.1.7 variant in the three regions in England
+with the highest proportion of infections with the B.1.1.7 variant,
+the R t of the B.1.1.7 variant was consistently greater
+than that of other variants ( figure 4 ). The
+mean additive increase in R t for the B.1.1.7 variant
+was 0·34 (95% CI 0·02–0·66), and the mean multiplicative increase
+was 1·35 (1·02–1·69). England exited its second national lockdown on
+Dec 2, 2020, leading to a change in behaviour and
+R t . When considering only the period after the
+end of the second lockdown, we found a mean additive
+increase in R t of 0·28 (0·01–0·61) and a mean
+multiplicative increase of 1·28 (1·02–1·61) for the B.1.1.7 variant. Conducting
+the same analysis using SGTF data, limited to the period
+after Dec 1, 2020, when at least 95% of all
+SGTF cases were attributable to B.1.1.7, we found the R
+t of the B.1.1.7 variant to have a mean additive
+increase of 0·26 (0·15–0·37) and a mean multiplicative increase of
+1·25 (1·17–1·34; appendix p 5 ). These data were provided
+weekly, and linear interpolation was used to obtain daily estimates,
+leading to smoother estimates for variant-specific incidence and R t
+.

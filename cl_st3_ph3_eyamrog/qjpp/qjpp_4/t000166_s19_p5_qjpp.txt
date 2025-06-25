@@ -1,6 +1,0 @@
-Group means are shown in Tables 4 and 5 .
-Results were analyzed through a series of robust ANOVAs with
-the median method. All the p values of statistical comparisons
-are shown in Tables S1 and S2 , Supporting Information.
-Box and whiskers plots of the results split by gender
-and grade are shown in Figure 2

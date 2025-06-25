@@ -1,8 +1,0 @@
-In 2015, we and others reported that mutant KRAS clones,
-which emerge in blood during EGFR blockade, decline upon withdrawal
-of anti-EGFR antibodies, indicating that clonal evolution continues beyond clinical
-progression . Interestingly, RAS and EGFR ECD clones have been
-reported to decay in ctDNA with a half-life of 3.7
-months and 4.7 months, respectively . The decay of KRAS
-mutations in blood upon anti-EGFR antibody withdrawal is an indication
-of clonal evolution during therapy .

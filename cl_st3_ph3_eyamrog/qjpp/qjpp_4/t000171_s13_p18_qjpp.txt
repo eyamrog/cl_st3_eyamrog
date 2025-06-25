@@ -1,0 +1,8 @@
+Point-of-care devices are typically small, portable devices that provide immediate
+results. When available, point-of care devices have a number of
+advantages over other approaches since they eliminate the need for
+sample storage and transport and allow the researcher to provide
+immediate results to participants and local health professionals. To date,
+however, point-of-care devices are available for only a very narrow
+range of immune markers, and some of these devices have
+significant drawbacks.

@@ -1,0 +1,9 @@
+Cystic fibrosis results from biallelic mutations in the CFTR gene.
+More than 1000 pathogenic CFTR mutations have been identified. Processing
+and trafficking mutations (e.g., Phe508del , the most common CFTR
+mutation) reduce the quantity of CFTR on the cell surface,
+and channel-gating defects (e.g., Gly551Asp and other CFTR gating mutations)
+limit anion transport. CFTR mutations that result in lesser impairment
+of CFTR protein activity, collectively defined as residual function mutations,
+have also been identified. Most patients with gating or residual
+function CFTR mutations are heterozygous for the Phe508del mutation.

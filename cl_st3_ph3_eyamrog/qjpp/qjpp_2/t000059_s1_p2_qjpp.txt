@@ -1,0 +1,10 @@
+Method: Using data from GBD 2019, we estimated the burden
+of falls among people aged 60 years and older by
+sex and age group in terms of incidence, mortality, and
+disability-adjusted life-year (DALY) rates and assessed these indicators at the
+subnational level in 31 geographical units (hereafter called provinces). We
+investigated the overall trend in the burden of falls across
+these 31 provinces from 1990 to 2019, and assessed the
+change in the burden of falls by sex, age group
+(60–64, 65–69, 70–74, 75–79, and ≥80 years), and province between
+1990 and 2019.

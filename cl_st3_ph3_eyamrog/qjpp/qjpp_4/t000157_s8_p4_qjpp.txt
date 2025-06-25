@@ -1,0 +1,15 @@
+There is no trivial definition of “normal growth.” We decided
+to approach this question from an evolutionary perspective. We revisited
+data on human growth of the last 10 000 years
+(Rosenstock et al., 2019 ) including information on growth in
+the leading social strata, data on growth in the wealthier
+social classes of contemporary LMIC (Bommer et al., 2019 ;
+Da Silva et al., 2018 ; Wong et al., 2017
+), and add a reanalysis of growth data obtained in
+recent studies in clinically healthy Indonesian school children with a
+stunting prevalence of up to 50% (Scheffler et al., 2019
+; Scheffler et al., 2021 ). We consider a “natural
+state of human height” as that state that is most
+frequently observed during recent evolution, and an exceptional capability for
+phenotypic plasticity in body height that is characteristic for the
+human species.

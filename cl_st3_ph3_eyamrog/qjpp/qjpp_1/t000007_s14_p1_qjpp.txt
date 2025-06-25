@@ -1,0 +1,17 @@
+Leftover RNA from nasopharyngeal swabs was obtained from six chronically
+infected individuals across several different timepoints for each patient (Supplementary
+Table 1 ). Sequences from patient 2 were available from
+our previous study ; patients 1 and 3 were also
+previously sequenced , but here we added on additional timepoints.
+All patients were positive via COVID-19 RT–qPCR tests of SARS-CoV-2
+for a period longer than 3 weeks, and all were
+immunocompromised. All relevant clinical data were collected and are summarized
+in Table 1 and Supplementary Tables 2 and 3 .
+All samples underwent whole-genome SARS-CoV-2 sequencing using the V3 ARTIC
+protocol ( https://artic.network/ncov-2019 ), and the samples were sequenced using
+Illumina MiSeq 250-cycle V2 kits at the Technion Genomic Center
+in Israel. This study was approved by the TASMC Helsinki
+committee (approval no. 1042-20-TLV) and by the Tel Aviv University
+institutional review board (approval no. 0004435-1), with an exemption from
+informed consent based on the use of retrospective fully anonymized
+samples and data.

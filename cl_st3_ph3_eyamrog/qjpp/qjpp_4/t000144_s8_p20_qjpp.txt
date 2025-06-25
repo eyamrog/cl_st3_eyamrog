@@ -1,0 +1,5 @@
+(P3) Participants who have experienced a greater number of (a)
+unusually dry months or (b) unusually wet months, scaled by
+the total number of months for which we have data
+on their precipitation exposure, will report a greater number of
+friendships with people who live outside their community.

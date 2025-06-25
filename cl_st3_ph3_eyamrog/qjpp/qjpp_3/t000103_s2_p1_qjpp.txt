@@ -1,0 +1,22 @@
+We thank J.D. Laughlin for performing Octet HTX experiments. We
+thank P. Gilchuk, C. Slaughter, M. Vogt, and S. Zost
+at Vanderbilt for helpful discussions and training. We thank D.
+Yousif, M. Jensen, N. Murphy, M. Goff, I. Kovach, J.
+Rodriguez, C. Gainza, W. Reichard, M. Majedi, J. Reidy, A.
+Trivette, and R. Troseth for technical support. We thank M.
+Leksell, M. Mayo, K. Moton, T. Martin, V. Morris, A.
+Bunnell, and A. Jordan for administrative assistance and R. Irving
+for lab management. The University of Michigan Cryo-EM Facility has
+received support from the U-M Life Sciences Institute and the
+U-M Biosciences Initiative. We acknowledge M. Su, A. Bondy, L.
+Keopping, C. Lilienthal, and B. Battey for U-M cryo-EM technical
+and IT support. Cryo-EM computation done at the LSI was
+supported by NIH (S10OD020011). EM data collections of EEEV VLP
+and EEEV VLP:rEEEV-143 Fab were conducted at the Center for
+Structural Biology Cryo-EM facility at Vanderbilt University. L.E.W. was supported
+by NIH (T32 HL069765 and F31 AI145189). This project received
+support from the U.S. Defense Threat Reduction Agency (HDTRA1-13-1-0034 to
+J.E.C. and HDTRA1-15-1-0047 to W.B.K.), NIH (U19 AI142790 to J.E.C.
+and M.S.D. and R01 AI095436 to W.B.K.), and by CTSA
+UL1 TR002243 from the U.S. NCATS. The graphical abstract was
+made in part with tools at Biorender.com.

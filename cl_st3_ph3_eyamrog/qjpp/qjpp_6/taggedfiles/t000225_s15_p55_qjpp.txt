@@ -1,17 +1,0 @@
-???? ^?+clp+++=EXTRAWORD
-???? ^?+clp+++=EXTRAWORD
-???? ^?+clp+++=EXTRAWORD
-???? ^?+clp+++=EXTRAWORD
-Age ^nn++++=Age
-range ^nn++++=range
-Late ^jj+atrb+++=Late
-Pliocene ^np+++??+=Pliocene
-To ^in++++=to
-Early ^jj+atrb+++=Early
-Pleistocene ^np++++=Pleistocene
- ^zz++++=(
-Rabeder ^np++++=Rabeder,
- ^zz++++=EXTRAWORD
-981 ^cd+date+++=1981
-	 ^zz++++=).
- ^zz++++=EXTRAWORD

@@ -1,0 +1,7 @@
+The view of data sharing as inherently valuable is not
+without its challenges. Indeed, stripping data from their original context
+can be problematic and lead to inappropriate off-label reuse by
+others. Stodden has argued that data have value only in
+their explicit connection to the knowledge that they produce and
+that we must be careful to preserve the connections between
+the data and the knowledge they generate ( 49 ).

@@ -1,0 +1,15 @@
+Large-scale human genetics is an increasingly powerful source of data
+for the discovery and validation of therapeutic targets in humans
+. pLoF variants, predicted to largely or entirely abolish the
+function of affected alleles, are a particularly informative class of
+genetic variation. Such variants are natural models for lifelong organism-wide
+inhibition of the target gene and can provide information about
+both the efficacy and safety of a candidate target .
+However, pLoF variants are rare in human populations and are
+also enriched for both sequencing and annotation artefacts . As
+such, leveraging pLoF variation in drug target assessment typically requires
+very large collections of genetically and phenotypically characterized individuals, combined
+with deep curation of the target gene and candidate variants
+. Although previous studies of pLoF variants in LRRK2 have
+found no association with risk of PD , no study
+has assessed their broader phenotypic consequences.

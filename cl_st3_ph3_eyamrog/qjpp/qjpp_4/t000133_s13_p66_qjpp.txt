@@ -1,0 +1,16 @@
+Brief “screener” items can provide alternatives to multiple-item scales as
+an effective and efficient means to capture a summary assessment
+of household water insecurity. In some research, a one- or
+two-question screener might be sufficient to summarize basic issues of
+low water quantity and quality. For example, in Wutich and
+Brewis' ( 2019 ) research, in which water insecurity is
+a minor rather than focal variable, they simply ask: (a)
+In the last month, was there a time when your
+household did not have enough water for drinking, cooking, bathing,
+handwashing, and other household tasks? [quantity] (b) In the last
+month, would you describe the water your household used as
+acceptable quality? [quality] While a water insecurity screener provides less
+precise measurement than scales, it is easily deployed cross-culturally and
+has a much lower respondent burden than a scale if
+detailed water insecurity information is not required (eg, is included
+in a study as a covariate).

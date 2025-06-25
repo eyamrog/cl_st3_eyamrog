@@ -1,0 +1,19 @@
+Reproducible research comes with a few side benefits. In addition
+to being able to fully understand the process by which
+the results were obtained, readers also have access to the
+data and the computer code, both of which are valuable
+to the extent that they can be reused or repurposed
+for future studies or research. Some have suggested that making
+data and computer code available to others is a per
+se goal of reproducible research because both can be built
+on and leveraged to further scientific knowledge ( 17 ).
+However, such an interpretation is an extension of the original
+ideas of reproducibility. The former view saw data and code
+as a medium for communicating ideas, whereas the latter view
+sees data and code essentially as products or digital research
+objects to be used by others ( 48 ). While
+converting a data set into a data product and packaging
+computer code into usable software may seem like nominal tasks,
+given that the underlying data and code already exist, there
+are non-negligible costs associated with the development, maintenance, and support
+of these products.

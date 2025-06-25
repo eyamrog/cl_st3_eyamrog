@@ -1,0 +1,9 @@
+The helixCAM platform offers a simple but powerful way to
+control cell-cell interactions, a ubiquitous feature found from prokaryotes to
+eukaryotes. Beyond the set of five helixCAM pairs characterized in
+this work, there are likely many more orthogonal helixCAMs to
+be discovered that further expand potential applications. We believe that
+the toolkit of helixCAMs presented here will assist biologists across
+multiple fields to better understand the roles cell interactions play
+in various contexts, as well as enable engineers to better
+control these interactions for therapeutic applications.

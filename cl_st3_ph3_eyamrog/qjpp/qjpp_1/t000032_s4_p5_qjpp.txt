@@ -1,0 +1,9 @@
+Unfortunately, funding models for scientific research are aligned with the
+mechanism of paper publication, where one can definitively mark the
+end of a project (and also the end of the
+funding). However, with data and code, there is often no
+specific end point because other investigators may reuse the data
+or code for years into the future. Term-based project funding,
+which is the structure of almost all research funding, is
+simply not designed to provide support for maintaining materials on
+an uncertain timeline.

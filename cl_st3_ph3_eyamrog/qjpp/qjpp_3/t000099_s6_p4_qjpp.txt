@@ -1,0 +1,22 @@
+As our transcriptomic analyses predicted distinct functional properties for each
+examined tissue, we performed functional validation of these functions in
+the lungs and intestine, as neutrophils from this organ featured
+signatures that consistently suggested a role in angiogenesis. A remarkable
+finding was that the predicted transcriptional features of tissue neutrophils
+appeared to generally support housekeeping functions of the tissue from
+which they were extracted, such as hematopoietic homeostasis in the
+marrow or epithelial growth in the skin, which will need
+further validation. Another unexpected finding was that the migratory and
+immune functions classically ascribed to neutrophils were largely enriched in
+the blood and BM, the source for virtually every functional
+study on neutrophils to date. We therefore expect that analyses
+of neutrophils in other tissues will uncover new functions for
+organ homeostasis, a notion that we assimilate to the division
+of tasks between monocytes for immune-surveillance and resident macrophages for
+the support of organ homeostasis ( Ginhoux and Guilliams, 2016
+23. Ginhoux, F. ∙ Guilliams, M. Tissue-Resident Macrophage Ontogeny and
+Homeostasis Immunity. 2016; 44 :439-449 Full Text Full Text (PDF)
+Scopus (1176) PubMed Google Scholar ; Wynn et al., 2013
+70. Wynn, T.A. ∙ Chawla, A. ∙ Pollard, J.W. Macrophage
+biology in development, homeostasis and disease Nature. 2013; 496 :445-455
+Crossref Scopus (3383) PubMed Google Scholar ).

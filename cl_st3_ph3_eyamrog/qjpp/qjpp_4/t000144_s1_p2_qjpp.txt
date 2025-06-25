@@ -1,0 +1,5 @@
+Methods: Data on individuals' migration histories, social relationships, and other
+relevant variables were collected in 2017 (n = 119). Precipitation
+data were obtained from the US National Center for Atmospheric
+Research, allowing us to estimate participants' exposure to drought and
+excess precipitation.

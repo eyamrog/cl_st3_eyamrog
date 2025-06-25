@@ -1,0 +1,15 @@
+Propensity score matching was used to identify cases (with self-harm)
+and controls (without self-harm) for analyses on cause-specific mortality risk
+following self-harm. We identified 5,683 individuals with incident self-harm episodes
+and 18,407 matched controls (Extended Data Fig. 2 ). Adults
+who harmed themselves were 6.8 times more likely to die
+of unnatural causes of death than controls within 12 months
+of self-harm (HR, 6.8; CI, 4.3–10.7). The risk of unnatural
+death after 12 months was markedly lower (HR, 2.0; CI,
+1.5–2.7) (Fig. 5a and Supplementary Table 8 ). Additionally, we
+analyzed suicides alone and found that individuals who self-harm were
+25 times more likely to die of suicide (HR, 25.7;
+CI, 10.0–66.2). Cumulative incidence curves also demonstrated that the self-harm
+group had an increased risk of dying from unnatural deaths,
+after adjusting for competing risk of natural deaths (Fig. 5b
+).

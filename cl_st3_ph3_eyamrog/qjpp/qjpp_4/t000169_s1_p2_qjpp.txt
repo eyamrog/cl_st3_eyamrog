@@ -1,0 +1,8 @@
+Methods: SHARE, a pan-European study, collected 24 000 DBS samples
+in 12 countries in its sixth wave. Our new algorithm
+uses photographs of the DBS samples to calculate the number
+of pixels of the blood-covered area to measure the spot
+sizes accurately. We ran regression models to examine the association
+of spot size and seven DBS analytes. We then compared
+the application of our new spot-size measures to common spot-size
+estimation.

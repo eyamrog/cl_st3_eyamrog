@@ -1,0 +1,21 @@
+As a cost-effective and easily manipulated animal model, mice are
+widely used in biomedical research. Various genetically modified mice have
+been generated to meet the demands of different projects. Wild-type
+mice have low levels of ACE2 expression, which limits their
+use as an infection model for SARSr-CoVs, which use ACE2
+as a receptor. Previous studies indicated that HFH4-hACE2 mice are
+susceptible to SARS-CoV and bat SARSr-CoV WIV1 infection ( Menachery
+et al., 2016 20. Menachery, V.D. ∙ Yount, Jr., B.L.
+∙ Sims, A.C. ... SARS-like WIV1-CoV poised for human emergence
+Proc. Natl. Acad. Sci. USA. 2016; 113 :3048-3053 Crossref Scopus
+(293) PubMed Google Scholar ), suggesting that this model can
+be used to evaluate the pathogenicity of all SARSr-CoVs using
+ACE2 as a receptor. In this study, we successfully established
+a SARS-CoV-2 infection model using these transgenic mice. In our
+results, the infected mice had two different outcomes, recovery and
+death. Significant weight loss was only observed in dead and
+severely diseased mice. Thus, weight loss could serve as a
+good indicator for monitoring disease progression. Our results provide strong
+evidence that SARS-CoV-2 infection could cause typical interstitial pneumonia in
+hACE2-expressing mice and that progeny virus could be re-isolated from
+diseased animal tissues.

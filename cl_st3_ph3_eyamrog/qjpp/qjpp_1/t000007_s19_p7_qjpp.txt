@@ -1,0 +1,16 @@
+The most striking similarity between chronic infections and VOC LDMs
+was observed along the S protein and, in particular, at
+the regions that correspond to the N-terminal domain (NTD) (genomic
+nucleotides 21,598–22,472) and the receptor-binding domain (RBD) (genomic nucleotides 22,517–23,183).
+Several mutations at the RBD have been shown to enhance
+affinity to the ACE2 receptor and allow for better replication
+, whereas other mutations, both at RBD and NTD, are
+known to enhance antibody evasion . The most commonly observed
+substitutions in chronic infections were in the S protein: E484K/Q
+and various deletions in the region spanning the NTD supersite,
+particularly amino acids 140–145, all shown previously to confer antibody
+evasion . Chronic infections shared the enrichment of ORF3a/ORF7a/ORF8 mutations
+with the ‘neutral’ set but lacked an enrichment across most
+of the N protein. Overall, it seems that mutations in
+chronic infections are predictive of LDMs of VOCs, as was
+noted previously .

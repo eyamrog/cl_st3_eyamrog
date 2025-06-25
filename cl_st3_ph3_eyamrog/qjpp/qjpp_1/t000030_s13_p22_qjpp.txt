@@ -1,0 +1,8 @@
+Broadly speaking, two general approaches have been used to make
+forecasts in these studies. One approach uses statistical and phenomenological
+methods, such as time series models, generalized linear models, classification
+algorithms, regression models, and Bayesian networks. The second approach uses
+mechanistic models such as compartmental models and agent-based models. While
+mechanistic approaches can sometimes better account for nonlinear infection dynamics,
+they also require a much larger number of parameters and
+assumptions.

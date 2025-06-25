@@ -1,0 +1,17 @@
+The primary outcome analysis included an estimation of the cumulative
+risk of major adverse cardiovascular events and a comparison of
+randomization groups with the use of the method of Fine
+and Gray. In this analysis, death from noncardiovascular causes was
+taken into account as a competing risk, and proportionality was
+tested (and affirmed) by including in the model a time-dependent
+covariate with two-way interaction of the randomization group. We analyzed
+secondary outcomes using absolute frequencies and percentages in the description
+of subgroups and calculated hazard ratios and 95% confidence intervals
+in the comparisons of groups. Event rates were calculated in
+percentages as the ratio of the number of events to
+the person-years at risk for the event. Because a plan
+to adjust for multiplicity of inferences was not prespecified, all
+secondary outcomes are reported as point estimates of effects with
+95% confidence intervals. The widths of these intervals were not
+adjusted for multiple comparisons, and inferences drawn from these intervals
+may not be reproducible.

@@ -1,0 +1,5 @@
+The temporal resolution of the measurement is determined by how
+rapidly the subsequent acquisitions of the same area (or line)
+are performed. In our setup, taking advantage of resonant scanners
+operating at 12 kHz, we could reach a temporal resolution
+of about 80 μs.

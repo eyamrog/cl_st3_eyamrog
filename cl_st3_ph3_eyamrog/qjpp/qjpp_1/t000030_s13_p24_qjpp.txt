@@ -1,0 +1,18 @@
+In a typical mechanistic approach, influenza activity has to somehow
+be translated to a measure of incidence, with additional assumptions
+about population immunity. Transmissibility can then be estimated in the
+constructed model, accounting for covariates. The probabilistic forecast distributions allowed
+for a quantitative evaluation of accuracy, which can generally be
+used to compare and communicate forecast performance. These models have
+their own advantages and challenges. For example, in the first
+and second years of the CDC challenges, ∼56% of proposed
+models were statistical models and 44% were mechanistic models. Forecast
+accuracy of these models varied widely even evaluated for the
+same influenza season. Among the proposed models, a statistical model
+and a mechanistic model were found to have the most
+accurate forecasts for peak timing and seasonal targets ( 8
+, 10 ). The statistical model used ILINet and crowdsourced
+data to produce many different influenza forecasts and finally to
+generate an aggregate forecast. The mechanistic approach used a compartmental
+model with ILINet and specific humidity data, combined with three
+different ensemble filter algorithms (12 model–filter combinations).

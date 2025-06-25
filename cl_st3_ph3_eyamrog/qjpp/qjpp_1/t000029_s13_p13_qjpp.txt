@@ -1,0 +1,19 @@
+An area of concern that mars the optimism surrounding mHealth
+is the issue of equity: who gains access and reaps
+the benefits. Groups with greater access to resources (technical as
+well as financial capital) are more likely to be early
+adopters of new technologies ( 24 ). However, a recent
+example is the emerging transition to electric private vehicles in
+some LMICs ( 44 ). To ensure that the benefits
+to the environment are realized beyond profits for the car
+manufacturer, the diffusion of innovation is relevant; these drivers extend
+beyond cost and acknowledge intrinsic values and perceptions of choice
+( 44 ). Early iterations of mHealth were designed primarily
+for reminders or to promote greater access to in-the-moment support
+for behavior change. The imperative is that if delivered at
+scale, one-off, face-to-face interventions can be offered via mobile technologies
+(predominantly SMS or via social media), providing savings back to
+the health system ( 22 ). In essence, mHealth in
+the simplest form (text message) provides relatively economical service delivery,
+at scale, with the benefits of tailoring and potential real-time
+accountability.

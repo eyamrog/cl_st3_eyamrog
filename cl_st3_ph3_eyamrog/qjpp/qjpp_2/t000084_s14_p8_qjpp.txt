@@ -1,0 +1,15 @@
+We determined that the enrollment of 3546 patients would provide
+the trial with 80% power to detect a relative reduction
+in the annual risk of the primary outcome from 1.4%
+in the ICA group to 0.8% in the CT group,
+assuming an annual loss to follow-up of 5%. We used
+a sequential design in which one interim analysis was performed
+after the occurrence of 50 major adverse cardiovascular events. The
+two-sided P value was set at 0.05, with levels of
+0.0052 for the interim analysis and 0.048 for the final
+analysis, according to the O’Brien–Fleming method. After review and approval
+by the European Commission, the enrollment period was extended from
+the planned 2 years to 3.5 years to enable the
+recruitment of the planned number of patients, and the median
+follow-up period was extended from 3 years to 3.5 years
+to maintain statistical power.

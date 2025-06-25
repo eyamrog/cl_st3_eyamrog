@@ -1,0 +1,2 @@
+The TSS was achieved by summing all eight severity items
+(range 0–80).

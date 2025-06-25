@@ -1,0 +1,22 @@
+We performed Cox proportional hazards regression to determine both the
+risk of self-harm after psychiatric disorder diagnosis and the risk
+of suicide and other causes of death following self-harm. Cox
+regression was performed on matched cohorts and further adjusted for
+noncancer comorbidities, cancer treatment and the presence of additional psychiatric
+disorders. Proportional hazards assumption was evaluated using the Schoenfeld residuals.
+We also estimated the cumulative incidence for all-cause mortality after
+psychiatric disorder diagnosis and all-cause and cause-specific mortality after self-harm.
+Analyses on specific causes of death were adjusted for the
+competing risk of dying from other causes. YLL refers to
+the number of years lost in patients with a given
+disease and was estimated using the R package lillies ,
+which was validated by other studies . We calculated excess
+YLL as the average YLL (in years) that patients with
+psychiatric disorders experience from the time of diagnosis in excess
+to those experienced by the control population (i.e., individuals without
+psychiatric disorders) of the same age. Excess YLL was estimated
+based on the age of psychiatric disorder onset at ages
+30, 40, 50, 60 and 70 years. Analyses were performed
+using R (version 3.6.3) with the following packages: tidyverse, tableone,
+lillies, reshape, splines, survival, survminer, etm, mstate, cmprsk, DataCombine, data.table,
+ggsci and pals.

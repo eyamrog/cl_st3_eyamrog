@@ -1,0 +1,15 @@
+Many years of data are available from the CDC forecasting
+challenge, allowing some general conclusions on the performance of different
+types of models ( 8 , 10 ). In earlier
+years, the model performances for this forecasting challenge were evaluated
+relative to the results of the ILINet benchmark. The performance
+of the models submitted for the 2014/2015 influenza season presented
+a wide variation in accuracy; the most accurate forecast models
+(mechanistic and statistical) used data on ILINet, specific humidity, and
+crowdsourced forecasts in US regions. For the most recent influenza
+seasons, the submitted models provided more accurate predictions than those
+using ILINet's historical baseline ( 70 ); therefore, the CDC
+proposed to implement those top-performing models for the FluSight system.
+Probabilistic forecast distributions allow for a quantitative evaluation of accuracy,
+which can be used to compare and communicate forecast performance
+( 10 ).

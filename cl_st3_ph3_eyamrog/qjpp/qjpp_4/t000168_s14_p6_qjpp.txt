@@ -1,0 +1,7 @@
+The importance of the predictors (factors) can be determined by
+computing the reduction in variance of the target attributable to
+each predictor, via a sensitivity analysis, using the Variance Based
+Method (Salteli et al., 2004 ). This predictor importance algorithm
+can be used in all the techniques considered in this
+study: Neural Networks, CHAID, Logistic, Discriminant and Bayesian Networks (IBM
+Corporation, 2016 ).

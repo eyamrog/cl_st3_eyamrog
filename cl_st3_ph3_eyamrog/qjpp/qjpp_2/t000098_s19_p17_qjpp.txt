@@ -1,0 +1,15 @@
+To demonstrate that PDEs shape local PKA gradients, we used
+full-length PDE2A3. The long N terminus of PDE2A3 should separate
+the catalytic center of the PDE from N-terminally fused sensors
+by several nanometers ( Pandit et al., 2009 33. Pandit,
+J. ∙ Forman, M.D. ∙ Fennell, K.F. ... Mechanism for
+the allosteric regulation of phosphodiesterase 2A deduced from the X-ray
+structure of a near full-length construct Proc. Natl. Acad. Sci.
+USA. 2009; 106 :18225-18230 Crossref Scopus (128) PubMed Google Scholar
+). In fact, this construct allowed the respective sensors to
+again detect isoproterenol-stimulated cAMP levels ( Figure 6 E) or
+PKA activity ( Figure 6 F). Interestingly, the constructs detected
+a comparable relative level of cAMP and of PKA activity
+( Figure 6 G), strongly suggesting that the amount of
+cAMP at a given location in the cell dictates the
+degree of local PKA activity.

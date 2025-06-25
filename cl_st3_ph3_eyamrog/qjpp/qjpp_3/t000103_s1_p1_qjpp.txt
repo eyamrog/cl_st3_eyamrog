@@ -1,0 +1,15 @@
+Eastern equine encephalitis virus (EEEV) is one of the most
+virulent viruses endemic to North America. No licensed vaccines or
+antiviral therapeutics are available to combat this infection, which has
+recently shown an increase in human cases. Here, we characterize
+human monoclonal antibodies (mAbs) isolated from a survivor of natural
+EEEV infection with potent (<20 pM) inhibitory activity of EEEV.
+Cryo-electron microscopy reconstructions of two highly neutralizing mAbs, EEEV-33 and
+EEEV-143, were solved in complex with chimeric Sindbis/EEEV virions to
+7.2 Å and 8.3 Å, respectively. The mAbs recognize two
+distinct antigenic sites that are critical for inhibiting viral entry
+into cells. EEEV-33 and EEEV-143 protect against disease following stringent
+lethal aerosol challenge of mice with highly pathogenic EEEV. These
+studies provide insight into the molecular basis for the neutralizing
+human antibody response against EEEV and can facilitate development of
+vaccines and candidate antibody therapeutics.

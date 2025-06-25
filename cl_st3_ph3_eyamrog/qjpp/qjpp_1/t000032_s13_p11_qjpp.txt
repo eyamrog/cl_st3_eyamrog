@@ -1,0 +1,16 @@
+Beyond communicating the details of an investigation, what are the
+goals of making research reproducible? The stated goals achieved by
+making research reproducible have evolved over time since the early
+1990s and have become somewhat more elusive. The original goal
+was to better reveal the process of doing the research.
+Computational research added a new complexity in the form of
+software code and high-dimensional data sets, and that complexity made
+understanding the research process more difficult for a reader to
+infer. Therefore, the solution was to simply publish every step
+in the process along with the data. Claerbout and colleagues
+were concerned that others (including themselves!) would not be able
+to learn from what they had done if they did
+not have the details. The easiest way to make this
+information available was via the literal computer code that executed
+the steps. Any less precise format could risk omitting a
+key step that affected downstream results ( 21 ).

@@ -1,0 +1,11 @@
+After in silico analysis, we evaluated RVP specificity experimentally. We
+computationally designed position-matched synthetic gene fragments from closely related viral
+species, including both human- and nonhuman-infecting species. When evaluating these
+gene fragments, only SARS-CoV-2 and bat coronavirus RaTG13 showed cross-reactivity
+(Fig. 3c and Extended Data Fig. 6 ). However, this
+cross-reactivity was expected because the RaTG13 amplicon evaluated shares 100%
+nucleotide identity with the SARS-CoV-2 amplicon in our assay. We
+did not observe any cross-reactivity when using viral seed stocks,
+genomic RNA or synthetic RNA from ATCC or BEI (Supplementary
+Table 10 ). Therefore, we found the RVP to have
+100% analytical specificity.

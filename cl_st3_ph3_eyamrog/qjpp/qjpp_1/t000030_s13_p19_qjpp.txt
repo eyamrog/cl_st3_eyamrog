@@ -1,0 +1,24 @@
+Influenza forecasting, as illustrated in Figure 1 , requires predictive
+models along with influenza surveillance data. The advances in computational
+facilities and data assimilation techniques allow complex algorithms and models
+to be constructed and applied. Models are usually trained on
+data from a training period and used for predicting future
+events (forecast outcomes) during a forecasting period. The most accurate
+forecasts would generally, although perhaps not always, be made by
+a model that has good predictive performance. The forecast outputs
+are of two types: temporal outcomes (e.g., peak timing, epidemic
+duration) and intensity outcomes (e.g., peak magnitude, attack rates). One
+early study was reported by Longini et al. ( 49
+), who evaluated ILI activity and the peak timing of
+the 1968/1969 Hong Kong influenza pandemic. Before the 2009 influenza
+pandemic, several notable works were published on forecasting influenza activity
+( 1 , 62 , 83 ), peak timing (
+1 , 38 , 81 ), and peak magnitude and
+epidemic duration ( 1 , 38 ). The number of
+studies increased significantly after the 2009 influenza pandemic, highlighting the
+increased recognition and importance given to preparedness and public health
+planning strategies for influenza. The models in these studies have
+their own advantages and limitations, which are reviewed extensively by
+Nsoesie et al. ( 56 ) and Chretien et al.
+( 24 ), who also highlighted the prospective opportunities in
+the area of influenza forecasting.

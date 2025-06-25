@@ -1,0 +1,22 @@
+From 2002 to 2019, a decline in life expectancy was
+more probable than an increase in 124 mostly urban MSOAs
+of 6791 (1·8% of all MSOAs) for women, with posterior
+probabilities of greater than 80% that these were true declines
+in 34 of these. The largest estimated decline of 3·0
+years (95% CrI 0·9–5·3; posterior probability of the estimated decline
+being a true decline 99·6%) occurred in an MSOA in
+Leeds ( figure 3B, C ). Elsewhere, median posterior change
+was positive, ranging from less than 1 year in 408
+MSOAs to more than 7 years in 63 MSOAs. Posterior
+probability of an increase in male life expectancy was more
+probable than a decrease in all but one MSOA in
+Blackpool, in which life expectancy changed by −0·4 years (−2·3
+to 1·6; posterior probability of being a true decline 64%).
+For the other MSOAs, the increase ranged from less than
+1 year in 31 MSOAs to more than 7 years
+in 114 MSOAs. The largest increases in female and male
+life expectancies were seen in some MSOAs in and around
+London (eg, in the London Borough of Camden). In 5133
+(75·6%) MSOAs, male life expectancy increased more than female life
+expectancy ( figure 4 ), leading to a closing of
+the life expectancy gap between female and male sexes.

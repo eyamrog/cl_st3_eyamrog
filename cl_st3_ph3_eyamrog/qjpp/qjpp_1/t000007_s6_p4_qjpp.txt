@@ -1,0 +1,18 @@
+We first consider the option that chronic infections harbor non-infectious
+virus. In 12 of 27 patients, evidence for viral replication
+was obtained in the form of culturable virus or in
+the form of PCR positive for subgenomic RNA. In an
+additional eight patients, we noted either consistently high VLs (Ct
+values around 20 or lower) or a negative difference of
+ten cycles between one PCR outcome and a later one
+(Supplementary Table 6 ). In other words, in the latter
+scenario, VL increased substantially across time in these patients, strongly
+suggestive of active viral replication. In line with this, we
+did not find evidence for mutations associated with defective virus,
+such as premature stop codons, frameshifts or marked deletions outside
+of the S protein (although in-frame deletions were noted in
+two patients, in ORF1a; Supplementary Table 1 ). Thus, to
+summarize, although we cannot completely rule out the presence of
+non-infectious, defective virus in chronic infections, we consider it unlikely
+that all virus is non-infectious in most of the cases
+examined herein.

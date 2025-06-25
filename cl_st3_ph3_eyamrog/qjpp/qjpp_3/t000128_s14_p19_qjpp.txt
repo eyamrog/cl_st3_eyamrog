@@ -1,0 +1,12 @@
+To build the spherical structure, all five cell types (core
+and layers 1–4) were pre-induced for 48 h with 500
+ng/mL doxycycline in culture media. Core cells were added to
+layer 1 cells in a 1:8 ratio, followed by a
+12-h incubation. After incubation, aggregates were resuspended through gentle vortexing,
+and a pellet was allowed to form before removing the
+unbound cell supernatant. Subsequent cell populations are added at a
+1:2 ratio, following the same steps. After the last 12-h
+incubation and unbound cell removal, aggregates were diluted in culture
+media and either mounted using a #1.5 glass coverslip for
+widefield imaging or embedded in low melting point agarose (ThermoFisher
+16,520,050) for confocal imaging.

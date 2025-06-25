@@ -1,0 +1,15 @@
+Intravital microscopy of the lung was performed as reported (
+Adrover et al., 2020 2. Adrover, J.M. ∙ Aroca-Crevillén, A.
+∙ Crainiciuc, G. ... Programmed ‘disarming’ of the neutrophil proteome
+reduces the magnitude of inflammation Nat Immunol. 2020; 21 :135-144
+Crossref Scopus (176) PubMed Google Scholar ). Briefly, 6-12 week-old
+male mice were anesthetized and mechanically ventilated through the trachea
+using a small animal ventilator model 687 (Harvard Apparatus). Then,
+right lateral thoracotomy was applied, and the lung was positioned
+under the window of a custom-built fixation device. A mild
+vacuum was applied to hold the lung in position during
+microscopy. Mice were injected with AF647-conjugated Ly6G antibody to stain
+neutrophils. 4D imaging was performed for each mouse in 5
+random fields inside the visualization window, using the VIVO system.
+Quantification of the kinetic parameters of intravascular crawling neutrophils was
+performed using automated cell tracking with Imaris (Bitplane AG, Switzerland).

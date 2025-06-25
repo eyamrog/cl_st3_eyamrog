@@ -1,0 +1,22 @@
+The safety population included all enrolled patients and was used
+to report AEs and PROs (in those who completed the
+questionnaire). The dose-determining population included all patients in a cohort
+in part 1 who received ≥21 prescribed avapritinib doses in
+C1 and completed follow-up through C1, or experienced DLT. The
+determination of the MTD and RP2D were based on the
+dose-determining population. The AdvSM safety population comprised all patients exposed
+to ≥1 dose of avapritinib, who had a diagnosis of
+AdvSM (ASM, SM-AHN or MCL) as centrally confirmed by the
+RAC. The AdvSM safety population was also used to report
+AEs and OS. The primary efficacy (response-evaluable) population included all
+patients with a centrally confirmed diagnosis of AdvSM (ASM, SM-AHN
+or MCL) who received ≥1 dose of avapritinib, and had
+at least one evaluable C-finding at baseline per mIWG-MRT-ECNM criteria
+as adjudicated by the RAC (MCL did not require baseline
+C-findings), and sufficient follow-up to be assessed for confirmed response
+(defined as being on study for at least six 28-d
+treatment cycles with ≥2 post-baseline BM assessments, or having an
+end-of-study assessment). The response-evaluable population was used to report adjudicated
+response rates and PFS. The PK population comprised all patients
+with sufficient plasma concentration–time data to reliably estimate the PK
+parameters of avapritinib.

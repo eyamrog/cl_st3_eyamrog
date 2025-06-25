@@ -1,0 +1,18 @@
+The spatial dynamics of household water acquisition are a recently-explored
+dimension of household water insecurity. A novel GPS-based system on
+jerry cans, developed by Pearson ( 2016 ), yields an
+estimate of minutes per roundtrip, distance traveled, and validates data
+for self-reported water journeys. Spatial video is another tool to
+collect accurate water acquisition data—such as time, path, and hazards—to
+assess the risk and burden to household members in urban
+and peri-urban environments (Curtis et al., 2019 ; Smiley, Curtis,
+& Kiwango, 2017 ). Such methods combine video with embedded
+GPS coordinates, which are then digitized to a geographic information
+system. Spatial video provides a visual mechanism to correct for
+GPS bounce, verify walk purpose, and document the water fetching
+path in terms of health and environmental hazards, such as
+standing water, open drains, trash, and potential practices where water
+could be (re)contaminated in the conveyance process. These methods have
+all been deployed successfully in field research settings, but spatial
+video can require data coding, which is (at present) costly
+and time-intensive.

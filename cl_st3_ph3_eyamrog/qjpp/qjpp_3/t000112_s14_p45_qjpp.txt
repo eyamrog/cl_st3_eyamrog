@@ -1,0 +1,13 @@
+We compared our samples to metagenomic samples from the Human
+Microbiome Project and a metagenomic study of European soil samples
+using MASH ( Ondov et al., 2016 62. Ondov, B.D.
+∙ Treangen, T.J. ∙ Melsted, P. ... Mash: fast genome
+and metagenome distance estimation using MinHash Genome Biol. 2016; 17
+:132 Crossref Scopus (1536) PubMed Google Scholar ), a fast
+k -mer based comparison tool. We built MASH sketches from
+all samples with 10 million unique k -mers to ensure
+a sensitive and accurate comparison. We used MASH’s built-in Jaccard
+distance function to generate distances between our samples and HMP
+samples. We then took the distribution of distances to soil
+and to each particular human commensal community as a proxy
+for the actual similarity of our samples to the site.

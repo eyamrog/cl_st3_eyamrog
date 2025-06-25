@@ -1,0 +1,10 @@
+Plasmids for E. coli expression of His-tagged coiled-coil peptides was
+done by first synthesizing codon-optimized gBlocks (IDT) comprising each Coiled-Coil
+with a C-terminal 6xHis tag. The DNA fragments were inserted
+into a pET22b expression vector (Novagen 69,744) via Gibson assembly
+(New England Biolabs E2611S). Plasmids for expression of His-tagged CC-GFP
+fusion protein were done by replacing the CMV promoter of
+the pcDNA3.1 vector (ThermoFisher V79020) with the CAG promoter, followed
+by insertion of the coiled-coil gBlock (codon-optimized for mammalian expression)
+N-terminally to a TEV cleavage sequence, GFP, and 6xHis fusion
+( Figure S1 ).

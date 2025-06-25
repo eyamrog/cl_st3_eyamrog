@@ -1,0 +1,13 @@
+Next, to assess whether EEEV-33 or EEEV-143 block virus attachment
+to cells, a post-attachment neutralization assay was performed ( Figures
+4 B and 5 B). In this assay, virus was
+incubated with cells at 4°C followed by addition of the
+mAb at 4°C after attachment and removal of free virus.
+A reduction in neutralization potency of EEEV-33 and EEEV-143 was
+observed, which could indicate that EEEV-33 and EEEV-143 block virus
+attachment to cells to some degree or cannot reach full
+occupancy of virion binding sites for optimal neutralization due to
+epitopes blocked by the initial virus attachment to host cells.
+However, substantial inhibition still occurred post-attachment, indicating that EEEV-33 and
+EEEV-143 can inhibit virus entry into cells after adsorption to
+the cell surface.

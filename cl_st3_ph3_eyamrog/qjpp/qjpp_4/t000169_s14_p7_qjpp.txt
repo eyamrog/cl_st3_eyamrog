@@ -1,0 +1,4 @@
+Shipment time (days) was measured as the time between sample
+collection (date noted on card) and arrival at the biobank,
+where the card with the DBS sample was stored frozen
+until laboratory analysis.

@@ -1,0 +1,16 @@
+Spleen response was determined for patients with baseline splenomegaly (spleen
+≥ 5 cm by palpation) and was assessed by palpation
+or spleen volume by imaging (that is, ≥35% reduction from
+baseline in spleen volume based on central imaging); presence of
+either criterion was considered a response. DOR started at the
+first evidence of a response in any evaluable C-finding (per
+mIWG-MRT-ECNM criteria) and ended at the time a response was
+lost (that is, loss of response per mIWG-MRT-ECNM criteria). For
+patients who were still responding at the time of analysis,
+DOR was censored at the latest time point that the
+patient is assessed as having clinical improvement or better. OS
+was analyzed in the safety population and was defined as
+the time from first dose to the time of death
+due to any cause. PK data were summarized for patients
+with sufficient plasma concentration–time data. Descriptive statistics were used to
+summarize PK parameters for each dose level, as appropriate.

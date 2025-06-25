@@ -1,0 +1,10 @@
+Best practices for sharing data have recently been developed. Some
+of these practices are specific to areas of study, while
+others are more generic. In particular, the emergence of the
+concept of tidy data has provided a generic format for
+many different types of data that serves as the backbone
+of a wide variety of analytic techniques ( 52 ).
+Practical guidance on sharing data via commonly used spreadsheet formats
+( 7 ) and on providing relevant metadata to collaborators
+is now widely applicable to many kinds of data (
+14 ).

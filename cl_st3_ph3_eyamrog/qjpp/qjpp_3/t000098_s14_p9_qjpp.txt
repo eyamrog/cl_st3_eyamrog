@@ -1,0 +1,14 @@
+8-F-cAMP (the de-esterified fluorescent analog of the membrane-permeable prodrug 8-FDA-cAMP)
+was used for the photophysical and biochemical characterization. To provide
+the photophysical characteristics of 8-F-cAMP, we recorded the absorption, excitation,
+and emission spectra of 8-F-cAMP (details in Methods S1 ).
+To determine the binding affinity of 8-F-cAMP to its binding
+protein PKA regulatory subunit I alpha (PKA-RIα), we performed steady-state
+anisotropy measurements (details in Methods S1 ). To show that
+8-F-cAMP activates downstream signaling, we used the PKA Colorimetric Activity
+Kit (ThermoFisher Scientific, Waltham, MA, USA) which reports on the
+activation of endogenous PKA in HEK293 cell lysates (details in
+Methods S1 ). To determine the stability of 8-F-cAMP toward
+hydrolysis by PDEs, we conducted PDE activity assays using a
+purified PDE from bovine brain and a colorimetric PDE assay
+(PDELight TM , Lonza) (details in Methods S1 ).

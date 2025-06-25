@@ -1,0 +1,10 @@
+Circulating tumor DNA (ctDNA) analysis is a promising alternative strategy
+in which peripheral blood (a “liquid biopsy”) is directly evaluated
+for evidence of minimal residual disease that could ultimately be
+the source of a later clinical recurrence. Several observational studies
+involving patients with solid tumors, including those with stage II
+colon cancer, have confirmed a very high risk of recurrence
+(>80%) when ctDNA is detected after curative-intent therapy without further
+adjuvant treatment. Nevertheless, uncertainty remains as to whether adjuvant treatment
+is beneficial for these ctDNA-positive patients who are at high
+risk for recurrence.

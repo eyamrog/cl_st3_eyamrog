@@ -1,9 +1,0 @@
-In 3 cells, we observed heterozygous indels on an allele
-with a wild-type SNP rs758109813. One such edit had also
-been observed in the MII injections in embryo C. Therefore,
-Cas9 RNP cut the maternal allele with an efficiency of
-4 out of 84 (∼5%), whereas in the same samples,
-editing of the paternal allele was 78 out of 84
-(93%). Thus, the presence of the suboptimal PAM site allowed
-some cleavage of the maternal allele in the embryo, though
-with much lower efficiency than on the paternal allele.

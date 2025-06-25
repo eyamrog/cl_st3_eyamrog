@@ -1,0 +1,8 @@
+KrakenUniq reports the number of unique marker k -mers assigned
+to each taxon, as well as the total number of
+reads, the fraction of available marker k -mers found, and
+the mean copy number of those k -mers. We found
+that requiring more k -mers to identify a species resulted
+in a roughly log-linear decrease in the total number of
+species identified without a plateau or any other clear point
+to set a threshold ( Figure S2 C).

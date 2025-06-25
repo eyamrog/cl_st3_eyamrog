@@ -1,0 +1,16 @@
+Circular episomes can be monomeric or include several genome copies
+linked end to end (concatemers). In drop-phase ddPCR analysis, whole
+concatemers each make one count, thereby undercounting the total number
+of vector genome units. DNA samples treated with PS-DNase followed
+by KpnI restriction enzyme digest to separate individual vector genome
+units showed higher levels of genomes compared with samples treated
+with PS-DNase alone, confirming the presence of concatemeric vector genomes
+(Supplementary Fig 4c and Extended Data Fig. 3e ). Consistent
+with ddPCR results, Southern blotting, utilizing two probes annealing to
+the 5′ (H) and 3′ (T) ends of the vector
+genome (Supplementary Fig 5 and Supplementary Table 3 ), showed
+that circular episomes were present in monomeric (major species) and
+concatemeric forms at sizes corresponding to full-length genomes (Fig. 1e
+and Supplementary Fig. 5 ). Circular vector genomes were primarily
+in H–T configuration (Extended Data Fig. 3f ), as reported
+when AAV5-hFVIII-SQ was administered to mice and NHPs .

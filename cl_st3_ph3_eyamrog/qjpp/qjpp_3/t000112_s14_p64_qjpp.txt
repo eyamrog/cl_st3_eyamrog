@@ -1,0 +1,4 @@
+For each statistical test in this manuscript, the type of
+test, the size (n) of the test, and statistical summaries
+or measures of dispersion are clearly defined in the figure
+legends or in the accompanying text throughout the manuscript.

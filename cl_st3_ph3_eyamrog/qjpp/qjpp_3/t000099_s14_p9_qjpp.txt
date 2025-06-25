@@ -1,0 +1,12 @@
+To address the competitive advantage of wild type versus CXCR4
+DN neutrophils in the lungs, we generated mixed bone marrow
+chimeras. Donor BM cells were harvested from CD45.1 or MRP8
+CRE+ Cxcr4 f/f 6-12 week-old males by flushing the femur
+with PBS. Recipient wild-type C57BL/6 6-12 week-old male mice were
+lethally irradiated (two 6Gy doses, 3 h apart) before receiving
+1 million BM nucleated cells by intravenous injection. For mixed
+chimeras, equal numbers of experimental CD45.2 and wild-type CD45.1 BM
+cells were mixed before intravenous injection. Engraftment of recipient animals
+was assessed 8–10 weeks after transplantation by analysis of the
+percentage of mutant and CD45.1 leukocytes in blood by flow
+cytometry.

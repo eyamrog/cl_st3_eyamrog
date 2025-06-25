@@ -1,0 +1,14 @@
+MD simulations for PEP1 and PEPR1: Similar to the MD
+simulations for RGF1 and RGI3/RGFR1, an initial structure was taken
+from the coordinates of residues Leu-29–Gln-545 of PEPR1 in complex
+with PEP1 (PDB: 5GR8 ) ( Tang et al., 2015
+81. Tang, J. ∙ Han, Z. ∙ Sun, Y. ...
+Structural basis for recognition of an endogenous peptide by the
+plant receptor kinase PEPR1 Cell Res. 2015; 25 :110-120 Crossref
+Scopus (131) PubMed Google Scholar ). All histidine residues in
+the complex were protonated to simulate an aqueous solution at
+pH 6.0. For pH 4.0 acidic condition, all aspartate and
+glutamate residues were also set to be protonated along with
+the histidine. Force field, water models, and simulation procedure used
+for the complex were the same as for RGF1 and
+RGI3/RGFR1.

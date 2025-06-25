@@ -1,0 +1,18 @@
+To facilitate interpretation of results, differences between sexes in cognitive
+performance were estimated at ages 50, 60, and 70 years.
+Difference between sexes in cognitive decline over 13 years (the
+maximum follow-up period for ELSA; mean follow-up period for Whitehall
+II) from age 60 years was based on predicted values
+for each birth cohort. We used the Wald test to
+determine p values for change in differences between sexes in
+cognitive performance and decline as a function of birth cohort.
+We did four sets of sensitivity analyses: first, we assessed
+effects separately in each study; second, we excluded participants with
+dementia (ascertained in ELSA using participant or proxy report and
+in Whitehall II using linkage to electronic health records); third,
+we restricted the period of follow-up to the same period
+(2002–15) in both studies; and fourth, we used multiple imputation
+(n=20) rather than single imputation for missing data on level
+of education in models adjusted for education. All analyses were
+done in Stata 15 and a two-sided p value of
+less than 0·05 was considered significant.

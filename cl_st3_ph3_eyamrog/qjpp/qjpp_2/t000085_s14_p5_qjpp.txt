@@ -1,0 +1,14 @@
+The primary efficacy end point was recurrence-free survival at 2
+years. The recurrence-free survival time was calculated from the date
+of randomization to the date of confirmation of disease recurrence
+or death from any cause (whichever occurred earlier) or the
+last date at which the patient was known to be
+free of disease (censoring time). Recurrence was defined as local,
+regional, or distant relapse. A key secondary end point was
+treatment with adjuvant chemotherapy. Other secondary end points included recurrence-free
+survival among ctDNA-positive and ctDNA-negative patients in the ctDNA-guided group,
+time to recurrence, and overall survival. Exploratory end points included
+the ctDNA clearance rate in ctDNA-positive patients treated with adjuvant
+chemotherapy, levels of fear of recurrence among the patients, and
+cost-effectiveness. Overall survival data and outcomes for exploratory end points
+are not reported here.

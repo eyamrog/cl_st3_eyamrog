@@ -1,0 +1,22 @@
+Lung and brain samples were fixed with 4% paraformaldehyde, paraffin
+embedded and cut into 3.5-μm sections. Fixed tissue samples were
+used for hematoxylin-eosin (H&E) staining and indirect immunofluorescence assays (IFA)
+for the detection of the SARS-CoV-2 antigen. For routine histology,
+tissue sections were stained with H&E. For IFA, slides were
+deparaffinised and rehydrated, followed by 15-min heat-induced antigen retrieval with
+EDTA pH 8.0 in a microwave oven. The slides were
+washed with PBS/0.02% Triton X-100 then blocked with 5% BSA
+at room temperature for 1 h. A primary antibody (rabbit
+anti-RP3-CoV N protein polyclonal antibody, 1:500, made in-house) was added
+dropwise to the sections and then washed in PBS. After
+the slides were slightly dried, tissues were covered with Cy3-conjugated
+goat-anti-rabbit IgG (Abcam, ab6939) at 1:200 dilution. After washing in
+PBS, slides were stained with DAPI (Beyotime) at 1:100 dilution.
+For MSB staining, fixed tissue sections were stained with hyposulfite
+solution, Celestine blue, and hematoxylin for 3-5 min, respectively. After
+acidic differentiation with acid alcohol, the sections were stained with
+Martius Yellow solution, carmoisine solution, phosphotungstic acid solution, and aniline
+blue staining solution, respectively. Tissue sections were rinsed with 1%
+acetic acid and then dehydrated, cleared, and mounted with neutral
+gum. The image information was collected using a Pannoramic MIDI
+system (3DHISTECH, Budapest) and FV1200 confocal microscopy (Olympus).

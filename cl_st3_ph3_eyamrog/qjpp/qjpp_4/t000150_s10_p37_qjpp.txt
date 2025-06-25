@@ -1,0 +1,18 @@
+Objective and subjective methods capture different, and potentially complementary, aspects
+of sedentary behavior, and using them together can provide a
+more comprehensive measure of sedentary behavior than either one of
+them alone. Troiano et al. ( 2012 ) describe different
+ways in which these approaches can be used together: combined,
+linked, or integrated. The combined approach, used often in epidemiological
+studies with health-related outcomes, includes the use of both objective
+and subjective measurements to explore differences in effects and to
+understand possible sources of variation in total sedentary time (eg,
+Stamatakis, Davis, et al., 2012 ; Wagnild et al., 2019
+; Wagnild & Pollard, 2020 ; Wennman, Vasankari, & Borodulin,
+2016 ). The linked approach involves, for example, the use
+of logs or diaries concurrently with accelerometry to match behaviors
+with accelerometer data through matching time-stamps (eg, Edwardson et al.,
+2018 ). Finally, the integrated approach draws on both objective
+and subjective methods to substantiate and contextualize each other, for
+example through the combination of accelerometry and EMA (eg, Liao,
+Intille, & Dunton, 2015 ).

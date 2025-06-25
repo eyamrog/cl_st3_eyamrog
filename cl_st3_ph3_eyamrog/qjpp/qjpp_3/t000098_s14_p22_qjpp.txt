@@ -1,0 +1,13 @@
+In the case of two species displaying distinct concentrations and
+diffusion rates, the equation becomes (with 1 and 2 referring
+to each of the two species, respectively): 𝐺 ⁡ (
+𝑥 , 𝑡 ) = 𝛾 𝜋 ⋅ 𝑁 ⁢
+1 ⋅ ( 4 ⋅ 𝐷 ⁢ 1 ⋅ 𝑡
++ 𝜎 2 0 ) ⁢ 𝑒 − ( (
+𝑥 − 𝑥 0 ) 2 ( 4 ⋅ 𝐷
+⁢ 1 ⋅ 𝑡 + 𝜎 2 0 ) )
++ 𝛾 𝜋 ⋅ 𝑁 ⁢ 2 ⋅ ( 4
+⋅ 𝐷 ⁢ 2 ⋅ 𝑡 + 𝜎 2 0
+) ⁢ 𝑒 − ( ( 𝑥 − 𝑥 0
+) 2 ( 4 ⋅ 𝐷 ⁢ 2 ⋅ 𝑡
++ 𝜎 2 0 ) ) (Equation 2)

@@ -1,8 +1,0 @@
-Animal product consumption, categorized into “meat” and “dairy” came from
-food-frequency questionnaires administered to mothers simultaneously with anthropometric collection (Azcorra
-et al., 2013 ; Wilson, 2011 ). Consumption frequency was
-calculated, medians determined, and coded as higher/lower per week compared
-to the sample median. Mann-Whitney U tested for associations between
-higher consumption and DHEA-S levels. For meat consumption, the median,
-and interquartile ranges (IQR) of DHEA-S levels for high and
-low frequency groups were determined.

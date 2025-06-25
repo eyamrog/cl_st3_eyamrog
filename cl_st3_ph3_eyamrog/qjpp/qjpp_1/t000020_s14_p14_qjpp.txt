@@ -1,0 +1,9 @@
+The Mount Sinai BioMe Biobank, founded in September 2007, is
+an ongoing, broadly consented electronic health record (EHR)-linked bio and
+data repository that enrolls participants nonselectively from the Mount Sinai
+Medical Center patient population (New York City). BioMe participants represent
+broad racial, ethnic and socioeconomic diversity with a distinct and
+population-specific disease burden, characteristic of the communities served by Mount
+Sinai Hospital. Currently comprising over 47,000 participants, BioMe participants are
+of African (24%), Hispanic/Latino (35%), European (32% of whom 40%
+are Ashkenazi Jewish) and other/mixed ancestry.

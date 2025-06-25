@@ -1,0 +1,13 @@
+Finally, with network-based approaches RNA-seq data can be used to
+assess the effects of different environmental exposures on the function
+of biological pathways. For example, PathOlogist, an analytical tool developed
+by Greenblum et al. ( 2011 ), utilizes pathway structure
+to integrate biological information, and assesses differences in activity and
+consistency states of networks of genes within pathways of known
+biological processes and functions. While such network-based genomic approaches tend
+to be used to assess differences by disease state (e.g.,
+gene expression profiles in healthy versus tumorous tissue), applying them
+to questions relevant to eco-immunology opens opportunities for in-depth investigation
+of how the environment influences biologic pathways and processes related
+to life history processes (e.g., cellular energy metabolism or immune
+investment).

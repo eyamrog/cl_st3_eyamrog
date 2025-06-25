@@ -1,2 +1,0 @@
-All analyses were done with SAS 9.4, and the maps
-were constructed with R 3.4.1.

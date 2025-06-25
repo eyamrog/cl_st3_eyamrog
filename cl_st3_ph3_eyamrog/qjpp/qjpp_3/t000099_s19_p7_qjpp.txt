@@ -1,0 +1,15 @@
+We found good correlation between gene expression in tissues from
+the single-cell and bulk sequencing analyses, as the top differentially
+expressed genes were found in both datasets, including genes of
+granule proteins in the BM, Ifitm genes in blood, and
+Il1b in lung ( Figures 3 A and S2 H).
+Projection of the bulk tissue profiles onto the scRNA-seq dataset
+confirmed consistent profiles, with clusters associated to the BM, blood,
+and lung showing enrichment in single cells from the corresponding
+tissues ( Figure 3 C). In contrast, the bulk signatures
+from the intestine and skin did not identify cells sequenced
+from the other tissues, nor did the spleen, as expected
+from this organ being largely embedded within the BM cluster
+and lacking a distinct signature ( Figure 2 E). Altogether,
+these data indicated that neutrophils acquire transcriptional properties associated with
+the tissues that they infiltrate in the steady state.

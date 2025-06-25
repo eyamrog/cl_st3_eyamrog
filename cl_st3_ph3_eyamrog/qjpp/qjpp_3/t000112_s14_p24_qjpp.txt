@@ -1,0 +1,19 @@
+The Maxwell RSC was used as a high throughput means
+of processing samples that used either the Copan or Isohelix
+swab collection method. To process the Copan swab samples, 300
+μ l of Promega Maxwell Lysis buffer and 30 μ
+l of Promega Maxwell Proteinase K was added to each
+collection tube, then allowed to incubate in a water bath
+at 54C for 20 min. Following lysis, Copan swab heads
+were cut off their stem using sterile scissors and transferred
+into a filter tube (ClickFit Microtube, Promega, Cat.: V4745). The
+filter containing the swab was placed into a 2ml Eppendorf
+tube and spun down at full speed for 2min. This
+step is necessary since the Copan swab material consists of
+a foam, which harbors the main liquid containing the extracted
+DNA. Next, the eluate was combined with the corresponding sample
+tube media and added to a well of the Maxprep
+cartridge (Maxwell RSC Buccal Swab Kit, Promega, Cat.: AS1640). Cartridges
+were processed using the Maxwell RSC Instrument following the manufacturer’s
+default instructions. Extracted DNA was eluted in 50 μ l
+Promega Elution Buffer and stored at −80C.

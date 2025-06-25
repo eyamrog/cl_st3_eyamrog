@@ -1,6 +1,0 @@
-Two-dose threshold: The simulation progresses in each country, with daily
-vaccination numbers equal to the current scenario until the two-dose
-vaccination program is completed (subject to uptake assumptions). Subsequent daily
-vaccine deliveries from that country are then divided between all
-countries proportional to the remaining number of individuals pending vaccination
-(again, within the assumptions made for eligibility and uptake).

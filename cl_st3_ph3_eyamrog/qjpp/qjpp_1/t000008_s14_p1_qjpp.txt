@@ -1,0 +1,10 @@
+The structure, formulation and manufacturing of valoctocogene roxaparvovec has been
+described in detail . Briefly, the recombinant, replication-incompetent AAV5 gene
+therapy vector contains a single-stranded, codon-optimized, B-domain-deleted human F8 gene
+(hFVIII-SQ) controlled by a liver-specific promotor and with a synthetic
+polyadenylation sequence. The total vector genome is >4.9 kb in
+length and is flanked by AAV2-derived double-stranded ITRs at the
+5′ (head, H) and 3′ (tail, T) ends. A full-length
+vector genome unit is defined as a vector genome containing
+the 5′ ITR-D region, HLP promoter, the hFVIII-SQ transgene, the
+synthetic polyadenylation signal and 3′ ITR-D region.

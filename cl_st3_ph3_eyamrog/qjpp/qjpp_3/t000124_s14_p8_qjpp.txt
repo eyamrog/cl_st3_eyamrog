@@ -1,9 +1,0 @@
-For each species, a single chromatin-capture library was prepared from
-0.5 g fresh weight material input. All treatments were according
-to the recommendations of the kit vendor for plants (Omni-C,
-Dovetail). As a final step, an Illumina-compatible library was prepared
-(Dovetail) and paired-end 2 x 150 bp deep-sequenced on a
-HiSeq 3000 (Illumina) device for R. breviuscula , R. tenuis
-, and J. effusus . Alternatively, the R. pubera library
-was paired-end 2 x 150 bp deep-sequenced using DNBseq technology
-(BGI Genomics, Hong Kong).

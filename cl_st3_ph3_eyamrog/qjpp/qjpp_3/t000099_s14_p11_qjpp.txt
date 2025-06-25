@@ -1,0 +1,25 @@
+Single cell suspensions from blood, bone marrow, spleen, lung, intestine
+and skin from 6-12 week-old male mice were subjected to
+CD45 MACSbeads positive selection (Miltenyi Biotech) according to the manufacturer’s
+instructions. After selection, samples were plated in a 96-well round
+bottom plate at a density of 5 × 10 6
+cells per well. Cells were stained for viability with 100mL
+of 50mM of cisplatin (Sigma-Aldrich) for 5 min at 4°C.
+Cells were then washed with staining buffer (4% FBS, 0.05%
+sodium azide, 2mM EDTA in PBS) and incubated with anti-CCR2-APC,
+anti-CD34-FITC, anti-CD115-PE and anti-Flt3-biotin in 50mL reaction volume for 90
+min at 4°C. Red blood cells were lysed with RBS
+lysis buffer (eBioscience) and cells were washed with staining buffer.
+Cells were stained with 50mL of metal isotope-labeled surface antibodies
+on ice. After 30 min, cells were washed twice with
+staining buffer, once with PBS, and then fixed in 2%
+paraformaldehyde (PFA) (Electron Microscopy Sciences) in PBS at 4°C overnight.
+The next day, cells were pelleted and re-suspended in 200μL
+permeabilization buffer (Biolegend) and allowed to stand for 5 min
+on ice. Cells were then washed once with PBS and
+incubated with cellular barcodes on ice for 30 min. Subsequently,
+cells were washed once with perm buffer and in staining
+buffer for 10 min on ice. Cellular DNA was labeled
+at room temperature with 250nM iridium intercalator (Fluidigm) in 2%
+PFA/PBS. After 20 min, cells were washed twice with staining
+buffer.

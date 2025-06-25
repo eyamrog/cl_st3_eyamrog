@@ -1,0 +1,12 @@
+Collectively, these data suggest that long-term FVIII expression following AAV5-hFVIII-SQ
+transduction is associated with formation of circular episomes in the
+liver. However, it is possible that integrated full-length genomes can
+also mediate long-term expression. Low-frequency integration of both complete and
+partial recombinant AAV5 genomes into the host cell genome has
+been characterized in dog and NHP tissues and clinical liver
+biopsy samples . In dogs with hemophilia A that demonstrated
+persistent liver-derived FVIII expression and correction of bleeding phenotype for
+>10 years following AAV-canine-FVIII-SQ gene transfer, <5% of remaining detected
+vector DNA was integrated in dog liver genomes ; the
+same study showed that plasma FVIII activity was associated with
+hepatocyte levels of full-length episomes .

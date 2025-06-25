@@ -1,0 +1,8 @@
+LCLs were obtained from Coriell Biorepository (GM18500, GM18501, GM18502, HG01345,
+HG01346) and approved by the Broad Institute Office of Research
+Subject Protection protocol 3639. Cell lines were authenticated by visual
+inspection of cell morphology with bright-field microscopy and in some
+cases PCA of RNA-seq data to confirm clustering with GTEx
+LCLs. LCL medium was changed every other day with RPMI
+1640 medium (Life Technologies), 2 mM l -glutamine (Life Technologies)
+and 15% FBS (Sigma).

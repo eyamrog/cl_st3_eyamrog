@@ -1,0 +1,5 @@
+There were differential levels of data capture at the different
+study time-points, such that respondent numbers differ for given exposures
+and outcomes. The potential biases resulting have been described in
+detail (Saville et al., 2020 ) and are in all
+cases small in magnitude.

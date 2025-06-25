@@ -1,0 +1,14 @@
+Devices are available that combine heart rate monitoring with accelerometry
+(eg, Actiheart, Actitrainer). The main feature of this combined method
+is to be able to identify both periods of non-movement
+(based on accelerometry/inclinometry) and intensity (based on heart rate) to
+determine energy expenditure. This has the potential to improve accelerometer-only
+measures of sedentary time because it could theoretically differentiate seated
+physical activities (eg, weightlifting, cycling) from sedentary time by detecting
+the increased heart rate associated with these seated exercise activities.
+However, in practice, these devices have demonstrated poor validity for
+the measurement of sedentary time. For example, in one free-living
+validation study, the Actiheart underestimated sedentary time by 156 minutes
+per day and overestimated the number of daily breaks in
+sedentary time by 235 per day (Judice et al., 2015
+).

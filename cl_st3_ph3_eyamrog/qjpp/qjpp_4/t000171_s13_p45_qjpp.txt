@@ -1,0 +1,9 @@
+Sequencing is typically done either by reading from the 3′
+end of each cDNA transcript, which only partially reads the
+transcript, or by fragmenting the mRNA into smaller pieces for
+whole transcript sequencing before reverse transcribing into cDNA. Each approach
+has its own advantages and disadvantages, which we will briefly
+detail in the next sections (for a more thorough comparison
+see Ma et al., 2019 ). For both methods, after
+collecting the sample, RNA is isolated and purified, usually with
+a kit such as the RNeasy kit (Qiagen).

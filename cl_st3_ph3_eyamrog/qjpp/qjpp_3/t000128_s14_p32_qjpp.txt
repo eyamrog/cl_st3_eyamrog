@@ -1,0 +1,27 @@
+In Figure 4 B, each square represents a mean Δt
+50 value with three replicates. In Figure 4 C, the
+same mean values from Figure 4 B are used for
+the y axis. R 2 is the coefficient of determination,
+and the p value was determined via an F-statistic test
+against a constant model. Both values are obtained through MATLAB’s
+fitlm function. In Figure 4 D, the values are the
+same as in Figure 4 B, and error bars are
+standard deviations. Statistical significance was calculated using two-sample t test
+in MATLAB. In Figure 4 E, values are Δt 50
+values normalized by the max observed Δt 50 value of
+that set. The mean of two reads is reported along
+with SD as error bars. In Figures 7 B and
+7C, the values are cell counts normalized by the maximum
+cell counted in that channel and run. This normalization is
+used to control for variability in cell viability and exposure
+differences that may confound the absolute count, which is reported
+in S21 and does not change the interpretation of the
+findings. The values are reported as medians over four replicates,
+due to the tendency of small changes in the washing
+process of producing outliers, and error bars are standard deviations.
+Significance of the three conditions (CC type, Concentration, and with
+or without GFP tag) was performed using cell counts from
+shared concentration values (0.01, 0.1, and 1nM) using N-way ANOVA
+in MATLAB with sequential sum of squares (Type I), with
+p values of 1.95 × 10 −5 , 3.55 ×
+10 −11 , and 5.51 × 10 −10 respectively.

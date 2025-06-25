@@ -1,0 +1,16 @@
+If the ratio of separation band to dynamic range was
+≤0.2, the whole assay was invalid. Next, for the positive
+and negative controls, outliers based on three s.d. were identified.
+If a positive control had a too low value, or
+a negative control had a too high value, the respective
+assay was invalid. For the remaining samples, hit calling was
+performed based on comparing the signal to the water control.
+If the signal was 1.8× higher than the water control,
+the guide-target pair was called a hit. Based on this
+hit calling, the extraction control, negative and positive detection controls
+and internal controls were verified. If their result did not
+correspond to their expected hit status, either the respective assay
+or specimen was deemed invalid. To be valid, all specimens
+needed to be either positive for RNase P or at
+least one other assay. Finally, the software annotated the results
+as CSV files and visualized them as an annotated heatmap.

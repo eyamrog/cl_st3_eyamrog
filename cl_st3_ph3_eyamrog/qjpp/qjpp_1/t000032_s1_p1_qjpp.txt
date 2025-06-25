@@ -1,0 +1,19 @@
+Advances in computing technology have spurred two extraordinary phenomena in
+science: large-scale and high-throughput data collection coupled with the creation
+and implementation of complex statistical algorithms for data analysis. These
+two phenomena have brought about tremendous advances in scientific discovery
+but have raised two serious concerns. The complexity of modern
+data analyses raises questions about the reproducibility of the analyses,
+meaning the ability of independent analysts to recreate the results
+claimed by the original authors using the original data and
+analysis techniques. Reproducibility is typically thwarted by a lack of
+availability of the original data and computer code. A more
+general concern is the replicability of scientific findings, which concerns
+the frequency with which scientific claims are confirmed by completely
+independent investigations. Although reproducibility and replicability are related, they focus
+on different aspects of scientific progress. In this review, we
+discuss the origins of reproducible research, characterize the current status
+of reproducibility in public health research, and connect reproducibility to
+current concerns about the replicability of scientific findings. Finally, we
+describe a path forward for improving both the reproducibility and
+replicability of public health research in the future.

@@ -1,0 +1,12 @@
+At a median follow-up of 42.1 months (range, 0.1 to
+80.9), the 3-year event-free survival in the intention-to-treat analysis was
+92.1% (95% CI, 88.4 to 94.7) in the brentuximab vedotin
+group and 82.5% (95% CI, 77.4 to 86.5) in the
+standard-care group ( Figure 1A ), indicating that the risk
+of an event or death was 9.6 percentage points lower
+in the brentuximab vedotin group than in the standard-care group
+(P<0.001 by a two-sided log-rank test). The assumptions of a
+Cox proportional-hazards model were assessed and considered to be adequate.
+The hazard ratio for an event or death was 0.41
+(95% CI, 0.25 to 0.67) in favor of therapy with
+brentuximab vedotin.

@@ -1,0 +1,9 @@
+All experiments involving measurements/quantifications, imaging and quantifications from images were
+repeated at least three times with similar results. Data plotting
+and statistical tests were performed in R. In graphs showing
+quantification, all data points (biologically independent samples, n) are plotted
+using box-and-whisker plot. In all graphs, asterisks indicate statistical significance
+(NS, not significant, ∗ P <0.05; ∗∗ P <0.01; ∗∗∗
+P <0.001) tested by Student’s t test (two groups), and
+lowercase letters indicate statistical significance tested between multiple groups by
+one/two-way ANOVA at p < 0.001.

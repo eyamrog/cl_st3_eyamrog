@@ -1,0 +1,9 @@
+Negative detection control is a negative control for the Fluidigm
+detection step and is prepared by adding nuclease-free water (instead
+of amplified RNA) to the sample mix without MgCl 2
+. This should yield a negative result for all targets
+on the panel. No crRNA control is a negative control
+for the Fluidigm detection step and is prepared by adding
+nuclease-free water (instead of 1 µM crRNA) to the assay
+mix. This should yield a negative result for all targets
+on the panel.

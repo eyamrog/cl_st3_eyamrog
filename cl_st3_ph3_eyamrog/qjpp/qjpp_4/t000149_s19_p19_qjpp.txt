@@ -1,0 +1,11 @@
+Additional models compared the effects of including maternal BMI (and
+where relevant, neonatal anthropometry) or not, only in the women
+who had complete data (Tables S 11 – 14 ).
+For episiotomy, cesarean section and lengthy labor, the change in
+the proportion of variance in the outcome explained was negligible.
+However, for obstructed labor, the inclusion of maternal and neonatal
+anthropometry increased the Nagelkerke r 2 value from 6.4 to
+9.6%. When trial group was included in the models, adjusting
+for the cluster, it showed no significant associations with our
+outcomes of interest, while other coefficients changed negligibly. Therefore there
+was no indication that the intervention had shaped childbirth outcomes.

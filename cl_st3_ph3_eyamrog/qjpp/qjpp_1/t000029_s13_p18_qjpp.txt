@@ -1,0 +1,20 @@
+Commercial investment in digital health is a logical development, as
+waiting for government investment to scale up high-performing pilots could
+stymie potentially lifesaving or life-improving interventions ( 13 ). However,
+private-sector investment brings with it a series of complexities. Adherence
+to ethical, quality, and safety standards may be less straightforward
+and visible and therefore less attributable and accountable. Private-sector externalities,
+costs that are associated with both production and consumption, are
+outsourced and therefore not always accountable. For example, a company
+that designed and marketed an app to promote self-monitoring of
+blood pressure may produce both positive effects (e.g., increased self-regulation
+of stress, change in diet, improved blood pressure) and negative
+effects (e.g., hypervigilance on heart rate, increased anxiety, increase in
+primary care visits) and is unlikely to be accountable for
+the latter, the primary impact being loss of sales. Where
+the field is lagging is in comprehensive reporting on the
+implications of mHealth interventions with respect to the quality of
+products and accountability measures ( 15 , 33 ). For
+populations least able to access health resources, mHealth interventions should
+be at little to no expense, accessible, and of the
+highest possible quality ( 52 , 92 ).

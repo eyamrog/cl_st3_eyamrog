@@ -1,0 +1,15 @@
+The primary outcome of major adverse cardiovascular events was a
+composite of cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke.
+In this pragmatic trial, we did not assess myocardial biomarkers
+for the detection of silent myocardial infarction or perform brain
+imaging for the detection of asymptomatic stroke after all procedures.
+Therefore, the trial protocol required that the primary outcome be
+symptomatic. Cardiovascular death was determined according to the criteria of
+the Cardiac Safety Research Consortium, myocardial infarction was determined according
+to the Third Universal Definition of myocardial infarction, and stroke
+was determined according to the updated definition for the 21st
+century (Section S12). Possible cardiovascular events were adjudicated by members
+of an independent clinical events committee, who were unaware of
+group assignments. We also evaluated an expanded primary outcome that
+was a composite of cardiovascular death, nonfatal myocardial infarction, nonfatal
+stroke, transient ischemic attack, or major procedure-related complications.

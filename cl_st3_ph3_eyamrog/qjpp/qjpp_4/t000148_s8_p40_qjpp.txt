@@ -1,0 +1,10 @@
+It is not our intention, nor would it be wise,
+to examine every possible cycle biomarker that could be defined
+from the observed data. Multiple statistical testing runs the risk
+of producing spurious significant outcomes by chance alone. Therefore, our
+selection of biomarkers for the present analyses is not exhaustive
+but rather is intended to reflect a few of the
+more common implicit assumptions about cycle physiology, particularly as regards
+variation in cycle and phase lengths, and the relationships between
+these biomarkers and progesterone concentrations (see [Harris & Vitzthum, 2013
+; Vitzthum, 2009 ] for additional discussion).

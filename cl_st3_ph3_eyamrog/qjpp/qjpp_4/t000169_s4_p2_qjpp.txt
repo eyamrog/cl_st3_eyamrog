@@ -1,0 +1,8 @@
+This study shows the necessity to carefully adjust for one
+particularly important fieldwork condition, namely the size of the blood
+spot on the filter paper if spot sizes vary as
+considerably as they tend to do in large-scale population studies.
+In these cases, it is important to measure it accurately.
+Our new algorithm presented here provides precise post-collection spot-size measurement
+by exploiting the images that are generated during the punching
+process of DBS.

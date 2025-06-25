@@ -1,0 +1,4 @@
+As maternal employment status is only available in the statistics
+from 2018 onwards, data mining techniques to determine factors importance
+were only applied to period 2018–2019. Data mining was performed
+using the statistical software package IBM SPSS Modeler 18.0.

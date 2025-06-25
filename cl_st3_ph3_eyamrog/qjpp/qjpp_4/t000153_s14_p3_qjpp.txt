@@ -1,5 +1,0 @@
-Data were collected at the transitions between the four-course sections.
-These transition collection points are referred to as checkpoints here
-on forward. Thus, collection took place precourse, midcourse checkpoint 1,
-midcourse checkpoint 2, midcourse checkpoint 3, and postcourse (see Figure
-1 ).

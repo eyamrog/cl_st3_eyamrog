@@ -1,0 +1,8 @@
+Classifying aspects of immunity is important from both a theoretical
+and a practical perspective. Many studies in ecoimmunology and evolutionary
+anthropology use life history theory as an organizing framework. Life
+history theory examines the trade-offs organisms make between competing demands
+on time, energy, and other resources. Most life history approaches
+decompose these demands into the categories of growth, reproduction, and
+maintenance, with the maintenance category encompassing tissue repair, immune response,
+and other factors.

@@ -1,0 +1,14 @@
+The genomic psychiatry cohort project is a longitudinal resource with
+the aim of making population-based data available through the National
+Institute of Mental Health. The repository contains whole-genome sequencing (WGS)
+data and detailed clinical and demographic data, particularly focused on
+schizophrenia and bipolar disorders. A large proportion of participants (88%)
+have consented for recontact . The screening questionnaire consisted of
+32 yes/no questions about mental health issues and 23 yes/no
+questions covering other medical problems including liver, digestive and cardiovascular
+problems. There were no specific questions relating to lung or
+kidney phenotypes, although participants were asked to answer yes/no to
+having any additional health problems. If a participant answered yes
+to this question, we marked the existence of lung or
+kidney disease as ‘unknown’. One sample was excluded due to
+conflicting questionnaire answers.

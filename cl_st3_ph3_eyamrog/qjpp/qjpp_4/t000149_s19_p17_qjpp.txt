@@ -1,0 +1,19 @@
+Similar models were constructed for labor >24 h and obstructed
+labor (Table 6 ). For obstructed labor ( n =
+5185), the main model showed that the outcome was more
+likely among those experiencing their first pregnancy and those with
+height < 145 cm. The risk of obstructed labor was
+reduced among women whose husbands were uneducated, but there was
+no association with maternal age or household wealth. This model
+explained only 3.3% of the variance in the outcome. When
+BMI in late pregnancy was included ( n = 1759;
+Table S 9 ), all groups higher than the thinnest
+group demonstrated increased risk compared with those with higher BMI
+in late pregnancy, and this model explained 6.1% of variance
+in the outcome. When the three components of neonatal size
+were added to the model, birth weight was a significant
+predictor: each additional kilogram increased the odds of obstructed labor
+nearly 2.5 times (OR = 2.42, 95% CI 1.35, 4.35),
+however there was little change in the OR for maternal
+BMI, indicating that the association of maternal BMI was not
+mediated by neonatal size (Table S 8 ).

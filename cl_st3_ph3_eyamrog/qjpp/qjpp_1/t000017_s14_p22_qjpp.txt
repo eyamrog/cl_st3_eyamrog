@@ -1,0 +1,11 @@
+The AdvSM-SAF comprises a ten-item questionnaire completed by the patient
+daily, specifically designed to assess symptoms related to AdvSM and
+measure the impact of treatments on patient symptom improvement .
+It has been validated and demonstrated to be reliable and
+sensitive to clinical changes. The AdvSM-SAF assesses the severity of
+eight symptoms of AdvSM, including abdominal pain, nausea, vomiting, diarrhea,
+spots, itching, flushing and fatigue over a 24-h period on
+a numerical rating scale, and also measures the frequency of
+vomiting and diarrhea by asking patients to enter a discrete
+numerical value. Data were analyzed at the item level, domain
+level and total score level. Domain level analyses are:

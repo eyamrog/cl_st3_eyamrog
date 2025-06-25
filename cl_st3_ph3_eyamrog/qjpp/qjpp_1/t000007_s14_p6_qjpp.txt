@@ -1,0 +1,5 @@
+As described above, this study was designed to compile all
+available viral genomic data of published SARS-CoV-2 chronically infected individuals.
+Hence, no statistical method was used to predetermine sample size;
+experiments were not randomized; and the investigators were not blinded
+to allocation during experiments and outcome assessment.

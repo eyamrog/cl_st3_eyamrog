@@ -1,4 +1,0 @@
-Statistical analysis was performed using the GraphPad Prism 9.0.2 software
-package. All experiments were performed in at least three technical
-replicates and using at least three animals per group where
-applicable.

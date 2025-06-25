@@ -1,0 +1,10 @@
+Sanger validation was performed on genomic DNA derived from peripheral
+blood under the following PCR conditions: 98 °C 2 min;
+30 cycles 20 s 98 °C, 20 s 54 °C,
+1 min 72 °C; 3 min 72 °C using Herculase
+II Fusion DNA polymerase (Agilent, 600679). PCR products (5 μl)
+were analyzed on a 2% agarose gel and the remaining
+product was purified with the Qiagen PCR Purification kit. Sequence
+analysis was performed with both PCR primers at Quintarabio. Details
+of variants and PCR primers used for each are listed
+in Supplementary Table 3 .

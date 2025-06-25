@@ -1,0 +1,16 @@
+For the purposes of eco-immunology, methylation may be useful for
+examining particular immune related genes, particularly with regard to chronic
+effects due to lifestyle (Ligthart et al., 2016 ; McDade
+et al., 2019 ; Nakajima et al., 2010 ). Methylation
+is part of the regulatory pathway for gene expression, and
+may be important, for example, in TH1/TH2 balance (Brand et
+al., 2012 ). Patterns of methylation have also been found
+to associate with levels of CRP (Sun et al., 2013
+). However, methylation is not the only factor in gene
+expression as transcription factors and other regulators make many short-term
+adjustments (Makar & Wilson, 2004 ). Thus, for measuring expression
+at a particular timepoint the measurement of RNA expression or
+protein product level is probably complementary. Similar to RNA-seq data,
+methylation results can also be used to infer underlying cell
+subset proportions and thus may be another useful alternative to
+flow cytometry (Titus et al., 2017 ).

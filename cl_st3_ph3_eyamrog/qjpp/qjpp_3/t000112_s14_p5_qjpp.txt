@@ -1,0 +1,15 @@
+The MetaSUB dataset and CAP are built and organized for
+full accessibility to other researchers. This is consistent with the
+concept of Open Science. Specifically, we built our study with
+the FAIR principles in mind: Findable, Accessible, Interoperable, and Reusable.
+To make our results more reproducible and accessible, we have
+developed a program to merge the CAP’s output into a
+condensed data-packet. This data packet contains results as a series
+of Tidy-style data tables with descriptions. The advantage of this
+set-up is that result tables for an entire dataset can
+be parsed with a single command in most high level
+analysis languages like Python and R. This package also contains
+Python utilities for parsing and analyzing data packets which streamline
+most of the boilerplate tasks of data analysis. All development
+of the CAP and data packet builder (Capalyzer) package is
+open source and permissively licensed.

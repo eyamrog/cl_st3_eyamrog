@@ -1,0 +1,15 @@
+Data analysis was performed using GraphPad Prism software 7.0 (GraphPad
+Software, San Diego, USA) and IGOR Pro 7 (Wavemetrics, Lake
+Oswego, USA). Normal distribution of data points was tested in
+every dataset using D’Agostino-Pearson omnibus normality test before evaluating significance.
+When comparing two populations, a Student’s t test was used.
+When comparing three or more populations, a parametric one-way ANOVA
+with Tukey’s multiple comparison test was used. The confidence interval
+was set to 95% (p value = 0.05). Significance was
+assessed as followed: ns (not significant) ∗ p ≤ 0.05;
+∗∗ p ≤ 0.01; ∗∗∗ p ≤ 0.001, ∗∗∗∗ p
+≤ 0.0001. Data are represented throughout as mean ± error
+(s.e.m., SD, or 95% confidence intervals), plus – where appropriate
+– as scatterplots of individual results. More details about statistics,
+e.g., repetition of experiments and cell numbers, are indicated in
+the respective figure legends.

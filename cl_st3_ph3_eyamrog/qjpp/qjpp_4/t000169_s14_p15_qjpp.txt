@@ -1,0 +1,12 @@
+Since A and C markers need two punches for analysis,
+they could come from different spots. In these cases, we
+used the average size of the two spots. If there
+was no suitable spot available for the analysis of all
+A markers, we used one punch only and restricted the
+analysis to HbA1c, referring to it as A* marker. Knowledge
+of the punching scheme is therefore important. For each spot,
+the dates and the times of punching are stored in
+the file names of the images. It allows us to
+establish a chronological order of punches for a sample and
+to match each punch (and its size) to the respective
+marker set.

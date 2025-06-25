@@ -1,0 +1,25 @@
+A number of aggregates formed through this process closely resembled
+the envisioned structural layout. We present three select aggregates imaged
+in widefield in Figure 5 B and as confocal 3D
+reconstructions in Figure 5 C. In particular, Aggregate 1 was
+composed of 135 cells, regularly patterned, and demonstrated a number
+of features representative of other aggregates, so it was selected
+for imaging-based interaction analysis ( Figure 5 D). Unsurprisingly, the
+most consistent interactions were the SG30/SG61-induced interactions between sg30 mCherry
+“cores” and sg61 + sg88 eBFP2 “layer 1” cells. We
+also observed a layer of magenta SG83 + P9 iRFP670
+“layer 2” cells coating the blue “layer 1 cells,” induced
+by SG83/SG88 interactions. The next expected layer would be the
+P10 + Z18 eGFP “layer 3” cells, which are present
+to some degree. However, a significant number of green “layer
+3” cells were also found intermixed with Z17 eCFP “layer
+4” cells rather than forming clearly delineated layers, likely a
+consequence of the high affinity of the Z17/Z18 interaction. Additionally,
+we observed that whereas initial layers formed spherical structures, unevenness
+in these seed aggregates appears to be amplified by subsequent
+cell layers, often leading to cells from layers 2–4 organizing
+on opposite sides of the core and forming a hamburger-like
+presentation. The striking complexity formed with four helixCAM pairs, and
+the resemblance of aggregates to the intended multicellular structure blueprint,
+alludes to the potential for helixCAMs to guide the patterning
+of sophisticated multicellular structures.

@@ -1,0 +1,20 @@
+A historical limitation when studying the homeostatic features of neutrophils
+has been their low numbers in the majority of tissues
+( Casanova-Acebes et al., 2018 13. Casanova-Acebes, M. ∙ Nicolás-Ávila,
+J.A. ∙ Li, J.L. ... Neutrophils instruct homeostatic and pathological
+states in naive tissues J Exp Med. 2018; 215 :2778-2795
+Crossref Scopus (200) PubMed Google Scholar ), the inability to
+expand or maintain them in culture, and their reduced transcriptional
+activity ( Silvestre-Roig et al., 2016 62. Silvestre-Roig, C. ∙
+Hidalgo, A. ∙ Soehnlein, O. Neutrophil heterogeneity: implications for homeostasis
+and pathogenesis Blood. 2016; 127 :2173-2181 Crossref Scopus (324) PubMed
+Google Scholar ), all of which may explain the lack
+of systematic exploration of their diversity in naive organs. Consequently,
+a shortcoming of our study is that we restricted our
+in-depth analyses to neutrophil-rich tissues, including the BM, blood, spleen,
+and lung, and additionally performed bulk transcriptomic characterization of neutrophils
+from the intestine and the skin. In these tissues, we
+focused our efforts on defining the acquisition of a distinct
+receptor repertoire and transcriptome profiles, and on showing that the
+rapid changes in these properties once they enter tissues are
+matched by stable epigenetic modifications.

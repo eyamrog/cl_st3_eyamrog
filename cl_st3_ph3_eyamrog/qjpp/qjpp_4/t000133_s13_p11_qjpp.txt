@@ -1,0 +1,7 @@
+The digital refractometers have temperature compensation but the calibration water
+used should be similar to the sample temperature. To address
+this, it is recommended to cover urine samples and allow
+them to cool slightly to room temperature. Otherwise, the Usg
+values may be slightly underestimated—that is, the warmer the urine
+samples are, the lower the Usg values will be if
+the calibrated sample was at room temperature.

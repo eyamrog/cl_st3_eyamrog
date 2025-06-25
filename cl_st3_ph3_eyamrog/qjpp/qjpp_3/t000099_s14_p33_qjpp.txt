@@ -1,0 +1,12 @@
+TdTomato + cells from the bone marrow of Ly6G CRE+
+Rosa26 TdTomato Catchup 8-12 week-old male mice were FACS sorted
+and resuspended in calcium- and magnesium-free PBS at a concentration
+of 2x10 4 cells/mL. One million (1 × 10 6
+) cells were injected intratracheally, intrasplenic or intraperitoneally to CD45.1
+8-12 week-old male mice in 50μl of sterile PBS. 18
+h later, mice were sacrificed and lungs, spleen and peritoneal
+suspensions were prepared for FACS sorting. For RT-PCR analysis, 50.000
+CD45.2 + CD11b + Ly6G + Tdtomato + or CD45.1
++ CD11b + Ly6G + Tdtomato NEG cells were sorted,
+pelleted and resuspended in 350 mL of RLT lysis buffer
+(Quiagen) for RNA extraction.

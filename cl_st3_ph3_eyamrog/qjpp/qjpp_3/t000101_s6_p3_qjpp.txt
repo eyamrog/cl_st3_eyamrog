@@ -1,9 +1,0 @@
-We evaluated restoration of the wild-type sequence with the homologous
-chromosome as a template for DSB repair. After MII injection,
-no recombination between maternal and paternal genomes was seen. Although
-a lack of evidence with a limited number of samples
-does not rule out rare events, our data show that
-interhomolog repair is not an efficient repair pathway at this
-stage of development. Novel combinations of maternal and paternal alleles
-representing possible interhomolog events were observed after two-cell-stage injections, although
-they were uncommon, and these embryos were mosaic.

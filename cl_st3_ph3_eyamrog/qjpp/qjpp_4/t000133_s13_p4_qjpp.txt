@@ -1,0 +1,14 @@
+There are four primary urinary biomarkers of hydration status. First,
+urine osmolality (Uosm) is the most reliable urinary biomarker of
+daily hydration status. It is the total concentration of dissolved
+particles per kg of water in urine. Similar to plasma
+osmolality, Uosm is measured on an osmometer. Values above 800
+mOsm/kg are used as the most common cutoff, indicating inadequate
+hydration (Cheuvront et al., 2010 ) although different cutoffs have
+been proposed (500, 700, and 831 mOsm/kg) (Armstrong et al.,
+2012 ; Perrier et al., 2015 ; Stookey, 2019 ).
+Such cutoffs may be dependent on age if the study
+population includes a wide age range of adults, since age
+is negatively associated with urine osmolality at an average decline
+of 3.1 mOsm/kg per year above 20 (Rosinger et al.,
+2016 ).

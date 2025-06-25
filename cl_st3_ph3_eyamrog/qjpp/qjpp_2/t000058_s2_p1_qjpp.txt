@@ -1,0 +1,17 @@
+This work was supported by the Pathways to Equitable Healthy
+Cities grant from the Wellcome Trust (209376/Z/17/Z). TR is supported
+by an Imperial College President's PhD scholarship. The mortality data
+used for this study were supplied by the Office for
+National Statistics, derived from the national death and birth registration
+and the census. The work of the Small Area Health
+Statistics Unit is funded by the UK Medical Research Council,
+Public Health England, and the National Institutes for Health Research
+(NIHR) through Health Protection Units at Imperial College London in
+Environmental Exposures and Health (NIHR-200880) and in Chemical and Radiation
+Threats and Hazards (NIHR-200922). This paper does not necessarily reflect
+the views of Public Health England, the NIHR, or the
+Department of Health and Social Care. HID and BD receive
+funding from Health Data Research UK Discover-NOW Hub. MBT receives
+funding through the Mohn Centre for Children's Health and Wellbeing
+at Imperial College London. ME is also supported by the
+British Heart Foundation (Centre of Research Excellence grant RE/18/4/34215).

@@ -1,0 +1,9 @@
+With a drive toward clinical applications, we aimed to optimize
+the mCARMEN workflow. To do so, we decreased the manual
+labor and processing time from >8 h to <5 h
+by implementing automated RNA extraction, using a single-step RNA-to-DNA amplification
+with 1 primer pool and reducing the duration of detection
+readout (Fig. 2a and Extended Data Fig. 2a ). We
+then preliminarily evaluated the optimized workflow on 21 SARS-CoV-2-positive and
+8 SARS-CoV-2-negative patient specimens and found greater sensitivity over the
+original two-step amplification method (Extended Data Fig. 2b ).

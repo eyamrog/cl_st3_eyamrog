@@ -1,0 +1,22 @@
+Overall, our data suggested that neutrophils followed CXCL12/CXCR4 cues to
+reach areas of reprogramming in the lung. Consistent with this
+possibility, intravital imaging revealed multiple defects in the migration of
+CXCR4-deficient neutrophils within the lungs ( Figures 6 F and
+S6 H; Video S1 ) and reduced accumulation in this
+organ when adjusted to their numbers in blood ( Figure
+6 G). The migratory defects seen in CXCR4 mutant mice
+were confirmed by tracking individual lung neutrophils in wild-type mice
+before and after exposure to a CXCR4 antagonist (AMD3100; data
+not shown). To unambiguously assess if the defective specification of
+CXCR4-deficient neutrophils was caused by a disrupted ability to “find”
+instructing CXCL12+ niches, we transferred marrow neutrophils directly into lung
+intratracheally and then assessed their transcriptional profile compared with non-transferred
+BM cells, or with pulmonary neutrophils from the host. We
+found that, under these conditions, the transferred CXCR4 DN neutrophils
+gained normal expression of hallmark pulmonary genes ( Ptgs2 ,
+Il1b , and Nr4a1 ; Figure 6 H), thus indicating
+that CXCR4 signaling is dispensable for transcriptional specification, but is
+needed to guide neutrophils to sites of reprogramming. We conclude
+that, at least in the particular case of the lungs,
+tissue-derived signals guide neutrophils to specific areas where they acquire
+their distinct phenotypic and functional properties.

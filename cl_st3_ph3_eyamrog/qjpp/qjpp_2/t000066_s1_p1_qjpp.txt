@@ -1,0 +1,5 @@
+Background: Patients with anemia and lower-risk myelodysplastic syndromes in whom
+erythropoiesis-stimulating agent therapy is not effective generally become dependent on
+red-cell transfusions. Luspatercept, a recombinant fusion protein that binds transforming
+growth factor β superfamily ligands to reduce SMAD2 and SMAD3
+signaling, showed promising results in a phase 2 study.

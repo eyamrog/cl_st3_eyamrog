@@ -1,0 +1,15 @@
+Aquagenx's Compartment Bag Test (CBT), for example, quantifies bacterial MPN
+in a 100 mL water sample. It is a more
+recent option for testing E. coli in low-resource field conditions,
+and compares favorably to results from membrane filtration on m1
+agar, a common laboratory growth medium (Stauber, Miller, Cantrell, &
+Kroell, 2014 ). To conduct a CBT, one collects a
+water sample in a sterile 100 mL plastic bottle or
+Whirl-Pak Thio Bag, adds a packet of bacterial growth medium,
+pours the sample in the compartment bag (and clips and
+seals it), incubates the bag for 24 to 48 hours,
+scores the MPN test results, and finally uses a chlorine
+tablet to disinfect the sample (Aquagenx, 2019 ). This technique
+has the advantages of not requiring electricity, bulky equipment, controlled
+incubation, or highly-trained technicians, but cannot be easily sterilized and
+reused like many other methods.

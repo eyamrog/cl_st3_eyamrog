@@ -1,0 +1,3 @@
+In Figure 3 , we show the effects of the
+spot size on the respective biomarker levels as measured by
+the cubic splines in Model 1.

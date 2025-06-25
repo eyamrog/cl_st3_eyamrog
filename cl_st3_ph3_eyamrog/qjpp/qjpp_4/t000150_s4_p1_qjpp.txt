@@ -1,0 +1,9 @@
+Objective measures, particularly inclinometers or thigh-worn accelerometers, have the highest
+validity for the measurement of sedentary time, but they cannot
+determine what kinds of sedentary behaviors are taking place. Subjective
+measures, particularly PDRs and diaries, are effective for capturing time
+spent in various sedentary behaviors but have comparatively low validity
+for measuring total sedentary time. Wherever resource allows, researchers should
+consider the use of both objective and subjective methods to
+capture total sedentary time, the pattern of its accumulation, as
+well as the behaviors that are occurring during these periods.

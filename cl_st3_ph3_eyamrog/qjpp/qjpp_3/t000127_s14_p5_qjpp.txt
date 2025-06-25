@@ -1,0 +1,7 @@
+E. coli DH5α was cultured at 37°C in LB medium
+for plasmid DNA extraction. E. coli BL21 (DE3) was cultured
+at 37°C in LB medium for protein expression. E. coli
+DH10Bac was cultured at 37°C in LB medium for bacmid
+production. A. tumefaciens GV3101 was cultured at 28°C in LB
+medium for plant transformation. Pseudomonas was cultured at 25°C in
+TSB medium for plant infection.

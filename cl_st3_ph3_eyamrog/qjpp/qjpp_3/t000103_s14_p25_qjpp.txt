@@ -1,0 +1,11 @@
+Antibody preparations were diluted serially (using 2-fold dilutions) and incubated
+with ~100 pfu of EEEV FL93-939 for 1 h at
+37°C. Anti-EEEV ascites serum (ATCC) was used as a positive
+control. After incubation, Vero cell monolayer cultures in 6-well plates
+were inoculated and incubated for 1 h at 37°C. After
+overlay with agarose immunodiffusion grade (MP Biomedicals), plates were incubated
+for 2 days followed by overlay with neutral red for
+at least 6 h to count plaques. Percent neutralization was
+calculated based on the number of plaques in each mAb
+dilution compared to the number of plaques in untreated control
+wells inoculated with virus.

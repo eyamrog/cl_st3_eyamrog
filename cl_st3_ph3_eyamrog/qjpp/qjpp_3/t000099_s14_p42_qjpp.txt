@@ -1,0 +1,14 @@
+Data from experiments are represented as mean values ± SEM.
+All parameters analyzed followed normal distribution as tested by D’Agostino-Pearson
+test unless indicated in the figure legend. Unpaired two-tailed t
+test was used when 2 groups were compared, and comparison
+of more than two datasets was done using one-way analysis
+of variance (ANOVA) with Turkey’s post-test or two-way ANOVA. Log-rank
+analysis was used for Kaplan-Meier survival curves. Statistical analysis were
+performed using GraphPad software. Statistics on the RNA sequencing and
+ATAC sequencing are indicated in the analysis section. A p
+value below 0.05 was considered statistically significant; non-significant differences (n.s.)
+are indicated accordingly, and P values ≤0.05 were considered statistically
+significant ( ∗ ). P values P ≤ 0.01 (
+∗∗ ) and P ≤ 0.001 ( ∗∗∗ ), as
+well as nonsignificant differences (n.s.), are indicated accordingly.

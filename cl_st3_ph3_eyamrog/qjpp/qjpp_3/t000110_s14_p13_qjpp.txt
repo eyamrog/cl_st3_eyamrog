@@ -1,9 +1,0 @@
-RNA of SARS-CoV-2 pseudotyped virus and point mutation pseudotyped virus
-was extracted using the QIAamp Viral RNA Mini Kit (QIAGEN,
-Germany). The virus DNA was obtained by reverse transcription using
-the SuperScript III First-Strand Synthesis System for RT-PCR kit reagent
-(Invitrogen). RT-PCR was performed using TB Green Premix Ex TaqII
-(Takara). The plasmid containing the P protein gene of the
-VSV virus was used as the standard to calculate the
-viral copy number. See the primers in the Key Resources
-Table .

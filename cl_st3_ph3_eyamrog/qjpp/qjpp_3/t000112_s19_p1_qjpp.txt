@@ -1,0 +1,10 @@
+We collected 4,728 samples from the mass transit systems of
+60 cities around the world ( Table 1 ; Table
+S1 ). These samples were collected from at least three
+common surfaces in each mass transit system (railings, benches, and
+ticket kiosks), with additional optional surfaces also collected in each
+city, and all were subjected to shotgun metagenomic sequencing (125
+× 125 PE reads, see STAR Methods ). We use
+the microbiome of mass transit systems as a proxy for
+the urban microbiome as a whole and present our key
+findings here.

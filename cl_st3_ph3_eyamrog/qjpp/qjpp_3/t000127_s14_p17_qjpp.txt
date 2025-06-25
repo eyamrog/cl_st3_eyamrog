@@ -1,0 +1,17 @@
+The co-immunoprecipitation and immunoblot assays were performed as previously described
+( Song et al., 2016 75. Song, W. ∙ Liu,
+L. ∙ Wang, J. ... Signature motif-guided identification of receptors
+for peptide hormones essential for root meristem growth Cell Res.
+2016; 26 :674-685 Crossref Scopus (135) PubMed Google Scholar )
+with minor modifications. The expression of proteins of interest was
+tested by immunoblot assays at first. The tobacco leaves were
+rapidly frozen in liquid nitrogen after harvest, and ground into
+fine powder. A fraction of powder was added with an
+equal volume of 2× SDS sample buffer (4% SDS, 100
+mM Bis-Tris pH 6.8, 10% glycerol, 2% β-mercaptoethanol), and incubated
+on ice for 15 min, followed by heating for 10
+min at 65 °C. After centrifugation at 13 000× g
+for 5 min, the protein extracts were fractionated by 10%
+SDS-PAGE, blotted onto a PVDF membrane. Immunoblot assay was then
+performed using anti-GFP antibody (Chromo Tek) and anti-HA antibody (Santa
+Cruz).

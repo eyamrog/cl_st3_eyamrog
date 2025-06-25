@@ -1,0 +1,16 @@
+Indeed, antibiotic resistance genes were universally in low abundance compared
+to functional genes, with RPKM values for resistance classes typically
+ranging from 0.1 to 1 compared to values of 10
+to 100 for typical housekeeping genes (AMR classes contain many
+genes, so RPKM values may be lower than they would
+be for individual genes). Despite the low abundance of the
+genes themselves, some samples contained sequences from hundreds of distinct
+AMR genes. Clusters of high AMR diversity were not evenly
+distributed across cities ( Figure 4 C). Some cities had
+more resistance genes identified on average (15–20×) than others (e.g.,
+Bogota), while other cities had bimodal distributions (e.g., San Francisco);
+some samples had hundreds of genes, while others were very
+few. We note that 99% of the cases where we
+detected AMR genes showed an average depth of 2.7×, indicating
+that our overall global distribution would not dramatically change with
+altered read depth ( Figure S5 E).

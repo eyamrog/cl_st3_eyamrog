@@ -1,0 +1,6 @@
+Adverse events were graded with the use of the NCI
+Common Toxicity Criteria, versions 4.0 and 5.0, and adverse events
+of grade 3 or higher were reported. Investigators reported neuropathy
+of grade 2 or higher using the Balis Pediatric Scale
+of Peripheral Neuropathy. Criteria for dose modifications were prespecified according
+to adverse-event category and grade.

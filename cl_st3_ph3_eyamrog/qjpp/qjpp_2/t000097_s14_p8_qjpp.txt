@@ -1,0 +1,5 @@
+To isolate peritoneal macrophages, mice were treated with anti-TREM2 (clone
+178) or control antibodies prior to 5% thioglycollate. We collected
+peritoneal cells after 72 h and stained them with the
+commercial antibody anti-TREM2 (clone 237920, R&D) in combination with antibodies
+specific for myeloid markers.

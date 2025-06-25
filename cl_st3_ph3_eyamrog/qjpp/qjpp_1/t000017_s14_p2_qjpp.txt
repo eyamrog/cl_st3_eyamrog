@@ -1,0 +1,11 @@
+The primary endpoints were MTD, RP2D and assessment of safety.
+Secondary endpoints included the ORR based on measurable C-finding responses
+per mIWG-MRT-ECNM criteria, which require 12-week confirmation of response. Responses
+in C-findings were centrally adjudicated by a Response Adjudication Committee
+(RAC) comprising a subset of study investigators (see below for
+further details and a list of RAC members). ORR included:
+CR or CRh (including complete resolution of all C-findings, elimination
+of marrow mast cell aggregates and serum tryptase <20 ng
+ml ); PR (resolution of ≥1 C-finding and ≥50% reduction
+in marrow mast cells and serum tryptase); and clinical improvement
+(resolution of ≥1 C-finding).

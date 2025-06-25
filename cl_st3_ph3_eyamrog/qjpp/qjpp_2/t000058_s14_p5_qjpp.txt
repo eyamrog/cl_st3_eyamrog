@@ -1,0 +1,9 @@
+The number of deaths in each age group, MSOA, and
+year is small, which means that death rates calculated from
+observed data have an apparent variability from year to year,
+or from MSOA to MSOA, which is larger than the
+true differences in the risk of death. We used a
+Bayesian hierarchical model to obtain stable estimates of death rates
+by sharing information across age groups, MSOAs, and years. We
+conducted all analyses separately by female and male sexes because
+mortality and trends differ by sex.

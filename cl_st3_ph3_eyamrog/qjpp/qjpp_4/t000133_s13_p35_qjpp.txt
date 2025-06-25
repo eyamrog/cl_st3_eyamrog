@@ -1,0 +1,7 @@
+The most commonly measured of the physical properties with human
+biological ramifications is turbidity, which refers to the cloudiness of
+a water sample due to suspended particles. Additional properties, such
+as color, odor, taste, pH, hardness, and total dissolved solids,
+do not have established guidelines by WHO because the levels
+found in drinking water generally do not present health concerns
+(WHO, 2017a ).

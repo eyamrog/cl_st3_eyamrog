@@ -1,0 +1,18 @@
+These conventional influenza surveillance approaches primarily describe outbreaks of influenza
+based on reports from doctors or clinicians. More recently, researchers
+have explored the potential for electronic data sources to provide
+more timely information on levels of influenza circulation in the
+community. Examples of this approach include trends derived from (
+a ) searches (e.g., Google Search Trends, Wikipedia page views),
+( b ) social media postings (e.g., Facebook posts, tweets),
+and ( c ) participatory surveillance efforts (e.g., Flu Near
+You, Influenzanet) ( 2 ). These types of surveillance enlist
+ProMED-mail ( 50 ), De Grote Griepmeting ( 45 ),
+webpage views used for influenza surveillance ( 42 ), Google
+Ads click rate used for surveillance ( 32 ), HealthMap
+( 14 ), Google Flu Trends ( 25 , 57
+), Flu Near You ( 77 ), FluSight ( 19
+), etc. The prime objective of these systems was to
+provide timely reports of influenza incidence in local areas (
+16 , 25 , 77 ), and the resulting data
+were often used for influenza prediction and forecasting.

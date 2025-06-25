@@ -1,0 +1,4 @@
+A few exceptions are worth mentioning: we observed crRNAs for
+SNPs E484Q, P681R, N501T and L452Q, which had undesirable cross-reactive
+signals with a position-matched or adjacent mutation; thus, they were
+excluded from further evaluation.

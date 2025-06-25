@@ -1,0 +1,11 @@
+Another limitation was that we assumed that testing positive for
+SARS-CoV-2 infection after an interval of 90 days with at
+least a 7-day period with an absence of symptoms is
+consistent with reinfection. Repeated positive testing has been reported shortly
+after hospital discharge, with PCR positivity detected up to 28
+days after symptom resolution. Although the chosen cutoff of 90
+days between two positive tests is unlikely to be due
+to prolonged PCR positivity, this cannot be ruled out; however,
+this would probably only affect a small number of cases.
+Viral sequencing of the two infections would ideally be used
+to confirm reinfection.

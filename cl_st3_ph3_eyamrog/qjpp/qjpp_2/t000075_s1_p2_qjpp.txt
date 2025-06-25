@@ -1,9 +1,0 @@
-Methods: In this phase 2 study, we sought to confirm
-the efficacy and safety of ide-cel in patients with relapsed
-and refractory myeloma. Patients with disease after at least three
-previous regimens including a proteasome inhibitor, an immunomodulatory agent, and
-an anti-CD38 antibody were enrolled. Patients received ide-cel target doses
-of 150×10 to 450×10 CAR-positive (CAR+) T cells. The primary
-end point was an overall response (partial response or better);
-a key secondary end point was a complete response or
-better (comprising complete and stringent complete responses).

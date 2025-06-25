@@ -1,0 +1,8 @@
+Flow cytometry is used to analyze the relative proportions of
+different white blood cells by tagging cells with fluorescently marked
+antibodies for specific cell-surface (or sometimes interior) proteins. Cells are
+suspended in a salt-based buffer and single cells are then
+rapidly analyzed as they flow past a single (or set
+of) laser(s). Cells are analyzed based on the presence or
+absence of each tag, and the visible light scatter, which
+roughly corresponds to size and shape of the cell.

@@ -1,0 +1,10 @@
+Sample and assay mixtures can be prepared in advance for
+multiple 96-sample batches according to similar methods, with the following
+changes: the batch sample mix contained all reagents described above
+excluding 9 mM MgCl 2 , and the batch assay
+mix contained all reagents described above excluding the 2x Assay
+Loading Reagent. Both mixtures were calculated with 10% coverage. Both
+mixtures were stored at −80 °C until use; 9 mM
+MgCl 2 was added to the sample mix and 2x
+Assay Loading Reagent was added to each assay mix before
+use.

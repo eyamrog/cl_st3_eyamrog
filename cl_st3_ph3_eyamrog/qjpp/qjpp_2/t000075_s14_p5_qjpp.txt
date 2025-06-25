@@ -1,7 +1,0 @@
-The primary end point was an overall response (partial response
-or better), defined according to IMWG Uniform Response Criteria for
-Multiple Myeloma as assessed by an independent review committee. The
-key secondary end point was a complete response or better
-(comprising complete and stringent complete responses). Additional secondary end points
-included time to response and duration of response, progression-free and
-overall survival, minimal residual disease (MRD), safety, pharmacokinetics, and immunogenicity.

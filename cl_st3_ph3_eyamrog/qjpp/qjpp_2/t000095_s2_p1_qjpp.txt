@@ -1,0 +1,12 @@
+We thank He Zhao and Xue-Fang An from the animal
+center of the Wuhan Institute of Virology for the transgenic
+mouse breeding. We thank Tao Du and Ge Gao from
+the Center for Biosafety Mega-Science for their essential support. We
+also thank Ding Gao from the core facility of the
+Wuhan Institute of Virology for their technical support. We also
+thank the support of Shenzhen MGI Tech Co., Ltd. for
+their sequencing service using MGISEQ-2000RS FAST platform. This work was
+jointly supported by the Strategic Priority Research Program of the
+Chinese Academy of Sciences (XDB29010101 to Z.-L.S.), China Natural Science
+Foundation (31770175 to Z.-L.S.), and a Youth innovation promotion association
+of CAS (2019328 to X.-L.Y.).

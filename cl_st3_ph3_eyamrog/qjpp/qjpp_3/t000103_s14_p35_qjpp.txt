@@ -1,0 +1,12 @@
+At different times after challenge, mice were injected with 10
+μg of Nano-Glo substrate (Promega) subcutaneously in 500 μL PBS,
+as previously described ( Gardner et al., 2017 29. Gardner,
+C.L. ∙ Sun, C. ∙ Luke, T. ... Antibody Preparations
+from Human Transchromosomic Cows Exhibit Prophylactic and Therapeutic Efficacy against
+Venezuelan Equine Encephalitis Virus J. Virol. 2017; 91 :e00226-17 Crossref
+Scopus (15) PubMed Google Scholar ). Four minutes after substrate
+injection, the mice were imaged using the IVIS Spectrum CT
+Instrument (PerkinElmer) using the autoexposure setting. The total flux (photons
+per second) in the head region was calculated for each
+animal using Living Image Software 4.5.1, with all images set
+to the same scale.

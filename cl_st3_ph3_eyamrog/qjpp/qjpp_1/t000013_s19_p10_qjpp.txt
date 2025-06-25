@@ -1,0 +1,7 @@
+To confirm RT–qPCR sensitivity relative to mCARMEN, we tested the
+impact of multiple freeze–thaw cycles at several concentrations of SARS-CoV-2
+seed stock on assay reproducibility. We found that the freeze–thaw
+cycles had no impact on mCARMEN sensitivity across all concentrations
+while RT–qPCR was negatively impacted by freeze–thaw cycles at the
+lowest concentration, suggesting that the 42 discrepant specimens had low
+initial viral quantities (Supplementary Fig. 3a–d ).

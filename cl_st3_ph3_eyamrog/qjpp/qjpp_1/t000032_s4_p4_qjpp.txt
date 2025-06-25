@@ -1,0 +1,16 @@
+The maintenance of code and data is generally not a
+topic that is discussed in the context of reproducible research.
+When a paper is published, it is sent to a
+journal and is considered finished by the investigators. Unless errors
+are found in the paper, one generally need not revisit
+a paper after publication. However, both code and data need
+to be maintained, to some degree, in order to remain
+useful. Data formats can change and older formats can fall
+out of favor, often making older data sets unreadable. Code
+that was once highly readable can become unreadable as newer
+languages come to the fore and practitioners of older languages
+decrease in number. Maintenance of data and code is not
+a question of paying for computer hardware or services. Rather,
+it is about paying for people to periodically update and
+fix problems that may be introduced by the constantly changing
+computing environment.

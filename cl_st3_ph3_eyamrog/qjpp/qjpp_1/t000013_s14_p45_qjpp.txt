@@ -1,0 +1,10 @@
+A preliminary LOD for each assay was determined by testing
+triplicates of RNA purified using the extraction method described in
+the ‘RVP panel’. The approximate LOD was identified by extraction,
+amplification and detection of tenfold serial dilutions of IVT RNA
+of known titer (copies µl ) for five replicates. These
+concentrations ranged from 10 –10 copies μl . The lower
+bound of the LOD range was determined as the lowest
+concentration where five out of five replicates were positive; the
+upper bound was determined as the concentration tenfold above the
+lower bound.

@@ -1,7 +1,0 @@
-A total of 1520 sub-volumes from only immature virions were
-used to generate C3 and C1 symmetrized maps of membrane
-bound Env using 2Xbinned data in EMAN2 ( Chen et
-al., 2019 15. Chen, M. ∙ Bell, J.M. ∙ Shi,
-X. ... A complete data processing workflow for cryo-ET and
-subtomogram averaging Nat. Methods. 2019; 16 :1161-1168 Crossref Scopus (122)
-PubMed Google Scholar ) by similar procedures as described above.

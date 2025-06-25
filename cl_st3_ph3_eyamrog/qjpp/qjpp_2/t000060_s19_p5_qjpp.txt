@@ -1,8 +1,0 @@
-A treatment effect was also evident in models examining the
-binary measure of probable mental disorder. During the lockdown, the
-prevalence of poor mental health increased by 2·6 percentage points
-( table 2 ). This effect, however, was driven by
-females, with the percentage in poor mental health increasing by
-4·3 percentage points (95% CI 3·0 to 5·5). Among males,
-the effect was small and non-significant (0·7 percentage points [–0·8
-to 2·3]).

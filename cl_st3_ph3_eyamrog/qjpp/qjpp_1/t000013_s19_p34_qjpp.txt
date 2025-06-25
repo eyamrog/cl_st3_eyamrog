@@ -1,0 +1,22 @@
+Based on the public health importance of this data, the
+Massachusetts Department of Public Health (MADPH) requested our support for
+Omicron surveillance across the state. Using the mCARMEN VIP, we
+tested 1,557 specimens collected across the state of Massachusetts for
+the presence of Delta or Omicron from 13 to 22
+December 2021. The rate of Omicron increased from approximately 20%
+to 77% across Massachusetts in 10 d (Fig. 6c and
+Extended Data Fig. 10c ). In partnership with MADPH and
+the Broad Genomics Platform, we were able to confirm the
+mCARMEN variant lineage results with lineage results determined by NGS
+and found 99.5% (1,549 out of 1,557) concordance between mCARMEN
+and NGS (Fig. 6d and Extended Data Fig. 10d ).
+Of the eight discordant samples, seven had low signal for
+all mutations evaluated by VIP, suggesting low viral quantity. The
+remaining discordant specimen had clear signal for several Omicron-specific mutations;
+yet, by NGS, it had Delta signatures, which would suggest
+likely contamination or sample swap in one of the two
+tests. In all, the mCARMEN VIP was applied in real-time
+to a local Omicron outbreak and a statewide Omicron wave
+with near-perfect concordance to NGS, by providing results the same
+or following day while NGS lagged behind by approximately 4–7
+d (Fig. 6e ).

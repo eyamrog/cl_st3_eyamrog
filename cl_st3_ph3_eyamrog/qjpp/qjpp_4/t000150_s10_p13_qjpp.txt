@@ -1,0 +1,21 @@
+The inclinometer/accelerometer wear protocol is an important determinant of the
+accuracy of measurement. Over the past few years, with the
+shift toward using thigh- and wrist-worn devices, it has become
+increasingly popular to use continuous wear protocols in which the
+device is worn 24-hours per day (Edwardson et al., 2017
+; Troiano et al., 2014 ). Compared to waking-wear protocols
+in which the device is removed for sleep and water-based
+activities (a requirement of the waist-worn configuration), participant compliance with
+continuous wear protocols is substantially higher because the wearer does
+not have to remember to put the device back on
+after a period of removal (Troiano et al., 2014 ).
+Continuous wear protocols can also reduce the risk of bias
+in measurement, both in terms of reactivity and wearing the
+device at selected (active) times of day, which is especially
+relevant for the measurement of sedentary time (Ryan et al.,
+2017 ). Regardless of whether a continuous or waking wear
+protocol is used, it is standard practice in the measurement
+of sedentary time to ask participants to wear the device
+for 7–8 days, with a dataset considered valid for analysis
+if the participant provides data for ≥10 hours on at
+least 4 days (Bellettiere et al., 2017 ).

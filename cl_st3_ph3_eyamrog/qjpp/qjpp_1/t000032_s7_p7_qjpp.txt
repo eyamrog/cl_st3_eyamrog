@@ -1,0 +1,18 @@
+A searing example of the complexity of data analysis and
+the critical need to verify data and computations can be
+taken from the coronavirus disease 2019 (COVID-19) pandemic. Early in
+the pandemic, researchers hypothesized that the drug hydroxychloroquine may be
+useful for treating COVID-19, but there was little evidence for
+or against the hypothesis. In May 2020, a large observational
+study was published in the Lancet , which claimed that
+there was no benefit to using hydroxychloroquine ( 30 ).
+Soon after publication, numerous questions were raised about the data
+analysis and the nature of the data themselves ( 27
+). Although the original authors commissioned an independent audit of
+the analysis, the company that owned the data refused to
+turn over the data set to the independent auditors. Without
+the data set, there was no way to reproduce the
+original analysis, and ultimately the paper was retracted ( 31
+). This example demonstrates the importance of having a clear
+understanding of how data analysis was conducted when critical life
+and death decisions must be made.

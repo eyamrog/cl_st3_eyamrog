@@ -1,0 +1,9 @@
+The gold standard for assessing microbiological quality is membrane filtration.
+A water sample is vacuumed through a membrane filter, which
+is then transported into a Petri dish prepared with growth
+medium to culture the bacteria of interest. The dish is
+incubated and colonies enumerated by direct microscopic count using a
+millimeter grid. Membrane filtration allows the testing of large volumes
+of water, and use of different media to differentiate organisms.
+It also tends to be the most expensive and labor-intensive
+method, requires trained staff, and uses less portable equipment.

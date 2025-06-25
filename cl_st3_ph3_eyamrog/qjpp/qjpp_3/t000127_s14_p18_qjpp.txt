@@ -1,0 +1,26 @@
+For co-immunoprecipitation, 500 μl well-expressed sample was distributed in each
+tube and homogenized in 1.5 mL ice cold PBS buffer
+(25mM NaH 2 PO 4 +Na 2 HPO 4 ,
+150 mM NaCl, 1 mM DTT, 0.1% NP-40, 1× protease
+cocktail inhibitor (Roche), pH value was adjusted by mixing different
+volume of NaH 2 PO 4 and Na 2 HPO
+4 ). RGF1 and dRGF1 peptides were supplemented for 15
+min, as indicated. Lysates were centrifuged twice at 13 000×
+g at 4 °C for 10 min. For input sample,
+80 μl supernatant was transferred to a new tube and
+20 μl of 5× SDS sample buffer (10% SDS, 250
+mM Bis-Tris pH 6.8, 50% glycerol, 5% β-mercaptoethanol, and 0.05%
+bromophenol blue) was added. In all, 1.2 mL supernatant was
+transferred to a new tube to incubate with 10 μl
+GFP-trap agarose beads (Chromo Tec, Cat# Gta-200) for 2 h
+at 4 °C with gentle agitation. Next, the beads were
+washed six times with the corresponding pH PBS buffer, and
+centrifuged at 2 000× g at 4 °C for 2
+min each time. A total of 60 μl 5× SDS
+sample buffer was added after the last wash. Subsequently, all
+the samples were boiled at 75 °C for 10 min.
+Proteins were separated by SDS-PAGE and analyzed by immunoblot assays
+using anti-HA antibody and anti-GFP antibody. Signals were either captured
+on X-ray film and developed using a Kodak MXP-102 or
+directly recorded using a Tanon 5200 Multi chemiluminescent imaging system
+(Tanon, Shanghai, China).

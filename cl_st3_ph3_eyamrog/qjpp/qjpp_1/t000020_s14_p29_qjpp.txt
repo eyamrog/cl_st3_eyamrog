@@ -1,0 +1,11 @@
+For each individual, we extracted all ICD10 codes from the
+fields ‘41270 Diagnoses: ICD10’ (recorded from episodes in hospital), ‘40001
+Underlying (primary) cause of death: ICD10’ and ‘40002 Contributory (secondary)
+causes of death: ICD10’. The number of carriers and noncarriers
+with any ICD10 code relating to lung (5 pLoF carriers;
+2,378 noncarriers), liver (0 pLoF carriers; 652 noncarriers) or kidney
+disease (3 pLoF carriers; 2,272 noncarriers) were counted. For J43
+(emphysema), J44 (other chronic obstructive pulmonary disease) and J47 (bronchiectasis),
+ICD10 codes were not counted if they were reported alongside
+exposure to or history of tobacco use (Z77.22, P96.81, Z87.891,
+Z57.31, F17 or Z72.0).

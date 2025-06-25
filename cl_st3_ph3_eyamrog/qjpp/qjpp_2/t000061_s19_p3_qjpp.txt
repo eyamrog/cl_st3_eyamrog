@@ -1,9 +1,0 @@
-Although heterogeneity was high across individual studies ( I 2
-=98%; p<0·001)—study-specific risk ratios varied between 1·04 and 5·77—all risk
-ratios indicated elevated rates of mortality in adults who, as
-children, had experienced care ( figure 2 ). However, for
-two studies (three samples) from Finland, the increased risk attributable
-to care exposure was marginal. Pooling of effect estimates revealed
-that adults with experience of previous state care had around
-twice the risk of mortality than those without (risk ratio
-2·21 [95% CI 1·62–3·02]).

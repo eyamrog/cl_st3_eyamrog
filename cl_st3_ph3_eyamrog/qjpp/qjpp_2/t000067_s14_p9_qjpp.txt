@@ -1,6 +1,0 @@
-Continuous variables are presented as means (±SD) or as medians
-(with interquartile ranges) for normally and nonnormally distributed data, respectively.
-Categorical variables are presented as percentages. To compare patients across
-quartiles of suPAR level, we used analysis of variance or
-the Kruskal–Wallis test for continuous variables and chi-square tests for
-categorical variables.

@@ -1,0 +1,10 @@
+Methods: We performed a high-resolution spatiotemporal analysis of civil registration
+data from the UK Small Area Health Statistics Unit research
+database using de-identified data for all deaths in England from
+2002 to 2019, with information on age, sex, and MSOA
+of residence, and population counts by age, sex, and MSOA.
+We used a Bayesian hierarchical model to obtain estimates of
+age-specific death rates by sharing information across age groups, MSOAs,
+and years. We used life table methods to calculate life
+expectancy at birth and probabilities of death in different ages
+by sex and MSOA.

@@ -1,0 +1,12 @@
+We identified incident primary site-specific cancer cases in individuals in
+England aged 18 years or older during the study period
+of 1 January 1998 to 31 October 2020. Incident cancers
+were defined as the first diagnosis of cancer occurring during
+the study period. First, we analyzed the cumulative burden of
+psychiatric disorders after cancer diagnosis. Because patients may experience recurrent
+psychiatric events, we used the MCC method to capture not
+only the first occurrence of the event but also subsequent
+occurrences. The cumulative burden method reflects a summarization of all
+events that occur in a population by a given time
+(see 'Cumulative burden of psychiatric disorders across 26 cancers' for
+details).

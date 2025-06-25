@@ -1,0 +1,21 @@
+New therapeutic strategies are desperately needed in Parkinson’s disease (PD),
+one of the most common age-related neurological diseases, which affects
+about 1% of people over the age of 60 years
+. Around 30% of familial and 3–5% of sporadic PD
+cases have been linked to a genetic cause . LRRK2
+missense variants account for a large fraction of cases, including
+high-penetrance variants , moderately penetrant variants such as G2019S and
+risk factors identified in genome-wide association studies . Although the
+precise mechanism by which LRRK2 variants mediate their pathogenicity remains
+unclear, a common feature is augmentation of kinase activity associated
+with disease-relevant alterations in cell models . Discovery of Rab
+GTPases as LRRK2 (ref. ) substrates highlighted the role of
+LRRK2 in regulation of the endolysosomal and vesicular trafficking pathways
+implicated in PD . LRRK2 kinase activity is also upregulated
+more generally in patients with PD (with and without LRRK2
+variants) . LRRK2 has therefore become a prominent drug target,
+with multiple LRRK2 kinase inhibitors and suppressors in development as
+disease-modifying treatments for PD . There are three LRRK2 therapeutics
+currently in early clinical testing from both Denali (small molecules
+DNL201, ClinicalTrials.gov Identifier: NCT03710707 and DNL151, ClinicalTrials.gov Identifier: NCT04056689 )
+and Biogen (antisense oligonucleotide BIIB094, ClinicalTrials.gov Identifier: NCT03976349 ).

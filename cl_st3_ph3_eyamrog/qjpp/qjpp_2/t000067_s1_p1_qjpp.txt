@@ -1,8 +1,0 @@
-Background: Acute kidney injury is common, with a major effect
-on morbidity and health care utilization. Soluble urokinase plasminogen activator
-receptor (suPAR) is a signaling glycoprotein thought to be involved
-in the pathogenesis of kidney disease. We investigated whether a
-high level of suPAR predisposed patients to acute kidney injury
-in multiple clinical contexts, and we used experimental models to
-identify mechanisms by which suPAR acts and to assess it
-as a therapeutic target.

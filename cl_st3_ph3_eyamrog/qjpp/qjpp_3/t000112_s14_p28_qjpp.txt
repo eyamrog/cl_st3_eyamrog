@@ -1,0 +1,8 @@
+We observed good separation of negative and positive controls based
+on both PCR Qubit and k -mer entropy. Distributions of
+DNA concentration and the number of reads were as expected
+( Figure S2 G, H, I). GC content was broadly
+distributed for negative controls while positive controls were tightly clustered,
+expected since positive controls have a consistent taxonomic profile. Comparing
+the number of reads before and after quality control did
+not reveal any major outliers.

@@ -1,0 +1,11 @@
+Our first null hypothesis is that, absent strong evidence to
+the contrary, within population variability in a phenotype (in the
+present case, a cycle biomarker) is about the same across
+populations. This expectation is predicated on a century's worth of
+data that variation within human populations is often greater than
+variation between populations (that is, most of the total variation
+is within rather than between populations, a reflection of our
+species' shared biology). This pattern is demonstrable for numerous traits
+spanning the molecular to the morphological, and has been observed
+in an impressive variety of organisms (e.g., Hunley et al.,
+2016 ; Lewontin, 1972 ; Relethford, 2002 ).

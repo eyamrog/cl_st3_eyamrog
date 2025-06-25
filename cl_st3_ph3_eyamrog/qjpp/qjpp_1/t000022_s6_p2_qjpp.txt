@@ -1,4 +1,0 @@
-In particular, creators of algorithmic systems have three general classes
-of approaches to prevent discrimination: they can make the data
-less biased beforehand, build fairness criteria into the algorithm… or
-alter the application of the rules after the algorithm runs.

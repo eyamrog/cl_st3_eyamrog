@@ -1,0 +1,22 @@
+OTUs (representative MAGs from a cluster) were chosen with a
+two-step clustering strategy. Rough single-linkage clustering formed primary clusters of
+MAGs based on Mash ANI (v2.1.1), with intra-cluster identity at
+90%. Though Mash ANI can be inaccurate for potentially incomplete
+genomes ( Olm et al. (2017) 61. Olm, M.R. ∙
+Brown, C.T. ∙ Brooks, B. ... dRep: a tool for
+fast and accurate genomic comparisons that enables improved genome recovery
+from metagenomes through de-replication ISME J. 2017; 11 :2864-2868 Crossref
+Scopus (905) PubMed Google Scholar ), we can leverage the
+technique’s speed for the many pairwise comparisons needed in this
+granular step. Within primary clusters, MAGs were compared pairwise by
+a more accurate whole-genome ANI (gANI) via dnadiff (v1.3) from
+MUMmer (v3.23 Kurtz et al. (2004) 38. Kurtz, S. ∙
+Phillippy, A. ∙ Delcher, A.L. ... Versatile and open software
+for comparing large genomes Genome Biol. 2004; 5 :R12 Crossref
+PubMed Google Scholar ). Secondary, more refined clusters were grouped
+based n gANI using average-linkage hierarchical clustering from the R
+package dendextend (v1.12.0 Galili (2015) 23. Galili, T. dendextend: an
+R package for visualizing, adjusting and comparing trees of hierarchical
+clustering Bioinformatics. 2015; 31 :3718-3720 Crossref Scopus (1014) PubMed Google
+Scholar ). A gANI cut-off of 95% resulted in 1,304
+representative OTUs.

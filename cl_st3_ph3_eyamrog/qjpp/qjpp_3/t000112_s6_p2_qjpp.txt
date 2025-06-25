@@ -1,0 +1,22 @@
+Together, these data suggest that urban microbiomes should be treated
+as ecologically distinct from both surrounding soil microbiomes and human
+commensal microbiomes. Though these microbiomes undoubtedly interact, they nonetheless represent
+distinct ecological niches with different genetic profiles. While our metadata
+covariates were associated with the principal variation in our samples,
+they do not explain a large proportion of the observed
+variance. It remains to be determined whether the variation is
+essentially a stochastic process or if a deeper analysis of
+our covariates proves more fruitful. In particular, analysis of cities’
+greenspace, tourism, and waste management systems may be fruitful to
+explain variation; a study by Reese et al., (2016) 71.
+Reese, A.T. ∙ Savage, A. ∙ Youngsteadt, E. ... Urban
+stress is associated with variation in microbial species composition-but not
+richness-in Manhattan ISME J. 2016; 10 :751-760 Crossref Scopus (67)
+PubMed Google Scholar found that urban stress could impact microbial
+composition. We have observed that less important PCs (roughly PCs
+10–100) are generally less associated with metadata covariates but that
+PCs 1–3 do not adequately describe the data alone. This
+is a pattern that was observed in the human microbiome
+project as well, where minor PCs (such as our Figure
+2 B) were required to separate samples from closely related
+body sites.

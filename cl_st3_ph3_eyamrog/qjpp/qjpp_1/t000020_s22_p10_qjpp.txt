@@ -1,0 +1,10 @@
+We next sought to determine whether lifelong lowering of LRRK2
+protein levels through LoF results in an apparent reduction in
+lifespan. We found no significant difference between the age distribution
+of LRRK2 pLoF variant carriers and noncarriers in either the
+gnomAD or 23andMe datasets (two-sided Kolmogorov–Smirnov P = 0.085 and
+0.46 respectively; Fig. 3a ), suggesting no major impact on
+longevity, though we note that this analysis is based on
+age at sample collection, which is not equivalent to longevity
+and at current sample sizes we are only powered to
+detect a strong effect (Supplementary Table 6 ).

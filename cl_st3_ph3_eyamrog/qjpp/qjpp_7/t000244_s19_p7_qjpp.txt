@@ -1,0 +1,9 @@
+Data analyses were performed with R Statistics version 3.6.0 and
+data management with SPSS. A trimmed dataset and script can
+be found on OSF. Based on Mahalanobis distance, nine multivariate
+outliers were excluded before analyses. Because of skewed distributions, we
+repeated every analysis with square-transformed scales and found results to
+be similar. To control for error accumulation, we used a
+Bonferroni correction. A significant relation was signaled by p s
+< .025 for H2–5. A correlation table and visualizations with
+Gaussian plots can be found in Supporting Information A8–A10.

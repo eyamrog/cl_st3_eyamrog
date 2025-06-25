@@ -1,0 +1,6 @@
+Since spot size may have a more intuitive meaning when
+measured as a diameter rather than an area or volume,
+Table 5 presents the percentage effect of spot size on
+analyte values relative to a spot diameter of 1 cm.
+This translation is based on the assumption of a perfect
+circle, hence area = *diameter squared.

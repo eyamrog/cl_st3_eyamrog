@@ -1,4 +1,0 @@
-using the amount of vaccination available, w ( t ),
-at time step t for each country (as determined by
-the strategy being followed), together with decaying efficacy parameter, υ,
-with profiles shown in Fig. 4a .

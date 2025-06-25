@@ -1,0 +1,19 @@
+Following DNA extraction, library preparation for Illumina NGS platforms was
+performed at HudsonAlpha Genome Center using the QIAGEN Gene Reader
+DNA Library Prep Kit I (QIAGEN, Cat.: 180435) as was
+previously described in Afshinnekoo et al. (2015) 1. Afshinnekoo, E.
+∙ Meydan, C. ∙ Chowdhury, S. ... Geospatial Resolution of
+Human and Bacterial Diversity with City-Scale Metagenomics Cell Syst. 2015;
+1 :72-87 Full Text Full Text (PDF) Scopus (211) PubMed
+Google Scholar . Briefly, this involved fragmenting with an LE
+Series Covaris sonicator (Woburn, MA) with a targeted average size
+of 500nt, a bead clean-up step to remove fragments under
+200nt, A-tailing, adaptor ligation, PCR amplification, bead-based library size selection,
+and a final clean-up step. A BioAnalyzer 2100 (Agilent, Cat.:
+G2939BA) was used to ensure libraries fell within a range
+of 450-650bp. Pilot samples collected in Barcelona and Stockholm were
+prepared using the QIAGEN QIAseq FX DNA Library Kit. The
+resulting libraries were sequenced on an Illumina HiSeq X Ten
+System (Illumina Inc., San Diego, CA) at HudsonAlpha Genome Center
+(Huntsville, Alabama) using HiSeq X Reagent Kits according to the
+manufacturer’s instructions ( https://www.illumina.com ).

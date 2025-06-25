@@ -1,0 +1,5 @@
+Insect cell strain Spodoptera frugiperda (Sf21) and Trichoplusia ni (High
+Five) were cultured for protein purification. Cells were cultured in
+Sf-900 II SFM medium (Gibco) at 28°C with 120 rpm
+in shaking incubator. Baculovirus infected cells were cultured at 28°C
+with 120 rpm for 60 h.

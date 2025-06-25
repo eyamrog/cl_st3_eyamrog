@@ -1,0 +1,14 @@
+In accordance with current guidelines, clinicians routinely base treatment recommendations
+on clinical risk, with a T4 tumor being the strongest
+risk factor. In a post hoc exploratory analysis, we examined
+the effect of ctDNA-negative status on recurrence-free survival among patients
+with low-risk or high-risk disease and T3 or T4 tumors.
+Among ctDNA-negative patients, 3-year recurrence-free survival was higher among patients
+with clinical low-risk cancers than among those with high-risk cancers
+(96.7% vs. 85.1%; hazard ratio, 3.04; 95% CI, 1.26 to
+7.34) (Fig. S9). Similarly, 3-year recurrence-free survival was higher among
+patients with T3 tumors than among those with T4 tumors
+(94.2% vs. 81.3%; hazard ratio, 2.60; 95% CI, 1.01 to
+6.71) (Fig. S10). We did not investigate the effect of
+ctDNA-positive status according to clinical risk because of the small
+total number of patients with a ctDNA-positive result.

@@ -1,0 +1,6 @@
+The gnomAD resource, including both sample and variant quality control
+(including sample ancestry assignment), is fully described in our companion
+paper . Analysis was conducted using gnomAD v.2.1.1. Putative LoF
+variants were defined as stop-gained, frameshift or essential splice site
+(splice donor or splice acceptor) as annotated by the Ensembl
+Variant Effect Predictor .

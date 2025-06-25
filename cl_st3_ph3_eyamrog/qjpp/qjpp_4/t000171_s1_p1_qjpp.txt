@@ -1,0 +1,9 @@
+Objective: Immune function is multifaceted and characterizations based on single
+biomarkers may be uninformative or misleading, particularly when considered across
+ecological contexts. However, measuring the many facets of immunity in
+the field can be challenging, since many measures cannot be
+obtained on-site, necessitating sample preservation and transport. Here we assess
+state-of-the-art methods for measuring immunity, focusing on measures that require
+a minimal blood sample obtained from a finger prick, which
+can be: (1) dried on filter paper, (2) frozen in
+liquid nitrogen, or (3) stabilized with chemical reagents.

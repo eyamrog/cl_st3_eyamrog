@@ -1,0 +1,22 @@
+Aside from SARS-CoV-2 and influenza viruses, the remaining 19 viruses
+detectable by mCARMEN lacked a recognized criterion standard clinical diagnostic.
+Thus, we compared mCARMEN to unbiased metagenomic NGS results for
+the characterization of 58 prepandemic unknown samples collected from patients
+with a presumed upper respiratory infection (Fig. 1f , Supplementary
+Table 5 and Supplementary Fig. 1c,d ). Both mCARMEN and
+NGS detected the same respiratory viruses in 13 specimens (7
+FLUAV, 2 HCoV-229E, 1 HCoV-NL63, 1 HCoV-OC43, 1 human metapneumovirus
+(HMPV) and 1 human rhinovirus (HRV)), neither detected respiratory viruses
+in 42 specimens and they had differing results for 3
+specimens, with 93% overall concordance based on an average of
+approximately 3 million reads per specimen. Nine of the 13
+specimens positive by both methods assembled complete genomes while the
+remaining 4 assembled partial or no genomes but had >10
+reads (2 FLUAV, 1 HMPV, 1 HRV). mCARMEN missed 1
+virus-positive specimen detected by NGS, a partial FLUAV genome. We
+found no sequencing reads spanning the mCARMEN amplicon, suggesting that
+degradation was responsible for the result. mCARMEN detected virus in
+2 specimens (1 FLUAV, 1 HRV) where NGS did not
+detect any viral reads. While we cannot rule out false
+positive results, metagenomic sequencing has been shown to have poor
+sensitivity for low viral copy samples .

@@ -1,0 +1,7 @@
+Combined, our data suggest that, under basal conditions, cells are
+able to buffer most of their cAMP. This, in turn,
+allows PDEs to generate low-cAMP nanodomains. Only upon stimulation of
+adenylyl cyclases (ACs) and inhibition of PDEs is the level
+of cAMP raised sufficiently to overcome the capacity of the
+endogenous buffers and to progressively “flood” the small domains and,
+ultimately, entire cells.

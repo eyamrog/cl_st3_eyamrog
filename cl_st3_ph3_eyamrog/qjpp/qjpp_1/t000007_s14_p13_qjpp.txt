@@ -1,0 +1,12 @@
+We began by identifying all pairs of substitutions that occurred
+in two or more of the patients with chronic infection.
+Fisher’s exact test was used to identify a deviation from
+expected individual frequencies. After this, we tested for co-occurrence of
+the set of enriched pairs in the global set of
+sequences by querying ViruSurf ( http://geco.deib.polimi.it/virusurf/ ) . Similarly to
+the described above, we also tested for enrichment of pairs
+of mutations, but the larger sample size of mutants permitted
+the use of a χ test to assess for deviation
+from expected individual frequencies by comparing marginal probabilities with paired
+probabilities (number of degrees of freedom was 1). All multiple
+testing was accounted for by FDR .

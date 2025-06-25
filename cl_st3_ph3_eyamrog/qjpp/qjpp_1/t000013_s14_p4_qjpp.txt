@@ -1,0 +1,5 @@
+crRNAs were synthesized by Integrated DNA Technologies, resuspended in nuclease-free
+water to 100 μM and further diluted for input into
+the detection reaction. Primer sequences were ordered from Eton or
+Integrated DNA Technologies, resuspended in nuclease-free water to 100 μM
+and further combined at varying concentrations for pooled amplification.

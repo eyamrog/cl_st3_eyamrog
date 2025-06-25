@@ -1,0 +1,8 @@
+Methods: Participants ( n = 9) wore wrist accelerometers for
+~23 h each day for 6 days during an anthropological
+field school and also in a traditional classroom environment. Accelerometers
+were programed with participant height, weight, age, and sex. Each
+accelerometer recorded total energy expenditure in kilocalories (kcal), step counts,
+and time in four physical activity levels (vigorous, moderate, easy,
+and very easy) between the field school and traditional classroom
+settings.

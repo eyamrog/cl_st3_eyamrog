@@ -1,0 +1,14 @@
+In contrast, EEEV-27 and EEEV-93 exhibited greatly reduced neutralization potency
+when expressed as Fab molecules, compared to IgG, and showed
+a corresponding reduction in binding to SINV/EEEV particles (>1,000-fold reduction
+in IC 50 and EC 50 values) ( Figure S1
+). These findings suggest that for EEEV-27 and EEEV-93, the
+monovalent interaction of Fab with SINV/EEEV particles likely is of
+low affinity and the avidity benefits of interactions achieved though
+bivalent binding facilitate optimal binding and neutralization of SINV/EEEV. The
+IC 50 values of neutralization and EC 50 values for
+binding to SINV/EEEV did not correspond for all of the
+inhibitory human anti-EEEV mAbs or Fabs. EEEV-7, EEEV-12, EEEV-21, EEEV-97,
+and EEEV-147 bound SINV/EEEV particles with similar strength as Fab
+molecules, compared to IgG. However, a reduction in neutralization potency
+was observed for Fab molecules.

@@ -1,0 +1,7 @@
+In our experiments the labeling efficiency rate 𝑟 ⁡ (
+𝑡 ) peaked 32 h after tamoxifen injection and had
+a localized time profile with a full width at half
+maximum of about 21 h. Thus, once 𝑟 ⁡ (
+𝑡 ) becomes sufficiently small, the temporal dependence of 𝐿
+⁡ ( 𝑡 ) ∝ 𝑒 − 𝑡 / 𝜏
+B M .

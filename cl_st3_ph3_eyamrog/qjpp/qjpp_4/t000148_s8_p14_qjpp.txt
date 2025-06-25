@@ -1,0 +1,16 @@
+The specific context motivating this question guides the possible answers.
+Health care providers need to recognize pathology and to treat
+it, and human biologists need to differentiate adaptive phenotypes and
+correctly characterize the nature of the evolutionary processes that have
+shaped our species. In everyday life the most commonly seen
+phenotypes are understood to be normal (Mead 1947). In biomedicine
+normal is often equated with healthy, which the World Health
+Organization defines as “a state of complete physical, mental and
+social well-being and not merely the absence of disease or
+infirmity.” It is difficult, arguably impossible, to either achieve or
+operationalize this ideal. Bodies malfunction for various reasons. No complex
+organism is likely to function at peak performance (however operationalized)
+throughout an entire lifespan, even in the very best of
+conditions. It's neither useful nor informative to restrict “normal” to
+only those phenotypic variants achieving peak performance and to label
+all other variants as “not healthy” or “abnormal.”

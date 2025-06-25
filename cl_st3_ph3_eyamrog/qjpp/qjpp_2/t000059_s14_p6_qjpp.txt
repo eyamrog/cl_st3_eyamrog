@@ -1,0 +1,22 @@
+To estimate the incidence of non-fatal outcomes, including years lived
+with disability, first we used a Disease Model-Bayesian Meta-Regression (DisMod-MR;
+version 2.1) to model and infer the incidence of each
+cause of injury warranting medical care by sex, age group
+(age 60–64, 65–69, 70–74, 75–79, and ≥80 years), year, and
+province. Second, we derived the outpatient incidence from the estimated
+incidence using the outpatient coefficient. We then adjusted the incidence
+by removing injury deaths from the incidence pool. Third, we
+generated cause–nature matrices on the basis of dual-coded clinical data
+and separately calculated the age-specific, sex-specific, year-specific, and province-specific incidence
+of each cause–nature combination. Fourth, we converted these incidence estimates
+into short-term and long-term injury incidence estimates. We used DisMod-MR
+to convert the long-term injury incidence into long-term prevalence for
+each cause–nature combination. The short-term incidence was multiplied by the
+duration of injury to generate short-term prevalence for each cause–nature
+combination. Fifth, we calculated short-term disability weights and multiplied them
+by the short-term prevalence to generate short-term years lived with
+disability (YLDs). Sixth, we calculated the long-term prevalence on the
+basis of a similar process and adjusted using comorbidity correction.
+Finally, we aggregated the short-term and long-term YLDs across natures
+of injury for each cause by sex, age group, year,
+and province.

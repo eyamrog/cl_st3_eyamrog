@@ -1,0 +1,8 @@
+The consensus sequences generated directly above after multiple genome alignment
+with MAFFT were used to order a 500-bp dsDNA fragment
+encompassing the primer and crRNA binding sites. RNA was generated
+according to the method described in ‘General mCARMEN procedures-Preparation of
+IVT material’ and diluted to 10 copies μl in pools
+based on the primer pools mentioned above (PIC1, PIC2). The
+PICs were used as input into the CARMEN v.1 or
+mCARMEN detection reaction to function as a detection-positive control.

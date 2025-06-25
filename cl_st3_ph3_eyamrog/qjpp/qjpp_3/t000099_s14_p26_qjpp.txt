@@ -1,0 +1,14 @@
+Flow cytometry was performed at the Cellomics Unit of Fundación
+CNIC. Samples were acquired in a LSRII Fortessa or FACS
+Canto analyzer (BD Biosciences). Doublets and DAPI + cells were
+excluded from analyses using the FlowJo software (Flowjo LLC). To
+determine proliferation, cells were stained with anti-CD45 conjugated with PerCP/Cy5.5
+and anti-CD31-PECy7 and then fixed and permeabilized using the Fix/Perm
+and Perm Buffers (eBiosciences) according to manufacturer’s instructions. Cells were
+then stained for 30 min at 4°C with an anti-mouse
+and rat Ki67 antibody labeled with eFluor660 and analyzed by
+flow cytometry. The same procedure was performed to determine IL1b
+levels in tissue and circulating neutrophils. Truecount beads (BD) were
+used to estimate leukocyte counts after genotoxic damage on single
+cell suspensions from blood, bone marrow and spleen. Antibodies used
+are listed in the key resource table.

@@ -1,0 +1,19 @@
+Jon Claerbout, a geophysicist at Stanford University, wrote down many
+of the original ideas concerning reproducibility of computational research. His
+concern focused largely on developing a software system whereby the
+research produced by his lab could be passed on to
+others, including the original authors, the authors’ colleagues, students, research
+sponsors, and the general public. He noted in particular the
+benefits of reproducibility to the original authors: “It may seem
+strange to put the author's own name at the top
+of the list to whom we wish to provide the
+reproducible research, but it often seems that the greatest beneficiary
+of preparing the work in a reproducible form is the
+original author!” ( 10 , p. 1). It is equally
+notable that the public was listed last; all the other
+constituencies mentioned would likely exist within the small orbit of
+an individual investigator ( 10 ). In Claerbout's discussion, the
+primary focus is on improving the transparency and productivity of
+the lab itself, given that much time can be lost
+attempting to recreate past findings for the sole purpose of
+understanding what was previously done.

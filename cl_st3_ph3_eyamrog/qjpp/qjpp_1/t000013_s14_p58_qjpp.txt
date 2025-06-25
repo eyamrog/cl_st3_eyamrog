@@ -1,0 +1,4 @@
+The analysis software comprises Python scripts executing the data analysis
+described under ‘General CARMEN Procedures-Fluidigm Data Analysis.’ They were packaged
+into an executable with graphical user interface using the Python
+module Gooey v.1.0.7.

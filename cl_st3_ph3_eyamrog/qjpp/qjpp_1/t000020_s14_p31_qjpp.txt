@@ -1,0 +1,9 @@
+For each of the two genotyped LRRK2 pLoF, we determined
+carrier status by manually inspecting and custom calling the probe
+intensity plots. For the imputed variants, carrier status was determined
+from the minimac-imputed dosage. As these calling methods might produce
+false positives, we confirmed the participants’ genotypes through Sanger sequencing.
+Individuals with discordant genotypes were excluded. This resulted in a
+cohort of 749 individuals, each of whom is a Sanger
+sequence-confirmed carrier for one of three pLoF variants (Supplementary Table
+4 ).

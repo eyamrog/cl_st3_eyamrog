@@ -1,6 +1,0 @@
-The Gene Expression Omnibus (GEO) accession numbers for the mRNA-seq
-data reported in this paper are GEO: GSE117624 and GSE128672
-. The Sequence Read Archive (SRA) accession number for the
-ChIP-seq data reported in this paper is SRA: PRJNA528459. All
-other source data are available upon request to the Lead
-Contact.

@@ -1,0 +1,21 @@
+The extensive reanalysis found that the original studies were largely,
+if not perfectly, reproducible. For the Six Cities Study, the
+key result was a mortality relative risk of 1.26, which
+the reanalysis team computed to be 1.28. For the ACS
+Study, the original mortality relative risk was 1.17, close to
+the reanalysis value of 1.18. While one could argue that
+these studies were strictly speaking not reproducible, such small differences
+are not likely to be material. In fact, we now
+know, after numerous follow-up studies and independent replications, that the
+core findings of both studies appear to be true (
+8 ) and that the US EPA itself rates the
+evidence of a connection between fine particles and mortality to
+be “likely causal” ( 15 ). The reanalysis team ran
+many other analyses, including variables that had not been considered
+in the original studies. Overall, they found that the sensitivity
+analyses did not change any of the major conclusions. Interestingly,
+one of the key conclusions of the final HEI report
+stated that at the end of the day “[n]o single
+epidemiologic study can be the basis for determining a causal
+relation between air pollution and mortality” ( 26 , p.
+iv).

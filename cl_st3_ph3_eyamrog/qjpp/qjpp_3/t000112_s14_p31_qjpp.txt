@@ -1,0 +1,12 @@
+Despite good separation of positive and negative controls (see STAR
+Methods ) we identified several species in our negative controls
+which were also identified as prominent taxa in the data-set
+as a whole (See a core urban microbiome centers global
+diversity ). Our dilemma was that a microbial species that
+is common in the urban environment might also reasonably be
+expected to be common in the lab environment. In general,
+negative controls had lower k-mer complexity, fewer reads, and lower
+post PCR Qubit scores than case samples and no major
+flowcell specific species were observed. Similarly, positive control samples were
+not heavily contaminated. These results suggest samples are high quality
+but do not systematically exclude the possibility of contamination.

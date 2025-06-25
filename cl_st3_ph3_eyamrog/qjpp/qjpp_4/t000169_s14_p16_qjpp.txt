@@ -1,0 +1,12 @@
+Mean and standard deviation of the raw DBS values for
+the SHARE DBS sample are presented in Table 3 .
+These raw values are not comparable to standard blood values
+derived from routine laboratory assays of venous blood draws. This
+has several reasons. First, the raw values have not been
+converted to venous standard values according to the conversion formulae
+(Börsch-Supan et al., 2021 ). Second, they are based on
+a non-fasting state, which is particularly important for the interpretation
+of triglyceride and total cholesterol values. For TG (76 obs.)
+and CRP (52 obs.) we removed physiologically not meaningful values.
+The rightmost columns show the intra- and inter-assay variability measured
+as coefficient of variation (CV).

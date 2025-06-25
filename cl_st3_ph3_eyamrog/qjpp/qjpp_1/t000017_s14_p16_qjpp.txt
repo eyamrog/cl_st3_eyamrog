@@ -1,0 +1,5 @@
+The percentage change from baseline in spleen and liver volume
+as measured by central radiographic assessment using an MRI or
+a CT scan was summarized over time in the safety
+population. In addition, maximum percentage reduction was presented in waterfall
+plots.

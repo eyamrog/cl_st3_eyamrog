@@ -1,0 +1,20 @@
+For immunohistochemical analysis on paraffin, sections were dehydrated and paraffin
+wax embedded. 4-micron sections were deparafinized and brought to TBS
+buffer. Antigen unmasking was performed using heat induced epitope retrieval
+(HIER) with Citrate buffer at pH6 (anti-B220, BD and anti-F4/80,
+Abcam) or Tris-EDTA buffer at pH9 (anti-CD31, Abcam). Endogenous peroxidase
+was blocked by incubation with H 2 O 2 for
+5 min and endogenous antigens blocked with fetal bovine serum
+FBS) for anti-CD31 and anti-F4/80 or bovine serum albumin (BSA)
+for anti-B220 during 20 min to subsequently incubate with the
+primary antibodies. As secondary antibodies, we used a HRP-conjugated rabbit
+anti-rat antibody (Dako P045001) for anti-B220 and F4/80 and a
+HRP-conjugated goat anti-rabbit polymer (EnVision® K4003, Dako) for CD31. DAB
+(3,3′- diaminobenzidine) was used for visualization and nuclei were counterstained
+with Hematoxylin. For standard Hematoxylin and Eosin staining sample were
+rehydrated in decreased concentrations of ethanol, then 3 min in
+Harris Hematoxylin, 3 s in Acid Alcohol and 5 min
+in alcoholic eosin 5% solution, dehydrate again and mount with
+DPX. All the immunohistochemical procedures were performed using an automated
+autostainer (Autostainer Plus®, Dako). For image analysis the samples were
+digitalized with a scanner (NanoZoomer-2.0RS, Hamamatsu).

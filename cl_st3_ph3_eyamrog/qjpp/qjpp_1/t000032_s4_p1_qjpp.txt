@@ -1,0 +1,7 @@
+Technological trends over time generally favor a more open approach
+to science as the costs of sharing, hosting, and publishing
+have gone down. The continuing rapid advancement of computing technology,
+Internet infrastructure, and algorithmic complexity will likely introduce new challenges
+to reproducible research. As the scientific community expands its sharing
+of data and code, some important issues should be considered
+going forward.

@@ -1,0 +1,5 @@
+We obtained data of body height, weight, and skinfold thickness
+(subscapular, triceps) of 1666 school children aged 5.8–13.9 (mean 9.5)
+years in two separate studies, 2018 and 2020 (Scheffler et
+al., 2019 ; Scheffler et al., 2021 ). The data
+were obtained under standardized conditions (Knussmann, 1988 ).

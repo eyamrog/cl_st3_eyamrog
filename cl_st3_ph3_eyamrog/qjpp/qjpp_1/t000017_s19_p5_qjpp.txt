@@ -1,0 +1,18 @@
+Part 1 studied doses of 30, 60, 100, 130, 200,
+300 and 400 mg QD, with doses of 200 mg
+and higher achieving exposures consistently above, and doses of 100
+mg and 130 mg partly above, the xenograft 90% inhibitory
+concentration (IC 90 ) for KIT D816V inhibition at steady
+state ( Results and Extended Data Fig. 1 ). No
+maximum tolerated dose (MTD) was determined. During part 1, one
+patient experienced dose-limiting toxicity (DLT) of grade 4 vomiting at
+400 mg daily. A recommended phase 2 dose (RP2D) of
+300 mg QD was initially selected for use in part
+2; however, dose reduction to 200 mg QD was typical,
+most commonly for cytopenias. Importantly, 200 mg QD had similar
+exposure and time to response, so a second expansion cohort
+with a 200 mg QD starting dose was added by
+protocol amendment. In total, 15 patients initiated treatment at <200
+mg QD, 21 patients initiated at 200 mg QD, 43
+patients initiated at 300 mg QD and 7 patients initiated
+at 400 mg QD.

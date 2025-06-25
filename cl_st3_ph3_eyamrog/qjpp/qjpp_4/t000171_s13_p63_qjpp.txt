@@ -1,0 +1,24 @@
+Antigen stimulation assays involve mixing blood with an antigen or
+mitogen and incubating in medium, followed by measurement of the
+response to the treatment. Common antigens include lipopolysaccharide (LPS), a
+cell wall component of gram-negative bacteria that initiates B-cell division
+and activation of antigen presenting cells, and phytohemagglutinin (PHA) a
+mitogen that activates T cells; other studies have also used
+antigens ranging from fragments of helminths (van Riet et al.,
+2009 ) to H1N1 flu vaccine (Schneider-Crease et al., 2021
+). Typical protocols call for incubation in a CO 2
+enriched incubator at 37°C. However, May, van Bodegom, et al.
+( 2009 ) developed a field-friendly method for whole blood
+stimulation that does not require the CO 2 tank. They
+created a CO 2 enriched environment by sealing the samples
+in a plastic container containing water and a burning candle.
+The candle depletes the oxygen and enriches the CO 2
+in the contained before going out (Figure 1B ). This
+procedure has been successfully carried out for a number of
+studies (May, van Den Biggelaar, et al., 2009 ; Schneider-Crease
+et al., 2021 ; Trumble et al., 2016 ), however,
+because it still requires the ability to maintain samples at
+37°C—usually in an incubator—it is not the most field-friendly protocol.
+The incubation time ranges from 24 to 72 h, depending
+on whether the assay is designed to capture initial, innate
+responses, or slower adaptive immune responses.

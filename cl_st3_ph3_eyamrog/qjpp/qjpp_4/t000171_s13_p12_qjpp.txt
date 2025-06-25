@@ -1,0 +1,10 @@
+Finally, many measures are intended to compare individuals in terms
+of immunocompetence—the hypothetical capacity of an individual to respond to
+a randomly encountered pathogen. The most direct assays of immunocompetence
+are functional assays such as antigen stimulation assays and bacterial
+killing assays. However, we caution that for the most part
+the results of these assays have not been directly validated
+against real-life morbidity and mortality from illness. It is also
+probably impossible to create a single, global measure of immunocompetence
+since individuals will differ in response to different pathogens (Schmid-Hempel
+& Ebert, 2003 ).

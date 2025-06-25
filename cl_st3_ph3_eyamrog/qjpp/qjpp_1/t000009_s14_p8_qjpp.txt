@@ -1,0 +1,14 @@
+Prevalent noncancer physical comorbidities recorded before index date entry were
+identified from primary and secondary care records. We considered the
+following 21 comorbidities: heart failure, chronic obstructive pulmonary disease, HIV,
+hepatic disorders (i.e., alcoholic liver disease, nonalcoholic fatty liver disease,
+hepatic failure, liver fibrosis and cirrhosis and portal hypertension), stroke
+(i.e., ischemic stroke, stroke not otherwise specified, transient ischemic attack,
+intracerebral hemorrhage and subarachnoid hemorrhage), myocardial infarction, vascular disease (i.e.,
+peripheral arterial disease, Raynaud’s syndrome and venous thromboembolic disease) and
+abnormal glucose metabolism (i.e., type 1 or type 2 diabetes,
+diabetic neurological complications and diabetic ophthalmic complications). For stratified analyses,
+patients were divided into the following categories: no additional comorbidities
+(i.e., patients without diagnosis of any of the above noncancer
+comorbidities), one additional comorbidity, two comorbidities, three comorbidities and four
+or more comorbidities.

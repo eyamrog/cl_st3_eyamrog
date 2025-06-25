@@ -1,0 +1,3 @@
+• Plasmids for expressing helixCAM in E. coli and for
+constructing mammalian helixCAM cell lines have been deposited to Addgene
+under Addgene IDs 186303–186318.

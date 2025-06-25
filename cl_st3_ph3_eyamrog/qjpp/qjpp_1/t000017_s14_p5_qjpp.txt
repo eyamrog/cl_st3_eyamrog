@@ -1,0 +1,16 @@
+The 3 + 3 dose-escalation design used cohorts of three
+to six patients. The first cohort received avapritinib at a
+starting dose of 30 mg daily. Dose escalation then proceeded
+at increments up to 100% until one or more patients
+treated at a given dose level had a ≥grade 2
+non-hematologic AE possibly related to avapritinib or a grade 4
+hematologic AE possibly related to avapritinib, or if the given
+dose exceeded the highest dose determined to be safe in
+the first-in-human study of avapritinib in patients with GIST (400
+mg). Three patients were enrolled initially in each cohort with
+an additional accrual of three patients if the cohort required
+expansion due to DLT. Once the escalation cohort was full,
+up to three additional patients (diagnosis of AdvSM only) could
+be enrolled into an enrichment cohort at a lower dose.
+Data from these patients were intended for further exploration of
+PK, pharmacodynamics and safety in patients with AdvSM.

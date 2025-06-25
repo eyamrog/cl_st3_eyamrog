@@ -1,0 +1,9 @@
+Specimen preparation was performed according to the method outlined in
+‘General mCARMEN Procedures-Sample extraction’ with 200 µl of input material.
+Amplification was performed according to the methods outlined in ‘General
+mCARMEN Procedures-Amplification’. Detection reactions were prepared as described in ‘General
+mCARMEN Procedures-Detection’ with the following modifications: 42.5 nM LwaCas13 and
+212.5 nM crRNA in each assay mix reaction and 500
+nM quenched synthetic fluorescent RNA reporter (FAM/rUrUrUrUrUrUrU/3IABkFQ/) in each sample
+mix reaction. Results were analyzed according to the methods outlined
+under ‘General mCARMEN procedures-Data analysis’.

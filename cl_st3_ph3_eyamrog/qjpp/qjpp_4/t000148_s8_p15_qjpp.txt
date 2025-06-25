@@ -1,0 +1,6 @@
+In contemporary evolutionary sciences, the concept of normal is informed
+by the theories and evidence of adaptation. Adaptive phenotypic variants
+are those that have the relatively highest LRS in the
+local environment. Comparing LRS of phenotypic variants is one option
+for judging what is normal. There are, however, some challenges
+in this approach.

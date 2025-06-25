@@ -1,0 +1,23 @@
+The primary aim of this study was to use pre-pandemic
+data to estimate Australian incidence and mortality rates for all
+cancers combined and for 21 cancer types individually, and to
+estimate the numbers of new cases and deaths from all
+cancers for the period of 2020 to 2044 (hereafter referred
+to as baseline projections). These baseline projections assume that the
+recent pre-pandemic trends in underlying factors will continue into the
+future and were constructed as a benchmark against which the
+effect of the COVID-19 pandemic or other future cancer control
+interventions can be measured. To illustrate how the baseline projections
+could be used as a benchmark against which to assess
+the effect of the COVID-19 pandemic, a secondary aim of
+this study was to conduct an exploratory analysis estimating the
+potential long-term effect on cancer mortality of cancer treatment delays
+due to the COVID-19 pandemic under different delay scenarios, using
+colorectal cancer as an example. We estimated the number of
+excess colorectal cancer deaths for 2020–44 under a range of
+potential scenarios. Colorectal cancer was selected as it was the
+second most common cause of cancer death in Australia in
+2019, most patients would have received surgical treatment under the
+pre-pandemic status quo, and a recent meta-analysis robustly quantified the
+mortality risk for seven cancers including colorectal cancer due to
+delayed treatment.

@@ -1,7 +1,0 @@
-In summary, the use of Internet-based data collection offers new
-opportunities but raises several new ethical concerns compared with traditional
-public health surveillance. These issues should continue to be addressed
-and require communication with the public. As a starting point,
-Mittelstadt et al. ( 67 ) have provided conditions to
-consider and several case studies related to the ethics of
-digital surveillance.

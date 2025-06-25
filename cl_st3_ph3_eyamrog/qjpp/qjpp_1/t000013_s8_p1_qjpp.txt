@@ -1,0 +1,10 @@
+COVID-19 has exposed critical gaps in our global infectious disease
+diagnostic and surveillance capacity . The pandemic rapidly necessitated high-throughput
+diagnostics to test large populations , yet early diagnostic efforts
+met technical challenges that cost the United States precious time
+in its early response . Other challenges developed as the
+pandemic progressed that point toward an additional need for highly
+multiplexed surveillance technologies. These challenges include the cocirculating human respiratory
+viruses that cause symptoms similar to COVID-19 (refs. ) and
+emerging SARS-CoV-2 variants of concern (VOCs) with mutations that impact
+viral fitness and clinical disease prognosis .

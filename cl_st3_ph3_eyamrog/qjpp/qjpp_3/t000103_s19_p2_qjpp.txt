@@ -1,0 +1,17 @@
+The activity of human anti-EEEV mAbs was tested against the
+pathogenic EEEV strain FL93-939 under BSL-3 conditions. Overall, the neutralization
+potency with EEEV was consistent with results obtained with SINV/EEEV,
+supporting the use of chimeric virus for functional analysis (
+Figure 1 C). Nine mAbs neutralized EEEV completely at 75
+nM (22.5 μg/mL), such that a residual fraction of infectious
+virus was not observed ( Figure 1 C). Several mAbs
+exhibited extremely potent neutralization activity against EEEV; three mAbs (EEEV-27,
+EEEV-33, and EEEV-106) achieved nearly 100% neutralization of EEEV even
+at the lowest concentration tested, 37 pM (11 ng/mL) (
+Figures 1 C and 1D). Nine mAbs exhibited neutralization activity
+of <400 pM (120 ng/mL) IC 50 values against EEEV.
+Additionally, two mAbs exhibited weak neutralization activity with IC 50
+values in a range of 400 pM–5 nM (120 ng/mL–1.5
+μg/mL) against EEEV ( Figure 1 D). EEEV-97 did not
+neutralize EEEV at any of the concentrations tested, which corresponded
+with its weak activity against SINV/EEEV.

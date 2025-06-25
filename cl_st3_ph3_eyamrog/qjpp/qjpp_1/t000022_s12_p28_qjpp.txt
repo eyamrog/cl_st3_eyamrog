@@ -1,9 +1,0 @@
-Lists and data sources are almost always incomplete, and often
-systematically incomplete. Failing to acknowledge this fact risks perpetuating inequities
-by continuing to underrepresent vulnerable populations in scientific studies. Populations
-that are of key interest due to their unique vulnerabilities
-to health outcomes are often not represented in high-volume data
-sets. These populations may be missed because they make up
-only a small proportion of the overall population, or because
-of the stigma and discrimination that often follows from disclosing
-their identity.

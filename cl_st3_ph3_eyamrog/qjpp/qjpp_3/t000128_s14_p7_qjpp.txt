@@ -1,0 +1,10 @@
+The initial constructs for testing Z17-ehaA and Z18-ehaA in E.
+coli were gifted from the Tirrell Lab then modified by
+removing the His-tag and GS linker between the PelB and
+CC sequences. For the remaining E. coli helixCAM construction, coiled-coil
+sequences were found via literature search and private communications and
+synthesized (Twist). The synthesized CC-encoding DNA fragments were then used
+to replace the Z17 sequence region via Gibson Assembly (NEB
+E2611L). Plasmids were transformed in T7 Express Competent E. coli
+cells (NEB C2566), miniprepped (Qiagen 27,104), and verified via Sanger
+sequencing (Genewiz).

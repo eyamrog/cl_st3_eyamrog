@@ -1,0 +1,16 @@
+We outline several limitations. We have not considered tumor stage
+and grade due to insufficient data. We acknowledge the possibility
+of surveillance bias between patients with psychiatric disorders and in
+those without. Although our use of population-based records provides robust
+and representative data, there remains a risk of underreporting of
+self-injurious behavior due to stigma, particularly among more affluent communities.
+Our analyses were adjusted for socioeconomic deprivation to reduce the
+impact of these biases. Suicides may be underestimated, as we
+have used ICD codes on death certificates as we do
+not have access to coroners’ reports. Coroners recording a suicide
+verdict must indicate suicidal intent beyond a reasonable doubt, or
+else an open or accidental verdict is returned . To
+address this problem, we have included open verdicts in our
+analyses as recommended by others . We have not considered
+treatments for psychiatric disorders. The effects of psychiatric interventions on
+cancer survivorship can be explored in the future.

@@ -1,0 +1,16 @@
+First, K562 helixCAM cells were pre-induced for 48 h with
+500 ng/mL doxycycline. For testing CC coating concentrations, Ni-coated 96-well
+plate wells were coated with 100μL of either his-tagged CCs
+or his-tagged CC-GFP fusions at a range of protein concentrations
+then incubated for 30 min. The CC protein solution was
+then aspirated and washed with PBS+20mM imidazole (ThermoFisher 88,229), then
+blocked with PBS+20mM imidazole for 30 min. The blocking solution
+was then aspirated, and the pre-induced HelixCAM K562 cells were
+added in culture media+20mM imidazole+500 ng/mL doxycycline for 2 h.
+We then washed the plate with culture media twice, followed
+by imaging and image segmentation to count the number of
+bound cells. For both dot-based and letter-based dual-CC patterning, the
+two CC-GFP-His protein solutions used were patterned using a 10uL
+pipette tip, carefully avoiding contact with the other solution or
+with the well edge. Subsequent steps are identical to the
+single CC patterning described above.

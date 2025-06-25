@@ -1,0 +1,5 @@
+Objectives: The quality of blood values analyzed from survey-collected dried
+blood spot (DBS) samples is affected by fieldwork conditions, particularly
+spot size. We offer an image-based algorithm that accurately measures
+the area of field-collected DBS and we investigate the impact
+of spot size on the analyzed blood marker values.

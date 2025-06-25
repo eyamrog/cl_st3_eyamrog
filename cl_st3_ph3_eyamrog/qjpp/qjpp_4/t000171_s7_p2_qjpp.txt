@@ -1,0 +1,14 @@
+The immune system is complex. It is composed of a
+wide array of cells, signaling molecules, and effector molecules that
+exist or act in coordination to prevent or limit infection.
+Consequently, there are a large number of parameters that studies
+might measure when seeking to quantify the immune system. For
+some studies, single measures may be sufficient. For example, C-reactive
+protein (CRP) levels are useful for capturing a snapshot of
+systemic inflammation and infection (Black et al., 2004 ; McDade
+et al., 2012 ). However, single measures tell us little
+about interactions between the immune and other systems, or more
+abstract constructs like immunocompetence, immunosenescence, and immunological strategies or trade-offs.
+Additionally, circulating levels may not always be reflective of immunological
+response to infection; measuring immune responses to stimuli—rather than levels
+at a single, arbitrary time point—may sometimes be more informative.

@@ -1,0 +1,6 @@
+Results: Using automated spot-size measurement, we found that spot size
+has a significant effect on all markers. Smaller spots are
+associated with lower measured levels, except for HbA1c, for which
+we observe a negative effect. Our precisely measured spot sizes
+explain substantially more variance of DBS analytes compared to commonly
+used spot-size estimation.

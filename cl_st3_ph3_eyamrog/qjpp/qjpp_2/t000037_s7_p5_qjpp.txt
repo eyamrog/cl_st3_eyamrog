@@ -1,9 +1,0 @@
-Several digital surveillance systems have been used for influenza, including
-Google Flu Trends, Influenzanet, and Flu Near You. These systems
-broadly aim to provide timely reports of influenza incidence in
-local areas ( 15 , 23 , 96 ). While
-these influenza tracking examples and other digital health surveillance tools
-demonstrate promise for expanding surveillance through digital means, there are
-also some key trade-offs, such as concerns related to accuracy,
-privacy, and navigating public/private partnerships for connecting technology companies with
-government surveillance efforts.

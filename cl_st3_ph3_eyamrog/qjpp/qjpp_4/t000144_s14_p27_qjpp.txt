@@ -1,0 +1,12 @@
+As all models reported here use a logit link function
+and are Bayesian, we report results using odds ratios (ORs)
+and 90% credible intervals (CIs). We explain how ORs and
+CIs work in Supporting Information 3.6 . Briefly, we use
+90% CIs because (a) CIs are typically wider than confidence
+intervals, as Bayesian models better account for uncertainty than frequentist
+models, and (b) the 95% criterion can be unstable for
+CIs, requiring extensive sampling during the model-fitting process (Kruschke, 2014
+). As the OR estimate for intercepts—including the thresholds for
+transitioning from zero to one long-distance relationship, one to two,
+and so forth—do not have a straightforward interpretation, we do
+not report these here.

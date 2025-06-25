@@ -1,8 +1,0 @@
-Glycopeptide data were visualized and processed by Byonic (Version 3.8,
-Protein Metrics Inc.) using a 10 ppm precursor and 10
-ppm fragment mass tolerance. Glycopeptides were searched using the N-glycan
-309 mammalian database in Protein Metrics PMI-Suite and scored based
-on the assignment of correct c- and z- fragment ions.
-The true-positive entities were further validated by the presence of
-glycan oxonium ions m/z at 204 (HexNAc ions) and 366
-(HexNAcHex ions).

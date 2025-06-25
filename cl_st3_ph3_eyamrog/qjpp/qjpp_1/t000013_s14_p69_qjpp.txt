@@ -1,0 +1,3 @@
+Please note that the variant identification pipeline will need to
+be updated as new SARS-CoV-2 mutations and variant lineages arise
+for proper identification.

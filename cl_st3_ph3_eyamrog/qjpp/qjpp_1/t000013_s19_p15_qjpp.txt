@@ -1,0 +1,14 @@
+We implemented mCARMEN RVP in the Clinical Laboratory Improvement Amendments
+(CLIA)-certified Clinical Microbiology Laboratory at Massachusetts General Hospital (MGH) to
+establish assay sensitivity and specificity for clinical validation according to
+U.S. Food and Drug Administration (FDA) guidelines. We first evaluated
+the LOD, defined as the lowest concentration yielding positive results
+for at least 19 of 20 replicates. After recapitulating the
+9 viral targets on RVP, we found that the LOD
+for HCoV-HKU1, HCoV-NL63, HCoV-OC43, FLUAV and FLUBV were 500 copies
+μl while HMPV and SARS-CoV-2 were 1,000 copies μl and
+HPIV-3 and HRSV were 10,000 copies μl (Fig. 3a,b ,
+Extended Data Fig. 5a and Supplementary Table 7 ). The
+LOD likely varies between viral targets for a few reasons:
+the crRNAs have varying activity levels on their intended target
+and differing input materials were used based on sample availability.

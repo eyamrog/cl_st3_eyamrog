@@ -1,0 +1,25 @@
+For laboratory processing, small circular discs (the punches) with a
+given diameter of 3.2 mm are cut out of a
+blood spot area, which is completely covered and fully soaked
+with blood to ensure a fixed blood volume. A freely
+falling blood drop of ca. 50 μl creates a spot
+of ca. 1 cm in diameter. In such a DBS,
+the volume contained in this small cylinder of a punch
+is calculated to be 3.2–3.4 μl. Based on CLSI standard,
+this volume is calculated to be 3.42 μl at 55%
+hematocrit (Chace et al. 2014 in: Li & Lee, 2014
+). The punching of all SHARE DBS samples was performed
+at Statens Serum Institut. For the analysis of all 17
+SHARE markers, five punches per DBS sample are necessary. HDL,
+tHb, HbA1c (together referred to as A-marker set) can be
+analyzed from the same eluate of two punches. One additional
+punch is necessary for TC, TG, CRP, CysC (the B-marker
+set). Two further punches are needed to analyze the cytokine
+and other markers (the C-marker set) in a multiplex immunoassay.
+A sample with blood of insufficient quality (e.g., smeared or
+overlapping spots) still can be analyzed for HbA1c from one
+punch taken from such an otherwise unsuitable spot. HbA1c is
+a relative measure, the percentage of glycated from total hemoglobin,
+and should therefore be concentration-independent except for variations of biomarker
+concentration within the blood spot as described at the introductory
+section of this paper.

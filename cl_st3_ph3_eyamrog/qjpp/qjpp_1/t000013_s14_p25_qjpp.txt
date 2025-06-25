@@ -1,0 +1,8 @@
+The following RT–PCR kits were tested to determine the best
+performing assay: (1) OneStep RT–PCR Kit (QIAGEN); (2) TaqPath 1-Step
+Multiplex Master Mix (Thermo Fisher Scientific); (3) One-Step PrimeScript RT–PCR
+Kit (Takara Bio); (4) GoTaq Probe qPCR Kit (Promega Corporation);
+(5) UltraPlex 1-Step ToughMix (4X) (Quanta BioSciences); and (6) iTaq
+Universal One-Step Kit for RT–PCR (Bio-Rad Laboratories). Of the kits
+tested, the OneStep RT–PCR Kit (QIAGEN) was chosen for the
+final mCARMEN protocol.

@@ -1,0 +1,14 @@
+First, we examined the effect of education on differences between
+sexes in cognitive performance and decline by adding level of
+education (four categories) and education by age into the initial
+and birth-cohort adjusted models, as well as education by age
+2 and by age 3 when α was less than
+0·05. We then examined whether the associations between sex and
+cognitive performance and decline differed by level of education by
+adding sex by education and sex by education by age
+interactions to the birth-cohort adjusted models, and reported p values
+based on the Wald test for these terms. Education was
+treated as an ordinal variable in this analysis to improve
+statistical power. Finally, sex differences in cognitive performance and decline
+were analysed separately in participants with low or high education
+level.

@@ -1,0 +1,10 @@
+Safety assessments included determination of ECOG performance status, clinical laboratory
+testing, vital signs, electrocardiograms, brain imaging (MRI or CT scan)
+and physical examinations. AEs were graded according to National Cancer
+Institute Common Terminology Criteria (v4.03) . Treatment-emergent AEs were defined
+as any AE occurring between the first dose of avapritinib
+through 30 d after the last dose of avapritinib, any
+event that was considered related to the study drug regardless
+of the start date of the event, or any event
+that was present at baseline but worsened intensity or was
+subsequently considered related to the study drug by the investigator.

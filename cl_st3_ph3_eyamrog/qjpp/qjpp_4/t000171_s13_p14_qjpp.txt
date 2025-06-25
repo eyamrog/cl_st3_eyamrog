@@ -1,0 +1,15 @@
+In the biomedical literature measures of inflammation have gained prominence
+due to their associations with what tend to be considered
+chronic diseases of modernity such as obesity, heart disease, and
+type-2 diabetes (Gurven et al., 2009 , 2016 ; Hersoug
+& Linneberg, 2007 ; West-Eberhard, 2019 ). These are often
+straightforward to collect given their ease of measurement in DBSs.
+Measures usually include CRP and inflammatory cytokines such as IL-6
+and TNF-α. However, these measures are quite labile and care
+must be taken to distinguish between baseline levels and acute
+elevations due to infection. Inflammatory markers may need to be
+interpreted differently in high- and low-pathogen contexts: in low-pathogen contexts
+baseline elevations of these markers are indicative of nonspecific inflammation
+and a variety of chronic diseases, whereas in high-pathogen contexts
+these are more likely to indicate recent or ongoing acute
+infections (McDade et al., 2012 ).

@@ -1,0 +1,15 @@
+We thank the research participants and employees of 23andMe, Inc.
+and the research participants in gnomAD and the UK Biobank,
+for making this work possible. N. Whiffin is supported by
+a Rosetrees and Stoneygate Imperial College Research Fellowship. E.V. Minikel
+is supported by National Institutes of Health F31 AI22592. K.J.K.
+was supported by NIGMS F32 GM115208. This work was supported
+by the Michael J. Fox Foundation for Parkinson’s Research grant
+12868, NIDDK U54DK105566, NIGMS R01GM104371, Wellcome Trust (107469/Z/15/Z); Medical Research
+Council (UK); NIHR Royal Brompton Biomedical Research Unit; NIHR Imperial
+Biomedical Research Centre. L.F. was supported by the Swiss National
+Science Foundation (Advanced Postdoc. Mobility 177853). T.E. is supported by
+Estonian Research Council grant PUT1660. L.M. is supported by Estonian
+Research Council grant PRG184. This research has been conducted using
+the UK Biobank Resource ( https://doi.org/10.1101/572347 ) under Application Number
+42890.

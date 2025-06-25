@@ -1,0 +1,7 @@
+BioMe is linked to Mount Sinai’s system-wide Epic EHR, which
+captures a full spectrum of biomedical phenotypes, including clinical outcomes,
+covariate and exposure data from past, present and future healthcare
+encounters. The median number of outpatient encounters is 21 per
+participant, reflecting predominant enrollment of participants with common chronic conditions
+from primary care facilities. Clinical phenotype data have been meticulously
+harmonized and validated.

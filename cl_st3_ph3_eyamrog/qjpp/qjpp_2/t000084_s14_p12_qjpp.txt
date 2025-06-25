@@ -1,0 +1,8 @@
+In the total population and in subgroups, we calculated odds
+ratios to indicate effect sizes for patient-reported angina and hazard
+ratios to indicate effect sizes for time-to-event data. Sample-size estimation
+was performed with the use of nQuery, version 7.0, and
+the R package gsDesign for the group sequential design. Statistical
+analyses were performed with the use of SAS software, version
+9.4 (SAS Institute); SPSS for Windows, version 26 (IBM); and
+the statistical programming language R, version 4.0.3.

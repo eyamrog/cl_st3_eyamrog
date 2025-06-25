@@ -1,0 +1,14 @@
+It is worth noting that the validity of inclinometers and
+thigh-worn accelerometers has been established within the context of northern
+industrialized populations, for whom the horizontal position of the thigh
+is likely to correlate with a seated or reclined posture.
+This may result in misclassifications in populations where postures such
+as squatting and kneeling, which are not classically considered sedentary
+behaviors, are common. For example, data from the Hadza show
+that approximately 30% of time that the activPAL classifies as
+sitting/lying was actually spent squatting or kneeling (Raichlen et al.,
+2020 ). To differentiate between “active” and “passive” postures in
+these kinds of contexts, it may be particularly useful to
+combine an inclinometer with another method, such as direct observation,
+a wearable camera, or electromyographic shorts (Tikkanen et al., 2013
+).

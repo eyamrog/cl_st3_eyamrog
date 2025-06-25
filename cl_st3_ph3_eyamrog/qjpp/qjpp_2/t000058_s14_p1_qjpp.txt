@@ -1,0 +1,9 @@
+We performed a high-resolution spatiotemporal analysis of civil registration data
+in which we extracted de-identified data for all deaths in
+England from 2002 to 2019 (8 646 878 death records)
+from the UK Small Area Health Statistics Unit research database.
+The UK Small Area Health Statistics Unit holds approval from
+the Health Research Authority Confidentiality Advisory Group under regulation 5
+of the health service (Control of Patient Information) regulations 2002
+(section 251; reference 20/CAG/0028), and the National Research Ethics Service:
+London-South East Research Ethics Committee (reference 17/LO/0846).

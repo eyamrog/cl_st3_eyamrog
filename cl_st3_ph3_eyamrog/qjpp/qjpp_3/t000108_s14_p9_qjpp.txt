@@ -1,0 +1,8 @@
+To generate osteoclast reporter mice, we lethally irradiated 7-12 weeks-old
+C57BL/6J recipient mice with 950-990 rads in split doses 6
+h apart. Irradiated mice were rescued with 3-10 × 10
+6 bone marrow cells from Lysm Cre/+ . Tdtomato LSL/LSL
+and Blimp-1 Egfp/+ . Rag1 −/− or Csf1r Egfp/+ mice
+in a ratio of 1:4 for Blimp-1 Egfp/+ . Rag1
+−/− and 1:1 for Csf1r Egfp/+ donors. Chimeric mice were
+analyzed 8-14 weeks later following bone marrow reconstitution.

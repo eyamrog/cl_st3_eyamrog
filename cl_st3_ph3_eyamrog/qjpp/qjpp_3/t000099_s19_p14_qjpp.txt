@@ -1,0 +1,22 @@
+Finally, we asked whether the signature instructed by the lung,
+as a prototypical tissue, was dominant or not over pathological
+states. We took advantage of an existing scRNA-seq dataset of
+lung neutrophils in the presence of adenocarcinoma ( Zilionis et
+al., 2019 73. Zilionis, R. ∙ Engblom, C. ∙ Pfirschke,
+C. ... Single-Cell Transcriptomics of Human and Mouse Lung Cancers
+Reveals Conserved Myeloid Populations across Individuals and Species Immunity. 2019;
+50 :1317-1334.e10 Full Text Full Text (PDF) Scopus (810) PubMed
+Google Scholar ), in which we could identify two populations
+of neutrophils in healthy versus tumor-bearing lungs ( Figure S4
+I). Projection of our tissue signatures onto this dataset was,
+as expected, stronger for pulmonary neutrophils ( Figure S4 J);
+however, it was unable to discriminate tumor-free versus tumor-associated neutrophils,
+even if the tumoral group presented evidence of what appeared
+to be a more immature state, based on the expression
+of granule-related genes ( Figure S4 K). This finding suggested
+that, at least in this particular pathological scenario, the tissue
+(lung) imprints the neutrophil profile even in the presence of
+a pathological perturbation (adenocarcinoma). All combined, these data supported a
+model whereby neutrophil reprogramming occurs rapidly (within the scope of
+their lifetime in tissues, as defined in Figure 1 )
+once the cells enter the tissues.

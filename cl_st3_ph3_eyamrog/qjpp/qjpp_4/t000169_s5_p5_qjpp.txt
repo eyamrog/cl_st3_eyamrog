@@ -1,0 +1,4 @@
+We tested the same models (Model 1–Model 3) using non-linear
+(quadratic) specifications for the continuous covariates. We find the same
+effects for spot size and the same significant differences between
+the models.

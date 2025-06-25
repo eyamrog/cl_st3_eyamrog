@@ -1,0 +1,8 @@
+For single-cell FRET measurements HEK293 cells were plated on 24
+mm glass coverslips (Fisher Scientific GmbH, Waltham, MA, USA) in
+6-well-dishes (SARSTEDT, Nümbrecht, Germany) at a density of approximately 2
+× 10 5 cells/mL. Transfection of plasmids (600 ng for
+Epac1-camps-based constructs, 300 ng for AKAR4-based constructs) was carried out
+6 h after seeding using the Effectene Transfection Reagent (QIAGEN
+GmbH, Venlo, Netherlands) according to the manufacturer’s instructions. After 18-24
+h, cells were used for imaging.

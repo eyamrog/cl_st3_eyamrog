@@ -1,0 +1,25 @@
+For quantifying peripheral blood cells, there are two main point-of-care
+devices on the market that are compact enough to be
+convenient for field work. quantitative buffy coat (QBC) dry hematology
+analyzers (Autoread Plus and STAR; Drucker Diagnostic, Inc ) provide
+a 2-part differential with nine parameters: hematocrit, hemoglobin, MCHC, white
+blood cell count, granulocyte count, lymphocyte/monocyte count, and platelet count.
+The QBC analyzers requires 70 or 111 μl of capillary
+or venous blood (tube type dependent). Once blood is collected
+(or pipetted) into a capillary tube, a float is inserted,
+and the tube is then centrifuged in a system-specific capillary
+centrifuge. The differing densities of blood components will cause them
+to separate into layers during centrifugation. This is optimized by
+the addition of the float—which physically expands the cell and
+platelet layers, and a metachromatic acridine orange stain that the
+capillary tubes are coated with which uniquely dyes the cell
+types. The resulting layers can then be read by the
+analyzer using a dual light source and optical detector (
+https://druckerdiagnostics.com/qbc-autoread-plus-dry-hematology-system/ ). The QBC is generally stable under hot and
+humid conditions and does not require refrigerated or liquid reagents.
+It does require AC electrical power but can be run
+off a battery with an AC adapter. The QBC provides
+high consistency across repeat measures taken by different individuals (Laney
+et al., 2019 ). Currently the QBC system (analyzer and
+centrifuge) runs around $10 000. Tests kits run about $8
+per sample.

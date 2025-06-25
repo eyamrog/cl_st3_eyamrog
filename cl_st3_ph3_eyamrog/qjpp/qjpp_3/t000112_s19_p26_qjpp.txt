@@ -1,0 +1,16 @@
+We then examined the assembled contigs for viruses using Joint
+Genome Institute’s (JGI’s) uncultivated viral genomes (UViGs) mapping method (
+Paez-Espino et al., 2019 65. Paez-Espino, D. ∙ Roux, S.
+∙ Chen, I.A. ... IMG/VR v.2.0: an integrated data management
+and analysis system for cultivated and environmental viral genomes Nucleic
+Acids Res. 2019; 47 :D678-D686 Crossref Scopus (110) PubMed Google
+Scholar ). This analysis revealed a set of 16,584 total
+UViGs. Taxonomic analysis of the predicted UViGS yielded 2,009 viral
+clusters, containing a total of 6,979 UViGs and 9,605 singleton
+UViGs for a total of 11,614 predicted viral species. Predicted
+viral species from samples collected within 10, 100, and 1,000
+km of one another were agglomerated to examine their planetary
+distribution at different scales ( Figure 5 B). At any
+scale, most viral clusters appear to be weakly cosmopolitan; the
+majority of their members are found at or near one
+location, with a few exceptions.

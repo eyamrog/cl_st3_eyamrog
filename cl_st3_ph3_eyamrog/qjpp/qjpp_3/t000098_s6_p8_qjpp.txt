@@ -1,0 +1,25 @@
+Our demonstration of sharp concentration gradients along with direct translation
+into graded PKA activity explains how cAMP can act very
+locally and, thus, trigger responses spatially limited at the nanometer
+scale. The very small size of cAMP domains strongly suggests
+that compartmentalized cAMP signaling is controlled in a stochastic manner
+by individual molecules of cAMP. This spatially tight control provides
+the basis for the physiologically important specificity of cAMP signaling.
+Disruption of local cAMP signaling has been suggested to be
+associated with a variety of diseases ( Gold et al.,
+2013 18. Gold, M.G. ∙ Gonen, T. ∙ Scott, J.D.
+Local cAMP signaling in disease at a glance J. Cell
+Sci. 2013; 126 :4537-4543 Crossref Scopus (60) PubMed Google Scholar
+), such as heart failure ( Nikolaev et al., 2010
+31. Nikolaev, V.O. ∙ Moshkov, A. ∙ Lyon, A.R. ...
+Beta2-adrenergic receptor redistribution in heart failure changes cAMP compartmentation Science.
+2010; 327 :1653-1657 Crossref Scopus (470) PubMed Google Scholar )
+and cancer ( Zhang et al., 2020 51. Zhang, J.Z.
+∙ Lu, T.W. ∙ Stolerman, L.M. ... Phase Separation of
+a PKA Regulatory Subunit Controls cAMP Compartmentation and Oncogenic Signaling
+Cell. 2020; 182 :1531-1544 this issue Full Text Full Text
+(PDF) Scopus (162) PubMed Google Scholar ). Elucidation of the
+molecular basis of cAMP compartmentation now permits us to link
+disruption of cAMP compartmentation to disease and, thus, to explore
+novel therapeutic strategies that are based on a cell’s ability
+to orchestrate cAMP signaling in nanometer-size domains.

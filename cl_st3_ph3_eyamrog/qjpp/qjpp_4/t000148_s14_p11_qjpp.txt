@@ -1,0 +1,7 @@
+Analyses included ovulation rates and descriptive statistics of hormone indices,
+cycle length, follicular and luteal phase lengths, and late luteal
+duration (the time in days from peak-PdG or peak-P4 to
+the cycle's end). To evaluate hypothesized associations between the peak
+progesterone concentration indices and the other biomarkers, we calculated r
+2 based on Pearson correlation analyses. We also evaluated whether
+age was a significant covariate in any of these analyses.

@@ -1,0 +1,22 @@
+Full-length circular vector genomes were detected in participants’ liver biopsy
+samples 2.6–4.1 years after a single AAV5-hFVIII-SQ gene transfer, at
+levels showing a trend for dose dependence (Fig. 1d ).
+Consistent with the ISH analysis of hepatocyte transduction, the two
+participants who received the 4 × 10 vg per kg
+body weight dose had similar levels of full-length circular genomes.
+ITR fusion analysis revealed that levels of head-to-tail (H–T) ITR
+fusions were similar to levels of full-length genomes (Fig. 1d
+), suggesting that most ITR-fused genomes are full length. Levels
+of R2–R10-linked vector genomes (to quantify ITR-deleted genomes; Supplementary Fig.
+4b ) were similar to those of full-length (R1–R11) genomes
+(Extended Data Fig. 3a,b ), suggesting that minimal deletion of
+the D-loop region of ITRs occurred. Of all structures surviving
+Plasmid-Safe ATP-dependent DNase (PS-DNase) treatment, which degraded >99% of linear
+DNA (Supplementary Table 2 ), 30–40% of those containing the
+central portion of the transgene (SQ amplicon) were full length
+or ITR fused (Extended Data Fig. 3b–d ). This indicates
+that some circular episomes were incomplete, missing either the 5′
+or the 3′ ITR, and suggests that adjacent promoter or
+polyA regions (Supplementary Fig. 4 ) might also be truncated,
+resulting in vector genomes that are unable to produce functional
+FVIII RNA or protein.

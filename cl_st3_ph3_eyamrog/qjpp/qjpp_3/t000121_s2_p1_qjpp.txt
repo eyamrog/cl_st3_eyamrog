@@ -1,9 +1,0 @@
-We thank the University of Washington Arnold and Mabel Beckman
-Cryo-EM Center and the School of Pharmacy Mass Spectrometry Center
-for data collection time and support. This work was supported
-by National Institutes of Health grants S10OD032290 and NIH NIGMS
-and NIAID grants R01GM099989 and R01AI140868 to K.K.L., T32GM008268 to
-M.A.B., R01AI143563 and the James B. Pendleton Charitable Trust to
-M.B.Z., and the University of Washington’s Proteomics Resource (UWPR95794). A
-grant from the Bill & Melinda Gates Foundation (OPP1126258) also
-supported portions of this work.

@@ -1,0 +1,15 @@
+(P1) We estimated a participant's exposure to chronic drought and
+chronic excess precipitation by taking (a) the average length of
+all drought intervals they experienced and (b) the average length
+of all excess precipitation intervals they experienced. Note that if
+a participant moved from one department to another during a
+drought interval, if the second department had an SPI below
+0 when the participant arrived, we treat the drought interval
+as if it continued, because the participant's exposure to below-average
+rainfall continued even though they moved departments; this is consistent
+with our reasoning that exposures can affect preferences and behaviors
+even after migration (Section 1.3 ). However, if the second
+department had an SPI at or above 0 when the
+participant arrived, we closed the drought interval. We likewise continued
+excess precipitation intervals following a move if the second department
+had an SPI above 0 when the participant arrived.

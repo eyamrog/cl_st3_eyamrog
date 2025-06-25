@@ -1,0 +1,11 @@
+To benchmark mCARMEN RVP performance to comparator assay results, we
+analyzed 385 SARS-CoV-2-positive and 140 SARS-CoV-2-negative patient specimens and compared
+these results to both prior and concurrent RT–qPCR evaluation (Fig.
+2b ). By the time of comparative evaluation, the number
+of RT–qPCR-positive specimens dropped from 385 to 316, suggesting substantial
+viral degradation either from extended sample storage or multiple freeze–thaw
+cycles. Nonetheless, mCARMEN identified all 316 (100% sensitivity) of the
+concurrent RT–qPCR-positive specimens. We noted that mCARMEN further detected SARS-CoV-2
+in 42 specimens that tested positive by prior RT–qPCR but
+were missed by concurrent RT–qPCR testing, suggesting that mCARMEN is
+more robust to low viral quantity.

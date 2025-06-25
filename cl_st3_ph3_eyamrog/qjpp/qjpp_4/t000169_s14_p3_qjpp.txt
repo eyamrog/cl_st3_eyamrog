@@ -1,0 +1,13 @@
+The data set includes the following respondent characteristics from the
+SHARE Wave 6 interview data (Börsch-Supan et al., 2013 ;
+Börsch-Supan, 2020 ; Malter & Börsch-Supan, 2017 ): Age at
+the interview measured in years; gender as a dummy for
+female sex; body mass index (BMI, kg/m 2 ) calculated
+as the ratio from self-reported weight to height; education as
+a categorical variable with levels high (aggregated ISCED 1997 levels
+5–6), middle (ISCED 1997 3–4), and low (ISCED 1997 0–2).
+The respondents' health status is included as self-reported general health,
+again with levels high (excellent, very good), middle (good), and
+low (fair, poor). For both variables low is coded as
+1, while medium and high are coded as 2 and
+3, respectively. Additionally, the dataset includes a country indicator.

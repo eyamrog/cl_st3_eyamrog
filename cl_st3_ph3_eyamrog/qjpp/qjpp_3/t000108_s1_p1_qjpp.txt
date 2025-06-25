@@ -1,0 +1,14 @@
+Osteoclasts are large multinucleated bone-resorbing cells formed by the fusion
+of monocyte/macrophage-derived precursors that are thought to undergo apoptosis once
+resorption is complete. Here, by intravital imaging, we reveal that
+RANKL-stimulated osteoclasts have an alternative cell fate in which they
+fission into daughter cells called osteomorphs. Inhibiting RANKL blocked this
+cellular recycling and resulted in osteomorph accumulation. Single-cell RNA sequencing
+showed that osteomorphs are transcriptionally distinct from osteoclasts and macrophages
+and express a number of non-canonical osteoclast genes that are
+associated with structural and functional bone phenotypes when deleted in
+mice. Furthermore, genetic variation in human orthologs of osteomorph genes
+causes monogenic skeletal disorders and associates with bone mineral density,
+a polygenetic skeletal trait. Thus, osteoclasts recycle via osteomorphs, a
+cell type involved in the regulation of bone resorption that
+may be targeted for the treatment of skeletal diseases.

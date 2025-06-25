@@ -1,0 +1,13 @@
+We acknowledge several limitations to this study. First, as we
+had no information on the variant causing individual positive infections
+reported through the app, we did an ecological study, assessing
+the association between the proportion of infections with the B.1.1.7
+variant and population-level measures. This design does not allow for
+causal interpretation of the effect of the B.1.1.7 variant on
+the measures we investigate. Our work assumes that all non-B.1.1.7
+variants in circulation at the time of study give rise
+to the same range of symptoms and immune response, and
+have the same transmissibility. Genomic surveillance has detected a very
+low number of non-B.1.1.7 variants of concern in circulation, supporting
+the validity of this assumption, but it cannot be ruled
+out that other variants with different characteristics are circulating undetected.

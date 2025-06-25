@@ -1,0 +1,16 @@
+Moreover, on the basis of the cAMP concentration transients we
+obtain upon inhibition of PDE4A1 (see, e.g., Figure 3 E),
+we can infer a turnover number of ~320 molecules/s. To
+assess whether these PDE turnover rates are compatible with the
+model, we concomitantly addressed the question of whether PDE4A1 exists
+in cells as mono- or oligomers. Molecular brightness analysis, a
+technique to extract molecular oligomerization ( Annibale and Lohse, 2020
+2. Annibale, P. ∙ Lohse, M.J. Spatial heterogeneity in molecular
+brightness Nat. Methods. 2020; 17 :273-275 Crossref Scopus (8) PubMed
+Google Scholar ), shows that Epac1-camps-PDE4A1 is largely dimeric (in
+contrast to Epac1-camps alone) ( Figure S7 ). Therefore, our
+experiments and the biophysical model uniformly demonstrate that a single
+PDE4 has a turnover number of ~160 molecules cAMP/s in
+intact cells, which is sufficient to deplete a nanometer-sized region
+of cAMP and, thus, protects local cAMP effectors from being
+activated ( Figure 6 ).

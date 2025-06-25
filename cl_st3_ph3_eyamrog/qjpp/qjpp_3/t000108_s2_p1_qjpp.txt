@@ -1,0 +1,17 @@
+P.I.C., T.G.P., and this work are supported by Mrs. Janice
+Gibson and the Ernest Heine Family Foundation. M.M.M. is supported
+by a CINSW Career Development Fellowship, W.H.K. is supported by
+the UNSW Cellular Genomics Futures Institute, P.A.B. is supported by
+a Future Fellowship from the Australian Research Council, and R.B.
+(GNT1105877) and T.G.P. (GNT1155678) are supported by Fellowships from the
+National Health and Medical Research Council of Australia (NHMRC). I.M.,
+S.E.Y., M.K.S., and W.H.K. are supported by Australian Government Research
+Training Scholarships. G.R.W., J.H.D.B., and P.I.C. received funding from a
+Wellcome Trust Strategic Award (101123) for this work. J.P.K. was
+funded by a University of Queensland Development Fellowship (UQFEL1718945), NHMRC
+Investigator grant (GNT1177938), and project grant (GNT1158758). N.J.P. is supported
+by an NHMRC project grant (GNT1143921). We thank Peter and
+Val Duncan and the Australian Cancer Research Foundation INCITe Centre,
+the UNSW Cellular Genomics Futures Institute, and the Garvan-Weizmann Centre
+for Cellular Genomics. This research has been conducted using the
+UK Biobank Resource (accession ID: 53641).

@@ -1,8 +1,0 @@
-Finally, we used subgroup analysis and meta-regression to evaluate moderators
-of individual study estimates of the lifetime prevalence of TBI.
-We used univariable meta-regression to evaluate unadjusted effects in the
-analyses of lifetime prevalence and the lifetime prevalence of moderate
-or severe TBI, and we included all potential moderators, for
-which appropriate data were available, in a multivariable meta-regression to
-evaluate adjusted effects in the analysis of lifetime prevalence. We
-used mixed effects models for all meta-regression analyses.

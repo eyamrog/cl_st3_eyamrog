@@ -1,0 +1,11 @@
+This liver biopsy investigation demonstrated that a single intravenous infusion
+of valoctocogene roxaparvovec (AAV5-hFVIII-SQ) administered to adults with severe hemophilia
+A resulted in transduction of human liver throughout tissues sampled
+without zonal bias within hepatic lobules. No clinically relevant inflammation
+or adverse histopathology was observed in any of the samples.
+Full-length circular vector genomes were present in both monomeric and
+concatemeric forms, primarily in the H–T configuration, 2.6–4.1 years after
+administration. In general, higher levels of hFVIII-SQ DNA and hFVIII-SQ
+RNA were observed at higher doses of AAV5-hFVIII-SQ. Interindividual variability
+points to a number of potential mechanisms that regulate RNA
+and protein expression.

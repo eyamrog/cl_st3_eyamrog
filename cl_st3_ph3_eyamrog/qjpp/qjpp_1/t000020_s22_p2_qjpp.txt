@@ -1,0 +1,12 @@
+Despite these promising indications, there are concerns about the potential
+toxicity of LRRK2 inhibitors. These mainly arise from preclinical studies,
+where homozygous knockouts of LRRK2 in mice and high-dose toxicology
+studies of LRRK2 kinase inhibitors in rats and primates, have
+shown abnormal phenotypes in the lung, kidney and liver .
+While model organisms are invaluable for understanding the function of
+LRRK2, they also have important limitations, as exemplified by inconsistencies
+in phenotypic consequences of reduced LRRK2 activity seen among yeast,
+fruit flies, worms, mice, rats and nonhuman primates . Complementary
+data from natural human knockouts are critical for understanding both
+gene function and the potential consequences of long-term reduction of
+LRRK2 in humans.

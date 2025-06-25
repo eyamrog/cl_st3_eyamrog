@@ -1,0 +1,18 @@
+RNA-seq analyses were performed to characterize the gene expression profiles
+of participants’ hepatocyte RNAs via the TruSeq RNA Exome protocol
+(Illumina NextSeq platform). For each participant included in the analysis,
+a sequencing library was generated from approximately 100 ng human
+liver total RNA. Briefly, total RNA was fragmented followed by
+cDNA generation. The indexed sequencing library was constructed from the
+cDNA. The five indexed sequencing libraries were pooled, and the
+coding regions of the human transcriptome were captured with sequence-specific
+probes in a single hybridization reaction. The post-hybridization library was
+amplified with ten PCR cycles before the sequencing run. Data
+were analyzed by ROSALIND v3.19.0.5 ( https://rosalind.onramp.bio/ ), with a
+HyperScale architecture developed by ROSALIND. Several database sources were referenced
+for enrichment analysis, including Interpro (PANTHER v15.0; http://www.pantherdb.org/ ), NCBI
+( https://www.ncbi.nlm.nih.gov/nuccore/ ), MSigDB (Molecular Signature Database v7.2; http://www.gsea-msigdb.org/gsea/index.jsp ),
+REACTOME (Reactome database release 73; https://reactome.org/ ), WikiPathways ( https://www.wikipathways.org/
+) and DAVID (The Database for Annotation, Visualization and Integrated
+Discovery) v6.8 ( https://david.ncifcrf.gov/ ). Enrichment was calculated relative to
+a set of background genes relevant for the experiment.

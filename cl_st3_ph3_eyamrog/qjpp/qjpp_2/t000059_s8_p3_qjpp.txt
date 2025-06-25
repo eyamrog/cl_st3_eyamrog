@@ -1,0 +1,12 @@
+A comprehensive and coherent measurement framework incorporating transparent data sources,
+standardised data processing, and up-to-date statistical synthesis approaches were provided
+by the Global Burden of Diseases, Injuries, and Risk Factors
+Study (GBD) 2019 to quantify health loss due to 369
+diseases and injuries and 87 risk factors across 204 countries
+and territories from 1990 to 2019. Here, we aimed to
+comprehensively measure the spatiotemporal variation of the burden of falls
+among people aged 60 years and older in mainland China,
+at both national and subnational levels, over the past three
+decades, based on GBD 2019. This manuscript was produced as
+part of the GBD Collaborator Network and in accordance with
+the GBD Protocol.

@@ -1,0 +1,17 @@
+Second, data obtained from participatory digital platforms have well documented
+biases in demographics. Although we were able to correct for
+some of these factors, such as age and sex, in
+our analysis, others are more difficult to characterise and correct
+for. For example, respondents signing up to a participatory platform
+such as the COVID Symptom Study app are likely to
+be more interested in health and COVID-19 than the wider
+population, and might exhibit different behaviours. Participatory studies might also
+suffer from ascertainment or collider bias. Self-report also carries the
+risk of data input errors, although the design of the
+app seeks to minimise this; for example, each time a
+user submits a log in the app, they are shown
+the full history of their test results and are given
+the option to amend incorrect entries. Previous publications from our
+group have found that population-level estimates of disease prevalence from
+our app triangulate well with those obtained from studies designed
+to be representative of the population.

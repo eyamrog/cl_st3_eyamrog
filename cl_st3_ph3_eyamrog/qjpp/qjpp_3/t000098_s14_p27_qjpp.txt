@@ -1,0 +1,18 @@
+Molecular brightness experiments were performed as previously reported ( Annibale
+and Lohse, 2020 2. Annibale, P. ∙ Lohse, M.J. Spatial
+heterogeneity in molecular brightness Nat. Methods. 2020; 17 :273-275 Crossref
+Scopus (8) PubMed Google Scholar ). Briefly, movies of 100
+frames of individual cells were acquired using a Laser Scanning
+Confocal Microscope SP8 (Leica), at a speed of 400 Hz,
+with an excitation power of 3% at 514 nm, corresponding
+to a few μW in the sample plane. Detection was
+performed using photon counting detectors (Leica HyD), in the spectral
+range 520-600 nm. Molecular brightness values per pixel dwell time
+were calculated for each pixel, and the average cytosolic value
+from each individual cell is reported, after converting to photon
+counts/s. Briefly, molecular brightness is calculated by measuring the variance
+σ of the photon counts over time for each pixel
+by the average intensity value k , according to the
+formula: 𝜎 2 /k. The values of all the pixel
+within a homogeneous area of the cytosol are then averaged
+together.

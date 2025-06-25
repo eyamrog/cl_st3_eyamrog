@@ -1,0 +1,10 @@
+In summary, after examining the effect of the proportion of
+infections with the SARS-CoV-2 B.1.1.7 variant on COVID-19 symptoms, disease
+course, rates of reinfection, and transmissibility in the UK, we
+found no change in symptoms or their duration. Reinfections were
+rare (0·7% of app users) and there was no evidence
+of increased reinfection rates associated with the prevalence of the
+B.1.1.7 variant. We found an increase in R t for
+the B.1.1.7 variant, but R t fell below 1 during
+lockdown, even in regions with very high (>80%) proportions of
+infections with the B.1.1.7 variant.

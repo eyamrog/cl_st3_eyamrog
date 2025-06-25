@@ -1,0 +1,16 @@
+Water quality refers to a suite of physical, chemical, microbiological,
+and other characteristics that are generally referenced against some national
+standard for assuring human and/or ecosystem health. A given characteristic
+may be assessed by directly measuring the presence or concentration
+of a property, substance, or organism, or indirectly via a
+proxy indicator (WHO, 2017a ). Indirect measurement techniques, such as
+detecting fecal indicator bacteria, are generally faster or less expensive.
+Such approaches often serve as a proxy for the effectiveness
+of a particular component of water treatment and the likely
+presence of related substances or organisms. Water quality may also
+describe indicators for industrial and other uses, but here we
+focus on the implications of quality for human health. The
+implications of water quality are broadly relevant to human health
+and biology, from mitigating household waterborne diseases (Gundry, Wright, &
+Conroy, 2004 ) to assessing global achievement of the Millennium
+Development Goals water target (Onda, LoBuglio, & Bartram, 2012 ).

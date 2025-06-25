@@ -1,0 +1,9 @@
+Table 4 shows sociodemographic factors importance rank according to each
+one of the alternative data mining techniques used for period
+2018–2019: logistic regression model, Bayesian Networks, Radial Basis Neural Networks,
+CHAID decision tree and discriminant analysis. Among the eight sociodemographic
+factors considered, those related to maternal employment status, maternal job
+qualification and maternal education were consistently found to be the
+most relevant influencing birth seasonality, whereas maternal age and population
+size were found to be the less relevant influencing factor
+in most models.

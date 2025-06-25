@@ -1,0 +1,3 @@
+Full health records including ICD10 codes were reviewed by study
+coordinators who provided us with yes/no answers for each of
+our phenotype classes.

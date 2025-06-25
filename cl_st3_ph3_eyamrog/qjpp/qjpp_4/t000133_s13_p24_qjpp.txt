@@ -1,0 +1,5 @@
+Blood biomarker methods, when compared with urine biomarkers, are not
+easier to implement in clinical or lab settings. Further, they
+are not field-friendly because they require venous blood draws and
+freezers. Such methods and equipment needs can be challenging in
+remote fieldsites.

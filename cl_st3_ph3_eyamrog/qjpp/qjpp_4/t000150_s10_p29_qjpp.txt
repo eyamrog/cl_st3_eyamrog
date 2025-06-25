@@ -1,0 +1,12 @@
+There are two critical considerations when using domain-based questions in
+this way. First, questions about time spent in specific sedentary
+behaviors must be individually validated. Single questions cannot be extracted
+from validated questionnaires and used on their own as the
+validity of a questionnaire specifically applies to the questionnaire as
+a whole. Second, the measurement of time spent in a
+specific sedentary behavior cannot be extrapolated as an estimate of
+total sedentary time. For example, television time is often used
+as a proxy for total sedentary time and this is
+problematic because these two constructs are only weakly correlated (Clark
+et al., 2011 ; Clark et al., 2015 ; Wagnild
+& Pollard, 2020 ).

@@ -1,0 +1,16 @@
+All EHR phenotypes were obtained from an open-access phenotype library
+and have been previously validated . Phenotypes for primary care
+were generated using version 2 Read and SNOMED CT codes.
+Phenotypes for Hospital Episode Statistics were generated in ICD-10. EHR
+phenotypes for self-harm were obtained from a previous study .
+We used primary care, secondary care and NCRAS records to
+identify patients aged ≥18 years with an incident primary site-specific
+cancer. We considered 26 cancer types: bladder, bone, brain, breast,
+cervix, colon and rectum, gallbladder and biliary tract, Hodgkin lymphoma,
+kidney and renal pelvis, leukemia, liver and intrahepatic bile duct,
+lung and bronchus, melanoma, multiple myeloma, non-Hodgkin lymphoma, esophagus, oropharynx,
+ovary, pancreas, prostate, small intestine, spinal cord and nervous system,
+stomach, testis, thyroid and uterus. We considered five psychiatric diagnostic
+categories: depression, anxiety disorders, schizophrenia, schizotypal and delusional disorders, bipolar
+affective disorder and mania and personality disorders. For analyses involving
+matched case–control cohorts, we added substance abuse (substance use disorder).

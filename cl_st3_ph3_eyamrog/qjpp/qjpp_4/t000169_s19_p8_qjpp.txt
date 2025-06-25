@@ -1,0 +1,6 @@
+Model 2 uses a dummy variable for spot-size information (spot
+size smaller than 1.0 cm based on Crimmins et al.
+( 2020 ) and 0.8 cm as a robustness check).
+The effect of spot size is highly significant in both
+threshold specifications of this model. Except from HbA1c, we find
+positive associations between size and analyte values (Table 6 ).

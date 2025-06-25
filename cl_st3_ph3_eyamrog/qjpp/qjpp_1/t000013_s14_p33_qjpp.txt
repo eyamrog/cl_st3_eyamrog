@@ -1,0 +1,8 @@
+Of the 525 patient specimens evaluated by mCARMEN, only 2
+specimens had no detectable levels of RNase P above threshold,
+1 of which was positive for SARS-CoV-2 while the other
+was virus-negative. The RNase P-negative, but virus-positive, specimen likely had
+a high concentration of viral RNA, which sequestered amplification materials
+during the reaction, limiting RNase P amplification. The double-negative specimen
+suggested possible extraction failure or sample integrity issues and was
+thus excluded from further analysis.

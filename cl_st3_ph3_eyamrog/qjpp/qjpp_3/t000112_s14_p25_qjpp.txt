@@ -1,0 +1,11 @@
+To process the Isohelix swabs, 300 μ l of Promega
+Maxwell Lysis buffer was added to each matrix tube before
+vortexing at full speed for 1 min. The Isohelix swab
+head material is non-porous, which allows for easy collection of
+the lysate. The total lysate from each matrix tube was
+moved to the added to a well of the Maxprep
+cartridge using a 3cc syringe syringe (Blunt fill needle with
+Luer-Lok tip 18-G x 1 1/2-in 3-mL syringe, BD, Cat.:
+305060). The Maxwell RSC Instrument was run using the ‘Blood’
+program according to manufacturer’s instructions. Samples were subsequently eluted in
+50 μ l Promega Elution Buffer and stored at −80C.

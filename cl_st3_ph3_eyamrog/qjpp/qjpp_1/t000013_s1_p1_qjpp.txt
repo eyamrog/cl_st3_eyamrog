@@ -1,0 +1,19 @@
+The coronavirus disease 2019 (COVID-19) pandemic has demonstrated a clear
+need for high-throughput, multiplexed and sensitive assays for detecting severe
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and other respiratory viruses
+and their emerging variants. Here, we present a cost-effective virus
+and variant detection platform, called microfluidic Combinatorial Arrayed Reactions for
+Multiplexed Evaluation of Nucleic acids (mCARMEN), which combines CRISPR-based diagnostics
+and microfluidics with a streamlined workflow for clinical use. We
+developed the mCARMEN respiratory virus panel to test for up
+to 21 viruses, including SARS-CoV-2, other coronaviruses and both influenza
+strains, and demonstrated its diagnostic-grade performance on 525 patient specimens
+in an academic setting and 166 specimens in a clinical
+setting. We further developed an mCARMEN panel to enable the
+identification of 6 SARS-CoV-2 variant lineages, including Delta and Omicron,
+and evaluated it on 2,088 patient specimens with near-perfect concordance
+to sequencing-based variant classification. Lastly, we implemented a combined Cas13
+and Cas12 approach that enables quantitative measurement of SARS-CoV-2 and
+influenza A viral copies in samples. The mCARMEN platform enables
+high-throughput surveillance of multiple viruses and variants simultaneously, enabling rapid
+detection of SARS-CoV-2 variants.

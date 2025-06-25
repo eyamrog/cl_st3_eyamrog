@@ -1,0 +1,5 @@
+Statistical analysis was conducted using either a two-tailed unpaired student
+t -test or calculation of the Pearson correlation coefficient using
+Prism (v7.01, GraphPad). The Benjamini–Hochberg method for multiple testing was
+used in the analysis exploring correlation of gene expression profiles
+and plasma FVIII activity .

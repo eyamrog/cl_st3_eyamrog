@@ -1,0 +1,8 @@
+Mice were treated intraperitoneally (i.p.) with anti-PD1 antibody (200μg/mouse) every
+3 days, starting at day 3 or day 8 after
+tumor injection, as specified. Mice were treated i.p. with anti-TREM2
+antibody (clone 178; 200μg/mouse) every 5 days, starting at day
+2 after tumor injection. Anti-hILT1 (clone 135.5) was used as
+a control. Anti-CD4 and anti-CD8 treatments were started one day
+before tumor injection (200μg/mouse) and then administrated every 3 days
+for the entire duration of the experiment.

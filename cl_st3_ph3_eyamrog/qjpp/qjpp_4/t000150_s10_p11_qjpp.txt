@@ -1,0 +1,15 @@
+When worn on the hip or wrist, accelerometers determine sedentary
+time based on periods of non-movement without measuring posture. Historically,
+sedentary time has been determined when proprietary counts, usually counts
+per minute (cpm), were below a validated threshold, usually <100
+cpm on the waist (Matthews et al., 2008 ) or
+<1853 cpm on the non-dominant wrist (Koster et al., 2016
+). More recently, to avoid reliance on the “black box”
+nature of proprietary counts that differ between accelerometer manufacturers (Duncan
+et al., 2018 ), there is increasing use of raw
+gravitational acceleration in units of milli-gravity (m g ) collected
+via accelerometry. In these units, such as the GENEA acceleration
+sensor (STMicroelectronics, Geneva, Switzerland), sedentary time has been classed based
+on acceleration of <376 m g on the wrist or
+<96 m g on the waist when the accelerometer measurement
+frequency is 100 Hz (Esliger et al., 2011 ).

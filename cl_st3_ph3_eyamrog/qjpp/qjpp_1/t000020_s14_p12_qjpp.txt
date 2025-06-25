@@ -1,0 +1,5 @@
+The FINRISK study has been carried out for 40 years
+since 1972 every 5 years using independent, random and representative
+population samples from different parts of Finland. For this work,
+we used sequencing and health register data from FINRISK surveys
+between 1992 and 2007 (ref. ).

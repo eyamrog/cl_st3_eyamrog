@@ -1,0 +1,9 @@
+The effects show a different pattern for the B-marker set.
+We do not find monotonicity but rather oscillations depending on
+the spot's size. For small areas up to 0.2–0.3 cm
+2 , we observe a significantly negative association for TC,
+TG, CRP, and CysC. For area values larger than 0.3
+cm 2 , the association is significantly positive. For TG
+and CysC, we find a negative association for areas larger
+than 1 cm 2 . However, we again observe wider
+confidence intervals for these area values.

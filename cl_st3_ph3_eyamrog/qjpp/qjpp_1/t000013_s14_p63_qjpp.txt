@@ -1,0 +1,7 @@
+We generally followed the methods outlined under ‘General mCARMEN procedures-Analysis’,
+this time taking into account the VIC signal separate from
+the FAM signal. We used a custom Python script to
+determine whether the FAM signal of a reaction was significantly
+above background by comparing it to the NTC. If the
+background-subtracted and normalized fluorescence intensity was 1.8 higher than the
+normalized and background-subtracted NTC, the assay was considered positive.

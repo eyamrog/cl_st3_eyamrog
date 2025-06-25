@@ -1,0 +1,9 @@
+In this review, we have outlined the characteristics of influenza
+surveillance systems and the approaches that have been used to
+predict and forecast influenza activity. Each step of the surveillance,
+analysis, and interpretation process is important for influenza prediction and
+forecasting ( Figure 1 ). Influenza prediction and forecasting challenges
+have been established and run mostly by public health institutions;
+however, in the future, we may see broader collaborative networks
+emerge, including infectious disease modelers as well as the end
+users in local public health agencies and health care providers.

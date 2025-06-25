@@ -1,0 +1,11 @@
+Many SHARE DBS sample punches were taken close to the
+perimeter of the spot, not always keeping a distance of
+1–2 mm from the periphery. Biomarker concentration there may differ
+slightly from that in the center. This, together with unobserved
+hematocrit may have influenced the assay results of the markers
+HbA1c and tHb, which are associated with red blood cells.
+In order to evaluate the influence of the punch location
+on the marker values in field-collected DBS samples, a further
+algorithm could be written, which measures the shortest distance between
+the outline of the punch and the perimeter of the
+blood spot. This is subject of our future research.

@@ -1,0 +1,18 @@
+The trial was initiated by investigators based at the Walter
+and Eliza Hall Institute of Medical Research (WEHI), which was
+responsible for overseeing the conduct of the trial. All tumor
+and plasma specimens were analyzed by academic collaborators in a
+central research laboratory (Ludwig Center at Johns Hopkins) using Safe-Sequencing
+System tumor-informed personalized ctDNA assays. Further details are provided in
+the Supplementary Appendix . The protocol , available at NEJM.org,
+was approved by the institutional review board or ethics committee
+at the WEHI, Johns Hopkins Medicine, and each participating site.
+All the participants provided written informed consent in accordance with
+the principles of the Declaration of Helsinki. A statistical analysis
+plan was written and made publicly accessible before the database
+lock, and the final analysis was conducted accordingly. Trial data
+were collected and managed with the use of REDCap electronic
+data-capture tools hosted at the WEHI. The authors vouch for
+the accuracy and completeness of the data and for the
+adherence of the trial to the protocol. No one who
+is not an author contributed to writing the article.

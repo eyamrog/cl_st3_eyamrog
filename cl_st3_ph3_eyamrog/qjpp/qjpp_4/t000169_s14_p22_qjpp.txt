@@ -1,0 +1,17 @@
+We ran OLS-regressions using robust standard errors to assess the
+influence of fieldwork conditions and sample quality, especially spot size,
+on biomarker values. The raw values of the seven biomarkers
+(Table 3 ) were used as dependent variables. As independent
+variables, we used the fieldwork conditions described in Section 2.2
+. We controlled for several respondent characteristics in order to
+separate biomedical effects depending on age, sex, BMI, education, and
+self-reported health (see Section 2.1 ). We included a country
+indicator to account for unobservable country heterogeneity. Observations with missing
+values were excluded from our analysis. The number of observations
+included in each regression varies depending on the biomarker (see
+Table 3 ). Since the two batches of observations were
+chemically analyzed in different years (see Section 2.3 ), we
+controlled for the potential impact of storage on the marker
+values by a dummy variable indicating the batch number in
+all regressions. Statistical analyses were conducted in Stata (StataCorp., 2015
+) and R (R Core Team ( 2020 ).

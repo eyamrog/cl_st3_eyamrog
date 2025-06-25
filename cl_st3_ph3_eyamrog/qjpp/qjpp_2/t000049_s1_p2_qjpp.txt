@@ -1,0 +1,15 @@
+Methods: We analysed data from two prospective cohort studies in
+the UK; the English Longitudinal Study of Ageing (ELSA) and
+the Whitehall II study, to assess sex differences in cognitive
+performance and cognitive decline by birth cohort (birth year 1930–38,
+1939–45, or 1946–55), before and after adjustment for education, and
+by high and low education level. Memory was assessed using
+immediate recall, for which data were available from all waves
+of the ELSA (2002–14) and Whitehall II (1997–2015) studies. Fluency
+was assessed using a semantic fluency test based on an
+animal naming task, with data available from all waves of
+the Whitehall II study and waves one to five (2002–10)
+and wave seven (2014) of the ELSA study. Cognitive scores
+were standardised separately in each study based on the mean
+and SD of the corresponding test among participants aged 50–59
+years with secondary education.

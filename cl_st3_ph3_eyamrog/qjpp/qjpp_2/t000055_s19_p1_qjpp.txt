@@ -1,0 +1,16 @@
+From March 24 to Dec 27, 2020, 4 327 245
+participants from the UK signed up to use the COVID
+Symptom Study app. We excluded users living in Northern Ireland
+because of the low number of users who signed up
+(38 976 users), as well as 383 352 users without
+information on sex, and 2 175 979 who had not
+logged responses in the app between Sept 28 and Dec
+27, 2020, leaving a total of 1 767 914 users.
+From Sept 28 to Dec 27, these users collectively recorded
+65 613 697 logs in the app. In the same
+period, 497 989 users reported a swab test, of whom
+55 192 reported a positive test, and we investigated the
+symptom reports of the 36 920 of those with a
+positive test whose region was known and who reported as
+healthy on app sign-up. The table shows the demographic data
+for the cohort studied.

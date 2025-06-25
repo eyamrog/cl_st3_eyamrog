@@ -1,0 +1,11 @@
+The measures we catalog here are primarily intended to measure
+human immune function. However, these methods have much in common
+with those used in other species (e.g., Boughton et al.,
+2011 ; Prall & Muehlenbein, 2014 ). Methods designed for
+small animals like mice and birds are easily translatable to
+finger prick samples of capillary blood from humans. Point-of-care devices
+designed for medical professions are also likely to become increasingly
+useful in the future. The suite of tools available for
+eco-immunology in the field continues to rapidly expand meaning that
+future studies will increasingly be able to integrate multiple measures
+of immunity with less effort.

@@ -1,0 +1,4 @@
+In sum, the decision to incorporate RNA-seq into one's research
+should be driven by a triangulation between the question, the
+cost, and the learning curve. All specific methods and analyses
+will follow from the question.

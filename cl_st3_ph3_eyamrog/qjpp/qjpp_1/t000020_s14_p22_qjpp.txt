@@ -1,0 +1,6 @@
+The first recorded value of all fields relating to ‘blood
+biochemistry’ (field codes 30600–30890) and ‘urine assays’ (field codes 30510–30535)
+was extracted for all individuals. The distribution of values for
+all biomarkers was plotted (Supplementary Fig. 1 ) and a
+two-sided Wilcoxon test was used to test for a difference
+between LRRK2 pLoF carriers and noncarriers.

@@ -1,6 +1,0 @@
-Cas9 off-target analysis was performed by identifying potential off-target sites
-using Cas-OFF finder online tool ( http://www.rgenome.net/cas-offinder/ ), selecting SpCas9
-of Streptococcus pyogenes. 32 potential off-target sites were predicted across
-14 chromosomes. Those with 3 or fewer mismatches were selected
-for analysis. PCR primers for off-target analysis are indicated in
-Table S7 .

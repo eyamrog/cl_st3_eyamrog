@@ -1,0 +1,10 @@
+We performed a comparative evolution study that compares the intra-host
+dynamics of SARS-CoV-2 as it evolves across different chronic infections
+and between chronic infections and global transmission chains. We found
+that viral rebound is associated with antibody evasion mutations and
+revealed highly polymorphic viral population in many patients. We showed
+that the overall patterns of mutations observed in chronic infections
+closely mirror the pattern observed in VOCs, with some notable
+exceptions. We suggest that most variants emerging in chronically infected
+patients lack the potential for substantial onwards transmission, possibly due
+to an absence of key mutations.

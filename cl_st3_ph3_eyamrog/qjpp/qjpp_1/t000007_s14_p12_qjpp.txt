@@ -1,0 +1,9 @@
+A histogram was created for each of the three sets,
+with bin sizes of 500 bases. The probability of observing
+a given number of substitutions in a bin was calculated
+based on a binomial distribution with p = 500/ L
+( L being the reference genome length), n being the
+sum of all substitutions observed in a set and k
+being the observed number of substitutions in a given bin.
+Correction for multiple testing was performed using the false discovery
+rate (FDR) of Benjamini–Hochberg .

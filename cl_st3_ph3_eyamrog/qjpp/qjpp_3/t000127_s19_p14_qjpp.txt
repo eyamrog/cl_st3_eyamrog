@@ -1,0 +1,24 @@
+We previously reported the structure of the PEPR1 LRR -Pep1
+complex ( Tang et al., 2015 81. Tang, J. ∙
+Han, Z. ∙ Sun, Y. ... Structural basis for recognition
+of an endogenous peptide by the plant receptor kinase PEPR1
+Cell Res. 2015; 25 :110-120 Crossref Scopus (131) PubMed Google
+Scholar ). Based on the structure, we identified numerous Asp/Glu-mediated
+polar interactions at the Pep1-PEPR1 interface ( Figures 6 F
+and S6 ). The side chains of Asp and Glu,
+with pK a values of 3.86 and 4.25 ( Table
+S1 ), may undergo protonation when the solution pH decreases
+to 4.0, in turn disrupting the hydrogen bond network mediated
+by Asp/Glu ( Dobrev et al., 2017 16. Dobrev, P.
+∙ Donnini, S. ∙ Groenhof, G. ... Accurate three states
+model for amino acids with two chemically coupled titrating sites
+in explicit solvent atomistic constant pH simulations and pK(a) calculations
+J. Chem. Theory Comput. 2017; 13 :147-160 Crossref Scopus (23)
+PubMed Google Scholar ). The Asp/Glu residues may therefore be
+the potential pH sensor for the relatively alkaline-dependent Pep1-PEPR1 interaction.
+The MM-PB/SA calculations showed that the free energy ΔG of
+the PEPR1 LRR -Pep1 binding was −4.75 kcal/mol at pH
+6.0 but changed to +51.49 kcal/mol when Asp and Glu
+were protonated at pH 4.0 ( Figure 6 G), suggesting
+that the acid-induced protonation of the Asp and Glu residues
+largely disrupts the PEPR1 LRR -Pep1 interaction.

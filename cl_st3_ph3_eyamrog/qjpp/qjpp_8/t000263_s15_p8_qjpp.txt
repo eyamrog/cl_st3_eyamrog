@@ -1,12 +1,6 @@
-Direct effects among focal variables. Summarized in Table 2 ,
-we see many similarities between our studies. Participants who were
-more open (vs. less) experienced greater identity importance and greater
-community integration. Those who experienced greater identity importance also experienced
-greater community integration and perceived more personal discrimination in their
-day-to-day life. Furthermore, in Study 2 we found a positive
-direct effect of openness on the perception of both group-based
-and personal discrimination, suggesting respondents who were more (vs. less)
-open perceived more discrimination. Additionally, we found a positive direct
-effect of identity importance on perception of personal discrimination, but
-no significant direct effect of identity importance on perceptions of
-group-based discrimination.
+Adjustment variables . Person-level adjustment variables included: two dummy codes
+for gender (cis-female and gender diverse compared to cis-male); race/ethnicity
+(Black, Hispanic, and “Other,” compared to White), age, age squared
+( Blanchflower and Oswald, 2008 ), political conservatism (6-point scale),
+education (7-point scale), religious community involvement (4-point scale), and income
+(12-point scale).

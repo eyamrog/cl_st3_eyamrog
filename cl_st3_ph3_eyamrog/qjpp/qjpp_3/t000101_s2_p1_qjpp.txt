@@ -1,7 +1,0 @@
-We thank the New York Stem Cell Foundation and the
-Russell Berrie Foundation Program in Cellular Therapies for funding support;
-Briana Rudick for oocyte retrievals; Bob Prosser and the CUFC
-team for oocyte preparations; Chyuan-Sheng Lin for advice with Cas9
-RNP injection; Michael Kissner for flow-cytometry training; Daniela Georgieva, Christine
-Lin, and Rudolph Leibel for critical reading; and Kathy Niakan
-for discussions. D.E. is a NYSCF - Robertson Investigator Alumnus.

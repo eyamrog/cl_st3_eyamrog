@@ -1,0 +1,11 @@
+In our first implementation of the mCARMEN platform, we designed
+a panel to detect 21 clinically relevant human respiratory viruses
+(Supplementary Table 4 ). This included all viruses covered by
+BioFire RP2.1-SARS-CoV-2, four other human-associated coronaviruses and both influenza strains-
+as well as a few additional illness-inducing viruses . To
+generate maximally active virus-specific crRNAs and PCR primers to detect
+the 21 viruses, we applied the assay design method ADAPT
+(Activity-informed Design with All-inclusive Patrolling of Targets; described in the
+Methods ) . We were able to encompass the full
+genomic diversity of these viral families by including multiple primers,
+if needed.

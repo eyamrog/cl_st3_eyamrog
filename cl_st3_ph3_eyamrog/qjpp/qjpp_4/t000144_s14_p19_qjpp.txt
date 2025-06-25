@@ -1,0 +1,7 @@
+All models reported here were implemented in R version 4.0.2
+(R Core Team, 2020 ) with package brms (Bürkner, 2017
+), a package that runs Bayesian models in Stan (Stan
+Development Team, 2020 ). We centered all continuous variables such
+that zero indicates the minimum observed value in the sample.
+The data set, metadata, and code can be found at
+http://doi.org/10.5281/zenodo.4065638 .

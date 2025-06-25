@@ -1,0 +1,5 @@
+Analyses were done using custom-written Perl programs, the Statistics::Regression Perl
+package (version 0.53), and SPSS (v27.0). To mitigate the risk
+of spurious associations (Holländer et al., 2004 ), our analyses
+did not presume arbitrarily selected bins (thresholds, cutoffs) for any
+continuous variables.

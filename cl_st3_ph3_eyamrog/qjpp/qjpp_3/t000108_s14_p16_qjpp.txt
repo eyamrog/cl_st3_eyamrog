@@ -1,0 +1,13 @@
+To identify osteoclasts, femora from mice were fixed in 4%
+PFA and decalcified in 0.34M EDTA before being processed to
+paraffin blocks. 5μm thick sections were stained for TRAP (
+Lawson et al., 2015 45. Lawson, M.A. ∙ McDonald, M.M.
+∙ Kovacic, N. ... Osteoclasts control reactivation of dormant myeloma
+cells by remodelling the endosteal niche Nat. Commun. 2015; 6
+:8983 Crossref Scopus (271) PubMed Google Scholar ). Osteomeasure (Osteometrics)
+was used to quantify osteoclast and osteoblast parameters on endosteal
+surfaces using standard methods. Analysis of osteoclast parameters on trabecular
+bone was quantified as number of TRAP+ multinucleated cells per
+unit area as mature trabecular bone surfaces were difficult to
+define due to retention of primary spongiosa bone in mice
+treated with OPG:Fc.

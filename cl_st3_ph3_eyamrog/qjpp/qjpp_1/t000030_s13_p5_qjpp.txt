@@ -1,0 +1,11 @@
+Laboratory-based surveillance is an essential component of many influenza surveillance
+systems. In the 1940s, growing virus in culture allowed antigenic
+characterization of strains and supported vaccine development. This method is
+still widely used today as part of the process for
+antigenic and genetic characterization of influenza viruses ( 21 ).
+In 1983, the development of the polymerase chain reaction (PCR)
+technique by Kary Mullis revolutionized the field of infectious disease
+diagnosis. This molecular technique detects virus-specific RNA sequences rather than
+viral antigens or antibodies and can provide results within a
+few hours. Most laboratory surveillance of influenza is now done
+by PCR.

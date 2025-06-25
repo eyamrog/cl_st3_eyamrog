@@ -1,0 +1,13 @@
+This prospectively planned, pooled individual participant data, cardiovascular safety meta-analysis
+was conducted for the tirzepatide T2D clinical development program, SURPASS.
+The overall cardiovascular findings indicate that tirzepatide treatment given for
+a median duration of just over 1 year, at a
+mean randomization dose of 9.9 mg per week to a
+population with just over one-third having established cardiovascular disease, is
+not associated with increased cardiovascular risk when compared to placebo
+or comparators not known to be cardioprotective, with point estimates
+of HR < 1.0 and upper confidence limits of 95%
+CI < 1.8 for all MACE components. Furthermore, the incidence
+of MACE-4 with tirzepatide starts to diverge from the control
+groups after approximately 1 year. A similar pattern was observed
+in most previous GLP-1RA cardiovascular outcomes trials (CVOTs) .

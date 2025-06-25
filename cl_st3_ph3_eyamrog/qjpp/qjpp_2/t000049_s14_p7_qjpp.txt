@@ -1,0 +1,5 @@
+Other covariates included age, ethnicity (white and non-white), and practice
+effect (to account for changes in test performance attributed to
+increasing familiarity with test instruments and protocols) using a dichotomous
+indicator of whether or not the measure of cognitive function
+was the first cognitive assessment for the participant.

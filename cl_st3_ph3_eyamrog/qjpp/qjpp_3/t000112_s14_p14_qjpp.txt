@@ -1,0 +1,10 @@
+The second method used an individually wrapped Isohelix Buccal Mini
+Swab (MS Mini DNA/RNA Swab, Isohelix, Cat.: MS-02) paired with
+a barcoded storage tubes (2D Matrix V-Bottom ScrewTop Tubes, Thermo
+Scientific, Cat.: 3741-WP1D-BR/1.0mL), hereafter referred to as ‘matrix tubes’, prefilled
+with 400 μ l of a transport and storage medium
+suitable for both DNA and RNA (DNA/RNA Shield, Zymo Research,
+Cat.: R1100), hereafter referred to as ’Zymo Shield’. Once the
+surface was sampled, the swab was immediately placed into a
+matrix tube containing Zymo Shield and stored in a −80C
+freezer until DNA extraction.

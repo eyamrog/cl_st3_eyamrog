@@ -1,0 +1,4 @@
+Along with good-quality influenza surveillance data, having a clear understanding
+of the transmission dynamics of influenza, and how these dynamics
+might be influenced by social mixing patterns or extrinsic factors
+that drive seasonality, can also be valuable.

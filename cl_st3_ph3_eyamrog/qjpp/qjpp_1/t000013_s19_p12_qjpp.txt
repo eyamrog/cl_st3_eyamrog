@@ -1,0 +1,21 @@
+We further evaluated the analytical sensitivity of RVP by correlating
+RVP fluorescence signals to Ct values obtained from concurrent RT–qPCR
+testing (CDC 2019-nCoV Kit). Of the 316 specimens positive for
+SARS-CoV-2 by mCARMEN RVP and both RT–qPCR results, 217 had
+Ct values <30, suggesting moderate-to-high viral genome copies. By RVP,
+all 217 specimens (100%) reached signal saturation by 1 h
+post-reaction initiation (Fig. 2c,d and Supplementary Fig. 3f ). The
+remaining 100 specimens had Ct values between 30 and 36
+and all but 6 samples (94%) reached signal saturation by
+1 h. In total, 98% (311 out of 316) of
+the specimens reached saturation by 1 h indicating that mCARMEN
+can rapidly deem viral positivity status for a range of
+Ct values. Even 17 of the 42 (approximately 40%) RVP-positive
+specimens, but not concurrently RT–qPCR-positive, reached saturation by 1 h;
+the slower saturation of the remaining 25 specimens further suggested
+detection issues caused by low viral genome copy number (Extended
+Data Fig. 4a–c ). We also evaluated RVP fluorescence for
+detecting an internal control and human housekeeping gene, RNase P.
+We found that 520 of the 525 (99%) patient specimens
+reached saturation for RNase P by 1 h (Extended Data
+Fig. 4d , described in the Methods ).

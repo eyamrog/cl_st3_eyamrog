@@ -1,0 +1,19 @@
+Cancer control programmes implemented today will have an effect on
+the burden of cancer over future decades. Long-term projections of
+national cancer incidence and mortality therefore provide essential information for
+policy makers, helping to inform health service planning and public
+health policies. There are many factors which influence future patterns
+of cancer incidence and mortality, including population growth and ageing,
+changes in exposure to risk factors, and developments in cancer
+prevention, diagnosis, and treatment. This diverse range of influential factors
+makes projecting future incidence and mortality rates for all cancers
+combined very complex, so it is important that appropriate projection
+methods are carefully selected, and that attempts are made to
+account for these factors whenever possible. Several different statistical models
+have been developed and used to project future cancer incidence
+and mortality rates, ranging from a simple assumption of a
+constant cancer mortality rate to more complex models such as
+age-period-cohort (APC) models and other generalised linear models (GLMs) that
+account for changes in exposure to risk factors. An overview
+of statistical projection methods for all cancers is provided in
+the appendix (pp 6–7) .

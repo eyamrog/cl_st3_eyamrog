@@ -1,0 +1,13 @@
+We set our initial reference age 𝑎 0 = 2
+days in the case of bone marrow and 𝑎 0
+= 3 days in all other tissues (i.e., when the
+normalized to maximum percentage of tdTomato + neutrophils reached 100%),
+both after tamoxifen injection. Moreover, 𝑎 m a x =
+7 days which was the last day of tissue sample
+collection. The survival functions for each of the tissues were
+constructed via cubic spline interpolation of the datasets from 𝑎
+0 up to 𝑎 m a x . From the
+obtained mean lifetimes, the corresponding half-lives that resulted were: Bone
+marrow (22.9 h), blood (12.2 h), spleen (12.8 h), lung
+(11.3 h), liver (12.1 h), intestine (13.0 h), and skin
+(21.0 h).

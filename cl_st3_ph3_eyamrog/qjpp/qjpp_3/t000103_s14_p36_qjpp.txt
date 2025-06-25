@@ -1,0 +1,18 @@
+Statistical details can be found in the figure legends. EC
+50 values for binding and IC 50 values for neutralization
+were determined after log transformation of concentration values and non-linear
+regression analysis using sigmoidal dose-response (variable slope). Direct comparison of
+differences in mAb binding to virion particle-specific epitopes versus sites
+in recombinant E2 glycoprotein cannot be performed on a molar
+basis. The precise total number of epitopes present on SINV/EEEV
+particles is unknown in an antibody-based capture ELISA format and
+may be greater than that on the recombinant EEEV E2
+glycoprotein. To describe the differences in mAb binding, a virus/protein
+EC 50 ratio was used. Survival curves were generated using
+the Kaplan-Meier method and curves compared the log-rank test with
+Bonferroni multiple comparison correction (n = number of mice, ∗
+= p < 0.05, ∗∗ = p < 0.01, ns
+= not statistically significant). A one-way ANOVA with Dunnett’s multiple
+comparison correction was used to compare luminescence intensity of IVIS
+images ( ∗ = p < 0.01). All statistical analyses
+were performed using Prism software version 8 (GraphPad).

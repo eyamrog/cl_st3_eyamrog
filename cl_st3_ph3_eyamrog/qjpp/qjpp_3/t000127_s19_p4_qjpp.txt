@@ -1,0 +1,26 @@
+We next investigated the pH response of RGF1 signaling using
+different medium pH conditions. Consistent with the FC and DCCD
+treatments, the medium pH conditions markedly induced apoplastic pH change
+( Figures S3 D and S3E). Not considering the potential
+buffering capacity of the root apoplast, we conducted a HPTS
+calibration using Col-0 seedlings grown on different medium pH conditions
+and approximately estimated that the pH value near the QC
+region was less than 4.7 ( Figures S3 D and
+S3F). To maximize the effect of exogenous RGF1 peptide application
+in different pH conditions, the aqc1-1 mutant that possesses little
+basal RGF1 bioactivity was used ( Zhou et al., 2010
+93. Zhou, W. ∙ Wei, L. ∙ Xu, J. ...
+Arabidopsis tyrosylprotein sulfotransferase acts in the auxin/ PLETHORA pathway in
+regulating postembryonic maintenance of the root stem cell niche Plant
+Cell. 2010; 22 :3692-3709 Crossref Scopus (145) PubMed Google Scholar
+). The RGF1-induced RAM growth in aqc1-1 was significantly inhibited
+at pH 6.7 and 7.2 ( Figures 3 E and
+3F). The imaging of PLT2-YFP fluorescence in aqc1-1 also showed
+that the RGF1-induced expression of PLT2 was notably attenuated at
+pH 6.7 and 7.2 relative to pH 4.7 and 5.7
+( Figures 3 G and 3H and S3 G). The
+pH effect on Col-0 plants was consistent with that of
+aqc1-1 mutant ( Figures S3 H and S3I). These results
+suggest that RGF1 signaling is substantially impaired when the pH
+of the growth medium is increased from 5.7 to 6.7
+or 7.2.

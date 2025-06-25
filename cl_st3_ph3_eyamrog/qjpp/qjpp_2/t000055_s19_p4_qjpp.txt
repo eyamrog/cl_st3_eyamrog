@@ -1,0 +1,11 @@
+Visual inspection of the total number of symptoms reported, asymptomatic
+infections, self-reported hospital visits, and instances of long symptom duration
+over time suggested no change in any of these outcomes
+with an increasing proportion of infections with the B.1.1.7 variant
+( appendix pp 3–4 ). When correcting for mean age,
+sex, and ambient temperature and humidity, there was no evidence
+of an association between the proportion of infections with the
+B.1.1.7 variant and the number of symptoms reported over a
+4-week period, the number of admissions to hospital, long symptom
+duration, or the proportion of asymptomatic cases ( appendix p
+8 ).

@@ -1,0 +1,12 @@
+We measured sequencing quality based on 5 metrics: number of
+reads obtained from a sample, GC content, Shannon’s entropy of
+k -mers, post PCR Qubit score, and recorded DNA concentration
+before PCR. The number of reads in each sample was
+counted both before and after quality control, we used the
+number of reads after quality control for our results though
+the difference was slight. GC content was estimated from 100,000
+reads in each sample after low quality DNA and human
+reads had been removed. Shannon’s entropy of k -mers was
+estimated from 10,000 reads taken from each samples. PCR Qubit
+score and DNA concentration are described in the wet lab
+methods.

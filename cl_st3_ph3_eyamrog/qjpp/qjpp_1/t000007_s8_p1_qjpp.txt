@@ -1,0 +1,17 @@
+SARS-CoV-2 infections normally resolve clinically within a few days, and
+RNA shedding can last a few days to a few
+weeks . However, more and more case reports are accumulating
+that document chronic infections spanning weeks to many months of
+infection . Notably, chronic infection should not be confused with
+‘long COVID’, where infection is cleared rapidly yet symptoms persist
+; in cases of chronic infections, replicative virus is detected
+for extended periods of time. To date, all cases of
+chronic SARS-CoV-2 infection have been associated with a severely immunosuppressed
+condition, including primary immunodeficiencies, immunosuppressive therapy after solid organ transplants,
+acquired immunodeficiency syndrome (AIDS) and a compromised immune response associated
+with hematological cancer and/or its treatment. Presumably, these immune system
+disorders prevent clearance of the virus as compared to patients
+with an intact immune system, and, thus, the virus persists
+for lengthy periods of time, most likely due to the
+compromised function of the adaptive immune system in these patients
+.

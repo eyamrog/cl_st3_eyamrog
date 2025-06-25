@@ -1,0 +1,9 @@
+Plasmid DNA was extracted from each library and amplified via
+PCR (NEB M0492L) with primers containing homology to the binding
+region of the indexing primers. PCR reactions were monitored via
+qPCR (SigmaMillipore S4438) on a Roche LightCycler 96. Indexing of
+the library member DNA proceeded with a global primer (Pi5)
+and a unique primer (Pi7) for sample barcoding. Sequencing was
+performed at the Biopolymers Facility at Harvard Medical School on
+an Illumina NextSeq 500 sequencer, yielding 300bp forward and reverse
+reads containing both coils when combined.

@@ -1,0 +1,17 @@
+Whole transcript sequencing generates more cDNA fragments for longer genes,
+and consequentially more reads for these genes, relative to shorter
+genes. In contrast 3′ sequencing sequences from the 3′ end
+of the mRNA. Since mRNA is not fragmented, gene length
+does not influence sequencing reads and the number of reads
+is proportional to the original mRNA transcripts. Ma et al.
+( 2019 ) compared the two methods, and as expected
+found that 3′ sequenced performed better for shorter transcripts (particularly
+<1000 bp) because they receive equal reads. Many genes of
+interest for quantifying immune function are small genes, for example,
+cytokines (e.g., the mRNA for IL-10 is approximately 500 bases).
+3′ can also be substantially cheaper than whole transcript sequencing
+(Sholder et al., 2020 ). There are, however, advantages of
+whole transcript sequencing. First among these is that whole transcript
+sequencing allows for the discovery and counting of alternative splice
+variants and noncoding RNAs. Depending on the study aims this
+may or may not be relevant.

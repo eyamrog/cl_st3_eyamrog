@@ -1,0 +1,18 @@
+Ecological momentary assessments (EMAs; Shiffman, Stone, & Hufford, 2008 ;
+Stone & Shiffman, 1994 ) are also real-time, prospective assessments
+of behavior, involving multiple prompts sent to the participant (usually
+via a smartphone or similar device) to report their current
+behavior at various intervals throughout the day. EMAs are typically
+employed for a capture period of 4-8 days and prompt
+intervals can range from 15 minutes to 2 hours (Romanzini
+et al., 2019 ). The EMA approach does not rely
+on recall and offers responsive opportunities to explore contextual information
+by including additional questions such as where and with whom
+the reported behavior is occurring. The validity of EMAs for
+measuring total sedentary time is low, with a weak correlation
+( r = .29) compared to activPAL measures of sedentary
+time (Maher et al., 2018 ). However, EMAs can offer
+unique insights into co-occurrences or contexts of sedentary behavior, such
+as whether snacking is more likely to happen while watching
+TV compared to other behaviors (Ghosh Roy, Jones, Martyn-Nemeth, &
+Zenk, 2019 ).

@@ -1,0 +1,13 @@
+pTrimmer was used to trim the various primers that were
+used in the multiplex PCR. The raw reads were mapped
+to the reference genome of SARS-CoV-2 (GenBank ID NC_045512 ).
+Mapping and variant calling was performed using our AccuNGS pipeline
+. The consensus sequence of each sample was determined based
+on sites with coverage of at least 10×. As we
+and others have observed, the sequencing process may lead to
+erroneous mutations being called, and this is particularly exacerbated at
+low VLs . To this end, only mutations with a
+frequency of at least 80% were introduced into the consensus
+sequence (hereby referred to as substitutions or fixed mutations); loci
+with mixed populations at frequencies lower than 80% were considered
+ambiguous and marked by ‘N’.

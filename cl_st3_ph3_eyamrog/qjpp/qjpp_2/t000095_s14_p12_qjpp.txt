@@ -1,0 +1,16 @@
+Infected lung and brain tissues from euthanised mice were homogenized
+with DMEM, and the supernatant was used for virus isolation.
+A total of 200 μL supernatant was inoculated onto monolayer
+Vero E6 cells in a 24-well plate. After 1 h
+inoculation, the supernatant was removed and replaced with fresh DMEM
+containing 2% FBS plus 1% Anti-Anti. CPE was monitored daily,
+and the supernatant was clarified from debris and subjected to
+viral RNA extraction after the onset of CPE. Viral RNA
+copies were quantified by qPCR, and viral antigens were detected
+using IFA. Images were collected by EVOS M5000 (Thermo). The
+Next-generation sequencing (NGS) was performed by using Illumina MiSeq 3000
+sequencers and the sequences were analyzed by Geneious ®10.2.6 for
+Windows ( Zhou et al., 2020 35. Zhou, P. ∙
+Yang, X.L. ∙ Wang, X.G. ... A pneumonia outbreak associated
+with a new coronavirus of probable bat origin Nature. 2020;
+579 :270-273 Crossref Scopus (14925) PubMed Google Scholar ).

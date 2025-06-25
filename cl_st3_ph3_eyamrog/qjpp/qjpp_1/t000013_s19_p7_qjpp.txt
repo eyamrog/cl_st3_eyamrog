@@ -1,0 +1,6 @@
+For an end-to-end mCARMEN workflow, we developed software to be
+used alongside clinical testing to provide patient diagnoses (Supplementary Fig.
+2 ). The software uses the final image at 1
+h post-reaction initiation as input, then automatically validates the controls
+to make 1 of 3 calls—‘detected’, ‘not detected’ or ‘invalid’—for
+each combination of sample and crRNA.

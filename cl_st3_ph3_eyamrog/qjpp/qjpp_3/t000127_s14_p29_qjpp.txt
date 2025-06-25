@@ -1,0 +1,4 @@
+To express receptor LRR domains of RGI3/RGFR1 (residues 1–702), PEPR1
+(residues 1–767), SERK1 (residues 1–213), and BAK1 (residues 1–220) protein
+in insect cell system, we generated C-terminal 6× His-tagged LRR
+proteins construction into the vector pFastBac1 (Invitrogen).

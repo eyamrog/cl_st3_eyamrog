@@ -1,0 +1,16 @@
+We present an extensible framework for creating strong and programmable
+cell-cell interactions through cell surface presentation of CCs fused to
+a transmembrane domain (TMD), which we term “helixCAM” ( Figure
+1 A). Within this work, we find that helixCAMs direct
+selective binding of bacteria and human cells into patterned aggregates
+and engineer additional CC peptides for helixCAM use, for a
+total of five pairs. Using these, we implement helixCAMs for
+a wide range of applications, such as specifying the spatial
+composition of spherical aggregates, targeting suspension cells to adherent cells,
+and patterning helixCAM cells with His-tagged CC peptides. The helixCAM
+platform is a foundational technology that empowers researchers with simultaneous
+control of multiple specific cell interactions. We expect scientists and
+engineers across biological disciplines to find compelling applications for helixCAMs
+in their work, and for the set of orthogonal helixCAMs
+to grow and open the door to programming increasingly complex
+interactions.

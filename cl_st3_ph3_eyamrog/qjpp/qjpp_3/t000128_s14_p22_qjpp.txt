@@ -1,0 +1,11 @@
+To express His-tagged CC-GFP fusion protein, HEK293T cells were cultured
+to 70% confluency in a T75 flask, then transfected with
+15μg of CC-GFP-His expression plasmid using PEI. Cells were grown
+for 72 h, then lysed in 2mL of Triton buffer
+(50mM Tri pH8, 150mM NaCl, 0.1% Triton X-100). His-tagged proteins
+were bound to Ni-NTA Resin Cartridges (ThermoFisher 90,098), washed with
+20mL of wash buffer (50mM Tris pH 8, 500mM NaCl,
+10mM imidazole), followed by elution into 2mL of elution buffer
+(0mM Tris pH 8, 500mM NaCl, 300mM imidazole). The protein
+was then dialyzed and concentrated using a size-selection spin concentrator
+(MilliporeSigma UFC201024).

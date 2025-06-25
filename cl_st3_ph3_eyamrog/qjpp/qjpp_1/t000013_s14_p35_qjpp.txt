@@ -1,0 +1,17 @@
+The CDC 2019-nCoV Real-Time RT–PCR Diagnostic Panel was performed using
+the TaqPath 1-Step RT–qPCR Master Mix (Thermo Fisher Scientific) with
+a 1-μl template RNA of either SARS-CoV-2 or RNase P
+in 10-μl reactions, run in triplicate. Primers from the 2019-nCoV
+RUO Kit (Integrated DNA Technologies) were used. For SARS-CoV-2, a
+primer pool at 800 μM and probe at 200 μM
+were used. For RNase P, a primer pool at 500
+μM and a probe at 125 μM were used. The
+following thermal cycling conditions were used: (1) enzyme activation at
+25 °C for 2 min; (2) reverse transcription at 50
+°C for 15 min; (3) PCR activation at 95 °C
+for 2 min; and (4) 45 cycles at 95 °C
+for 3 s and 55 °C for 30 s. Standard
+curves were made with spike-in of the RNA template (SARS-CoV-2
+and RNase P) to make a tenfold serial dilution from
+10 to 10 copies μl . This was run on
+the QuantStudio 6 Flex Real-Time PCR System (Thermo Fisher Scientific).

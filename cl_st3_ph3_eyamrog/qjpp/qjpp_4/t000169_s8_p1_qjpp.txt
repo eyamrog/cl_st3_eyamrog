@@ -1,0 +1,17 @@
+Internationally harmonized social surveys with a broad set of social,
+economic, psychological, and health characteristics of respondents have an important
+place in health research since they put health outcomes in
+the context of country-specific cultural and institutional environments, among them
+the coverage and efficacy of health care systems. One example
+is the Survey of Health, Ageing and Retirement in Europe
+(SHARE), a research infrastructure for studying the effects of health,
+social, economic, and environmental policies over the life-course of European
+citizens and beyond. From 2004 until today, 530 000 in-depth
+interviews with 140 000 people aged 50 years or older
+from 28 European countries and Israel have been conducted (Börsch-Supan
+et al., 2013 ; Börsch-Supan, 2021 ). A recent development
+is to improve the health measurement in such international social
+surveys by including blood-based biomarkers in order to overcome the
+subjectivity of self-assessed health measures, which tend to generate country-specific
+differences purely due to differential response behavior (Holland & Wainer,
+1993 ).

@@ -1,0 +1,4 @@
+The Cas13 detection reactions were made into two separate mixes—assay
+mix and sample mix—for loading onto a microfluidic IFC (depending
+on the experiment, either gene expression or genotyping IFCs were
+used in either a 96.96 or 192.24 format) (Fluidigm).

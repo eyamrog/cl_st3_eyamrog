@@ -1,0 +1,18 @@
+Blood and tissue neutrophils from 10-12 week-old male mice set
+in parabiosis for 4 weeks were FACS sorted using CD45,
+CD11b, Ly6G and DAPI labeling, with typical purities > 95%.
+cDNA amplification from neutrophil RNA and generation of index-tagged sequencing
+libraries were carried out using the Ovation Single Cell RNA-Seq
+System (NuGEN Technologies, San Carlos CA). Libraries were quantified using
+the dsDNA HS assay with the Qubit fluorometer (Life Technologies,
+Carlsbad, California). Average library size and size distribution were determined
+using a High Sensitivity DNA assay in an Agilent 2100
+Bioanalyzer (Agilent Technologies, Santa Clara CA). Libraries were normalized to
+10nM using Tris-Cl 10mM, pH8.5 with 0.1% Tween 20. Libraries
+were applied to an Illumina flow cell for cluster generation
+(True Seq SR Cluster Kit V2 cBot) and 61 nt
+long, single-end reads were generated on a Genome Analyzer IIx,
+using the TruSeq SBS Kit v5 (Illumina) and following the
+standard RNA sequencing protocol. Data from the germ-free experiment were
+paired end sequenced in the HiSeq2500 (Illumina). The RNA sequencing
+experiments were performed at the Genomics Unit at CNIC.

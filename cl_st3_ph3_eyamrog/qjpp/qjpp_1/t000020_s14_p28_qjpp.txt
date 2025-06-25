@@ -1,0 +1,8 @@
+All ICD10 codes relating to diseases of the liver (K70–K77),
+diseases of the respiratory system not specific to the upper
+respiratory tract (J20–J22, J40–J47, J80–J99) or kidney diseases (N00–N29) were
+curated to exclude any with a primary infectious or external
+cause (Supplementary Table 12 ). Asthma was excluded from all
+analyses to avoid any issues caused by the deliberate ascertainment
+of the exome-sequenced portion of the cohort on the basis
+of asthma status.

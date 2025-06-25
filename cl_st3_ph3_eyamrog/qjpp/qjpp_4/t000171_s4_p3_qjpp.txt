@@ -1,0 +1,15 @@
+At present we are most excited by measures that allow
+for broad characterizations of immunity. RNA-seq and DNA methylation, in
+particular, can be used in an exploratory fashion, but also
+with targeted analyses that can be used to infer cell
+compositions, cytokine expression levels, and many other aspects of immunity.
+The cost of sequencing continues to decline precipitously, while sensitivity
+and analysis tools increase. That said, many analyses require further
+validation, for example, against gold standard methods such as flow
+cytometry for immunophenotyping of leukocytes. RNA-seq and methylation analysis are
+also limited in their ability to differentiate expression by cell
+type, which can be done with flow cytometry. Single-cell RNA-seq
+is becoming commonplace (Luecken & Theis, 2019 ), yet for
+field studies single cell analysis runs into the same limitation
+that flow cytometry has, namely the need to preserve and
+transport blood without cellular lysing.

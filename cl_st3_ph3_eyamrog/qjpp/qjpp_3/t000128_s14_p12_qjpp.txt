@@ -1,0 +1,18 @@
+PiggyBac-flanked donor plasmids were packaged with the Super PiggyBac transposase
+vector (SBI PB210PA-1) using Lipofectamine 2000 (ThermoFisher 11,668,019) at a
+1:1 ratio in Opti-MEM (ThermoFisher 31,985,062). For K562 cells, the
+liposome-DNA solution was first added to a well, then K562
+cells were added in culture media on top. For HEK293
+cells, cells were allowed to first grow to 70% confluency,
+then the liposome-DNA solution was added dropwise to the media.
+48 h after transfection, cells were changed into selection media
+containing either puromycin (ThermoFisher A1113802) or blasticidin (ThermoFisher A1113903). For
+K562 cells, the selection concentration used was 1 μg/mL for
+puromycin and 6 μg/mL for blasticidin, and for HEK293, it
+was 2 μg/mL for puromycin and 10 ug/mL for blasticidin.
+After four days of selection, cells were passaged to recover
+for 48 h, then subsequently single-cell sorted (BD FACSAria), either
+with fluorescence selection (for puromycin lines) or only through FSC/SSC
+discrimination (for blasticidin lines). Subsequently, surviving lines were imaged and
+scored for fluorescence and viability, and the ones scoring highly
+in both were selected.

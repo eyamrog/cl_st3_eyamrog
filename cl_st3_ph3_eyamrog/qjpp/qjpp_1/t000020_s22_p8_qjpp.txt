@@ -1,0 +1,8 @@
+The three combined datasets provide a total of 1,455 carrier
+individuals with 134 unique LRRK2 pLoF variants. These variants are
+found across all major continental populations (Fig. 1b and Extended
+Data Fig. 1 ) and show neither any obvious clustering
+along the length of the LRRK2 protein, nor specific enrichment
+or depletion in any of the known annotated protein domains
+(chi squared P = 0.22; Fig. 1c ), consistently with
+signatures of true LoF .

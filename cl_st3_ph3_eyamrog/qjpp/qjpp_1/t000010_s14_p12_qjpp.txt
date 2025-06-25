@@ -1,0 +1,8 @@
+Due to the asymmetric randomization ratios and patient populations with
+different cardiovascular risk across the trials, the crude estimates simply
+aggregating the trials on each of the pooled tirzepatide group
+and the pooled comparator group could be misleading. Therefore, only
+adjusted estimates for each pooled treatment group were presented for
+summary statistics and event rate and cumulative incidence on time
+to first outcome. The adjustments were made by weighting with
+inverse probability of randomization for pooled treatment groups within stratum.

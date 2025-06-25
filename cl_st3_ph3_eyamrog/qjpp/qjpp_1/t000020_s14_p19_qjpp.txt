@@ -1,0 +1,12 @@
+We identified all individuals with putative LoF variants detected in
+the FE analysis pipeline, which used GATK 3.0 for variant
+calling and filtering . We did not use the SPB
+pipeline calls due to advertised errors in the Regeneron Genetics
+Center pipeline at the time we were conducting these analyses.
+Variants were included if they were annotated as LoF on
+any transcript expressed in the lung, liver or kidney. As
+with the gnomAD analysis, variants were filtered out if they
+were flagged as low confidence by LOFTEE, before manual curation
+of the remaining variants. This curation included inspection of variant
+quality metrics, read distribution and the presence of nearby variants
+using integrative genome viewer and splice-site prediction algorithms using Alamut.

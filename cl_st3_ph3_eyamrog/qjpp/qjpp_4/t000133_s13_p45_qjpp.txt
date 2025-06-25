@@ -1,0 +1,10 @@
+The multiple tube method is another traditional indicator in which
+a measured water sample is diluted with sterile growth medium,
+then a portion is decanted into multiple tubes, and the
+process repeated to yield a range of dilutions. After incubation,
+the resulting number of positive-growth tubes at each dilution level
+is used to calculate the concentration of the original sample.
+This technique is time- and labor-intensive, requires a lot of
+tubes and cleaning, and costs ~$2 to 5 per test.
+While more precise than plate methods, it is ultimately less
+precise than membrane filtration.

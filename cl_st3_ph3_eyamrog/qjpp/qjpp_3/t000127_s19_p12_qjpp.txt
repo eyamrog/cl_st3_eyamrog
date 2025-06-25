@@ -1,0 +1,13 @@
+Previously, an in vitro pull-down assay showed that the interaction
+between Pep1 and PEPR1 LRR was dependent on pH (
+Tang et al., 2015 81. Tang, J. ∙ Han, Z.
+∙ Sun, Y. ... Structural basis for recognition of an
+endogenous peptide by the plant receptor kinase PEPR1 Cell Res.
+2015; 25 :110-120 Crossref Scopus (131) PubMed Google Scholar ).
+Here, we used a gel-filtration assay to monitor the Pep1-induced
+PEPR1 LRR interaction with the co-receptor BAK1 LRR under different
+pH conditions. The gel-filtration data showed that PEPR1 LRR interacted
+with BAK1 LRR in the presence of Pep1 at pH
+6.0 or 8.0; however, the Pep1-induced PEPR1 LRR -BAK1 LRR
+interaction was completely disrupted at pH 4.0 ( Figure 6
+A), in contrast with the case of RGF1-RGFR interaction.

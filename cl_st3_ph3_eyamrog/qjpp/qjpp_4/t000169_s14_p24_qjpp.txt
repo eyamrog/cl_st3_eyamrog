@@ -1,0 +1,8 @@
+We applied three widespread methods to select the best fitting
+model: adjusted R 2 , Akaike information criterion (AIC, Akaike,
+1998 ), and Vuong test (Vuong, 1989 ). The Vuong
+test is based on the likelihood-ratio principle. It compares two
+competing models to find the one that is closest to
+the true distribution of the data. We can attribute all
+differences between our models to the spot-size measures because they
+are otherwise identical.

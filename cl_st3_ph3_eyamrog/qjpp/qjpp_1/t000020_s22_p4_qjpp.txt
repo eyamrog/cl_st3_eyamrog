@@ -1,0 +1,12 @@
+We identified LRRK2 pLoF variants and assessed associated phenotypic changes
+in three large cohorts of genetically characterized individuals. First, we
+annotated LRRK2 pLoF variants in two large sequencing cohorts: the
+gnomAD v.2.1.1 dataset, which contains 125,748 exomes and 15,708 genomes
+from unrelated individuals and 46,062 exome-sequenced unrelated European individuals from
+the UK Biobank . We identified 633 individuals in gnomAD
+and 258 individuals in the UK Biobank with 150 unique
+candidate LRRK2 loss-of-function (LoF) variants, a combined carrier frequency of
+0.48%. All variants were observed only in the heterozygous state.
+Compared to the spectrum observed across all genes, LRRK2 is
+not significantly depleted for pLoF variants in gnomAD (LoF observed/expected
+upper bound fraction = 0.64).

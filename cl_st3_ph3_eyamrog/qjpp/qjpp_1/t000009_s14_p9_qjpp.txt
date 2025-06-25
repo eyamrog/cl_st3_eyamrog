@@ -1,0 +1,16 @@
+We analyzed ten cancer treatment variables: (1) all chemotherapy (i.e.,
+everyone who received chemotherapy), (2) all radiotherapy, (3) all surgery,
+(4) chemotherapy only (i.e., individuals who received chemotherapy only and
+nothing else), (5) radiotherapy only, (6) surgery only, (7) chemotherapy
+and radiotherapy, (8) chemotherapy and surgery, (9) radiotherapy and surgery
+and (10) chemotherapy, radiotherapy and surgery. We considered 11 types
+of chemotherapy drug variables: (1) alkylating agents; (2) anthracyclines; (3)
+antimetabolites; (4) biological response modifiers, including monoclonal antibodies; (5) chemotherapy
+not otherwise specified; (6) hormonal agents including corticosteroid hormones and
+sex hormones; (7) kinase inhibitors; (8) nonanthracycline antitumour antibiotics; (9)
+plant alkaloids and natural products, excluding vinca alkaloids; (10) platinum
+agents; and (11) vinca alkaloids. Cause-specific mortality was defined using
+the underlying cause of death code as recorded in the
+Office for National Statistics death registry. Natural deaths consist of
+all ICD-10 codes, excluding V01-Y98. Unnatural deaths include V01-Y98 and
+suicides (including open verdicts X60-X84 and Y10-Y34) (ref. ).

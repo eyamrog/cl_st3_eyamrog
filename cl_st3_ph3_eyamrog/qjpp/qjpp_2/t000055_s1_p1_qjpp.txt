@@ -1,0 +1,4 @@
+Background: The SARS-CoV-2 variant B.1.1.7 was first identified in December,
+2020, in England. We aimed to investigate whether increases in
+the proportion of infections with this variant are associated with
+differences in symptoms or disease course, reinfection rates, or transmissibility.

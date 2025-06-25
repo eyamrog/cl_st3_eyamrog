@@ -1,0 +1,26 @@
+Regardless of whether counts or m g are used, wearing
+the accelerometer on the wrist or waist prevents detection of
+posture and therefore has low validity for the measurement of
+sedentary time (Edwardson et al., 2016 ; Hildebrand et al.,
+2017 ). However, there are methods for processing wrist-worn accelerometry
+data that perform better for the measurement of sedentary time
+because they take the angle and rotation of the wrist
+into account. For example, the Sedentary Sphere (Rowlands et al.,
+2014 ), a Microsoft Excel worksheet developed for processing wrist-worn
+accelerometer data, classifies sedentary time when movement is low and
+the angle of the arm is bent (ie, within 15°
+of the horizontal), suggesting the wearer is likely to be
+seated or reclining. The Sedentary Sphere has reasonable accuracy for
+detecting sedentary time in wrist-worn configurations regardless of accelerometer brand
+(Rowlands et al., 2014 ; Rowlands et al., 2016 ),
+although it struggles in scenarios where the arm position does
+not match what would be expected by this arrangement; for
+example, standing at a standing desk would likely register as
+sitting because of the bent position of the arm. To
+our knowledge, no work has been done to evaluate the
+performance of this method for capturing variations of non-ambulatory postures
+such as squatting or ground-sitting. As this method relies on
+the position of the arm to identify posture, it would
+presumably classify postures such as squatting as sedentary time if
+the arm is bent, but this has not been empirically
+tested.

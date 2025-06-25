@@ -1,0 +1,19 @@
+The overall sample size was chosen to ensure a minimum
+of 30 patients with a ctDNA-positive result in the ctDNA-guided
+group and an acceptable noninferiority margin of 8.5 percentage points
+for the analysis of 2-year recurrence-free survival, to exclude the
+largest absolute benefit that could be derived from adjuvant oxaliplatin-based
+chemotherapy for patients with stage II disease. We calculated that
+a total sample of 450 patients would provide 80% power
+with a type I error of 5% to show noninferiority
+of ctDNA-guided management to standard management, under the assumption of
+a 2-year recurrence-free survival of 84% with standard management and
+of 85% with ctDNA-guided management and allowing for a 10%
+dropout rate. The trial was powered to detect a noninferiority
+margin of 5 percentage points for the percentage of patients
+with recurrence within 2 years in a time-to-event analysis, as
+well as a 20-percentage-point difference between the standard-management group and
+the ctDNA-guided group in the percentage of patients treated with
+adjuvant chemotherapy, under the assumption that 30% of the patients
+in the standard-management group and 10% of those in the
+ctDNA-guided group would receive treatment.

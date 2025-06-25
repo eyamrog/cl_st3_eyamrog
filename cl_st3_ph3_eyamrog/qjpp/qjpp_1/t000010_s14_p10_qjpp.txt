@@ -1,0 +1,9 @@
+With these methods, assuming no difference in cardiovascular risk between
+tirzepatide and comparators, it was determined that 133 participants with
+MACE-4 would provide 90% power to exclude the upper limit
+of the 95% CI of 1.8 at two-sided alpha =
+0.05. It was anticipated that approximately 110 of the 133
+MACE-4 outcomers would be ascertained in the SURPASS-4 trial, which
+was designed as an event-driven trial continuing until 133 MACE-4
+outcomes were confirmed, pooling results across all the relevant trials.
+Analyses were conducted using SAS Enterprise Guide version 7.1.

@@ -1,0 +1,20 @@
+Reproducibility does not provide a useful route to preventing poor
+data analyses from occurring, but it does provide the basis
+for a meaningful discussion about whether there might be problems
+in the analysis and how such problems might be fixed.
+Replication differs from reproducibility primarily because it addresses a different
+goal. Replication answers the question, “Is this scientific claim true?”
+Reproducibility addresses the integrity of the data analysis that generated
+the evidence for a scientific claim, whereas replication addresses the
+integrity of the claim itself in the context of the
+outside world. Fundamentally, reproducible research has little to say on
+the question of external validity. Claims resulting from reproducible results
+can be both correct and incorrect ( 28 ). Claims
+resulting from irreproducible results are less likely to be true,
+but that may depend on the reasons for the lack
+of reproducibility. For example, evidence generated via random algorithms may
+not be exactly reproducible if random number generator seeds are
+not saved, but the underlying evidence may still be sound.
+Ultimately, claims made by irreproducible studies may in fact be
+true, but irreproducible studies simply do not provide evidence for
+such claims.

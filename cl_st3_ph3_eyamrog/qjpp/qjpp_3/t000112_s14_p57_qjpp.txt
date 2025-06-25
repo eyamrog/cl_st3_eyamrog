@@ -1,0 +1,21 @@
+OTUs were placed into a bacterial or archaeal reference tree
+(based on the Genome Database Taxonomy, GTDB Parks et al.
+(2020) 68. Parks, D.H. ∙ Chuvochina, M. ∙ Chaumeil, P.A.
+... A complete domain-to-species taxonomy for Bacteria and Archaea Nat.
+Biotechnol. 2020; 38 :1079-1086 Crossref Scopus (659) PubMed Google Scholar
+) and then assigned taxonomic classifications using GTDB-Tk (v1.0.2 Chaumeil
+et al. (2019) 14. Chaumeil, P.A. ∙ Mussig, A.J. ∙
+Hugenholtz, P. ... GTDB-Tk: a toolkit to classify genomes with
+the Genome Taxonomy Database Bioinformatics. 2019; btz848 Crossref Scopus (2092)
+PubMed Google Scholar ). GTDB-Tk relies on 120 bacterial and
+122 archaeal marker genes; domain assignment is chosen based on
+domain-specific marker content of the OTU sequence. Using the GTDB-Tk
+placements, we built an OTU-only bacterial phylogeny with FastTree (v2.1.10
+Price et al. (2010) 70. Price, M.N. ∙ Dehal, P.S.
+∙ Arkin, A.P. FastTree 2--approximately maximum-likelihood trees for large alignments
+PLoS ONE. 2010; 5 :e9490 Crossref Scopus (8655) PubMed Google
+Scholar ). The tree was visualized using iTOL (v5.5 Letunic
+and Bork (2019) 43. Letunic, I. ∙ Bork, P. Interactive
+Tree Of Life (iTOL) v4: recent updates and new developments
+Nucleic Acids Res. 2019; 47 :W256-W259 Crossref Scopus (3937) PubMed
+Google Scholar ).

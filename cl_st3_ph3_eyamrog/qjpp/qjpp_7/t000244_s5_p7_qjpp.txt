@@ -1,17 +1,11 @@
-Finally, the question remains why our manipulation in Study 1
-did not affect our dependent variables. First, it may be
-difficult to increase goal efficacy believes. Few studies have managed
-to do so (e.g., Van Zomeren et al., 2010 ),
-many have not (e.g., Hanss & Böhm, 2013 ). Second,
-it is possible that for some participants, goal efficacy decreased
-because they noticed their own low impact for environmental protection
-in our imagination task. Moreover, it might have been useful
-to increase student identity salience for an effective manipulation of
-collective efficacy (Jugert et al., 2016 ). In fact, a
-stronger student identification appeared in our baseline group. This finding
-may be a result of our manipulation: Possibly, participants in
-the experimental groups refrained from identifying with their own unsustainable
-university to a certain degree. This may have influenced other
-aspects of our study. Finally, perhaps participants did not believe
-our cover story or did not identify with “Mark” (as
-a male actor).
+Intriguingly, we found distinct effects of direct and indirect goal
+efficacy on PEB in Study 1 but not in Study
+2. The only common pattern of both studies was that
+indirect PEB was positively predicted by indirect goal efficacy, which
+is hardly surprising as both are specified with similar behaviors
+(e.g., encourage others/discuss with others). Yet, regression analyses in Study
+2 still highlighted that indirect goal self-efficacy was the most
+important predictor for all PEB subtypes (see Hanss & Böhm,
+2010 ). We therefore suggest that, where there is no
+relevant common social identity for investigating participatory efficacy, it might
+be useful to focus on indirect goal self-efficacy.

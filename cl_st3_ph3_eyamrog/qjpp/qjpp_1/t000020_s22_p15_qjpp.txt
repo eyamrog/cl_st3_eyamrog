@@ -1,0 +1,11 @@
+Our results indicate that approximately 1 in every 500 humans
+is heterozygous for a pLoF variant in LRRK2 , resulting
+in a systemic lifelong decrease in LRRK2 protein levels and
+that this partial inhibition has no discernible effect on survival
+or health at current sample sizes. These results suggest that
+partial reduction of LRRK2 protein in humans is unlikely to
+result in the severe phenotypes observed in knockout animals. This
+is consistent with initial phase 1 studies of therapeutic LRRK2
+kinase inhibitors, which have shown promising safety results , but
+are not yet able to address long-term, on-target pharmacology-related safety
+profiles.

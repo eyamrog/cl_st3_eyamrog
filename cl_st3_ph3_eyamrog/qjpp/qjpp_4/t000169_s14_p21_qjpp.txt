@@ -1,0 +1,11 @@
+To determine the number of punches in each DBS, AMoSS
+uses the original images showing the punches marked in green.
+As we know the diameter of one punch and the
+total number of pixels in the image, we can calculate
+that a single punch contains 600 pixels. Again, we convert
+the images to raster objects. Since all pixels in the
+green punching outline share the same color value, we can
+determine the total number of green pixels in the image.
+We divide the total number of green pixels by 600
+to obtain the number of punches for each spot in
+the sample.

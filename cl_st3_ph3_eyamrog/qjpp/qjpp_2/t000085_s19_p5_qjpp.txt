@@ -1,0 +1,16 @@
+At the time of database lock, 43 events of disease
+recurrence or death had occurred. Noninferiority of ctDNA-guided management to
+standard management was confirmed in the intention-to-treat population for both
+2-year recurrence-free survival (absolute difference, 1.1 percentage points; 95% CI,
+−4.1 to 6.2) and the percentage of patients with recurrence
+within 2 years in the time-to-event analysis (absolute difference, 0.7
+percentage points; 95% CI, −4.3 to 5.7) ( Figure 2A
+and Figs. S2, S3, and S4). The percentages of patients
+surviving without disease recurrence at 2 years and at 3
+years were similar in the ctDNA-guided group and the standard-management
+group (2-year recurrence-free survival, 93.5% and 92.4%, respectively; 3-year recurrence-free
+survival, 91.7% and 92.4%, respectively; hazard ratio, 0.96; 95% CI,
+0.51 to 1.82) ( Figure 2B ). The analysis involving
+the per-protocol population provided similar results (Figs. S6 and S7).
+Results were also generally similar in prespecified subgroup analyses (Fig.
+S5).

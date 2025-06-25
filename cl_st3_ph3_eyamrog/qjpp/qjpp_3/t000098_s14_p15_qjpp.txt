@@ -1,0 +1,9 @@
+8-FDA-cAMP and FDA cell penetration assays were performed using a
+96-well plate reader (Neo2, Biotek, Bad Friedrichshall, Germany), measuring whole
+fluorescence emission per well at 505 nm upon 488 nm
+excitation. 50,000 cells/well were seeded, and 24 wells were measured,
+in three replicates, for each experimental condition. Cells were kept
+in HBSS buffer, where spontaneous conversion of FDA and 8-FDA-cAMP
+to their fluorescent form is negligible. Confocal images of HEK293
+cells loaded with either FDA or 8-FDA-cAMP are found in
+Figures S2 B and S2C.

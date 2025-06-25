@@ -1,0 +1,7 @@
+To investigate directly whether cAMP nanodomains translate into similarly targeted
+PKA signaling, we designed analogous targeted PKA activity reporters. Fusing
+PDE4A1 to the PKA FRET sensor AKAR4 completely suppressed detection
+of PKA activity in response to stimulation of HEK293 cells
+with isoproterenol, whereas AKAR4 alone gave a robust signal (
+Figures 6 A–6D). This indicates that the PDE “protects” PKA
+in its immediate vicinity from cAMP stimulation.

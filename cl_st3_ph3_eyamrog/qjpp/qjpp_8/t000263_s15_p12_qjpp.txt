@@ -1,10 +1,13 @@
-Turning to Hypothesis 4, there was no indirect effect of
-openness on mental health through identity importance alone. Instead, identity
-importance comes into play when considering its relationship with community
-integration and perception of personal discrimination. Confirming Hypotheses 2 and
-4, outness has a beneficial indirect effect on mental health
-through an openness → identity importance → community integration path.
-At the same time, confirming Hypotheses 3 and 4, outness
-has a costly indirect effect on mental health measures through
-the openness → identity importance → perception of personal discrimination
-path.
+To probe known personal moderators ( Pachankis et al., 2020
+) we conducted a series of stratified analyses, running the
+serial mediation model on subgroups, including by age, gender, and
+sexual orientation. Results are summarized in the Supplemental Material. By
+and large, stratified analyses were parallel to the original analysis
+(see Table S2-S4 ). However, the level of disclosure is
+higher among our lesbian and gay-identified sexual minorities ( M
+= 4.07, SD = 1.04) than our bisexual or queer
+respondents ( M = 3.55, SD = 1.24) and this
+difference was statistically significant, t = 9.36, p < .001.
+Furthermore, gender diverse participants reported worse subjective wellbeing, b =
+-0.17, SE = 0.05, p = .002, 95 % CI
+[-0.27,-0.07].

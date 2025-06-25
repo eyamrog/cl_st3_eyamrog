@@ -1,0 +1,22 @@
+In this study, we describe human mAbs isolated against EEEV
+from the B cells of an EEEV-immune individual with prior
+natural infection. Isolation of human anti-EEEV mAbs with moderate or
+potent neutralization activity against the chimeric virus Sindbis (SINV)/EEEV allowed
+for the characterization of the molecular and structural basis of
+neutralization against EEEV and addressed important questions relating to the
+human anti-EEEV antibody response. We observed diverse patterns of mAb
+reactivity and dependence on valency for binding and/or neutralization of
+SINV/EEEV. Potent mAbs neutralized SINV/EEEV as Fab molecules, suggesting bivalency
+or tetravalency is not necessary but may be required for
+optimal neutralization of SINV/EEEV. Two mAbs, EEEV-27 and EEEV-93, displayed
+reduced binding and neutralization potency as Fab molecules, indicating the
+requirement for bivalent interactions. Additionally, EEEV-7, EEEV-12, EEEV-21, EEEV-97, and
+EEEV-147 displayed reduced neutralization potency but not reduced binding as
+Fab molecules, indicating the neutralization mechanism for these mAbs may
+involve cross-linking of two E2 protomers as IgG molecules. Recognition
+of three antigenic determinants (domains A, B, and A/B) was
+observed, with a majority of neutralizing mAbs isolated from this
+individual recognizing the E2 structural domain B. Further characterization of
+EEEV-33 and EEEV-143 identified the molecular and structural basis of
+neutralization, which enabled these mAbs to exhibit in vivo efficacy
+against highly pathogenic EEEV in an aerosol challenge model.

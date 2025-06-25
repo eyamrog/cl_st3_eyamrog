@@ -1,17 +1,5 @@
-Mental health . The survey included six measures of mental
-health. Social well-being was assessed with 15 items measuring respondents’
-perception of their social environment on a 7-point scale (α
-= 0.78). Psychological well-being was assessed with 18 items measuring
-self-acceptance, positive relations with others, purpose in life, and feelings
-of efficacy. Items were rated on a 7-point scale (α
-= 0.75). Self-esteem was assessed with 10 items, answered on
-a 4-point scale (α = 0.86). Mastery was assessed with
-a seven-item scale that assessed the extent to which respondents
-felt they had control over certain aspects of their lives.
-Responses were given on a 3-point scale (α = 0.64).
-Depression was measured by the Center for Epidemiological Studies–Depression (CES-D),
-in which respondents rated the frequency of 20 depressive symptoms
-on a 4-point scale (α = 0.92). Guilt was assessed
-with four items measuring feelings of wrong-doing or personal blame
-within the past year, with responses rated on a 5-point
-scale (α = 0.69).
+Independent variable . Openness was calculated using the raw mean
+of responses to “How many of your {Family/Friends/coworkers/people online} are
+you out to?“, which were each rated from 1 =
+none to 5 = all (α = .85; M =
+3.90 , SD = 1.12).

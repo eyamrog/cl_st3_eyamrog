@@ -1,0 +1,7 @@
+In addition to general-purpose data analysis tools, essentially all analysis
+in this paper is available as a series of Jupyter
+notebooks. These notebooks allow researchers to reproduce our results, build
+upon our results in different contexts, and better understand precisely
+how we arrived at our conclusions. By providing the exact
+source used to generate our analyses and figures, users can
+quickly incorporate new data or correct any bugs.

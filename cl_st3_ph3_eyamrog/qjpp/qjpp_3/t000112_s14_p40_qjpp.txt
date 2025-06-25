@@ -1,0 +1,19 @@
+We generated taxonomic profiles by processing non-human reads with KrakenUniq
+(v0.3.2 Breitwieser et al. (2018) 9. Breitwieser, F.P. ∙ Baker,
+D.N. ∙ Salzberg, S.L. KrakenUniq: confident and fast metagenomics classification
+using unique k-mer counts Genome Biol. 2018; 19 :198 Crossref
+Scopus (188) PubMed Google Scholar ) using a database based
+on all draft and reference genomes in NCBI/RefSeq Microbial (bacteria/archaea,
+fungi and virus) ca. March 2017. KrakenUniq was selected because
+its high performance, as it has been demonstrated to be
+comparable or having higher sensitivity than the best tools identified
+in a recent benchmarking study ( McIntyre et al. (2017)
+50. McIntyre, A.B.R. ∙ Ounit, R. ∙ Afshinnekoo, E. ...
+Comprehensive benchmarking and ensemble approaches for metagenomic classifiers Genome Biol.
+2017; 18 :182 Crossref Scopus (187) PubMed Google Scholar )
+on the same comparative dataset. In addition, KrakenUniq allows for
+tunable specificity and identifies k -mers that are unique to
+particular taxa in a database. Reads are broken into k
+-mers and searched against this database. Finally, the taxonomic makeup
+of a sample is given by identifying the taxa with
+the greatest leaf to ancestor weight.

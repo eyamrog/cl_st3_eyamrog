@@ -1,0 +1,13 @@
+Another variable that could affect not just differential opportunity, but
+differential interest in long-distance relationships is the use of an
+alternate adaptation, namely diversification (Section 1.2 ). Although almost all
+sources of income in this community are either directly or
+indirectly dependent on cash cropping—for example, individuals cannot pay wages
+to laborers, purchase groceries, or pay for taxis without cash—it
+is possible that households with more diversification of their sources
+of income may have less need for long-distance relationships. Participants
+reported between zero and four sources of household income over
+the previous month. We conduct exploratory robustness checks, analyses we
+did not preregister, to assess whether number of income sources
+affects number of long-distance connections. These results are reported in
+Section 3.6 .

@@ -1,0 +1,8 @@
+Exploratory data analysis suggested that outliers in the predictors of
+interest (P1-3) may influence model fit. We assessed the influence
+of these individual points on model fit for each of
+the five models described in Section 2.4.1 . Two influential
+outliers were excluded when fitting the drought model for (P1);
+however, outliers were not influential in the fits of the
+other four models and thus were not excluded from the
+fitting process. (See Supporting Information 3.4 for further details.)

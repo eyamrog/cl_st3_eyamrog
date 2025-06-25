@@ -1,0 +1,9 @@
+More recently McDade et al. ( 2021 ) used a
+multiplex electrochemiluminescent immunoassay to simultaneously measure IL-6, IL-10, IL-8, and
+TNF-α in matched DBSs and plasma. They obtained good correspondence
+for IL-6, IL-10, and TNF-α, but poor correspondence for IL-8.
+They speculate this may be due to IL-8 stored in
+red blood cells which is released on lysing, and which
+would not be present in plasma. An ELISA protocol for
+just IL-6 has also been validated, with good correlation between
+DBS and serum (Miller & McDade, 2012 ).

@@ -1,0 +1,4 @@
+Specifically, in the German women, between the 5th to 95th
+percentile for each variable, cycle length varies by about 45%,
+follicular-phase length varies about 2-fold, luteal phase length varies about
+1.7-fold, late luteal duration varies 3.33-fold, and mean-peak-PdG varies 3.65-fold.

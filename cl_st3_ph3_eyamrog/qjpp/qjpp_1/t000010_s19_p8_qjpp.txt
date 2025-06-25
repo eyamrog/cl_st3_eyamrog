@@ -1,0 +1,5 @@
+Subgroup analyses for the primary outcome of MACE-4 by sex,
+age, baseline HbA1c, race, US or non-US clinical sites and
+baseline sodium glucose co-transporter 2 inhibitor (SGLT-2i) use demonstrated no
+significant effect modification (all P interaction > 0.1) (Fig. 5
+).

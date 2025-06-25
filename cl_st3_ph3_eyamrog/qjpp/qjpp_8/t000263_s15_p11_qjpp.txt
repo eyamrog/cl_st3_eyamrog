@@ -1,8 +1,26 @@
-Confirming Hypothesis 2 and shown in Table 2 , bootstrap
-confidence intervals indicated there was a beneficial indirect effect of
-openness on mental health through increased community integration. Confirming Hypothesis
-3, openness had a costly indirect effect on mental health
-through greater (vs. less) perception of discrimination. Put another way,
-given the association, greater openness may lead to greater perception
-of both group-based and personal discrimination, the burden of which,
-in turn, led to worse mental health.
+Turning to Hypothesis 3, we looked at the relationship between
+perceptions of group-based discrimination and wellbeing. While there is a
+significant and costly direct effect between perceiving more (vs. less)
+discrimination and worse subjective wellbeing, we found that openness had
+a beneficial indirect effect on subjective well-being through perceived discrimination.
+However, when accounting for LGBTQ + identity importance (Hypothesis 4)
+this relationship between openness, perceived discrimination and subjective well-being flipped,
+and became costly to subjective wellbeing. Confirming Hypothesis 4, while
+openness did not have an indirect effect on subjective well-being
+through identity importance alone (the confidence interval included zero), identity
+importance had a role in the relationship between openness and
+subjective well-being when both accounting for its beneficial influence on
+LGBTQ + community integration (H2) and its adverse influence on
+perception of LGBTQ + group discrimination (H3). That is, both
+the indirect effect of (1) openness → LGBTQ + identity
+importance → community integration → subjective well-being and (2) openness
+→ LGBTQ + identity importance → perception of group discrimination
+→ subjective well-being did not include zero. Importantly, these two
+indirect effects are opposing; participants who reported higher (vs. lower)
+LGBTQ + identification were both more integrated in the LGBTQ
++ community and were more likely to perceive group discrimination.
+This means that, while LGBTQ + identity importance was associated
+with an increase in one's sense of community integration –
+which is associated with better well-being– it is also associated
+with an increased perception of discrimination – which is associated
+with worse well-being.

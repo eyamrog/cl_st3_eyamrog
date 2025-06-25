@@ -1,0 +1,27 @@
+We first investigated the distribution of microbial species across the
+global urban environment. Specifically, we asked whether the urban environment
+represents a singular type of microbial ecosystem or a set
+of related but distinct communities, especially in terms of biodiversity.
+We observed a bimodal distribution of taxa prevalence across our
+dataset, which we used to define two separate sets of
+taxa based on the inflection points of the distribution: the
+putative “sub-core” set of urban microbial species that are consistently
+observed (>70% of samples) and the less common “peripheral” (<25%
+of samples) species. We also defined a set of true
+“core” taxa, which occur in essentially all samples (>97% of
+samples) ( Figure 1 A). Applying these thresholds, we identified
+1,145 microbial species ( Figure 1 B), as defined by
+the NCBI annotation in KrakenUniq, that make up the sub-core
+urban microbiome with 31 species in the true core microbiome
+( Figure 1 A). Core and sub-core taxa classifications were
+further evaluated for sequence complexity and genome coverage on a
+subset of samples. Of the sub-core species, 69 were flagged
+as being low-quality classifications (see STAR Methods ). The sub-core
+microbiome was principally bacterial, with just one high-confidence eukaryote identified:
+Saccharomyces cerevisiae . Notably, no archaea or viruses were identified
+in the group of sub-core microorganisms. For viruses in particular,
+this may be affected by the DNA extraction methods used,
+limitations in sequencing depth, or missing annotations in reference databases
+used for classification. The three most common bacterial phyla across
+the world’s cities ordered by the number of species observed
+were Proteobacteria , Actinobacteria , and Firmicutes .

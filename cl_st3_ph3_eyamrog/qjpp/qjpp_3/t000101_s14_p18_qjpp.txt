@@ -1,2 +1,0 @@
-Statistical analysis of different genotypes was performed using Fisher’s exact
-test as indicated in the figure legends.

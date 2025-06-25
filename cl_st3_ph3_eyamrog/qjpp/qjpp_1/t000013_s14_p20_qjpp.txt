@@ -1,0 +1,5 @@
+For emulsification, the color-coded reagents (20 µl) and 2% 008-fluorosurfactant
+(RAN Biotechnologies) in fluorous oil (3M 7500, 70 µl) were
+added to a droplet generator cartridge (Bio-Rad Laboratories) and reagents
+were emulsified into droplets using a QX200 droplet generator (Bio-Rad
+Laboratories) or a custom aluminum pressure manifold.

@@ -1,0 +1,10 @@
+It is essential when selecting measurement approaches to consider the
+appropriateness and relevance of the method for the population of
+interest. As methods for measuring sedentary behavior have been developed
+within industrialized contexts, their validity is likely to differ outside
+of these settings. This is especially pertinent for inclinometers, where
+the horizontal position of the thigh is assumed to correlate
+with a sitting/reclining posture (thus including non-sedentary postures such as
+squatting in estimates of sedentary time), and for domain-based questionnaires,
+where time spent in specific behaviors that are common in
+Western contexts are measured.

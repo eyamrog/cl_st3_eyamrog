@@ -1,0 +1,9 @@
+We rapidly developed mCARMEN for use in the COVID-19 pandemic
+but faced challenges during the clinical validation and approval process
+needed for a large-scale rollout. Specifically, it was difficult to
+obtain at least 30 previously confirmed clinical specimens for each
+virus on RVP with enough material available for extensive concurrent
+testing, while also facing specimen degradation issues that inevitably occur
+over time. Although our findings indicate that mCARMEN’s performance exceeds
+the FDA’s requirements for emergency use authorization (EUA), such authorization
+has not yet been granted.

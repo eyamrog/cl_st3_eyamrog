@@ -1,0 +1,2 @@
+High level categories of functional pathways were found by grouping
+positively correlated pathways and manually annotating resulting clusters.

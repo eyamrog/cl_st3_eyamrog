@@ -1,0 +1,19 @@
+Using NGS, we then evaluated 22 specimens discordant between RVP
+and RT–qPCR results and 8 specimens for which RVP detected
+other respiratory viruses. The 22 discordant specimens included 13 positive
+by RVP and previous testing but concurrently negative by RT–qPCR,
+6 positive by previous testing but negative by concurrent RVP
+and RT–qPCR and 3 positive by RVP but negative by
+both RT–qPCR results. All but 1 of the 22 (95%)
+discordant specimens had <10 viral reads by NGS. The single
+specimen with >10 reads was positive by RVP and prior
+RT–qPCR but not concurrent testing, yet just 22 reads mapped
+to SARS-CoV-2. NGS additionally failed to detect other respiratory viruses
+in the eight RVP-positive specimens. RVP identified 4 SARS-CoV-2 coinfections
+(2 HCoV-HKU1, 1 HPIV-3 and 1 HRSV) and 4 viruses
+in SARS-CoV-2-negative specimens (3 FLUAV and 1 HCoV-NL63). Given these
+specimens also had <10 viral reads aligned by NGS, we
+can neither validate our results as positive nor rule out
+the possibility of false negatives by NGS; these samples are
+likely of low viral quantity suggesting that mCARMEN and RT–qPCR
+are more sensitive.

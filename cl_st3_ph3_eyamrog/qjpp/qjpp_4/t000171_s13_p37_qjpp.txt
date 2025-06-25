@@ -1,0 +1,10 @@
+RNA sequencing (RNA-seq) allows for the quantification of mRNA transcripts
+and is used to compare gene expression between individuals or
+experimental conditions. RNA-seq relies on next generation sequencing (NGS), a
+technology that sequences multiple DNA fragments (reverse transcribed from mRNA)
+in parallel. Because most immunological processes of interest require mRNA
+transcription for protein synthesis, gene expression levels are likely to
+be correlated with many other biomarkers and are informative of
+a wide range of processes. As such, RNA sequencing may
+prove a more cost effective and informative method than direct
+measurement of isolated biomarkers.

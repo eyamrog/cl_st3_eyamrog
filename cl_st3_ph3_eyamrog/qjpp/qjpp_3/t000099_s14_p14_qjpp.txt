@@ -1,0 +1,15 @@
+cDNA Droplet-based digital 3′ end scRNA-seq was performed on a
+Chromium Single-Cell Controller (10 × Genomics, Pleasanton, CA) using the
+Chromium Single Cell 3′ Reagent Kit v2 according to the
+manufacturer’s instructions. Briefly, blood, bone marrow, spleen and lung CD45
++ CD11b + leukocyte suspensions from 6-12 week-old C57BL/6 male
+mice were FACS sorted in an Aria II sorter (BD).
+Cells were partitioned in Gel Beads in Emulsion (GEMs) and
+lysed, followed by RNA barcoding, reverse transcription and PCR amplification
+(12–14 cycles). Sequencing-ready scRNA-seq were prepared according to the manufacturer’s
+instructions, checked and quantified on TapeStation 2200 (Agilent Genomics, Santa
+Clara, CA) and Qubit 3.0 (Invitrogen, Carlsbad, CA) instruments. Sequencing
+was performed on a NextSeq 500 machine (Illumina, San Diego,
+CA) using the NextSeq 500/550 High Output v2 kit (75
+cycles), at the Center for Omics Sciences at the IRCCS
+Ospedale San Raffaele (COSR).

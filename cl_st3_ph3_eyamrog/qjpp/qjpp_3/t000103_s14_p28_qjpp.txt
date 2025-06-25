@@ -1,0 +1,25 @@
+Purified SINV/EEEV particles and recombinant anti-EEEV Fab (EEEV-33 or EEEV-143)
+(1:10 molar ratio) were incubated on ice for 30 minutes.
+3 μL of mixture was applied on Lacy 400 mesh
+copper grids (TED PELLA) or carbon coated R2/2 copper Quantifoil
+holey grids (Electron Microscopy Sciences). The samples were vitrified in
+liquid ethane using a Vitrobot (Thermo Fisher Scientific) set at
+4°C and 100% relative humidity under BSL-2 containment conditions. Images
+for SINV/EEEV:EEEV-33 Fab were collected on a Titan Krios electron
+microscope (Thermo Fisher Scientific) equipped with a K2 Summit Direct
+Electron Detector (Gatan) operated at 300 kV and having a
+nominal pixel size of 1.64 Å per pixel. Images for
+SINV/EEEV:EEEV-143 Fab were collected on a Glacios electron microscope (Thermo
+Fisher Scientific) equipped with a K2 Summit Direct Electron Detector
+operated at 200 kV and having a nominal pixel size
+of 2.0 Å per pixel. Micrographs were acquired automatically using
+Leginon software ( Carragher et al., 2000 11. Carragher, B.
+∙ Kisseberth, N. ∙ Kriegman, D. ... Leginon: an automated
+system for acquisition of images from vitreous ice specimens J.
+Struct. Biol. 2000; 132 :33-45 Crossref Scopus (181) PubMed Google
+Scholar ). The total exposure time for both samples was
+10 s and frames were recorded every 0.2 s. Defocus
+values ranged from 1.0 to 2.5 μm. The total accumulated
+does was ~50 e − /Å 2 for SINV/EEEV:EEEV-33 Fab
+and ~25 e − /Å 2 for and SINV/EEEV: EEEV-143
+Fab samples.

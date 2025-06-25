@@ -1,2 +1,0 @@
-Structural gene annotation was done combining de novo gene calling
-and homology-based approaches with RNAseq, IsoSeq, and protein datasets.

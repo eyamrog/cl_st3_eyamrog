@@ -1,0 +1,23 @@
+One approach is to normalize to total library size, which
+converts values into counts per million reads (CPM). When using
+whole blood rather than isolated PBMCs normalized values will reflect
+the total proportion of all transcripts in all blood cells
+including red blood cells which contain RNA from a large
+number of genes (Kabanova et al., 2009 ). If red
+blood cell globin transcripts are depleted (either before sequencing or
+by removing these reads after sequencing) the interpretation of CPMs
+will change to represent the proportion of nonglobin reads. However,
+in some circumstances, normalization by read count may lead to
+faulty conclusions if the total mRNA differs between samples for
+biological reasons; for example, if some prevalent genes are upregulated
+in one sample this could instead be interpreted as a
+downregulation of the remaining genes, since these transcript proportions would
+decrease. To avoid this issue, a number of other normalization
+procedures are possible, including normalizing or controlling for sample RNA
+concentration while also normalizing for library size. Other approaches include
+normalization for housekeeping genes (genes thought to be expressed at
+relatively constant levels across cells), normalization based on distribution (quantile
+normalization), normalization based on cell-type specific genes, and normalization based
+on cell counts measured independently in the sample (Dillies et
+al., 2013 ; Eisenberg & Levanon, 2013 ; Evans et
+al., 2018 ).

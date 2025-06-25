@@ -1,0 +1,6 @@
+The signature gens were obtained by performing several filtering steps.
+First, a contrast of each tissue against the rest was
+performed. Then, we selected the differentially expressed genes with a
+log2FC > 2 in the tissue. Finally, the remaining genes
+that were upregulated only in one of the tissues but
+not the rest were selected for the signature.

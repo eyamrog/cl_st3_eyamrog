@@ -1,0 +1,2 @@
+We counted the total number of substitutions observed at each
+position in the genome in four sets of sequences:

@@ -1,0 +1,16 @@
+To provide further evidence in planta , we synthesized a
+desulfated RGF1 peptide (dRGF1). dRGF1 was previously shown to be
+capable of inducing RGFR-mediated signaling, albeit with a much lower
+activity than sulfated RGF1 ( Fernandez et al., 2013 21.
+Fernandez, A. ∙ Drozdzecki, A. ∙ Hoogewijs, K. ... Transcriptional
+and functional classification of the GOLVEN/ROOT GROWTH FACTOR/CLE-like signaling peptides
+reveals their role in lateral root and hair formation Plant
+Physiol. 2013; 161 :954-970 Crossref Scopus (101) PubMed Google Scholar
+). Consistent with the previous report, a high dosage of
+dRGF1 was required to promote RAM activity in the aqc1-1
+mutant at pH 5.7. In sharp contrast to RGF1, dRGF1
+displayed a comparable promotive activity, regardless of the pH in
+the medium ( Figures 5 D and 5E), indicating that
+dRGF1-promoted RAM growth is pH independent. Taken together, these results
+support that the sulfotyrosine is the pH sensor for RGF1
+signaling.

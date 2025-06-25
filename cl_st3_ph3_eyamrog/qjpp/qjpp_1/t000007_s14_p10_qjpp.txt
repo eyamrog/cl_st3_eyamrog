@@ -1,0 +1,5 @@
+To eliminate sequencing artifacts, all events that occurred in (c)
+or (d) in the first 130 bases or last 50
+bases of the virus genome were trimmed off, as suggested
+in the NextStrain protocol . Sites known to be associated
+with sequencing problems ( https://virological.org/t/issues-with-sars-cov-2-sequencing-data/473 ) were also masked out.

@@ -1,0 +1,18 @@
+The risk of cancer recurrence after curative-intent surgery for solid
+tumors has traditionally been estimated on the basis of formal
+histologic assessment of the resected specimen. This type of analysis
+defines the tumor stage and determines the presence of any
+adverse features, which inform the use of adjuvant chemotherapy. Efforts
+to improve treatment and outcomes in stage II colon cancer
+have explored the effect of various adjuvant therapy combinations or
+have been aimed at defining a subgroup of patients who
+are most likely to derive benefit from treatment. To date,
+such approaches have led to limited progress. In this trial,
+we found that a ctDNA-guided approach reduced the number of
+patients who received adjuvant therapy and did not alter the
+risk of recurrence. Furthermore, ctDNA-positive patients appeared to derive considerable
+benefit from adjuvant treatment, given the low percentage of patients
+with recurrence in this trial as compared with previously reported
+high recurrence rates in this subgroup of patients when no
+adjuvant chemotherapy was administered. We confirm the very low risk
+of recurrence in untreated ctDNA-negative patients.

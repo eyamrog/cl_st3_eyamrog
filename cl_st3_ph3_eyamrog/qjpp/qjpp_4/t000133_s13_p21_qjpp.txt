@@ -1,0 +1,11 @@
+Vasopressin is measured through an ELISA kit (which can range
+from $580 to 795 for a single 96 well plate).
+Like other ELISA kits, it necessitates a full wet lab
+with microplate readers, an incubator, microtiter plate, graduated cylinders, distilled
+water, pipettes, and test tubes. While vasopressin is a newer
+biomarker of hydration, it is well correlated with urinary biomarkers
+of hydration and parlays into the neural circuitry designed to
+keep body water homeostasis (Armstrong & Johnson, 2018 ). However,
+vasopressin can be quite unstable in lab analyses, attaches to
+platelets and is cleared rapidly (Morgenthaler, Struck, Alonso, & Bergmann,
+2006 ).

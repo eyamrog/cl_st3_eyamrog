@@ -1,0 +1,15 @@
+Transient expression in N. benthamiana was performed as described previously(
+Song et al., 2016 75. Song, W. ∙ Liu, L.
+∙ Wang, J. ... Signature motif-guided identification of receptors for
+peptide hormones essential for root meristem growth Cell Res. 2016;
+26 :674-685 Crossref Scopus (135) PubMed Google Scholar ) with
+minor modifications. Agrobacterium strains (GV3101) harboring above-described constructs were cultured
+in liquid Luria-Bertani medium overnight. The dense cultures were inoculated
+into fresh medium by 1:100 dilution and incubated for 6-8
+h. The bacteria were sedimented and resuspended in infiltration buffer
+(5 g/L glucose, 10 mM MgCl 2 , 10 mM
+MES-KOH, pH 5.7) to an OD 600 of 0.4∼1.0. The
+resuspended agrobacteria were infiltrated into tobacco leaves using 1 mL
+syringes without needles. For co-expression, resuspended bacteria containing different constructs
+were mixed to an OD 600 of 0.4∼1.0. All tobacco
+tissues were recovered for 48 h before harvested.

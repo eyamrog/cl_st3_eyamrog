@@ -1,0 +1,11 @@
+The Pakistan risk of myocardial infarction study comprises 10,503 individuals
+characterized using a phenotype questionnaire with >350 items covering demographic
+and dietary characteristics and over 80 blood biomarker measurements .
+The predominant focus of the questionnaire was cardiac function and
+phenotype. While the participants were specifically asked to report suffering
+from asthma, no other lung, liver, kidney, nervous system or
+immune phenotypes were directly assayed and so these were marked
+as ‘unknown’ for these individuals. The 12 LRRK2 LoF carriers
+in the study did not differ in terms of age,
+sex and myocardial infarction status when compared to the entire
+cohort.

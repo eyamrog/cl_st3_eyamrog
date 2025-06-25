@@ -1,8 +1,0 @@
-HDX-MS analysis provides additional insight into the state of this
-key structural motif. Peptides in HR1-C helix (residues 570–579 and
-583–593) are more protected in hVLPs than in BG505.SOSIP (
-Figure 5 C), indicating increased backbone hydrogen bonding interactions in
-corresponding residues. Taken together, the sub-tomogram-averaged structures and HDX-MS analysis
-shows that the peptides in HR1-C region exist in a
-stable, ordered conformation in hVLP-Env even though they do not
-rigidly conform to Env’s global 3-fold structural symmetry.

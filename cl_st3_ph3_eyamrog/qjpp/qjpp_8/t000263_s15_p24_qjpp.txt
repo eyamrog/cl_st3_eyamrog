@@ -1,0 +1,11 @@
+Direct and indirect effects on mental health. Those who experienced
+greater community integration reported better mental health, b = .320,
+SE = 0.076, p < .001, 95 % CI [0.170,
+0.469]. Those who perceived more discrimination (either personal or group-based)
+reported worse mental health (for personal b = -.075, SE
+= 0.019, p < .001, 95 % CI [.-0.113, -0.037],
+for group-based, b = .-0.231, SE = 0.052, p <
+.001, 95 % CI [-0.334, −0.129]. There were no direct
+effects of identity importance on mental health, b = 0.003,
+SE = 0.029, p = .909, 95 % CI [.-0.054,
+0.061].

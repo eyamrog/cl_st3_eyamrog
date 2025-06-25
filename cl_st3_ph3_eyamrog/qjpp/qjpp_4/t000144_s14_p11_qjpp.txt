@@ -1,0 +1,25 @@
+We include each of these variables as controls (or, in
+the case of community, random effects) in our models. Participants
+were asked to self-report their year of birth; as asking
+participants to identify their sex or gender is considered a
+strange question in this context, a research assistant recorded the
+participant's sex based on their outward presentation. In these communities,
+participants provide A. P. the birth year on their identification
+card; note however that for older individuals, the year on
+their identification card is more likely to be an estimate
+they reported to government officials. Participants self-reported household-owned market possessions,
+including smartphones and vehicles. They also indicated their self-perception of
+their extraversion using two modified questions from the Newcastle Personality
+Assessor (Nettle, 2009 ). For these two questions, A. P.
+used emergent Likert scales based on open-ended responses from participants;
+accordingly, one item has three possible responses (“always,” “sometimes,” and
+“never”) and one item four possible responses (“always,” “sometimes,” “rarely,”
+and “never”). We assigned numeric values to each response (“never”
+= 1) and summed responses across the two questions. From
+participants' migration histories (Section 2.2.1 ), we count the number
+of other countries and the number of departments outside the
+La Paz Department in which participants have spent a month
+or more cumulatively across their lifetimes; note that this includes
+both departments in which participants spent a year or more
+(per Section 2.2.1 ) and departments in which they completed
+multiple shorter (eg, several day) visits.

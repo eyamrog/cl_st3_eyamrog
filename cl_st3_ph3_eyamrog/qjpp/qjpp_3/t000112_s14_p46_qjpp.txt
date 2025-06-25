@@ -1,0 +1,7 @@
+We used the Microbe Directory ( Shaaban et al., 2018
+75. Shaaban, H. ∙ Westfall, D.A. ∙ Mohammad, R. ...
+The Microbe Directory: An annotated, searchable inventory of microbes’ characteristics
+Gates Open Res. 2018; 2 :3 Crossref Scopus (10) PubMed
+Google Scholar ) to annotate taxonomic calls. The Microbe Directory
+is a hand curated, machine readable, database of functional annotations
+for 5,000 microbial species.

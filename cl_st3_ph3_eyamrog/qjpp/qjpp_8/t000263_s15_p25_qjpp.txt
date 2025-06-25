@@ -1,0 +1,7 @@
+Like Study 1, we find support for Hypothesis 1: those
+who were more (vs. less) open reported better mental health,
+b = 0.149, SE = 0.051, p = .005, 95
+% CI [0.047, 0.251]. In addition to this direct effect,
+openness had both beneficial and costly indirect effects on mental
+health through community integration, perception of both group and personal
+discrimination and, to some extent, identity importance.

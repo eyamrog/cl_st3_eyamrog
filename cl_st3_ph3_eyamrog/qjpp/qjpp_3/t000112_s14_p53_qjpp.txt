@@ -1,0 +1,11 @@
+Intra-sample (alpha) diversity was measured by using Species Richness and
+Shannon’s Entropy. We took species richness as the total number
+of detected species in a sample after rarefaction to 1
+million reads. Shannon’s entropy is defined as H = a
+i log 2 a i where a i is the
+relative abundance of taxon i in the sample. This formulation
+is robust to sample read depth and accounts for the
+relative size of each group in diversity estimation. For alpha
+diversity based on k -mers or pathways, we simply substitute
+the relative abundance of a species for the relative abundance
+of the relevant type of object.

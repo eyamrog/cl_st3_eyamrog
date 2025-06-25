@@ -1,0 +1,5 @@
+These procedures are very far from being deployable in field
+test kits. They are generally only available at significant cost
+by leading laboratories in high-income settings. This constrains modern characterization
+of water quality, for most of the world, to basic
+physico-chemical and microbiological parameters.

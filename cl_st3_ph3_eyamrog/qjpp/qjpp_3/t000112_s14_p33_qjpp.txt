@@ -1,0 +1,13 @@
+We analyzed the total complexity of case samples in comparison
+to control samples. Case samples had a significantly higher taxonomic
+diversity ( Figure S2 I) than any type of negative
+control sample. We also compared the confidence of taxonomic assignments
+to control assignments for prominent taxa using the number of
+unique marker k -mers to compare assignments. We found that
+case samples had more and higher quality assignments than could
+be found in controls. In contrast, the taxonomic assignment of
+one species, Bradyrhizobium sp. BTAi1 , was not clearly more
+accurate in case samples than controls. Nevertheless, we were able
+to assemble genomes for this species in several unique samples,
+so we feel the species is not definitively a negative
+control contaminant.

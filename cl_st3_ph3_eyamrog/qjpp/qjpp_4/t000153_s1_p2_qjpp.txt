@@ -1,7 +1,0 @@
-Methods: Data were collected from 75 healthy individuals (female =
-41; ages 18–53) throughout a 3-month long expedition in the
-American Rockies. Body mass, body fat, and lean muscle mass
-were measured before, during, and after the course. Physical activity
-intensity and energy expenditure were also measured in a subset
-of participants using the wGT3X-BT Actigraph wrist monitor and an
-accompanying Bluetooth heart rate monitor.

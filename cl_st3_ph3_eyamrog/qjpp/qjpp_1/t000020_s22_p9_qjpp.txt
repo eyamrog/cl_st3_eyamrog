@@ -1,0 +1,15 @@
+To confirm that LRRK2 pLoF variants result in reduced LRRK2
+protein levels, we analyzed total protein lysates from cell lines
+with three unique pLoF variants. We obtained lymphoblastoid cell lines
+(LCLs) from two families with naturally occurring heterozygous LoF variants
+and a third variant was CRISPR/Cas9-engineered into embryonic stem cells
+(Extended Data Fig. 2 ), which were differentiated into cardiomyocytes.
+In all instances, LRRK2 protein levels were visibly reduced compared
+to noncarrier controls (Fig. 2 ). These results agree with
+a previous study which assessed three separate pLoF variants and
+found significantly reduced LRRK2 protein levels . Together, these six
+functionally validated variants represent 82.5% of pLoF carriers in this
+study (1,201 of 1,455). Although heterozygous pLoF carriers have LRRK2
+protein remaining, we believe that this state represents a plausible
+genetic model for therapeutic inhibition of LRRK2, as target engagement
+by pharmacological inhibitors is unlikely to be complete.

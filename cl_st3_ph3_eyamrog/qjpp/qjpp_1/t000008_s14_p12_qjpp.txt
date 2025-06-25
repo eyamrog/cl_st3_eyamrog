@@ -1,0 +1,7 @@
+ddPCR was also performed with samples treated with both PS-DNase
+and KpnI restriction enzymes to quantify individual vector genome units
+within circular concatemers (Supplementary Fig. 4c ). DNA samples were
+treated with PS-DNase, heat inactivated and diluted as described above.
+Before the droplet generation step, 4 units of KpnI-HF enzyme
+were added to the ddPCR reaction mix and incubated at
+37 °C for 30 min.

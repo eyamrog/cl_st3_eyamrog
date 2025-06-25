@@ -1,0 +1,24 @@
+In this analysis, we defined older people as people aged
+60 years and older on the basis of the legal
+definition in China. In GBD 2019, falls were one of
+30 mutually exclusive and collectively exhaustive external causes of injury
+categories. Falls were defined as a sudden movement downward due
+to slipping, tripping, or other unintentional movement that results in
+a person coming to rest inadvertently on the ground, floor,
+other lower level, or against an object resulting in death,
+disability, or tissue damage. The corresponding codes of the International
+Classification of Disease (ICD) are E880 to E886.99, E888 to
+E888.9, and E929.3 in the ninth edition (ICD-9) and W00
+to W19.9 in the tenth edition (ICD-10). The potential disabling
+outcomes that can occur after a fall include 47 mutually
+exclusive and collectively exhaustive nature-of-injury categories (eg, fractures, head injuries,
+and dislocations), which are specified within chapters S and T
+in ICD-10 with codes 800 to 999 in ICD-9 (for
+more details on how these categories are used in GBD
+see the GBD compare tool ). In GBD 2019, inpatient
+injuries were defined as injuries that led to overnight stay
+in hospital and outpatient injuries were defined as treatments that
+occurred in the outpatient settings or emergency care. Short-term injuries
+were defined as injuries lasting less than 1 year, and
+long-term injuries were defined as those lasting 1 year or
+longer, at which point we assume lifelong disability.

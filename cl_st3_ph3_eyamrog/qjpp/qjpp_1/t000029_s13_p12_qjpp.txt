@@ -1,0 +1,21 @@
+Despite the appeal of text message–based programs (e.g., in 2018,
+2.1 million people had signed up for India's mCessation program,
+and 8.6 million for mDiabetes), the transition to mHealth as
+an integrated facet within the health system has been comparatively
+slow in LMICs compared with uptake in HICs ( 69
+). One-way and two-way messaging remains the most used modality,
+with a gradual shift to the use of apps and
+social network sites (Facebook Messenger, WhatsApp, and WeChat) ( 59
+, 70 , 76 ). A major barrier to mHealth
+implementation in LMICs remains a lack of technical capacity and
+capability, with technical support being outsourced in some countries, leading
+to limited potential for sustainability ( 59 ). Moreover, local
+investment, especially when donor investment is backing the initiative, is
+a critical factor in determining translation from pilot to a
+domestically funding scaled-up program. This transition, which is part of
+the broader agenda in global health financing, is likely to
+have significant implications for the sustainability of other interventions that
+fall outside primary service goods and services infrastructure until the
+translation of value (of digital health) is costed, tested, and
+accepted (as no longer an adjuvant to mainstream health service
+delivery) ( 44 ).

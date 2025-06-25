@@ -1,0 +1,11 @@
+A household wealth score was derived using principal component analysis
+(see Supporting Information ). Each household was assigned a score
+based on the ownership of 12 items, including a number
+of consumer goods (television, bike, and computer), and household infrastructure,
+including source of drinking water, facilities for toilets, materials for
+flooring, roof and walls, and access to electricity and nonbiomass
+fuel use. The first principal component had positive factor loadings
+for all 12 variables and accounted for 30.2% of the
+variability, compared to 10.5 and 8.5% from the second and
+third principal components, thus this score was taken as the
+marker of wealth.

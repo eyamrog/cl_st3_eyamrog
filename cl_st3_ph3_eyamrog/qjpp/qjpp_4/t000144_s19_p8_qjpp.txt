@@ -1,0 +1,6 @@
+Across all five main models, number of household income sources
+did not predict having another long-distance relationship. Inclusion of this
+predictor blunted the effect of number of departments or countries
+visited, such that the CIs in three of the five
+models included an OR of 1, but the effects of
+sex and extraversion remained consistent across all models.

@@ -1,0 +1,5 @@
+Genome-wide genotype data and whole-exome sequencing data are available for
+>30,000 participants. In addition, WGS data are available for >11,000
+participants. The full EHRs of three BioMe LRRK2 pLoF carriers
+were reviewed by local clinicians and we were provided with
+detailed summaries.

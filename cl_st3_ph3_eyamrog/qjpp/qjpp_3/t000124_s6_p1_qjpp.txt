@@ -1,6 +1,0 @@
-Here, we report high-quality and contiguous chromosome-scale reference genomes for
-three species with repeat-based holocentromeres, R. pubera , R. breviuscula
-, and R. tenuis , and their closest monocentric relative,
-J. effusus . These newly assembled genomes provide a valuable
-resource for comparative biology and studies related to genome adaptation
-to different centromere types.

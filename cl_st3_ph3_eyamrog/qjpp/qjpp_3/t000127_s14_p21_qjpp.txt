@@ -1,0 +1,9 @@
+ITC200 was used to quantify the binding affinity of RGF1
+with RGI3/RGFR1 LRR . The protein samples for ITC were
+prepared in buffers with different pH (10 mM Bis-Tris, pH
+6.0, 100 mM NaCl; and 10 mM Tris, pH 8.0,
+100 mM NaCl). The titrations were performed at 25 °C.
+The stirring speed was 750 rpm. 1mM RGF peptide was
+injected into the stirred calorimeter cells containing 0.05 mM RGI3/RGFR1
+LRR . All of the ITC data were analyzed using
+MicroCal Origin 7.0.

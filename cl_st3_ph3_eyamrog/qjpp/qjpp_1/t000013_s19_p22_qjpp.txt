@@ -1,0 +1,11 @@
+We used unbiased metagenomic NGS to further evaluate the 9
+discordant specimens (2 FLUAV, 2 FLUBV, 2 HRSV and 3
+HMPV), generating an average of 13 million reads per specimen.
+Either no viral reads were present by NGS or partial
+genomes were assembled but the RVP amplicon was missing, making
+it unlikely for our assay to return a positive result
+(Extended Data Fig. 7 and Supplementary Table 5 ). Based
+on these results and our previous NGS testing, which indicated
+that NGS was not as sensitive as RVP or the
+comparator assays, we cannot determine the viral positivity status of
+these specimens.

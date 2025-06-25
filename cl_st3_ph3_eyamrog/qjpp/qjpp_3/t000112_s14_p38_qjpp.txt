@@ -1,0 +1,8 @@
+We processed raw reads from all samples into taxonomic, functional
+and AMR profiles for each sample using the MetaSUB Core
+Analysis Pipeline ( Danko and Mason, 2020 19. Danko, D.C.
+∙ Mason, C. The MetaSUB microbiome core analysis pipeline enables
+large scale metagenomic analysis arXiv. 2020; arXiv:2009.12338 Google Scholar )
+(v1.0.0). This pipeline includes a preprocessing stage followed by steps
+to evaluate the taxonomic, functional, and k -mer profiles of
+metagenomic samples.

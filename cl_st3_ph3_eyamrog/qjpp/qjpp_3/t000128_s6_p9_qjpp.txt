@@ -1,0 +1,20 @@
+While the goal of this study was to demonstrate the
+platform design, expandability, and showcase proof-of-concept applications for the helixCAM
+platform, a number of considerations should be taken into account.
+First, the mammalian section of this work explored the characteristics
+of helixCAMs expressed in K562 and HEK293 cancer cell lines.
+As such, the expression, behavior, and viability measured were in
+the context of robust and growth-oriented cancer cells and are
+likely to differ when utilized in primary or stem cells.
+Second, although the design of the HCSRA for measuring cell
+aggregation had throughput and reproducibility benefits over imaging-based approaches, it
+ultimately represented a measurement of the rate of cell sedimentation.
+As such, HCSRA negative controls should be designed to be
+as close to the treatment conditions as possible, as the
+HCSRA cannot distinguish between “intended” causes of aggregation (such as
+through synthetic CAMs expression) versus “unintended” causes (such as from
+media conditions or endogenous CAMs). Finally, the higher-order cell patterning
+works presented were all sampled within 48–72 h of formation.
+For longer-term maintenance of these structures, growth rate post-induction will
+likely be a key consideration and should be measured in
+the context of each application.

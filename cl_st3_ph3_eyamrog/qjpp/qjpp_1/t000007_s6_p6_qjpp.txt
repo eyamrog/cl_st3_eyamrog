@@ -1,0 +1,24 @@
+We note that we do not anticipate selection for mutations
+enhancing transmissibility in chronically infected patients but, rather, expect selection
+to promote mutations that enhance viral replication (with immune evasion
+included in this latter category). However, there is often a
+link between better net viral replication and higher transmissibility .
+For example, several reports have linked mutations at S:P681 to
+efficiency of S cleavage, fusion, syncytia formation and higher net
+VL , which theoretically means that this mutation should be
+selected for also in chronic infections. One possibility is that
+the sample size of patients in this study was too
+small. Returning to the example of S:P681H/R, another possibility is
+that mutations at this locus are under weaker positive selection
+in the conditions particular to immunocompromised patients. Accordingly, perhaps viral
+replication in patients with chronic disease tends to occur more
+prominently in lower airways, with less selection for mutations that
+enhance replication in upper airways. A recent study has suggested
+that part of the evolutionary advantage of S:P681H is its
+ability to evade the interferon (IFN) response of the cell
+. Many immunocompromised patients are treated with steroids that may
+alter the IFN response ; alternatively, the IFN response of
+immunocompromised patients is also likely weakened. Thus, perhaps in chronically
+infected immunocompromised patients, selection operates differently than in acutely infected
+patients, leading to the fact that some mutations observed globally
+are not observed in these patients.

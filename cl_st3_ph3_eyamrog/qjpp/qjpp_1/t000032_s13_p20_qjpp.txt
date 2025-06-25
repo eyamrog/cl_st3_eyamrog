@@ -1,0 +1,12 @@
+Examples such as the Potti paper raise the question of
+whether demanding or requiring reproducibility of a study beforehand can
+preemptively improve its quality. Evidence of this connection between reproducibility
+and quality is lacking, which is not surprising given that
+the question is somewhat ill-posed. What exactly are we looking
+for in a “high-quality" data analysis? One could hypothesize that
+if an investigator knew in advance that the data and
+the code would be publicly available for scrutiny, then they
+would take the extra effort to make sure that the
+analyses were properly done. Perhaps if Potti et al. had
+been forced to make their code publicly available, they would
+have checked it first.

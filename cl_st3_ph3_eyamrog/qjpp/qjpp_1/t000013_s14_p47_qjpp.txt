@@ -1,0 +1,14 @@
+Inclusivity was tested by performing an in silico analysis using
+all publicly available sequences of all targets on the RVP
+panel. Complete genomes for all viruses were downloaded from NCBI
+on 2 April 2021 and aligned using MAFFT v.7. For
+viral species with fewer than 1,000 sequences, the FFT-NS-ix1000 algorithm
+was used to create the MAFFT alignment. For viral species
+with >1,000 sequences, the FFT-NS-1 algorithm was used to create
+the MAFFT alignment. The primer and crRNA sequences were then
+mapped to the aligned viral sequences using a consensus alignment
+to determine the percentage identity (homology) and the number of
+mismatches. The average homology and mismatches were taken across the
+total number of sequences evaluated. Please note that mismatches for
+crRNA sequences do not take wobble base pairing (G-U pairing)
+into account. Results are summarized in Supplementary Table 8 .

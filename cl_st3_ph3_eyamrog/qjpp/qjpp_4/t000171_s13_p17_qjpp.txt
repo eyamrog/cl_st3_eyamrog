@@ -1,0 +1,11 @@
+In choosing biomarkers, often researchers will face a trade-off between
+scientific and practical concerns. For example, the best measure is
+often not the most field friendly or cost-effective. Thus, choosing
+the right measure is a matter of picking something that
+is a close proxy for what you really want to
+investigate, but which fits within logistical and financial constraints. Table
+1 gives a general overview of the aspects of immunity
+we discuss in this review, as well as some general
+ideas for the theoretical concepts these might proxy. In the
+following sections we discuss more of the practical details for
+each of these measures when used in the field.

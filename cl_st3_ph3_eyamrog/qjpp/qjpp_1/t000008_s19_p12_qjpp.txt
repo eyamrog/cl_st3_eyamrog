@@ -1,0 +1,21 @@
+Among the three participants (3, 4 and 11) who had
+detectable plasma FVIII activity at biopsy, higher plasma FVIII activity
+was, surprisingly, associated with lower RNA expression (Extended Data Fig.
+4e ). Because of its role in directly aiding the
+folding and secretion of FVIII , GRP78 was investigated as
+a factor that might contribute to this negative correlation between
+RNA and protein levels by its role in increasing the
+efficiency of folding and secretion of the hFVIII-SQ protein. Participants’
+plasma hFVIII-SQ protein levels correlated with levels of both overall
+GRP78 RNA ( r = 0.99, P = 0.018; Fig.
+4c ) and GRP78 protein ( r = 0.923, P
+= 0.252; Fig. 4d,e ) in the liver. IHC analysis
+of GRP78 in 32 normal human liver FFPE samples showed
+highly variable hepatocyte GRP78 expression (coefficient of variation (c.v.) =
+225%; Fig. 4f ), supporting the hypothesis that levels of
+endogenous GRP78 in the hepatocytes may play a role in
+variability of transgene expression in AAV5-hFVIII-SQ-treated individuals. A causative relationship,
+however, has not been demonstrated and is the subject of
+ongoing mechanistic studies. In exploratory analyses, we utilized the gene
+expression profiles to identify other pathways potentially contributing to higher
+plasma FVIII activity (Supplementary Fig. 6 ).

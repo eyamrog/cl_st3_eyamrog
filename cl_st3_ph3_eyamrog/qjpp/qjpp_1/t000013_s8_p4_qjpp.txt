@@ -1,0 +1,12 @@
+To scale up the capabilities of CRISPR-based diagnostics, we developed
+CARMEN , which parallelizes nucleic acid detection. The first generation
+of CARMEN, referred to in this article as CARMEN v.1,
+could detect 169 human-associated viruses in 8 samples simultaneously. In
+CARMEN v.1, samples and Cas13–crRNA complexes are separately confined for
+barcoding and emulsification before pairwise droplet combination for detection by
+fluorescence microscopy. This allows each sample to be tested against
+every crRNA. CARMEN v.1 is a powerful proof of concept
+for multiplexed CRISPR-based detection but it is difficult to use
+in a clinical setting given its use of custom-made imaging
+chips and readout hardware, manually intensive 8–10 h workflow and
+low-throughput sample evaluation.

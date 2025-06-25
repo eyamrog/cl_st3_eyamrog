@@ -1,0 +1,15 @@
+The Colilert test by IDEXX, for example, is available in
+tubes with predispensed reagent to which one adds a 10
+mL water sample and incubates at 35 ± 0.5°C for
+24 hours. After incubation, colorless tubes are negative, yellow tubes
+are positive for total coliforms, and yellow tubes that fluoresce
+under ultraviolet light are positive for total coliforms and E.
+coli . These tubes take 1 minute to fill, are
+stable at room temperature, and last about a year (IDEXX,
+2019 ). When used in combination with IDEXX's Quanti-Tray, the
+Colilert tests can quantify coliform and E. coli levels using
+most probable number (MPN) tables and special software. Although the
+field-based Colilert tests do not require refrigeration, they do require
+stable ambient temperatures and must be read promptly after the
+24-hour incubation period. The predispensed tubes cost approximately $1.50 per
+test when purchased in 100-tube increments.

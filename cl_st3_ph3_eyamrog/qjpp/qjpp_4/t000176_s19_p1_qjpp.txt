@@ -1,0 +1,13 @@
+Demographic data and 6-day totals of energy expenditure, step count,
+and physical activity level for each participant during the Balinese
+Macaque Ethnoprimatology Field School and their traditional classroom setting are
+presented in Table 1 . Matched-pairs t-test comparisons of total
+energy expenditure, step count, and time in four physical activity
+levels between the field school and traditional classroom environments are
+shown in Table 2 . Energy expenditure and step count
+were significantly greater in the field school than in the
+traditional classroom environment ( p < .01). Total minutes in
+easy and moderate physical activity levels were also greater in
+the field school environment ( p < .01). However, total
+minutes in very easy and vigorous activity levels did not
+differ significantly between settings.

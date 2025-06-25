@@ -1,0 +1,10 @@
+Tracking the enrichment of these uncommon isotopes in the urine
+samples allows the calculation of the subject's average rate of
+carbon dioxide production, and thus a measurement of water used
+by the subject's body (liters/day) during the measurement period. The
+cost per participant for the isotope dosing (which is dependent
+on weight of the participant) along with lab fees to
+run the mass spectrometer typically run ~$800 per participant. While
+DLW is the gold standard, the high cost and the
+time commitment of participants is often restrictive of large sample
+collection.

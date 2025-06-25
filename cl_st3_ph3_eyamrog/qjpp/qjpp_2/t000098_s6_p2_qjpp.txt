@@ -1,0 +1,25 @@
+Our data introduce the novel concept that cellular cAMP is
+governed by catch-and-release or buffered dynamics ( Figure 7 A).
+Under basal conditions, cAMP is mostly bound and effectively diffuses
+very slowly, if at all, and its free concentration is
+well below the levels of total cAMP; i.e., the levels
+measured by the usual biochemical assays. When cAMP molecules are
+released from the binding sites, they diffuse fast, compatible with
+diffusion rates observed previously, but are re-captured quickly by the
+next cAMP binding proteins ( Figure 7 A, left). This
+is entirely compatible with earlier experiments by us (e.g., Nikolaev
+et al., 2004 28. Nikolaev, V.O. ∙ Bünemann, M. ∙
+Hein, L. ... Novel single chain cAMP sensors for receptor-induced
+signal propagation J. Biol. Chem. 2004; 279 :37215-37218 Full Text
+Full Text (PDF) Scopus (602) PubMed Google Scholar ) and
+others ( Table S1 ), showing that rapid diffusion refers
+to the first time point where a stimulus can be
+noticed in different areas of a cell; however, the corresponding
+signals continue to increase for a long time thereafter, compatible
+with continued production of cAMP and its slow effective diffusion.
+The experimental approach we apply here has the advantage of
+using, for the first time, only trace amounts of fluorescent
+cAMP, not only allowing direct tracking of cAMP dynamics (as
+opposed to indirect tracking using FRET reporters) but also allowing
+measurements at or near basal cAMP levels, which permits us
+to clearly demonstrate buffered diffusion.

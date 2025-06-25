@@ -1,0 +1,18 @@
+The required read depth also depends on whether one is
+doing whole transcriptome sequencing or expression profiling sequencing (i.e., 3′
+sequencing). Because only a single fragment is generated for a
+transcript with 3′ sequencing, this method attains a similar coverage
+as whole transcriptome sequencing at a fraction of the depth,
+and there are diminishing returns for increasing depth past ~10
+million reads for 3′ sequencing (Moll et al., 2014 ).
+Thus, depending on the study design and budget a researcher
+might have to choose between sequencing many samples at low
+depth or few at high depth. One analysis of this
+question found that sequencing more replicates at lower depth provided
+more power than sequencing fewer replicates at higher depth (Liu
+et al., 2014 ). Thus, if the object of a
+study is to compare two groups of individuals, a lower
+sequencing depth and a greater sample might be preferred. If,
+however, it is essential to quantify the gene expression for
+a particular individual (rather than a group of individuals) a
+greater sequencing depth might be more important.

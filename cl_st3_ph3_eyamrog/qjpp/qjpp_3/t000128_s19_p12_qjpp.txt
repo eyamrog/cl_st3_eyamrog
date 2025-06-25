@@ -1,0 +1,15 @@
+With the addition of two library-derived helixCAM pairs, we had
+ten distinct helixCAMs to test for binding orthogonality. As it
+is challenging to distinguish beyond eight fluorescent proteins through conventional
+fluorescent microscopy, an imaging-independent assay was required to determine pairwise
+affinity across all helixCAMs. Using the same principles of the
+E. coli sedimentation rate assay, we developed a human cell
+sedimentation rate assay (HCSRA) to assess aggregation in K562 cells.
+For this assay, helixCAM-presenting cells were co-cultured in ultra-low-adhesion V-bottom
+plates for 48 h and evaluated for settling by measuring
+cell settling over time through optical density ( Figure 4
+A). The difference between the time at which 50% of
+the max density is reached for the uninduced cells and
+the induced cells, Δt 50 , is used as a
+metric that positively correlates with aggregate size. A detailed overview
+of this analysis workflow is shown in Figure S14 .

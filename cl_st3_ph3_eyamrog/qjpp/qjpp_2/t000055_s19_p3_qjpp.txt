@@ -1,0 +1,9 @@
+Analysis of the variation in symptom occurrence over time showed
+no qualitative change in the proportion of users reporting each
+symptom with an increasing proportion of infections with the B.1.1.7
+variant ( figure 2 ; appendix p 2 ). Linear
+regression (both unadjusted and adjusted for participant age and sex,
+and regional temperature and humidity) did not show evidence of
+an association between the proportion of infections with the B.1.1.7
+variant and symptoms reported, after controlling for the false discovery
+rate ( appendix p 6 ).

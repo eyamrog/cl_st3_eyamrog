@@ -1,0 +1,15 @@
+To establish known associations of osteomorph genes to bone, genes
+defining osteomorphs were queried in the Mouse Genome Database (MGD),
+Mouse Genome Informatics, The Jackson Laboratory, Bar Harbor, Maine. World
+Wide Web (URL: http://www.informatics.jax.org , March 2020 release; accessed November
+2020) and Gene Onotologies (GO) retrieved from the ENSEMBL database
+( Yates et al., 2020 80. Yates, A.D. ∙ Achuthan,
+P. ∙ Akanni, W. ... Ensembl 2020 Nucleic Acids Res.
+2020; 48 :D682-D688 PubMed Google Scholar ) using BiomaRt in
+R (Ensembl release 101, August 2020; accessed November 2020). String
+matching was performed using a list of bone-related terms (“bone,”
+“skele,” “osteo,” “chondro,” “cartil,” “clast,” “tooth,” “odont,” “dentin,” “joint,” “limb,”
+“ossif,” “suture,” “digit”) and further refinement to remove “cytoskeleton” and
+“muscle” strings from the descriptions from the MGD and GO
+databases to identify known bone-related associations to the osteomorph upregulated
+genes.

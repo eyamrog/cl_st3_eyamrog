@@ -1,0 +1,7 @@
+The first 30 years of reproducible research centered largely on
+discussions of the validity of the idea and what value
+it provided to the scientific community. Such discussions are largely
+settled, and both data sharing and code sharing are practiced
+widely in many fields of study. However, we must now
+engage in a second phase of reproducible research, which focuses
+on the continued development of infrastructure for supporting reproducibility.

@@ -1,0 +1,3 @@
+For example, the reanalysis team noted that both mortality and
+air pollution were highly spatially correlated, a feature that was
+not considered in the original analysis. They noted,

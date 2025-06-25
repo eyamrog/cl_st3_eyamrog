@@ -1,0 +1,14 @@
+Other tri-axial (ie, can measure in three orthogonal directions) accelerometers
+are commonly used for the measurement of sedentary time, including
+the Actigraph (ActiGraph Ltd., Pensacola, FL), GENEActiv (ActivInsights, Newcastle upon
+Tyne, UK), and Axivity (Axivity Ltd., Newcastle, UK) devices. When
+worn on the thigh, these act as inclinometers similar to
+the activPAL. In this configuration, thigh-worn accelerometers have high validity
+for the measurement of total sedentary time (Edwardson et al.,
+2016 ; Pivarnik et al., 2016 ) and breaks in
+sedentary time (Pivarnik et al., 2016 ) against direct observation
+as the criterion measure. However, these accelerometers are not typically
+worn on the thigh, as they were originally designed for
+wear on the hip (Matthews et al., 2008 ), and
+then the wrist (Troiano, McClain, Brychta, & Chen, 2014 ),
+reflecting their original purpose as a physical activity monitor.

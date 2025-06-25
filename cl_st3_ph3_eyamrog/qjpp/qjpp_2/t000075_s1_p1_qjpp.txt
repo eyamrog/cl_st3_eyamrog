@@ -1,4 +1,0 @@
-Background: Idecabtagene vicleucel (ide-cel, also called bb2121), a B-cell maturation
-antigen–directed chimeric antigen receptor (CAR) T-cell therapy, has shown clinical
-activity with expected CAR T-cell toxic effects in patients with
-relapsed and refractory multiple myeloma.

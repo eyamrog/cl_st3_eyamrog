@@ -1,0 +1,6 @@
+Controls for this assay were received with the kit and
+ready for use. Control 1 was expected to be positive
+for adenovirus, HMPV, human rhino/enterovirus, FLUAV (H1-2009), FLUAV (H3), HPIV-1
+and HPIV-2. Control 2 was expected to be positive for
+HCoV-229E, HCoV-HKU1, HCoV-NL63, HCoV-OC43, FLUAV (H1), FLUBV, HPIV-2, HPIV-3 and
+HRSV.

@@ -1,0 +1,15 @@
+The terminology of reproducible research can be bewildering to some
+in the scientific community because there is little agreement about
+the meaning of the phrase with regard to other related
+concepts ( 3 , 20 , 38 ). In particular,
+one related concept with which all scientists are concerned is
+what we refer to here as replication. In this review,
+we define replication as the independent investigation of a scientific
+hypothesis with newly collected data, new experimental setups, new investigators,
+and possibly new analytic approaches. In a thorough investigation of
+the terminologies of reproducible research, Barba found that some fields
+of study made no distinction between “reproducible” and “replicable,” whereas
+some fields used those terms to mean the exact opposite
+of how we define them here ( 3 , 32
+). However, a significant plurality of fields, including epidemiology, medicine,
+and statistics, appear to adopt the definitions we use here.

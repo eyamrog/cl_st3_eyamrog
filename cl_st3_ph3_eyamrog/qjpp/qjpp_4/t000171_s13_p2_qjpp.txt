@@ -1,0 +1,11 @@
+The immune system consists primarily of specialized white blood cells
+(leukocytes) and their secreted products, as well as some components
+secreted by other tissues for the purposes of signaling or
+immune defense. These components are typically transported by and measured
+in the blood but exist throughout the tissues of the
+body. Note, however, components in the blood and tissues actually
+represent the last line of defense against parasites and pathogens,
+as there are many other barriers to infection that include
+behavioral avoidance and response (the behavioral immune system), physical barriers
+(such as skin), and secreted immune components at points of
+entry into the body (the mucosal immune system).

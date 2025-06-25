@@ -1,0 +1,11 @@
+On D1 and D15 of C1, blood samples for PK
+analysis were collected before the dose, and 0.5, 1, 2,
+4, 8 and 24 h (C1D1 only) after the dose.
+C2D1 pre-dose concentration was used as the C1D15 24-h concentration
+for PK analysis. Additional pre-dose samples were collected on D1
+of C3 and C4. Avapritinib PK parameters were obtained by
+non-compartmental analysis of the plasma concentration data versus nominal time
+using Phoenix WinNonlin© (version 8.0, Certara). Parameters estimated included C
+max , T max , AUC 0–‍24 ; AUC 0–τ
+, apparent oral clearance, apparent volume of distribution, terminal half-life,
+trough concentrations 24 h after dose and accumulation ratio.

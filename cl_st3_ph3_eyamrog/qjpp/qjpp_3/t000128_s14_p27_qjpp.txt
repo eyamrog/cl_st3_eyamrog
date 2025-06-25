@@ -1,0 +1,12 @@
+Below is a table summarizing the scopes and setups used
+for imaging in this work: Scope Body Objectives Excitation Ex/Em
+Setup Confocal Setup Camera Zeiss Axios Observer Z1 5X 20X
+63X Colibri LED (full spectrum) DAPI 365/445 GFP 470/525 YFP
+550/605 mCherry 560/630 Cy5 640/690 N/A Hamamatsu Image EM-1K, Hamamatsu
+Orca-R 2 Nikon Eclipse Ti2 4X 20X 60X Lumencor SpectraX
+LED: 395nm 440nm 470nm 510nm 550nm 575nm 640nm DAPI 395/460
+CFP 440/480 GFP 470/525 YFP 510/535 mCherry 575/630 Cy5 640/700
+N/A Andor Zyla Nikon Eclipse Ti2 20X 40X Laser Lines:
+405nm 408nm 561nm 640nm DAPI 405/455 CFP 405/480 GFP 488/525
+mCh 561/605 Cy5 640/705 W1 Yokogawa Spinning Disk (50μm pinholes)
+Andor Zyla Open table in a new tab

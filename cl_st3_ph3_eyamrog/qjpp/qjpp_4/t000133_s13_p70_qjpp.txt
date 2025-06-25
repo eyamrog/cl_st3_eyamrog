@@ -1,0 +1,15 @@
+Water adequacy has long been monitored using well-established metrics to
+assess water sources and affordability. However, these metrics are widely
+understood to be inaccurate and to contribute to the underestimation
+of water insecurity (Mehta & Movik, 2014 ; Satterthwaite, 2003
+). As a result, there has been an enormous amount
+of effort invested in advancing the field of water insecurity
+measurement in the last 10 years (Wutich et al., 2017
+), including for water diaries (Hoque & Hope, 2018 ).
+Two areas of rapid methodological development are around spatial approaches
+and water insecurity scales. First, scholars are developing new ways
+to incorporate GPS in collecting water insecurity data (eg, spatial
+video). Second, scale development for measuring water insecurity in low-
+and middle-income countries is an area of recent rapid progress;
+more research is needed to develop scales suitable for use
+in high-income countries.

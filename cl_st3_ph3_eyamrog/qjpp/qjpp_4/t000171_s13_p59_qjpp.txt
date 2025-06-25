@@ -1,0 +1,8 @@
+As should be apparent from the sjTREC protocol above, qPCR
+can also be used to estimate the proportion of non-T
+cells (and by extension T cells) in a sample. Though
+we know of no validations, a similar approach is likely
+possible for estimating B cells using primers for the non-rearranged
+heavy and light immunoglobulin chains. Assessment of rearrangements is currently
+described for monitoring of B cell disorders (Cho et al.,
+2017 ). Measurement of non-rearranged sequenced should be considerably simpler.

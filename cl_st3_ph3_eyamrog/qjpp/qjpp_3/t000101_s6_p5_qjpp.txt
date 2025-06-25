@@ -1,9 +1,0 @@
-Chromosomal changes were also found at a Cas9 off-target cleavage
-site on chromosome 16. A difference between on-target and off-target
-activities were the degree of mosaicism after MII injection: on-target
-activity resulted in aneuploidies in all cells as well as
-uniform indels, whereas off-target activity resulted in mosaicism, both for
-aneuploidies and indels. This points to differences in the timing
-of cleavage in relation to replication at the one-cell stage,
-with the on-target site cleaved primarily before, and the off-target
-site primarily after replication.

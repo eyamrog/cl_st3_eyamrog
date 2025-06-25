@@ -1,0 +1,6 @@
+Extraction negative control is an RNA extraction control and is
+prepared by adding 200 μl pooled human sample (negative for
+all viruses on the panel) to a well with 280
+μl binding bead mix. The extraction negative control should yield
+a positive result for the RNase P crRNA and primer
+pair and a negative result for all other targets.

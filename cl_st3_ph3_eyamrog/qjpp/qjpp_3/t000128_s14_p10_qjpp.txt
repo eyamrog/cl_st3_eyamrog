@@ -1,0 +1,12 @@
+To construct plasmids for human helixCAM experiments, the Thermo pDisplay
+was used (ThermoFisher V66920). Coiled-coil sequences were flanked with Gibson
+Assembly overhangs and inserted in-frame between the IgK leader peptide
+and PDGFR sequences through Gibson Assembly (NEB E2611L). The full-length
+human helixCAM construct was amplified through PCR and inserted behind
+the pTet promoter of the PiggyBac Tet-On vector (Takara 631,168).
+An identifying fluorescent protein sequence with a T2A sequence was
+placed between the T2A sequence and the puromycin resistance cassette
+of the Tet-On vector. For the blasticidin-resistance plasmid (for dual-helixCAMs),
+the fluorescent protein sequence and the puromycin resistance gene were
+replaced with a blasticidin resistance gene, which was cloned from
+Addgene Plasmid 74,918 (gifted from Jose Silva Lab).

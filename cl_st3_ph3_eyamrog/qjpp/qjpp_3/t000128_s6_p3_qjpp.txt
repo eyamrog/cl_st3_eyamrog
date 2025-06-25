@@ -1,0 +1,25 @@
+One of the most complex applications tested was the construction
+of sequentially layered spherical aggregates using five engineered cell types
+( Figure 5 ), from which a number of interesting
+observations arose. Based on pairwise affinity data, we expected the
+Z17-eCFP cells to be the least predictable due to their
+promiscuity and placed them last in the coating sequence to
+mitigate its impact. Interestingly, the strength of the Z17/Z18 interaction
+appeared to overpower previously formed P9/AP10 interactions, pulling the green
+“layer 3” cells away from “layer 2” cells to form
+sub-clusters rather than clearly delineated layers. This observation is consistent
+with the “differential adhesion hypothesis” of how cells in an
+aggregate naturally self-segregate based on binding affinity—a key element of
+biological development ( Foty and Steinberg, 2005 19. Foty, R.A.
+∙ Steinberg, M.S. The differential adhesion hypothesis: A direct evaluation
+Dev. Biol. 2005; 278 :255-263 Academic Press Inc. Crossref Scopus
+(690) PubMed Google Scholar ). The potential for subsequent helixCAM
+interactions to disrupt previously formed ones indicates a need for
+independent tuning of the expression level of each helixCAM. It
+may also be possible to guard against disruption by subsequent
+cells by solidifying interactions between additions with an intermediary step
+of homodimer CAM expression, such as cadherins. Relatedly, the oval
+structures that formed instead of the desired spherical structure may
+be because of a combination of the initial core-layer1 aggregates
+not forming perfectly spherical structures, and the strength of subsequent
+layer interactions accentuating the imperfections.

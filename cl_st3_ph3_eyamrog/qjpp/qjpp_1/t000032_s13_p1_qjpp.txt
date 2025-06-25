@@ -1,0 +1,8 @@
+The definition of reproducible research generally consists of the following
+elements. A published data analysis is reproducible if the analytic
+data sets and the computer code used to create the
+data analysis are made available to others for independent study
+and analysis ( 36 ). This definition is sufficiently vague
+that it ultimately raises more questions than it answers. What
+is an “analytic data set“? What does it mean to
+be “available”? What is included with the “computer code”?

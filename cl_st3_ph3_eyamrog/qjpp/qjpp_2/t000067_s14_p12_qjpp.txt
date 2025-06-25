@@ -1,8 +1,0 @@
-For the experiments in animals, we used a two-way analysis
-of variance and post hoc tests (least significant differences) to
-compare creatinine levels and kidney injury scores between suPAR-transgenic mice
-and wild-type mice and between the mice that received IgG
-isotype and those that received uPAR monoclonal antibody. Two-tailed P
-values of 0.05 or less were considered to indicate statistical
-significance. All the analyses were performed with the use of
-SPSS software, version 24 (IBM).

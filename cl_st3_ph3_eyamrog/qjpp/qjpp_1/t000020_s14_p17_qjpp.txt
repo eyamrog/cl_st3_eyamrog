@@ -1,0 +1,11 @@
+The Estonian Biobank cohort is composed of volunteers from the
+general Estonian resident adult population . The current number of
+participants of close to 165,000 (representing 15% of the Estonian
+adult population) makes it ideally suited to population-based studies. Participants
+were recruited throughout Estonia by medical personnel and participants receive
+a standardized health examination, donate blood and fill out a
+16-module questionnaire on health-related topics such as lifestyle, diet and
+clinical diagnoses. A detailed phenotype summary from a health survey
+and linked data including ICD10 codes, clinical laboratory values and
+treatment and medication information is annually updated through linkage with
+national electronic health databases and registries.

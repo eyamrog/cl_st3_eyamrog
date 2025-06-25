@@ -1,0 +1,12 @@
+Fifth, we estimated the risk of suicide and other causes
+of death following self-harm in patients with cancer. We identified
+incident self-harm episodes (patients who had a history of self-harm
+before cancer diagnosis were excluded). The first date of self-harm
+(index date) was used as the date that follow-up started.
+Controls were identified by propensity score matching by age at
+cancer diagnosis, cancer type, sex, IMD and primary care practice
+ID. For controls, the index date of its corresponding matched
+case was the date that follow-up started. Patients were followed
+up until death, date of deregistration from the practice or
+date of administrative censoring (31 October 2020), whichever occurred first
+(Extended Data Fig. 2 ).

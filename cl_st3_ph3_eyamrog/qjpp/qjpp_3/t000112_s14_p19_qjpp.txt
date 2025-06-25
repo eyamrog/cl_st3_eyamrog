@@ -1,0 +1,18 @@
+To assess the quality of our sampling procedure, we created
+multiple controlled scenarios. As a positive laboratory control, a Copan
+swab was introduced into a sterile urine cup with 30
+μ l of a well-defined, accurately characterized microbial reference sample
+(ZymoBIOMICS Microbial Community Standard, Zymo Research, Cat.: D6300). A negative
+control was made by adding 50 μ l of the
+final resuspension buffer from the DNA isolation step into a
+sterile urine cup before introducing a Copan swab. Furthermore, a
+laboratory workbench was swabbed using our sampling procedure both before
+and after it was cleaned with a 10% bleach solution.
+To detect background contamination due to biological material in the
+air in sample areas, a dampened Copan swab was held
+in the air for approximately 3 min. Finally, to ensure
+there was no contamination could be due to the consumables
+we procured prior to sampling, we also swabbed, in triplicate,
+the interior of a flow hood that had been sterilized
+with 10% bleach before wiping down with ethanol and irradiating
+with ultraviolet light.

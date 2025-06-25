@@ -1,0 +1,7 @@
+23andMe participants have been genotyped on a variety of platforms
+and imputed against a reference panel comprising 56.5 million variants
+from the 1000 Genomes Project phase 3 (ref. ) and
+UK10K . Putative LRRK2 LoF variants were defined as those
+classified as high confidence by LOFTEE. Variants were manually assessed
+for call rate, genotyping and imputation quality and manually curated
+to ensure they were expected to cause true LoF.

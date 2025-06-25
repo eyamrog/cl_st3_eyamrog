@@ -1,8 +1,0 @@
-Results: The multinomial logistic regressions show that the probability of
-belonging to the excess weight category (BMI ≥25.0 kg/m 2
-) decreased with increasing height in both sexes inall contemporary
-data sets. This negative association was shown to be constant,
-only among conscripts measured in the 1870s the association was
-positive, when increasing height was associated with a higher BMI.
-The negative association not only emerge in BMI, but also
-in WHtR and WHR.

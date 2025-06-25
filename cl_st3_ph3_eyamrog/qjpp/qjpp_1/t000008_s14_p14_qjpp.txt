@@ -1,0 +1,9 @@
+Vector genome ITR fusions were measured using ddPCR technology, as
+described above. The primer and probe sets used for ddPCR
+and drop-phase ddPCR are presented in Supplementary Fig. 4b and
+Supplementary Table 1 . To specifically detect ITR fusions, two
+directional PCR primers were designed: fusions of the 5′ and
+3′ (H–T) ITRs were detected using forward and reverse primers
+located on the 5′ and 3′ ends of the linear
+genome that extend toward the ITR and only produce an
+amplicon when 5′ and 3′ ITRs are fused.

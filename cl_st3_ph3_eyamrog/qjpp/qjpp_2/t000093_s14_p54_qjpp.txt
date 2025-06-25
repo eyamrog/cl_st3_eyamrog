@@ -1,4 +1,0 @@
-The raw imaging datasets and associated custom MATLAB code supporting
-the current study have not been deposited in a public
-repository because of their large size (~1 TB) but are
-available from the corresponding author on request.

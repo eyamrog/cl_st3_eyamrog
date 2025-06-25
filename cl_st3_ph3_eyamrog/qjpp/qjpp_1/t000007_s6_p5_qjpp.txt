@@ -1,0 +1,9 @@
+We next consider the probability that variants found in chronic
+infections are transmissible. In most of our patients (15/27), we
+observed either S:E484K/Q and/or deletions at S:Y144, both of which
+are highly recurrent mutations in the global phylogeny. However, globally
+circulating variants bearing these mutations were inferred to be less
+transmissible than variants bearing other highly recurrent mutations (Table 2
+and ref. ). On the other hand, several mutations associated
+with higher transmissibility (for example, S:P681R and ORF1a:∆3,675–3,677) were never
+observed in the chronic infections herein (Table 2 ).

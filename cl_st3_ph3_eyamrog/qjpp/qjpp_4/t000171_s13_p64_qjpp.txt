@@ -1,0 +1,14 @@
+Antigen stimulations are usually done with 100 μl of whole
+blood per sample, so it is feasible to conduct them
+with finger-prick collections. However, the blood must be fresh (ideally
+stimulation is done within an hour of collection) and cannot
+be frozen. After stimulation, the supernatant is collected and frozen
+(which necessitates a freezer or liquid nitrogen tank). The supernatant
+is typically transported frozen and assayed for cytokines using ELISA
+or multiplex assays. Cytokine levels in stimulated supernatants are usually
+much higher than they are in circulating blood samples. In
+principle, therefore, assays could be developed which avoid freezing, for
+example, by spotting stimulated samples on filter paper, or by
+preserving stimulated cells with PAXgene reagent and performing RNA-seq instead
+of cytokine measurement (e.g., Meitern et al., 2014 ; Pulido-Salgado
+et al., 2018 ).

@@ -1,0 +1,15 @@
+Given that the carrier count for rs429358 is much higher
+than for LRRK2 pLoF, we assessed the power of the
+23andMe dataset to detect an age effect associated with LRRK2
+pLoF variants that is of the same effect size as
+the known effect of the APOE allele rs429358 by sampling
+carriers of this variant. We randomly selected N carriers of
+rs429358 from the 23andMe dataset, performed a Kolmogorov–Smirnov test on
+the age distribution of those carriers versus 4,000,000 noncarriers and
+considered the resulting P value. We repeated this process 100
+times and then computed the proportion of these simulations with
+P < 0.05. This tells us our power to reject
+the null hypothesis that APOE does not have an effect
+on age at α = 0.05, if we had N
+carriers in the dataset. We repeated this for different values
+of N between 1,000 and 20,000 (Supplementary Table 6 ).

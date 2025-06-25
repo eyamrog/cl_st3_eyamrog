@@ -1,0 +1,11 @@
+The UltraPlex 1-Step ToughMix (4X) was used to amplify nucleic
+acid via RT–PCR according to the manufacturer’s instructions, using custom
+primer pools in 20-μl reactions. Primer pools of 200, 300
+and 500 nM were tested and compared to determine optimal
+conditions. Each target in the panel was amplified with its
+corresponding primer pool. The following thermal cycling conditions were used:
+(1) reverse transcription at 50 °C for 10 min and
+95 °C for 3 min; and (2) 45 cycles at
+95 °C for 10 s, 60 °C for 1 min.
+Amplified samples were directly added into the detection reaction or
+stored at −20 °C until use.

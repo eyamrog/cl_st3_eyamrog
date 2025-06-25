@@ -1,0 +1,14 @@
+One of the emerging issues in hydration research is that
+hydration biomarkers are often used without knowing the participant's current
+hydration state. Additionally, they may not be measured under experimental
+conditions where it is possible to confirm exactly what percentage
+of body water has been lost. Therefore, recent advances in
+the field point to an evolution of how we should
+think about hydration changing from a state to a process
+(Perrier et al., 2014 ), as well as changing the
+terminology away from “dehydration” when not in an experimental setting
+to that of “inadequate hydration” or “underhydration” (Kavouras, 2019 ).
+Future research should aim to better assess baseline hydration status
+and changes or individual-level variation from the baseline. Furthermore, dried
+blood spot analysis is a methodological development needed to assess
+blood biomarkers of hydration status in remote settings.

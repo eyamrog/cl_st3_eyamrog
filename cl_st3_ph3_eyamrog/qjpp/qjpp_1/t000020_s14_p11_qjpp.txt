@@ -1,0 +1,5 @@
+Cases with schizophrenia or bipolar disorder were identified from Swedish
+national hospitalization registers . Controls were selected at random from
+population registers. All individuals had whole-exome sequencing data . All
+available ICD codes from inpatient hospitalizations and outpatient specialist treatment
+contacts were provided for each patient.

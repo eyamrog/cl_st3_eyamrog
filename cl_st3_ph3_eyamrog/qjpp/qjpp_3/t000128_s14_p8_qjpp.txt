@@ -1,0 +1,13 @@
+To construct the coiled-coil-sGFP libraries, DNA fragments containing the full
+sGFP expression cassette with flanking Golden Gate Assembly overhangs were
+synthesized (IDT). The plasmids were then cloned into the pET-DEST
+T7 expression vector (ThermoFisher 12,276,010), creating a final single plasmid
+containing all three subunits of GFP ( S1 ). Coiled-coil
+sequences were PCR-amplified from gene fragments using Q5 Polymerase (NEB
+M0492L) with BsaI recognition sites and unique 4 base pair
+overhangs to either fuse the fragment 3′ of GFP10 or
+5′ of GFP11 using Golden Gate Assembly (NEB E1601L). Assembled
+plasmids were then transformed into E. cloni 10G Supreme Electrocompetent
+Bacterial Cells (Lucigen 60,107) Cloned plasmids were miniprepped and transformed
+into T7 Express Competent E. coli strain (NEB C2566) for
+expression and screening.

@@ -1,0 +1,6 @@
+We also examined multiple classifiers, such as support vector machine,
+logistic regression and a simple decision tree, revealing that the
+results were highly robust to the type of classifier (Supplementary
+Figs. 2 and 3 ). Fitting the models and obtaining
+SHAP values were performed using Python 3.8 and the packages
+Scikit-learn version 0.24.1 and SHAP version 0.37.

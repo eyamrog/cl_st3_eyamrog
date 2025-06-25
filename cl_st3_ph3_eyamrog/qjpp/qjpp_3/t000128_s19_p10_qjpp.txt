@@ -1,0 +1,25 @@
+Considering the potential disconnect between prokaryotic and eukaryotic helixCAM characteristics,
+the next stage of CC screening was designed to select
+for the ability to induce aggregation in eukaryotes while maintaining
+a reasonable screening throughput; the yeast-based SynAg mating assay was
+a good fit ( Younger et al., 2017 71. Younger,
+D. ∙ Berger, S. ∙ Baker, D. ... High-throughput characterization
+of protein–protein interactions by reprogramming yeast mating’, Proceedings of the
+National Academy of Sciences of the United States of America
+National Academy of Sciences. 2017; 114 :12166-12171 Crossref Scopus (45)
+PubMed Google Scholar ). Briefly, MATa and MATα haploid yeast
+cells, respectively carrying lysine or leucine auxotrophic markers, were transformed
+with the yeast helixCAM library ( Figure S11 ) composed
+of the 102 CC candidates. The two mating types are
+then incubated in a shaking culture. Yeast cells displaying interacting
+helixCAMs were promoted to mate, merging the two haploid cells
+into a diploid cell. Diploid cells gain both auxotrophic markers
+and are positively selected. Merged diploid yeast cells also began
+to express the Cre recombinase, which recombined the two helixCAM
+DNA constructs into a single strand ( Figure 3 D).
+After using NGS to examine the barcodes of yeasts that
+survive selection, we assigned an “enrichment” and an “orthogonality” score
+for each helixCAM pair and, using these metrics, selected two
+top candidate CC pairs (sg30/sg61 and sg83/sg88) that were likely
+to be capable of directing strong and specific cell aggregation
+( Figure 3 E).

@@ -1,0 +1,10 @@
+Measurement of emerging contaminants requires advanced laboratory capabilities. Solid phase
+extraction with Oasis HLB cartridges has recently been the most
+common method of extraction and concentration for emerging contaminants in
+water. Solventless extraction techniques, such as solid phase microextraction, and
+dispersive liquid-liquid microextraction (which uses very little water, ie, ~10
+mL) are increasingly being used (Richardson & Kimura, 2016 ).
+Liquid chromatography and high-resolution-mass spectrometry, as well as complementary analytical
+techniques such as nuclear magnetic resonance spectroscopy, have also been
+growing in use for identifying unknown contaminants (Richardson & Kimura,
+2016 ).

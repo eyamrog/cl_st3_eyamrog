@@ -1,0 +1,19 @@
+Finally, an additional possibility is that epistatic interactions among mutations
+prevent the emergence of some mutations, or, in other words,
+two adaptive mutations may become deleterious when residing on the
+same genome. In line with this, the combination S:E484K/Q and
+S:P681H/R is not a common one, except in Omicron (albeit
+E484A) where over 30 S amino acid replacements have been
+observed. Indeed, several reports have suggested that abundant epistatic interactions
+led to the emergence of Omicron , and these may
+allow the co-existence of S:E484A with S:P681H and others. It
+remains an enigma where Omicron first arose , yet the
+fact that we see potentially epistatic interactions occurring in some
+chronic infections, coupled with the finding that Omicron is characterized
+by many such pairs of mutations, suggest that lengthy chronic
+infections may allow an exploration of the SARS-CoV-2 fitness landscape
+that may allow crossing ‘fitness valleys’ when the virus traverses
+through different organs and niches. Ultimately, in one of many
+chronic infections, a variant may emerge that both effectively evades
+antibodies and is also highly transmissible, as is the case
+of Omicron and, to some extent, also other VOCs.

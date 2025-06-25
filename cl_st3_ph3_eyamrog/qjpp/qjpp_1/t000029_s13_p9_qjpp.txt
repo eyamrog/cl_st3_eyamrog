@@ -1,0 +1,13 @@
+In line with evidence from HICs, much of the evidence
+for mHealth in LMICs has utilized the SMS modality. Even
+within SMS interventions, the heterogeneity of intervention dosage, duration, content,
+and functionality limits understanding of successful features. Therefore, despite the
+positive outcomes reported from mHealth interventions in LMICs, drawing conclusions
+on the effectiveness of mHealth interventions is still challenging owing
+to the small number of studies along with the lack
+of consistency in intervention type and outcome measures. Although the
+evidence of effectiveness of these interventions and tools is far
+from conclusive, the acceptability of mHealth as a modality for
+health intervention and support in LMICs is well established (
+1 , 8 , 23 , 45 , 67 ),
+which arguably warrants their continued use and development.

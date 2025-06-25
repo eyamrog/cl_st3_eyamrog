@@ -1,7 +1,0 @@
-Maternal and child data were collected across a range of
-gestational and child ages. Hence, we combined all measures into
-two mixed longitudinal cohort datasets, one for children 0 to
-20 months and one for mothers who embraced pregnancy (12
-to 40 weeks' gestation) and the post-partum period (0 to
-20 months). There were 18 698 pregnancies associated with 18
-661 women, as 37 had two pregnancies.

@@ -1,0 +1,4 @@
+Finally, despite correcting for changes in temperature and humidity, comparisons
+in symptoms were made over time, and seasonal effects (including
+effects on symptoms) might not have been fully taken into
+account.

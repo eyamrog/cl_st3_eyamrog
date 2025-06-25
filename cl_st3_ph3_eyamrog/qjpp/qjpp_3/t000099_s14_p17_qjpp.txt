@@ -1,0 +1,7 @@
+For all differential expression analyses, only the genes detected in
+a minimum percentage of 25% of the cells in either
+of the two populations were reported and the testing was
+limited to genes which showed, on average, at least 0.25-fold
+difference (log-scale) between the two groups of cells. The tissue
+scores for each cell in the single cell dataset were
+obtained from the tissue signatures from the bulk RNA-seq data.

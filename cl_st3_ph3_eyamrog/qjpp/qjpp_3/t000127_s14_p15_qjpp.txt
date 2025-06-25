@@ -1,0 +1,14 @@
+HPTS staining was performed as previously described ( Barbez et
+al., 2017 5. Barbez, E. ∙ Dünser, K. ∙ Gaidora,
+A. ... Auxin steers root cell expansion via apoplastic pH
+regulation in Arabidopsis thaliana Proc. Natl. Acad. Sci. USA. 2017;
+114 :E4884-E4893 Crossref Scopus (228) PubMed Google Scholar ) with
+minor modifications. 4-day-old seedlings grown on standard MS medium were
+mounted in different pH or treatment MS medium supplemented with
+1 mM HPTS on a microcopy slide for 2 h
+before observation. For bacteria-treated samples, seedlings were mounted on 1
+mM HPTS-contained MS medium for 30 min before observation. Values
+shown in the boxplots are relative 458/405 value to mock
+or pH 5.7 of the same region around root meristem.
+The signal aggregates were excluded during data processing. The experiments
+were repeated at least three times with similar results.

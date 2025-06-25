@@ -1,0 +1,10 @@
+In long-term intravital imaging experiments, we also observed that large
+sRANKL-stimulated osteoclasts often fissioned into smaller daughter cells ( Figures
+3 A–3C; Video S5 ). These cells were larger than
+5 μm in diameter and freely motile, suggesting that they
+were live. Analysis of time-lapse images confirmed they represented true
+cell fission events ( Video S5 ). Fission was not
+accompanied by changes to the level of interaction with macrophages
+( Figure 3 D). In vitro live-cell imaging showed similar
+cell fission events, and these nucleated daughter cells were motile
+( Figures 3 E and 3F; Video S5 ).

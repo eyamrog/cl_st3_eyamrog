@@ -1,0 +1,16 @@
+China CDC designed the standardised CCDNS study protocol, provided centralised
+training to provincial and local CDC staff, and developed an
+encrypted information collection and management platform that integrated sampling, questionnaire
+administration, identity verification, quality control, sample transportation, laboratory results upload,
+and progress monitoring. Trained local CDC staff reported sampling information,
+did face-to-face questionnaire interviews and physical measurements, collected blood and
+urine samples, and did on-site haemoglobin tests and site-centralised blood
+glucose tests. They administered questionnaires using portable application devices that
+recorded the interview process for data quality control, uploaded data
+to the encrypted platform, and recorded the transportation status of
+blood and urine samples from the site to a central
+laboratory via a WeChat-based mini-application. Provincial CDC staff provided secondary
+training to the local CDC staff, approved the sampling process,
+and supervised the data quality process by site visits, physical
+measurement calibration, and examining the interview recordings. The stringent quality
+control measures have been described previously.

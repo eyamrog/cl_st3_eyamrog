@@ -1,0 +1,5 @@
+Variants were filtered out if they were flagged as low
+confidence by LOFTEE . For the remaining variants, manual curation
+was performed, including inspection of variant quality metrics, read distribution
+and the presence of nearby variants using the integrative genome
+viewer and splice-site prediction algorithms using Alamut.

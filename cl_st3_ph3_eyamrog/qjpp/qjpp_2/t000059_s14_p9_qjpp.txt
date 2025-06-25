@@ -1,0 +1,16 @@
+A comparison of the updated methods used in GBD 2019
+with those used in previous rounds of GBD has been
+described previously. There were four methodological changes specific to the
+estimation of the burden of falls. First, we used age-specific
+ratios between outpatients and inpatients, replacing a single outpatient coefficient
+in meta-regression Bayesian, regularised, trimmed (MR-BRT) analyses. Second, we incorporated
+location-specific adjustments for access to health care. Third, we used
+excess mortality rates of falls to stabilise geographical variation in
+spatiotemporal Gaussian process regression (ST-GPR) analyses. Finally, we included new
+national survey data from the WHO study on Global Ageing
+and Adult Health pertaining to the Chinese population in the
+estimation of injuries due to falls. The data sources we
+used to estimate the disease burden in China are listed
+on the Global Health Data Exchange , and the data
+sources closely related to the estimation of the burden of
+falls are provided in the appendix (p 3) .

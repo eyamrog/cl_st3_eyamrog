@@ -1,0 +1,10 @@
+Following common practice, cycle length was defined as the total
+number of days from first day of menstrual bleeding up
+to and including the day before the first day of
+bleeding of the subsequent cycle. Follicular phase (i.e., time to
+ovulation) was defined as the first day of menstrual bleeding
+up to and including the day before ovulation. Luteal phase
+was defined as the day of ovulation up to and
+including the cycle's last day. Late luteal duration was defined
+as the number of days from observed progesterone peak up
+to and including the last day of the cycle.

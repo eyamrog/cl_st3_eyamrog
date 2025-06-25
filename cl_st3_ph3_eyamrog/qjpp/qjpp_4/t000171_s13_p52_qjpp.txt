@@ -1,0 +1,18 @@
+The statistical approach for downstream analysis of count data will
+depend on the specific goals and research question being asked
+and is thus outside the scope of this review. Here
+we briefly discuss the process of count normalization and its
+importance for the interpretation of RNA-seq data in field studies.
+In both whole transcript sequencing and 3′ RNA-seq reads must
+be normalized for between sample variation in library size, that
+is, the total of all reads for a sample. For
+whole transcript sequencing counts are also normalized for gene length
+because gene length affects the number of cDNA fragments produced
+and thus the number of reads mapped to a particular
+gene; this is not usually necessary for 3′ sequencing because
+only one fragment is generated per transcript (Moll et al.,
+2014 ). Because library size is more likely to reflect
+variation in sequencing depth due to methodological stochasticity, rather than
+real-world variation in total mRNA expression, counts can be normalized
+in a number of ways which reflect different assumptions (Evans
+et al., 2018 ).

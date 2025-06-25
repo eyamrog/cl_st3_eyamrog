@@ -1,0 +1,11 @@
+Four-micron thick tissue sections were used for immunohistochemical staining. Sections
+were incubated with anti-TREM2 antibody (clone D8I4C, 1:100, Cell Signaling
+Technology) and the reaction was revealed using Novolink Polymer (Leica
+Microsistem). For double staining, after completing the first immune reaction,
+the second was visualized using Mach 4 MR-AP (Biocare Medical),
+followed by Ferangi Blue. Finally, the slides were counterstained with
+Meyer’s Haematoxylin. For double stain, TREM2 was coupled with anti-CD163
+(clone 10D6, mouse, 1:50, Thermo Scientific), anti-CD68 (clone PG-M1, 1:200,
+Dako), anti-MITF (clone D5, 1:50, Dako), anti-CD1c (clone OTI2F4, 1:300,
+Abcam), anti-CD207 (clone 12D6, 1:150, Leica), anti-MAFB (polyclonal rabbit, 1:400,
+Sigma) or anti-CSF-1R (clone FER216, 1:1500, Millipore).

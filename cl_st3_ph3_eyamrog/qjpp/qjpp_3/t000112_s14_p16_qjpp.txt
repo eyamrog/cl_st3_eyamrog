@@ -1,0 +1,24 @@
+A standard operating procedure (SOP) was developed for the sample
+collection to be followed by all members of the MetaSUB
+consortium participating in CSD, and adapted from earlier work by
+Afshinnekoo et al. (2015) 1. Afshinnekoo, E. ∙ Meydan, C.
+∙ Chowdhury, S. ... Geospatial Resolution of Human and Bacterial
+Diversity with City-Scale Metagenomics Cell Syst. 2015; 1 :72-87 Full
+Text Full Text (PDF) Scopus (211) PubMed Google Scholar .
+The aim was to standardize as much of the sampling
+procedure in order to ensure high quality control across the
+various cities and sampling teams. Thus, it was recommended that
+teams collect samples from high contact surfaces found in most
+metro and transit stations and systems around the world, including
+ticket kiosks, turnstiles, railings, and seats or benches. Some cities
+had to adapt the sampling approach to better reflect their
+city. For example, in cases where a city did not
+have a subway system, the most common form of public
+transit was studied instead. While variation in the types of
+surfaces being sampled were allowed, modifications to the sampling procedure
+itself were not. Moreover, a number of metadata were recorded
+for each sample during the process of collection to ensure
+as much contextual information as possible was captured. Each city
+developed their own sampling and submitted them for review before
+sampling kits were sent to them in order to ensure
+consistency across the various sites.

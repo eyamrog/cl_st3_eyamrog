@@ -1,0 +1,20 @@
+One of the most common and simplistic measures of household
+water insecurity is the water source. The adequacy of water
+sources is commonly assessed using a tool developed by the
+Joint Monitoring Programme (JMP) for Water Supply and Sanitation, which
+is managed by WHO and UNICEF ( 2006 , 2017
+, 2019 ). The JMP ladder for drinking water classifies
+water sources into five levels: (a) safely managed (a contamination-free
+improved water source, located on the premises), (b) basic (an
+improved source where water fetching takes <30 minutes), (c) limited
+(an improved source where water fetching takes >30 minutes), (d)
+unimproved (an unprotected spring or well), or (e) surface water
+(canal, river, lake, pond, dam, and so on). The JMP
+collects data on water sources from water regulators, water administrators,
+and household surveys, but the protocol can also be implemented
+in household surveys alone. While the JMP approach is used
+for assessing major global initiatives like the Sustainable Development Goals,
+it has been widely critiqued as failing to measure important
+determinants of water insecurity like water quality, cost, accessibility, availability,
+adequacy, or cultural dimensions (Bain et al., 2014 ; Mehta
+& Movik, 2014 ; Satterthwaite, 2003 ).

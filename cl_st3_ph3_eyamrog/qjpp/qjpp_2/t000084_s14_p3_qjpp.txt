@@ -1,0 +1,7 @@
+Patients were randomly assigned in a 1:1 ratio to undergo
+either CT or ICA with the use of a Web-based
+system to ensure concealment of group assignments after eligibility criteria
+had been checked. Block randomization used computer-generated and randomly permuted
+blocks of 4, 6, or 8, stratified according to center
+and the patient’s sex with central assignment. All the patients
+provided written informed consent.

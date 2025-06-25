@@ -1,0 +1,9 @@
+FASTQ files from NGS were inspected for quality and then
+trimmed using Sickle ( https://github.com/najoshi/sickle ). Trimmed FASTQ files were
+read into Python via the SeqIO function from the BioPython
+package ( https://biopython.org/ ) ( Cock et al., 2009 16.
+Cock, P.J.A. ∙ Antao, T. ∙ Chang, J.T. ... Biopython:
+freely available Python tools for computational molecular biology and bioinformatics’,
+Bioinformatics Oxford Academic. 2009; 25 :1422-1423 Crossref Google Scholar ).
+For the E. coli screen, CC candidate sequences were identified,
+extracted from the read, and paired via an in-house script.

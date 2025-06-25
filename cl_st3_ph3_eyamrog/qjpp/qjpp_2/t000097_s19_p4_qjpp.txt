@@ -1,0 +1,22 @@
+To define the impact of TREM2 deficiency on the tumor-immune
+infiltrate at higher resolution, we analyzed immune cells in WT
+and Trem2 –/– MCA/1956 tumors by scRNA-seq. We sorted live-CD45
++ cells from MCA/1956 tumors 10 days after tumor injection
+( Figures S2 A and S2B). We chose this time
+point to detect early changes in the myeloid compartment related
+to lack of TREM2, before these changes become entwined with
+altered T cell responses and modified pathology. We obtained data
+for an average of 4,940 cells per sample with a
+coverage of 13,545 UMIs (unique molecular identifiers) per cell. Unsupervised
+clustering by Uniform Manifold Approximation and Projection (UMAP) identified 14
+clusters ( Figures S2 A–S2D). Expression of Ptprc (CD45) was
+evident in all clusters, with the exception of a few
+cells (cluster 12), which included contaminating non-immune cells. Cluster 9
+expressed T cell markers ( Cd3d , Cd4 , and
+Cd8b1 ), while cluster 5 encompassed NK cells ( Ncr1
+). Cluster 13 ( Cd79a ) and cluster 11 (
+S100a8 ) identified B cells and neutrophils, respectively. Cluster 8
+corresponded to Mki67 + proliferating cells, predominantly CX 3 CR1
++ macrophages. Cluster 10 included DC2-like cells based on the
+expression of Flt3 and Ccr7, while cluster 7 represented Xcr1
++ DC1-like cells ( Figure S2 D).

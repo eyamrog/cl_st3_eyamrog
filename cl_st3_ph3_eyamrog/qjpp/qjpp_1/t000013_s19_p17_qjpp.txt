@@ -1,0 +1,14 @@
+Although we observed no cross-reactivity between RVP panel members in
+the research setting (Figs. 1 and 2 ), we followed
+FDA guidelines to conduct more stringent assay inclusivity and specificity
+analyses against common respiratory flora and other viral pathogens. In
+silico analysis revealed that the primers on RVP were >92%
+inclusive of the known genetic diversity of each viral species,
+with additional inclusivity coming from crRNA target recognition, for an
+overall >95% inclusivity (Supplementary Table 8 ). When examining off-target
+activity in silico, the FDA defines cross-reactivity as >80% homology
+between one of the primers or probes to any microorganism.
+We found no more than 75% homology between the RVP
+primer and crRNA sequences to other closely related human pathogens
+(Supplementary Table 9 ). This implies that off-target detection will
+rarely, if ever, occur.

@@ -1,0 +1,20 @@
+Scientific progress has long depended on the ability of scientists
+to communicate to others the details of their investigations. The
+exact meaning of “details of their investigations” has changed considerably
+over time and in recent years has been nearly impossible
+to describe precisely using traditional means of communication. Rapid advances
+in computing technology have led to large-scale and high-throughput data
+collection coupled with the creation and implementation of complex statistical
+algorithms for data analysis. In the past, it might have
+sufficed to describe the data collection and analysis using a
+few key words and high-level language. However, with today's computing-intensive
+research, the lack of details about the data analysis in
+particular can make it impossible to recreate any of the
+results presented in a paper ( 36 ). Compounding these
+difficulties is the impracticality of describing these myriad details in
+traditional journal publications using natural language. To address this communication
+problem, a concept has emerged known as reproducible research, which
+aims to provide for others far more precise descriptions of
+an investigator's work. As such, reproducible research is an extension
+of the usual communications practices of scientists, adapted to the
+modern era.

@@ -1,0 +1,23 @@
+Between Sept 27 and Dec 31, 2020, 98 170 sequences
+were made available by COG-UK, corresponding to 4·4% of the
+2 207 476 cases recorded during this period. 16 224
+(16·5%) sequences were of variant B.1.1.7. Considering the mean of
+the rolling average across December, 2020, the three regions with
+the largest proportion of infections with the B.1.1.7 variant were
+the South East, London, and East of England. The three
+regions with the lowest proportion were Wales, the North East
+and Yorkshire, and the North West. SGTF data were made
+available in England on a weekly basis from Nov 10
+to Dec 29, 2020. Of the 700 590 cases reported
+during this period, 295 404 (42·2%) caused an SGTF. Examining
+the COG-UK data from England in the same period, we
+found 14 074 (34·6%) of 40 648 cases to be
+caused by the B.1.1.7 variant. The difference is in part
+attributable to the SGTF being a non-specific marker of B.1.1.7:
+according to Public Health England, in the week of Nov
+9–15, 79% of cases with an SGTF were due to
+B.1.1.7, and from Nov 30 at least 96% of cases
+with an SGTF were caused by the B.1.1.7 variant. Figure
+1 shows the increase in the proportion of infections with
+the B.1.1.7 variant over time in regions of the UK,
+using the COG-UK and SGTF data.

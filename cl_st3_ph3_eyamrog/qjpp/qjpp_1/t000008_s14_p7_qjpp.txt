@@ -1,0 +1,27 @@
+FFPE liver sections of 5 µm were prepared for ISH
+of hFVIII-SQ DNA and RNA using a Ventana Discovery Ultra
+Autostainer, an RNAscope Universal 2.5 Reagent kit Brown (DNA) or
+RNAscope Universal 2.5 Reagent kit Red (RNA) (Advanced Cell Diagnostics),
+and custom-generated FVIII DNA and RNA probes. Three naïve human
+liver samples were also prepared as negative controls. Preservation of
+nucleic acids following tissue processing was confirmed using probes for
+expression of the housekeeping gene ubiquitin C ( UBC );
+negative samples were considered to have poor nucleic acid quality
+and were discarded. Samples were screened for contamination or poor
+fixation using probes for the bacterial gene dapB ; positive
+samples were excluded from further analysis. Sections were dehydrated, mounted
+on slides using Permount mounting medium (VWR). For DNA ISH
+analysis, slides were imaged on a Leica DM5000 microscope using
+transmitted light imaging settings, a ×20 0.75 HCX Plan Fluor
+objective, and a DFC550 camera. For each liver section, >10
+images were captured that spanned ≥50% of the biopsy: 11
+images per biopsy for participants 1 and 11, and 27–28
+images per biopsy for participants 3, 4 and 15, from
+whom the biopsy tissue area was larger. Total hepatocyte nuclei
+per image were counted and scored positive for hFVIII-SQ DNA
+if any brown foci were observed within the nucleus. For
+RNA analysis, slides were imaged on a Zeiss Axio Scan.Z1
+using a Plan-Apochromat ×40/0.8 objective equipped with a Hamamatsu Orca
+Flash camera. Image analysis was performed using Visiopharm v2020.09 to
+quantify hepatocytes stained positive for cytoplasmic FVIII RNA signal and
+the number of RISH foci per cell.

@@ -1,0 +1,21 @@
+Constrained cAMP diffusion in cells might be caused by cAMP
+binding to specific binding sites, resulting in “buffering.” To test
+whether such binding of 8-F-cAMP does indeed occur and would
+be overcome at higher cAMP concentrations by displacement from the
+binding sites, we stimulated HEK293 cells, after loading with 8-FDA-cAMP,
+with forskolin (fsk) (10 μM) and 3-isobutyl-1-methylxanthine (IBMX) (100 μM)
+to maximally elevate intracellular cAMP levels. Analysis of cAMP dynamics
+under these stimulated conditions reveals a strikingly different spatiotemporal pattern;
+the long-time tail of the STICS function was largely lost,
+whereas a broader opening at shorter times was observed (
+Figures 1 E, S2 E, and S3 ). This fast
+component can also be appreciated by looking at diffusion coefficients
+extracted from the rapid timescale of the mean square displacement
+(MSD) and also by looking at the average transit time
+of the molecules over a distance of 1 μm (
+Figures 1 F, S2 E, and S2F); this highlights fast
+cAMP diffusion (tens up to hundreds of square micrometers per
+second) in fsk + IBMX-stimulated cells, similar to the diffusion
+speed of fluorescein. This is in stark contrast to cells
+under unstimulated conditions, where cAMP appears to be virtually immobile
+( Figures 1 D and 1F).

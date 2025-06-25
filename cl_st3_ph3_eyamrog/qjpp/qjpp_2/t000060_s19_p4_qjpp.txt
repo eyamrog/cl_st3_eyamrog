@@ -1,7 +1,0 @@
-The DiD estimation showed a significant overall treatment effect of
-the lockdown on MHI-5 scores of –1·4 points (95% CI
-–1·7 to –1·2; table 2 ). The DiD model explained
-two-thirds of the variation in MHI-5 scores (R 2 =0·67).
-The treatment effect was significantly larger for females (−2·2 [–2·6
-to –1·7]) than for males (−0·6 [–0·8 to –0·5]; difference
-1·5 points, p<0·0001).

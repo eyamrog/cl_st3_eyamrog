@@ -1,9 +1,0 @@
-To determine the sizes and positions of centromere units, we
-merged with bedtools CENH3 peaks that were separated by less
-than 50 kb to eliminate the gaps that arise because
-of fragmented Tyba arrays or due to insertion of TEs.
-Small CENH3 domains of less than 1 kb were discarded.
-Length and distance between Tyba arrays and between CENH3 domains
-were then calculated using bedtools. Bar plots of the average
-distance and unit length used to compare CENH3 domains and
-Tyba arrays were made in RStudio using the ggplot library.

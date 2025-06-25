@@ -1,0 +1,17 @@
+Finally, to estimate the mean lifespans of tdTomato + labeled
+post-mitotic neutrophils in tissues we considered the 10% of those
+that were the most long-lived. Let 𝑡 ( B M
+) 1 0 % and 𝑡 ( 𝑖 ) 1
+0 % denote the corresponding mean lifespans in BM and
+tissue 𝑖 , respectively. Using the above decaying exponential functions
+1 0 0 ⁢ 𝑒 − ( 𝑡 − 2
+) / 𝜏 B M and 1 0 0 ⁢
+𝑒 − ( 𝑡 − 3 ) / 𝜏 𝑖
+, together with the obtained mean lifetimes, we computed the
+mean lifespans as 𝑡 ( B M ) 1 0
+% = l o g ⁡ ( 1 0 )
+⁢ 𝜏 B M and 𝑡 ( 𝑖 ) 1
+0 % = l o g ⁡ ( 1 0
+) ⁢ 𝜏 𝑖 . Their values, together with their
+corresponding confidence intervals (confidence levels at 95%), are shown in
+Fig.S1E.

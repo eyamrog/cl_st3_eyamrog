@@ -1,0 +1,26 @@
+The diffusion properties of this compound were then analyzed in
+intact cells by applying techniques that can report a wide
+range of diffusion speeds. Using a fluorescence fluctuation spectroscopy approach
+in combination with a confocal microscope, fast line scan imaging
+of fluorescent molecules allows precise extraction of diffusion coefficients ranging
+from below 0.1 μm 2 /s up to hundreds of
+square micrometers per second ( Ries et al., 2009 39.
+Ries, J. ∙ Chiantia, S. ∙ Schwille, P. Accurate determination
+of membrane dynamics with line-scan FCS Biophys. J. 2009; 96
+:1999-2008 Full Text Full Text (PDF) Scopus (148) PubMed Google
+Scholar ; Hebert et al., 2005 20. Hebert, B. ∙
+Costantino, S. ∙ Wiseman, P.W. Spatiotemporal image correlation spectroscopy (STICS)
+theory, verification, and application to protein velocity mapping in living
+CHO cells Biophys. J. 2005; 88 :3601-3614 Full Text Full
+Text (PDF) Scopus (342) PubMed Google Scholar ; Figures 1
+B and S1 ; STAR Methods ). Briefly, this approach
+yields the probability distribution function of an individual molecule occupying
+a given position in space and time (spatiotemporal image correlation
+spectroscopy [STICS] function); rapidly diffusing molecules can travel large distances
+in a short time, whereas bound or very slowly diffusing
+molecules persist at the same position for a long time.
+This method can capture combinations of different diffusion modes or
+of diffusion and binding, as illustrated schematically in Figure 1
+C. We calibrated the method by using fluorescent compounds of
+known molecular weight, which yielded values in agreement with their
+theoretical diffusion coefficients in water ( Figure S1 ).

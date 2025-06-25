@@ -1,0 +1,13 @@
+In much of the early literature on reproducible research, the
+focus is on “computationally intensive” research, which, because of its
+reliance on complex computer algorithms, was considered perhaps more impenetrable
+than other research. Fast-forward 30 years and the use of
+computing in scientific research is ubiquitous. It is no longer
+the domain of niche geophysical scientists or mathematical statisticians using
+obscure computer packages. Now, all scientific research involves the use
+of powerful computers, whether it is for the data collection,
+the data analysis, or both. Furthermore, the increase in complexity
+of statistical techniques over this time period has resulted in
+the need for detailed descriptions of analytic approaches and data
+processing pipelines. We are all computational scientists now, and thus
+the concept of reproducibility is relevant to all scientists.

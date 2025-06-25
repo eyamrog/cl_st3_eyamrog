@@ -1,0 +1,10 @@
+K562 cells (ATCC CCL-243, female) were used for most human
+helixCAM line generation. They were cultured in either shaking or
+standing suspension and passaged at a concentration of 2x10 6
+/mL to a seed concentration of 2x10 5 /mL. Adherent
+cells used for targeting experiments were the AAV-293 cells (Agilent
+240,073) for their superior adhesion. They were seeded at 10%
+confluency and allowed to grow to 90% confluency before passaging.
+All cells were cultured at 37°C and 5% CO 2
+in DMEM + GlutaMax (ThermoFisher 10,566,016) supplemented with 10% Fetal
+Bovine Serum (Corning 35-010-CV) and 1% Penicillin-Streptomycin (ThermoFisher 15,070,063).

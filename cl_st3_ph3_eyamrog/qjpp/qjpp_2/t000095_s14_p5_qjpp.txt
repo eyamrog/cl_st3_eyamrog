@@ -1,0 +1,14 @@
+The SARS-CoV-2 (IVCAS 6.7512) was isolated using bronchoalveolar lavage fluid
+sample of patient and was propagated and titrated in Vero
+E6 cell lines ( Zhou et al., 2020 35. Zhou,
+P. ∙ Yang, X.L. ∙ Wang, X.G. ... A pneumonia
+outbreak associated with a new coronavirus of probable bat origin
+Nature. 2020; 579 :270-273 Crossref Scopus (14925) PubMed Google Scholar
+). Vero E6 is a kidney epithelial cell line derived
+from female African green monkey (ATCC® CRL-1586). Vero E6 cells
+were cultured in Dulbecco’s modified Eagle’s medium (DMEM, Invitrogen) supplemented
+with 10% fetal bovine serum (FBS, Life Technologies) and 1%
+Anti-Anti (Invitrogen) at 37°C with 5% CO 2 . Viral
+titrations were performed with 10-fold serial dilutions in Vero E6
+cells. Three days after inoculation, CPE was scored, and the
+Reed-Muench formula was used to calculate the TCID 50 .

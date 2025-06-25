@@ -1,0 +1,18 @@
+We next considered the kinetics of the labeled neutrophils originating
+from the BM and subsequently released into the circulation and
+other tissues. Let 𝐿 𝑖 ⁡ ( 𝑡 ) denote
+the corresponding number of labeled neutrophil subpopulation in compartment 𝑖
+at time 𝑡 ≥ 0 . The ODEs governing the
+kinetics of these subpopulations are 𝑑 ⁢ 𝐿 i 𝑑
+⁢ 𝑡 = 𝜑 𝑖 ⁢ 𝐿 𝑁 − 𝐿
+i 𝜏 i , where 𝜑 𝑖 represents the net
+flux of neutrophils into tissue compartment 𝑖 , weighted by
+the labeled fraction coming from the BM, whereas 𝜏 𝑖
+is the neutrophil mean lifetime in that same tissue compartment.
+The above ODEs can also be solved exactly in terms
+of quadratures by using the BM solution 𝐿 ⁡ (
+𝑡 ) together with the initial conditions 𝐿 𝑖 ⁡
+( 0 ) = 0 . Notice that once 𝐿
+⁡ ( 𝑡 ) starts to decrease (after day two)
+then, approximately, 𝐿 𝑖 ⁡ ( 𝑡 ) ∝ 𝑒
+− 𝑡 / 𝜏 𝑖 .

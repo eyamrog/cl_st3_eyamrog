@@ -1,0 +1,13 @@
+As controls for these experiments, we established that all constructs
+were expressed equally well, that the described effects were similar
+at all expression levels ( Figure S5 E), and that
+fusion of PDE4A1 or SAH10-PDE4A1 did not affect the affinity
+of Epac1-camps for cAMP ( Figure S5 A), nor did
+fusion of SAH10 to PDE4A1 reduce catalytic activity ( Figure
+S5 B–S5D). We also showed that the effect of tethered
+PDE4A1 was lost in a catalytically inactive mutant ( Figures
+S5 F and S5G). The highly significant differences between tethered
+and non-tethered or spacer-separated PDE4A1 ( Figure 3 G) strongly
+indicate that PDE4A1 creates a region of low cAMP concentration
+with a radius that is clearly smaller than 10 nm.
+We therefore define this as a low-cAMP nanodomain.

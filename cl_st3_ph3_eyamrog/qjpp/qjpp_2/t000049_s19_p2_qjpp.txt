@@ -1,0 +1,19 @@
+The ELSA study included almost equal numbers of men and
+women (3906 [46·52%] of 8396 participants were male), whereas participants
+in the Whitehall II study were mostly male (5295 [70·34%]
+of 7528 participants; appendix p 3 ). In both studies,
+education level increased in participants born in later birth cohorts
+(p trend <0·0001). For 703 ELSA participants (8·37%) and 370
+Whitehall II participants (4·91%), education was imputed using single imputation.
+Whitehall II participants were more likely than ELSA participants to
+have high education level (p<0·0001). Men were more likely than
+women to have high education level (pooled data; 4229 [45·96%]
+of 9201 men and 1614 [24·01%] of 6723 women; p<0·0001)
+across all birth cohorts (p<0·0001 in each birth cohort). Education
+level increased with each successive birth cohort (p<0·0001). In the
+pooled data, men had more years of follow-up (mean 11·0
+years [SD 6·2]) than women (9·6 years [5·7]); p<0·0001), because
+there was a greater proportion of men in Whitehall II
+in which the follow-up was longer than in ELSA (12·9
+years [SD 6·3] mean follow-up in Whitehall II vs 8·1
+years [4·8] in ELSA; p<0·0001).

@@ -1,0 +1,15 @@
+For each patient, substitutions as compared to the reference that
+appeared in the first timepoint were marked as background substitutions
+and were not considered for any further analyses. Only substitutions
+that were added in the following timepoints were considered. The
+‘Pangolin’ network was used to identify the consensus sequence lineage
+( https://cov-lineages.org/resources/pangolin.html ) . This allowed us to rule out
+re-infection in all patients but one: the last timepoint of
+patient 6 from day 48 of infection was inferred to
+be due to re-infection (B.1.1.7 as compared to B.1.1.50 in
+all earlier timepoints). The last timepoint from this patient was
+removed from the analysis, leaving a total of 37 days.
+Visual inspection of the results led to a suspected contamination
+at day 27 of patient 5, as several B.1.1.7 LDMs
+were observed on an otherwise B.1.1.50 background. This sample was
+omitted from the analysis.

@@ -1,0 +1,13 @@
+A detailed explanation of this workflow can be found in
+Figure S9. In short, cells were segmented and quantified using
+CellProfiler then imported into MATLAB. The cells in individual channels
+are merged into a consensus list of cells based on
+an empirically selected distance threshold. The mean fluorescence of each
+cell in the list across the five measured channels was
+calculated, then used as parameters for supervised classification of the
+cells into the six cell types. Another distance threshold was
+empirically selected by comparing centroid distances against cell diameters, and
+this threshold was applied to determine cells that are interacting.
+Interactions between pairs of cell types are then tallied, then
+normalized by the sum of the number of interactions in
+each row and column to obtain the frequency table.

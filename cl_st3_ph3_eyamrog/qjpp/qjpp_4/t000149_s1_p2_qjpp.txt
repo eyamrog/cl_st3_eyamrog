@@ -1,0 +1,7 @@
+Methods: We conducted secondary analyses of data from a cluster-randomized
+trial. Women aged 14–35 years were categorized by age, number
+of previous pregnancies, height, body mass index (BMI), husband's education,
+and household wealth. Multivariable logistic regression models tested whether these
+characteristics independently predicted risks of episiotomy and cesarean section (CS,
+n = 14 261), and obstructed labor (OL, n =
+5185).

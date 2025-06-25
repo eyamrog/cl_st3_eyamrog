@@ -1,0 +1,11 @@
+Osteomorphs are formed by the fission of osteoclasts into smaller,
+more motile daughter cells that retain the ability to fuse
+to form functional osteoclasts. In contrast to osteoclasts that are
+attached to bone, osteomorphs are found in the bone marrow
+and blood. scRNA-seq analysis showed that osteomorphs, osteoclasts, and macrophage
+precursors were transcriptionally distinct cell states. The transcriptome of osteomorphs,
+compared to macrophages, was characterized not only by the upregulated
+expression of a number of canonical osteoclast genes (such as
+Acp5 ) but also genes not previously associated with osteoclasts
+(such as Bpgm and Fbxo7 ). Thus, osteomorphs are a
+cell type distinct from osteoclasts and their macrophage precursors.

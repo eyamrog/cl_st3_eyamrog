@@ -1,0 +1,26 @@
+We followed the CARMEN v.1 platform for two-step reverse transcription
+amplification then transitioned to a single-step amplification reaction after the
+experiments depicted in Fig. 1 . We used the QIAGEN
+OneStep RT–PCR Mix for Figs. 2 , 3 and 5
+and the Invitrogen SuperScript IV One-Step RT–PCR System for Fig.
+4 . For the QIAGEN OneStep RT–PCR, a total reaction
+volume of 50 μl was used with some modifications to
+the manufacturer’s recommended reagent volumes, specifically a 1.25× final concentration
+of OneStep RT–PCR buffer, 2× more QIAGEN enzyme mix and
+20% RNA input. Final concentrations for all viral primers were
+300 and 100 nM for the RNase P primers. The
+following thermal cycling conditions were used: (1) reverse transcription at
+50 °C for 30 min; (2) initial PCR activation at
+95 °C for 15 min; and (3) 40 cycles at
+94 °C for 30 s, 58 °C for 30 s
+and 72 °C for 30 s. For the Invitrogen SuperScript
+IV One-Step RT–PCR, a total reaction volume of 25 μl
+with 20% RNA input and final primer concentrations at 1
+μM were used. The following thermal cycling conditions were used:
+(1) reverse transcription at 50 °C for 10 min; (2)
+initial PCR activation at 98 °C for 2 min; (3)
+35 cycles at 98 °C for 10 s, 60 °C
+for 10 s and 72 °C for 1 min 30
+s; and (4) final extension at 72 °C for 5
+min. See Supplementary Table 4 for information on the primer
+sequences used in each mCARMEN panel.

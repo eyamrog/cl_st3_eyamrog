@@ -1,0 +1,5 @@
+The accelerometers generated step counts, energy expenditure (kilocalories) over time
+via integrated software. They also collected minutes in four levels
+of energy expenditure that represent level of maximum heart rate
+(HRmax): vigorous (80–100 HRmax), moderate (70–80 HRmax), easy (60–70 HRmax),
+and very easy (50–60 HRmax).

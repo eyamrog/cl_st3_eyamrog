@@ -1,0 +1,12 @@
+Our study has several strengths. The large, longitudinal nature of
+the COVID Symptom Study data, with good coverage of the
+UK population, provides a unique opportunity to study potential changes
+in symptomatology and disease duration. The ability to match tests
+and symptom reports over long periods also allows us to
+measure possible reinfection rates. Our data also offer the ability
+to provide a valuable complementary measure to existing measurements of
+the increased transmissibility of the B.1.1.7 variant: we were able
+to use real-time, representative incidence estimates to measure R t
+, whereas other studies have relied on deaths and admissions
+to hospital, which are lagged, or community case numbers, which
+do not reflect true infection numbers.

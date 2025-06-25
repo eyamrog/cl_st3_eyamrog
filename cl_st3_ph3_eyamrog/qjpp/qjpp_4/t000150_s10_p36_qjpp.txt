@@ -1,0 +1,14 @@
+From a measurement perspective, objective and subjective methods for measuring
+sedentary time/behavior have different strengths and weaknesses. Objective measurements (particularly
+using thigh-worn devices) have the highest validity and are sufficient
+on their own for studies where the aim is to
+quantify any combination of total sedentary time, breaks in sedentary
+time, or sit-to-stand transitions. However, with the exception of wearable
+cameras, objective measures do not provide any information about the
+specific behaviors or contexts that contribute to total sedentary time.
+Subjective measurements, on the other hand, tend to have comparatively
+low validity but can offer rich contextual information about when
+and where sedentary behavior is occurring. If the aim of
+a study is not to quantify total sedentary time but
+to understand how and where sedentary behavior is occurring, subjective
+methods are preferable.

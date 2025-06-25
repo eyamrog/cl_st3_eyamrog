@@ -1,0 +1,24 @@
+More timely information on influenza activity via digital surveillance has
+the potential to allow a more accurate measure of the
+incidence of influenza virus infections in the community when coupled
+with data from traditional surveillance. This data assimilation technique opens
+up an opportunity to develop the hybrid digital surveillance systems
+( 47 , 74 ) using web-based surveillance with more
+traditional sources. Santillana et al. ( 68 ) combined Google,
+Twitter, and Flu Near You data with ILI rates from
+symptomatic surveillance and found an improved measure of influenza activity
+compared with using Google Flu Trends data alone. Several studies
+addressed the development of the hybrid digital surveillance system by
+accounting for methodological biases, including stability, dependency ( 13 ),
+confounding in search terms ( 69 ), and sampling bias
+or representativeness, along with the above data integration techniques. In
+comparison, big-data, cloud-based electronic health record data sources are often
+available in almost real time, can be integrated with ILI
+estimates of search engine data, and can provide more accurate
+predictions of influenza intensity up to four weeks in advance
+( 95 ). Data on the potential drivers of influenza
+transmission, such as data on meteorological factors, could be incorporated
+with these surveillance data to improve predictions and forecasting (
+5 , 43 , 71 , 72 ). We further
+discuss these seasonal drivers and their roles in predicting influenza
+in Section 3.2 and Section 4.

@@ -1,9 +1,0 @@
-After elution, proteinase K was added (final concentration 0.2 mg/mL)
-and incubated at 37°C for 2 h before crosslink reversal
-at 65°C overnight. Precipitants were then cleaned using a standard
-phenol:chloroform:isoamyl alcohol extraction followed by isopropanol precipitation overnight. DNA was
-then resuspended in DEPC-treated water, and then the concentration was
-measured by Qubit spectrophotometer. Libraries for sequencing were then generated
-using the NEBNext Ultra II DNA Library Prep Kit, and
-sequencing was performed on the Illumina HiSeq 4000 platform at
-the Stanford Functional Genomics Facility.

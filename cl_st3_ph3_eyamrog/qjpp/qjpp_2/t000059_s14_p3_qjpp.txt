@@ -1,0 +1,8 @@
+This study has been registered at the Scientific Publications Team
+of the Institute for Health Metrics and Evaluation (IHME), University
+of Washington (ID: 1180-GBD2019-032020). This study complies with the Guidelines
+for Accurate and Transparent Health Estimates Reporting (known as GATHER)
+statement, with further information provided in the appendix (p 2)
+. All data used in this study were aggregated data
+and did not contain any individually identifiable information; therefore, no
+ethics approval or consent to participate are needed.

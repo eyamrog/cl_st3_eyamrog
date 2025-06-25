@@ -1,0 +1,20 @@
+mHealth has been used effectively for supporting the delivery of
+health services and care through community health workers, which has
+included the use of mHealth as job aides, as decision
+support systems, for data collection, and for feedback and supervision
+( 26 , 54 , 64 , 65 ). Although
+the evidence indicates that these interventions are linked to improvements
+in health care worker performance ( 2 ), the complexity
+of health care delivery, particularly in LMIC settings, and the
+interplay between human and environmental factors make it challenging to
+understand the true potential of these interventions ( 19 ).
+Furthermore, few studies on mHealth tools delivered to health workers
+have assessed the population impact, so the translation of the
+effectiveness of these tools to health outcomes is not clear.
+mHealth interventions for health care workers are integrating more complex
+technologies to enhance aspects such as detection and identification of
+disease. Although these technologies are promising for increasing the breadth
+of health care delivery that is available in resource-constrained settings,
+the barriers of digital literacy, technology issues, and access to
+network infrastructure prevent these from achieving their potential ( 19
+, 24 , 38 , 40 ).

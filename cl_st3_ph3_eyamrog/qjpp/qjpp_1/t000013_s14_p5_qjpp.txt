@@ -1,0 +1,9 @@
+DNA targets were ordered from Integrated DNA Technologies and in
+vitro-transcribed (IVT) using the HiScribe T7 High Yield RNA Synthesis
+Kit (New England Biolabs). Transcriptions were performed according to the
+manufacturer’s recommendations with a reaction volume of 20 μl that
+was incubated overnight at 37 °C. The transcribed RNA products
+were purified using RNAClean XP beads (Beckman Coulter) and quantified
+using NanoDrop One (Thermo Fisher Scientific). Depending on the experiment,
+the RNA was serially diluted from 10 down to 10
+copies μl and used as input into the amplification reaction.

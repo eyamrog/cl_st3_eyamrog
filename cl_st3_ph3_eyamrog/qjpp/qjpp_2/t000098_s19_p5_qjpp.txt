@@ -1,0 +1,27 @@
+An alternative possibility to explain restricted cAMP diffusion might be
+geometrical diffusion constraints in cells ( Richards et al., 2016
+38. Richards, M. ∙ Lomas, O. ∙ Jalink, K. ...
+Intracellular tortuosity underlies slow cAMP diffusion in adult ventricular myocytes
+Cardiovasc. Res. 2016; 110 :395-407 Crossref Scopus (48) PubMed Google
+Scholar ). To rule out a contribution of such constraints,
+we collected STICS functions for 8-F-cAMP dynamics in cytosolic preparations
+under basal conditions ( Figure 2 A) and after saturating
+binding sites with unlabeled cAMP ( Figure 2 B). A
+set of reference molecules was used, spanning a range of
+molecular weights of approximately three orders of magnitude: fluorescein alone
+(≈0.3 kDa), EGFP (≈25 kDa) ( Figure 2 C), and
+Epac1-camps-PDE4A1 (≈120 kDa) ( Figure 2 D). The diffusion coefficients
+obtained are displayed in Figure 2 E as a function
+of their molecular weights. Based on the diffusion coefficient of
+the heaviest molecule (D = 27 ± 2 μm 2
+/s), we plotted the expected D values for the other
+molecules according to the Stokes-Einstein relationship, yielding the power law
+dependence D = molecular weight (MW) −1/3 (dotted line). Interestingly,
+all molecules followed the expected free diffusion behavior, with the
+notable exception of 8-F-cAMP. Here the values are more than
+twice below the expected diffusion coefficient, indicating binding to heavier
+components of the cytosolic extracts, in the approximate average range
+of 10–50 kDa (shaded area in Figure 2 E). Strikingly,
+8-F-cAMP recovered its free diffusion value upon addition of 100
+μM unlabeled cAMP to block all presumed cAMP-binding sites in
+the cytosolic preparations ( Figures 2 and S3 ).

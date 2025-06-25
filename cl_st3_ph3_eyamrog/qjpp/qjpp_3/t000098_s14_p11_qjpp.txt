@@ -1,0 +1,27 @@
+To generate Epac1-camps-SAH10-PDE4A1 (and Epac1-camps-SAH30-PDE4A1) the SAH10 (and SAH30) linkers
+were PCR amplified from plasmids encoding systematic protein affinity strength
+modulation (SPASM) sensors published previously ( Sivaramakrishnan and Spudich, 2011
+41. Sivaramakrishnan, S. ∙ Spudich, J.A. Systematic control of protein
+interaction using a modular ER/K α-helix linker Proc. Natl. Acad.
+Sci. USA. 2011; 108 :20467-20472 Crossref Scopus (62) PubMed Google
+Scholar ), and BamHI and AscI restriction sites were introduced
+using the following set of primers (SAH10: #1: 5′-AAAAAA GGATCC
+GGAGAAGAGGAAGAGAAA -3′, #2: 5′-AAAAAA GGCGCGCC CAGAGCCCTTCTTCTTGCGTTTTTC -3′, priming sequence underlined,
+restriction sites in italics; SAH30: #3: 5′-AAAAAAA GGATCC GGAGAAGAGGAAGAGAAGAAG -3′,
+#4: 5′-AAAAAA GGCGCGCC CAGAGCCTCTTTGTTTTCTTTCTGC -3′). PCR fragments were cut with
+BamHI and AscI and cloned in frame between Epac1-camps and
+PDE4A1 using a variant of Epac1-camps-PDE4A1 ( Herget et al.,
+2008 21. Herget, S. ∙ Lohse, M.J. ∙ Nikolaev, V.O.
+Real-time monitoring of phosphodiesterase inhibition in intact cells Cell. Signal.
+2008; 20 :1423-1431 Crossref Scopus (43) PubMed Google Scholar )
+as vector. To generate Epac1-camps-PDE2A3, Epac1-camps-PDE2cat (amino acids 578-941 from
+PDE2A3), and Epac1-camps-SAH30-PDE2cat, the coding sequences of PDE2A3 and PDE2cat
+were PCR amplified and AscI and NotI restriction sites were
+inserted by using the following set of primers, respectively (PDE2A3:
+#5: 5′-AAAAAAA GGCGCGCC GGGCAGGCATGCGGCCAC -3′, #6: 5′-AAAAAA GCGGCCGC TCACTCAGCATCAAGGCT -3′;
+and PDE2cat: #7: 5′-AAAAAAA GGCGCGCC TCCGACGATGAGTATACCAAACTT -3′, 6#). The respective
+PCR products were cut with AscI and NotI and cloned
+in frame into Epac1-camps-PDE4A1 and Epac1-camps-SAH30-PDE4A1 where the PDE4A1 sequence
+was cut out with AscI and NotI. All constructs derived
+by restriction enzyme cloning were transformed and amplified in XL1-Blue
+competent E.coli (Agilent Technologies, Waldbronn, Germany).

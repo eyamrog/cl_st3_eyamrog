@@ -1,0 +1,9 @@
+To test the library-derived CC pairs as helixCAMs, we built
+four K562 cell lines that inducibly expressed each and repeated
+the pairwise aggregation experiment ( Figures 3 F and G;
+S4 ). We found that both engineered helixCAM pairs robustly
+generated patterned cell aggregates by quantifying aggregate size change (
+Figure S5 ). In particular, the sg30/sg61 pairing consistently yielded
+aggregates containing thousands of cells, and some aggregates spanned millimeters
+in length ( Figure S12 ) and were visible by
+eye ( Figure S13 ).

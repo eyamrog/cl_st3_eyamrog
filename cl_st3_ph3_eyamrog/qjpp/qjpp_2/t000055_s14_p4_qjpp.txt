@@ -1,0 +1,10 @@
+We used data released on Jan 13, 2021, from COG-UK
+to extract time-series of the percentage of daily cases resulting
+from the B.1.1.7 variant in Scotland, Wales, and each of
+the seven National Health Service (NHS) regions in England. Northern
+Ireland was excluded because of the low number of samples
+in the COG-UK dataset. These data were produced by sequencing
+a sample of PCR tests done in the community. Because
+of a delay of around 2 weeks between PCR tests
+and genomic sequencing, we used data only from samples taken
+up to Dec 31, 2020, to avoid censoring effects.

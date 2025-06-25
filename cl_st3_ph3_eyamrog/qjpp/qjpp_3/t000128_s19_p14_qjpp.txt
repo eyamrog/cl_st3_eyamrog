@@ -1,0 +1,10 @@
+Using the most orthogonal set of helixCAM pairs (P9/AP10, sg30/sg61,
+sg83/sg88), we repeated the three-pair co-culture experiment. Similar to the
+previous set, striking segregation was observed in cell aggregates (
+Figure 4 F, uninduced image in S7 ). In this
+case, quantification of interaction frequencies revealed that the new set
+had notably fewer inter-pair interactions, leading to frequent complementary interactions
+and few off-target interactions ( Figures 4 G and S17
+). These results show that, by utilizing the HCSRA results,
+it is possible to select multiple compatible helixCAMs for directing
+parallel cell adhesion events within a single culture.

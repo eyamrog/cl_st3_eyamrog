@@ -1,0 +1,17 @@
+The estimation of injury mortality and years of life lost
+(YLLs) involved several steps. First, we mapped all usable mortality
+data with different versions of ICD codes to the GBD
+causes of injuries list. We also redistributed ill-defined causes of
+deaths to the injury cause list. Second, we used the
+Cause of Death Ensemble model (CODEm) framework to generate different
+submodels on the basis of the recommended covariates. Third, we
+portioned the datasets into two sections to train and test
+the submodels, using different proportions of each dataset to test
+and train each specific model, and we developed an ensemble
+model out of the submodels. Fourth, we determined the best-performing
+model on the basis of the out-of-sample predictive validity among
+the ensemble model and submodels. Fifth, we corrected the injury-specific
+deaths to ensure internal consistency. Sixth, we calculated the rate
+of injury-specific deaths on the basis of the GBD populations.
+Finally, we calculated YLLs as the product of injury-specific death
+rates and residual life expectancy at the age of death.

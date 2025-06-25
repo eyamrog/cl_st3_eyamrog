@@ -1,0 +1,16 @@
+The choice of normalization procedure should depend on: (1) the
+initial sample (e.g., whole blood), (2) whether the RNA was
+enriched before sequencing, (3) whether the desired end product is
+mRNA/cell, mRNA/leukocyte, mRNA/total transcript, mRNA per volume of blood or
+some other value. These values will have different interpretations, for
+example, mRNA/leukocyte may be most appropriate for inferring leukocyte differentials,
+while mRNA/volume of blood may speak more to cell counts
+or systemic expression levels for the whole organism. Like most
+statistical analyses, there are numerous ways to approach normalization and
+we strongly advice investigating the advantages and constraints of each
+method before deciding which method is most appropriate for answering
+a specific question. There are a number of studies that
+describe the details of each method and provide useful insights
+on appropriate choice of RNA-seq normalization and analysis methods (Abrams
+et al., 2019 ; Evans et al., 2018 ; Zyprych-Walczak
+et al., 2015 ).

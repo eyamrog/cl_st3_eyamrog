@@ -1,0 +1,4 @@
+All data from this study including data tables that resulted
+from analyses may be found at https://pngb.io/metasub-2021 . Additionally, raw
+sequencing reads are uploaded to the SRA and may be
+found under the accession SRA ID: PRJNA732392.

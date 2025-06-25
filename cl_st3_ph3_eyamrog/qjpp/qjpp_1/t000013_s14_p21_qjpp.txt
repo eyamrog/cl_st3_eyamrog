@@ -1,0 +1,16 @@
+For droplet pooling, a total droplet pool volume of 150
+µl of droplets was used to load each standard chip;
+a total of 800 µl of droplets was used to
+load each mChip. To maximize the probability of forming productive
+droplet pairings (amplified sample droplet + detection reagent droplet), half
+the total droplet pool volume was devoted to target droplets
+and half to detection reagent droplets. For pooling, individual droplet
+mixes were arrayed in 96-well plates. A multichannel pipette was
+used to transfer the requisite volumes of each droplet type
+into a single row of eight droplet pools, which were
+further combined to make a single droplet pool. The final
+droplet pool was pipetted up and down gently to fully
+randomize the arrangement of the droplets in the pool. The
+pooling step was rapid (<10 min) and the small-molecule exchange
+between droplets during this period did not substantially alter the
+color codes.

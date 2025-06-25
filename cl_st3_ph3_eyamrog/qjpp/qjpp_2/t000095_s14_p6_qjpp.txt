@@ -1,0 +1,16 @@
+The transgenic mice (HFH4-hACE2 mice) expressing the human ACE2 protein
+(hACE2) under mixed genetic backgrounds (C3H, C57BL/6) were obtained from
+Ralph S. Baric’s lab ( Menachery et al., 2016 20.
+Menachery, V.D. ∙ Yount, Jr., B.L. ∙ Sims, A.C. ...
+SARS-like WIV1-CoV poised for human emergence Proc. Natl. Acad. Sci.
+USA. 2016; 113 :3048-3053 Crossref Scopus (293) PubMed Google Scholar
+). The HFH4-hACE2 mice were bred and maintained in specific
+pathogen free (SPF) environment at the Laboratory Animal Center of
+Wuhan Institute of Virology, CAS. Twenty-two male and twelve female
+mice at eight to ten weeks-old were used in this
+study. Littermates of the same sex were randomly assigned to
+mock, 1, 3, 5, 7 DPI and survival groups. Viral
+infections were performed in a biosafety level 3 (BSL3) facility
+in accordance with recommendations for the care and use of
+laboratory animals and the Institutional Review Board of the Wuhan
+Institute of Virology, CAS (ethics number WIVA05202003 ).

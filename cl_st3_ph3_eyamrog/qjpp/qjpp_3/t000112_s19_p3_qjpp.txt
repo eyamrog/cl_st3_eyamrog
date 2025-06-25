@@ -1,0 +1,22 @@
+Despite their global prevalence, the core taxa were not uniformly
+abundant across all cities. Many species exhibited a high standard
+deviation and kurtosis (Fisher’s definition) relative to other species (
+Figure 1 C). Some species showed distinctly high mean abundance,
+often higher than core species, but more heterogeneous global prevalence.
+For example, Salmonella enterica was identified in < 50% of
+samples but was the 12th most abundant species based on
+the fraction of DNA ascribed to it. The most relatively
+abundant microbial species was Cutibacterium acnes ( Figure 1 D),
+which had a comparatively stable distribution of abundance across all
+samples, and is a known human skin commensal. To correct
+for bias arising from uneven geographic sampling, we measured the
+relative abundance of each taxon by calculating the fraction of
+reads classified to each taxon and compared the raw distribution
+to the distribution of median abundances within each city; the
+two measures closely aligned. An examination of the positive and
+negative controls indicates that these results are not likely due
+to contamination or batch effect (see STAR Methods ). In
+total, we observed 31 core taxa (>97% prevalence), 1,145 sub-core
+taxa (70%–97% prevalence), 2,466 peripheral taxa (<25% prevalence), and 4,424
+taxa across all samples. We term the set of all
+high-confidence taxa observed in the urban panmicrobiome .

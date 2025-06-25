@@ -1,0 +1,15 @@
+Complementary helixCAM lines of either two HEK293 cell types or
+one HEK293 and one K562 are grown to 80% confluency
+on a 24-well glass-bottom plate (Mattek P24G-1.5-10-F). Doxycycline is then
+added at 500 ng/mL and cells were induced to express
+helixCAMs for 72 h. In the case of HEK293-HEK293 targeting,
+one population of HEK293 cells were trypsinized to be temporarily
+suspension cells, then added to the second still-adherent population of
+helixCAM-expressing HEK293 cells. For HEK293-K562 targeting, the K562 cells were
+directly added to the adherent HEK293 cells. The coated cells
+were allowed to incubate for 30 min then imaged (pre-wash).
+Unbound cells were then aspirated and washed with culture media
++ doxycycline twice. The cells were then imaged again (post-wash).
+For HEK293-HEK293 targeting, cells were returned to the incubator for
+an additional 24 h of growth before imaging again to
+observe the re-establishment of adherent cell morphology.

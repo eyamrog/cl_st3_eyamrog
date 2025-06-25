@@ -1,0 +1,9 @@
+Apart from the cost of the flow cytometer, expenses for
+flow cytometry can be minimized by using small samples and
+no more reagents than are necessary. Typical flow cytometry protocols
+call for 100 μl of blood and 5 μl of
+each labeled antibody. However, we have had good results with
+as little as 10 μl of blood and 0.5 μl
+of each antibody per sample, cutting the sample required and
+expense by a factor of 10 (Blackwell et al., 2021
+).

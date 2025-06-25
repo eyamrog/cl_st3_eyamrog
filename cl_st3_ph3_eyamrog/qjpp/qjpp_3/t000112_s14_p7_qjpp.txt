@@ -1,0 +1,8 @@
+For less technical purposes, we also provide web-based interactive visualizations
+of our dataset (typically broken into city-specific groups). These visualizations
+are intended to provide a quick reference for major results
+as well as an exploratory platform for generating novel hypotheses
+and serendipitous discovery. The web platform used, MetaGenScope, is open
+source, permissively licensed, and can be run on a moderately
+powerful machine (though its output relies on results from the
+MetaSUB CAP).

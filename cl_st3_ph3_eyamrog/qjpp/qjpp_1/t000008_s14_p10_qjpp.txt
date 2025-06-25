@@ -1,0 +1,10 @@
+DNA was extracted using AllPrep DNA/RNA micro kits (Qiagen) following
+the manufacturer’s instructions from participant liver biopsy samples and naïve,
+control human liver samples (iSpecimen). Samples were digested with the
+restriction enzyme KpnI, which cuts the vector genome at nucleotide
+positions 2,207 and 3,596, to separate out vector genome units
+within concatemeric forms (Supplementary Fig. 4c ). Before the droplet
+generation step of ddPCR, 5 µl of DNA at a
+concentration of 2 ng µl was incubated with 4 units
+of high-fidelity KpnI (KpnI-HF) enzyme (New England Biolabs) in the
+ddPCR reaction mixture at 37 °C for 30 min.

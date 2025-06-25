@@ -1,0 +1,17 @@
+The algorithm detects if the image area does not cover
+the entire spot. This is tested before the previously described
+algorithm is applied. For this, we use the unprocessed black
+and white images. We apply a median filter to remove
+noise outside the spot area. We then use the fill
+function. If the black spot is fully surrounded by white
+background, then the image area covers the entire spot and
+we fill the whole spot with white color. However, if
+the spot touches the edge of the image, it remains
+visible in its black color. We then count the objects
+in the image. If the spot has been turned white,
+the white background remains the only object on the image.
+Otherwise more than one object remains in the image. Such
+an image is then cropped again with an aspect ratio
+that is sufficiently large to cover the entire spot. Finally,
+spot size is determined according to the larger dimensions of
+the image.

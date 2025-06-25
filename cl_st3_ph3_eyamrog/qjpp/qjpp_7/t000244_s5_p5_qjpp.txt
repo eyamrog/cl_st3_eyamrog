@@ -1,11 +1,9 @@
-Intriguingly, we found distinct effects of direct and indirect goal
-efficacy on PEB in Study 1 but not in Study
-2. The only common pattern of both studies was that
-indirect PEB was positively predicted by indirect goal efficacy, which
-is hardly surprising as both are specified with similar behaviors
-(e.g., encourage others/discuss with others). Yet, regression analyses in Study
-2 still highlighted that indirect goal self-efficacy was the most
-important predictor for all PEB subtypes (see Hanss & Böhm,
-2010 ). We therefore suggest that, where there is no
-relevant common social identity for investigating participatory efficacy, it might
-be useful to focus on indirect goal self-efficacy.
+Several points are noteworthy. First, for private, activist, and indirect
+PEB, our results strongly support research in favor of self-efficacy
+(e.g., Doherty & Webler, 2016 ; Lee et al., 2014
+). Even when entering participatory efficacy beliefs in an active
+NGO member sample, self-efficacy remained the only predictor of private
+and indirect PEB, and still predicted activist PEB to a
+moderate degree. Our finding that participatory efficacy strongly predicts activist
+PEB among NGO members also substantiates former research (e.g., Bamberg
+et al., 2015 ; Van Zomeren et al., 2013 ).

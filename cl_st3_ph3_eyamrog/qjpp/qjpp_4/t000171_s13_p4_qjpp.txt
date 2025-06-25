@@ -1,0 +1,16 @@
+Given the complexity of the immune system, there are a
+number of ways to categorize its components for the purposes
+of simplifying reasoning and analysis. One common schema divide between
+innate and adaptive immunity (Blackwell et al., 2010 ; Garcia,
+Blackwell, et al., 2020 ; McDade, Georgiev, & Kuzawa, 2016
+). Innate immunity does not require experience with a pathogen,
+while adaptive immunity is acquired through exposure. Adaptive immunity primary
+involves T and B cells (as well as immunoglobulins), which
+undergo recombination of their receptors to generate novel variants capable
+of recognizing new pathogens. Some approaches further divide adaptive responses
+into cell-mediated and humoral responses, reflecting the differing functions and
+costs of leukocytes versus antibodies (McDade, 2003 , 2005a ).
+However, the term cellular immunity is also often used to
+encompass all cellular responses, both innate and adaptive, and the
+term humoral immunity sometimes refers to all factors in the
+serum, not just antibody (Ruoss et al., 2019 ).

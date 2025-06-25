@@ -1,0 +1,19 @@
+Lastly, we wanted to condense mCARMEN for focused clinical use
+and did so by developing a respiratory virus panel (RVP)
+to detect nine of the most clinically relevant viruses (SARS-CoV-2,
+HCoV-HKU1, HCoV-OC43, HCoV-NL63, FLUAV, influenza B virus (FLUBV), human parainfluenza
+virus serotype 3 (HPIV-3), human respiratory syncytial virus (HRSV) and
+HMPV) and a human internal control, (RNase P). These nine
+viruses were included in the RVP based on if they
+heavily circulate in the population and have capacity to cause
+respiratory virus symptoms, while others were excluded if genomic diversity
+was difficult to account for concisely, such as HRV .
+We first conducted range-determining limit of detection (LOD) studies for
+the nine viruses on the mCARMEN RVP in a research
+laboratory. The preliminary LOD was within the range of 100–1,000
+copies μl for SARS-CoV-2, FLUAV, FLUBV, HCoV-HKU1, HCoV-NL63 and HCoV-OC42
+and 1,000–20,000 copies μl for HPIV-3, HMPV and HRSV (Extended
+Data Fig. 3a and Supplementary Table 6 ), with robust
+performance from the SARS-CoV-2 crRNA and all RVP crRNAs in
+combination (median areas under the curve (AUCs) of 1 and
+0.989, respectively) (Extended Data Fig. 3b–g ).

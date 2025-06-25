@@ -1,0 +1,7 @@
+Second, we analyzed temporal variations in the first psychiatric disorder
+diagnosis in relation to the first event of self-harm. The
+proportion of patients being diagnosed with a psychiatric disorder (for
+the first time) before and after the first self-harm event
+was calculated and plotted. Prevalence ratios were calculated as the
+prevalence of psychiatric disorder diagnosis before self-harm divided by prevalence
+of psychiatric disorder after self-harm.

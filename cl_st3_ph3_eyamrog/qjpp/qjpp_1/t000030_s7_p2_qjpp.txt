@@ -1,0 +1,11 @@
+Influenza surveillance is an important public health activity. Influenza surveillance
+data can be used to signal the start and end
+of an influenza season, to describe the impact of influenza
+seasons, and to indicate the impact of control and mitigation
+measures. Laboratory-based influenza surveillance can also provide samples of circulating
+strains in different parts of the world, which is useful
+for making decisions on vaccine strain selection and for monitoring
+the prevalence of resistance to antiviral drugs. The World Health
+Organization (WHO) Global Influenza Surveillance Network (GISN) was founded in
+1952 and renamed the Global Influenza Surveillance and Response System
+in 2011 to coordinate global surveillance activities ( 99 ).

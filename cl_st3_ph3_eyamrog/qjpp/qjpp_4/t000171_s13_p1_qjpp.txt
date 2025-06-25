@@ -1,0 +1,6 @@
+The immune system is extraordinarily complex and a full accounting
+of its components and functioning is outside the scope of
+this review. (A number of excellent textbooks are available on
+this subject, such as [Parham, 2021 ]). However, we briefly
+summarize some major components, which are also listed in Table
+1 .

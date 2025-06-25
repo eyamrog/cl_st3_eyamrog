@@ -1,0 +1,16 @@
+Library pools were de-multiplexed with the standard Illumina pipeline. Reads
+were trimmed twice by cutadapt ( Martin, 2011 51. Martin,
+M. Cutadapt removes adapter sequences from high-throughput sequencing reads 17
+Google Scholar ) to remove NexteraXT indexes and SMARTer 3¢
+CDS primer IIA and 5¢ IIA oligonucleotide sequences. Trimmed reads
+were mapped to mouse genome (mm10) reference library with the
+addition of Egfp , Tdtomato and ERCC spike-in control references.
+Alignments were performed using STAR 2.4.1 ( Dobin et al.,
+2013 21. Dobin, A. ∙ Davis, C.A. ∙ Schlesinger, F.
+... STAR: ultrafast universal RNA-seq aligner Bioinformatics. 2013; 29 :15-21
+Crossref Scopus (25615) PubMed Google Scholar ) and expression count
+quantitated using RSEM ( Li and Dewey, 2011 46. Li,
+B. ∙ Dewey, C.N. RSEM: accurate transcript quantification from RNA-Seq
+data with or without a reference genome BMC Bioinformatics. 2011;
+12 :323 Crossref Scopus (13399) PubMed Google Scholar ) using
+default parameters.

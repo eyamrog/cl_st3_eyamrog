@@ -1,0 +1,2 @@
+Library pools were paired-end sequenced at 2x150 base pair on
+an Illumina NextSeq500 platform.

@@ -1,0 +1,17 @@
+A key distinction between reproducibility and replication is that reproducibility
+does not allow for any real variation in the results.
+If an independent investigator were to reproduce the results of
+another investigator with the original data and code, there should
+not be any variation between the two investigators’ results, except
+for some allowance for differences in machine precision. Thus, exact
+reproducibility is sometimes referred to as “bitwise reproducibility” ( 32
+). However, replication generally allows for differences in results that
+arise from statistical variability. Two independent investigators conducting the exact
+same experiment should, in theory, differ only by an amount
+quantified by the standard deviation of the data. More generous
+definitions of replication allow for slightly different study designs, analytic
+populations, or statistical techniques ( 32 ). In those cases,
+differences in results may arise beyond simple statistical variation. Patil
+et al. ( 35 ) have devised a useful visualization
+of what may or may not differ when reproducing or
+replicating a published study.

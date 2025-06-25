@@ -1,0 +1,16 @@
+The strength of our trial is the random assignment of
+patients to receive ctDNA-guided or standard treatment. However, there are
+several limitations. The trial was adequately powered to address the
+primary end point, but a larger trial might have provided
+more definitive findings for specific patient subgroups. We did not
+examine the effect of a ctDNA-guided approach beyond the initial
+decision for adjuvant chemotherapy, because this would have compromised the
+trial end points. We did not randomly assign the ctDNA-positive
+and ctDNA-negative patients to receive treatment or no treatment, a
+trial design that would have provided more definitive evidence of
+the effect of treatment or lack thereof in each subgroup.
+Multiple other groups are exploring additional ways in which ctDNA
+analysis could inform adjuvant therapy for nonmetastatic colon cancer, including
+therapeutic approaches in patients who remain ctDNA-positive after completing standard
+adjuvant therapy (e.g., ClinicalTrials.gov numbers, NCT03803553 and NCT03832569 , among
+other studies ). Data from these studies are eagerly awaited.

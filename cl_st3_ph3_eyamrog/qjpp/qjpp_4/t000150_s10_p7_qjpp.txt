@@ -1,0 +1,24 @@
+Direct observation is a method by which a trained observer
+watches participants in the study and classifies their behavior according
+to predetermined criteria (eg, time spent in specific sedentary behavior
+contexts or time spent in specific postures) for a particular
+length of time. Direct observation is one of the oldest
+and most basic methods for measuring sedentary behavior, and is
+still used to this day for validation of novel sedentary
+behavior techniques (such as accelerometers; Giurgiu et al., 2020 ;
+Kozey-Keadle et al., 2011 ) and for measurement in particular
+populations, such as hunter-gatherers (Raichlen et al., 2020 ) and
+older inpatients with cognitive impairments (Belala, Maier, Heldmann, Schwenk, &
+Becker, 2019 ). Direct observation has strengths in the ability
+to measure posture, breaks in sedentary time, context for the
+behaviors, low equipment requirement, potential for high validity and reliability,
+and ability to distinguish between “non-ambulatory” postures such as chair-sitting,
+ground-sitting, kneeling, and squatting. However, while it is intended to
+be objective, it does rely on the intra- and inter-rater
+reliability of assessors and is significantly burdensome for everyone involved.
+This is due to the time commitment for continuous observation
+for the researcher and impact on privacy for the participant
+(Loprinzi & Cardinal, 2011 ). The continuous observation is also
+likely to change participant behavior, thereby reducing ecological validity. As
+such, it is more common and feasible to objectively measure
+sedentary time using device-based measurements rather than direct observation.

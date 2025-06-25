@@ -1,0 +1,26 @@
+The immune system is fundamental to understanding health. Immune function
+measures are useful for assessing a broad range of characteristics,
+at both the population-level (i.e., infection prevalence (Blackwell et al.,
+2011 ); maintenance of immunity [Demonbreun et al., 2021 ])
+and individual-level (i.e., informing clinical care [Cals et al., 2010
+]). Immune characterization is also central to studies investigating life
+history allocations (Blackwell et al., 2010 ; McDade et al.,
+2008 ; Urlacher et al., 2018 ), behavioral responses (Cepon-Robins
+et al., 2021 ), and interactive effects of infection on
+other disease risks (Schneider-Crease et al., 2021 ). However, capturing
+the complexity of the immune system and its function outside
+of a clinical setting presents challenges, primarily arising from limitations
+on sample collection, preservation, and transport (Blackwell et al., 2021
+). Blood is the primary tissue used to analyze immune
+function, but blood collection from venous samples typically requires a
+trained phlebotomist and participants comfortable providing venous blood. As an
+alternative, finger prick blood collection is easily accomplished with limited
+training (McDade et al., 2007 ). With practice, a finger
+prick can typically provide ~250 to 500 μl of blood,
+especially with high-flow lancets (we prefer the blue BD Microtainer
+Contact-Activated Lancets #366594; Becton, Dickinson and Company). By using small
+samples and preservation methods such a drying, freezing, or mixing
+with stabilizers, sample transport from finger prick samples is simplified,
+relative to large venous draws or analyses with fresh blood.
+Finger prick blood can even be collected and mailed by
+participants themselves (e.g., Demonbreun et al., 2021 ).

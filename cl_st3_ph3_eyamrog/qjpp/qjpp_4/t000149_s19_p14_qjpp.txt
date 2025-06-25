@@ -1,0 +1,7 @@
+Multivariable logistic regression models for the prediction of episiotomy and
+cesarean delivery are given in Table 5 . Due to
+the low sample size available for BMI in pregnancy, this
+variable was initially excluded from the models. When husband's education
+was included in models, associations for maternal education were non-significant,
+hence only husband's education was retained. However, maternal education showed
+broadly similar associations.

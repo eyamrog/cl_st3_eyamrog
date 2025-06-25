@@ -1,0 +1,4 @@
+All in vivo animal procedures were performed in accordance with
+institutional guidelines under protocols approved by the Institutional Animal Care
+and Use Committees of the Buck Institute (mice) and the
+Charles River Laboratories facility (monkeys).

@@ -1,0 +1,6 @@
+Methods: This toolkit outlines objective (device-based) and subjective (self-report) methods
+for measuring sedentary behavior in free-living contexts, the benefits and
+drawbacks to each, as well as novel options for combined
+use to maximize scientific rigor. Throughout this toolkit, emphasis is
+placed on considerations for the use of these methods in
+various field conditions and in varying cultural contexts.

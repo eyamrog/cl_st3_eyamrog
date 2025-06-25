@@ -1,0 +1,10 @@
+Here, we examined the diversification of neutrophil properties in tissues.
+We found that the lifetime of neutrophils in multiple tissues
+extends at least as long as their time in circulation,
+thus providing time for adaptation to local environments, which we
+demonstrate by protein, transcript, and epigenetic profiling. These analyses allowed
+us to identify non-canonical functions for neutrophils and to show
+that, in the lung, tissue-specific programming demands chemokine-guided positioning in
+instructing niches. Our findings demonstrate that, despite limited residence times
+in tissues, neutrophils can tailor their properties to support organ
+homeostasis.

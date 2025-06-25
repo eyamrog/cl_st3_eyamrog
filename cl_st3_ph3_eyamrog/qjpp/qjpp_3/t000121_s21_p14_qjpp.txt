@@ -1,9 +1,0 @@
-To ascertain whether the observed HR1-C density was affected by
-applied symmetry to the map, we calculated an asymmetric structure
-of hVLP-Env at 10.7 Å resolution ( Figure S3 ;
-Table 1 ). The asymmetric structure ( Figure 5 B)
-appears overall similar to the 3-fold symmetrized map ( Figure
-5 A). Partial density for the HR1-C helices is consistently
-present across all 3 protomers in the asymmetric structure, with
-near-complete density for HR1-C observed in 1 protomer ( Figure
-5 B).

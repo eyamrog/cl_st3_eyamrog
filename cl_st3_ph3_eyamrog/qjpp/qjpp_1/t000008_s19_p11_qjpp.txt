@@ -1,0 +1,14 @@
+In addition to serving as an ER-specific marker, GRP78 directly
+interacts with human FVIII protein, aiding its folding and secretion,
+and elevated levels of GRP78 are indicative of ER stress.
+Studies in mice have shown that hepatocytes expressing B-domain-deleted FVIII
+(from vectors incorporating a stronger hepatic-specific promoter than is used
+in valoctocogene roxaparvovec) may mount an unfolded protein response, potentially
+inducing ER stress. To investigate the possibility of ER stress
+in our samples, fluorescence signals for GRP78 and FVIII protein
+colocalized in ER were quantified on a per-cell basis. Within
+individual samples, hepatocytes with detectable hFVIII-SQ protein staining in the
+ER did not have elevated expression of GRP78 compared to
+hepatocytes without hFVIII-SQ staining in the ER (Fig. 4b ),
+suggesting that hFVIII-SQ protein expression derived from valoctocogene roxaparvovec did
+not elicit ER stress in these cells.

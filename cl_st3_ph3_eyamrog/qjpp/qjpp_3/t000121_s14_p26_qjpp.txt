@@ -1,8 +1,0 @@
-The final model of hVLP-Env, as generated above, was used
-for rigid body fitting into the other sub-tomogram averaged maps
-of asymmetric hVLP-Env and immature hVLP-Env. All rigid body fitting
-procedures were carried out using UCSF Chimera ( Pettersen et
-al., 2004 65. Pettersen, E.F. ∙ Goddard, T.D. ∙ Huang,
-C.C. ... UCSF Chimera--a visualization system for exploratory research and
-analysis J. Comput. Chem. 2004; 25 :1605-1612 Crossref Scopus (33470)
-PubMed Google Scholar ).

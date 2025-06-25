@@ -1,0 +1,10 @@
+The UK Biobank resource includes measurements for 30 blood serum
+and four urine biomarkers. We found no difference in any
+of these biomarkers between pLoF carriers and noncarriers (Supplementary Table
+9 and Supplementary Fig. 1 ). In particular, there was
+no difference between carriers and noncarriers for urine biomarkers transformed
+into clinical measures of kidney function (Fig. 4a and Methods
+) and no difference in six blood biomarkers commonly used
+to assess liver function (Fig. 4c ). We also observed
+no difference in spirometry measurements of lung function (Fig. 4b
+).

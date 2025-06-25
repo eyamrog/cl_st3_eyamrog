@@ -1,0 +1,10 @@
+Other approaches group aspects differently, for example a pattern of
+gene expression dubbed the conserved transcriptional response to adversity (CTRA;
+Cole, 2019 ) has components representing antibody response, type 1
+interferon responses (viral responses), and general proinflammatory responses. Approaches also
+sometimes differentiate between constitutive defenses and induced defenses (Heinrich et
+al., 2017 ; Schmid-Hempel & Ebert, 2003 ). Still other
+approaches look at responses to specific classes of infection, for
+example, viral versus bacterial stimuli or indicators of responses specific
+to parasitic infections (Blackwell et al., 2010 ; Harrison et
+al., 2019 ; Trumble et al., 2016 ).

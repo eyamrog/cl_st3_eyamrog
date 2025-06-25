@@ -1,9 +1,0 @@
-Tissue sections were incubated in primary antibodies (Supplementary Table 2
-) diluted in 5% normal donkey serum in Tris-buffered saline
-with 0.5% Triton X-100 (TBS-T) overnight at 4 °C. The
-sections were then washed in TBS-T three times and incubated
-with the corresponding secondary antibodies (Supplementary Table 3 ) for
-1 h. After three washes in TBS-T, the sections were
-mounted in aqueous medium (Fluoromount G, Southern Biotech) and imaged
-using a Leica SP8 confocal microscope. Images were analyzed using
-LAS X and ImageJ software packages.

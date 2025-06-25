@@ -1,0 +1,14 @@
+Using the HCSRA, the Δt 50 for all self and
+pairwise helixCAM interactions were measured, along with interactions with wild-type
+K562 cells ( Figure 4 B). It was noted that
+the Δt 50 values for interactions between the original six
+helixCAMs correlated with interaction frequencies derived from microscopy ( Figure
+4 C), with an R 2 of 0.624 and a
+linear model p value of 0.0005. The agreement of the
+HCSRA Δt 50 values to the microscopy-derived interaction frequency supports
+the intended function of HCSRA as a readout for the
+affinity between cells. Additionally, we observed that, in agreement with
+microscopy observations, both library-derived helixCAM pairs demonstrated high affinity and
+specificity ( Figure 4 D). Indeed, the mean HCSRA value
+measured for the sg30/sg61 pair surpasses that of the previous
+highest-affinity pair, Z17/Z18 (3.43–2.38 respectively, p value = 0.19).

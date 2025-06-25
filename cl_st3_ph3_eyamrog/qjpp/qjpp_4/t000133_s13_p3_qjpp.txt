@@ -1,0 +1,11 @@
+While measuring hydration biomarkers in 24-hour urine samples provides the
+most accurate measure of daily hydration status, this method is
+often hard to implement in field settings where only spot
+sampling is possible. First morning samples are often used as
+well as early afternoon samples, which according to Perrier et
+al. ( 2013 ) most accurately reflect 24-hour sample averages.
+Another method is to statistically adjust for time of day
+and run sensitivity analyses between the different times of day
+to make sure that the relationship being tested is consistent
+across the day (Rosinger et al., 2019 ; Rosinger, Lawman,
+Akinbami, & Ogden, 2016 ).

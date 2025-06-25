@@ -1,0 +1,16 @@
+Blackwell et al. ( 2016 ) used flow cytometry to
+characterize leukocyte subtypes in participants as part of the Tsimane
+Health and Life history Project (THLHP). For that project, a
+small Accuri C6 (Becton, Dickinson and Company) flow cytometer was
+taken to Bolivia for use in the THLHP field clinic
+(Figure 1D ). In this study, venous blood was collected
+from participants and analyzed fresh using flow cytometry. While analyzing
+fresh samples is ideal and it is certainly more convenient
+to avoid transporting samples, this setup presents a number of
+challenges. First, a flow cytometer must be available for transport,
+which precludes the use of core facilities. Second, reagents require
+refrigeration, and may be unavailable in country, and thus require
+temperature-controlled transport and storage. Third, if the instrument requires maintenance,
+it may be difficult to obtain service in country (team
+members took ours from Bolivia to Chile for service). Finally,
+a clean area with regular power is needed for analyses.

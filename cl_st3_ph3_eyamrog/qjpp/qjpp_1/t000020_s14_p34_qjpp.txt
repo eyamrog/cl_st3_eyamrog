@@ -1,0 +1,4 @@
+As a positive control for age analysis, we tested the
+apolipoprotein E (APOE) Alzheimer’s disease risk allele rs429358, which has
+a known effect on lifespan. This effect is highly significant
+in this dataset ( P = 1.2 × 10 ).

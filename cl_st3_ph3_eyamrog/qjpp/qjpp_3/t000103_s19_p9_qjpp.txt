@@ -1,0 +1,21 @@
+To elucidate the mechanism of neutralization for human anti-EEEV mAbs,
+we focused on two potently inhibitory mAbs, EEEV-33 (IgG1; domain
+A) and EEEV-143 (IgA1; domain B). Entry blockade was assessed
+by incubating mAbs with SINV/EEEV, allowing the virus to bind
+and internalize into cells at 37°C, and followed by extensive
+washing to remove unbound virus and mAb ( Figures 4
+A and 5 A). This approach limits exposure of virus
+to mAb at the attachment, entry, and fusion steps of
+the infection cycle ( Fox et al., 2015 26. Fox,
+J.M. ∙ Long, F. ∙ Edeling, M.A. ... Broadly Neutralizing
+Alphavirus Antibodies Bind an Epitope on E2 and Inhibit Entry
+and Egress Cell. 2015; 163 :1095-1107 Full Text Full Text
+(PDF) Scopus (84) PubMed Google Scholar ; Jin et al.,
+2015 47. Jin, J. ∙ Liss, N.M. ∙ Chen, D.H.
+... Neutralizing Monoclonal Antibodies Block Chikungunya Virus Entry and Release
+by Targeting an Epitope Critical to Viral Pathogenesis Cell Rep.
+2015; 13 :2553-2564 Full Text Full Text (PDF) Scopus (46)
+PubMed Google Scholar ). A similar neutralization potency was observed
+compared to experiments in which the mAb was present at
+all stages, including egress, suggesting these mAbs act at one
+of the early entry stages of virus infection.

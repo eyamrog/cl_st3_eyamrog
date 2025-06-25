@@ -1,0 +1,15 @@
+Model validation provides information on the performance and reliability of
+the projection model. We validated our approach by withholding the
+most recent 10 years of observed incidence data and the
+most recent 15 years of mortality data from the model
+fitting and then comparing the projected rates for those years
+with the actual observed rates. Validations for all cancers combined
+and for 21 individual cancer types showed that the uncertainty
+intervals of projected rates generally captured the observed rates, with
+only small absolute differences (median 0·3 [range 0·0–8·6] cases per
+100 000 population for incidence and 0·2 [0·0–2·4] deaths per
+100 000 population for mortality), suggesting that the approach provides
+valid 10-year projections for incidence and 15-year projections for mortality
+( appendix pp 19–21 ). Baseline projections for cancer mortality
+rates were compared with previously published projections reported in the
+global study by Foreman and colleagues.

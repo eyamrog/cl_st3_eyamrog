@@ -1,0 +1,9 @@
+Data on patterns of hepatic transduction of AAV vectors in
+humans have been lacking . In animals, there is evidence
+that transduction patterns may be species and capsid dependent and
+coincide with lobular distribution of AAV uptake receptors (Supplementary Fig.
+2a ). We demonstrated unbiased distribution of AAV5-hFVIII-SQ vector genomes
+in human liver biopsy samples, similar to that observed in
+NHPs (Supplementary Fig. 7 ) and consistent with an even
+distribution of AAV5 uptake receptors in normal human liver (Supplementary
+Fig. 2b ).

@@ -1,0 +1,9 @@
+Figure 2 shows the distribution of the spot area that
+was calculated using AMoSS per each number of punches that
+could be obtained from one DBS. The larger the spots,
+the more punches could be collected. For most DBS spots,
+only one punch could be taken. We observe the smallest
+spots for DBS that yielded only one punch. The distribution
+of spot sizes across all spots (“Total” in Figure 2
+) is right skewed, which is mainly driven by the
+spots with only one punch.

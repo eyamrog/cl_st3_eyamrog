@@ -1,0 +1,12 @@
+For the Human Cell Sedimentation Rate Assay (HCSRA), 1.75x10 5
+of each cell line to be tested (or 3.5x10 5
+for self-interaction) was added to 150uL of culture media with
+or without doxycycline. The cells were cultured in a specific
+ultra-low-adhesion v-bottom plate (SBio MS-9096VZ), which has the right v-bottom
+curvature allowing this assay to work. The cells were allowed
+to interact for 48 h on an orbital shaker at
+150rpm. To measure, the cells were resuspended using 15 s
+of shaking at 900rpm, then immediately placed into a plate
+reader (Molecular Devices M5) on the same bench, and kinetic
+OD650 was measured over 15 min. The data is then
+exported and analyzed in MATLAB.

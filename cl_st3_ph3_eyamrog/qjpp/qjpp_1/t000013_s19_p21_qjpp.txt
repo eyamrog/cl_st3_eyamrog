@@ -1,0 +1,21 @@
+All of the RVP viral targets individually had 100% NPA,
+and all, except HMPV, had >95% PPA to their respective
+previous comparator assay result, exceeding the minimum clinical performance set
+by the FDA (Fig. 3d ). Of the 137 previously
+positive clinical results, mCARMEN correctly detected viral nucleic acids 95%
+(130 out of 137) of the time. For specimens that
+were evaluated concurrently, mCARMEN and the comparator assay had 9
+discordant results (128 out of 137) with equivalent sensitivity to
+prior results for all but the HMPV specimens; BioFire did
+not detect virus in 3 specimens (1 FLUAV, 1 FLUBV
+and 1 HRSV) and mCARMEN did not detect virus in
+6 specimens (1 FLUAV, 1 FLUBV, 1 HRSV and 3
+HMPV). Both mCARMEN and BioFire identified 5 specimens with coinfections
+(HCoV-NL63 in a FLUAV specimen, HPIV-3 in a FLUBV specimen,
+HCoV-HKU-1 in 2 HRSV specimens and HCoV-NL63 in an HRSV
+specimen). Together with the original clinically detected coinfection, there were
+6 (1.1%) coinfections in our specimen set (Extended Data Fig.
+5c ). Overall, mCARMEN and BioFire were 99.4% (1,485 out
+of 1,494 individual tests) concordant (Fig. 3e and Extended Data
+Fig. 7 ). For the contrived samples, mCARMEN correctly identified
+99% (148 out of 150) (Fig. 3e ).

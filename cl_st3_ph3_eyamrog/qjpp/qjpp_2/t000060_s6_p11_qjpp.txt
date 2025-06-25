@@ -1,7 +1,0 @@
-Third, although we used methods to correct for both non-random
-sample attrition and non-random response to the SCQ, this reweighting
-approach will not address the under-representation of immigrants arriving in
-Australia after 2011 (the time of the last refreshment sample).
-Further, the restriction of analysis to those living in private
-dwellings means older adults who had moved into supported accommodation
-during the previous 20 years were not in scope.

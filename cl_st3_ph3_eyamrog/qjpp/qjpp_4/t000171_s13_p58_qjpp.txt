@@ -1,0 +1,16 @@
+Lang et al. ( 2011 ) used ALB2 for initial
+normalization, to obtain a ratio of sjTREC per total nucleated
+cells. They also quantified the unrearranged configuration of the VD
+junction region (VD-J) of the TCR-β, which is the version
+present in non-T cells. By subtracting the estimate of non-T
+cells from total cells they were able to obtain an
+estimate of T cells, and ultimately calculate an sjTREC/T cell
+ratio. As with the RNA-seq assays above, the choice of
+normalization alters interpretation. If peripheral cells replicate, for example in
+response to infection, then the sjTREC/T cell ratio will go
+down, even though thymic output might actually increase. Thus, some
+advocate for measuring sjTREC/ml (Lorenzi et al., 2008 ). An
+alternative approach when blood volume is not precise is to
+measure sjTREC/cell by PCR and use a point-of-care device to
+measure total leukocyte count. Multiplying sjTREC/cell times cell count will
+yield sjTREC/ml.

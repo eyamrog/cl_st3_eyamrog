@@ -1,0 +1,22 @@
+We begin by defining criteria for a chronic infection. In
+clinical settings, a chronic infection is often defined as one
+with both prolonged shedding of viral RNA and evidence of
+infectious virus, either through virus isolation in tissue culture or
+via detection of subgenomic RNA. However, when surveying various studies
+reporting chronic infection, we noted a lack of standardization, with
+different studies defining chronic infections somewhat inconsistently. Hence, we expanded
+our focus to include patients displaying high-viral-load (VL) shedding for
+20 or more days while mining the literature for all
+such cases that were accompanied by longitudinal whole-genome sequencing of
+the virus ( Methods ). The criterion of 20 days
+was based on a meta-analysis of the duration of viral
+shedding (defined as a positive nasopharyngeal polymerase chain reaction (PCR)
+test) across thousands of patients diagnosed until June 2020, which
+revealed that mean duration of upper respiratory tract shedding was
+around 17 days, with a 95% confidence interval ranging from
+15.5 days to 18 days . Of note, shedding of
+replication-competent virus lasted markedly less than 20 days. Moreover, estimates
+of viral shedding are different in some of the more
+recently detected SARS-CoV-2 variants, such as Delta and Omicron ,
+yet, as described below, our analysis focused on variants that
+were found in earlier stages of the pandemic.

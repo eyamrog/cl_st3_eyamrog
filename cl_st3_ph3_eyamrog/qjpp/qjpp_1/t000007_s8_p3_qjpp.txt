@@ -1,0 +1,9 @@
+Much interest has arisen in cases of chronic infection since
+the first emergence of VOCs. One major hypothesis that was
+proposed when the Alpha VOC was first discovered, and, more
+recently, with the rise of the Omicron variant, was that
+these variants evolved due to selection pressure created during chronic
+infections . More specifically, the hypothesis posited that strong selection
+for antibody evasion mutations may occur in immunocompromised individuals with
+chronic infection who are treated with convalescent plasma (CP) or
+monoclonal antibodies (mAbs), collectively denoted here as antibody-based treatments (ABTs).

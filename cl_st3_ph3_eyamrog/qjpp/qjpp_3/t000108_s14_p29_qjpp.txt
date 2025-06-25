@@ -1,0 +1,16 @@
+Anonymized left lower limb and tail samples from 16-week-old female
+wild-type and knockout mice were stored in 70% ethanol at
+4þC, and randomly assigned to batches for rapid-throughput analysis (n
+= 2-6 mice per line). Overall, 19 skeletal parameters were
+determined for each individual mouse studied. Depending on the precise
+genetic background of the mutant line, parameters were compared to
+reference data obtained from either 320 16-weeks-old wild-type C57BL/6NTac female
+mice or 99 16-weeks-old wild-type C57BL/6Dnk female mice ( Table
+S2 ). Coefficients of variation for each skeletal parameter were:
+femur BMC (2.0%) and length (2.1%); vertebra BMC (2.1%) and
+length (2.3%); trabecular bone volume/tissue volume (18.5%), trabecular number (7.3%),
+trabecular thickness (7.9%) and trabecular spacing (8.3%); cortical bone thickness
+(4.3%), internal diameter (6.0%) and BMD (4.0%); femur yield load
+(13.2%), maximum load (10.0%), fracture load (29.0%), stiffness (13.7%) and
+energy dissipated before fracture (26.7%); and vertebra yield load (13.0%),
+maximum load (10.3%) and stiffness (13.3%).

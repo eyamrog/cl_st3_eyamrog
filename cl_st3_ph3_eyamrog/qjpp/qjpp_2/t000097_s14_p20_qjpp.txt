@@ -1,0 +1,5 @@
+The Kaplan-Meier curve for overall survival (OS) and relapse free
+survival (RFS) was generated for TREM2 dichotomized by 75% quantile
+of TREM2 expression into high/low TREM2 expression group. The log-rank
+test was applied to test the survival difference between high/low
+TREM2 expression.

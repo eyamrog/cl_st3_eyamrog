@@ -1,0 +1,24 @@
+Among 577 patients who could be evaluated in a prespecified
+analysis to examine interim response, the percentage of patients with
+slow-responding lesions according to the interim PET assessment was similar
+in the brentuximab vedotin group and the standard-care group (18.8%
+and 19.3%, respectively) (Table S2B). The percentage of patients with
+a complete metabolic response at the completion of chemotherapy was
+likewise similar in the brentuximab vedotin group and the standard-care
+group (89.7% and 86.7%, respectively). Post hoc analysis indicated that
+patients who received the brentuximab vedotin–based regimen and had slow-responding
+lesions according to the interim PET assessment had a 3-year
+event-free survival of 90.7%, as compared with 68.3% among the
+patients who received the standard regimen and had slow-responding lesions
+according to the interim PET assessment (hazard ratio for event
+or death, 0.28; 95% CI, 0.10 to 0.76) ( Figure
+3 and Fig. S2). Among those with rapid-responding lesions, 3-year
+event-free survival was 92.3% in the brentuximab vedotin group and
+85.7% in the standard-care group (hazard ratio, 0.48; 95% CI,
+0.27 to 0.84). Although the percentage of patients with large
+mediastinal masses who had rapid-responding lesions according to the interim
+PET assessment was similar in the brentuximab vedotin group and
+the standard-care group (39.4% and 41.8%, respectively), the hazard of
+an event or death differed among patients who received the
+brentuximab vedotin–based regimen and among those who received standard care
+(hazard ratio, 0.34; 95% CI, 0.14 to 0.80).

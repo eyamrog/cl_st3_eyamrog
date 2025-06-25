@@ -1,0 +1,20 @@
+In assessments of hFVIII-SQ vector genome transcriptional efficiency, hFVIII-SQ RNA
+was detected in all participants. In general, higher levels of
+hFVIII-SQ RNA were observed at higher doses of AAV5-hFVIII-SQ, regardless
+of the endogenous housekeeping genes used for normalization (Fig. 2a
+and Extended Data Fig. 4a–c ), resulting in RNA/DNA ratios
+that followed the same pattern for each participant (Fig. 2b
+). Notably, however, at the same dose level of AAV5-hFVIII-SQ
+(4 × 10 vg per kg body weight), participant 15
+had approximately tenfold lower hFVIII-SQ RNA levels than participant 11,
+while transduction of hFVIII-SQ vector genome DNA appeared equally effective,
+as reported above; the RNA/DNA ratio was therefore correspondingly low
+in participant 15 (Fig. 2b ). The lower RNA level
+in participant 15 was a result of both a lower
+percentage of hepatocytes expressing hFVIII-SQ RNA (Fig. 2c ) and
+less hFVIII-SQ RNA produced per cell (Fig. 2d ). hFVIII-SQ
+RNA data quantified by ddPCR correlated with total hFVIII-SQ RNA
+in situ hybridization (RISH) area signal (Extended Data Fig. 4d
+). These findings are consistent with a marked difference between
+the two participants in plasma FVIII activity reported at the
+time of biopsy (Table 1 ).

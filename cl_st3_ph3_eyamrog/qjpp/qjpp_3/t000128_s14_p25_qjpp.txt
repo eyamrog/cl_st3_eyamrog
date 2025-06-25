@@ -1,0 +1,13 @@
+To explore the effect of helixCAM expression on cell viability,
+each of the ten single-helixCAM lines was individually seeded and
+sampled over four days to measure cell count and viability.
+For each line, 4x10 5 cells were seeded into wells
+in 24-well plates along with 750uL of culture media either
+with or without 500 ng/mL of doxycycline, in triplicates. At
+five separate time points (0, 1, 2, 3, and 4
+days after seeding), 10uL of cells from each well was
+mixed with 10uL of 0.4% Trypan Blue Stain (NanoEntek EBT-001),
+from which 10uL was taken out and loaded into a
+disposable cell counting slide (NanoEntek E1020). The cell count and
+viability are then measured with a ThermoFisher Countess II automated
+cell counter.

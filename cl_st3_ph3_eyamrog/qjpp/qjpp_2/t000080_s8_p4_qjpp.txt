@@ -1,0 +1,7 @@
+Tezacaftor is a CFTR corrector that ameliorates the defects in
+CFTR protein processing and cell-surface trafficking intrinsic to Phe508del .
+Because Phe508del CFTR proteins also possess gating defects, modulation requires
+both correction and potentiation. In patients heterozygous for Phe508del and
+specific residual function mutations, the combination of tezacaftor and ivacaftor
+improved lung function and sweat chloride concentrations as compared with
+ivacaftor alone.

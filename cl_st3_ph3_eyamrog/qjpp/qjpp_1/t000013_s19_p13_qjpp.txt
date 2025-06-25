@@ -1,0 +1,16 @@
+Additionally, we used unbiased metagenomic NGS as a metric to
+evaluate RVP performance. As controls for NGS, we sequenced a
+set of true SARS-CoV-2-negative specimens (that is, negative by all
+three results, RVP and 2× RT–qPCR) ( n = 16))
+and true SARS-CoV-2-positives ( n = 15) with a range
+of Ct values (15–34) (Extended Data Fig. 4e and Supplementary
+Table 5 ). Fifteen out of the 16 true negatives
+had no more than 2 reads mapped to the SARS-CoV-2
+genome, in line with <10 reads expected for negative specimens,
+while 1 specimen had 11 reads by NGS (an average
+of approximately 8.8 million reads per specimen). All true positive
+specimens had >10 aligned viral reads, ranging from 16 to
+802,306 reads, by NGS (100% sensitivity). Only specimens with Ct
+values <25 ( n = 8) were able to assemble
+complete genomes, while specimens with Ct values >25 ( n
+= 7) had <200 reads mapped to SARS-CoV-2.

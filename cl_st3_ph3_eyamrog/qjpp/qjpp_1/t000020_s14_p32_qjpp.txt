@@ -1,0 +1,7 @@
+During initial selection and sequencing, expansion of the database led
+to inclusion of a number of additional individuals genotyped for
+one of the pLoF variants, rs183902574. We performed custom calling
+on these individuals and found 354 deemed as high-confidence carriers
+(Supplementary Table 4 ). As these individuals were not Sanger
+sequenced, all subsequent analyses were performed both including and excluding
+these individuals.

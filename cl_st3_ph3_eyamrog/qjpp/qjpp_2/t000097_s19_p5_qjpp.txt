@@ -1,0 +1,18 @@
+Macrophage subsets were grouped in clusters 0, 1, 2, 3,
+4, 6, and 8 ( Figures S2 A–S2D). Some clusters
+were designated based on the expression of a characteristic marker
+such as CX 3 CR1-Macs-g, Mrc1-Macs-g, Nos2-Macs-g, and Cycling-Macs-g (Mki67
++ ). Other clusters were simply identified as Macs-1-3-g, as
+they expressed a constellation of markers rather than an archetypal
+macrophage marker. All clusters were further labeled with a “g”
+to indicate that they were identified in a comparison between
+tumor-bearing mice with different genotypes (WT and Trem2 –/– ).
+We noticed that CX 3 CR1-Macs-g, Mrc1-Macs-g, Cycling-Macs-g, and Macs3-g
+were relatively meagerly represented in Trem2 –/– tumors, whereas the
+Macs1-g cluster predominated ( Figures S2 B–S2D). Moreover, T cells
+(cluster 9) and NK cells (cluster 5) were enriched in
+Trem2 –/– mice ( Figures S2 B and S2C). This
+initial evaluation established that lack of TREM2 impacts both myeloid
+and lymphoid tumor infiltrates. Moreover, TREM2 was expressed in all
+macrophage clusters, although at different levels, while it was absent
+in DCs and lymphoid cells ( Figure S2 E).

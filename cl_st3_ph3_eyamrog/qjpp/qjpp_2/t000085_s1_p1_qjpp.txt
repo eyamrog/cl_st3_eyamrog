@@ -1,0 +1,5 @@
+Background: The role of adjuvant chemotherapy in stage II colon
+cancer continues to be debated. The presence of circulating tumor
+DNA (ctDNA) after surgery predicts very poor recurrence-free survival, whereas
+its absence predicts a low risk of recurrence. The benefit
+of adjuvant chemotherapy for ctDNA-positive patients is not well understood.

@@ -1,0 +1,23 @@
+The comparators across the trials’ program were diverse. Some of
+the comparators, such as GLP-1RAs dulaglutide and semaglutide, have proven
+cardiovascular benefits as reflected in their product-labeled indications and endorsement
+across professional society guidelines and recommendations , which would attenuate
+the comparative estimate of cardiovascular effect of tirzepatide. It was
+assumed, however, that any such effect would be negligible due
+to the short treatment duration of pooled trials and apparent
+lag time required to observe MACE benefits with dulaglutide or
+semaglutide (as reported by the placebo-controlled trials ). Placebo and
+the basal insulins included in the trials are considered to
+be neutral with regard to cardiovascular risk , with pre-specified
+analyses of this subset of comparators likely to more accurately
+reflect the cardiovascular safety of tirzepatide. Both subset analyses, including
+an analysis of the SURPASS-4 trial only and an analysis
+of all insulin and placebo comparator trials, were generally consistent
+with the MACE-4 result of the entire pooled population. Collectively,
+these data meet the regulatory cardiovascular safety criterion for consideration
+of a novel anti-hyperglycemic medication for initial approval, statistically excluding
+the upper confidence limit of the 95% CI of 1.8.
+Furthermore, some of these findings provide optimism for the potential
+positive cardiovascular effects of tirzepatide (aiming for a maximum dose
+of 15 mg per day) being tested in the ongoing
+outcome trial SURPASS-CVOT ( NCT04255433 ) .

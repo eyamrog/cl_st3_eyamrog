@@ -1,0 +1,18 @@
+The reproducibility of research, when possible, ultimately allows us a
+significant opportunity to ( a ) learn from others about
+how best to analyze certain types of data; ( b
+) reduce human errors and bias as data become larger
+and more complex; ( c ) free up time for
+reanalyzers to focus on parts of a data analysis that
+require more human interpretation; ( d ) have discussions about
+what makes for a good data analysis in certain areas
+of study; and ( e ) improve the quality of
+future data analyses. When teaching data analysis to students, it
+is common to talk in abstractions and theories, describing statistical
+methods and models in isolation. When real data are shown,
+they are often in the form of toy examples or
+in short excerpts. Increasing the reproducibility of all studies presents
+an opportunity to dramatically expand instruction on the craft of
+data analysis so that core set of elements and principles
+for characterizing high-quality analyses can be established within a field
+( 22 ).

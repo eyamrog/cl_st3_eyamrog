@@ -1,0 +1,15 @@
+To test this idea of a sample’s predictive capacity for
+mapping to its city of origin, we trained a Random
+Forest classifier (RFC) from the taxonomic profile of each metagenome.
+Specifically, we trained an RFC with 100 estimators on 90%
+of the samples in our dataset and evaluated its classification
+accuracy on the remaining 10%. We repeated this procedure with
+multiple subsamples of our data at various sizes (with five
+replicates per size) to show how performance varied with the
+amount of input data ( Figure 3 B). The RFC
+achieved 88% on held-out data, which compares favorably to the
+7.01% that would be achieved by a randomized classifier. Of
+note, we obtained similar results even with lower numbers of
+estimators (e.g., 10 estimators showed an accuracy of 78.9%). These
+results from our RFC demonstrate that city-specific taxonomic signatures and
+k-mers can be predictive for a sample’s origin.

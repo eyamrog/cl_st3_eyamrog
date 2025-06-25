@@ -1,0 +1,15 @@
+Recombinant human anti-EEEV mAb or Fab molecules were produced in
+Expi293F cells using the ExpiFectamine 293 transfection kit according to
+the manufacturer’s protocol. Briefly, 1 μg/mL of DNA was diluted
+in Opti-MEM I medium with ExpiFectamine 293 reagent for 15
+to 20 minutes at room temperature before addition to the
+Expi293F cells. Cells were incubated at 37°C in a humidified
+atmosphere of 8% CO 2 and supernatant was harvested by
+centrifugation and subsequent filtering through a 0.45-μm pore size filter
+6 to 7 days after transfection. For IgG1, IgA1, Fab
+molecules, cell supernatant was purified through a HiTrap MabSelect SuRe,
+CaptureSelect™ IgA affinity matrix, or CaptureSelect™ CH1-XL affinity column, respectively,
+according to the manufacturer’s protocol on an ÄKTA pure 25M
+chromatography system. Antibodies were concentrated using 30K or 50K MWCO
+Amicon® Ultra Centrifugal Filter Units followed by desalting and buffer
+exchange with 7K MWCO Zeba desalting columns.

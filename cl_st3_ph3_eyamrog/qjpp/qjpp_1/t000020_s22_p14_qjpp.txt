@@ -1,0 +1,11 @@
+We grouped self-reported disease diagnoses in UK Biobank individuals into
+categories corresponding to the organ system and/or mechanism (Supplementary Table
+10 ). We observed no enrichment for any of these
+phenotype groups in LRRK2 pLoF carriers when compared to noncarriers
+(Supplementary Table 11 ). We also mined ICD10 codes from
+hospital admissions and death records for any episodes relating to
+lung, liver and kidney phenotypes, removing any with a likely
+infectious or other external cause (Supplementary Table 12 and Methods
+) and identified six pLoF carriers with ICD10 codes relating
+to these organ systems (6.19%), compared to 4,536 noncarriers (9.87%;
+Supplementary Tables 13 and 14 ).

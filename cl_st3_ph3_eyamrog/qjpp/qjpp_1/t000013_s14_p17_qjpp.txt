@@ -1,0 +1,7 @@
+A total of 10 μl of extracted RNA was converted
+into single-stranded cDNA in a 40-μl reaction. First, Random Hexamer
+Primers (Thermo Fisher Scientific) were annealed to sample RNA at
+70 °C for 7 min, followed by reverse transcription using
+SuperScript IV for 20 min at 55 °C. cDNA was
+stored at −20 °C until use. DNase treatment was not
+performed at any point during sample preparation.

@@ -1,0 +1,17 @@
+Central to the field of ecoimmunology is the study of
+how the energetic demands of immune defense and activation trade-off
+against other demands such as growth and reproduction. Thus, the
+measures that are most appropriate for these studies are measures
+that (1) vary between individuals or populations and (2) are
+indicative of the energetic demands of immunity. In some contexts,
+indicators of acute infection may be most relevant, for example,
+CRP, while in others indicators of chronic infection or immune
+activation might be better, for example, concentration of immunoglobulin E
+(Blackwell et al., 2010 ; McDade et al., 2008 ).
+As we might expect from the lability of these measures,
+these indicate investments on different timescales, and thus trade-offs on
+different timescales. Urlacher et al. ( 2018 ) found that
+CRP, which varies on short timescales, was associated with growth
+over a 1-week period, while IgG was associated with growth
+over a 3-month period, and IgE with growth over much
+longer periods.

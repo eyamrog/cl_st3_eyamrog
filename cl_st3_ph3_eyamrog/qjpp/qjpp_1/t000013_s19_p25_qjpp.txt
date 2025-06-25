@@ -1,0 +1,25 @@
+We integrated our quantification efforts into the RVP because this
+assay was evaluated extensively in both research and clinical settings.
+We manually designed Cas12 crRNAs in the same region of
+the viral genome that the RVP Cas13 crRNAs target for
+a two-step standard curve generation on the same target amplicon
+for Cas12 and Cas13 proteins individually. The first step requires
+plotting the fluorescence for a range of concentrations (Cas12: 10
+–10 copies μl ; Cas13: 10 –10 copies μl )
+at each time point to calculate the time at which
+the fluorescence intensity concentration reaches 50% (IC50) through a sigmoidal,
+four-parameter logistic (4PL) curve, R > 0.9 (Fig. 4b and
+Extended Data Fig. 8 ). In some cases, we could
+not determine the IC 50 value because signal saturation occurred
+too quickly or not at all; therefore, that concentration was
+excluded from the analysis. In the second step, we plotted
+the IC 50 values onto a semilog line, where concentration
+is logarithmic and time is linear, to generate the standard
+curves (Fig. 4c ). We compared these results to a
+standard curve generated from RT–qPCR using the same serial dilutions
+and found a linear relationship between SARS-CoV-2 and FLUAV IC
+50 values to Ct values ( R = 0.901 and
+0.881, respectively) (Fig. 4d ). Taken together, these results suggest
+that by using Cas12 and Cas13 in combination, we could
+extrapolate viral quantification—spanning a 10 –10 range of target concentrations—from
+patient specimens with performance similar to RT–qPCR.

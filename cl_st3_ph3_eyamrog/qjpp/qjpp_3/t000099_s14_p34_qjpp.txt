@@ -1,0 +1,14 @@
+To determine neutrophil half-lives and mean lifespans in tissues we
+used the normalized to maximum percentage of tdTomato + neutrophils
+(n Tom ) observed in blood and tissues during 1-7
+days ( t j ) after tamoxifen injection in adult
+iLy6G tdTom reporter mice. In the present context, half-lives represent
+the time required for neutrophils to reduce their numbers to
+half of their values with respect to a reference time
+defined below. Moreover, mean lifespans account for the most long-lived
+10 percent of a given cohort of neutrophils. To find
+the half-lives 𝑡 ( 𝑖 ) 1 / 2 in
+a tissue 𝑖 , we calculated the mean lifetimes 𝜏
+𝑖 and then applied the relation 𝑡 ( 𝑖 )
+1 / 2 = l o g ⁡ ( 2
+) ⁢ 𝜏 𝑖 .

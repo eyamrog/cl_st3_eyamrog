@@ -1,0 +1,12 @@
+Because sequential models are appropriate for analyzing the data in
+question (Section 2.4.1 ), we did not preregister analyses using
+a Poisson modeling approach. Further, we did not preregister analyses
+in which higher-level observations for number of long-distance relationships were
+not binned, as so few participants reported having more than
+three long-distance connections and model estimates based on so few
+observations are inappropriate when estimating thresholds in sequential models (Section
+2.2.2 ). However, we find that sequential and Poisson approaches
+produce qualitatively similar results for the five main models, even
+when long-distance connections are not binned in the Poisson approach:
+there were consistent effects across all models only for participant
+sex, extraversion, and number of departments or countries visited.

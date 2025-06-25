@@ -1,0 +1,21 @@
+To assess whether the symptomatology of infection with the B.1.1.7
+variant differed from that of previous variants, we investigated the
+change in symptom reporting from Sept 28 to Dec 27,
+2020, covering 13 complete weeks over the period when the
+proportion of infections with the B.1.1.7 variant grew most notably
+in the NHS regions of London, South East, and East
+of England. For each week, in every region considered, we
+calculated the proportion of users reporting each symptom. Users were
+included in a week if they had reported a positive
+swab result (by PCR or lateral-flow test) in the period
+14 days before or after that week. For each region
+and symptom, we did a linear regression, examining the association
+between infections and the B.1.1.7 variant as a proportion of
+total SARS-CoV-2 infections in that region (independent variable) and the
+proportion of users reporting the symptom (dependent variable) over the
+13 weeks considered. We adjusted for the age and sex
+of users, as well as for two seasonal environmental confounders:
+regional temperature and humidity. Seasonal confounders were calculated each day
+from the temperature and relative humidity at 2 m above
+the surface (obtained from NASA climate data ), averaged across
+each region considered.

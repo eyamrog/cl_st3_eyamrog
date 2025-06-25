@@ -1,0 +1,8 @@
+One important caveat about antigen stimulation assays is to remember
+that the assays measure the response to stimulation, but not
+how effective that response is in fighting the infection. Cytokines
+are signaling molecules and measuring them is equivalent to measuring
+how loud the immune system yells when it feels threatened.
+Indeed, in some cases strong inflammatory responses may be detrimental
+or represent a failure of specific responses, so care in
+interpretation is needed.

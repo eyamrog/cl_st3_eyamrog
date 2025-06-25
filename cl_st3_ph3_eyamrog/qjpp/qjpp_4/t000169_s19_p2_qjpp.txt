@@ -1,0 +1,8 @@
+Table 4 provides the mean values, standard deviation ( SD
+), and range of the spot areas that have been
+measured using AMoSS for all markers and separately for A,
+A*, B, and C markers, resp. The selection process based
+on the punching scheme (Table 2 ) leads to systematically
+lower spot sizes for B markers as compared to A
+and C markers, while A* markers are particularly small by
+definition.

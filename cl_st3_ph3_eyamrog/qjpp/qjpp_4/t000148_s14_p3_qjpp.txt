@@ -1,0 +1,14 @@
+Crude ovulation rate (ovulatory cycles/total cycles) was calculated for the
+Bolivian and German samples. In each sample, total cycles include
+all cycles for which a determination of ovulatory or anovulatory
+could be made according to the criteria given below. Cycles
+in which a conception was detected are included in the
+count of ovulatory cycles for calculation of ovulation rate. Conception
+cycles are not included in the analyses for other biomarkers
+because conception causes changes to the hormonal profiles distinct from
+those in nonconception ovulatory cycles. Because up to 8 cycles
+were collected from each Bolivian woman, there is some selection
+bias towards a lower estimate of the crude ovulation rate
+(i.e., women who are more likely, for whatever reason, to
+experience anovulation will not become pregnant and therefore will disproportionately
+contribute more cycles to the sample).

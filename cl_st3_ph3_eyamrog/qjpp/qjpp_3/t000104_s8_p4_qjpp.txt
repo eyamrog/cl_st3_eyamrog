@@ -1,4 +1,0 @@
-Based on this background, we undertook a discovery effort to
-identify novel regulators of REs in cancer cells through a
-genetic screen for potential modifiers of the key histone modification,
-H3K9me3.

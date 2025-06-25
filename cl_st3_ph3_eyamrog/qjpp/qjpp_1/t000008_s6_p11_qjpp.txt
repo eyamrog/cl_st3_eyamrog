@@ -1,0 +1,9 @@
+In this study, long-term expression of hFVIII following a single
+valoctocogene roxaparvovec (AAV5-hFVIII-SQ) infusion was associated with the presence of
+circularized full-length genomes, with observable dose-dependent trends in the number
+of hepatocytes containing vector genomes, quantities of circular full-length/ITR-fused vector
+genomes and hFVIII-SQ gene expression in the liver. Interindividual variability
+in transgene expression following effective vector genome transduction may result
+from differences in expression of regulatory molecules involved in transcription
+and protein folding/secretion. Further investigation into these complex mechanisms is
+warranted.

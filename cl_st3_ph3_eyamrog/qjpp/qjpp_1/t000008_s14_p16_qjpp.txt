@@ -1,0 +1,21 @@
+Following treatment with KpnI (to separate individual vector genome units
+within circular concatemers) and/or PS-DNase (to eliminate linear forms), 10
+ng of DNA was used in each ddPCR reaction. The
+reaction mixture contained 1′ ddPCR Supermix for Probes without deoxyuridine
+triphosphate (Bio-Rad), 250 nM each of forward and reverse primers,
+900 nM of probes and 5 µl of sample for
+a final reaction volume of 25 µl. A Bio-Rad Auto
+Droplet Generator was used to generate droplets from the reaction
+mix and QX200 Droplet Generation Oil for Probes (Bio-Rad), which
+were then transferred into a 96-well plate. PCR was performed
+in a C1000 Touch Thermal Cycler (Bio-Rad) as follows, for
+all primer sets except for the ITR fusion assay: 10
+min at 95 °C, 40 cycles of 30 s at
+95 °C and 1 min at 58 °C, 10 min
+at 98 °C, and hold at 4 °C. H–T ITR
+amplification cycle conditions were 40 cycles of 30 s of
+denaturation at 94 °C, 35 s annealing at 59 °C
+and 65 s extension at 72 °C. Samples were read
+using a QX200 droplet reader (Bio-Rad) and the total concentration
+of target sequences and linked copies of target sequences were
+processed with QuantaSoft software v1.7.4.0917 (Bio-Rad).

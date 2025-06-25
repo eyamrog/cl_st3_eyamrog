@@ -1,0 +1,22 @@
+In addition to these general measures, there are a number
+of point-of-care options for diagnosing specific ailments. Most of you
+reading this (in 2022) are by now familiar with rapid
+tests for detecting SARS-CoV-2. Whether these tests will remain available
+or will be effective for future variants after the COVID-19
+pandemic remains to be seen. Rapid tests are also available
+for influenza A & B, for example with the BD
+Veritor Plus System (Becton, Dickinson and Company) which is around
+$300, with tests running around $12 each. Test kits are
+also available to use this system for respiratory syncytial virus
+(RSV), SARS-CoV-2, and Group A Streptococcus. The supplier Thermo Scientific
+makes rapid tests under the Xpect brand which can detect
+Flu A & B, RSV, C. difficile, rotavirus, giardia, cryptosporidium,
+and legionella, some of which work with nasal or throat
+swabs and other fecal samples. However, all are fairly expensive
+(around $40 per test). These kind of point-of-care rapid tests
+are likely to always be less sensitive than PCR analysis.
+If immediate results are not necessary, studies have shown that
+nasal swabs are stable for at least 21 days at
+room temperature and probably longer if refrigerated, at least for
+SARS-CoV-2 (Skalina et al., 2022 ). These can therfore be
+stored for later PCR analysis.

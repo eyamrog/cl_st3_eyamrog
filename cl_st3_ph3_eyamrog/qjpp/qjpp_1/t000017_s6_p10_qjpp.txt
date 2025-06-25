@@ -1,0 +1,9 @@
+The primary objectives of this dose-escalation/expansion study were to determine
+the MTD, safety and the RP2D of avapritinib, an investigational
+potent and selective KIT D816V inhibitor. Considering efficacy, tolerability and
+PK, the RP2D was identified as 200 mg QD based
+on consistent exposure above the KIT D816V in vivo IC
+90 and rapid time to response. At this dose, avapritinib
+induced deep and durable clinical, pathologic and molecular responses in
+patients with AdvSM, reduced disease-related symptoms, and was generally well
+tolerated.

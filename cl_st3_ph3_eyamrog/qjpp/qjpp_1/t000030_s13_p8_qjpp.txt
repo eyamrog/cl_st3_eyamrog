@@ -1,0 +1,16 @@
+Digital surveillance data do have limitations, though. One of the
+problems occurs when these systems capture changes in public awareness
+of the disease rather than changes in incidence of the
+disease per se. For example, the inaccurate predictions by Google
+Flu Trends led to its discontinuation in 2015 ( 35
+) after it failed to detect the influenza A (H1N1)
+pandemic in 2009 and greatly overestimated the peak intensity of
+the 2012/2013 season ( 57 ). Moreover, data from digital
+surveillance often suffer from problems with stability, dependency, confounding in
+search terms, and representativeness ( 13 , 36 , 64
+). Despite these challenges, digital surveillance data are comparatively lower
+in cost and could supplement other more traditional sources of
+information rather than replace them. One growing research area involves
+the development of hybrid systems, which couple traditional surveillance data
+with data from digital surveillance tools, including search queries, social
+media posts, and crowdsourcing ( 2 ).

@@ -1,0 +1,12 @@
+Indeed, if we categorize putative true positives as all specimens
+that tested positive by prior RT–qPCR as well as present-day
+RT–qPCR and/or mCARMEN, mCARMEN would have 100% sensitivity compared to
+88% for RT–qPCR. mCARMEN also detected SARS-CoV-2 in three specimens
+that tested negative by both prior and concurrent RT–qPCR (Supplementary
+Fig. 3e ). While we cannot rule out the possibility
+of false positives, several pieces of evidence suggest they are
+more likely to be true positives: mCARMEN demonstrated higher sensitivity
+over concurrent RT–qPCR testing, these specimens were from suspected SARS-CoV-2
+cases based on clinical features and mCARMEN did not detect
+SARS-CoV-2 in any clinical specimens before the pandemic (Fig. 1
+and Supplementary Fig. 1 ).

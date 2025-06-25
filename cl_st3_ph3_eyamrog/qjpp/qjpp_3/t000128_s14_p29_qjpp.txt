@@ -1,0 +1,8 @@
+Widefield imaging of human cell aggregates (K562, HEK293) was done
+on either a Zeiss Axios Observer Z1 microscope at 4X
+or a Nikon Eclipse Ti2 microscope at 20X. For K562
+cells, samples were wet-mounted onto a #1.5 coverslip without prior
+fixation. HEK293 cells were directly grown on a glass-bottom 24-well
+plate (Mattek P24G-1.5-10-F) and directly imaged. For tiled images composing
+multiple fields of views, images were taken with a 10%
+overlap and stitched using the Nikon Elements software.

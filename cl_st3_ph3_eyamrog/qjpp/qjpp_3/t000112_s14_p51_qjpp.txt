@@ -1,0 +1,10 @@
+Inter-sample (beta) diversity was measured by the Jaccard distances between
+the taxonomic and functional profiles of samples. Jaccard distance does
+not use relative abundance information. Matrices of Jaccard distances were
+produced using built in SciPy ( Virtanen et al., 2020
+86. Virtanen, P. ∙ Gommers, R. ∙ Oliphant, T.E. ...,
+SciPy 1.0 Contributors SciPy 1.0: fundamental algorithms for scientific computing
+in Python Nat. Methods. 2020; 17 :261-272 Crossref Scopus (16617)
+PubMed Google Scholar ) functions treating all elements greater than
+0 as present. Hierarchical clustering (average linkage) was performed on
+the matrix of Jaccard distances using SciPy.

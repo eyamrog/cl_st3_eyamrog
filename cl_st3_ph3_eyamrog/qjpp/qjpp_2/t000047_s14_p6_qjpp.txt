@@ -1,0 +1,7 @@
+The sampling scheme and exclusion of individuals are shown in
+appendix 2 (p 2) . Participants who did not answer
+questions related to smoking or e-cigarette use were excluded and
+we did not impute missing data. All p values were
+two-tailed and 0·05 was the threshold for statistical significance. All
+analyses were done in SAS (version 9.4) and data was
+visualised in R software (version 4.0.0).

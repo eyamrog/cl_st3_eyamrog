@@ -1,0 +1,11 @@
+Today, many data sharing Web repositories exist, which allow easy
+distribution of data of almost any size. Whereas in the
+past an investigator interested in sharing data had to purchase
+and set up a Web server, now investigators can simply
+upload to any number of services. The Open Science Framework
+( 16 ), Dataverse Project ( 25 ), ICPSR (
+50 ), and SRA ( 29 ) are only a
+handful of public and private repositories that offer free hosting
+of data sets. The major benefit of repositories such as
+these is to absorb and consolidate the cost of hosting
+data for possibly long periods of time.

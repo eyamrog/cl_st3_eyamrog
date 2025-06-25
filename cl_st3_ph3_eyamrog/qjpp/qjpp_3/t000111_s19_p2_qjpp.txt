@@ -1,6 +1,0 @@
-This phenomenon is not specific for the highly invasive MDA-MB-231
-cells, but was also observed in more indolent MCF7 cells
-and PC3 prostate cancer cells, as well as murine mammary
-carcinoma AT-3 cells in immunocompetent mice, albeit after a longer
-lag period for PC3 cells (8–12 weeks) ( Figures 1
-F–1H and S1 F).

@@ -1,0 +1,6 @@
+Doubly labeled water (DLW) is the gold standard for calculating
+total body water usage in a 24-hour period (liters/day). DLW
+can be calculated with deuterium from stable isotope analysis. This
+method is relatively field-friendly and has been conducted in small-scale
+populations in remote areas (Christopher et al., 2019 ; Pontzer
+et al., 2015 ).

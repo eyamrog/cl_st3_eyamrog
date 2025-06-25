@@ -1,0 +1,9 @@
+After establishing the single-analyte LODs, we asked whether coinfections impacted
+the sensitivity for each virus detected by RVP. To do
+so, we added SARS-CoV-2 at a constant, 2× LOD concentration
+to the remaining 8 viruses on the RVP at varying
+concentrations at and above their respective LOD (Extended Data Fig.
+5b ). We observed no loss in our ability to
+detect SARS-CoV-2. However, we noticed a decrease in signal intensity
+for the other viruses at lower concentrations, yet only one
+virus, HPIV-3, had a tenfold higher LOD.

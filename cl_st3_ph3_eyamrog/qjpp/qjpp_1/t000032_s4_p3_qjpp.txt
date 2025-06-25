@@ -1,0 +1,16 @@
+The urgency of decision-making based on scientific evidence can exist
+in a variety of situations, not just on the minute-by-minute
+timescale of a worldwide pandemic. Many regulatory decisions in environmental
+health have to be made on the basis of only
+a handful of studies. Often, public health officials and policy
+makers cannot wait years for another large cohort study to
+replicate (or not) existing findings. In such situations where decisions
+need to be made, the more code and data that
+can be made available to assess the evidence, the more
+informed those decisions will be. In the interim, follow-up studies
+can be conducted and revisions to the evidence base can
+be made in the future if needed. The reanalyses of
+the Six Cities Study and the ACS Study provide a
+clear example of this process, and history has shown those
+results to be highly consistent across a range of replication
+studies.

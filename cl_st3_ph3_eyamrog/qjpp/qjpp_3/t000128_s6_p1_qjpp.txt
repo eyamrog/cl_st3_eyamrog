@@ -1,0 +1,10 @@
+In this study, we presented helixCAM, an extensible platform for
+engineering programmable cell-cell interactions in both bacteria and human cells.
+helixCAMs were demonstrated to induce formation of large, patterned cell
+aggregates containing thousands of cells and spanning multiple cell layers.
+From helixCAMs composed of previously established CC domains, we rationally
+designed CC peptide libraries and, after screening for affinity and
+specificity, identified two engineered CC pairs with favorable helixCAM properties.
+We then tested high-affinity helixCAM pairs across a range of
+cell types and applications, demonstrating their versatility in guiding multicellular
+patterns and morphologies.

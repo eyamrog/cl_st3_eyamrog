@@ -1,0 +1,5 @@
+Similarly to other clinical development programs of anti-hyperglycemic therapies for
+T2D, a limitation of these cardiovascular meta-analyses was the inclusion
+of tirzepatide clinical trials that excluded participants with recent unstable
+cardiovascular disease (for example, New York Heart Association class IV
+heart failure and recent cardiovascular events).

@@ -1,0 +1,15 @@
+We tested if samples that were close together in cities
+were more similar to one another. For pairs of samples
+taken in the same city, the geographic distance between samples
+was crudely predictive of the Jensen-Shannon distance between taxonomic profiles.
+Every increase of 1 km in distance between two samples
+represented an increase of 0.056% in divergence (p < 2
+e 16, R 2 = 0.01073; Figure S1 D). To
+reduce potential bias from samples taken from the same object,
+we excluded all pairs of samples within 1 km of
+one another. This suggests a “neighborhood effect” for sample similarity
+analogous to the effect described by Meyer et al. (2018)
+52. Meyer, K.M. ∙ Memiaghe, H. ∙ Korte, L. ...
+Why do microbes exhibit weak biogeographic patterns? ISME J. 2018;
+12 :1404-1413 Crossref Scopus (112) PubMed Google Scholar , albeit
+a very minor one.

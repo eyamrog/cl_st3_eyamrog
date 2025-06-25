@@ -1,0 +1,6 @@
+The kinase domain truncated SERK1 (1-825 bp) was amplified using
+the primers Sac I-SERK1-F and SERK1dK-HA-Kpn I-R from Arabidopsis Col-0
+cDNA, and inserted into Sac I and Kpn I sites
+of vector pCAMBIA1307 (a derivative of pCAMBIA1300 by inserting CaMV
+35S promoter sequence prior to multiple cloning site) to generate
+construct of pCAMBIA1307-SERK1▵KD-HA by restriction enzyme digestion.

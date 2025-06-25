@@ -1,0 +1,14 @@
+Level of education was measured by questionnaire, comprising four categories
+(details of harmonisation are shown in the appendix [p 2]
+): no school qualifications, some high school qualifications (O-levels), high
+school diploma (A-levels), or university degree or higher. For analyses
+stratified by education, we used a two-category variable: low (less
+than A-level qualifications) or high (A-level or higher) education level.
+For participants with missing data on education, level of education
+was imputed using single imputation based on sex, birth cohort,
+and social class. The choice of single rather than multiple
+imputation was primarily to enable analyses stratified by education as
+each imputed dataset would yield different numbers in each education
+category, changing the results of stratified analyses between imputations. However,
+single imputation can potentially underestimate SEs and therefore result in
+overly precise CIs.

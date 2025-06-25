@@ -1,0 +1,9 @@
+The crRNAs for SNP discrimination were designed using a generative
+sequence design algorithm (Mantena, S. et al., manuscript in preparation).
+This approach uses ADAPT’s predictive model to predict the activity
+of candidate crRNA sequences against on-target and off-target sequences .
+These predictions of candidate crRNA activity steer the generative algorithm’s
+optimization process, where it seeks to design crRNA probes that
+have maximal predicted on-target activity and minimal predicted off-target activity.
+Using this design algorithm, we selected 26 mutations to detect
+and discriminate between the variants (Supplementary Table 4 ).

@@ -1,0 +1,12 @@
+This phase 1, open-label study comprised a dose-escalation phase (part
+1) and a dose-expansion phase (part 2; Fig. 1 ).
+During dose escalation, patients received oral avapritinib at starting doses
+ranging from 30 to 400 mg QD in continuous 28-d
+treatment cycles. Dose escalation followed a 3 + 3 design
+(described below) until the MTD or RP2D was determined. During
+part 1, intra-patient dose escalation to assess dose levels not
+exceeding the MTD was allowed. Dose expansion was initially conducted
+at a starting dose of 300 mg QD; a second
+expansion cohort at 200 mg QD was subsequently introduced via
+protocol amendment. Dosing continued until patients experienced unacceptable toxicity, disease
+progression, death or withdrew consent.

@@ -1,0 +1,12 @@
+We then designed another cAMP nanoruler, Epac1-camps-SAH30-PDE2cat, which records cAMP
+levels at 30-nm distance to PDE2cat ( Figure 4 D).
+In contrast to the observations with Epac1-camps-SAH10-PDE4A1, we found a
+still significant effect on cAMP levels at 30-nm distance from
+PDE2cat (Epac1-camps-SAH30-PDE2cat) ( Figures 4 D and 4E). As expected,
+inhibition of PDE2 activity in all constructs eliminated cAMP gradients
+( Figure 4 F). To account for the higher catalytic
+activity of PDE2cat than of PDE4A1, the PDE2cat experiments were
+performed at lower expression levels ( Figure S5 H). Again,
+we also showed that Epac1-camps-PDE2cat and Epac1-camps-SAH30-PDE2cat sensors were not
+compromised with regard to cAMP affinity ( Figure S5 I)
+or PDE catalytic activity ( Figures S5 J–S5L).

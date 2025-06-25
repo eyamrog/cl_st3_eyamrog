@@ -1,6 +1,0 @@
-NEST also generates practical, trauma-informed recommendations and allows low-resource service
-settings, such as shelters, to have access to trauma-informed developmental
-screenings. With a built-in decision-making algorithm, nonclinicians can be trained
-to identify children most in need of further assessment and
-service and to determine how best to nurture a child's
-development.

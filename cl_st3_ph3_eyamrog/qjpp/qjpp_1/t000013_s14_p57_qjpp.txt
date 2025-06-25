@@ -1,0 +1,5 @@
+The results were automatically displayed on the FilmArray System with
+each target in a run reported as ‘detected’ or ‘not
+detected’. If either control failed, the software marked this run
+as ‘invalid’. When sufficient human sample volume was available, samples
+with invalid results were rerun.

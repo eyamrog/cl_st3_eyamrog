@@ -1,0 +1,7 @@
+Briefly, the reference-normalized, background-subtracted fluorescence was calculated for the guide-target
+pairs for measurement after 60 min. Then, the dynamic range
+and the separation band were assessed: separation band = (mean
+of positive controls − 3 s.d. of positive controls) −
+(mean of negative controls − 3 s.d. of negative controls);
+dynamic range = mean of positive controls − mean of
+negative controls.

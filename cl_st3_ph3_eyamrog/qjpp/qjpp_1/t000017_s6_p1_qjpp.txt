@@ -1,0 +1,9 @@
+Patients with AdvSM have life-threatening organ damage and poor survival,
+caused by the increased proliferation of neoplastic mast cells driven
+by the KIT D816V mutation in ~95% of patients .
+Midostaurin, until recently the only approved therapy for all subtypes
+of AdvSM, does not selectively target the KIT D816V mutant
+and only rarely do patients achieve a complete remission .
+In a post hoc exploratory analysis of the pivotal midostaurin
+phase 2 study using IWG-MRT-ECNM criteria, responses occurred in 28%
+of patients with a 2% CR rate .

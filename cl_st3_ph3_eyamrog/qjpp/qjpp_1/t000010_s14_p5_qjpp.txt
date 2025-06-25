@@ -1,0 +1,22 @@
+The primary outcome was time to first occurrence of CEC-confirmed
+MACE-4 (including cardiovascular death, MI, stroke and HUA). MACE-4 has
+been used in meta-analyses for several new diabetes medications to
+exclude excess cardiovascular risk at the time of first regulatory
+submission as requested by the FDA, EMA and other agencies
+. The rationale for inclusion of HUA as a MACE
+component is driven by the advantage of increased numbers of
+events ascertained to ensure adequate statistical power for the assessment
+of cardiovascular safety and was prospectively planned. The secondary outcomes
+were MACE-3 (including cardiovascular death, MI and stroke), the composite
+outcome of MACE-3 or HHF as well as individual MACE
+components, including cardiovascular death, MI, stroke, HUA, HHF and all-cause
+death. Secondary outcomes also included the pooled analyses of trials
+with comparators with anticipated neutral effect on cardiovascular outcomes (insulins
+) or placebo combined with best standard of care and
+the analysis of the trial with a selected high-risk cardiovascular
+population (SURPASS-4). Additional post hoc analyses included adjudicated outcome of
+coronary revascularization (urgent and non-urgent and surgical or percutaneous) and
+the first occurrence of any components of the composite outcome
+MACE-6 (including MACE-3 and all other adjudicated coronary outcomes (HUA,
+HHF and revascularization)) as well as subgroup analyses for race,
+country and SGLT-2i use at baseline.

@@ -1,0 +1,17 @@
+RNA was extracted from 200 µl of input material using
+the MagMAX DNA Multi-Sample Ultra 2.0 Kit on a KingFisher
+Flex Magnetic Particle Processor with 96 Deep Well Head. This
+was run according to the protocol listed in the TaqPath
+COVID-19 Combo Kit Protocol under ‘KingFisher, Extract RNA-Automated method (200-μl
+input volume)’ with the following differences. To prepare the binding
+bead mix, the following was added: 265 μl binding solution,
+10 μl total nucleic acid magnetic beads, 5 μl Proteinase
+K with 10% coverage for multiple samples. Then, 280 μl
+of the binding bead mix was added to each sample
+well. The 200 μl of input material included negative human
+sample and RNA: 160 μl of pooled human samples (negative
+for all viruses on the panel) was added to each
+sample well and incubated for 20 min before 40 μl
+of RNA was spiked in. Samples were eluted in 50
+μl of elution solution and either directly added to the
+amplification reaction or stored at −80 °C until use.

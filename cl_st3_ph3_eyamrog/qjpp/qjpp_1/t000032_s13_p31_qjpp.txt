@@ -1,0 +1,24 @@
+There are also different degrees of reproducibility when building a
+data analysis and differences in audiences that may or may
+not be allowed to have access to these components. For
+example, a data analyst may choose to make the data
+available but not the code (or the opposite). Others may
+make both the code and data available for only one
+audience (Audience A) but not for another audience (Audience B).
+There are valid reasons why an analyst might choose to
+do this, such as if the data analysis uses data
+with protected health information in a hospital setting or if
+the data analyst works at a business or company and
+cannot share the code or data with others outside of
+the company. It is important to note that just because
+an analysis is not fully reproducible to one audience (Audience
+B) does not mean that it is an invalid analysis
+with incorrect conclusions. Although the access limitations do make it
+more difficult for Audience B to trust the results, the
+analysis can still be valid or correct. However, the lack
+of reproducibility to this audience may mean that the evidence
+supporting any claims is weaker. Despite these potential differences in
+degrees of reproducibility, as demonstrated in the HEI reanalysis, efforts
+made to make a data analysis more reproducible is a
+step in the right direction for making it a better
+data analysis.

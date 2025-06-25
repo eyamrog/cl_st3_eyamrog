@@ -1,0 +1,15 @@
+Samples were prepared for the LOD experiments using either quantified
+viral isolates, genomic RNA or IVT partial gene fragments. For
+the SARS-CoV-2, HCoV-OC43, HRSV and HPIV-3 assays, quantified viral isolates
+of known titer (RNA copies µl ) spiked into a
+pooled negative human sample (negative for all viruses on the
+panel) in universal transport medium (UTM), to mimic a clinical
+specimen. The pooled human negative samples were incubated in the
+binding bead mix solution according to the methods described in
+‘General mCARMEN Procedures-Automated extraction’. Since no quantified virus isolates for
+HCoV-NL63, HCoV-HKU-1, FLUAV, FLUAV-g4, FLUBV and HMPV were available for
+use at the time the study was conducted, assays designed
+for RNA detection of these viruses were tested with either
+genomic RNA from ATCC (FLUAV: catalog no. NR-43756; FLUBV: catalog
+no. VR-1804) or IVT RNA of known titer and spiked
+into pooled negative human samples in UTM.

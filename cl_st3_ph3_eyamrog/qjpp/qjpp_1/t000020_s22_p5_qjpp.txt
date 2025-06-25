@@ -1,0 +1,10 @@
+We manually curated the 150 identified variants to remove those
+of low quality or with annotation errors suggesting that they
+are unlikely to cause true LoF (Fig. 1a and Supplementary
+Tables 1 and 2 ). We removed 16 variants identified
+as low confidence by the LoF transcript effect estimator ((LOFTEE);
+6 variants in 409 individuals) or manually curated as low
+quality or unlikely to cause LoF (10 variants in 129
+individuals). One additional individual was excluded from the UK Biobank
+cohort as they carried both a pLoF variant and the
+G2019S risk allele.

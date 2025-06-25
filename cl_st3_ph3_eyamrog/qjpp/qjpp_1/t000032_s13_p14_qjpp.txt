@@ -1,0 +1,13 @@
+One could summarize the goal of reproducible research as providing
+a means to answer the question, “Do I understand and
+trust this data analysis?" With the computational nature of today's
+research, we cannot hope to answer that question without being
+able to look at the data and the code. In
+addition, we may wish to know things about the experimental
+or study design as well as the hypothesis being examined
+( 22 ). Given the claimed results, the data, and
+code, one can theoretically determine the reproducibility status of a
+data analysis. Reproducibility gives us the means by which we
+can assess our confidence and trust in an analysis, but
+it is important to reiterate that reproducing an analysis is
+not a check on the validity of the analysis.

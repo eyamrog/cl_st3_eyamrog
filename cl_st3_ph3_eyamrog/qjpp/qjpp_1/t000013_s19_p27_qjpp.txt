@@ -1,0 +1,14 @@
+With the continuous emergence of mutations that can lead to
+increased transmissibility or enhanced virulence, we also wanted to greatly
+streamline assay generation for each new SARS-CoV-2 mutation or variant.
+Thus, we developed an easily adaptable method to track these
+changes that we called the mCARMEN variant identification panel (VIP).
+VIP has two nonoverlapping primer pair sets within conserved regions
+of the Spike gene to amplify the full-length sequence for
+use with any crRNA pair. These 26 crRNA pairs, individually
+or in combination, allowed us to track existing variants and
+identify emerging variants (Fig. 5a ). Initially, we tested over
+60 combinations of crRNAs on unamplified synthetic material to identify
+the crRNA pairs with the largest fluorescence ratio of expected
+divided by unexpected signal for each mutation (Supplementary Fig. 4
+).

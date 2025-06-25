@@ -1,0 +1,8 @@
+Our final dataset comprised 255 gnomAD individuals and 97 UK
+Biobank individuals with 134 unique high-confidence pLoF variants (Fig. 1a
+) and an overall carrier frequency of 0.19%; less than
+half the frequency estimated from uncurated variants, reaffirming the importance
+of thorough curation of candidate LoF variants . A subset
+of 25 gnomAD samples with 19 unique LRRK2 pLoF variants
+with DNA available were all successfully validated by Sanger sequencing
+(Supplementary Table 3 ).

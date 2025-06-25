@@ -1,0 +1,15 @@
+Additionally, we used data from Public Health England on the
+probable new variant captured in community cases in England according
+to SGTF. One of the spike gene mutations in the
+B.1.1.7 variant has been observed to cause an SGTF in
+the test used in three of England's large laboratories for
+the analysis of community cases. This failure results in a
+marker that is sensitive, but not necessarily specific, to the
+B.1.1.7 variant, as other circulating variants also contain the mutation
+leading to an SGTF. Comparison with genomic data shows that,
+from Nov 30, 2020, onwards, more than 96% of cases
+with the SGTF were from the B.1.1.7 variant. The proportion
+of SGTF cases is made available in England for each
+of the 316 lower-tier local authorities. We grouped these data
+into each NHS region using a population-weighted average to enable
+integration with other data sources.

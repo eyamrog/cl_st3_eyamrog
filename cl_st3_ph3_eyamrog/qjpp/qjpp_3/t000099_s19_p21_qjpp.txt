@@ -1,0 +1,19 @@
+We next analyzed these mice under conditions that induced vascular
+proliferation. Consistent with the findings in mice depleted of neutrophils,
+CXCR4 DN mice displayed blunted proliferation after irradiation ( Figure
+6 D) despite elevated neutrophil numbers in lungs (data not
+shown). Interestingly, these mice also recapitulated the vascular aplasia in
+intestinal ILFs seen in neutropenic mice ( Figures 6 E
+and S6 E). Because the lung is a common target
+of viral infections and neutrophils have been proposed to perform
+immune-patrolling functions in this organ ( Yipp et al., 2017
+71. Yipp, B.G. ∙ Kim, J.H. ∙ Lima, R. ...
+The Lung is a Host Defense Niche for Immediate Neutrophil-Mediated
+Vascular Protection Sci Immunol. 2017; 2 Crossref Scopus (142) PubMed
+Google Scholar ), we next subjected the mice and their
+controls (Cre NEG ; CXCR4 fl/fl ) to infection with
+low doses of the influenza A virus. Despite no difference
+in survival rates, these mice presented significant loss of pulmonary
+vascularization 14 days post-infection ( Figures S6 F and S6G),
+indicating additional roles for lung neutrophils in vascular repair after
+an infection.

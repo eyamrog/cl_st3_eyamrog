@@ -1,0 +1,14 @@
+In hindsight, another lesson learned from the HEI reanalysis is
+that the importance of reproducibility of a given study can
+fade with time. More than 25 years later, scores of
+follow-up studies and replications have come to largely similar conclusions
+as those in the Six Cities Study and the ACS
+Study. Although both studies remain seminal in the field of
+air pollution epidemiology, they could be deleted from the literature
+at this point and have little impact on our understanding
+of the science. This is not to say that the
+data and ongoing analyses do not have value, but rather
+to say that the original results have been subsumed by
+later studies. Reproducibility was critical when the studies were first
+published only because of the paucity of large studies at
+the time.

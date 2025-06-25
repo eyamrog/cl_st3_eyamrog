@@ -1,0 +1,18 @@
+Second, we examined LRRK2 pLoF variants in over 4 million
+consented and array-genotyped research participants from the personal genetics company
+23andMe. Eight putative (LOFTEE high confidence) LRRK2 LoF variants were
+identified. After manual curation, all putative carriers of each variant
+were submitted for validation by Sanger sequencing and variants with
+<5 confirmed carriers were excluded. The resulting cohort comprised 749
+individuals, each a Sanger-confirmed carrier for one of three pLoF
+variants (Fig. 1a and Supplementary Table 4 ). The high
+rate of Sanger confirmation for rs183902574 (>98%) allowed confident addition
+of 354 putative carriers of rs183902574, from expansion of the
+23andMe dataset, without Sanger confirmation. Analyses with and without these
+genotyped-only carriers were not significantly different (Supplementary Table 5 ).
+Across the two most frequent pLoF alleles we observed an
+extremely small number (<5) of sequence-confirmed homozygotes; however, given the
+very small number of observations, we can make no robust
+inference, except that homozygous inactivation of LRRK2 seems compatible with
+life. For the remainder of this manuscript we focus on
+heterozygous pLoF carriers.

@@ -1,0 +1,11 @@
+NTC is a negative control for nucleic acid amplification and
+is prepared by adding 10 μl nuclease-free water (instead of
+RNA) into 40 μl of OneStep RT–PCR Kit mastermix. This
+should yield a negative result for all targets on the
+panel. Combined positive control is a positive control for nucleic
+acid amplification and is prepared by pooling IVT synthetic RNA
+of all the targets on the panel to 10 copy
+µl ; 11-µl aliquots of this mix were stored at
+−80 °C until use, when 10 μl were added to
+40 μl of OneStep RT–PCR Kit mastermix. This should yield
+a positive result for all targets on the panel.

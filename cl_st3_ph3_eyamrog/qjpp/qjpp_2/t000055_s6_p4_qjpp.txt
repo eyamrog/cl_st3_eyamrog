@@ -1,0 +1,15 @@
+We observed, among 249 potential cases, a very low prevalence
+of possible reinfection (0·7% [95% CI 0·6–0·8]), consistent with another
+study of 6614 health-care workers who had previously tested positive
+for COVID-19, in which 44 (0·66%) possible reinfections were identified.
+Our reinfection rate did not vary across regions or time,
+which is consistent with the hypothesis that reinfection is no
+more likely in the context of the B.1.1.7 variant. This
+might mean that, if adequate immunity is built during the
+first infection, it might be sufficient to protect against reinfection
+in the presence of the B.1.1.7 variant. Ultimately, this is
+a positive sign that the immunity built through vaccination against
+pre-existing variants could also be effective against the B.1.1.7 variant.
+This finding is in line with initial, laboratory-based studies of
+the efficacy of vaccines designed for pre-existing variants against this
+newer variant.

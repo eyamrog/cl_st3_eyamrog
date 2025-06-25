@@ -1,0 +1,14 @@
+As some women gave birth to more than one infant
+during the trial, we restricted the analysis to one pregnancy
+and one offspring per woman to ensure that measures were
+independent. The number of previous pregnancies was categorized as 0,
+1, 2, 3, or 4+. Births were categorized using a
+questionnaire that permitted one of the following responses: normal vaginal
+delivery, manual manipulation, vacuum extraction, forceps, episiotomy, or cesarean section.
+In the case that manual manipulation preceded other intervention the
+latter intervention was recorded. In the subsample, the duration of
+labor was categorized as <24 or > 24 h, a
+convenient marker of lengthy labor used in other studies in
+Nepal (Rayamajhi et al., 2009 ). From the data on
+assistance at delivery, we generated a binary variable, whether a
+skilled health worker was present or not.

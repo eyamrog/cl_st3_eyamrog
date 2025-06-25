@@ -1,0 +1,16 @@
+At a minimum, for an initial taxonomic call, we required
+three reads assigned to a taxa with 64 unique marker
+k -mers. This setting captures a group of taxa with
+low abundance but reasonable (10%–20%) coverage of the k -mers
+in their marker set ( Figure S2 E). However, this
+also allows for a number of taxa with very high
+(105) duplication of the identified marker k -mers and very
+few k -mers per read which we believe is biologically
+implausible. To remove these we filtered taxonomic calls further by
+requiring that the number of reads not exceed 10 times
+the number of unique k -mers, unless the set of
+unique k -mers was saturated ( > 90% completeness). We
+include a full list of all taxonomic calls from all
+samples including diagnostic values for each call. We do not
+attempt to classify reads below the species level in this
+study.

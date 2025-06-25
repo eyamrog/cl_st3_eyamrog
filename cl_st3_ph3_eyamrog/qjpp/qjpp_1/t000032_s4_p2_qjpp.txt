@@ -1,0 +1,23 @@
+The rapidly evolving nature of scientific communication serves to highlight
+the role of reproducibility in advancing science. Without reproducibility, countless
+hours could be wasted simply trying to figure out what
+was done in a study. In situations where key decisions
+must be made on the basis of scientific results, it
+is important that the robustness of the findings can be
+assessed quickly without the need for guessing or inferences about
+the underlying data. A stark example can be drawn from
+the COVID-19 pandemic. In April 2020, little was known about
+the disease, and a study was published on medRχiv that
+produced an estimate of the prevalence of COVID-19 in the
+population ( 5 ). At the time, important public health
+decisions had to be made in response to the pandemic,
+and any information about the disease would have been highly
+relevant. Upon publication of the study, numerous criticisms about the
+study's design and analysis appeared on social media and the
+Web. However, the aspect most relevant to this review is
+that in many of the critiques, substantial time was taken
+to simply guess at what the researchers had done. Although
+a written statistical appendix was provided with the paper, no
+data or code was published along with the study. As
+a result, independent investigators had little choice but to infer
+what was done.

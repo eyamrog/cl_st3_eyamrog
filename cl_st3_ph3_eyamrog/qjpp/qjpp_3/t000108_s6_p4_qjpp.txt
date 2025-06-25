@@ -1,0 +1,17 @@
+From a bioenergetic perspective, the recycling of osteoclasts during bone
+resorption conserves the energy cost of committing resources to recruiting
+precursors from the circulation and differentiating them into osteoclasts on
+the bone surface, resources which would otherwise be lost if
+osteoclasts underwent apoptosis. Moreover, when apoptosis was induced by two-photon
+photoablation, we observed an influx of macrophages to clear apoptotic
+debris, which is a further energy expenditure. Osteoclast recycling, and
+long-term retention of osteomorphs, represents an energy-efficient and rapid mechanism
+for osteoclast regeneration. Indeed, it was recently shown that osteoclasts
+were maintained by iterative fusion with circulating monocytic cells and
+that this resulted in longer-than-expected lifespan ( Jacome-Galarza et al.,
+2019 33. Jacome-Galarza, C.E. ∙ Percin, G.I. ∙ Muller, J.T.
+... Developmental origin, functional maintenance and genetic rescue of osteoclasts
+Nature. 2019; 568 :541-545 Crossref Scopus (302) PubMed Google Scholar
+). This is consistent with our data and suggests that
+the fusion of osteomorphs with osteoclasts may also contribute to
+this increased lifespan.

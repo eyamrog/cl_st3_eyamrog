@@ -1,7 +1,0 @@
-5E5 barcoded MDA-MB-231 cells were seeded on the 10-cm dish
-and the next day treated with 100 μg/ml doxycycline for
-2 hours. Cells were then rinsed by PBS three times
-to completely remove doxycycline and then allowed to grow in
-vitro for 4 days. 1 million cells were collected for
-barcode sequencing and 0.5 million cells were re-cultured and received
-next round of doxycycline treatment 24 hours later.

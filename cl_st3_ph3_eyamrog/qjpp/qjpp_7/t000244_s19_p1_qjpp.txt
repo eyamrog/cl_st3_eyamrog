@@ -1,9 +1,17 @@
-Data analyses were performed with R Statistics version 3.6.0 and
-data management with SPSS. A trimmed dataset and script can
-be found on OSF. Based on Mahalanobis distance, nine multivariate
-outliers were excluded before analyses. Because of skewed distributions, we
-repeated every analysis with square-transformed scales and found results to
-be similar. To control for error accumulation, we used a
-Bonferroni correction. A significant relation was signaled by p s
-< .025 for H2–5. A correlation table and visualizations with
-Gaussian plots can be found in Supporting Information A8–A10.
+We used R Statistics (v3.5.2) for data analysis and SPSS
+for data management. A trimmed dataset and script can be
+found on Open Science Framework (OSF; Hamann & Reese, 2019
+). Based on Mahalanobis distance, one multivariate outlier was excluded
+before analyses. Correlational analyses included all remaining participants; experimental tests
+only contained participants who passed our manipulation check ( N
+= 218). We used regression to test H1 and H2
+because our sample size did not allow tests of self-reported
+PEB or analyses including covariates in structural equation models [SEM].
+Sub hypotheses comparing efficacy beliefs and positive affect, however, were
+only testable using SEM. Because of skewed distributions, we repeated
+every analysis with square-transformed scales and found results to be
+similar. To control for error accumulation in H1b/c, we used
+Bonferroni correction. A significant relation is signaled by p <
+.025 for H1b and p < .017 for H1c. Means,
+standard deviations, and correlations of scales can be found in
+the Supporting Information A2.

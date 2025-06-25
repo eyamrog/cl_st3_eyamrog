@@ -1,0 +1,11 @@
+The consistent results obtained from complementary assays (bulk and scRNA-seq
+and mass cytometry) provided independent confirmation of the specific signatures
+of neutrophils in each tissue. Combination of bulk sequencing and
+mass cytometry with parabiosis, in turn, suggested that these signatures
+were acquired as neutrophils infiltrated the tissues from the bloodstream,
+an issue of particular relevance for tissues in which neutrophils
+are produced (i.e., BM and spleen). In this regard, we
+note that myeloid progenitors crossing between parabiotic partners could potentially
+generate noise in this model; however, we have found that
+crossed hematopoiesis represents less than 5% and should have a
+minor influence in the overall profiling of the cells.

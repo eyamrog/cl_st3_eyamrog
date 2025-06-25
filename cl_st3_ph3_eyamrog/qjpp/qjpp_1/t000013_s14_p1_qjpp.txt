@@ -1,0 +1,14 @@
+Use of clinical excess of human specimens from patients with
+SARS-CoV-2 from the Broad Institute’s Genomics Platform CLIA Laboratory was
+approved by the MIT institutional review board (IRB) protocol no.
+1612793224. Additional SARS-CoV-2 samples were collected from consented individuals under
+Harvard Longwood Campus IRB no. 20-1877 and covered by an
+exempt determination (EX-7295) at the Broad Institute. Other human-derived samples
+from patients with SARS-CoV-2 were collected by the CDC and
+determined to be nonhuman participant research; the Broad Office of
+Research Subject Protections determined these samples to be exempt (EX-7209).
+Human specimens from patients with SARS-CoV-2, HCoV-HKU1, HCoV-NL63, FLUAV, FLUBV,
+HRSV and HMPV were obtained under a waiver of consent
+from the Mass General Brigham IRB protocol no. 2019P003305. Researchers
+at Princeton were determined to be conducting not-engaged human participant
+research by the Princeton University IRB.

@@ -1,0 +1,7 @@
+To construct C-terminal GFP-tagged RGI1/RGFR4▵KD (pCHF3-RGI1▵KD-GFP), the kinase domain truncated
+RGI1/RGFR4 (1-2241 bp) was amplified using the primers pCHF3-Kpn I-RGI1
+-Gib-F and pCHF3-RGI1dK-Bam HI-Gib-R from Arabidopsis Col-0 cDNA, and inserted
+into Kpn I and Bam HI sites of vector pCHF3-GFP
+by Gibson cloning. The Y258A and Y282A mutations on pCHF3-RGI1▵KD-GFP
+were generated with the help of primers RGI1-Y258A-mutant-F and RGI1-Y258-mutant-R,
+RGI1-Y282A-mutant-F and RGI1-Y282-mutant-R, respectively, using KOD-Plus-Mutagenesis Kit (TOYOBO).

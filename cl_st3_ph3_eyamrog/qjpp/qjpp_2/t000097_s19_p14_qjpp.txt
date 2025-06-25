@@ -1,0 +1,23 @@
+We then separately re-clustered macrophages to obtain deeper profiling (
+Figures 6 A and 6B). As in Figure 2 ,
+macrophage subsets were designated with either a gene name or
+a number, depending on whether they expressed a typical macrophage
+gene or a constellation of genes. Clusters were further designated
+with a “t” to indicate that they were distinguished following
+antibody treatments. We identified eight subsets that broadly expressed TREM2
+( Figures 6 A–6E). CX 3 CR1-Macs-t resided primarily in
+cluster 2, as well in Cycling Macs-t (cluster 7). Most
+Mrc1-Macs-t were confined to cluster 4, with few Mrc1 +
+cells in clusters 2 and 7. Nos2-Macs-t were present in
+clusters 5 and 6 ( Figures 6 D and 6F),
+which were distinguished based on selective expression of Il1r2, Cd244
+, and Spp1 (cluster 5), as well as C3, CD38
+, and Ly6i (cluster 6) ( Figures S4 A and
+S4B). Cluster 3 exhibited a clear IFN signature, indicated by
+an enrichment for Isg15 , Ifit3 , and Rsad2 transcripts
+( Figures 6 D and 6F). Macs1-t (cluster 0) and
+Macs2-t (cluster 1) encompassed cells expressing monocyte markers such as
+Ccr2 and IL1r2 and hence may be monocytes that recently
+immigrated into the tumor from blood. The distinction into two
+subsets was marked by Ly6i (Macs1-t) and Fgd2 (Macs2-t) (
+Figures 6 D and 6F).

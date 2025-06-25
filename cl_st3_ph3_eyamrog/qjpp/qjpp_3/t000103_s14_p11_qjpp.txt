@@ -1,0 +1,24 @@
+BHK-21 cells were plated the day before using 3 ×
+10 7 cells per T-225 cm 2 flask (Corning). The
+following day, cells were inoculated with SINV/EEEV at a MOI
+of 0.2 in DMEM/2% FBS. After incubation at 37°C in
+5% CO 2 for 48 hours, SINV/EEEV was harvested by
+clarification of infected BHK-21 cell supernatants through a 0.2-μm pore
+size filter (Nalgene). Virus then was used fresh or stored
+at −80°C until use. For cryo-EM studies, BHK-21 cells were
+inoculated with SINV/EEEV at a MOI of 5 in DMEM/2%
+FBS. After incubation at 37°C in 5% CO 2 for
+16 hours, SINV/EEEV was harvested by centrifugation at 2,000 x
+g at 4°C for 10 minutes. Virus supernatant was precipitated
+in 14% (w/v) PEG 6000 (Sigma-Aldrich) and 4.6% (w/v) NaCl
+(Corning) overnight at 4°C, followed by centrifugation at 2,500 x
+g at 4°C for 30 minutes. A linear, continuous 10
+to 50% OptiPrep (Sigma-Aldrich) gradient was used to purify the
+SINV/EEEV particles further at 136,873 x g (r max )
+for 1.5 hours at 4°C using an AH-650 swinging bucket
+rotor (Sorvall). SINV/EEEV particles were collected and buffer exchanged into
+TNE buffer (50 mM Tris-HCl pH 7.5 (Sigma), 100 mM
+NaCl, 0.1 mM EDTA (Corning)) to a concentration of ~0.1
+mg/mL total protein content, as determined by a Bradford assay
+or BCA assay (Thermo Fisher Scientific). Virus then was used
+fresh or stored at 4°C until use.

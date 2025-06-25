@@ -1,0 +1,14 @@
+Batch effects are a major concern for this low-biomass study
+and any large-scale study. The median flowcell used in our
+study contained samples from 3 cities and 2 continents. However,
+two flowcells covered 18 cities from 5 or 6 continents
+respectively. When samples from these flowcells were plotted using UMAP
+(see global diversity varies according to key covariates for details)
+the major global trends we described were recapitulated ( Figure
+S2 F). Plots of the number of reads against region
+( Figure S2 G) showed a stable distribution of reads
+across cities. Analogous plots of PCR Qubit scores were less
+stable than the number of reads but showed a clear
+drop for control samples ( Figure S2 H). These results
+led us to conclude that batch effects are likely to
+be minimal.

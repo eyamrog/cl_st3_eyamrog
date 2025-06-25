@@ -1,0 +1,18 @@
+We compiled a dataset of 146 sequenced timepoints belonging to
+the 27 patients based on Supplementary Tables 2 and 3
+. Each timepoint was described using seven features: age, sex,
+days-since-infection, B cell depletion, steroid treatment, ABT and viral rebound,
+with the latter five features as binary features. The outcome
+was defined as whether or not an antibody evasion mutation
+was detected at the given timepoint. Severe B cell depletion
+was defined if one of the two following conditions was
+met: treatment with anti-B-cell-directed antibodies up to 9 months before
+COVID-19 detection or a blood test measurement of low B
+cell markers. Steroid treatment was defined if a dosage higher
+than 20 mg of prednisone per day (or equivalent for
+other drugs) was administered. ABT was defined as positive if
+a treatment of CP, hyperimmune plasma or mAbs were administered
+up to 7 days before the treatment. Finally, viral rebound
+was defined as positive if the COVID-19 PCR test just
+before the sequenced timepoint was borderline or negative (Supplementary Tables
+2 and 3 ).

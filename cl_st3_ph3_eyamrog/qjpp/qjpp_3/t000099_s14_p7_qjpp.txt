@@ -1,0 +1,16 @@
+To induce neutropenia, 4 and 6-12 week-old male and female
+Mrp8 Cre iDTR mice were injected intraperitoneally with 10 μg/kg
+of diphtheria toxin (DT; Calbiochem) for 7 days. Injections were
+done every 2 day. An intraperitoneal injection of tamoxifen (4mg/mice)
+was performed to induce CRE recombinase activity in 6-12 week-old
+male iLy6G tdTom mice. Maximum pulse labeling efficiency was reached
+3 days after tamoxifen administration in blood and in tissues,
+and affects 5%–10% of the overall neutrophil population. To explore
+the role of GM-CSF and TGFb in neutrophil tissue specification
+by Nanostring profiling, 6-12 week-old C57BL/6 male mice were treated
+i.v. with 100 mg of anti-GM-CSF (BE0259 BioxCell, MP1/22E9) or
+anti-TGFb (BE0057 BioxCell 1D/11) antibodies for 3 consecutive days before
+harvest. To study the role of neutrophils on endothelial cell
+proliferation and on leukocyte counts recovery, 6-12 week-old male and
+female mice received a 6Gy irradiation dose and measurements were
+made 7 days after irradiation.

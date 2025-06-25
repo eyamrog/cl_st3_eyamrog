@@ -1,6 +1,0 @@
-Although debiasing machine learning models have gained a lot of
-attention in recent years, a means of applying all scenarios
-has not yet been found, underscoring the difficult nature of
-this problem. Therefore, depending on the specific problem at hand,
-scientists should investigate the three currently accepted definitions of fairness
-and evaluate which is most relevant.

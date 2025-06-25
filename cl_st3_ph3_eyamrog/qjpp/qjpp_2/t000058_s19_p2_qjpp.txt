@@ -1,0 +1,18 @@
+The 124 (1·8%) of 6791 MSOAs with the lowest female
+life expectancy and 262 (3·9%) MSOAs with the lowest male
+life expectancy in 2019 were located in urban areas, particularly
+in the north, including Blackpool, Leeds, Liverpool, Manchester, and Newcastle.
+Many of the MSOAs with the highest life expectancy, especially
+for men, were in London and its neighbouring districts. Female
+and male life expectancy were correlated across MSOAs with a
+correlation coefficient of 0·87 ( figure 4 ). Female life
+expectancy was higher than male life expectancy in all but
+15 MSOAs. The female advantage was more than 5 years
+in 1498 (22·1%) of 6791 MSOAs and 1–5 years in
+another 5187 (76·4%). By contrast, the mean difference between male
+and female life expectancies in the 15 MSOAs with higher
+male life expectancy was 0·72 ye ars. Although formal statistical
+tests for these sex differences cannot be made because female
+and male analyses were performed separately, in all cases of
+an apparent male advantage there was substantial overlap between the
+posterior distributions for the two sexes.

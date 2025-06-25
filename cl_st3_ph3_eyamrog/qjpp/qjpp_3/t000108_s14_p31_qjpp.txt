@@ -1,0 +1,15 @@
+Cortical and trabecular parameters were determined using a Scanco uCT50
+(Scanco medical, Zurich, Switzerland). Samples were scanned at 70kV, 200
+μA, with a 0.5mm aluminum filter, 1 s integration time,
+no averaging, and images captured every 0.36° though 180° rotation.
+Reconstructions, ROI selection and analyses were performed using Scanco software.
+Trabecular bone parameters (Trabecular bone volume BV/TV, trabecular number Tb.N,
+Trabecular thickness Tb.Th, and trabecular spacing Tb.Sp) were calculated from
+scans performed at a voxel resolution of 5 μm in
+a 1mm region of the trabecular compartment beginning 100 μm
+proximal to the distal femoral growth plate. Cortical bone parameters
+(Cortical thickness Ct.Th, Internal endosteal diameter, and BMD) were calculated
+from scans performed at voxel resolution of 10 μm in
+a 1.5mm long region of mid-shaft cortical bone centered 56%
+along the length of the femur distal to the femoral
+head.

@@ -1,0 +1,16 @@
+We compared the MAG-derived viruses to known viral sequences in
+the Integrated Microbial Genome and Viral database (IMG/VR) at JGI,
+which contains viral genomes from isolates, a curated set of
+prophages, and 730,000 viral MAGs from other studies. Of the
+11,614 species discovered in the MetaSUB MAGs, 94.1% did not
+match any viral sequence in IMG/VR ( Paez-Espino et al.,
+2019 65. Paez-Espino, D. ∙ Roux, S. ∙ Chen, I.A.
+... IMG/VR v.2.0: an integrated data management and analysis system
+for cultivated and environmental viral genomes Nucleic Acids Res. 2019;
+47 :D678-D686 Crossref Scopus (110) PubMed Google Scholar ) at
+the species level for a total of 10,928 viruses that
+did not match known species. We note that this number
+was obtained using a conservative pipeline (99.6% precision) and corresponded
+well with our identified CRISPR arrays (below). This suggests that
+urban microbiomes contain a large, untapped amount of viral diversity
+not previously observed in other environments.

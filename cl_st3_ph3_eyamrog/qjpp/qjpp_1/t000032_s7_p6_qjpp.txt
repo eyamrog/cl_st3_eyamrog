@@ -1,0 +1,7 @@
+The general conclusion was that delivering a research end product
+such as a figure or table was no longer sufficient.
+Rather, the software environment and the means to create the
+end product must also be delivered, as those additional elements
+represent the actual scholarship. To satisfy this requirement, one would
+have to make available the data and the computer code
+used to generate the results.

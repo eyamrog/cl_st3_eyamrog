@@ -1,0 +1,7 @@
+The measurement framework and estimates from GBD 2019 covering 204
+countries and territories from 1990 to 2019 are described in
+the GBD 2019 capstone publications. The methods and data used
+for estimation of the burden of injury morbidity and mortality
+are provided in detail in the GBD 2017 literature. The
+key features and new updates for injury-specific data processing in
+GBD 2019 are summarised here.

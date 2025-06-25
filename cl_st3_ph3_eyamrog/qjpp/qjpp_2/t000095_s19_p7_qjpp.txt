@@ -1,0 +1,27 @@
+Three mice, one male and two females who survived the
+infection, were observed for 21 days. These mice generated antibodies
+against SARS-CoV-2 that could neutralize 100 TCID 50 viruses at
+dilutions of 1:10 to 1:40 ( Table S4 ). We
+then intranasally infected the three SARS-CoV-2 survivors and another three
+healthy mice with 7 × 10 5 TCID 50 virus/each.
+All previous survivors also survived the second infection. At the
+same time, two of the three naive-infected mice demonstrated rapid
+bodyweight loss from 4 to 5 DPI with a male
+and female animal dead at 4 DPI and 5 DPI,
+respectively ( Figures 5 A and 5B). All mice were
+euthanized at 5 DPI to evaluate viral titers and pathologic
+changes in the lung and brain tissues. Survivors had markedly
+lower viral RNA copies in the lung and did not
+present any evidence of neuroinvasion compared with those of the
+naive-infected animals ( Figure 5 C). Histopathology of the lungs
+of the re-infected survivor cohort showed moderate inflammatory infiltration. In
+contrast, the peri-branchial and peri-vascular inflammation infiltration, hyaline membrane formation,
+and some blocked terminal bronchioles were observed in the naive-infected
+group ( Figures 5 D and 5E). Limited viral antigen
+was detected in the lung and brain tissues of the
+surviving cohort of mice compared with that of the naive
+infection group ( Figures 5 F–5I). The deceased mice showed
+systemic infection due to the high viral dose challenge (
+Table S5 ). These data demonstrate that pre-exposure to SARS-CoV-2
+may protect mice from a lethal SARS-CoV-2 reinfection, which underscores
+the values of this model for future therapeutic studies.

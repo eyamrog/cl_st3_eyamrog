@@ -1,0 +1,4 @@
+Plasma concentration–time profiles across dose levels and dose versus systemic
+exposure (C max and AUC) relationships were assessed graphically. Systemic
+exposure parameters of interest included the arithmetic and geometric mean,
+C max and AUC, and 90% CIs.

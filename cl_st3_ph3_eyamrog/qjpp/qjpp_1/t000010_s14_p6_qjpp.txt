@@ -1,0 +1,5 @@
+The primary aim of this cardiovascular safety meta-analysis, in accordance
+with FDA and EMA guidance , was to demonstrate that
+tirzepatide was not associated with unacceptably high risk for cardiovascular
+events versus comparators, defined as an upper bound of the
+CI of the MACE-4 HR < 1.8.

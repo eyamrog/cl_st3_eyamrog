@@ -1,0 +1,18 @@
+We next quantified the degree to which metadata covariates influence
+the taxonomic composition of our samples using MAVRIC, a statistical
+tool to estimate the sources of variation in a count-based
+dataset ( Moskowitz and Greenleaf, 2018 53. Moskowitz, D.M. ∙
+Greenleaf, W.J. Nonparametric analysis of contributions to variance in genomics
+and epigenomics data bioRxiv. 2018; Crossref Scopus (0) Google Scholar
+) according to each samples’ metadata of city, population density,
+average temperature in June, region, elevation above sea level, surface
+type, surface material, elevation above or below ground, and proximity
+to the coast. The most important factor (19% of the
+variation) was the city from which a sample was taken,
+followed by the world’s overall region (11%). The other four
+factors accounted for 2% to 7% of the possible variation
+in taxonomy ( Table S2 ). We note that many
+of the factors were confounded with one another, so they
+can explain less diversity than their sum. Of note, the
+population density of the sampled city had no significant effect
+on taxonomic variation.

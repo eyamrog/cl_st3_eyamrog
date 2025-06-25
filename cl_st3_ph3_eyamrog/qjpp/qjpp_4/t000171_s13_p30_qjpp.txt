@@ -1,0 +1,22 @@
+ELISAs can be used to measure many single analytes in
+DBS. ELISAs have the advantage of using relatively common equipment
+(an ELISA plate reader, at the minimum) and having a
+lower cost than multiplex assays. DBS kits typically cost around
+$300 to $700 for a 96-well plate, good for running
+about 35 samples in duplicate, after accounting for standards and
+controls. Multiplex kits may be more than five times as
+expensive as ELISA kits. However, when measuring many analytes multiplex
+assays become more efficient, in terms of labor, sample used,
+and cost. However, multiplex assays also sometimes sacrifice sensitivity, particularly
+for lower concentration analytes, since they must compromise on assay
+dilutions that are effective for the many things being measured,
+which may differ in concentration by orders of magnitude. Common
+multiplex platforms include the MagPix xMAP instrument (Luminex Corp) which
+uses magnetic beads with bound antibodies, instruments from Meso Scale
+Diagnostics which use electrochemiluminescence, and flow cytometry-based bead assays such
+as the Luminex 200 System and BD Cytometric Bead Array
+kits (Becton, Dickinson and Company) which can be used with
+any number of flow cytometers. However, only a handful of
+multiplex assays have been validated with DBS (McDade et al.,
+2021 ; Skogstrand et al., 2008 ), so other assays
+will require protocol development for use.

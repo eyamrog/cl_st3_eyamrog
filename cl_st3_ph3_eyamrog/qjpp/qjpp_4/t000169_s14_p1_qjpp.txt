@@ -1,0 +1,8 @@
+We use a dataset that includes interview data from SHARE
+Wave 6, information on fieldwork conditions and sample quality related
+to respondent-matched DBS samples collected during the same wave, and
+biomarker values derived from these DBS samples. Among sample quality
+measures, the size of blood spots used for laboratory analysis
+plays an important role. Our new algorithm to measure them
+is described in Section 2.4 , followed by a subsection
+on our statistical methods.

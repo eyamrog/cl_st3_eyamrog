@@ -1,0 +1,18 @@
+Despite the core urban microbiome present in almost all samples,
+there was nonetheless a wide range of variation in taxonomy
+and localization across all the cities. To quantify this, we
+calculated the Jaccard distance between samples based on the presence
+and absence of all panmicrobiome species and performed a dimensionality
+reduction of the data using UMAP (uniform manifold approximation and
+projection, McInnes et al., 2018 49. McInnes, L. ∙ Healy,
+J. ∙ Saul, N. ... UMAP: Uniform Manifold Approximation and
+Projection Journal of Open Source Software. 2018; 3 :861 Crossref
+Google Scholar ) for visualization ( Figure 2 A). In
+principle, Jaccard distance could be influenced by read depth, where
+low abundance species drop below the detection threshold. However, we
+expect this issue to be minor as Jaccard distance of
+taxonomic profiles correlated with k-mer-based distances ( Figures S2 A
+and S2B) and because the total number of species identified
+stabilized at roughly 100,000 reads (with no sharp quality drop-off;
+Figures S2 C and S2D) compared to an average of
+6.01 million reads per sample.

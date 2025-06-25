@@ -1,0 +1,10 @@
+In order to associate detected spacers within defined groups (plasmids,
+prophages, viruses) four different genomic databases were aggregated to be
+searched with BLASTN. The aggregated database consisted of IMG/VR, PHASTER,
+and PLSDB alongside bacterial and archaeal genomic sequences from the
+National Center for Biotechnology Information (NCBI). All database downloads were
+made on the 28th January 2020. Detected and annotated spacers
+were searched against the databases mentioned above using BLASTN with
+the following additional arguments, which correspond to the default parameters
+of CRISPRTarget: word_size = 7, evalue = 1, gapopen =
+10, gapextend = 2, penalty = −1, reward = 1.

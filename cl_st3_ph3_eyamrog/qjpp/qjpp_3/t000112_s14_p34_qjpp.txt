@@ -1,0 +1,13 @@
+Finally, we compared assemblies from negative controls to assemblies from
+our case samples searching for regions of high similarity that
+could be from an identical microbial strain. We reasoned that
+uncontaminated samples may contain the same species as negative controls
+but were less likely to contain identical strains. Only 137
+case samples were observed to have any sequence with high
+similarity to an assembled sequence from a negative control (8,000
+base pairs minimum of 99.99% identity). The identified sequences were
+principally from Bradyrhizobium and Cutibacterium . Since these genera are
+core taxa (See a core urban microbiome centers global diversity
+) observed in nearly every sample but high similarity was
+only identified in a few samples, we elected not to
+remove species from these genera from case samples.

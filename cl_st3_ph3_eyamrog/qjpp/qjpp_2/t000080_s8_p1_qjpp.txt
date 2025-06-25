@@ -1,0 +1,8 @@
+Cystic fibrosis is a life-shortening autosomal recessive disease that affects
+more than 80,000 people worldwide. In cystic fibrosis, deficiencies in
+the cystic fibrosis transmembrane conductance regulator (CFTR) protein, an epithelial
+anion channel, manifest as a complex multiorgan disease, including progressive
+respiratory impairment, exocrine pancreatic insufficiency, hepatobiliary disease, and abnormal sweat
+composition. Measurement of sweat chloride concentration is a key diagnostic
+test for cystic fibrosis, and the concentration is used as
+an indicator of systemic CFTR function in clinical trials.

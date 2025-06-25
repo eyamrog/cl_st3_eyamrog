@@ -1,0 +1,5 @@
+We compared total energy expenditure in kilocalories (kcal), step counts,
+and time in four physical activity levels between the field
+school and traditional classroom settings with matched-pairs t-tests. Analyses were
+conducted in JMP Pro 16 with significance set at p
+< .05.

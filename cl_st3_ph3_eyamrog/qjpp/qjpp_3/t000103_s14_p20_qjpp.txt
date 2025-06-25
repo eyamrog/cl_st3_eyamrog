@@ -1,0 +1,13 @@
+A mouse anti-EEEV mAb (EEEV-66; MSD and ASK) ( Kim
+et al., 2019 49. Kim, A.S. ∙ Austin, S.K. ∙
+Gardner, C.L. ... Protective antibodies against Eastern equine encephalitis virus
+bind to epitopes in domains A and B of the
+E2 glycoprotein Nat. Microbiol. 2019; 4 :187-197 Crossref Scopus (11)
+PubMed Google Scholar ) was coated onto 384-well plates and
+incubated at 4°C overnight, as previously described above. After the
+blocking step, SINV/EEEV was diluted in 1x D-PBS to a
+titer of approximately 2.2 × 10 7 FFU/mL as determined
+through a focus forming assay with BHK-21 cells. After incubation
+for 2 hours at room temperature, the plates then were
+washed 6x with D-PBS-T (the first 2-3 washes were conducted
+under BSL-2 conditions in a laminar flow biosafety cabinet).

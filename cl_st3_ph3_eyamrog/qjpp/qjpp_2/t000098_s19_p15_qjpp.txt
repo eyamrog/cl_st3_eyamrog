@@ -1,0 +1,24 @@
+We then aimed to assess whether such low-cAMP nanodomains might
+also be demonstrated in cytosolic preparations and to quantify the
+concentration threshold at which they might become flooded because PDEs
+are no longer able to establish significant cAMP gradients (
+Figure 5 ). Concentration-effect curves of cAMP-induced FRET changes of
+Epac1-camps are shown for the same conditions and constructs as
+used in cells for PDE4A1 ( Figure 5 A) and
+PDE2cat ( Figure 5 B), and the resultant shifts of
+the half maximal effective concentration (EC 50 ) values are
+given in Figure 5 C. These data show, for Epac1-camps,
+an apparent cAMP affinity of 2.5 μM, which is shifted
+to 10-fold higher concentrations by tethered PDE4A1, whereas individual stoichiometric
+expression of Epac1-camps and PDE4A1 only caused a 2-fold affinity
+shift ( Figures 5 A and 5C). In line with
+the results obtained in intact cells, separating PDE4A1 from Epac1-camps
+by 10 nm reduced the shift to almost the same
+level as stoichiometric expression, essentially abolishing the specific nanodomains (
+Figures 5 A and 5C). Analogous experiments performed with PDE2cat
+revealed a somewhat larger (15-fold) shift for the directly tethered
+PDE, and here, as in cells, a 30-nm spacer only
+partially reduced the shift ( Figures 5 B and 5C).
+Inspection of the curves shows that the shifts also exist
+at higher cAMP concentrations, suggesting that the low-cAMP nanodomains become
+fully flooded only at high concentrations of cAMP.

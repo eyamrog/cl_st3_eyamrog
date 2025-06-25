@@ -1,0 +1,10 @@
+We assessed whether the effects of chronic, positively autocorrelated, and/or
+patterned exposure to drought and excess precipitation were specific to
+long-distance relationship formation, or apply to the formation of any
+relationships, by investigating whether these exposures also predict the presence
+of same-community relationships. Because the presence of a same-community relationship
+is a binary variable, we conducted these analyses using a
+logistic regression in brms. Like we did for the sequential
+models described above, we again included community of residence as
+a random effect, included control variables as fixed effects, and
+used weakly informative priors.

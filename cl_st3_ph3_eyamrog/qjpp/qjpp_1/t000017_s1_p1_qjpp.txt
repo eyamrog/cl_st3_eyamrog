@@ -1,0 +1,21 @@
+Advanced systemic mastocytosis (AdvSM) is a rare hematologic neoplasm driven
+by the KIT D816V mutation and associated with poor survival.
+This phase 1 study ( NCT02561988 ) evaluated avapritinib (BLU-285),
+a selective KIT D816V inhibitor, in patients with AdvSM. The
+primary endpoints were the maximum tolerated dose, recommended phase 2
+dose and safety of avapritinib. Secondary endpoints included overall response
+rate and changes in measures of mast cell burden. Avapritinib
+was evaluated at doses of 30–400 mg once daily in
+86 patients, 69 with centrally confirmed AdvSM. Maximum tolerated dose
+was not reached, and 200 mg and 300 mg daily
+were studied in dose-expansion cohorts. The most frequent adverse events
+observed were periorbital edema (69%), anemia (55%), diarrhea (45%), thrombocytopenia
+(44%) and nausea (44%). Intracranial bleeding occurred in 13% overall,
+but in only 1% of patients without severe thrombocytopenia (platelets
+<50 × 10 /l). In 53 response-evaluable patients, the overall
+response rate was 75%. The complete remission rate was 36%.
+Avapritinib elicited ≥50% reductions in marrow mast cells and serum
+tryptase in 92% and 99% of patients, respectively. Avapritinib induced
+deep and durable responses, including molecular remission of KIT D816V
+in patients with AdvSM, and was well tolerated at the
+recommended phase 2 dose of 200 mg daily.

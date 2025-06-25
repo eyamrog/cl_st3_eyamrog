@@ -1,0 +1,6 @@
+For quantitative root length measurement, 3-day-old Col-0 and pepr1/2 seedlings
+were transferred to fresh MS medium with or without Pep1
+to continuously grow for 4 days. Images of 7-day-old seedlings
+were captured using a digital camera. Roots were measured using
+ImageJ software (NIH). The experiments were repeated at least three
+times with similar results.

@@ -1,0 +1,7 @@
+These data were also extracted for G2019S risk allele carriers
+and these individuals were compared to both pLoF carriers and
+carriers of neither G2019S nor LRRK2 pLoF variants. There was
+no significant difference in any of the 34 biomarkers between
+pLoF and G2019S carriers after accounting for multiple testing (Supplementary
+Table 15 ). When comparing G2019S carriers to noncarriers we
+found significant associations with cystatin C and phosphate levels.

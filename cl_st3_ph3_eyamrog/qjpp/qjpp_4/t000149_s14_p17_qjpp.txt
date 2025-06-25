@@ -1,0 +1,3 @@
+Correlations between maternal traits were tested using Spearman's coefficients. Mean
+neonatal size was described (mean, SD) across categories of maternal
+phenotype, and trends were analyzed fitting linear regression models.

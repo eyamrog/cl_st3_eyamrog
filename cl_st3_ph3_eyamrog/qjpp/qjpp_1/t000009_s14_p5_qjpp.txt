@@ -1,0 +1,21 @@
+Fourth, we estimated the risk of self-harm after diagnosis of
+psychiatric disorder in patients with cancer. We identified incident cases
+of psychiatric disorder (patients who had a history of psychiatric
+disorder before cancer diagnosis were excluded) (Extended Data Fig. 1
+). Patients with a history of self-harm before or at
+the time of the first diagnosis of psychiatric disorder were
+also excluded. For each psychiatric disorder, the first date of
+diagnosis (index date) was used as the date that follow-up
+started. Controls were identified by propensity score matching by age
+at cancer diagnosis, cancer type, sex, IMD and primary care
+practice ID (a unique identifier for primary care practices). Matching
+was performed using the optimal pair matching algorithm in the
+R matchit package based on the premise that the sum
+of the absolute pairwise distances in the matched sample was
+as small as possible. Unlike the nearest-neighbor matching, optimal matching
+ensures that within-pair distances remain small. For controls, the index
+date of its corresponding matched case was the date that
+follow-up started. Patients were followed up until self-harm, date of
+deregistration from the practice, death or date of administrative censoring
+(31 October 2020), whichever occurred first (Extended Data Fig. 1
+).

@@ -1,0 +1,15 @@
+The main strength of our study is the presentation of
+high-resolution data for mortality and longevity across England over a
+period of substantial change in economic, health, and social care
+policy. By applying a hierarchical model based on patterns of
+mortality over age, space, and time, we obtained robust yearly
+estimates of mortality and life expectancy, together with the uncertainty
+in these estimates, for small areas. By contrast, studies that
+had not used a coherent model produced unstable (ie, very
+large uncertainty) or implausible life expectancy estimates in some MSOAs,
+despite having aggregated deaths over 5 years, nor could they
+analyse trends at the MSOA level. Comparison of estimates at
+MSOA and district level shows that the estimated MSOA life
+expectancy range was about 1·8 times the district-level range for
+women and 2·0 times the district-level range for men in
+2019.

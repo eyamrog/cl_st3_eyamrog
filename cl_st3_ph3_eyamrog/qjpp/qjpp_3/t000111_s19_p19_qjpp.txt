@@ -1,7 +1,0 @@
-Remarkably, transient treatment of EPZ before intra-cardiac injection, which did
-not suppress the growth of tumor cells in vitro (
-Figure S7 F), completely abolished the enhanced metastasis of bone-entrained
-SCP21 cells ( Figures 7 E–7G) and MCF7-SCP2 cells (
-Figures 7 H–7K) in vivo , again demonstrating that the
-observed effects of bone microenvironment is not through clonal selection,
-but rather epigenomic reprogramming driven by EZH2.

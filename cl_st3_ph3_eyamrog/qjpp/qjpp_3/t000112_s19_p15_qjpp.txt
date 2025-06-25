@@ -1,0 +1,12 @@
+To facilitate more straightforward mapping and comparison of sequences, we
+created GeoDNA and MetaGraph ( https://metagraph.ethz.ch/search ), a high-level web
+interface ( Figure 3 A) to search raw sequences against
+the MetaSUB dataset. Users can submit sequences to be processed
+against a k-mer graph-based representation of the MetaSUB data and
+other sequence databases (e.g., SRA). Query sequences are mapped to
+samples and collection metadata, and then a set of likely
+sample hits from around the world is returned to the
+user. This interface allows researchers to probe the diversity in
+this dataset and rapidly identify related genetic sequences, as well
+as the discovery of city-defining k-mers and sequences that might
+have forensic implications.

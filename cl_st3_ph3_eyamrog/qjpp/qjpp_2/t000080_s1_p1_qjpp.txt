@@ -1,0 +1,8 @@
+Background: Elexacaftor–tezacaftor–ivacaftor is a small-molecule cystic fibrosis transmembrane conductance regulator
+(CFTR) modulator regimen shown to be efficacious in patients with
+at least one Phe508del allele, which indicates that this combination
+can modulate a single Phe508del allele. In patients whose other
+CFTR allele contains a gating or residual function mutation that
+is already effectively treated with previous CFTR modulators (ivacaftor or
+tezacaftor–ivacaftor), the potential for additional benefit from restoring Phe508del CFTR
+protein function is unclear.

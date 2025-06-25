@@ -1,0 +1,15 @@
+The baseline characteristics of the patients in the main analysis
+population were generally balanced between the two groups, with the
+exception of a higher percentage of patients in the ctDNA-guided
+group than in the standard-management group having tumors on the
+right side ( Table 1 and Table S3). The median
+age of the patients was 64 years, and the majority
+of patients (99%) had an ECOG performance-status score of 0
+or 1. T4 disease was present in 15% of the
+patients, and 5% had a lymph node yield of less
+than 12. Clinical high-risk disease, defined as one or more
+clinicopathological risk features (T4, poor tumor differentiation, lymph node yield
+<12, lymphovascular invasion, tumor perforation, or bowel obstruction) in association
+with a proficient mismatch-repair tumor, was present in 176 patients
+(40%). The baseline characteristics of the patients in the per-protocol
+population are shown in Table S2.

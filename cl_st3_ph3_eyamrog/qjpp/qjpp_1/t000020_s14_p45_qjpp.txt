@@ -1,0 +1,20 @@
+The following guide and homologous recombination (HR) template were delivered
+into single cell H1 hESCs via nucleofection (Lonza 4D-Nucleofector X
+unit) using the P3 Primary Cell kit (V4XP-3024), pulse code
+CA137 and pX459 (Addgene): AATAAGGCATTTCATATAGT and ACAGGCCTGTGATAGAGCTTCCCCATTGT GAGAACTCTGAAATTATCATCTGACTATATGAAATGCCTTATTTTCCAATGGGATTTTGGTCAAGATTAA. Cells were
+allowed to recover from nucleofection in mTeSR supplemented with 10
+µM Rock Inhibitor (Y-27632, Tocris) overnight. For the following 3
+d the cells were treated with 0.25 µg ml puromycin
+(VWR) in mTeSR. Cells were then cultured in mTeSR until
+colonies were ready to be split. Engineered cells were split
+into single cells and plated in Matrigel-coated 96-well plates at
+a density of 0.5 cells per well. Plates were screened
+for colonies 8–10 d after plating and grown until colonies
+were ready to be split. Colonies were then split with
+0.5 mM EDTA into two identical 96-well plates, one for
+DNA extraction/PCR/sequencing and one for freezing cells. Once colonies were
+ready to be split, 96-well plates were frozen in mFreSR
+(Stem Cell Technologies) and stored at −80 °C until HR-positive
+wells were identified. HR-edited cells were then thawed and expanded
+for four generations, validated by Sanger sequencing, karyotyping and OCT4
+staining before proceeding with cardiomyocyte differentiation.

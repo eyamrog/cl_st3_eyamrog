@@ -1,0 +1,12 @@
+We validated the flexible VIP method by testing RNA extracted
+from SARS-CoV-2 viral seed stocks, for the ancestral (Washington isolate:
+USA-WA1; ATCC) lineage and the Alpha, Beta, Gamma, Delta and
+Epsilon lineages (Fig. 5b and Extended Data Fig. 9 ).
+As expected, the Washington SARS-CoV-2 viral seed stock isolate showed
+ancestral signals for all mutations tested. Alpha, Beta, Gamma, Delta
+and Epsilon had expected signals for every mutation confirmed by
+NGS (Supplementary Table 11 ; description in the Methods ).
+Although each crRNA had different kinetics owing to varying hit-calling
+thresholds, we almost always observed a higher expected signal above
+the unexpected signal, which is important in the prevention of
+false positive results (Supplementary Fig. 5 ).

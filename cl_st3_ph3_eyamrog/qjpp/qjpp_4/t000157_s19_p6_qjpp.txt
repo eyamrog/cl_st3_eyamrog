@@ -1,0 +1,8 @@
+Figures 3 and 4 visualize the body wSDS and the
+BMI_SDS distributions. Except for the rural Soe children (Shapiro–Wilk Test,
+wSDS p = .14 ; BMI_SDS p = .414 )
+the distributions of wSDS were skewed (Ubud, Shapiro–Wilk Test, wSDS
+p = .009 ; BMI_SDS p < .001 ; Kupang,
+wSDS p = .001 ; BMI_SDS p < .001 )
+highlighting the significant prevalence of overweight and obesity in Ubud
+and Kupang.

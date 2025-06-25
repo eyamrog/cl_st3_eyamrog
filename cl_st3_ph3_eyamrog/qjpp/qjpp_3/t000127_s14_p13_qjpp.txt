@@ -1,0 +1,10 @@
+For confocal microscopic analysis, 4-day-old (Col-0 background and RGI1/RGFR4pro:PEPR1 LRR
+-RGI1/RGFR4 TM+KD / pepr1 pepr2 ) or 5-day-old ( aqc1-1
+and rgi1,2,3,4 background) seedlings were transferred to the respective MS
+medium for 12 h ( RGFR1pro:PEPR1 LRR -RGFR1 TM+KD /
+pepr1 pepr2 ), 1 day (Col-0 and rgi1,2,3,4 ) or
+2 days ( aqc1-1 ). The seedlings were stained with
+10 μM propidium iodide for 5 min, gently washed with
+double distilled water, and mounted on glass slides and analyzed
+at 600-640 nm for propidium iodide or 525-565 nm for
+YFP using a confocal microscope (Zeiss LSM880).

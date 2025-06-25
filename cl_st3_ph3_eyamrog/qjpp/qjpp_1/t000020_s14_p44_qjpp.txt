@@ -1,0 +1,12 @@
+Cardiomyocyte differentiation of the control and engineered H1 hESC lines
+was performed according to the protocol by Lian et al.
+. Briefly, 500,000 cells were plated on hESC-qualified Matrigel (VWR,
+BD354277), grown in mTeSR1 medium for 4 d (StemCell Technologies,
+85850) and switched to RPMI medium (Life Technologies) with B27
+supplement (Life Technologies), switching to B27 with insulin at day
+7 for the remainder of the protocol. On day 0
+of differentiation, 12 µM CHIR99021 (Tocris) was applied for 24
+h. At day 3, cultures were treated with 5 µM
+IWP2 (Tocris) for 24 h. Bright-field images and movies were
+acquired at day 17 and cells were collected for protein/RNA
+extraction at day 19.

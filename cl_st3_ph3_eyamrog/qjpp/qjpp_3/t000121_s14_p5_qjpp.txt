@@ -1,7 +1,0 @@
-HEK293T cells (ATCC) were transfected to produce pseudovirus used for
-neutralization assays and virus ELISAs. TZM-bl cells (NIH ARRRP) were
-used as the target cells for HIV infection in neutralization
-assays. Both cell lines were cultured in DMEM (ThermoFisher Scientific)
-supplemented with 10% fetal bovine serum, 20 mM L-glutamine, 100
-U/mL penicillin, and 100 μg/mL streptomycin (all additives from ThermoFisher
-Scientific) and incubated at 37þC with 5% CO 2 .

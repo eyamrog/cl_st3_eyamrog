@@ -1,22 +1,5 @@
-As in Study 1, items were adapted from van Zomeren
-et al. ( 2010 , 2013 ) and Hanss and
-Böhm ( 2010 ). With a strict time limit and
-more efficacy constructs in Study 2, three items each measured
-direct goal self-efficacy ( α = .83, “I believe that
-I as an individual can advance environmental protection”), indirect goal
-self-efficacy ( α = .88, “I believe that I as
-an individual can encourage others to advance environmental protection”), direct
-goal collective efficacy of humanity ( α = .85, “I
-believe that we as humanity can advance environmental protection”), and
-indirect goal collective efficacy of humanity ( α = .90,
-“I believe that we as humanity can encourage one another
-to advance environmental protection”). Moreover, members of an NGO received
-three items each assessing direct goal collective efficacy of their
-NGO ( α = .85, “I believe that we as
-members of the environmental initiative can advance environmental protection”), indirect
-goal collective efficacy of their NGO ( α = .87,
-“I believe that the environmental actions of our environmental initiative
-can motivate others to do the same”), and participatory efficacy
-in their NGO ( α = .82, “I believe that
-I make a significant contribution to my environmental initiative in
-order to jointly advance environmental protection”).
+Participants responded to all items on scales of 1 (
+totally disagree/incorrect ) to 7 ( totally agree/correct , see
+Supporting Information A13 for our complete questionnaire). One item of
+PEB intention and three items of PEB were excluded before
+scale construction because item–scale correlations were below .30.

@@ -1,0 +1,13 @@
+In 2017, the MSOA in Kensington and Chelsea, London where
+Grenfell Tower is located had 119 deaths, compared with 48
+in 2016 and 51 in 2018; the additional deaths were
+caused by a fire in a high-rise residential building. This
+outlier year led to unstable estimates of the long-term trend
+in life expectancy in this MSOA, and also slightly changed
+estimates in other MSOAs in the district. To avoid this
+instability, when applying the statistical model, we replaced the number
+of deaths for this year with the mean of those
+in 2016 and 2018 for each age and sex group.
+When making estimates for 2017, the difference between actual and
+interpolated deaths was added back to the posterior estimates so
+that these deaths were counted in the corresponding year.

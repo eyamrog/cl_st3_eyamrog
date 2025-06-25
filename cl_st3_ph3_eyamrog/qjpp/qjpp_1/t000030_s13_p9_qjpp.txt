@@ -1,0 +1,15 @@
+While ILI rates provide information on levels of influenza activity
+in the community, these rates rarely decline completely to zero
+outside of the influenza season because of the circulation of
+other respiratory virus infections. To provide a metric that better
+correlates with the incidence of influenza virus infections in the
+community, Goldstein et al. ( 37 ) introduced the ILI+
+proxy by multiplying ILI rates with rates of influenza detection
+in the laboratory. This ILI+ proxy was found to be
+a closer linear correlate of influenza virus infections in the
+2009 influenza pandemic than were ILI rates or laboratory detection
+rates alone ( 91 ), and it has now been
+widely adopted as a good measure of representation for the
+influenza epidemic curve in a population ( 3 , 4
+, 44 , 66 , 72 , 92 , 94
+, 96 , 97 ).

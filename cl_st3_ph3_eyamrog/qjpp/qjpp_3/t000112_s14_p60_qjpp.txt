@@ -1,0 +1,14 @@
+Using CRISPRCasFinder ( Couvin et al., 2018 18. Couvin, D.
+∙ Bernheim, A. ∙ Toffano-Nioche, C. ... CRISPRCasFinder, an update
+of CRISRFinder, includes a portable version, enhanced performance and integrates
+search for Cas proteins Nucleic Acids Res. 2018; 46 :W246-W251
+Crossref Scopus (747) PubMed Google Scholar ) the MetaSUB database
+was investigated to predict CRISPR arrays and annotate them with
+their corresponding predicted type based on CRISPR-Cas genes in their
+vicinity. CRISPRCasFinder was run with default parameters, “-so” and “-cas”
+options to identify cas genes. The precision and recall of
+the virus detection was 99.6% and 37.5% respectively, as previously
+reported by ( Paez-Espino et al., 2016 63. Paez-Espino, D.
+∙ Eloe-Fadrosh, E.A. ∙ Pavlopoulos, G.A. ... Uncovering Earth’s virome
+Nature. 2016; 536 :425-430 Crossref Scopus (676) PubMed Google Scholar
+).

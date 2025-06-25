@@ -1,0 +1,13 @@
+However, there is no consistent pattern that describes the evolution
+of SARS-CoV-2 across all chronic infections. Whereas some cases display
+considerable evolution in the spike (S) protein, in other chronic
+infections, relatively limited evolution is observed. In this study, we
+set out to consolidate the evolutionary patterns found across chronic
+infections by re-analyzing previous reports and by sequencing a cohort
+of six patients with chronic SARS-CoV-2 infection from the Tel
+Aviv Sourasky Medical Center (TASMC) . We explore the shared
+and unique mutational patterns that emerge in different chronically infected
+patients and compare them to those observed in global data
+reflecting transmission chains in acutely infected individuals. We focus on
+correlates of adaptive evolution and the potential for the creation
+of new VOCs.

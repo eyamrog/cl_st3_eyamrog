@@ -1,0 +1,21 @@
+Factor VIII gene transfer with a single intravenous infusion of
+valoctocogene roxaparvovec (AAV5-hFVIII-SQ) has demonstrated clinical benefits lasting 5 years
+to date in people with severe hemophilia A. Molecular mechanisms
+underlying sustained AAV5-hFVIII-SQ-derived FVIII expression have not been studied in
+humans. In a substudy of the phase 1/2 clinical trial
+( NCT02576795 ), liver biopsy samples were collected 2.6–4.1 years
+after gene transfer from five participants. Primary objectives were to
+examine effects on liver histopathology, determine the transduction pattern and
+percentage of hepatocytes transduced with AAV5-hFVIII-SQ genomes, characterize and quantify
+episomal forms of vector DNA and quantify transgene expression (hFVIII-SQ
+RNA and hFVIII-SQ protein). Histopathology revealed no dysplasia, architectural distortion,
+fibrosis or chronic inflammation, and no endoplasmic reticulum stress was
+detected in hepatocytes expressing hFVIII-SQ protein. Hepatocytes stained positive for
+vector genomes, showing a trend for more cells transduced with
+higher doses. Molecular analysis demonstrated the presence of full-length, inverted
+terminal repeat-fused, circular episomal genomes, which are associated with long-term
+expression. Interindividual differences in transgene expression were noted despite similar
+successful transduction, possibly influenced by host-mediated post-transduction mechanisms of vector
+transcription, hFVIII-SQ protein translation and secretion. Overall, these results demonstrate
+persistent episomal vector structures following AAV5-hFVIII-SQ administration and begin to
+elucidate potential mechanisms mediating interindividual variability.

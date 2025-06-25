@@ -1,0 +1,17 @@
+Community-based studies of complete cycles in large samples became feasible
+with the development of assays for the measurement of unbound
+steroids in saliva samples and steroid metabolites in urine samples.
+Measurements in urine and saliva are reasonably reliable biomarkers for
+luteal-phase progesterone concentrations in serum (considered the gold standard for
+endogenous hormone levels) (reviewed in Vitzthum, 2021 ). Because of
+differences in assay protocols and laboratory conditions, there are likely
+to be differences across laboratories in their measurement of the
+absolute concentration of a given analyte in a specific sample
+even though each assay is a demonstrably reliable biomarker (Dabbs
+Jr et al., 1995 ). Nonetheless, different assays can be
+expected to show comparable variability in progesterone concentration across a
+longitudinal series of samples from a single individual because each
+biomarker is co-varying with the same changes in endogenous physiology.
+In our analyses we are thus able to take advantage
+of these relationships to evaluate similarities and differences in variability
+in progesterone biomarkers in our German and Bolivian study samples.

@@ -1,0 +1,22 @@
+Southern blotting was used to identify the configuration of circular
+episomes. For each sample, 5 µg of DNA was digested
+for 2 h with 50 units each of EcoRI and
+HindIII restriction enzymes (New England Biolabs), which do not cut
+within vector genomes, followed by PS-DNase treatment at 37 °C
+for 16 h. The reaction was halted by heat inactivation
+at 80 °C for 20 min; an additional set of
+samples was also incubated at 37 °C for 2 h
+with 10 units of KpnI. For all samples, DNA was
+isolated with phenol-chloroform extraction, precipitated in ethanol and resuspended in
+30 µl of nuclease-free water. Purified DNA samples were mixed
+with 6× gel loading dye (New England Biolabs), loaded into
+a 0.7% agarose gel containing 0.5× SYBR Safe DNA Gel
+Stain dye (Thermo Fisher Scientific), and electrophoresis was performed at
+30 to 35 V for 16 to 18 h at
+room temperature. DNA was depurinated in 0.5 M sodium hydroxide
+and 1.5 M sodium chloride denaturing buffer for 30 min
+at room temperature with gentle agitation, neutralized in 1.5 M
+NaCl and 0.5 M Tris-HCl (pH 7.0) neutralizing buffer for
+30 min, and then soaked in 20× SSC transfer buffer
+(3 M sodium chloride and sodium citrate (pH 7.0)) for
+30 min.

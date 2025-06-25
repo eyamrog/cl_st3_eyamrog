@@ -1,0 +1,7 @@
+Buckheit & Donoho introduced much of the statistical community to
+the concept of reproducibility with an influential paper in 1995
+detailing their WaveLab software for implementing wavelets for data analysis
+( 9 ). Citing Claerbout as a strong influence, Buckheit
+& Donoho's rationale for promoting reproducible research produced a useful
+summary of Claerbout's ideas that has since been repeated many
+times:

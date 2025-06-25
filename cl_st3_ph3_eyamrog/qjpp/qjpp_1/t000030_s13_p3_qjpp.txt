@@ -1,0 +1,11 @@
+Broadly speaking, influenza surveillance is carried out via two main
+approaches. First, to understand the occurrence of influenza illnesses in
+the community, syndromic surveillance systems collect information from outpatient clinics
+or hospitals and describe patterns in incidence over time. Second,
+laboratory surveillance systems test samples collected from influenza patients and
+provide information on the virologic characteristics of circulating strains. This
+information can be used in vaccine strain selection and to
+monitor resistance against antiviral drugs. Some countries have established multiple
+sources of influenza surveillance data, which can be synthesized to
+provide more detailed information on influenza dynamics, improving the value
+of this information ( Figure 1 ).

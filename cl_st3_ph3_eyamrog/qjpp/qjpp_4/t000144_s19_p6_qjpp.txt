@@ -1,0 +1,6 @@
+A random effect for community was included in each model.
+One can obtain estimates for random effects, examining whether the
+CI for the intercept for a community includes an OR
+of 1. Across the five main models, all estimates for
+random effects included an OR of 1, suggesting that community
+of residence did not predict having an additional long-distance relationship.

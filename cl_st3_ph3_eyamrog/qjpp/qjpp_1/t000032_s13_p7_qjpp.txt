@@ -1,0 +1,22 @@
+It is difficult to argue that interest in exactly reproducing
+another investigator's work is anything but a modern phenomenon (
+13 ). Interest in reproducibility prior to the computer and
+Internet age was likely low or nonexistent, given that there
+was generally no expectation that investigators would share data in
+papers—there was simply no practical way to do that except
+for very small data sets. In the past, other investigators
+could resort to independently replicating a published study only by
+using their own data collection and whatever high-level description of
+the methods that was available in the paper. In this
+setting, detailed descriptions of the methods of analysis were critical
+if other investigators were to execute the same approach. If
+the process of conducting the experiment or analysis were simple
+enough or were sufficiently standardized, then it could be reasonably
+described in the confines of a journal article. Suggesting that
+analyses be described with data and code is a departure
+from previous ways of communicating scientific results, which relied on
+describing experiments and analyses in more general terms to give
+readers the highlights of what was done. A more abstract
+approach could not be taken with this new form of
+computational research because the proper abstractions for communicating ideas and
+standardization of approaches were not yet available.

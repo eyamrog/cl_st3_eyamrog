@@ -1,0 +1,16 @@
+Checkpoint immunotherapy unleashes T cell control of tumors, but is
+undermined by immunosuppressive myeloid cells. TREM2 is a myeloid receptor
+that transmits intracellular signals that sustain microglial responses during Alzheimer’s
+disease. TREM2 is also expressed by tumor-infiltrating macrophages. Here, we
+found that Trem2 –/– mice are more resistant to growth
+of various cancers than wild-type mice and are more responsive
+to anti-PD-1 immunotherapy. Furthermore, treatment with anti-TREM2 mAb curbed tumor
+growth and fostered regression when combined with anti-PD-1. scRNA-seq revealed
+that both TREM2 deletion and anti-TREM2 are associated with scant
+MRC1 + and CX 3 CR1 + macrophages in the
+tumor infiltrate, paralleled by expansion of myeloid subsets expressing immunostimulatory
+molecules that promote improved T cell responses. TREM2 was expressed
+in tumor macrophages in over 200 human cancer cases and
+inversely correlated with prolonged survival for two types of cancer.
+Thus, TREM2 might be targeted to modify tumor myeloid infiltrates
+and augment checkpoint immunotherapy.

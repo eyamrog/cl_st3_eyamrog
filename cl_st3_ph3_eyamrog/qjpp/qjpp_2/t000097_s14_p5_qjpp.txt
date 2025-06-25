@@ -1,0 +1,17 @@
+Mice were of mixed sexes. Mice within experiments were age
+and sex matched. Mice were housed under specific pathogen free
+conditions. Mice from different genotypes were cohoused from birth and
+separated during the experiment (the day of tumor injection). Mice
+did not undergo any procedures prior to their stated use.
+Mice used in this study include WT C57BL/6J and Trem2
+–/– animals bred at Washington University School of Medicine animal
+facility. For experiments with wild-type groups only (e.g., experiments with
+anti-TREM2 treatment), wild-type mice were purchased from Jackson. All animals
+were backcrossed until at least > 98% C57BL/6J confirmed by
+genotype wide microsatellite typing. For tumor models, animals were injected
+at 8 weeks of age for MCA/1956 and MC38 cell
+lines. For the PyMT model, female mice were injected at
+10 weeks of age. All studies performed on mice were
+done in accordance with the Institutional Animal Care and Use
+Committee at Washington University in St. Louis approved all protocols
+used in this study.

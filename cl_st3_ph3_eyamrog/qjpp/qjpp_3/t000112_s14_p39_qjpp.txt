@@ -1,0 +1,14 @@
+Sequence data were processed with AdapterRemoval (v2.17, Schubert et al.
+(2016) 74. Schubert, M. ∙ Lindgreen, S. ∙ Orlando, L.
+AdapterRemoval v2: rapid adapter trimming, identification, and read merging BMC
+Res. Notes. 2016; 9 :88 Crossref Scopus (1033) PubMed Google
+Scholar ) to remove low quality reads and reads with
+ambiguous bases. Subsequently reads were aligned to the human genome
+(hg38, including alternate contigs) using Bowtie2 (v2.3.0, fast preset, Langmead
+and Salzberg (2013) 41. Langmead, B. ∙ Salzberg, S.L. Fast
+gapped-read alignment with Bowtie 2 Nat. Methods. 2013; 9 :357-359
+Crossref Scopus (32362) Google Scholar ). Read pairs where both
+ends mapped to the human genome were separated from read
+pairs where neither mate mapped. Read pairs where only one
+mate mapped were discarded. Hereafter, we refer to the read
+sets as human reads and non-human reads.

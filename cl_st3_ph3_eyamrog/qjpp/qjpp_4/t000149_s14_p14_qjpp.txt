@@ -1,0 +1,13 @@
+Deliveries by cesarean section or episiotomy were considered the primary
+outcomes. Secondary outcomes, due to the smaller sample size, were
+labor lasting >24 h and obstructed labor. Exposures were maternal
+age groups, using the oldest group as the reference; the
+number of previous pregnancies, using 4+ as the reference; maternal
+short stature, using women >148 cm as the reference; and
+maternal BMI in late pregnancy, using women <21 kg/m 2
+as the reference. Preliminary analysis indicated that BMI in late
+pregnancy was more predictive of birth outcomes than BMI in
+early pregnancy, and was therefore preferred in the multivariable models
+described below. Preliminary analyses also found paternal education more predictive
+than maternal education, so paternal education was used in final
+models.

@@ -1,0 +1,7 @@
+To detect any potential off-target effects caused by CRISPR/Cas9 genome
+editing, WGS was conducted for both engineered and control cell
+lines. DNA extraction, quality control and 30× PCR-free WGS were
+performed by the Genomics Platform at the Broad Institute. An
+AllPrep DNA/RNA extraction kit was used, following its protocol. Alignment,
+marking of duplicates, recalibration of quality scores and variant calling
+were all performed using GATK best practices .

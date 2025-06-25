@@ -1,0 +1,25 @@
+A report from the COVID-19 Infection Survey, conducted by the
+UK Office for National Statistics, showed that individuals infected with
+the B.1.1.7 variant were more likely to report a cough,
+sore throat, fatigue, myalgia, and fever in the 7 days
+preceding the test, and less likely to report a loss
+of taste or smell. It is not clear whether this
+report adjusted for age, sex, and environmental factors, although we
+found that adjustment for these factors did not affect the
+results of our analysis ( appendix p 6 ). The
+discrepancy between our results and those of the COVID-19 Infection
+Survey might be explained by sampling at different points in
+the disease course. Our participants predominantly sought testing at symptom
+onset, whereas the design of the COVID-19 Infection Survey means
+that the tests could have been administered to the participants
+at any point during the disease course. The B.1.1.7 variant
+has been shown to cause longer infections, which means that
+symptom reports from COVID-19 Infection Survey participants infected with the
+B.1.1.7 variant might have been recorded later in the disease
+course than those infected with other variants, causing apparent differences.
+The periods considered also differed: we considered symptoms reported 2
+weeks before and 2 weeks after the positive test result,
+in contrast to the 1 week before the positive test
+considered by the COVID-19 Infection Survey. Further opportunities to study
+symptoms associated with infection with the B.1.1.7 variant in different
+contexts are required to provide definitive answers.

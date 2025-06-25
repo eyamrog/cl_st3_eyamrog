@@ -1,6 +1,0 @@
-ChIP DNA was quality-controlled using the NGS-assay on a FEMTO-pulse
-(Agilent); then, an Illumina-compatible library was prepared with the Ovation
-Ultralow V2 DNA-Seq library preparation kit (Tecan Genomics) and single-end
-1 x 150-bp sequenced on a HiSeq 3000 (Illumina) device.
-For each library, an average of 20 millions reads were
-obtained.

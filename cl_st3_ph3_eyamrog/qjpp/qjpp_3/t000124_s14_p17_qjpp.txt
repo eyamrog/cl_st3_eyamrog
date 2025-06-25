@@ -1,7 +1,0 @@
-Alternatively, Hifiasm ( Cheng et al., 2021 10. Cheng, H.Y.
-∙ Concepcion, G.T. ∙ Feng, X.W. ... Haplotype-resolved de novo
-assembly using phased assembly graphs with hifiasm Nat. Methods. 2021;
-18 :170-175 Crossref Scopus (203) PubMed Google Scholar ), available
-at https://github.com/chhylp123/hifiasm , was used for the assembly of R.
-breviuscula , R. tenuis , and J. effusus with the
-following command:

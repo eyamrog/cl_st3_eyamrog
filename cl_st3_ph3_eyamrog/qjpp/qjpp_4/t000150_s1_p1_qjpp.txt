@@ -1,0 +1,9 @@
+Objectives: Human biologists are increasingly interested in measuring and comparing
+physical activities in different societies. Sedentary behavior, which refers to
+time spent sitting or lying down while awake, is a
+large component of daily 24 hours movement patterns in humans
+and has been linked to poor health outcomes such as
+risk of all-cause and cardiovascular mortality, independently of physical activity.
+As such, it is important for researchers, with the aim
+of measuring human movement patterns, to most effectively use resources
+available to them to capture sedentary behavior.

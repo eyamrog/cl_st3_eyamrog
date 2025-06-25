@@ -1,7 +1,29 @@
-Like Study 1, we find support for Hypothesis 1: those
-who were more (vs. less) open reported better mental health,
-b = 0.149, SE = 0.051, p = .005, 95
-% CI [0.047, 0.251]. In addition to this direct effect,
-openness had both beneficial and costly indirect effects on mental
-health through community integration, perception of both group and personal
-discrimination and, to some extent, identity importance.
+Subjective well-being. Supporting Hypothesis 1, there was a significant, positive
+direct effect of openness (vs. being more “closeted”) on subjective
+well-being, b = 0.07, SE = 0.01, p < .001,
+95 % CI [0.04, 0.09]. Furthermore, greater (vs. less) LGBTQ
++ community integration was linked to higher subjective well-being, b
+= 0.08, SE = 0.01, p < .001, 95 %
+CI [0.06, 0.10]; perceiving more discrimination (vs. less) was also
+linked to worse well-being, b = -0.04, SE = 0.01,
+p < .001, [-0.06, −0.02]. Confirming Hypothesis 2, we found
+that openness influenced subjective well-being through its effect on community
+integration. Shown in the first column of Table 3 ,
+the confidence interval for the indirect effect of openness on
+subjective well-being through community integration did not include zero. Table
+3 . Indirect effects (95 % confidence intervals) of openness
+on subjective well-being and mental health through predictors (Study 1–2).
+Empty Cell Openness→predictors→DV Study 1 Study 2 Hypothesis (H) 95
+% CI 95 % CI H1 Total Effect .007, .023
+-.082, .031 H2 Community Integration→ .008, .018 . 025, .095
+H3 Perception of Group DISC→ .001, .006 -.056, .001 H3
+Perception of Personal DISC→ —— -.093, -.025 H4 ID→ -.009,
+.001 -.017, .018 H2/H4 ID→ Community Integration → .003, .006
+.001, .014 H3/H4 ID→ Perception of Group DISC → -.003,
+-.001 -.006, .002 H3/H4 ID→ Perception of Personal DISC →
+—— -.012, -.001 Note . Each row reflects the indirect
+effect of openness on a subjective wellbeing (Study 1) or
+mental health (Study 2). Values in boldface indicate CI excludes
+zero. 1 Higher scores indicate better subjective wellbeing or mental
+health. H(1–4) = Hypothesis; DISC = Discrimination; ID = LGBTQ
++ identity (importance).

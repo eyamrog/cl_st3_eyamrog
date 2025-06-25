@@ -1,0 +1,7 @@
+Educational attainment, recorded as the number of years in school,
+was categorized for each parent according to the structure of
+the education system in Nepal: never went to school, primary/lower
+secondary, or secondary/higher (Ministry of Education Nepal, 2016 ). Caste
+affiliation was categorized as disadvantaged (Dalit, Muslim), middle (Janjati, other
+Terai), or advantaged (Yadav, Brahmin). The wealth score data were
+converted into quintiles.

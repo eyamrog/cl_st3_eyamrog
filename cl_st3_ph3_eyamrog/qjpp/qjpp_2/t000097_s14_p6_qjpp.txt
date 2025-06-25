@@ -1,0 +1,8 @@
+MCA/1956 or MC38 cells were washed and resuspended in PBS
+and injected subcutaneously (10 6 cells/mouse in 100μl PBS). Mice
+were previously shaved on the flank. 10 5 PyMT cells/mouse
+were suspended in 50μl of sterile PBS and Matrigel Matrix
+(Corning #354234) and injected into the mammary fat pad (MFP).
+Mice were monitored every day and tumors were measured by
+caliper every other day. Mice were sacrificed at day 10,
+at day 24 or when tumors reached 1.5cm of diameter.

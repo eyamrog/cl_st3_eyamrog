@@ -1,0 +1,17 @@
+Methods: We conducted an open-label, multicenter, randomized, phase 3 trial
+involving patients 2 to 21 years of age with previously
+untreated Hodgkin’s lymphoma of stage IIB with bulk tumor or
+stage IIIB, IVA, or IVB. Patients were assigned to receive
+five 21-day cycles of brentuximab vedotin with doxorubicin, vincristine, etoposide,
+prednisone, and cyclophosphamide (brentuximab vedotin group) or the standard pediatric
+regimen of doxorubicin, bleomycin, vincristine, etoposide, prednisone, and cyclophosphamide (standard-care
+group). Slow-responding lesions, defined by a score of 4 or
+5 (on a 5-point scale, with scores of 1 to
+3 indicating rapid-responding lesions), were identified on centrally reviewed positron-emission
+tomography–computed tomography after two cycles. Involved-site radiation therapy was administered
+after the fifth cycle of therapy to slow-responding lesions and
+to large mediastinal adenopathy that was present at diagnosis. The
+primary end point was event-free survival, defined as the time
+until disease progression occurred, relapse occurred, a second malignant neoplasm
+developed, or the patient died. Safety and overall survival were
+assessed.

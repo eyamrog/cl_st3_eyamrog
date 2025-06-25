@@ -1,0 +1,14 @@
+We analysed data from two prospective cohort studies in the
+UK; the English Longitudinal Study of Ageing (ELSA) and the
+Whitehall II study. ELSA included adults in England aged 50
+years and older, recruited from the 1998–2001 Health Survey for
+England, who have sociodemographic characteristics that are broadly representative of
+the general population of England. Data collection was done in
+2002 (March, 2002, to March, 2003) with follow-up in 2004
+(June, 2004, to July, 2005), 2006 (May, 2006, to August,
+2007), 2008 (June, 2008, to July, 2009), 2010 (July, 2010,
+to June, 2011), 2012 (May, 2012, to May, 2013), and
+2014 (June, 2014, to May, 2015). We used these seven
+waves of data (2002–14), which comprise participants born in 1930
+and thereafter, in our analyses to harmonise the range in
+birth year cohorts in both studies.

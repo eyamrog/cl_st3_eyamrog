@@ -1,0 +1,10 @@
+This study provides an important proof of principle for the
+value of very large genetically and phenotypically characterized cohorts, combined
+with thorough variant curation, in exploring the safety profile of
+candidate drug targets. Over the coming years, the availability of
+complete exome or genome sequence data for hundreds of thousands
+of individuals who are deeply phenotyped and/or available for genotype-based
+recontact studies, combined with deep curation and experimental validation of
+candidate pLoF variants, will provide powerful resources for therapeutic target
+validation as well as broader studies of the biology of
+human genes.

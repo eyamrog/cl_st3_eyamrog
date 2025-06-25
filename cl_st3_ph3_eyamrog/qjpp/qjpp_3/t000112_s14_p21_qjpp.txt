@@ -1,0 +1,10 @@
+Samples stored at −80C were allowed to thaw to room
+temperature before performing a DNA extraction suitable to the transport
+and preservation medium used with the Copan swabs and Isohelix
+swabs in 2016 and 2017, respectively. Initially, Copan swabs in
+liquid Amies were processed using the PowerSoil DNA Isolation Kit
+(MoBio, Cat.: 12888-100), while Isohelix swabs were processed using the
+ZymoBIOMICS 96 MagBead DNA Kit (Zymo Research, Cat.: D4308). Additional
+automation of sample processing for nucleic acid extraction using the
+Maxwell RSC Instrument (Promega, Cat.: AS4500) began in 2017 using
+the Maxwell RSC Buccal Swab Kit (Promega, Cat.: AS1640).

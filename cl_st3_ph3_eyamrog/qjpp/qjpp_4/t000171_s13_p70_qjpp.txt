@@ -1,0 +1,11 @@
+Unfortunately, the practice of including something like a “control” in
+next-gen sequencing assays has yet to be adopted, and it
+remains unclear how best to accomplish this given the way
+NGS operates. There can be a significant amount of variation
+between batches due to technical factors in RNA-seq and other
+NGS data. There are some statistical packages (e.g., Combat-seq, variancePartition
+[Hoffman & Schadt, 2016 ; Zhang et al., 2020 ])
+that quantify sources of variation that may be used to
+adjust the substantive NGS data for better comparability. Still, it
+is important to try to sequence all samples for a
+specific project together to limit such batch effects.

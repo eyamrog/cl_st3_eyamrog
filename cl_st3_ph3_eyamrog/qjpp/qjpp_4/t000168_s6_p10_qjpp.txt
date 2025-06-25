@@ -1,0 +1,14 @@
+Finally, certain sociodemographic factors associated with preterm births may be
+slightly shaping the overall seasonality. It is known that specific
+lower working conditions affect the risk of preterm birth (Saurel-Cubizolles
+et al., 2004 ) and in Spain it has been
+shown that maternal age ≤19 years, immigrant mothers, educational level
+≤ secondary studies, and women living in large cities are
+socio-demographic variables associated with preterm birth (Hidalgo-Lopezosa et al., 2019
+). Nevertheless, Spanish Vital Statistics estimates preterm births percentage around
+6.6% in 2016–2019, with a surplus of observed preterm births
+around May–August, that do not modify the overall seasonal pattern,
+as the overall seasonal pattern remains similar to the original
+when not considering the preterm births and also when simulating
+the preterm births to take place at 40 weeks of
+gestational age.

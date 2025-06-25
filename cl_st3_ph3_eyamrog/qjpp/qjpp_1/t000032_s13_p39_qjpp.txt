@@ -1,0 +1,14 @@
+While the benefits of code sharing tend to focus on
+the code's usability and potential for repurposing in other applications,
+it is important to reiterate that code's primary purpose is
+to communicate what was done. In short, code is not
+equivalent to software. Software is code that is designed and
+organized specifically for use by others in a wide variety
+of scenarios, often abstracting away operational details from the user.
+The usability of software depends critically on aspects such as
+design, efficiency, modularity, and portability—factors that should not generally play
+a role when releasing research code. Sharing research code that
+is poorly designed and inefficient is far preferable to not
+sharing code at all. That said, this notion does not
+preclude the possibility for best practices in developing and sharing
+research code.

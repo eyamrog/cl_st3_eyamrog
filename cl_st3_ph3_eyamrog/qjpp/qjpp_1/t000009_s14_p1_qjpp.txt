@@ -1,0 +1,10 @@
+Primary care-linked EHR databases were used. Information governance approval was
+obtained from the Medicines and Healthcare products Regulatory Agency (19_222).
+Primary care EHRs were linked to the secondary care Hospital
+Episode Statistics, Office for National Statistics death registry, patient-level IMD
+(an area-based proxy for socioeconomic deprivation) and the National Cancer
+Registration and Analysis Service (NCRAS). Detailed cancer registration data (cancer
+site, behavior, morphology and treatment information) were available in NCRAS.
+Chemotherapy drug details were obtained from the Systemic Anti-Cancer Treatment
+dataset within NCRAS, whereas radiotherapy details were obtained from the
+Radiotherapy dataset.

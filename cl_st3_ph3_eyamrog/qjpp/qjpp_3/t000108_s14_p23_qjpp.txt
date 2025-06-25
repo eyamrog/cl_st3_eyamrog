@@ -1,0 +1,3 @@
+Libraries were generated using NexteraXT library prep kit (Illumina) using
+1ng of input. Subsequent steps were performed according to manufacturer’s
+instruction at half reaction volumes.

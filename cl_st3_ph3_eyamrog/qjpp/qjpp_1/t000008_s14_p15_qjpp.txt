@@ -1,0 +1,9 @@
+Full-length vector genomes capable of giving rise to stable hFVIII-SQ
+transcription were detected with the R1–R11 linkage assay. Drop-phase ddPCR
+reactions were used to identify the co-occurrence of amplicons of
+R1 and R11, which overlap with the D segments of
+the ITR on the 5′ and 3′ ends of the
+genome, respectively (Supplementary Fig. 4b ). To capture circularized genomes
+with rearrangements or deletions in the ITRs, drop-phase ddPCR using
+R2 and R10 amplicons that are slightly more distal to
+the ITR was also performed (Supplementary Fig. 4b ).

@@ -1,0 +1,23 @@
+The major subclasses of immunoglobulins (IgG, IgA, IgE, and IgM)
+are robust against freeze–thaw cycles and are easily measured in
+DBSs with only slight modifications to commercially available kits (Tanner
+& McDade, 2007 ). In general, this means that DBS
+can be used to measure not only total immunoglobulin levels,
+but also specific antibodies against things such as Epstein–Barr virus
+capsid antigen (EBV), which is commonly measured as an index
+of stress-related reactivation of latent virus and possibly T-cell suppression
+(Glaser et al., 1991 ; McDade et al., 2000 ).
+However, anti-EBV antibody may be a more complicated measure than
+is typically appreciated (e.g., Cacioppo et al., 2002 ) and
+many studies, particularly those including other biomarkers, do not find
+associations between EBV and other stress-related measures (e.g., Panter-Brick et
+al., 2020 ; Rudzik et al., 2014 ) raising the
+possibly of publication bias for positive findings. Specific antibodies against
+a number of pathogens have been measured in DBS, for
+example, Toxoplasma gondii (Lebech & Petersen, 1995 ), malaria (Corran
+et al., 2008 ), and measles (Colson et al., 2015
+). In principle antibodies should have similar properties in DBSs
+regardless of target, so adapting ELISAs devised for measuring immunoglobulins
+in serum for use with DBSs is often possible. DBSs
+can also be used to measures immunoglobin subtypes, that is,
+sub-classes of IgG (Andersen et al., 2014 ).

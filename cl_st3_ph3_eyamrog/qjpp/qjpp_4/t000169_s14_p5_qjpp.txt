@@ -1,0 +1,10 @@
+Drying time (minutes): Interviewers were instructed to let the blood
+sample dry until the end of the interview but at
+least 15 min. This followed the protocol that was used
+at that time by the HRS (Crimmins et al., 2015
+). As an estimation of the drying time, we used
+the interview length between the blood spot module, programmed in
+computer-assisted personal interviewing (CAPI), and the end of the interview
+(or the time until the end of the interview session
+if the interview was conducted in more than one session
+on several days).

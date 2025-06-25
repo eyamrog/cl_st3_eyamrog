@@ -1,23 +1,0 @@
-Geographic ^np+++??+=Geographic
-range ^nn++++=range
-Europe ^np++++=Europe
-( ^zz++++=(mostly
-mostly ^rb++++=EXTRAWORD
-Mediterranean ^jj+atrb+++=Mediterranean
-area ^nn++++=area
-and ^cc++++=and
-some ^dti++++=some
-Central ^jj+atrb+++=Central
-European ^jj+atrb+++=European
-countries ^nns++++=countries;
-; ^zz++++=EXTRAWORD
-Rofes ^np+++??+=Rofes
-And ^cc++++=and
-Cuenca ^np++++=Cuenca-Besc
- ^zz++++=EXTRAWORD
-Besc ^nn++++=EXTRAWORD
-S ^zz++++=s,
- ^zz++++=EXTRAWORD
-011 ^cd++++=2011
-	 ^zz++++=).
- ^zz++++=EXTRAWORD

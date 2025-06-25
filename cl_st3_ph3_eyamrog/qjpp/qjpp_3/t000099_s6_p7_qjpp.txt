@@ -1,0 +1,22 @@
+Finally, we identify neutrophils with angiogenic properties in the lung
+and intestine. Similar pro-vascularizing features have been reported in the
+context of ischemia and hypoxia, liver injury, and irradiation (
+Bowers et al., 2018 7. Bowers, E. ∙ Slaughter, A.
+∙ Frenette, P.S. ... Granulocyte-derived TNFα promotes vascular and hematopoietic
+regeneration in the bone marrow Nat Med. 2018; 24 :95-102
+Crossref Scopus (73) PubMed Google Scholar ; Christoffersson et al.,
+2012 14. Christoffersson, G. ∙ Vågesjö, E. ∙ Vandooren, J.
+... VEGF-A recruits a proangiogenic MMP-9-delivering neutrophil subset that induces
+angiogenesis in transplanted hypoxic tissue Blood. 2012; 120 :4653-4662 Crossref
+Scopus (275) PubMed Google Scholar ; Wang et al., 2017
+69. Wang, J. ∙ Hossain, M. ∙ Thanabalasuriar, A. ...
+Visualizing the function and fate of neutrophils in sterile injury
+and repair Science. 2017; 358 :111-116 Crossref Scopus (355) PubMed
+Google Scholar ) and are believed to facilitate vascular repair
+through secretion of cytokines or metalloproteases, or by phagocytosis of
+cellular debris. An intriguing possibility is that these angiogenic neutrophils
+may be recruited from preexisting populations in these tissues. Studies
+aimed at identifying and specifically disrupting the pathways involved in
+the angiogenic programming will be needed to solve this question,
+and will be relevant to identify new therapeutic targets in
+pathological angiogenesis.

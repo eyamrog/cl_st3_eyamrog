@@ -1,0 +1,22 @@
+The set of helixCAMs augments the existing work on synthetic
+protein adhesins. Similar to previous work by Foty and Steinberg
+( 2005 19. Foty, R.A. ∙ Steinberg, M.S. The differential
+adhesion hypothesis: A direct evaluation Dev. Biol. 2005; 278 :255-263
+Academic Press Inc. Crossref Scopus (690) PubMed Google Scholar ),
+Cachat et al., and Shan et al. using cadherins, helixCAMs
+are capable of forming large cell aggregates, with the difference
+being the heterodimeric nature of the CCs compared to the
+homodimeric cadherins. Heterodimeric and specific affinity is required for more
+complex pattern formation, such as the five-layer aggregate ( Figure
+5 ) and simultaneous patterning ( Figure 7 ). The
+programmability of helixCAM is comparable to the nanobody-antigen-based adhesion platform
+from Glass and Riedel-Kruse, and the two may work complementarily
+to allow for further expansion of orthogonal adhesins. Pinero-Lambea et
+al. had previously used surface-mounted immunoglobulin domains to pattern E.
+coli onto surfaces and target cancer cells. With helixCAMs, these
+applications can utilize human cells in place of E. coli
+, with intriguing implications in cell therapy ( Roybal et
+al., 2016 53. Roybal, K. ∙ Rupp, L. ∙ Morsut,
+L. ... Precision Tumor Recognition by T Cells with Combinatorial
+Antigen-Sensing Circuits’, Cell Cell Press. 2016; 164 :770-779 Full Text
+Full Text (PDF) Scopus (697) Google Scholar ).

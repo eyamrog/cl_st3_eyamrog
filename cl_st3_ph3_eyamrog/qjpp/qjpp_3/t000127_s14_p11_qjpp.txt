@@ -1,0 +1,16 @@
+Culture conditions for Pseudomonas R401 and R569 were performed as
+previously described ( Ma et al., 2021 46. Ma, K.W.
+∙ Niu, Y. ∙ Jia, Y. ... Coordination of microbe-host
+homeostasis by crosstalk with plant innate immunity Nat. Plants. 2021;
+7 :814-825 Crossref Scopus (88) PubMed Google Scholar ) with
+minor modifications. Bacterial strains were inoculated on 50% tryptic soy
+broth (TSB) agar plates from the glycerol stock, and incubated
+at 25°C overnight. Before use, strains were cultured in 50%
+TSB liquid medium to saturation, and subcultured to log phase
+with fresh medium at a 1:100 ratio. Bacterial cultures were
+pelleted by centrifugation at 5 000× g for 5 min,
+followed by two washes with 10 mM MgSO 4 .
+After washing, bacteria were diluted with 10 mM MgSO 4
+to an OD 600 of 0.005. Bacterial suspension was dripped
+on the roots of 4-day-old seedlings, and incubated for 6
+h, followed by HPTS staining assay.

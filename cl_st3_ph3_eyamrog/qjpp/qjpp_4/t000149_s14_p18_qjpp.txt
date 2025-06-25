@@ -1,0 +1,8 @@
+Data on neonatal head girth allow calculation of head cross-sectional
+area and volume, based on two assumptions: that head circumference
+represents a circle, and that head volume represents a sphere.
+On this basis, the radius ( r ) of the
+circle ( C ), its cross-sectional area ( A ),
+and the volume ( V ) of the associated sphere
+can be calculated using the formulae A = π ×
+r 2 , and .

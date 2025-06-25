@@ -1,0 +1,16 @@
+This research is supported by NIA R01 AG063944 (Understanding cross-national
+health differences and their causes). The SHARE data collection of
+this article has been supported by the European Commission through
+Horizon 2020 (SHARE-DEV3: GA N°676536. The SHARE data collection has
+been funded by the European Commission, DG RTD through FP5
+(QLK6-CT-2001-00360), FP6 (SHARE-I3: RII-CT-2006-062193, COMPARE: CIT5-CT-2005-028857, SHARELIFE: CIT4-CT-2006-028812), FP7 (SHARE-PREP:
+GA N°211909, SHARE-LEAP: GA N°227822, SHARE M4: GA N°261982, DASISH:
+GA N°283646) and Horizon 2020 (SHARE-DEV3: GA N°676536, SHARE-COHESION: GA
+N°870628, SERISS: GA N°654221, SSHOC: GA N°823782) and by DG
+Employment, Social Affairs & Inclusion through VS 2015/0195, VS 2016/0135,
+VS 2018/0285, VS 2019/0332, and VS 2020/0313. Additional funding from
+the German Ministry of Education and Research, the Max Planck
+Society for the Advancement of Science, the U.S. National Institute
+on Aging (U01_AG09740-13S2, P01_AG005842, P01_AG08291, P30_AG12815, R21_AG025169, Y1-AG-4553-01, IAG_BSR06-11, OGHA_04-064,
+HHSN271201300071C, RAG052527A) and from various national funding sources is gratefully
+acknowledged (see www.share-project.org).

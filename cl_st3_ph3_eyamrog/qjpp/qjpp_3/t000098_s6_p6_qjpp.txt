@@ -1,0 +1,25 @@
+The agreement of the size of low-cAMP nanodomains with that
+of PKA activity measured with the AKAR4 sensor suggests that
+nanometer-size PDE domains indeed modulate downstream target activation and might
+represent functional modules of cAMP signaling. The demonstration of such
+functional cAMP and PKA nanodomains is further in line with
+recent observations by super-resolution microscopy of PKA signaling hotspots with
+a diameter of 100–200 nm ( Mo et al., 2017
+27. Mo, G.C. ∙ Ross, B. ∙ Hertel, F. ...
+Genetically encoded biosensors for visualizing live-cell biochemical activity at super-resolution
+Nat. Methods. 2017; 14 :427-434 Crossref Scopus (8) PubMed Google
+Scholar ). To constrain PKA activity to such small domains
+requires that its catalytic subunit is rapidly recaptured by regulatory
+subunits after activation ( Mo et al., 2017 27. Mo,
+G.C. ∙ Ross, B. ∙ Hertel, F. ... Genetically encoded
+biosensors for visualizing live-cell biochemical activity at super-resolution Nat. Methods.
+2017; 14 :427-434 Crossref Scopus (8) PubMed Google Scholar ;
+Walker-Gray et al., 2017 47. Walker-Gray, R. ∙ Stengel, F.
+∙ Gold, M.G. Mechanisms for restraining cAMP-dependent protein kinase revealed
+by subunit quantitation and cross-linking approaches Proc. Natl. Acad. Sci.
+USA. 2017; 114 :10414-10419 Crossref Scopus (73) PubMed Google Scholar
+) or that PKA can function as an intact holoenzyme
+( Smith et al., 2017 42. Smith, F.D. ∙ Esseltine,
+J.L. ∙ Nygren, P.J. ... Local protein kinase A action
+proceeds through intact holoenzymes Science. 2017; 356 :1288-1293 Crossref Scopus
+(144) PubMed Google Scholar ).

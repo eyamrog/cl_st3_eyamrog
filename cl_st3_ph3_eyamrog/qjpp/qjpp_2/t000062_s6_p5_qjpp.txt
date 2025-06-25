@@ -1,0 +1,18 @@
+Despite these limitations, this study also has many strengths. First,
+the long-term observed data used in this study are known
+to be of high quality and have high population coverage.
+Second, where relevant and possible, this study took into account
+detailed data on cancer screening, cigarette consumption, and PSA testing
+rates when projecting incidence and mortality rates. Third, for other
+cancer types, age, period, and cohort effects were used, so
+this study might implicitly capture the effect of factors which
+contribute to cancer incidence and mortality at a population level,
+as the age, period, and cohort effects can reflect a
+range of factors that are related to cancer risk, cancer
+diagnosis, and treatment. Furthermore, the models were validated using observed
+data ( appendix pp 19–21 ), which demonstrated that our
+projection models were sensible, and that the projections reported are
+reliable in the short term and adequately reflect cancer outcomes
+under the current cancer control situation in the absence of
+any pandemic impacts. The methods used in this study might
+be applicable elsewhere.

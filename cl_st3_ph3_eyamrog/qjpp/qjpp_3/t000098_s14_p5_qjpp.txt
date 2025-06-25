@@ -1,0 +1,11 @@
+HEK-tsA201 cells (ECACC 96121229 from Sigma-Aldrich Chemie GmbH), indicated as
+HEK293 throughout the manuscript, were cultured in Dulbecco’s modified Eagle
+Medium (DMEM) with 4.5 g/L glucose (PAN biotech, Aidenbach, Germany),
+10% fetal bovine serum (Biochrom GmbH, Berlin, Germany), 100 U/ml
+penicillin, 100 μg/mL streptomycin (Pen/Strep, GIBCO Life technologies, Carlsbad, CA,
+USA) and 2 mM-glutamine (PAN biotech, Aidenbach, Germany) at 37°C
+and 5% CO 2 . Cells were passaged in T75
+flasks (SARSTEDT, Nümbrecht, Germany) every 2-4 days when reaching a
+confluency of 80%–90%. Cells were routinely tested for mycoplasma contamination
+using MycoAlert TM Mycoplasma Detection Kit from Lonza (Basel, Switzerland).
+Cell lines were not contaminated with mycoplasma.

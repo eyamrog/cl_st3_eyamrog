@@ -1,0 +1,18 @@
+We found that there was an uneven distribution of AMR
+genes across cities and that fewer AMR genes were identified
+in samples from Oceania and the Middle East. This could
+be the result of different levels of antibiotic use, differences
+in the urban geography between cities, or reflect the background
+microbiome in different places in the world. Techniques to estimate
+antibiotic resistance from sequencing data remain an area of intense
+research as certain classes of AMR gene (i.e., fluoroquinolones) are
+sensitive to small mutations, and methodological improvements may refine our
+results. A companion study to this paper by Chng et
+al. (2020) 15. Chng, K.R. ∙ Li, C. ∙ Bertrand,
+D. ..., MetaSUB Consortium Cartography of opportunistic pathogens and antibiotic
+resistance genes in a tertiary hospital environment Nat. Med. 2020;
+26 :941-951 Crossref Scopus (122) PubMed Google Scholar has examined
+the spread of AMRs in hospital settings. Further research is
+needed to explore AMR genes fully in the urban environment,
+especially in medical environments, including cultural studies that directly measure
+the phenotype of resistance.

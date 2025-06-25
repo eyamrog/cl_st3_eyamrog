@@ -1,0 +1,16 @@
+OTUs were compared against reference genomes from RefSeq (release 96
+from November 2019, complete bacterial and archaeal genomes only, with
+“Exclude anomalous” and “Exclude derived from surveillance project” applied) as
+well as the full Integrated Gut Genomes (IGG) dataset (v1.0
+Nayfach et al. (2019) 55. Nayfach, S. ∙ Shi, Z.J.
+∙ Seshadri, R. ... New insights from uncultivated genomes of
+the global human gut microbiome Nature. 2019; 568 :505-510 Crossref
+Scopus (380) PubMed Google Scholar ; 23,790 representative genomes). A
+MinHash sketch was created for each reference genome via Mash
+(v2.1.1) with default parameters to find Mash distances and select
+candidate “best matches” from each reference database. Then, dnadiff (v1.3)
+was used to further quantify differences between each OTU and
+its best match from either database. ANI between OTUs and
+their matches was found as “M-to-M AvgIdentity” in the query
+report column (ANI 95% over 60% OTU sequence qualified as
+a match).

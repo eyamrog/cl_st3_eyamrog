@@ -1,0 +1,22 @@
+To explain these spatiotemporal differences in the seasonality of influenza
+virus circulation, several intrinsic and extrinsic drivers have been proposed.
+Intrinsic biological drivers of seasonality include viral evolution and the
+immune response to the virus and seasonal host health (
+48 ). Slow but steady antigenic changes in circulating influenza
+viruses, referred to as antigenic drift, occur in response to
+selection pressure from population immunity ( 27 ). Limited immune
+cross-protection against antigenic variants can generate cyclical patterns, closely resembling
+the seasonal patterns of influenza virus circulation ( 33 ).
+Seasonal variations in host health and physiological status are quite
+common; even the immune system may experience a pattern of
+ebb and flow that could leave a host more vulnerable
+to infection ( 34 , 41 , 48 ). By
+comparison, extrinsic drivers include meteorological, environmental (e.g., pollutants), and social
+determinants (e.g., school closures) as well as vaccination programs. These
+extrinsic drivers could affect the survivability and viability of the
+virus in different ambient settings or could change the potential
+for infection to be transmitted from one individual to another.
+These external seasonal determinants can contribute to the seasonality of
+influenza virus transmission and would be important complementary data sources
+for influenza prediction and forecasting ( 72 , 73 ,
+78 ), discussed further in Section 4 below.

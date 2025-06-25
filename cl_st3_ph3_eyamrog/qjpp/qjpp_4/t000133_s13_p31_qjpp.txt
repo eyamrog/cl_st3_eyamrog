@@ -1,0 +1,12 @@
+Analyzing dietary recalls for total water intake requires the time-consuming
+task of converting all items reported in the dietary recall
+to grams or milliliters of water based on food composition
+tables and databases. For dietary data collected in diverse settings,
+challenges can emerge when local foods are not included in
+national food composition tables. In such cases, analogous foods must
+be used as replacements. This raises an issue of potential
+bias if local varietals of tubers, for example, are more
+water-rich than a varietal from the US that can be
+found in the USDA's nutrient database. Despite these potential biases,
+the conversion from diet intake to food moisture allows for
+an examination of hydration strategies (Rosinger & Tanner, 2015 ).

@@ -1,0 +1,7 @@
+Elucidation of the molecular consequences of CFTR mutations has supported
+the development of small-molecule modulators capable of restoring CFTR protein
+function. Ivacaftor, a CFTR potentiator, augments gating of mutant CFTR
+proteins. In patients with gating mutations, ivacaftor improves lung function,
+nutritional status, and quality of life and decreases pulmonary exacerbations.
+Ivacaftor monotherapy is also efficacious and safe in patients with
+residual function mutations.

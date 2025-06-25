@@ -1,0 +1,22 @@
+Here, we found that Trem2 –/– mice are more resistant
+to tumor growth than wild-type (WT) mice using 3-methylcholanthrene (MCA)-induced
+sarcoma, colorectal cancer, and mammary tumor models. TREM2 deficiency was
+associated with alterations in macrophage subsets and an increase of
+intratumoral CD8 + T cells, some of which expressed PD-1.
+This observation prompted us to ask whether TREM2 blockade can
+enhance antitumor responses mediated by checkpoint immunotherapy. First, we showed
+that anti-PD-1 immunotherapy is more effective in TREM2-deficient than WT
+tumor-bearing mice. Moreover, administration of an Fc-mutated anti-TREM2 monoclonal antibody
+(mAb) to tumor-bearing mice blunted tumor growth and strongly enhanced
+the efficacy of anti-PD-1 immunotherapy. Analysis of the myeloid cell
+landscape by single-cell RNA sequencing (scRNA-seq) showed that both TREM2
+deficiency and anti-TREM2 mAb treatment triggered marked changes in the
+macrophage populations infiltrating the tumor: CX 3 CR1 + and
+MRC1 + macrophage subsets declined, while novel subsets expressing potentially
+immunostimulatory molecules were induced. In parallel with the mouse data,
+we found that TREM2 is a marker of infiltrating macrophages
+in over 200 human tumors examined by immunohistochemistry (IHC). Moreover,
+TREM2 expression inversely correlated with greater overall survival and relapse-free
+survival in colorectal carcinoma (CRC) and triple-negative breast cancer (TNBC).
+We conclude that reshaping of tumor-associated macrophages by anti-TREM2 mAb
+is a promising avenue for complementing checkpoint immunotherapy.

@@ -1,0 +1,20 @@
+Findings: From Sept 28 to Dec 27, 2020, positive COVID-19
+tests were reported by 36 920 COVID Symptom Study app
+users whose region was known and who reported as healthy
+on app sign-up. We found no changes in reported symptoms
+or disease duration associated with B.1.1.7. For the same period,
+possible reinfections were identified in 249 (0·7% [95% CI 0·6–0·8])
+of 36 509 app users who reported a positive swab
+test before Oct 1, 2020, but there was no evidence
+that the frequency of reinfections was higher for the B.1.1.7
+variant than for pre-existing variants. Reinfection occurrences were more positively
+correlated with the overall regional rise in cases (Spearman correlation
+0·56–0·69 for South East, London, and East of England) than
+with the regional increase in the proportion of infections with
+the B.1.1.7 variant (Spearman correlation 0·38–0·56 in the same regions),
+suggesting B.1.1.7 does not substantially alter the risk of reinfection.
+We found a multiplicative increase in the R t of
+B.1.1.7 by a factor of 1·35 (95% CI 1·02–1·69) relative
+to pre-existing variants. However, R t fell below 1 during
+regional and national lockdowns, even in regions with high proportions
+of infections with the B.1.1.7 variant.

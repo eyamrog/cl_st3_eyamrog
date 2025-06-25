@@ -1,0 +1,19 @@
+The analytic data set generally contains all the data that
+can be directly linked to a published result or number.
+For example, if a paper publishes an estimate of the
+rate of hospitalization for heart attacks, but the overall study
+also collected data on hospitalizations for influenza, the influenza data
+may not be part of the analytic data set if
+it makes no appearance in the published result and is
+not otherwise relevant. While outside investigators may be interested in
+seeing the influenza data (and the original authors may be
+happy to share them), these data are not needed for
+the sake of reproducible research. The analytic computer code is
+any code that was used to transform the analytic data
+set into results, which may include some data processing (such
+as variable transformations) as well as modeling or visualization. Generally,
+the software environment in which the analysis was conducted (e.g.,
+R, Python, Matlab) does not need to be distributed if
+it is easily obtainable or open source. However, niche software,
+which may be unfamiliar to many readers, may need to
+be bundled with the data and code.

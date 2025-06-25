@@ -1,8 +1,20 @@
-In accordance with former research on positive affect in the
-environmental domain (Ojala, 2015 ; but see Jugert et al.,
-2016 ), positive affect emerged as a highly significant predictor
-of all PEB intentions in Study 1, possibly because we
-included two additional items that explicitly focused on efficacy-associated affects
-(i.e., feeling motivated/hopeful). Future studies should explore whether empowerment research
-could be expanded by introducing efficacy-associated affects (Drury, Cocking, Beale,
-Hanson, & Rapley, 2005 ).
+Findings on collective efficacy were surprising. Although collective efficacy of
+students was the only predictor of public PEB in Study
+1 (see Jugert et al., 2016 ), collective efficacy of
+humanity turned out to be a negative predictor of public
+and activist PEB in Study 2, and collective efficacy of
+activists’ NGO did not have any predictive power (see Bamberg
+et al., 2015 ; Van Zomeren et al., 2013 ).
+A potential explanation might be Olson's ( 1968 ) paradox
+stating that collective efficacy could eventually lead to inaction because
+a single member's behavior is unnecessary for goal achievement. Maybe,
+Olson's proposal is mostly true for bigger groups, such as
+“all humanity.” Another explanation could be that only groups with
+pro-environmental in-group norms have the potential for collective efficacy effects.
+Although among students, environmentally friendly injunctive norms are very common,
+this is definitely not the case for all humanity. Moreover,
+items for public intention in Study 1 (e.g., voting) were
+less activism focused than public PEB items in Study 2
+(e.g., pay NGO membership fees). Hence, research examining a clear-cut
+differentiation of nonactivist PEB in the public-sphere and activist PEB
+is urgently needed.

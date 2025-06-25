@@ -1,8 +1,0 @@
-All experiments involving live animals were approved by the Institutional
-Animal Care and Use Committee at Columbia University Irving Medical
-Center. C57Bl/6J (000664), ChAT-Cre (006410) , ChAT-CreΔneo (031661), protamine-Cre (003328)
-and Pgk1-flpo (011065) mouse lines were obtained from Jackson Laboratory.
-All strains were backcrossed to C57Bl/6J background for at least
-five generations. All animals were housed in a specific pathogen-free
-facility with ambient temperature of 18–23 °C and 40–60% humidity
-and a 12-h light/dark cycle.

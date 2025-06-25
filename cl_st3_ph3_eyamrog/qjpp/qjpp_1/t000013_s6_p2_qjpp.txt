@@ -1,0 +1,18 @@
+To enhance mCARMEN’s clinical diagnostic relevance and meld it with
+surveillance technology requirements, we further maximized its multiplexing capabilities by
+discriminating between mutations for variant lineage classification in patient specimens.
+Currently, variant lineage classification is only evaluated by NGS, which
+is costly and relies on specialized expertise found outside the
+clinic . VIP gives similarly rich information about key SARS-CoV-2
+mutations at 5–10 times cheaper in cost, per sample, than
+NGS and is far more comprehensive than current nucleic acid-based
+diagnostics. Importantly, since we routinely design guides to preemptively identify
+mutations of interest in the Spike gene in preparation for
+emerging variants, VIP was poised to differentiate Omicron immediately. VIP
+allowed us to identify the rapid emergence of Omicron in
+Massachusetts approximately 8 d before NGS and provided us with
+specificity, unlike the widely used SGTF of RT–qPCR. Given the
+number of mutations detected by VIP, we expect to observe
+distinct mutation signatures between variant lineages that will allow us
+to differentiate these and future VOCs from each other without
+assay redesign.

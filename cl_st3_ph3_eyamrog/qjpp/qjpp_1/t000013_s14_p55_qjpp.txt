@@ -1,0 +1,10 @@
+A subset of patient specimens from the MGH Clinical Microbiology
+Laboratory, all HCoV-HKU1, HCoV-NL63, FLUAV (H3), FLUBV, HRSV, HMPV and
+negative patient specimens, were verified using the BioFire FilmArray Respiratory
+Panel (RP2). These specimens were either initially reported to be
+positive for HCoV-HKU1, HCoV-NL63 and HMPV via BioFire FilmArray Respiratory
+Panel (RP2) or positive for FLUAV (H3), FLUBV and HRSV
+via Xpert Xpress Flu/RSV (Cepheid). For each run, one patient
+specimens in UTM at 300 µl was verified using the
+BioFire FilmArray Respiratory Panel (RP2) according to the manufacturer’s instructions.
+Any remaining specimen was stored at −80 °C.

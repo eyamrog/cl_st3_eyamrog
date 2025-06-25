@@ -1,7 +1,0 @@
-The treatment variable identified respondents in Victoria who completed the
-SCQ in the second half of 2020 during the lockdown
-or within 2 weeks of the lockdown being lifted. This
-group covered all people living in metropolitan Melbourne who completed
-the SCQ on or before Nov 11, 2020, and all
-people living in regional Victoria who completed the SCQ on
-or before Oct 1, 2020.

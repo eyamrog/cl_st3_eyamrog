@@ -1,0 +1,6 @@
+The assay mix contained LwaCas13a (GenScript) and on occasion LbaCas12a
+(New England Biolabs). Concentration varied with experiment: 1× Assay Loading
+Reagent (Fluidigm), 69U T7 RNA Polymerase mix (Lucigen) and crRNA
+concentration varied with experiment for a total volume of 16
+μl per reaction. See below for details pertaining to each
+mCARMEN panel.

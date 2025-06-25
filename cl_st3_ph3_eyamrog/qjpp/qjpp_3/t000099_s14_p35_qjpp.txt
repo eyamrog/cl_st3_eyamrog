@@ -1,0 +1,16 @@
+A first estimation of the mean lifetimes was performed by
+resorting to the survival function 𝑠 𝑖 ⁡ ( 𝑎
+) for a cohort of pulse-labeled neutrophils after tamoxifen administration.
+Here, 𝑠 𝑖 ⁡ ( 𝑎 ) provides the proportion
+of the initial cohort of tdTomato + neutrophils in tissue
+𝑖 that are still alive when their age is 𝑎
+≥ 0 . It is a monotonically non-increasing function satisfying
+𝑠 𝑖 ⁡ ( 𝑎 0 ) = 1 ,
+with 𝑎 0 denoting an initial reference age, and 𝑠
+𝑖 ⁡ ( 𝑎 m a x ) = 0
+for a sufficiently long age 𝑎 m a x .
+The corresponding mean lifetimes in all the sampled tissues can
+be computed via the integral (i.e., the area under 𝑠
+𝑖 ⁡ ( 𝑎 ) ) 𝜏 𝑖 = 𝑎
+m a x ∫ 𝑎 0 𝑠 𝑖 ⁡ (
+𝑎 ) 𝑑 𝑎 .

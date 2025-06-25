@@ -1,0 +1,23 @@
+The key strength of diaries and EMAs is that the
+recording of behaviors in real-time reduces the likelihood of recall
+bias. However, while diaries are meant to be filled out
+in real-time, it is possible that participants may forget to
+complete the diary as they go and fill it in
+at the end of the study period using recalled estimates.
+Both diaries and EMAs also come with a substantial burden,
+both on the part of the participant and the researcher
+due to requirements for data cleaning and entry. With such
+intensive self-monitoring involved in these approaches, there is also a
+particular risk of the “Hawthorne effect” whereby participants modify their
+activities in response to being monitored. More frequent intervals of
+sampling have also been found to cause people to avoid
+partaking in physical activity so that they can answer the
+prompts, causing an increase in sedentary behavior (Maher et al.,
+2018 ; Rouse & Biddle, 2010 ). Additionally, while EMAs
+allow freedom to ask follow-up questions to gather contextual information
+related to (or co-occurring with) the sedentary behavior of interest,
+the criterion validity of such probes has not yet been
+established (Degroote et al., 2020 ). Due to the reliance
+on technology for many EMA techniques, limitations inherent to objective
+measures for field use (ie, electricity requirements) must also be
+considered if EMAs are to be employed.

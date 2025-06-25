@@ -1,0 +1,19 @@
+The population in the SURPASS clinical development program included a
+wide spectrum of people on the continuum of T2D—from participants
+treated with diet and exercise alone with a mean duration
+of diabetes of 4.7 years (SURPASS-1) to participants for whom
+basal insulin treatment was insufficient with a mean duration of
+diabetes of 13.3 years (SURPASS-5). Similarly, participants’ cardiovascular risk varied
+among trials. The SURPASS-4 trial enrolled participants at especially high
+cardiovascular risk, with enrichment criteria including previous cardiovascular event, established
+atherosclerotic cardiovascular disease and/or chronic kidney disease or heart failure.
+Consequently, as anticipated in the planning of the cardiovascular safety
+meta-analysis, this trial had the highest MACE incidence and contributed
+considerably to events analyzed in the present study. On the
+other hand, as similar changes in cardiovascular surrogate markers (HbA1c,
+weight, blood pressure and lipoproteins) by tirzepatide were observed in
+studies with high or moderate cardiovascular risk, it was assumed
+that the relative treatment effect would not be different regardless
+of the participants’ baseline cardiovascular risk level . Moreover, baseline
+cardiovascular risk did not modify the estimate of treatment effects
+of GLP-1RAs on MACE .

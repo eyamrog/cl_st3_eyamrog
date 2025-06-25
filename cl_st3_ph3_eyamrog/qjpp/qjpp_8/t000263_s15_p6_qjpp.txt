@@ -1,5 +1,16 @@
-Demographic variables . We adjusted for gender (female vs. male
-as data were only available on binary gender), race (Black
-and Latino vs. White), age category, age category squared, education
-(college degree or higher vs. otherwise), and income (33-point scale).
-All predictor variables were mean-centered or dummy-coded.
+Mediating variables . LGBTQ + community integration was measured with
+the following three items, coded on a 6-point scale: “I
+feel connected with my local LGBT community,” “I feel that
+the problems faced by the LGBTQ + community are also
+my problem,” and “I feel a bond with other LGBT
+people” ( α = .75; M = 4.74, SD =
+1.50). LGBTQ + identity importance was measured with one item,
+coded on a 6-point scale, “Do you feel that your
+sexual orientation is an important part of your identity?” (
+M = 4.12, SD = 1.27). Perception of group discrimination
+was based on the following three items, coded on a
+6-point scale: “Homophobia is a problem in my neighborhood,” “Homophobia
+is a problem within my racial or ethnic community,” and
+“In general, homophobia is a problem within all communities of
+color,” ( α = .73; M = 4.26, SD =
+1.27).

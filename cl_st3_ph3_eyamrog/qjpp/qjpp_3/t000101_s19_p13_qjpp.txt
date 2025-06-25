@@ -1,8 +1,0 @@
-To more comprehensively analyze chromosome content, we performed genome-wide SNP
-array analysis. We first analyzed genomic DNA from sperm and
-oocyte donors to identify homozygous donor-specific alleles. Genomic DNA of
-an egg donor ( Figure S1 A) and genomic DNA
-of the semen donor ( Figure S1 B) showed homozygous
-alleles of maternal and paternal origin along chromosome 6. Only
-SNPs that were homozygous within the donors but different between
-donors were subsequently used for analysis.

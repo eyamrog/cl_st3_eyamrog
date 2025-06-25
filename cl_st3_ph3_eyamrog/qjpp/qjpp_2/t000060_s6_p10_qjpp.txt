@@ -1,8 +1,0 @@
-Second, despite the strengths of our natural experiment, the counterfactual
-is uncertain. The estimated treatment effects were produced in the
-context of an aggressive COVID-19 suppression policy. It is possible
-that, in the absence of lockdowns and other associated restrictions
-to supress virus transmission, the rate of COVID-19 infection would
-have been higher, which could have led to great COVID-19
-morbidity and mortality and resulted in a much greater impact
-on population mental health.

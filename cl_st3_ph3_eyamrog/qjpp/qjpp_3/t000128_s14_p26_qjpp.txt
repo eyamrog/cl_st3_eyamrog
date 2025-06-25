@@ -1,0 +1,20 @@
+We elected to measure the effect of helixCAM expression using
+individual helixCAM lines over co-cultured helixCAM lines for multiple reasons.
+First, the formation of large, tightly-bound cell aggregates reduces the
+accuracy of cell viability measurements. Secondly, we wanted to avoid
+conflating the effect of expressing helixCAM protein on growth and
+viability with the added effect of nutrient and oxygen diffusion
+in large cell aggregates. As other have previously established, aggregates
+greater than 100μm in diameter start to observe viability changes
+due to limitations in nutrient and oxygen diffusion ( Griffith
+et al., 2005 24. Griffith, C.K. ∙ Miller, C. ∙
+Sainson, R.C. ... Diffusion Limits of an in Vitro Thick
+Prevascularized Tissue Mary Ann Liebert, Inc. 2 Madison Avenue Larchmont.
+2005; 11 :257-266 NY 10538 USA Crossref Google Scholar ;
+Jain et al., 2005 31. Jain, R.K. ∙ Au, P.
+∙ Tam, J. ... Engineering vascularized tissue Nature Biotechnology 2005
+23:7. 2005; 23 :821-823 Nature Publishing Group Crossref Scopus (684)
+Google Scholar ), and helixCAM aggregates can span over 2,000μm
+( Figure S12 ). By measuring each line in independent
+cultures, we avoid the confounding effect of nutrient and oxygen
+diffusion on growth and viability measurements.

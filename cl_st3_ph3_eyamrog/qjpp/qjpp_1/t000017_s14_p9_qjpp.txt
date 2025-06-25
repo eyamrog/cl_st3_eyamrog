@@ -1,0 +1,5 @@
+In the event a patient was withdrawn from study drug
+administration or the follow-up phase of the study, the medical
+monitor was informed. If there was a medical reason for
+withdrawal, the patient remained under the supervision of the investigator
+or designee until the condition returned to baseline or stabilized.

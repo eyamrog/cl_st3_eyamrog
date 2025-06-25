@@ -1,0 +1,21 @@
+The diversity of phenotype and transcriptome in each tissue suggested
+that, like macrophages, neutrophils may acquire functions that are distinct
+and tailored to the demands of each tissue. To gain
+insights into these potential functions, we performed in silico analyses
+of the transcriptional signatures found in our bulk RNA-seq dataset
+( Figure 3 A; Table S4 ). We found that
+pathways classically ascribed to neutrophils, such as those related to
+cell migration and immune responses, were only dominant in hematopoietic
+organs, especially BM and blood ( Figure 5 A). This
+observation was important because these two tissues have been the
+source of most studies examining neutrophil function. Homeostasis of leukocytes
+was also a prominent pathway of neutrophils from blood and
+BM, while B cell homeostasis was largely restricted to neutrophils
+of the spleen. The prediction in the spleen was supported
+by the expression of factors that promote lymphocyte activation and
+proliferation ( Figure S5 A) and was in good agreement
+with previous reports ( Puga et al., 2011 56. Puga,
+I. ∙ Cols, M. ∙ Barra, C.M. ... B cell-helper
+neutrophils stimulate the diversification and production of immunoglobulin in the
+marginal zone of the spleen Nat Immunol. 2011; 13 :170-180
+Crossref Scopus (582) PubMed Google Scholar ).

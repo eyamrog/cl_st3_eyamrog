@@ -1,0 +1,23 @@
+It is possible that the relationship between drought or excess
+precipitation exposure and a participant's number of social connections is
+not specific to long-distance connections, but instead extends to all
+social connections (Section 1.3 ). Accordingly, we assess the relationship
+between drought or excess precipitation exposure and the presence of
+a same-community connection (Section 2.4.2 ). A. P. asked participants
+whether there were any other households in the community that
+are “doing favors for you and your household” or “help
+you and your household.” She asked only about the first
+household with which participants reported such a relationship; as such,
+we parameterize same-community relationships as either present or absent. Participants
+were also asked to name the favors or help the
+other household provided (the most common responses were loaning tools,
+loaning money, and exchanging labor), to name the favors or
+help they provided in turn, and to report their relationship
+to that household (eg, neighbors, kin, friends). Given that it
+may be less costly for participants to maintain relationships with
+consanguineal kin (Section 2.1 ), as a robustness check we
+code same-community relationships as “present” only if the household named
+was not related to the participant by blood (Section 2.4.2
+). Note however that only 16 participants reported non-consanguineal kin
+same-community relationships, compared to 71 participants who reported consanguineal same-community
+relationships.

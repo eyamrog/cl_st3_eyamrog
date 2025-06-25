@@ -1,0 +1,18 @@
+This article reflects on current trends and proposes new considerations
+for the future of mobile technologies for health (mHealth). Our
+focus is predominantly on the value of and concerns with
+regard to the application of digital health within low- and
+middle-income countries (LMICs). It is in LMICs and marginalized communities
+that mHealth (within the wider scope of digital health) could
+be most useful and valuable. Peer-reviewed literature on mHealth in
+LMICs provides reassurance of this potential, often reflecting on the
+ubiquity of mobile phones and ever-increasing connectivity globally, reaching remote
+or otherwise disengaged populations. Efforts to adapt successful programs for
+LMIC contexts and populations are only just starting to reap
+rewards. Private-sector investment in mHealth offers value through enhanced capacity
+and advances in technology as well as the ability to
+meet increasing consumer demand for real-time, accessible, convenient, and choice-driven
+health care options. We examine some of the potential considerations
+associated with a private-sector investment, questioning whether a core of
+transparency, local ownership, equity, and safety is likely to be
+upheld in the current environment of health entrepreneurship.

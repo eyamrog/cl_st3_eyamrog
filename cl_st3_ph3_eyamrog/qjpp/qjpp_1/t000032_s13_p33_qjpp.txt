@@ -1,0 +1,16 @@
+In the 30 years since the idea of reproducible computational
+research was brought to the forefront of the research community,
+we have learned much about its role and its value
+in the research enterprise. The original goal of providing a
+transparent means by which researchers can communicate what they have
+done and allow others to learn remains a primary motivator.
+Reproducibility has a secondary role to play in improving the
+quality of data analysis in that it serves as the
+foundation on which people can learn how others analyze data.
+Without code and data, it is nearly impossible to fully
+understand how a given data analysis was actually performed. But
+much about computational research has changed in the past 30
+years, and we can perhaps develop a more refined notion
+about what it means to make research reproducible. The two
+key ideas about reproducibility—data and code—are worth revisiting in greater
+detail.

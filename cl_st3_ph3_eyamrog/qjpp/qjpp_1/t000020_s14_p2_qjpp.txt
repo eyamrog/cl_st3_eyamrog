@@ -1,0 +1,10 @@
+Variants were included if they were annotated as LoF on
+any of the three high-confidence GENCODE annotated protein-coding transcripts that
+are expressed in the lung, liver or kidney. All variants
+also underwent transcript expression-aware annotation which evaluates cumulative expression status
+of transcripts harboring a variant in the Genotype Tissue Expression
+(GTEx) project dataset . All high-confidence variants were found in
+exons with high evidence of expression across all relevant tissues
+in GTEx. In addition, all were high-confidence pLoF on the
+canonical transcript, which is the only transcript to include the
+kinase domain.

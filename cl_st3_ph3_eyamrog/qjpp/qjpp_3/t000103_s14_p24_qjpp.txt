@@ -1,0 +1,8 @@
+A FRNT was performed as previously described. However, prior to
+addition of overlay, the cells were washed 4x with DMEM/2%
+FBS/10 mM HEPES and incubated at 37°C in 5% CO
+2 for 15 minutes. A 2% methylcellulose:2x DMEM/4% FBS/20 mM
+HEPES overlay then was added to the cells at 100
+μL/well. Cells were incubated at 37°C in 5% CO 2
+for 18 hours. Plates were fixed and immunostained as described
+for the focus forming assay.

@@ -1,0 +1,11 @@
+Competitive gene set analysis was used to determine whether human
+orthologs of the 520 osteomorph defining genes was on average
+more strongly associated with eBMD than the all other protein
+coding genes in the genome. The analysis was conducted using
+default settings, and accounted for several confounding factors including: gene
+size, gene density (i.e., representing the relative level of Linkage
+Disequilibrium between SNPs in the gene) and the inverse of
+the mean minor allele count in the gene (i.e., to
+correct for potential power loss in very low minor allele
+count SNPs), as well the log value of these three
+factors.

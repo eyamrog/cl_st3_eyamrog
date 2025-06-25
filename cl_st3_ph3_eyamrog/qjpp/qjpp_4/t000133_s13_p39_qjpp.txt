@@ -1,0 +1,8 @@
+The most frequently measured inorganic, chemical component of treated water
+quality is free (or residual) chlorine. Free chlorine is the
+amount available for disinfection after added chlorine reacts to various
+organic and inorganic compounds in the water. The WHO standard
+for free chlorine residual in drinking water is ≥0.5 mg/L
+after at least 30 minutes contact time at pH <
+8.0, with a minimum residual concentration of 0.2 mg/L at
+point of delivery (WHO, 2017a ).

@@ -1,0 +1,21 @@
+We used harmonized collection protocols and DBS collection kits, thoroughly
+trained our interviewers for DBS collection, and implemented interviewer and
+sample monitoring throughout the fieldwork. SHARE DBS filter cards (Ahlstrom
+226 filter paper) provided five pre-printed circles of 1 cm
+in diameter for blood-droplet collection. The interviewers were instructed to
+fill up as many circles as possible. Respondents were not
+asked to be fasted. All DBS samples were sent to
+the SHARE biobank in Odense, Denmark, where they were visually
+inspected. Number, size, and quality of the blood spots were
+documented before storage in freezers at −23°C until analyzed. The
+biobank also controlled for, and reported on, missing desiccant (influencing
+humidity protection) and spot discoloration (indicating that a wet DBS
+was packaged). Among other impacts on the samples beyond our
+control were malfunctioning national postal systems, with consequences on shipment
+time, and unusually high temperatures encountered during shipment. The implementation
+and monitoring of the DBS collection in SHARE Wave 6
+has been described in detail in Börsch-Supan et al. (
+2020 ). The mean values, standard deviation, and range for
+the fieldwork conditions that were measured during fieldwork are shown
+in Table 1 followed by a description of the collection
+process.

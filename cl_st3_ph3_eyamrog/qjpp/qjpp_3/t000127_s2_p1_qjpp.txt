@@ -1,0 +1,19 @@
+We thank Dr. Chuanyou Li (Chinese Academy of Sciences) for
+providing genetic materials aqc1-1 , PLT1pro:PLT1-YFP/Col-0 , PLT2pro:PLT2-YFP/Col-0 , and
+PLT2pro:PLT2-YFP/aqc1-1 . We thank Dr. Yehui Xiong (Tsinghua University) for
+providing pepr1/2 seeds. We thank Dr. Yoshikatsu Matsubayashi (Nagoya University)
+for providing rgf1 rgf2 rgf3 seeds. We thank Dr. Roeland
+L. Berendsen (Utrecht University) for providing MYB51pro:GUS /Col-0 seeds. We
+thank Prof. Paul Schulze-Lefert (Max Planck Institute for Plant Breeding
+Research) for providing Pseudomonas strains. We thank Prof. Paul Schulze-Lefert
+and Prof. Peter Pimpl (Southern University of Science and Technology)
+for critical comments on the manuscript. This work was supported
+by the Shenzhen Science and Technology Program (KQTD20190929173906742 to H.G.
+and JCYJ20170817105725365 to X.W.), the National Key Research and Development
+Program of China (No. 2019YFA0903904 and No. 2018YFA0507101 to H.G.),
+the National Natural Science Foundation of China (No. 91940303 to
+H.G., 31421001 to J.C., and 31971119 to Z.H.), Key Laboratory
+of Molecular Design for Plant Cell Factory of Guangdong Higher
+Education Institutes (2019KSYS006 to H.G.), the Alexander Von Humboldt Foundation
+(a Humboldt professorship to J.C.), and Max Planck-Gesellschaft (a Max
+Planck fellowship to J.C.).

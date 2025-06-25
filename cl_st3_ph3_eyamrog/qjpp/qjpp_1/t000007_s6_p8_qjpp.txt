@@ -1,0 +1,21 @@
+Although this study aggregated evidence from many isolated case reports,
+our sample size is still quite small and may also
+suffer from biases, such as the imbalanced age and sex
+structure of the sample and the wide variety of background
+conditions and treatments of the patients. For example, some studies
+selected patients with particular characteristics (for example, ref. ), and
+different sequencing strategies and bioinformatics approaches were used to generate
+the data, leading, in some studies, to the possibility of
+batch effects ( Methods and Supplementary Table 7 ). We
+also noted variation in the details of the clinical metadata
+reported across studies. Finally, we note that most cases analyzed
+herein were from chronic infections with variants that pre-dated the
+era of VOCs. With more variants emerging over time, many
+other changes have occurred as well: vaccinations were introduced, the
+level of global immunity has changed and marked behavioral changes
+have occurred, making future analyses even more complex. All in
+all, larger sample sizes of chronically infected patients with different
+variants across time, including dense sampling from different niches and
+organs, will be necessary to obtain a more robust and
+global view of intra-host evolution during chronic infections and the
+potential of such variants for infection and transmission.

@@ -1,0 +1,12 @@
+Key secondary outcomes were major procedure-related complications occurring during or
+within 48 hours after CT or ICA or related tests
+or revascularization procedures. Complications of ICA or revascularization procedures that
+were performed after CT were attributed to the CT strategy
+and were classified according to the National Cardiovascular Data Registry
+CathPCI Registry Coder’s Data Dictionary, version 4.4. Patient-reported outcomes included
+angina during the last 4 weeks of follow-up, the score
+on the visual-analogue scale of the European Quality of Life–5
+Dimensions (EQ-5D), and the score on the physical component summary
+of the Short-Form Health Survey (SF-12v2). Additional secondary outcomes were
+defined in the trial registration and statistical analysis plan but
+are not the topic of this article (Section S16).

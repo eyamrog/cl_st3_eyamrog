@@ -1,9 +1,0 @@
-To analyze claims data, scientists use artificial intelligence (AI) to
-develop machine learning algorithms that learn to detect patterns in
-the data. These data are being used to examine relationships
-between health outcomes, for example, mortality among Veterans Health Administration
-patients and prediction of type 2 diabetes ( 121 ,
-143 ). However, elucidating health patterns using claims data is
-challenging, given that the initial purpose for collecting the data
-is for billing rather than monitoring of patient and population
-health.

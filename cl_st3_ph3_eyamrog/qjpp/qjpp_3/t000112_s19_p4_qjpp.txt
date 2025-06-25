@@ -1,0 +1,17 @@
+To estimate the number of taxa present in our samples
+but that may have been missed by our methods (e.g.,
+sampling type and sequencing depth), we performed a rarefaction analysis
+on the taxa that were identified. By estimating the number
+of taxa identified for different numbers of samples as a
+function of the number of reads, we see a diminishing
+trend ( Figure 1 D), which indicates that at some
+point, the species in every new sample were likely already
+identified in a previous one. Our rarefaction curve did not
+reach a plateau, and even after including all samples, it
+still showed a marginal discovery rate of roughly one new
+species for every 10 samples added to the study. For
+clarity, we note that this analysis only considers taxa already
+present in reference databases, not newly discovered taxa (below). Despite
+the remaining unidentified taxa, we estimate that most (80%) of
+the classifiable taxa in the urban microbiome could be identified
+with roughly 1,000 samples.

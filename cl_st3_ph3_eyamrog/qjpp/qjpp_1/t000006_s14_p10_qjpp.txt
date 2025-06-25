@@ -1,9 +1,0 @@
-Library preparation methods optimized for analysis of small targets and
-for identification of very low allelic frequency variations were applied.
-In particular, starting from published methods for the DS approach
-, the protocol was specifically customized for cfDNA processing. Overall,
-based on the quality (highly fragmented) and the low quantity
-of starting material (from 35 ng up to 100 ng
-of input cfDNA), library preparation was performed with specific adjustments,
-whereas the target enrichment was customized with the design of
-a small target panel.

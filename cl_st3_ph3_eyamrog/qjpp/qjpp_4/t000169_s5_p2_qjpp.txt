@@ -1,0 +1,10 @@
+An important lesson learned is the non-linear relationship between spot
+size and biomarkers. Using the new spot size measure that
+we calculated with AMoSS and using cubic spline interpolation, we
+are able to account for this non-linearity. This is obviously
+not possible when only the dichotomized information about spot size
+is available. Nonetheless, Table 9 shows that it is always
+better to include any spot-size information rather than none at
+all, except for CRP. This can be seen when comparing
+the adjusted R 2 , AIC values, and Vuong test
+for Models 2 and 3.

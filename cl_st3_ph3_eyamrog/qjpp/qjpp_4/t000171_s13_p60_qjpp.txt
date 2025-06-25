@@ -1,0 +1,19 @@
+DNA methylation can be measured in minimally invasive blood samples,
+like DBS, but can also be measured in buccal swabs
+or saliva (Non & Thayer, 2015 ). However, because buccal
+swab and saliva samples contain epithelial cells as well as
+white blood cells, blood may be the best sample for
+measuring immune function directly. Methylation is stable in DBS for
+considerable lengths of time, even at room temperature (Sasaki et
+al., 2020 ), and protocols for measuring methylation in DBS
+are similar to those for fresh blood (Walker et al.,
+2019 ). DNA is first extracted with a DNA purification
+kit before analysis. Methylation analyses may look at global methylation,
+may compare groups or individuals for differentially methylated genes, or
+may look at methylation of specific genes. The choice of
+assay method will differ depending on which of these approaches
+a study takes; methylation assays may be done through sequencing,
+mass spectrometry, the reading of microarrays, or through qPCR (Bock
+et al., 2016 ; Kurdyukov & Bullock, 2016 ; Non
+& Thayer, 2015 ). We refer the reader to the
+citations referenced here for more information.

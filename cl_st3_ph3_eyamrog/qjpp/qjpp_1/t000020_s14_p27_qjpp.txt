@@ -1,0 +1,5 @@
+To test for an association between any phenotype group and
+LRRK2 pLoF carrier status, each individual was counted once as
+either having self-reported any of the phenotypes within a group
+or having reported none. A Fisher’s exact test was used
+to test for an association.

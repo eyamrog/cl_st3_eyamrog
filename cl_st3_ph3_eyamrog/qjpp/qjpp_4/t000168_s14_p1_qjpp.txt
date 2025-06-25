@@ -1,0 +1,8 @@
+A time series composed of 1 510 817 births in
+Spain in the period 2016–2019 was analyzed. The data come
+from the Birth Statistics of Vital Statistics elaborated by the
+National Institute of Statistics (Instituto Nacional de Estadística, 2020 ).
+Vital Statistics collects all births that occur in Spain, including
+undocumented migrants, regardless of whether the mothers are residents or
+non-residents. In the public dataset the month of birth is
+the most detailed temporal variable available.

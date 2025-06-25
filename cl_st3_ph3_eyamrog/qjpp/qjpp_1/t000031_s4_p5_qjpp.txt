@@ -1,9 +1,0 @@
-The lack of consensus on definitions has created dissonance between
-how the burden of prediabetes is estimated in epidemiologic studies
-and how prediabetes criteria are used to identify high-risk individuals
-in clinical practice. Epidemiologic studies have typically relied on combined
-definitions, using broad criteria, resulting in extremely high prevalence estimates,
-which is inconsistent with how prediabetes would be defined in
-clinical practice. Clear guidance for when certain definitions are preferred
-in public health practice and in clinical settings is sorely
-needed.

@@ -1,0 +1,23 @@
+The tripartite split-GFP method was selected for its low background
+and high throughput readout via FACS ( Cabantous et al.,
+2013 7. Cabantous, S. ∙ Nguyen, H.B. ∙ Pedelacq, J.D.
+... A new protein-protein interaction sensor based on tripartite split-GFP
+association’, Scientific Reports Sci. Rep. 2013; 3 :2854 Crossref Scopus
+(174) PubMed Google Scholar ; Romei and Boxer, 2019 51.
+Romei, M.G. ∙ Boxer, S.G. Split Green Fluorescent Proteins: Scope,
+Limitations, and Outlook Annual Review of Biophysics. Annual Reviews Inc.,
+2019 19-44 Crossref Scopus (121) Google Scholar ). In our
+assay, sGFP β-strands 1–9 were constitutively expressed, β-strand 10 was
+fused to the C-terminus of one CC library, while β-strand
+11 was fused to the N-terminus of a second CC
+library ( Figure 3 B). All three components were combined
+into a single plasmid and transformed into E. coli cells
+as pairwise mixtures. Cells with high GFP signals were sorted
+( Figure S10 ), and the selected plasmids were sequenced
+with next-generation sequencing (NGS) to identify candidate CC pairs. Each
+pair was assigned a “pair score” (detailed in STAR Methods
+), that positively weighed the frequency of on-target binding (as
+a metric of affinity) and negatively weighed the frequency of
+off-target binding. Using this score, 102 candidate CC peptides were
+selected for the next stage of the screen ( Figure
+3 C).

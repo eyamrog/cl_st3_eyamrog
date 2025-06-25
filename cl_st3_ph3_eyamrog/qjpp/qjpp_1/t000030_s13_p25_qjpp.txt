@@ -1,0 +1,5 @@
+While disease forecasting has developed as an innovative discipline over
+the last decade, it is not yet fully integrated into
+public policy. Forecasting models for influenza continue to improve, and
+policy makers should have growing confidence in their ability to
+make reliable short-term forecasts based on these models.

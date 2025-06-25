@@ -1,0 +1,9 @@
+Second, urine specific gravity (Usg) provides the density of urine
+relative to water with a value of 1.000 (g/ml) equivalent
+to water. Usg ranges from 1.000 to 1.040 g/mL, with
+values above 1.020 g/mL used as a well-established cutoff for
+inadequate hydration (Armstrong, Johnson, et al., 2012 ; Popowski et
+al., 2001 ). Values of 1.002 g/mL and below may
+reflect inability to concentrate urine due to kidney problems, excessive
+water intake, or diabetes insipidus (Cook, Caplan, LoDico, & Bush,
+2000 ).

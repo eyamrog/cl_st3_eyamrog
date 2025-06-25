@@ -1,0 +1,14 @@
+We collected about 24 000 blood samples in 12 out
+of the 20 countries participating in SHARE Wave 6. Samples
+were probability-based and representative of the population age 50 and
+older. Countries were selected by ease of ethical approval. All
+respondents without medical obstacles were asked to participate in the
+blood collection. Consent rate was 77%, ranging from 39% in
+Greece and 68% in Italy on the low end to
+89% in Slovenia and 91% in Sweden on the high
+end. This resulted in the following country samples: Belgium (3690),
+Denmark (2861), Estonia (3683), France (578), Germany (3147), Greece (807),
+Israel (1073), Italy (2175), Slovenia (2242), Spain (1827), Sweden (3013),
+and Switzerland (2123). Sampling process and data cleaning steps are
+described in detail in Börsch-Supan et al. ( 2020 )
+and http://www.share-project.org/data-documentation/waves-overview/wave-6.html .

@@ -1,0 +1,7 @@
+Data were shown as mean ± SEM Two-way ANOVA was
+used to model data generated from factorial design with the
+combination of 2 factors and two-way ANOVA for repeated-measures was
+used to model longitudinal tumor growth between treatments followed by
+post hoc comparisons on treatment difference at time points. Mann–Whitney
+U-test was used to compare two groups. Statistics were calculated
+with GraphPad Prism 6 (GraphPad Software).

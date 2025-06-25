@@ -1,0 +1,6 @@
+Results: Objective measures such as inclinometers are the gold-standard for
+measuring total sedentary time but they typically cannot capture contextual
+information or determine which specific behaviors are taking place. Subjective
+measures such as questionnaires and 24 hours-recall methods can provide
+measurements of time spent in specific sedentary behaviors but are
+subject to measurement error and response bias.

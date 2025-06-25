@@ -1,0 +1,25 @@
+In the absence of serial human biopsy samples in our
+study, evidence from nonclinical studies of AAV5-hFVIII-SQ provides some insight
+into the possible kinetics of genome processing. In AAV5-hFVIII-SQ-treated mice,
+despite a decline in overall hFVIII-SQ vector genomes, full-length circular
+episomes formed in the liver as early as 1 week
+after dose and continued to increase through 6 months (the
+last time point sampled), consistent with the genome processing model
+described in Supplementary Fig. 3 (ref. ). FVIII activity following
+valoctocogene roxaparvovec administration in the phase 1/2 study generally increased
+over the first 20–28 weeks leading to peak FVIII levels
+in the first year, and declined in subsequent years with
+a shallower rate of decline beyond year 2. Longer-term AAV5-hFVIII-SQ-derived
+FVIII protein expression is expected to be mediated through vector
+genomes in the hepatocytes, and it is encouraging that our
+results demonstrate the presence of stable circularized vector genome DNA
+in hepatocytes retrieved up to 4 years after vector administration,
+associated with sustained hFVIII expression. Mechanisms mediating the decline in
+FVIII expression could include episomal genome loss over time due
+to additional cellular metabolism or hepatocyte turnover, and/or epigenetic regulation/silencing
+of genomes. Even with the decline in FVIII over time
+and despite variability in response kinetics, long-term hemostatic efficacy has
+been maintained over 4 to 5 years of follow-up in
+all participants ( n = 13) who received 4 ×
+10 vg or 6 × 10 vg per kg body
+weight .

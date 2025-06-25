@@ -1,0 +1,8 @@
+Determining faster (> 100 μm 2 /s) diffusion is at
+the limit of this method, but it was possible to
+observe a convergence to previously measured cAMP diffusion values, viz.
+135 ± 20 μm 2 /s, by fitting progressively shorter
+time-lags. Furthermore, the distribution of rapid arrival times ( Figure
+S2 G) in forskolin/IBMX-stimulated cells further confirms the presence of
+a fast-moving component upon displacement, in the form of a
+peak at about 5 ms travel time over one μm.

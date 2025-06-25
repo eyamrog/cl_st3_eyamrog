@@ -1,0 +1,22 @@
+Quantification of antimicrobial diversity and AMRs are key components of
+global antibiotic stewardship. Yet, predicting antibiotic resistance from genetic sequences
+alone is challenging, and detection accuracy depends on the class
+of antibiotics (i.e., some AMR genes are associated with main
+metabolic pathways, while others are uniquely used to metabolize antibiotics).
+As a first step toward a global survey of antibiotic
+resistance in urban environments, we mapped reads to known antibiotic
+resistance genes, using the MegaRES ontology and alignment software. We
+quantified their relative abundance using reads/kilobase/million mapped reads (RPKM) for
+20 classes of antibiotic resistance genes detected in our samples
+( Figures 4 A and 4B). 2,210 samples had some
+sequences aligning to an AMR gene, but no consistent core
+set of AMR genes was identified. The most common classes
+of antibiotic resistance genes were for macrolides, lincosamides, streptogamines (MLS),
+and beta-lactams, yet the most common class of antibiotic resistance
+genes, MLS, was found in only 56% of the samples
+where AMR sequence was identified. We also quantified the likely
+mechanisms of identified antibiotic resistance genes. The three most prevalent
+resistance mechanisms are EF-Tu inhibition, 23S rRNA methyltransferases, and multi-drug
+efflux pumps. However, none of these are found in more
+than 25% of samples (abundance and prevalence of AMR mechanisms
+( Figures S5 A and S5B).

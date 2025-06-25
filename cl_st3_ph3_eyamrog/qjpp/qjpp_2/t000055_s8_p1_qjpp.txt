@@ -1,0 +1,9 @@
+In early December, 2020, a phylogenetically distinct cluster of SARS-CoV-2
+was genetically characterised in the southeast of England. Most cases
+had been detected in November, with a small number detected
+as early as September, 2020. Genomic surveillance revealed that this
+new variant, termed B.1.1.7, has several mutations of immunological significance
+and has been spreading rapidly, with cases increasing in frequency.
+It is important to understand how these mutations could affect
+the presentation and spread of COVID-19 so that effective public
+health responses can be formulated.

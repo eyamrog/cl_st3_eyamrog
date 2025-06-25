@@ -1,0 +1,15 @@
+We next expanded our analysis of environmental taxonomic signatures to
+the prediction of features in cities not present in our
+training set, including population, surface material, elevation, proximity to the
+coast, population density, region, average June temperature, and Koppen climate
+classification. We trained an RFC to predict each feature based
+on all samples that were not taken from a given
+city, then used the relevant RFC to predict the feature
+for samples from the held-out city and recorded the classification
+accuracy ( Figure 3 D). While not all features and
+cities were equally predictable (in particular, features for several British
+cities were roughly similar and could be predicted effectively), in
+general, the predictions exceeded random chance by a significant margin
+( Figure S4 A). The successful geographic classification of samples
+demonstrates distinct city-specific trends in the detected taxa and city
+metadata that may enable future forensic biogeographical capacities.

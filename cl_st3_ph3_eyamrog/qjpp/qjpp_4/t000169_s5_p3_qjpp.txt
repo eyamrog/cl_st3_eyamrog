@@ -1,0 +1,10 @@
+Spot size can be substantially influenced by the interviewer's ability
+to collect the blood samples as trained. The interviewers had
+been instructed, but could not be monitored, to wait until
+a sufficiently large blood drop has formed and fallen on
+the filter paper filling the pre-printed circle. As a robustness
+check, we controlled for the unobservable heterogeneity among interviewers by
+adding interviewer fixed effects to Models 1–3. We still find
+the same effects for the variables in the regression models
+and the same significant differences between the models that differ
+by spot-size information.

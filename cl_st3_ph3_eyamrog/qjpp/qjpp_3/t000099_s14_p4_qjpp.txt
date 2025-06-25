@@ -1,0 +1,6 @@
+All the omics data is available as a super-series in
+GEO under the accession number GSE143255 . The individual accession
+numbers are as follows: Tissue leukocyte cells scRNaseq data: GSE142754.
+Tissue neutrophils bulk RNaseq data from parabiosis: GSE141745. Germ free
+and SPF tissue neutrophils bulk RNaseq data: GSE142432. Tissue neutrophils
+ATACseq data: GSE141285.

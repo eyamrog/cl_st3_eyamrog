@@ -1,0 +1,11 @@
+The amount of blood material (number and size of the
+blood spots) contained in a sample restricts the number of
+biomarkers that can be analyzed. Not all SHARE DBS samples
+contained enough blood material for five punches and, hence, not
+all biomarkers could be analyzed in all samples. We introduced
+a priority scheme determining the marker sets to be assayed
+for each number of possible punches in a DBS sample
+(see Table 2 ). The chosen priority aimed to maximize
+the number of biomarker information for each of the marker
+sets, with a priority for HbA1c and the biomarkers of
+the B-marker set.

@@ -1,0 +1,17 @@
+Live CD45+ cells were sorted from processed tumors. Using the
+Chromium Single Cell 3′ Reagent Kit v3 User Guide, single
+cell suspensions were partitioned into nanoliter droplets called Gel-bead-in-Emulsions (GEMs)
+to achieve single cell resolution. The cDNA generated within each
+individual GEM is tagged with a common 16nt 10x barcode
+and a 12nt unique molecular barcode during the RT reaction.
+Purified cDNA was amplified for 11 cycles before being purified
+using SPRIselect beads. Samples were then run on a Agilent
+Bioanalyzer to determine cDNA concentration. 10uL of purified cDNA was
+used to generate the Illumina library for sequencing. For sample
+preparation on the 10x Genomics platform, the Chromium Single Cell
+3′ GEM, Library & Gel Bead Kit v3 16 rxns
+(PN-1000075), Chromium Chip B Single Cell Kit, 48 rxns (PN-1000073)
+and Chromium i7 Multiplex Kit (PN-120262) were used. The single
+cell libraries were then sequenced on the Illumina NovaSeq 6000
+S4 200 cycle flow cell generating 28x98 reads. A median
+sequencing depth of 50,000 reads/cell was targeted for each sample.

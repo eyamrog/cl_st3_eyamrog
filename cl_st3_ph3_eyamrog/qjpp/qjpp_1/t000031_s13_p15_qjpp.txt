@@ -1,8 +1,0 @@
-Analyses of NHANES and also of the Atherosclerosis Risk in
-Communities (ARIC) study demonstrate that demographic profiles differ, depending on
-the definition of prediabetes used. For example, individuals with prediabetes
-defined by HbA 1C tended to be older, more likely
-to be female, more likely to be black (compared with
-white), and more likely to be obese than individuals meeting
-ADA-IFG or ADA/WHO-IGT definitions of prediabetes ( 6 , 89
-, 110 ).

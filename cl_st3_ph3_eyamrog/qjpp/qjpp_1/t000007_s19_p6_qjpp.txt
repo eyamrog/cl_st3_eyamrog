@@ -1,0 +1,13 @@
+In general, the patterns obtained in chronic infections and in
+the LDMs of VOCs were very similar. The average proportion
+of non-synonymous substitutions in chronic infections and LDMs of VOCs
+was 78% and 82%, respectively, which was much higher than
+that observed during the first stage of the pandemic and
+generally suggestive of positive selection. On the other hand, we
+see less similarity between mutations in chronic infections and mutations
+that fix after a VOC has emerged (Supplementary Fig. 1
+), with a much lower proportion of non-synonymous substitutions in
+the latter (on average, 61%). A likely explanation for this
+observation is that after a VOC spreads in the population,
+selection is more limited due to the very tight transmission
+bottleneck .

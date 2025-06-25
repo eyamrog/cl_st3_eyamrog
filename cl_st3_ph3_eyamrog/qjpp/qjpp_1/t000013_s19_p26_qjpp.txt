@@ -1,0 +1,11 @@
+Since current clinical diagnostics are not well positioned to identify
+mutations—single-nucleotide polymorphisms (SNPs), insertions or deletions—carried in SARS-CoV-2 variant lineages
+, we wanted to develop a single platform with both
+diagnostic and surveillance capabilities for comprehensive detection of 26 SARS-CoV-2
+Spike gene mutations. We selected these 26 mutations to distinguish
+between or detect mutations shared among the Alpha, Beta, Gamma,
+Delta and Epsilon variant lineages (Supplementary Table 11 ; B.1.1.7,
+B.1.351, P.1, B.1.617.2 and B.1.427/9 using the Pango nomenclature system,
+respectively; World Health Organization (WHO) Tracking SARS-CoV-2 variants) and then
+used a generative sequence design algorithm (Mantena, S. et al.,
+manuscript in preparation) to produce crRNAs for allelic discrimination.

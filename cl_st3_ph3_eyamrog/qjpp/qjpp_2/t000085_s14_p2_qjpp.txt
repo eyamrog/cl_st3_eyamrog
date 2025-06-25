@@ -1,0 +1,8 @@
+This trial was a phase 2, multicenter, randomized, controlled trial
+of biomarker-driven adjuvant therapy. Patients were randomly assigned in a
+2:1 ratio to have their disease managed according to ctDNA
+results (ctDNA-guided management) or managed by the treating clinician according
+to standard clinicopathological criteria (standard management). Individual patients were assigned
+to trial groups with the use of block randomization stratified
+according to the participating center location (regional or metropolitan) and
+tumor stage (T3 or T4).

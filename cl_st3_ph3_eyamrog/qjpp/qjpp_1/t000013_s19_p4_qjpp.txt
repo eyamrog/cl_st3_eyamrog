@@ -1,0 +1,11 @@
+We then benchmarked the performance of both CARMEN diagnostics against
+RT–qPCR (CDC 2019-nCoV Kit) and/or unbiased metagenomic NGS on patient
+specimens. We obtained a set of 6 SARS-CoV-2-positive, 4 SARS-CoV-2-negative
+and 8 influenza A virus (FLUAV)-positive patient specimens for initial
+testing. mCARMEN and CARMEN v.1 had 100% concordance with RT–qPCR,
+NGS and each other (Fig. 1e ). We also compared
+performance using 2 different fluorescent reporters, RNase Alert (Integrated DNA
+Technologies) and a custom 6-Uracil-FAM (polyU) reporter . We found
+enhanced sensitivity when using a polyU fluorescent reporter due to
+the preference of LwaCas13 to cleave at uracils (Supplementary Fig.
+1a,b ).

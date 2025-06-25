@@ -1,0 +1,15 @@
+The model confirms that cAMP gradients around PDEs are of
+nanometer size ( Figure 7 B; Methods S2 ). Figure
+7 B illustrates the free cAMP concentration at a distance
+from PDE4A1 (in red) superimposed on the experimental free cAMP
+concentration ranges measured by using our FRET sensors at the
+PDE, 10 nm away, and in the bulk of the
+cytosol. The concentration gradient follows the equation [cAMP] = [cAMP]
+bulk (1−R 0 /r), where [cAMP] denotes the concentration of
+free cAMP, [cAMP] bulk the concentration of free bulk cAMP
+far from the PDE, r the distance from the PDE
+catalytic site, and R 0 is a radius where [cAMP]
+would be equal to zero. This radius R 0 relates
+not only to the geometrical size of the PDE but
+also to the flux of cAMP; i.e., the rate of
+degradation at the “sink” ( Methods S2 ).

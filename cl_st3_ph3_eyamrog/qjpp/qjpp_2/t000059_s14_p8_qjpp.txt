@@ -1,0 +1,15 @@
+We calculated uncertainty using the same methods described previously in
+GBD 2019. Generally, in every step of the modelling process,
+we pulled 1000 draws from the distribution of each model
+component (eg, incidence, prevalence, proportion, case fatality, and disability weight)
+and used them to estimate the uncertainty. We determined the
+distributions from the sampling error from data inputs, the uncertainty
+of the coefficients from DisMod-MR, and the uncertainty of severity
+distributions and disability weights. We summarised the final results as
+the mean of all draws. We report the 95% uncertainty
+interval (UI) as the 25th and 975th ordered draw of
+the uncertainty distribution. If the uncertainty intervals of two point
+estimates did not overlap then they were determined to be
+significantly different. And if the 95% UI of a percentage
+change did not cross zero, it was determined to be
+a significant change.

@@ -1,0 +1,12 @@
+Among the statistical approaches, predictive models are typically developed where
+the response variable is a relevant measure of influenza activity
+(e.g., ILI+ proxy). This response variable is linked by some
+type of regression model to a number of covariates, possibly
+with nonlinear components, to allow for infection dynamics. The forecast
+validations are generally performed with out-of-sample validation, where the model
+parameters are recomputed for each forecast by using only the
+training data from the previous weeks and the upcoming weeks
+for validation. Forecast accuracy is evaluated by considering one or
+more of the following measures, including root mean square error
+(RMSE), mean absolute percentage error (MAPE), and mean absolute error
+(MAE).

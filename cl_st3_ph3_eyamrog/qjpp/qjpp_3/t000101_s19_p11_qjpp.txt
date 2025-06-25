@@ -1,8 +1,0 @@
-Considering all 19 zygotes (20 h after ICSI and Cas9
-RNP), 11 of the paternal genomes were detectably modified by
-end joining during this first cell cycle, and two were
-unmodified ( Figure 2 L; Table S1 ). Editing predominantly
-gave rise to a single modification (9 out of 11
-events) and thus non-mosaic zygotes, whereas 2 were mosaic. Although
-these mosaics were seen in androgenetic zygotes, they show that
-MII injection results predominantly, but not exclusively, in uniform editing.

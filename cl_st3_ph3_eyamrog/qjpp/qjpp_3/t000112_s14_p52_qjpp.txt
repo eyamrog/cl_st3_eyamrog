@@ -1,0 +1,8 @@
+Dimensionality reduction of taxonomic and functional profiles was performed using
+UMAP ( McInnes et al., 2018 49. McInnes, L. ∙
+Healy, J. ∙ Saul, N. ... UMAP: Uniform Manifold Approximation
+and Projection Journal of Open Source Software. 2018; 3 :861
+Crossref Google Scholar ) on the matrix of Jaccard distances
+with 100 neighbors (UMAP-learn package, random seed of 42). We
+did not use Principal Component Analysis as a preprocessing step
+before UMAP as is sometimes done for high dimensional data.

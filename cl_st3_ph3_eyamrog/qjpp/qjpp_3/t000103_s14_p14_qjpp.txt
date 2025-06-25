@@ -1,0 +1,15 @@
+Wells containing reactive hybridomas were cloned by single-cell fluorescence-activated cell
+sorting. These hybridoma clones were expanded in Medium E serially
+into 48-well plates, 12-well plates, and T-75 cm 2 flasks,
+respectively. Hybridoma clones were expanded further into T-225 cm 2
+flasks or G-Rex® devices (Wilson Wolf) in serum-free medium (Hybridoma
+SFM [GIBCO]). Supernatants were harvested after approximately 21 days, or
+in sets of 3 to 5 days, respectively, through a
+0.2-μm pore size filter. Antibodies were purified from the filtrate
+using HiTrap Protein G (GE Healthcare Life Sciences), HiTrap MabSelect
+SuRe (GE Healthcare Life Sciences), HiTrap KappaSelect (GE Healthcare Life
+Sciences), HiTrap LambdaFabSelect (GE Healthcare Life Sciences), or CaptureSelect™ IgA
+affinity matrix (Thermo Fisher Scientific) columns on an ÄKTA pure
+25M chromatography system. Antibodies were concentrated using 50K MWCO Amicon®
+Ultra centrifugal filter units (Millipore) followed by desalting and buffer
+exchange with 7K MWCO Zeba desalting columns (Thermo Fisher Scientific).

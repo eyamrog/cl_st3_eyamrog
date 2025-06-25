@@ -1,0 +1,3 @@
+We followed the methods outlined under ‘General mCARMEN procedures-Detection’ with
+the following modifications: 42.5 nM LwaCas13 and 2–212.5 nM crRNA
+in each assay mix reaction.

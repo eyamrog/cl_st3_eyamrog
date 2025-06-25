@@ -1,0 +1,10 @@
+The phenotype dataset (with survival outcomes) and the RNAseq dataset
+of each cancer cohort (the gene-level transcription estimates, as in
+log 2 (x+1) transformed RSEM normalized count) were downloaded from
+UCSC Xena ( https://xenabrowser.net/ ) where genes are mapped onto
+the human genome coordinates using UCSC Xena HUGO probeMap in
+the RNAseq dataset. Spearman correlation coefficient was calculated between TREM2
+and each of the genes in each cancer cohort, accompanied
+with sample size and p values. The individual scatterplot of
+each of the top genes with TREM2 (with fitted linear
+lines) was generated with Spearman correlation in the plot.

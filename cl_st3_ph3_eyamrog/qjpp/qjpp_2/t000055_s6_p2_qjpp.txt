@@ -1,0 +1,9 @@
+Limitations to the assessments of the proportions of asymptomatic cases
+and admission to hospital should be noted: most of our
+users get tested only when they have symptoms, so relatively
+few asymptomatic infections are recorded, and the self-reported nature of
+our data on admission to hospital means we are likely
+to miss more severe hospitalised cases, when the individual is
+unlikely to self-report. There is also evidence that infection with
+the B.1.1.7 variant is associated with increased risk of mortality,
+and our data do not allow us to assess this.

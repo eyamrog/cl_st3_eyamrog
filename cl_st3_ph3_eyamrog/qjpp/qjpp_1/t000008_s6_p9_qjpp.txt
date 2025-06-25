@@ -1,0 +1,16 @@
+This study has some limitations. Human liver biopsy sample numbers
+were limited by the very small AAV5-hFVIII-SQ-dosed study population who
+volunteered to give biopsy samples, and no pre-dose biopsy samples
+were available. To definitively demonstrate how genome metabolism contributes to
+transgene expression patterns, biopsy samples taken during peak, steady-state and
+declining expression are needed; the possibility of obtaining serial biopsy
+samples in clinical protocols is being explored. The use of
+two different liver biopsy methods among the five study participants
+was not considered to have an important impact on the
+study findings. Based on known principles of human circulation, a
+relatively uniform degree of hepatic vector distribution and AAV transduction
+is anticipated following intravenous infusion, and consistent transduction levels shown
+across lobular regions in NHPs support this (Supplementary Fig. 8
+). However, we cannot state conclusively that the small number
+of human liver biopsy samples examined in our study are
+representative of the entire liver.

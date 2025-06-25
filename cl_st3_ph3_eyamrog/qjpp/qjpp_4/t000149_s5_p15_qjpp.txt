@@ -1,0 +1,15 @@
+Limitations include missing data. There was no evidence that this
+resulted in any substantial bias, but some of those missing
+might have died in childbirth or soon after, and such
+women would be unlikely to be randomly distributed across the
+independent variables we investigated. Also, we lacked information on the
+prevalence of maternal or neonatal birth injuries, and whether either
+episiotomy or cesarean section were actually justified by medical need.
+Similarly, we focused on indications of complicated labor without considering
+how they might predict later morbidity. Nor did we include
+neonatal mortality as an outcome, as we propose to analyze
+mortality patterns in this cohort separately. We therefore recommend that
+future studies should collect more data both on immediate birth
+injuries (e.g.: fistula, tears) and their longer-term consequences such as
+social exclusion. Although difficult in such studies, it would be
+valuable to improve follow-up of neonatal mortality.

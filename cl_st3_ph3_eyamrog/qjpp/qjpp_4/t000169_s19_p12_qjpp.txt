@@ -1,0 +1,7 @@
+The Vuong test statistic indicates which model is closer to
+the true distribution of the data. We find significant differences
+between Model 1 and Model 2 for all markers except
+CRP. Furthermore, Table 9 documents significant differences between Model 1
+and Model 3 for all markers except CRP. When comparing
+Model 2 and Model 3, we find significant differences for
+all markers except CRP.

@@ -1,0 +1,19 @@
+To quantify the orthogonality of the interactions in the structures,
+we performed image segmentation of a six-by-six field of view
+( Figure S8 ) and estimated the frequency of interaction
+between each of the six cell types ( Figure 2
+D). Four cell lines, Z17 mCherry , Z18 eGFP ,
+P9 mOrange , and AP10 mPlum , showed a clear
+preference for binding to their complementary partners. However, though the
+Z17 mCherry cells bound complementary Z18 eGFP cells at the
+highest frequency, off-target interactions were also observed with P3 iRFP670
+and AP4 eBFP2 . The P9 mOrange echoed this trend
+to a lesser extent, with the highest frequency of interactions
+with complementary AP10 mPlum cells, along with a handful of
+off-target interactions with P3 iRFP670 and AP4 eBFP2 . Notably,
+the behavior of helixCAMs in human cells contrasted with the
+higher orthogonality observed in E. coli . ( Figure S6
+). This gap suggested that protein expression and transport may
+be factors in the ultimate helixCAM function and indicated a
+need for a eukaryotic screen when engineering CCs for use
+in helixCAM applications.

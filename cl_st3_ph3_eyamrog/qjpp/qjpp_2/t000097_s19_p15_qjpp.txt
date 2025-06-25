@@ -1,0 +1,13 @@
+Some of the macrophage clusters were differentially represented after the
+distinct treatment regimens. Anti-TREM2 treatment, with or without anti-PD-1, induced
+de novo appearance of Nos2-Macs-t (cluster 5), which was virtually
+absent under other conditions ( Figure 6 E). The population
+of Mrc1-Macs-t contracted following treatment with anti-TREM2. One of the
+macrophage subsets that recently immigrated into the tumor, Macs1-t, also
+declined, while the other one—Macs2-t—expanded, perhaps reflecting changes in the
+intratumoral differentiation of blood-derived monocytes. Cycling-Macs-t (which were also CX
+3 CR1 + ) were almost ablated by anti-TREM2 in
+combination with anti-PD-1 ( Figures 6 E and 6F). We
+conclude that anti-TREM2 treatment induces a complex remodeling of the
+myeloid compartment that drives the appearance of Nos2-Macs-t and a
+parallel decline of Mrc1-Macs-t, Cycling-Macs-t, and Macs1-t recent immigrants.

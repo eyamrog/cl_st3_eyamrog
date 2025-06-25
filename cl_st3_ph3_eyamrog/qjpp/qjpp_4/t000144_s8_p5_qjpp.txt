@@ -1,0 +1,20 @@
+Environments are risky: in other words, they produce variable outcomes,
+with both uncertain gains (upsides) and uncertain losses (downsides) for
+the organisms in them (Jones et al., 2021). Climate, including
+precipitation and temperature, is part of the environment in which
+organisms live, and climate variability thus entails risk. Adaptations work
+to manage the risks posed by the environment (Jones et
+al., 2021 ). For example, plants have adaptations that may
+respond to small increases in precipitation by increasing fruit production,
+but respond to decreases in precipitation by decreasing fruit production,
+thus creating a shortfall in a resource on which consumers
+depend —not only human consumers, but, in a second-order effect
+on our livelihoods, the animals we eat (Dunham et al.,
+2018 ). Downsides are bad for fitness: if shortfalls are
+bad enough and an individual runs out of resources, an
+entire lineage can go extinct (Gillespie, 1977 ; Price &
+Jones, 2020 ). In short, climate variability, including the increased
+variability that is a function of climate change (Field, Barros,
+Mach, & Mastrandrea, 2014 ; Pendergrass, Knutti, Lehner, Deser, &
+Sanderson, 2017 ), puts humans and other organisms at risk
+of resource shortfalls.

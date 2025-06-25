@@ -1,0 +1,8 @@
+This study examined how field conditions and sample quality, in
+particular spot size, influence the marker values measured from filter-paper
+based DBS samples collected in a survey. Börsch-Supan et al.
+( 2021 ) have demonstrated in a validation experiment that
+correcting for these factors substantially improves the accuracy of biomarker
+data collected under difficult field conditions. Conversion formulae such as
+developed in that paper allow us to infer values that
+we would have obtained under optimal field conditions.

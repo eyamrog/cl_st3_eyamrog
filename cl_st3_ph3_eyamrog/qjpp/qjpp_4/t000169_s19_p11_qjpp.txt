@@ -1,0 +1,13 @@
+Tables 8 and 9 depict adjusted R 2 , AIC,
+and Vuong tests to indicate the explanatory power, the goodness
+of fit and the statistical difference between the three models.
+The adjusted R 2 from Model 1 using continuous spot
+size with spline interpolation always explains more variance of the
+analyte values than the other models. However, the magnitude of
+the difference between the models varies by marker. For tHb,
+we observe the largest difference between the adjusted R 2
+-value for Model 1 and Models 2 and 3, respectively.
+The smallest difference can be found for CRP. Further, Model
+1 always has the lowest AIC values for all markers.
+This suggests that the predictive accuracy can be increased using
+the continuous spot size.

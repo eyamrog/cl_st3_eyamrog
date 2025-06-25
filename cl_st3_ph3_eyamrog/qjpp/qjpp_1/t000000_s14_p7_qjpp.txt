@@ -1,9 +1,0 @@
-Uncertainty in these values is accounted for by taking 100
-independent random samples informed by the high and low IHME
-estimates and propagating these samples through the fitting and simulation
-to generate means and 95% prediction intervals. Sample size was
-chosen to cover the range of parameter estimates while remaining
-sufficiently computationally inexpensive, and no statistical method was used to
-predetermine this sample size. No data were excluded from the
-analyses, and the experiments were not otherwise randomized. The investigators
-were not blinded to allocation during experiments and outcome assessment.

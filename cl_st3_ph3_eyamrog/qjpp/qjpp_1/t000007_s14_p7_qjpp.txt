@@ -1,0 +1,15 @@
+A summary of all substitution events was compiled into three
+tables. Supplementary Table 1 lists every substitution and the patient(s)
+where it was found. Data on the proportion of a
+given substitution in the general global viral samples were taken
+from http://cov-glue-viz.cvr.gla.ac.uk/ , and counts of substitutions along a sampled
+phylogeny of approximately 3,500 sequences were taken from NextStrain (
+https://nextstrain.org/ ) (Supplementary Table 9 ). Each of the S
+amino acid replacements was queried to see if information exists
+on antibody evasion for a given mutation and was marked
+as enhancing antibody evasion if a publication was available showing
+direct experimental evidence supporting this (Supplementary Table 1 ), which
+does not necessarily capture the full in vivo repertoire of
+antibody evasion. Moreover, we note that that could not directly
+test for antibody evasion in each patient but, rather, could
+infer it indirectly.

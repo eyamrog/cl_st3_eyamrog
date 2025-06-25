@@ -1,0 +1,7 @@
+Spot size (cm 2 ) is not presented in Table
+1 as it could not be measured during fieldwork. Instead,
+it was determined from images available for each spot, see
+Section 2.4 below. As the blood-covered area is proportional to
+the volume of blood contained in a DBS, the area
+of the blood spot can be used as a proxy
+for the blood volume.

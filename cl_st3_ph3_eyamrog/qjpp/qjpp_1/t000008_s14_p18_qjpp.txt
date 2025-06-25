@@ -1,0 +1,13 @@
+DNA was then transferred to a positively charged nylon membrane
+using a Whatman Nytran SuPerCharge TurboBlotter system (Sigma-Aldrich) and immobilized
+with a UV Crosslinker (VWR). Biotin-labeled probes binding to both
+ends of the vector genome were generated using the Biotin
+PCR labeling kit (PromoCell); the primer sequences used for PCR
+reactions are presented in Supplementary Table 3 , and their
+location on the vector genome is shown in Supplementary Fig.
+5 . Southern blot hybridization was performed overnight at 65
+°C using 30 ng of each biotinylated probe and 100
+µg of sheared salmon sperm DNA (Thermo Fisher Scientific). A
+Thermo Fisher Chemiluminescent Nucleic Acid Detection Module kit was used
+to detect hybridization and the membrane was imaged with a
+ChemiDoc Imager (Bio-Rad).

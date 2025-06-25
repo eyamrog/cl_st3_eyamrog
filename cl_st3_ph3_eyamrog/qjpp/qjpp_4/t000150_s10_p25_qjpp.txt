@@ -1,0 +1,21 @@
+“Total assessment” or “single item” questionnaires ask participants to retrospectively
+estimate and report their total sitting time over a specified
+recall period. For example, the International Physical Activity Questionnaire (IPAQ)
+Short Form (Craig et al., 2003 ) asks “During the
+last 7 days, how much time did you spent sitting
+on a week day?” with respondents providing a response in
+terms of hours and minutes per day. Single-item measurements of
+sedentary time have been found to substantially underestimate sedentary time;
+the IPAQ Short Form, for example, has been shown to
+underestimate total sedentary time by 161.7 (95%CI 97.0, 226.4) minutes
+per day vs device-assessed sedentary time (Prince et al., 2020
+). This measurement error is not specific to the IPAQ;
+a recent meta-analysis pooling the criterion validity of all available
+single-item questionnaires showed weak correlations with objective measures of sedentary
+time ( r = .34 [95%CI 0.30, 0.39]) (Bakker et
+al., 2020 ). This discrepancy between measures may be attributable
+to social desirability bias or may simply reflect difficulty in
+estimating the total amount of time spent sitting, especially as
+sedentary time can be accumulated through both structured (eg, watching
+a 30-minute TV show) and unstructured (eg, sitting in a
+waiting room) activities.

@@ -1,0 +1,22 @@
+Human genetic variants predicted to cause loss-of-function of protein-coding genes
+(pLoF variants) provide natural in vivo models of human gene
+inactivation and can be valuable indicators of gene function and
+the potential toxicity of therapeutic inhibitors targeting these genes .
+Gain-of-kinase-function variants in LRRK2 are known to significantly increase the
+risk of Parkinson’s disease , suggesting that inhibition of LRRK2
+kinase activity is a promising therapeutic strategy. While preclinical studies
+in model organisms have raised some on-target toxicity concerns ,
+the biological consequences of LRRK2 inhibition have not been well
+characterized in humans. Here, we systematically analyze pLoF variants in
+LRRK2 observed across 141,456 individuals sequenced in the Genome Aggregation
+Database (gnomAD) , 49,960 exome-sequenced individuals from the UK Biobank
+and over 4 million participants in the 23andMe genotyped dataset.
+After stringent variant curation, we identify 1,455 individuals with high-confidence
+pLoF variants in LRRK2 . Experimental validation of three variants,
+combined with previous work , confirmed reduced protein levels in
+82.5% of our cohort. We show that heterozygous pLoF variants
+in LRRK2 reduce LRRK2 protein levels but that these are
+not strongly associated with any specific phenotype or disease state.
+Our results demonstrate the value of large-scale genomic databases and
+phenotyping of human loss-of-function carriers for target validation in drug
+discovery.

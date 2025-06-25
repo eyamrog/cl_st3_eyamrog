@@ -1,0 +1,13 @@
+Previous ecological studies have observed a decrease in taxonomic diversity
+as the distance from the equator increases ( O’Hara et
+al., 2017 60. O’Hara, N.B. ∙ Reed, H.J. ∙ Afshinnekoo,
+E. ... Metagenomic characterization of ambulances across the USA Microbiome.
+2017; 5 :125 Crossref Scopus (29) PubMed Google Scholar ).
+Our data recapitulated this result and identify a significant decrease
+in taxonomic diversity (though with significant noise, p < 2
+e 16, R 2 = 0.06915) as a function of
+absolute latitude; samples are estimated to lose 6.97 species for
+each degree of latitude away from the equator ( Figure
+S1 C). While this is an observation consistent with ecological
+theory, we note that our samples are somewhat clustered in
+specific latitudes.

@@ -1,0 +1,5 @@
+If not identified and modeled correctly, spatial correlation could cause
+substantial errors in both the regression coefficients and their standard
+errors. The Reanalysis Team identified several methods for dealing with
+this, all of which resulted in some reduction in the
+estimated regression coefficients. ( 26 , p. iii)

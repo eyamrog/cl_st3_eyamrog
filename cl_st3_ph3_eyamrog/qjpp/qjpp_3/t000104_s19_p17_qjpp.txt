@@ -1,7 +1,0 @@
-To investigate whether FBXO44 associated with human tumorigenesis and therapeutic
-responses, we interrogated public cancer transcriptomic data, revealing FBXO44 overexpression
-in many human cancer types compared to normal adjacent tissues
-( Figure 7 A). FBXO44 was expressed at low levels
-in normal breast tissues and increased with tumor stage (
-Figure 7 B). High FBXO44 expression correlated with poor patient
-outcome in several major cancer types ( Figure 7 C).

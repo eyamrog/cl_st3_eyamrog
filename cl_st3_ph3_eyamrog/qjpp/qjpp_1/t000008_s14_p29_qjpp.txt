@@ -1,0 +1,3 @@
+Molecular analysis was performed on separate samples; procedures for drop-phase
+ddPCR quantification of vector DNA copy numbers and hFVIII-SQ RNA
+transcripts are described above.

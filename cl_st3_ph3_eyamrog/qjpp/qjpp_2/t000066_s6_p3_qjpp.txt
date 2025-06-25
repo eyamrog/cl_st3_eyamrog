@@ -1,0 +1,8 @@
+The MEDALIST trial focused on patients with lower-risk myelodysplastic syndromes
+with ring sideroblasts because this is the largest subgroup of
+patients with myelodysplastic syndromes who have a low risk of
+progression to acute myeloid leukemia as well as prolonged survival,
+and therefore the treatment of anemia is particularly important in
+these patients. The COMMANDS trial (ClinicalTrials.gov number, NCT03682536 ) is
+evaluating the efficacy of luspatercept in other subgroups of patients
+with myelodysplastic syndromes.

@@ -1,0 +1,15 @@
+Table 2 presents a simple classification of common water quality
+characteristics that may influence human health directly, or indirectly by
+affecting the acceptability of drinking water. Each of these has
+a gold standard laboratory procedure that is detailed in the
+Standard methods for the examination of water and wastewater ,
+23rd ed. (American Public Health Association & American Water Works
+Association, 2017 ). Reproducing these procedures is well beyond the
+scope of this tool kit, and modern water systems now
+integrate a broad set of water screening technologies that include
+sensors and biosensors, whole-organism assays and bioassays, and biological early
+warning systems (Allan et al., 2006 ). Instead we highlight
+the options for quantifying turbidity, free chlorine, and coliforms and
+Escherichia coli , which are the most common indicators used
+in low-resource, water-insecure communities. We also highlight recent trends in
+the measurement of newer emerging contaminants.

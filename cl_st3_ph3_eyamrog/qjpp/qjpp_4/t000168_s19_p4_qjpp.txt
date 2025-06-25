@@ -1,0 +1,9 @@
+Furthermore, we studied the crude and adjusted associations between sociodemographic
+variables and birth seasonality (Table 3 ). In the multivariate
+logistic regression model for period 2016–2019, all variables except 3
+rd and 4 th birth order and medium maternal education,
+were significantly associated with seasonality when simultaneously entered in one
+model. The multivariate logistic regression model for period 2018–2019 shows
+similar results but, as the variable maternal employment status is
+considered, showing the highest odds ratio, the maternal age variable
+is not significant.

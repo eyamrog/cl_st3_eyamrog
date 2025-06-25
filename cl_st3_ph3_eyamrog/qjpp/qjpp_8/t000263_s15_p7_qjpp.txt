@@ -1,13 +1,5 @@
-We used the same analytic approach described in Study 1
-to test the model shown in Fig. 3 . We
-computed a z-score of the six dependent variables described in
-the Methods and found they constitute a reliable single measure
-of mental health ( α = .85). Therefore, we present
-results from that composite. Results for each dependent variable can
-be found in Table S5-S6 , though the pattern of
-results for individual dependent variables mirrors what is presented. A
-post-hoc Monte Carlo power analysis determined that we had sufficient
-power to detect key direct and indirect effects (for detail
-and exceptions, Supplemental Material). Download: Download high-res image (150KB) Download:
-Download full-size image Fig. 3 . Serial mediation model predicting
-mental health (Study 2).
+Dependent variable . Four items assessed respondents’ subjective well-being, measured
+on a 4-point scale (Over the past week have you
+felt, “That you were just as good as other people,”
+“Hopeful about the future?” “Happy,” “That you enjoyed life” (
+α = .88, M = 3.32, SD = 0.74).

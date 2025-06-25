@@ -1,0 +1,13 @@
+The notion of reproducible research, which was popularized in the
+early 1990s, was ultimately designed to address an emerging and
+serious issue at the time ( 46 ). Results of
+published findings were increasingly dependent on complex computations done on
+powerful computers, often implementing sophisticated algorithms on large data sets.
+Given the importance of computing to the generation of these
+results, it was surprising that consumers of scientific results had
+no ability to inspect or examine the details of the
+original computations. Traditional forms of scientific publication allowed for extended
+descriptions of study design and high-level analysis approaches, but low-level
+details about computer code, data processing pipelines, and algorithms were
+not prioritized and were generally left in an appendix or,
+with the wider availability of the Internet, an online supplement.

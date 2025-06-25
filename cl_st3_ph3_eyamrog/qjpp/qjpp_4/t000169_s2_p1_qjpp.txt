@@ -1,0 +1,4 @@
+This paper uses data from SHARE Wave 6 (DOI: 10.6103/SHARE.w6.710),
+see Börsch-Supan et al. ( 2013 ) for methodological details.
+Furthermore, this paper makes use of internal data (SHARE Wave
+6. Biomarker and fieldwork conditions. Release version: 7.1.0.v06).

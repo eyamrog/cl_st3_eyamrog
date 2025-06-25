@@ -1,0 +1,21 @@
+The helixCAM platform’s versatility extends beyond cell-cell interactions to cell-surface
+interactions, opening the door to opportunities to augment conventional cell
+purification and patterning methods. For instance, by expressing helixCAMs in
+the desired cell population, those cells can be isolated using
+CC-coated magnetic beads. Another area benefiting from programmable cell-surface interactions
+are organ-on-a-chip platforms ( Kim et al., 2012 32. Kim,
+H.J. ∙ Huh, D. ∙ Hamilton, G. ... Human gut-on-a-chip
+inhabited by microbial flora that experiences intestinal peristalsis-like motions and
+flow Lab Chip. 2012; 12 :2165 Crossref Scopus (1280) PubMed
+Google Scholar ; Bhatia and Ingber, 2014 5. Bhatia, S.N.
+∙ Ingber, D.E. Microfluidic organs-on-chips’, Nature Biotechnology Nature Publishing Group.
+2014; 32 :760-772 Crossref Scopus (2416) Google Scholar ; Stevens
+et al., 2017 59. Stevens, K.R. ∙ Scull, M.A. ∙
+Ramanan, V. ... In situ expansion of engineered human liver
+tissue in a mouse model of chronic liver disease’, Science
+Translational Medicine American Association for the Advancement of Science. 2017;
+9 :eaah5505 eaah5505–eaah5505 Crossref Scopus (128) Google Scholar ), where
+it may be desirable to culture multiple cell types in
+specific spatial orientation. By pre-patterning the microfluidic device with multiple
+CC species, complex cell distribution patterns could be designed to
+further mimic the physiological environment.

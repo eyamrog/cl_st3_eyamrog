@@ -1,0 +1,9 @@
+A subset of patient specimens, all SARS-CoV-2 and negative patient
+specimens, from the MGH Clinical Microbiology Laboratory were verified using
+the TaqPath COVID‑19 Combo Kit. These samples were initially reported
+to be positive for SARS-CoV-2 via Xpert Xpress SARS-CoV-2/Flu/RSV or
+reported to be negative for all targets (excluding RNase P)
+on the RVP panel via BioFire FilmArray Respiratory Panel (RP2).
+The TaqPath COVID‑19 Combo Kit was performed according to the
+manufacturer’s instructions. The assay was performed using the Applied Biosystems
+7500 Real-Time PCR System.

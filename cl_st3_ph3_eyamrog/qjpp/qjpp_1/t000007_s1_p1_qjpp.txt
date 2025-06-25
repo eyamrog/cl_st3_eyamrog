@@ -1,0 +1,18 @@
+In some immunocompromised patients with chronic severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2) infection, considerable adaptive evolution occurs. Some substitutions
+found in chronic infections are lineage-defining mutations in variants of
+concern (VOCs), which has led to the hypothesis that VOCs
+emerged from chronic infections. In this study, we searched for
+drivers of VOC-like emergence by consolidating sequencing results from a
+set of 27 chronic infections. Most substitutions in this set
+reflected lineage-defining VOC mutations; however, a subset of mutations associated
+with successful global transmission was absent from chronic infections. We
+further tested the ability to associate antibody evasion mutations with
+patient-specific and virus-specific features and found that viral rebound is
+strongly correlated with the emergence of antibody evasion. We found
+evidence for dynamic polymorphic viral populations in most patients, suggesting
+that a compromised immune system selects for antibody evasion in
+particular niches in a patient’s body. We suggest that a
+tradeoff exists between antibody evasion and transmissibility and that extensive
+monitoring of chronic infections is necessary to further understanding of
+VOC emergence.

@@ -1,0 +1,16 @@
+We followed the data analysis pipeline from CARMEN v.1 (ref.
+) to demultiplex and read out the fluorescence intensity of
+the reporter channel for each droplet reaction performed (MATLAB 2013).
+Briefly, premerge imaging data were processed using custom Python 3
+scripts to detect fluorescently encoded droplets in microwells and identify
+their inputs based on their fluorescence intensity in 3 encoding
+channels, 647 nm, 594 nm and 555 nm. Subsequently, post-merge
+imaging data were analyzed to extract the reporter signal of
+the assay in the 488 nm channel and those reporter
+fluorescence intensities were physically mapped to the contents of each
+microwell. Quality control filtering was performed based on the appropriate
+size of a merged droplet from two input droplets and
+the closeness of a droplet’s color code to its assigned
+color code cluster centroid. The median and standard error were
+extracted from the replicates of all assay combinations generated on
+the array.

@@ -1,0 +1,15 @@
+Thus, a more focused analysis was required to measure valoctocogene
+roxaparvovec-expressed hFVIII-SQ protein. Clearance of rhFVIII occurs mainly through the
+liver, via two parallel linked pathways: rhFVIII complexed with von
+Willebrand factor is cleared mainly by Kupffer cells, while the
+minor unbound rhFVIII fraction is cleared by hepatocytes , presumably
+by endocytosis and catabolism in the lysosomes. Vector-expressed hFVIII-SQ protein
+is expected to be detected in the endoplasmic reticulum (ER)
+compartment of the hepatocytes. Therefore, IHC analyses of hFVIII colocalizing
+in hepatocyte lysosomes or ER using confocal microscopy were performed,
+using LAMP2 (lysosome-associated membrane protein 2) and GRP78 (glucose-regulated protein
+78) as organelle-specific markers for lysosomes and ER, respectively. hFVIII-SQ
+protein expressed from valoctocogene roxaparvovec vector genome colocalized with GRP78
+in the ER, while hFVIII protein taken up by hepatocytes
+colocalized with LAMP2 in the lysosomes (Fig. 4a and Extended
+Data Fig. 7 ).

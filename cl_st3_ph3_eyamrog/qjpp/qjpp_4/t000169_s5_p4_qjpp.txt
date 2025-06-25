@@ -1,0 +1,12 @@
+Our robustness checks also show that the commonly used threshold
+of 1 cm to distinguish small and large spots is
+not necessarily the most suitable dichotomization. Using the same model
+selection methods as before to test different thresholds, we were
+able to demonstrate that 0.8 cm (0.503 cm 2 in
+area) instead of 1 cm significantly improved the measures of
+goodness of fit. This is consistent with Moat et al.
+( 2020 ), who found that spots with less than
+0.8 cm in diameter created a bias in the analytical
+test results. In general, we suggest that dichotomization should not
+be conducted in a data-driven manner, but ideally prior to
+analysis and based on theoretical considerations.

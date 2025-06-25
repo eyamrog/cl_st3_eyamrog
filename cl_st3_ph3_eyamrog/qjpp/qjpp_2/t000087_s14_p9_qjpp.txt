@@ -1,0 +1,19 @@
+Enrollment and randomization in a 1:1 ratio were stratified according
+to disease stage. On the basis of previous trials, 3-year
+event-free survival (the primary end point) was expected to be
+82% in the standard-care group. Because this trial was designed
+to evaluate the efficacy of adding brentuximab vedotin to doxorubicin,
+vincristine, etoposide, prednisone, and cyclophosphamide, the trial was powered on
+the basis of a one-sided log-rank test at an alpha
+level of 0.05 (comparable to a two-sided test at a
+significance level of 0.1). We calculated that 77 events or
+deaths would need to be observed in order for the
+trial to have 86% power to detect a difference of
+8 percentage points in event-free survival in the brentuximab vedotin
+group as compared with the predicted event-free survival of 82%
+in the standard-care group. A between-group comparison of event-free survival
+was conducted according to the intention-to-treat principle. All the patients
+who had undergone randomization and met the eligibility criteria were
+included in the analysis. Consistent with Journal policy, results are
+reported with the use of a two-sided log-rank test at
+a significance level of 0.05.

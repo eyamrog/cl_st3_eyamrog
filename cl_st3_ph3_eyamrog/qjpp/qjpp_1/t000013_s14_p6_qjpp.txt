@@ -1,0 +1,14 @@
+RNA was manually extracted from input material using the QIAamp
+Viral RNA Mini Kit (QIAGEN) according to the manufacturer’s instructions.
+RNA was extracted from 140 μl of input material with
+carrier RNA and samples were eluted in 60 μl of
+nuclease-free water and stored at −80 °C until use. RNA
+was automatically extracted using the MagMAX DNA Multi-Sample Ultra 2.0
+Kit on a KingFisher Flex Magnetic Particle Processor with 96
+Deep Well Head (Thermo Fisher Scientific). RNA was extracted from
+200 µl of input material and was run according to
+the ‘Extract RNA-automated method (200-μl sample input volume)’ protocol in
+the TaqPath COVID-19 Combo Kit Protocol, on pages 21–24. The
+MVP_2Wash_200_Flex protocol was used. Samples were eluted in 50 μl
+of elution solution and either directly added to the amplification
+reaction or stored at −80 °C until use.

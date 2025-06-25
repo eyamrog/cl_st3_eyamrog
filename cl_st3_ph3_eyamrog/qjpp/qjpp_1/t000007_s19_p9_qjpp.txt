@@ -1,0 +1,24 @@
+We went on to examine co-occurring substitutions, defined as pairs
+of substitutions that appeared in two or more patients. We
+used Fisher’s exact test to assess whether pairs of substitutions
+occurred together more often than expected from their individual frequencies
+( Methods ) as a measure of possible epistasis. Intriguingly,
+four pairs of substitutions across four different proteins emerged as
+significantly enriched and formed a network of interactions: T30I in
+envelope, H125Y in the membrane glycoprotein, S13I in the S
+protein and T3058I in ORF1a (Fig. 1b ). This finding
+was intriguing on multiple fronts. First, envelope and membrane glycoprotein
+have generally remained very conserved throughout the entire pandemic, and,
+specifically, the two replacements found are at highly conserved sites
+(Supplementary Table 1 ). However, despite their rarity, we found
+that some of the pairs of mutations also tend to
+significantly co-occur in globally dispersed sequences (blue asterisks in Fig.
+1b ). The replacements in S and ORF1a, on the
+other hand, have been observed only a small number of
+times in the global phylogeny. Notably, all of the first
+three proteins form a part in the virion structure itself;
+however, the functional meaning of this remains unclear. Other pairs
+of mutations found to co-occur were the three most common
+S antibody evasion mutations, yet these co-occurrences were not statistically
+significant. Larger cohorts of patients and further data will be
+required to determine the implications of these findings.

@@ -1,0 +1,10 @@
+In this study, we showed at the single-cell level that
+hepatocytes expressing hFVIII-SQ protein did not have elevated levels of
+GRP78 protein compared to neighboring hepatocytes that had no detectable
+hFVIII-SQ protein in the ER, suggesting no induction of ER
+stress. As our biopsy samples were taken at a single
+time point up to 4.1 years after vector administration, we
+cannot exclude the possibility that higher FVIII activity levels at
+earlier time points may have been associated with higher GRP78
+intensity and possible induction of ER stress in the hepatocytes
+expressing hFVIII-SQ.

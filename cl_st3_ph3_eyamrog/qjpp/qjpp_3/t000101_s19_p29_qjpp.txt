@@ -1,8 +1,0 @@
-To determine whether EYS wt blastomeres were caused by paternal
-chromosome loss, we tested blastomeres of two embryos after a
-single mitosis post-Cas9/RNP injection for heterozygosity by using SNP arrays
-( Figures 4 E–4G and S6 ). In one embryo,
-two sister blastomeres with an EYS wt genotype showed loss
-of chromosome 6q and its sister cell showed monosomy 6
-because of loss of the paternal chromosome ( Figures 4
-F and 4G).

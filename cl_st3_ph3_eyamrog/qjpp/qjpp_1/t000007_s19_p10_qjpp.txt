@@ -1,0 +1,21 @@
+We noted very wide variation in the background and treatments
+given to different patients, both for their background condition and
+for Coronavirus Disease 2019 (COVID-19). When examining medical background, the
+patients could be roughly classified into one of the following
+categories: hematologic cancers, HIV/AIDS, organ transplantation and autoimmune disorders (Table
+1 ). The latter two categories were often treated with
+steroids. Some, but not all, of the patients with hematological
+cancer and others were treated with antibodies targeting B cells,
+presumably causing profound B cell depletion. In line with this,
+most of the patients with confirmed B cell depletion showed
+negative serology for SARS-CoV-2 at one or more timepoints (Supplementary
+Table 1 ). Some patients were treated with ABT against
+SARS-CoV-2, whereas others were not; and, in some ABT-treated patients,
+antibody evasion mutations were detected, whereas, in others, they were
+not. Finally, we found that, whereas in some ABT-treated patients,
+antibody evasion mutations were detected, sometimes these mutations fixed before
+the treatment. The course of VL across time, coupled with
+ABT, is illustrated for some patients in Fig. 2b .
+Thus, for example, patient P5 and the patient described by
+Choi et al. are shown to fix antibody evasion mutations
+just before ABT.

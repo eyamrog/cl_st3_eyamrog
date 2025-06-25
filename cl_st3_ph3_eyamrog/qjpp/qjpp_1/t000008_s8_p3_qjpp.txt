@@ -1,0 +1,25 @@
+Multiple, complex processes are involved in achieving successful and durable
+transgene expression. Following vector infusion, transduction occurs via receptor-mediated uptake
+into the target cells, intracellular trafficking of the capsids, uptake
+of vector genomes into the nucleus and processing of vector
+genomes into stable, full-length forms that can give rise to
+transgene transcription (Supplementary Fig. 1 ) . Development of AAV
+gene transfer for hemophilia A has been challenging because of
+the size of the F8 gene, having a coding region
+(~7.0 kb) larger than the packaging capacity of AAV (4.7
+kb ). The single-stranded (ss), codon-optimized, B-domain-deleted FVIII genome (hFVIII-SQ)
+in valoctocogene roxaparvovec has been developed to address this limitation,
+but at >4.9 kb is still over the normal packaging
+limit of AAV ; therefore, the ssDNA packaged into the
+capsid may be incomplete, and assembly and repair of two
+complementary ssDNA genomes into a full-length structure may be required.
+Studies in lung, liver and muscle transduced by AAV gene
+therapy with normal-sized vectors (<4.7 kb ) in mice and
+nonhuman primates (NHPs) have shown that circularized monomeric and concatemeric
+episomes are the major DNA species associated with long-term, persistent
+expression of the gene product in the target cell .
+More recently, we have similarly demonstrated that long-term FVIII expression
+from AAV5-hFVIII-SQ transduction in mice and NHPs is associated with
+formation of full-length circular episomes in the liver . Whether
+this is the case in human liver has not been
+previously determined.

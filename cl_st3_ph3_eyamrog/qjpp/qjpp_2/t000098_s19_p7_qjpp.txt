@@ -1,0 +1,4 @@
+Together, these data indicate very significant binding of cAMP to
+intracellular binding sites. Under basal conditions and concentrations, cAMP is
+mostly bound, but when it is displaced, it diffuses quickly,
+compatible with diffusion rates observed in earlier studies.

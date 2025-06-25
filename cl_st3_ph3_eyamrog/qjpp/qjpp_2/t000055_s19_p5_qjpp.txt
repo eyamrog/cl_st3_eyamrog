@@ -1,0 +1,23 @@
+We identified 304 individuals who reported two positive tests separated
+by an interval of at least 90 days. Among these
+individuals, symptom reporting allowed us to identify 249 users for
+whom there was a period of at least 7 symptom-free
+days in between positive tests, accounting for 0·7% (95% CI
+0·6–0·8) of the 36 509 individuals who reported a positive
+swab test before Oct 1, 2020. Daily reports were available
+in the periods around both positive tests for 173 of
+those 249 users. There was no difference in reinfection reporting
+rates across the different NHS regions (p=0·11; appendix p 9
+). Figure 3 shows the evolution in the number of
+possible reinfections along with reported positive cases and the proportion
+of infections with the B.1.1.7 variant. For all regions except
+Scotland (which had a low number of app users), reinfection
+occurrences were more positively correlated with the overall regional rise
+in cases (r s =0·56 to 0·69 for South East,
+London, and East of England) than the regional rise in
+the proportion of infections with the B.1.1.7 variant (r s
+=0·38 to 0·56 for South East, London, and East of
+England; appendix p 9 ). Comparison of bootstrapped median values
+of these correlations using the Mann-Whitney U test showed the
+differences in correlation within each region were significant (p<0·001; appendix
+p 10 ).

@@ -1,0 +1,11 @@
+A single splice-site variant (12-40626187-T-C), found in 77 gnomAD carriers,
+was identified in an individual with RNA-seq data in the
+GTEx project. The RNA-seq reads were manually inspected to look
+for any effect on splicing. Assessing the read distribution of
+a linked heterozygous variant in this individual showed convincingly that
+the variant has no discernible effect on transcript splicing (Extended
+Data Fig. 3 ). All available tissues were assessed with
+reads from lung tissue shown in Extended Data Fig. 3
+. The variant was also identified in eight UK Biobank
+carriers and in 23andMe and was similarly excluded from these
+cohorts.

@@ -1,0 +1,8 @@
+Conclusion: The new algorithm accurately measures the size of field-collected
+DBS in an automated way. This methodology can be applied
+to surveys even with very large numbers of observations. The
+measured spot sizes improve the accuracy of conversion formulae that
+translate blood marker values derived from DBS into venous blood
+values. The significance of the spot-size effects on biomarkers in
+DBS should also incentivize the improvement of fieldwork training and
+monitoring.

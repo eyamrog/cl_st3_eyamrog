@@ -1,0 +1,17 @@
+The sharing of data is valuable in and of itself.
+Data sharing, to the extent possible, reduces the need for
+others to collect similar data, allows for combined analyses with
+other data sets, and can create important resources for unforeseen
+future studies. Data sets can retain their value for a
+considerable period of time, depending on the area and field
+of study. One example of the value of data sharing
+comes from the National Mortality, Morbidity, and Air Pollution Study,
+a major air pollution epidemiology study conducted in the late
+1990s and early 2000s ( 42 , 43 ). The
+mortality data for this study were shared on a website
+and then later updated with new data. A systematic review
+found that 67 publications had used the data set, often
+to demonstrate the development of new statistical methodology ( 4
+). In addition, the release of the data at the
+time allowed for a level of transparency and trust in
+air pollution research that was novel for its time.

@@ -1,9 +1,17 @@
-In a model specifically for NGO members, we added a
-latent factor for participatory efficacy and incorporated collective efficacy concerning
-activists’ NGO either into already existing latent factors or as
-separate scales. Both a latent factor model, χ 2 /
-df = 2.35, CFI = .949, SRMR = .038, AIC
-= 22,411, and a scale model, χ 2 / df
-= 2.23, CFI = .949, SRMR = .039, AIC =
-22,418, showed a good fit that did not differ significantly,
-χ 2 diff (6) = 5.49, p = .483.
+To test the overall associations of goal efficacy beliefs (H1)
+and positive affect (H2) with PEB, we calculated regression models
+for private, public, and activist PEB intention and self-reported PEB
+with all 258 participants (Models 4 and 5 did not
+include psychological covariates because of a small posttest sample size).
+Table 2 portrays best fitting models for each dependent variable
+using transformed scales. All PEB intentions and private PEB were
+significantly predicted by at least one type of goal efficacy
+belief, even when covariates were included (Models 1–4). Goal efficacy
+types varied in their degree of predictivity across intentions (from
+b = .01 to b = .34). Public and activist
+PEB was only marginally predicted by goal efficacy beliefs (Model
+5). With regard to our second hypothesis, positive affect predicted
+PEB intentions ( b > .23 for all), but not
+self-reported PEB. In a logistic regression for observed PEB, only
+direct goal collective efficacy predicted choice of chocolate, OR =
+1.72, p = .03 (see Supporting Information A4). 1

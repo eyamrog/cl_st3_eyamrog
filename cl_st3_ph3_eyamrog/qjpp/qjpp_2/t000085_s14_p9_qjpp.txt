@@ -1,0 +1,26 @@
+The primary efficacy end point was assessed in the intention-to-treat
+population, which included all eligible patients who underwent randomization and
+had both week 4 and week 7 postsurgical blood specimens.
+A sensitivity analysis was performed in the per-protocol population, which
+included patients who had undergone 24-month surveillance imaging (unless recurrence
+or death had already occurred) and, for ctDNA-guided management, ctDNA-positive
+patients who received at least 12 weeks of chemotherapy or
+ctDNA-negative patients who received no more than 4 weeks of
+chemotherapy. Noninferiority of ctDNA-guided management to standard management was to
+be accepted if the lower bound of the 95% confidence
+interval around the estimated difference in the 2-year recurrence-free survival
+was above −8.5 percentage points. In addition, recurrence-free survival and
+percentages of patients with recurrence within 1, 2, and 3
+years in a time-to-event analysis were computed from the Kaplan–Meier
+survival curves along with the associated 95% confidence intervals. Hazard
+ratios and associated 95% confidence intervals were also reported after
+evaluation of the proportional hazards assumption with the use of
+the Schoenfeld residuals test. The between-group difference in the use
+of adjuvant chemotherapy was assessed as percentages of patients in
+each group and as relative risk. No prespecified plan to
+control for multiplicity of testing was made, and therefore the
+95% confidence intervals cannot be used to infer effects. This
+analysis was conducted when the last patient reached a minimum
+follow-up of 2 years. Statistical analyses were performed with R
+software, version 3.6.1 (R Project for Statistical Computing), and SAS
+software, version 9.4 (SAS Institute).

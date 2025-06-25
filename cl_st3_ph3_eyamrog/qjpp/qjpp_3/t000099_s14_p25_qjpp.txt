@@ -1,0 +1,9 @@
+RNA was extracted from sorted neutrophils from the blood and
+lung from 6-12 week-old male mice using RNeasy Mini Kit
+(QIAGEN) and stored at −80C. Samples were subjected to the
+NanoString nCounter gene expression assay according to the manufacturer’s protocol
+(NanoString Technologies, Seattle, WA). For the analysis, a custom nCounter®
+assay for quantitative assessment of expression of 48 gene element
+was designed (See Table S5 ). Raw data were analyzed
+by nSolver software (NanoString Technologies, Seattle, WA, USA) using standard
+settings and were normalized against the housekeeping genes.

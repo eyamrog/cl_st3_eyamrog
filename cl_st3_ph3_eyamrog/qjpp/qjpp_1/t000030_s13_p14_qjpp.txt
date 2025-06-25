@@ -1,0 +1,18 @@
+The most widely used measure of transmissibility for any infectious
+disease is the reproduction number ( R ), which is
+defined as the average number of secondary cases generated per
+typical infectious case. In theory, R depends on the population
+susceptibility (or immunity). When R is estimated for a population
+that is entirely susceptible to infection (no prior immunity and
+no intervention implemented), it is referred to as the basic
+reproduction number ( R 0 ). In contrast, the effective
+reproduction number ( R e ) is estimated in a
+population with underlying immunity and accounts for reduced population susceptibility
+to infection ( 12 ). To quantify real-time transmissibility, the
+time-varying instantaneous reproduction number ( R t ) can be
+estimated as the effective reproductive number on day t (
+26 , 55 , 80 ). Biggerstaff et al. (
+9 ) reviewed estimates of R for seasonal, pandemic, and
+zoonotic influenza and presented the variation in the estimates by
+the assumption on generation times and case definitions, along with
+the case data used from different locations.

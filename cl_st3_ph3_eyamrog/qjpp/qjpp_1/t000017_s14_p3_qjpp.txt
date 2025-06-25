@@ -1,0 +1,7 @@
+Other secondary endpoints included PK, DOR and changes in measures
+of mast cell burden (percentage of BM mast cells, serum
+tryptase concentration, KIT D816V VAF by ddPCR (detection limit 0.17%),
+and spleen and liver volumes). PROs were measured by daily
+completion of AdvSM-SAF (described below) for patients in part 2
+as a secondary outcome . Exploratory endpoints included time to
+response, PFS and OS.

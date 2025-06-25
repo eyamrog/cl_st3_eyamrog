@@ -1,0 +1,15 @@
+Leukocytes can be broken down into six main subsets: neutrophils,
+lymphocytes, basophils, eosinophils, monocytes, and macrophages. One subset, lymphocytes, can
+further be categorized into three main subtypes (T cells, B
+cells, and natural killer cells), with several distinct classes to
+each of these cell types. Humoral immunity consists of immunoglobulins
+(antibodies) secreted by B cells, the main classes of which
+are IgG (the predominate type), IgM (produced in response to
+new infections), IgE (a response to macroparasites), and IgA (most
+commonly investigated in its secreted form, sIgA, as the immunoglobulin
+in saliva, milk, and other secretions). A wide range of
+signaling molecules called cytokines (e.g., interleukins, chemokines) are secreted by
+leukocytes and other cells in the body. Finally, effector molecules
+(e.g., nitric oxide), members of the complement cascade, and inflammatory
+proteins such as CRP are secreted by various tissues and
+participate in immune defense and regulation of other responses.

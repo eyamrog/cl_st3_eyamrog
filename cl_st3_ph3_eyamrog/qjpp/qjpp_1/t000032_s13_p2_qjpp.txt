@@ -1,0 +1,14 @@
+Published research can be thought of as living on a
+continuum up until the point of publication ( 37 ),
+starting from question formulation and study design, proceeding to data
+collection, data processing, and data analysis, and finally to presentation.
+Along this journey, various elements are introduced to aid in
+executing the research, such as computing environments, measurement instruments, and
+software tools. One could choose to make available to others
+any aspect of this sequence, depending on the practicalities of
+doing so and the relevance to the final published results.
+It is challenging to develop a universal cut point for
+determining which aspects of an investigation should be disseminated and
+which are not required. However, within various research communities, internal
+standards have been developed and are continuously evolved to keep
+pace with technology ( 6 , 44 ).

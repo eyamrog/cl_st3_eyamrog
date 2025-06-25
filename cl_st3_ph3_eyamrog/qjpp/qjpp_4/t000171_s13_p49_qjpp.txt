@@ -1,0 +1,12 @@
+Another important consideration—which depends on the sequencing technique and the
+question—is sequencing depth. For RNA-seq, sequencing depth refers to the
+total number of reads obtained in a sequencing run. For
+example, if a gene of interest is lowly expressed, it
+may appear in only one out of a million transcripts.
+If a sequencing depth of 5 million is used, on
+average there will be 5 reads, but with a 95%
+confidence interval ranging from 1 to 10 reads, leading to
+an estimated relative expression of between 2 and 20 per
+10 7 reads. Increasing sequencing depth to 20 million narrows
+this range to 6 to 14.5 per 10 7 reads.
+A main disadvantage of higher sequencing depth is increased cost.

@@ -1,0 +1,5 @@
+The raw single cell data generated during this study are
+available at BioProject: PRJNA507938. Human genotype and phenotype data on
+which the gene set analysis was based, is available upon
+application from the UK Biobank ( https://www.ukbiobank.ac.uk ). Other data
+available upon reasonable request from the Lead Contact.

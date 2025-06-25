@@ -1,0 +1,26 @@
+Despite these advantages, DBS have their own demands. The small
+quantities of blood collected require highly sensitive analytical instrumentation and
+conversion of measurement to plasma or serum values (standard equivalents).
+Standard procedures for DBS collection have been originally developed for
+newborn screening usually performed in clinics (Mei et al., 2010
+; Li & Lee, 2014 ; Freeman et al., 2018
+). In a non-clinical setting like a population survey, DBS
+are inevitably exposed to varying fieldwork conditions such as outside
+temperature, humidity, and shipping time (Adam et al., 2011 ;
+Hannon et al., 2013 ; Parsons et al., 2020 ).
+In addition, sample quality may be affected by shortened drying
+times, missing humidity protection, or collection of smaller than optimal
+blood volumes. In fact, of the more than 60 000
+blood spots collected in SHARE, more than 57% had a
+diameter of less than 0.7 cm, which is considered suboptimal
+for chemical analysis, and almost 40% below 0.6 cm. There
+are many reasons, why SHARE and other surveys (e.g., Crimmins
+et al., 2020 ; Peck et al., 2009 ) experienced
+difficulties in collecting sufficiently large blood spots by the interviewers.
+A leading explanation is that interviewers did not wait until
+a large enough spot had formed and fallen on the
+filter card, but deposited a smaller blood volume still on
+the finger. This is particularly relevant for large population surveys
+where data collection is outsourced to national survey agencies, which
+employ lay interviewers that are trained to take DBS but
+cannot be monitored perfectly in the field.

@@ -1,0 +1,13 @@
+MSOA of residence was determined using postcode of residence at
+death registration. We used MSOA boundaries from the 2011 census,
+which divide England into 6791 MSOAs, with a median population
+of 7985 (5th–95th percentile 5760–11 917) in 2019. Deaths were
+stratified into the following age groups: 0, 1–4, 5–9, 10–14,
+then 5-year age groups up to 80–84, and 85 years
+and older. We did not use 129 death records (<0·001%)
+for which sex was not recorded. Mid-year population data by
+MSOA, age group, year, and sex were obtained from the
+UK Office for National Statistics. In 48 (0·001%) age-MSOA-year combinations,
+the number of deaths exceeded population. Most of these were
+in people aged 85 years and older. In these cases,
+the population was set equal to the number of deaths.

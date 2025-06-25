@@ -1,6 +1,0 @@
-We conducted a randomized, double-blind, placebo-controlled trial to evaluate postexposure
-prophylaxis with hydroxychloroquine after exposure to Covid-19. We randomly assigned
-participants in a 1:1 ratio to receive either hydroxychloroquine or
-placebo. Participants had known exposure (by participant report) to a
-person with laboratory-confirmed Covid-19, whether as a household contact, a
-health care worker, or a person with other occupational exposures.

@@ -1,0 +1,6 @@
+As controls for these experiments, we showed that only inhibitors
+of the relevant tethered PDE lead to phosphorylation of the
+tethered PKA substrate, whereas inhibitors of other PDEs have no
+effect ( Figure S6 ). These data confirm the specificity
+of our results and illustrate that individual PDEs regulate cAMP
+signaling specifically in their immediate vicinity.

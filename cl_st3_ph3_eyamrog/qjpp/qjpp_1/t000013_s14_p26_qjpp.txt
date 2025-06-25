@@ -1,0 +1,16 @@
+All or a combination of the following thermal cycling conditions
+were tested to shorten assay run time: reverse transcription at
+50 °C for 15–30 min, PCR activation at 95 °C
+for 5–15 min, denaturation step at 94 °C for 10–30
+s and extension step at 72 °C for 10 s
+to 1 min. The final extension at 72 °C for
+10 min was omitted in all runs. The following primer
+pool conditions were also tested to optimize the assay: 150,
+300, 500 and 600 nM of virus-specific primer and 100
+and 150 nM of RNase P primers, with 5 μM
+of each virus-specific primer and 1.7 μM of RNase P
+primers. The reaction volumes tested include: 20 μl with 10%
+RNA template input, 30 μl with 20% RNA template input
+and 50 μl with 20% RNA template input. The final
+amplification conditions used for the RVP panel are described under
+‘General mCARMEN Procedures-Amplification’.

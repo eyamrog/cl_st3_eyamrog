@@ -1,0 +1,19 @@
+mHealth interventions targeting people with noncommunicable diseases (NCDs) show potential
+in LMIC settings ( 68 ). mHealth programs designed to
+support engagement in behaviors associated with diabetes, stroke, and cardiovascular
+disease management have resulted in improved clinical outcomes, health behaviors,
+and compliance with treatment ( 12 , 29 , 32
+, 34 , 64 ), although not all published studies
+have shown positive effects ( 8 , 72 , 73
+). mHealth has also been used successfully in the remote
+monitoring of people with long-term conditions ( 6 , 58
+, 64 ) and in the provision of personalized medical
+advice based on the data received ( 52 ). mHealth
+interventions designed to promote physical activity and healthy diets for
+NCD prevention have shown promise in LMICs, providing a viable
+mechanism to improve diet and physical activity behaviors ( 56
+, 59 ). A review of randomized controlled trials (RCTs)
+on the effectiveness of mHealth interventions on physical activity and
+diet outcomes in developing countries reported consistent findings with systematic
+reviews of mHealth interventions carried out in HICs ( 46
+).

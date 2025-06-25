@@ -1,0 +1,6 @@
+Urine specific gravity can also be measured on reagent strips.
+While this method of measuring Usg is highly correlated to
+Usg using refractometers, it is more likely to yield false
+negatives when applying a euhydration cutoff (Usg < 1.020 g/mL).
+Therefore, refractometry is recommended (Abbey, Heelan, Brown, & Bartee, 2014
+).

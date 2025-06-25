@@ -1,0 +1,16 @@
+The HEI reanalysis of the Six Cities Study and the
+ACS Study highlights the role of trust in data analysis.
+Prior to the reanalysis, many parties simply did not trust
+that the analysis was done properly or that all reasonable
+competing hypotheses had been considered. While making the data available
+might have allowed others to build that trust for themselves,
+allowing a neutral third party to examine the data and
+reproduce the findings at least ensured that one other group
+had seen the data. In addition, HEI's role in organizing
+the expert panel, conducting public outreach, and managing an open
+process played an important role in building trust in the
+community. Although not all parties were completely satisfied with the
+process, the reanalysis allowed fellow scientists to learn from the
+original studies and gain insight into the process that led
+to the original findings. The key goals of reproducible research
+were ultimately achieved.

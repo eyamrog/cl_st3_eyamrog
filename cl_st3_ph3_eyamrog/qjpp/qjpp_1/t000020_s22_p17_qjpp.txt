@@ -1,0 +1,25 @@
+We acknowledge multiple limitations to this work. First, we relied
+on heterogeneous phenotype data mostly derived from self-reported questionnaires. Both
+23andMe and gnomAD record only age at recruitment, which is
+an imperfect proxy for lifespan and participants are relatively young
+compared to the typical age of onset for PD. In
+addition, at current sample sizes we are only powered to
+detect a strong effect on lifespan. Our ascertainment of LRRK2
+pLoF variants in 23andMe was necessarily incomplete, due to the
+availability of targeted genotyping rather than sequencing data; this means
+that a subset of the 23andMe individuals treated as noncarriers
+could be carriers of LRRK2 pLoF variants not genotyped or
+imputed in this dataset. We have not directly assessed whether
+LRRK2 pLoF variants reduce kinase activity and instead take reduction
+in protein levels as a proxy. Previous studies have, however,
+shown that Rab10 phosphorylation is markedly reduced when LRRK2 levels
+are lowered by ~80% using siRNA . Additionally, lifelong LoF
+of LRRK2 may not be equivalent to therapeutic inactivation later
+in life if biological compensation occurs. Finally, the low-frequency of
+naturally occurring LRRK2 pLoF variants results in a relatively small
+number of carriers that could be assessed for each biomarker
+and phenotype, meaning that we are not well powered to
+detect subtle or infrequent clinical phenotypes arising from LRRK2 haploinsufficiency.
+However, our study suggests that any clinical phenotype associated with
+partial reduction of LRRK2 is likely to be substantially more
+benign than early-onset PD.

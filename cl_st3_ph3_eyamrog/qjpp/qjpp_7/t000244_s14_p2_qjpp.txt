@@ -1,7 +1,17 @@
-First, we asked participants whether they were active members of
-an environmental NGO. Except for public and activist PEB, we
-measured all items on scales from 1 ( totally disagree/never
-) to 7 ( totally agree/always ). Public and activist
-PEB were measured on a scale ranging from 1 (
-never ) to 5 ( often ). Questions are in
-Supporting Information A14. 2
+Specifically, participants read stories about either “Mark” (self-efficacy) or a
+student group (collective efficacy) that managed to win the sustainability
+challenge by either reducing CO 2 emissions directly (direct goal
+efficacy) or by motivating others to do so (indirect goal
+efficacy). After a manipulation check containing questions about the text
+they just read, participants were instructed to think and write
+some notes about a question that fitted their success story
+condition, “How could you (vs. you jointly with others) act
+(vs. encourage people to act) environmentally friendly?” Subsequently, they completed
+our questionnaire on goal efficacy beliefs, PEB intention, positive affect,
+and covariates. Participants in the control group received the questionnaire
+immediately. At the end of the experiment, three PEBs were
+directly observed by our experimenters. In order to examine self-reported
+PEB, we conducted a posttest 1 week after the experiment,
+which was completed by 90 participants (72 females, M age
+= 21.69 years, SD age = 2.42, with 13 to
+21 participants in each of the conditions).

@@ -1,0 +1,19 @@
+In our bulk sequencing analysis of differentially expressed genes, we
+noticed that the lung, intestine, and skin were transcriptionally more
+diverse, yet more similar with each other when compared with
+those from BM, blood, and spleen ( Figure S4 B).
+This raised the possibility that the transcriptional properties of these
+barrier tissues might be influenced by the commensal microbiota to
+which they are naturally exposed. We therefore assessed the transcriptional
+signature in germ-free mice of neutrophils from the blood, spleen,
+and lung, as representative tissues from the two groups (
+Figure 4 B), since we found that germ-free mice were
+virtually devoid of neutrophils in the intestine and skin (data
+not shown). We found that the lack of microbiota had
+virtually no impact on the transcriptome of lung or splenic
+neutrophils ( Figure 4 B), and only moderate changes (667
+differentially expressed genes) were found in blood neutrophils from control
+versus germ-free mice ( Figures 4 B and S4 C;
+Table S3 ). Thus, the microbiota affects neutrophils in blood,
+but not their specification in the tested tissues, including the
+lung and spleen.

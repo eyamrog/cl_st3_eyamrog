@@ -1,0 +1,6 @@
+The cryo-EM reconstructions reported in this paper have been deposited
+to the Protein Data Bank or Electron Microscopy Data Bank
+under the accession numbers EMD-22223 (SINV/EEEV:rEEEV-33 Fab), EMD-22188 (SINV/EEEV:rEEEV-143 Fab),
+EMD-22276; PDB ID: 6XO4 (EEEV VLP), EMD-22277; PDB ID: 6XOB
+(EEEV VLP:rEEEV-143 Fab). All relevant data are included within the
+manuscript and are available from the Lead Contact upon request.

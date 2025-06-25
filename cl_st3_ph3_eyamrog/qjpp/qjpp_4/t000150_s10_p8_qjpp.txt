@@ -1,0 +1,17 @@
+Accelerometers are a popular way of objectively measuring sedentary time
+in free-living contexts, including in large-scale population-based studies (Matthews et
+al., 2008 ; Stamatakis, Davis, Stathi, & Hamer, 2012 ).
+Beginning in the 1990s, accelerometry was originally used in epidemiological
+studies for the objective measurement of physical activity (Freedson, Melanson,
+& Sirard, 1998 ; Troiano et al., 2008 ). Measurements
+of sedentary time were extrapolated from these accelerometry datasets through
+inference, with periods of non-movement being interpreted as sedentary time
+(Healy et al., 2007 ; Matthews et al., 2008 ).
+With increasing recognition that it may be important to differentiate
+sitting from standing in the measurement of sedentary time (Owen,
+Healy, Matthews, & Dunstan, 2010 ; Sedentary Behavior Research Network,
+2012 ), accelerometers specifically designed for the measurement of posture
+(“inclinometers”) became recognized for providing more accurate measures of time
+spent sitting. More recently, new ways of wearing accelerometers and
+processing their data to detect posture have been developed and
+are discussed below.

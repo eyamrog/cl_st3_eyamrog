@@ -1,0 +1,14 @@
+Metagenomic sequencing libraries were generated as described previously . Briefly,
+extracted RNA was DNase-treated to remove residual DNA then human
+ribosomal RNA was depleted. cDNA was synthesized using random hexamer
+primers. Sequencing libraries were prepared with the Illumina Nextera XT
+DNA Library Preparation Kit and sequenced with 100- or 150-nucleotide
+paired-end reads. Data analysis was conducted on the Terra platform
+( app.terra.bio ); all workflows are publicly available on the
+Dockstore tool registry service. Samples were demultiplexed using demux_plus to
+filter out known sequencing contaminants. Viral genomes were assembled using
+assemble_refbased, discordant specimens with viral genomes were assembled using assemble_denovo
+and additionally visualized using classify_kraken, blastn, blastx, geneious and R.
+A virus was determined to be present if more than
+10 reads mapped to a particular viral genome. Full genomes
+were deposited with GenBank (BioProject accession no. PRJNA802370 ).

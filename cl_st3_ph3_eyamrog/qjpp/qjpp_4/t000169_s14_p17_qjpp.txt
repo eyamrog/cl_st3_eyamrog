@@ -1,0 +1,9 @@
+We developed a new algorithm (AMoSS, Automated Measurement of Spot
+Size) that enables us to calculate the spot size of
+each DBS by an automated approach for large sets of
+images. In addition, the algorithm counts the number of punches
+on each spot and for each sample. The algorithm used
+the punching scheme (presented in Table 2 ) to link
+every punch uniquely, and thus the spot and calculated spot
+size with the corresponding marker set for which the punch
+was analyzed in the laboratory.

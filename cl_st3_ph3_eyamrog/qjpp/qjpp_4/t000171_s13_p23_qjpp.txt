@@ -1,0 +1,11 @@
+DBSs are a favorite for minimally invasive measurements of immune
+function. Relative to other methods, they are easy to collect,
+easy to store, and easy to transport. The use of
+DBS has been reviewed extensively elsewhere (McDade et al., 2007
+) so we will highlight only a few key measures.
+DBS are best utilized for measuring the levels of stable
+and prevalent protein products, while more care must be used
+in measuring proteins that are less concentrated or less stable,
+for example many cytokines. Some examples of stable proteins for
+which enzyme-linked immunosorbent assays (ELISAs) of DBS are particularly useful
+include:

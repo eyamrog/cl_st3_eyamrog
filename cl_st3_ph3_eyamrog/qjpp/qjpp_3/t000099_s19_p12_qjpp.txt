@@ -1,0 +1,16 @@
+Given the lack of evidence for neutrophil programming in the
+circulation, we asked whether their signatures were imprinted when the
+cells reached each tissue, regardless of their origin. To this
+end, we first used a model of parabiosis and compared
+the phenotype of host-derived cells with that of partner-derived cells
+in the BM, blood, spleen, and lung through multi-parametric mass
+cytometry. The parabiosis strategy was necessary to discriminate neutrophils reaching
+the tissue from the circulation (partner derived) from those residing
+or generated in the tissue (host derived). Projection of host
+and partner cells in a tSNE space revealed that neutrophils
+acquired the same tissue-specific profile independent of their host or
+circulating origin ( Figure 4 C). The tissue-specific patterns became
+further evident when comparing the distribution of the cells into
+the different clusters defined by their cytometric profile in each
+tissue ( Figures 4 D and S4 D), suggesting that
+specification of neutrophil signatures occurred in tissues.

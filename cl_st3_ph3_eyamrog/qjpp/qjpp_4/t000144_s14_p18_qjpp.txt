@@ -1,0 +1,26 @@
+(P3) We estimated a participant's patterned exposure to drought and
+patterned exposure to excess precipitation by summing the months during
+which the participant experienced (a) an SPI of −1 or
+lower (a dry month), and (b) an SPI of 1
+or higher (a wet month). As we are interested in
+whether variation in precipitation is experienced as patterned or as
+a rare shock, we divided this sum by the total
+months of the participant's life for which we have precipitation
+data (1949-2012) to get the frequency of wet months and
+dry months during their lifetime. We chose to use dry
+and wet months to estimate (P3) rather than drought intervals
+or excess precipitation intervals (as we did for [P1]) because
+(H3) is specific to the frequency of experience of downsides.
+For example, two individuals may have each experienced 20 months
+of −1 SPI, but perhaps Individual A has experienced four
+intervals of drought, each with 5 months at −1, but
+Individual B has experienced two intervals of drought, each with
+10 months at −1. By the McKee et al. (
+1993 ) definition, Individual A has experienced more droughts than
+Individual B, but both have equal experience with bad months—when
+production is likely to be impacted by low precipitation—such that
+for both A and B, low precipitation is not a
+rare shock. As such, we evaluate H3 using total months
+of experience of −1 or lower SPI (or +1 or
+higher SPI, for excess precipitation) rather than total intervals of
+drought or excess precipitation.

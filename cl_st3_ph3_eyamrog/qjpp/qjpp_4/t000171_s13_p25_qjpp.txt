@@ -1,0 +1,17 @@
+CRP is a favorite measure in human eco-immunology given its
+stability and the availability of established ELISA protocols (i.e., Brindle
+et al., 2010 ; McDade et al., 2004 ). However,
+these protocols were published a number of years ago, and
+some of the antibodies used by them are no longer
+available commercially. The capture antibody used by Brindle et al.,
+2010 is currently available from Meridian (clone C5 anti-CRP MAb,
+M86005M), however, the detection antibody is no longer listed. An
+alternate detection antibody (M01239M) is given as pairable with M86005M
+and will likely work similarly to the original antibody from
+the protocol. However, we would recommend validating this or any
+other replacement antibody pair before using them to analyze DBS
+since it is always possible for confirmational changes, elution buffer
+differences, or matrix effects to make a DBS assay behave
+differently from serum assays. DBS measures of CRP have been
+used extensively in a number of papers (e.g., Blackwell et
+al., 2010 ; Urlacher et al., 2018 ).

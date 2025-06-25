@@ -1,0 +1,9 @@
+For many assays where serum equivalents are desired the inclusion
+of red and white blood cells may be a nuisance.
+However, the fact that DBS contain whole blood presents an
+opportunity as well. Mwaba et al. ( 2003 ) tested
+an ELISA kit for measured CD4 protein in DBS and
+showed a reasonable correspondence between estimated CD4 counts from this
+method, and counts obtained by flow cytometry. Likely estimation of
+other cell types using ELISAs and DBS is possible, though
+we are not aware of publications validating these methods.

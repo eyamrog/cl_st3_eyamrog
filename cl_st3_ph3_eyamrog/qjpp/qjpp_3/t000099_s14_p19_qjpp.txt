@@ -1,0 +1,5 @@
+All the scores are calculated dividing the total amount of
+transcripts belonging to genes from a particular signature by the
+total transcripts of the cell and by the number of
+genes in the signature. The diffusion map was obtained with
+the Seurat suite with 1000 nearest neighbors.

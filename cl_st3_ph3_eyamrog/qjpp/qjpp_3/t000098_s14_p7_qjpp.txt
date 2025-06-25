@@ -1,0 +1,7 @@
+For FRET measurements in cytosolic preparations, HEK293 cells were plated
+on 100 mm dishes (SARSTEDT, Nümbrecht, Germany) to give a
+density of approximately 50%–60%. 8 h later cells were transfected
+with a total amount of 20 μg cDNA (10 μg
+cDNA encoding the gene of interest and 10 μg pcDNA3)
+using calcium phosphate precipitation. 48 h after transfection, cells were
+used for experiments.

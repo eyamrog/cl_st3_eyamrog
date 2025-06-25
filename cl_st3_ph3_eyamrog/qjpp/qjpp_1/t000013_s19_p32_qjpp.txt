@@ -1,0 +1,15 @@
+In November 2021, the SARS-CoV-2 variant lineage Omicron (BA.1) was
+first identified by NGS in South Africa and was quickly
+associated with a rapid increase in case counts (WHO Coronavirus
+(COVID-19) Dashboard) . By December, Omicron was detected in the
+USA and has since driven the recent global COVID-19 wave
+. However, detecting and tracking Omicron has been challenging, with
+NGS results lagging behind by 7–14 d from collection date.
+Although S gene target failure (SGTF) by the TaqPath COVID-19
+Combo Kit (Thermo Fisher Scientific) can be associated with Omicron,
+the failure is not specific to Omicron . The swift
+emergence of Omicron has revealed a need for a nucleic
+acid-based diagnostic with turnaround times similar to RT–qPCR but with
+mutation-specific information that only NGS currently provides. mCARMEN is uniquely
+poised to fulfill this need by providing results the same
+day approximately one week before NGS.

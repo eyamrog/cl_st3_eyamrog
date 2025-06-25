@@ -1,0 +1,13 @@
+Laboratory-based capabilities for assessing water quality have raced ahead. We
+can now measure certain trace contaminants in water in ever
+smaller concentrations, such as parts per trillion. Yet as the
+number of anthropogenic chemicals found in drinking water increased exponentially
+in the 20th century globally, water quality metrics have continued
+to focus on organoleptics and traditional microbiological indicators. Technology for
+point-of-use methods has lagged far behind. As a result, most
+of the world's water supplies are now poorly characterized with
+residents unable to assess potential exposures, particularly in contexts where
+residents regularly choose among multiple water sources. Significant advances are
+needed for portable, low-cost, multi-agent test media that can allow
+communities to play a more meaningful role in monitoring their
+water, and ultimately improve local environmental stewardship and water security.

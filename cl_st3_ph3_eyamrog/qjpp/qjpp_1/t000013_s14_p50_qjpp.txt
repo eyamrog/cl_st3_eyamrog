@@ -1,0 +1,14 @@
+Targets were selected for in vitro specificity testing based on
+closely related viral species with high nucleotide identity. The synthetic
+DNA targets contained the consensus sequence of a particular virus
+that was position-matched to the location of the RVP virus
+of interest targets in the viral genome. Samples were prepared
+for the specificity experiments according to the methods described above
+in ‘General mCARMEN procedures-Preparation of IVT material’; samples were serially
+diluted down to a concentration of 10 and 10 copies
+µl . For all samples prepared for the specificity experiments,
+RNA was extracted from 200 µl of input material using
+the MagMAX DNA Multi-Sample Ultra 2.0 Kit on a KingFisher
+Flex Magnetic Particle Processor. This was run according to the
+extraction, amplification and detection methods described above under ‘RVP testing
+at the Broad Institute research laboratory’.

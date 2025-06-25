@@ -1,0 +1,23 @@
+The half-life of neutrophils in the murine circulation has been
+estimated to be about 12 h ( Pillay et al.,
+2010 54. Pillay, J. ∙ den Braber, I. ∙ Vrisekoop,
+N. ... In vivo labeling with 2H2O reveals a human
+neutrophil lifespan of 5.4 days Blood. 2010; 116 :625-627 Crossref
+Scopus (629) PubMed Google Scholar ), but it remains unknown
+in tissues. To determine the lifetimes in peripheral tissues, we
+first used a model of parabiosis in which neutrophils derived
+from the partner mice were quantified after separation of the
+parabiotic partners (thereby interrupting the supply of partner-derived cells), and
+their lifetimes estimated by the disappearance kinetics from each tissue
+( Figures 1 A and S1 A). With the exception
+of the bone marrow (BM), we found rapid decline in
+all tissues with plateaus reached as early as day 1
+in lung and spleen and by day 4 in blood
+and liver ( Figure 1 A). Although inflammatory artifacts induced
+by surgical separation could have extended the life of neutrophils
+in some tissues ( Summers et al., 2010 66. Summers,
+C. ∙ Rankin, S.M. ∙ Condliffe, A.M. ... Neutrophil kinetics
+in health and disease Trends Immunol. 2010; 31 :318-324 Full
+Text Full Text (PDF) Scopus (823) PubMed Google Scholar ),
+this result suggested lifetimes of 1 day or less for
+most tissues.

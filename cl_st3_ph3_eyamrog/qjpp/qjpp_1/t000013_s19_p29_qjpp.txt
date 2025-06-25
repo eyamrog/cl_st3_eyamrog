@@ -1,0 +1,8 @@
+For clinical relevance, we developed an automated variant calling procedure
+that evaluates the mutation-specific signal in SARS-CoV-2-positive patient specimens and
+returns a variant lineage result (Supplementary Fig. 6a ; described
+in the Methods ). For some mutations at the same
+or similar genomic position, we observed cross-reactive signals that we
+overcame by comparing the maximum fluorescence ratios between those mutations
+and assigning the positive call to the higher of the
+two (Supplementary Fig. 6b ).

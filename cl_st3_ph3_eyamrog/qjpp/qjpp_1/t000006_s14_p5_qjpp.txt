@@ -1,9 +1,0 @@
-Secondary endpoints were PFS and OS as well as safety,
-given that panitumumab is routinely administered to patients with CRC.
-Translational exploratory objectives were aimed at studying the molecular determinants
-of response and resistance to study treatment and included molecular
-characterization of longitudinal liquid biopsies collected during the treatment. Time-to-event
-variables were estimated using the Kaplan–Meier method, and the log-rank
-test was used for testing the null hypothesis of no
-difference among curves. Analyses were performed with SAS statistical software,
-version 9.4.

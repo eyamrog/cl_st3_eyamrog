@@ -1,0 +1,21 @@
+Preparation and histopathological examination of FFPE samples was performed by
+pathologists at the local sites per standard local procedures, and
+final review and interpretation was performed centrally by an independent
+board-certified pathologist specialized in liver diseases. The review was performed
+without the presence of clinical information and in a blinded
+fashion. When available, on-slide controls were reviewed for comparison. Evaluation
+of liver biopsy samples was made with reference to published
+scoring/staging systems for dysplasia, nonalcoholic fatty liver disease , and
+inflammation and fibrosis . Slides were reviewed by physical glass
+microscopy and secondarily by digitally scanned versions of the biopsy
+samples. H&E was used to stain for nuclei and cytoplasm.
+Periodic acid-Schiff stain was used to detect glycogen storage or
+α1-anti-trypsin (A1AT) globules, and diastase-Periodic acid-Schiff was used to remove
+glycogen and enhance detection of A1AT globules. Masson’s trichrome was
+used to stain for type 1 collagen to detect the
+presence and distribution of reactive fibrosis resulting from liver injury,
+orcein was used to stain for copper-binding protein and hepatitis
+B antigen, and Perl’s stain was used to detect hemosiderin,
+an insoluble form of iron. Slides were imaged on a
+Leica Aperio AT2 DX whole-slide scanning system at ×20 and
+were analyzed on QuPath v0.2.3.

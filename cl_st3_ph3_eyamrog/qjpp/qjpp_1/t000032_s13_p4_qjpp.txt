@@ -1,0 +1,13 @@
+Many see reproducibility as a nonissue, upon first consideration. How
+could it be that applying the original computer code to
+the original data set would not produce the original results?
+The practical reality of modern research, though, is that many,
+even simple, results depend on a precise record of procedures
+and processing and the order in which they occur. Furthermore,
+many statistical algorithms have many tuning parameters that can dramatically
+change the results if they are not inputted exactly the
+same way as was done by the original investigators (
+21 ). If any of these myriad details are not
+properly recorded in the code, then there is a significant
+possibility that the results produced by others will differ from
+the original investigators’ results.

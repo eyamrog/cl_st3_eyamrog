@@ -1,0 +1,9 @@
+The rarity of pLoF variants in LRRK2 , combined with
+the relatively low prevalence of PD, prevents direct assessment of
+whether LRRK2 inhibition reduces the incidence of PD with current
+sample sizes (Supplementary Table 5 ). Future cohorts with many
+more sequenced and phenotyped individuals (probably millions of samples) will
+be required to answer this question. As such, our study
+focuses entirely on whether partial genetic LRRK2 inactivation has broader
+phenotypic consequences that might correspond to adverse effects of chronic
+administration of LRRK2 inhibitors.

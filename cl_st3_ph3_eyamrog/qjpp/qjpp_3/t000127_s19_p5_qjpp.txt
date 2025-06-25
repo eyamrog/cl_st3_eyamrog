@@ -1,0 +1,9 @@
+We further monitored the pH effects on the RGF1 receptor
+quadruple mutant rgi1,2,3,4 . The FC or DCCD treatment and
+different pH conditions were unable to induce inhibition of RAM
+size in rgi1,2,3,4 ( Figures 3 I–3L). Together with the
+finding that DCCD had no effect on RAM size in
+aqc1-1 , these results suggest that alkalinization-induced RAM growth inhibition
+is mainly achieved through RGF1 signaling and that RAM growth
+becomes largely independent of pH without an intact RGF1 signaling
+pathway.

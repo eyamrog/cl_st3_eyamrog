@@ -1,0 +1,26 @@
+To address the potential impact of TREM2 on immune responses
+to tumors, we chose mouse tumor models known to be
+associated with a microenvironment infiltrated by macrophages expressing TREM2. We
+first analyzed an MCA-induced sarcoma cell line (MCA/1956) in WT
+and Trem2 –/– mice. MCA/1956 belongs to a panel of
+MCA-induced sarcomas known as progressors. Since these tumors were developed
+in immunocompetent WT mice, their immunogenic profiles were edited by
+the immune system, and hence they grow unopposed when transplanted
+into naive syngeneic WT hosts ( Alspach et al., 2019
+2. Alspach, E. ∙ Lussier, D.M. ∙ Miceli, A.P. ...
+MHC-II neoantigens shape tumour immunity and response to immunotherapy Nature.
+2019; 574 :696-701 Crossref Scopus (517) PubMed Google Scholar ;
+Schreiber et al., 2011 39. Schreiber, R.D. ∙ Old, L.J.
+∙ Smyth, M.J. Cancer immunoediting: integrating immunity’s roles in cancer
+suppression and promotion Science. 2011; 331 :1565-1570 Crossref Scopus (4781)
+PubMed Google Scholar ; Shankaran et al., 2001 40. Shankaran,
+V. ∙ Ikeda, H. ∙ Bruce, A.T. ... IFNgamma and
+lymphocytes prevent primary tumour development and shape tumour immunogenicity Nature.
+2001; 410 :1107-1111 Crossref Scopus (2254) PubMed Google Scholar ).
+These tumors have recently been shown to be infiltrated by
+a variety of macrophage subsets ( Gubin et al., 2018
+17. Gubin, M.M. ∙ Esaulova, E. ∙ Ward, J.P. ...
+High-Dimensional Analysis Delineates Myeloid and Lymphoid Compartment Remodeling during Successful
+Immune-Checkpoint Cancer Therapy Cell. 2018; 175 :1443 Full Text Full
+Text (PDF) Scopus (37) PubMed Google Scholar ), many of
+which express TREM2 (unpublished data).

@@ -1,0 +1,14 @@
+At MGH, archived clinical specimens had been evaluated at the
+time of collection using one of two comparator assays: Cepheid
+Xpert Xpress SARS-CoV-2/Flu/RSV multiplexed assay or BioFire RP2.0 multiplexed assay
+(Extended Data Fig. 7 and Supplementary Table 5 ). These
+included 166 specimens with 137 total viral clinical results: 31
+FLUAV, 30 SARS-CoV-2, 30 HRSV, 29 FLUBV, 8 HMPV, 5
+HCoV-NL63, 1 FLUBV and HCoV-NL63 coinfection, 1 HCoV-HKU1, 1 HCoV-OC43
+and 30 clinically negative. Given that these specimens can be
+degraded by multiple freeze–thaw cycles, we concurrently tested all specimens
+by BioFire RP2.0 or TaqPath COVID-19 Combo Kit. We also
+supplemented this evaluation with 30 contrived samples for each of
+the following viruses for which we did not have enough
+positive specimens: HCoV-HKU1, HCoV-OC43, HCoV-NL63, HPIV-3 and HMPV (described in
+the Methods ), for a total of 150 contrived samples.

@@ -1,9 +1,0 @@
-First, to evaluate the efficacy of ION363 in lowering FUS
-levels in vivo in the mouse, we administered a single
-20-μg dose of ION363 via ICV injection to newborn (postnatal
-day 1 (P1)) wild-type and P517/WT animals. Control animals received
-an identical injection of a non-targeted control (NTC) ASO. Western
-immunoblot analysis of brain and spinal cord of 1-month-old ASO-treated
-animals showed an overall decrease in both wild-type and mutant
-FUS protein to approximately 20–50% of the levels observed in
-matched controls (Fig. 4a,b ).

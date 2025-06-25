@@ -1,0 +1,7 @@
+We designed this panel according to the methods described above
+under ‘Respiratory Panel-Design’ for these nine viruses: SARS-CoV-2, HCoV-HKU1, HCoV-OC43,
+HCoV-NL63, FLUAV/FLUAV-g4, FLUBV, HPIV-3, HRSV and HMPV, with the addition
+of an RNase P primer pair and crRNA. RNase P
+primers and crRNAs were designed within the same region of
+the gene as the CDC RT–qPCR assay (Supplementary Table 4
+).

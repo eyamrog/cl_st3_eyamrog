@@ -1,0 +1,15 @@
+Along with defining a subgroup of patients with stage II
+colon cancer who benefit from adjuvant therapy, defining a subgroup
+in whom treatment can be avoided with minimal risk of
+recurrence is also an important goal. To this end, our
+results indicated an overall very low risk of recurrence in
+untreated patients who were ctDNA-negative, with 3-year recurrence-free survival of
+92.5%. Given the current focus of using clinicopathological risk to
+select patients with stage II colon cancer for adjuvant therapy,
+we explored outcomes among patients with high-risk or low-risk disease.
+Most notable was the 3-year recurrence-free survival of 96.7% among
+patients with low-risk disease, indicating that adjuvant therapy should not
+be considered for ctDNA-negative patients who are at clinicopathological low
+risk. This is an important observation, because in routine clinical
+practice adjuvant chemotherapy is still administered to some patients at
+low risk (11% in our standard-management group), particularly younger patients.

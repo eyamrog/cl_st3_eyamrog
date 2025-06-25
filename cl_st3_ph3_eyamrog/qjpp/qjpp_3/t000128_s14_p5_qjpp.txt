@@ -1,0 +1,3 @@
+Yeast strains for each haploid yeast strain (MATa/ɑ) were gifted
+by David Younger and the Klavins Lab. Yeast strains were
+grown at 30°C in YPD or Yeast SDO media.

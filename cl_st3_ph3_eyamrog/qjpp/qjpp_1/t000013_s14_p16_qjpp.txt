@@ -1,0 +1,3 @@
+We followed the CARMEN v.1 platform for two-step reverse transcription
+amplification, which was performed first by complementary DNA synthesis and
+then by PCR.

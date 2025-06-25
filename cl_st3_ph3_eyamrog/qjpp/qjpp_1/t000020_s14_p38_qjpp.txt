@@ -1,0 +1,6 @@
+To control for population structure we restricted our analyses to
+participants with >97% European ancestry, but the results did not
+qualitatively change when we dropped this restriction. We also tested
+associations using only individuals whose carrier status was confirmed by
+Sanger sequencing, but this also did not result in any
+meaningful difference.

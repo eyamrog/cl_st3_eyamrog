@@ -1,0 +1,26 @@
+SARS-CoV-2 uses human ACE2 as its cellular receptor but not
+the mouse ACE2 ( Hoffmann et al., 2020; Letko et
+al., 2020; Zhou et al., 2020 13. Hoffmann, M. ∙
+Kleine-Weber, H. ∙ Schroeder, S. ... SARS-CoV-2 cell entry depends
+on ACE2 and TMPRSS2 and is blocked by a clinically
+proven protease inhibitor Cell. 2020; 181 :271-280.e8 Full Text Full
+Text (PDF) Scopus (14005) PubMed Google Scholar 15. Letko, M.
+∙ Marzi, A. ∙ Munster, V. Functional assessment of cell
+entry and receptor usage for SARS-CoV-2 and other lineage B
+betacoronaviruses Nat. Microbiol. 2020; 5 :562-569 Crossref Scopus (2127) PubMed
+Google Scholar 35. Zhou, P. ∙ Yang, X.L. ∙ Wang,
+X.G. ... A pneumonia outbreak associated with a new coronavirus
+of probable bat origin Nature. 2020; 579 :270-273 Crossref Scopus
+(14925) PubMed Google Scholar ). To better study the pathogenesis
+of SARS-CoV-2, we initiated an experimental infection using HFH4-hACE2 (here
+after hACE2) transgenic mice. The HFH4-hACE2 mice were intranasally infected
+with 3 × 10 4 TCID 50 virus each and
+sacrificed to collect tissue and blood samples at 1, 3,
+5, and 7 days post-infection (DPI) ( Figure 1 A).
+Four mice (two males and two females) were used as
+control animals. In the infected group, four mice were excluded
+for endpoint data analysis, in which two failed to be
+infected (negative for viral RNA in all tissues), and another
+two died resulting from surgical complications ( Table S1 ).
+Mouse peripheral blood was used for routine blood and biochemistry
+analysis.

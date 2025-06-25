@@ -1,0 +1,12 @@
+Before the completion of SURPASS-4 and SURPASS J-mono, an interim
+analysis was performed for regulatory purposes. This analysis included 116
+participants who had experienced at least one component of the
+MACE-4 composite endpoint. Once weekly tirzepatide and treatment exposure of
+up to 104 weeks (median follow-up of 55 weeks) resulted
+in an HR of 0.81 (97.85% CI, 0.52–1.26) for the
+pooled tirzepatide group compared to the pooled comparator group from
+116 composite MACE-4 endpoints (pooled tirzepatide: 60 (1.37 per 100
+person-years) and pooled comparator: 56 (1.60 per 100 person-years)) and,
+therefore, met the criteria that treatment with tirzepatide was not
+associated with excess cardiovascular risk and initiated early close-out of
+SURPASS-4.

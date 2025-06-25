@@ -1,0 +1,18 @@
+Heart rate monitoring has been used as a measurement of
+physical activity for decades (Spurr et al., 1988 ; Wareham,
+Hennings, Prentice, & Day, 1997 ). Typically, heart rate has
+been used to estimate total energy expenditure or time spent
+at higher physical activity intensities (eg, MVPA) based on individually-calibrated
+thresholds that differentiate rest from higher-intensity movement (flex-HR method; [Spurr
+et al., 1988 ]). Since then, heart rate monitoring has
+also been used for the measurement of sedentary time, defined
+as daily time spent below the flex-HR threshold (Helmerhorst, Wijndaele,
+Brage, Wareham, & Ekelund, 2009 ). The validity of heart
+rate monitoring is low at lesser movement intensities, as it
+is particularly susceptible to fluctuations caused by non-movement factors such
+as ambient temperature and stress levels (Livingstone, 1997 ). While
+heart rate has been shown to be significantly higher while
+standing compared to sitting in controlled laboratory conditions (Gao et
+al., 2017 ; Judice et al., 2015 ), it is
+unclear whether heart rate monitoring can accurately differentiate postures in
+uncontrolled free-living conditions.

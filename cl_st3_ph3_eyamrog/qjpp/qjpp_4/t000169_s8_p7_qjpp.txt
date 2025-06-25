@@ -1,0 +1,13 @@
+We investigate the impact of, and the large variations in,
+spot size on the marker-value levels of different biomarkers assayed
+from the DBS samples, based on the about 24 000
+field-collected SHARE DBS samples. We show that spot size is
+associated with the raw biomarker values, while controlling for other
+environmental and sampling factors. We also compare the exact measures
+made by the new algorithm to human-eye estimation, guided by
+the preprinted circles on the collection card, by dichotomization of
+the spots depending on their sizes. Based on our findings
+we conclude that (i) spot size measures should be considered
+when working with biomarker data derived from fieldwork-collected, smaller than
+optimal DBS samples and (ii) an exact measurement of spot
+size is superior to mere size estimation.

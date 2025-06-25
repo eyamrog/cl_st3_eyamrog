@@ -1,0 +1,8 @@
+Humidity protection during shipment: The DBS were shipped in a
+plastic bag with a sachet containing molecular sieve as desiccant,
+which absorbs humidity faster than Silica gel. The indicator for
+humidity protection consisted of two dummy variables: one for a
+not tightly closed plastic bag containing the DBS sample and
+one for a missing desiccant inside the bag. Information on
+complete or missing components was registered for each sample on
+arrival at the biobank.

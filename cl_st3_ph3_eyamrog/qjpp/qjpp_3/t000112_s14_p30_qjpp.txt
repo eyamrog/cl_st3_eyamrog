@@ -1,0 +1,8 @@
+We used BLASTn to align nucelotide assemblies from case samples
+to control samples. We used a threshold of 8,000 base
+pairs and 99.99% identity as a minimum to consider two
+sequences homologous. This threshold was chosen to be sensitive without
+solely capturing conserved regions. We identified all connected groups of
+homologous sequences and found approximate taxonomic identifications by aligning contigs
+to NCBI-NT using BLASTn searching for 90% nucleotide identity over
+half the length of the longest contig in each group.

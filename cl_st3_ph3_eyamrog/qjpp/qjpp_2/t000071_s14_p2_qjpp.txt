@@ -1,9 +1,0 @@
-Trial enrollment began on March 17, 2020, with an eligibility
-threshold to enroll within 3 days after exposure; the objective
-was to intervene before the median incubation period of 5
-to 6 days. Because of limited access to prompt testing,
-health care workers could initially be enrolled on the basis
-of presumptive high-risk exposure to patients with pending tests; however,
-on March 23, eligibility was changed to exposure to a
-person with a positive polymerase-chain-reaction (PCR) assay for SARS-CoV-2, with
-the eligibility window extended to within 4 days after exposure.

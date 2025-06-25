@@ -1,0 +1,23 @@
+The Be He@lthy Be Mobile (BHBM) program, a collaboration between
+the International Telecommunications Union and the WHO, established in 2012,
+provides support for governments on the mechanics of effective implementation
+and scale-up of mHealth initiatives ( 81 ). The program
+focuses on the development of handbooks designed to foster skill
+development and on the collaboration between the government and public
+sector to implement practical steps for scale-up ( 82 ).
+To date, BHBM has launched mCessation (or mTobaccoCessation) ( 83
+), mDiabetes ( 85 ), mHypertension ( 90 ), mTB-Tobacco
+( 88 ), mDementia ( 91 ), mAging ( 87
+), mCervical Cancer ( 84 ), and mBreathefreely (for asthma
+and chronic obstructive pulmonary disease) ( 86 ). A handbook
+to guide the development of creating personas to enhance engagement
+in mHealth is also available ( 89 ). Handbooks are
+designed to be practical user guides to cover key areas,
+including the context (operations management), content (message development or adaptation),
+recruitment, technologies interface, evaluation, and monitoring. Regardless of whether an
+mCessation program is to be developed from scratch, or adapted
+from a prevalidated version, BHBM's approach reflects that any mHealth
+initiative is doomed without early, consistent, and appropriate effort to
+build whole-system capabilities and commitment from the implementers [government or
+public-private partnerships (PPPs)] to promote the longer-term benefits ( 41
+).

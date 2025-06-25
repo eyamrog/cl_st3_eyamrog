@@ -1,0 +1,2 @@
+Implausible values for drying time (234 obs.), shipment time (235
+obs.), and outside temperature (183 obs.) are set to missing.

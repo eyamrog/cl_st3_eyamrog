@@ -1,0 +1,17 @@
+Specific spatial patterning of different specialized cell types is a
+hallmark of human tissue, where the organization enables functions such
+as nutrient exchange and cell signaling ( Heller and Fuchs,
+2015 28. Heller, E. ∙ Fuchs, E. Tissue patterning and
+cellular mechanics J. Cell Biol. 2015; 211 :219 The Rockefeller
+University Press Crossref Scopus (0) PubMed Google Scholar ). We
+hypothesized that, by using a “core” cell expressing a single
+helixCAM followed by sequential incubation with “layer” cells expressing two
+helixCAMs, it would be possible to replicate complex layers of
+cells similar to those found in human tissues. To this
+end, we selected the sg30 mCherry cell as the “core”
+cell and created three intermediate “layer” cell types, each expressing
+two orthogonal helixCAMs (sg61 + sg88 eBFP2 , SG83 +
+P9 iRFP670 , P10 + Z18 eGFP ). The goal
+was to form stable inner layers using the most orthogonal
+helixCAMs while relegating the more promiscuous Z17 for the outer
+layer (Z17 eCFP ) ( Figure 5 A).

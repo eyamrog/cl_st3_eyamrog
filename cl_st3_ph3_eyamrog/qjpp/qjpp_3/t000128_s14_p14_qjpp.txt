@@ -1,0 +1,9 @@
+helixCAM interactions in K562 cells were tested as follows. 2x10
+5 of two distinct K562 helixCAM cell lines were co-cultured
+in a low-adherence 24-well plate (Corning 3473) in culture media
+with 500 μg/mL doxycycline added. Cells were incubated for 48
+h, then either mounted using a #1.5 glass coverslip for
+widefield imaging or embedded in low melting point agarose (ThermoFisher
+16,520,050) for confocal imaging using wide-bore pipette tips (Rainin 30,389,191).
+For multi-pair co-cultures, the same process, including the number of
+cells of each line, was followed.

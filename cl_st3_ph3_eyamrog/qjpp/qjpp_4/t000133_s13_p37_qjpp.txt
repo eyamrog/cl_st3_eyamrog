@@ -1,0 +1,16 @@
+Low cost options for measuring turbidity include the Jackson candle
+and the turbidity tube, both of which have limited sensitivity
+and are not appropriate for field testing (WHO, 2017a ).
+The gold standard for measuring turbidity is a battery-operated turbidimeter,
+which can cost from $350 to $1000 plus the cost
+of glass vials, and works by electronically measuring the refraction
+of light through a water sample via a photodiode. The
+turbidimeter usually comes precalibrated; the operator fills a turbidity vial,
+wipes it clean of any fingerprints or other marks with
+a lint-free cloth, then inserts the vial into the turbidimeter's
+cell compartment, closes the compartment cover, selects any desired signal
+averaging procedures, and the final measurement is displayed in nephelometric
+turbidity units (NTU). The WHO standard for turbidity is ≤5
+NTU, and ideally <1 NTU (WHO, 2017b ). The speed,
+accuracy, and portability of the turbidimeter are important tradeoffs to
+device cost.

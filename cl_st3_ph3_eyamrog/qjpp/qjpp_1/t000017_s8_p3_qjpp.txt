@@ -1,0 +1,14 @@
+Avapritinib (BLU-285, Blueprint Medicines Corporation) is a new, selective type
+1 KIT inhibitor with high potency for KIT D816V .
+The US Food and Drug Administration (FDA) approved avapritinib in
+June 2021 for adult patients with AdvSM, including patients with
+ASM, SM-AHN and MCL. It was also recently approved in
+the United States for the treatment of adults with unresectable
+or metastatic gastrointestinal stromal tumor (GIST) harboring platelet-derived growth factor
+receptor alpha ( PDGFRA ) exon 18 mutations at a
+recommended starting dose of 300 mg once daily (QD), based
+on dose-escalation and dose-expansion trials that evaluated efficacy and safety
+in this setting . We describe the results of a
+phase 1 international, multicenter, open-label study (EXPLORER, NCT02561988 ) evaluating
+the safety, pharmacokinetics (PK), efficacy and patient-reported outcomes (PROs) of
+avapritinib in adult patients with AdvSM and other myeloid malignancies.

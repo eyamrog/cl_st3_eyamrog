@@ -1,0 +1,6 @@
+We aimed to measure mortality and longevity with high spatial
+and temporal granularity. We used vital registration data with information
+on location of residence and applied Bayesian statistical methods to
+analyse trends and inequalities in life expectancy and risk of
+death at different ages for 6791 middle-layer super output areas
+(MSOAs) in England, UK, from 2002 to 2019.

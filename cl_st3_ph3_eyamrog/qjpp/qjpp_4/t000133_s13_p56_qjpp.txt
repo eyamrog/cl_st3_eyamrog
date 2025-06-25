@@ -1,0 +1,14 @@
+Water diaries can be used to assess the number of
+liters of water consumed per capita per day (lpcd), but
+there is no universally-accepted cutoff for meeting minimum water needs.
+In order to determine whether or not household water use
+is adequate to meet basic consumption and sanitation needs, it
+is useful to consult WHO guidelines (WHO, 2005 ; World
+Health Organization, & Water, Engineering and Development Centre, 2011 )
+on the number of liters needed per person per day
+for a range of activities and contexts. The United Nations
+Special Rapporteur on the Human Right to Safe Drinking Water
+and Sanitation states that 20 lpcd is needed to reach
+minimum levels of a human right to water, but that
+50 to 100 lpcd is a more appropriate target to
+fulfill the human right to water (United Nations, 2019 ).

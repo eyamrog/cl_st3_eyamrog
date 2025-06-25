@@ -1,0 +1,15 @@
+The science of surveillance has been rapidly evolving in recent
+years ( 40 , 76 ). At the same time,
+improvements in computational skill allow advanced modeling techniques for prediction
+and forecasting by incorporating multiple streams of data and complex
+underlying dynamics. These improvements present new opportunities not only for
+understanding the current situation, referred to as nowcasting, but also
+for forecasting what might happen in future weeks, for example,
+determining when the influenza season will reach a peak. Providing
+reliable forecasts of future influenza activity can be extremely informative
+for allocating health resources and judging public health measures. Figure
+1 illustrates the different steps of tracking, predicting, and forecasting
+influenza activity. In this review, we attempt to address, at
+each step, the potential uses, challenges, and possible research gaps
+that need to be pursued in future courses of tracking,
+predicting, and forecasting influenza virus circulation in the community.

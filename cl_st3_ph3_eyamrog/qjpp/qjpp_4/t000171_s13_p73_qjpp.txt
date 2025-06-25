@@ -1,0 +1,13 @@
+Some immunological measures are likely to be much more variable
+within an individual. McDade et al. ( 2012 ) analyzed
+repeat samples of CRP in an Amazonian population. Even though
+35% had elevated CRP at one timepoint, no participant had
+more than one elevated measure, indicating that these were acute
+elevations rather than chronic elevations. Blackwell et al. ( 2016
+) calculated intra-class correlations for 19 immune measures based on
+repeat samples. Some measures, such as IgE concentration, CD4 counts,
+and CD8 counts were relatively stable across repeat measures, while
+others such as neutrophil count and natural killer cell count
+appeared more labile. The stability of a measure should also
+be considered in study design (repeat vs. single measures) and
+interpretation (see Table 1 ).

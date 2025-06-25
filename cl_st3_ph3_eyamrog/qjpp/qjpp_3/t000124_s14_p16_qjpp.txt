@@ -1,2 +1,0 @@
-canu -assemble -p output.asm -d run1 genomeSize=1.6g maxThreads=40 useGrid=false -pacbio-hifi
-∗ .fastq.

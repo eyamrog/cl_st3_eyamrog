@@ -1,0 +1,10 @@
+Known AMR genes can come from gene families with homologous
+regions of sequence. To reduce spurious mapping from gene homology
+we used BLASTn to align all MegaRes AMR genes against
+themselves. We considered any connected group of genes with an
+average nucleotide identity of 80% across 50% of the gene
+length as a set of potentially confounded genes. We collapsed
+all such groups into a single pseudo-gene with the mean
+abundance of all constituent genes. Before clustering genes we removed
+all genes which were annotated as requiring SNP verification to
+predict resistance.

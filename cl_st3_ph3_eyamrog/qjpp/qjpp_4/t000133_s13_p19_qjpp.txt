@@ -1,0 +1,7 @@
+In terms of measurement, the size of the plasma sample
+used in osmometers varies. Normally there are two standard sizes:
+20 or 250 μL. The smaller specimen size of 20
+μL may artificially elevate the Posm value by 7 mOsm/kg
+(Sollanek, Kenefick, & Cheuvront, 2019 ). This is likely due
+to plasma proteins in the blood, which means that this
+is not an issue for urine osmolality.

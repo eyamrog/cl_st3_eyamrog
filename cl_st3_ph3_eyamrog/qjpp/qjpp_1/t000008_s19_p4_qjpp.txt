@@ -1,0 +1,12 @@
+Following transduction of hepatocytes by the over-sized AAV vector, assembly
+and repair of functional full-length vector genomes is required. The
+viral inverted terminal repeats (ITRs) at each end of the
+vector genome drive recombination through ITR fusion to form stable
+circularized episomal genomes that can persist in the nucleus (Supplementary
+Figs. 1 and 3 ) . We characterized the different
+molecular forms of hFVIII-SQ vector genomes in the cells by
+quantitative, drop-phase droplet digital PCR (ddPCR; Supplementary Fig. 4a )
+and by qualitative Southern blotting analyses performed on DNA isolated
+from biopsy samples that were treated with various DNA digestion
+enzymes, and using custom-generated primers/probe sets (Supplementary Fig. 4b and
+Supplementary Table 1 ).

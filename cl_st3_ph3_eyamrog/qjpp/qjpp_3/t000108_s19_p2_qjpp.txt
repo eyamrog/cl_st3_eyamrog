@@ -1,0 +1,22 @@
+Since the RANKL/RANK/OPG signaling system is the physiological master regulator
+of osteoclast biology and bone resorption, we chose to manipulate
+this system to determine its impact on osteoclast dynamics. Soluble
+RANKL-stimulated osteoclasts were highly dynamic and underwent morphological changes, which
+began within 20 min of sRANKL administration by retracting their
+cellular processes ( Figures 2 A–2D; Video S3 ). In
+this activated state, osteoclasts migrated toward each other and appeared
+to undergo cell fusion to form larger cells ( Figure
+2 E and 2F; Videos S3 and S4 ). A
+limitation of two-photon imaging through intact cortical bone is the
+need to trade off the detection of weak signals from
+fine cellular processes with the saturation of strong signals from
+cell bodies. Therefore, to confirm that the cells do fuse,
+we performed in vitro live cell imaging by confocal microscopy.
+This also showed the fusion of multinucleated osteoclasts to form
+even larger polykaryons ( Figures 2 G and 2H; Video
+S4 ; Jansen et al., 2012 34. Jansen, I.D. ∙
+Vermeer, J.A. ∙ Bloemen, V. ... Osteoclast fusion and fission
+Calcif. Tissue Int. 2012; 90 :515-522 Crossref Scopus (65) PubMed
+Google Scholar ). Thus, sRANKL-stimulated osteoclasts are larger and more
+active than steady-state osteoclasts, both in vivo and in vitro
+.

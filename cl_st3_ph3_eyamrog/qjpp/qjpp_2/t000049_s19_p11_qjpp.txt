@@ -1,0 +1,14 @@
+The analyses done separately in the ELSA and Whitehall II
+studies showed results broadly similar to those in the pooled
+analyses for cognitive performance ( appendix pp 4–5 ) and
+decline ( appendix p 6 ), although differences in level
+of education in these studies were reflected in the estimates.
+In the ELSA study, results were similar to those in
+the low education group in the pooled analyses and in
+the Whitehall II study, results were similar to those in
+the high education group in the pooled analyses. Neither omitting
+respondents with dementia ( appendix pp 7–10 ), limiting years
+of follow-up to 2002–15 ( appendix pp 11–14 ), nor
+using multiple imputation rather than single imputation for missing data
+on level of education ( appendix pp 15–16 ) substantially
+impacted the results.

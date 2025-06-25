@@ -1,0 +1,9 @@
+After validating that the model is accurate enough (weighted F1
+score of 0.78, weighted accuracy of 0.82), we used two
+approaches for assessing feature effect on the outcome of antibody
+evasion: the feature importance as calculated by the trees and
+SHAP values . SHAP values were obtained for each mutation
+in each test set (that is, for each patient separately)
+(Fig. 1 ) and were aggregated to obtain the average
+effect that each feature has on the model’s outcome (Fig.
+1 and Supplementary Figs. 2 and 3 ).

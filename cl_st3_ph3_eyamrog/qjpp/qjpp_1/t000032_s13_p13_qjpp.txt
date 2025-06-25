@@ -1,0 +1,16 @@
+Another goal of reproducible research is to provide a kind
+of audit trail, should one be needed. In fact, one
+could suggest a definition of reproducible research as “research that
+can be checked.” Desiring an audit trail for data analyses
+raises the question of when such an audit trail might
+be used. In general, one might be interested in seeing
+the details of the data and the code for an
+analysis when a researcher is curious about how a specific
+result was reached. Sometimes that curiosity is raised because of
+suspicion of an error in the analysis, but other times
+there is a desire to learn the details of new
+techniques or methodologies ( 21 ). Thus, reproducibility concerns primarily
+the integrity and transparency of the data analysis for an
+investigation. Unlike replication, reproducibility allows for an internal check on
+the results and is not immediately connected to the context
+of the outside world.

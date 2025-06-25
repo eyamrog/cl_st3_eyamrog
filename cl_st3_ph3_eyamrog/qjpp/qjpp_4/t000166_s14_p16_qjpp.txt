@@ -1,8 +1,0 @@
-We applied the assumption of normality and multivariate normality, and
-subsequently a nonparanormal transformation (Liu et al., 2009 ) before
-conducting correlations. The coefficients in Figure 1 were used to
-build unweighted undirected graphs. The analysis revealed that gender had
-to be taken into account when defining the structural model
-of tracing performance. Finally, the four equations were used to
-calculate TPB and TPF , separately for both boys and
-girls.

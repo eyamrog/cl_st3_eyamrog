@@ -1,0 +1,5 @@
+Maternal weight was measured both in early and late pregnancy.
+Maternal height was measured in early pregnancy where possible, but
+at other time points if initially missing. BMI was calculated
+from concurrent height and weight measures where available, but otherwise
+using the available height measurement regardless of timing.

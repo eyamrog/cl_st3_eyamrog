@@ -1,0 +1,6 @@
+The effects of fieldwork conditions other than spot size and
+the effects of respondent characteristics on the biomarker levels are
+presented in Table 7 . Since the effects for the
+fieldwork conditions and respondent characteristics remain similar regardless which spot-size
+information is used in the regression model, Table 7 only
+displays the results from Model 1.

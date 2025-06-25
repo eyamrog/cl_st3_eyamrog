@@ -1,5 +1,0 @@
-The variant transmission parameter is updated to a value relative
-to estimated global variant prevalence at the time point when
-total infections up to that time step in simulation match
-total past infection estimates—that is, following the trend of the
-red line in Fig. 4c .

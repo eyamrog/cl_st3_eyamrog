@@ -1,0 +1,11 @@
+The SuperScript IV One-Step RT–PCR System was used to amplify
+nucleic acids according to the manufacturer’s instructions, using custom primer
+pools in 25-μl reactions. Primer pools were made at 10
+μM. The following thermal cycling conditions were used: (1) reverse
+transcription incubation at 50 °C for 15 min; (2) enzyme
+activation at 98 °C for 2 min; (3) 35–40 cycles
+at 98 °C for 10 s, 60 °C for 10
+s and 72 °C for 1 min 30 s; and
+(4) final extension at 72 °C for 5 min. Amplified
+samples were directly added into the detection reaction or stored
+at −20 °C until use.

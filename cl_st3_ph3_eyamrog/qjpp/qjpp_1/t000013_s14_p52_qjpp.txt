@@ -1,0 +1,9 @@
+Contrived patient samples of the HCoV-HKU1, HCoV-OC43, HCoV-NL63, FLUAV-g4, HPIV-3
+and HMPV viruses were prepared by diluting either viral seed
+stock (HCoV-OC43 and HPIV-3) or template RNA (HCoV-HKU1 and HCoV-NL63).
+See Supplementary Table 10 for viral seed stock vendor details.
+Viral seed stock or template RNA was added to non-pooled
+human specimens (negative for all targets, except RNase P, on
+the RVP panel) at a concentration 2 times the LOD;
+the concentrations for these samples ranged from 10 to 10
+copies µl .

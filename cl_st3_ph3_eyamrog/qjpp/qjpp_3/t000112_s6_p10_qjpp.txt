@@ -1,0 +1,11 @@
+There are three key limitations to this study. First, this
+study exclusively measured DNA, meaning RNA viruses would be excluded,
+as would evidence of transcriptional activity from Bacteria and Archaea.
+Second, this study is unable to identify a large proportion
+of DNA collected. This is at least partly due to
+the highly novel nature of urban microbiomes, and as more
+data are generated, this proportion could be improved. Third, AMR
+genes are often difficult to distinguish from similar genes that
+do not confer resistance (though we have removed genes that
+require SNP-level verification), so our results likely have a degree
+of noise.

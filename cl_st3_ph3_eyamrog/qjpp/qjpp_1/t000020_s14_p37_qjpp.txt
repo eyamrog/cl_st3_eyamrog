@@ -1,0 +1,11 @@
+For the subset of 366 health-related phenotypes (excluding any related
+to diet, drug use, lifestyle and personality), we first restricted
+testing to individuals for whom we had phenotypic data. We
+calculated pairwise identity by descent (IBD) over all individuals using
+a modified version of the IBD64 program and then iteratively
+removed individuals until we were left with a set of
+participants, no two of whom shared >700 cM in IBD.
+We then tested the association between phenotype and carrier status,
+controlling for age, sex, genotyping platform and the first ten
+genetic principle components. We used logistic regression for binary phenotypes
+and linear regression for quantitative phenotypes.

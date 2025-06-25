@@ -1,0 +1,27 @@
+We next characterized the influence of anti-TREM2 on the tumor-immune
+infiltrate by flow cytometry. At an early time point (10
+days after tumor injection), combined blockade of PD-1 and TREM2
+was associated with diminished Ly6C + MHCII – and CD64
++ subsets within the myeloid compartment. Neither anti-PD-1 nor anti-TREM2
+treatment alone promoted significant changes ( Figures 5 D and
+S3 D). At a later time point (24 days after
+tumor injection), in parallel with a considerable shrinkage of the
+tumor volume, anti-TREM2 alone showed a significant impact on the
+myeloid compartment: while the total number of macrophages was unchanged,
+the representation of Ly6C low MHCII – cells, along with
+subsets expressing CD206, CD63, and CD9, was reduced ( Figure
+S3 E). Immunofluorescence analyses of tumor sections confirmed decreased CD206
+expression within the tumor myeloid infiltrate (identified by staining for
+the myeloid marker Iba1) ( Figure S3 F). Mice treated
+with suboptimal anti-PD-1 evinced no obvious changes, likely due to
+the short duration of the treatment. Since mice treated with
+both anti-TREM2 and anti-PD-1 had entirely cleared the tumors, no
+infiltrate could be analyzed. Anti-TREM2 had no obvious impact on
+the representation of lymphoid subsets at early or late time
+points (data not shown). However, analysis of T cell cytokine
+production ex vivo indicated that anti-TREM2 treatment augments IFNγ and
+TNFα production by intra-tumoral CD8 + and CD4 + T
+cells, respectively ( Figure 5 E). Altogether, these data suggest
+that mAb-mediated modulation of TREM2 drives the remodeling of the
+intra-tumor myeloid compartment in a manner that promotes a protective
+T cell response and enhances anti-PD-1 immunotherapy.

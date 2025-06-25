@@ -1,0 +1,14 @@
+A detailed explanation of this workflow can be found in
+Figure S14 . In short, kinetic OD650 read data over
+15 min is first imported into MATLAB. For each well,
+the OD650 is normalized to between 0 and 1, which
+removes the variance from changes in growth rate affecting the
+raw OD650 value. The time it took for each sample
+to reach 0.5 of the normalized OD650 was recorded, which
+we termed t 50 . For each experiment, both an
+uninduced and an induced well containing identical cell types and
+quantity were seeded, and the t 50 measured for the
+induced well was subtracted from that of the uninduced well
+to arrive at a Δt 50 , a measurement of
+the magnitude of the effect of inducing helixCAM expression in
+the cells that positively corresponds with increased affinity.

@@ -1,0 +1,18 @@
+When two species with distinct diffusion coefficients combine, e.g., a
+fast diffusing and a slow diffusing component/bound component, a fast
+broadening STICS function and a slow one overlap. Figures S2
+H and S2I illustrate how this reflects in terms of
+the measured STICS function and recovered MSD, respectively: a first
+rapid increase of MSD is followed by a decrease and
+again an increase, although at a slow pace. This should
+be interpreted in the following way: when the temporal resolution
+of the sampling is high enough, e.g., less than 10
+ms as in Figure S2 I, then rapid ‘jumps’ of
+the molecules can be appreciated. However, once the temporal resolution
+is lower, e.g., above 100 ms, then the fast jumps
+cannot be captured anymore, and we are in the domain
+where the slower diffusing species dominates the MSD. This simulated
+plot represents the scenario observed in Figure 1 for the
+fsk/IBMX stimulated cells, where a fraction of the 8-F-cAMP diffuses
+very rapidly, on the background of a major fraction that
+still moves very slowly.

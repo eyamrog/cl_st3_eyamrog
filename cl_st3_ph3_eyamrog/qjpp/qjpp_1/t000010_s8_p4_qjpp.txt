@@ -1,0 +1,12 @@
+As required by the US Food and Drug Administration (FDA)
+and the European Medicines Agency (EMA) , and to extend
+the safety evaluation in a broader population with T2D, the
+tirzepatide clinical development program for treatment of T2D (SURPASS) was
+also designed to evaluate the drug’s cardiovascular safety in people
+with T2D at low, medium and high cardiovascular risk .
+Therefore, a cardiovascular safety meta-analysis of data, from all phase
+2 and phase 3 clinical trials with planned treatment duration
+of at least 26 weeks and at least one randomized
+comparator arm among adults with T2D, was conducted to assess
+the safety of tirzepatide with regard to major cardiovascular events
+relative to various randomized comparators.

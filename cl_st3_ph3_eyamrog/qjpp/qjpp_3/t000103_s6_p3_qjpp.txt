@@ -1,0 +1,23 @@
+A neutralizing VEEV-specific human mAb similar to EEEV-33, designated F5,
+was characterized previously ( Hunt et al., 2010 45. Hunt,
+A.R. ∙ Frederickson, S. ∙ Maruyama, T. ... The first
+human epitope map of the alphaviral E1 and E2 proteins
+reveals a new E2 epitope with significant virus neutralizing activity
+PLoS Negl. Trop. Dis. 2010; 4 :e739 Crossref Scopus (32)
+PubMed Google Scholar ; Porta et al., 2014 71. Porta,
+J. ∙ Jose, J. ∙ Roehrig, J.T. ... Locking and
+blocking the viral landscape of an alphavirus with neutralizing antibodies
+J. Virol. 2014; 88 :9616-9623 Crossref PubMed Google Scholar ).
+Antibody F5 was isolated using phage display from B cells
+of VEEV-immune donors. This antibody binds to residues 115–119 in
+domain A of the E2 glycoprotein, analogous to those recognized
+by EEEV-33. In contrast to EEEV-33, F5 Fab molecules bind
+this region of VEEV in a radial orientation and occupy
+one third of the binding sites. F5 stabilized the E2
+trimer via intra-spike cross-linking ( Porta et al., 2014 71.
+Porta, J. ∙ Jose, J. ∙ Roehrig, J.T. ... Locking
+and blocking the viral landscape of an alphavirus with neutralizing
+antibodies J. Virol. 2014; 88 :9616-9623 Crossref PubMed Google Scholar
+). The similarity in binding and neutralization activity for two
+human mAbs (EEEV or VEEV) suggests a conserved antigenic site
+(residues 115–120).

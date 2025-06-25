@@ -1,0 +1,16 @@
+The gold standard is to use a digital colorimeter. These
+are handheld, battery-operated devices used to measure free chlorine in
+a variety of field settings and are an effective proxy
+for the efficacy of chlorine-based disinfection, whether by a water
+distribution network or household point-of-use disinfection. The colorimeter works by
+beaming light through a water sample, some of which is
+absorbed by the solution, and electronically measuring the decrease in
+light intensity that strikes a photodiode. The device first needs
+to be configured with a blank reading; once configured, the
+operator simply fills a small vial with a water sample,
+adds a reagent powder pillow, inserts the vial into the
+colorimeter's cell, closes the cell chamber, and results are displayed
+in mg/L (Hach, 2014 ). A digital colorimeter costs ~$400
+to $500, and the 10 ml reagent pillows are available
+in bulk (100 or 1000 units) for ~$0.20/pillow with a
+3 to 5 year shelf life.

@@ -1,0 +1,9 @@
+Our hope is that by making our dataset open and
+easily accessible to other researchers the scientific community can more
+rapidly generate and test hypotheses. One of the core goals
+of the MetaSUB consortium is to build a dataset that
+benefits public health. As the project develops, we want to
+make our data easy to use and access for clinicians
+and public health officials who may not have computational or
+microbiological expertise. We intend to continue to build tooling that
+supports these goals.

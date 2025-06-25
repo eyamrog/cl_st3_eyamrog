@@ -1,0 +1,9 @@
+We calculated mean values and standard deviation scores (SDS) for
+body height, weight, and BMI based on the CDC reference
+(NCHS, 2021 ) and standard deviation (SD) for the mean
+of subscapular and triceps skinfold thickness. We used CDC references
+because WHO references do not allow for calculating SDS beyond
+the age of 10 years. For each location, we tested
+the density distributions of BMI SDS, height SDS (hSDS), weight
+SDS (wSDS), and mean of skinfold thickness for normality by
+Shapiro Wilk Test. T-tests were used for evaluating differences.

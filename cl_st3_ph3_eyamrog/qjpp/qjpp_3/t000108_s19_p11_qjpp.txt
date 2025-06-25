@@ -1,0 +1,27 @@
+To discover hidden classes of cells within the dataset, we
+next asked if a model in which k = 3
+also fitted the data. This analysis showed that triple-positive cells
+from bone (osteoclasts) clustered in one group, triple-positive cells from
+marrow (osteomorphs) clustered in a second group, and single-positive cells
+from both bone and marrow clustered together in a third
+group (with cophenetic coefficient for k = 3 of 0.9875,
+indicating extremely good clustering of the data into three groups)
+( Figure 7 D). These three cell clusters can be
+visualized by their expression of metagenes 1, 2, and 3
+( Figure 7 E). Comparison of triple-positive marrow osteomorphs to
+single-positive macrophage precursors revealed 581 upregulated genes ( Table S1
+). 430 of the 581 (74%) genes upregulated by triple-positive
+marrow osteomorphs were also upregulated by triple-positive osteoclasts, indicating overlap
+in their gene expression profile ( Figure 7 F; Table
+S1 ). On the other hand, these 430 genes comprised
+only 23% of the 1,885 genes upregulated by triple-positive bone
+osteoclasts compared to single-positive macrophage precursors, suggesting that expression of
+a large number of these genes has been downregulated in
+marrow osteomorphs ( Figure 7 F). Osteoclasts expressed higher levels
+of Ctsk and Atp6v0d2 than osteomorphs ( Figure 7 C).
+Interestingly, 151 of the 581 (26%) genes upregulated by osteomorphs
+were not upregulated by osteoclasts ( Figure 7 F). This
+suggests that these two triple-positive cell populations, while similar on
+one level, are distinct on another. These data demonstrate that
+osteomorphs in the marrow, derived from the fission of osteoclasts
+on bone, are transcriptionally distinct from osteoclasts and macrophages.

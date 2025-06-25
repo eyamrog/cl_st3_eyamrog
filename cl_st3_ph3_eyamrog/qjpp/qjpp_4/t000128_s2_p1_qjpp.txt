@@ -1,0 +1,25 @@
+We are extremely grateful to Dr. Roman Jerala, Dr. Tina
+Fink, and Dr. Jana Aupic for sharing and collaborating on
+the engineered CC pairs P3/AP4 and P9/AP10. We are also
+grateful to Dr. David Tirrell and Dr. Bradley Silverman for
+their assistance in selecting Z17/Z18 as the initial CC pair
+and sharing with us their CC-ehaA design for E. coli
+adhesion. We are grateful to Dr. Bridget Baumgartner, Dr. Justin
+Gallivan, Dr. Jesse Dill, and Dr. Joseph Pomerening for helping
+to fund and shape the direction of our work. Thank
+you to Dr. Ron Raines at MIT for the use
+of LC-MS equipment for characterizing the CC-His and CC-GFP-His proteins.
+We thank Dr. Paula Montero Llopis and Ryan Stephansky from
+the HMS MicRoN core facility for their assistance in microscopy
+techniques and maintenance of microscopes. We also thank the HMS
+Immunology Flow Cytometry facility, particularly Chad Araneo, Jeffery Nelson, and
+Meegan Sleeper for training and maintenance of the FACS machines.
+Thank you to Songlei Liu for providing the v-bottom ULA
+plates for HCSRA experiments. We are extremely grateful to Dr.
+Tiffany Dill and John Aach for their help to edit
+the manuscript. Thank you to Emma Taddeo for all of
+her help with the lab’s administrative work, and to Nicole
+D’Aleo for managing the grants. Plasmid design and map image
+generation was done in A Plasmid Editor (ApE). A majority
+of schematic figures made in this work were created with
+BioRender.

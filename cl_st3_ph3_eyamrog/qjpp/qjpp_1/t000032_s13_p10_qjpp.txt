@@ -1,0 +1,19 @@
+Along with computing power, another key advance over the past
+30 years has been the development of the Internet. Claerbout's
+original scheme for distributing data and code to others was
+via CD-ROM discs, which was a perfectly reasonable approach at
+the time. However, the need for a physical medium greatly
+limited the transferability of information to a large audience. With
+the development of the Internet, it became possible for academics
+to distribute data and code to the entire world for
+seemingly minimal cost. This increase in distribution reach changed the
+nature and importance of reproducible research from primarily improving the
+internal efficiency of the lab to allowing others to anonymously
+build on another researcher's work. The Internet dramatically grew the
+size of an investigator's personal scientific community to include many
+members beyond their immediate circle of collaborators. This phenomenon has
+provided significant benefits to science, but some implications could threaten
+the viability of maintaining and supporting reproducible research in the
+long run. Before we consider these implications, we must first
+identify the goals of reproducible research and the problems we
+want reproducibility to solve.

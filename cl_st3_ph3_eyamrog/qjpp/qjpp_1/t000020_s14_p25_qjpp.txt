@@ -1,0 +1,5 @@
+To assess lung function we used Global Lung Initiative 2012
+reference equation z scores standardized for age, sex and height
+for FEV 1 , FVC and FEV 1 /FVC ratio
+measured using spirometry. These calculations are available in field codes
+20256, 20257 and 20258 and were described previously .
